@@ -1,0 +1,29 @@
+- file: Housings_CDFP_RUS.pretty/402.16-18.kicad_mod
+  footprint:
+    description: "\xD0\u017E\xD0\xA1\xD0\xA2 4.010.030-81 \xD1\u2021.2"
+    libraryLink: 402.16-18
+    number_of_pads: 16
+  footprint_library_directory: footprint_library_owner/schemu_Housings_CDFP_RUS.pretty
+  footprint_library_directory_flat: footprints_flat/schemu_housings_cdfp_rus_402_16_18/working
+  github_path: http://github.com/schemu/Housings_CDFP_RUS.pretty/blob/master/402.16-18.kicad_mod
+  links:
+    github_src: http://gitlab.com/schemu/Housings_CDFP_RUS.pretty/blob/master/402.16-23.kicad_mod
+    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
+    oomp_bot: footprints/schemu_housings_cdfp_rus_402_16_18/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/schemu_housings_cdfp_rus_402_16_18/working
+    oomp_doc: footprints/footprints/schemu/Housings_CDFP_RUS/402.16-18/working/
+    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/schemu/Housings_CDFP_RUS/402.16-18/working
+    oomp_src_flat: footprints_flat/footprints_flat/schemu_housings_cdfp_rus_402_16_18/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/schemu_housings_cdfp_rus_402_16_18/working
+    oomp_src_folder: footprints_folder/footprints_folder/schemu/Housings_CDFP_RUS/402.16-18/working
+    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/schemu/Housings_CDFP_RUS/402.16-18/working
+  name: Housings_CDFP_RUS.pretty
+  oomp_key: oomp_schemu_housings_cdfp_rus_402_16_18
+  oomp_key_simple: schemu_housings_cdfp_rus_402_16_18
+  owner: schemu
+  repo:
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
+  url: http://github.com/schemu/Housings_CDFP_RUS.pretty

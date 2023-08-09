@@ -1,0 +1,28 @@
+- file: libraries/kicad-footprints/Capacitor_SMD.pretty/CP_Elec_CAP-XX_DMF3Zxxxxxxxx3D.kicad_mod
+  footprint:
+    description: "5.5V, 470mF supercapacitor, 45mohm, -40\xC2\xBAC to +70\xC2\xBA\
+      C, https://www.cap-xx.com/wp-content/uploads/datasheets/CAP-XX-DMF470mF-Datasheet.pdf"
+    libraryLink: CP_Elec_CAP-XX_DMF3Zxxxxxxxx3D
+    number_of_pads: 3
+  footprint_library_directory: footprint_library_owner/kicad_libraries/kicad-footprints/
+  footprint_library_directory_flat: footprints_flat/kicad_capacitor_smd_cp_elec_cap_xx_dmf3zxxxxxxxx3d/working
+  github_path: http://github.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Capacitor_SMD.pretty/CP_Elec_CAP-XX_DMF3Zxxxxxxxx3D.kicad_mod
+  links:
+    github_src: http://gitlab.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod
+    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
+    oomp_bot: footprints/kicad_capacitor_smd_cp_elec_cap_xx_dmf3zxxxxxxxx3d/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_capacitor_smd_cp_elec_cap_xx_dmf3zxxxxxxxx3d/working
+    oomp_doc: footprints/footprints/kicad/Capacitor_SMD/CP_Elec_CAP-XX_DMF3Zxxxxxxxx3D/working/
+    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Capacitor_SMD/CP_Elec_CAP-XX_DMF3Zxxxxxxxx3D/working
+    oomp_src_flat: footprints_flat/footprints_flat/kicad_capacitor_smd_cp_elec_cap_xx_dmf3zxxxxxxxx3d/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_capacitor_smd_cp_elec_cap_xx_dmf3zxxxxxxxx3d/working
+    oomp_src_folder: footprints_folder/footprints_folder/kicad/Capacitor_SMD/CP_Elec_CAP-XX_DMF3Zxxxxxxxx3D/working
+    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Capacitor_SMD/CP_Elec_CAP-XX_DMF3Zxxxxxxxx3D/working
+  name: libraries/kicad-footprints/
+  oomp_key: oomp_kicad_capacitor_smd_cp_elec_cap_xx_dmf3zxxxxxxxx3d
+  oomp_key_simple: kicad_capacitor_smd_cp_elec_cap_xx_dmf3zxxxxxxxx3d
+  owner: kicad
+  repo:
+    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
+    message: Not Found
+  url: https://gitlab.com/kicad/libraries/kicad-footprints

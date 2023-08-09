@@ -1,18 +1,9 @@
-
+import oomlout_oomp_footprint_bot as oom_ofb
 
 
 def main(**kwargs):
-    pass
-    source_directory = "all_the_kicad_footprints_one_library"
-    destination = "c:/gh/oomlout_oomp_footprint_all_the_kicad_footprints"
-
-    import os
-    import shutil
-    #make destination if it doesn't exist
-    if not os.path.exists(destination):
-        os.makedirs(destination)
-    shutil.copytree(source_directory, destination, dirs_exist_ok=True)
-
+    oom_ofb.make_temporary_library()
+    
 
 
 

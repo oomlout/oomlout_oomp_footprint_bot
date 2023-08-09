@@ -1,0 +1,29 @@
+- file: SH_BGA.pretty/TI_MicroStar_Junior_BGA_2.5x2.5mm.kicad_mod
+  footprint:
+    description: null
+    libraryLink: TI_MicroStar_Junior_BGA_2.5x2.5mm
+    number_of_pads: 15
+  footprint_library_directory: footprint_library_owner/StefanHamminga_SH_BGA.pretty
+  footprint_library_directory_flat: footprints_flat/stefanhamminga_sh_bga_ti_microstar_junior_bga_2_5x2_5mm/working
+  github_path: http://github.com/StefanHamminga/SH_BGA.pretty/blob/master/TI_MicroStar_Junior_BGA_2.5x2.5mm.kicad_mod
+  links:
+    github_src: http://gitlab.com/StefanHamminga/SH_BGA.pretty/blob/master/TI_MicroStar_Junior_BGA_2.5x2.5mm.kicad_mod
+    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
+    oomp_bot: footprints/stefanhamminga_sh_bga_ti_microstar_junior_bga_2_5x2_5mm/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stefanhamminga_sh_bga_ti_microstar_junior_bga_2_5x2_5mm/working
+    oomp_doc: footprints/footprints/StefanHamminga/SH_BGA/TI_MicroStar_Junior_BGA_2.5x2.5mm/working/
+    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/StefanHamminga/SH_BGA/TI_MicroStar_Junior_BGA_2.5x2.5mm/working
+    oomp_src_flat: footprints_flat/footprints_flat/stefanhamminga_sh_bga_ti_microstar_junior_bga_2_5x2_5mm/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/stefanhamminga_sh_bga_ti_microstar_junior_bga_2_5x2_5mm/working
+    oomp_src_folder: footprints_folder/footprints_folder/StefanHamminga/SH_BGA/TI_MicroStar_Junior_BGA_2.5x2.5mm/working
+    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/StefanHamminga/SH_BGA/TI_MicroStar_Junior_BGA_2.5x2.5mm/working
+  name: SH_BGA.pretty
+  oomp_key: oomp_stefanhamminga_sh_bga_ti_microstar_junior_bga_2_5x2_5mm
+  oomp_key_simple: stefanhamminga_sh_bga_ti_microstar_junior_bga_2_5x2_5mm
+  owner: StefanHamminga
+  repo:
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
+  url: http://github.com/StefanHamminga/SH_BGA.pretty

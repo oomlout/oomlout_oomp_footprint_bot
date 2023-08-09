@@ -1,0 +1,29 @@
+- file: CAD.KiCad.Libs/modules/GBD-SMD.pretty/TFML-105-02-L-D.kicad_mod
+  footprint:
+    description: null
+    libraryLink: TFML-105-02-L-D
+    number_of_pads: 10
+  footprint_library_directory: footprint_library_owner/ASoftTech_CAD.KiCad.Libs
+  footprint_library_directory_flat: footprints_flat/asofttech_gbd_smd_tfml_105_02_l_d/working
+  github_path: http://github.com/ASoftTech/CAD.KiCad.Libs/blob/master/modules/GBD-SMD.pretty/TFML-105-02-L-D.kicad_mod
+  links:
+    github_src: http://gitlab.com/ASoftTech/CAD.KiCad.Libs/blob/master/modules/w_switch.pretty/switch_mmp122-r.kicad_mod
+    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
+    oomp_bot: footprints/asofttech_gbd_smd_tfml_105_02_l_d/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/asofttech_gbd_smd_tfml_105_02_l_d/working
+    oomp_doc: footprints/footprints/ASoftTech/GBD-SMD/TFML-105-02-L-D/working/
+    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ASoftTech/GBD-SMD/TFML-105-02-L-D/working
+    oomp_src_flat: footprints_flat/footprints_flat/asofttech_gbd_smd_tfml_105_02_l_d/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/asofttech_gbd_smd_tfml_105_02_l_d/working
+    oomp_src_folder: footprints_folder/footprints_folder/ASoftTech/GBD-SMD/TFML-105-02-L-D/working
+    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ASoftTech/GBD-SMD/TFML-105-02-L-D/working
+  name: CAD.KiCad.Libs
+  oomp_key: oomp_asofttech_gbd_smd_tfml_105_02_l_d
+  oomp_key_simple: asofttech_gbd_smd_tfml_105_02_l_d
+  owner: ASoftTech
+  repo:
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
+  url: http://github.com/ASoftTech/CAD.KiCad.Libs

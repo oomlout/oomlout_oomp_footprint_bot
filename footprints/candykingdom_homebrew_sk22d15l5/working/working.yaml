@@ -1,0 +1,32 @@
+- file: homebrew.pretty/SK22D15L5.kicad_mod
+  footprint:
+    description: "Side insertion 3A DPDT 50V 11.8mm 14.6mm 50V 7.1mm 3A PCPin 10000\
+      \ Rectangular columnar -40\xE2\u201E\u0192~+85\xE2\u201E\u0192 Black Plugin\
+      \ Slide Switches ROHS"
+    libraryLink: SK22D15L5
+    number_of_pads: 8
+  footprint_library_directory: footprint_library_owner/candykingdom_homebrew.pretty
+  footprint_library_directory_flat: footprints_flat/candykingdom_homebrew_sk22d15l5/working
+  github_path: http://github.com/candykingdom/homebrew.pretty/blob/master/SK22D15L5.kicad_mod
+  links:
+    github_src: "http://gitlab.com/candykingdom/homebrew.pretty/blob/master/\u200E\
+      EG1206\u200E_SLIDE_SWITCH.kicad_mod"
+    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
+    oomp_bot: footprints/candykingdom_homebrew_sk22d15l5/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/candykingdom_homebrew_sk22d15l5/working
+    oomp_doc: footprints/footprints/candykingdom/homebrew/SK22D15L5/working/
+    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/candykingdom/homebrew/SK22D15L5/working
+    oomp_src_flat: footprints_flat/footprints_flat/candykingdom_homebrew_sk22d15l5/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/candykingdom_homebrew_sk22d15l5/working
+    oomp_src_folder: footprints_folder/footprints_folder/candykingdom/homebrew/SK22D15L5/working
+    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/candykingdom/homebrew/SK22D15L5/working
+  name: homebrew.pretty
+  oomp_key: oomp_candykingdom_homebrew_sk22d15l5
+  oomp_key_simple: candykingdom_homebrew_sk22d15l5
+  owner: candykingdom
+  repo:
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
+  url: http://github.com/candykingdom/homebrew.pretty

@@ -1,0 +1,29 @@
+- file: CE_KiCadLib/Footprint/CE_Switch.pretty/FSM2JSMAA-ND.kicad_mod
+  footprint:
+    description: null
+    libraryLink: FSM2JSMAA-ND
+    number_of_pads: 4
+  footprint_library_directory: footprint_library_owner/ContextualElectronics_CE_KiCadLib
+  footprint_library_directory_flat: footprints_flat/contextualelectronics_ce_switch_fsm2jsmaa_nd/working
+  github_path: http://github.com/ContextualElectronics/CE_KiCadLib/blob/master/Footprint/CE_Switch.pretty/FSM2JSMAA-ND.kicad_mod
+  links:
+    github_src: http://gitlab.com/ContextualElectronics/CE_KiCadLib/blob/master/Footprint/CE_Switch.pretty/FSM2JSMAA-ND.kicad_mod
+    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
+    oomp_bot: footprints/contextualelectronics_ce_switch_fsm2jsmaa_nd/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/contextualelectronics_ce_switch_fsm2jsmaa_nd/working
+    oomp_doc: footprints/footprints/ContextualElectronics/CE_Switch/FSM2JSMAA-ND/working/
+    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ContextualElectronics/CE_Switch/FSM2JSMAA-ND/working
+    oomp_src_flat: footprints_flat/footprints_flat/contextualelectronics_ce_switch_fsm2jsmaa_nd/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/contextualelectronics_ce_switch_fsm2jsmaa_nd/working
+    oomp_src_folder: footprints_folder/footprints_folder/ContextualElectronics/CE_Switch/FSM2JSMAA-ND/working
+    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ContextualElectronics/CE_Switch/FSM2JSMAA-ND/working
+  name: CE_KiCadLib
+  oomp_key: oomp_contextualelectronics_ce_switch_fsm2jsmaa_nd
+  oomp_key_simple: contextualelectronics_ce_switch_fsm2jsmaa_nd
+  owner: ContextualElectronics
+  repo:
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
+  url: http://github.com/ContextualElectronics/CE_KiCadLib

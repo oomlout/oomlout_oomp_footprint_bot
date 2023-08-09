@@ -1,0 +1,29 @@
+- file: kicad-open-modules/SHT3x-DIS.kicad_mod
+  footprint:
+    description: null
+    libraryLink: SHT3x-DIS
+    number_of_pads: 9
+  footprint_library_directory: footprint_library_owner/brunoeagle_kicad-open-modules
+  footprint_library_directory_flat: footprints_flat/brunoeagle_sht3x_dis_sht3x_dis/working
+  github_path: http://github.com/brunoeagle/kicad-open-modules/blob/master/SHT3x-DIS.kicad_mod
+  links:
+    github_src: http://gitlab.com/brunoeagle/kicad-open-modules/blob/master/XH-2AW.kicad_mod
+    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
+    oomp_bot: footprints/brunoeagle_sht3x_dis_sht3x_dis/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_sht3x_dis_sht3x_dis/working
+    oomp_doc: footprints/footprints/brunoeagle/SHT3x-DIS.kicad_mod/SHT3x-DIS/working/
+    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/SHT3x-DIS.kicad_mod/SHT3x-DIS/working
+    oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_sht3x_dis_sht3x_dis/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_sht3x_dis_sht3x_dis/working
+    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/SHT3x-DIS.kicad_mod/SHT3x-DIS/working
+    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/SHT3x-DIS.kicad_mod/SHT3x-DIS/working
+  name: kicad-open-modules
+  oomp_key: oomp_brunoeagle_sht3x_dis_sht3x_dis
+  oomp_key_simple: brunoeagle_sht3x_dis_sht3x_dis
+  owner: brunoeagle
+  repo:
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
+  url: http://github.com/brunoeagle/kicad-open-modules

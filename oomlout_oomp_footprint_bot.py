@@ -3,18 +3,18 @@ import oom_kicad
 import oom_markdown
 
 def load_data():
-    github_data = "https://github.com/oomlout/oomlout_footprint_src"
+    github_data = "https://github.com/oomlout/oomlout_oomp_footprint_src"
 
     #make tmp/data directory if it doesn't already exist
-    if not os.path.exists("tmp/data/oomlout_footprint_src"):
-        os.makedirs("tmp/data/oomlout_footprint_src")
+    if not os.path.exists("tmp/data/oomlout_oomp_footprint_src"):
+        os.makedirs("tmp/data/oomlout_oomp_footprint_src")
     #clone to tmp/
-    os.system("git clone " + github_data + " tmp/data/oomlout_footprint_src")
+    os.system("git clone " + github_data + " tmp/data/oomlout_oomp_footprint_src")
 
 
 def copy_data():
     print("Copying data to footprints directory")
-    directory_src = rf"tmp/data/oomlout_footprint_src/footprints_flat"
+    directory_src = rf"tmp/data/oomlout_oomp_footprint_src/footprints_flat"
     directory_dst = rf"footprints"
     #copy the directory with overwite if the file already exists
     import shutil

@@ -1,0 +1,29 @@
+- file: Keyboard.pretty/CHERRY_PLATE_100H.kicad_mod
+  footprint:
+    description: null
+    libraryLink: Keyboard:CHERRY_PLATE_100H
+    number_of_pads: 5
+  footprint_library_directory: footprint_library_owner/stormbard_Keyboard.pretty
+  footprint_library_directory_flat: footprints_flat/stormbard_keyboard_cherry_plate_100h/working
+  github_path: http://github.com/stormbard/Keyboard.pretty/blob/master/CHERRY_PLATE_100H.kicad_mod
+  links:
+    github_src: http://gitlab.com/stormbard/Keyboard.pretty/blob/master/TEENSY_2.0.kicad_mod
+    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
+    oomp_bot: footprints/stormbard_keyboard_cherry_plate_100h/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stormbard_keyboard_cherry_plate_100h/working
+    oomp_doc: footprints/footprints/stormbard/Keyboard/CHERRY_PLATE_100H/working/
+    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/stormbard/Keyboard/CHERRY_PLATE_100H/working
+    oomp_src_flat: footprints_flat/footprints_flat/stormbard_keyboard_cherry_plate_100h/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/stormbard_keyboard_cherry_plate_100h/working
+    oomp_src_folder: footprints_folder/footprints_folder/stormbard/Keyboard/CHERRY_PLATE_100H/working
+    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/stormbard/Keyboard/CHERRY_PLATE_100H/working
+  name: Keyboard.pretty
+  oomp_key: oomp_stormbard_keyboard_cherry_plate_100h
+  oomp_key_simple: stormbard_keyboard_cherry_plate_100h
+  owner: stormbard
+  repo:
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
+  url: http://github.com/stormbard/Keyboard.pretty

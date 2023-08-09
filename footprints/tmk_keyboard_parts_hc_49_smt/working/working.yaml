@@ -1,0 +1,29 @@
+- file: keyboard_parts.pretty/HC-49_SMT.kicad_mod
+  footprint:
+    description: null
+    libraryLink: 00Keyboard:HC-49_SMT
+    number_of_pads: 2
+  footprint_library_directory: footprint_library_owner/tmk_keyboard_parts.pretty
+  footprint_library_directory_flat: footprints_flat/tmk_keyboard_parts_hc_49_smt/working
+  github_path: http://github.com/tmk/keyboard_parts.pretty/blob/master/HC-49_SMT.kicad_mod
+  links:
+    github_src: http://gitlab.com/tmk/keyboard_parts.pretty/blob/master/XTAL_HC_49_TH.kicad_mod
+    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
+    oomp_bot: footprints/tmk_keyboard_parts_hc_49_smt/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/tmk_keyboard_parts_hc_49_smt/working
+    oomp_doc: footprints/footprints/tmk/keyboard_parts/HC-49_SMT/working/
+    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/tmk/keyboard_parts/HC-49_SMT/working
+    oomp_src_flat: footprints_flat/footprints_flat/tmk_keyboard_parts_hc_49_smt/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/tmk_keyboard_parts_hc_49_smt/working
+    oomp_src_folder: footprints_folder/footprints_folder/tmk/keyboard_parts/HC-49_SMT/working
+    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/tmk/keyboard_parts/HC-49_SMT/working
+  name: keyboard_parts.pretty
+  oomp_key: oomp_tmk_keyboard_parts_hc_49_smt
+  oomp_key_simple: tmk_keyboard_parts_hc_49_smt
+  owner: tmk
+  repo:
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
+  url: http://github.com/tmk/keyboard_parts.pretty

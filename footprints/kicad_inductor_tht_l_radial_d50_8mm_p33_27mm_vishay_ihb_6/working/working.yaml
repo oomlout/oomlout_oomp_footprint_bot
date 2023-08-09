@@ -1,0 +1,28 @@
+- file: libraries/kicad-footprints/Inductor_THT.pretty/L_Radial_D50.8mm_P33.27mm_Vishay_IHB-6.kicad_mod
+  footprint:
+    description: Inductor, Radial series, Radial, pin pitch=33.27mm, , diameter=50.8mm,
+      Vishay, IHB-6, http://www.vishay.com/docs/34015/ihb.pdf
+    libraryLink: L_Radial_D50.8mm_P33.27mm_Vishay_IHB-6
+    number_of_pads: 2
+  footprint_library_directory: footprint_library_owner/kicad_libraries/kicad-footprints/
+  footprint_library_directory_flat: footprints_flat/kicad_inductor_tht_l_radial_d50_8mm_p33_27mm_vishay_ihb_6/working
+  github_path: http://github.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Inductor_THT.pretty/L_Radial_D50.8mm_P33.27mm_Vishay_IHB-6.kicad_mod
+  links:
+    github_src: http://gitlab.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod
+    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
+    oomp_bot: footprints/kicad_inductor_tht_l_radial_d50_8mm_p33_27mm_vishay_ihb_6/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_inductor_tht_l_radial_d50_8mm_p33_27mm_vishay_ihb_6/working
+    oomp_doc: footprints/footprints/kicad/Inductor_THT/L_Radial_D50.8mm_P33.27mm_Vishay_IHB-6/working/
+    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Inductor_THT/L_Radial_D50.8mm_P33.27mm_Vishay_IHB-6/working
+    oomp_src_flat: footprints_flat/footprints_flat/kicad_inductor_tht_l_radial_d50_8mm_p33_27mm_vishay_ihb_6/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_inductor_tht_l_radial_d50_8mm_p33_27mm_vishay_ihb_6/working
+    oomp_src_folder: footprints_folder/footprints_folder/kicad/Inductor_THT/L_Radial_D50.8mm_P33.27mm_Vishay_IHB-6/working
+    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Inductor_THT/L_Radial_D50.8mm_P33.27mm_Vishay_IHB-6/working
+  name: libraries/kicad-footprints/
+  oomp_key: oomp_kicad_inductor_tht_l_radial_d50_8mm_p33_27mm_vishay_ihb_6
+  oomp_key_simple: kicad_inductor_tht_l_radial_d50_8mm_p33_27mm_vishay_ihb_6
+  owner: kicad
+  repo:
+    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
+    message: Not Found
+  url: https://gitlab.com/kicad/libraries/kicad-footprints

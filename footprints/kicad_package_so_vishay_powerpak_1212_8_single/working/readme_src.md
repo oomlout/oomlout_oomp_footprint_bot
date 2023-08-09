@@ -1,0 +1,27 @@
+# libraries/kicad-footprints/ by kicad  
+This is a harvested standardized copy of a footprint from github.  
+The original project can be found at:  
+https://gitlab.com/kicad/libraries/kicad-footprints  
+The original footprint can be found at:
+http://gitlab.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod
+Please consult that link for additional, details, files, and license information.  
+## Footprint Details
+* description: PowerPAK 1212-8 Single (https://www.vishay.com/docs/71656/ppak12128.pdf, https://www.vishay.com/docs/72597/72597.pdf)  
+* libraryLink: Vishay_PowerPAK_1212-8_Single  
+* number_of_pads: 5  
+## yaml dump  
+| Key | Value |  
+| --- | --- |  
+| file | libraries/kicad-footprints/Package_SO.pretty/Vishay_PowerPAK_1212-8_Single.kicad_mod |  
+| footprint | {'description': 'PowerPAK 1212-8 Single (https://www.vishay.com/docs/71656/ppak12128.pdf, https://www.vishay.com/docs/72597/72597.pdf)', 'libraryLink': 'Vishay_PowerPAK_1212-8_Single', 'number_of_pads': 5} |  
+| footprint_library_directory | footprint_library_owner/kicad_libraries/kicad-footprints/ |  
+| footprint_library_directory_flat | footprints_flat/kicad_package_so_vishay_powerpak_1212_8_single/working |  
+| github_path | http://github.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Package_SO.pretty/Vishay_PowerPAK_1212-8_Single.kicad_mod |  
+| links | {'github_src': 'http://gitlab.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/kicad_package_so_vishay_powerpak_1212_8_single/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_package_so_vishay_powerpak_1212_8_single/working', 'oomp_doc': 'footprints/footprints/kicad/Package_SO/Vishay_PowerPAK_1212-8_Single/working/', 'oomp_doc_github': 'https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Package_SO/Vishay_PowerPAK_1212-8_Single/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/kicad_package_so_vishay_powerpak_1212_8_single/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_package_so_vishay_powerpak_1212_8_single/working', 'oomp_src_folder': 'footprints_folder/footprints_folder/kicad/Package_SO/Vishay_PowerPAK_1212-8_Single/working', 'oomp_src_folder_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Package_SO/Vishay_PowerPAK_1212-8_Single/working'} |  
+| name | libraries/kicad-footprints/ |  
+| oomp_key | oomp_kicad_package_so_vishay_powerpak_1212_8_single |  
+| oomp_key_simple | kicad_package_so_vishay_powerpak_1212_8_single |  
+| owner | kicad |  
+| repo | {'documentation_url': 'https://docs.github.com/rest/repos/repos#get-a-repository', 'message': 'Not Found'} |  
+| url | https://gitlab.com/kicad/libraries/kicad-footprints |  
+

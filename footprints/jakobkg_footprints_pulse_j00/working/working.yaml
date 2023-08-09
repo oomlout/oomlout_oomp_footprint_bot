@@ -1,0 +1,29 @@
+- file: footprints.pretty/Pulse-J00.kicad_mod
+  footprint:
+    description: Pulse integrated magnetics Ethernet jack
+    libraryLink: Pulse-J00
+    number_of_pads: 12
+  footprint_library_directory: footprint_library_owner/jakobkg_footprints.pretty
+  footprint_library_directory_flat: footprints_flat/jakobkg_footprints_pulse_j00/working
+  github_path: http://github.com/jakobkg/footprints.pretty/blob/master/Pulse-J00.kicad_mod
+  links:
+    github_src: http://gitlab.com/jakobkg/footprints.pretty/blob/master/USB_Micro_FCI.kicad_mod
+    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
+    oomp_bot: footprints/jakobkg_footprints_pulse_j00/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/jakobkg_footprints_pulse_j00/working
+    oomp_doc: footprints/footprints/jakobkg/footprints/Pulse-J00/working/
+    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/jakobkg/footprints/Pulse-J00/working
+    oomp_src_flat: footprints_flat/footprints_flat/jakobkg_footprints_pulse_j00/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/jakobkg_footprints_pulse_j00/working
+    oomp_src_folder: footprints_folder/footprints_folder/jakobkg/footprints/Pulse-J00/working
+    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/jakobkg/footprints/Pulse-J00/working
+  name: footprints.pretty
+  oomp_key: oomp_jakobkg_footprints_pulse_j00
+  oomp_key_simple: jakobkg_footprints_pulse_j00
+  owner: jakobkg
+  repo:
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
+  url: http://github.com/jakobkg/footprints.pretty

@@ -1,0 +1,27 @@
+- file: libraries/kicad-footprints/Display.pretty/NHD-C12832A1Z-FSRGB.kicad_mod
+  footprint:
+    description: 128x32 LCD with RGB backlight https://www.newhavendisplay.com/specs/NHD-C12832A1Z-FSRGB-FBW-3V.pdf
+    libraryLink: NHD-C12832A1Z-FSRGB
+    number_of_pads: 25
+  footprint_library_directory: footprint_library_owner/kicad_libraries/kicad-footprints/
+  footprint_library_directory_flat: footprints_flat/kicad_display_nhd_c12832a1z_fsrgb/working
+  github_path: http://github.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Display.pretty/NHD-C12832A1Z-FSRGB.kicad_mod
+  links:
+    github_src: http://gitlab.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod
+    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
+    oomp_bot: footprints/kicad_display_nhd_c12832a1z_fsrgb/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_display_nhd_c12832a1z_fsrgb/working
+    oomp_doc: footprints/footprints/kicad/Display/NHD-C12832A1Z-FSRGB/working/
+    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Display/NHD-C12832A1Z-FSRGB/working
+    oomp_src_flat: footprints_flat/footprints_flat/kicad_display_nhd_c12832a1z_fsrgb/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_display_nhd_c12832a1z_fsrgb/working
+    oomp_src_folder: footprints_folder/footprints_folder/kicad/Display/NHD-C12832A1Z-FSRGB/working
+    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Display/NHD-C12832A1Z-FSRGB/working
+  name: libraries/kicad-footprints/
+  oomp_key: oomp_kicad_display_nhd_c12832a1z_fsrgb
+  oomp_key_simple: kicad_display_nhd_c12832a1z_fsrgb
+  owner: kicad
+  repo:
+    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
+    message: Not Found
+  url: https://gitlab.com/kicad/libraries/kicad-footprints

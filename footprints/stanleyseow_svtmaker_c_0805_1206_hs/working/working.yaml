@@ -1,0 +1,29 @@
+- file: SVTmaker.pretty/C_0805_1206_HS.kicad_mod
+  footprint:
+    description: Capacitor SMD 1206, hand soldering
+    libraryLink: KiCad/Capacitors_SMD.pretty:C_1206_HandSoldering
+    number_of_pads: 2
+  footprint_library_directory: footprint_library_owner/stanleyseow_SVTmaker.pretty
+  footprint_library_directory_flat: footprints_flat/stanleyseow_svtmaker_c_0805_1206_hs/working
+  github_path: http://github.com/stanleyseow/SVTmaker.pretty/blob/master/C_0805_1206_HS.kicad_mod
+  links:
+    github_src: http://gitlab.com/stanleyseow/SVTmaker.pretty/blob/master/z_Drill_05x6.kicad_mod
+    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
+    oomp_bot: footprints/stanleyseow_svtmaker_c_0805_1206_hs/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stanleyseow_svtmaker_c_0805_1206_hs/working
+    oomp_doc: footprints/footprints/stanleyseow/SVTmaker/C_0805_1206_HS/working/
+    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/stanleyseow/SVTmaker/C_0805_1206_HS/working
+    oomp_src_flat: footprints_flat/footprints_flat/stanleyseow_svtmaker_c_0805_1206_hs/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/stanleyseow_svtmaker_c_0805_1206_hs/working
+    oomp_src_folder: footprints_folder/footprints_folder/stanleyseow/SVTmaker/C_0805_1206_HS/working
+    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/stanleyseow/SVTmaker/C_0805_1206_HS/working
+  name: SVTmaker.pretty
+  oomp_key: oomp_stanleyseow_svtmaker_c_0805_1206_hs
+  oomp_key_simple: stanleyseow_svtmaker_c_0805_1206_hs
+  owner: stanleyseow
+  repo:
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
+  url: http://github.com/stanleyseow/SVTmaker.pretty

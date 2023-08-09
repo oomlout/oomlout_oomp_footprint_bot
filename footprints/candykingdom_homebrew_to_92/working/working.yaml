@@ -1,0 +1,32 @@
+- file: homebrew.pretty/TO-92.kicad_mod
+  footprint:
+    description: '<h3>TO-92 3-Pin PTH AMMO package</h3><p><a href="">Datasheet</a></p><p>Specifications:<ul><li>Pin
+      Count: 3</li><li>Dimensions:  3.68 x 4.83 x 4.83 mm</li><li>Pitch: 2.54 mm</li></ul><p>Devices
+      Using:</p><ul><li>DS18B20</li></ul>'
+    libraryLink: TO-92
+    number_of_pads: 3
+  footprint_library_directory: footprint_library_owner/candykingdom_homebrew.pretty
+  footprint_library_directory_flat: footprints_flat/candykingdom_homebrew_to_92/working
+  github_path: http://github.com/candykingdom/homebrew.pretty/blob/master/TO-92.kicad_mod
+  links:
+    github_src: "http://gitlab.com/candykingdom/homebrew.pretty/blob/master/\u200E\
+      EG1206\u200E_SLIDE_SWITCH.kicad_mod"
+    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
+    oomp_bot: footprints/candykingdom_homebrew_to_92/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/candykingdom_homebrew_to_92/working
+    oomp_doc: footprints/footprints/candykingdom/homebrew/TO-92/working/
+    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/candykingdom/homebrew/TO-92/working
+    oomp_src_flat: footprints_flat/footprints_flat/candykingdom_homebrew_to_92/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/candykingdom_homebrew_to_92/working
+    oomp_src_folder: footprints_folder/footprints_folder/candykingdom/homebrew/TO-92/working
+    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/candykingdom/homebrew/TO-92/working
+  name: homebrew.pretty
+  oomp_key: oomp_candykingdom_homebrew_to_92
+  oomp_key_simple: candykingdom_homebrew_to_92
+  owner: candykingdom
+  repo:
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
+  url: http://github.com/candykingdom/homebrew.pretty

@@ -1,0 +1,28 @@
+- file: libraries/kicad-footprints/Fuse.pretty/Fuseholder_Clip-5x20mm_Keystone_3518P_Inline_P23.11x6.76mm_D2.44x1.70mm_Horizontal.kicad_mod
+  footprint:
+    description: Fuseholder Clips, 5x20mm Cylinder Fuse, Pins Inline, Horizontal,
+      Keystone 3518P, http://www.keyelco.com/product-pdf.cfm?p=1387
+    libraryLink: Fuseholder_Clip-5x20mm_Keystone_3518P_Inline_P23.11x6.76mm_D2.44x1.70mm_Horizontal
+    number_of_pads: 4
+  footprint_library_directory: footprint_library_owner/kicad_libraries/kicad-footprints/
+  footprint_library_directory_flat: footprints_flat/kicad_fuse_fuseholder_clip_5x20mm_keystone_3518p_inline_p23_11x6_76mm_d2_44x1_70mm_horizontal/working
+  github_path: http://github.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Fuse.pretty/Fuseholder_Clip-5x20mm_Keystone_3518P_Inline_P23.11x6.76mm_D2.44x1.70mm_Horizontal.kicad_mod
+  links:
+    github_src: http://gitlab.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod
+    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
+    oomp_bot: footprints/kicad_fuse_fuseholder_clip_5x20mm_keystone_3518p_inline_p23_11x6_76mm_d2_44x1_70mm_horizontal/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_fuse_fuseholder_clip_5x20mm_keystone_3518p_inline_p23_11x6_76mm_d2_44x1_70mm_horizontal/working
+    oomp_doc: footprints/footprints/kicad/Fuse/Fuseholder_Clip-5x20mm_Keystone_3518P_Inline_P23.11x6.76mm_D2.44x1.70mm_Horizontal/working/
+    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Fuse/Fuseholder_Clip-5x20mm_Keystone_3518P_Inline_P23.11x6.76mm_D2.44x1.70mm_Horizontal/working
+    oomp_src_flat: footprints_flat/footprints_flat/kicad_fuse_fuseholder_clip_5x20mm_keystone_3518p_inline_p23_11x6_76mm_d2_44x1_70mm_horizontal/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_fuse_fuseholder_clip_5x20mm_keystone_3518p_inline_p23_11x6_76mm_d2_44x1_70mm_horizontal/working
+    oomp_src_folder: footprints_folder/footprints_folder/kicad/Fuse/Fuseholder_Clip-5x20mm_Keystone_3518P_Inline_P23.11x6.76mm_D2.44x1.70mm_Horizontal/working
+    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Fuse/Fuseholder_Clip-5x20mm_Keystone_3518P_Inline_P23.11x6.76mm_D2.44x1.70mm_Horizontal/working
+  name: libraries/kicad-footprints/
+  oomp_key: oomp_kicad_fuse_fuseholder_clip_5x20mm_keystone_3518p_inline_p23_11x6_76mm_d2_44x1_70mm_horizontal
+  oomp_key_simple: kicad_fuse_fuseholder_clip_5x20mm_keystone_3518p_inline_p23_11x6_76mm_d2_44x1_70mm_horizontal
+  owner: kicad
+  repo:
+    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
+    message: Not Found
+  url: https://gitlab.com/kicad/libraries/kicad-footprints
