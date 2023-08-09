@@ -1,0 +1,20 @@
+# OOMP Footprint  
+## MXMountLP-1.5U  by Alasofia  
+  
+oomp key: oomp_alasofia_mxmountlp_mxmountlp_1_5u  
+  
+source repo at: [http://github.com/Alasofia/MXMountLP.pretty/blob/master/MXMountLP-1U.kicad_mod](http://github.com/Alasofia/MXMountLP.pretty/blob/master/MXMountLP-1U.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | MXMountLP-1.5U | 
+| footprint description | None | 
+| number of pads | 8 | 
+| github path | http://github.com/Alasofia/MXMountLP.pretty/blob/master/MXMountLP-1.5U.kicad_mod | 
+| oomp key | oomp_alasofia_mxmountlp_mxmountlp_1_5u | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/alasofia_mxmountlp_mxmountlp_1_5u/working | 
+## Images  

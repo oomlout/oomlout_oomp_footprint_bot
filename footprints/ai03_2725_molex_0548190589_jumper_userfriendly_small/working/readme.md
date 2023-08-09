@@ -1,0 +1,20 @@
+# OOMP Footprint  
+## Jumper-UserFriendly-Small  by ai03-2725  
+  
+oomp key: oomp_ai03_2725_molex_0548190589_jumper_userfriendly_small  
+  
+source repo at: [http://github.com/ai03-2725/Molex-0548190589.pretty/blob/master/USON-TPDxE05U06.kicad_mod](http://github.com/ai03-2725/Molex-0548190589.pretty/blob/master/USON-TPDxE05U06.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | Jumper-UserFriendly-Small | 
+| footprint description | None | 
+| number of pads | 2 | 
+| github path | http://github.com/ai03-2725/Molex-0548190589.pretty/blob/master/Jumper-UserFriendly-Small.kicad_mod | 
+| oomp key | oomp_ai03_2725_molex_0548190589_jumper_userfriendly_small | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ai03_2725_molex_0548190589_jumper_userfriendly_small/working | 
+## Images  

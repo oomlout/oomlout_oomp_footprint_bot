@@ -1,0 +1,20 @@
+# OOMP Footprint  
+## M3_SCREW  by none  
+  
+oomp key: oomp_brunoeagle_m3_screw_m3_screw  
+  
+source repo at: [http://gitlab.com/brunoeagle/kicad-open-modules/blob/master/XH-2AW.kicad_mod](http://gitlab.com/brunoeagle/kicad-open-modules/blob/master/XH-2AW.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | M3_SCREW | 
+| footprint description | None | 
+| number of pads | 1 | 
+| github path | http://github.com/brunoeagle/kicad-open-modules/blob/master/M3_SCREW.kicad_mod | 
+| oomp key | oomp_brunoeagle_m3_screw_m3_screw | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_m3_screw_m3_screw/working | 
+## Images  

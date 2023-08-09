@@ -1,0 +1,20 @@
+# OOMP Footprint  
+## grounding_sign_3.6x3.2mm  by AcheronProject  
+  
+oomp key: oomp_acheronproject_acheron_graphics_grounding_sign_3_6x3_2mm  
+  
+source repo at: [http://github.com/AcheronProject/acheron_Graphics.pretty/blob/master/Warning_Sign_7.2x6.3mm.kicad_mod](http://github.com/AcheronProject/acheron_Graphics.pretty/blob/master/Warning_Sign_7.2x6.3mm.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | grounding_sign_3.6x3.2mm | 
+| footprint description | None | 
+| number of pads | 0 | 
+| github path | http://github.com/AcheronProject/acheron_Graphics.pretty/blob/master/Grounding_Sign_3.6x3.2mm.kicad_mod | 
+| oomp key | oomp_acheronproject_acheron_graphics_grounding_sign_3_6x3_2mm | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/acheronproject_acheron_graphics_grounding_sign_3_6x3_2mm/working | 
+## Images  

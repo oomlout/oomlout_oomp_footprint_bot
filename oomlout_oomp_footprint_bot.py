@@ -51,9 +51,9 @@ def make_temporary_library():
         os.makedirs(footprint_directory_tmp)
     #go through one level of directories in tmp 
     counter = 0
-    for dir in os.listdir("tmp/data/oomlout_footprint_src/footprints_flat"):
+    for dir in os.listdir("tmp/data/oomlout_oomp_footprint_src/footprints_flat"):
         #copy working.kicad_mod in each directory to footprints tmp directory but change working.kicad_mod to {direcetory}.kicad_mod
-        files_dir = "tmp/data/oomlout_footprint_src/footprints_flat/" + dir + "/working"
+        files_dir = "tmp/data/oomlout_oomp_footprint_src/footprints_flat/" + dir + "/working"
         files = os.listdir(files_dir)
         for file in files:
             if file.endswith(".kicad_mod"):

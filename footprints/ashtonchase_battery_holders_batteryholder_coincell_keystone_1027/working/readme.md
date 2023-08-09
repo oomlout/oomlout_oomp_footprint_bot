@@ -1,0 +1,20 @@
+# OOMP Footprint  
+## BatteryHolder_CoinCell_Keystone_1027  by ashtonchase  
+  
+oomp key: oomp_ashtonchase_battery_holders_batteryholder_coincell_keystone_1027  
+  
+source repo at: [http://github.com/ashtonchase/Battery_Holders.pretty/blob/master/BatteryHolder_CoinCell_Keystone_502.kicad_mod](http://github.com/ashtonchase/Battery_Holders.pretty/blob/master/BatteryHolder_CoinCell_Keystone_502.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | BatteryHolder_CoinCell_Keystone_1027 | 
+| footprint description | Keystone type 1027 battery holder | 
+| number of pads | 2 | 
+| github path | http://github.com/ashtonchase/Battery_Holders.pretty/blob/master/BatteryHolder_CoinCell_Keystone_1027.kicad_mod | 
+| oomp key | oomp_ashtonchase_battery_holders_batteryholder_coincell_keystone_1027 | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ashtonchase_battery_holders_batteryholder_coincell_keystone_1027/working | 
+## Images  

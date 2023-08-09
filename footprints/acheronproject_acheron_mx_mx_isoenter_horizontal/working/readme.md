@@ -1,0 +1,20 @@
+# OOMP Footprint  
+## MX_ISOEnter_Horizontal  by AcheronProject  
+  
+oomp key: oomp_acheronproject_acheron_mx_mx_isoenter_horizontal  
+  
+source repo at: [http://github.com/AcheronProject/acheron_MX.pretty/blob/master/MX_ISOEnter_LED.kicad_mod](http://github.com/AcheronProject/acheron_MX.pretty/blob/master/MX_ISOEnter_LED.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | MX_ISOEnter_Horizontal | 
+| footprint description | None | 
+| number of pads | 9 | 
+| github path | http://github.com/AcheronProject/acheron_MX.pretty/blob/master/MX_ISOEnter_Horizontal.kicad_mod | 
+| oomp key | oomp_acheronproject_acheron_mx_mx_isoenter_horizontal | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/acheronproject_acheron_mx_mx_isoenter_horizontal/working | 
+## Images  

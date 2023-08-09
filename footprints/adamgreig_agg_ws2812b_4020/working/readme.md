@@ -1,0 +1,20 @@
+# OOMP Footprint  
+## WS2812B-4020  by adamgreig  
+  
+oomp key: oomp_adamgreig_agg_ws2812b_4020  
+  
+source repo at: [http://github.com/adamgreig/agg-kicad/blob/master/agg.pretty/unchecked.pretty/XTAL50x32.kicad_mod](http://github.com/adamgreig/agg-kicad/blob/master/agg.pretty/unchecked.pretty/XTAL50x32.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | WS2812B-4020 | 
+| footprint description | None | 
+| number of pads | 4 | 
+| github path | http://github.com/adamgreig/agg-kicad/blob/master/agg.pretty/WS2812B-4020.kicad_mod | 
+| oomp key | oomp_adamgreig_agg_ws2812b_4020 | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/adamgreig_agg_ws2812b_4020/working | 
+## Images  

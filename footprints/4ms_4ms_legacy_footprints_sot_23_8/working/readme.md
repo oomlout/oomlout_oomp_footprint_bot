@@ -1,0 +1,20 @@
+# OOMP Footprint  
+## SOT-23-8  by 4ms  
+  
+oomp key: oomp_4ms_4ms_legacy_footprints_sot_23_8  
+  
+source repo at: [http://github.com/4ms/4ms-kicad-lib/blob/master/footprints-legacy/4ms-legacy-footprints.pretty/wire-hole.kicad_mod](http://github.com/4ms/4ms-kicad-lib/blob/master/footprints-legacy/4ms-legacy-footprints.pretty/wire-hole.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | SOT-23-8 | 
+| footprint description | 8-pin SOT-23 package, http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/sot-23rj/rj_8.pdf | 
+| number of pads | 8 | 
+| github path | http://github.com/4ms/4ms-kicad-lib/blob/master/footprints-legacy/4ms-legacy-footprints.pretty/SOT-23-8.kicad_mod | 
+| oomp key | oomp_4ms_4ms_legacy_footprints_sot_23_8 | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/4ms_4ms_legacy_footprints_sot_23_8/working | 
+## Images  
