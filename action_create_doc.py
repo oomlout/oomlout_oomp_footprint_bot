@@ -3,11 +3,13 @@ import shutil
 import oom_base
 
 def main():
+    overwrite = False
     directory_doc = "c:/gh/oomlout_oomp_footprint_doc"
     #if directory doesn't exist, create it
     if not os.path.exists(directory_doc):
         os.makedirs(directory_doc)
     #recursively go through all files in the symbols directory
+    count = 1
     for root, dirs, files in os.walk("footprints"):
         #for every file
         for file in files:
@@ -55,11 +57,25 @@ def main():
                 dst = f"c:/gh/oomlout_oomp_footprint_doc/footprints/{owner}/{library}/{footprint_name}"
 
                 #copy all files in source directory inclusion subfodlers to dst directory using shutil
-                print(f"Copying {src} to {dst}")
-                shutil.copytree(directory, dst, dirs_exist_ok=True)
+                
+                if not os.path.exists(dst) or overwrite:
+                    print(f"Copying {src} to {dst}")
+                    shutil.copytree(directory, dst, dirs_exist_ok=True)
+                else:
+                    print(f"Skipping {src} to {dst}")
 
 
                 pass
+
+                #print a dot for progress
+                count += 1
+                if count % 100 == 0:
+                    print(".", end="", flush=True)
+                if count % 5000 == 0:
+                    #push doc to git
+                    import oom_kicad
+                    oom_kicad.push_to_git(repo_directory = "c:/gh/oomlout_oomp_footprint_doc/", count=count )
+
                 
             
 
