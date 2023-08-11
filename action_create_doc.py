@@ -75,6 +75,8 @@ def main():
                     #push doc to git
                     import oom_kicad
                     oom_kicad.push_to_git(repo_directory = "c:/gh/oomlout_oomp_footprint_doc/", count=count )
+    import oom_kicad
+    oom_kicad.push_to_git(repo_directory = "c:/gh/oomlout_oomp_footprint_doc/", count=count )
 
                 
             
