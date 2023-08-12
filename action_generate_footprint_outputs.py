@@ -16,6 +16,7 @@ def go_through_directories():
                     filter = ""
                     # yr = "iangitpers"
                     if filter in filename.lower():
+                        print("footprint output generating for: " + filename)
                         counter = oom_kicad.generate_outputs_footprint(filename=filename)
                         count += counter
                         #push to git using oom_kicad every 100 files

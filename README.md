@@ -1,5 +1,9 @@
 # oomlout_oomp_footprint_bot
 
+## notes
+
+* 
+
 ## actions
 
 *  action_setup.py -- loads the data from oomlout_oomp_footprint_src. Copies into footprints folder. Renames the readme to readme_src. Makes the library that has all the footprints in it.
