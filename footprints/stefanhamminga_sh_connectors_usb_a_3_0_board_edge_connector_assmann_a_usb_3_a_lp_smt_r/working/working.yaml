@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/stefanhamminga_sh_connectors_usb_a_3_0_board_edge_connector_assmann_a_usb_3_a_lp_smt_r/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stefanhamminga_sh_connectors_usb_a_3_0_board_edge_connector_assmann_a_usb_3_a_lp_smt_r/working
-    oomp_doc: footprints/footprints/StefanHamminga/SH_Connectors/USB_A_3.0_Board_edge_connector_Assmann_A-USB_3-A-LP_SMT-R/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/StefanHamminga/SH_Connectors/USB_A_3.0_Board_edge_connector_Assmann_A-USB_3-A-LP_SMT-R/working
     oomp_src_flat: footprints_flat/footprints_flat/stefanhamminga_sh_connectors_usb_a_3_0_board_edge_connector_assmann_a_usb_3_a_lp_smt_r/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/stefanhamminga_sh_connectors_usb_a_3_0_board_edge_connector_assmann_a_usb_3_a_lp_smt_r/working
-    oomp_src_folder: footprints_folder/footprints_folder/StefanHamminga/SH_Connectors/USB_A_3.0_Board_edge_connector_Assmann_A-USB_3-A-LP_SMT-R/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/StefanHamminga/SH_Connectors/USB_A_3.0_Board_edge_connector_Assmann_A-USB_3-A-LP_SMT-R/working
   name: SH_Connectors.pretty
+  oomp:
+    footprint_name: usb_a_3_0_board_edge_connector_assmann_a_usb_3_a_lp_smt_r
+    library_name: sh_connectors
+    md5: 3fc5850a3b07531b6991ba2eb34b638a
+    md5_10: 3fc5850a3b
+    md5_5: 3fc58
+    md5_6: 3fc585
+    oomp_key: oomp_stefanhamminga_sh_connectors_usb_a_3_0_board_edge_connector_assmann_a_usb_3_a_lp_smt_r
+    oomp_key_extra: oomp_footprint_stefanhamminga_sh_connectors_usb_a_3_0_board_edge_connector_assmann_a_usb_3_a_lp_smt_r
+    oomp_key_full: oomp_footprint_stefanhamminga_sh_connectors_usb_a_3_0_board_edge_connector_assmann_a_usb_3_a_lp_smt_r_3fc585
+    oomp_key_simple: stefanhamminga_sh_connectors_usb_a_3_0_board_edge_connector_assmann_a_usb_3_a_lp_smt_r
+    original_filename: SH_Connectors.pretty/USB_A_3.0_Board_edge_connector_Assmann_A-USB_3-A-LP_SMT-R.kicad_mod
+    owner_name: stefanhamminga
   oomp_key: oomp_stefanhamminga_sh_connectors_usb_a_3_0_board_edge_connector_assmann_a_usb_3_a_lp_smt_r
+  oomp_key_full: oomp_footprint_stefanhamminga_sh_connectors_usb_a_3_0_board_edge_connector_assmann_a_usb_3_a_lp_smt_r
   oomp_key_simple: stefanhamminga_sh_connectors_usb_a_3_0_board_edge_connector_assmann_a_usb_3_a_lp_smt_r
   owner: StefanHamminga
   repo:

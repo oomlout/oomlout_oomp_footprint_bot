@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_0433at62a0020_0433at62a0020/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_0433at62a0020_0433at62a0020/working
-    oomp_doc: footprints/footprints/brunoeagle/0433AT62A0020.kicad_mod/0433AT62A0020/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/0433AT62A0020.kicad_mod/0433AT62A0020/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_0433at62a0020_0433at62a0020/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_0433at62a0020_0433at62a0020/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/0433AT62A0020.kicad_mod/0433AT62A0020/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/0433AT62A0020.kicad_mod/0433AT62A0020/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: 0433at62a0020
+    library_name: 0433at62a0020_kicad_mod
+    md5: 54e2303dc1bd7ad36838ebe62c69be89
+    md5_10: 54e2303dc1
+    md5_5: 54e23
+    md5_6: 54e230
+    oomp_key: oomp_brunoeagle_0433at62a0020_0433at62a0020
+    oomp_key_extra: oomp_footprint_brunoeagle_0433at62a0020_0433at62a0020
+    oomp_key_full: oomp_footprint_brunoeagle_0433at62a0020_0433at62a0020_54e230
+    oomp_key_simple: brunoeagle_0433at62a0020_0433at62a0020
+    original_filename: kicad-open-modules/0433AT62A0020.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_0433at62a0020_0433at62a0020
+  oomp_key_full: oomp_footprint_brunoeagle_0433at62a0020_0433at62a0020
   oomp_key_simple: brunoeagle_0433at62a0020_0433at62a0020
   owner: brunoeagle
   repo:

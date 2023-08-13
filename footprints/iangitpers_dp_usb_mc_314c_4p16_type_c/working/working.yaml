@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/Iangitpers/4a
     oomp_bot: footprints/iangitpers_dp_usb_mc_314c_4p16_type_c/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/iangitpers_dp_usb_mc_314c_4p16_type_c/working
-    oomp_doc: footprints/footprints/Iangitpers/dp-usb/MC-314C-4P16_Type-C/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Iangitpers/dp-usb/MC-314C-4P16_Type-C/working
     oomp_src_flat: footprints_flat/footprints_flat/iangitpers_dp_usb_mc_314c_4p16_type_c/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/iangitpers_dp_usb_mc_314c_4p16_type_c/working
-    oomp_src_folder: footprints_folder/footprints_folder/Iangitpers/dp-usb/MC-314C-4P16_Type-C/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Iangitpers/dp-usb/MC-314C-4P16_Type-C/working
   name: 4a
+  oomp:
+    footprint_name: mc_314c_4p16_type_c
+    library_name: dp_usb
+    md5: 34a837a364830a99fa8ee5db4c7c2537
+    md5_10: 34a837a364
+    md5_5: 34a83
+    md5_6: 34a837
+    oomp_key: oomp_iangitpers_dp_usb_mc_314c_4p16_type_c
+    oomp_key_extra: oomp_footprint_iangitpers_dp_usb_mc_314c_4p16_type_c
+    oomp_key_full: oomp_footprint_iangitpers_dp_usb_mc_314c_4p16_type_c_34a837
+    oomp_key_simple: iangitpers_dp_usb_mc_314c_4p16_type_c
+    original_filename: 4a/dp-usb/dp-usb.pretty/MC-314C-4P16_Type-C.kicad_mod
+    owner_name: iangitpers
   oomp_key: oomp_iangitpers_dp_usb_mc_314c_4p16_type_c
+  oomp_key_full: oomp_footprint_iangitpers_dp_usb_mc_314c_4p16_type_c
   oomp_key_simple: iangitpers_dp_usb_mc_314c_4p16_type_c
   owner: Iangitpers
   repo:

@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/Iangitpers/4a
     oomp_bot: footprints/iangitpers_symbol_oshw_symbol_8_9x8mm_copper/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/iangitpers_symbol_oshw_symbol_8_9x8mm_copper/working
-    oomp_doc: footprints/footprints/Iangitpers/Symbol/OSHW-Symbol_8.9x8mm_Copper/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Iangitpers/Symbol/OSHW-Symbol_8.9x8mm_Copper/working
     oomp_src_flat: footprints_flat/footprints_flat/iangitpers_symbol_oshw_symbol_8_9x8mm_copper/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/iangitpers_symbol_oshw_symbol_8_9x8mm_copper/working
-    oomp_src_folder: footprints_folder/footprints_folder/Iangitpers/Symbol/OSHW-Symbol_8.9x8mm_Copper/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Iangitpers/Symbol/OSHW-Symbol_8.9x8mm_Copper/working
   name: 4a
+  oomp:
+    footprint_name: oshw_symbol_8_9x8mm_copper
+    library_name: symbol
+    md5: 678c191e513620088ab2988ff5ba3807
+    md5_10: 678c191e51
+    md5_5: 678c1
+    md5_6: 678c19
+    oomp_key: oomp_iangitpers_symbol_oshw_symbol_8_9x8mm_copper
+    oomp_key_extra: oomp_footprint_iangitpers_symbol_oshw_symbol_8_9x8mm_copper
+    oomp_key_full: oomp_footprint_iangitpers_symbol_oshw_symbol_8_9x8mm_copper_678c19
+    oomp_key_simple: iangitpers_symbol_oshw_symbol_8_9x8mm_copper
+    original_filename: 4a/Symbol.pretty/OSHW-Symbol_8.9x8mm_Copper.kicad_mod
+    owner_name: iangitpers
   oomp_key: oomp_iangitpers_symbol_oshw_symbol_8_9x8mm_copper
+  oomp_key_full: oomp_footprint_iangitpers_symbol_oshw_symbol_8_9x8mm_copper
   oomp_key_simple: iangitpers_symbol_oshw_symbol_8_9x8mm_copper
   owner: Iangitpers
   repo:

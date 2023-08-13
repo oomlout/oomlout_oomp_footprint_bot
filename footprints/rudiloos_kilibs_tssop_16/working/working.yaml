@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/rudiloos_kilibs_tssop_16/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/rudiloos_kilibs_tssop_16/working
-    oomp_doc: footprints/footprints/rudiloos/kilibs/TSSOP-16/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/rudiloos/kilibs/TSSOP-16/working
     oomp_src_flat: footprints_flat/footprints_flat/rudiloos_kilibs_tssop_16/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/rudiloos_kilibs_tssop_16/working
-    oomp_src_folder: footprints_folder/footprints_folder/rudiloos/kilibs/TSSOP-16/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/rudiloos/kilibs/TSSOP-16/working
   name: kilibs.pretty
+  oomp:
+    footprint_name: tssop_16
+    library_name: kilibs
+    md5: ba58d0d4b122493dc2a5469d6e7ca8f5
+    md5_10: ba58d0d4b1
+    md5_5: ba58d
+    md5_6: ba58d0
+    oomp_key: oomp_rudiloos_kilibs_tssop_16
+    oomp_key_extra: oomp_footprint_rudiloos_kilibs_tssop_16
+    oomp_key_full: oomp_footprint_rudiloos_kilibs_tssop_16_ba58d0
+    oomp_key_simple: rudiloos_kilibs_tssop_16
+    original_filename: kilibs.pretty/TSSOP-16.kicad_mod
+    owner_name: rudiloos
   oomp_key: oomp_rudiloos_kilibs_tssop_16
+  oomp_key_full: oomp_footprint_rudiloos_kilibs_tssop_16
   oomp_key_simple: rudiloos_kilibs_tssop_16
   owner: rudiloos
   repo:

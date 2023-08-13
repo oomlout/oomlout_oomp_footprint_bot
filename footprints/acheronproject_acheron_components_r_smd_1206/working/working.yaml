@@ -15,14 +15,24 @@
     github_src_repo: https://github.com/AcheronProject/acheron_Components.pretty
     oomp_bot: footprints/acheronproject_acheron_components_r_smd_1206/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/acheronproject_acheron_components_r_smd_1206/working
-    oomp_doc: footprints/footprints/AcheronProject/acheron_Components/R_SMD_1206/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/AcheronProject/acheron_Components/R_SMD_1206/working
     oomp_src_flat: footprints_flat/footprints_flat/acheronproject_acheron_components_r_smd_1206/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/acheronproject_acheron_components_r_smd_1206/working
-    oomp_src_folder: footprints_folder/footprints_folder/AcheronProject/acheron_Components/R_SMD_1206/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/AcheronProject/acheron_Components/R_SMD_1206/working
   name: acheron_Components.pretty
+  oomp:
+    footprint_name: r_smd_1206
+    library_name: acheron_components
+    md5: a55f3d43718c9f1b3f9c5eaee0f2443a
+    md5_10: a55f3d4371
+    md5_5: a55f3
+    md5_6: a55f3d
+    oomp_key: oomp_acheronproject_acheron_components_r_smd_1206
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_components_r_smd_1206
+    oomp_key_full: oomp_footprint_acheronproject_acheron_components_r_smd_1206_a55f3d
+    oomp_key_simple: acheronproject_acheron_components_r_smd_1206
+    original_filename: acheron_Components.pretty/R_SMD_1206.kicad_mod
+    owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_components_r_smd_1206
+  oomp_key_full: oomp_footprint_acheronproject_acheron_components_r_smd_1206
   oomp_key_simple: acheronproject_acheron_components_r_smd_1206
   owner: AcheronProject
   repo:

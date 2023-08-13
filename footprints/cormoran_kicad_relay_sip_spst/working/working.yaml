@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cormoran_kicad_relay_sip_spst/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cormoran_kicad_relay_sip_spst/working
-    oomp_doc: footprints/footprints/cormoran/kicad/Relay_SIP_SPST/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cormoran/kicad/Relay_SIP_SPST/working
     oomp_src_flat: footprints_flat/footprints_flat/cormoran_kicad_relay_sip_spst/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cormoran_kicad_relay_sip_spst/working
-    oomp_src_folder: footprints_folder/footprints_folder/cormoran/kicad/Relay_SIP_SPST/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cormoran/kicad/Relay_SIP_SPST/working
   name: kicad.pretty
+  oomp:
+    footprint_name: relay_sip_spst
+    library_name: kicad
+    md5: 4195c954115a5ab88ed0f93e7fecce73
+    md5_10: 4195c95411
+    md5_5: 4195c
+    md5_6: 4195c9
+    oomp_key: oomp_cormoran_kicad_relay_sip_spst
+    oomp_key_extra: oomp_footprint_cormoran_kicad_relay_sip_spst
+    oomp_key_full: oomp_footprint_cormoran_kicad_relay_sip_spst_4195c9
+    oomp_key_simple: cormoran_kicad_relay_sip_spst
+    original_filename: kicad.pretty/Relay_SIP_SPST.kicad_mod
+    owner_name: cormoran
   oomp_key: oomp_cormoran_kicad_relay_sip_spst
+  oomp_key_full: oomp_footprint_cormoran_kicad_relay_sip_spst
   oomp_key_simple: cormoran_kicad_relay_sip_spst
   owner: cormoran
   repo:

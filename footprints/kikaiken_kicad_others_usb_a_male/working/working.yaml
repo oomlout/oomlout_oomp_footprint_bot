@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/kikaiken/kicad_others.pretty
     oomp_bot: footprints/kikaiken_kicad_others_usb_a_male/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kikaiken_kicad_others_usb_a_male/working
-    oomp_doc: footprints/footprints/kikaiken/kicad_others/USB_A_male/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kikaiken/kicad_others/USB_A_male/working
     oomp_src_flat: footprints_flat/footprints_flat/kikaiken_kicad_others_usb_a_male/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kikaiken_kicad_others_usb_a_male/working
-    oomp_src_folder: footprints_folder/footprints_folder/kikaiken/kicad_others/USB_A_male/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kikaiken/kicad_others/USB_A_male/working
   name: kicad_others.pretty
+  oomp:
+    footprint_name: usb_a_male
+    library_name: kicad_others
+    md5: db06772d56f34a01c6ede7fe5e9d4745
+    md5_10: db06772d56
+    md5_5: db067
+    md5_6: db0677
+    oomp_key: oomp_kikaiken_kicad_others_usb_a_male
+    oomp_key_extra: oomp_footprint_kikaiken_kicad_others_usb_a_male
+    oomp_key_full: oomp_footprint_kikaiken_kicad_others_usb_a_male_db0677
+    oomp_key_simple: kikaiken_kicad_others_usb_a_male
+    original_filename: kicad_others.pretty/USB_A_male.kicad_mod
+    owner_name: kikaiken
   oomp_key: oomp_kikaiken_kicad_others_usb_a_male
+  oomp_key_full: oomp_footprint_kikaiken_kicad_others_usb_a_male
   oomp_key_simple: kikaiken_kicad_others_usb_a_male
   owner: kikaiken
   repo:

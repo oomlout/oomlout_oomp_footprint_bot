@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/celeritous_kicad_conn_usb_ux60_mb/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/celeritous_kicad_conn_usb_ux60_mb/working
-    oomp_doc: footprints/footprints/celeritous/KiCad/CONN_USB_UX60-MB/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/celeritous/KiCad/CONN_USB_UX60-MB/working
     oomp_src_flat: footprints_flat/footprints_flat/celeritous_kicad_conn_usb_ux60_mb/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/celeritous_kicad_conn_usb_ux60_mb/working
-    oomp_src_folder: footprints_folder/footprints_folder/celeritous/KiCad/CONN_USB_UX60-MB/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/celeritous/KiCad/CONN_USB_UX60-MB/working
   name: KiCad.pretty
+  oomp:
+    footprint_name: conn_usb_ux60_mb
+    library_name: kicad
+    md5: a243ac6f98c14f53e7405cfb6aa4247e
+    md5_10: a243ac6f98
+    md5_5: a243a
+    md5_6: a243ac
+    oomp_key: oomp_celeritous_kicad_conn_usb_ux60_mb
+    oomp_key_extra: oomp_footprint_celeritous_kicad_conn_usb_ux60_mb
+    oomp_key_full: oomp_footprint_celeritous_kicad_conn_usb_ux60_mb_a243ac
+    oomp_key_simple: celeritous_kicad_conn_usb_ux60_mb
+    original_filename: KiCad.pretty/CONN_USB_UX60-MB.kicad_mod
+    owner_name: celeritous
   oomp_key: oomp_celeritous_kicad_conn_usb_ux60_mb
+  oomp_key_full: oomp_footprint_celeritous_kicad_conn_usb_ux60_mb
   oomp_key_simple: celeritous_kicad_conn_usb_ux60_mb
   owner: celeritous
   repo:

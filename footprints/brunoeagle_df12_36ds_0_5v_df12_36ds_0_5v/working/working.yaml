@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_df12_36ds_0_5v_df12_36ds_0_5v/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_df12_36ds_0_5v_df12_36ds_0_5v/working
-    oomp_doc: footprints/footprints/brunoeagle/DF12-36DS-0.5V.kicad_mod/DF12-36DS-0.5V/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/DF12-36DS-0.5V.kicad_mod/DF12-36DS-0.5V/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_df12_36ds_0_5v_df12_36ds_0_5v/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_df12_36ds_0_5v_df12_36ds_0_5v/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/DF12-36DS-0.5V.kicad_mod/DF12-36DS-0.5V/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/DF12-36DS-0.5V.kicad_mod/DF12-36DS-0.5V/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: df12_36ds_0_5v
+    library_name: df12_36ds_0_5v_kicad_mod
+    md5: 2b4386ce71ceff304cfa57c9bfb8a077
+    md5_10: 2b4386ce71
+    md5_5: 2b438
+    md5_6: 2b4386
+    oomp_key: oomp_brunoeagle_df12_36ds_0_5v_df12_36ds_0_5v
+    oomp_key_extra: oomp_footprint_brunoeagle_df12_36ds_0_5v_df12_36ds_0_5v
+    oomp_key_full: oomp_footprint_brunoeagle_df12_36ds_0_5v_df12_36ds_0_5v_2b4386
+    oomp_key_simple: brunoeagle_df12_36ds_0_5v_df12_36ds_0_5v
+    original_filename: kicad-open-modules/DF12-36DS-0.5V.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_df12_36ds_0_5v_df12_36ds_0_5v
+  oomp_key_full: oomp_footprint_brunoeagle_df12_36ds_0_5v_df12_36ds_0_5v
   oomp_key_simple: brunoeagle_df12_36ds_0_5v_df12_36ds_0_5v
   owner: brunoeagle
   repo:

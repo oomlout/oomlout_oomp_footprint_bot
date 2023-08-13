@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cpavlina_pth_semi_d_bridge_gbu/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cpavlina_pth_semi_d_bridge_gbu/working
-    oomp_doc: footprints/footprints/cpavlina/pth-semi/D-BRIDGE-GBU/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cpavlina/pth-semi/D-BRIDGE-GBU/working
     oomp_src_flat: footprints_flat/footprints_flat/cpavlina_pth_semi_d_bridge_gbu/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cpavlina_pth_semi_d_bridge_gbu/working
-    oomp_src_folder: footprints_folder/footprints_folder/cpavlina/pth-semi/D-BRIDGE-GBU/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cpavlina/pth-semi/D-BRIDGE-GBU/working
   name: kicad-pcblib
+  oomp:
+    footprint_name: d_bridge_gbu
+    library_name: pth_semi
+    md5: 2bc61911e761f76b0c1582025e05eb1c
+    md5_10: 2bc61911e7
+    md5_5: 2bc61
+    md5_6: 2bc619
+    oomp_key: oomp_cpavlina_pth_semi_d_bridge_gbu
+    oomp_key_extra: oomp_footprint_cpavlina_pth_semi_d_bridge_gbu
+    oomp_key_full: oomp_footprint_cpavlina_pth_semi_d_bridge_gbu_2bc619
+    oomp_key_simple: cpavlina_pth_semi_d_bridge_gbu
+    original_filename: kicad-pcblib/pth-semi.pretty/D-BRIDGE-GBU.kicad_mod
+    owner_name: cpavlina
   oomp_key: oomp_cpavlina_pth_semi_d_bridge_gbu
+  oomp_key_full: oomp_footprint_cpavlina_pth_semi_d_bridge_gbu
   oomp_key_simple: cpavlina_pth_semi_d_bridge_gbu
   owner: cpavlina
   repo:

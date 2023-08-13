@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/joanthespark_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_mx_2_75u/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/joanthespark_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_mx_2_75u/working
-    oomp_doc: footprints/footprints/JoanTheSpark/Switch_Keyboard_Hotswap_Kailh/SW_Hotswap_Kailh_MX_2.75u/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/JoanTheSpark/Switch_Keyboard_Hotswap_Kailh/SW_Hotswap_Kailh_MX_2.75u/working
     oomp_src_flat: footprints_flat/footprints_flat/joanthespark_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_mx_2_75u/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/joanthespark_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_mx_2_75u/working
-    oomp_src_folder: footprints_folder/footprints_folder/JoanTheSpark/Switch_Keyboard_Hotswap_Kailh/SW_Hotswap_Kailh_MX_2.75u/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/JoanTheSpark/Switch_Keyboard_Hotswap_Kailh/SW_Hotswap_Kailh_MX_2.75u/working
   name: KiCAD
+  oomp:
+    footprint_name: sw_hotswap_kailh_mx_2_75u
+    library_name: switch_keyboard_hotswap_kailh
+    md5: 0bef8f342e4a64af14f5d98fc6d6fcbd
+    md5_10: 0bef8f342e
+    md5_5: 0bef8
+    md5_6: 0bef8f
+    oomp_key: oomp_joanthespark_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_mx_2_75u
+    oomp_key_extra: oomp_footprint_joanthespark_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_mx_2_75u
+    oomp_key_full: oomp_footprint_joanthespark_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_mx_2_75u_0bef8f
+    oomp_key_simple: joanthespark_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_mx_2_75u
+    original_filename: KiCAD/6.0/3rdparty/footprints/com_github_perigoso_keyswitch-kicad-library/Switch_Keyboard_Hotswap_Kailh.pretty/SW_Hotswap_Kailh_MX_2.75u.kicad_mod
+    owner_name: joanthespark
   oomp_key: oomp_joanthespark_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_mx_2_75u
+  oomp_key_full: oomp_footprint_joanthespark_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_mx_2_75u
   oomp_key_simple: joanthespark_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_mx_2_75u
   owner: JoanTheSpark
   repo:

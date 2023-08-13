@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/electroniccats_signalcommunications_signalcommunications_we_wpcc_5353_760308103102/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/electroniccats_signalcommunications_signalcommunications_we_wpcc_5353_760308103102/working
-    oomp_doc: footprints/footprints/ElectronicCats/SignalCommunications/SignalCommunications-WE-WPCC_5353_760308103102/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ElectronicCats/SignalCommunications/SignalCommunications-WE-WPCC_5353_760308103102/working
     oomp_src_flat: footprints_flat/footprints_flat/electroniccats_signalcommunications_signalcommunications_we_wpcc_5353_760308103102/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/electroniccats_signalcommunications_signalcommunications_we_wpcc_5353_760308103102/working
-    oomp_src_folder: footprints_folder/footprints_folder/ElectronicCats/SignalCommunications/SignalCommunications-WE-WPCC_5353_760308103102/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ElectronicCats/SignalCommunications/SignalCommunications-WE-WPCC_5353_760308103102/working
   name: ComponentLibrariesKicadWurthElektronik
+  oomp:
+    footprint_name: signalcommunications_we_wpcc_5353_760308103102
+    library_name: signalcommunications
+    md5: a1bbfb86b0e4b8c9c3751112c831a392
+    md5_10: a1bbfb86b0
+    md5_5: a1bbf
+    md5_6: a1bbfb
+    oomp_key: oomp_electroniccats_signalcommunications_signalcommunications_we_wpcc_5353_760308103102
+    oomp_key_extra: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_wpcc_5353_760308103102
+    oomp_key_full: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_wpcc_5353_760308103102_a1bbfb
+    oomp_key_simple: electroniccats_signalcommunications_signalcommunications_we_wpcc_5353_760308103102
+    original_filename: ComponentLibrariesKicadWurthElektronik/SIGNAL-COMMUNICATIONS-rev18a/SignalCommunications.pretty/SignalCommunications-WE-WPCC_5353_760308103102.kicad_mod
+    owner_name: electroniccats
   oomp_key: oomp_electroniccats_signalcommunications_signalcommunications_we_wpcc_5353_760308103102
+  oomp_key_full: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_wpcc_5353_760308103102
   oomp_key_simple: electroniccats_signalcommunications_signalcommunications_we_wpcc_5353_760308103102
   owner: ElectronicCats
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cormoran_kicad_inductor_power_6x6mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cormoran_kicad_inductor_power_6x6mm/working
-    oomp_doc: footprints/footprints/cormoran/kicad/INDUCTOR_POWER_6X6MM/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cormoran/kicad/INDUCTOR_POWER_6X6MM/working
     oomp_src_flat: footprints_flat/footprints_flat/cormoran_kicad_inductor_power_6x6mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cormoran_kicad_inductor_power_6x6mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/cormoran/kicad/INDUCTOR_POWER_6X6MM/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cormoran/kicad/INDUCTOR_POWER_6X6MM/working
   name: kicad.pretty
+  oomp:
+    footprint_name: inductor_power_6x6mm
+    library_name: kicad
+    md5: ac07f9a2068ebfe7c0de5c6a0e565284
+    md5_10: ac07f9a206
+    md5_5: ac07f
+    md5_6: ac07f9
+    oomp_key: oomp_cormoran_kicad_inductor_power_6x6mm
+    oomp_key_extra: oomp_footprint_cormoran_kicad_inductor_power_6x6mm
+    oomp_key_full: oomp_footprint_cormoran_kicad_inductor_power_6x6mm_ac07f9
+    oomp_key_simple: cormoran_kicad_inductor_power_6x6mm
+    original_filename: kicad.pretty/INDUCTOR_POWER_6X6MM.kicad_mod
+    owner_name: cormoran
   oomp_key: oomp_cormoran_kicad_inductor_power_6x6mm
+  oomp_key_full: oomp_footprint_cormoran_kicad_inductor_power_6x6mm
   oomp_key_simple: cormoran_kicad_inductor_power_6x6mm
   owner: cormoran
   repo:

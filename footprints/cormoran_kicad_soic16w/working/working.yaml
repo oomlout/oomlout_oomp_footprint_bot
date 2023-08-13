@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cormoran_kicad_soic16w/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cormoran_kicad_soic16w/working
-    oomp_doc: footprints/footprints/cormoran/kicad/SOIC16W/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cormoran/kicad/SOIC16W/working
     oomp_src_flat: footprints_flat/footprints_flat/cormoran_kicad_soic16w/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cormoran_kicad_soic16w/working
-    oomp_src_folder: footprints_folder/footprints_folder/cormoran/kicad/SOIC16W/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cormoran/kicad/SOIC16W/working
   name: kicad.pretty
+  oomp:
+    footprint_name: soic16w
+    library_name: kicad
+    md5: db0fe584c8cd423c4cb6effbc0847623
+    md5_10: db0fe584c8
+    md5_5: db0fe
+    md5_6: db0fe5
+    oomp_key: oomp_cormoran_kicad_soic16w
+    oomp_key_extra: oomp_footprint_cormoran_kicad_soic16w
+    oomp_key_full: oomp_footprint_cormoran_kicad_soic16w_db0fe5
+    oomp_key_simple: cormoran_kicad_soic16w
+    original_filename: kicad.pretty/SOIC16W.kicad_mod
+    owner_name: cormoran
   oomp_key: oomp_cormoran_kicad_soic16w
+  oomp_key_full: oomp_footprint_cormoran_kicad_soic16w
   oomp_key_simple: cormoran_kicad_soic16w
   owner: cormoran
   repo:

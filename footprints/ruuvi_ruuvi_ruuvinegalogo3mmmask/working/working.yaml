@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/ruuvi_ruuvi_ruuvinegalogo3mmmask/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ruuvi_ruuvi_ruuvinegalogo3mmmask/working
-    oomp_doc: footprints/footprints/ruuvi/Ruuvi/ruuvinegalogo3mmmask/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ruuvi/Ruuvi/ruuvinegalogo3mmmask/working
     oomp_src_flat: footprints_flat/footprints_flat/ruuvi_ruuvi_ruuvinegalogo3mmmask/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ruuvi_ruuvi_ruuvinegalogo3mmmask/working
-    oomp_src_folder: footprints_folder/footprints_folder/ruuvi/Ruuvi/ruuvinegalogo3mmmask/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ruuvi/Ruuvi/ruuvinegalogo3mmmask/working
   name: kicad-library
+  oomp:
+    footprint_name: ruuvinegalogo3mmmask
+    library_name: ruuvi
+    md5: 3dce2851f94a011d930c153c064603b2
+    md5_10: 3dce2851f9
+    md5_5: 3dce2
+    md5_6: 3dce28
+    oomp_key: oomp_ruuvi_ruuvi_ruuvinegalogo3mmmask
+    oomp_key_extra: oomp_footprint_ruuvi_ruuvi_ruuvinegalogo3mmmask
+    oomp_key_full: oomp_footprint_ruuvi_ruuvi_ruuvinegalogo3mmmask_3dce28
+    oomp_key_simple: ruuvi_ruuvi_ruuvinegalogo3mmmask
+    original_filename: kicad-library/Ruuvi.pretty/ruuvinegalogo3mmmask.kicad_mod
+    owner_name: ruuvi
   oomp_key: oomp_ruuvi_ruuvi_ruuvinegalogo3mmmask
+  oomp_key_full: oomp_footprint_ruuvi_ruuvi_ruuvinegalogo3mmmask
   oomp_key_simple: ruuvi_ruuvi_ruuvinegalogo3mmmask
   owner: ruuvi
   repo:

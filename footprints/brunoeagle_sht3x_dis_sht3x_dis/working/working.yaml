@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_sht3x_dis_sht3x_dis/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_sht3x_dis_sht3x_dis/working
-    oomp_doc: footprints/footprints/brunoeagle/SHT3x-DIS.kicad_mod/SHT3x-DIS/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/SHT3x-DIS.kicad_mod/SHT3x-DIS/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_sht3x_dis_sht3x_dis/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_sht3x_dis_sht3x_dis/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/SHT3x-DIS.kicad_mod/SHT3x-DIS/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/SHT3x-DIS.kicad_mod/SHT3x-DIS/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: sht3x_dis
+    library_name: sht3x_dis_kicad_mod
+    md5: a9d31271101df6d87f557d639827c136
+    md5_10: a9d3127110
+    md5_5: a9d31
+    md5_6: a9d312
+    oomp_key: oomp_brunoeagle_sht3x_dis_sht3x_dis
+    oomp_key_extra: oomp_footprint_brunoeagle_sht3x_dis_sht3x_dis
+    oomp_key_full: oomp_footprint_brunoeagle_sht3x_dis_sht3x_dis_a9d312
+    oomp_key_simple: brunoeagle_sht3x_dis_sht3x_dis
+    original_filename: kicad-open-modules/SHT3x-DIS.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_sht3x_dis_sht3x_dis
+  oomp_key_full: oomp_footprint_brunoeagle_sht3x_dis_sht3x_dis
   oomp_key_simple: brunoeagle_sht3x_dis_sht3x_dis
   owner: brunoeagle
   repo:

@@ -12,17 +12,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_socket_dip_socket_28_w6_9_w7_62_w10_16_w12_7_w13_5_3m_228_4817_00_0602j/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_socket_dip_socket_28_w6_9_w7_62_w10_16_w12_7_w13_5_3m_228_4817_00_0602j/working
-    oomp_doc: footprints/footprints/kicad/Socket/DIP_Socket-28_W6.9_W7.62_W10.16_W12.7_W13.5_3M_228-4817-00-0602J/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Socket/DIP_Socket-28_W6.9_W7.62_W10.16_W12.7_W13.5_3M_228-4817-00-0602J/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_socket_dip_socket_28_w6_9_w7_62_w10_16_w12_7_w13_5_3m_228_4817_00_0602j/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_socket_dip_socket_28_w6_9_w7_62_w10_16_w12_7_w13_5_3m_228_4817_00_0602j/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Socket/DIP_Socket-28_W6.9_W7.62_W10.16_W12.7_W13.5_3M_228-4817-00-0602J/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Socket/DIP_Socket-28_W6.9_W7.62_W10.16_W12.7_W13.5_3M_228-4817-00-0602J/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: dip_socket_28_w6_9_w7_62_w10_16_w12_7_w13_5_3m_228_4817_00_0602j
+    library_name: socket
+    md5: 91d85d4e2331c39c1e6817f8450c8f1d
+    md5_10: 91d85d4e23
+    md5_5: 91d85
+    md5_6: 91d85d
+    oomp_key: oomp_kicad_socket_dip_socket_28_w6_9_w7_62_w10_16_w12_7_w13_5_3m_228_4817_00_0602j
+    oomp_key_extra: oomp_footprint_kicad_socket_dip_socket_28_w6_9_w7_62_w10_16_w12_7_w13_5_3m_228_4817_00_0602j
+    oomp_key_full: oomp_footprint_kicad_socket_dip_socket_28_w6_9_w7_62_w10_16_w12_7_w13_5_3m_228_4817_00_0602j_91d85d
+    oomp_key_simple: kicad_socket_dip_socket_28_w6_9_w7_62_w10_16_w12_7_w13_5_3m_228_4817_00_0602j
+    original_filename: libraries/kicad-footprints/Socket.pretty/DIP_Socket-28_W6.9_W7.62_W10.16_W12.7_W13.5_3M_228-4817-00-0602J.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_socket_dip_socket_28_w6_9_w7_62_w10_16_w12_7_w13_5_3m_228_4817_00_0602j
+  oomp_key_full: oomp_footprint_kicad_socket_dip_socket_28_w6_9_w7_62_w10_16_w12_7_w13_5_3m_228_4817_00_0602j
   oomp_key_simple: kicad_socket_dip_socket_28_w6_9_w7_62_w10_16_w12_7_w13_5_3m_228_4817_00_0602j
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

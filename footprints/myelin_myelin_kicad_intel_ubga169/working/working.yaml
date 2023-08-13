@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/myelin_myelin_kicad_intel_ubga169/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/myelin_myelin_kicad_intel_ubga169/working
-    oomp_doc: footprints/footprints/myelin/myelin-kicad/intel_ubga169/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/myelin/myelin-kicad/intel_ubga169/working
     oomp_src_flat: footprints_flat/footprints_flat/myelin_myelin_kicad_intel_ubga169/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/myelin_myelin_kicad_intel_ubga169/working
-    oomp_src_folder: footprints_folder/footprints_folder/myelin/myelin-kicad/intel_ubga169/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/myelin/myelin-kicad/intel_ubga169/working
   name: myelin-kicad.pretty
+  oomp:
+    footprint_name: intel_ubga169
+    library_name: myelin_kicad
+    md5: bc56bc259763f12fdcbe3fe3b23e3ff2
+    md5_10: bc56bc2597
+    md5_5: bc56b
+    md5_6: bc56bc
+    oomp_key: oomp_myelin_myelin_kicad_intel_ubga169
+    oomp_key_extra: oomp_footprint_myelin_myelin_kicad_intel_ubga169
+    oomp_key_full: oomp_footprint_myelin_myelin_kicad_intel_ubga169_bc56bc
+    oomp_key_simple: myelin_myelin_kicad_intel_ubga169
+    original_filename: myelin-kicad.pretty/intel_ubga169.kicad_mod
+    owner_name: myelin
   oomp_key: oomp_myelin_myelin_kicad_intel_ubga169
+  oomp_key_full: oomp_footprint_myelin_myelin_kicad_intel_ubga169
   oomp_key_simple: myelin_myelin_kicad_intel_ubga169
   owner: myelin
   repo:

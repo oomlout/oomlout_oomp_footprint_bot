@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/nppc_rotary_encoder_rotary_encoder/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nppc_rotary_encoder_rotary_encoder/working
-    oomp_doc: footprints/footprints/nppc/ROTARY-ENCODER.kicad_mod/ROTARY-ENCODER/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/nppc/ROTARY-ENCODER.kicad_mod/ROTARY-ENCODER/working
     oomp_src_flat: footprints_flat/footprints_flat/nppc_rotary_encoder_rotary_encoder/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nppc_rotary_encoder_rotary_encoder/working
-    oomp_src_folder: footprints_folder/footprints_folder/nppc/ROTARY-ENCODER.kicad_mod/ROTARY-ENCODER/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/nppc/ROTARY-ENCODER.kicad_mod/ROTARY-ENCODER/working
   name: KiCadCustomLibs
+  oomp:
+    footprint_name: rotary_encoder
+    library_name: rotary_encoder_kicad_mod
+    md5: ff04e91b9fb884193b6fec1bfd1dccd4
+    md5_10: ff04e91b9f
+    md5_5: ff04e
+    md5_6: ff04e9
+    oomp_key: oomp_nppc_rotary_encoder_rotary_encoder
+    oomp_key_extra: oomp_footprint_nppc_rotary_encoder_rotary_encoder
+    oomp_key_full: oomp_footprint_nppc_rotary_encoder_rotary_encoder_ff04e9
+    oomp_key_simple: nppc_rotary_encoder_rotary_encoder
+    original_filename: KiCadCustomLibs/ROTARY-ENCODER.kicad_mod
+    owner_name: nppc
   oomp_key: oomp_nppc_rotary_encoder_rotary_encoder
+  oomp_key_full: oomp_footprint_nppc_rotary_encoder_rotary_encoder
   oomp_key_simple: nppc_rotary_encoder_rotary_encoder
   owner: nppc
   repo:

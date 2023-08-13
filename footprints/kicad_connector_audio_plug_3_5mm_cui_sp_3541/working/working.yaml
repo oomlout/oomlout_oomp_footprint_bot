@@ -11,17 +11,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_connector_audio_plug_3_5mm_cui_sp_3541/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_connector_audio_plug_3_5mm_cui_sp_3541/working
-    oomp_doc: footprints/footprints/kicad/Connector_Audio/Plug_3.5mm_CUI_SP-3541/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Connector_Audio/Plug_3.5mm_CUI_SP-3541/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_connector_audio_plug_3_5mm_cui_sp_3541/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_connector_audio_plug_3_5mm_cui_sp_3541/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Connector_Audio/Plug_3.5mm_CUI_SP-3541/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Connector_Audio/Plug_3.5mm_CUI_SP-3541/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: plug_3_5mm_cui_sp_3541
+    library_name: connector_audio
+    md5: d0232a4e46511524e20c4046d234f074
+    md5_10: d0232a4e46
+    md5_5: d0232
+    md5_6: d0232a
+    oomp_key: oomp_kicad_connector_audio_plug_3_5mm_cui_sp_3541
+    oomp_key_extra: oomp_footprint_kicad_connector_audio_plug_3_5mm_cui_sp_3541
+    oomp_key_full: oomp_footprint_kicad_connector_audio_plug_3_5mm_cui_sp_3541_d0232a
+    oomp_key_simple: kicad_connector_audio_plug_3_5mm_cui_sp_3541
+    original_filename: libraries/kicad-footprints/Connector_Audio.pretty/Plug_3.5mm_CUI_SP-3541.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_connector_audio_plug_3_5mm_cui_sp_3541
+  oomp_key_full: oomp_footprint_kicad_connector_audio_plug_3_5mm_cui_sp_3541
   oomp_key_simple: kicad_connector_audio_plug_3_5mm_cui_sp_3541
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

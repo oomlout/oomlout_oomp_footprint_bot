@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/monostable_commonpartslibrary_xtal320x150x90/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/monostable_commonpartslibrary_xtal320x150x90/working
-    oomp_doc: footprints/footprints/monostable/CommonPartsLibrary/XTAL320X150X90/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/monostable/CommonPartsLibrary/XTAL320X150X90/working
     oomp_src_flat: footprints_flat/footprints_flat/monostable_commonpartslibrary_xtal320x150x90/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/monostable_commonpartslibrary_xtal320x150x90/working
-    oomp_src_folder: footprints_folder/footprints_folder/monostable/CommonPartsLibrary/XTAL320X150X90/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/monostable/CommonPartsLibrary/XTAL320X150X90/working
   name: CommonPartsLibrary.pretty
+  oomp:
+    footprint_name: xtal320x150x90
+    library_name: commonpartslibrary
+    md5: 3e36e3bf31ff5243358511dbd90baef9
+    md5_10: 3e36e3bf31
+    md5_5: 3e36e
+    md5_6: 3e36e3
+    oomp_key: oomp_monostable_commonpartslibrary_xtal320x150x90
+    oomp_key_extra: oomp_footprint_monostable_commonpartslibrary_xtal320x150x90
+    oomp_key_full: oomp_footprint_monostable_commonpartslibrary_xtal320x150x90_3e36e3
+    oomp_key_simple: monostable_commonpartslibrary_xtal320x150x90
+    original_filename: CommonPartsLibrary.pretty/XTAL320X150X90.kicad_mod
+    owner_name: monostable
   oomp_key: oomp_monostable_commonpartslibrary_xtal320x150x90
+  oomp_key_full: oomp_footprint_monostable_commonpartslibrary_xtal320x150x90
   oomp_key_simple: monostable_commonpartslibrary_xtal320x150x90
   owner: monostable
   repo:

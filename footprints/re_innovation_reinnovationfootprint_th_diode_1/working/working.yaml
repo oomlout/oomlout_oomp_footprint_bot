@@ -13,14 +13,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/re_innovation_reinnovationfootprint_th_diode_1/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/re_innovation_reinnovationfootprint_th_diode_1/working
-    oomp_doc: footprints/footprints/re-innovation/REInnovationFootprint/TH_Diode_1/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/re-innovation/REInnovationFootprint/TH_Diode_1/working
     oomp_src_flat: footprints_flat/footprints_flat/re_innovation_reinnovationfootprint_th_diode_1/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/re_innovation_reinnovationfootprint_th_diode_1/working
-    oomp_src_folder: footprints_folder/footprints_folder/re-innovation/REInnovationFootprint/TH_Diode_1/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/re-innovation/REInnovationFootprint/TH_Diode_1/working
   name: kicad_reinnovation
+  oomp:
+    footprint_name: th_diode_1
+    library_name: reinnovationfootprint
+    md5: 82baf4e11f6c8b2d74d720d882ab9fb6
+    md5_10: 82baf4e11f
+    md5_5: 82baf
+    md5_6: 82baf4
+    oomp_key: oomp_re_innovation_reinnovationfootprint_th_diode_1
+    oomp_key_extra: oomp_footprint_re_innovation_reinnovationfootprint_th_diode_1
+    oomp_key_full: oomp_footprint_re_innovation_reinnovationfootprint_th_diode_1_82baf4
+    oomp_key_simple: re_innovation_reinnovationfootprint_th_diode_1
+    original_filename: kicad_reinnovation/KiCAD PRETTY/REInnovationFootprint.pretty/TH_Diode_1.kicad_mod
+    owner_name: re_innovation
   oomp_key: oomp_re_innovation_reinnovationfootprint_th_diode_1
+  oomp_key_full: oomp_footprint_re_innovation_reinnovationfootprint_th_diode_1
   oomp_key_simple: re_innovation_reinnovationfootprint_th_diode_1
   owner: re-innovation
   repo:

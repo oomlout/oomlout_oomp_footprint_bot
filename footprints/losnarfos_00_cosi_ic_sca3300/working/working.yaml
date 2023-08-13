@@ -14,14 +14,24 @@
     github_src_repo: https://github.com/LosNarfos/Kicad_Libraries
     oomp_bot: footprints/losnarfos_00_cosi_ic_sca3300/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/losnarfos_00_cosi_ic_sca3300/working
-    oomp_doc: footprints/footprints/LosNarfos/00_cosi_IC/SCA3300/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/LosNarfos/00_cosi_IC/SCA3300/working
     oomp_src_flat: footprints_flat/footprints_flat/losnarfos_00_cosi_ic_sca3300/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/losnarfos_00_cosi_ic_sca3300/working
-    oomp_src_folder: footprints_folder/footprints_folder/LosNarfos/00_cosi_IC/SCA3300/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/LosNarfos/00_cosi_IC/SCA3300/working
   name: Kicad_Libraries
+  oomp:
+    footprint_name: sca3300
+    library_name: 00_cosi_ic
+    md5: 5bb93f7a5fd2e54c845105da8c6526d1
+    md5_10: 5bb93f7a5f
+    md5_5: 5bb93
+    md5_6: 5bb93f
+    oomp_key: oomp_losnarfos_00_cosi_ic_sca3300
+    oomp_key_extra: oomp_footprint_losnarfos_00_cosi_ic_sca3300
+    oomp_key_full: oomp_footprint_losnarfos_00_cosi_ic_sca3300_5bb93f
+    oomp_key_simple: losnarfos_00_cosi_ic_sca3300
+    original_filename: Kicad_Libraries/cosi_footprints/00_cosi_IC.pretty/SCA3300.kicad_mod
+    owner_name: losnarfos
   oomp_key: oomp_losnarfos_00_cosi_ic_sca3300
+  oomp_key_full: oomp_footprint_losnarfos_00_cosi_ic_sca3300
   oomp_key_simple: losnarfos_00_cosi_ic_sca3300
   owner: LosNarfos
   repo:

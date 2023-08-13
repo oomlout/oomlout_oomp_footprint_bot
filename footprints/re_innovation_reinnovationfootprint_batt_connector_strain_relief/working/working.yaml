@@ -13,14 +13,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/re_innovation_reinnovationfootprint_batt_connector_strain_relief/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/re_innovation_reinnovationfootprint_batt_connector_strain_relief/working
-    oomp_doc: footprints/footprints/re-innovation/REInnovationFootprint/Batt_Connector_Strain_Relief/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/re-innovation/REInnovationFootprint/Batt_Connector_Strain_Relief/working
     oomp_src_flat: footprints_flat/footprints_flat/re_innovation_reinnovationfootprint_batt_connector_strain_relief/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/re_innovation_reinnovationfootprint_batt_connector_strain_relief/working
-    oomp_src_folder: footprints_folder/footprints_folder/re-innovation/REInnovationFootprint/Batt_Connector_Strain_Relief/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/re-innovation/REInnovationFootprint/Batt_Connector_Strain_Relief/working
   name: kicad_reinnovation
+  oomp:
+    footprint_name: batt_connector_strain_relief
+    library_name: reinnovationfootprint
+    md5: 3204cbfb4a4532bbd5c33fc214bd2cdd
+    md5_10: 3204cbfb4a
+    md5_5: 3204c
+    md5_6: 3204cb
+    oomp_key: oomp_re_innovation_reinnovationfootprint_batt_connector_strain_relief
+    oomp_key_extra: oomp_footprint_re_innovation_reinnovationfootprint_batt_connector_strain_relief
+    oomp_key_full: oomp_footprint_re_innovation_reinnovationfootprint_batt_connector_strain_relief_3204cb
+    oomp_key_simple: re_innovation_reinnovationfootprint_batt_connector_strain_relief
+    original_filename: kicad_reinnovation/KiCAD PRETTY/REInnovationFootprint.pretty/Batt_Connector_Strain_Relief.kicad_mod
+    owner_name: re_innovation
   oomp_key: oomp_re_innovation_reinnovationfootprint_batt_connector_strain_relief
+  oomp_key_full: oomp_footprint_re_innovation_reinnovationfootprint_batt_connector_strain_relief
   oomp_key_simple: re_innovation_reinnovationfootprint_batt_connector_strain_relief
   owner: re-innovation
   repo:

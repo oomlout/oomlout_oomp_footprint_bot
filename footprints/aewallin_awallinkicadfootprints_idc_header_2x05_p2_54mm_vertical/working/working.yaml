@@ -14,14 +14,24 @@
     github_src_repo: https://github.com/aewallin/awallinKiCadFootprints.pretty
     oomp_bot: footprints/aewallin_awallinkicadfootprints_idc_header_2x05_p2_54mm_vertical/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/aewallin_awallinkicadfootprints_idc_header_2x05_p2_54mm_vertical/working
-    oomp_doc: footprints/footprints/aewallin/awallinKiCadFootprints/IDC-Header_2x05_P2.54mm_Vertical/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/aewallin/awallinKiCadFootprints/IDC-Header_2x05_P2.54mm_Vertical/working
     oomp_src_flat: footprints_flat/footprints_flat/aewallin_awallinkicadfootprints_idc_header_2x05_p2_54mm_vertical/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/aewallin_awallinkicadfootprints_idc_header_2x05_p2_54mm_vertical/working
-    oomp_src_folder: footprints_folder/footprints_folder/aewallin/awallinKiCadFootprints/IDC-Header_2x05_P2.54mm_Vertical/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/aewallin/awallinKiCadFootprints/IDC-Header_2x05_P2.54mm_Vertical/working
   name: awallinKiCadFootprints.pretty
+  oomp:
+    footprint_name: idc_header_2x05_p2_54mm_vertical
+    library_name: awallinkicadfootprints
+    md5: 54b181a94dad66fbca244cb5a20d0429
+    md5_10: 54b181a94d
+    md5_5: 54b18
+    md5_6: 54b181
+    oomp_key: oomp_aewallin_awallinkicadfootprints_idc_header_2x05_p2_54mm_vertical
+    oomp_key_extra: oomp_footprint_aewallin_awallinkicadfootprints_idc_header_2x05_p2_54mm_vertical
+    oomp_key_full: oomp_footprint_aewallin_awallinkicadfootprints_idc_header_2x05_p2_54mm_vertical_54b181
+    oomp_key_simple: aewallin_awallinkicadfootprints_idc_header_2x05_p2_54mm_vertical
+    original_filename: awallinKiCadFootprints.pretty/IDC-Header_2x05_P2.54mm_Vertical.kicad_mod
+    owner_name: aewallin
   oomp_key: oomp_aewallin_awallinkicadfootprints_idc_header_2x05_p2_54mm_vertical
+  oomp_key_full: oomp_footprint_aewallin_awallinkicadfootprints_idc_header_2x05_p2_54mm_vertical
   oomp_key_simple: aewallin_awallinkicadfootprints_idc_header_2x05_p2_54mm_vertical
   owner: aewallin
   repo:

@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/dchwebb_custom_footprints_ice40_qfn_48_stencil/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/dchwebb_custom_footprints_ice40_qfn_48_stencil/working
-    oomp_doc: footprints/footprints/dchwebb/Custom_Footprints/ICE40_QFN-48-stencil/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/dchwebb/Custom_Footprints/ICE40_QFN-48-stencil/working
     oomp_src_flat: footprints_flat/footprints_flat/dchwebb_custom_footprints_ice40_qfn_48_stencil/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/dchwebb_custom_footprints_ice40_qfn_48_stencil/working
-    oomp_src_folder: footprints_folder/footprints_folder/dchwebb/Custom_Footprints/ICE40_QFN-48-stencil/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/dchwebb/Custom_Footprints/ICE40_QFN-48-stencil/working
   name: Custom_Footprints.pretty
+  oomp:
+    footprint_name: ice40_qfn_48_stencil
+    library_name: custom_footprints
+    md5: 6fd0a6d38a61ff538eee5e7bc913ad93
+    md5_10: 6fd0a6d38a
+    md5_5: 6fd0a
+    md5_6: 6fd0a6
+    oomp_key: oomp_dchwebb_custom_footprints_ice40_qfn_48_stencil
+    oomp_key_extra: oomp_footprint_dchwebb_custom_footprints_ice40_qfn_48_stencil
+    oomp_key_full: oomp_footprint_dchwebb_custom_footprints_ice40_qfn_48_stencil_6fd0a6
+    oomp_key_simple: dchwebb_custom_footprints_ice40_qfn_48_stencil
+    original_filename: Custom_Footprints.pretty/ICE40_QFN-48-stencil.kicad_mod
+    owner_name: dchwebb
   oomp_key: oomp_dchwebb_custom_footprints_ice40_qfn_48_stencil
+  oomp_key_full: oomp_footprint_dchwebb_custom_footprints_ice40_qfn_48_stencil
   oomp_key_simple: dchwebb_custom_footprints_ice40_qfn_48_stencil
   owner: dchwebb
   repo:

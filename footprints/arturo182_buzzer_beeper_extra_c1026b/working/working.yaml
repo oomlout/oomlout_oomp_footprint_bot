@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/arturo182/kicad-modules
     oomp_bot: footprints/arturo182_buzzer_beeper_extra_c1026b/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/arturo182_buzzer_beeper_extra_c1026b/working
-    oomp_doc: footprints/footprints/arturo182/Buzzer_Beeper_Extra/C1026B/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/arturo182/Buzzer_Beeper_Extra/C1026B/working
     oomp_src_flat: footprints_flat/footprints_flat/arturo182_buzzer_beeper_extra_c1026b/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/arturo182_buzzer_beeper_extra_c1026b/working
-    oomp_src_folder: footprints_folder/footprints_folder/arturo182/Buzzer_Beeper_Extra/C1026B/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/arturo182/Buzzer_Beeper_Extra/C1026B/working
   name: kicad-modules
+  oomp:
+    footprint_name: c1026b
+    library_name: buzzer_beeper_extra
+    md5: b7bce96ce38c33dabc0bff3bc1df8f40
+    md5_10: b7bce96ce3
+    md5_5: b7bce
+    md5_6: b7bce9
+    oomp_key: oomp_arturo182_buzzer_beeper_extra_c1026b
+    oomp_key_extra: oomp_footprint_arturo182_buzzer_beeper_extra_c1026b
+    oomp_key_full: oomp_footprint_arturo182_buzzer_beeper_extra_c1026b_b7bce9
+    oomp_key_simple: arturo182_buzzer_beeper_extra_c1026b
+    original_filename: kicad-modules/Buzzer_Beeper_Extra.pretty/C1026B.kicad_mod
+    owner_name: arturo182
   oomp_key: oomp_arturo182_buzzer_beeper_extra_c1026b
+  oomp_key_full: oomp_footprint_arturo182_buzzer_beeper_extra_c1026b
   oomp_key_simple: arturo182_buzzer_beeper_extra_c1026b
   owner: arturo182
   repo:

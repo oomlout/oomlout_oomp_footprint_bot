@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/esden_pkl_housings_power_sot_669_lfpak/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/esden_pkl_housings_power_sot_669_lfpak/working
-    oomp_doc: footprints/footprints/esden/pkl_housings_power/SOT-669_LFPAK/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/esden/pkl_housings_power/SOT-669_LFPAK/working
     oomp_src_flat: footprints_flat/footprints_flat/esden_pkl_housings_power_sot_669_lfpak/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/esden_pkl_housings_power_sot_669_lfpak/working
-    oomp_src_folder: footprints_folder/footprints_folder/esden/pkl_housings_power/SOT-669_LFPAK/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/esden/pkl_housings_power/SOT-669_LFPAK/working
   name: pretty-kicad-libs
+  oomp:
+    footprint_name: sot_669_lfpak
+    library_name: pkl_housings_power
+    md5: 48aba48c2ec22aa52888d958fabf2108
+    md5_10: 48aba48c2e
+    md5_5: 48aba
+    md5_6: 48aba4
+    oomp_key: oomp_esden_pkl_housings_power_sot_669_lfpak
+    oomp_key_extra: oomp_footprint_esden_pkl_housings_power_sot_669_lfpak
+    oomp_key_full: oomp_footprint_esden_pkl_housings_power_sot_669_lfpak_48aba4
+    oomp_key_simple: esden_pkl_housings_power_sot_669_lfpak
+    original_filename: pretty-kicad-libs/pkl_housings_power.pretty/SOT-669_LFPAK.kicad_mod
+    owner_name: esden
   oomp_key: oomp_esden_pkl_housings_power_sot_669_lfpak
+  oomp_key_full: oomp_footprint_esden_pkl_housings_power_sot_669_lfpak
   oomp_key_simple: esden_pkl_housings_power_sot_669_lfpak
   owner: esden
   repo:

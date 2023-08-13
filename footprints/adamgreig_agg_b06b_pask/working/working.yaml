@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/adamgreig/agg-kicad
     oomp_bot: footprints/adamgreig_agg_b06b_pask/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/adamgreig_agg_b06b_pask/working
-    oomp_doc: footprints/footprints/adamgreig/agg/B06B-PASK/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/adamgreig/agg/B06B-PASK/working
     oomp_src_flat: footprints_flat/footprints_flat/adamgreig_agg_b06b_pask/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/adamgreig_agg_b06b_pask/working
-    oomp_src_folder: footprints_folder/footprints_folder/adamgreig/agg/B06B-PASK/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/adamgreig/agg/B06B-PASK/working
   name: agg-kicad
+  oomp:
+    footprint_name: b06b_pask
+    library_name: agg
+    md5: 4a0c24edb347f6af335d70d08c2df1c7
+    md5_10: 4a0c24edb3
+    md5_5: 4a0c2
+    md5_6: 4a0c24
+    oomp_key: oomp_adamgreig_agg_b06b_pask
+    oomp_key_extra: oomp_footprint_adamgreig_agg_b06b_pask
+    oomp_key_full: oomp_footprint_adamgreig_agg_b06b_pask_4a0c24
+    oomp_key_simple: adamgreig_agg_b06b_pask
+    original_filename: agg-kicad/agg.pretty/B06B-PASK.kicad_mod
+    owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_b06b_pask
+  oomp_key_full: oomp_footprint_adamgreig_agg_b06b_pask
   oomp_key_simple: adamgreig_agg_b06b_pask
   owner: adamgreig
   repo:

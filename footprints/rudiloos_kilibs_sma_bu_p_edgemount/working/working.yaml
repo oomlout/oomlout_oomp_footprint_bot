@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/rudiloos_kilibs_sma_bu_p_edgemount/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/rudiloos_kilibs_sma_bu_p_edgemount/working
-    oomp_doc: footprints/footprints/rudiloos/kilibs/SMA-BU-P_EdgeMount/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/rudiloos/kilibs/SMA-BU-P_EdgeMount/working
     oomp_src_flat: footprints_flat/footprints_flat/rudiloos_kilibs_sma_bu_p_edgemount/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/rudiloos_kilibs_sma_bu_p_edgemount/working
-    oomp_src_folder: footprints_folder/footprints_folder/rudiloos/kilibs/SMA-BU-P_EdgeMount/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/rudiloos/kilibs/SMA-BU-P_EdgeMount/working
   name: kilibs.pretty
+  oomp:
+    footprint_name: sma_bu_p_edgemount
+    library_name: kilibs
+    md5: de4984d121ed8784ebd02d0c95abd472
+    md5_10: de4984d121
+    md5_5: de498
+    md5_6: de4984
+    oomp_key: oomp_rudiloos_kilibs_sma_bu_p_edgemount
+    oomp_key_extra: oomp_footprint_rudiloos_kilibs_sma_bu_p_edgemount
+    oomp_key_full: oomp_footprint_rudiloos_kilibs_sma_bu_p_edgemount_de4984
+    oomp_key_simple: rudiloos_kilibs_sma_bu_p_edgemount
+    original_filename: kilibs.pretty/SMA-BU-P_EdgeMount.kicad_mod
+    owner_name: rudiloos
   oomp_key: oomp_rudiloos_kilibs_sma_bu_p_edgemount
+  oomp_key_full: oomp_footprint_rudiloos_kilibs_sma_bu_p_edgemount
   oomp_key_simple: rudiloos_kilibs_sma_bu_p_edgemount
   owner: rudiloos
   repo:

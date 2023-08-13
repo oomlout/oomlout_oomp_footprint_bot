@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/stefanhamminga_sh_bga_mapbga_121_8x8mm_0_65mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stefanhamminga_sh_bga_mapbga_121_8x8mm_0_65mm/working
-    oomp_doc: footprints/footprints/StefanHamminga/SH_BGA/MAPBGA-121_8x8mm_0.65mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/StefanHamminga/SH_BGA/MAPBGA-121_8x8mm_0.65mm/working
     oomp_src_flat: footprints_flat/footprints_flat/stefanhamminga_sh_bga_mapbga_121_8x8mm_0_65mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/stefanhamminga_sh_bga_mapbga_121_8x8mm_0_65mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/StefanHamminga/SH_BGA/MAPBGA-121_8x8mm_0.65mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/StefanHamminga/SH_BGA/MAPBGA-121_8x8mm_0.65mm/working
   name: SH_BGA.pretty
+  oomp:
+    footprint_name: mapbga_121_8x8mm_0_65mm
+    library_name: sh_bga
+    md5: 2ab2192806fd4f0e75bd71752a6963a2
+    md5_10: 2ab2192806
+    md5_5: 2ab21
+    md5_6: 2ab219
+    oomp_key: oomp_stefanhamminga_sh_bga_mapbga_121_8x8mm_0_65mm
+    oomp_key_extra: oomp_footprint_stefanhamminga_sh_bga_mapbga_121_8x8mm_0_65mm
+    oomp_key_full: oomp_footprint_stefanhamminga_sh_bga_mapbga_121_8x8mm_0_65mm_2ab219
+    oomp_key_simple: stefanhamminga_sh_bga_mapbga_121_8x8mm_0_65mm
+    original_filename: SH_BGA.pretty/MAPBGA-121_8x8mm_0.65mm.kicad_mod
+    owner_name: stefanhamminga
   oomp_key: oomp_stefanhamminga_sh_bga_mapbga_121_8x8mm_0_65mm
+  oomp_key_full: oomp_footprint_stefanhamminga_sh_bga_mapbga_121_8x8mm_0_65mm
   oomp_key_simple: stefanhamminga_sh_bga_mapbga_121_8x8mm_0_65mm
   owner: StefanHamminga
   repo:

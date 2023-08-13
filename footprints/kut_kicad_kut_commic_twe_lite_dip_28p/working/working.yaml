@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/KUT-KiCad/KUT_CommIC.pretty
     oomp_bot: footprints/kut_kicad_kut_commic_twe_lite_dip_28p/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kut_kicad_kut_commic_twe_lite_dip_28p/working
-    oomp_doc: footprints/footprints/KUT-KiCad/KUT_CommIC/TWE-Lite_DIP_28P/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/KUT-KiCad/KUT_CommIC/TWE-Lite_DIP_28P/working
     oomp_src_flat: footprints_flat/footprints_flat/kut_kicad_kut_commic_twe_lite_dip_28p/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kut_kicad_kut_commic_twe_lite_dip_28p/working
-    oomp_src_folder: footprints_folder/footprints_folder/KUT-KiCad/KUT_CommIC/TWE-Lite_DIP_28P/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/KUT-KiCad/KUT_CommIC/TWE-Lite_DIP_28P/working
   name: KUT_CommIC.pretty
+  oomp:
+    footprint_name: twe_lite_dip_28p
+    library_name: kut_commic
+    md5: 4d71aa7461e4b3684681524830f4aaf7
+    md5_10: 4d71aa7461
+    md5_5: 4d71a
+    md5_6: 4d71aa
+    oomp_key: oomp_kut_kicad_kut_commic_twe_lite_dip_28p
+    oomp_key_extra: oomp_footprint_kut_kicad_kut_commic_twe_lite_dip_28p
+    oomp_key_full: oomp_footprint_kut_kicad_kut_commic_twe_lite_dip_28p_4d71aa
+    oomp_key_simple: kut_kicad_kut_commic_twe_lite_dip_28p
+    original_filename: KUT_CommIC.pretty/TWE-Lite_DIP_28P.kicad_mod
+    owner_name: kut_kicad
   oomp_key: oomp_kut_kicad_kut_commic_twe_lite_dip_28p
+  oomp_key_full: oomp_footprint_kut_kicad_kut_commic_twe_lite_dip_28p
   oomp_key_simple: kut_kicad_kut_commic_twe_lite_dip_28p
   owner: KUT-KiCad
   repo:

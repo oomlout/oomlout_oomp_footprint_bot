@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/1Bitsy/1bitsy-hardware-lib
     oomp_bot: footprints/1bitsy_1bitsy_1bitsy_sl_1xx_xx_19/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/1bitsy_1bitsy_1bitsy_sl_1xx_xx_19/working
-    oomp_doc: footprints/footprints/1Bitsy/1bitsy/1bitsy-sl-1xx-xx-19/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/1Bitsy/1bitsy/1bitsy-sl-1xx-xx-19/working
     oomp_src_flat: footprints_flat/footprints_flat/1bitsy_1bitsy_1bitsy_sl_1xx_xx_19/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/1bitsy_1bitsy_1bitsy_sl_1xx_xx_19/working
-    oomp_src_folder: footprints_folder/footprints_folder/1Bitsy/1bitsy/1bitsy-sl-1xx-xx-19/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/1Bitsy/1bitsy/1bitsy-sl-1xx-xx-19/working
   name: 1bitsy-hardware-lib
+  oomp:
+    footprint_name: 1bitsy_sl_1xx_xx_19
+    library_name: 1bitsy
+    md5: 06b6f53472406b787a7ea91a4c496b91
+    md5_10: 06b6f53472
+    md5_5: 06b6f
+    md5_6: 06b6f5
+    oomp_key: oomp_1bitsy_1bitsy_1bitsy_sl_1xx_xx_19
+    oomp_key_extra: oomp_footprint_1bitsy_1bitsy_1bitsy_sl_1xx_xx_19
+    oomp_key_full: oomp_footprint_1bitsy_1bitsy_1bitsy_sl_1xx_xx_19_06b6f5
+    oomp_key_simple: 1bitsy_1bitsy_1bitsy_sl_1xx_xx_19
+    original_filename: 1bitsy-hardware-lib/kicad/1bitsy.pretty/1bitsy-sl-1xx-xx-19.kicad_mod
+    owner_name: 1bitsy
   oomp_key: oomp_1bitsy_1bitsy_1bitsy_sl_1xx_xx_19
+  oomp_key_full: oomp_footprint_1bitsy_1bitsy_1bitsy_sl_1xx_xx_19
   oomp_key_simple: 1bitsy_1bitsy_1bitsy_sl_1xx_xx_19
   owner: 1Bitsy
   repo:

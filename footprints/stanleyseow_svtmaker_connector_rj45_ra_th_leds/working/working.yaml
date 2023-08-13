@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/stanleyseow_svtmaker_connector_rj45_ra_th_leds/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stanleyseow_svtmaker_connector_rj45_ra_th_leds/working
-    oomp_doc: footprints/footprints/stanleyseow/SVTmaker/CONNECTOR_RJ45_RA_TH_LEDS/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/stanleyseow/SVTmaker/CONNECTOR_RJ45_RA_TH_LEDS/working
     oomp_src_flat: footprints_flat/footprints_flat/stanleyseow_svtmaker_connector_rj45_ra_th_leds/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/stanleyseow_svtmaker_connector_rj45_ra_th_leds/working
-    oomp_src_folder: footprints_folder/footprints_folder/stanleyseow/SVTmaker/CONNECTOR_RJ45_RA_TH_LEDS/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/stanleyseow/SVTmaker/CONNECTOR_RJ45_RA_TH_LEDS/working
   name: SVTmaker.pretty
+  oomp:
+    footprint_name: connector_rj45_ra_th_leds
+    library_name: svtmaker
+    md5: 87803cfdfe9dbd48ca6d2377829080fe
+    md5_10: 87803cfdfe
+    md5_5: '87803'
+    md5_6: 87803c
+    oomp_key: oomp_stanleyseow_svtmaker_connector_rj45_ra_th_leds
+    oomp_key_extra: oomp_footprint_stanleyseow_svtmaker_connector_rj45_ra_th_leds
+    oomp_key_full: oomp_footprint_stanleyseow_svtmaker_connector_rj45_ra_th_leds_87803c
+    oomp_key_simple: stanleyseow_svtmaker_connector_rj45_ra_th_leds
+    original_filename: SVTmaker.pretty/CONNECTOR_RJ45_RA_TH_LEDS.kicad_mod
+    owner_name: stanleyseow
   oomp_key: oomp_stanleyseow_svtmaker_connector_rj45_ra_th_leds
+  oomp_key_full: oomp_footprint_stanleyseow_svtmaker_connector_rj45_ra_th_leds
   oomp_key_simple: stanleyseow_svtmaker_connector_rj45_ra_th_leds
   owner: stanleyseow
   repo:

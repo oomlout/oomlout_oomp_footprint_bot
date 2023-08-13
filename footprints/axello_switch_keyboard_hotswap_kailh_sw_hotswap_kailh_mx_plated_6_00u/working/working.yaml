@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/axello_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_mx_plated_6_00u/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/axello_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_mx_plated_6_00u/working
-    oomp_doc: footprints/footprints/axello/Switch_Keyboard_Hotswap_Kailh/SW_Hotswap_Kailh_MX_plated_6.00u/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/axello/Switch_Keyboard_Hotswap_Kailh/SW_Hotswap_Kailh_MX_plated_6.00u/working
     oomp_src_flat: footprints_flat/footprints_flat/axello_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_mx_plated_6_00u/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/axello_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_mx_plated_6_00u/working
-    oomp_src_folder: footprints_folder/footprints_folder/axello/Switch_Keyboard_Hotswap_Kailh/SW_Hotswap_Kailh_MX_plated_6.00u/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/axello/Switch_Keyboard_Hotswap_Kailh/SW_Hotswap_Kailh_MX_plated_6.00u/working
   name: kicad
+  oomp:
+    footprint_name: sw_hotswap_kailh_mx_plated_6_00u
+    library_name: switch_keyboard_hotswap_kailh
+    md5: ddceb31f4eca6f558aae2c696d979d9a
+    md5_10: ddceb31f4e
+    md5_5: ddceb
+    md5_6: ddceb3
+    oomp_key: oomp_axello_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_mx_plated_6_00u
+    oomp_key_extra: oomp_footprint_axello_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_mx_plated_6_00u
+    oomp_key_full: oomp_footprint_axello_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_mx_plated_6_00u_ddceb3
+    oomp_key_simple: axello_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_mx_plated_6_00u
+    original_filename: kicad/6.0/3rdparty/footprints/com_github_perigoso_keyswitch-kicad-library/Switch_Keyboard_Hotswap_Kailh.pretty/SW_Hotswap_Kailh_MX_plated_6.00u.kicad_mod
+    owner_name: axello
   oomp_key: oomp_axello_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_mx_plated_6_00u
+  oomp_key_full: oomp_footprint_axello_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_mx_plated_6_00u
   oomp_key_simple: axello_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_mx_plated_6_00u
   owner: axello
   repo:

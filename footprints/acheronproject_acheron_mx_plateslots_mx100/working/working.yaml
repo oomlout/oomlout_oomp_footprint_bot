@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/AcheronProject/acheron_MX_PlateSlots.pretty
     oomp_bot: footprints/acheronproject_acheron_mx_plateslots_mx100/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/acheronproject_acheron_mx_plateslots_mx100/working
-    oomp_doc: footprints/footprints/AcheronProject/acheron_MX_PlateSlots/MX100/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/AcheronProject/acheron_MX_PlateSlots/MX100/working
     oomp_src_flat: footprints_flat/footprints_flat/acheronproject_acheron_mx_plateslots_mx100/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/acheronproject_acheron_mx_plateslots_mx100/working
-    oomp_src_folder: footprints_folder/footprints_folder/AcheronProject/acheron_MX_PlateSlots/MX100/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/AcheronProject/acheron_MX_PlateSlots/MX100/working
   name: acheron_MX_PlateSlots.pretty
+  oomp:
+    footprint_name: mx100
+    library_name: acheron_mx_plateslots
+    md5: 9bc6006fe1bb172b7bcf2aca2f4250fb
+    md5_10: 9bc6006fe1
+    md5_5: 9bc60
+    md5_6: 9bc600
+    oomp_key: oomp_acheronproject_acheron_mx_plateslots_mx100
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_mx_plateslots_mx100
+    oomp_key_full: oomp_footprint_acheronproject_acheron_mx_plateslots_mx100_9bc600
+    oomp_key_simple: acheronproject_acheron_mx_plateslots_mx100
+    original_filename: acheron_MX_PlateSlots.pretty/MX100.kicad_mod
+    owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_mx_plateslots_mx100
+  oomp_key_full: oomp_footprint_acheronproject_acheron_mx_plateslots_mx100
   oomp_key_simple: acheronproject_acheron_mx_plateslots_mx100
   owner: AcheronProject
   repo:

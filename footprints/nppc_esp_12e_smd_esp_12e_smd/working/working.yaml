@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/nppc_esp_12e_smd_esp_12e_smd/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nppc_esp_12e_smd_esp_12e_smd/working
-    oomp_doc: footprints/footprints/nppc/ESP-12E_SMD.kicad_mod/ESP-12E_SMD/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/nppc/ESP-12E_SMD.kicad_mod/ESP-12E_SMD/working
     oomp_src_flat: footprints_flat/footprints_flat/nppc_esp_12e_smd_esp_12e_smd/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nppc_esp_12e_smd_esp_12e_smd/working
-    oomp_src_folder: footprints_folder/footprints_folder/nppc/ESP-12E_SMD.kicad_mod/ESP-12E_SMD/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/nppc/ESP-12E_SMD.kicad_mod/ESP-12E_SMD/working
   name: KiCadCustomLibs
+  oomp:
+    footprint_name: esp_12e_smd
+    library_name: esp_12e_smd_kicad_mod
+    md5: e8dec84de8aed5450bec6a9576882717
+    md5_10: e8dec84de8
+    md5_5: e8dec
+    md5_6: e8dec8
+    oomp_key: oomp_nppc_esp_12e_smd_esp_12e_smd
+    oomp_key_extra: oomp_footprint_nppc_esp_12e_smd_esp_12e_smd
+    oomp_key_full: oomp_footprint_nppc_esp_12e_smd_esp_12e_smd_e8dec8
+    oomp_key_simple: nppc_esp_12e_smd_esp_12e_smd
+    original_filename: KiCadCustomLibs/ESP-12E_SMD.kicad_mod
+    owner_name: nppc
   oomp_key: oomp_nppc_esp_12e_smd_esp_12e_smd
+  oomp_key_full: oomp_footprint_nppc_esp_12e_smd_esp_12e_smd
   oomp_key_simple: nppc_esp_12e_smd_esp_12e_smd
   owner: nppc
   repo:

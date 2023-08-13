@@ -11,17 +11,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_led_smd_led_liteon_ltst_c295k_1_6x0_8mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_led_smd_led_liteon_ltst_c295k_1_6x0_8mm/working
-    oomp_doc: footprints/footprints/kicad/LED_SMD/LED_LiteOn_LTST-C295K_1.6x0.8mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/LED_SMD/LED_LiteOn_LTST-C295K_1.6x0.8mm/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_led_smd_led_liteon_ltst_c295k_1_6x0_8mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_led_smd_led_liteon_ltst_c295k_1_6x0_8mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/LED_SMD/LED_LiteOn_LTST-C295K_1.6x0.8mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/LED_SMD/LED_LiteOn_LTST-C295K_1.6x0.8mm/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: led_liteon_ltst_c295k_1_6x0_8mm
+    library_name: led_smd
+    md5: d6289209f4d220957be0c7e61ca5ee33
+    md5_10: d6289209f4
+    md5_5: d6289
+    md5_6: d62892
+    oomp_key: oomp_kicad_led_smd_led_liteon_ltst_c295k_1_6x0_8mm
+    oomp_key_extra: oomp_footprint_kicad_led_smd_led_liteon_ltst_c295k_1_6x0_8mm
+    oomp_key_full: oomp_footprint_kicad_led_smd_led_liteon_ltst_c295k_1_6x0_8mm_d62892
+    oomp_key_simple: kicad_led_smd_led_liteon_ltst_c295k_1_6x0_8mm
+    original_filename: libraries/kicad-footprints/LED_SMD.pretty/LED_LiteOn_LTST-C295K_1.6x0.8mm.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_led_smd_led_liteon_ltst_c295k_1_6x0_8mm
+  oomp_key_full: oomp_footprint_kicad_led_smd_led_liteon_ltst_c295k_1_6x0_8mm
   oomp_key_simple: kicad_led_smd_led_liteon_ltst_c295k_1_6x0_8mm
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/nppc_sbus_pads_sbus_pads/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nppc_sbus_pads_sbus_pads/working
-    oomp_doc: footprints/footprints/nppc/SBUS_PADS.kicad_mod/SBUS_PADS/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/nppc/SBUS_PADS.kicad_mod/SBUS_PADS/working
     oomp_src_flat: footprints_flat/footprints_flat/nppc_sbus_pads_sbus_pads/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nppc_sbus_pads_sbus_pads/working
-    oomp_src_folder: footprints_folder/footprints_folder/nppc/SBUS_PADS.kicad_mod/SBUS_PADS/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/nppc/SBUS_PADS.kicad_mod/SBUS_PADS/working
   name: KiCadCustomLibs
+  oomp:
+    footprint_name: sbus_pads
+    library_name: sbus_pads_kicad_mod
+    md5: 983cef9903c7a8b7586450cc8c1cdc32
+    md5_10: 983cef9903
+    md5_5: 983ce
+    md5_6: 983cef
+    oomp_key: oomp_nppc_sbus_pads_sbus_pads
+    oomp_key_extra: oomp_footprint_nppc_sbus_pads_sbus_pads
+    oomp_key_full: oomp_footprint_nppc_sbus_pads_sbus_pads_983cef
+    oomp_key_simple: nppc_sbus_pads_sbus_pads
+    original_filename: KiCadCustomLibs/SBUS_PADS.kicad_mod
+    owner_name: nppc
   oomp_key: oomp_nppc_sbus_pads_sbus_pads
+  oomp_key_full: oomp_footprint_nppc_sbus_pads_sbus_pads
   oomp_key_simple: nppc_sbus_pads_sbus_pads
   owner: nppc
   repo:

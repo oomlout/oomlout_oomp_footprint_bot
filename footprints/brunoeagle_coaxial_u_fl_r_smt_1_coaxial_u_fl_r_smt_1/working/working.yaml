@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_coaxial_u_fl_r_smt_1_coaxial_u_fl_r_smt_1/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_coaxial_u_fl_r_smt_1_coaxial_u_fl_r_smt_1/working
-    oomp_doc: footprints/footprints/brunoeagle/coaxial_u.fl-r-smt-1.kicad_mod/coaxial_u.fl-r-smt-1/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/coaxial_u.fl-r-smt-1.kicad_mod/coaxial_u.fl-r-smt-1/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_coaxial_u_fl_r_smt_1_coaxial_u_fl_r_smt_1/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_coaxial_u_fl_r_smt_1_coaxial_u_fl_r_smt_1/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/coaxial_u.fl-r-smt-1.kicad_mod/coaxial_u.fl-r-smt-1/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/coaxial_u.fl-r-smt-1.kicad_mod/coaxial_u.fl-r-smt-1/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: coaxial_u_fl_r_smt_1
+    library_name: coaxial_u_fl_r_smt_1_kicad_mod
+    md5: 1c7f2dfa7fca17723b2cb931d386943c
+    md5_10: 1c7f2dfa7f
+    md5_5: 1c7f2
+    md5_6: 1c7f2d
+    oomp_key: oomp_brunoeagle_coaxial_u_fl_r_smt_1_coaxial_u_fl_r_smt_1
+    oomp_key_extra: oomp_footprint_brunoeagle_coaxial_u_fl_r_smt_1_coaxial_u_fl_r_smt_1
+    oomp_key_full: oomp_footprint_brunoeagle_coaxial_u_fl_r_smt_1_coaxial_u_fl_r_smt_1_1c7f2d
+    oomp_key_simple: brunoeagle_coaxial_u_fl_r_smt_1_coaxial_u_fl_r_smt_1
+    original_filename: kicad-open-modules/coaxial_u.fl-r-smt-1.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_coaxial_u_fl_r_smt_1_coaxial_u_fl_r_smt_1
+  oomp_key_full: oomp_footprint_brunoeagle_coaxial_u_fl_r_smt_1_coaxial_u_fl_r_smt_1
   oomp_key_simple: brunoeagle_coaxial_u_fl_r_smt_1_coaxial_u_fl_r_smt_1
   owner: brunoeagle
   repo:

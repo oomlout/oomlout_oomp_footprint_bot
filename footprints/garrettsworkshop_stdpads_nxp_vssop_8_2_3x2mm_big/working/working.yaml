@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/garrettsworkshop_stdpads_nxp_vssop_8_2_3x2mm_big/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/garrettsworkshop_stdpads_nxp_vssop_8_2_3x2mm_big/working
-    oomp_doc: footprints/footprints/garrettsworkshop/stdpads/NXP_VSSOP-8_2.3x2mm_Big/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/garrettsworkshop/stdpads/NXP_VSSOP-8_2.3x2mm_Big/working
     oomp_src_flat: footprints_flat/footprints_flat/garrettsworkshop_stdpads_nxp_vssop_8_2_3x2mm_big/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/garrettsworkshop_stdpads_nxp_vssop_8_2_3x2mm_big/working
-    oomp_src_folder: footprints_folder/footprints_folder/garrettsworkshop/stdpads/NXP_VSSOP-8_2.3x2mm_Big/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/garrettsworkshop/stdpads/NXP_VSSOP-8_2.3x2mm_Big/working
   name: stdpads.pretty
+  oomp:
+    footprint_name: nxp_vssop_8_2_3x2mm_big
+    library_name: stdpads
+    md5: eb9360d2453297a566f524d02883c789
+    md5_10: eb9360d245
+    md5_5: eb936
+    md5_6: eb9360
+    oomp_key: oomp_garrettsworkshop_stdpads_nxp_vssop_8_2_3x2mm_big
+    oomp_key_extra: oomp_footprint_garrettsworkshop_stdpads_nxp_vssop_8_2_3x2mm_big
+    oomp_key_full: oomp_footprint_garrettsworkshop_stdpads_nxp_vssop_8_2_3x2mm_big_eb9360
+    oomp_key_simple: garrettsworkshop_stdpads_nxp_vssop_8_2_3x2mm_big
+    original_filename: stdpads.pretty/NXP_VSSOP-8_2.3x2mm_Big.kicad_mod
+    owner_name: garrettsworkshop
   oomp_key: oomp_garrettsworkshop_stdpads_nxp_vssop_8_2_3x2mm_big
+  oomp_key_full: oomp_footprint_garrettsworkshop_stdpads_nxp_vssop_8_2_3x2mm_big
   oomp_key_simple: garrettsworkshop_stdpads_nxp_vssop_8_2_3x2mm_big
   owner: garrettsworkshop
   repo:

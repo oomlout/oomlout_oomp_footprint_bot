@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/stormbard_keyboard_musbx_a111_xx/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stormbard_keyboard_musbx_a111_xx/working
-    oomp_doc: footprints/footprints/stormbard/Keyboard/MUSBX-A111-XX/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/stormbard/Keyboard/MUSBX-A111-XX/working
     oomp_src_flat: footprints_flat/footprints_flat/stormbard_keyboard_musbx_a111_xx/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/stormbard_keyboard_musbx_a111_xx/working
-    oomp_src_folder: footprints_folder/footprints_folder/stormbard/Keyboard/MUSBX-A111-XX/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/stormbard/Keyboard/MUSBX-A111-XX/working
   name: Keyboard.pretty
+  oomp:
+    footprint_name: musbx_a111_xx
+    library_name: keyboard
+    md5: 4ec9b8ede87ffdaa54a61fc9039bcd04
+    md5_10: 4ec9b8ede8
+    md5_5: 4ec9b
+    md5_6: 4ec9b8
+    oomp_key: oomp_stormbard_keyboard_musbx_a111_xx
+    oomp_key_extra: oomp_footprint_stormbard_keyboard_musbx_a111_xx
+    oomp_key_full: oomp_footprint_stormbard_keyboard_musbx_a111_xx_4ec9b8
+    oomp_key_simple: stormbard_keyboard_musbx_a111_xx
+    original_filename: Keyboard.pretty/MUSBX-A111-XX.kicad_mod
+    owner_name: stormbard
   oomp_key: oomp_stormbard_keyboard_musbx_a111_xx
+  oomp_key_full: oomp_footprint_stormbard_keyboard_musbx_a111_xx
   oomp_key_simple: stormbard_keyboard_musbx_a111_xx
   owner: stormbard
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/myelin_myelin_kicad_dip_rom_single_pin/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/myelin_myelin_kicad_dip_rom_single_pin/working
-    oomp_doc: footprints/footprints/myelin/myelin-kicad/dip_rom_single_pin/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/myelin/myelin-kicad/dip_rom_single_pin/working
     oomp_src_flat: footprints_flat/footprints_flat/myelin_myelin_kicad_dip_rom_single_pin/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/myelin_myelin_kicad_dip_rom_single_pin/working
-    oomp_src_folder: footprints_folder/footprints_folder/myelin/myelin-kicad/dip_rom_single_pin/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/myelin/myelin-kicad/dip_rom_single_pin/working
   name: myelin-kicad.pretty
+  oomp:
+    footprint_name: dip_rom_single_pin
+    library_name: myelin_kicad
+    md5: 4a2b5b323c769444259fafd297375185
+    md5_10: 4a2b5b323c
+    md5_5: 4a2b5
+    md5_6: 4a2b5b
+    oomp_key: oomp_myelin_myelin_kicad_dip_rom_single_pin
+    oomp_key_extra: oomp_footprint_myelin_myelin_kicad_dip_rom_single_pin
+    oomp_key_full: oomp_footprint_myelin_myelin_kicad_dip_rom_single_pin_4a2b5b
+    oomp_key_simple: myelin_myelin_kicad_dip_rom_single_pin
+    original_filename: myelin-kicad.pretty/dip_rom_single_pin.kicad_mod
+    owner_name: myelin
   oomp_key: oomp_myelin_myelin_kicad_dip_rom_single_pin
+  oomp_key_full: oomp_footprint_myelin_myelin_kicad_dip_rom_single_pin
   oomp_key_simple: myelin_myelin_kicad_dip_rom_single_pin
   owner: myelin
   repo:

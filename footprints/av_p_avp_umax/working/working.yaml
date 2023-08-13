@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/av_p_avp_umax/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/av_p_avp_umax/working
-    oomp_doc: footprints/footprints/av-p/Avp/uMAX/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/av-p/Avp/uMAX/working
     oomp_src_flat: footprints_flat/footprints_flat/av_p_avp_umax/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/av_p_avp_umax/working
-    oomp_src_folder: footprints_folder/footprints_folder/av-p/Avp/uMAX/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/av-p/Avp/uMAX/working
   name: Avp.pretty
+  oomp:
+    footprint_name: umax
+    library_name: avp
+    md5: 1194b6c1028da49ca3be46fac8174c97
+    md5_10: 1194b6c102
+    md5_5: 1194b
+    md5_6: 1194b6
+    oomp_key: oomp_av_p_avp_umax
+    oomp_key_extra: oomp_footprint_av_p_avp_umax
+    oomp_key_full: oomp_footprint_av_p_avp_umax_1194b6
+    oomp_key_simple: av_p_avp_umax
+    original_filename: Avp.pretty/uMAX.kicad_mod
+    owner_name: av_p
   oomp_key: oomp_av_p_avp_umax
+  oomp_key_full: oomp_footprint_av_p_avp_umax
   oomp_key_simple: av_p_avp_umax
   owner: av-p
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/newam_newam_ps2911/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/newam_newam_ps2911/working
-    oomp_doc: footprints/footprints/newAM/newam/PS2911/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/newAM/newam/PS2911/working
     oomp_src_flat: footprints_flat/footprints_flat/newam_newam_ps2911/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/newam_newam_ps2911/working
-    oomp_src_folder: footprints_folder/footprints_folder/newAM/newam/PS2911/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/newAM/newam/PS2911/working
   name: newam.pretty
+  oomp:
+    footprint_name: ps2911
+    library_name: newam
+    md5: 13098d1b6e6101a2f354ac21cca5a59c
+    md5_10: 13098d1b6e
+    md5_5: '13098'
+    md5_6: 13098d
+    oomp_key: oomp_newam_newam_ps2911
+    oomp_key_extra: oomp_footprint_newam_newam_ps2911
+    oomp_key_full: oomp_footprint_newam_newam_ps2911_13098d
+    oomp_key_simple: newam_newam_ps2911
+    original_filename: newam.pretty/PS2911.kicad_mod
+    owner_name: newam
   oomp_key: oomp_newam_newam_ps2911
+  oomp_key_full: oomp_footprint_newam_newam_ps2911
   oomp_key_simple: newam_newam_ps2911
   owner: newAM
   repo:

@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/aewallin/awallinKiCadFootprints.pretty
     oomp_bot: footprints/aewallin_awallinkicadfootprints_y3split_0_350mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/aewallin_awallinkicadfootprints_y3split_0_350mm/working
-    oomp_doc: footprints/footprints/aewallin/awallinKiCadFootprints/Y3split_0.350mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/aewallin/awallinKiCadFootprints/Y3split_0.350mm/working
     oomp_src_flat: footprints_flat/footprints_flat/aewallin_awallinkicadfootprints_y3split_0_350mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/aewallin_awallinkicadfootprints_y3split_0_350mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/aewallin/awallinKiCadFootprints/Y3split_0.350mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/aewallin/awallinKiCadFootprints/Y3split_0.350mm/working
   name: awallinKiCadFootprints.pretty
+  oomp:
+    footprint_name: y3split_0_350mm
+    library_name: awallinkicadfootprints
+    md5: 8ce48476f872ba01e7c9db2ef859bddf
+    md5_10: 8ce48476f8
+    md5_5: 8ce48
+    md5_6: 8ce484
+    oomp_key: oomp_aewallin_awallinkicadfootprints_y3split_0_350mm
+    oomp_key_extra: oomp_footprint_aewallin_awallinkicadfootprints_y3split_0_350mm
+    oomp_key_full: oomp_footprint_aewallin_awallinkicadfootprints_y3split_0_350mm_8ce484
+    oomp_key_simple: aewallin_awallinkicadfootprints_y3split_0_350mm
+    original_filename: awallinKiCadFootprints.pretty/Y3split_0.350mm.kicad_mod
+    owner_name: aewallin
   oomp_key: oomp_aewallin_awallinkicadfootprints_y3split_0_350mm
+  oomp_key_full: oomp_footprint_aewallin_awallinkicadfootprints_y3split_0_350mm
   oomp_key_simple: aewallin_awallinkicadfootprints_y3split_0_350mm
   owner: aewallin
   repo:

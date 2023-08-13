@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pcsmithy_custom_lqfp_48/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pcsmithy_custom_lqfp_48/working
-    oomp_doc: footprints/footprints/PCSmithy/custom/LQFP-48/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/PCSmithy/custom/LQFP-48/working
     oomp_src_flat: footprints_flat/footprints_flat/pcsmithy_custom_lqfp_48/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pcsmithy_custom_lqfp_48/working
-    oomp_src_folder: footprints_folder/footprints_folder/PCSmithy/custom/LQFP-48/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/PCSmithy/custom/LQFP-48/working
   name: custom.pretty
+  oomp:
+    footprint_name: lqfp_48
+    library_name: custom
+    md5: aa92776beadfa4239131b64ff41afd3e
+    md5_10: aa92776bea
+    md5_5: aa927
+    md5_6: aa9277
+    oomp_key: oomp_pcsmithy_custom_lqfp_48
+    oomp_key_extra: oomp_footprint_pcsmithy_custom_lqfp_48
+    oomp_key_full: oomp_footprint_pcsmithy_custom_lqfp_48_aa9277
+    oomp_key_simple: pcsmithy_custom_lqfp_48
+    original_filename: custom.pretty/LQFP-48.kicad_mod
+    owner_name: pcsmithy
   oomp_key: oomp_pcsmithy_custom_lqfp_48
+  oomp_key_full: oomp_footprint_pcsmithy_custom_lqfp_48
   oomp_key_simple: pcsmithy_custom_lqfp_48
   owner: PCSmithy
   repo:

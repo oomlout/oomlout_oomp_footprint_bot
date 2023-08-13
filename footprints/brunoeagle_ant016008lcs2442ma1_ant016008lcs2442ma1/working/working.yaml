@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_ant016008lcs2442ma1_ant016008lcs2442ma1/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_ant016008lcs2442ma1_ant016008lcs2442ma1/working
-    oomp_doc: footprints/footprints/brunoeagle/ANT016008LCS2442MA1.kicad_mod/ANT016008LCS2442MA1/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/ANT016008LCS2442MA1.kicad_mod/ANT016008LCS2442MA1/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_ant016008lcs2442ma1_ant016008lcs2442ma1/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_ant016008lcs2442ma1_ant016008lcs2442ma1/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/ANT016008LCS2442MA1.kicad_mod/ANT016008LCS2442MA1/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/ANT016008LCS2442MA1.kicad_mod/ANT016008LCS2442MA1/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: ant016008lcs2442ma1
+    library_name: ant016008lcs2442ma1_kicad_mod
+    md5: 2a76284b8de9691c20ee581770b239e5
+    md5_10: 2a76284b8d
+    md5_5: 2a762
+    md5_6: 2a7628
+    oomp_key: oomp_brunoeagle_ant016008lcs2442ma1_ant016008lcs2442ma1
+    oomp_key_extra: oomp_footprint_brunoeagle_ant016008lcs2442ma1_ant016008lcs2442ma1
+    oomp_key_full: oomp_footprint_brunoeagle_ant016008lcs2442ma1_ant016008lcs2442ma1_2a7628
+    oomp_key_simple: brunoeagle_ant016008lcs2442ma1_ant016008lcs2442ma1
+    original_filename: kicad-open-modules/ANT016008LCS2442MA1.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_ant016008lcs2442ma1_ant016008lcs2442ma1
+  oomp_key_full: oomp_footprint_brunoeagle_ant016008lcs2442ma1_ant016008lcs2442ma1
   oomp_key_simple: brunoeagle_ant016008lcs2442ma1_ant016008lcs2442ma1
   owner: brunoeagle
   repo:

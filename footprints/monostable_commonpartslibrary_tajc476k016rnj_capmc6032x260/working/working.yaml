@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/monostable_commonpartslibrary_tajc476k016rnj_capmc6032x260/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/monostable_commonpartslibrary_tajc476k016rnj_capmc6032x260/working
-    oomp_doc: footprints/footprints/monostable/CommonPartsLibrary/TAJC476K016RNJ_CAPMC6032X260/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/monostable/CommonPartsLibrary/TAJC476K016RNJ_CAPMC6032X260/working
     oomp_src_flat: footprints_flat/footprints_flat/monostable_commonpartslibrary_tajc476k016rnj_capmc6032x260/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/monostable_commonpartslibrary_tajc476k016rnj_capmc6032x260/working
-    oomp_src_folder: footprints_folder/footprints_folder/monostable/CommonPartsLibrary/TAJC476K016RNJ_CAPMC6032X260/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/monostable/CommonPartsLibrary/TAJC476K016RNJ_CAPMC6032X260/working
   name: CommonPartsLibrary.pretty
+  oomp:
+    footprint_name: tajc476k016rnj_capmc6032x260
+    library_name: commonpartslibrary
+    md5: de105389ada5ddfedc9aeb39a30aab7d
+    md5_10: de105389ad
+    md5_5: de105
+    md5_6: de1053
+    oomp_key: oomp_monostable_commonpartslibrary_tajc476k016rnj_capmc6032x260
+    oomp_key_extra: oomp_footprint_monostable_commonpartslibrary_tajc476k016rnj_capmc6032x260
+    oomp_key_full: oomp_footprint_monostable_commonpartslibrary_tajc476k016rnj_capmc6032x260_de1053
+    oomp_key_simple: monostable_commonpartslibrary_tajc476k016rnj_capmc6032x260
+    original_filename: CommonPartsLibrary.pretty/TAJC476K016RNJ_CAPMC6032X260.kicad_mod
+    owner_name: monostable
   oomp_key: oomp_monostable_commonpartslibrary_tajc476k016rnj_capmc6032x260
+  oomp_key_full: oomp_footprint_monostable_commonpartslibrary_tajc476k016rnj_capmc6032x260
   oomp_key_simple: monostable_commonpartslibrary_tajc476k016rnj_capmc6032x260
   owner: monostable
   repo:

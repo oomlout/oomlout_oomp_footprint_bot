@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/peekpt_w_smd_lqfp_lqfp_176/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/peekpt_w_smd_lqfp_lqfp_176/working
-    oomp_doc: footprints/footprints/peekpt/w_smd_lqfp/LQFP-176/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/peekpt/w_smd_lqfp/LQFP-176/working
     oomp_src_flat: footprints_flat/footprints_flat/peekpt_w_smd_lqfp_lqfp_176/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/peekpt_w_smd_lqfp_lqfp_176/working
-    oomp_src_folder: footprints_folder/footprints_folder/peekpt/w_smd_lqfp/LQFP-176/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/peekpt/w_smd_lqfp/LQFP-176/working
   name: kicad_smisioto
+  oomp:
+    footprint_name: lqfp_176
+    library_name: w_smd_lqfp
+    md5: 189ce89a16033a0d9609e4efb17fcdfb
+    md5_10: 189ce89a16
+    md5_5: 189ce
+    md5_6: 189ce8
+    oomp_key: oomp_peekpt_w_smd_lqfp_lqfp_176
+    oomp_key_extra: oomp_footprint_peekpt_w_smd_lqfp_lqfp_176
+    oomp_key_full: oomp_footprint_peekpt_w_smd_lqfp_lqfp_176_189ce8
+    oomp_key_simple: peekpt_w_smd_lqfp_lqfp_176
+    original_filename: kicad_smisioto/modules/walter/w_smd_lqfp.pretty/LQFP-176.kicad_mod
+    owner_name: peekpt
   oomp_key: oomp_peekpt_w_smd_lqfp_lqfp_176
+  oomp_key_full: oomp_footprint_peekpt_w_smd_lqfp_lqfp_176
   oomp_key_simple: peekpt_w_smd_lqfp_lqfp_176
   owner: peekpt
   repo:

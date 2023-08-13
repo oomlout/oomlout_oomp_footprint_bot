@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/Iangitpers/4a
     oomp_bot: footprints/iangitpers_manuf_lumex_lds_a324ri/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/iangitpers_manuf_lumex_lds_a324ri/working
-    oomp_doc: footprints/footprints/Iangitpers/manuf/LUMEX-LDS-A324RI/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Iangitpers/manuf/LUMEX-LDS-A324RI/working
     oomp_src_flat: footprints_flat/footprints_flat/iangitpers_manuf_lumex_lds_a324ri/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/iangitpers_manuf_lumex_lds_a324ri/working
-    oomp_src_folder: footprints_folder/footprints_folder/Iangitpers/manuf/LUMEX-LDS-A324RI/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Iangitpers/manuf/LUMEX-LDS-A324RI/working
   name: 4a
+  oomp:
+    footprint_name: lumex_lds_a324ri
+    library_name: manuf
+    md5: 0cbb9ab33eaad6426f2d25b8ed87c4a1
+    md5_10: 0cbb9ab33e
+    md5_5: 0cbb9
+    md5_6: 0cbb9a
+    oomp_key: oomp_iangitpers_manuf_lumex_lds_a324ri
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_lumex_lds_a324ri
+    oomp_key_full: oomp_footprint_iangitpers_manuf_lumex_lds_a324ri_0cbb9a
+    oomp_key_simple: iangitpers_manuf_lumex_lds_a324ri
+    original_filename: 4a/manuf.pretty/LUMEX-LDS-A324RI.kicad_mod
+    owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_lumex_lds_a324ri
+  oomp_key_full: oomp_footprint_iangitpers_manuf_lumex_lds_a324ri
   oomp_key_simple: iangitpers_manuf_lumex_lds_a324ri
   owner: Iangitpers
   repo:

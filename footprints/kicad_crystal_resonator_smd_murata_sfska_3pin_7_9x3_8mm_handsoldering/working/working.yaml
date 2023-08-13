@@ -12,17 +12,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_crystal_resonator_smd_murata_sfska_3pin_7_9x3_8mm_handsoldering/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_crystal_resonator_smd_murata_sfska_3pin_7_9x3_8mm_handsoldering/working
-    oomp_doc: footprints/footprints/kicad/Crystal/Resonator_SMD_Murata_SFSKA-3Pin_7.9x3.8mm_HandSoldering/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Crystal/Resonator_SMD_Murata_SFSKA-3Pin_7.9x3.8mm_HandSoldering/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_crystal_resonator_smd_murata_sfska_3pin_7_9x3_8mm_handsoldering/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_crystal_resonator_smd_murata_sfska_3pin_7_9x3_8mm_handsoldering/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Crystal/Resonator_SMD_Murata_SFSKA-3Pin_7.9x3.8mm_HandSoldering/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Crystal/Resonator_SMD_Murata_SFSKA-3Pin_7.9x3.8mm_HandSoldering/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: resonator_smd_murata_sfska_3pin_7_9x3_8mm_handsoldering
+    library_name: crystal
+    md5: 7838d703d990cc446e89c0579c5b3eca
+    md5_10: 7838d703d9
+    md5_5: 7838d
+    md5_6: 7838d7
+    oomp_key: oomp_kicad_crystal_resonator_smd_murata_sfska_3pin_7_9x3_8mm_handsoldering
+    oomp_key_extra: oomp_footprint_kicad_crystal_resonator_smd_murata_sfska_3pin_7_9x3_8mm_handsoldering
+    oomp_key_full: oomp_footprint_kicad_crystal_resonator_smd_murata_sfska_3pin_7_9x3_8mm_handsoldering_7838d7
+    oomp_key_simple: kicad_crystal_resonator_smd_murata_sfska_3pin_7_9x3_8mm_handsoldering
+    original_filename: libraries/kicad-footprints/Crystal.pretty/Resonator_SMD_Murata_SFSKA-3Pin_7.9x3.8mm_HandSoldering.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_crystal_resonator_smd_murata_sfska_3pin_7_9x3_8mm_handsoldering
+  oomp_key_full: oomp_footprint_kicad_crystal_resonator_smd_murata_sfska_3pin_7_9x3_8mm_handsoldering
   oomp_key_simple: kicad_crystal_resonator_smd_murata_sfska_3pin_7_9x3_8mm_handsoldering
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

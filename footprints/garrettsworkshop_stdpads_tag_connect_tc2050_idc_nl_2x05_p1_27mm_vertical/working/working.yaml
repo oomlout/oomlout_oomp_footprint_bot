@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/garrettsworkshop_stdpads_tag_connect_tc2050_idc_nl_2x05_p1_27mm_vertical/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/garrettsworkshop_stdpads_tag_connect_tc2050_idc_nl_2x05_p1_27mm_vertical/working
-    oomp_doc: footprints/footprints/garrettsworkshop/stdpads/Tag-Connect_TC2050-IDC-NL_2x05_P1.27mm_Vertical/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/garrettsworkshop/stdpads/Tag-Connect_TC2050-IDC-NL_2x05_P1.27mm_Vertical/working
     oomp_src_flat: footprints_flat/footprints_flat/garrettsworkshop_stdpads_tag_connect_tc2050_idc_nl_2x05_p1_27mm_vertical/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/garrettsworkshop_stdpads_tag_connect_tc2050_idc_nl_2x05_p1_27mm_vertical/working
-    oomp_src_folder: footprints_folder/footprints_folder/garrettsworkshop/stdpads/Tag-Connect_TC2050-IDC-NL_2x05_P1.27mm_Vertical/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/garrettsworkshop/stdpads/Tag-Connect_TC2050-IDC-NL_2x05_P1.27mm_Vertical/working
   name: stdpads.pretty
+  oomp:
+    footprint_name: tag_connect_tc2050_idc_nl_2x05_p1_27mm_vertical
+    library_name: stdpads
+    md5: 270c23395e67fdd31e6d26b77a59502e
+    md5_10: 270c23395e
+    md5_5: 270c2
+    md5_6: 270c23
+    oomp_key: oomp_garrettsworkshop_stdpads_tag_connect_tc2050_idc_nl_2x05_p1_27mm_vertical
+    oomp_key_extra: oomp_footprint_garrettsworkshop_stdpads_tag_connect_tc2050_idc_nl_2x05_p1_27mm_vertical
+    oomp_key_full: oomp_footprint_garrettsworkshop_stdpads_tag_connect_tc2050_idc_nl_2x05_p1_27mm_vertical_270c23
+    oomp_key_simple: garrettsworkshop_stdpads_tag_connect_tc2050_idc_nl_2x05_p1_27mm_vertical
+    original_filename: stdpads.pretty/Tag-Connect_TC2050-IDC-NL_2x05_P1.27mm_Vertical.kicad_mod
+    owner_name: garrettsworkshop
   oomp_key: oomp_garrettsworkshop_stdpads_tag_connect_tc2050_idc_nl_2x05_p1_27mm_vertical
+  oomp_key_full: oomp_footprint_garrettsworkshop_stdpads_tag_connect_tc2050_idc_nl_2x05_p1_27mm_vertical
   oomp_key_simple: garrettsworkshop_stdpads_tag_connect_tc2050_idc_nl_2x05_p1_27mm_vertical
   owner: garrettsworkshop
   repo:

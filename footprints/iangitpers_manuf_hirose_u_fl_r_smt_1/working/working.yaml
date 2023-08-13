@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/Iangitpers/4a
     oomp_bot: footprints/iangitpers_manuf_hirose_u_fl_r_smt_1/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/iangitpers_manuf_hirose_u_fl_r_smt_1/working
-    oomp_doc: footprints/footprints/Iangitpers/manuf/HIROSE_U.FL-R-SMT-1/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Iangitpers/manuf/HIROSE_U.FL-R-SMT-1/working
     oomp_src_flat: footprints_flat/footprints_flat/iangitpers_manuf_hirose_u_fl_r_smt_1/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/iangitpers_manuf_hirose_u_fl_r_smt_1/working
-    oomp_src_folder: footprints_folder/footprints_folder/Iangitpers/manuf/HIROSE_U.FL-R-SMT-1/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Iangitpers/manuf/HIROSE_U.FL-R-SMT-1/working
   name: 4a
+  oomp:
+    footprint_name: hirose_u_fl_r_smt_1
+    library_name: manuf
+    md5: b061bb45573e6972a9de2bdb15306546
+    md5_10: b061bb4557
+    md5_5: b061b
+    md5_6: b061bb
+    oomp_key: oomp_iangitpers_manuf_hirose_u_fl_r_smt_1
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_hirose_u_fl_r_smt_1
+    oomp_key_full: oomp_footprint_iangitpers_manuf_hirose_u_fl_r_smt_1_b061bb
+    oomp_key_simple: iangitpers_manuf_hirose_u_fl_r_smt_1
+    original_filename: 4a/manuf.pretty/HIROSE_U.FL-R-SMT-1.kicad_mod
+    owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_hirose_u_fl_r_smt_1
+  oomp_key_full: oomp_footprint_iangitpers_manuf_hirose_u_fl_r_smt_1
   oomp_key_simple: iangitpers_manuf_hirose_u_fl_r_smt_1
   owner: Iangitpers
   repo:

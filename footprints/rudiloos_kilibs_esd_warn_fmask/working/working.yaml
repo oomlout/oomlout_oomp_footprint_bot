@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/rudiloos_kilibs_esd_warn_fmask/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/rudiloos_kilibs_esd_warn_fmask/working
-    oomp_doc: footprints/footprints/rudiloos/kilibs/esd-warn-fmask/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/rudiloos/kilibs/esd-warn-fmask/working
     oomp_src_flat: footprints_flat/footprints_flat/rudiloos_kilibs_esd_warn_fmask/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/rudiloos_kilibs_esd_warn_fmask/working
-    oomp_src_folder: footprints_folder/footprints_folder/rudiloos/kilibs/esd-warn-fmask/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/rudiloos/kilibs/esd-warn-fmask/working
   name: kilibs.pretty
+  oomp:
+    footprint_name: esd_warn_fmask
+    library_name: kilibs
+    md5: f785f90085c1e17a82c2fd9f3e4eb40d
+    md5_10: f785f90085
+    md5_5: f785f
+    md5_6: f785f9
+    oomp_key: oomp_rudiloos_kilibs_esd_warn_fmask
+    oomp_key_extra: oomp_footprint_rudiloos_kilibs_esd_warn_fmask
+    oomp_key_full: oomp_footprint_rudiloos_kilibs_esd_warn_fmask_f785f9
+    oomp_key_simple: rudiloos_kilibs_esd_warn_fmask
+    original_filename: kilibs.pretty/logos/esd-warn-fmask.kicad_mod
+    owner_name: rudiloos
   oomp_key: oomp_rudiloos_kilibs_esd_warn_fmask
+  oomp_key_full: oomp_footprint_rudiloos_kilibs_esd_warn_fmask
   oomp_key_simple: rudiloos_kilibs_esd_warn_fmask
   owner: rudiloos
   repo:

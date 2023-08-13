@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/imrehg_seeedopl_switch_2016_sw4_smd_7_0x3_5x3_5mm_90d/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/imrehg_seeedopl_switch_2016_sw4_smd_7_0x3_5x3_5mm_90d/working
-    oomp_doc: footprints/footprints/imrehg/SeeedOPL-Switch-2016/SW4-SMD-7.0X3.5X3.5MM-90D/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/imrehg/SeeedOPL-Switch-2016/SW4-SMD-7.0X3.5X3.5MM-90D/working
     oomp_src_flat: footprints_flat/footprints_flat/imrehg_seeedopl_switch_2016_sw4_smd_7_0x3_5x3_5mm_90d/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/imrehg_seeedopl_switch_2016_sw4_smd_7_0x3_5x3_5mm_90d/working
-    oomp_src_folder: footprints_folder/footprints_folder/imrehg/SeeedOPL-Switch-2016/SW4-SMD-7.0X3.5X3.5MM-90D/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/imrehg/SeeedOPL-Switch-2016/SW4-SMD-7.0X3.5X3.5MM-90D/working
   name: kicalopl
+  oomp:
+    footprint_name: sw4_smd_7_0x3_5x3_5mm_90d
+    library_name: seeedopl_switch_2016
+    md5: 12e594b59eba07e10c0fe93a16c2529f
+    md5_10: 12e594b59e
+    md5_5: 12e59
+    md5_6: 12e594
+    oomp_key: oomp_imrehg_seeedopl_switch_2016_sw4_smd_7_0x3_5x3_5mm_90d
+    oomp_key_extra: oomp_footprint_imrehg_seeedopl_switch_2016_sw4_smd_7_0x3_5x3_5mm_90d
+    oomp_key_full: oomp_footprint_imrehg_seeedopl_switch_2016_sw4_smd_7_0x3_5x3_5mm_90d_12e594
+    oomp_key_simple: imrehg_seeedopl_switch_2016_sw4_smd_7_0x3_5x3_5mm_90d
+    original_filename: kicalopl/SeeedOPL-Switch-2016.pretty/SW4-SMD-7.0X3.5X3.5MM-90D.kicad_mod
+    owner_name: imrehg
   oomp_key: oomp_imrehg_seeedopl_switch_2016_sw4_smd_7_0x3_5x3_5mm_90d
+  oomp_key_full: oomp_footprint_imrehg_seeedopl_switch_2016_sw4_smd_7_0x3_5x3_5mm_90d
   oomp_key_simple: imrehg_seeedopl_switch_2016_sw4_smd_7_0x3_5x3_5mm_90d
   owner: imrehg
   repo:

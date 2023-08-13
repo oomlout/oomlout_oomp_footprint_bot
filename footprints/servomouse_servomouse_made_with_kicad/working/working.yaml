@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/servomouse_servomouse_made_with_kicad/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/servomouse_servomouse_made_with_kicad/working
-    oomp_doc: footprints/footprints/servomouse/servomouse/Made_with_KiCAD/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/servomouse/servomouse/Made_with_KiCAD/working
     oomp_src_flat: footprints_flat/footprints_flat/servomouse_servomouse_made_with_kicad/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/servomouse_servomouse_made_with_kicad/working
-    oomp_src_folder: footprints_folder/footprints_folder/servomouse/servomouse/Made_with_KiCAD/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/servomouse/servomouse/Made_with_KiCAD/working
   name: servomouse.pretty
+  oomp:
+    footprint_name: made_with_kicad
+    library_name: servomouse
+    md5: ce1bbd8925041fd19e8baa3a78e62c5b
+    md5_10: ce1bbd8925
+    md5_5: ce1bb
+    md5_6: ce1bbd
+    oomp_key: oomp_servomouse_servomouse_made_with_kicad
+    oomp_key_extra: oomp_footprint_servomouse_servomouse_made_with_kicad
+    oomp_key_full: oomp_footprint_servomouse_servomouse_made_with_kicad_ce1bbd
+    oomp_key_simple: servomouse_servomouse_made_with_kicad
+    original_filename: servomouse.pretty/Made_with_KiCAD.kicad_mod
+    owner_name: servomouse
   oomp_key: oomp_servomouse_servomouse_made_with_kicad
+  oomp_key_full: oomp_footprint_servomouse_servomouse_made_with_kicad
   oomp_key_simple: servomouse_servomouse_made_with_kicad
   owner: servomouse
   repo:

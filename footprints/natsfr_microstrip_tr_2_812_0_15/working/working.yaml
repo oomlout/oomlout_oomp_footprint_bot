@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/natsfr_microstrip_tr_2_812_0_15/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/natsfr_microstrip_tr_2_812_0_15/working
-    oomp_doc: footprints/footprints/natsfr/Microstrip/TR_2.812_0.15/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/natsfr/Microstrip/TR_2.812_0.15/working
     oomp_src_flat: footprints_flat/footprints_flat/natsfr_microstrip_tr_2_812_0_15/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/natsfr_microstrip_tr_2_812_0_15/working
-    oomp_src_folder: footprints_folder/footprints_folder/natsfr/Microstrip/TR_2.812_0.15/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/natsfr/Microstrip/TR_2.812_0.15/working
   name: kicad-components
+  oomp:
+    footprint_name: tr_2_812_0_15
+    library_name: microstrip
+    md5: 03b5d06b60a6b1766388ae05b1dd2a92
+    md5_10: 03b5d06b60
+    md5_5: 03b5d
+    md5_6: 03b5d0
+    oomp_key: oomp_natsfr_microstrip_tr_2_812_0_15
+    oomp_key_extra: oomp_footprint_natsfr_microstrip_tr_2_812_0_15
+    oomp_key_full: oomp_footprint_natsfr_microstrip_tr_2_812_0_15_03b5d0
+    oomp_key_simple: natsfr_microstrip_tr_2_812_0_15
+    original_filename: kicad-components/Pretty_Footprints/Microstrip.pretty/TR_2.812_0.15.kicad_mod
+    owner_name: natsfr
   oomp_key: oomp_natsfr_microstrip_tr_2_812_0_15
+  oomp_key_full: oomp_footprint_natsfr_microstrip_tr_2_812_0_15
   oomp_key_simple: natsfr_microstrip_tr_2_812_0_15
   owner: natsfr
   repo:

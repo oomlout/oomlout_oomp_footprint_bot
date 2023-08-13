@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_hellerman_2x4mm_hellerman_2x4mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_hellerman_2x4mm_hellerman_2x4mm/working
-    oomp_doc: footprints/footprints/brunoeagle/HELLERMAN_2x4mm.kicad_mod/HELLERMAN_2x4mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/HELLERMAN_2x4mm.kicad_mod/HELLERMAN_2x4mm/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_hellerman_2x4mm_hellerman_2x4mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_hellerman_2x4mm_hellerman_2x4mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/HELLERMAN_2x4mm.kicad_mod/HELLERMAN_2x4mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/HELLERMAN_2x4mm.kicad_mod/HELLERMAN_2x4mm/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: hellerman_2x4mm
+    library_name: hellerman_2x4mm_kicad_mod
+    md5: f665fea495c08ae4f08bc43945a0d2c1
+    md5_10: f665fea495
+    md5_5: f665f
+    md5_6: f665fe
+    oomp_key: oomp_brunoeagle_hellerman_2x4mm_hellerman_2x4mm
+    oomp_key_extra: oomp_footprint_brunoeagle_hellerman_2x4mm_hellerman_2x4mm
+    oomp_key_full: oomp_footprint_brunoeagle_hellerman_2x4mm_hellerman_2x4mm_f665fe
+    oomp_key_simple: brunoeagle_hellerman_2x4mm_hellerman_2x4mm
+    original_filename: kicad-open-modules/HELLERMAN_2x4mm.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_hellerman_2x4mm_hellerman_2x4mm
+  oomp_key_full: oomp_footprint_brunoeagle_hellerman_2x4mm_hellerman_2x4mm
   oomp_key_simple: brunoeagle_hellerman_2x4mm_hellerman_2x4mm
   owner: brunoeagle
   repo:

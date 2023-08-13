@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/rudiloos_kilibs_elss_406uwwa_s290/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/rudiloos_kilibs_elss_406uwwa_s290/working
-    oomp_doc: footprints/footprints/rudiloos/kilibs/ELSS-406UWWA-S290/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/rudiloos/kilibs/ELSS-406UWWA-S290/working
     oomp_src_flat: footprints_flat/footprints_flat/rudiloos_kilibs_elss_406uwwa_s290/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/rudiloos_kilibs_elss_406uwwa_s290/working
-    oomp_src_folder: footprints_folder/footprints_folder/rudiloos/kilibs/ELSS-406UWWA-S290/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/rudiloos/kilibs/ELSS-406UWWA-S290/working
   name: kilibs.pretty
+  oomp:
+    footprint_name: elss_406uwwa_s290
+    library_name: kilibs
+    md5: ecf6ccc443758e5989ab7123998b33a1
+    md5_10: ecf6ccc443
+    md5_5: ecf6c
+    md5_6: ecf6cc
+    oomp_key: oomp_rudiloos_kilibs_elss_406uwwa_s290
+    oomp_key_extra: oomp_footprint_rudiloos_kilibs_elss_406uwwa_s290
+    oomp_key_full: oomp_footprint_rudiloos_kilibs_elss_406uwwa_s290_ecf6cc
+    oomp_key_simple: rudiloos_kilibs_elss_406uwwa_s290
+    original_filename: kilibs.pretty/ELSS-406UWWA-S290.kicad_mod
+    owner_name: rudiloos
   oomp_key: oomp_rudiloos_kilibs_elss_406uwwa_s290
+  oomp_key_full: oomp_footprint_rudiloos_kilibs_elss_406uwwa_s290
   oomp_key_simple: rudiloos_kilibs_elss_406uwwa_s290
   owner: rudiloos
   repo:

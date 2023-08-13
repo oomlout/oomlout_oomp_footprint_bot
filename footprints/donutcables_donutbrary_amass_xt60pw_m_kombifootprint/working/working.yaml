@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/donutcables_donutbrary_amass_xt60pw_m_kombifootprint/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/donutcables_donutbrary_amass_xt60pw_m_kombifootprint/working
-    oomp_doc: footprints/footprints/DonutCables/donutbrary/Amass_XT60PW-M_Kombifootprint/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/DonutCables/donutbrary/Amass_XT60PW-M_Kombifootprint/working
     oomp_src_flat: footprints_flat/footprints_flat/donutcables_donutbrary_amass_xt60pw_m_kombifootprint/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/donutcables_donutbrary_amass_xt60pw_m_kombifootprint/working
-    oomp_src_folder: footprints_folder/footprints_folder/DonutCables/donutbrary/Amass_XT60PW-M_Kombifootprint/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/DonutCables/donutbrary/Amass_XT60PW-M_Kombifootprint/working
   name: donutbrary.pretty
+  oomp:
+    footprint_name: amass_xt60pw_m_kombifootprint
+    library_name: donutbrary
+    md5: caf5fbfac4baf5c0d1d02b893b04a64d
+    md5_10: caf5fbfac4
+    md5_5: caf5f
+    md5_6: caf5fb
+    oomp_key: oomp_donutcables_donutbrary_amass_xt60pw_m_kombifootprint
+    oomp_key_extra: oomp_footprint_donutcables_donutbrary_amass_xt60pw_m_kombifootprint
+    oomp_key_full: oomp_footprint_donutcables_donutbrary_amass_xt60pw_m_kombifootprint_caf5fb
+    oomp_key_simple: donutcables_donutbrary_amass_xt60pw_m_kombifootprint
+    original_filename: donutbrary.pretty/Amass_XT60PW-M_Kombifootprint.kicad_mod
+    owner_name: donutcables
   oomp_key: oomp_donutcables_donutbrary_amass_xt60pw_m_kombifootprint
+  oomp_key_full: oomp_footprint_donutcables_donutbrary_amass_xt60pw_m_kombifootprint
   oomp_key_simple: donutcables_donutbrary_amass_xt60pw_m_kombifootprint
   owner: DonutCables
   repo:

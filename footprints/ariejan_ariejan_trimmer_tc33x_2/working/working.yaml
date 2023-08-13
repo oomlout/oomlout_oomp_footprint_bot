@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/ariejan/ariejan.pretty
     oomp_bot: footprints/ariejan_ariejan_trimmer_tc33x_2/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ariejan_ariejan_trimmer_tc33x_2/working
-    oomp_doc: footprints/footprints/ariejan/ariejan/TRIMMER-TC33X-2/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ariejan/ariejan/TRIMMER-TC33X-2/working
     oomp_src_flat: footprints_flat/footprints_flat/ariejan_ariejan_trimmer_tc33x_2/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ariejan_ariejan_trimmer_tc33x_2/working
-    oomp_src_folder: footprints_folder/footprints_folder/ariejan/ariejan/TRIMMER-TC33X-2/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ariejan/ariejan/TRIMMER-TC33X-2/working
   name: ariejan.pretty
+  oomp:
+    footprint_name: trimmer_tc33x_2
+    library_name: ariejan
+    md5: 20c7b5e7298567b74980c09b086d22ab
+    md5_10: 20c7b5e729
+    md5_5: 20c7b
+    md5_6: 20c7b5
+    oomp_key: oomp_ariejan_ariejan_trimmer_tc33x_2
+    oomp_key_extra: oomp_footprint_ariejan_ariejan_trimmer_tc33x_2
+    oomp_key_full: oomp_footprint_ariejan_ariejan_trimmer_tc33x_2_20c7b5
+    oomp_key_simple: ariejan_ariejan_trimmer_tc33x_2
+    original_filename: ariejan.pretty/TRIMMER-TC33X-2.kicad_mod
+    owner_name: ariejan
   oomp_key: oomp_ariejan_ariejan_trimmer_tc33x_2
+  oomp_key_full: oomp_footprint_ariejan_ariejan_trimmer_tc33x_2
   oomp_key_simple: ariejan_ariejan_trimmer_tc33x_2
   owner: ariejan
   repo:

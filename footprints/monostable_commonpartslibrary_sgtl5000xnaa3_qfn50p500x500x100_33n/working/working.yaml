@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/monostable_commonpartslibrary_sgtl5000xnaa3_qfn50p500x500x100_33n/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/monostable_commonpartslibrary_sgtl5000xnaa3_qfn50p500x500x100_33n/working
-    oomp_doc: footprints/footprints/monostable/CommonPartsLibrary/SGTL5000XNAA3_QFN50P500X500X100-33N/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/monostable/CommonPartsLibrary/SGTL5000XNAA3_QFN50P500X500X100-33N/working
     oomp_src_flat: footprints_flat/footprints_flat/monostable_commonpartslibrary_sgtl5000xnaa3_qfn50p500x500x100_33n/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/monostable_commonpartslibrary_sgtl5000xnaa3_qfn50p500x500x100_33n/working
-    oomp_src_folder: footprints_folder/footprints_folder/monostable/CommonPartsLibrary/SGTL5000XNAA3_QFN50P500X500X100-33N/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/monostable/CommonPartsLibrary/SGTL5000XNAA3_QFN50P500X500X100-33N/working
   name: CommonPartsLibrary.pretty
+  oomp:
+    footprint_name: sgtl5000xnaa3_qfn50p500x500x100_33n
+    library_name: commonpartslibrary
+    md5: 7f90ecd8a6eb625fb94f5f89293bd836
+    md5_10: 7f90ecd8a6
+    md5_5: 7f90e
+    md5_6: 7f90ec
+    oomp_key: oomp_monostable_commonpartslibrary_sgtl5000xnaa3_qfn50p500x500x100_33n
+    oomp_key_extra: oomp_footprint_monostable_commonpartslibrary_sgtl5000xnaa3_qfn50p500x500x100_33n
+    oomp_key_full: oomp_footprint_monostable_commonpartslibrary_sgtl5000xnaa3_qfn50p500x500x100_33n_7f90ec
+    oomp_key_simple: monostable_commonpartslibrary_sgtl5000xnaa3_qfn50p500x500x100_33n
+    original_filename: CommonPartsLibrary.pretty/SGTL5000XNAA3_QFN50P500X500X100-33N.kicad_mod
+    owner_name: monostable
   oomp_key: oomp_monostable_commonpartslibrary_sgtl5000xnaa3_qfn50p500x500x100_33n
+  oomp_key_full: oomp_footprint_monostable_commonpartslibrary_sgtl5000xnaa3_qfn50p500x500x100_33n
   oomp_key_simple: monostable_commonpartslibrary_sgtl5000xnaa3_qfn50p500x500x100_33n
   owner: monostable
   repo:

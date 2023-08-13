@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_ufqfpn_48_1ep_7x7mm_p0_5mm_ep5_6x5_6mm_ufqfpn_48_1ep_7x7mm_p0_5mm_ep5_6x5_6mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_ufqfpn_48_1ep_7x7mm_p0_5mm_ep5_6x5_6mm_ufqfpn_48_1ep_7x7mm_p0_5mm_ep5_6x5_6mm/working
-    oomp_doc: footprints/footprints/brunoeagle/UFQFPN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm.kicad_mod/UFQFPN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/UFQFPN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm.kicad_mod/UFQFPN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_ufqfpn_48_1ep_7x7mm_p0_5mm_ep5_6x5_6mm_ufqfpn_48_1ep_7x7mm_p0_5mm_ep5_6x5_6mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_ufqfpn_48_1ep_7x7mm_p0_5mm_ep5_6x5_6mm_ufqfpn_48_1ep_7x7mm_p0_5mm_ep5_6x5_6mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/UFQFPN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm.kicad_mod/UFQFPN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/UFQFPN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm.kicad_mod/UFQFPN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: ufqfpn_48_1ep_7x7mm_p0_5mm_ep5_6x5_6mm
+    library_name: ufqfpn_48_1ep_7x7mm_p0_5mm_ep5_6x5_6mm_kicad_mod
+    md5: e2823e1591ced1e47d39383eaa24337c
+    md5_10: e2823e1591
+    md5_5: e2823
+    md5_6: e2823e
+    oomp_key: oomp_brunoeagle_ufqfpn_48_1ep_7x7mm_p0_5mm_ep5_6x5_6mm_ufqfpn_48_1ep_7x7mm_p0_5mm_ep5_6x5_6mm
+    oomp_key_extra: oomp_footprint_brunoeagle_ufqfpn_48_1ep_7x7mm_p0_5mm_ep5_6x5_6mm_ufqfpn_48_1ep_7x7mm_p0_5mm_ep5_6x5_6mm
+    oomp_key_full: oomp_footprint_brunoeagle_ufqfpn_48_1ep_7x7mm_p0_5mm_ep5_6x5_6mm_ufqfpn_48_1ep_7x7mm_p0_5mm_ep5_6x5_6mm_e2823e
+    oomp_key_simple: brunoeagle_ufqfpn_48_1ep_7x7mm_p0_5mm_ep5_6x5_6mm_ufqfpn_48_1ep_7x7mm_p0_5mm_ep5_6x5_6mm
+    original_filename: kicad-open-modules/UFQFPN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_ufqfpn_48_1ep_7x7mm_p0_5mm_ep5_6x5_6mm_ufqfpn_48_1ep_7x7mm_p0_5mm_ep5_6x5_6mm
+  oomp_key_full: oomp_footprint_brunoeagle_ufqfpn_48_1ep_7x7mm_p0_5mm_ep5_6x5_6mm_ufqfpn_48_1ep_7x7mm_p0_5mm_ep5_6x5_6mm
   oomp_key_simple: brunoeagle_ufqfpn_48_1ep_7x7mm_p0_5mm_ep5_6x5_6mm_ufqfpn_48_1ep_7x7mm_p0_5mm_ep5_6x5_6mm
   owner: brunoeagle
   repo:

@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/kubiX89/kiCAD.pretty
     oomp_bot: footprints/kubix89_kicad_tb_1x2_5_0mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kubix89_kicad_tb_1x2_5_0mm/working
-    oomp_doc: footprints/footprints/kubiX89/kiCAD/TB_1X2_5.0MM/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kubiX89/kiCAD/TB_1X2_5.0MM/working
     oomp_src_flat: footprints_flat/footprints_flat/kubix89_kicad_tb_1x2_5_0mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kubix89_kicad_tb_1x2_5_0mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/kubiX89/kiCAD/TB_1X2_5.0MM/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kubiX89/kiCAD/TB_1X2_5.0MM/working
   name: kiCAD.pretty
+  oomp:
+    footprint_name: tb_1x2_5_0mm
+    library_name: kicad
+    md5: be69a8a06bc4c11fe6c22a528844144b
+    md5_10: be69a8a06b
+    md5_5: be69a
+    md5_6: be69a8
+    oomp_key: oomp_kubix89_kicad_tb_1x2_5_0mm
+    oomp_key_extra: oomp_footprint_kubix89_kicad_tb_1x2_5_0mm
+    oomp_key_full: oomp_footprint_kubix89_kicad_tb_1x2_5_0mm_be69a8
+    oomp_key_simple: kubix89_kicad_tb_1x2_5_0mm
+    original_filename: kiCAD.pretty/TB_1X2_5.0MM.kicad_mod
+    owner_name: kubix89
   oomp_key: oomp_kubix89_kicad_tb_1x2_5_0mm
+  oomp_key_full: oomp_footprint_kubix89_kicad_tb_1x2_5_0mm
   oomp_key_simple: kubix89_kicad_tb_1x2_5_0mm
   owner: kubiX89
   repo:

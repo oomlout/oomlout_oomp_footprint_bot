@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/celeritous_kicad_pot_trimmer_3mm_side/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/celeritous_kicad_pot_trimmer_3mm_side/working
-    oomp_doc: footprints/footprints/celeritous/KiCad/POT_TRIMMER_3MM_SIDE/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/celeritous/KiCad/POT_TRIMMER_3MM_SIDE/working
     oomp_src_flat: footprints_flat/footprints_flat/celeritous_kicad_pot_trimmer_3mm_side/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/celeritous_kicad_pot_trimmer_3mm_side/working
-    oomp_src_folder: footprints_folder/footprints_folder/celeritous/KiCad/POT_TRIMMER_3MM_SIDE/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/celeritous/KiCad/POT_TRIMMER_3MM_SIDE/working
   name: KiCad.pretty
+  oomp:
+    footprint_name: pot_trimmer_3mm_side
+    library_name: kicad
+    md5: c3279bf15cb37621f94ce1113aafa078
+    md5_10: c3279bf15c
+    md5_5: c3279
+    md5_6: c3279b
+    oomp_key: oomp_celeritous_kicad_pot_trimmer_3mm_side
+    oomp_key_extra: oomp_footprint_celeritous_kicad_pot_trimmer_3mm_side
+    oomp_key_full: oomp_footprint_celeritous_kicad_pot_trimmer_3mm_side_c3279b
+    oomp_key_simple: celeritous_kicad_pot_trimmer_3mm_side
+    original_filename: KiCad.pretty/POT_TRIMMER_3MM_SIDE.kicad_mod
+    owner_name: celeritous
   oomp_key: oomp_celeritous_kicad_pot_trimmer_3mm_side
+  oomp_key_full: oomp_footprint_celeritous_kicad_pot_trimmer_3mm_side
   oomp_key_simple: celeritous_kicad_pot_trimmer_3mm_side
   owner: celeritous
   repo:

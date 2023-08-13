@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/chriswags_kit_dev_coldfire_sm1206pol/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/chriswags_kit_dev_coldfire_sm1206pol/working
-    oomp_doc: footprints/footprints/chriswags/kit-dev-coldfire/SM1206POL/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/chriswags/kit-dev-coldfire/SM1206POL/working
     oomp_src_flat: footprints_flat/footprints_flat/chriswags_kit_dev_coldfire_sm1206pol/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/chriswags_kit_dev_coldfire_sm1206pol/working
-    oomp_src_folder: footprints_folder/footprints_folder/chriswags/kit-dev-coldfire/SM1206POL/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/chriswags/kit-dev-coldfire/SM1206POL/working
   name: KiCad
+  oomp:
+    footprint_name: sm1206pol
+    library_name: kit_dev_coldfire
+    md5: eae7fb46657ff0fa3282caf10cff1dbf
+    md5_10: eae7fb4665
+    md5_5: eae7f
+    md5_6: eae7fb
+    oomp_key: oomp_chriswags_kit_dev_coldfire_sm1206pol
+    oomp_key_extra: oomp_footprint_chriswags_kit_dev_coldfire_sm1206pol
+    oomp_key_full: oomp_footprint_chriswags_kit_dev_coldfire_sm1206pol_eae7fb
+    oomp_key_simple: chriswags_kit_dev_coldfire_sm1206pol
+    original_filename: KiCad/demos/kit-dev-coldfire-xilinx_5213/kit-dev-coldfire.pretty/SM1206POL.kicad_mod
+    owner_name: chriswags
   oomp_key: oomp_chriswags_kit_dev_coldfire_sm1206pol
+  oomp_key_full: oomp_footprint_chriswags_kit_dev_coldfire_sm1206pol
   oomp_key_simple: chriswags_kit_dev_coldfire_sm1206pol
   owner: chriswags
   repo:

@@ -13,14 +13,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/re_innovation_reinnovationgraphics_ph_logo_copyright/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/re_innovation_reinnovationgraphics_ph_logo_copyright/working
-    oomp_doc: footprints/footprints/re-innovation/REInnovationGraphics/PH_LOGO_Copyright/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/re-innovation/REInnovationGraphics/PH_LOGO_Copyright/working
     oomp_src_flat: footprints_flat/footprints_flat/re_innovation_reinnovationgraphics_ph_logo_copyright/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/re_innovation_reinnovationgraphics_ph_logo_copyright/working
-    oomp_src_folder: footprints_folder/footprints_folder/re-innovation/REInnovationGraphics/PH_LOGO_Copyright/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/re-innovation/REInnovationGraphics/PH_LOGO_Copyright/working
   name: kicad_reinnovation
+  oomp:
+    footprint_name: ph_logo_copyright
+    library_name: reinnovationgraphics
+    md5: 787dae643584fb572aaf8a5effb0920e
+    md5_10: 787dae6435
+    md5_5: 787da
+    md5_6: 787dae
+    oomp_key: oomp_re_innovation_reinnovationgraphics_ph_logo_copyright
+    oomp_key_extra: oomp_footprint_re_innovation_reinnovationgraphics_ph_logo_copyright
+    oomp_key_full: oomp_footprint_re_innovation_reinnovationgraphics_ph_logo_copyright_787dae
+    oomp_key_simple: re_innovation_reinnovationgraphics_ph_logo_copyright
+    original_filename: kicad_reinnovation/KiCAD PRETTY/REInnovationGraphics.pretty/PH_LOGO_Copyright.kicad_mod
+    owner_name: re_innovation
   oomp_key: oomp_re_innovation_reinnovationgraphics_ph_logo_copyright
+  oomp_key_full: oomp_footprint_re_innovation_reinnovationgraphics_ph_logo_copyright
   oomp_key_simple: re_innovation_reinnovationgraphics_ph_logo_copyright
   owner: re-innovation
   repo:

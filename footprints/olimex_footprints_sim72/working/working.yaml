@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/olimex_footprints_sim72/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/olimex_footprints_sim72/working
-    oomp_doc: footprints/footprints/OLIMEX/footprints/sim72/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/OLIMEX/footprints/sim72/working
     oomp_src_flat: footprints_flat/footprints_flat/olimex_footprints_sim72/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/olimex_footprints_sim72/working
-    oomp_src_folder: footprints_folder/footprints_folder/OLIMEX/footprints/sim72/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/OLIMEX/footprints/sim72/working
   name: KiCAD
+  oomp:
+    footprint_name: sim72
+    library_name: footprints
+    md5: cf4dc8e9dba296caab4cebb1a6d70511
+    md5_10: cf4dc8e9db
+    md5_5: cf4dc
+    md5_6: cf4dc8
+    oomp_key: oomp_olimex_footprints_sim72
+    oomp_key_extra: oomp_footprint_olimex_footprints_sim72
+    oomp_key_full: oomp_footprint_olimex_footprints_sim72_cf4dc8
+    oomp_key_simple: olimex_footprints_sim72
+    original_filename: KiCAD/demos/video/libs/footprints.pretty/sim72.kicad_mod
+    owner_name: olimex
   oomp_key: oomp_olimex_footprints_sim72
+  oomp_key_full: oomp_footprint_olimex_footprints_sim72
   oomp_key_simple: olimex_footprints_sim72
   owner: OLIMEX
   repo:

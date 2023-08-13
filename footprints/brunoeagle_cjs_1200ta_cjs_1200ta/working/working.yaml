@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_cjs_1200ta_cjs_1200ta/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_cjs_1200ta_cjs_1200ta/working
-    oomp_doc: footprints/footprints/brunoeagle/CJS-1200TA.kicad_mod/CJS-1200TA/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/CJS-1200TA.kicad_mod/CJS-1200TA/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_cjs_1200ta_cjs_1200ta/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_cjs_1200ta_cjs_1200ta/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/CJS-1200TA.kicad_mod/CJS-1200TA/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/CJS-1200TA.kicad_mod/CJS-1200TA/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: cjs_1200ta
+    library_name: cjs_1200ta_kicad_mod
+    md5: f7f4a2908dcfb9f6c4c6bac4fc4a9a28
+    md5_10: f7f4a2908d
+    md5_5: f7f4a
+    md5_6: f7f4a2
+    oomp_key: oomp_brunoeagle_cjs_1200ta_cjs_1200ta
+    oomp_key_extra: oomp_footprint_brunoeagle_cjs_1200ta_cjs_1200ta
+    oomp_key_full: oomp_footprint_brunoeagle_cjs_1200ta_cjs_1200ta_f7f4a2
+    oomp_key_simple: brunoeagle_cjs_1200ta_cjs_1200ta
+    original_filename: kicad-open-modules/CJS-1200TA.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_cjs_1200ta_cjs_1200ta
+  oomp_key_full: oomp_footprint_brunoeagle_cjs_1200ta_cjs_1200ta
   oomp_key_simple: brunoeagle_cjs_1200ta_cjs_1200ta
   owner: brunoeagle
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_tsnp_7_1_tsnp_7_1/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_tsnp_7_1_tsnp_7_1/working
-    oomp_doc: footprints/footprints/brunoeagle/TSNP-7-1.kicad_mod/TSNP-7-1/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/TSNP-7-1.kicad_mod/TSNP-7-1/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_tsnp_7_1_tsnp_7_1/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_tsnp_7_1_tsnp_7_1/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/TSNP-7-1.kicad_mod/TSNP-7-1/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/TSNP-7-1.kicad_mod/TSNP-7-1/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: tsnp_7_1
+    library_name: tsnp_7_1_kicad_mod
+    md5: 75e064d0f7b567303355ff260cbfe7d8
+    md5_10: 75e064d0f7
+    md5_5: 75e06
+    md5_6: 75e064
+    oomp_key: oomp_brunoeagle_tsnp_7_1_tsnp_7_1
+    oomp_key_extra: oomp_footprint_brunoeagle_tsnp_7_1_tsnp_7_1
+    oomp_key_full: oomp_footprint_brunoeagle_tsnp_7_1_tsnp_7_1_75e064
+    oomp_key_simple: brunoeagle_tsnp_7_1_tsnp_7_1
+    original_filename: kicad-open-modules/TSNP-7-1.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_tsnp_7_1_tsnp_7_1
+  oomp_key_full: oomp_footprint_brunoeagle_tsnp_7_1_tsnp_7_1
   oomp_key_simple: brunoeagle_tsnp_7_1_tsnp_7_1
   owner: brunoeagle
   repo:

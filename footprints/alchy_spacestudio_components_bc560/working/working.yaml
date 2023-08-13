@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/alchy/spacestudio_components.pretty
     oomp_bot: footprints/alchy_spacestudio_components_bc560/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/alchy_spacestudio_components_bc560/working
-    oomp_doc: footprints/footprints/alchy/spacestudio_components/BC560/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/alchy/spacestudio_components/BC560/working
     oomp_src_flat: footprints_flat/footprints_flat/alchy_spacestudio_components_bc560/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/alchy_spacestudio_components_bc560/working
-    oomp_src_folder: footprints_folder/footprints_folder/alchy/spacestudio_components/BC560/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/alchy/spacestudio_components/BC560/working
   name: spacestudio_components.pretty
+  oomp:
+    footprint_name: bc560
+    library_name: spacestudio_components
+    md5: 6e518f23c211b150b67788e9ddbc6cdc
+    md5_10: 6e518f23c2
+    md5_5: 6e518
+    md5_6: 6e518f
+    oomp_key: oomp_alchy_spacestudio_components_bc560
+    oomp_key_extra: oomp_footprint_alchy_spacestudio_components_bc560
+    oomp_key_full: oomp_footprint_alchy_spacestudio_components_bc560_6e518f
+    oomp_key_simple: alchy_spacestudio_components_bc560
+    original_filename: spacestudio_components.pretty/BC560.kicad_mod
+    owner_name: alchy
   oomp_key: oomp_alchy_spacestudio_components_bc560
+  oomp_key_full: oomp_footprint_alchy_spacestudio_components_bc560
   oomp_key_simple: alchy_spacestudio_components_bc560
   owner: alchy
   repo:

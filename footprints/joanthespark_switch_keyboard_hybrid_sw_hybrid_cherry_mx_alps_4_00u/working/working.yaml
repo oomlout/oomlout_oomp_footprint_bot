@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/joanthespark_switch_keyboard_hybrid_sw_hybrid_cherry_mx_alps_4_00u/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/joanthespark_switch_keyboard_hybrid_sw_hybrid_cherry_mx_alps_4_00u/working
-    oomp_doc: footprints/footprints/JoanTheSpark/Switch_Keyboard_Hybrid/SW_Hybrid_Cherry_MX_Alps_4.00u/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/JoanTheSpark/Switch_Keyboard_Hybrid/SW_Hybrid_Cherry_MX_Alps_4.00u/working
     oomp_src_flat: footprints_flat/footprints_flat/joanthespark_switch_keyboard_hybrid_sw_hybrid_cherry_mx_alps_4_00u/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/joanthespark_switch_keyboard_hybrid_sw_hybrid_cherry_mx_alps_4_00u/working
-    oomp_src_folder: footprints_folder/footprints_folder/JoanTheSpark/Switch_Keyboard_Hybrid/SW_Hybrid_Cherry_MX_Alps_4.00u/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/JoanTheSpark/Switch_Keyboard_Hybrid/SW_Hybrid_Cherry_MX_Alps_4.00u/working
   name: KiCAD
+  oomp:
+    footprint_name: sw_hybrid_cherry_mx_alps_4_00u
+    library_name: switch_keyboard_hybrid
+    md5: cfa46d02a242d02b9b72d9f402288942
+    md5_10: cfa46d02a2
+    md5_5: cfa46
+    md5_6: cfa46d
+    oomp_key: oomp_joanthespark_switch_keyboard_hybrid_sw_hybrid_cherry_mx_alps_4_00u
+    oomp_key_extra: oomp_footprint_joanthespark_switch_keyboard_hybrid_sw_hybrid_cherry_mx_alps_4_00u
+    oomp_key_full: oomp_footprint_joanthespark_switch_keyboard_hybrid_sw_hybrid_cherry_mx_alps_4_00u_cfa46d
+    oomp_key_simple: joanthespark_switch_keyboard_hybrid_sw_hybrid_cherry_mx_alps_4_00u
+    original_filename: KiCAD/6.0/3rdparty/footprints/com_github_perigoso_keyswitch-kicad-library/Switch_Keyboard_Hybrid.pretty/SW_Hybrid_Cherry_MX_Alps_4.00u.kicad_mod
+    owner_name: joanthespark
   oomp_key: oomp_joanthespark_switch_keyboard_hybrid_sw_hybrid_cherry_mx_alps_4_00u
+  oomp_key_full: oomp_footprint_joanthespark_switch_keyboard_hybrid_sw_hybrid_cherry_mx_alps_4_00u
   oomp_key_simple: joanthespark_switch_keyboard_hybrid_sw_hybrid_cherry_mx_alps_4_00u
   owner: JoanTheSpark
   repo:

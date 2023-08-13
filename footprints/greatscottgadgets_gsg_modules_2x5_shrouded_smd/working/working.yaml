@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/greatscottgadgets_gsg_modules_2x5_shrouded_smd/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/greatscottgadgets_gsg_modules_2x5_shrouded_smd/working
-    oomp_doc: footprints/footprints/greatscottgadgets/gsg-modules/2X5-SHROUDED_SMD/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/greatscottgadgets/gsg-modules/2X5-SHROUDED_SMD/working
     oomp_src_flat: footprints_flat/footprints_flat/greatscottgadgets_gsg_modules_2x5_shrouded_smd/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/greatscottgadgets_gsg_modules_2x5_shrouded_smd/working
-    oomp_src_folder: footprints_folder/footprints_folder/greatscottgadgets/gsg-modules/2X5-SHROUDED_SMD/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/greatscottgadgets/gsg-modules/2X5-SHROUDED_SMD/working
   name: gsg-kicad-lib
+  oomp:
+    footprint_name: 2x5_shrouded_smd
+    library_name: gsg_modules
+    md5: 1b122445c8ef42d49ac6793d7ca609da
+    md5_10: 1b122445c8
+    md5_5: 1b122
+    md5_6: 1b1224
+    oomp_key: oomp_greatscottgadgets_gsg_modules_2x5_shrouded_smd
+    oomp_key_extra: oomp_footprint_greatscottgadgets_gsg_modules_2x5_shrouded_smd
+    oomp_key_full: oomp_footprint_greatscottgadgets_gsg_modules_2x5_shrouded_smd_1b1224
+    oomp_key_simple: greatscottgadgets_gsg_modules_2x5_shrouded_smd
+    original_filename: gsg-kicad-lib/gsg-modules.pretty/2X5-SHROUDED_SMD.kicad_mod
+    owner_name: greatscottgadgets
   oomp_key: oomp_greatscottgadgets_gsg_modules_2x5_shrouded_smd
+  oomp_key_full: oomp_footprint_greatscottgadgets_gsg_modules_2x5_shrouded_smd
   oomp_key_simple: greatscottgadgets_gsg_modules_2x5_shrouded_smd
   owner: greatscottgadgets
   repo:

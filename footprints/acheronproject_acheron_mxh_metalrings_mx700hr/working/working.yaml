@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/AcheronProject/acheron_MXH_metalrings.pretty
     oomp_bot: footprints/acheronproject_acheron_mxh_metalrings_mx700hr/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/acheronproject_acheron_mxh_metalrings_mx700hr/working
-    oomp_doc: footprints/footprints/AcheronProject/acheron_MXH_metalrings/MX700HR/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/AcheronProject/acheron_MXH_metalrings/MX700HR/working
     oomp_src_flat: footprints_flat/footprints_flat/acheronproject_acheron_mxh_metalrings_mx700hr/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/acheronproject_acheron_mxh_metalrings_mx700hr/working
-    oomp_src_folder: footprints_folder/footprints_folder/AcheronProject/acheron_MXH_metalrings/MX700HR/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/AcheronProject/acheron_MXH_metalrings/MX700HR/working
   name: acheron_MXH_metalrings.pretty
+  oomp:
+    footprint_name: mx700hr
+    library_name: acheron_mxh_metalrings
+    md5: eb835af6d3b8e7ca1223df4afb8527c5
+    md5_10: eb835af6d3
+    md5_5: eb835
+    md5_6: eb835a
+    oomp_key: oomp_acheronproject_acheron_mxh_metalrings_mx700hr
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_mxh_metalrings_mx700hr
+    oomp_key_full: oomp_footprint_acheronproject_acheron_mxh_metalrings_mx700hr_eb835a
+    oomp_key_simple: acheronproject_acheron_mxh_metalrings_mx700hr
+    original_filename: acheron_MXH_metalrings.pretty/MX700HR.kicad_mod
+    owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_mxh_metalrings_mx700hr
+  oomp_key_full: oomp_footprint_acheronproject_acheron_mxh_metalrings_mx700hr
   oomp_key_simple: acheronproject_acheron_mxh_metalrings_mx700hr
   owner: AcheronProject
   repo:

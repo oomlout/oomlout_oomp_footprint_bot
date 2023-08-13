@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/newam_newam_a_2004_3_4_lp_n_r/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/newam_newam_a_2004_3_4_lp_n_r/working
-    oomp_doc: footprints/footprints/newAM/newam/A-2004-3-4-LP-N-R/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/newAM/newam/A-2004-3-4-LP-N-R/working
     oomp_src_flat: footprints_flat/footprints_flat/newam_newam_a_2004_3_4_lp_n_r/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/newam_newam_a_2004_3_4_lp_n_r/working
-    oomp_src_folder: footprints_folder/footprints_folder/newAM/newam/A-2004-3-4-LP-N-R/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/newAM/newam/A-2004-3-4-LP-N-R/working
   name: newam.pretty
+  oomp:
+    footprint_name: a_2004_3_4_lp_n_r
+    library_name: newam
+    md5: 2958948e10e64a6a144f77896f5f7c7c
+    md5_10: 2958948e10
+    md5_5: '29589'
+    md5_6: '295894'
+    oomp_key: oomp_newam_newam_a_2004_3_4_lp_n_r
+    oomp_key_extra: oomp_footprint_newam_newam_a_2004_3_4_lp_n_r
+    oomp_key_full: oomp_footprint_newam_newam_a_2004_3_4_lp_n_r_295894
+    oomp_key_simple: newam_newam_a_2004_3_4_lp_n_r
+    original_filename: newam.pretty/A-2004-3-4-LP-N-R.kicad_mod
+    owner_name: newam
   oomp_key: oomp_newam_newam_a_2004_3_4_lp_n_r
+  oomp_key_full: oomp_footprint_newam_newam_a_2004_3_4_lp_n_r
   oomp_key_simple: newam_newam_a_2004_3_4_lp_n_r
   owner: newAM
   repo:

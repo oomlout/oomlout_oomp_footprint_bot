@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/digikey_imu_module_sen0140_imu_module_sen0140/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_imu_module_sen0140_imu_module_sen0140/working
-    oomp_doc: footprints/footprints/digikey/IMU_Module_SEN0140.kicad_mod/IMU_Module_SEN0140/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/digikey/IMU_Module_SEN0140.kicad_mod/IMU_Module_SEN0140/working
     oomp_src_flat: footprints_flat/footprints_flat/digikey_imu_module_sen0140_imu_module_sen0140/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/digikey_imu_module_sen0140_imu_module_sen0140/working
-    oomp_src_folder: footprints_folder/footprints_folder/digikey/IMU_Module_SEN0140.kicad_mod/IMU_Module_SEN0140/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/digikey/IMU_Module_SEN0140.kicad_mod/IMU_Module_SEN0140/working
   name: digikey-kicad-library
+  oomp:
+    footprint_name: imu_module_sen0140
+    library_name: imu_module_sen0140_kicad_mod
+    md5: c0e69c6f81b3434d2f3170b360c4b8d7
+    md5_10: c0e69c6f81
+    md5_5: c0e69
+    md5_6: c0e69c
+    oomp_key: oomp_digikey_imu_module_sen0140_imu_module_sen0140
+    oomp_key_extra: oomp_footprint_digikey_imu_module_sen0140_imu_module_sen0140
+    oomp_key_full: oomp_footprint_digikey_imu_module_sen0140_imu_module_sen0140_c0e69c
+    oomp_key_simple: digikey_imu_module_sen0140_imu_module_sen0140
+    original_filename: digikey-kicad-library/src/Source_Footprints/IMU_Module_SEN0140.kicad_mod
+    owner_name: digikey
   oomp_key: oomp_digikey_imu_module_sen0140_imu_module_sen0140
+  oomp_key_full: oomp_footprint_digikey_imu_module_sen0140_imu_module_sen0140
   oomp_key_simple: digikey_imu_module_sen0140_imu_module_sen0140
   owner: digikey
   repo:

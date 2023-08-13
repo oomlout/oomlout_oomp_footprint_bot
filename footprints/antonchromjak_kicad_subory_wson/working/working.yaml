@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/antonchromjak/kicad_subory.pretty
     oomp_bot: footprints/antonchromjak_kicad_subory_wson/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/antonchromjak_kicad_subory_wson/working
-    oomp_doc: footprints/footprints/antonchromjak/kicad_subory/WSON/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/antonchromjak/kicad_subory/WSON/working
     oomp_src_flat: footprints_flat/footprints_flat/antonchromjak_kicad_subory_wson/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/antonchromjak_kicad_subory_wson/working
-    oomp_src_folder: footprints_folder/footprints_folder/antonchromjak/kicad_subory/WSON/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/antonchromjak/kicad_subory/WSON/working
   name: kicad_subory.pretty
+  oomp:
+    footprint_name: wson
+    library_name: kicad_subory
+    md5: c2f2b00056be4e1477dfbf4511583f96
+    md5_10: c2f2b00056
+    md5_5: c2f2b
+    md5_6: c2f2b0
+    oomp_key: oomp_antonchromjak_kicad_subory_wson
+    oomp_key_extra: oomp_footprint_antonchromjak_kicad_subory_wson
+    oomp_key_full: oomp_footprint_antonchromjak_kicad_subory_wson_c2f2b0
+    oomp_key_simple: antonchromjak_kicad_subory_wson
+    original_filename: kicad_subory.pretty/WSON.kicad_mod
+    owner_name: antonchromjak
   oomp_key: oomp_antonchromjak_kicad_subory_wson
+  oomp_key_full: oomp_footprint_antonchromjak_kicad_subory_wson
   oomp_key_simple: antonchromjak_kicad_subory_wson
   owner: antonchromjak
   repo:

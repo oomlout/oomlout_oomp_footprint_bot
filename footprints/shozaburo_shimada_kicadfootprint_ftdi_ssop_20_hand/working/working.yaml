@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/shozaburo_shimada_kicadfootprint_ftdi_ssop_20_hand/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/shozaburo_shimada_kicadfootprint_ftdi_ssop_20_hand/working
-    oomp_doc: footprints/footprints/shozaburo-shimada/KiCADfootprint/FTDI_SSOP-20_hand/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/shozaburo-shimada/KiCADfootprint/FTDI_SSOP-20_hand/working
     oomp_src_flat: footprints_flat/footprints_flat/shozaburo_shimada_kicadfootprint_ftdi_ssop_20_hand/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/shozaburo_shimada_kicadfootprint_ftdi_ssop_20_hand/working
-    oomp_src_folder: footprints_folder/footprints_folder/shozaburo-shimada/KiCADfootprint/FTDI_SSOP-20_hand/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/shozaburo-shimada/KiCADfootprint/FTDI_SSOP-20_hand/working
   name: KiCADfootprint.pretty
+  oomp:
+    footprint_name: ftdi_ssop_20_hand
+    library_name: kicadfootprint
+    md5: ef3fcebdbc1ea2f5af23c14130ee9ac2
+    md5_10: ef3fcebdbc
+    md5_5: ef3fc
+    md5_6: ef3fce
+    oomp_key: oomp_shozaburo_shimada_kicadfootprint_ftdi_ssop_20_hand
+    oomp_key_extra: oomp_footprint_shozaburo_shimada_kicadfootprint_ftdi_ssop_20_hand
+    oomp_key_full: oomp_footprint_shozaburo_shimada_kicadfootprint_ftdi_ssop_20_hand_ef3fce
+    oomp_key_simple: shozaburo_shimada_kicadfootprint_ftdi_ssop_20_hand
+    original_filename: KiCADfootprint.pretty/FTDI_SSOP-20_hand.kicad_mod
+    owner_name: shozaburo_shimada
   oomp_key: oomp_shozaburo_shimada_kicadfootprint_ftdi_ssop_20_hand
+  oomp_key_full: oomp_footprint_shozaburo_shimada_kicadfootprint_ftdi_ssop_20_hand
   oomp_key_simple: shozaburo_shimada_kicadfootprint_ftdi_ssop_20_hand
   owner: shozaburo-shimada
   repo:

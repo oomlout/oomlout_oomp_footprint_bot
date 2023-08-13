@@ -8,14 +8,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/jeff_russ_kicad_capacitor_electrolytic_8mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/jeff_russ_kicad_capacitor_electrolytic_8mm/working
-    oomp_doc: footprints/footprints/Jeff-Russ/Kicad/CAPACITOR_ELECTROLYTIC_8MM/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Jeff-Russ/Kicad/CAPACITOR_ELECTROLYTIC_8MM/working
     oomp_src_flat: footprints_flat/footprints_flat/jeff_russ_kicad_capacitor_electrolytic_8mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/jeff_russ_kicad_capacitor_electrolytic_8mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/Jeff-Russ/Kicad/CAPACITOR_ELECTROLYTIC_8MM/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Jeff-Russ/Kicad/CAPACITOR_ELECTROLYTIC_8MM/working
   name: Kicad.pretty
+  oomp:
+    footprint_name: capacitor_electrolytic_8mm
+    library_name: kicad
+    md5: 21573f5181b5f52bd17ea91f98f10ad4
+    md5_10: 21573f5181
+    md5_5: '21573'
+    md5_6: 21573f
+    oomp_key: oomp_jeff_russ_kicad_capacitor_electrolytic_8mm
+    oomp_key_extra: oomp_footprint_jeff_russ_kicad_capacitor_electrolytic_8mm
+    oomp_key_full: oomp_footprint_jeff_russ_kicad_capacitor_electrolytic_8mm_21573f
+    oomp_key_simple: jeff_russ_kicad_capacitor_electrolytic_8mm
+    original_filename: Kicad.pretty/CAPACITOR_ELECTROLYTIC_8MM.kicad_mod
+    owner_name: jeff_russ
   oomp_key: oomp_jeff_russ_kicad_capacitor_electrolytic_8mm
+  oomp_key_full: oomp_footprint_jeff_russ_kicad_capacitor_electrolytic_8mm
   oomp_key_simple: jeff_russ_kicad_capacitor_electrolytic_8mm
   owner: Jeff-Russ
   repo:

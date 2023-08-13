@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/olimex_freetronics_footprints_1x05/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/olimex_freetronics_footprints_1x05/working
-    oomp_doc: footprints/footprints/OLIMEX/freetronics_footprints/1X05/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/OLIMEX/freetronics_footprints/1X05/working
     oomp_src_flat: footprints_flat/footprints_flat/olimex_freetronics_footprints_1x05/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/olimex_freetronics_footprints_1x05/working
-    oomp_src_folder: footprints_folder/footprints_folder/OLIMEX/freetronics_footprints/1X05/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/OLIMEX/freetronics_footprints/1X05/working
   name: KiCAD
+  oomp:
+    footprint_name: 1x05
+    library_name: freetronics_footprints
+    md5: cc89b543312b8f01793dac48f6a68c9c
+    md5_10: cc89b54331
+    md5_5: cc89b
+    md5_6: cc89b5
+    oomp_key: oomp_olimex_freetronics_footprints_1x05
+    oomp_key_extra: oomp_footprint_olimex_freetronics_footprints_1x05
+    oomp_key_full: oomp_footprint_olimex_freetronics_footprints_1x05_cc89b5
+    oomp_key_simple: olimex_freetronics_footprints_1x05
+    original_filename: KiCAD/mods/freetronics_footprints.pretty/1X05.kicad_mod
+    owner_name: olimex
   oomp_key: oomp_olimex_freetronics_footprints_1x05
+  oomp_key_full: oomp_footprint_olimex_freetronics_footprints_1x05
   oomp_key_simple: olimex_freetronics_footprints_1x05
   owner: OLIMEX
   repo:

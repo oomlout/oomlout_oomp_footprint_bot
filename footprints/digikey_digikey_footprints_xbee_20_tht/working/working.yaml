@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/digikey_digikey_footprints_xbee_20_tht/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_digikey_footprints_xbee_20_tht/working
-    oomp_doc: footprints/footprints/digikey/digikey-footprints/XBEE-20_THT/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/digikey/digikey-footprints/XBEE-20_THT/working
     oomp_src_flat: footprints_flat/footprints_flat/digikey_digikey_footprints_xbee_20_tht/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/digikey_digikey_footprints_xbee_20_tht/working
-    oomp_src_folder: footprints_folder/footprints_folder/digikey/digikey-footprints/XBEE-20_THT/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/digikey/digikey-footprints/XBEE-20_THT/working
   name: digikey-kicad-library
+  oomp:
+    footprint_name: xbee_20_tht
+    library_name: digikey_footprints
+    md5: 24bf373384f7f239d732226c190b9fba
+    md5_10: 24bf373384
+    md5_5: 24bf3
+    md5_6: 24bf37
+    oomp_key: oomp_digikey_digikey_footprints_xbee_20_tht
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_xbee_20_tht
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_xbee_20_tht_24bf37
+    oomp_key_simple: digikey_digikey_footprints_xbee_20_tht
+    original_filename: digikey-kicad-library/digikey-footprints.pretty/XBEE-20_THT.kicad_mod
+    owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_xbee_20_tht
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_xbee_20_tht
   oomp_key_simple: digikey_digikey_footprints_xbee_20_tht
   owner: digikey
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_nrs6028_nrs6028/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_nrs6028_nrs6028/working
-    oomp_doc: footprints/footprints/brunoeagle/NRS6028.kicad_mod/NRS6028/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/NRS6028.kicad_mod/NRS6028/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_nrs6028_nrs6028/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_nrs6028_nrs6028/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/NRS6028.kicad_mod/NRS6028/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/NRS6028.kicad_mod/NRS6028/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: nrs6028
+    library_name: nrs6028_kicad_mod
+    md5: f34c37e5e6a1c982d717c85a21322e41
+    md5_10: f34c37e5e6
+    md5_5: f34c3
+    md5_6: f34c37
+    oomp_key: oomp_brunoeagle_nrs6028_nrs6028
+    oomp_key_extra: oomp_footprint_brunoeagle_nrs6028_nrs6028
+    oomp_key_full: oomp_footprint_brunoeagle_nrs6028_nrs6028_f34c37
+    oomp_key_simple: brunoeagle_nrs6028_nrs6028
+    original_filename: kicad-open-modules/NRS6028.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_nrs6028_nrs6028
+  oomp_key_full: oomp_footprint_brunoeagle_nrs6028_nrs6028
   oomp_key_simple: brunoeagle_nrs6028_nrs6028
   owner: brunoeagle
   repo:

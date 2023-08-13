@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/keebio_keebio_parts_mx_quad/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/keebio_keebio_parts_mx_quad/working
-    oomp_doc: footprints/footprints/keebio/Keebio-Parts/MX-Quad/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/keebio/Keebio-Parts/MX-Quad/working
     oomp_src_flat: footprints_flat/footprints_flat/keebio_keebio_parts_mx_quad/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/keebio_keebio_parts_mx_quad/working
-    oomp_src_folder: footprints_folder/footprints_folder/keebio/Keebio-Parts/MX-Quad/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/keebio/Keebio-Parts/MX-Quad/working
   name: Keebio-Parts.pretty
+  oomp:
+    footprint_name: mx_quad
+    library_name: keebio_parts
+    md5: 2b33f295b09e43b40f44c43b820570f8
+    md5_10: 2b33f295b0
+    md5_5: 2b33f
+    md5_6: 2b33f2
+    oomp_key: oomp_keebio_keebio_parts_mx_quad
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_mx_quad
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_mx_quad_2b33f2
+    oomp_key_simple: keebio_keebio_parts_mx_quad
+    original_filename: Keebio-Parts.pretty/MX-Quad.kicad_mod
+    owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_mx_quad
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_mx_quad
   oomp_key_simple: keebio_keebio_parts_mx_quad
   owner: keebio
   repo:

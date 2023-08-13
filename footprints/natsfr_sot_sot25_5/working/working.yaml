@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/natsfr_sot_sot25_5/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/natsfr_sot_sot25_5/working
-    oomp_doc: footprints/footprints/natsfr/SOT/SOT25-5/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/natsfr/SOT/SOT25-5/working
     oomp_src_flat: footprints_flat/footprints_flat/natsfr_sot_sot25_5/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/natsfr_sot_sot25_5/working
-    oomp_src_folder: footprints_folder/footprints_folder/natsfr/SOT/SOT25-5/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/natsfr/SOT/SOT25-5/working
   name: kicad-components
+  oomp:
+    footprint_name: sot25_5
+    library_name: sot
+    md5: e8f7b46b38257b162d882a0fa1896d20
+    md5_10: e8f7b46b38
+    md5_5: e8f7b
+    md5_6: e8f7b4
+    oomp_key: oomp_natsfr_sot_sot25_5
+    oomp_key_extra: oomp_footprint_natsfr_sot_sot25_5
+    oomp_key_full: oomp_footprint_natsfr_sot_sot25_5_e8f7b4
+    oomp_key_simple: natsfr_sot_sot25_5
+    original_filename: kicad-components/Pretty_Footprints/SOT.pretty/SOT25-5.kicad_mod
+    owner_name: natsfr
   oomp_key: oomp_natsfr_sot_sot25_5
+  oomp_key_full: oomp_footprint_natsfr_sot_sot25_5
   oomp_key_simple: natsfr_sot_sot25_5
   owner: natsfr
   repo:

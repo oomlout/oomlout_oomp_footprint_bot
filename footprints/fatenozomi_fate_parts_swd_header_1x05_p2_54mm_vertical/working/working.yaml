@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/fatenozomi_fate_parts_swd_header_1x05_p2_54mm_vertical/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/fatenozomi_fate_parts_swd_header_1x05_p2_54mm_vertical/working
-    oomp_doc: footprints/footprints/FateNozomi/Fate_Parts/SWD_Header_1x05_P2.54mm_Vertical/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/FateNozomi/Fate_Parts/SWD_Header_1x05_P2.54mm_Vertical/working
     oomp_src_flat: footprints_flat/footprints_flat/fatenozomi_fate_parts_swd_header_1x05_p2_54mm_vertical/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/fatenozomi_fate_parts_swd_header_1x05_p2_54mm_vertical/working
-    oomp_src_folder: footprints_folder/footprints_folder/FateNozomi/Fate_Parts/SWD_Header_1x05_P2.54mm_Vertical/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/FateNozomi/Fate_Parts/SWD_Header_1x05_P2.54mm_Vertical/working
   name: Fate_Parts.pretty
+  oomp:
+    footprint_name: swd_header_1x05_p2_54mm_vertical
+    library_name: fate_parts
+    md5: 2c56fca4b4f73ed1abc6d3ef6e7e61c2
+    md5_10: 2c56fca4b4
+    md5_5: 2c56f
+    md5_6: 2c56fc
+    oomp_key: oomp_fatenozomi_fate_parts_swd_header_1x05_p2_54mm_vertical
+    oomp_key_extra: oomp_footprint_fatenozomi_fate_parts_swd_header_1x05_p2_54mm_vertical
+    oomp_key_full: oomp_footprint_fatenozomi_fate_parts_swd_header_1x05_p2_54mm_vertical_2c56fc
+    oomp_key_simple: fatenozomi_fate_parts_swd_header_1x05_p2_54mm_vertical
+    original_filename: Fate_Parts.pretty/Miscellaneous_Keyboard_Parts.pretty/SWD_Header_1x05_P2.54mm_Vertical.kicad_mod
+    owner_name: fatenozomi
   oomp_key: oomp_fatenozomi_fate_parts_swd_header_1x05_p2_54mm_vertical
+  oomp_key_full: oomp_footprint_fatenozomi_fate_parts_swd_header_1x05_p2_54mm_vertical
   oomp_key_simple: fatenozomi_fate_parts_swd_header_1x05_p2_54mm_vertical
   owner: FateNozomi
   repo:

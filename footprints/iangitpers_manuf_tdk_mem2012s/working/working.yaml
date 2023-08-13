@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/Iangitpers/4a
     oomp_bot: footprints/iangitpers_manuf_tdk_mem2012s/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/iangitpers_manuf_tdk_mem2012s/working
-    oomp_doc: footprints/footprints/Iangitpers/manuf/TDK-MEM2012S/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Iangitpers/manuf/TDK-MEM2012S/working
     oomp_src_flat: footprints_flat/footprints_flat/iangitpers_manuf_tdk_mem2012s/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/iangitpers_manuf_tdk_mem2012s/working
-    oomp_src_folder: footprints_folder/footprints_folder/Iangitpers/manuf/TDK-MEM2012S/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Iangitpers/manuf/TDK-MEM2012S/working
   name: 4a
+  oomp:
+    footprint_name: tdk_mem2012s
+    library_name: manuf
+    md5: f53bd7ac88354b53ba21ac0fea6c69bb
+    md5_10: f53bd7ac88
+    md5_5: f53bd
+    md5_6: f53bd7
+    oomp_key: oomp_iangitpers_manuf_tdk_mem2012s
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_tdk_mem2012s
+    oomp_key_full: oomp_footprint_iangitpers_manuf_tdk_mem2012s_f53bd7
+    oomp_key_simple: iangitpers_manuf_tdk_mem2012s
+    original_filename: 4a/manuf.pretty/TDK-MEM2012S.kicad_mod
+    owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_tdk_mem2012s
+  oomp_key_full: oomp_footprint_iangitpers_manuf_tdk_mem2012s
   oomp_key_simple: iangitpers_manuf_tdk_mem2012s
   owner: Iangitpers
   repo:

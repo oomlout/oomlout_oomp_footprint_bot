@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/asukiaaa_my_kicad_footprints_onsemi_udfn_6_1_2x1_0mm_p0_4mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/asukiaaa_my_kicad_footprints_onsemi_udfn_6_1_2x1_0mm_p0_4mm/working
-    oomp_doc: footprints/footprints/asukiaaa/my-kicad-footprints/OnSemi_UDFN-6_1.2x1.0mm_P0.4mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/asukiaaa/my-kicad-footprints/OnSemi_UDFN-6_1.2x1.0mm_P0.4mm/working
     oomp_src_flat: footprints_flat/footprints_flat/asukiaaa_my_kicad_footprints_onsemi_udfn_6_1_2x1_0mm_p0_4mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/asukiaaa_my_kicad_footprints_onsemi_udfn_6_1_2x1_0mm_p0_4mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/asukiaaa/my-kicad-footprints/OnSemi_UDFN-6_1.2x1.0mm_P0.4mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/asukiaaa/my-kicad-footprints/OnSemi_UDFN-6_1.2x1.0mm_P0.4mm/working
   name: my-kicad-footprints.pretty
+  oomp:
+    footprint_name: onsemi_udfn_6_1_2x1_0mm_p0_4mm
+    library_name: my_kicad_footprints
+    md5: 757bcc783d97fb34d69d2868dc2b9615
+    md5_10: 757bcc783d
+    md5_5: 757bc
+    md5_6: 757bcc
+    oomp_key: oomp_asukiaaa_my_kicad_footprints_onsemi_udfn_6_1_2x1_0mm_p0_4mm
+    oomp_key_extra: oomp_footprint_asukiaaa_my_kicad_footprints_onsemi_udfn_6_1_2x1_0mm_p0_4mm
+    oomp_key_full: oomp_footprint_asukiaaa_my_kicad_footprints_onsemi_udfn_6_1_2x1_0mm_p0_4mm_757bcc
+    oomp_key_simple: asukiaaa_my_kicad_footprints_onsemi_udfn_6_1_2x1_0mm_p0_4mm
+    original_filename: my-kicad-footprints.pretty/OnSemi_UDFN-6_1.2x1.0mm_P0.4mm.kicad_mod
+    owner_name: asukiaaa
   oomp_key: oomp_asukiaaa_my_kicad_footprints_onsemi_udfn_6_1_2x1_0mm_p0_4mm
+  oomp_key_full: oomp_footprint_asukiaaa_my_kicad_footprints_onsemi_udfn_6_1_2x1_0mm_p0_4mm
   oomp_key_simple: asukiaaa_my_kicad_footprints_onsemi_udfn_6_1_2x1_0mm_p0_4mm
   owner: asukiaaa
   repo:

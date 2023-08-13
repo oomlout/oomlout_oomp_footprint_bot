@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/shozaburo_shimada_kicadfootprint_r_puqfn_n16/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/shozaburo_shimada_kicadfootprint_r_puqfn_n16/working
-    oomp_doc: footprints/footprints/shozaburo-shimada/KiCADfootprint/R-PUQFN-N16/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/shozaburo-shimada/KiCADfootprint/R-PUQFN-N16/working
     oomp_src_flat: footprints_flat/footprints_flat/shozaburo_shimada_kicadfootprint_r_puqfn_n16/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/shozaburo_shimada_kicadfootprint_r_puqfn_n16/working
-    oomp_src_folder: footprints_folder/footprints_folder/shozaburo-shimada/KiCADfootprint/R-PUQFN-N16/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/shozaburo-shimada/KiCADfootprint/R-PUQFN-N16/working
   name: KiCADfootprint.pretty
+  oomp:
+    footprint_name: r_puqfn_n16
+    library_name: kicadfootprint
+    md5: dfff0f205d35fae4fd19359f416d8910
+    md5_10: dfff0f205d
+    md5_5: dfff0
+    md5_6: dfff0f
+    oomp_key: oomp_shozaburo_shimada_kicadfootprint_r_puqfn_n16
+    oomp_key_extra: oomp_footprint_shozaburo_shimada_kicadfootprint_r_puqfn_n16
+    oomp_key_full: oomp_footprint_shozaburo_shimada_kicadfootprint_r_puqfn_n16_dfff0f
+    oomp_key_simple: shozaburo_shimada_kicadfootprint_r_puqfn_n16
+    original_filename: KiCADfootprint.pretty/R-PUQFN-N16.kicad_mod
+    owner_name: shozaburo_shimada
   oomp_key: oomp_shozaburo_shimada_kicadfootprint_r_puqfn_n16
+  oomp_key_full: oomp_footprint_shozaburo_shimada_kicadfootprint_r_puqfn_n16
   oomp_key_simple: shozaburo_shimada_kicadfootprint_r_puqfn_n16
   owner: shozaburo-shimada
   repo:

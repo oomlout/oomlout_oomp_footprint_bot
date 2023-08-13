@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/digikey_digikey_footprints_rotary_encoder_switched_pec11r/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_digikey_footprints_rotary_encoder_switched_pec11r/working
-    oomp_doc: footprints/footprints/digikey/digikey-footprints/Rotary_Encoder_Switched_PEC11R/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/digikey/digikey-footprints/Rotary_Encoder_Switched_PEC11R/working
     oomp_src_flat: footprints_flat/footprints_flat/digikey_digikey_footprints_rotary_encoder_switched_pec11r/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/digikey_digikey_footprints_rotary_encoder_switched_pec11r/working
-    oomp_src_folder: footprints_folder/footprints_folder/digikey/digikey-footprints/Rotary_Encoder_Switched_PEC11R/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/digikey/digikey-footprints/Rotary_Encoder_Switched_PEC11R/working
   name: digikey-kicad-library
+  oomp:
+    footprint_name: rotary_encoder_switched_pec11r
+    library_name: digikey_footprints
+    md5: 0802f76d8225152524f2f112e2bf9312
+    md5_10: 0802f76d82
+    md5_5: 0802f
+    md5_6: 0802f7
+    oomp_key: oomp_digikey_digikey_footprints_rotary_encoder_switched_pec11r
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_rotary_encoder_switched_pec11r
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_rotary_encoder_switched_pec11r_0802f7
+    oomp_key_simple: digikey_digikey_footprints_rotary_encoder_switched_pec11r
+    original_filename: digikey-kicad-library/digikey-footprints.pretty/Rotary_Encoder_Switched_PEC11R.kicad_mod
+    owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_rotary_encoder_switched_pec11r
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_rotary_encoder_switched_pec11r
   oomp_key_simple: digikey_digikey_footprints_rotary_encoder_switched_pec11r
   owner: digikey
   repo:

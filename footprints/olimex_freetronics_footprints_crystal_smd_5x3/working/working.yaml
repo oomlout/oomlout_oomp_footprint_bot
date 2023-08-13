@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/olimex_freetronics_footprints_crystal_smd_5x3/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/olimex_freetronics_footprints_crystal_smd_5x3/working
-    oomp_doc: footprints/footprints/OLIMEX/freetronics_footprints/CRYSTAL-SMD-5X3/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/OLIMEX/freetronics_footprints/CRYSTAL-SMD-5X3/working
     oomp_src_flat: footprints_flat/footprints_flat/olimex_freetronics_footprints_crystal_smd_5x3/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/olimex_freetronics_footprints_crystal_smd_5x3/working
-    oomp_src_folder: footprints_folder/footprints_folder/OLIMEX/freetronics_footprints/CRYSTAL-SMD-5X3/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/OLIMEX/freetronics_footprints/CRYSTAL-SMD-5X3/working
   name: KiCAD
+  oomp:
+    footprint_name: crystal_smd_5x3
+    library_name: freetronics_footprints
+    md5: 858afa2a0d6e8757691c2446ee62bd21
+    md5_10: 858afa2a0d
+    md5_5: 858af
+    md5_6: 858afa
+    oomp_key: oomp_olimex_freetronics_footprints_crystal_smd_5x3
+    oomp_key_extra: oomp_footprint_olimex_freetronics_footprints_crystal_smd_5x3
+    oomp_key_full: oomp_footprint_olimex_freetronics_footprints_crystal_smd_5x3_858afa
+    oomp_key_simple: olimex_freetronics_footprints_crystal_smd_5x3
+    original_filename: KiCAD/mods/freetronics_footprints.pretty/CRYSTAL-SMD-5X3.kicad_mod
+    owner_name: olimex
   oomp_key: oomp_olimex_freetronics_footprints_crystal_smd_5x3
+  oomp_key_full: oomp_footprint_olimex_freetronics_footprints_crystal_smd_5x3
   oomp_key_simple: olimex_freetronics_footprints_crystal_smd_5x3
   owner: OLIMEX
   repo:

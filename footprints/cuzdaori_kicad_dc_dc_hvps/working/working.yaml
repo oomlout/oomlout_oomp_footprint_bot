@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cuzdaori_kicad_dc_dc_hvps/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cuzdaori_kicad_dc_dc_hvps/working
-    oomp_doc: footprints/footprints/cuzdaori/KiCad/DC_DC_HVPS/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cuzdaori/KiCad/DC_DC_HVPS/working
     oomp_src_flat: footprints_flat/footprints_flat/cuzdaori_kicad_dc_dc_hvps/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cuzdaori_kicad_dc_dc_hvps/working
-    oomp_src_folder: footprints_folder/footprints_folder/cuzdaori/KiCad/DC_DC_HVPS/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cuzdaori/KiCad/DC_DC_HVPS/working
   name: KiCad.pretty
+  oomp:
+    footprint_name: dc_dc_hvps
+    library_name: kicad
+    md5: 78c1f1f12a8dc19448781abda3d2ca56
+    md5_10: 78c1f1f12a
+    md5_5: 78c1f
+    md5_6: 78c1f1
+    oomp_key: oomp_cuzdaori_kicad_dc_dc_hvps
+    oomp_key_extra: oomp_footprint_cuzdaori_kicad_dc_dc_hvps
+    oomp_key_full: oomp_footprint_cuzdaori_kicad_dc_dc_hvps_78c1f1
+    oomp_key_simple: cuzdaori_kicad_dc_dc_hvps
+    original_filename: KiCad.pretty/DC_DC_HVPS.kicad_mod
+    owner_name: cuzdaori
   oomp_key: oomp_cuzdaori_kicad_dc_dc_hvps
+  oomp_key_full: oomp_footprint_cuzdaori_kicad_dc_dc_hvps
   oomp_key_simple: cuzdaori_kicad_dc_dc_hvps
   owner: cuzdaori
   repo:

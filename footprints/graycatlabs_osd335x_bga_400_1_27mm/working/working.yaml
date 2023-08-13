@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/graycatlabs_osd335x_bga_400_1_27mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/graycatlabs_osd335x_bga_400_1_27mm/working
-    oomp_doc: footprints/footprints/graycatlabs/OSD335x/BGA-400-1-27mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/graycatlabs/OSD335x/BGA-400-1-27mm/working
     oomp_src_flat: footprints_flat/footprints_flat/graycatlabs_osd335x_bga_400_1_27mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/graycatlabs_osd335x_bga_400_1_27mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/graycatlabs/OSD335x/BGA-400-1-27mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/graycatlabs/OSD335x/BGA-400-1-27mm/working
   name: OSD335x.pretty
+  oomp:
+    footprint_name: bga_400_1_27mm
+    library_name: osd335x
+    md5: 78e2a978b49f9cb39754597e0a819645
+    md5_10: 78e2a978b4
+    md5_5: 78e2a
+    md5_6: 78e2a9
+    oomp_key: oomp_graycatlabs_osd335x_bga_400_1_27mm
+    oomp_key_extra: oomp_footprint_graycatlabs_osd335x_bga_400_1_27mm
+    oomp_key_full: oomp_footprint_graycatlabs_osd335x_bga_400_1_27mm_78e2a9
+    oomp_key_simple: graycatlabs_osd335x_bga_400_1_27mm
+    original_filename: OSD335x.pretty/BGA-400-1-27mm.kicad_mod
+    owner_name: graycatlabs
   oomp_key: oomp_graycatlabs_osd335x_bga_400_1_27mm
+  oomp_key_full: oomp_footprint_graycatlabs_osd335x_bga_400_1_27mm
   oomp_key_simple: graycatlabs_osd335x_bga_400_1_27mm
   owner: graycatlabs
   repo:

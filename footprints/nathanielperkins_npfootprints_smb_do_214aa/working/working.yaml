@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/nathanielperkins_npfootprints_smb_do_214aa/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nathanielperkins_npfootprints_smb_do_214aa/working
-    oomp_doc: footprints/footprints/NathanielPerkins/NPFootprints/SMB_DO-214AA/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/NathanielPerkins/NPFootprints/SMB_DO-214AA/working
     oomp_src_flat: footprints_flat/footprints_flat/nathanielperkins_npfootprints_smb_do_214aa/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nathanielperkins_npfootprints_smb_do_214aa/working
-    oomp_src_folder: footprints_folder/footprints_folder/NathanielPerkins/NPFootprints/SMB_DO-214AA/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/NathanielPerkins/NPFootprints/SMB_DO-214AA/working
   name: NPFootprints.pretty
+  oomp:
+    footprint_name: smb_do_214aa
+    library_name: npfootprints
+    md5: 6c92baa331ad8189c47b03df0e105fdd
+    md5_10: 6c92baa331
+    md5_5: 6c92b
+    md5_6: 6c92ba
+    oomp_key: oomp_nathanielperkins_npfootprints_smb_do_214aa
+    oomp_key_extra: oomp_footprint_nathanielperkins_npfootprints_smb_do_214aa
+    oomp_key_full: oomp_footprint_nathanielperkins_npfootprints_smb_do_214aa_6c92ba
+    oomp_key_simple: nathanielperkins_npfootprints_smb_do_214aa
+    original_filename: NPFootprints.pretty/SMB_DO-214AA.kicad_mod
+    owner_name: nathanielperkins
   oomp_key: oomp_nathanielperkins_npfootprints_smb_do_214aa
+  oomp_key_full: oomp_footprint_nathanielperkins_npfootprints_smb_do_214aa
   oomp_key_simple: nathanielperkins_npfootprints_smb_do_214aa
   owner: NathanielPerkins
   repo:

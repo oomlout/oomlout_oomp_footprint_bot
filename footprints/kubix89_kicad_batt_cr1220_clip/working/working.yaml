@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/kubiX89/kiCAD.pretty
     oomp_bot: footprints/kubix89_kicad_batt_cr1220_clip/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kubix89_kicad_batt_cr1220_clip/working
-    oomp_doc: footprints/footprints/kubiX89/kiCAD/BATT_CR1220_CLIP/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kubiX89/kiCAD/BATT_CR1220_CLIP/working
     oomp_src_flat: footprints_flat/footprints_flat/kubix89_kicad_batt_cr1220_clip/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kubix89_kicad_batt_cr1220_clip/working
-    oomp_src_folder: footprints_folder/footprints_folder/kubiX89/kiCAD/BATT_CR1220_CLIP/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kubiX89/kiCAD/BATT_CR1220_CLIP/working
   name: kiCAD.pretty
+  oomp:
+    footprint_name: batt_cr1220_clip
+    library_name: kicad
+    md5: e8c056ccb97d7f836a8bdc50d62472cb
+    md5_10: e8c056ccb9
+    md5_5: e8c05
+    md5_6: e8c056
+    oomp_key: oomp_kubix89_kicad_batt_cr1220_clip
+    oomp_key_extra: oomp_footprint_kubix89_kicad_batt_cr1220_clip
+    oomp_key_full: oomp_footprint_kubix89_kicad_batt_cr1220_clip_e8c056
+    oomp_key_simple: kubix89_kicad_batt_cr1220_clip
+    original_filename: kiCAD.pretty/BATT_CR1220_CLIP.kicad_mod
+    owner_name: kubix89
   oomp_key: oomp_kubix89_kicad_batt_cr1220_clip
+  oomp_key_full: oomp_footprint_kubix89_kicad_batt_cr1220_clip
   oomp_key_simple: kubix89_kicad_batt_cr1220_clip
   owner: kubiX89
   repo:

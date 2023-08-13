@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/arturo182/kicad-modules
     oomp_bot: footprints/arturo182_package_bga_extra_bga_196_14x14_12_0x12_0mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/arturo182_package_bga_extra_bga_196_14x14_12_0x12_0mm/working
-    oomp_doc: footprints/footprints/arturo182/Package_BGA_Extra/BGA-196_14x14_12.0x12.0mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/arturo182/Package_BGA_Extra/BGA-196_14x14_12.0x12.0mm/working
     oomp_src_flat: footprints_flat/footprints_flat/arturo182_package_bga_extra_bga_196_14x14_12_0x12_0mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/arturo182_package_bga_extra_bga_196_14x14_12_0x12_0mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/arturo182/Package_BGA_Extra/BGA-196_14x14_12.0x12.0mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/arturo182/Package_BGA_Extra/BGA-196_14x14_12.0x12.0mm/working
   name: kicad-modules
+  oomp:
+    footprint_name: bga_196_14x14_12_0x12_0mm
+    library_name: package_bga_extra
+    md5: 8f95a6d13fca875bca39110b4addc19a
+    md5_10: 8f95a6d13f
+    md5_5: 8f95a
+    md5_6: 8f95a6
+    oomp_key: oomp_arturo182_package_bga_extra_bga_196_14x14_12_0x12_0mm
+    oomp_key_extra: oomp_footprint_arturo182_package_bga_extra_bga_196_14x14_12_0x12_0mm
+    oomp_key_full: oomp_footprint_arturo182_package_bga_extra_bga_196_14x14_12_0x12_0mm_8f95a6
+    oomp_key_simple: arturo182_package_bga_extra_bga_196_14x14_12_0x12_0mm
+    original_filename: kicad-modules/Package_BGA_Extra.pretty/BGA-196_14x14_12.0x12.0mm.kicad_mod
+    owner_name: arturo182
   oomp_key: oomp_arturo182_package_bga_extra_bga_196_14x14_12_0x12_0mm
+  oomp_key_full: oomp_footprint_arturo182_package_bga_extra_bga_196_14x14_12_0x12_0mm
   oomp_key_simple: arturo182_package_bga_extra_bga_196_14x14_12_0x12_0mm
   owner: arturo182
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/celeritous_kicad_conn_phono_3_5mm_smt/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/celeritous_kicad_conn_phono_3_5mm_smt/working
-    oomp_doc: footprints/footprints/celeritous/KiCad/CONN_PHONO_3.5MM_SMT/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/celeritous/KiCad/CONN_PHONO_3.5MM_SMT/working
     oomp_src_flat: footprints_flat/footprints_flat/celeritous_kicad_conn_phono_3_5mm_smt/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/celeritous_kicad_conn_phono_3_5mm_smt/working
-    oomp_src_folder: footprints_folder/footprints_folder/celeritous/KiCad/CONN_PHONO_3.5MM_SMT/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/celeritous/KiCad/CONN_PHONO_3.5MM_SMT/working
   name: KiCad.pretty
+  oomp:
+    footprint_name: conn_phono_3_5mm_smt
+    library_name: kicad
+    md5: 810719e1953455137cf4a3a8840753bb
+    md5_10: 810719e195
+    md5_5: '81071'
+    md5_6: '810719'
+    oomp_key: oomp_celeritous_kicad_conn_phono_3_5mm_smt
+    oomp_key_extra: oomp_footprint_celeritous_kicad_conn_phono_3_5mm_smt
+    oomp_key_full: oomp_footprint_celeritous_kicad_conn_phono_3_5mm_smt_810719
+    oomp_key_simple: celeritous_kicad_conn_phono_3_5mm_smt
+    original_filename: KiCad.pretty/CONN_PHONO_3.5MM_SMT.kicad_mod
+    owner_name: celeritous
   oomp_key: oomp_celeritous_kicad_conn_phono_3_5mm_smt
+  oomp_key_full: oomp_footprint_celeritous_kicad_conn_phono_3_5mm_smt
   oomp_key_simple: celeritous_kicad_conn_phono_3_5mm_smt
   owner: celeritous
   repo:

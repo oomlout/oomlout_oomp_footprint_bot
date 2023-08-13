@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/peekpt_w_conn_misc_stm32vl_discovery_header/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/peekpt_w_conn_misc_stm32vl_discovery_header/working
-    oomp_doc: footprints/footprints/peekpt/w_conn_misc/stm32vl_discovery_header/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/peekpt/w_conn_misc/stm32vl_discovery_header/working
     oomp_src_flat: footprints_flat/footprints_flat/peekpt_w_conn_misc_stm32vl_discovery_header/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/peekpt_w_conn_misc_stm32vl_discovery_header/working
-    oomp_src_folder: footprints_folder/footprints_folder/peekpt/w_conn_misc/stm32vl_discovery_header/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/peekpt/w_conn_misc/stm32vl_discovery_header/working
   name: kicad_smisioto
+  oomp:
+    footprint_name: stm32vl_discovery_header
+    library_name: w_conn_misc
+    md5: 929e249ed927c93e5910304add6e3261
+    md5_10: 929e249ed9
+    md5_5: 929e2
+    md5_6: 929e24
+    oomp_key: oomp_peekpt_w_conn_misc_stm32vl_discovery_header
+    oomp_key_extra: oomp_footprint_peekpt_w_conn_misc_stm32vl_discovery_header
+    oomp_key_full: oomp_footprint_peekpt_w_conn_misc_stm32vl_discovery_header_929e24
+    oomp_key_simple: peekpt_w_conn_misc_stm32vl_discovery_header
+    original_filename: kicad_smisioto/modules/walter/w_conn_misc.pretty/stm32vl_discovery_header.kicad_mod
+    owner_name: peekpt
   oomp_key: oomp_peekpt_w_conn_misc_stm32vl_discovery_header
+  oomp_key_full: oomp_footprint_peekpt_w_conn_misc_stm32vl_discovery_header
   oomp_key_simple: peekpt_w_conn_misc_stm32vl_discovery_header
   owner: peekpt
   repo:

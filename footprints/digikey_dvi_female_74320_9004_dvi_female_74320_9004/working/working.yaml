@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/digikey_dvi_female_74320_9004_dvi_female_74320_9004/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_dvi_female_74320_9004_dvi_female_74320_9004/working
-    oomp_doc: footprints/footprints/digikey/DVI_Female_74320-9004.kicad_mod/DVI_Female_74320-9004/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/digikey/DVI_Female_74320-9004.kicad_mod/DVI_Female_74320-9004/working
     oomp_src_flat: footprints_flat/footprints_flat/digikey_dvi_female_74320_9004_dvi_female_74320_9004/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/digikey_dvi_female_74320_9004_dvi_female_74320_9004/working
-    oomp_src_folder: footprints_folder/footprints_folder/digikey/DVI_Female_74320-9004.kicad_mod/DVI_Female_74320-9004/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/digikey/DVI_Female_74320-9004.kicad_mod/DVI_Female_74320-9004/working
   name: digikey-kicad-library
+  oomp:
+    footprint_name: dvi_female_74320_9004
+    library_name: dvi_female_74320_9004_kicad_mod
+    md5: 73e10980442751e26ffb9363f75a9256
+    md5_10: 73e1098044
+    md5_5: 73e10
+    md5_6: 73e109
+    oomp_key: oomp_digikey_dvi_female_74320_9004_dvi_female_74320_9004
+    oomp_key_extra: oomp_footprint_digikey_dvi_female_74320_9004_dvi_female_74320_9004
+    oomp_key_full: oomp_footprint_digikey_dvi_female_74320_9004_dvi_female_74320_9004_73e109
+    oomp_key_simple: digikey_dvi_female_74320_9004_dvi_female_74320_9004
+    original_filename: digikey-kicad-library/src/Source_Footprints/DVI_Female_74320-9004.kicad_mod
+    owner_name: digikey
   oomp_key: oomp_digikey_dvi_female_74320_9004_dvi_female_74320_9004
+  oomp_key_full: oomp_footprint_digikey_dvi_female_74320_9004_dvi_female_74320_9004
   oomp_key_simple: digikey_dvi_female_74320_9004_dvi_female_74320_9004
   owner: digikey
   repo:

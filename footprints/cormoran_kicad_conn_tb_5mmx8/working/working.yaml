@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cormoran_kicad_conn_tb_5mmx8/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cormoran_kicad_conn_tb_5mmx8/working
-    oomp_doc: footprints/footprints/cormoran/kicad/CONN_TB_5MMX8/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cormoran/kicad/CONN_TB_5MMX8/working
     oomp_src_flat: footprints_flat/footprints_flat/cormoran_kicad_conn_tb_5mmx8/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cormoran_kicad_conn_tb_5mmx8/working
-    oomp_src_folder: footprints_folder/footprints_folder/cormoran/kicad/CONN_TB_5MMX8/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cormoran/kicad/CONN_TB_5MMX8/working
   name: kicad.pretty
+  oomp:
+    footprint_name: conn_tb_5mmx8
+    library_name: kicad
+    md5: 9ee040450a4e3ad6fd7aa39edcdd00fe
+    md5_10: 9ee040450a
+    md5_5: 9ee04
+    md5_6: 9ee040
+    oomp_key: oomp_cormoran_kicad_conn_tb_5mmx8
+    oomp_key_extra: oomp_footprint_cormoran_kicad_conn_tb_5mmx8
+    oomp_key_full: oomp_footprint_cormoran_kicad_conn_tb_5mmx8_9ee040
+    oomp_key_simple: cormoran_kicad_conn_tb_5mmx8
+    original_filename: kicad.pretty/CONN_TB_5MMX8.kicad_mod
+    owner_name: cormoran
   oomp_key: oomp_cormoran_kicad_conn_tb_5mmx8
+  oomp_key_full: oomp_footprint_cormoran_kicad_conn_tb_5mmx8
   oomp_key_simple: cormoran_kicad_conn_tb_5mmx8
   owner: cormoran
   repo:

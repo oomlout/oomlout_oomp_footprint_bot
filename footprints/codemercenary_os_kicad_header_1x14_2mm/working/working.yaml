@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/codemercenary_os_kicad_header_1x14_2mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/codemercenary_os_kicad_header_1x14_2mm/working
-    oomp_doc: footprints/footprints/codemercenary-os/kicad/HEADER_1X14_2MM/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/codemercenary-os/kicad/HEADER_1X14_2MM/working
     oomp_src_flat: footprints_flat/footprints_flat/codemercenary_os_kicad_header_1x14_2mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/codemercenary_os_kicad_header_1x14_2mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/codemercenary-os/kicad/HEADER_1X14_2MM/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/codemercenary-os/kicad/HEADER_1X14_2MM/working
   name: kicad.pretty
+  oomp:
+    footprint_name: header_1x14_2mm
+    library_name: kicad
+    md5: 839f46771e37579c3dff88658758cf1a
+    md5_10: 839f46771e
+    md5_5: 839f4
+    md5_6: 839f46
+    oomp_key: oomp_codemercenary_os_kicad_header_1x14_2mm
+    oomp_key_extra: oomp_footprint_codemercenary_os_kicad_header_1x14_2mm
+    oomp_key_full: oomp_footprint_codemercenary_os_kicad_header_1x14_2mm_839f46
+    oomp_key_simple: codemercenary_os_kicad_header_1x14_2mm
+    original_filename: kicad.pretty/HEADER_1X14_2MM.kicad_mod
+    owner_name: codemercenary_os
   oomp_key: oomp_codemercenary_os_kicad_header_1x14_2mm
+  oomp_key_full: oomp_footprint_codemercenary_os_kicad_header_1x14_2mm
   oomp_key_simple: codemercenary_os_kicad_header_1x14_2mm
   owner: codemercenary-os
   repo:

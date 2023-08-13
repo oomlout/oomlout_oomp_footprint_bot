@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/graycatlabs_graycatlabs_inductor_sru8043/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/graycatlabs_graycatlabs_inductor_sru8043/working
-    oomp_doc: footprints/footprints/graycatlabs/GrayCatLabs/Inductor_SRU8043/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/graycatlabs/GrayCatLabs/Inductor_SRU8043/working
     oomp_src_flat: footprints_flat/footprints_flat/graycatlabs_graycatlabs_inductor_sru8043/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/graycatlabs_graycatlabs_inductor_sru8043/working
-    oomp_src_folder: footprints_folder/footprints_folder/graycatlabs/GrayCatLabs/Inductor_SRU8043/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/graycatlabs/GrayCatLabs/Inductor_SRU8043/working
   name: GrayCatLabs.pretty
+  oomp:
+    footprint_name: inductor_sru8043
+    library_name: graycatlabs
+    md5: 85aa6fd01dec2a7d0cb6f81c317ca512
+    md5_10: 85aa6fd01d
+    md5_5: 85aa6
+    md5_6: 85aa6f
+    oomp_key: oomp_graycatlabs_graycatlabs_inductor_sru8043
+    oomp_key_extra: oomp_footprint_graycatlabs_graycatlabs_inductor_sru8043
+    oomp_key_full: oomp_footprint_graycatlabs_graycatlabs_inductor_sru8043_85aa6f
+    oomp_key_simple: graycatlabs_graycatlabs_inductor_sru8043
+    original_filename: GrayCatLabs.pretty/Inductor_SRU8043.kicad_mod
+    owner_name: graycatlabs
   oomp_key: oomp_graycatlabs_graycatlabs_inductor_sru8043
+  oomp_key_full: oomp_footprint_graycatlabs_graycatlabs_inductor_sru8043
   oomp_key_simple: graycatlabs_graycatlabs_inductor_sru8043
   owner: graycatlabs
   repo:

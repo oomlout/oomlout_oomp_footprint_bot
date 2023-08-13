@@ -7,23 +7,131 @@
   footprint_library_directory_flat: footprints_flat/mamiksik_kicad_components_5v_power_module/working
   github_path: http://github.com/mamiksik/kicad-components.pretty/blob/master/5V_POWER_MODULE.kicad_mod
   links:
-    github_src: http://gitlab.com/mamiksik/kicad-components.pretty/blob/master/5V_POWER_MODULE.kicad_mod
-    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
+    github_owner: mamiksik
+    github_repo_name: kicad-components.pretty
+    github_src: http://github.com/mamiksik/kicad-components.pretty/blob/master/5V_POWER_MODULE.kicad_mod
+    github_src_repo: https://github.com/mamiksik/kicad-components.pretty
     oomp_bot: footprints/mamiksik_kicad_components_5v_power_module/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/mamiksik_kicad_components_5v_power_module/working
-    oomp_doc: footprints/footprints/mamiksik/kicad-components/5V_POWER_MODULE/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/mamiksik/kicad-components/5V_POWER_MODULE/working
     oomp_src_flat: footprints_flat/footprints_flat/mamiksik_kicad_components_5v_power_module/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/mamiksik_kicad_components_5v_power_module/working
-    oomp_src_folder: footprints_folder/footprints_folder/mamiksik/kicad-components/5V_POWER_MODULE/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/mamiksik/kicad-components/5V_POWER_MODULE/working
   name: kicad-components.pretty
+  oomp:
+    footprint_name: 5v_power_module
+    library_name: kicad_components
+    md5: fadb8367383cffa1e785dea9d27715cd
+    md5_10: fadb836738
+    md5_5: fadb8
+    md5_6: fadb83
+    oomp_key: oomp_mamiksik_kicad_components_5v_power_module
+    oomp_key_extra: oomp_footprint_mamiksik_kicad_components_5v_power_module
+    oomp_key_full: oomp_footprint_mamiksik_kicad_components_5v_power_module_fadb83
+    oomp_key_simple: mamiksik_kicad_components_5v_power_module
+    original_filename: kicad-components.pretty/5V_POWER_MODULE.kicad_mod
+    owner_name: mamiksik
   oomp_key: oomp_mamiksik_kicad_components_5v_power_module
+  oomp_key_full: oomp_footprint_mamiksik_kicad_components_5v_power_module
   oomp_key_simple: mamiksik_kicad_components_5v_power_module
   owner: mamiksik
   repo:
-    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
-    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
-      Authenticated requests get a higher rate limit. Check out the documentation
-      for more details.)'
+    allow_forking: true
+    archive_url: https://api.github.com/repos/mamiksik/kicad-components.pretty/{archive_format}{/ref}
+    archived: false
+    assignees_url: https://api.github.com/repos/mamiksik/kicad-components.pretty/assignees{/user}
+    blobs_url: https://api.github.com/repos/mamiksik/kicad-components.pretty/git/blobs{/sha}
+    branches_url: https://api.github.com/repos/mamiksik/kicad-components.pretty/branches{/branch}
+    clone_url: https://github.com/mamiksik/kicad-components.pretty.git
+    collaborators_url: https://api.github.com/repos/mamiksik/kicad-components.pretty/collaborators{/collaborator}
+    comments_url: https://api.github.com/repos/mamiksik/kicad-components.pretty/comments{/number}
+    commits_url: https://api.github.com/repos/mamiksik/kicad-components.pretty/commits{/sha}
+    compare_url: https://api.github.com/repos/mamiksik/kicad-components.pretty/compare/{base}...{head}
+    contents_url: https://api.github.com/repos/mamiksik/kicad-components.pretty/contents/{+path}
+    contributors_url: https://api.github.com/repos/mamiksik/kicad-components.pretty/contributors
+    created_at: '2017-07-30T14:53:13Z'
+    default_branch: master
+    deployments_url: https://api.github.com/repos/mamiksik/kicad-components.pretty/deployments
+    description: null
+    disabled: false
+    downloads_url: https://api.github.com/repos/mamiksik/kicad-components.pretty/downloads
+    events_url: https://api.github.com/repos/mamiksik/kicad-components.pretty/events
+    fork: false
+    forks: 0
+    forks_count: 0
+    forks_url: https://api.github.com/repos/mamiksik/kicad-components.pretty/forks
+    full_name: mamiksik/kicad-components.pretty
+    git_commits_url: https://api.github.com/repos/mamiksik/kicad-components.pretty/git/commits{/sha}
+    git_refs_url: https://api.github.com/repos/mamiksik/kicad-components.pretty/git/refs{/sha}
+    git_tags_url: https://api.github.com/repos/mamiksik/kicad-components.pretty/git/tags{/sha}
+    git_url: git://github.com/mamiksik/kicad-components.pretty.git
+    has_discussions: false
+    has_downloads: true
+    has_issues: true
+    has_pages: false
+    has_projects: true
+    has_wiki: true
+    homepage: null
+    hooks_url: https://api.github.com/repos/mamiksik/kicad-components.pretty/hooks
+    html_url: https://github.com/mamiksik/kicad-components.pretty
+    id: 98804447
+    is_template: false
+    issue_comment_url: https://api.github.com/repos/mamiksik/kicad-components.pretty/issues/comments{/number}
+    issue_events_url: https://api.github.com/repos/mamiksik/kicad-components.pretty/issues/events{/number}
+    issues_url: https://api.github.com/repos/mamiksik/kicad-components.pretty/issues{/number}
+    keys_url: https://api.github.com/repos/mamiksik/kicad-components.pretty/keys{/key_id}
+    labels_url: https://api.github.com/repos/mamiksik/kicad-components.pretty/labels{/name}
+    language: null
+    languages_url: https://api.github.com/repos/mamiksik/kicad-components.pretty/languages
+    license: null
+    merges_url: https://api.github.com/repos/mamiksik/kicad-components.pretty/merges
+    milestones_url: https://api.github.com/repos/mamiksik/kicad-components.pretty/milestones{/number}
+    mirror_url: null
+    name: kicad-components.pretty
+    network_count: 0
+    node_id: MDEwOlJlcG9zaXRvcnk5ODgwNDQ0Nw==
+    notifications_url: https://api.github.com/repos/mamiksik/kicad-components.pretty/notifications{?since,all,participating}
+    open_issues: 0
+    open_issues_count: 0
+    owner:
+      avatar_url: https://avatars.githubusercontent.com/u/6180007?v=4
+      events_url: https://api.github.com/users/mamiksik/events{/privacy}
+      followers_url: https://api.github.com/users/mamiksik/followers
+      following_url: https://api.github.com/users/mamiksik/following{/other_user}
+      gists_url: https://api.github.com/users/mamiksik/gists{/gist_id}
+      gravatar_id: ''
+      html_url: https://github.com/mamiksik
+      id: 6180007
+      login: mamiksik
+      node_id: MDQ6VXNlcjYxODAwMDc=
+      organizations_url: https://api.github.com/users/mamiksik/orgs
+      received_events_url: https://api.github.com/users/mamiksik/received_events
+      repos_url: https://api.github.com/users/mamiksik/repos
+      site_admin: false
+      starred_url: https://api.github.com/users/mamiksik/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/mamiksik/subscriptions
+      type: User
+      url: https://api.github.com/users/mamiksik
+    private: false
+    pulls_url: https://api.github.com/repos/mamiksik/kicad-components.pretty/pulls{/number}
+    pushed_at: '2017-07-30T15:04:44Z'
+    releases_url: https://api.github.com/repos/mamiksik/kicad-components.pretty/releases{/id}
+    size: 0
+    ssh_url: git@github.com:mamiksik/kicad-components.pretty.git
+    stargazers_count: 0
+    stargazers_url: https://api.github.com/repos/mamiksik/kicad-components.pretty/stargazers
+    statuses_url: https://api.github.com/repos/mamiksik/kicad-components.pretty/statuses/{sha}
+    subscribers_count: 0
+    subscribers_url: https://api.github.com/repos/mamiksik/kicad-components.pretty/subscribers
+    subscription_url: https://api.github.com/repos/mamiksik/kicad-components.pretty/subscription
+    svn_url: https://github.com/mamiksik/kicad-components.pretty
+    tags_url: https://api.github.com/repos/mamiksik/kicad-components.pretty/tags
+    teams_url: https://api.github.com/repos/mamiksik/kicad-components.pretty/teams
+    temp_clone_token: null
+    topics: []
+    trees_url: https://api.github.com/repos/mamiksik/kicad-components.pretty/git/trees{/sha}
+    updated_at: '2017-07-30T18:51:15Z'
+    url: https://api.github.com/repos/mamiksik/kicad-components.pretty
+    visibility: public
+    watchers: 0
+    watchers_count: 0
+    web_commit_signoff_required: false
   url: http://github.com/mamiksik/kicad-components.pretty

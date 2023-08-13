@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/ruuvi_ruuvitag_20x16mm_4pin_smallpads_crystal/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ruuvi_ruuvitag_20x16mm_4pin_smallpads_crystal/working
-    oomp_doc: footprints/footprints/ruuvi/RuuviTag/20X16MM_4PIN_SMALLPADS_CRYSTAL/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ruuvi/RuuviTag/20X16MM_4PIN_SMALLPADS_CRYSTAL/working
     oomp_src_flat: footprints_flat/footprints_flat/ruuvi_ruuvitag_20x16mm_4pin_smallpads_crystal/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ruuvi_ruuvitag_20x16mm_4pin_smallpads_crystal/working
-    oomp_src_folder: footprints_folder/footprints_folder/ruuvi/RuuviTag/20X16MM_4PIN_SMALLPADS_CRYSTAL/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ruuvi/RuuviTag/20X16MM_4PIN_SMALLPADS_CRYSTAL/working
   name: kicad-library
+  oomp:
+    footprint_name: 20x16mm_4pin_smallpads_crystal
+    library_name: ruuvitag
+    md5: e309df8049ff726aa43aae8cbc34b0d9
+    md5_10: e309df8049
+    md5_5: e309d
+    md5_6: e309df
+    oomp_key: oomp_ruuvi_ruuvitag_20x16mm_4pin_smallpads_crystal
+    oomp_key_extra: oomp_footprint_ruuvi_ruuvitag_20x16mm_4pin_smallpads_crystal
+    oomp_key_full: oomp_footprint_ruuvi_ruuvitag_20x16mm_4pin_smallpads_crystal_e309df
+    oomp_key_simple: ruuvi_ruuvitag_20x16mm_4pin_smallpads_crystal
+    original_filename: kicad-library/RuuviTag.pretty/20X16MM_4PIN_SMALLPADS_CRYSTAL.kicad_mod
+    owner_name: ruuvi
   oomp_key: oomp_ruuvi_ruuvitag_20x16mm_4pin_smallpads_crystal
+  oomp_key_full: oomp_footprint_ruuvi_ruuvitag_20x16mm_4pin_smallpads_crystal
   oomp_key_simple: ruuvi_ruuvitag_20x16mm_4pin_smallpads_crystal
   owner: ruuvi
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/imciner2_espressif_esp32_c3_mini_1u/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/imciner2_espressif_esp32_c3_mini_1u/working
-    oomp_doc: footprints/footprints/imciner2/Espressif/ESP32-C3-MINI-1U/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/imciner2/Espressif/ESP32-C3-MINI-1U/working
     oomp_src_flat: footprints_flat/footprints_flat/imciner2_espressif_esp32_c3_mini_1u/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/imciner2_espressif_esp32_c3_mini_1u/working
-    oomp_src_folder: footprints_folder/footprints_folder/imciner2/Espressif/ESP32-C3-MINI-1U/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/imciner2/Espressif/ESP32-C3-MINI-1U/working
   name: KiCad-Libraries
+  oomp:
+    footprint_name: esp32_c3_mini_1u
+    library_name: espressif
+    md5: d2bc849327d7d4ad31cf53652bdaf1de
+    md5_10: d2bc849327
+    md5_5: d2bc8
+    md5_6: d2bc84
+    oomp_key: oomp_imciner2_espressif_esp32_c3_mini_1u
+    oomp_key_extra: oomp_footprint_imciner2_espressif_esp32_c3_mini_1u
+    oomp_key_full: oomp_footprint_imciner2_espressif_esp32_c3_mini_1u_d2bc84
+    oomp_key_simple: imciner2_espressif_esp32_c3_mini_1u
+    original_filename: KiCad-Libraries/footprints/Espressif.pretty/ESP32-C3-MINI-1U.kicad_mod
+    owner_name: imciner2
   oomp_key: oomp_imciner2_espressif_esp32_c3_mini_1u
+  oomp_key_full: oomp_footprint_imciner2_espressif_esp32_c3_mini_1u
   oomp_key_simple: imciner2_espressif_esp32_c3_mini_1u
   owner: imciner2
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/jaka_connectors_usb_a_plug_circular/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/jaka_connectors_usb_a_plug_circular/working
-    oomp_doc: footprints/footprints/jaka/connectors/USB_A_plug_circular/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/jaka/connectors/USB_A_plug_circular/working
     oomp_src_flat: footprints_flat/footprints_flat/jaka_connectors_usb_a_plug_circular/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/jaka_connectors_usb_a_plug_circular/working
-    oomp_src_folder: footprints_folder/footprints_folder/jaka/connectors/USB_A_plug_circular/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/jaka/connectors/USB_A_plug_circular/working
   name: connectors.pretty
+  oomp:
+    footprint_name: usb_a_plug_circular
+    library_name: connectors
+    md5: 88eda362d539e3377abdca657e9e1ef3
+    md5_10: 88eda362d5
+    md5_5: 88eda
+    md5_6: 88eda3
+    oomp_key: oomp_jaka_connectors_usb_a_plug_circular
+    oomp_key_extra: oomp_footprint_jaka_connectors_usb_a_plug_circular
+    oomp_key_full: oomp_footprint_jaka_connectors_usb_a_plug_circular_88eda3
+    oomp_key_simple: jaka_connectors_usb_a_plug_circular
+    original_filename: connectors.pretty/USB_A_plug_circular.kicad_mod
+    owner_name: jaka
   oomp_key: oomp_jaka_connectors_usb_a_plug_circular
+  oomp_key_full: oomp_footprint_jaka_connectors_usb_a_plug_circular
   oomp_key_simple: jaka_connectors_usb_a_plug_circular
   owner: jaka
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/dragonmux_rhais_package_qfn_dqfn16_1ep_2_5x3_5mm_p0_5mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/dragonmux_rhais_package_qfn_dqfn16_1ep_2_5x3_5mm_p0_5mm/working
-    oomp_doc: footprints/footprints/dragonmux/rhais_package-qfn/DQFN16_1EP_2.5x3.5mm_P0.5mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/dragonmux/rhais_package-qfn/DQFN16_1EP_2.5x3.5mm_P0.5mm/working
     oomp_src_flat: footprints_flat/footprints_flat/dragonmux_rhais_package_qfn_dqfn16_1ep_2_5x3_5mm_p0_5mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/dragonmux_rhais_package_qfn_dqfn16_1ep_2_5x3_5mm_p0_5mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/dragonmux/rhais_package-qfn/DQFN16_1EP_2.5x3.5mm_P0.5mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/dragonmux/rhais_package-qfn/DQFN16_1EP_2.5x3.5mm_P0.5mm/working
   name: rhais_package-qfn.pretty
+  oomp:
+    footprint_name: dqfn16_1ep_2_5x3_5mm_p0_5mm
+    library_name: rhais_package_qfn
+    md5: 979fd4d7f551b48e333b3902bd90f3aa
+    md5_10: 979fd4d7f5
+    md5_5: 979fd
+    md5_6: 979fd4
+    oomp_key: oomp_dragonmux_rhais_package_qfn_dqfn16_1ep_2_5x3_5mm_p0_5mm
+    oomp_key_extra: oomp_footprint_dragonmux_rhais_package_qfn_dqfn16_1ep_2_5x3_5mm_p0_5mm
+    oomp_key_full: oomp_footprint_dragonmux_rhais_package_qfn_dqfn16_1ep_2_5x3_5mm_p0_5mm_979fd4
+    oomp_key_simple: dragonmux_rhais_package_qfn_dqfn16_1ep_2_5x3_5mm_p0_5mm
+    original_filename: rhais_package-qfn.pretty/DQFN16_1EP_2.5x3.5mm_P0.5mm.kicad_mod
+    owner_name: dragonmux
   oomp_key: oomp_dragonmux_rhais_package_qfn_dqfn16_1ep_2_5x3_5mm_p0_5mm
+  oomp_key_full: oomp_footprint_dragonmux_rhais_package_qfn_dqfn16_1ep_2_5x3_5mm_p0_5mm
   oomp_key_simple: dragonmux_rhais_package_qfn_dqfn16_1ep_2_5x3_5mm_p0_5mm
   owner: dragonmux
   repo:

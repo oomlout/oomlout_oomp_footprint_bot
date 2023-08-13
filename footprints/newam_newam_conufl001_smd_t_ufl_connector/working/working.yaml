@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/newam_newam_conufl001_smd_t_ufl_connector/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/newam_newam_conufl001_smd_t_ufl_connector/working
-    oomp_doc: footprints/footprints/newAM/newam/CONUFL001-SMD-T_UFL-Connector/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/newAM/newam/CONUFL001-SMD-T_UFL-Connector/working
     oomp_src_flat: footprints_flat/footprints_flat/newam_newam_conufl001_smd_t_ufl_connector/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/newam_newam_conufl001_smd_t_ufl_connector/working
-    oomp_src_folder: footprints_folder/footprints_folder/newAM/newam/CONUFL001-SMD-T_UFL-Connector/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/newAM/newam/CONUFL001-SMD-T_UFL-Connector/working
   name: newam.pretty
+  oomp:
+    footprint_name: conufl001_smd_t_ufl_connector
+    library_name: newam
+    md5: 478fef0949930645bbefbda1374c9d03
+    md5_10: 478fef0949
+    md5_5: 478fe
+    md5_6: 478fef
+    oomp_key: oomp_newam_newam_conufl001_smd_t_ufl_connector
+    oomp_key_extra: oomp_footprint_newam_newam_conufl001_smd_t_ufl_connector
+    oomp_key_full: oomp_footprint_newam_newam_conufl001_smd_t_ufl_connector_478fef
+    oomp_key_simple: newam_newam_conufl001_smd_t_ufl_connector
+    original_filename: newam.pretty/CONUFL001-SMD-T_UFL-Connector.kicad_mod
+    owner_name: newam
   oomp_key: oomp_newam_newam_conufl001_smd_t_ufl_connector
+  oomp_key_full: oomp_footprint_newam_newam_conufl001_smd_t_ufl_connector
   oomp_key_simple: newam_newam_conufl001_smd_t_ufl_connector
   owner: newAM
   repo:

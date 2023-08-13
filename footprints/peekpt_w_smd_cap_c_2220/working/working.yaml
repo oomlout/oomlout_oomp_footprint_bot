@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/peekpt_w_smd_cap_c_2220/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/peekpt_w_smd_cap_c_2220/working
-    oomp_doc: footprints/footprints/peekpt/w_smd_cap/c_2220/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/peekpt/w_smd_cap/c_2220/working
     oomp_src_flat: footprints_flat/footprints_flat/peekpt_w_smd_cap_c_2220/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/peekpt_w_smd_cap_c_2220/working
-    oomp_src_folder: footprints_folder/footprints_folder/peekpt/w_smd_cap/c_2220/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/peekpt/w_smd_cap/c_2220/working
   name: kicad_smisioto
+  oomp:
+    footprint_name: c_2220
+    library_name: w_smd_cap
+    md5: 51e55e251ff0fcbc88214729feb4283f
+    md5_10: 51e55e251f
+    md5_5: 51e55
+    md5_6: 51e55e
+    oomp_key: oomp_peekpt_w_smd_cap_c_2220
+    oomp_key_extra: oomp_footprint_peekpt_w_smd_cap_c_2220
+    oomp_key_full: oomp_footprint_peekpt_w_smd_cap_c_2220_51e55e
+    oomp_key_simple: peekpt_w_smd_cap_c_2220
+    original_filename: kicad_smisioto/modules/walter/w_smd_cap.pretty/c_2220.kicad_mod
+    owner_name: peekpt
   oomp_key: oomp_peekpt_w_smd_cap_c_2220
+  oomp_key_full: oomp_footprint_peekpt_w_smd_cap_c_2220
   oomp_key_simple: peekpt_w_smd_cap_c_2220
   owner: peekpt
   repo:

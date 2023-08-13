@@ -12,17 +12,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_display_ea_ediptft70_atc/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_display_ea_ediptft70_atc/working
-    oomp_doc: footprints/footprints/kicad/Display/EA_eDIPTFT70-ATC/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Display/EA_eDIPTFT70-ATC/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_display_ea_ediptft70_atc/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_display_ea_ediptft70_atc/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Display/EA_eDIPTFT70-ATC/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Display/EA_eDIPTFT70-ATC/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: ea_ediptft70_atc
+    library_name: display
+    md5: b54a977df18e610c1cea8d78e8a657fb
+    md5_10: b54a977df1
+    md5_5: b54a9
+    md5_6: b54a97
+    oomp_key: oomp_kicad_display_ea_ediptft70_atc
+    oomp_key_extra: oomp_footprint_kicad_display_ea_ediptft70_atc
+    oomp_key_full: oomp_footprint_kicad_display_ea_ediptft70_atc_b54a97
+    oomp_key_simple: kicad_display_ea_ediptft70_atc
+    original_filename: libraries/kicad-footprints/Display.pretty/EA_eDIPTFT70-ATC.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_display_ea_ediptft70_atc
+  oomp_key_full: oomp_footprint_kicad_display_ea_ediptft70_atc
   oomp_key_simple: kicad_display_ea_ediptft70_atc
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

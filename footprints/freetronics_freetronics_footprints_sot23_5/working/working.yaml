@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/freetronics_freetronics_footprints_sot23_5/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/freetronics_freetronics_footprints_sot23_5/working
-    oomp_doc: footprints/footprints/freetronics/freetronics_footprints/SOT23-5/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/freetronics/freetronics_footprints/SOT23-5/working
     oomp_src_flat: footprints_flat/footprints_flat/freetronics_freetronics_footprints_sot23_5/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/freetronics_freetronics_footprints_sot23_5/working
-    oomp_src_folder: footprints_folder/footprints_folder/freetronics/freetronics_footprints/SOT23-5/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/freetronics/freetronics_footprints/SOT23-5/working
   name: freetronics_kicad_library
+  oomp:
+    footprint_name: sot23_5
+    library_name: freetronics_footprints
+    md5: 3a543815d183aa0fd0237da238442a6c
+    md5_10: 3a543815d1
+    md5_5: 3a543
+    md5_6: 3a5438
+    oomp_key: oomp_freetronics_freetronics_footprints_sot23_5
+    oomp_key_extra: oomp_footprint_freetronics_freetronics_footprints_sot23_5
+    oomp_key_full: oomp_footprint_freetronics_freetronics_footprints_sot23_5_3a5438
+    oomp_key_simple: freetronics_freetronics_footprints_sot23_5
+    original_filename: freetronics_kicad_library/freetronics_footprints.pretty/SOT23-5.kicad_mod
+    owner_name: freetronics
   oomp_key: oomp_freetronics_freetronics_footprints_sot23_5
+  oomp_key_full: oomp_footprint_freetronics_freetronics_footprints_sot23_5
   oomp_key_simple: freetronics_freetronics_footprints_sot23_5
   owner: freetronics
   repo:

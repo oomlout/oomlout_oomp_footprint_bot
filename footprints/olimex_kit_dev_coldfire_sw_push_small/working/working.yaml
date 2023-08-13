@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/olimex_kit_dev_coldfire_sw_push_small/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/olimex_kit_dev_coldfire_sw_push_small/working
-    oomp_doc: footprints/footprints/OLIMEX/kit-dev-coldfire/SW_PUSH_SMALL/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/OLIMEX/kit-dev-coldfire/SW_PUSH_SMALL/working
     oomp_src_flat: footprints_flat/footprints_flat/olimex_kit_dev_coldfire_sw_push_small/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/olimex_kit_dev_coldfire_sw_push_small/working
-    oomp_src_folder: footprints_folder/footprints_folder/OLIMEX/kit-dev-coldfire/SW_PUSH_SMALL/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/OLIMEX/kit-dev-coldfire/SW_PUSH_SMALL/working
   name: KiCAD
+  oomp:
+    footprint_name: sw_push_small
+    library_name: kit_dev_coldfire
+    md5: c88463f7c218839645b201653dd009e4
+    md5_10: c88463f7c2
+    md5_5: c8846
+    md5_6: c88463
+    oomp_key: oomp_olimex_kit_dev_coldfire_sw_push_small
+    oomp_key_extra: oomp_footprint_olimex_kit_dev_coldfire_sw_push_small
+    oomp_key_full: oomp_footprint_olimex_kit_dev_coldfire_sw_push_small_c88463
+    oomp_key_simple: olimex_kit_dev_coldfire_sw_push_small
+    original_filename: KiCAD/demos/kit-dev-coldfire-xilinx_5213/kit-dev-coldfire.pretty/SW_PUSH_SMALL.kicad_mod
+    owner_name: olimex
   oomp_key: oomp_olimex_kit_dev_coldfire_sw_push_small
+  oomp_key_full: oomp_footprint_olimex_kit_dev_coldfire_sw_push_small
   oomp_key_simple: olimex_kit_dev_coldfire_sw_push_small
   owner: OLIMEX
   repo:

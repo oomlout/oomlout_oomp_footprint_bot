@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/monostable_commonpartslibrary_sw_tl3342f160qg/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/monostable_commonpartslibrary_sw_tl3342f160qg/working
-    oomp_doc: footprints/footprints/monostable/CommonPartsLibrary/SW_TL3342F160QG/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/monostable/CommonPartsLibrary/SW_TL3342F160QG/working
     oomp_src_flat: footprints_flat/footprints_flat/monostable_commonpartslibrary_sw_tl3342f160qg/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/monostable_commonpartslibrary_sw_tl3342f160qg/working
-    oomp_src_folder: footprints_folder/footprints_folder/monostable/CommonPartsLibrary/SW_TL3342F160QG/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/monostable/CommonPartsLibrary/SW_TL3342F160QG/working
   name: CommonPartsLibrary.pretty
+  oomp:
+    footprint_name: sw_tl3342f160qg
+    library_name: commonpartslibrary
+    md5: b9ca21c1e0d9f505111efc0b6723ebc8
+    md5_10: b9ca21c1e0
+    md5_5: b9ca2
+    md5_6: b9ca21
+    oomp_key: oomp_monostable_commonpartslibrary_sw_tl3342f160qg
+    oomp_key_extra: oomp_footprint_monostable_commonpartslibrary_sw_tl3342f160qg
+    oomp_key_full: oomp_footprint_monostable_commonpartslibrary_sw_tl3342f160qg_b9ca21
+    oomp_key_simple: monostable_commonpartslibrary_sw_tl3342f160qg
+    original_filename: CommonPartsLibrary.pretty/SW_TL3342F160QG.kicad_mod
+    owner_name: monostable
   oomp_key: oomp_monostable_commonpartslibrary_sw_tl3342f160qg
+  oomp_key_full: oomp_footprint_monostable_commonpartslibrary_sw_tl3342f160qg
   oomp_key_simple: monostable_commonpartslibrary_sw_tl3342f160qg
   owner: monostable
   repo:

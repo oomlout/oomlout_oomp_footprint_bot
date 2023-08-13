@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/aewallin/awallinKiCadFootprints.pretty
     oomp_bot: footprints/aewallin_awallinkicadfootprints_connector_mil_18_1_10pin/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/aewallin_awallinkicadfootprints_connector_mil_18_1_10pin/working
-    oomp_doc: footprints/footprints/aewallin/awallinKiCadFootprints/Connector_MIL_18-1_10pin/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/aewallin/awallinKiCadFootprints/Connector_MIL_18-1_10pin/working
     oomp_src_flat: footprints_flat/footprints_flat/aewallin_awallinkicadfootprints_connector_mil_18_1_10pin/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/aewallin_awallinkicadfootprints_connector_mil_18_1_10pin/working
-    oomp_src_folder: footprints_folder/footprints_folder/aewallin/awallinKiCadFootprints/Connector_MIL_18-1_10pin/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/aewallin/awallinKiCadFootprints/Connector_MIL_18-1_10pin/working
   name: awallinKiCadFootprints.pretty
+  oomp:
+    footprint_name: connector_mil_18_1_10pin
+    library_name: awallinkicadfootprints
+    md5: 78eed4017412581cb49364b5baa53bd6
+    md5_10: 78eed40174
+    md5_5: 78eed
+    md5_6: 78eed4
+    oomp_key: oomp_aewallin_awallinkicadfootprints_connector_mil_18_1_10pin
+    oomp_key_extra: oomp_footprint_aewallin_awallinkicadfootprints_connector_mil_18_1_10pin
+    oomp_key_full: oomp_footprint_aewallin_awallinkicadfootprints_connector_mil_18_1_10pin_78eed4
+    oomp_key_simple: aewallin_awallinkicadfootprints_connector_mil_18_1_10pin
+    original_filename: awallinKiCadFootprints.pretty/Connector_MIL_18-1_10pin.kicad_mod
+    owner_name: aewallin
   oomp_key: oomp_aewallin_awallinkicadfootprints_connector_mil_18_1_10pin
+  oomp_key_full: oomp_footprint_aewallin_awallinkicadfootprints_connector_mil_18_1_10pin
   oomp_key_simple: aewallin_awallinkicadfootprints_connector_mil_18_1_10pin
   owner: aewallin
   repo:

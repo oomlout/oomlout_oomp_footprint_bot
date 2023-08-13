@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/sergiu46_kicadparts_esp_12e/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/sergiu46_kicadparts_esp_12e/working
-    oomp_doc: footprints/footprints/sergiu46/KiCadParts/ESP-12E/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/sergiu46/KiCadParts/ESP-12E/working
     oomp_src_flat: footprints_flat/footprints_flat/sergiu46_kicadparts_esp_12e/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/sergiu46_kicadparts_esp_12e/working
-    oomp_src_folder: footprints_folder/footprints_folder/sergiu46/KiCadParts/ESP-12E/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/sergiu46/KiCadParts/ESP-12E/working
   name: KiCadParts.pretty
+  oomp:
+    footprint_name: esp_12e
+    library_name: kicadparts
+    md5: 2e1ccb02c0f90fc81c23027987e3b6df
+    md5_10: 2e1ccb02c0
+    md5_5: 2e1cc
+    md5_6: 2e1ccb
+    oomp_key: oomp_sergiu46_kicadparts_esp_12e
+    oomp_key_extra: oomp_footprint_sergiu46_kicadparts_esp_12e
+    oomp_key_full: oomp_footprint_sergiu46_kicadparts_esp_12e_2e1ccb
+    oomp_key_simple: sergiu46_kicadparts_esp_12e
+    original_filename: KiCadParts.pretty/ESP-12E.kicad_mod
+    owner_name: sergiu46
   oomp_key: oomp_sergiu46_kicadparts_esp_12e
+  oomp_key_full: oomp_footprint_sergiu46_kicadparts_esp_12e
   oomp_key_simple: sergiu46_kicadparts_esp_12e
   owner: sergiu46
   repo:

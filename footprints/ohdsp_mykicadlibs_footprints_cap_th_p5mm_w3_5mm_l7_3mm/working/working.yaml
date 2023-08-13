@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/ohdsp_mykicadlibs_footprints_cap_th_p5mm_w3_5mm_l7_3mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ohdsp_mykicadlibs_footprints_cap_th_p5mm_w3_5mm_l7_3mm/working
-    oomp_doc: footprints/footprints/ohdsp/MyKiCadLibs-Footprints/CAP_TH_P5mm_W3.5mm_L7.3mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ohdsp/MyKiCadLibs-Footprints/CAP_TH_P5mm_W3.5mm_L7.3mm/working
     oomp_src_flat: footprints_flat/footprints_flat/ohdsp_mykicadlibs_footprints_cap_th_p5mm_w3_5mm_l7_3mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ohdsp_mykicadlibs_footprints_cap_th_p5mm_w3_5mm_l7_3mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/ohdsp/MyKiCadLibs-Footprints/CAP_TH_P5mm_W3.5mm_L7.3mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ohdsp/MyKiCadLibs-Footprints/CAP_TH_P5mm_W3.5mm_L7.3mm/working
   name: KiCad-Libs
+  oomp:
+    footprint_name: cap_th_p5mm_w3_5mm_l7_3mm
+    library_name: mykicadlibs_footprints
+    md5: 2857a80ec3b0017812eeda0ab90099e6
+    md5_10: 2857a80ec3
+    md5_5: 2857a
+    md5_6: 2857a8
+    oomp_key: oomp_ohdsp_mykicadlibs_footprints_cap_th_p5mm_w3_5mm_l7_3mm
+    oomp_key_extra: oomp_footprint_ohdsp_mykicadlibs_footprints_cap_th_p5mm_w3_5mm_l7_3mm
+    oomp_key_full: oomp_footprint_ohdsp_mykicadlibs_footprints_cap_th_p5mm_w3_5mm_l7_3mm_2857a8
+    oomp_key_simple: ohdsp_mykicadlibs_footprints_cap_th_p5mm_w3_5mm_l7_3mm
+    original_filename: KiCad-Libs/MyKiCadLibs-Footprints.pretty/CAP_TH_P5mm_W3.5mm_L7.3mm.kicad_mod
+    owner_name: ohdsp
   oomp_key: oomp_ohdsp_mykicadlibs_footprints_cap_th_p5mm_w3_5mm_l7_3mm
+  oomp_key_full: oomp_footprint_ohdsp_mykicadlibs_footprints_cap_th_p5mm_w3_5mm_l7_3mm
   oomp_key_simple: ohdsp_mykicadlibs_footprints_cap_th_p5mm_w3_5mm_l7_3mm
   owner: ohdsp
   repo:

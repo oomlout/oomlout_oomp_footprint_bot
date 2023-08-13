@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/AcheronProject/acheron_Graphics.pretty
     oomp_bot: footprints/acheronproject_acheron_graphics_us_flag_10x7mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/acheronproject_acheron_graphics_us_flag_10x7mm/working
-    oomp_doc: footprints/footprints/AcheronProject/acheron_Graphics/US_Flag_10x7mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/AcheronProject/acheron_Graphics/US_Flag_10x7mm/working
     oomp_src_flat: footprints_flat/footprints_flat/acheronproject_acheron_graphics_us_flag_10x7mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/acheronproject_acheron_graphics_us_flag_10x7mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/AcheronProject/acheron_Graphics/US_Flag_10x7mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/AcheronProject/acheron_Graphics/US_Flag_10x7mm/working
   name: acheron_Graphics.pretty
+  oomp:
+    footprint_name: us_flag_10x7mm
+    library_name: acheron_graphics
+    md5: 05af41ebcffd9a351446e92c208f816e
+    md5_10: 05af41ebcf
+    md5_5: 05af4
+    md5_6: 05af41
+    oomp_key: oomp_acheronproject_acheron_graphics_us_flag_10x7mm
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_graphics_us_flag_10x7mm
+    oomp_key_full: oomp_footprint_acheronproject_acheron_graphics_us_flag_10x7mm_05af41
+    oomp_key_simple: acheronproject_acheron_graphics_us_flag_10x7mm
+    original_filename: acheron_Graphics.pretty/US_Flag_10x7mm.kicad_mod
+    owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_graphics_us_flag_10x7mm
+  oomp_key_full: oomp_footprint_acheronproject_acheron_graphics_us_flag_10x7mm
   oomp_key_simple: acheronproject_acheron_graphics_us_flag_10x7mm
   owner: AcheronProject
   repo:

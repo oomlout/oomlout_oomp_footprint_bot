@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/celeritous_kicad_fuse_ptc_18x5mm_10mmp/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/celeritous_kicad_fuse_ptc_18x5mm_10mmp/working
-    oomp_doc: footprints/footprints/celeritous/KiCad/FUSE_PTC_18X5MM_10MMP/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/celeritous/KiCad/FUSE_PTC_18X5MM_10MMP/working
     oomp_src_flat: footprints_flat/footprints_flat/celeritous_kicad_fuse_ptc_18x5mm_10mmp/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/celeritous_kicad_fuse_ptc_18x5mm_10mmp/working
-    oomp_src_folder: footprints_folder/footprints_folder/celeritous/KiCad/FUSE_PTC_18X5MM_10MMP/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/celeritous/KiCad/FUSE_PTC_18X5MM_10MMP/working
   name: KiCad.pretty
+  oomp:
+    footprint_name: fuse_ptc_18x5mm_10mmp
+    library_name: kicad
+    md5: 4599b8c866114b301e06ae7ba8726d6b
+    md5_10: 4599b8c866
+    md5_5: 4599b
+    md5_6: 4599b8
+    oomp_key: oomp_celeritous_kicad_fuse_ptc_18x5mm_10mmp
+    oomp_key_extra: oomp_footprint_celeritous_kicad_fuse_ptc_18x5mm_10mmp
+    oomp_key_full: oomp_footprint_celeritous_kicad_fuse_ptc_18x5mm_10mmp_4599b8
+    oomp_key_simple: celeritous_kicad_fuse_ptc_18x5mm_10mmp
+    original_filename: KiCad.pretty/FUSE_PTC_18X5MM_10MMP.kicad_mod
+    owner_name: celeritous
   oomp_key: oomp_celeritous_kicad_fuse_ptc_18x5mm_10mmp
+  oomp_key_full: oomp_footprint_celeritous_kicad_fuse_ptc_18x5mm_10mmp
   oomp_key_simple: celeritous_kicad_fuse_ptc_18x5mm_10mmp
   owner: celeritous
   repo:

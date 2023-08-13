@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/kiu/kiu-footprint.pretty
     oomp_bot: footprints/kiu_kiu_footprint_nodemcuv3/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kiu_kiu_footprint_nodemcuv3/working
-    oomp_doc: footprints/footprints/kiu/kiu-footprint/NodeMCUV3/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kiu/kiu-footprint/NodeMCUV3/working
     oomp_src_flat: footprints_flat/footprints_flat/kiu_kiu_footprint_nodemcuv3/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kiu_kiu_footprint_nodemcuv3/working
-    oomp_src_folder: footprints_folder/footprints_folder/kiu/kiu-footprint/NodeMCUV3/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kiu/kiu-footprint/NodeMCUV3/working
   name: kiu-footprint.pretty
+  oomp:
+    footprint_name: nodemcuv3
+    library_name: kiu_footprint
+    md5: a172ccd05bfdacf6714a287d11075271
+    md5_10: a172ccd05b
+    md5_5: a172c
+    md5_6: a172cc
+    oomp_key: oomp_kiu_kiu_footprint_nodemcuv3
+    oomp_key_extra: oomp_footprint_kiu_kiu_footprint_nodemcuv3
+    oomp_key_full: oomp_footprint_kiu_kiu_footprint_nodemcuv3_a172cc
+    oomp_key_simple: kiu_kiu_footprint_nodemcuv3
+    original_filename: kiu-footprint.pretty/NodeMCUV3.kicad_mod
+    owner_name: kiu
   oomp_key: oomp_kiu_kiu_footprint_nodemcuv3
+  oomp_key_full: oomp_footprint_kiu_kiu_footprint_nodemcuv3
   oomp_key_simple: kiu_kiu_footprint_nodemcuv3
   owner: kiu
   repo:

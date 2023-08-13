@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/svarmo_kicadparts_hlk_pm01/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/svarmo_kicadparts_hlk_pm01/working
-    oomp_doc: footprints/footprints/svarmo/kicadParts/HLK-PM01/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/svarmo/kicadParts/HLK-PM01/working
     oomp_src_flat: footprints_flat/footprints_flat/svarmo_kicadparts_hlk_pm01/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/svarmo_kicadparts_hlk_pm01/working
-    oomp_src_folder: footprints_folder/footprints_folder/svarmo/kicadParts/HLK-PM01/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/svarmo/kicadParts/HLK-PM01/working
   name: kicadParts.pretty
+  oomp:
+    footprint_name: hlk_pm01
+    library_name: kicadparts
+    md5: 41b5bde7b982047e1bfdd6518ec472ce
+    md5_10: 41b5bde7b9
+    md5_5: 41b5b
+    md5_6: 41b5bd
+    oomp_key: oomp_svarmo_kicadparts_hlk_pm01
+    oomp_key_extra: oomp_footprint_svarmo_kicadparts_hlk_pm01
+    oomp_key_full: oomp_footprint_svarmo_kicadparts_hlk_pm01_41b5bd
+    oomp_key_simple: svarmo_kicadparts_hlk_pm01
+    original_filename: kicadParts.pretty/HLK-PM01.kicad_mod
+    owner_name: svarmo
   oomp_key: oomp_svarmo_kicadparts_hlk_pm01
+  oomp_key_full: oomp_footprint_svarmo_kicadparts_hlk_pm01
   oomp_key_simple: svarmo_kicadparts_hlk_pm01
   owner: svarmo
   repo:

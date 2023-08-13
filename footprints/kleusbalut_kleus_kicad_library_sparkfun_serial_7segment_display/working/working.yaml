@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/kleusbalut/kleus_kicad_library.pretty
     oomp_bot: footprints/kleusbalut_kleus_kicad_library_sparkfun_serial_7segment_display/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kleusbalut_kleus_kicad_library_sparkfun_serial_7segment_display/working
-    oomp_doc: footprints/footprints/kleusbalut/kleus_kicad_library/Sparkfun-Serial-7Segment-Display/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kleusbalut/kleus_kicad_library/Sparkfun-Serial-7Segment-Display/working
     oomp_src_flat: footprints_flat/footprints_flat/kleusbalut_kleus_kicad_library_sparkfun_serial_7segment_display/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kleusbalut_kleus_kicad_library_sparkfun_serial_7segment_display/working
-    oomp_src_folder: footprints_folder/footprints_folder/kleusbalut/kleus_kicad_library/Sparkfun-Serial-7Segment-Display/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kleusbalut/kleus_kicad_library/Sparkfun-Serial-7Segment-Display/working
   name: kleus_kicad_library.pretty
+  oomp:
+    footprint_name: sparkfun_serial_7segment_display
+    library_name: kleus_kicad_library
+    md5: 0252311d152f134762fcd405f6e231a9
+    md5_10: 0252311d15
+    md5_5: '02523'
+    md5_6: '025231'
+    oomp_key: oomp_kleusbalut_kleus_kicad_library_sparkfun_serial_7segment_display
+    oomp_key_extra: oomp_footprint_kleusbalut_kleus_kicad_library_sparkfun_serial_7segment_display
+    oomp_key_full: oomp_footprint_kleusbalut_kleus_kicad_library_sparkfun_serial_7segment_display_025231
+    oomp_key_simple: kleusbalut_kleus_kicad_library_sparkfun_serial_7segment_display
+    original_filename: kleus_kicad_library.pretty/Sparkfun-Serial-7Segment-Display.kicad_mod
+    owner_name: kleusbalut
   oomp_key: oomp_kleusbalut_kleus_kicad_library_sparkfun_serial_7segment_display
+  oomp_key_full: oomp_footprint_kleusbalut_kleus_kicad_library_sparkfun_serial_7segment_display
   oomp_key_simple: kleusbalut_kleus_kicad_library_sparkfun_serial_7segment_display
   owner: kleusbalut
   repo:

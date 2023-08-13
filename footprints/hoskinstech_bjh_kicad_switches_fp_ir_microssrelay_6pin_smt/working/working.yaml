@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/hoskinstech_bjh_kicad_switches_fp_ir_microssrelay_6pin_smt/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/hoskinstech_bjh_kicad_switches_fp_ir_microssrelay_6pin_smt/working
-    oomp_doc: footprints/footprints/hoskinstech/bjh-kicad-switches-fp/IR-MicroSSRelay-6Pin-SMT/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/hoskinstech/bjh-kicad-switches-fp/IR-MicroSSRelay-6Pin-SMT/working
     oomp_src_flat: footprints_flat/footprints_flat/hoskinstech_bjh_kicad_switches_fp_ir_microssrelay_6pin_smt/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/hoskinstech_bjh_kicad_switches_fp_ir_microssrelay_6pin_smt/working
-    oomp_src_folder: footprints_folder/footprints_folder/hoskinstech/bjh-kicad-switches-fp/IR-MicroSSRelay-6Pin-SMT/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/hoskinstech/bjh-kicad-switches-fp/IR-MicroSSRelay-6Pin-SMT/working
   name: bjh-kicad-switches-fp.pretty
+  oomp:
+    footprint_name: ir_microssrelay_6pin_smt
+    library_name: bjh_kicad_switches_fp
+    md5: e3b400c1ec686256b3a8289b453f3d1f
+    md5_10: e3b400c1ec
+    md5_5: e3b40
+    md5_6: e3b400
+    oomp_key: oomp_hoskinstech_bjh_kicad_switches_fp_ir_microssrelay_6pin_smt
+    oomp_key_extra: oomp_footprint_hoskinstech_bjh_kicad_switches_fp_ir_microssrelay_6pin_smt
+    oomp_key_full: oomp_footprint_hoskinstech_bjh_kicad_switches_fp_ir_microssrelay_6pin_smt_e3b400
+    oomp_key_simple: hoskinstech_bjh_kicad_switches_fp_ir_microssrelay_6pin_smt
+    original_filename: bjh-kicad-switches-fp.pretty/IR-MicroSSRelay-6Pin-SMT.kicad_mod
+    owner_name: hoskinstech
   oomp_key: oomp_hoskinstech_bjh_kicad_switches_fp_ir_microssrelay_6pin_smt
+  oomp_key_full: oomp_footprint_hoskinstech_bjh_kicad_switches_fp_ir_microssrelay_6pin_smt
   oomp_key_simple: hoskinstech_bjh_kicad_switches_fp_ir_microssrelay_6pin_smt
   owner: hoskinstech
   repo:

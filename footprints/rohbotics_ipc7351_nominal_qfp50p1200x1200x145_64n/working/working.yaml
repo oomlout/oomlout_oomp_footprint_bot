@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/rohbotics_ipc7351_nominal_qfp50p1200x1200x145_64n/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/rohbotics_ipc7351_nominal_qfp50p1200x1200x145_64n/working
-    oomp_doc: footprints/footprints/rohbotics/IPC7351-Nominal/QFP50P1200X1200X145-64N/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/rohbotics/IPC7351-Nominal/QFP50P1200X1200X145-64N/working
     oomp_src_flat: footprints_flat/footprints_flat/rohbotics_ipc7351_nominal_qfp50p1200x1200x145_64n/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/rohbotics_ipc7351_nominal_qfp50p1200x1200x145_64n/working
-    oomp_src_folder: footprints_folder/footprints_folder/rohbotics/IPC7351-Nominal/QFP50P1200X1200X145-64N/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/rohbotics/IPC7351-Nominal/QFP50P1200X1200X145-64N/working
   name: IPC7351-Nominal.pretty
+  oomp:
+    footprint_name: qfp50p1200x1200x145_64n
+    library_name: ipc7351_nominal
+    md5: 4592478697520b39b3d9156526273df6
+    md5_10: '4592478697'
+    md5_5: '45924'
+    md5_6: '459247'
+    oomp_key: oomp_rohbotics_ipc7351_nominal_qfp50p1200x1200x145_64n
+    oomp_key_extra: oomp_footprint_rohbotics_ipc7351_nominal_qfp50p1200x1200x145_64n
+    oomp_key_full: oomp_footprint_rohbotics_ipc7351_nominal_qfp50p1200x1200x145_64n_459247
+    oomp_key_simple: rohbotics_ipc7351_nominal_qfp50p1200x1200x145_64n
+    original_filename: IPC7351-Nominal.pretty/QFP50P1200X1200X145-64N.kicad_mod
+    owner_name: rohbotics
   oomp_key: oomp_rohbotics_ipc7351_nominal_qfp50p1200x1200x145_64n
+  oomp_key_full: oomp_footprint_rohbotics_ipc7351_nominal_qfp50p1200x1200x145_64n
   oomp_key_simple: rohbotics_ipc7351_nominal_qfp50p1200x1200x145_64n
   owner: rohbotics
   repo:

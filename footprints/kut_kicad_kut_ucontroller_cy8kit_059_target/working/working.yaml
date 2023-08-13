@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/KUT-KiCad/KUT_uController.pretty
     oomp_bot: footprints/kut_kicad_kut_ucontroller_cy8kit_059_target/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kut_kicad_kut_ucontroller_cy8kit_059_target/working
-    oomp_doc: footprints/footprints/KUT-KiCad/KUT_uController/CY8KIT-059_Target/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/KUT-KiCad/KUT_uController/CY8KIT-059_Target/working
     oomp_src_flat: footprints_flat/footprints_flat/kut_kicad_kut_ucontroller_cy8kit_059_target/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kut_kicad_kut_ucontroller_cy8kit_059_target/working
-    oomp_src_folder: footprints_folder/footprints_folder/KUT-KiCad/KUT_uController/CY8KIT-059_Target/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/KUT-KiCad/KUT_uController/CY8KIT-059_Target/working
   name: KUT_uController.pretty
+  oomp:
+    footprint_name: cy8kit_059_target
+    library_name: kut_ucontroller
+    md5: fb4a6bcc8c6a1e51982d48cbde816ccc
+    md5_10: fb4a6bcc8c
+    md5_5: fb4a6
+    md5_6: fb4a6b
+    oomp_key: oomp_kut_kicad_kut_ucontroller_cy8kit_059_target
+    oomp_key_extra: oomp_footprint_kut_kicad_kut_ucontroller_cy8kit_059_target
+    oomp_key_full: oomp_footprint_kut_kicad_kut_ucontroller_cy8kit_059_target_fb4a6b
+    oomp_key_simple: kut_kicad_kut_ucontroller_cy8kit_059_target
+    original_filename: KUT_uController.pretty/CY8KIT-059_Target.kicad_mod
+    owner_name: kut_kicad
   oomp_key: oomp_kut_kicad_kut_ucontroller_cy8kit_059_target
+  oomp_key_full: oomp_footprint_kut_kicad_kut_ucontroller_cy8kit_059_target
   oomp_key_simple: kut_kicad_kut_ucontroller_cy8kit_059_target
   owner: KUT-KiCad
   repo:

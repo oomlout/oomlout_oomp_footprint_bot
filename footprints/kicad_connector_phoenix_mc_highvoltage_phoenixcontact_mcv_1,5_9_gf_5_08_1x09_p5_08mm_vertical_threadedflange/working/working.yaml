@@ -13,17 +13,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_connector_phoenix_mc_highvoltage_phoenixcontact_mcv_1,5_9_gf_5_08_1x09_p5_08mm_vertical_threadedflange/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_connector_phoenix_mc_highvoltage_phoenixcontact_mcv_1,5_9_gf_5_08_1x09_p5_08mm_vertical_threadedflange/working
-    oomp_doc: footprints/footprints/kicad/Connector_Phoenix_MC_HighVoltage/PhoenixContact_MCV_1,5_9-GF-5.08_1x09_P5.08mm_Vertical_ThreadedFlange/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Connector_Phoenix_MC_HighVoltage/PhoenixContact_MCV_1,5_9-GF-5.08_1x09_P5.08mm_Vertical_ThreadedFlange/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_connector_phoenix_mc_highvoltage_phoenixcontact_mcv_1,5_9_gf_5_08_1x09_p5_08mm_vertical_threadedflange/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_connector_phoenix_mc_highvoltage_phoenixcontact_mcv_1,5_9_gf_5_08_1x09_p5_08mm_vertical_threadedflange/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Connector_Phoenix_MC_HighVoltage/PhoenixContact_MCV_1,5_9-GF-5.08_1x09_P5.08mm_Vertical_ThreadedFlange/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Connector_Phoenix_MC_HighVoltage/PhoenixContact_MCV_1,5_9-GF-5.08_1x09_P5.08mm_Vertical_ThreadedFlange/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: phoenixcontact_mcv_1,5_9_gf_5_08_1x09_p5_08mm_vertical_threadedflange
+    library_name: connector_phoenix_mc_highvoltage
+    md5: 2f0bdcb1f64660a29181933cbf0afcb3
+    md5_10: 2f0bdcb1f6
+    md5_5: 2f0bd
+    md5_6: 2f0bdc
+    oomp_key: oomp_kicad_connector_phoenix_mc_highvoltage_phoenixcontact_mcv_1,5_9_gf_5_08_1x09_p5_08mm_vertical_threadedflange
+    oomp_key_extra: oomp_footprint_kicad_connector_phoenix_mc_highvoltage_phoenixcontact_mcv_1,5_9_gf_5_08_1x09_p5_08mm_vertical_threadedflange
+    oomp_key_full: oomp_footprint_kicad_connector_phoenix_mc_highvoltage_phoenixcontact_mcv_1,5_9_gf_5_08_1x09_p5_08mm_vertical_threadedflange_2f0bdc
+    oomp_key_simple: kicad_connector_phoenix_mc_highvoltage_phoenixcontact_mcv_1,5_9_gf_5_08_1x09_p5_08mm_vertical_threadedflange
+    original_filename: libraries/kicad-footprints/Connector_Phoenix_MC_HighVoltage.pretty/PhoenixContact_MCV_1,5_9-GF-5.08_1x09_P5.08mm_Vertical_ThreadedFlange.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_connector_phoenix_mc_highvoltage_phoenixcontact_mcv_1,5_9_gf_5_08_1x09_p5_08mm_vertical_threadedflange
+  oomp_key_full: oomp_footprint_kicad_connector_phoenix_mc_highvoltage_phoenixcontact_mcv_1,5_9_gf_5_08_1x09_p5_08mm_vertical_threadedflange
   oomp_key_simple: kicad_connector_phoenix_mc_highvoltage_phoenixcontact_mcv_1,5_9_gf_5_08_1x09_p5_08mm_vertical_threadedflange
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

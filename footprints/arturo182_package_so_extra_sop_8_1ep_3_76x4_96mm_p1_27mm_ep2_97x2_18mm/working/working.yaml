@@ -14,14 +14,24 @@
     github_src_repo: https://github.com/arturo182/kicad-modules
     oomp_bot: footprints/arturo182_package_so_extra_sop_8_1ep_3_76x4_96mm_p1_27mm_ep2_97x2_18mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/arturo182_package_so_extra_sop_8_1ep_3_76x4_96mm_p1_27mm_ep2_97x2_18mm/working
-    oomp_doc: footprints/footprints/arturo182/Package_SO_Extra/SOP-8-1EP_3.76x4.96mm_P1.27mm_EP2.97x2.18mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/arturo182/Package_SO_Extra/SOP-8-1EP_3.76x4.96mm_P1.27mm_EP2.97x2.18mm/working
     oomp_src_flat: footprints_flat/footprints_flat/arturo182_package_so_extra_sop_8_1ep_3_76x4_96mm_p1_27mm_ep2_97x2_18mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/arturo182_package_so_extra_sop_8_1ep_3_76x4_96mm_p1_27mm_ep2_97x2_18mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/arturo182/Package_SO_Extra/SOP-8-1EP_3.76x4.96mm_P1.27mm_EP2.97x2.18mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/arturo182/Package_SO_Extra/SOP-8-1EP_3.76x4.96mm_P1.27mm_EP2.97x2.18mm/working
   name: kicad-modules
+  oomp:
+    footprint_name: sop_8_1ep_3_76x4_96mm_p1_27mm_ep2_97x2_18mm
+    library_name: package_so_extra
+    md5: 83f816db086e2a1b0381e5b418df9654
+    md5_10: 83f816db08
+    md5_5: 83f81
+    md5_6: 83f816
+    oomp_key: oomp_arturo182_package_so_extra_sop_8_1ep_3_76x4_96mm_p1_27mm_ep2_97x2_18mm
+    oomp_key_extra: oomp_footprint_arturo182_package_so_extra_sop_8_1ep_3_76x4_96mm_p1_27mm_ep2_97x2_18mm
+    oomp_key_full: oomp_footprint_arturo182_package_so_extra_sop_8_1ep_3_76x4_96mm_p1_27mm_ep2_97x2_18mm_83f816
+    oomp_key_simple: arturo182_package_so_extra_sop_8_1ep_3_76x4_96mm_p1_27mm_ep2_97x2_18mm
+    original_filename: kicad-modules/Package_SO_Extra.pretty/SOP-8-1EP_3.76x4.96mm_P1.27mm_EP2.97x2.18mm.kicad_mod
+    owner_name: arturo182
   oomp_key: oomp_arturo182_package_so_extra_sop_8_1ep_3_76x4_96mm_p1_27mm_ep2_97x2_18mm
+  oomp_key_full: oomp_footprint_arturo182_package_so_extra_sop_8_1ep_3_76x4_96mm_p1_27mm_ep2_97x2_18mm
   oomp_key_simple: arturo182_package_so_extra_sop_8_1ep_3_76x4_96mm_p1_27mm_ep2_97x2_18mm
   owner: arturo182
   repo:

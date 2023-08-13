@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/kikaiken/kicad_others.pretty
     oomp_bot: footprints/kikaiken_kicad_others_3_5mm_stereojack/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kikaiken_kicad_others_3_5mm_stereojack/working
-    oomp_doc: footprints/footprints/kikaiken/kicad_others/3.5mm_StereoJack/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kikaiken/kicad_others/3.5mm_StereoJack/working
     oomp_src_flat: footprints_flat/footprints_flat/kikaiken_kicad_others_3_5mm_stereojack/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kikaiken_kicad_others_3_5mm_stereojack/working
-    oomp_src_folder: footprints_folder/footprints_folder/kikaiken/kicad_others/3.5mm_StereoJack/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kikaiken/kicad_others/3.5mm_StereoJack/working
   name: kicad_others.pretty
+  oomp:
+    footprint_name: 3_5mm_stereojack
+    library_name: kicad_others
+    md5: 922512304715f419822cbebbbcb5f1d1
+    md5_10: '9225123047'
+    md5_5: '92251'
+    md5_6: '922512'
+    oomp_key: oomp_kikaiken_kicad_others_3_5mm_stereojack
+    oomp_key_extra: oomp_footprint_kikaiken_kicad_others_3_5mm_stereojack
+    oomp_key_full: oomp_footprint_kikaiken_kicad_others_3_5mm_stereojack_922512
+    oomp_key_simple: kikaiken_kicad_others_3_5mm_stereojack
+    original_filename: kicad_others.pretty/3.5mm_StereoJack.kicad_mod
+    owner_name: kikaiken
   oomp_key: oomp_kikaiken_kicad_others_3_5mm_stereojack
+  oomp_key_full: oomp_footprint_kikaiken_kicad_others_3_5mm_stereojack
   oomp_key_simple: kikaiken_kicad_others_3_5mm_stereojack
   owner: kikaiken
   repo:

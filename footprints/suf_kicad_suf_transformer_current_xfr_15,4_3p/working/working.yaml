@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/suf_kicad_suf_transformer_current_xfr_15,4_3p/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/suf_kicad_suf_transformer_current_xfr_15,4_3p/working
-    oomp_doc: footprints/footprints/suf-KiCAD/suf_transformer/current_xfr_15,4_3P/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/suf-KiCAD/suf_transformer/current_xfr_15,4_3P/working
     oomp_src_flat: footprints_flat/footprints_flat/suf_kicad_suf_transformer_current_xfr_15,4_3p/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/suf_kicad_suf_transformer_current_xfr_15,4_3p/working
-    oomp_src_folder: footprints_folder/footprints_folder/suf-KiCAD/suf_transformer/current_xfr_15,4_3P/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/suf-KiCAD/suf_transformer/current_xfr_15,4_3P/working
   name: suf_transformer.pretty
+  oomp:
+    footprint_name: current_xfr_15,4_3p
+    library_name: suf_transformer
+    md5: bd1c5c1d79024c1748d9c32acdf8e211
+    md5_10: bd1c5c1d79
+    md5_5: bd1c5
+    md5_6: bd1c5c
+    oomp_key: oomp_suf_kicad_suf_transformer_current_xfr_15,4_3p
+    oomp_key_extra: oomp_footprint_suf_kicad_suf_transformer_current_xfr_15,4_3p
+    oomp_key_full: oomp_footprint_suf_kicad_suf_transformer_current_xfr_15,4_3p_bd1c5c
+    oomp_key_simple: suf_kicad_suf_transformer_current_xfr_15,4_3p
+    original_filename: suf_transformer.pretty/current_xfr_15,4_3P.kicad_mod
+    owner_name: suf_kicad
   oomp_key: oomp_suf_kicad_suf_transformer_current_xfr_15,4_3p
+  oomp_key_full: oomp_footprint_suf_kicad_suf_transformer_current_xfr_15,4_3p
   oomp_key_simple: suf_kicad_suf_transformer_current_xfr_15,4_3p
   owner: suf-KiCAD
   repo:

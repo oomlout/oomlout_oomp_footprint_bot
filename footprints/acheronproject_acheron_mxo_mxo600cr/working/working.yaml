@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/AcheronProject/acheron_MXO.pretty
     oomp_bot: footprints/acheronproject_acheron_mxo_mxo600cr/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/acheronproject_acheron_mxo_mxo600cr/working
-    oomp_doc: footprints/footprints/AcheronProject/acheron_MXO/MXO600CR/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/AcheronProject/acheron_MXO/MXO600CR/working
     oomp_src_flat: footprints_flat/footprints_flat/acheronproject_acheron_mxo_mxo600cr/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/acheronproject_acheron_mxo_mxo600cr/working
-    oomp_src_folder: footprints_folder/footprints_folder/AcheronProject/acheron_MXO/MXO600CR/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/AcheronProject/acheron_MXO/MXO600CR/working
   name: acheron_MXO.pretty
+  oomp:
+    footprint_name: mxo600cr
+    library_name: acheron_mxo
+    md5: 6b336df892e6c8903bbcc2345cb9c832
+    md5_10: 6b336df892
+    md5_5: 6b336
+    md5_6: 6b336d
+    oomp_key: oomp_acheronproject_acheron_mxo_mxo600cr
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_mxo_mxo600cr
+    oomp_key_full: oomp_footprint_acheronproject_acheron_mxo_mxo600cr_6b336d
+    oomp_key_simple: acheronproject_acheron_mxo_mxo600cr
+    original_filename: acheron_MXO.pretty/MXO600CR.kicad_mod
+    owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_mxo_mxo600cr
+  oomp_key_full: oomp_footprint_acheronproject_acheron_mxo_mxo600cr
   oomp_key_simple: acheronproject_acheron_mxo_mxo600cr
   owner: AcheronProject
   repo:

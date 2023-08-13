@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/LacieUnlam/Poncho_Modelos.pretty
     oomp_bot: footprints/lacieunlam_poncho_modelos_pin_header_straight_2x12/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/lacieunlam_poncho_modelos_pin_header_straight_2x12/working
-    oomp_doc: footprints/footprints/LacieUnlam/Poncho_Modelos/Pin_Header_Straight_2x12/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/LacieUnlam/Poncho_Modelos/Pin_Header_Straight_2x12/working
     oomp_src_flat: footprints_flat/footprints_flat/lacieunlam_poncho_modelos_pin_header_straight_2x12/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/lacieunlam_poncho_modelos_pin_header_straight_2x12/working
-    oomp_src_folder: footprints_folder/footprints_folder/LacieUnlam/Poncho_Modelos/Pin_Header_Straight_2x12/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/LacieUnlam/Poncho_Modelos/Pin_Header_Straight_2x12/working
   name: Poncho_Modelos.pretty
+  oomp:
+    footprint_name: pin_header_straight_2x12
+    library_name: poncho_modelos
+    md5: 6243b8b769407862dbdf77057476b30b
+    md5_10: 6243b8b769
+    md5_5: 6243b
+    md5_6: 6243b8
+    oomp_key: oomp_lacieunlam_poncho_modelos_pin_header_straight_2x12
+    oomp_key_extra: oomp_footprint_lacieunlam_poncho_modelos_pin_header_straight_2x12
+    oomp_key_full: oomp_footprint_lacieunlam_poncho_modelos_pin_header_straight_2x12_6243b8
+    oomp_key_simple: lacieunlam_poncho_modelos_pin_header_straight_2x12
+    original_filename: Poncho_Modelos.pretty/Pin_Header_Straight_2x12.kicad_mod
+    owner_name: lacieunlam
   oomp_key: oomp_lacieunlam_poncho_modelos_pin_header_straight_2x12
+  oomp_key_full: oomp_footprint_lacieunlam_poncho_modelos_pin_header_straight_2x12
   oomp_key_simple: lacieunlam_poncho_modelos_pin_header_straight_2x12
   owner: LacieUnlam
   repo:

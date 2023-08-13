@@ -13,14 +13,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/garrettsworkshop_stdpads_molex_mini_fit_jr_5569_14a1_2x07_p4_20mm_horizontal/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/garrettsworkshop_stdpads_molex_mini_fit_jr_5569_14a1_2x07_p4_20mm_horizontal/working
-    oomp_doc: footprints/footprints/garrettsworkshop/stdpads/Molex_Mini-Fit_Jr_5569-14A1_2x07_P4.20mm_Horizontal/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/garrettsworkshop/stdpads/Molex_Mini-Fit_Jr_5569-14A1_2x07_P4.20mm_Horizontal/working
     oomp_src_flat: footprints_flat/footprints_flat/garrettsworkshop_stdpads_molex_mini_fit_jr_5569_14a1_2x07_p4_20mm_horizontal/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/garrettsworkshop_stdpads_molex_mini_fit_jr_5569_14a1_2x07_p4_20mm_horizontal/working
-    oomp_src_folder: footprints_folder/footprints_folder/garrettsworkshop/stdpads/Molex_Mini-Fit_Jr_5569-14A1_2x07_P4.20mm_Horizontal/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/garrettsworkshop/stdpads/Molex_Mini-Fit_Jr_5569-14A1_2x07_P4.20mm_Horizontal/working
   name: stdpads.pretty
+  oomp:
+    footprint_name: molex_mini_fit_jr_5569_14a1_2x07_p4_20mm_horizontal
+    library_name: stdpads
+    md5: 5f73106a3c3d4521cb603804ee44b0e4
+    md5_10: 5f73106a3c
+    md5_5: 5f731
+    md5_6: 5f7310
+    oomp_key: oomp_garrettsworkshop_stdpads_molex_mini_fit_jr_5569_14a1_2x07_p4_20mm_horizontal
+    oomp_key_extra: oomp_footprint_garrettsworkshop_stdpads_molex_mini_fit_jr_5569_14a1_2x07_p4_20mm_horizontal
+    oomp_key_full: oomp_footprint_garrettsworkshop_stdpads_molex_mini_fit_jr_5569_14a1_2x07_p4_20mm_horizontal_5f7310
+    oomp_key_simple: garrettsworkshop_stdpads_molex_mini_fit_jr_5569_14a1_2x07_p4_20mm_horizontal
+    original_filename: stdpads.pretty/Molex_Mini-Fit_Jr_5569-14A1_2x07_P4.20mm_Horizontal.kicad_mod
+    owner_name: garrettsworkshop
   oomp_key: oomp_garrettsworkshop_stdpads_molex_mini_fit_jr_5569_14a1_2x07_p4_20mm_horizontal
+  oomp_key_full: oomp_footprint_garrettsworkshop_stdpads_molex_mini_fit_jr_5569_14a1_2x07_p4_20mm_horizontal
   oomp_key_simple: garrettsworkshop_stdpads_molex_mini_fit_jr_5569_14a1_2x07_p4_20mm_horizontal
   owner: garrettsworkshop
   repo:

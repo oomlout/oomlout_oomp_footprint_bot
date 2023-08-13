@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cpavlina_manuf_texas_r_puqfn_n10/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cpavlina_manuf_texas_r_puqfn_n10/working
-    oomp_doc: footprints/footprints/cpavlina/manuf/TEXAS-R-PUQFN-N10/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cpavlina/manuf/TEXAS-R-PUQFN-N10/working
     oomp_src_flat: footprints_flat/footprints_flat/cpavlina_manuf_texas_r_puqfn_n10/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cpavlina_manuf_texas_r_puqfn_n10/working
-    oomp_src_folder: footprints_folder/footprints_folder/cpavlina/manuf/TEXAS-R-PUQFN-N10/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cpavlina/manuf/TEXAS-R-PUQFN-N10/working
   name: kicad-pcblib
+  oomp:
+    footprint_name: texas_r_puqfn_n10
+    library_name: manuf
+    md5: ed76b8b97037e6eb0e31f7438a1767df
+    md5_10: ed76b8b970
+    md5_5: ed76b
+    md5_6: ed76b8
+    oomp_key: oomp_cpavlina_manuf_texas_r_puqfn_n10
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_texas_r_puqfn_n10
+    oomp_key_full: oomp_footprint_cpavlina_manuf_texas_r_puqfn_n10_ed76b8
+    oomp_key_simple: cpavlina_manuf_texas_r_puqfn_n10
+    original_filename: kicad-pcblib/manuf.pretty/TEXAS-R-PUQFN-N10.kicad_mod
+    owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_texas_r_puqfn_n10
+  oomp_key_full: oomp_footprint_cpavlina_manuf_texas_r_puqfn_n10
   oomp_key_simple: cpavlina_manuf_texas_r_puqfn_n10
   owner: cpavlina
   repo:

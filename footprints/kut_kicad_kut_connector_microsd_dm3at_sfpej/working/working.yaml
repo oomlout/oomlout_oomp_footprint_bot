@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/KUT-KiCad/KUT_Connector.pretty
     oomp_bot: footprints/kut_kicad_kut_connector_microsd_dm3at_sfpej/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kut_kicad_kut_connector_microsd_dm3at_sfpej/working
-    oomp_doc: footprints/footprints/KUT-KiCad/KUT_Connector/microSD_DM3AT-SFPEJ/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/KUT-KiCad/KUT_Connector/microSD_DM3AT-SFPEJ/working
     oomp_src_flat: footprints_flat/footprints_flat/kut_kicad_kut_connector_microsd_dm3at_sfpej/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kut_kicad_kut_connector_microsd_dm3at_sfpej/working
-    oomp_src_folder: footprints_folder/footprints_folder/KUT-KiCad/KUT_Connector/microSD_DM3AT-SFPEJ/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/KUT-KiCad/KUT_Connector/microSD_DM3AT-SFPEJ/working
   name: KUT_Connector.pretty
+  oomp:
+    footprint_name: microsd_dm3at_sfpej
+    library_name: kut_connector
+    md5: 3a271453b2d3f8e05235641982e7e426
+    md5_10: 3a271453b2
+    md5_5: 3a271
+    md5_6: 3a2714
+    oomp_key: oomp_kut_kicad_kut_connector_microsd_dm3at_sfpej
+    oomp_key_extra: oomp_footprint_kut_kicad_kut_connector_microsd_dm3at_sfpej
+    oomp_key_full: oomp_footprint_kut_kicad_kut_connector_microsd_dm3at_sfpej_3a2714
+    oomp_key_simple: kut_kicad_kut_connector_microsd_dm3at_sfpej
+    original_filename: KUT_Connector.pretty/microSD_DM3AT-SFPEJ.kicad_mod
+    owner_name: kut_kicad
   oomp_key: oomp_kut_kicad_kut_connector_microsd_dm3at_sfpej
+  oomp_key_full: oomp_footprint_kut_kicad_kut_connector_microsd_dm3at_sfpej
   oomp_key_simple: kut_kicad_kut_connector_microsd_dm3at_sfpej
   owner: KUT-KiCad
   repo:

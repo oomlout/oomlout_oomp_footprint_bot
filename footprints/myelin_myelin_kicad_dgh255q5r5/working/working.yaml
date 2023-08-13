@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/myelin_myelin_kicad_dgh255q5r5/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/myelin_myelin_kicad_dgh255q5r5/working
-    oomp_doc: footprints/footprints/myelin/myelin-kicad/dgh255q5r5/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/myelin/myelin-kicad/dgh255q5r5/working
     oomp_src_flat: footprints_flat/footprints_flat/myelin_myelin_kicad_dgh255q5r5/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/myelin_myelin_kicad_dgh255q5r5/working
-    oomp_src_folder: footprints_folder/footprints_folder/myelin/myelin-kicad/dgh255q5r5/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/myelin/myelin-kicad/dgh255q5r5/working
   name: myelin-kicad.pretty
+  oomp:
+    footprint_name: dgh255q5r5
+    library_name: myelin_kicad
+    md5: 046e31074790a9e14c5163841f175875
+    md5_10: 046e310747
+    md5_5: 046e3
+    md5_6: 046e31
+    oomp_key: oomp_myelin_myelin_kicad_dgh255q5r5
+    oomp_key_extra: oomp_footprint_myelin_myelin_kicad_dgh255q5r5
+    oomp_key_full: oomp_footprint_myelin_myelin_kicad_dgh255q5r5_046e31
+    oomp_key_simple: myelin_myelin_kicad_dgh255q5r5
+    original_filename: myelin-kicad.pretty/dgh255q5r5.kicad_mod
+    owner_name: myelin
   oomp_key: oomp_myelin_myelin_kicad_dgh255q5r5
+  oomp_key_full: oomp_footprint_myelin_myelin_kicad_dgh255q5r5
   oomp_key_simple: myelin_myelin_kicad_dgh255q5r5
   owner: myelin
   repo:

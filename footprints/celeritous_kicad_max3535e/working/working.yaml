@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/celeritous_kicad_max3535e/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/celeritous_kicad_max3535e/working
-    oomp_doc: footprints/footprints/celeritous/KiCad/MAX3535E/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/celeritous/KiCad/MAX3535E/working
     oomp_src_flat: footprints_flat/footprints_flat/celeritous_kicad_max3535e/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/celeritous_kicad_max3535e/working
-    oomp_src_folder: footprints_folder/footprints_folder/celeritous/KiCad/MAX3535E/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/celeritous/KiCad/MAX3535E/working
   name: KiCad.pretty
+  oomp:
+    footprint_name: max3535e
+    library_name: kicad
+    md5: 111f269fa63a310364c8c101478d097d
+    md5_10: 111f269fa6
+    md5_5: 111f2
+    md5_6: 111f26
+    oomp_key: oomp_celeritous_kicad_max3535e
+    oomp_key_extra: oomp_footprint_celeritous_kicad_max3535e
+    oomp_key_full: oomp_footprint_celeritous_kicad_max3535e_111f26
+    oomp_key_simple: celeritous_kicad_max3535e
+    original_filename: KiCad.pretty/MAX3535E.kicad_mod
+    owner_name: celeritous
   oomp_key: oomp_celeritous_kicad_max3535e
+  oomp_key_full: oomp_footprint_celeritous_kicad_max3535e
   oomp_key_simple: celeritous_kicad_max3535e
   owner: celeritous
   repo:

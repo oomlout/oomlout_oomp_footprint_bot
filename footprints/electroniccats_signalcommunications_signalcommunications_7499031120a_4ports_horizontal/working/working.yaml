@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/electroniccats_signalcommunications_signalcommunications_7499031120a_4ports_horizontal/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/electroniccats_signalcommunications_signalcommunications_7499031120a_4ports_horizontal/working
-    oomp_doc: footprints/footprints/ElectronicCats/SignalCommunications/SignalCommunications-7499031120A-4PORTS-HORIZONTAL/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ElectronicCats/SignalCommunications/SignalCommunications-7499031120A-4PORTS-HORIZONTAL/working
     oomp_src_flat: footprints_flat/footprints_flat/electroniccats_signalcommunications_signalcommunications_7499031120a_4ports_horizontal/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/electroniccats_signalcommunications_signalcommunications_7499031120a_4ports_horizontal/working
-    oomp_src_folder: footprints_folder/footprints_folder/ElectronicCats/SignalCommunications/SignalCommunications-7499031120A-4PORTS-HORIZONTAL/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ElectronicCats/SignalCommunications/SignalCommunications-7499031120A-4PORTS-HORIZONTAL/working
   name: ComponentLibrariesKicadWurthElektronik
+  oomp:
+    footprint_name: signalcommunications_7499031120a_4ports_horizontal
+    library_name: signalcommunications
+    md5: 350be2d8f2e1d3e6b2bf7e46d68e351a
+    md5_10: 350be2d8f2
+    md5_5: 350be
+    md5_6: 350be2
+    oomp_key: oomp_electroniccats_signalcommunications_signalcommunications_7499031120a_4ports_horizontal
+    oomp_key_extra: oomp_footprint_electroniccats_signalcommunications_signalcommunications_7499031120a_4ports_horizontal
+    oomp_key_full: oomp_footprint_electroniccats_signalcommunications_signalcommunications_7499031120a_4ports_horizontal_350be2
+    oomp_key_simple: electroniccats_signalcommunications_signalcommunications_7499031120a_4ports_horizontal
+    original_filename: ComponentLibrariesKicadWurthElektronik/SIGNAL-COMMUNICATIONS-rev18a/SignalCommunications.pretty/SignalCommunications-7499031120A-4PORTS-HORIZONTAL.kicad_mod
+    owner_name: electroniccats
   oomp_key: oomp_electroniccats_signalcommunications_signalcommunications_7499031120a_4ports_horizontal
+  oomp_key_full: oomp_footprint_electroniccats_signalcommunications_signalcommunications_7499031120a_4ports_horizontal
   oomp_key_simple: electroniccats_signalcommunications_signalcommunications_7499031120a_4ports_horizontal
   owner: ElectronicCats
   repo:

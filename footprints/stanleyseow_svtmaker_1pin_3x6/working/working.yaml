@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/stanleyseow_svtmaker_1pin_3x6/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stanleyseow_svtmaker_1pin_3x6/working
-    oomp_doc: footprints/footprints/stanleyseow/SVTmaker/1pin_3x6/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/stanleyseow/SVTmaker/1pin_3x6/working
     oomp_src_flat: footprints_flat/footprints_flat/stanleyseow_svtmaker_1pin_3x6/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/stanleyseow_svtmaker_1pin_3x6/working
-    oomp_src_folder: footprints_folder/footprints_folder/stanleyseow/SVTmaker/1pin_3x6/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/stanleyseow/SVTmaker/1pin_3x6/working
   name: SVTmaker.pretty
+  oomp:
+    footprint_name: 1pin_3x6
+    library_name: svtmaker
+    md5: ea213295f000ecf3256e7159daf4a67d
+    md5_10: ea213295f0
+    md5_5: ea213
+    md5_6: ea2132
+    oomp_key: oomp_stanleyseow_svtmaker_1pin_3x6
+    oomp_key_extra: oomp_footprint_stanleyseow_svtmaker_1pin_3x6
+    oomp_key_full: oomp_footprint_stanleyseow_svtmaker_1pin_3x6_ea2132
+    oomp_key_simple: stanleyseow_svtmaker_1pin_3x6
+    original_filename: SVTmaker.pretty/1pin_3x6.kicad_mod
+    owner_name: stanleyseow
   oomp_key: oomp_stanleyseow_svtmaker_1pin_3x6
+  oomp_key_full: oomp_footprint_stanleyseow_svtmaker_1pin_3x6
   oomp_key_simple: stanleyseow_svtmaker_1pin_3x6
   owner: stanleyseow
   repo:

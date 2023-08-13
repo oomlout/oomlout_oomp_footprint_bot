@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/Iangitpers/4a
     oomp_bot: footprints/iangitpers_symbol_symbol_barrel_polarity/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/iangitpers_symbol_symbol_barrel_polarity/working
-    oomp_doc: footprints/footprints/Iangitpers/Symbol/Symbol_Barrel_Polarity/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Iangitpers/Symbol/Symbol_Barrel_Polarity/working
     oomp_src_flat: footprints_flat/footprints_flat/iangitpers_symbol_symbol_barrel_polarity/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/iangitpers_symbol_symbol_barrel_polarity/working
-    oomp_src_folder: footprints_folder/footprints_folder/Iangitpers/Symbol/Symbol_Barrel_Polarity/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Iangitpers/Symbol/Symbol_Barrel_Polarity/working
   name: 4a
+  oomp:
+    footprint_name: symbol_barrel_polarity
+    library_name: symbol
+    md5: 03a4717ced14d111e9889069e4a2a826
+    md5_10: 03a4717ced
+    md5_5: 03a47
+    md5_6: 03a471
+    oomp_key: oomp_iangitpers_symbol_symbol_barrel_polarity
+    oomp_key_extra: oomp_footprint_iangitpers_symbol_symbol_barrel_polarity
+    oomp_key_full: oomp_footprint_iangitpers_symbol_symbol_barrel_polarity_03a471
+    oomp_key_simple: iangitpers_symbol_symbol_barrel_polarity
+    original_filename: 4a/Symbol.pretty/Symbol_Barrel_Polarity.kicad_mod
+    owner_name: iangitpers
   oomp_key: oomp_iangitpers_symbol_symbol_barrel_polarity
+  oomp_key_full: oomp_footprint_iangitpers_symbol_symbol_barrel_polarity
   oomp_key_simple: iangitpers_symbol_symbol_barrel_polarity
   owner: Iangitpers
   repo:

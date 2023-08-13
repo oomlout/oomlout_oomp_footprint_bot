@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/natsfr_bga_bc_144_7/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/natsfr_bga_bc_144_7/working
-    oomp_doc: footprints/footprints/natsfr/BGA/BC-144-7/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/natsfr/BGA/BC-144-7/working
     oomp_src_flat: footprints_flat/footprints_flat/natsfr_bga_bc_144_7/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/natsfr_bga_bc_144_7/working
-    oomp_src_folder: footprints_folder/footprints_folder/natsfr/BGA/BC-144-7/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/natsfr/BGA/BC-144-7/working
   name: kicad-components
+  oomp:
+    footprint_name: bc_144_7
+    library_name: bga
+    md5: f00a90ccec84ab980c7f3a50c7d68e8a
+    md5_10: f00a90ccec
+    md5_5: f00a9
+    md5_6: f00a90
+    oomp_key: oomp_natsfr_bga_bc_144_7
+    oomp_key_extra: oomp_footprint_natsfr_bga_bc_144_7
+    oomp_key_full: oomp_footprint_natsfr_bga_bc_144_7_f00a90
+    oomp_key_simple: natsfr_bga_bc_144_7
+    original_filename: kicad-components/Pretty_Footprints/BGA.pretty/BC-144-7.kicad_mod
+    owner_name: natsfr
   oomp_key: oomp_natsfr_bga_bc_144_7
+  oomp_key_full: oomp_footprint_natsfr_bga_bc_144_7
   oomp_key_simple: natsfr_bga_bc_144_7
   owner: natsfr
   repo:

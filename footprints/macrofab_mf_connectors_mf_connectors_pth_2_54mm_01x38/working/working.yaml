@@ -14,14 +14,24 @@
     github_src_repo: https://github.com/MacroFab/EDALibraries
     oomp_bot: footprints/macrofab_mf_connectors_mf_connectors_pth_2_54mm_01x38/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/macrofab_mf_connectors_mf_connectors_pth_2_54mm_01x38/working
-    oomp_doc: footprints/footprints/MacroFab/MF_Connectors/MF_Connectors-PTH_2.54MM_01X38/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/MacroFab/MF_Connectors/MF_Connectors-PTH_2.54MM_01X38/working
     oomp_src_flat: footprints_flat/footprints_flat/macrofab_mf_connectors_mf_connectors_pth_2_54mm_01x38/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/macrofab_mf_connectors_mf_connectors_pth_2_54mm_01x38/working
-    oomp_src_folder: footprints_folder/footprints_folder/MacroFab/MF_Connectors/MF_Connectors-PTH_2.54MM_01X38/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/MacroFab/MF_Connectors/MF_Connectors-PTH_2.54MM_01X38/working
   name: EDALibraries
+  oomp:
+    footprint_name: mf_connectors_pth_2_54mm_01x38
+    library_name: mf_connectors
+    md5: 1d3a2c3003fd8eab9261463753bbddc7
+    md5_10: 1d3a2c3003
+    md5_5: 1d3a2
+    md5_6: 1d3a2c
+    oomp_key: oomp_macrofab_mf_connectors_mf_connectors_pth_2_54mm_01x38
+    oomp_key_extra: oomp_footprint_macrofab_mf_connectors_mf_connectors_pth_2_54mm_01x38
+    oomp_key_full: oomp_footprint_macrofab_mf_connectors_mf_connectors_pth_2_54mm_01x38_1d3a2c
+    oomp_key_simple: macrofab_mf_connectors_mf_connectors_pth_2_54mm_01x38
+    original_filename: EDALibraries/KiCad/Footprints/MF_Connectors.pretty/MF_Connectors-PTH_2.54MM_01X38.kicad_mod
+    owner_name: macrofab
   oomp_key: oomp_macrofab_mf_connectors_mf_connectors_pth_2_54mm_01x38
+  oomp_key_full: oomp_footprint_macrofab_mf_connectors_mf_connectors_pth_2_54mm_01x38
   oomp_key_simple: macrofab_mf_connectors_mf_connectors_pth_2_54mm_01x38
   owner: MacroFab
   repo:

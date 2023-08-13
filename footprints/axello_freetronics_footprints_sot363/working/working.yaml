@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/axello_freetronics_footprints_sot363/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/axello_freetronics_footprints_sot363/working
-    oomp_doc: footprints/footprints/axello/freetronics_footprints/SOT363/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/axello/freetronics_footprints/SOT363/working
     oomp_src_flat: footprints_flat/footprints_flat/axello_freetronics_footprints_sot363/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/axello_freetronics_footprints_sot363/working
-    oomp_src_folder: footprints_folder/footprints_folder/axello/freetronics_footprints/SOT363/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/axello/freetronics_footprints/SOT363/working
   name: kicad
+  oomp:
+    footprint_name: sot363
+    library_name: freetronics_footprints
+    md5: dec0d4c31920b76d0b6696b02bdfaf95
+    md5_10: dec0d4c319
+    md5_5: dec0d
+    md5_6: dec0d4
+    oomp_key: oomp_axello_freetronics_footprints_sot363
+    oomp_key_extra: oomp_footprint_axello_freetronics_footprints_sot363
+    oomp_key_full: oomp_footprint_axello_freetronics_footprints_sot363_dec0d4
+    oomp_key_simple: axello_freetronics_footprints_sot363
+    original_filename: kicad/mods/freetronics_footprints.pretty/SOT363.kicad_mod
+    owner_name: axello
   oomp_key: oomp_axello_freetronics_footprints_sot363
+  oomp_key_full: oomp_footprint_axello_freetronics_footprints_sot363
   oomp_key_simple: axello_freetronics_footprints_sot363
   owner: axello
   repo:

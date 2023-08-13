@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/benkev_mylib_doublepad/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/benkev_mylib_doublepad/working
-    oomp_doc: footprints/footprints/benkev/myLib/doublePAD/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/benkev/myLib/doublePAD/working
     oomp_src_flat: footprints_flat/footprints_flat/benkev_mylib_doublepad/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/benkev_mylib_doublepad/working
-    oomp_src_folder: footprints_folder/footprints_folder/benkev/myLib/doublePAD/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/benkev/myLib/doublePAD/working
   name: myLib.pretty
+  oomp:
+    footprint_name: doublepad
+    library_name: mylib
+    md5: 622597a2258e44e0dc80faa585e12edf
+    md5_10: 622597a225
+    md5_5: '62259'
+    md5_6: '622597'
+    oomp_key: oomp_benkev_mylib_doublepad
+    oomp_key_extra: oomp_footprint_benkev_mylib_doublepad
+    oomp_key_full: oomp_footprint_benkev_mylib_doublepad_622597
+    oomp_key_simple: benkev_mylib_doublepad
+    original_filename: myLib.pretty/doublePAD.kicad_mod
+    owner_name: benkev
   oomp_key: oomp_benkev_mylib_doublepad
+  oomp_key_full: oomp_footprint_benkev_mylib_doublepad
   oomp_key_simple: benkev_mylib_doublepad
   owner: benkev
   repo:

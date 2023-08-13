@@ -1,8 +1,5 @@
-- file: kiCAD.pretty/2512.kicad_mod
-  footprint:
-    description: null
-    libraryLink: 2512
-    number_of_pads: 2
+- error: expected string or bytes-like object, got 'int'
+  file: kiCAD.pretty/2512.kicad_mod
   footprint_library_directory: footprint_library_owner/kubiX89_kiCAD.pretty
   footprint_library_directory_flat: footprints_flat/kubix89_kicad_2512/working
   github_path: http://github.com/kubiX89/kiCAD.pretty/blob/master/2512.kicad_mod
@@ -13,14 +10,24 @@
     github_src_repo: https://github.com/kubiX89/kiCAD.pretty
     oomp_bot: footprints/kubix89_kicad_2512/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kubix89_kicad_2512/working
-    oomp_doc: footprints/footprints/kubiX89/kiCAD/2512/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kubiX89/kiCAD/2512/working
     oomp_src_flat: footprints_flat/footprints_flat/kubix89_kicad_2512/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kubix89_kicad_2512/working
-    oomp_src_folder: footprints_folder/footprints_folder/kubiX89/kiCAD/2512/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kubiX89/kiCAD/2512/working
   name: kiCAD.pretty
+  oomp:
+    footprint_name: '2512'
+    library_name: kicad
+    md5: e8cf2fe60d956e77137f2ed828da0634
+    md5_10: e8cf2fe60d
+    md5_5: e8cf2
+    md5_6: e8cf2f
+    oomp_key: oomp_kubix89_kicad_2512
+    oomp_key_extra: oomp_footprint_kubix89_kicad_2512
+    oomp_key_full: oomp_footprint_kubix89_kicad_2512_e8cf2f
+    oomp_key_simple: kubix89_kicad_2512
+    original_filename: kiCAD.pretty/2512.kicad_mod
+    owner_name: kubix89
   oomp_key: oomp_kubix89_kicad_2512
+  oomp_key_full: oomp_footprint_kubix89_kicad_2512
   oomp_key_simple: kubix89_kicad_2512
   owner: kubiX89
   repo:

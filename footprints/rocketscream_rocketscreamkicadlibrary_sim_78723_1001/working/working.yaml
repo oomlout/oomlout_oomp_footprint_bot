@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/rocketscream_rocketscreamkicadlibrary_sim_78723_1001/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/rocketscream_rocketscreamkicadlibrary_sim_78723_1001/working
-    oomp_doc: footprints/footprints/rocketscream/RocketScreamKicadLibrary/SIM-78723-1001/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/rocketscream/RocketScreamKicadLibrary/SIM-78723-1001/working
     oomp_src_flat: footprints_flat/footprints_flat/rocketscream_rocketscreamkicadlibrary_sim_78723_1001/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/rocketscream_rocketscreamkicadlibrary_sim_78723_1001/working
-    oomp_src_folder: footprints_folder/footprints_folder/rocketscream/RocketScreamKicadLibrary/SIM-78723-1001/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/rocketscream/RocketScreamKicadLibrary/SIM-78723-1001/working
   name: RocketScreamKicadLibrary
+  oomp:
+    footprint_name: sim_78723_1001
+    library_name: rocketscreamkicadlibrary
+    md5: a2a12d2bedae45e98895c2e9bde0e1ef
+    md5_10: a2a12d2bed
+    md5_5: a2a12
+    md5_6: a2a12d
+    oomp_key: oomp_rocketscream_rocketscreamkicadlibrary_sim_78723_1001
+    oomp_key_extra: oomp_footprint_rocketscream_rocketscreamkicadlibrary_sim_78723_1001
+    oomp_key_full: oomp_footprint_rocketscream_rocketscreamkicadlibrary_sim_78723_1001_a2a12d
+    oomp_key_simple: rocketscream_rocketscreamkicadlibrary_sim_78723_1001
+    original_filename: RocketScreamKicadLibrary/RocketScreamKicadLibrary.pretty/SIM-78723-1001.kicad_mod
+    owner_name: rocketscream
   oomp_key: oomp_rocketscream_rocketscreamkicadlibrary_sim_78723_1001
+  oomp_key_full: oomp_footprint_rocketscream_rocketscreamkicadlibrary_sim_78723_1001
   oomp_key_simple: rocketscream_rocketscreamkicadlibrary_sim_78723_1001
   owner: rocketscream
   repo:

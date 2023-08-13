@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/bsakatu_kicad_parts_bsakatu_cmf_tdk_acm2012_handsoldering/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/bsakatu_kicad_parts_bsakatu_cmf_tdk_acm2012_handsoldering/working
-    oomp_doc: footprints/footprints/bsakatu/kicad_parts_bsakatu/CMF_TDK_ACM2012_HandSoldering/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/bsakatu/kicad_parts_bsakatu/CMF_TDK_ACM2012_HandSoldering/working
     oomp_src_flat: footprints_flat/footprints_flat/bsakatu_kicad_parts_bsakatu_cmf_tdk_acm2012_handsoldering/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/bsakatu_kicad_parts_bsakatu_cmf_tdk_acm2012_handsoldering/working
-    oomp_src_folder: footprints_folder/footprints_folder/bsakatu/kicad_parts_bsakatu/CMF_TDK_ACM2012_HandSoldering/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/bsakatu/kicad_parts_bsakatu/CMF_TDK_ACM2012_HandSoldering/working
   name: kicad_parts_bsakatu.pretty
+  oomp:
+    footprint_name: cmf_tdk_acm2012_handsoldering
+    library_name: kicad_parts_bsakatu
+    md5: e5195c3145b0b62e8752064c863e7bfd
+    md5_10: e5195c3145
+    md5_5: e5195
+    md5_6: e5195c
+    oomp_key: oomp_bsakatu_kicad_parts_bsakatu_cmf_tdk_acm2012_handsoldering
+    oomp_key_extra: oomp_footprint_bsakatu_kicad_parts_bsakatu_cmf_tdk_acm2012_handsoldering
+    oomp_key_full: oomp_footprint_bsakatu_kicad_parts_bsakatu_cmf_tdk_acm2012_handsoldering_e5195c
+    oomp_key_simple: bsakatu_kicad_parts_bsakatu_cmf_tdk_acm2012_handsoldering
+    original_filename: kicad_parts_bsakatu.pretty/CMF_TDK_ACM2012_HandSoldering.kicad_mod
+    owner_name: bsakatu
   oomp_key: oomp_bsakatu_kicad_parts_bsakatu_cmf_tdk_acm2012_handsoldering
+  oomp_key_full: oomp_footprint_bsakatu_kicad_parts_bsakatu_cmf_tdk_acm2012_handsoldering
   oomp_key_simple: bsakatu_kicad_parts_bsakatu_cmf_tdk_acm2012_handsoldering
   owner: bsakatu
   repo:

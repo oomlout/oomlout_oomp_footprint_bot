@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/nppc_sc75_3_sc75_3/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nppc_sc75_3_sc75_3/working
-    oomp_doc: footprints/footprints/nppc/SC75-3.kicad_mod/SC75-3/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/nppc/SC75-3.kicad_mod/SC75-3/working
     oomp_src_flat: footprints_flat/footprints_flat/nppc_sc75_3_sc75_3/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nppc_sc75_3_sc75_3/working
-    oomp_src_folder: footprints_folder/footprints_folder/nppc/SC75-3.kicad_mod/SC75-3/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/nppc/SC75-3.kicad_mod/SC75-3/working
   name: KiCadCustomLibs
+  oomp:
+    footprint_name: sc75_3
+    library_name: sc75_3_kicad_mod
+    md5: b011608c12e8e57b44f13f68f04dd591
+    md5_10: b011608c12
+    md5_5: b0116
+    md5_6: b01160
+    oomp_key: oomp_nppc_sc75_3_sc75_3
+    oomp_key_extra: oomp_footprint_nppc_sc75_3_sc75_3
+    oomp_key_full: oomp_footprint_nppc_sc75_3_sc75_3_b01160
+    oomp_key_simple: nppc_sc75_3_sc75_3
+    original_filename: KiCadCustomLibs/SC75-3.kicad_mod
+    owner_name: nppc
   oomp_key: oomp_nppc_sc75_3_sc75_3
+  oomp_key_full: oomp_footprint_nppc_sc75_3_sc75_3
   oomp_key_simple: nppc_sc75_3_sc75_3
   owner: nppc
   repo:

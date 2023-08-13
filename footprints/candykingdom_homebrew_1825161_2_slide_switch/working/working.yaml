@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/candykingdom_homebrew_1825161_2_slide_switch/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/candykingdom_homebrew_1825161_2_slide_switch/working
-    oomp_doc: footprints/footprints/candykingdom/homebrew/1825161-2_slide_switch/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/candykingdom/homebrew/1825161-2_slide_switch/working
     oomp_src_flat: footprints_flat/footprints_flat/candykingdom_homebrew_1825161_2_slide_switch/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/candykingdom_homebrew_1825161_2_slide_switch/working
-    oomp_src_folder: footprints_folder/footprints_folder/candykingdom/homebrew/1825161-2_slide_switch/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/candykingdom/homebrew/1825161-2_slide_switch/working
   name: homebrew.pretty
+  oomp:
+    footprint_name: 1825161_2_slide_switch
+    library_name: homebrew
+    md5: 7568818e152bd2d60ff9ae7b8362aea4
+    md5_10: 7568818e15
+    md5_5: '75688'
+    md5_6: '756881'
+    oomp_key: oomp_candykingdom_homebrew_1825161_2_slide_switch
+    oomp_key_extra: oomp_footprint_candykingdom_homebrew_1825161_2_slide_switch
+    oomp_key_full: oomp_footprint_candykingdom_homebrew_1825161_2_slide_switch_756881
+    oomp_key_simple: candykingdom_homebrew_1825161_2_slide_switch
+    original_filename: homebrew.pretty/1825161-2_slide_switch.kicad_mod
+    owner_name: candykingdom
   oomp_key: oomp_candykingdom_homebrew_1825161_2_slide_switch
+  oomp_key_full: oomp_footprint_candykingdom_homebrew_1825161_2_slide_switch
   oomp_key_simple: candykingdom_homebrew_1825161_2_slide_switch
   owner: candykingdom
   repo:

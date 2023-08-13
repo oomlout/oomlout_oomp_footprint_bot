@@ -14,14 +14,24 @@
     github_src_repo: https://github.com/AcheronProject/acheron_Components.pretty
     oomp_bot: footprints/acheronproject_acheron_components_tqpf_44_10x10mm_p0_8mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/acheronproject_acheron_components_tqpf_44_10x10mm_p0_8mm/working
-    oomp_doc: footprints/footprints/AcheronProject/acheron_Components/TQPF-44_10x10mm_P0.8mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/AcheronProject/acheron_Components/TQPF-44_10x10mm_P0.8mm/working
     oomp_src_flat: footprints_flat/footprints_flat/acheronproject_acheron_components_tqpf_44_10x10mm_p0_8mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/acheronproject_acheron_components_tqpf_44_10x10mm_p0_8mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/AcheronProject/acheron_Components/TQPF-44_10x10mm_P0.8mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/AcheronProject/acheron_Components/TQPF-44_10x10mm_P0.8mm/working
   name: acheron_Components.pretty
+  oomp:
+    footprint_name: tqpf_44_10x10mm_p0_8mm
+    library_name: acheron_components
+    md5: 758966e961efa61a847dbe678fadc4ce
+    md5_10: 758966e961
+    md5_5: '75896'
+    md5_6: '758966'
+    oomp_key: oomp_acheronproject_acheron_components_tqpf_44_10x10mm_p0_8mm
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_components_tqpf_44_10x10mm_p0_8mm
+    oomp_key_full: oomp_footprint_acheronproject_acheron_components_tqpf_44_10x10mm_p0_8mm_758966
+    oomp_key_simple: acheronproject_acheron_components_tqpf_44_10x10mm_p0_8mm
+    original_filename: acheron_Components.pretty/TQPF-44_10x10mm_P0.8mm.kicad_mod
+    owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_components_tqpf_44_10x10mm_p0_8mm
+  oomp_key_full: oomp_footprint_acheronproject_acheron_components_tqpf_44_10x10mm_p0_8mm
   oomp_key_simple: acheronproject_acheron_components_tqpf_44_10x10mm_p0_8mm
   owner: AcheronProject
   repo:

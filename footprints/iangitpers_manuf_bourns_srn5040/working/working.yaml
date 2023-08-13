@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/Iangitpers/4a
     oomp_bot: footprints/iangitpers_manuf_bourns_srn5040/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/iangitpers_manuf_bourns_srn5040/working
-    oomp_doc: footprints/footprints/Iangitpers/manuf/BOURNS-SRN5040/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Iangitpers/manuf/BOURNS-SRN5040/working
     oomp_src_flat: footprints_flat/footprints_flat/iangitpers_manuf_bourns_srn5040/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/iangitpers_manuf_bourns_srn5040/working
-    oomp_src_folder: footprints_folder/footprints_folder/Iangitpers/manuf/BOURNS-SRN5040/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Iangitpers/manuf/BOURNS-SRN5040/working
   name: 4a
+  oomp:
+    footprint_name: bourns_srn5040
+    library_name: manuf
+    md5: d1e62e7aacd717c26d6b8ad352e13c1e
+    md5_10: d1e62e7aac
+    md5_5: d1e62
+    md5_6: d1e62e
+    oomp_key: oomp_iangitpers_manuf_bourns_srn5040
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_bourns_srn5040
+    oomp_key_full: oomp_footprint_iangitpers_manuf_bourns_srn5040_d1e62e
+    oomp_key_simple: iangitpers_manuf_bourns_srn5040
+    original_filename: 4a/manuf.pretty/BOURNS-SRN5040.kicad_mod
+    owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_bourns_srn5040
+  oomp_key_full: oomp_footprint_iangitpers_manuf_bourns_srn5040
   oomp_key_simple: iangitpers_manuf_bourns_srn5040
   owner: Iangitpers
   repo:

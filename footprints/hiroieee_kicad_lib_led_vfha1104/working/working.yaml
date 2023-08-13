@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/hiroieee_kicad_lib_led_vfha1104/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/hiroieee_kicad_lib_led_vfha1104/working
-    oomp_doc: footprints/footprints/hiroieee/kicad-lib/LED_VFHA1104/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/hiroieee/kicad-lib/LED_VFHA1104/working
     oomp_src_flat: footprints_flat/footprints_flat/hiroieee_kicad_lib_led_vfha1104/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/hiroieee_kicad_lib_led_vfha1104/working
-    oomp_src_folder: footprints_folder/footprints_folder/hiroieee/kicad-lib/LED_VFHA1104/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/hiroieee/kicad-lib/LED_VFHA1104/working
   name: kicad-lib.pretty
+  oomp:
+    footprint_name: led_vfha1104
+    library_name: kicad_lib
+    md5: b0c6741f7079cd08d8526aee0627b0a0
+    md5_10: b0c6741f70
+    md5_5: b0c67
+    md5_6: b0c674
+    oomp_key: oomp_hiroieee_kicad_lib_led_vfha1104
+    oomp_key_extra: oomp_footprint_hiroieee_kicad_lib_led_vfha1104
+    oomp_key_full: oomp_footprint_hiroieee_kicad_lib_led_vfha1104_b0c674
+    oomp_key_simple: hiroieee_kicad_lib_led_vfha1104
+    original_filename: kicad-lib.pretty/LED_VFHA1104.kicad_mod
+    owner_name: hiroieee
   oomp_key: oomp_hiroieee_kicad_lib_led_vfha1104
+  oomp_key_full: oomp_footprint_hiroieee_kicad_lib_led_vfha1104
   oomp_key_simple: hiroieee_kicad_lib_led_vfha1104
   owner: hiroieee
   repo:

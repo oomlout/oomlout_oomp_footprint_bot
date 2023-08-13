@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/joanthespark_esp_rs232_pin_header_angled_1x12/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/joanthespark_esp_rs232_pin_header_angled_1x12/working
-    oomp_doc: footprints/footprints/JoanTheSpark/ESP-RS232/Pin_Header_Angled_1x12/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/JoanTheSpark/ESP-RS232/Pin_Header_Angled_1x12/working
     oomp_src_flat: footprints_flat/footprints_flat/joanthespark_esp_rs232_pin_header_angled_1x12/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/joanthespark_esp_rs232_pin_header_angled_1x12/working
-    oomp_src_folder: footprints_folder/footprints_folder/JoanTheSpark/ESP-RS232/Pin_Header_Angled_1x12/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/JoanTheSpark/ESP-RS232/Pin_Header_Angled_1x12/working
   name: KiCAD
+  oomp:
+    footprint_name: pin_header_angled_1x12
+    library_name: esp_rs232
+    md5: 00df5262c6456ecdc9caa62c39ea55ec
+    md5_10: 00df5262c6
+    md5_5: 00df5
+    md5_6: 00df52
+    oomp_key: oomp_joanthespark_esp_rs232_pin_header_angled_1x12
+    oomp_key_extra: oomp_footprint_joanthespark_esp_rs232_pin_header_angled_1x12
+    oomp_key_full: oomp_footprint_joanthespark_esp_rs232_pin_header_angled_1x12_00df52
+    oomp_key_simple: joanthespark_esp_rs232_pin_header_angled_1x12
+    original_filename: KiCAD/mods/ESP-RS232.pretty/Pin_Header_Angled_1x12.kicad_mod
+    owner_name: joanthespark
   oomp_key: oomp_joanthespark_esp_rs232_pin_header_angled_1x12
+  oomp_key_full: oomp_footprint_joanthespark_esp_rs232_pin_header_angled_1x12
   oomp_key_simple: joanthespark_esp_rs232_pin_header_angled_1x12
   owner: JoanTheSpark
   repo:

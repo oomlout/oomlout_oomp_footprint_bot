@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_swpa5040_swpa5040/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_swpa5040_swpa5040/working
-    oomp_doc: footprints/footprints/brunoeagle/SWPA5040.kicad_mod/SWPA5040/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/SWPA5040.kicad_mod/SWPA5040/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_swpa5040_swpa5040/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_swpa5040_swpa5040/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/SWPA5040.kicad_mod/SWPA5040/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/SWPA5040.kicad_mod/SWPA5040/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: swpa5040
+    library_name: swpa5040_kicad_mod
+    md5: 35da3b2ccc0ea4c584097c7b65628249
+    md5_10: 35da3b2ccc
+    md5_5: 35da3
+    md5_6: 35da3b
+    oomp_key: oomp_brunoeagle_swpa5040_swpa5040
+    oomp_key_extra: oomp_footprint_brunoeagle_swpa5040_swpa5040
+    oomp_key_full: oomp_footprint_brunoeagle_swpa5040_swpa5040_35da3b
+    oomp_key_simple: brunoeagle_swpa5040_swpa5040
+    original_filename: kicad-open-modules/SWPA5040.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_swpa5040_swpa5040
+  oomp_key_full: oomp_footprint_brunoeagle_swpa5040_swpa5040
   oomp_key_simple: brunoeagle_swpa5040_swpa5040
   owner: brunoeagle
   repo:

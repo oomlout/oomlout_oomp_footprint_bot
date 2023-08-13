@@ -12,17 +12,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_resistor_tht_r_radial_power_l9_0mm_w10_0mm_px2_70mm_py2_30mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_resistor_tht_r_radial_power_l9_0mm_w10_0mm_px2_70mm_py2_30mm/working
-    oomp_doc: footprints/footprints/kicad/Resistor_THT/R_Radial_Power_L9.0mm_W10.0mm_Px2.70mm_Py2.30mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Resistor_THT/R_Radial_Power_L9.0mm_W10.0mm_Px2.70mm_Py2.30mm/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_resistor_tht_r_radial_power_l9_0mm_w10_0mm_px2_70mm_py2_30mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_resistor_tht_r_radial_power_l9_0mm_w10_0mm_px2_70mm_py2_30mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Resistor_THT/R_Radial_Power_L9.0mm_W10.0mm_Px2.70mm_Py2.30mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Resistor_THT/R_Radial_Power_L9.0mm_W10.0mm_Px2.70mm_Py2.30mm/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: r_radial_power_l9_0mm_w10_0mm_px2_70mm_py2_30mm
+    library_name: resistor_tht
+    md5: 060449cd0cb56f5efefef4a131d9f7ee
+    md5_10: 060449cd0c
+    md5_5: '06044'
+    md5_6: 060449
+    oomp_key: oomp_kicad_resistor_tht_r_radial_power_l9_0mm_w10_0mm_px2_70mm_py2_30mm
+    oomp_key_extra: oomp_footprint_kicad_resistor_tht_r_radial_power_l9_0mm_w10_0mm_px2_70mm_py2_30mm
+    oomp_key_full: oomp_footprint_kicad_resistor_tht_r_radial_power_l9_0mm_w10_0mm_px2_70mm_py2_30mm_060449
+    oomp_key_simple: kicad_resistor_tht_r_radial_power_l9_0mm_w10_0mm_px2_70mm_py2_30mm
+    original_filename: libraries/kicad-footprints/Resistor_THT.pretty/R_Radial_Power_L9.0mm_W10.0mm_Px2.70mm_Py2.30mm.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_resistor_tht_r_radial_power_l9_0mm_w10_0mm_px2_70mm_py2_30mm
+  oomp_key_full: oomp_footprint_kicad_resistor_tht_r_radial_power_l9_0mm_w10_0mm_px2_70mm_py2_30mm
   oomp_key_simple: kicad_resistor_tht_r_radial_power_l9_0mm_w10_0mm_px2_70mm_py2_30mm
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

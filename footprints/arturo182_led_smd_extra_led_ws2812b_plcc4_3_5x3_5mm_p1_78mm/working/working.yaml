@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/arturo182/kicad-modules
     oomp_bot: footprints/arturo182_led_smd_extra_led_ws2812b_plcc4_3_5x3_5mm_p1_78mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/arturo182_led_smd_extra_led_ws2812b_plcc4_3_5x3_5mm_p1_78mm/working
-    oomp_doc: footprints/footprints/arturo182/LED_SMD_Extra/LED_WS2812B_PLCC4_3.5x3.5mm_P1.78mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/arturo182/LED_SMD_Extra/LED_WS2812B_PLCC4_3.5x3.5mm_P1.78mm/working
     oomp_src_flat: footprints_flat/footprints_flat/arturo182_led_smd_extra_led_ws2812b_plcc4_3_5x3_5mm_p1_78mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/arturo182_led_smd_extra_led_ws2812b_plcc4_3_5x3_5mm_p1_78mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/arturo182/LED_SMD_Extra/LED_WS2812B_PLCC4_3.5x3.5mm_P1.78mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/arturo182/LED_SMD_Extra/LED_WS2812B_PLCC4_3.5x3.5mm_P1.78mm/working
   name: kicad-modules
+  oomp:
+    footprint_name: led_ws2812b_plcc4_3_5x3_5mm_p1_78mm
+    library_name: led_smd_extra
+    md5: cbda10011e8d60fde8438931e0fb5309
+    md5_10: cbda10011e
+    md5_5: cbda1
+    md5_6: cbda10
+    oomp_key: oomp_arturo182_led_smd_extra_led_ws2812b_plcc4_3_5x3_5mm_p1_78mm
+    oomp_key_extra: oomp_footprint_arturo182_led_smd_extra_led_ws2812b_plcc4_3_5x3_5mm_p1_78mm
+    oomp_key_full: oomp_footprint_arturo182_led_smd_extra_led_ws2812b_plcc4_3_5x3_5mm_p1_78mm_cbda10
+    oomp_key_simple: arturo182_led_smd_extra_led_ws2812b_plcc4_3_5x3_5mm_p1_78mm
+    original_filename: kicad-modules/LED_SMD_Extra.pretty/LED_WS2812B_PLCC4_3.5x3.5mm_P1.78mm.kicad_mod
+    owner_name: arturo182
   oomp_key: oomp_arturo182_led_smd_extra_led_ws2812b_plcc4_3_5x3_5mm_p1_78mm
+  oomp_key_full: oomp_footprint_arturo182_led_smd_extra_led_ws2812b_plcc4_3_5x3_5mm_p1_78mm
   oomp_key_simple: arturo182_led_smd_extra_led_ws2812b_plcc4_3_5x3_5mm_p1_78mm
   owner: arturo182
   repo:

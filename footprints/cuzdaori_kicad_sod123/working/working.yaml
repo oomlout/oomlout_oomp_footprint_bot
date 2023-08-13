@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cuzdaori_kicad_sod123/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cuzdaori_kicad_sod123/working
-    oomp_doc: footprints/footprints/cuzdaori/KiCad/SOD123/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cuzdaori/KiCad/SOD123/working
     oomp_src_flat: footprints_flat/footprints_flat/cuzdaori_kicad_sod123/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cuzdaori_kicad_sod123/working
-    oomp_src_folder: footprints_folder/footprints_folder/cuzdaori/KiCad/SOD123/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cuzdaori/KiCad/SOD123/working
   name: KiCad.pretty
+  oomp:
+    footprint_name: sod123
+    library_name: kicad
+    md5: d1e06a9cc31e9c580545edc8be348daa
+    md5_10: d1e06a9cc3
+    md5_5: d1e06
+    md5_6: d1e06a
+    oomp_key: oomp_cuzdaori_kicad_sod123
+    oomp_key_extra: oomp_footprint_cuzdaori_kicad_sod123
+    oomp_key_full: oomp_footprint_cuzdaori_kicad_sod123_d1e06a
+    oomp_key_simple: cuzdaori_kicad_sod123
+    original_filename: KiCad.pretty/SOD123.kicad_mod
+    owner_name: cuzdaori
   oomp_key: oomp_cuzdaori_kicad_sod123
+  oomp_key_full: oomp_footprint_cuzdaori_kicad_sod123
   oomp_key_simple: cuzdaori_kicad_sod123
   owner: cuzdaori
   repo:

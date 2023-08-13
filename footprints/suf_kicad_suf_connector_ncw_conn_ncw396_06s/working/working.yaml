@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/suf_kicad_suf_connector_ncw_conn_ncw396_06s/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/suf_kicad_suf_connector_ncw_conn_ncw396_06s/working
-    oomp_doc: footprints/footprints/suf-KiCAD/suf_connector_ncw/CONN_NCW396-06S/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/suf-KiCAD/suf_connector_ncw/CONN_NCW396-06S/working
     oomp_src_flat: footprints_flat/footprints_flat/suf_kicad_suf_connector_ncw_conn_ncw396_06s/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/suf_kicad_suf_connector_ncw_conn_ncw396_06s/working
-    oomp_src_folder: footprints_folder/footprints_folder/suf-KiCAD/suf_connector_ncw/CONN_NCW396-06S/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/suf-KiCAD/suf_connector_ncw/CONN_NCW396-06S/working
   name: suf_connector_ncw.pretty
+  oomp:
+    footprint_name: conn_ncw396_06s
+    library_name: suf_connector_ncw
+    md5: 5d119a21bc9de6f72b5e40a943d533c3
+    md5_10: 5d119a21bc
+    md5_5: 5d119
+    md5_6: 5d119a
+    oomp_key: oomp_suf_kicad_suf_connector_ncw_conn_ncw396_06s
+    oomp_key_extra: oomp_footprint_suf_kicad_suf_connector_ncw_conn_ncw396_06s
+    oomp_key_full: oomp_footprint_suf_kicad_suf_connector_ncw_conn_ncw396_06s_5d119a
+    oomp_key_simple: suf_kicad_suf_connector_ncw_conn_ncw396_06s
+    original_filename: suf_connector_ncw.pretty/CONN_NCW396-06S.kicad_mod
+    owner_name: suf_kicad
   oomp_key: oomp_suf_kicad_suf_connector_ncw_conn_ncw396_06s
+  oomp_key_full: oomp_footprint_suf_kicad_suf_connector_ncw_conn_ncw396_06s
   oomp_key_simple: suf_kicad_suf_connector_ncw_conn_ncw396_06s
   owner: suf-KiCAD
   repo:

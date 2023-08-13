@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/fruchti_conn_st_3_5mm_small/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/fruchti_conn_st_3_5mm_small/working
-    oomp_doc: footprints/footprints/fruchti/conn/ST_3_5mm_SMALL/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/fruchti/conn/ST_3_5mm_SMALL/working
     oomp_src_flat: footprints_flat/footprints_flat/fruchti_conn_st_3_5mm_small/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/fruchti_conn_st_3_5mm_small/working
-    oomp_src_folder: footprints_folder/footprints_folder/fruchti/conn/ST_3_5mm_SMALL/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/fruchti/conn/ST_3_5mm_SMALL/working
   name: fruchtilib
+  oomp:
+    footprint_name: st_3_5mm_small
+    library_name: conn
+    md5: 10e45c9c805488c47158b657fcda88ae
+    md5_10: 10e45c9c80
+    md5_5: 10e45
+    md5_6: 10e45c
+    oomp_key: oomp_fruchti_conn_st_3_5mm_small
+    oomp_key_extra: oomp_footprint_fruchti_conn_st_3_5mm_small
+    oomp_key_full: oomp_footprint_fruchti_conn_st_3_5mm_small_10e45c
+    oomp_key_simple: fruchti_conn_st_3_5mm_small
+    original_filename: fruchtilib/mod/conn.pretty/ST_3_5mm_SMALL.kicad_mod
+    owner_name: fruchti
   oomp_key: oomp_fruchti_conn_st_3_5mm_small
+  oomp_key_full: oomp_footprint_fruchti_conn_st_3_5mm_small
   oomp_key_simple: fruchti_conn_st_3_5mm_small
   owner: fruchti
   repo:

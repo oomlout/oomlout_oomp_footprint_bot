@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/benkev_mylib_r_18mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/benkev_mylib_r_18mm/working
-    oomp_doc: footprints/footprints/benkev/myLib/R_18mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/benkev/myLib/R_18mm/working
     oomp_src_flat: footprints_flat/footprints_flat/benkev_mylib_r_18mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/benkev_mylib_r_18mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/benkev/myLib/R_18mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/benkev/myLib/R_18mm/working
   name: myLib.pretty
+  oomp:
+    footprint_name: r_18mm
+    library_name: mylib
+    md5: 664b0fa9ba22ae731949ea3c50b32d57
+    md5_10: 664b0fa9ba
+    md5_5: 664b0
+    md5_6: 664b0f
+    oomp_key: oomp_benkev_mylib_r_18mm
+    oomp_key_extra: oomp_footprint_benkev_mylib_r_18mm
+    oomp_key_full: oomp_footprint_benkev_mylib_r_18mm_664b0f
+    oomp_key_simple: benkev_mylib_r_18mm
+    original_filename: myLib.pretty/R_18mm.kicad_mod
+    owner_name: benkev
   oomp_key: oomp_benkev_mylib_r_18mm
+  oomp_key_full: oomp_footprint_benkev_mylib_r_18mm
   oomp_key_simple: benkev_mylib_r_18mm
   owner: benkev
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pelrun_w_logo_logo_copper_ce_10x7_2mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pelrun_w_logo_logo_copper_ce_10x7_2mm/working
-    oomp_doc: footprints/footprints/pelrun/w_logo/Logo_copper_CE_10x7.2mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/pelrun/w_logo/Logo_copper_CE_10x7.2mm/working
     oomp_src_flat: footprints_flat/footprints_flat/pelrun_w_logo_logo_copper_ce_10x7_2mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pelrun_w_logo_logo_copper_ce_10x7_2mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/pelrun/w_logo/Logo_copper_CE_10x7.2mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/pelrun/w_logo/Logo_copper_CE_10x7.2mm/working
   name: libKiCad
+  oomp:
+    footprint_name: logo_copper_ce_10x7_2mm
+    library_name: w_logo
+    md5: 95d4ab7f3c9e00870a3bd85cd3f5e4ca
+    md5_10: 95d4ab7f3c
+    md5_5: 95d4a
+    md5_6: 95d4ab
+    oomp_key: oomp_pelrun_w_logo_logo_copper_ce_10x7_2mm
+    oomp_key_extra: oomp_footprint_pelrun_w_logo_logo_copper_ce_10x7_2mm
+    oomp_key_full: oomp_footprint_pelrun_w_logo_logo_copper_ce_10x7_2mm_95d4ab
+    oomp_key_simple: pelrun_w_logo_logo_copper_ce_10x7_2mm
+    original_filename: libKiCad/footprint/w_logo.pretty/Logo_copper_CE_10x7.2mm.kicad_mod
+    owner_name: pelrun
   oomp_key: oomp_pelrun_w_logo_logo_copper_ce_10x7_2mm
+  oomp_key_full: oomp_footprint_pelrun_w_logo_logo_copper_ce_10x7_2mm
   oomp_key_simple: pelrun_w_logo_logo_copper_ce_10x7_2mm
   owner: pelrun
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/olimex_freetronics_footprints_sot23_fet/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/olimex_freetronics_footprints_sot23_fet/working
-    oomp_doc: footprints/footprints/OLIMEX/freetronics_footprints/SOT23_FET/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/OLIMEX/freetronics_footprints/SOT23_FET/working
     oomp_src_flat: footprints_flat/footprints_flat/olimex_freetronics_footprints_sot23_fet/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/olimex_freetronics_footprints_sot23_fet/working
-    oomp_src_folder: footprints_folder/footprints_folder/OLIMEX/freetronics_footprints/SOT23_FET/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/OLIMEX/freetronics_footprints/SOT23_FET/working
   name: KiCAD
+  oomp:
+    footprint_name: sot23_fet
+    library_name: freetronics_footprints
+    md5: 571967d394235135ebb76d5a945b7ea4
+    md5_10: 571967d394
+    md5_5: '57196'
+    md5_6: '571967'
+    oomp_key: oomp_olimex_freetronics_footprints_sot23_fet
+    oomp_key_extra: oomp_footprint_olimex_freetronics_footprints_sot23_fet
+    oomp_key_full: oomp_footprint_olimex_freetronics_footprints_sot23_fet_571967
+    oomp_key_simple: olimex_freetronics_footprints_sot23_fet
+    original_filename: KiCAD/mods/freetronics_footprints.pretty/SOT23_FET.kicad_mod
+    owner_name: olimex
   oomp_key: oomp_olimex_freetronics_footprints_sot23_fet
+  oomp_key_full: oomp_footprint_olimex_freetronics_footprints_sot23_fet
   oomp_key_simple: olimex_freetronics_footprints_sot23_fet
   owner: OLIMEX
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/stanleyseow_svtmaker_sk6812mini_e/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stanleyseow_svtmaker_sk6812mini_e/working
-    oomp_doc: footprints/footprints/stanleyseow/SVTmaker/SK6812mini-E/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/stanleyseow/SVTmaker/SK6812mini-E/working
     oomp_src_flat: footprints_flat/footprints_flat/stanleyseow_svtmaker_sk6812mini_e/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/stanleyseow_svtmaker_sk6812mini_e/working
-    oomp_src_folder: footprints_folder/footprints_folder/stanleyseow/SVTmaker/SK6812mini-E/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/stanleyseow/SVTmaker/SK6812mini-E/working
   name: SVTmaker.pretty
+  oomp:
+    footprint_name: sk6812mini_e
+    library_name: svtmaker
+    md5: a43965333c5092fc64a767c5b7dd0928
+    md5_10: a43965333c
+    md5_5: a4396
+    md5_6: a43965
+    oomp_key: oomp_stanleyseow_svtmaker_sk6812mini_e
+    oomp_key_extra: oomp_footprint_stanleyseow_svtmaker_sk6812mini_e
+    oomp_key_full: oomp_footprint_stanleyseow_svtmaker_sk6812mini_e_a43965
+    oomp_key_simple: stanleyseow_svtmaker_sk6812mini_e
+    original_filename: SVTmaker.pretty/SK6812mini-E.kicad_mod
+    owner_name: stanleyseow
   oomp_key: oomp_stanleyseow_svtmaker_sk6812mini_e
+  oomp_key_full: oomp_footprint_stanleyseow_svtmaker_sk6812mini_e
   oomp_key_simple: stanleyseow_svtmaker_sk6812mini_e
   owner: stanleyseow
   repo:

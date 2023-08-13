@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/kubiX89/kiCAD.pretty
     oomp_bot: footprints/kubix89_kicad_conn_rf_n_ra_pcb/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kubix89_kicad_conn_rf_n_ra_pcb/working
-    oomp_doc: footprints/footprints/kubiX89/kiCAD/CONN_RF_N_RA_PCB/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kubiX89/kiCAD/CONN_RF_N_RA_PCB/working
     oomp_src_flat: footprints_flat/footprints_flat/kubix89_kicad_conn_rf_n_ra_pcb/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kubix89_kicad_conn_rf_n_ra_pcb/working
-    oomp_src_folder: footprints_folder/footprints_folder/kubiX89/kiCAD/CONN_RF_N_RA_PCB/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kubiX89/kiCAD/CONN_RF_N_RA_PCB/working
   name: kiCAD.pretty
+  oomp:
+    footprint_name: conn_rf_n_ra_pcb
+    library_name: kicad
+    md5: 77b34ea73fae94c6cbfb7ee991014460
+    md5_10: 77b34ea73f
+    md5_5: 77b34
+    md5_6: 77b34e
+    oomp_key: oomp_kubix89_kicad_conn_rf_n_ra_pcb
+    oomp_key_extra: oomp_footprint_kubix89_kicad_conn_rf_n_ra_pcb
+    oomp_key_full: oomp_footprint_kubix89_kicad_conn_rf_n_ra_pcb_77b34e
+    oomp_key_simple: kubix89_kicad_conn_rf_n_ra_pcb
+    original_filename: kiCAD.pretty/CONN_RF_N_RA_PCB.kicad_mod
+    owner_name: kubix89
   oomp_key: oomp_kubix89_kicad_conn_rf_n_ra_pcb
+  oomp_key_full: oomp_footprint_kubix89_kicad_conn_rf_n_ra_pcb
   oomp_key_simple: kubix89_kicad_conn_rf_n_ra_pcb
   owner: kubiX89
   repo:

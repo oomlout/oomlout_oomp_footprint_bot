@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/celeritous_kicad_ac_dc_6w/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/celeritous_kicad_ac_dc_6w/working
-    oomp_doc: footprints/footprints/celeritous/KiCad/AC_DC_6W/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/celeritous/KiCad/AC_DC_6W/working
     oomp_src_flat: footprints_flat/footprints_flat/celeritous_kicad_ac_dc_6w/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/celeritous_kicad_ac_dc_6w/working
-    oomp_src_folder: footprints_folder/footprints_folder/celeritous/KiCad/AC_DC_6W/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/celeritous/KiCad/AC_DC_6W/working
   name: KiCad.pretty
+  oomp:
+    footprint_name: ac_dc_6w
+    library_name: kicad
+    md5: fafced40ef79efc9d1f102d447f96c48
+    md5_10: fafced40ef
+    md5_5: fafce
+    md5_6: fafced
+    oomp_key: oomp_celeritous_kicad_ac_dc_6w
+    oomp_key_extra: oomp_footprint_celeritous_kicad_ac_dc_6w
+    oomp_key_full: oomp_footprint_celeritous_kicad_ac_dc_6w_fafced
+    oomp_key_simple: celeritous_kicad_ac_dc_6w
+    original_filename: KiCad.pretty/AC_DC_6W.kicad_mod
+    owner_name: celeritous
   oomp_key: oomp_celeritous_kicad_ac_dc_6w
+  oomp_key_full: oomp_footprint_celeritous_kicad_ac_dc_6w
   oomp_key_simple: celeritous_kicad_ac_dc_6w
   owner: celeritous
   repo:

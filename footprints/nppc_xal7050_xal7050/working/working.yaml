@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/nppc_xal7050_xal7050/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nppc_xal7050_xal7050/working
-    oomp_doc: footprints/footprints/nppc/XAL7050.kicad_mod/XAL7050/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/nppc/XAL7050.kicad_mod/XAL7050/working
     oomp_src_flat: footprints_flat/footprints_flat/nppc_xal7050_xal7050/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nppc_xal7050_xal7050/working
-    oomp_src_folder: footprints_folder/footprints_folder/nppc/XAL7050.kicad_mod/XAL7050/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/nppc/XAL7050.kicad_mod/XAL7050/working
   name: KiCadCustomLibs
+  oomp:
+    footprint_name: xal7050
+    library_name: xal7050_kicad_mod
+    md5: 7487b14fa241b4633efedb242fc305e5
+    md5_10: 7487b14fa2
+    md5_5: 7487b
+    md5_6: 7487b1
+    oomp_key: oomp_nppc_xal7050_xal7050
+    oomp_key_extra: oomp_footprint_nppc_xal7050_xal7050
+    oomp_key_full: oomp_footprint_nppc_xal7050_xal7050_7487b1
+    oomp_key_simple: nppc_xal7050_xal7050
+    original_filename: KiCadCustomLibs/XAL7050.kicad_mod
+    owner_name: nppc
   oomp_key: oomp_nppc_xal7050_xal7050
+  oomp_key_full: oomp_footprint_nppc_xal7050_xal7050
   oomp_key_simple: nppc_xal7050_xal7050
   owner: nppc
   repo:

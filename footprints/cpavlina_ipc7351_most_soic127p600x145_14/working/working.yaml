@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cpavlina_ipc7351_most_soic127p600x145_14/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cpavlina_ipc7351_most_soic127p600x145_14/working
-    oomp_doc: footprints/footprints/cpavlina/IPC7351-Most/SOIC127P600X145-14/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cpavlina/IPC7351-Most/SOIC127P600X145-14/working
     oomp_src_flat: footprints_flat/footprints_flat/cpavlina_ipc7351_most_soic127p600x145_14/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cpavlina_ipc7351_most_soic127p600x145_14/working
-    oomp_src_folder: footprints_folder/footprints_folder/cpavlina/IPC7351-Most/SOIC127P600X145-14/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cpavlina/IPC7351-Most/SOIC127P600X145-14/working
   name: kicad-pcblib
+  oomp:
+    footprint_name: soic127p600x145_14
+    library_name: ipc7351_most
+    md5: 41cbabd793816d322c3a3502adad9b8e
+    md5_10: 41cbabd793
+    md5_5: 41cba
+    md5_6: 41cbab
+    oomp_key: oomp_cpavlina_ipc7351_most_soic127p600x145_14
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_most_soic127p600x145_14
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_soic127p600x145_14_41cbab
+    oomp_key_simple: cpavlina_ipc7351_most_soic127p600x145_14
+    original_filename: kicad-pcblib/IPC7351-Most.pretty/SOIC127P600X145-14.kicad_mod
+    owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_most_soic127p600x145_14
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_soic127p600x145_14
   oomp_key_simple: cpavlina_ipc7351_most_soic127p600x145_14
   owner: cpavlina
   repo:

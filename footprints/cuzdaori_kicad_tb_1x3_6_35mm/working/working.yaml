@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cuzdaori_kicad_tb_1x3_6_35mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cuzdaori_kicad_tb_1x3_6_35mm/working
-    oomp_doc: footprints/footprints/cuzdaori/KiCad/TB_1x3_6.35mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cuzdaori/KiCad/TB_1x3_6.35mm/working
     oomp_src_flat: footprints_flat/footprints_flat/cuzdaori_kicad_tb_1x3_6_35mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cuzdaori_kicad_tb_1x3_6_35mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/cuzdaori/KiCad/TB_1x3_6.35mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cuzdaori/KiCad/TB_1x3_6.35mm/working
   name: KiCad.pretty
+  oomp:
+    footprint_name: tb_1x3_6_35mm
+    library_name: kicad
+    md5: aac1c22e0d73216e67c59298f25bc4ca
+    md5_10: aac1c22e0d
+    md5_5: aac1c
+    md5_6: aac1c2
+    oomp_key: oomp_cuzdaori_kicad_tb_1x3_6_35mm
+    oomp_key_extra: oomp_footprint_cuzdaori_kicad_tb_1x3_6_35mm
+    oomp_key_full: oomp_footprint_cuzdaori_kicad_tb_1x3_6_35mm_aac1c2
+    oomp_key_simple: cuzdaori_kicad_tb_1x3_6_35mm
+    original_filename: KiCad.pretty/TB_1x3_6.35mm.kicad_mod
+    owner_name: cuzdaori
   oomp_key: oomp_cuzdaori_kicad_tb_1x3_6_35mm
+  oomp_key_full: oomp_footprint_cuzdaori_kicad_tb_1x3_6_35mm
   oomp_key_simple: cuzdaori_kicad_tb_1x3_6_35mm
   owner: cuzdaori
   repo:

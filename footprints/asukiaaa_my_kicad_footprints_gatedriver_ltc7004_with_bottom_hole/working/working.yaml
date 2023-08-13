@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/asukiaaa_my_kicad_footprints_gatedriver_ltc7004_with_bottom_hole/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/asukiaaa_my_kicad_footprints_gatedriver_ltc7004_with_bottom_hole/working
-    oomp_doc: footprints/footprints/asukiaaa/my-kicad-footprints/GateDriver_LTC7004_with_bottom_hole/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/asukiaaa/my-kicad-footprints/GateDriver_LTC7004_with_bottom_hole/working
     oomp_src_flat: footprints_flat/footprints_flat/asukiaaa_my_kicad_footprints_gatedriver_ltc7004_with_bottom_hole/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/asukiaaa_my_kicad_footprints_gatedriver_ltc7004_with_bottom_hole/working
-    oomp_src_folder: footprints_folder/footprints_folder/asukiaaa/my-kicad-footprints/GateDriver_LTC7004_with_bottom_hole/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/asukiaaa/my-kicad-footprints/GateDriver_LTC7004_with_bottom_hole/working
   name: my-kicad-footprints.pretty
+  oomp:
+    footprint_name: gatedriver_ltc7004_with_bottom_hole
+    library_name: my_kicad_footprints
+    md5: 4a2fbb3e603eefb155a235b9ed95f3fa
+    md5_10: 4a2fbb3e60
+    md5_5: 4a2fb
+    md5_6: 4a2fbb
+    oomp_key: oomp_asukiaaa_my_kicad_footprints_gatedriver_ltc7004_with_bottom_hole
+    oomp_key_extra: oomp_footprint_asukiaaa_my_kicad_footprints_gatedriver_ltc7004_with_bottom_hole
+    oomp_key_full: oomp_footprint_asukiaaa_my_kicad_footprints_gatedriver_ltc7004_with_bottom_hole_4a2fbb
+    oomp_key_simple: asukiaaa_my_kicad_footprints_gatedriver_ltc7004_with_bottom_hole
+    original_filename: my-kicad-footprints.pretty/GateDriver_LTC7004_with_bottom_hole.kicad_mod
+    owner_name: asukiaaa
   oomp_key: oomp_asukiaaa_my_kicad_footprints_gatedriver_ltc7004_with_bottom_hole
+  oomp_key_full: oomp_footprint_asukiaaa_my_kicad_footprints_gatedriver_ltc7004_with_bottom_hole
   oomp_key_simple: asukiaaa_my_kicad_footprints_gatedriver_ltc7004_with_bottom_hole
   owner: asukiaaa
   repo:

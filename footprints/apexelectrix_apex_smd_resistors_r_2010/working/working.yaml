@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/apexelectrix/apex-smd-resistors.pretty
     oomp_bot: footprints/apexelectrix_apex_smd_resistors_r_2010/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/apexelectrix_apex_smd_resistors_r_2010/working
-    oomp_doc: footprints/footprints/apexelectrix/apex-smd-resistors/R_2010/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/apexelectrix/apex-smd-resistors/R_2010/working
     oomp_src_flat: footprints_flat/footprints_flat/apexelectrix_apex_smd_resistors_r_2010/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/apexelectrix_apex_smd_resistors_r_2010/working
-    oomp_src_folder: footprints_folder/footprints_folder/apexelectrix/apex-smd-resistors/R_2010/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/apexelectrix/apex-smd-resistors/R_2010/working
   name: apex-smd-resistors.pretty
+  oomp:
+    footprint_name: r_2010
+    library_name: apex_smd_resistors
+    md5: 13401c265a28f108d0699d9e6d0ce127
+    md5_10: 13401c265a
+    md5_5: '13401'
+    md5_6: 13401c
+    oomp_key: oomp_apexelectrix_apex_smd_resistors_r_2010
+    oomp_key_extra: oomp_footprint_apexelectrix_apex_smd_resistors_r_2010
+    oomp_key_full: oomp_footprint_apexelectrix_apex_smd_resistors_r_2010_13401c
+    oomp_key_simple: apexelectrix_apex_smd_resistors_r_2010
+    original_filename: apex-smd-resistors.pretty/R_2010.kicad_mod
+    owner_name: apexelectrix
   oomp_key: oomp_apexelectrix_apex_smd_resistors_r_2010
+  oomp_key_full: oomp_footprint_apexelectrix_apex_smd_resistors_r_2010
   oomp_key_simple: apexelectrix_apex_smd_resistors_r_2010
   owner: apexelectrix
   repo:

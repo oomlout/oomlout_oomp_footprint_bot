@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/fruchti_conn_pss254_10g/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/fruchti_conn_pss254_10g/working
-    oomp_doc: footprints/footprints/fruchti/conn/PSS254-10G/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/fruchti/conn/PSS254-10G/working
     oomp_src_flat: footprints_flat/footprints_flat/fruchti_conn_pss254_10g/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/fruchti_conn_pss254_10g/working
-    oomp_src_folder: footprints_folder/footprints_folder/fruchti/conn/PSS254-10G/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/fruchti/conn/PSS254-10G/working
   name: fruchtilib
+  oomp:
+    footprint_name: pss254_10g
+    library_name: conn
+    md5: a608d82de569b68d1feb4dd9eca96f52
+    md5_10: a608d82de5
+    md5_5: a608d
+    md5_6: a608d8
+    oomp_key: oomp_fruchti_conn_pss254_10g
+    oomp_key_extra: oomp_footprint_fruchti_conn_pss254_10g
+    oomp_key_full: oomp_footprint_fruchti_conn_pss254_10g_a608d8
+    oomp_key_simple: fruchti_conn_pss254_10g
+    original_filename: fruchtilib/mod/conn.pretty/PSS254-10G.kicad_mod
+    owner_name: fruchti
   oomp_key: oomp_fruchti_conn_pss254_10g
+  oomp_key_full: oomp_footprint_fruchti_conn_pss254_10g
   oomp_key_simple: fruchti_conn_pss254_10g
   owner: fruchti
   repo:

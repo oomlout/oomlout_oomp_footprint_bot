@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/boul51_boul51_diode_do41/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/boul51_boul51_diode_do41/working
-    oomp_doc: footprints/footprints/boul51/boul51/Diode-DO41/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/boul51/boul51/Diode-DO41/working
     oomp_src_flat: footprints_flat/footprints_flat/boul51_boul51_diode_do41/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/boul51_boul51_diode_do41/working
-    oomp_src_folder: footprints_folder/footprints_folder/boul51/boul51/Diode-DO41/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/boul51/boul51/Diode-DO41/working
   name: boul51.pretty
+  oomp:
+    footprint_name: diode_do41
+    library_name: boul51
+    md5: 8ffbcd65284ff86bf87c05167e8d0ec1
+    md5_10: 8ffbcd6528
+    md5_5: 8ffbc
+    md5_6: 8ffbcd
+    oomp_key: oomp_boul51_boul51_diode_do41
+    oomp_key_extra: oomp_footprint_boul51_boul51_diode_do41
+    oomp_key_full: oomp_footprint_boul51_boul51_diode_do41_8ffbcd
+    oomp_key_simple: boul51_boul51_diode_do41
+    original_filename: boul51.pretty/Diode-DO41.kicad_mod
+    owner_name: boul51
   oomp_key: oomp_boul51_boul51_diode_do41
+  oomp_key_full: oomp_footprint_boul51_boul51_diode_do41
   oomp_key_simple: boul51_boul51_diode_do41
   owner: boul51
   repo:

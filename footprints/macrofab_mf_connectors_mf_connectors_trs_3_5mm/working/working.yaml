@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/MacroFab/EDALibraries
     oomp_bot: footprints/macrofab_mf_connectors_mf_connectors_trs_3_5mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/macrofab_mf_connectors_mf_connectors_trs_3_5mm/working
-    oomp_doc: footprints/footprints/MacroFab/MF_Connectors/MF_Connectors-TRS_3.5MM/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/MacroFab/MF_Connectors/MF_Connectors-TRS_3.5MM/working
     oomp_src_flat: footprints_flat/footprints_flat/macrofab_mf_connectors_mf_connectors_trs_3_5mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/macrofab_mf_connectors_mf_connectors_trs_3_5mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/MacroFab/MF_Connectors/MF_Connectors-TRS_3.5MM/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/MacroFab/MF_Connectors/MF_Connectors-TRS_3.5MM/working
   name: EDALibraries
+  oomp:
+    footprint_name: mf_connectors_trs_3_5mm
+    library_name: mf_connectors
+    md5: 6c36325acc953c383e2f8c94054e8f85
+    md5_10: 6c36325acc
+    md5_5: 6c363
+    md5_6: 6c3632
+    oomp_key: oomp_macrofab_mf_connectors_mf_connectors_trs_3_5mm
+    oomp_key_extra: oomp_footprint_macrofab_mf_connectors_mf_connectors_trs_3_5mm
+    oomp_key_full: oomp_footprint_macrofab_mf_connectors_mf_connectors_trs_3_5mm_6c3632
+    oomp_key_simple: macrofab_mf_connectors_mf_connectors_trs_3_5mm
+    original_filename: EDALibraries/KiCad/Footprints/MF_Connectors.pretty/MF_Connectors-TRS_3.5MM.kicad_mod
+    owner_name: macrofab
   oomp_key: oomp_macrofab_mf_connectors_mf_connectors_trs_3_5mm
+  oomp_key_full: oomp_footprint_macrofab_mf_connectors_mf_connectors_trs_3_5mm
   oomp_key_simple: macrofab_mf_connectors_mf_connectors_trs_3_5mm
   owner: MacroFab
   repo:

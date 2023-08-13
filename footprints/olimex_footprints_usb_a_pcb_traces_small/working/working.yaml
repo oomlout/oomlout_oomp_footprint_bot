@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/olimex_footprints_usb_a_pcb_traces_small/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/olimex_footprints_usb_a_pcb_traces_small/working
-    oomp_doc: footprints/footprints/OLIMEX/footprints/USB_A_PCB_traces_small/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/OLIMEX/footprints/USB_A_PCB_traces_small/working
     oomp_src_flat: footprints_flat/footprints_flat/olimex_footprints_usb_a_pcb_traces_small/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/olimex_footprints_usb_a_pcb_traces_small/working
-    oomp_src_folder: footprints_folder/footprints_folder/OLIMEX/footprints/USB_A_PCB_traces_small/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/OLIMEX/footprints/USB_A_PCB_traces_small/working
   name: KiCAD
+  oomp:
+    footprint_name: usb_a_pcb_traces_small
+    library_name: footprints
+    md5: 9ecd393b8890f164332fb9d9dba8eada
+    md5_10: 9ecd393b88
+    md5_5: 9ecd3
+    md5_6: 9ecd39
+    oomp_key: oomp_olimex_footprints_usb_a_pcb_traces_small
+    oomp_key_extra: oomp_footprint_olimex_footprints_usb_a_pcb_traces_small
+    oomp_key_full: oomp_footprint_olimex_footprints_usb_a_pcb_traces_small_9ecd39
+    oomp_key_simple: olimex_footprints_usb_a_pcb_traces_small
+    original_filename: KiCAD/demos/stickhub/footprints.pretty/USB_A_PCB_traces_small.kicad_mod
+    owner_name: olimex
   oomp_key: oomp_olimex_footprints_usb_a_pcb_traces_small
+  oomp_key_full: oomp_footprint_olimex_footprints_usb_a_pcb_traces_small
   oomp_key_simple: olimex_footprints_usb_a_pcb_traces_small
   owner: OLIMEX
   repo:

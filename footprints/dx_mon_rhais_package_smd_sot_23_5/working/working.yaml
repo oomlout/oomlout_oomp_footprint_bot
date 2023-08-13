@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/dx_mon_rhais_package_smd_sot_23_5/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/dx_mon_rhais_package_smd_sot_23_5/working
-    oomp_doc: footprints/footprints/DX-MON/rhais_package-smd/SOT-23-5/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/DX-MON/rhais_package-smd/SOT-23-5/working
     oomp_src_flat: footprints_flat/footprints_flat/dx_mon_rhais_package_smd_sot_23_5/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/dx_mon_rhais_package_smd_sot_23_5/working
-    oomp_src_folder: footprints_folder/footprints_folder/DX-MON/rhais_package-smd/SOT-23-5/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/DX-MON/rhais_package-smd/SOT-23-5/working
   name: rhais_package-smd.pretty
+  oomp:
+    footprint_name: sot_23_5
+    library_name: rhais_package_smd
+    md5: 40f86e4318971d0d9e696a4fd960572e
+    md5_10: 40f86e4318
+    md5_5: 40f86
+    md5_6: 40f86e
+    oomp_key: oomp_dx_mon_rhais_package_smd_sot_23_5
+    oomp_key_extra: oomp_footprint_dx_mon_rhais_package_smd_sot_23_5
+    oomp_key_full: oomp_footprint_dx_mon_rhais_package_smd_sot_23_5_40f86e
+    oomp_key_simple: dx_mon_rhais_package_smd_sot_23_5
+    original_filename: rhais_package-smd.pretty/SOT-23-5.kicad_mod
+    owner_name: dx_mon
   oomp_key: oomp_dx_mon_rhais_package_smd_sot_23_5
+  oomp_key_full: oomp_footprint_dx_mon_rhais_package_smd_sot_23_5
   oomp_key_simple: dx_mon_rhais_package_smd_sot_23_5
   owner: DX-MON
   repo:

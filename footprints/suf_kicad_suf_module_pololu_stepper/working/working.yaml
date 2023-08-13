@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/suf_kicad_suf_module_pololu_stepper/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/suf_kicad_suf_module_pololu_stepper/working
-    oomp_doc: footprints/footprints/suf-KiCAD/suf_module/POLOLU_STEPPER/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/suf-KiCAD/suf_module/POLOLU_STEPPER/working
     oomp_src_flat: footprints_flat/footprints_flat/suf_kicad_suf_module_pololu_stepper/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/suf_kicad_suf_module_pololu_stepper/working
-    oomp_src_folder: footprints_folder/footprints_folder/suf-KiCAD/suf_module/POLOLU_STEPPER/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/suf-KiCAD/suf_module/POLOLU_STEPPER/working
   name: suf_module.pretty
+  oomp:
+    footprint_name: pololu_stepper
+    library_name: suf_module
+    md5: e2fdb734b33182ff7dd2de0e930d0da6
+    md5_10: e2fdb734b3
+    md5_5: e2fdb
+    md5_6: e2fdb7
+    oomp_key: oomp_suf_kicad_suf_module_pololu_stepper
+    oomp_key_extra: oomp_footprint_suf_kicad_suf_module_pololu_stepper
+    oomp_key_full: oomp_footprint_suf_kicad_suf_module_pololu_stepper_e2fdb7
+    oomp_key_simple: suf_kicad_suf_module_pololu_stepper
+    original_filename: suf_module.pretty/POLOLU_STEPPER.kicad_mod
+    owner_name: suf_kicad
   oomp_key: oomp_suf_kicad_suf_module_pololu_stepper
+  oomp_key_full: oomp_footprint_suf_kicad_suf_module_pololu_stepper
   oomp_key_simple: suf_kicad_suf_module_pololu_stepper
   owner: suf-KiCAD
   repo:

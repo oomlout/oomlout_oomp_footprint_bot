@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/digikey_6_dfn_3x3mm_6_dfn_3x3mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_6_dfn_3x3mm_6_dfn_3x3mm/working
-    oomp_doc: footprints/footprints/digikey/6-DFN_3x3mm.kicad_mod/6-DFN_3x3mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/digikey/6-DFN_3x3mm.kicad_mod/6-DFN_3x3mm/working
     oomp_src_flat: footprints_flat/footprints_flat/digikey_6_dfn_3x3mm_6_dfn_3x3mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/digikey_6_dfn_3x3mm_6_dfn_3x3mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/digikey/6-DFN_3x3mm.kicad_mod/6-DFN_3x3mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/digikey/6-DFN_3x3mm.kicad_mod/6-DFN_3x3mm/working
   name: digikey-kicad-library
+  oomp:
+    footprint_name: 6_dfn_3x3mm
+    library_name: 6_dfn_3x3mm_kicad_mod
+    md5: b727f95433581d2b59793b7fd05934dd
+    md5_10: b727f95433
+    md5_5: b727f
+    md5_6: b727f9
+    oomp_key: oomp_digikey_6_dfn_3x3mm_6_dfn_3x3mm
+    oomp_key_extra: oomp_footprint_digikey_6_dfn_3x3mm_6_dfn_3x3mm
+    oomp_key_full: oomp_footprint_digikey_6_dfn_3x3mm_6_dfn_3x3mm_b727f9
+    oomp_key_simple: digikey_6_dfn_3x3mm_6_dfn_3x3mm
+    original_filename: digikey-kicad-library/src/Source_Footprints/6-DFN_3x3mm.kicad_mod
+    owner_name: digikey
   oomp_key: oomp_digikey_6_dfn_3x3mm_6_dfn_3x3mm
+  oomp_key_full: oomp_footprint_digikey_6_dfn_3x3mm_6_dfn_3x3mm
   oomp_key_simple: digikey_6_dfn_3x3mm_6_dfn_3x3mm
   owner: digikey
   repo:

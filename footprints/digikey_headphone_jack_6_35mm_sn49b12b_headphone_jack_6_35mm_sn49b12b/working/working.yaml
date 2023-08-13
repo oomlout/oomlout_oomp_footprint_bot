@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/digikey_headphone_jack_6_35mm_sn49b12b_headphone_jack_6_35mm_sn49b12b/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_headphone_jack_6_35mm_sn49b12b_headphone_jack_6_35mm_sn49b12b/working
-    oomp_doc: footprints/footprints/digikey/Headphone_Jack_6.35mm_SN49B12B.kicad_mod/Headphone_Jack_6.35mm_SN49B12B/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/digikey/Headphone_Jack_6.35mm_SN49B12B.kicad_mod/Headphone_Jack_6.35mm_SN49B12B/working
     oomp_src_flat: footprints_flat/footprints_flat/digikey_headphone_jack_6_35mm_sn49b12b_headphone_jack_6_35mm_sn49b12b/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/digikey_headphone_jack_6_35mm_sn49b12b_headphone_jack_6_35mm_sn49b12b/working
-    oomp_src_folder: footprints_folder/footprints_folder/digikey/Headphone_Jack_6.35mm_SN49B12B.kicad_mod/Headphone_Jack_6.35mm_SN49B12B/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/digikey/Headphone_Jack_6.35mm_SN49B12B.kicad_mod/Headphone_Jack_6.35mm_SN49B12B/working
   name: digikey-kicad-library
+  oomp:
+    footprint_name: headphone_jack_6_35mm_sn49b12b
+    library_name: headphone_jack_6_35mm_sn49b12b_kicad_mod
+    md5: de0ac497e984ac36f4367fa5a4ed8c6c
+    md5_10: de0ac497e9
+    md5_5: de0ac
+    md5_6: de0ac4
+    oomp_key: oomp_digikey_headphone_jack_6_35mm_sn49b12b_headphone_jack_6_35mm_sn49b12b
+    oomp_key_extra: oomp_footprint_digikey_headphone_jack_6_35mm_sn49b12b_headphone_jack_6_35mm_sn49b12b
+    oomp_key_full: oomp_footprint_digikey_headphone_jack_6_35mm_sn49b12b_headphone_jack_6_35mm_sn49b12b_de0ac4
+    oomp_key_simple: digikey_headphone_jack_6_35mm_sn49b12b_headphone_jack_6_35mm_sn49b12b
+    original_filename: digikey-kicad-library/src/Source_Footprints/Headphone_Jack_6.35mm_SN49B12B.kicad_mod
+    owner_name: digikey
   oomp_key: oomp_digikey_headphone_jack_6_35mm_sn49b12b_headphone_jack_6_35mm_sn49b12b
+  oomp_key_full: oomp_footprint_digikey_headphone_jack_6_35mm_sn49b12b_headphone_jack_6_35mm_sn49b12b
   oomp_key_simple: digikey_headphone_jack_6_35mm_sn49b12b_headphone_jack_6_35mm_sn49b12b
   owner: digikey
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/peekpt_w_conn_mkds_mkds_1,5_12/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/peekpt_w_conn_mkds_mkds_1,5_12/working
-    oomp_doc: footprints/footprints/peekpt/w_conn_mkds/mkds_1,5-12/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/peekpt/w_conn_mkds/mkds_1,5-12/working
     oomp_src_flat: footprints_flat/footprints_flat/peekpt_w_conn_mkds_mkds_1,5_12/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/peekpt_w_conn_mkds_mkds_1,5_12/working
-    oomp_src_folder: footprints_folder/footprints_folder/peekpt/w_conn_mkds/mkds_1,5-12/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/peekpt/w_conn_mkds/mkds_1,5-12/working
   name: kicad_smisioto
+  oomp:
+    footprint_name: mkds_1,5_12
+    library_name: w_conn_mkds
+    md5: e1a4401f9e00a1128144319356fc586b
+    md5_10: e1a4401f9e
+    md5_5: e1a44
+    md5_6: e1a440
+    oomp_key: oomp_peekpt_w_conn_mkds_mkds_1,5_12
+    oomp_key_extra: oomp_footprint_peekpt_w_conn_mkds_mkds_1,5_12
+    oomp_key_full: oomp_footprint_peekpt_w_conn_mkds_mkds_1,5_12_e1a440
+    oomp_key_simple: peekpt_w_conn_mkds_mkds_1,5_12
+    original_filename: kicad_smisioto/modules/walter/w_conn_mkds.pretty/mkds_1,5-12.kicad_mod
+    owner_name: peekpt
   oomp_key: oomp_peekpt_w_conn_mkds_mkds_1,5_12
+  oomp_key_full: oomp_footprint_peekpt_w_conn_mkds_mkds_1,5_12
   oomp_key_simple: peekpt_w_conn_mkds_mkds_1,5_12
   owner: peekpt
   repo:

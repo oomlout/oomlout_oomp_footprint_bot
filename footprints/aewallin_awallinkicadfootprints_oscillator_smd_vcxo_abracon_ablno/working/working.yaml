@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/aewallin/awallinKiCadFootprints.pretty
     oomp_bot: footprints/aewallin_awallinkicadfootprints_oscillator_smd_vcxo_abracon_ablno/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/aewallin_awallinkicadfootprints_oscillator_smd_vcxo_abracon_ablno/working
-    oomp_doc: footprints/footprints/aewallin/awallinKiCadFootprints/Oscillator_SMD_VCXO_Abracon_ABLNO/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/aewallin/awallinKiCadFootprints/Oscillator_SMD_VCXO_Abracon_ABLNO/working
     oomp_src_flat: footprints_flat/footprints_flat/aewallin_awallinkicadfootprints_oscillator_smd_vcxo_abracon_ablno/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/aewallin_awallinkicadfootprints_oscillator_smd_vcxo_abracon_ablno/working
-    oomp_src_folder: footprints_folder/footprints_folder/aewallin/awallinKiCadFootprints/Oscillator_SMD_VCXO_Abracon_ABLNO/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/aewallin/awallinKiCadFootprints/Oscillator_SMD_VCXO_Abracon_ABLNO/working
   name: awallinKiCadFootprints.pretty
+  oomp:
+    footprint_name: oscillator_smd_vcxo_abracon_ablno
+    library_name: awallinkicadfootprints
+    md5: adac5eb0a776711c7dd4e0fa143275a6
+    md5_10: adac5eb0a7
+    md5_5: adac5
+    md5_6: adac5e
+    oomp_key: oomp_aewallin_awallinkicadfootprints_oscillator_smd_vcxo_abracon_ablno
+    oomp_key_extra: oomp_footprint_aewallin_awallinkicadfootprints_oscillator_smd_vcxo_abracon_ablno
+    oomp_key_full: oomp_footprint_aewallin_awallinkicadfootprints_oscillator_smd_vcxo_abracon_ablno_adac5e
+    oomp_key_simple: aewallin_awallinkicadfootprints_oscillator_smd_vcxo_abracon_ablno
+    original_filename: awallinKiCadFootprints.pretty/Oscillator_SMD_VCXO_Abracon_ABLNO.kicad_mod
+    owner_name: aewallin
   oomp_key: oomp_aewallin_awallinkicadfootprints_oscillator_smd_vcxo_abracon_ablno
+  oomp_key_full: oomp_footprint_aewallin_awallinkicadfootprints_oscillator_smd_vcxo_abracon_ablno
   oomp_key_simple: aewallin_awallinkicadfootprints_oscillator_smd_vcxo_abracon_ablno
   owner: aewallin
   repo:

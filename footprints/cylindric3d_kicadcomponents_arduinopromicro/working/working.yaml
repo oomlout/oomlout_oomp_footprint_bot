@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cylindric3d_kicadcomponents_arduinopromicro/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cylindric3d_kicadcomponents_arduinopromicro/working
-    oomp_doc: footprints/footprints/Cylindric3D/KicadComponents/ArduinoProMicro/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Cylindric3D/KicadComponents/ArduinoProMicro/working
     oomp_src_flat: footprints_flat/footprints_flat/cylindric3d_kicadcomponents_arduinopromicro/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cylindric3d_kicadcomponents_arduinopromicro/working
-    oomp_src_folder: footprints_folder/footprints_folder/Cylindric3D/KicadComponents/ArduinoProMicro/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Cylindric3D/KicadComponents/ArduinoProMicro/working
   name: KicadComponents.pretty
+  oomp:
+    footprint_name: arduinopromicro
+    library_name: kicadcomponents
+    md5: 227bf46a83cdb5fc026351000b16dc6d
+    md5_10: 227bf46a83
+    md5_5: 227bf
+    md5_6: 227bf4
+    oomp_key: oomp_cylindric3d_kicadcomponents_arduinopromicro
+    oomp_key_extra: oomp_footprint_cylindric3d_kicadcomponents_arduinopromicro
+    oomp_key_full: oomp_footprint_cylindric3d_kicadcomponents_arduinopromicro_227bf4
+    oomp_key_simple: cylindric3d_kicadcomponents_arduinopromicro
+    original_filename: KicadComponents.pretty/ArduinoProMicro.kicad_mod
+    owner_name: cylindric3d
   oomp_key: oomp_cylindric3d_kicadcomponents_arduinopromicro
+  oomp_key_full: oomp_footprint_cylindric3d_kicadcomponents_arduinopromicro
   oomp_key_simple: cylindric3d_kicadcomponents_arduinopromicro
   owner: Cylindric3D
   repo:

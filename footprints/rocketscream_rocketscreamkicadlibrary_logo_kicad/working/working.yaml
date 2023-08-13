@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/rocketscream_rocketscreamkicadlibrary_logo_kicad/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/rocketscream_rocketscreamkicadlibrary_logo_kicad/working
-    oomp_doc: footprints/footprints/rocketscream/RocketScreamKicadLibrary/LOGO-KICAD/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/rocketscream/RocketScreamKicadLibrary/LOGO-KICAD/working
     oomp_src_flat: footprints_flat/footprints_flat/rocketscream_rocketscreamkicadlibrary_logo_kicad/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/rocketscream_rocketscreamkicadlibrary_logo_kicad/working
-    oomp_src_folder: footprints_folder/footprints_folder/rocketscream/RocketScreamKicadLibrary/LOGO-KICAD/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/rocketscream/RocketScreamKicadLibrary/LOGO-KICAD/working
   name: RocketScreamKicadLibrary
+  oomp:
+    footprint_name: logo_kicad
+    library_name: rocketscreamkicadlibrary
+    md5: 40da9f5fd22bc32c1c0733e017a21d1c
+    md5_10: 40da9f5fd2
+    md5_5: 40da9
+    md5_6: 40da9f
+    oomp_key: oomp_rocketscream_rocketscreamkicadlibrary_logo_kicad
+    oomp_key_extra: oomp_footprint_rocketscream_rocketscreamkicadlibrary_logo_kicad
+    oomp_key_full: oomp_footprint_rocketscream_rocketscreamkicadlibrary_logo_kicad_40da9f
+    oomp_key_simple: rocketscream_rocketscreamkicadlibrary_logo_kicad
+    original_filename: RocketScreamKicadLibrary/RocketScreamKicadLibrary.pretty/LOGO-KICAD.kicad_mod
+    owner_name: rocketscream
   oomp_key: oomp_rocketscream_rocketscreamkicadlibrary_logo_kicad
+  oomp_key_full: oomp_footprint_rocketscream_rocketscreamkicadlibrary_logo_kicad
   oomp_key_simple: rocketscream_rocketscreamkicadlibrary_logo_kicad
   owner: rocketscream
   repo:

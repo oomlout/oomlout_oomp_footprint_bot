@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pelrun_w_smd_leds_luxeon_m/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pelrun_w_smd_leds_luxeon_m/working
-    oomp_doc: footprints/footprints/pelrun/w_smd_leds/Luxeon_M/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/pelrun/w_smd_leds/Luxeon_M/working
     oomp_src_flat: footprints_flat/footprints_flat/pelrun_w_smd_leds_luxeon_m/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pelrun_w_smd_leds_luxeon_m/working
-    oomp_src_folder: footprints_folder/footprints_folder/pelrun/w_smd_leds/Luxeon_M/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/pelrun/w_smd_leds/Luxeon_M/working
   name: libKiCad
+  oomp:
+    footprint_name: luxeon_m
+    library_name: w_smd_leds
+    md5: 4c2c43ece50a2b0d8ef973e487cd07ee
+    md5_10: 4c2c43ece5
+    md5_5: 4c2c4
+    md5_6: 4c2c43
+    oomp_key: oomp_pelrun_w_smd_leds_luxeon_m
+    oomp_key_extra: oomp_footprint_pelrun_w_smd_leds_luxeon_m
+    oomp_key_full: oomp_footprint_pelrun_w_smd_leds_luxeon_m_4c2c43
+    oomp_key_simple: pelrun_w_smd_leds_luxeon_m
+    original_filename: libKiCad/footprint/w_smd_leds.pretty/Luxeon_M.kicad_mod
+    owner_name: pelrun
   oomp_key: oomp_pelrun_w_smd_leds_luxeon_m
+  oomp_key_full: oomp_footprint_pelrun_w_smd_leds_luxeon_m
   oomp_key_simple: pelrun_w_smd_leds_luxeon_m
   owner: pelrun
   repo:

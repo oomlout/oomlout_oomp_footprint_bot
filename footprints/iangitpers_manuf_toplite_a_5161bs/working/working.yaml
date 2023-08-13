@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/Iangitpers/4a
     oomp_bot: footprints/iangitpers_manuf_toplite_a_5161bs/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/iangitpers_manuf_toplite_a_5161bs/working
-    oomp_doc: footprints/footprints/Iangitpers/manuf/TOPLITE-A-5161BS/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Iangitpers/manuf/TOPLITE-A-5161BS/working
     oomp_src_flat: footprints_flat/footprints_flat/iangitpers_manuf_toplite_a_5161bs/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/iangitpers_manuf_toplite_a_5161bs/working
-    oomp_src_folder: footprints_folder/footprints_folder/Iangitpers/manuf/TOPLITE-A-5161BS/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Iangitpers/manuf/TOPLITE-A-5161BS/working
   name: 4a
+  oomp:
+    footprint_name: toplite_a_5161bs
+    library_name: manuf
+    md5: f9fd7a3afb376e9dac2797a2fdcd5ec6
+    md5_10: f9fd7a3afb
+    md5_5: f9fd7
+    md5_6: f9fd7a
+    oomp_key: oomp_iangitpers_manuf_toplite_a_5161bs
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_toplite_a_5161bs
+    oomp_key_full: oomp_footprint_iangitpers_manuf_toplite_a_5161bs_f9fd7a
+    oomp_key_simple: iangitpers_manuf_toplite_a_5161bs
+    original_filename: 4a/manuf.pretty/TOPLITE-A-5161BS.kicad_mod
+    owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_toplite_a_5161bs
+  oomp_key_full: oomp_footprint_iangitpers_manuf_toplite_a_5161bs
   oomp_key_simple: iangitpers_manuf_toplite_a_5161bs
   owner: Iangitpers
   repo:

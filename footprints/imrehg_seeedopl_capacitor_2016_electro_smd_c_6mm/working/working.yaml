@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/imrehg_seeedopl_capacitor_2016_electro_smd_c_6mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/imrehg_seeedopl_capacitor_2016_electro_smd_c_6mm/working
-    oomp_doc: footprints/footprints/imrehg/SeeedOPL-Capacitor-2016/ELECTRO-SMD-C-6MM/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/imrehg/SeeedOPL-Capacitor-2016/ELECTRO-SMD-C-6MM/working
     oomp_src_flat: footprints_flat/footprints_flat/imrehg_seeedopl_capacitor_2016_electro_smd_c_6mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/imrehg_seeedopl_capacitor_2016_electro_smd_c_6mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/imrehg/SeeedOPL-Capacitor-2016/ELECTRO-SMD-C-6MM/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/imrehg/SeeedOPL-Capacitor-2016/ELECTRO-SMD-C-6MM/working
   name: kicalopl
+  oomp:
+    footprint_name: electro_smd_c_6mm
+    library_name: seeedopl_capacitor_2016
+    md5: e34abd7ebfa0065ad1352c578e369451
+    md5_10: e34abd7ebf
+    md5_5: e34ab
+    md5_6: e34abd
+    oomp_key: oomp_imrehg_seeedopl_capacitor_2016_electro_smd_c_6mm
+    oomp_key_extra: oomp_footprint_imrehg_seeedopl_capacitor_2016_electro_smd_c_6mm
+    oomp_key_full: oomp_footprint_imrehg_seeedopl_capacitor_2016_electro_smd_c_6mm_e34abd
+    oomp_key_simple: imrehg_seeedopl_capacitor_2016_electro_smd_c_6mm
+    original_filename: kicalopl/SeeedOPL-Capacitor-2016.pretty/ELECTRO-SMD-C-6MM.kicad_mod
+    owner_name: imrehg
   oomp_key: oomp_imrehg_seeedopl_capacitor_2016_electro_smd_c_6mm
+  oomp_key_full: oomp_footprint_imrehg_seeedopl_capacitor_2016_electro_smd_c_6mm
   oomp_key_simple: imrehg_seeedopl_capacitor_2016_electro_smd_c_6mm
   owner: imrehg
   repo:

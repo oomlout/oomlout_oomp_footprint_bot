@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/descampsa_leds_led_10mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/descampsa_leds_led_10mm/working
-    oomp_doc: footprints/footprints/descampsa/LEDs/LED-10MM/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/descampsa/LEDs/LED-10MM/working
     oomp_src_flat: footprints_flat/footprints_flat/descampsa_leds_led_10mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/descampsa_leds_led_10mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/descampsa/LEDs/LED-10MM/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/descampsa/LEDs/LED-10MM/working
   name: LEDs.pretty
+  oomp:
+    footprint_name: led_10mm
+    library_name: leds
+    md5: 5e25efc16943d509de53a49969bd8123
+    md5_10: 5e25efc169
+    md5_5: 5e25e
+    md5_6: 5e25ef
+    oomp_key: oomp_descampsa_leds_led_10mm
+    oomp_key_extra: oomp_footprint_descampsa_leds_led_10mm
+    oomp_key_full: oomp_footprint_descampsa_leds_led_10mm_5e25ef
+    oomp_key_simple: descampsa_leds_led_10mm
+    original_filename: LEDs.pretty/LED-10MM.kicad_mod
+    owner_name: descampsa
   oomp_key: oomp_descampsa_leds_led_10mm
+  oomp_key_full: oomp_footprint_descampsa_leds_led_10mm
   oomp_key_simple: descampsa_leds_led_10mm
   owner: descampsa
   repo:

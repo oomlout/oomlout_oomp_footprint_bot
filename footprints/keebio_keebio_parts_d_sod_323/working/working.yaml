@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/keebio_keebio_parts_d_sod_323/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/keebio_keebio_parts_d_sod_323/working
-    oomp_doc: footprints/footprints/keebio/Keebio-Parts/D_SOD-323/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/keebio/Keebio-Parts/D_SOD-323/working
     oomp_src_flat: footprints_flat/footprints_flat/keebio_keebio_parts_d_sod_323/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/keebio_keebio_parts_d_sod_323/working
-    oomp_src_folder: footprints_folder/footprints_folder/keebio/Keebio-Parts/D_SOD-323/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/keebio/Keebio-Parts/D_SOD-323/working
   name: Keebio-Parts.pretty
+  oomp:
+    footprint_name: d_sod_323
+    library_name: keebio_parts
+    md5: 7dc84d9bdcfdf2df19ef9e1fff8bb3fd
+    md5_10: 7dc84d9bdc
+    md5_5: 7dc84
+    md5_6: 7dc84d
+    oomp_key: oomp_keebio_keebio_parts_d_sod_323
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_d_sod_323
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_d_sod_323_7dc84d
+    oomp_key_simple: keebio_keebio_parts_d_sod_323
+    original_filename: Keebio-Parts.pretty/D_SOD-323.kicad_mod
+    owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_d_sod_323
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_d_sod_323
   oomp_key_simple: keebio_keebio_parts_d_sod_323
   owner: keebio
   repo:

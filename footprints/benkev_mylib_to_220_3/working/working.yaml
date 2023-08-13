@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/benkev_mylib_to_220_3/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/benkev_mylib_to_220_3/working
-    oomp_doc: footprints/footprints/benkev/myLib/TO-220-3/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/benkev/myLib/TO-220-3/working
     oomp_src_flat: footprints_flat/footprints_flat/benkev_mylib_to_220_3/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/benkev_mylib_to_220_3/working
-    oomp_src_folder: footprints_folder/footprints_folder/benkev/myLib/TO-220-3/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/benkev/myLib/TO-220-3/working
   name: myLib.pretty
+  oomp:
+    footprint_name: to_220_3
+    library_name: mylib
+    md5: 54384cba0baf7e77a46614cb34ed6c74
+    md5_10: 54384cba0b
+    md5_5: '54384'
+    md5_6: 54384c
+    oomp_key: oomp_benkev_mylib_to_220_3
+    oomp_key_extra: oomp_footprint_benkev_mylib_to_220_3
+    oomp_key_full: oomp_footprint_benkev_mylib_to_220_3_54384c
+    oomp_key_simple: benkev_mylib_to_220_3
+    original_filename: myLib.pretty/TO-220-3.kicad_mod
+    owner_name: benkev
   oomp_key: oomp_benkev_mylib_to_220_3
+  oomp_key_full: oomp_footprint_benkev_mylib_to_220_3
   oomp_key_simple: benkev_mylib_to_220_3
   owner: benkev
   repo:

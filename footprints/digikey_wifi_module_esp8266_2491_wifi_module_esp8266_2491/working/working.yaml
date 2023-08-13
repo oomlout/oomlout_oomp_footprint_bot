@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/digikey_wifi_module_esp8266_2491_wifi_module_esp8266_2491/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_wifi_module_esp8266_2491_wifi_module_esp8266_2491/working
-    oomp_doc: footprints/footprints/digikey/WIFI_Module_ESP8266_2491.kicad_mod/WIFI_Module_ESP8266_2491/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/digikey/WIFI_Module_ESP8266_2491.kicad_mod/WIFI_Module_ESP8266_2491/working
     oomp_src_flat: footprints_flat/footprints_flat/digikey_wifi_module_esp8266_2491_wifi_module_esp8266_2491/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/digikey_wifi_module_esp8266_2491_wifi_module_esp8266_2491/working
-    oomp_src_folder: footprints_folder/footprints_folder/digikey/WIFI_Module_ESP8266_2491.kicad_mod/WIFI_Module_ESP8266_2491/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/digikey/WIFI_Module_ESP8266_2491.kicad_mod/WIFI_Module_ESP8266_2491/working
   name: digikey-kicad-library
+  oomp:
+    footprint_name: wifi_module_esp8266_2491
+    library_name: wifi_module_esp8266_2491_kicad_mod
+    md5: e42ff2178c4e1be7983d9108cfc3e6b9
+    md5_10: e42ff2178c
+    md5_5: e42ff
+    md5_6: e42ff2
+    oomp_key: oomp_digikey_wifi_module_esp8266_2491_wifi_module_esp8266_2491
+    oomp_key_extra: oomp_footprint_digikey_wifi_module_esp8266_2491_wifi_module_esp8266_2491
+    oomp_key_full: oomp_footprint_digikey_wifi_module_esp8266_2491_wifi_module_esp8266_2491_e42ff2
+    oomp_key_simple: digikey_wifi_module_esp8266_2491_wifi_module_esp8266_2491
+    original_filename: digikey-kicad-library/src/Source_Footprints/WIFI_Module_ESP8266_2491.kicad_mod
+    owner_name: digikey
   oomp_key: oomp_digikey_wifi_module_esp8266_2491_wifi_module_esp8266_2491
+  oomp_key_full: oomp_footprint_digikey_wifi_module_esp8266_2491_wifi_module_esp8266_2491
   oomp_key_simple: digikey_wifi_module_esp8266_2491_wifi_module_esp8266_2491
   owner: digikey
   repo:

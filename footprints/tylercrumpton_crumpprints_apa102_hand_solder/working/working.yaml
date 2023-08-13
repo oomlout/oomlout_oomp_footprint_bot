@@ -7,130 +7,33 @@
   footprint_library_directory_flat: footprints_flat/tylercrumpton_crumpprints_apa102_hand_solder/working
   github_path: http://github.com/tylercrumpton/CrumpPrints.pretty/blob/master/APA102_hand_solder.kicad_mod
   links:
-    github_owner: tylercrumpton
-    github_repo_name: CrumpPrints.pretty
-    github_src: http://github.com/tylercrumpton/CrumpPrints.pretty/blob/master/WSON-6p-2x2mm.kicad_mod
-    github_src_repo: https://github.com/tylercrumpton/CrumpPrints.pretty
+    github_src: http://gitlab.com/tylercrumpton/CrumpPrints.pretty/blob/master/WSON-6p-2x2mm.kicad_mod
+    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/tylercrumpton_crumpprints_apa102_hand_solder/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/tylercrumpton_crumpprints_apa102_hand_solder/working
-    oomp_doc: footprints/footprints/tylercrumpton/CrumpPrints/APA102_hand_solder/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/tylercrumpton/CrumpPrints/APA102_hand_solder/working
     oomp_src_flat: footprints_flat/footprints_flat/tylercrumpton_crumpprints_apa102_hand_solder/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/tylercrumpton_crumpprints_apa102_hand_solder/working
-    oomp_src_folder: footprints_folder/footprints_folder/tylercrumpton/CrumpPrints/APA102_hand_solder/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/tylercrumpton/CrumpPrints/APA102_hand_solder/working
   name: CrumpPrints.pretty
+  oomp:
+    footprint_name: apa102_hand_solder
+    library_name: crumpprints
+    md5: a9ced91992effac279334eccd457d371
+    md5_10: a9ced91992
+    md5_5: a9ced
+    md5_6: a9ced9
+    oomp_key: oomp_tylercrumpton_crumpprints_apa102_hand_solder
+    oomp_key_extra: oomp_footprint_tylercrumpton_crumpprints_apa102_hand_solder
+    oomp_key_full: oomp_footprint_tylercrumpton_crumpprints_apa102_hand_solder_a9ced9
+    oomp_key_simple: tylercrumpton_crumpprints_apa102_hand_solder
+    original_filename: CrumpPrints.pretty/APA102_hand_solder.kicad_mod
+    owner_name: tylercrumpton
   oomp_key: oomp_tylercrumpton_crumpprints_apa102_hand_solder
+  oomp_key_full: oomp_footprint_tylercrumpton_crumpprints_apa102_hand_solder
   oomp_key_simple: tylercrumpton_crumpprints_apa102_hand_solder
   owner: tylercrumpton
   repo:
-    allow_forking: true
-    archive_url: https://api.github.com/repos/tylercrumpton/CrumpPrints.pretty/{archive_format}{/ref}
-    archived: false
-    assignees_url: https://api.github.com/repos/tylercrumpton/CrumpPrints.pretty/assignees{/user}
-    blobs_url: https://api.github.com/repos/tylercrumpton/CrumpPrints.pretty/git/blobs{/sha}
-    branches_url: https://api.github.com/repos/tylercrumpton/CrumpPrints.pretty/branches{/branch}
-    clone_url: https://github.com/tylercrumpton/CrumpPrints.pretty.git
-    collaborators_url: https://api.github.com/repos/tylercrumpton/CrumpPrints.pretty/collaborators{/collaborator}
-    comments_url: https://api.github.com/repos/tylercrumpton/CrumpPrints.pretty/comments{/number}
-    commits_url: https://api.github.com/repos/tylercrumpton/CrumpPrints.pretty/commits{/sha}
-    compare_url: https://api.github.com/repos/tylercrumpton/CrumpPrints.pretty/compare/{base}...{head}
-    contents_url: https://api.github.com/repos/tylercrumpton/CrumpPrints.pretty/contents/{+path}
-    contributors_url: https://api.github.com/repos/tylercrumpton/CrumpPrints.pretty/contributors
-    created_at: '2015-01-06T05:19:41Z'
-    default_branch: master
-    deployments_url: https://api.github.com/repos/tylercrumpton/CrumpPrints.pretty/deployments
-    description: KiCad repo for footprints I've made.
-    disabled: false
-    downloads_url: https://api.github.com/repos/tylercrumpton/CrumpPrints.pretty/downloads
-    events_url: https://api.github.com/repos/tylercrumpton/CrumpPrints.pretty/events
-    fork: false
-    forks: 8
-    forks_count: 8
-    forks_url: https://api.github.com/repos/tylercrumpton/CrumpPrints.pretty/forks
-    full_name: tylercrumpton/CrumpPrints.pretty
-    git_commits_url: https://api.github.com/repos/tylercrumpton/CrumpPrints.pretty/git/commits{/sha}
-    git_refs_url: https://api.github.com/repos/tylercrumpton/CrumpPrints.pretty/git/refs{/sha}
-    git_tags_url: https://api.github.com/repos/tylercrumpton/CrumpPrints.pretty/git/tags{/sha}
-    git_url: git://github.com/tylercrumpton/CrumpPrints.pretty.git
-    has_discussions: false
-    has_downloads: true
-    has_issues: true
-    has_pages: false
-    has_projects: true
-    has_wiki: true
-    homepage: ''
-    hooks_url: https://api.github.com/repos/tylercrumpton/CrumpPrints.pretty/hooks
-    html_url: https://github.com/tylercrumpton/CrumpPrints.pretty
-    id: 28848050
-    is_template: false
-    issue_comment_url: https://api.github.com/repos/tylercrumpton/CrumpPrints.pretty/issues/comments{/number}
-    issue_events_url: https://api.github.com/repos/tylercrumpton/CrumpPrints.pretty/issues/events{/number}
-    issues_url: https://api.github.com/repos/tylercrumpton/CrumpPrints.pretty/issues{/number}
-    keys_url: https://api.github.com/repos/tylercrumpton/CrumpPrints.pretty/keys{/key_id}
-    labels_url: https://api.github.com/repos/tylercrumpton/CrumpPrints.pretty/labels{/name}
-    language: null
-    languages_url: https://api.github.com/repos/tylercrumpton/CrumpPrints.pretty/languages
-    license:
-      key: other
-      name: Other
-      node_id: MDc6TGljZW5zZTA=
-      spdx_id: NOASSERTION
-      url: null
-    merges_url: https://api.github.com/repos/tylercrumpton/CrumpPrints.pretty/merges
-    milestones_url: https://api.github.com/repos/tylercrumpton/CrumpPrints.pretty/milestones{/number}
-    mirror_url: null
-    name: CrumpPrints.pretty
-    network_count: 8
-    node_id: MDEwOlJlcG9zaXRvcnkyODg0ODA1MA==
-    notifications_url: https://api.github.com/repos/tylercrumpton/CrumpPrints.pretty/notifications{?since,all,participating}
-    open_issues: 1
-    open_issues_count: 1
-    owner:
-      avatar_url: https://avatars.githubusercontent.com/u/1317406?v=4
-      events_url: https://api.github.com/users/tylercrumpton/events{/privacy}
-      followers_url: https://api.github.com/users/tylercrumpton/followers
-      following_url: https://api.github.com/users/tylercrumpton/following{/other_user}
-      gists_url: https://api.github.com/users/tylercrumpton/gists{/gist_id}
-      gravatar_id: ''
-      html_url: https://github.com/tylercrumpton
-      id: 1317406
-      login: tylercrumpton
-      node_id: MDQ6VXNlcjEzMTc0MDY=
-      organizations_url: https://api.github.com/users/tylercrumpton/orgs
-      received_events_url: https://api.github.com/users/tylercrumpton/received_events
-      repos_url: https://api.github.com/users/tylercrumpton/repos
-      site_admin: false
-      starred_url: https://api.github.com/users/tylercrumpton/starred{/owner}{/repo}
-      subscriptions_url: https://api.github.com/users/tylercrumpton/subscriptions
-      type: User
-      url: https://api.github.com/users/tylercrumpton
-    private: false
-    pulls_url: https://api.github.com/repos/tylercrumpton/CrumpPrints.pretty/pulls{/number}
-    pushed_at: '2021-07-31T22:14:04Z'
-    releases_url: https://api.github.com/repos/tylercrumpton/CrumpPrints.pretty/releases{/id}
-    size: 84
-    ssh_url: git@github.com:tylercrumpton/CrumpPrints.pretty.git
-    stargazers_count: 19
-    stargazers_url: https://api.github.com/repos/tylercrumpton/CrumpPrints.pretty/stargazers
-    statuses_url: https://api.github.com/repos/tylercrumpton/CrumpPrints.pretty/statuses/{sha}
-    subscribers_count: 3
-    subscribers_url: https://api.github.com/repos/tylercrumpton/CrumpPrints.pretty/subscribers
-    subscription_url: https://api.github.com/repos/tylercrumpton/CrumpPrints.pretty/subscription
-    svn_url: https://github.com/tylercrumpton/CrumpPrints.pretty
-    tags_url: https://api.github.com/repos/tylercrumpton/CrumpPrints.pretty/tags
-    teams_url: https://api.github.com/repos/tylercrumpton/CrumpPrints.pretty/teams
-    temp_clone_token: null
-    topics:
-    - footprint
-    - kicad
-    - neopixels
-    - smd
-    trees_url: https://api.github.com/repos/tylercrumpton/CrumpPrints.pretty/git/trees{/sha}
-    updated_at: '2022-10-10T19:37:59Z'
-    url: https://api.github.com/repos/tylercrumpton/CrumpPrints.pretty
-    visibility: public
-    watchers: 19
-    watchers_count: 19
-    web_commit_signoff_required: false
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: http://github.com/tylercrumpton/CrumpPrints.pretty

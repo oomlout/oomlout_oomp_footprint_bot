@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/stanleyseow_svtmaker_arduino_nano/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stanleyseow_svtmaker_arduino_nano/working
-    oomp_doc: footprints/footprints/stanleyseow/SVTmaker/arduino_nano/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/stanleyseow/SVTmaker/arduino_nano/working
     oomp_src_flat: footprints_flat/footprints_flat/stanleyseow_svtmaker_arduino_nano/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/stanleyseow_svtmaker_arduino_nano/working
-    oomp_src_folder: footprints_folder/footprints_folder/stanleyseow/SVTmaker/arduino_nano/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/stanleyseow/SVTmaker/arduino_nano/working
   name: SVTmaker.pretty
+  oomp:
+    footprint_name: arduino_nano
+    library_name: svtmaker
+    md5: ad273509a3cfea1d939b7c395c5886d8
+    md5_10: ad273509a3
+    md5_5: ad273
+    md5_6: ad2735
+    oomp_key: oomp_stanleyseow_svtmaker_arduino_nano
+    oomp_key_extra: oomp_footprint_stanleyseow_svtmaker_arduino_nano
+    oomp_key_full: oomp_footprint_stanleyseow_svtmaker_arduino_nano_ad2735
+    oomp_key_simple: stanleyseow_svtmaker_arduino_nano
+    original_filename: SVTmaker.pretty/arduino_nano.kicad_mod
+    owner_name: stanleyseow
   oomp_key: oomp_stanleyseow_svtmaker_arduino_nano
+  oomp_key_full: oomp_footprint_stanleyseow_svtmaker_arduino_nano
   oomp_key_simple: stanleyseow_svtmaker_arduino_nano
   owner: stanleyseow
   repo:

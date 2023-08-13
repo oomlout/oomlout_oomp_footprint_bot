@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/arturo182/kicad-modules
     oomp_bot: footprints/arturo182_connector_pinheader_1_27mm_extra_pinheader_2x05_p1_27mm_vertical_smd_idc/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/arturo182_connector_pinheader_1_27mm_extra_pinheader_2x05_p1_27mm_vertical_smd_idc/working
-    oomp_doc: footprints/footprints/arturo182/Connector_PinHeader_1.27mm_Extra/PinHeader_2x05_P1.27mm_Vertical_SMD_IDC/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/arturo182/Connector_PinHeader_1.27mm_Extra/PinHeader_2x05_P1.27mm_Vertical_SMD_IDC/working
     oomp_src_flat: footprints_flat/footprints_flat/arturo182_connector_pinheader_1_27mm_extra_pinheader_2x05_p1_27mm_vertical_smd_idc/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/arturo182_connector_pinheader_1_27mm_extra_pinheader_2x05_p1_27mm_vertical_smd_idc/working
-    oomp_src_folder: footprints_folder/footprints_folder/arturo182/Connector_PinHeader_1.27mm_Extra/PinHeader_2x05_P1.27mm_Vertical_SMD_IDC/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/arturo182/Connector_PinHeader_1.27mm_Extra/PinHeader_2x05_P1.27mm_Vertical_SMD_IDC/working
   name: kicad-modules
+  oomp:
+    footprint_name: pinheader_2x05_p1_27mm_vertical_smd_idc
+    library_name: connector_pinheader_1_27mm_extra
+    md5: 0c9767c543785ebbe22deb650d95830e
+    md5_10: 0c9767c543
+    md5_5: 0c976
+    md5_6: 0c9767
+    oomp_key: oomp_arturo182_connector_pinheader_1_27mm_extra_pinheader_2x05_p1_27mm_vertical_smd_idc
+    oomp_key_extra: oomp_footprint_arturo182_connector_pinheader_1_27mm_extra_pinheader_2x05_p1_27mm_vertical_smd_idc
+    oomp_key_full: oomp_footprint_arturo182_connector_pinheader_1_27mm_extra_pinheader_2x05_p1_27mm_vertical_smd_idc_0c9767
+    oomp_key_simple: arturo182_connector_pinheader_1_27mm_extra_pinheader_2x05_p1_27mm_vertical_smd_idc
+    original_filename: kicad-modules/Connector_PinHeader_1.27mm_Extra.pretty/PinHeader_2x05_P1.27mm_Vertical_SMD_IDC.kicad_mod
+    owner_name: arturo182
   oomp_key: oomp_arturo182_connector_pinheader_1_27mm_extra_pinheader_2x05_p1_27mm_vertical_smd_idc
+  oomp_key_full: oomp_footprint_arturo182_connector_pinheader_1_27mm_extra_pinheader_2x05_p1_27mm_vertical_smd_idc
   oomp_key_simple: arturo182_connector_pinheader_1_27mm_extra_pinheader_2x05_p1_27mm_vertical_smd_idc
   owner: arturo182
   repo:

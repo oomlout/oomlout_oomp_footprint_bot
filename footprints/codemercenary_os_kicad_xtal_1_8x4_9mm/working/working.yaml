@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/codemercenary_os_kicad_xtal_1_8x4_9mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/codemercenary_os_kicad_xtal_1_8x4_9mm/working
-    oomp_doc: footprints/footprints/codemercenary-os/kicad/XTAL_1.8X4.9mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/codemercenary-os/kicad/XTAL_1.8X4.9mm/working
     oomp_src_flat: footprints_flat/footprints_flat/codemercenary_os_kicad_xtal_1_8x4_9mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/codemercenary_os_kicad_xtal_1_8x4_9mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/codemercenary-os/kicad/XTAL_1.8X4.9mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/codemercenary-os/kicad/XTAL_1.8X4.9mm/working
   name: kicad.pretty
+  oomp:
+    footprint_name: xtal_1_8x4_9mm
+    library_name: kicad
+    md5: 80b661c3d0322240f6cc35b36b633a32
+    md5_10: 80b661c3d0
+    md5_5: 80b66
+    md5_6: 80b661
+    oomp_key: oomp_codemercenary_os_kicad_xtal_1_8x4_9mm
+    oomp_key_extra: oomp_footprint_codemercenary_os_kicad_xtal_1_8x4_9mm
+    oomp_key_full: oomp_footprint_codemercenary_os_kicad_xtal_1_8x4_9mm_80b661
+    oomp_key_simple: codemercenary_os_kicad_xtal_1_8x4_9mm
+    original_filename: kicad.pretty/XTAL_1.8X4.9mm.kicad_mod
+    owner_name: codemercenary_os
   oomp_key: oomp_codemercenary_os_kicad_xtal_1_8x4_9mm
+  oomp_key_full: oomp_footprint_codemercenary_os_kicad_xtal_1_8x4_9mm
   oomp_key_simple: codemercenary_os_kicad_xtal_1_8x4_9mm
   owner: codemercenary-os
   repo:

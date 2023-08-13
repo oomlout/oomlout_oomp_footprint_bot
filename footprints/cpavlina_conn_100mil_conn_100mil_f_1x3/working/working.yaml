@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cpavlina_conn_100mil_conn_100mil_f_1x3/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cpavlina_conn_100mil_conn_100mil_f_1x3/working
-    oomp_doc: footprints/footprints/cpavlina/conn-100mil/CONN-100MIL-F-1x3/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cpavlina/conn-100mil/CONN-100MIL-F-1x3/working
     oomp_src_flat: footprints_flat/footprints_flat/cpavlina_conn_100mil_conn_100mil_f_1x3/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cpavlina_conn_100mil_conn_100mil_f_1x3/working
-    oomp_src_folder: footprints_folder/footprints_folder/cpavlina/conn-100mil/CONN-100MIL-F-1x3/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cpavlina/conn-100mil/CONN-100MIL-F-1x3/working
   name: kicad-pcblib
+  oomp:
+    footprint_name: conn_100mil_f_1x3
+    library_name: conn_100mil
+    md5: 615cd2435c486ae395073b9968c70a90
+    md5_10: 615cd2435c
+    md5_5: 615cd
+    md5_6: 615cd2
+    oomp_key: oomp_cpavlina_conn_100mil_conn_100mil_f_1x3
+    oomp_key_extra: oomp_footprint_cpavlina_conn_100mil_conn_100mil_f_1x3
+    oomp_key_full: oomp_footprint_cpavlina_conn_100mil_conn_100mil_f_1x3_615cd2
+    oomp_key_simple: cpavlina_conn_100mil_conn_100mil_f_1x3
+    original_filename: kicad-pcblib/conn-100mil.pretty/CONN-100MIL-F-1x3.kicad_mod
+    owner_name: cpavlina
   oomp_key: oomp_cpavlina_conn_100mil_conn_100mil_f_1x3
+  oomp_key_full: oomp_footprint_cpavlina_conn_100mil_conn_100mil_f_1x3
   oomp_key_simple: cpavlina_conn_100mil_conn_100mil_f_1x3
   owner: cpavlina
   repo:

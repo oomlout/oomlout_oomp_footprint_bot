@@ -11,17 +11,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_package_bga_bga_484_23_0x23_0mm_layout22x22_p1_0mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_package_bga_bga_484_23_0x23_0mm_layout22x22_p1_0mm/working
-    oomp_doc: footprints/footprints/kicad/Package_BGA/BGA-484_23.0x23.0mm_Layout22x22_P1.0mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Package_BGA/BGA-484_23.0x23.0mm_Layout22x22_P1.0mm/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_package_bga_bga_484_23_0x23_0mm_layout22x22_p1_0mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_package_bga_bga_484_23_0x23_0mm_layout22x22_p1_0mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Package_BGA/BGA-484_23.0x23.0mm_Layout22x22_P1.0mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Package_BGA/BGA-484_23.0x23.0mm_Layout22x22_P1.0mm/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: bga_484_23_0x23_0mm_layout22x22_p1_0mm
+    library_name: package_bga
+    md5: 366b4c2375ae4ea6b4496a64a61690ae
+    md5_10: 366b4c2375
+    md5_5: 366b4
+    md5_6: 366b4c
+    oomp_key: oomp_kicad_package_bga_bga_484_23_0x23_0mm_layout22x22_p1_0mm
+    oomp_key_extra: oomp_footprint_kicad_package_bga_bga_484_23_0x23_0mm_layout22x22_p1_0mm
+    oomp_key_full: oomp_footprint_kicad_package_bga_bga_484_23_0x23_0mm_layout22x22_p1_0mm_366b4c
+    oomp_key_simple: kicad_package_bga_bga_484_23_0x23_0mm_layout22x22_p1_0mm
+    original_filename: libraries/kicad-footprints/Package_BGA.pretty/BGA-484_23.0x23.0mm_Layout22x22_P1.0mm.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_package_bga_bga_484_23_0x23_0mm_layout22x22_p1_0mm
+  oomp_key_full: oomp_footprint_kicad_package_bga_bga_484_23_0x23_0mm_layout22x22_p1_0mm
   oomp_key_simple: kicad_package_bga_bga_484_23_0x23_0mm_layout22x22_p1_0mm
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

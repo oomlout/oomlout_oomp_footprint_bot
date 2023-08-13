@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/Iangitpers/4a
     oomp_bot: footprints/iangitpers_mountinghole_mountinghole_2_2mm_m2/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/iangitpers_mountinghole_mountinghole_2_2mm_m2/working
-    oomp_doc: footprints/footprints/Iangitpers/MountingHole/MountingHole_2.2mm_M2/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Iangitpers/MountingHole/MountingHole_2.2mm_M2/working
     oomp_src_flat: footprints_flat/footprints_flat/iangitpers_mountinghole_mountinghole_2_2mm_m2/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/iangitpers_mountinghole_mountinghole_2_2mm_m2/working
-    oomp_src_folder: footprints_folder/footprints_folder/Iangitpers/MountingHole/MountingHole_2.2mm_M2/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Iangitpers/MountingHole/MountingHole_2.2mm_M2/working
   name: 4a
+  oomp:
+    footprint_name: mountinghole_2_2mm_m2
+    library_name: mountinghole
+    md5: c9e0392b5b352dd29efeb9422be4b09b
+    md5_10: c9e0392b5b
+    md5_5: c9e03
+    md5_6: c9e039
+    oomp_key: oomp_iangitpers_mountinghole_mountinghole_2_2mm_m2
+    oomp_key_extra: oomp_footprint_iangitpers_mountinghole_mountinghole_2_2mm_m2
+    oomp_key_full: oomp_footprint_iangitpers_mountinghole_mountinghole_2_2mm_m2_c9e039
+    oomp_key_simple: iangitpers_mountinghole_mountinghole_2_2mm_m2
+    original_filename: 4a/MountingHole.pretty/MountingHole_2.2mm_M2.kicad_mod
+    owner_name: iangitpers
   oomp_key: oomp_iangitpers_mountinghole_mountinghole_2_2mm_m2
+  oomp_key_full: oomp_footprint_iangitpers_mountinghole_mountinghole_2_2mm_m2
   oomp_key_simple: iangitpers_mountinghole_mountinghole_2_2mm_m2
   owner: Iangitpers
   repo:

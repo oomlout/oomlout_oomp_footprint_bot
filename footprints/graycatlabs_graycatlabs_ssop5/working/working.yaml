@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/graycatlabs_graycatlabs_ssop5/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/graycatlabs_graycatlabs_ssop5/working
-    oomp_doc: footprints/footprints/graycatlabs/GrayCatLabs/SSOP5/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/graycatlabs/GrayCatLabs/SSOP5/working
     oomp_src_flat: footprints_flat/footprints_flat/graycatlabs_graycatlabs_ssop5/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/graycatlabs_graycatlabs_ssop5/working
-    oomp_src_folder: footprints_folder/footprints_folder/graycatlabs/GrayCatLabs/SSOP5/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/graycatlabs/GrayCatLabs/SSOP5/working
   name: GrayCatLabs.pretty
+  oomp:
+    footprint_name: ssop5
+    library_name: graycatlabs
+    md5: 6411c4d39b53be21035683f5e12c518f
+    md5_10: 6411c4d39b
+    md5_5: 6411c
+    md5_6: 6411c4
+    oomp_key: oomp_graycatlabs_graycatlabs_ssop5
+    oomp_key_extra: oomp_footprint_graycatlabs_graycatlabs_ssop5
+    oomp_key_full: oomp_footprint_graycatlabs_graycatlabs_ssop5_6411c4
+    oomp_key_simple: graycatlabs_graycatlabs_ssop5
+    original_filename: GrayCatLabs.pretty/SSOP5.kicad_mod
+    owner_name: graycatlabs
   oomp_key: oomp_graycatlabs_graycatlabs_ssop5
+  oomp_key_full: oomp_footprint_graycatlabs_graycatlabs_ssop5
   oomp_key_simple: graycatlabs_graycatlabs_ssop5
   owner: graycatlabs
   repo:

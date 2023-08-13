@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/chriswags_axellogo_axellogo/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/chriswags_axellogo_axellogo/working
-    oomp_doc: footprints/footprints/chriswags/axellogo.kicad_mod/axellogo/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/chriswags/axellogo.kicad_mod/axellogo/working
     oomp_src_flat: footprints_flat/footprints_flat/chriswags_axellogo_axellogo/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/chriswags_axellogo_axellogo/working
-    oomp_src_folder: footprints_folder/footprints_folder/chriswags/axellogo.kicad_mod/axellogo/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/chriswags/axellogo.kicad_mod/axellogo/working
   name: KiCad
+  oomp:
+    footprint_name: axellogo
+    library_name: axellogo_kicad_mod
+    md5: 191ae32f54e00642a6bf03526919b365
+    md5_10: 191ae32f54
+    md5_5: 191ae
+    md5_6: 191ae3
+    oomp_key: oomp_chriswags_axellogo_axellogo
+    oomp_key_extra: oomp_footprint_chriswags_axellogo_axellogo
+    oomp_key_full: oomp_footprint_chriswags_axellogo_axellogo_191ae3
+    oomp_key_simple: chriswags_axellogo_axellogo
+    original_filename: KiCad/mods/axellogo.kicad_mod
+    owner_name: chriswags
   oomp_key: oomp_chriswags_axellogo_axellogo
+  oomp_key_full: oomp_footprint_chriswags_axellogo_axellogo
   oomp_key_simple: chriswags_axellogo_axellogo
   owner: chriswags
   repo:

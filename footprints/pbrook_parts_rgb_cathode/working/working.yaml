@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pbrook_parts_rgb_cathode/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pbrook_parts_rgb_cathode/working
-    oomp_doc: footprints/footprints/pbrook/Parts/rgb_cathode/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/pbrook/Parts/rgb_cathode/working
     oomp_src_flat: footprints_flat/footprints_flat/pbrook_parts_rgb_cathode/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pbrook_parts_rgb_cathode/working
-    oomp_src_folder: footprints_folder/footprints_folder/pbrook/Parts/rgb_cathode/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/pbrook/Parts/rgb_cathode/working
   name: Parts.pretty
+  oomp:
+    footprint_name: rgb_cathode
+    library_name: parts
+    md5: bcaef28baefff75c6a2d006c147c200f
+    md5_10: bcaef28bae
+    md5_5: bcaef
+    md5_6: bcaef2
+    oomp_key: oomp_pbrook_parts_rgb_cathode
+    oomp_key_extra: oomp_footprint_pbrook_parts_rgb_cathode
+    oomp_key_full: oomp_footprint_pbrook_parts_rgb_cathode_bcaef2
+    oomp_key_simple: pbrook_parts_rgb_cathode
+    original_filename: Parts.pretty/rgb_cathode.kicad_mod
+    owner_name: pbrook
   oomp_key: oomp_pbrook_parts_rgb_cathode
+  oomp_key_full: oomp_footprint_pbrook_parts_rgb_cathode
   oomp_key_simple: pbrook_parts_rgb_cathode
   owner: pbrook
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/bcn3d_bcn3d_technologies_zf1_15_01_t_wt/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/bcn3d_bcn3d_technologies_zf1_15_01_t_wt/working
-    oomp_doc: footprints/footprints/BCN3D/BCN3D_Technologies/ZF1-15-01-T-WT/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/BCN3D/BCN3D_Technologies/ZF1-15-01-T-WT/working
     oomp_src_flat: footprints_flat/footprints_flat/bcn3d_bcn3d_technologies_zf1_15_01_t_wt/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/bcn3d_bcn3d_technologies_zf1_15_01_t_wt/working
-    oomp_src_folder: footprints_folder/footprints_folder/BCN3D/BCN3D_Technologies/ZF1-15-01-T-WT/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/BCN3D/BCN3D_Technologies/ZF1-15-01-T-WT/working
   name: BCN3D-Kicad-library
+  oomp:
+    footprint_name: zf1_15_01_t_wt
+    library_name: bcn3d_technologies
+    md5: cf1480a113e4fdf893710812d5cb5470
+    md5_10: cf1480a113
+    md5_5: cf148
+    md5_6: cf1480
+    oomp_key: oomp_bcn3d_bcn3d_technologies_zf1_15_01_t_wt
+    oomp_key_extra: oomp_footprint_bcn3d_bcn3d_technologies_zf1_15_01_t_wt
+    oomp_key_full: oomp_footprint_bcn3d_bcn3d_technologies_zf1_15_01_t_wt_cf1480
+    oomp_key_simple: bcn3d_bcn3d_technologies_zf1_15_01_t_wt
+    original_filename: BCN3D-Kicad-library/BCN3D_Technologies.pretty/ZF1-15-01-T-WT.kicad_mod
+    owner_name: bcn3d
   oomp_key: oomp_bcn3d_bcn3d_technologies_zf1_15_01_t_wt
+  oomp_key_full: oomp_footprint_bcn3d_bcn3d_technologies_zf1_15_01_t_wt
   oomp_key_simple: bcn3d_bcn3d_technologies_zf1_15_01_t_wt
   owner: BCN3D
   repo:

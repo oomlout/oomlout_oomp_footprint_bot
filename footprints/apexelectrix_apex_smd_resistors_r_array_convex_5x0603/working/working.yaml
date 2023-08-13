@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/apexelectrix/apex-smd-resistors.pretty
     oomp_bot: footprints/apexelectrix_apex_smd_resistors_r_array_convex_5x0603/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/apexelectrix_apex_smd_resistors_r_array_convex_5x0603/working
-    oomp_doc: footprints/footprints/apexelectrix/apex-smd-resistors/R_Array_Convex_5x0603/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/apexelectrix/apex-smd-resistors/R_Array_Convex_5x0603/working
     oomp_src_flat: footprints_flat/footprints_flat/apexelectrix_apex_smd_resistors_r_array_convex_5x0603/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/apexelectrix_apex_smd_resistors_r_array_convex_5x0603/working
-    oomp_src_folder: footprints_folder/footprints_folder/apexelectrix/apex-smd-resistors/R_Array_Convex_5x0603/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/apexelectrix/apex-smd-resistors/R_Array_Convex_5x0603/working
   name: apex-smd-resistors.pretty
+  oomp:
+    footprint_name: r_array_convex_5x0603
+    library_name: apex_smd_resistors
+    md5: 5b9850e0644637bd8746b4d2d59e531d
+    md5_10: 5b9850e064
+    md5_5: 5b985
+    md5_6: 5b9850
+    oomp_key: oomp_apexelectrix_apex_smd_resistors_r_array_convex_5x0603
+    oomp_key_extra: oomp_footprint_apexelectrix_apex_smd_resistors_r_array_convex_5x0603
+    oomp_key_full: oomp_footprint_apexelectrix_apex_smd_resistors_r_array_convex_5x0603_5b9850
+    oomp_key_simple: apexelectrix_apex_smd_resistors_r_array_convex_5x0603
+    original_filename: apex-smd-resistors.pretty/R_Array_Convex_5x0603.kicad_mod
+    owner_name: apexelectrix
   oomp_key: oomp_apexelectrix_apex_smd_resistors_r_array_convex_5x0603
+  oomp_key_full: oomp_footprint_apexelectrix_apex_smd_resistors_r_array_convex_5x0603
   oomp_key_simple: apexelectrix_apex_smd_resistors_r_array_convex_5x0603
   owner: apexelectrix
   repo:

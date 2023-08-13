@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/kikaiken/kicad_others.pretty
     oomp_bot: footprints/kikaiken_kicad_others_nutube/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kikaiken_kicad_others_nutube/working
-    oomp_doc: footprints/footprints/kikaiken/kicad_others/Nutube/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kikaiken/kicad_others/Nutube/working
     oomp_src_flat: footprints_flat/footprints_flat/kikaiken_kicad_others_nutube/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kikaiken_kicad_others_nutube/working
-    oomp_src_folder: footprints_folder/footprints_folder/kikaiken/kicad_others/Nutube/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kikaiken/kicad_others/Nutube/working
   name: kicad_others.pretty
+  oomp:
+    footprint_name: nutube
+    library_name: kicad_others
+    md5: d8baf1d52c359f7d9b858c4fc8bb765f
+    md5_10: d8baf1d52c
+    md5_5: d8baf
+    md5_6: d8baf1
+    oomp_key: oomp_kikaiken_kicad_others_nutube
+    oomp_key_extra: oomp_footprint_kikaiken_kicad_others_nutube
+    oomp_key_full: oomp_footprint_kikaiken_kicad_others_nutube_d8baf1
+    oomp_key_simple: kikaiken_kicad_others_nutube
+    original_filename: kicad_others.pretty/Nutube.kicad_mod
+    owner_name: kikaiken
   oomp_key: oomp_kikaiken_kicad_others_nutube
+  oomp_key_full: oomp_footprint_kikaiken_kicad_others_nutube
   oomp_key_simple: kikaiken_kicad_others_nutube
   owner: kikaiken
   repo:

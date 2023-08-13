@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/natsfr_odfn_pe42430_dfn/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/natsfr_odfn_pe42430_dfn/working
-    oomp_doc: footprints/footprints/natsfr/ODFN/PE42430_DFN/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/natsfr/ODFN/PE42430_DFN/working
     oomp_src_flat: footprints_flat/footprints_flat/natsfr_odfn_pe42430_dfn/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/natsfr_odfn_pe42430_dfn/working
-    oomp_src_folder: footprints_folder/footprints_folder/natsfr/ODFN/PE42430_DFN/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/natsfr/ODFN/PE42430_DFN/working
   name: kicad-components
+  oomp:
+    footprint_name: pe42430_dfn
+    library_name: odfn
+    md5: 6675f4398c0b3033a6ba644e42b5fb30
+    md5_10: 6675f4398c
+    md5_5: 6675f
+    md5_6: 6675f4
+    oomp_key: oomp_natsfr_odfn_pe42430_dfn
+    oomp_key_extra: oomp_footprint_natsfr_odfn_pe42430_dfn
+    oomp_key_full: oomp_footprint_natsfr_odfn_pe42430_dfn_6675f4
+    oomp_key_simple: natsfr_odfn_pe42430_dfn
+    original_filename: kicad-components/Pretty_Footprints/ODFN.pretty/PE42430_DFN.kicad_mod
+    owner_name: natsfr
   oomp_key: oomp_natsfr_odfn_pe42430_dfn
+  oomp_key_full: oomp_footprint_natsfr_odfn_pe42430_dfn
   oomp_key_simple: natsfr_odfn_pe42430_dfn
   owner: natsfr
   repo:

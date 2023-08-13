@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/Iangitpers/4a
     oomp_bot: footprints/iangitpers_sot65p210x110_6n_sot65p210x110_6n/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/iangitpers_sot65p210x110_6n_sot65p210x110_6n/working
-    oomp_doc: footprints/footprints/Iangitpers/SOT65P210X110-6N.kicad_mod/SOT65P210X110-6N/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Iangitpers/SOT65P210X110-6N.kicad_mod/SOT65P210X110-6N/working
     oomp_src_flat: footprints_flat/footprints_flat/iangitpers_sot65p210x110_6n_sot65p210x110_6n/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/iangitpers_sot65p210x110_6n_sot65p210x110_6n/working
-    oomp_src_folder: footprints_folder/footprints_folder/Iangitpers/SOT65P210X110-6N.kicad_mod/SOT65P210X110-6N/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Iangitpers/SOT65P210X110-6N.kicad_mod/SOT65P210X110-6N/working
   name: 4a
+  oomp:
+    footprint_name: sot65p210x110_6n
+    library_name: sot65p210x110_6n_kicad_mod
+    md5: 517468f7e8a235df2a46e77ccac803c8
+    md5_10: 517468f7e8
+    md5_5: '51746'
+    md5_6: '517468'
+    oomp_key: oomp_iangitpers_sot65p210x110_6n_sot65p210x110_6n
+    oomp_key_extra: oomp_footprint_iangitpers_sot65p210x110_6n_sot65p210x110_6n
+    oomp_key_full: oomp_footprint_iangitpers_sot65p210x110_6n_sot65p210x110_6n_517468
+    oomp_key_simple: iangitpers_sot65p210x110_6n_sot65p210x110_6n
+    original_filename: 4a/DMMT3906W-7/SOT65P210X110-6N.kicad_mod
+    owner_name: iangitpers
   oomp_key: oomp_iangitpers_sot65p210x110_6n_sot65p210x110_6n
+  oomp_key_full: oomp_footprint_iangitpers_sot65p210x110_6n_sot65p210x110_6n
   oomp_key_simple: iangitpers_sot65p210x110_6n_sot65p210x110_6n
   owner: Iangitpers
   repo:

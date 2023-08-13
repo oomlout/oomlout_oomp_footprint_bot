@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cormoran_kicad_qfp_100_14x14_0_5/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cormoran_kicad_qfp_100_14x14_0_5/working
-    oomp_doc: footprints/footprints/cormoran/kicad/QFP_100_14X14_0.5/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cormoran/kicad/QFP_100_14X14_0.5/working
     oomp_src_flat: footprints_flat/footprints_flat/cormoran_kicad_qfp_100_14x14_0_5/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cormoran_kicad_qfp_100_14x14_0_5/working
-    oomp_src_folder: footprints_folder/footprints_folder/cormoran/kicad/QFP_100_14X14_0.5/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cormoran/kicad/QFP_100_14X14_0.5/working
   name: kicad.pretty
+  oomp:
+    footprint_name: qfp_100_14x14_0_5
+    library_name: kicad
+    md5: 08d0e0ff25802a95bd6ce526753cd0c8
+    md5_10: 08d0e0ff25
+    md5_5: 08d0e
+    md5_6: 08d0e0
+    oomp_key: oomp_cormoran_kicad_qfp_100_14x14_0_5
+    oomp_key_extra: oomp_footprint_cormoran_kicad_qfp_100_14x14_0_5
+    oomp_key_full: oomp_footprint_cormoran_kicad_qfp_100_14x14_0_5_08d0e0
+    oomp_key_simple: cormoran_kicad_qfp_100_14x14_0_5
+    original_filename: kicad.pretty/QFP_100_14X14_0.5.kicad_mod
+    owner_name: cormoran
   oomp_key: oomp_cormoran_kicad_qfp_100_14x14_0_5
+  oomp_key_full: oomp_footprint_cormoran_kicad_qfp_100_14x14_0_5
   oomp_key_simple: cormoran_kicad_qfp_100_14x14_0_5
   owner: cormoran
   repo:

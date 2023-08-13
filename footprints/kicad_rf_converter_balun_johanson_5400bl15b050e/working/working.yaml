@@ -11,17 +11,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_rf_converter_balun_johanson_5400bl15b050e/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_rf_converter_balun_johanson_5400bl15b050e/working
-    oomp_doc: footprints/footprints/kicad/RF_Converter/Balun_Johanson_5400BL15B050E/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/RF_Converter/Balun_Johanson_5400BL15B050E/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_rf_converter_balun_johanson_5400bl15b050e/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_rf_converter_balun_johanson_5400bl15b050e/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/RF_Converter/Balun_Johanson_5400BL15B050E/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/RF_Converter/Balun_Johanson_5400BL15B050E/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: balun_johanson_5400bl15b050e
+    library_name: rf_converter
+    md5: 98a29c40af451e8e84f9bf04639e117b
+    md5_10: 98a29c40af
+    md5_5: 98a29
+    md5_6: 98a29c
+    oomp_key: oomp_kicad_rf_converter_balun_johanson_5400bl15b050e
+    oomp_key_extra: oomp_footprint_kicad_rf_converter_balun_johanson_5400bl15b050e
+    oomp_key_full: oomp_footprint_kicad_rf_converter_balun_johanson_5400bl15b050e_98a29c
+    oomp_key_simple: kicad_rf_converter_balun_johanson_5400bl15b050e
+    original_filename: libraries/kicad-footprints/RF_Converter.pretty/Balun_Johanson_5400BL15B050E.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_rf_converter_balun_johanson_5400bl15b050e
+  oomp_key_full: oomp_footprint_kicad_rf_converter_balun_johanson_5400bl15b050e
   oomp_key_simple: kicad_rf_converter_balun_johanson_5400bl15b050e
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

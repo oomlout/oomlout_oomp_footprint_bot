@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/olimex_kit_dev_coldfire_sm1206pol/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/olimex_kit_dev_coldfire_sm1206pol/working
-    oomp_doc: footprints/footprints/OLIMEX/kit-dev-coldfire/SM1206POL/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/OLIMEX/kit-dev-coldfire/SM1206POL/working
     oomp_src_flat: footprints_flat/footprints_flat/olimex_kit_dev_coldfire_sm1206pol/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/olimex_kit_dev_coldfire_sm1206pol/working
-    oomp_src_folder: footprints_folder/footprints_folder/OLIMEX/kit-dev-coldfire/SM1206POL/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/OLIMEX/kit-dev-coldfire/SM1206POL/working
   name: KiCAD
+  oomp:
+    footprint_name: sm1206pol
+    library_name: kit_dev_coldfire
+    md5: 1373c9321a46d0416b4f46da78c0d934
+    md5_10: 1373c9321a
+    md5_5: 1373c
+    md5_6: 1373c9
+    oomp_key: oomp_olimex_kit_dev_coldfire_sm1206pol
+    oomp_key_extra: oomp_footprint_olimex_kit_dev_coldfire_sm1206pol
+    oomp_key_full: oomp_footprint_olimex_kit_dev_coldfire_sm1206pol_1373c9
+    oomp_key_simple: olimex_kit_dev_coldfire_sm1206pol
+    original_filename: KiCAD/demos/kit-dev-coldfire-xilinx_5213/kit-dev-coldfire.pretty/SM1206POL.kicad_mod
+    owner_name: olimex
   oomp_key: oomp_olimex_kit_dev_coldfire_sm1206pol
+  oomp_key_full: oomp_footprint_olimex_kit_dev_coldfire_sm1206pol
   oomp_key_simple: olimex_kit_dev_coldfire_sm1206pol
   owner: OLIMEX
   repo:

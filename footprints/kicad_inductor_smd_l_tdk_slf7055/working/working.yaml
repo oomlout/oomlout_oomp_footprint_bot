@@ -1,5 +1,9 @@
-- error: Expression does not have the correct type
-  file: libraries/kicad-footprints/Inductor_SMD.pretty/L_TDK_SLF7055.kicad_mod
+- file: libraries/kicad-footprints/Inductor_SMD.pretty/L_TDK_SLF7055.kicad_mod
+  footprint:
+    description: Inductor, TDK, SLF7055, 7.0mmx7.0mm (Script generated with StandardBox.py)
+      (https://product.tdk.com/info/en/document/catalog/smd/inductor_commercial_power_slf7055_en.pdf)
+    libraryLink: L_TDK_SLF7055
+    number_of_pads: 2
   footprint_library_directory: footprint_library_owner/kicad_libraries/kicad-footprints/
   footprint_library_directory_flat: footprints_flat/kicad_inductor_smd_l_tdk_slf7055/working
   github_path: http://github.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Inductor_SMD.pretty/L_TDK_SLF7055.kicad_mod
@@ -8,17 +12,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_inductor_smd_l_tdk_slf7055/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_inductor_smd_l_tdk_slf7055/working
-    oomp_doc: footprints/footprints/kicad/Inductor_SMD/L_TDK_SLF7055/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Inductor_SMD/L_TDK_SLF7055/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_inductor_smd_l_tdk_slf7055/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_inductor_smd_l_tdk_slf7055/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Inductor_SMD/L_TDK_SLF7055/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Inductor_SMD/L_TDK_SLF7055/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: l_tdk_slf7055
+    library_name: inductor_smd
+    md5: 10d58fb011f439e4b30867f9405ba878
+    md5_10: 10d58fb011
+    md5_5: 10d58
+    md5_6: 10d58f
+    oomp_key: oomp_kicad_inductor_smd_l_tdk_slf7055
+    oomp_key_extra: oomp_footprint_kicad_inductor_smd_l_tdk_slf7055
+    oomp_key_full: oomp_footprint_kicad_inductor_smd_l_tdk_slf7055_10d58f
+    oomp_key_simple: kicad_inductor_smd_l_tdk_slf7055
+    original_filename: libraries/kicad-footprints/Inductor_SMD.pretty/L_TDK_SLF7055.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_inductor_smd_l_tdk_slf7055
+  oomp_key_full: oomp_footprint_kicad_inductor_smd_l_tdk_slf7055
   oomp_key_simple: kicad_inductor_smd_l_tdk_slf7055
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

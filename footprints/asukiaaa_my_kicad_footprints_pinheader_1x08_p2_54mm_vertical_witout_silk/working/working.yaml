@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/asukiaaa_my_kicad_footprints_pinheader_1x08_p2_54mm_vertical_witout_silk/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/asukiaaa_my_kicad_footprints_pinheader_1x08_p2_54mm_vertical_witout_silk/working
-    oomp_doc: footprints/footprints/asukiaaa/my-kicad-footprints/PinHeader_1x08_P2.54mm_Vertical_witout_silk/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/asukiaaa/my-kicad-footprints/PinHeader_1x08_P2.54mm_Vertical_witout_silk/working
     oomp_src_flat: footprints_flat/footprints_flat/asukiaaa_my_kicad_footprints_pinheader_1x08_p2_54mm_vertical_witout_silk/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/asukiaaa_my_kicad_footprints_pinheader_1x08_p2_54mm_vertical_witout_silk/working
-    oomp_src_folder: footprints_folder/footprints_folder/asukiaaa/my-kicad-footprints/PinHeader_1x08_P2.54mm_Vertical_witout_silk/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/asukiaaa/my-kicad-footprints/PinHeader_1x08_P2.54mm_Vertical_witout_silk/working
   name: my-kicad-footprints.pretty
+  oomp:
+    footprint_name: pinheader_1x08_p2_54mm_vertical_witout_silk
+    library_name: my_kicad_footprints
+    md5: f7d7a0e004fe9e14edcfee271b358015
+    md5_10: f7d7a0e004
+    md5_5: f7d7a
+    md5_6: f7d7a0
+    oomp_key: oomp_asukiaaa_my_kicad_footprints_pinheader_1x08_p2_54mm_vertical_witout_silk
+    oomp_key_extra: oomp_footprint_asukiaaa_my_kicad_footprints_pinheader_1x08_p2_54mm_vertical_witout_silk
+    oomp_key_full: oomp_footprint_asukiaaa_my_kicad_footprints_pinheader_1x08_p2_54mm_vertical_witout_silk_f7d7a0
+    oomp_key_simple: asukiaaa_my_kicad_footprints_pinheader_1x08_p2_54mm_vertical_witout_silk
+    original_filename: my-kicad-footprints.pretty/PinHeader_1x08_P2.54mm_Vertical_witout_silk.kicad_mod
+    owner_name: asukiaaa
   oomp_key: oomp_asukiaaa_my_kicad_footprints_pinheader_1x08_p2_54mm_vertical_witout_silk
+  oomp_key_full: oomp_footprint_asukiaaa_my_kicad_footprints_pinheader_1x08_p2_54mm_vertical_witout_silk
   oomp_key_simple: asukiaaa_my_kicad_footprints_pinheader_1x08_p2_54mm_vertical_witout_silk
   owner: asukiaaa
   repo:

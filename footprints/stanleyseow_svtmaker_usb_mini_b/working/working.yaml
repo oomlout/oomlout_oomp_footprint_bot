@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/stanleyseow_svtmaker_usb_mini_b/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stanleyseow_svtmaker_usb_mini_b/working
-    oomp_doc: footprints/footprints/stanleyseow/SVTmaker/USB_Mini-B/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/stanleyseow/SVTmaker/USB_Mini-B/working
     oomp_src_flat: footprints_flat/footprints_flat/stanleyseow_svtmaker_usb_mini_b/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/stanleyseow_svtmaker_usb_mini_b/working
-    oomp_src_folder: footprints_folder/footprints_folder/stanleyseow/SVTmaker/USB_Mini-B/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/stanleyseow/SVTmaker/USB_Mini-B/working
   name: SVTmaker.pretty
+  oomp:
+    footprint_name: usb_mini_b
+    library_name: svtmaker
+    md5: 24d683a01ef617709ce80994148afc70
+    md5_10: 24d683a01e
+    md5_5: 24d68
+    md5_6: 24d683
+    oomp_key: oomp_stanleyseow_svtmaker_usb_mini_b
+    oomp_key_extra: oomp_footprint_stanleyseow_svtmaker_usb_mini_b
+    oomp_key_full: oomp_footprint_stanleyseow_svtmaker_usb_mini_b_24d683
+    oomp_key_simple: stanleyseow_svtmaker_usb_mini_b
+    original_filename: SVTmaker.pretty/USB_Mini-B.kicad_mod
+    owner_name: stanleyseow
   oomp_key: oomp_stanleyseow_svtmaker_usb_mini_b
+  oomp_key_full: oomp_footprint_stanleyseow_svtmaker_usb_mini_b
   oomp_key_simple: stanleyseow_svtmaker_usb_mini_b
   owner: stanleyseow
   repo:

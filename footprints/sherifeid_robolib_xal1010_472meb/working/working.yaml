@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/sherifeid_robolib_xal1010_472meb/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/sherifeid_robolib_xal1010_472meb/working
-    oomp_doc: footprints/footprints/sherifeid/RoboLib/XAL1010-472MEB/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/sherifeid/RoboLib/XAL1010-472MEB/working
     oomp_src_flat: footprints_flat/footprints_flat/sherifeid_robolib_xal1010_472meb/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/sherifeid_robolib_xal1010_472meb/working
-    oomp_src_folder: footprints_folder/footprints_folder/sherifeid/RoboLib/XAL1010-472MEB/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/sherifeid/RoboLib/XAL1010-472MEB/working
   name: RoboLib.pretty
+  oomp:
+    footprint_name: xal1010_472meb
+    library_name: robolib
+    md5: 1ec86c6072588ab5ecc2e25791b3e1eb
+    md5_10: 1ec86c6072
+    md5_5: 1ec86
+    md5_6: 1ec86c
+    oomp_key: oomp_sherifeid_robolib_xal1010_472meb
+    oomp_key_extra: oomp_footprint_sherifeid_robolib_xal1010_472meb
+    oomp_key_full: oomp_footprint_sherifeid_robolib_xal1010_472meb_1ec86c
+    oomp_key_simple: sherifeid_robolib_xal1010_472meb
+    original_filename: RoboLib.pretty/XAL1010-472MEB.kicad_mod
+    owner_name: sherifeid
   oomp_key: oomp_sherifeid_robolib_xal1010_472meb
+  oomp_key_full: oomp_footprint_sherifeid_robolib_xal1010_472meb
   oomp_key_simple: sherifeid_robolib_xal1010_472meb
   owner: sherifeid
   repo:

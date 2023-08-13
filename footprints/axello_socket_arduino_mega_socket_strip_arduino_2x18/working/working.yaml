@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/axello_socket_arduino_mega_socket_strip_arduino_2x18/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/axello_socket_arduino_mega_socket_strip_arduino_2x18/working
-    oomp_doc: footprints/footprints/axello/Socket_Arduino_Mega/Socket_Strip_Arduino_2x18/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/axello/Socket_Arduino_Mega/Socket_Strip_Arduino_2x18/working
     oomp_src_flat: footprints_flat/footprints_flat/axello_socket_arduino_mega_socket_strip_arduino_2x18/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/axello_socket_arduino_mega_socket_strip_arduino_2x18/working
-    oomp_src_folder: footprints_folder/footprints_folder/axello/Socket_Arduino_Mega/Socket_Strip_Arduino_2x18/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/axello/Socket_Arduino_Mega/Socket_Strip_Arduino_2x18/working
   name: kicad
+  oomp:
+    footprint_name: socket_strip_arduino_2x18
+    library_name: socket_arduino_mega
+    md5: 871bebf07e53d5622536b456e979255c
+    md5_10: 871bebf07e
+    md5_5: 871be
+    md5_6: 871beb
+    oomp_key: oomp_axello_socket_arduino_mega_socket_strip_arduino_2x18
+    oomp_key_extra: oomp_footprint_axello_socket_arduino_mega_socket_strip_arduino_2x18
+    oomp_key_full: oomp_footprint_axello_socket_arduino_mega_socket_strip_arduino_2x18_871beb
+    oomp_key_simple: axello_socket_arduino_mega_socket_strip_arduino_2x18
+    original_filename: kicad/Arduino_Mega_433Mhz_Shield/Socket_Arduino_Mega.pretty/Socket_Strip_Arduino_2x18.kicad_mod
+    owner_name: axello
   oomp_key: oomp_axello_socket_arduino_mega_socket_strip_arduino_2x18
+  oomp_key_full: oomp_footprint_axello_socket_arduino_mega_socket_strip_arduino_2x18
   oomp_key_simple: axello_socket_arduino_mega_socket_strip_arduino_2x18
   owner: axello
   repo:

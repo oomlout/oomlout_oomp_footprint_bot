@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/olimex_esp_rs232_spi_header/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/olimex_esp_rs232_spi_header/working
-    oomp_doc: footprints/footprints/OLIMEX/ESP-RS232/SPI_Header/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/OLIMEX/ESP-RS232/SPI_Header/working
     oomp_src_flat: footprints_flat/footprints_flat/olimex_esp_rs232_spi_header/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/olimex_esp_rs232_spi_header/working
-    oomp_src_folder: footprints_folder/footprints_folder/OLIMEX/ESP-RS232/SPI_Header/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/OLIMEX/ESP-RS232/SPI_Header/working
   name: KiCAD
+  oomp:
+    footprint_name: spi_header
+    library_name: esp_rs232
+    md5: de5890aa74690ea606fdf930fc833fe3
+    md5_10: de5890aa74
+    md5_5: de589
+    md5_6: de5890
+    oomp_key: oomp_olimex_esp_rs232_spi_header
+    oomp_key_extra: oomp_footprint_olimex_esp_rs232_spi_header
+    oomp_key_full: oomp_footprint_olimex_esp_rs232_spi_header_de5890
+    oomp_key_simple: olimex_esp_rs232_spi_header
+    original_filename: KiCAD/mods/ESP-RS232.pretty/SPI_Header.kicad_mod
+    owner_name: olimex
   oomp_key: oomp_olimex_esp_rs232_spi_header
+  oomp_key_full: oomp_footprint_olimex_esp_rs232_spi_header
   oomp_key_simple: olimex_esp_rs232_spi_header
   owner: OLIMEX
   repo:

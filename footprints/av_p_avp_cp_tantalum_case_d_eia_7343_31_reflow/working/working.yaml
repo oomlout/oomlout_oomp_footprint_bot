@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/av_p_avp_cp_tantalum_case_d_eia_7343_31_reflow/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/av_p_avp_cp_tantalum_case_d_eia_7343_31_reflow/working
-    oomp_doc: footprints/footprints/av-p/Avp/CP_Tantalum_Case-D_EIA-7343-31_Reflow/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/av-p/Avp/CP_Tantalum_Case-D_EIA-7343-31_Reflow/working
     oomp_src_flat: footprints_flat/footprints_flat/av_p_avp_cp_tantalum_case_d_eia_7343_31_reflow/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/av_p_avp_cp_tantalum_case_d_eia_7343_31_reflow/working
-    oomp_src_folder: footprints_folder/footprints_folder/av-p/Avp/CP_Tantalum_Case-D_EIA-7343-31_Reflow/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/av-p/Avp/CP_Tantalum_Case-D_EIA-7343-31_Reflow/working
   name: Avp.pretty
+  oomp:
+    footprint_name: cp_tantalum_case_d_eia_7343_31_reflow
+    library_name: avp
+    md5: 849924794dd9d1dcaefdf3cccfd2bd8f
+    md5_10: 849924794d
+    md5_5: '84992'
+    md5_6: '849924'
+    oomp_key: oomp_av_p_avp_cp_tantalum_case_d_eia_7343_31_reflow
+    oomp_key_extra: oomp_footprint_av_p_avp_cp_tantalum_case_d_eia_7343_31_reflow
+    oomp_key_full: oomp_footprint_av_p_avp_cp_tantalum_case_d_eia_7343_31_reflow_849924
+    oomp_key_simple: av_p_avp_cp_tantalum_case_d_eia_7343_31_reflow
+    original_filename: Avp.pretty/CP_Tantalum_Case-D_EIA-7343-31_Reflow.kicad_mod
+    owner_name: av_p
   oomp_key: oomp_av_p_avp_cp_tantalum_case_d_eia_7343_31_reflow
+  oomp_key_full: oomp_footprint_av_p_avp_cp_tantalum_case_d_eia_7343_31_reflow
   oomp_key_simple: av_p_avp_cp_tantalum_case_d_eia_7343_31_reflow
   owner: av-p
   repo:

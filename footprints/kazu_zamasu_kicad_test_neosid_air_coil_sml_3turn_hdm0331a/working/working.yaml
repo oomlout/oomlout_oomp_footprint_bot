@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kazu_zamasu_kicad_test_neosid_air_coil_sml_3turn_hdm0331a/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kazu_zamasu_kicad_test_neosid_air_coil_sml_3turn_hdm0331a/working
-    oomp_doc: footprints/footprints/Kazu-zamasu/kicad-test/Neosid_Air-Coil_SML_3turn_HDM0331A/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Kazu-zamasu/kicad-test/Neosid_Air-Coil_SML_3turn_HDM0331A/working
     oomp_src_flat: footprints_flat/footprints_flat/kazu_zamasu_kicad_test_neosid_air_coil_sml_3turn_hdm0331a/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kazu_zamasu_kicad_test_neosid_air_coil_sml_3turn_hdm0331a/working
-    oomp_src_folder: footprints_folder/footprints_folder/Kazu-zamasu/kicad-test/Neosid_Air-Coil_SML_3turn_HDM0331A/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Kazu-zamasu/kicad-test/Neosid_Air-Coil_SML_3turn_HDM0331A/working
   name: kicad-test.pretty
+  oomp:
+    footprint_name: neosid_air_coil_sml_3turn_hdm0331a
+    library_name: kicad_test
+    md5: 8ca32fca11dcb6cfd5eee5622f2b38cd
+    md5_10: 8ca32fca11
+    md5_5: 8ca32
+    md5_6: 8ca32f
+    oomp_key: oomp_kazu_zamasu_kicad_test_neosid_air_coil_sml_3turn_hdm0331a
+    oomp_key_extra: oomp_footprint_kazu_zamasu_kicad_test_neosid_air_coil_sml_3turn_hdm0331a
+    oomp_key_full: oomp_footprint_kazu_zamasu_kicad_test_neosid_air_coil_sml_3turn_hdm0331a_8ca32f
+    oomp_key_simple: kazu_zamasu_kicad_test_neosid_air_coil_sml_3turn_hdm0331a
+    original_filename: kicad-test.pretty/Neosid_Air-Coil_SML_3turn_HDM0331A.kicad_mod
+    owner_name: kazu_zamasu
   oomp_key: oomp_kazu_zamasu_kicad_test_neosid_air_coil_sml_3turn_hdm0331a
+  oomp_key_full: oomp_footprint_kazu_zamasu_kicad_test_neosid_air_coil_sml_3turn_hdm0331a
   oomp_key_simple: kazu_zamasu_kicad_test_neosid_air_coil_sml_3turn_hdm0331a
   owner: Kazu-zamasu
   repo:

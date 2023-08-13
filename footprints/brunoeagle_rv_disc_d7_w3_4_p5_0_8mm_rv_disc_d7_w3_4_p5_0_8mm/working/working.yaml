@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_rv_disc_d7_w3_4_p5_0_8mm_rv_disc_d7_w3_4_p5_0_8mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_rv_disc_d7_w3_4_p5_0_8mm_rv_disc_d7_w3_4_p5_0_8mm/working
-    oomp_doc: footprints/footprints/brunoeagle/RV_Disc_D7_W3.4_P5_0.8mm.kicad_mod/RV_Disc_D7_W3.4_P5_0.8mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/RV_Disc_D7_W3.4_P5_0.8mm.kicad_mod/RV_Disc_D7_W3.4_P5_0.8mm/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_rv_disc_d7_w3_4_p5_0_8mm_rv_disc_d7_w3_4_p5_0_8mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_rv_disc_d7_w3_4_p5_0_8mm_rv_disc_d7_w3_4_p5_0_8mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/RV_Disc_D7_W3.4_P5_0.8mm.kicad_mod/RV_Disc_D7_W3.4_P5_0.8mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/RV_Disc_D7_W3.4_P5_0.8mm.kicad_mod/RV_Disc_D7_W3.4_P5_0.8mm/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: rv_disc_d7_w3_4_p5_0_8mm
+    library_name: rv_disc_d7_w3_4_p5_0_8mm_kicad_mod
+    md5: 5d83524cadbf2f4a27c93e679e8be659
+    md5_10: 5d83524cad
+    md5_5: 5d835
+    md5_6: 5d8352
+    oomp_key: oomp_brunoeagle_rv_disc_d7_w3_4_p5_0_8mm_rv_disc_d7_w3_4_p5_0_8mm
+    oomp_key_extra: oomp_footprint_brunoeagle_rv_disc_d7_w3_4_p5_0_8mm_rv_disc_d7_w3_4_p5_0_8mm
+    oomp_key_full: oomp_footprint_brunoeagle_rv_disc_d7_w3_4_p5_0_8mm_rv_disc_d7_w3_4_p5_0_8mm_5d8352
+    oomp_key_simple: brunoeagle_rv_disc_d7_w3_4_p5_0_8mm_rv_disc_d7_w3_4_p5_0_8mm
+    original_filename: kicad-open-modules/RV_Disc_D7_W3.4_P5_0.8mm.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_rv_disc_d7_w3_4_p5_0_8mm_rv_disc_d7_w3_4_p5_0_8mm
+  oomp_key_full: oomp_footprint_brunoeagle_rv_disc_d7_w3_4_p5_0_8mm_rv_disc_d7_w3_4_p5_0_8mm
   oomp_key_simple: brunoeagle_rv_disc_d7_w3_4_p5_0_8mm_rv_disc_d7_w3_4_p5_0_8mm
   owner: brunoeagle
   repo:

@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/candykingdom_homebrew_amphenol_barrierstrip_yk321020xx00g_1x02_p7_62/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/candykingdom_homebrew_amphenol_barrierstrip_yk321020xx00g_1x02_p7_62/working
-    oomp_doc: footprints/footprints/candykingdom/homebrew/Amphenol_BarrierStrip_YK321020XX00G_1x02_P7.62/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/candykingdom/homebrew/Amphenol_BarrierStrip_YK321020XX00G_1x02_P7.62/working
     oomp_src_flat: footprints_flat/footprints_flat/candykingdom_homebrew_amphenol_barrierstrip_yk321020xx00g_1x02_p7_62/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/candykingdom_homebrew_amphenol_barrierstrip_yk321020xx00g_1x02_p7_62/working
-    oomp_src_folder: footprints_folder/footprints_folder/candykingdom/homebrew/Amphenol_BarrierStrip_YK321020XX00G_1x02_P7.62/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/candykingdom/homebrew/Amphenol_BarrierStrip_YK321020XX00G_1x02_P7.62/working
   name: homebrew.pretty
+  oomp:
+    footprint_name: amphenol_barrierstrip_yk321020xx00g_1x02_p7_62
+    library_name: homebrew
+    md5: 0c823112e0364be8c70a2acc082271c7
+    md5_10: 0c823112e0
+    md5_5: 0c823
+    md5_6: 0c8231
+    oomp_key: oomp_candykingdom_homebrew_amphenol_barrierstrip_yk321020xx00g_1x02_p7_62
+    oomp_key_extra: oomp_footprint_candykingdom_homebrew_amphenol_barrierstrip_yk321020xx00g_1x02_p7_62
+    oomp_key_full: oomp_footprint_candykingdom_homebrew_amphenol_barrierstrip_yk321020xx00g_1x02_p7_62_0c8231
+    oomp_key_simple: candykingdom_homebrew_amphenol_barrierstrip_yk321020xx00g_1x02_p7_62
+    original_filename: homebrew.pretty/Amphenol_BarrierStrip_YK321020XX00G_1x02_P7.62.kicad_mod
+    owner_name: candykingdom
   oomp_key: oomp_candykingdom_homebrew_amphenol_barrierstrip_yk321020xx00g_1x02_p7_62
+  oomp_key_full: oomp_footprint_candykingdom_homebrew_amphenol_barrierstrip_yk321020xx00g_1x02_p7_62
   oomp_key_simple: candykingdom_homebrew_amphenol_barrierstrip_yk321020xx00g_1x02_p7_62
   owner: candykingdom
   repo:

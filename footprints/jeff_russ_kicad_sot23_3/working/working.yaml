@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/jeff_russ_kicad_sot23_3/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/jeff_russ_kicad_sot23_3/working
-    oomp_doc: footprints/footprints/Jeff-Russ/Kicad/SOT23-3/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Jeff-Russ/Kicad/SOT23-3/working
     oomp_src_flat: footprints_flat/footprints_flat/jeff_russ_kicad_sot23_3/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/jeff_russ_kicad_sot23_3/working
-    oomp_src_folder: footprints_folder/footprints_folder/Jeff-Russ/Kicad/SOT23-3/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Jeff-Russ/Kicad/SOT23-3/working
   name: Kicad.pretty
+  oomp:
+    footprint_name: sot23_3
+    library_name: kicad
+    md5: 481ba93a049c9add28d5687b2528da1f
+    md5_10: 481ba93a04
+    md5_5: 481ba
+    md5_6: 481ba9
+    oomp_key: oomp_jeff_russ_kicad_sot23_3
+    oomp_key_extra: oomp_footprint_jeff_russ_kicad_sot23_3
+    oomp_key_full: oomp_footprint_jeff_russ_kicad_sot23_3_481ba9
+    oomp_key_simple: jeff_russ_kicad_sot23_3
+    original_filename: Kicad.pretty/SOT23-3.kicad_mod
+    owner_name: jeff_russ
   oomp_key: oomp_jeff_russ_kicad_sot23_3
+  oomp_key_full: oomp_footprint_jeff_russ_kicad_sot23_3
   oomp_key_simple: jeff_russ_kicad_sot23_3
   owner: Jeff-Russ
   repo:

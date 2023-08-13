@@ -12,17 +12,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_package_so_vso_40_7_6x15_4mm_p0_762mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_package_so_vso_40_7_6x15_4mm_p0_762mm/working
-    oomp_doc: footprints/footprints/kicad/Package_SO/VSO-40_7.6x15.4mm_P0.762mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Package_SO/VSO-40_7.6x15.4mm_P0.762mm/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_package_so_vso_40_7_6x15_4mm_p0_762mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_package_so_vso_40_7_6x15_4mm_p0_762mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Package_SO/VSO-40_7.6x15.4mm_P0.762mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Package_SO/VSO-40_7.6x15.4mm_P0.762mm/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: vso_40_7_6x15_4mm_p0_762mm
+    library_name: package_so
+    md5: 935bc2843d15cf26597357474e11e042
+    md5_10: 935bc2843d
+    md5_5: 935bc
+    md5_6: 935bc2
+    oomp_key: oomp_kicad_package_so_vso_40_7_6x15_4mm_p0_762mm
+    oomp_key_extra: oomp_footprint_kicad_package_so_vso_40_7_6x15_4mm_p0_762mm
+    oomp_key_full: oomp_footprint_kicad_package_so_vso_40_7_6x15_4mm_p0_762mm_935bc2
+    oomp_key_simple: kicad_package_so_vso_40_7_6x15_4mm_p0_762mm
+    original_filename: libraries/kicad-footprints/Package_SO.pretty/VSO-40_7.6x15.4mm_P0.762mm.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_package_so_vso_40_7_6x15_4mm_p0_762mm
+  oomp_key_full: oomp_footprint_kicad_package_so_vso_40_7_6x15_4mm_p0_762mm
   oomp_key_simple: kicad_package_so_vso_40_7_6x15_4mm_p0_762mm
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

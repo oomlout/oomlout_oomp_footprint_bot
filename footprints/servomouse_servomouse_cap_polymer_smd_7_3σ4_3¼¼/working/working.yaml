@@ -18,20 +18,29 @@
       /working"
     oomp_bot_github: "https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/servomouse_servomouse_cap_polymer_smd_7_3\u03C3\
       4_3\xBC\xBC/working"
-    oomp_doc: "footprints/footprints/servomouse/servomouse/cap_polymer_smd_7.3\u03C3\
-      4.3\xBC\xBC/working/"
-    oomp_doc_github: "https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/servomouse/servomouse/cap_polymer_smd_7.3\u03C3\
-      4.3\xBC\xBC/working"
     oomp_src_flat: "footprints_flat/footprints_flat/servomouse_servomouse_cap_polymer_smd_7_3\u03C3\
       4_3\xBC\xBC/working"
     oomp_src_flat_github: "https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/servomouse_servomouse_cap_polymer_smd_7_3\u03C3\
       4_3\xBC\xBC/working"
-    oomp_src_folder: "footprints_folder/footprints_folder/servomouse/servomouse/cap_polymer_smd_7.3\u03C3\
-      4.3\xBC\xBC/working"
-    oomp_src_folder_github: "https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/servomouse/servomouse/cap_polymer_smd_7.3\u03C3\
-      4.3\xBC\xBC/working"
   name: servomouse.pretty
+  oomp:
+    footprint_name: "cap_polymer_smd_7_3\u03C34_3\xBC\xBC"
+    library_name: servomouse
+    md5: a8af4c3f6e2871a302be4099445810ba
+    md5_10: a8af4c3f6e
+    md5_5: a8af4
+    md5_6: a8af4c
+    oomp_key: "oomp_servomouse_servomouse_cap_polymer_smd_7_3\u03C34_3\xBC\xBC"
+    oomp_key_extra: "oomp_footprint_servomouse_servomouse_cap_polymer_smd_7_3\u03C3\
+      4_3\xBC\xBC"
+    oomp_key_full: "oomp_footprint_servomouse_servomouse_cap_polymer_smd_7_3\u03C3\
+      4_3\xBC\xBC_a8af4c"
+    oomp_key_simple: "servomouse_servomouse_cap_polymer_smd_7_3\u03C34_3\xBC\xBC"
+    original_filename: "servomouse.pretty/cap_polymer_smd_7.3\u03C34.3\xBC\xBC.kicad_mod"
+    owner_name: servomouse
   oomp_key: "oomp_servomouse_servomouse_cap_polymer_smd_7_3\u03C34_3\xBC\xBC"
+  oomp_key_full: "oomp_footprint_servomouse_servomouse_cap_polymer_smd_7_3\u03C34_3\xBC\
+    \xBC"
   oomp_key_simple: "servomouse_servomouse_cap_polymer_smd_7_3\u03C34_3\xBC\xBC"
   owner: servomouse
   repo:

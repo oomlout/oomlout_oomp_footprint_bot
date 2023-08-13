@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/tahutech_tahutech_mxonly_ledonly/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/tahutech_tahutech_mxonly_ledonly/working
-    oomp_doc: footprints/footprints/TahuTech/tahutech/MXOnly-LEDONLY/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/TahuTech/tahutech/MXOnly-LEDONLY/working
     oomp_src_flat: footprints_flat/footprints_flat/tahutech_tahutech_mxonly_ledonly/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/tahutech_tahutech_mxonly_ledonly/working
-    oomp_src_folder: footprints_folder/footprints_folder/TahuTech/tahutech/MXOnly-LEDONLY/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/TahuTech/tahutech/MXOnly-LEDONLY/working
   name: tahutech.pretty
+  oomp:
+    footprint_name: mxonly_ledonly
+    library_name: tahutech
+    md5: 5ee84c8a2b29865ad7d5c0e967066286
+    md5_10: 5ee84c8a2b
+    md5_5: 5ee84
+    md5_6: 5ee84c
+    oomp_key: oomp_tahutech_tahutech_mxonly_ledonly
+    oomp_key_extra: oomp_footprint_tahutech_tahutech_mxonly_ledonly
+    oomp_key_full: oomp_footprint_tahutech_tahutech_mxonly_ledonly_5ee84c
+    oomp_key_simple: tahutech_tahutech_mxonly_ledonly
+    original_filename: tahutech.pretty/MXOnly-LEDONLY.kicad_mod
+    owner_name: tahutech
   oomp_key: oomp_tahutech_tahutech_mxonly_ledonly
+  oomp_key_full: oomp_footprint_tahutech_tahutech_mxonly_ledonly
   oomp_key_simple: tahutech_tahutech_mxonly_ledonly
   owner: TahuTech
   repo:

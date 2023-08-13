@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/sherifeid_robolib_conn_01x01_3mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/sherifeid_robolib_conn_01x01_3mm/working
-    oomp_doc: footprints/footprints/sherifeid/RoboLib/CONN_01x01_3MM/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/sherifeid/RoboLib/CONN_01x01_3MM/working
     oomp_src_flat: footprints_flat/footprints_flat/sherifeid_robolib_conn_01x01_3mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/sherifeid_robolib_conn_01x01_3mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/sherifeid/RoboLib/CONN_01x01_3MM/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/sherifeid/RoboLib/CONN_01x01_3MM/working
   name: RoboLib.pretty
+  oomp:
+    footprint_name: conn_01x01_3mm
+    library_name: robolib
+    md5: 919b51eeba802c885183e7e92fab74bb
+    md5_10: 919b51eeba
+    md5_5: 919b5
+    md5_6: 919b51
+    oomp_key: oomp_sherifeid_robolib_conn_01x01_3mm
+    oomp_key_extra: oomp_footprint_sherifeid_robolib_conn_01x01_3mm
+    oomp_key_full: oomp_footprint_sherifeid_robolib_conn_01x01_3mm_919b51
+    oomp_key_simple: sherifeid_robolib_conn_01x01_3mm
+    original_filename: RoboLib.pretty/CONN_01x01_3MM.kicad_mod
+    owner_name: sherifeid
   oomp_key: oomp_sherifeid_robolib_conn_01x01_3mm
+  oomp_key_full: oomp_footprint_sherifeid_robolib_conn_01x01_3mm
   oomp_key_simple: sherifeid_robolib_conn_01x01_3mm
   owner: sherifeid
   repo:

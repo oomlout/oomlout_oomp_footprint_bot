@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/stefanhamminga_sh_switches_buttons_push_smd_mom_6x6mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stefanhamminga_sh_switches_buttons_push_smd_mom_6x6mm/working
-    oomp_doc: footprints/footprints/StefanHamminga/SH_Switches_Buttons/Push_SMD_Mom_6x6mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/StefanHamminga/SH_Switches_Buttons/Push_SMD_Mom_6x6mm/working
     oomp_src_flat: footprints_flat/footprints_flat/stefanhamminga_sh_switches_buttons_push_smd_mom_6x6mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/stefanhamminga_sh_switches_buttons_push_smd_mom_6x6mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/StefanHamminga/SH_Switches_Buttons/Push_SMD_Mom_6x6mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/StefanHamminga/SH_Switches_Buttons/Push_SMD_Mom_6x6mm/working
   name: SH_Switches_Buttons.pretty
+  oomp:
+    footprint_name: push_smd_mom_6x6mm
+    library_name: sh_switches_buttons
+    md5: 84c6dcf7d87e028faa56dd046aa8185a
+    md5_10: 84c6dcf7d8
+    md5_5: 84c6d
+    md5_6: 84c6dc
+    oomp_key: oomp_stefanhamminga_sh_switches_buttons_push_smd_mom_6x6mm
+    oomp_key_extra: oomp_footprint_stefanhamminga_sh_switches_buttons_push_smd_mom_6x6mm
+    oomp_key_full: oomp_footprint_stefanhamminga_sh_switches_buttons_push_smd_mom_6x6mm_84c6dc
+    oomp_key_simple: stefanhamminga_sh_switches_buttons_push_smd_mom_6x6mm
+    original_filename: SH_Switches_Buttons.pretty/Push_SMD_Mom_6x6mm.kicad_mod
+    owner_name: stefanhamminga
   oomp_key: oomp_stefanhamminga_sh_switches_buttons_push_smd_mom_6x6mm
+  oomp_key_full: oomp_footprint_stefanhamminga_sh_switches_buttons_push_smd_mom_6x6mm
   oomp_key_simple: stefanhamminga_sh_switches_buttons_push_smd_mom_6x6mm
   owner: StefanHamminga
   repo:

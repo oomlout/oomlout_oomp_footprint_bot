@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/benkev_mylib_lv47017/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/benkev_mylib_lv47017/working
-    oomp_doc: footprints/footprints/benkev/myLib/LV47017/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/benkev/myLib/LV47017/working
     oomp_src_flat: footprints_flat/footprints_flat/benkev_mylib_lv47017/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/benkev_mylib_lv47017/working
-    oomp_src_folder: footprints_folder/footprints_folder/benkev/myLib/LV47017/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/benkev/myLib/LV47017/working
   name: myLib.pretty
+  oomp:
+    footprint_name: lv47017
+    library_name: mylib
+    md5: 1aaf4abe71478c4e94cea44e176e4617
+    md5_10: 1aaf4abe71
+    md5_5: 1aaf4
+    md5_6: 1aaf4a
+    oomp_key: oomp_benkev_mylib_lv47017
+    oomp_key_extra: oomp_footprint_benkev_mylib_lv47017
+    oomp_key_full: oomp_footprint_benkev_mylib_lv47017_1aaf4a
+    oomp_key_simple: benkev_mylib_lv47017
+    original_filename: myLib.pretty/LV47017.kicad_mod
+    owner_name: benkev
   oomp_key: oomp_benkev_mylib_lv47017
+  oomp_key_full: oomp_footprint_benkev_mylib_lv47017
   oomp_key_simple: benkev_mylib_lv47017
   owner: benkev
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/nqbit_nqbit_b3s_1000p/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nqbit_nqbit_b3s_1000p/working
-    oomp_doc: footprints/footprints/nqbit/NQBit/B3S-1000P/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/nqbit/NQBit/B3S-1000P/working
     oomp_src_flat: footprints_flat/footprints_flat/nqbit_nqbit_b3s_1000p/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nqbit_nqbit_b3s_1000p/working
-    oomp_src_folder: footprints_folder/footprints_folder/nqbit/NQBit/B3S-1000P/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/nqbit/NQBit/B3S-1000P/working
   name: NQBit.pretty
+  oomp:
+    footprint_name: b3s_1000p
+    library_name: nqbit
+    md5: dc40f25d424d626df1e0eebf013d1df1
+    md5_10: dc40f25d42
+    md5_5: dc40f
+    md5_6: dc40f2
+    oomp_key: oomp_nqbit_nqbit_b3s_1000p
+    oomp_key_extra: oomp_footprint_nqbit_nqbit_b3s_1000p
+    oomp_key_full: oomp_footprint_nqbit_nqbit_b3s_1000p_dc40f2
+    oomp_key_simple: nqbit_nqbit_b3s_1000p
+    original_filename: NQBit.pretty/B3S-1000P.kicad_mod
+    owner_name: nqbit
   oomp_key: oomp_nqbit_nqbit_b3s_1000p
+  oomp_key_full: oomp_footprint_nqbit_nqbit_b3s_1000p
   oomp_key_simple: nqbit_nqbit_b3s_1000p
   owner: nqbit
   repo:

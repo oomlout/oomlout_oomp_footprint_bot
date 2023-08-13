@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/fatenozomi_fate_parts_sw_cherry_mx_2_00u_pcb_socket/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/fatenozomi_fate_parts_sw_cherry_mx_2_00u_pcb_socket/working
-    oomp_doc: footprints/footprints/FateNozomi/Fate_Parts/SW_Cherry_MX_2.00u_PCB_Socket/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/FateNozomi/Fate_Parts/SW_Cherry_MX_2.00u_PCB_Socket/working
     oomp_src_flat: footprints_flat/footprints_flat/fatenozomi_fate_parts_sw_cherry_mx_2_00u_pcb_socket/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/fatenozomi_fate_parts_sw_cherry_mx_2_00u_pcb_socket/working
-    oomp_src_folder: footprints_folder/footprints_folder/FateNozomi/Fate_Parts/SW_Cherry_MX_2.00u_PCB_Socket/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/FateNozomi/Fate_Parts/SW_Cherry_MX_2.00u_PCB_Socket/working
   name: Fate_Parts.pretty
+  oomp:
+    footprint_name: sw_cherry_mx_2_00u_pcb_socket
+    library_name: fate_parts
+    md5: a4db5c3ade0eebc51ae4e89061c219af
+    md5_10: a4db5c3ade
+    md5_5: a4db5
+    md5_6: a4db5c
+    oomp_key: oomp_fatenozomi_fate_parts_sw_cherry_mx_2_00u_pcb_socket
+    oomp_key_extra: oomp_footprint_fatenozomi_fate_parts_sw_cherry_mx_2_00u_pcb_socket
+    oomp_key_full: oomp_footprint_fatenozomi_fate_parts_sw_cherry_mx_2_00u_pcb_socket_a4db5c
+    oomp_key_simple: fatenozomi_fate_parts_sw_cherry_mx_2_00u_pcb_socket
+    original_filename: Fate_Parts.pretty/MX_Switch.pretty/SW_Cherry_MX_2.00u_PCB_Socket.kicad_mod
+    owner_name: fatenozomi
   oomp_key: oomp_fatenozomi_fate_parts_sw_cherry_mx_2_00u_pcb_socket
+  oomp_key_full: oomp_footprint_fatenozomi_fate_parts_sw_cherry_mx_2_00u_pcb_socket
   oomp_key_simple: fatenozomi_fate_parts_sw_cherry_mx_2_00u_pcb_socket
   owner: FateNozomi
   repo:

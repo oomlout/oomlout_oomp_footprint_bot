@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pcsmithy_s8411_45r_s8411_45r/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pcsmithy_s8411_45r_s8411_45r/working
-    oomp_doc: footprints/footprints/PCSmithy/S8411-45R/S8411-45R/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/PCSmithy/S8411-45R/S8411-45R/working
     oomp_src_flat: footprints_flat/footprints_flat/pcsmithy_s8411_45r_s8411_45r/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pcsmithy_s8411_45r_s8411_45r/working
-    oomp_src_folder: footprints_folder/footprints_folder/PCSmithy/S8411-45R/S8411-45R/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/PCSmithy/S8411-45R/S8411-45R/working
   name: S8411-45R.pretty
+  oomp:
+    footprint_name: s8411_45r
+    library_name: s8411_45r
+    md5: bcd1be5bb07dfa08f6c50ebb092efd21
+    md5_10: bcd1be5bb0
+    md5_5: bcd1b
+    md5_6: bcd1be
+    oomp_key: oomp_pcsmithy_s8411_45r_s8411_45r
+    oomp_key_extra: oomp_footprint_pcsmithy_s8411_45r_s8411_45r
+    oomp_key_full: oomp_footprint_pcsmithy_s8411_45r_s8411_45r_bcd1be
+    oomp_key_simple: pcsmithy_s8411_45r_s8411_45r
+    original_filename: S8411-45R.pretty/S8411-45R.kicad_mod
+    owner_name: pcsmithy
   oomp_key: oomp_pcsmithy_s8411_45r_s8411_45r
+  oomp_key_full: oomp_footprint_pcsmithy_s8411_45r_s8411_45r
   oomp_key_simple: pcsmithy_s8411_45r_s8411_45r
   owner: PCSmithy
   repo:

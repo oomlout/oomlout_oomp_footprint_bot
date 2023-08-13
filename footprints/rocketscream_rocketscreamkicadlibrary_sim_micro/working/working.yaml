@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/rocketscream_rocketscreamkicadlibrary_sim_micro/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/rocketscream_rocketscreamkicadlibrary_sim_micro/working
-    oomp_doc: footprints/footprints/rocketscream/RocketScreamKicadLibrary/SIM-MICRO/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/rocketscream/RocketScreamKicadLibrary/SIM-MICRO/working
     oomp_src_flat: footprints_flat/footprints_flat/rocketscream_rocketscreamkicadlibrary_sim_micro/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/rocketscream_rocketscreamkicadlibrary_sim_micro/working
-    oomp_src_folder: footprints_folder/footprints_folder/rocketscream/RocketScreamKicadLibrary/SIM-MICRO/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/rocketscream/RocketScreamKicadLibrary/SIM-MICRO/working
   name: RocketScreamKicadLibrary
+  oomp:
+    footprint_name: sim_micro
+    library_name: rocketscreamkicadlibrary
+    md5: 782c21fc1b7dca8b616a5ed96c1815d0
+    md5_10: 782c21fc1b
+    md5_5: 782c2
+    md5_6: 782c21
+    oomp_key: oomp_rocketscream_rocketscreamkicadlibrary_sim_micro
+    oomp_key_extra: oomp_footprint_rocketscream_rocketscreamkicadlibrary_sim_micro
+    oomp_key_full: oomp_footprint_rocketscream_rocketscreamkicadlibrary_sim_micro_782c21
+    oomp_key_simple: rocketscream_rocketscreamkicadlibrary_sim_micro
+    original_filename: RocketScreamKicadLibrary/RocketScreamKicadLibrary.pretty/SIM-MICRO.kicad_mod
+    owner_name: rocketscream
   oomp_key: oomp_rocketscream_rocketscreamkicadlibrary_sim_micro
+  oomp_key_full: oomp_footprint_rocketscream_rocketscreamkicadlibrary_sim_micro
   oomp_key_simple: rocketscream_rocketscreamkicadlibrary_sim_micro
   owner: rocketscream
   repo:

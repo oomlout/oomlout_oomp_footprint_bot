@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/natsfr_qfn_qfn24_4x4_9vias/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/natsfr_qfn_qfn24_4x4_9vias/working
-    oomp_doc: footprints/footprints/natsfr/QFN/QFN24_4x4_9vias/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/natsfr/QFN/QFN24_4x4_9vias/working
     oomp_src_flat: footprints_flat/footprints_flat/natsfr_qfn_qfn24_4x4_9vias/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/natsfr_qfn_qfn24_4x4_9vias/working
-    oomp_src_folder: footprints_folder/footprints_folder/natsfr/QFN/QFN24_4x4_9vias/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/natsfr/QFN/QFN24_4x4_9vias/working
   name: kicad-components
+  oomp:
+    footprint_name: qfn24_4x4_9vias
+    library_name: qfn
+    md5: 84e6f7a06ce429bf767c2892c0c75cf4
+    md5_10: 84e6f7a06c
+    md5_5: 84e6f
+    md5_6: 84e6f7
+    oomp_key: oomp_natsfr_qfn_qfn24_4x4_9vias
+    oomp_key_extra: oomp_footprint_natsfr_qfn_qfn24_4x4_9vias
+    oomp_key_full: oomp_footprint_natsfr_qfn_qfn24_4x4_9vias_84e6f7
+    oomp_key_simple: natsfr_qfn_qfn24_4x4_9vias
+    original_filename: kicad-components/Pretty_Footprints/QFN.pretty/QFN24_4x4_9vias.kicad_mod
+    owner_name: natsfr
   oomp_key: oomp_natsfr_qfn_qfn24_4x4_9vias
+  oomp_key_full: oomp_footprint_natsfr_qfn_qfn24_4x4_9vias
   oomp_key_simple: natsfr_qfn_qfn24_4x4_9vias
   owner: natsfr
   repo:

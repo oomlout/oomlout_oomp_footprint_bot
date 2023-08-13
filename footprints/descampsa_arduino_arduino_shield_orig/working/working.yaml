@@ -9,14 +9,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/descampsa_arduino_arduino_shield_orig/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/descampsa_arduino_arduino_shield_orig/working
-    oomp_doc: footprints/footprints/descampsa/arduino/Arduino_shield_orig/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/descampsa/arduino/Arduino_shield_orig/working
     oomp_src_flat: footprints_flat/footprints_flat/descampsa_arduino_arduino_shield_orig/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/descampsa_arduino_arduino_shield_orig/working
-    oomp_src_folder: footprints_folder/footprints_folder/descampsa/arduino/Arduino_shield_orig/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/descampsa/arduino/Arduino_shield_orig/working
   name: arduino.pretty
+  oomp:
+    footprint_name: arduino_shield_orig
+    library_name: arduino
+    md5: e9bc6ed4573ecf5f7081eafc9a11db46
+    md5_10: e9bc6ed457
+    md5_5: e9bc6
+    md5_6: e9bc6e
+    oomp_key: oomp_descampsa_arduino_arduino_shield_orig
+    oomp_key_extra: oomp_footprint_descampsa_arduino_arduino_shield_orig
+    oomp_key_full: oomp_footprint_descampsa_arduino_arduino_shield_orig_e9bc6e
+    oomp_key_simple: descampsa_arduino_arduino_shield_orig
+    original_filename: arduino.pretty/Arduino_shield_orig.kicad_mod
+    owner_name: descampsa
   oomp_key: oomp_descampsa_arduino_arduino_shield_orig
+  oomp_key_full: oomp_footprint_descampsa_arduino_arduino_shield_orig
   oomp_key_simple: descampsa_arduino_arduino_shield_orig
   owner: descampsa
   repo:

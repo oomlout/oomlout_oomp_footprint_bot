@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cpavlina_conn_fci_fci_10118192_0001lf/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cpavlina_conn_fci_fci_10118192_0001lf/working
-    oomp_doc: footprints/footprints/cpavlina/conn-fci/FCI_10118192-0001LF/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cpavlina/conn-fci/FCI_10118192-0001LF/working
     oomp_src_flat: footprints_flat/footprints_flat/cpavlina_conn_fci_fci_10118192_0001lf/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cpavlina_conn_fci_fci_10118192_0001lf/working
-    oomp_src_folder: footprints_folder/footprints_folder/cpavlina/conn-fci/FCI_10118192-0001LF/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cpavlina/conn-fci/FCI_10118192-0001LF/working
   name: kicad-pcblib
+  oomp:
+    footprint_name: fci_10118192_0001lf
+    library_name: conn_fci
+    md5: 65d9739770a337da7bd1c63062f09bd5
+    md5_10: 65d9739770
+    md5_5: 65d97
+    md5_6: 65d973
+    oomp_key: oomp_cpavlina_conn_fci_fci_10118192_0001lf
+    oomp_key_extra: oomp_footprint_cpavlina_conn_fci_fci_10118192_0001lf
+    oomp_key_full: oomp_footprint_cpavlina_conn_fci_fci_10118192_0001lf_65d973
+    oomp_key_simple: cpavlina_conn_fci_fci_10118192_0001lf
+    original_filename: kicad-pcblib/conn-fci.pretty/FCI_10118192-0001LF.kicad_mod
+    owner_name: cpavlina
   oomp_key: oomp_cpavlina_conn_fci_fci_10118192_0001lf
+  oomp_key_full: oomp_footprint_cpavlina_conn_fci_fci_10118192_0001lf
   oomp_key_simple: cpavlina_conn_fci_fci_10118192_0001lf
   owner: cpavlina
   repo:

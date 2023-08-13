@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/stanleyseow_svtmaker_ec11_encoder/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stanleyseow_svtmaker_ec11_encoder/working
-    oomp_doc: footprints/footprints/stanleyseow/SVTmaker/EC11_ENCODER/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/stanleyseow/SVTmaker/EC11_ENCODER/working
     oomp_src_flat: footprints_flat/footprints_flat/stanleyseow_svtmaker_ec11_encoder/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/stanleyseow_svtmaker_ec11_encoder/working
-    oomp_src_folder: footprints_folder/footprints_folder/stanleyseow/SVTmaker/EC11_ENCODER/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/stanleyseow/SVTmaker/EC11_ENCODER/working
   name: SVTmaker.pretty
+  oomp:
+    footprint_name: ec11_encoder
+    library_name: svtmaker
+    md5: ad996b0d5edd8fb28a3f17b75bfd748d
+    md5_10: ad996b0d5e
+    md5_5: ad996
+    md5_6: ad996b
+    oomp_key: oomp_stanleyseow_svtmaker_ec11_encoder
+    oomp_key_extra: oomp_footprint_stanleyseow_svtmaker_ec11_encoder
+    oomp_key_full: oomp_footprint_stanleyseow_svtmaker_ec11_encoder_ad996b
+    oomp_key_simple: stanleyseow_svtmaker_ec11_encoder
+    original_filename: SVTmaker.pretty/EC11_ENCODER.kicad_mod
+    owner_name: stanleyseow
   oomp_key: oomp_stanleyseow_svtmaker_ec11_encoder
+  oomp_key_full: oomp_footprint_stanleyseow_svtmaker_ec11_encoder
   oomp_key_simple: stanleyseow_svtmaker_ec11_encoder
   owner: stanleyseow
   repo:

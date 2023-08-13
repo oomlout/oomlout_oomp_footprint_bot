@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pelrun_w_pth_resistors_r25x8/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pelrun_w_pth_resistors_r25x8/working
-    oomp_doc: footprints/footprints/pelrun/w_pth_resistors/R25x8/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/pelrun/w_pth_resistors/R25x8/working
     oomp_src_flat: footprints_flat/footprints_flat/pelrun_w_pth_resistors_r25x8/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pelrun_w_pth_resistors_r25x8/working
-    oomp_src_folder: footprints_folder/footprints_folder/pelrun/w_pth_resistors/R25x8/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/pelrun/w_pth_resistors/R25x8/working
   name: libKiCad
+  oomp:
+    footprint_name: r25x8
+    library_name: w_pth_resistors
+    md5: 09a602926b8e94b48f73cdf77f2b6bbe
+    md5_10: 09a602926b
+    md5_5: 09a60
+    md5_6: 09a602
+    oomp_key: oomp_pelrun_w_pth_resistors_r25x8
+    oomp_key_extra: oomp_footprint_pelrun_w_pth_resistors_r25x8
+    oomp_key_full: oomp_footprint_pelrun_w_pth_resistors_r25x8_09a602
+    oomp_key_simple: pelrun_w_pth_resistors_r25x8
+    original_filename: libKiCad/footprint/w_pth_resistors.pretty/R25x8.kicad_mod
+    owner_name: pelrun
   oomp_key: oomp_pelrun_w_pth_resistors_r25x8
+  oomp_key_full: oomp_footprint_pelrun_w_pth_resistors_r25x8
   oomp_key_simple: pelrun_w_pth_resistors_r25x8
   owner: pelrun
   repo:

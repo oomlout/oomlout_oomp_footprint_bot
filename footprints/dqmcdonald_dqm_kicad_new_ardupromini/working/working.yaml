@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/dqmcdonald_dqm_kicad_new_ardupromini/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/dqmcdonald_dqm_kicad_new_ardupromini/working
-    oomp_doc: footprints/footprints/dqmcdonald/DQM_kicad_new/ArduProMini/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/dqmcdonald/DQM_kicad_new/ArduProMini/working
     oomp_src_flat: footprints_flat/footprints_flat/dqmcdonald_dqm_kicad_new_ardupromini/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/dqmcdonald_dqm_kicad_new_ardupromini/working
-    oomp_src_folder: footprints_folder/footprints_folder/dqmcdonald/DQM_kicad_new/ArduProMini/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/dqmcdonald/DQM_kicad_new/ArduProMini/working
   name: DQM_kicad_new.pretty
+  oomp:
+    footprint_name: ardupromini
+    library_name: dqm_kicad_new
+    md5: 48a43b5394439e1a27ba30c9c254cd5e
+    md5_10: 48a43b5394
+    md5_5: 48a43
+    md5_6: 48a43b
+    oomp_key: oomp_dqmcdonald_dqm_kicad_new_ardupromini
+    oomp_key_extra: oomp_footprint_dqmcdonald_dqm_kicad_new_ardupromini
+    oomp_key_full: oomp_footprint_dqmcdonald_dqm_kicad_new_ardupromini_48a43b
+    oomp_key_simple: dqmcdonald_dqm_kicad_new_ardupromini
+    original_filename: DQM_kicad_new.pretty/ArduProMini.kicad_mod
+    owner_name: dqmcdonald
   oomp_key: oomp_dqmcdonald_dqm_kicad_new_ardupromini
+  oomp_key_full: oomp_footprint_dqmcdonald_dqm_kicad_new_ardupromini
   oomp_key_simple: dqmcdonald_dqm_kicad_new_ardupromini
   owner: dqmcdonald
   repo:

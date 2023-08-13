@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/monostable_commonpartslibrary_jst_sph_002t_p0_5s/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/monostable_commonpartslibrary_jst_sph_002t_p0_5s/working
-    oomp_doc: footprints/footprints/monostable/CommonPartsLibrary/JST_SPH-002T-P0.5S/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/monostable/CommonPartsLibrary/JST_SPH-002T-P0.5S/working
     oomp_src_flat: footprints_flat/footprints_flat/monostable_commonpartslibrary_jst_sph_002t_p0_5s/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/monostable_commonpartslibrary_jst_sph_002t_p0_5s/working
-    oomp_src_folder: footprints_folder/footprints_folder/monostable/CommonPartsLibrary/JST_SPH-002T-P0.5S/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/monostable/CommonPartsLibrary/JST_SPH-002T-P0.5S/working
   name: CommonPartsLibrary.pretty
+  oomp:
+    footprint_name: jst_sph_002t_p0_5s
+    library_name: commonpartslibrary
+    md5: 038974cb1d9afeb2193db9cbf3ac7106
+    md5_10: 038974cb1d
+    md5_5: 03897
+    md5_6: 038974
+    oomp_key: oomp_monostable_commonpartslibrary_jst_sph_002t_p0_5s
+    oomp_key_extra: oomp_footprint_monostable_commonpartslibrary_jst_sph_002t_p0_5s
+    oomp_key_full: oomp_footprint_monostable_commonpartslibrary_jst_sph_002t_p0_5s_038974
+    oomp_key_simple: monostable_commonpartslibrary_jst_sph_002t_p0_5s
+    original_filename: CommonPartsLibrary.pretty/JST_SPH-002T-P0.5S.kicad_mod
+    owner_name: monostable
   oomp_key: oomp_monostable_commonpartslibrary_jst_sph_002t_p0_5s
+  oomp_key_full: oomp_footprint_monostable_commonpartslibrary_jst_sph_002t_p0_5s
   oomp_key_simple: monostable_commonpartslibrary_jst_sph_002t_p0_5s
   owner: monostable
   repo:

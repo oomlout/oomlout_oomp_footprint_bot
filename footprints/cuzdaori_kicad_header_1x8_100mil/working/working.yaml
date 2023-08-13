@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cuzdaori_kicad_header_1x8_100mil/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cuzdaori_kicad_header_1x8_100mil/working
-    oomp_doc: footprints/footprints/cuzdaori/KiCad/HEADER_1X8_100MIL/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cuzdaori/KiCad/HEADER_1X8_100MIL/working
     oomp_src_flat: footprints_flat/footprints_flat/cuzdaori_kicad_header_1x8_100mil/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cuzdaori_kicad_header_1x8_100mil/working
-    oomp_src_folder: footprints_folder/footprints_folder/cuzdaori/KiCad/HEADER_1X8_100MIL/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cuzdaori/KiCad/HEADER_1X8_100MIL/working
   name: KiCad.pretty
+  oomp:
+    footprint_name: header_1x8_100mil
+    library_name: kicad
+    md5: b61d6f38c2f1438fb55458a4015dac4a
+    md5_10: b61d6f38c2
+    md5_5: b61d6
+    md5_6: b61d6f
+    oomp_key: oomp_cuzdaori_kicad_header_1x8_100mil
+    oomp_key_extra: oomp_footprint_cuzdaori_kicad_header_1x8_100mil
+    oomp_key_full: oomp_footprint_cuzdaori_kicad_header_1x8_100mil_b61d6f
+    oomp_key_simple: cuzdaori_kicad_header_1x8_100mil
+    original_filename: KiCad.pretty/HEADER_1X8_100MIL.kicad_mod
+    owner_name: cuzdaori
   oomp_key: oomp_cuzdaori_kicad_header_1x8_100mil
+  oomp_key_full: oomp_footprint_cuzdaori_kicad_header_1x8_100mil
   oomp_key_simple: cuzdaori_kicad_header_1x8_100mil
   owner: cuzdaori
   repo:

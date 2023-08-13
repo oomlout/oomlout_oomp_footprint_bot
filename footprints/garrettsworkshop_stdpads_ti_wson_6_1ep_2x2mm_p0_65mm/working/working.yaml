@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/garrettsworkshop_stdpads_ti_wson_6_1ep_2x2mm_p0_65mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/garrettsworkshop_stdpads_ti_wson_6_1ep_2x2mm_p0_65mm/working
-    oomp_doc: footprints/footprints/garrettsworkshop/stdpads/TI_WSON-6-1EP_2x2mm_P0.65mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/garrettsworkshop/stdpads/TI_WSON-6-1EP_2x2mm_P0.65mm/working
     oomp_src_flat: footprints_flat/footprints_flat/garrettsworkshop_stdpads_ti_wson_6_1ep_2x2mm_p0_65mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/garrettsworkshop_stdpads_ti_wson_6_1ep_2x2mm_p0_65mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/garrettsworkshop/stdpads/TI_WSON-6-1EP_2x2mm_P0.65mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/garrettsworkshop/stdpads/TI_WSON-6-1EP_2x2mm_P0.65mm/working
   name: stdpads.pretty
+  oomp:
+    footprint_name: ti_wson_6_1ep_2x2mm_p0_65mm
+    library_name: stdpads
+    md5: fa46909386be8ab6e84c57fcfa96f049
+    md5_10: fa46909386
+    md5_5: fa469
+    md5_6: fa4690
+    oomp_key: oomp_garrettsworkshop_stdpads_ti_wson_6_1ep_2x2mm_p0_65mm
+    oomp_key_extra: oomp_footprint_garrettsworkshop_stdpads_ti_wson_6_1ep_2x2mm_p0_65mm
+    oomp_key_full: oomp_footprint_garrettsworkshop_stdpads_ti_wson_6_1ep_2x2mm_p0_65mm_fa4690
+    oomp_key_simple: garrettsworkshop_stdpads_ti_wson_6_1ep_2x2mm_p0_65mm
+    original_filename: stdpads.pretty/TI_WSON-6-1EP_2x2mm_P0.65mm.kicad_mod
+    owner_name: garrettsworkshop
   oomp_key: oomp_garrettsworkshop_stdpads_ti_wson_6_1ep_2x2mm_p0_65mm
+  oomp_key_full: oomp_footprint_garrettsworkshop_stdpads_ti_wson_6_1ep_2x2mm_p0_65mm
   oomp_key_simple: garrettsworkshop_stdpads_ti_wson_6_1ep_2x2mm_p0_65mm
   owner: garrettsworkshop
   repo:

@@ -12,17 +12,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_connector_hirose_hirose_df12_df12e3_0_60dp_0_5v_2x30_p0_50mm_vertical/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_connector_hirose_hirose_df12_df12e3_0_60dp_0_5v_2x30_p0_50mm_vertical/working
-    oomp_doc: footprints/footprints/kicad/Connector_Hirose/Hirose_DF12_DF12E3.0-60DP-0.5V_2x30_P0.50mm_Vertical/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Connector_Hirose/Hirose_DF12_DF12E3.0-60DP-0.5V_2x30_P0.50mm_Vertical/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_connector_hirose_hirose_df12_df12e3_0_60dp_0_5v_2x30_p0_50mm_vertical/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_connector_hirose_hirose_df12_df12e3_0_60dp_0_5v_2x30_p0_50mm_vertical/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Connector_Hirose/Hirose_DF12_DF12E3.0-60DP-0.5V_2x30_P0.50mm_Vertical/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Connector_Hirose/Hirose_DF12_DF12E3.0-60DP-0.5V_2x30_P0.50mm_Vertical/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: hirose_df12_df12e3_0_60dp_0_5v_2x30_p0_50mm_vertical
+    library_name: connector_hirose
+    md5: beae7f18d090560133135bd5985817a0
+    md5_10: beae7f18d0
+    md5_5: beae7
+    md5_6: beae7f
+    oomp_key: oomp_kicad_connector_hirose_hirose_df12_df12e3_0_60dp_0_5v_2x30_p0_50mm_vertical
+    oomp_key_extra: oomp_footprint_kicad_connector_hirose_hirose_df12_df12e3_0_60dp_0_5v_2x30_p0_50mm_vertical
+    oomp_key_full: oomp_footprint_kicad_connector_hirose_hirose_df12_df12e3_0_60dp_0_5v_2x30_p0_50mm_vertical_beae7f
+    oomp_key_simple: kicad_connector_hirose_hirose_df12_df12e3_0_60dp_0_5v_2x30_p0_50mm_vertical
+    original_filename: libraries/kicad-footprints/Connector_Hirose.pretty/Hirose_DF12_DF12E3.0-60DP-0.5V_2x30_P0.50mm_Vertical.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_connector_hirose_hirose_df12_df12e3_0_60dp_0_5v_2x30_p0_50mm_vertical
+  oomp_key_full: oomp_footprint_kicad_connector_hirose_hirose_df12_df12e3_0_60dp_0_5v_2x30_p0_50mm_vertical
   oomp_key_simple: kicad_connector_hirose_hirose_df12_df12e3_0_60dp_0_5v_2x30_p0_50mm_vertical
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

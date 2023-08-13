@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/nppc_pads_9pin_chess_pads_9pin_chess/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nppc_pads_9pin_chess_pads_9pin_chess/working
-    oomp_doc: footprints/footprints/nppc/Pads_9pin_chess.kicad_mod/Pads_9pin_chess/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/nppc/Pads_9pin_chess.kicad_mod/Pads_9pin_chess/working
     oomp_src_flat: footprints_flat/footprints_flat/nppc_pads_9pin_chess_pads_9pin_chess/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nppc_pads_9pin_chess_pads_9pin_chess/working
-    oomp_src_folder: footprints_folder/footprints_folder/nppc/Pads_9pin_chess.kicad_mod/Pads_9pin_chess/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/nppc/Pads_9pin_chess.kicad_mod/Pads_9pin_chess/working
   name: KiCadCustomLibs
+  oomp:
+    footprint_name: pads_9pin_chess
+    library_name: pads_9pin_chess_kicad_mod
+    md5: 7b5206db1361400a27a2ff31072cbeec
+    md5_10: 7b5206db13
+    md5_5: 7b520
+    md5_6: 7b5206
+    oomp_key: oomp_nppc_pads_9pin_chess_pads_9pin_chess
+    oomp_key_extra: oomp_footprint_nppc_pads_9pin_chess_pads_9pin_chess
+    oomp_key_full: oomp_footprint_nppc_pads_9pin_chess_pads_9pin_chess_7b5206
+    oomp_key_simple: nppc_pads_9pin_chess_pads_9pin_chess
+    original_filename: KiCadCustomLibs/Pads_9pin_chess.kicad_mod
+    owner_name: nppc
   oomp_key: oomp_nppc_pads_9pin_chess_pads_9pin_chess
+  oomp_key_full: oomp_footprint_nppc_pads_9pin_chess_pads_9pin_chess
   oomp_key_simple: nppc_pads_9pin_chess_pads_9pin_chess
   owner: nppc
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/digikey_digikey_footprints_wson_8_2x2mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_digikey_footprints_wson_8_2x2mm/working
-    oomp_doc: footprints/footprints/digikey/digikey-footprints/WSON-8_2x2mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/digikey/digikey-footprints/WSON-8_2x2mm/working
     oomp_src_flat: footprints_flat/footprints_flat/digikey_digikey_footprints_wson_8_2x2mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/digikey_digikey_footprints_wson_8_2x2mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/digikey/digikey-footprints/WSON-8_2x2mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/digikey/digikey-footprints/WSON-8_2x2mm/working
   name: digikey-kicad-library
+  oomp:
+    footprint_name: wson_8_2x2mm
+    library_name: digikey_footprints
+    md5: 6609358940610f7a98e1a531db6ce784
+    md5_10: '6609358940'
+    md5_5: '66093'
+    md5_6: '660935'
+    oomp_key: oomp_digikey_digikey_footprints_wson_8_2x2mm
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_wson_8_2x2mm
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_wson_8_2x2mm_660935
+    oomp_key_simple: digikey_digikey_footprints_wson_8_2x2mm
+    original_filename: digikey-kicad-library/digikey-footprints.pretty/WSON-8_2x2mm.kicad_mod
+    owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_wson_8_2x2mm
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_wson_8_2x2mm
   oomp_key_simple: digikey_digikey_footprints_wson_8_2x2mm
   owner: digikey
   repo:

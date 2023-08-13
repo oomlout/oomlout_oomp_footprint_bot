@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/Iangitpers/4a
     oomp_bot: footprints/iangitpers_manuf_bitech_hm78d_1210/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/iangitpers_manuf_bitech_hm78d_1210/working
-    oomp_doc: footprints/footprints/Iangitpers/manuf/BITECH-HM78D-1210/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Iangitpers/manuf/BITECH-HM78D-1210/working
     oomp_src_flat: footprints_flat/footprints_flat/iangitpers_manuf_bitech_hm78d_1210/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/iangitpers_manuf_bitech_hm78d_1210/working
-    oomp_src_folder: footprints_folder/footprints_folder/Iangitpers/manuf/BITECH-HM78D-1210/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Iangitpers/manuf/BITECH-HM78D-1210/working
   name: 4a
+  oomp:
+    footprint_name: bitech_hm78d_1210
+    library_name: manuf
+    md5: cf9058b13ca61a664acb6d2860be28eb
+    md5_10: cf9058b13c
+    md5_5: cf905
+    md5_6: cf9058
+    oomp_key: oomp_iangitpers_manuf_bitech_hm78d_1210
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_bitech_hm78d_1210
+    oomp_key_full: oomp_footprint_iangitpers_manuf_bitech_hm78d_1210_cf9058
+    oomp_key_simple: iangitpers_manuf_bitech_hm78d_1210
+    original_filename: 4a/manuf.pretty/BITECH-HM78D-1210.kicad_mod
+    owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_bitech_hm78d_1210
+  oomp_key_full: oomp_footprint_iangitpers_manuf_bitech_hm78d_1210
   oomp_key_simple: iangitpers_manuf_bitech_hm78d_1210
   owner: Iangitpers
   repo:

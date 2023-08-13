@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/chriswags_esp_rs232_proto_grid_6x10/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/chriswags_esp_rs232_proto_grid_6x10/working
-    oomp_doc: footprints/footprints/chriswags/ESP-RS232/proto_grid_6x10/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/chriswags/ESP-RS232/proto_grid_6x10/working
     oomp_src_flat: footprints_flat/footprints_flat/chriswags_esp_rs232_proto_grid_6x10/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/chriswags_esp_rs232_proto_grid_6x10/working
-    oomp_src_folder: footprints_folder/footprints_folder/chriswags/ESP-RS232/proto_grid_6x10/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/chriswags/ESP-RS232/proto_grid_6x10/working
   name: KiCad
+  oomp:
+    footprint_name: proto_grid_6x10
+    library_name: esp_rs232
+    md5: d6875dfe0eac351a46030950b7903ab9
+    md5_10: d6875dfe0e
+    md5_5: d6875
+    md5_6: d6875d
+    oomp_key: oomp_chriswags_esp_rs232_proto_grid_6x10
+    oomp_key_extra: oomp_footprint_chriswags_esp_rs232_proto_grid_6x10
+    oomp_key_full: oomp_footprint_chriswags_esp_rs232_proto_grid_6x10_d6875d
+    oomp_key_simple: chriswags_esp_rs232_proto_grid_6x10
+    original_filename: KiCad/mods/ESP-RS232.pretty/proto_grid_6x10.kicad_mod
+    owner_name: chriswags
   oomp_key: oomp_chriswags_esp_rs232_proto_grid_6x10
+  oomp_key_full: oomp_footprint_chriswags_esp_rs232_proto_grid_6x10
   oomp_key_simple: chriswags_esp_rs232_proto_grid_6x10
   owner: chriswags
   repo:

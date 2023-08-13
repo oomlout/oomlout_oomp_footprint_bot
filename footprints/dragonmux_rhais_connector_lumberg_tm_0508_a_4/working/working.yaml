@@ -13,17 +13,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/dragonmux_rhais_connector_lumberg_tm_0508_a_4/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/dragonmux_rhais_connector_lumberg_tm_0508_a_4/working
-    oomp_doc: footprints/footprints/dragonmux/rhais_connector-lumberg/TM 0508 A_4/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/dragonmux/rhais_connector-lumberg/TM
-      0508 A_4/working
     oomp_src_flat: footprints_flat/footprints_flat/dragonmux_rhais_connector_lumberg_tm_0508_a_4/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/dragonmux_rhais_connector_lumberg_tm_0508_a_4/working
-    oomp_src_folder: footprints_folder/footprints_folder/dragonmux/rhais_connector-lumberg/TM
-      0508 A_4/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/dragonmux/rhais_connector-lumberg/TM
-      0508 A_4/working
   name: rhais_connector-lumberg.pretty
+  oomp:
+    footprint_name: tm_0508_a_4
+    library_name: rhais_connector_lumberg
+    md5: 0ec01e6494f722d7e71e8ebf3c761caf
+    md5_10: 0ec01e6494
+    md5_5: 0ec01
+    md5_6: 0ec01e
+    oomp_key: oomp_dragonmux_rhais_connector_lumberg_tm_0508_a_4
+    oomp_key_extra: oomp_footprint_dragonmux_rhais_connector_lumberg_tm_0508_a_4
+    oomp_key_full: oomp_footprint_dragonmux_rhais_connector_lumberg_tm_0508_a_4_0ec01e
+    oomp_key_simple: dragonmux_rhais_connector_lumberg_tm_0508_a_4
+    original_filename: rhais_connector-lumberg.pretty/TM 0508 A_4.kicad_mod
+    owner_name: dragonmux
   oomp_key: oomp_dragonmux_rhais_connector_lumberg_tm_0508_a_4
+  oomp_key_full: oomp_footprint_dragonmux_rhais_connector_lumberg_tm_0508_a_4
   oomp_key_simple: dragonmux_rhais_connector_lumberg_tm_0508_a_4
   owner: dragonmux
   repo:

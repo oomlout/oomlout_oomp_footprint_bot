@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/mmmspatz_mspatz_rflab_kicad_footprints_mountinghole_#6_62mill_loose/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/mmmspatz_mspatz_rflab_kicad_footprints_mountinghole_#6_62mill_loose/working
-    oomp_doc: footprints/footprints/mmmspatz/mspatz_RFlab_Kicad_footprints/MOUNTINGHOLE_#6_62MILL_LOOSE/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/mmmspatz/mspatz_RFlab_Kicad_footprints/MOUNTINGHOLE_#6_62MILL_LOOSE/working
     oomp_src_flat: footprints_flat/footprints_flat/mmmspatz_mspatz_rflab_kicad_footprints_mountinghole_#6_62mill_loose/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/mmmspatz_mspatz_rflab_kicad_footprints_mountinghole_#6_62mill_loose/working
-    oomp_src_folder: footprints_folder/footprints_folder/mmmspatz/mspatz_RFlab_Kicad_footprints/MOUNTINGHOLE_#6_62MILL_LOOSE/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/mmmspatz/mspatz_RFlab_Kicad_footprints/MOUNTINGHOLE_#6_62MILL_LOOSE/working
   name: mspatz_RFlab_Kicad_footprints.pretty
+  oomp:
+    footprint_name: mountinghole_#6_62mill_loose
+    library_name: mspatz_rflab_kicad_footprints
+    md5: 3bb2c788078a8de1f8d1f7acc1096524
+    md5_10: 3bb2c78807
+    md5_5: 3bb2c
+    md5_6: 3bb2c7
+    oomp_key: oomp_mmmspatz_mspatz_rflab_kicad_footprints_mountinghole_#6_62mill_loose
+    oomp_key_extra: oomp_footprint_mmmspatz_mspatz_rflab_kicad_footprints_mountinghole_#6_62mill_loose
+    oomp_key_full: oomp_footprint_mmmspatz_mspatz_rflab_kicad_footprints_mountinghole_#6_62mill_loose_3bb2c7
+    oomp_key_simple: mmmspatz_mspatz_rflab_kicad_footprints_mountinghole_#6_62mill_loose
+    original_filename: mspatz_RFlab_Kicad_footprints.pretty/MOUNTINGHOLE_#6_62MILL_LOOSE.kicad_mod
+    owner_name: mmmspatz
   oomp_key: oomp_mmmspatz_mspatz_rflab_kicad_footprints_mountinghole_#6_62mill_loose
+  oomp_key_full: oomp_footprint_mmmspatz_mspatz_rflab_kicad_footprints_mountinghole_#6_62mill_loose
   oomp_key_simple: mmmspatz_mspatz_rflab_kicad_footprints_mountinghole_#6_62mill_loose
   owner: mmmspatz
   repo:

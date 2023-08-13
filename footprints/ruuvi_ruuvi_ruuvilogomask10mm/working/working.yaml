@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/ruuvi_ruuvi_ruuvilogomask10mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ruuvi_ruuvi_ruuvilogomask10mm/working
-    oomp_doc: footprints/footprints/ruuvi/Ruuvi/RUUVILOGOMASK10MM/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ruuvi/Ruuvi/RUUVILOGOMASK10MM/working
     oomp_src_flat: footprints_flat/footprints_flat/ruuvi_ruuvi_ruuvilogomask10mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ruuvi_ruuvi_ruuvilogomask10mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/ruuvi/Ruuvi/RUUVILOGOMASK10MM/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ruuvi/Ruuvi/RUUVILOGOMASK10MM/working
   name: kicad-library
+  oomp:
+    footprint_name: ruuvilogomask10mm
+    library_name: ruuvi
+    md5: 6386e97abec833ea8dd92faec135e7aa
+    md5_10: 6386e97abe
+    md5_5: 6386e
+    md5_6: 6386e9
+    oomp_key: oomp_ruuvi_ruuvi_ruuvilogomask10mm
+    oomp_key_extra: oomp_footprint_ruuvi_ruuvi_ruuvilogomask10mm
+    oomp_key_full: oomp_footprint_ruuvi_ruuvi_ruuvilogomask10mm_6386e9
+    oomp_key_simple: ruuvi_ruuvi_ruuvilogomask10mm
+    original_filename: kicad-library/Ruuvi.pretty/RUUVILOGOMASK10MM.kicad_mod
+    owner_name: ruuvi
   oomp_key: oomp_ruuvi_ruuvi_ruuvilogomask10mm
+  oomp_key_full: oomp_footprint_ruuvi_ruuvi_ruuvilogomask10mm
   oomp_key_simple: ruuvi_ruuvi_ruuvilogomask10mm
   owner: ruuvi
   repo:

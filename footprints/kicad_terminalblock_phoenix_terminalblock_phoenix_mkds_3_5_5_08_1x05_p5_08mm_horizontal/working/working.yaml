@@ -13,17 +13,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_terminalblock_phoenix_terminalblock_phoenix_mkds_3_5_5_08_1x05_p5_08mm_horizontal/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_terminalblock_phoenix_terminalblock_phoenix_mkds_3_5_5_08_1x05_p5_08mm_horizontal/working
-    oomp_doc: footprints/footprints/kicad/TerminalBlock_Phoenix/TerminalBlock_Phoenix_MKDS-3-5-5.08_1x05_P5.08mm_Horizontal/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/TerminalBlock_Phoenix/TerminalBlock_Phoenix_MKDS-3-5-5.08_1x05_P5.08mm_Horizontal/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_terminalblock_phoenix_terminalblock_phoenix_mkds_3_5_5_08_1x05_p5_08mm_horizontal/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_terminalblock_phoenix_terminalblock_phoenix_mkds_3_5_5_08_1x05_p5_08mm_horizontal/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/TerminalBlock_Phoenix/TerminalBlock_Phoenix_MKDS-3-5-5.08_1x05_P5.08mm_Horizontal/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/TerminalBlock_Phoenix/TerminalBlock_Phoenix_MKDS-3-5-5.08_1x05_P5.08mm_Horizontal/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: terminalblock_phoenix_mkds_3_5_5_08_1x05_p5_08mm_horizontal
+    library_name: terminalblock_phoenix
+    md5: fffffa72163f97998986425c3a02c301
+    md5_10: fffffa7216
+    md5_5: fffff
+    md5_6: fffffa
+    oomp_key: oomp_kicad_terminalblock_phoenix_terminalblock_phoenix_mkds_3_5_5_08_1x05_p5_08mm_horizontal
+    oomp_key_extra: oomp_footprint_kicad_terminalblock_phoenix_terminalblock_phoenix_mkds_3_5_5_08_1x05_p5_08mm_horizontal
+    oomp_key_full: oomp_footprint_kicad_terminalblock_phoenix_terminalblock_phoenix_mkds_3_5_5_08_1x05_p5_08mm_horizontal_fffffa
+    oomp_key_simple: kicad_terminalblock_phoenix_terminalblock_phoenix_mkds_3_5_5_08_1x05_p5_08mm_horizontal
+    original_filename: libraries/kicad-footprints/TerminalBlock_Phoenix.pretty/TerminalBlock_Phoenix_MKDS-3-5-5.08_1x05_P5.08mm_Horizontal.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_terminalblock_phoenix_terminalblock_phoenix_mkds_3_5_5_08_1x05_p5_08mm_horizontal
+  oomp_key_full: oomp_footprint_kicad_terminalblock_phoenix_terminalblock_phoenix_mkds_3_5_5_08_1x05_p5_08mm_horizontal
   oomp_key_simple: kicad_terminalblock_phoenix_terminalblock_phoenix_mkds_3_5_5_08_1x05_p5_08mm_horizontal
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

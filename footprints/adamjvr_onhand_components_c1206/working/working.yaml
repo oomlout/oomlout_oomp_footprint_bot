@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/adamjvr/KiCAD-OnHand-Lib
     oomp_bot: footprints/adamjvr_onhand_components_c1206/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/adamjvr_onhand_components_c1206/working
-    oomp_doc: footprints/footprints/adamjvr/OnHand-Components/C1206/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/adamjvr/OnHand-Components/C1206/working
     oomp_src_flat: footprints_flat/footprints_flat/adamjvr_onhand_components_c1206/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/adamjvr_onhand_components_c1206/working
-    oomp_src_folder: footprints_folder/footprints_folder/adamjvr/OnHand-Components/C1206/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/adamjvr/OnHand-Components/C1206/working
   name: KiCAD-OnHand-Lib
+  oomp:
+    footprint_name: c1206
+    library_name: onhand_components
+    md5: 8eb81bad59c38b687647b8664bb7a293
+    md5_10: 8eb81bad59
+    md5_5: 8eb81
+    md5_6: 8eb81b
+    oomp_key: oomp_adamjvr_onhand_components_c1206
+    oomp_key_extra: oomp_footprint_adamjvr_onhand_components_c1206
+    oomp_key_full: oomp_footprint_adamjvr_onhand_components_c1206_8eb81b
+    oomp_key_simple: adamjvr_onhand_components_c1206
+    original_filename: KiCAD-OnHand-Lib/OnHand-Components.pretty/C1206.kicad_mod
+    owner_name: adamjvr
   oomp_key: oomp_adamjvr_onhand_components_c1206
+  oomp_key_full: oomp_footprint_adamjvr_onhand_components_c1206
   oomp_key_simple: adamjvr_onhand_components_c1206
   owner: adamjvr
   repo:

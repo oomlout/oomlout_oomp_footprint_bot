@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/christianlerche_lerchetech_lerche_spst_itead/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/christianlerche_lerchetech_lerche_spst_itead/working
-    oomp_doc: footprints/footprints/ChristianLerche/LercheTech/Lerche_SPST_ITEAD/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ChristianLerche/LercheTech/Lerche_SPST_ITEAD/working
     oomp_src_flat: footprints_flat/footprints_flat/christianlerche_lerchetech_lerche_spst_itead/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/christianlerche_lerchetech_lerche_spst_itead/working
-    oomp_src_folder: footprints_folder/footprints_folder/ChristianLerche/LercheTech/Lerche_SPST_ITEAD/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ChristianLerche/LercheTech/Lerche_SPST_ITEAD/working
   name: LercheTech_KiCAD
+  oomp:
+    footprint_name: lerche_spst_itead
+    library_name: lerchetech
+    md5: 84c74d3335cf62de306e7baf38c45c9f
+    md5_10: 84c74d3335
+    md5_5: 84c74
+    md5_6: 84c74d
+    oomp_key: oomp_christianlerche_lerchetech_lerche_spst_itead
+    oomp_key_extra: oomp_footprint_christianlerche_lerchetech_lerche_spst_itead
+    oomp_key_full: oomp_footprint_christianlerche_lerchetech_lerche_spst_itead_84c74d
+    oomp_key_simple: christianlerche_lerchetech_lerche_spst_itead
+    original_filename: LercheTech_KiCAD/LercheTech.pretty/Lerche_SPST_ITEAD.kicad_mod
+    owner_name: christianlerche
   oomp_key: oomp_christianlerche_lerchetech_lerche_spst_itead
+  oomp_key_full: oomp_footprint_christianlerche_lerchetech_lerche_spst_itead
   oomp_key_simple: christianlerche_lerchetech_lerche_spst_itead
   owner: ChristianLerche
   repo:

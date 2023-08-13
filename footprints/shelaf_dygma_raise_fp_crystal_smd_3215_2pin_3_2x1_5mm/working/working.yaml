@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/shelaf_dygma_raise_fp_crystal_smd_3215_2pin_3_2x1_5mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/shelaf_dygma_raise_fp_crystal_smd_3215_2pin_3_2x1_5mm/working
-    oomp_doc: footprints/footprints/shelaf-dygma/raise_fp/Crystal_SMD_3215-2pin_3.2x1.5mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/shelaf-dygma/raise_fp/Crystal_SMD_3215-2pin_3.2x1.5mm/working
     oomp_src_flat: footprints_flat/footprints_flat/shelaf_dygma_raise_fp_crystal_smd_3215_2pin_3_2x1_5mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/shelaf_dygma_raise_fp_crystal_smd_3215_2pin_3_2x1_5mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/shelaf-dygma/raise_fp/Crystal_SMD_3215-2pin_3.2x1.5mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/shelaf-dygma/raise_fp/Crystal_SMD_3215-2pin_3.2x1.5mm/working
   name: raise_fp.pretty
+  oomp:
+    footprint_name: crystal_smd_3215_2pin_3_2x1_5mm
+    library_name: raise_fp
+    md5: cccb59379ff3d41fd583b701e3b55320
+    md5_10: cccb59379f
+    md5_5: cccb5
+    md5_6: cccb59
+    oomp_key: oomp_shelaf_dygma_raise_fp_crystal_smd_3215_2pin_3_2x1_5mm
+    oomp_key_extra: oomp_footprint_shelaf_dygma_raise_fp_crystal_smd_3215_2pin_3_2x1_5mm
+    oomp_key_full: oomp_footprint_shelaf_dygma_raise_fp_crystal_smd_3215_2pin_3_2x1_5mm_cccb59
+    oomp_key_simple: shelaf_dygma_raise_fp_crystal_smd_3215_2pin_3_2x1_5mm
+    original_filename: raise_fp.pretty/Crystal_SMD_3215-2pin_3.2x1.5mm.kicad_mod
+    owner_name: shelaf_dygma
   oomp_key: oomp_shelaf_dygma_raise_fp_crystal_smd_3215_2pin_3_2x1_5mm
+  oomp_key_full: oomp_footprint_shelaf_dygma_raise_fp_crystal_smd_3215_2pin_3_2x1_5mm
   oomp_key_simple: shelaf_dygma_raise_fp_crystal_smd_3215_2pin_3_2x1_5mm
   owner: shelaf-dygma
   repo:

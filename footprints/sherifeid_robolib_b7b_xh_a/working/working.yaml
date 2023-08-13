@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/sherifeid_robolib_b7b_xh_a/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/sherifeid_robolib_b7b_xh_a/working
-    oomp_doc: footprints/footprints/sherifeid/RoboLib/B7B-XH-A/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/sherifeid/RoboLib/B7B-XH-A/working
     oomp_src_flat: footprints_flat/footprints_flat/sherifeid_robolib_b7b_xh_a/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/sherifeid_robolib_b7b_xh_a/working
-    oomp_src_folder: footprints_folder/footprints_folder/sherifeid/RoboLib/B7B-XH-A/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/sherifeid/RoboLib/B7B-XH-A/working
   name: RoboLib.pretty
+  oomp:
+    footprint_name: b7b_xh_a
+    library_name: robolib
+    md5: 8cff7f1c3ed4c960ac73ff1da7ca80cd
+    md5_10: 8cff7f1c3e
+    md5_5: 8cff7
+    md5_6: 8cff7f
+    oomp_key: oomp_sherifeid_robolib_b7b_xh_a
+    oomp_key_extra: oomp_footprint_sherifeid_robolib_b7b_xh_a
+    oomp_key_full: oomp_footprint_sherifeid_robolib_b7b_xh_a_8cff7f
+    oomp_key_simple: sherifeid_robolib_b7b_xh_a
+    original_filename: RoboLib.pretty/B7B-XH-A.kicad_mod
+    owner_name: sherifeid
   oomp_key: oomp_sherifeid_robolib_b7b_xh_a
+  oomp_key_full: oomp_footprint_sherifeid_robolib_b7b_xh_a
   oomp_key_simple: sherifeid_robolib_b7b_xh_a
   owner: sherifeid
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/sherifeid_robolib_nrs6028t100mmgk/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/sherifeid_robolib_nrs6028t100mmgk/working
-    oomp_doc: footprints/footprints/sherifeid/RoboLib/NRS6028T100MMGK/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/sherifeid/RoboLib/NRS6028T100MMGK/working
     oomp_src_flat: footprints_flat/footprints_flat/sherifeid_robolib_nrs6028t100mmgk/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/sherifeid_robolib_nrs6028t100mmgk/working
-    oomp_src_folder: footprints_folder/footprints_folder/sherifeid/RoboLib/NRS6028T100MMGK/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/sherifeid/RoboLib/NRS6028T100MMGK/working
   name: RoboLib.pretty
+  oomp:
+    footprint_name: nrs6028t100mmgk
+    library_name: robolib
+    md5: 3e88b6758b9f72d68ec257a79c5bdab6
+    md5_10: 3e88b6758b
+    md5_5: 3e88b
+    md5_6: 3e88b6
+    oomp_key: oomp_sherifeid_robolib_nrs6028t100mmgk
+    oomp_key_extra: oomp_footprint_sherifeid_robolib_nrs6028t100mmgk
+    oomp_key_full: oomp_footprint_sherifeid_robolib_nrs6028t100mmgk_3e88b6
+    oomp_key_simple: sherifeid_robolib_nrs6028t100mmgk
+    original_filename: RoboLib.pretty/NRS6028T100MMGK.kicad_mod
+    owner_name: sherifeid
   oomp_key: oomp_sherifeid_robolib_nrs6028t100mmgk
+  oomp_key_full: oomp_footprint_sherifeid_robolib_nrs6028t100mmgk
   oomp_key_simple: sherifeid_robolib_nrs6028t100mmgk
   owner: sherifeid
   repo:

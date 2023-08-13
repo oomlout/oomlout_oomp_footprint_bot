@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/kikaiken/kicad_others.pretty
     oomp_bot: footprints/kikaiken_kicad_others_vr_2_alps/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kikaiken_kicad_others_vr_2_alps/working
-    oomp_doc: footprints/footprints/kikaiken/kicad_others/VR_2_ALPS/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kikaiken/kicad_others/VR_2_ALPS/working
     oomp_src_flat: footprints_flat/footprints_flat/kikaiken_kicad_others_vr_2_alps/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kikaiken_kicad_others_vr_2_alps/working
-    oomp_src_folder: footprints_folder/footprints_folder/kikaiken/kicad_others/VR_2_ALPS/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kikaiken/kicad_others/VR_2_ALPS/working
   name: kicad_others.pretty
+  oomp:
+    footprint_name: vr_2_alps
+    library_name: kicad_others
+    md5: b8d0fffe81c27565786bbcb17f83ebf6
+    md5_10: b8d0fffe81
+    md5_5: b8d0f
+    md5_6: b8d0ff
+    oomp_key: oomp_kikaiken_kicad_others_vr_2_alps
+    oomp_key_extra: oomp_footprint_kikaiken_kicad_others_vr_2_alps
+    oomp_key_full: oomp_footprint_kikaiken_kicad_others_vr_2_alps_b8d0ff
+    oomp_key_simple: kikaiken_kicad_others_vr_2_alps
+    original_filename: kicad_others.pretty/VR_2_ALPS.kicad_mod
+    owner_name: kikaiken
   oomp_key: oomp_kikaiken_kicad_others_vr_2_alps
+  oomp_key_full: oomp_footprint_kikaiken_kicad_others_vr_2_alps
   oomp_key_simple: kikaiken_kicad_others_vr_2_alps
   owner: kikaiken
   repo:

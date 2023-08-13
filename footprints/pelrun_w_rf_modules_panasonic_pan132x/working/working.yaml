@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pelrun_w_rf_modules_panasonic_pan132x/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pelrun_w_rf_modules_panasonic_pan132x/working
-    oomp_doc: footprints/footprints/pelrun/w_rf_modules/panasonic_pan132x/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/pelrun/w_rf_modules/panasonic_pan132x/working
     oomp_src_flat: footprints_flat/footprints_flat/pelrun_w_rf_modules_panasonic_pan132x/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pelrun_w_rf_modules_panasonic_pan132x/working
-    oomp_src_folder: footprints_folder/footprints_folder/pelrun/w_rf_modules/panasonic_pan132x/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/pelrun/w_rf_modules/panasonic_pan132x/working
   name: libKiCad
+  oomp:
+    footprint_name: panasonic_pan132x
+    library_name: w_rf_modules
+    md5: 632be3b6749ae1ae0759a27c51b2e6e7
+    md5_10: 632be3b674
+    md5_5: 632be
+    md5_6: 632be3
+    oomp_key: oomp_pelrun_w_rf_modules_panasonic_pan132x
+    oomp_key_extra: oomp_footprint_pelrun_w_rf_modules_panasonic_pan132x
+    oomp_key_full: oomp_footprint_pelrun_w_rf_modules_panasonic_pan132x_632be3
+    oomp_key_simple: pelrun_w_rf_modules_panasonic_pan132x
+    original_filename: libKiCad/footprint/w_rf_modules.pretty/panasonic_pan132x.kicad_mod
+    owner_name: pelrun
   oomp_key: oomp_pelrun_w_rf_modules_panasonic_pan132x
+  oomp_key_full: oomp_footprint_pelrun_w_rf_modules_panasonic_pan132x
   oomp_key_simple: pelrun_w_rf_modules_panasonic_pan132x
   owner: pelrun
   repo:

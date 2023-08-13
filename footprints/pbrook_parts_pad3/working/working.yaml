@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pbrook_parts_pad3/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pbrook_parts_pad3/working
-    oomp_doc: footprints/footprints/pbrook/Parts/PAD3/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/pbrook/Parts/PAD3/working
     oomp_src_flat: footprints_flat/footprints_flat/pbrook_parts_pad3/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pbrook_parts_pad3/working
-    oomp_src_folder: footprints_folder/footprints_folder/pbrook/Parts/PAD3/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/pbrook/Parts/PAD3/working
   name: Parts.pretty
+  oomp:
+    footprint_name: pad3
+    library_name: parts
+    md5: 41fb5dc2fec3a748194eb37a9c6e8d9d
+    md5_10: 41fb5dc2fe
+    md5_5: 41fb5
+    md5_6: 41fb5d
+    oomp_key: oomp_pbrook_parts_pad3
+    oomp_key_extra: oomp_footprint_pbrook_parts_pad3
+    oomp_key_full: oomp_footprint_pbrook_parts_pad3_41fb5d
+    oomp_key_simple: pbrook_parts_pad3
+    original_filename: Parts.pretty/PAD3.kicad_mod
+    owner_name: pbrook
   oomp_key: oomp_pbrook_parts_pad3
+  oomp_key_full: oomp_footprint_pbrook_parts_pad3
   oomp_key_simple: pbrook_parts_pad3
   owner: pbrook
   repo:

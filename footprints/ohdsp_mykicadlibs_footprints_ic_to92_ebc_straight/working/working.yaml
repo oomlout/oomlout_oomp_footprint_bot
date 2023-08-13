@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/ohdsp_mykicadlibs_footprints_ic_to92_ebc_straight/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ohdsp_mykicadlibs_footprints_ic_to92_ebc_straight/working
-    oomp_doc: footprints/footprints/ohdsp/MyKiCadLibs-Footprints/IC-TO92-EBC-Straight/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ohdsp/MyKiCadLibs-Footprints/IC-TO92-EBC-Straight/working
     oomp_src_flat: footprints_flat/footprints_flat/ohdsp_mykicadlibs_footprints_ic_to92_ebc_straight/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ohdsp_mykicadlibs_footprints_ic_to92_ebc_straight/working
-    oomp_src_folder: footprints_folder/footprints_folder/ohdsp/MyKiCadLibs-Footprints/IC-TO92-EBC-Straight/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ohdsp/MyKiCadLibs-Footprints/IC-TO92-EBC-Straight/working
   name: KiCad-Libs
+  oomp:
+    footprint_name: ic_to92_ebc_straight
+    library_name: mykicadlibs_footprints
+    md5: 17d3a5e2939e30c60fc88ead3e33f85b
+    md5_10: 17d3a5e293
+    md5_5: 17d3a
+    md5_6: 17d3a5
+    oomp_key: oomp_ohdsp_mykicadlibs_footprints_ic_to92_ebc_straight
+    oomp_key_extra: oomp_footprint_ohdsp_mykicadlibs_footprints_ic_to92_ebc_straight
+    oomp_key_full: oomp_footprint_ohdsp_mykicadlibs_footprints_ic_to92_ebc_straight_17d3a5
+    oomp_key_simple: ohdsp_mykicadlibs_footprints_ic_to92_ebc_straight
+    original_filename: KiCad-Libs/MyKiCadLibs-Footprints.pretty/IC-TO92-EBC-Straight.kicad_mod
+    owner_name: ohdsp
   oomp_key: oomp_ohdsp_mykicadlibs_footprints_ic_to92_ebc_straight
+  oomp_key_full: oomp_footprint_ohdsp_mykicadlibs_footprints_ic_to92_ebc_straight
   oomp_key_simple: ohdsp_mykicadlibs_footprints_ic_to92_ebc_straight
   owner: ohdsp
   repo:

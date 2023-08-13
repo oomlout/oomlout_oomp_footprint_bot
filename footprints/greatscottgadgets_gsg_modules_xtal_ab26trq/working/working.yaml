@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/greatscottgadgets_gsg_modules_xtal_ab26trq/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/greatscottgadgets_gsg_modules_xtal_ab26trq/working
-    oomp_doc: footprints/footprints/greatscottgadgets/gsg-modules/XTAL-AB26TRQ/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/greatscottgadgets/gsg-modules/XTAL-AB26TRQ/working
     oomp_src_flat: footprints_flat/footprints_flat/greatscottgadgets_gsg_modules_xtal_ab26trq/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/greatscottgadgets_gsg_modules_xtal_ab26trq/working
-    oomp_src_folder: footprints_folder/footprints_folder/greatscottgadgets/gsg-modules/XTAL-AB26TRQ/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/greatscottgadgets/gsg-modules/XTAL-AB26TRQ/working
   name: gsg-kicad-lib
+  oomp:
+    footprint_name: xtal_ab26trq
+    library_name: gsg_modules
+    md5: c02bab421f0bd2ceeed2a85fe34d89e9
+    md5_10: c02bab421f
+    md5_5: c02ba
+    md5_6: c02bab
+    oomp_key: oomp_greatscottgadgets_gsg_modules_xtal_ab26trq
+    oomp_key_extra: oomp_footprint_greatscottgadgets_gsg_modules_xtal_ab26trq
+    oomp_key_full: oomp_footprint_greatscottgadgets_gsg_modules_xtal_ab26trq_c02bab
+    oomp_key_simple: greatscottgadgets_gsg_modules_xtal_ab26trq
+    original_filename: gsg-kicad-lib/gsg-modules.pretty/XTAL-AB26TRQ.kicad_mod
+    owner_name: greatscottgadgets
   oomp_key: oomp_greatscottgadgets_gsg_modules_xtal_ab26trq
+  oomp_key_full: oomp_footprint_greatscottgadgets_gsg_modules_xtal_ab26trq
   oomp_key_simple: greatscottgadgets_gsg_modules_xtal_ab26trq
   owner: greatscottgadgets
   repo:

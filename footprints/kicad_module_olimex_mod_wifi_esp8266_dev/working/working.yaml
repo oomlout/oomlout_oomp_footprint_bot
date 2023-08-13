@@ -11,17 +11,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_module_olimex_mod_wifi_esp8266_dev/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_module_olimex_mod_wifi_esp8266_dev/working
-    oomp_doc: footprints/footprints/kicad/Module/Olimex_MOD-WIFI-ESP8266-DEV/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Module/Olimex_MOD-WIFI-ESP8266-DEV/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_module_olimex_mod_wifi_esp8266_dev/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_module_olimex_mod_wifi_esp8266_dev/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Module/Olimex_MOD-WIFI-ESP8266-DEV/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Module/Olimex_MOD-WIFI-ESP8266-DEV/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: olimex_mod_wifi_esp8266_dev
+    library_name: module
+    md5: 3ec20c2e2af724c7657804ad9f19a931
+    md5_10: 3ec20c2e2a
+    md5_5: 3ec20
+    md5_6: 3ec20c
+    oomp_key: oomp_kicad_module_olimex_mod_wifi_esp8266_dev
+    oomp_key_extra: oomp_footprint_kicad_module_olimex_mod_wifi_esp8266_dev
+    oomp_key_full: oomp_footprint_kicad_module_olimex_mod_wifi_esp8266_dev_3ec20c
+    oomp_key_simple: kicad_module_olimex_mod_wifi_esp8266_dev
+    original_filename: libraries/kicad-footprints/Module.pretty/Olimex_MOD-WIFI-ESP8266-DEV.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_module_olimex_mod_wifi_esp8266_dev
+  oomp_key_full: oomp_footprint_kicad_module_olimex_mod_wifi_esp8266_dev
   oomp_key_simple: kicad_module_olimex_mod_wifi_esp8266_dev
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/adamgreig/agg-kicad
     oomp_bot: footprints/adamgreig_agg_d2pak/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/adamgreig_agg_d2pak/working
-    oomp_doc: footprints/footprints/adamgreig/agg/D2PAK/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/adamgreig/agg/D2PAK/working
     oomp_src_flat: footprints_flat/footprints_flat/adamgreig_agg_d2pak/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/adamgreig_agg_d2pak/working
-    oomp_src_folder: footprints_folder/footprints_folder/adamgreig/agg/D2PAK/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/adamgreig/agg/D2PAK/working
   name: agg-kicad
+  oomp:
+    footprint_name: d2pak
+    library_name: agg
+    md5: 2482acb8facb718b9c3d407683bcad3f
+    md5_10: 2482acb8fa
+    md5_5: 2482a
+    md5_6: 2482ac
+    oomp_key: oomp_adamgreig_agg_d2pak
+    oomp_key_extra: oomp_footprint_adamgreig_agg_d2pak
+    oomp_key_full: oomp_footprint_adamgreig_agg_d2pak_2482ac
+    oomp_key_simple: adamgreig_agg_d2pak
+    original_filename: agg-kicad/agg.pretty/D2PAK.kicad_mod
+    owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_d2pak
+  oomp_key_full: oomp_footprint_adamgreig_agg_d2pak
   oomp_key_simple: adamgreig_agg_d2pak
   owner: adamgreig
   repo:

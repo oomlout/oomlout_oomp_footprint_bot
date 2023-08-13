@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cpavlina_manuf_littelfuse_16r400g/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cpavlina_manuf_littelfuse_16r400g/working
-    oomp_doc: footprints/footprints/cpavlina/manuf/LITTELFUSE-16R400G/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cpavlina/manuf/LITTELFUSE-16R400G/working
     oomp_src_flat: footprints_flat/footprints_flat/cpavlina_manuf_littelfuse_16r400g/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cpavlina_manuf_littelfuse_16r400g/working
-    oomp_src_folder: footprints_folder/footprints_folder/cpavlina/manuf/LITTELFUSE-16R400G/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cpavlina/manuf/LITTELFUSE-16R400G/working
   name: kicad-pcblib
+  oomp:
+    footprint_name: littelfuse_16r400g
+    library_name: manuf
+    md5: 377f59c221599023e99ffa312810c5cf
+    md5_10: 377f59c221
+    md5_5: 377f5
+    md5_6: 377f59
+    oomp_key: oomp_cpavlina_manuf_littelfuse_16r400g
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_littelfuse_16r400g
+    oomp_key_full: oomp_footprint_cpavlina_manuf_littelfuse_16r400g_377f59
+    oomp_key_simple: cpavlina_manuf_littelfuse_16r400g
+    original_filename: kicad-pcblib/manuf.pretty/LITTELFUSE-16R400G.kicad_mod
+    owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_littelfuse_16r400g
+  oomp_key_full: oomp_footprint_cpavlina_manuf_littelfuse_16r400g
   oomp_key_simple: cpavlina_manuf_littelfuse_16r400g
   owner: cpavlina
   repo:

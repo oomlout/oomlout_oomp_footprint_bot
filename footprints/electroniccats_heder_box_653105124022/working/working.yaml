@@ -1,8 +1,5 @@
-- file: ComponentLibrariesKicadWurthElektronik/WIRE-TO-BOARD(rev17b)/heder box.pretty/653105124022.kicad_mod
-  footprint:
-    description: WR-WTB 1.25mm SMT Male Vertical Shrouded Header, 5 Pins
-    libraryLink: 653105124022
-    number_of_pads: 7
+- error: expected string or bytes-like object, got 'int'
+  file: ComponentLibrariesKicadWurthElektronik/WIRE-TO-BOARD(rev17b)/heder box.pretty/653105124022.kicad_mod
   footprint_library_directory: footprint_library_owner/ElectronicCats_ComponentLibrariesKicadWurthElektronik
   footprint_library_directory_flat: footprints_flat/electroniccats_heder_box_653105124022/working
   github_path: http://github.com/ElectronicCats/ComponentLibrariesKicadWurthElektronik/blob/master/WIRE-TO-BOARD(rev17b)/heder
@@ -13,16 +10,25 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/electroniccats_heder_box_653105124022/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/electroniccats_heder_box_653105124022/working
-    oomp_doc: footprints/footprints/ElectronicCats/heder box/653105124022/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ElectronicCats/heder
-      box/653105124022/working
     oomp_src_flat: footprints_flat/footprints_flat/electroniccats_heder_box_653105124022/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/electroniccats_heder_box_653105124022/working
-    oomp_src_folder: footprints_folder/footprints_folder/ElectronicCats/heder box/653105124022/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ElectronicCats/heder
-      box/653105124022/working
   name: ComponentLibrariesKicadWurthElektronik
+  oomp:
+    footprint_name: '653105124022'
+    library_name: heder_box
+    md5: 04ceb4042c21cc9a027b2482d0c01b82
+    md5_10: 04ceb4042c
+    md5_5: 04ceb
+    md5_6: 04ceb4
+    oomp_key: oomp_electroniccats_heder_box_653105124022
+    oomp_key_extra: oomp_footprint_electroniccats_heder_box_653105124022
+    oomp_key_full: oomp_footprint_electroniccats_heder_box_653105124022_04ceb4
+    oomp_key_simple: electroniccats_heder_box_653105124022
+    original_filename: ComponentLibrariesKicadWurthElektronik/WIRE-TO-BOARD(rev17b)/heder
+      box.pretty/653105124022.kicad_mod
+    owner_name: electroniccats
   oomp_key: oomp_electroniccats_heder_box_653105124022
+  oomp_key_full: oomp_footprint_electroniccats_heder_box_653105124022
   oomp_key_simple: electroniccats_heder_box_653105124022
   owner: ElectronicCats
   repo:

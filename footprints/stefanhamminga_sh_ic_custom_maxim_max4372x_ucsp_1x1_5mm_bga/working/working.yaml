@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/stefanhamminga_sh_ic_custom_maxim_max4372x_ucsp_1x1_5mm_bga/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stefanhamminga_sh_ic_custom_maxim_max4372x_ucsp_1x1_5mm_bga/working
-    oomp_doc: footprints/footprints/StefanHamminga/SH_IC_Custom/Maxim_MAX4372x_UCSP_1x1.5mm_BGA/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/StefanHamminga/SH_IC_Custom/Maxim_MAX4372x_UCSP_1x1.5mm_BGA/working
     oomp_src_flat: footprints_flat/footprints_flat/stefanhamminga_sh_ic_custom_maxim_max4372x_ucsp_1x1_5mm_bga/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/stefanhamminga_sh_ic_custom_maxim_max4372x_ucsp_1x1_5mm_bga/working
-    oomp_src_folder: footprints_folder/footprints_folder/StefanHamminga/SH_IC_Custom/Maxim_MAX4372x_UCSP_1x1.5mm_BGA/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/StefanHamminga/SH_IC_Custom/Maxim_MAX4372x_UCSP_1x1.5mm_BGA/working
   name: SH_IC_Custom.pretty
+  oomp:
+    footprint_name: maxim_max4372x_ucsp_1x1_5mm_bga
+    library_name: sh_ic_custom
+    md5: 11f874ae9161cc97dd14051d36240e0e
+    md5_10: 11f874ae91
+    md5_5: 11f87
+    md5_6: 11f874
+    oomp_key: oomp_stefanhamminga_sh_ic_custom_maxim_max4372x_ucsp_1x1_5mm_bga
+    oomp_key_extra: oomp_footprint_stefanhamminga_sh_ic_custom_maxim_max4372x_ucsp_1x1_5mm_bga
+    oomp_key_full: oomp_footprint_stefanhamminga_sh_ic_custom_maxim_max4372x_ucsp_1x1_5mm_bga_11f874
+    oomp_key_simple: stefanhamminga_sh_ic_custom_maxim_max4372x_ucsp_1x1_5mm_bga
+    original_filename: SH_IC_Custom.pretty/Maxim_MAX4372x_UCSP_1x1.5mm_BGA.kicad_mod
+    owner_name: stefanhamminga
   oomp_key: oomp_stefanhamminga_sh_ic_custom_maxim_max4372x_ucsp_1x1_5mm_bga
+  oomp_key_full: oomp_footprint_stefanhamminga_sh_ic_custom_maxim_max4372x_ucsp_1x1_5mm_bga
   oomp_key_simple: stefanhamminga_sh_ic_custom_maxim_max4372x_ucsp_1x1_5mm_bga
   owner: StefanHamminga
   repo:

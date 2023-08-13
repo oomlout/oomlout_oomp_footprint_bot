@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/Iangitpers/4a
     oomp_bot: footprints/iangitpers_dp_led_sk6812_side_a_b/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/iangitpers_dp_led_sk6812_side_a_b/working
-    oomp_doc: footprints/footprints/Iangitpers/dp-LED/SK6812-side-a_b/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Iangitpers/dp-LED/SK6812-side-a_b/working
     oomp_src_flat: footprints_flat/footprints_flat/iangitpers_dp_led_sk6812_side_a_b/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/iangitpers_dp_led_sk6812_side_a_b/working
-    oomp_src_folder: footprints_folder/footprints_folder/Iangitpers/dp-LED/SK6812-side-a_b/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Iangitpers/dp-LED/SK6812-side-a_b/working
   name: 4a
+  oomp:
+    footprint_name: sk6812_side_a_b
+    library_name: dp_led
+    md5: 45fbcd090e8dc2503ed374c76260c77a
+    md5_10: 45fbcd090e
+    md5_5: 45fbc
+    md5_6: 45fbcd
+    oomp_key: oomp_iangitpers_dp_led_sk6812_side_a_b
+    oomp_key_extra: oomp_footprint_iangitpers_dp_led_sk6812_side_a_b
+    oomp_key_full: oomp_footprint_iangitpers_dp_led_sk6812_side_a_b_45fbcd
+    oomp_key_simple: iangitpers_dp_led_sk6812_side_a_b
+    original_filename: 4a/dp-LED/dp-LED.pretty/SK6812-side-a_b.kicad_mod
+    owner_name: iangitpers
   oomp_key: oomp_iangitpers_dp_led_sk6812_side_a_b
+  oomp_key_full: oomp_footprint_iangitpers_dp_led_sk6812_side_a_b
   oomp_key_simple: iangitpers_dp_led_sk6812_side_a_b
   owner: Iangitpers
   repo:

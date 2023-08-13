@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/natsfr_odfn_odfn_8_3x3/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/natsfr_odfn_odfn_8_3x3/working
-    oomp_doc: footprints/footprints/natsfr/ODFN/ODFN-8_3x3/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/natsfr/ODFN/ODFN-8_3x3/working
     oomp_src_flat: footprints_flat/footprints_flat/natsfr_odfn_odfn_8_3x3/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/natsfr_odfn_odfn_8_3x3/working
-    oomp_src_folder: footprints_folder/footprints_folder/natsfr/ODFN/ODFN-8_3x3/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/natsfr/ODFN/ODFN-8_3x3/working
   name: kicad-components
+  oomp:
+    footprint_name: odfn_8_3x3
+    library_name: odfn
+    md5: 139cf6ba135d49ae4450695586285f84
+    md5_10: 139cf6ba13
+    md5_5: 139cf
+    md5_6: 139cf6
+    oomp_key: oomp_natsfr_odfn_odfn_8_3x3
+    oomp_key_extra: oomp_footprint_natsfr_odfn_odfn_8_3x3
+    oomp_key_full: oomp_footprint_natsfr_odfn_odfn_8_3x3_139cf6
+    oomp_key_simple: natsfr_odfn_odfn_8_3x3
+    original_filename: kicad-components/Pretty_Footprints/ODFN.pretty/ODFN-8_3x3.kicad_mod
+    owner_name: natsfr
   oomp_key: oomp_natsfr_odfn_odfn_8_3x3
+  oomp_key_full: oomp_footprint_natsfr_odfn_odfn_8_3x3
   oomp_key_simple: natsfr_odfn_odfn_8_3x3
   owner: natsfr
   repo:

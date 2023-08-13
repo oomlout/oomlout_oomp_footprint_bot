@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/samdolt_kicad_fp_wurth_wr_fpc_0_5mm_smt_htop_32/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/samdolt_kicad_fp_wurth_wr_fpc_0_5mm_smt_htop_32/working
-    oomp_doc: footprints/footprints/samdolt/kicad-fp/Wurth_WR_FPC_0.5mm_SMT_HTOP_32/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/samdolt/kicad-fp/Wurth_WR_FPC_0.5mm_SMT_HTOP_32/working
     oomp_src_flat: footprints_flat/footprints_flat/samdolt_kicad_fp_wurth_wr_fpc_0_5mm_smt_htop_32/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/samdolt_kicad_fp_wurth_wr_fpc_0_5mm_smt_htop_32/working
-    oomp_src_folder: footprints_folder/footprints_folder/samdolt/kicad-fp/Wurth_WR_FPC_0.5mm_SMT_HTOP_32/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/samdolt/kicad-fp/Wurth_WR_FPC_0.5mm_SMT_HTOP_32/working
   name: kicad-fp.pretty
+  oomp:
+    footprint_name: wurth_wr_fpc_0_5mm_smt_htop_32
+    library_name: kicad_fp
+    md5: fd10ccda453db15c620f11f58a159fac
+    md5_10: fd10ccda45
+    md5_5: fd10c
+    md5_6: fd10cc
+    oomp_key: oomp_samdolt_kicad_fp_wurth_wr_fpc_0_5mm_smt_htop_32
+    oomp_key_extra: oomp_footprint_samdolt_kicad_fp_wurth_wr_fpc_0_5mm_smt_htop_32
+    oomp_key_full: oomp_footprint_samdolt_kicad_fp_wurth_wr_fpc_0_5mm_smt_htop_32_fd10cc
+    oomp_key_simple: samdolt_kicad_fp_wurth_wr_fpc_0_5mm_smt_htop_32
+    original_filename: kicad-fp.pretty/Wurth_WR_FPC_0.5mm_SMT_HTOP_32.kicad_mod
+    owner_name: samdolt
   oomp_key: oomp_samdolt_kicad_fp_wurth_wr_fpc_0_5mm_smt_htop_32
+  oomp_key_full: oomp_footprint_samdolt_kicad_fp_wurth_wr_fpc_0_5mm_smt_htop_32
   oomp_key_simple: samdolt_kicad_fp_wurth_wr_fpc_0_5mm_smt_htop_32
   owner: samdolt
   repo:

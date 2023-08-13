@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/nppc_powerpak1212_8_powerpak1212_8/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nppc_powerpak1212_8_powerpak1212_8/working
-    oomp_doc: footprints/footprints/nppc/PowerPAK1212-8.kicad_mod/PowerPAK1212-8/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/nppc/PowerPAK1212-8.kicad_mod/PowerPAK1212-8/working
     oomp_src_flat: footprints_flat/footprints_flat/nppc_powerpak1212_8_powerpak1212_8/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nppc_powerpak1212_8_powerpak1212_8/working
-    oomp_src_folder: footprints_folder/footprints_folder/nppc/PowerPAK1212-8.kicad_mod/PowerPAK1212-8/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/nppc/PowerPAK1212-8.kicad_mod/PowerPAK1212-8/working
   name: KiCadCustomLibs
+  oomp:
+    footprint_name: powerpak1212_8
+    library_name: powerpak1212_8_kicad_mod
+    md5: be8e96df71587510d16ff0f0912d04b9
+    md5_10: be8e96df71
+    md5_5: be8e9
+    md5_6: be8e96
+    oomp_key: oomp_nppc_powerpak1212_8_powerpak1212_8
+    oomp_key_extra: oomp_footprint_nppc_powerpak1212_8_powerpak1212_8
+    oomp_key_full: oomp_footprint_nppc_powerpak1212_8_powerpak1212_8_be8e96
+    oomp_key_simple: nppc_powerpak1212_8_powerpak1212_8
+    original_filename: KiCadCustomLibs/PowerPAK1212-8.kicad_mod
+    owner_name: nppc
   oomp_key: oomp_nppc_powerpak1212_8_powerpak1212_8
+  oomp_key_full: oomp_footprint_nppc_powerpak1212_8_powerpak1212_8
   oomp_key_simple: nppc_powerpak1212_8_powerpak1212_8
   owner: nppc
   repo:

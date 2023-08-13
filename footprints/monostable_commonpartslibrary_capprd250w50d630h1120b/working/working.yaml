@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/monostable_commonpartslibrary_capprd250w50d630h1120b/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/monostable_commonpartslibrary_capprd250w50d630h1120b/working
-    oomp_doc: footprints/footprints/monostable/CommonPartsLibrary/CAPPRD250W50D630H1120B/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/monostable/CommonPartsLibrary/CAPPRD250W50D630H1120B/working
     oomp_src_flat: footprints_flat/footprints_flat/monostable_commonpartslibrary_capprd250w50d630h1120b/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/monostable_commonpartslibrary_capprd250w50d630h1120b/working
-    oomp_src_folder: footprints_folder/footprints_folder/monostable/CommonPartsLibrary/CAPPRD250W50D630H1120B/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/monostable/CommonPartsLibrary/CAPPRD250W50D630H1120B/working
   name: CommonPartsLibrary.pretty
+  oomp:
+    footprint_name: capprd250w50d630h1120b
+    library_name: commonpartslibrary
+    md5: 4733d71d8056c054c4f22b8bb06c5131
+    md5_10: 4733d71d80
+    md5_5: 4733d
+    md5_6: 4733d7
+    oomp_key: oomp_monostable_commonpartslibrary_capprd250w50d630h1120b
+    oomp_key_extra: oomp_footprint_monostable_commonpartslibrary_capprd250w50d630h1120b
+    oomp_key_full: oomp_footprint_monostable_commonpartslibrary_capprd250w50d630h1120b_4733d7
+    oomp_key_simple: monostable_commonpartslibrary_capprd250w50d630h1120b
+    original_filename: CommonPartsLibrary.pretty/CAPPRD250W50D630H1120B.kicad_mod
+    owner_name: monostable
   oomp_key: oomp_monostable_commonpartslibrary_capprd250w50d630h1120b
+  oomp_key_full: oomp_footprint_monostable_commonpartslibrary_capprd250w50d630h1120b
   oomp_key_simple: monostable_commonpartslibrary_capprd250w50d630h1120b
   owner: monostable
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/shelaf_dygma_raise_fp_measurement_point_round_smd_pad_small/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/shelaf_dygma_raise_fp_measurement_point_round_smd_pad_small/working
-    oomp_doc: footprints/footprints/shelaf-dygma/raise_fp/Measurement_Point_Round-SMD-Pad_Small/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/shelaf-dygma/raise_fp/Measurement_Point_Round-SMD-Pad_Small/working
     oomp_src_flat: footprints_flat/footprints_flat/shelaf_dygma_raise_fp_measurement_point_round_smd_pad_small/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/shelaf_dygma_raise_fp_measurement_point_round_smd_pad_small/working
-    oomp_src_folder: footprints_folder/footprints_folder/shelaf-dygma/raise_fp/Measurement_Point_Round-SMD-Pad_Small/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/shelaf-dygma/raise_fp/Measurement_Point_Round-SMD-Pad_Small/working
   name: raise_fp.pretty
+  oomp:
+    footprint_name: measurement_point_round_smd_pad_small
+    library_name: raise_fp
+    md5: 4435aa17208e45d7520e532a05a9cf8b
+    md5_10: 4435aa1720
+    md5_5: 4435a
+    md5_6: 4435aa
+    oomp_key: oomp_shelaf_dygma_raise_fp_measurement_point_round_smd_pad_small
+    oomp_key_extra: oomp_footprint_shelaf_dygma_raise_fp_measurement_point_round_smd_pad_small
+    oomp_key_full: oomp_footprint_shelaf_dygma_raise_fp_measurement_point_round_smd_pad_small_4435aa
+    oomp_key_simple: shelaf_dygma_raise_fp_measurement_point_round_smd_pad_small
+    original_filename: raise_fp.pretty/Measurement_Point_Round-SMD-Pad_Small.kicad_mod
+    owner_name: shelaf_dygma
   oomp_key: oomp_shelaf_dygma_raise_fp_measurement_point_round_smd_pad_small
+  oomp_key_full: oomp_footprint_shelaf_dygma_raise_fp_measurement_point_round_smd_pad_small
   oomp_key_simple: shelaf_dygma_raise_fp_measurement_point_round_smd_pad_small
   owner: shelaf-dygma
   repo:

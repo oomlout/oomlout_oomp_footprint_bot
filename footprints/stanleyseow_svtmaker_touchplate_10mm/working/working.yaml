@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/stanleyseow_svtmaker_touchplate_10mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stanleyseow_svtmaker_touchplate_10mm/working
-    oomp_doc: footprints/footprints/stanleyseow/SVTmaker/TouchPlate-10mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/stanleyseow/SVTmaker/TouchPlate-10mm/working
     oomp_src_flat: footprints_flat/footprints_flat/stanleyseow_svtmaker_touchplate_10mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/stanleyseow_svtmaker_touchplate_10mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/stanleyseow/SVTmaker/TouchPlate-10mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/stanleyseow/SVTmaker/TouchPlate-10mm/working
   name: SVTmaker.pretty
+  oomp:
+    footprint_name: touchplate_10mm
+    library_name: svtmaker
+    md5: f1deb52ccdb2802c1caeaf06010c9b2e
+    md5_10: f1deb52ccd
+    md5_5: f1deb
+    md5_6: f1deb5
+    oomp_key: oomp_stanleyseow_svtmaker_touchplate_10mm
+    oomp_key_extra: oomp_footprint_stanleyseow_svtmaker_touchplate_10mm
+    oomp_key_full: oomp_footprint_stanleyseow_svtmaker_touchplate_10mm_f1deb5
+    oomp_key_simple: stanleyseow_svtmaker_touchplate_10mm
+    original_filename: SVTmaker.pretty/TouchPlate-10mm.kicad_mod
+    owner_name: stanleyseow
   oomp_key: oomp_stanleyseow_svtmaker_touchplate_10mm
+  oomp_key_full: oomp_footprint_stanleyseow_svtmaker_touchplate_10mm
   oomp_key_simple: stanleyseow_svtmaker_touchplate_10mm
   owner: stanleyseow
   repo:

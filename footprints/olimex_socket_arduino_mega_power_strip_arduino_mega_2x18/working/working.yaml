@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/olimex_socket_arduino_mega_power_strip_arduino_mega_2x18/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/olimex_socket_arduino_mega_power_strip_arduino_mega_2x18/working
-    oomp_doc: footprints/footprints/OLIMEX/Socket_Arduino_Mega/Power_Strip_Arduino_Mega_2x18/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/OLIMEX/Socket_Arduino_Mega/Power_Strip_Arduino_Mega_2x18/working
     oomp_src_flat: footprints_flat/footprints_flat/olimex_socket_arduino_mega_power_strip_arduino_mega_2x18/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/olimex_socket_arduino_mega_power_strip_arduino_mega_2x18/working
-    oomp_src_folder: footprints_folder/footprints_folder/OLIMEX/Socket_Arduino_Mega/Power_Strip_Arduino_Mega_2x18/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/OLIMEX/Socket_Arduino_Mega/Power_Strip_Arduino_Mega_2x18/working
   name: KiCAD
+  oomp:
+    footprint_name: power_strip_arduino_mega_2x18
+    library_name: socket_arduino_mega
+    md5: 40367bd4d10ee38c3c036165f2fff900
+    md5_10: 40367bd4d1
+    md5_5: '40367'
+    md5_6: 40367b
+    oomp_key: oomp_olimex_socket_arduino_mega_power_strip_arduino_mega_2x18
+    oomp_key_extra: oomp_footprint_olimex_socket_arduino_mega_power_strip_arduino_mega_2x18
+    oomp_key_full: oomp_footprint_olimex_socket_arduino_mega_power_strip_arduino_mega_2x18_40367b
+    oomp_key_simple: olimex_socket_arduino_mega_power_strip_arduino_mega_2x18
+    original_filename: KiCAD/Arduino_Mega_433Mhz_Shield/Socket_Arduino_Mega.pretty/Power_Strip_Arduino_Mega_2x18.kicad_mod
+    owner_name: olimex
   oomp_key: oomp_olimex_socket_arduino_mega_power_strip_arduino_mega_2x18
+  oomp_key_full: oomp_footprint_olimex_socket_arduino_mega_power_strip_arduino_mega_2x18
   oomp_key_simple: olimex_socket_arduino_mega_power_strip_arduino_mega_2x18
   owner: OLIMEX
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_shield_2_shield_2/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_shield_2_shield_2/working
-    oomp_doc: footprints/footprints/brunoeagle/SHIELD_2.kicad_mod/SHIELD_2/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/SHIELD_2.kicad_mod/SHIELD_2/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_shield_2_shield_2/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_shield_2_shield_2/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/SHIELD_2.kicad_mod/SHIELD_2/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/SHIELD_2.kicad_mod/SHIELD_2/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: shield_2
+    library_name: shield_2_kicad_mod
+    md5: 445fbea1c227599542b0bbd659b7bddb
+    md5_10: 445fbea1c2
+    md5_5: 445fb
+    md5_6: 445fbe
+    oomp_key: oomp_brunoeagle_shield_2_shield_2
+    oomp_key_extra: oomp_footprint_brunoeagle_shield_2_shield_2
+    oomp_key_full: oomp_footprint_brunoeagle_shield_2_shield_2_445fbe
+    oomp_key_simple: brunoeagle_shield_2_shield_2
+    original_filename: kicad-open-modules/SHIELD_2.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_shield_2_shield_2
+  oomp_key_full: oomp_footprint_brunoeagle_shield_2_shield_2
   oomp_key_simple: brunoeagle_shield_2_shield_2
   owner: brunoeagle
   repo:

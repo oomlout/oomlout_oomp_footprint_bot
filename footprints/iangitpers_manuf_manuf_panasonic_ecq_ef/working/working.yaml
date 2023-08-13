@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/Iangitpers/4a
     oomp_bot: footprints/iangitpers_manuf_manuf_panasonic_ecq_ef/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/iangitpers_manuf_manuf_panasonic_ecq_ef/working
-    oomp_doc: footprints/footprints/Iangitpers/manuf/MANUF-PANASONIC-ECQ-EF/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Iangitpers/manuf/MANUF-PANASONIC-ECQ-EF/working
     oomp_src_flat: footprints_flat/footprints_flat/iangitpers_manuf_manuf_panasonic_ecq_ef/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/iangitpers_manuf_manuf_panasonic_ecq_ef/working
-    oomp_src_folder: footprints_folder/footprints_folder/Iangitpers/manuf/MANUF-PANASONIC-ECQ-EF/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Iangitpers/manuf/MANUF-PANASONIC-ECQ-EF/working
   name: 4a
+  oomp:
+    footprint_name: manuf_panasonic_ecq_ef
+    library_name: manuf
+    md5: 900d9820b3ae3b268a633461fa701a77
+    md5_10: 900d9820b3
+    md5_5: 900d9
+    md5_6: 900d98
+    oomp_key: oomp_iangitpers_manuf_manuf_panasonic_ecq_ef
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_manuf_panasonic_ecq_ef
+    oomp_key_full: oomp_footprint_iangitpers_manuf_manuf_panasonic_ecq_ef_900d98
+    oomp_key_simple: iangitpers_manuf_manuf_panasonic_ecq_ef
+    original_filename: 4a/manuf.pretty/MANUF-PANASONIC-ECQ-EF.kicad_mod
+    owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_manuf_panasonic_ecq_ef
+  oomp_key_full: oomp_footprint_iangitpers_manuf_manuf_panasonic_ecq_ef
   oomp_key_simple: iangitpers_manuf_manuf_panasonic_ecq_ef
   owner: Iangitpers
   repo:

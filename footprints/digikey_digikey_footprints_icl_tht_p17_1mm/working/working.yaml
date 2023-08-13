@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/digikey_digikey_footprints_icl_tht_p17_1mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_digikey_footprints_icl_tht_p17_1mm/working
-    oomp_doc: footprints/footprints/digikey/digikey-footprints/ICL_THT_P17.1mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/digikey/digikey-footprints/ICL_THT_P17.1mm/working
     oomp_src_flat: footprints_flat/footprints_flat/digikey_digikey_footprints_icl_tht_p17_1mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/digikey_digikey_footprints_icl_tht_p17_1mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/digikey/digikey-footprints/ICL_THT_P17.1mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/digikey/digikey-footprints/ICL_THT_P17.1mm/working
   name: digikey-kicad-library
+  oomp:
+    footprint_name: icl_tht_p17_1mm
+    library_name: digikey_footprints
+    md5: 2d2afcb44c0ec6ebd7c41f5515c86a2b
+    md5_10: 2d2afcb44c
+    md5_5: 2d2af
+    md5_6: 2d2afc
+    oomp_key: oomp_digikey_digikey_footprints_icl_tht_p17_1mm
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_icl_tht_p17_1mm
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_icl_tht_p17_1mm_2d2afc
+    oomp_key_simple: digikey_digikey_footprints_icl_tht_p17_1mm
+    original_filename: digikey-kicad-library/digikey-footprints.pretty/ICL_THT_P17.1mm.kicad_mod
+    owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_icl_tht_p17_1mm
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_icl_tht_p17_1mm
   oomp_key_simple: digikey_digikey_footprints_icl_tht_p17_1mm
   owner: digikey
   repo:

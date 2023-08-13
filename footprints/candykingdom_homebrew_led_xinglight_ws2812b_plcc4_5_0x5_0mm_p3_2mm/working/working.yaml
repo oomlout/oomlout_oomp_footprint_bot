@@ -1,5 +1,8 @@
-- error: Expression does not have the correct type
-  file: homebrew.pretty/LED_XINGLIGHT_WS2812B_PLCC4_5.0x5.0mm_P3.2mm.kicad_mod
+- file: homebrew.pretty/LED_XINGLIGHT_WS2812B_PLCC4_5.0x5.0mm_P3.2mm.kicad_mod
+  footprint:
+    description: https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf
+    libraryLink: LED_XINGLIGHT_WS2812B_PLCC4_5.0x5.0mm_P3.2mm
+    number_of_pads: 4
   footprint_library_directory: footprint_library_owner/candykingdom_homebrew.pretty
   footprint_library_directory_flat: footprints_flat/candykingdom_homebrew_led_xinglight_ws2812b_plcc4_5_0x5_0mm_p3_2mm/working
   github_path: http://github.com/candykingdom/homebrew.pretty/blob/master/LED_XINGLIGHT_WS2812B_PLCC4_5.0x5.0mm_P3.2mm.kicad_mod
@@ -9,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/candykingdom_homebrew_led_xinglight_ws2812b_plcc4_5_0x5_0mm_p3_2mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/candykingdom_homebrew_led_xinglight_ws2812b_plcc4_5_0x5_0mm_p3_2mm/working
-    oomp_doc: footprints/footprints/candykingdom/homebrew/LED_XINGLIGHT_WS2812B_PLCC4_5.0x5.0mm_P3.2mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/candykingdom/homebrew/LED_XINGLIGHT_WS2812B_PLCC4_5.0x5.0mm_P3.2mm/working
     oomp_src_flat: footprints_flat/footprints_flat/candykingdom_homebrew_led_xinglight_ws2812b_plcc4_5_0x5_0mm_p3_2mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/candykingdom_homebrew_led_xinglight_ws2812b_plcc4_5_0x5_0mm_p3_2mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/candykingdom/homebrew/LED_XINGLIGHT_WS2812B_PLCC4_5.0x5.0mm_P3.2mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/candykingdom/homebrew/LED_XINGLIGHT_WS2812B_PLCC4_5.0x5.0mm_P3.2mm/working
   name: homebrew.pretty
+  oomp:
+    footprint_name: led_xinglight_ws2812b_plcc4_5_0x5_0mm_p3_2mm
+    library_name: homebrew
+    md5: 975279978933174949a1d78f719bf167
+    md5_10: '9752799789'
+    md5_5: '97527'
+    md5_6: '975279'
+    oomp_key: oomp_candykingdom_homebrew_led_xinglight_ws2812b_plcc4_5_0x5_0mm_p3_2mm
+    oomp_key_extra: oomp_footprint_candykingdom_homebrew_led_xinglight_ws2812b_plcc4_5_0x5_0mm_p3_2mm
+    oomp_key_full: oomp_footprint_candykingdom_homebrew_led_xinglight_ws2812b_plcc4_5_0x5_0mm_p3_2mm_975279
+    oomp_key_simple: candykingdom_homebrew_led_xinglight_ws2812b_plcc4_5_0x5_0mm_p3_2mm
+    original_filename: homebrew.pretty/LED_XINGLIGHT_WS2812B_PLCC4_5.0x5.0mm_P3.2mm.kicad_mod
+    owner_name: candykingdom
   oomp_key: oomp_candykingdom_homebrew_led_xinglight_ws2812b_plcc4_5_0x5_0mm_p3_2mm
+  oomp_key_full: oomp_footprint_candykingdom_homebrew_led_xinglight_ws2812b_plcc4_5_0x5_0mm_p3_2mm
   oomp_key_simple: candykingdom_homebrew_led_xinglight_ws2812b_plcc4_5_0x5_0mm_p3_2mm
   owner: candykingdom
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_tf_015_tf_015/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_tf_015_tf_015/working
-    oomp_doc: footprints/footprints/brunoeagle/TF-015.kicad_mod/TF-015/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/TF-015.kicad_mod/TF-015/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_tf_015_tf_015/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_tf_015_tf_015/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/TF-015.kicad_mod/TF-015/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/TF-015.kicad_mod/TF-015/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: tf_015
+    library_name: tf_015_kicad_mod
+    md5: 2d5c077a3f4ae6b402b53c653e86580e
+    md5_10: 2d5c077a3f
+    md5_5: 2d5c0
+    md5_6: 2d5c07
+    oomp_key: oomp_brunoeagle_tf_015_tf_015
+    oomp_key_extra: oomp_footprint_brunoeagle_tf_015_tf_015
+    oomp_key_full: oomp_footprint_brunoeagle_tf_015_tf_015_2d5c07
+    oomp_key_simple: brunoeagle_tf_015_tf_015
+    original_filename: kicad-open-modules/TF-015.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_tf_015_tf_015
+  oomp_key_full: oomp_footprint_brunoeagle_tf_015_tf_015
   oomp_key_simple: brunoeagle_tf_015_tf_015
   owner: brunoeagle
   repo:

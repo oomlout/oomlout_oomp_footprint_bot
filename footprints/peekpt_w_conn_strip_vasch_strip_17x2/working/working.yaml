@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/peekpt_w_conn_strip_vasch_strip_17x2/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/peekpt_w_conn_strip_vasch_strip_17x2/working
-    oomp_doc: footprints/footprints/peekpt/w_conn_strip/vasch_strip_17x2/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/peekpt/w_conn_strip/vasch_strip_17x2/working
     oomp_src_flat: footprints_flat/footprints_flat/peekpt_w_conn_strip_vasch_strip_17x2/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/peekpt_w_conn_strip_vasch_strip_17x2/working
-    oomp_src_folder: footprints_folder/footprints_folder/peekpt/w_conn_strip/vasch_strip_17x2/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/peekpt/w_conn_strip/vasch_strip_17x2/working
   name: kicad_smisioto
+  oomp:
+    footprint_name: vasch_strip_17x2
+    library_name: w_conn_strip
+    md5: 1626253c7266747fdeab12fbc2d231d6
+    md5_10: 1626253c72
+    md5_5: '16262'
+    md5_6: '162625'
+    oomp_key: oomp_peekpt_w_conn_strip_vasch_strip_17x2
+    oomp_key_extra: oomp_footprint_peekpt_w_conn_strip_vasch_strip_17x2
+    oomp_key_full: oomp_footprint_peekpt_w_conn_strip_vasch_strip_17x2_162625
+    oomp_key_simple: peekpt_w_conn_strip_vasch_strip_17x2
+    original_filename: kicad_smisioto/modules/walter/w_conn_strip.pretty/vasch_strip_17x2.kicad_mod
+    owner_name: peekpt
   oomp_key: oomp_peekpt_w_conn_strip_vasch_strip_17x2
+  oomp_key_full: oomp_footprint_peekpt_w_conn_strip_vasch_strip_17x2
   oomp_key_simple: peekpt_w_conn_strip_vasch_strip_17x2
   owner: peekpt
   repo:

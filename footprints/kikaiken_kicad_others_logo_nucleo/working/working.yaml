@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/kikaiken/kicad_others.pretty
     oomp_bot: footprints/kikaiken_kicad_others_logo_nucleo/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kikaiken_kicad_others_logo_nucleo/working
-    oomp_doc: footprints/footprints/kikaiken/kicad_others/LOGO_Nucleo/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kikaiken/kicad_others/LOGO_Nucleo/working
     oomp_src_flat: footprints_flat/footprints_flat/kikaiken_kicad_others_logo_nucleo/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kikaiken_kicad_others_logo_nucleo/working
-    oomp_src_folder: footprints_folder/footprints_folder/kikaiken/kicad_others/LOGO_Nucleo/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kikaiken/kicad_others/LOGO_Nucleo/working
   name: kicad_others.pretty
+  oomp:
+    footprint_name: logo_nucleo
+    library_name: kicad_others
+    md5: ad58f704ffd1561594c1cbe667c22542
+    md5_10: ad58f704ff
+    md5_5: ad58f
+    md5_6: ad58f7
+    oomp_key: oomp_kikaiken_kicad_others_logo_nucleo
+    oomp_key_extra: oomp_footprint_kikaiken_kicad_others_logo_nucleo
+    oomp_key_full: oomp_footprint_kikaiken_kicad_others_logo_nucleo_ad58f7
+    oomp_key_simple: kikaiken_kicad_others_logo_nucleo
+    original_filename: kicad_others.pretty/LOGO_Nucleo.kicad_mod
+    owner_name: kikaiken
   oomp_key: oomp_kikaiken_kicad_others_logo_nucleo
+  oomp_key_full: oomp_footprint_kikaiken_kicad_others_logo_nucleo
   oomp_key_simple: kikaiken_kicad_others_logo_nucleo
   owner: kikaiken
   repo:

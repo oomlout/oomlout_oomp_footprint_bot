@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/aniline/akn_misc.pretty
     oomp_bot: footprints/aniline_akn_misc_led_8x8_3mm_32x32mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/aniline_akn_misc_led_8x8_3mm_32x32mm/working
-    oomp_doc: footprints/footprints/aniline/akn_misc/LED_8x8_3MM_32x32MM/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/aniline/akn_misc/LED_8x8_3MM_32x32MM/working
     oomp_src_flat: footprints_flat/footprints_flat/aniline_akn_misc_led_8x8_3mm_32x32mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/aniline_akn_misc_led_8x8_3mm_32x32mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/aniline/akn_misc/LED_8x8_3MM_32x32MM/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/aniline/akn_misc/LED_8x8_3MM_32x32MM/working
   name: akn_misc.pretty
+  oomp:
+    footprint_name: led_8x8_3mm_32x32mm
+    library_name: akn_misc
+    md5: 8075561174b654ea5e607a633d8761b7
+    md5_10: '8075561174'
+    md5_5: '80755'
+    md5_6: '807556'
+    oomp_key: oomp_aniline_akn_misc_led_8x8_3mm_32x32mm
+    oomp_key_extra: oomp_footprint_aniline_akn_misc_led_8x8_3mm_32x32mm
+    oomp_key_full: oomp_footprint_aniline_akn_misc_led_8x8_3mm_32x32mm_807556
+    oomp_key_simple: aniline_akn_misc_led_8x8_3mm_32x32mm
+    original_filename: akn_misc.pretty/LED_8x8_3MM_32x32MM.kicad_mod
+    owner_name: aniline
   oomp_key: oomp_aniline_akn_misc_led_8x8_3mm_32x32mm
+  oomp_key_full: oomp_footprint_aniline_akn_misc_led_8x8_3mm_32x32mm
   oomp_key_simple: aniline_akn_misc_led_8x8_3mm_32x32mm
   owner: aniline
   repo:

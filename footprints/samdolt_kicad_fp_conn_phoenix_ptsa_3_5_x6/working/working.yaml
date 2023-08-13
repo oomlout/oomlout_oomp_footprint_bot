@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/samdolt_kicad_fp_conn_phoenix_ptsa_3_5_x6/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/samdolt_kicad_fp_conn_phoenix_ptsa_3_5_x6/working
-    oomp_doc: footprints/footprints/samdolt/kicad-fp/Conn_Phoenix_PTSA_3.5_x6/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/samdolt/kicad-fp/Conn_Phoenix_PTSA_3.5_x6/working
     oomp_src_flat: footprints_flat/footprints_flat/samdolt_kicad_fp_conn_phoenix_ptsa_3_5_x6/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/samdolt_kicad_fp_conn_phoenix_ptsa_3_5_x6/working
-    oomp_src_folder: footprints_folder/footprints_folder/samdolt/kicad-fp/Conn_Phoenix_PTSA_3.5_x6/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/samdolt/kicad-fp/Conn_Phoenix_PTSA_3.5_x6/working
   name: kicad-fp.pretty
+  oomp:
+    footprint_name: conn_phoenix_ptsa_3_5_x6
+    library_name: kicad_fp
+    md5: 2dc441a86b21646660c53d4e339402ca
+    md5_10: 2dc441a86b
+    md5_5: 2dc44
+    md5_6: 2dc441
+    oomp_key: oomp_samdolt_kicad_fp_conn_phoenix_ptsa_3_5_x6
+    oomp_key_extra: oomp_footprint_samdolt_kicad_fp_conn_phoenix_ptsa_3_5_x6
+    oomp_key_full: oomp_footprint_samdolt_kicad_fp_conn_phoenix_ptsa_3_5_x6_2dc441
+    oomp_key_simple: samdolt_kicad_fp_conn_phoenix_ptsa_3_5_x6
+    original_filename: kicad-fp.pretty/Conn_Phoenix_PTSA_3.5_x6.kicad_mod
+    owner_name: samdolt
   oomp_key: oomp_samdolt_kicad_fp_conn_phoenix_ptsa_3_5_x6
+  oomp_key_full: oomp_footprint_samdolt_kicad_fp_conn_phoenix_ptsa_3_5_x6
   oomp_key_simple: samdolt_kicad_fp_conn_phoenix_ptsa_3_5_x6
   owner: samdolt
   repo:

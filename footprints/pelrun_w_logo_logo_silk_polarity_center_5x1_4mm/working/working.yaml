@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pelrun_w_logo_logo_silk_polarity_center_5x1_4mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pelrun_w_logo_logo_silk_polarity_center_5x1_4mm/working
-    oomp_doc: footprints/footprints/pelrun/w_logo/Logo_silk_polarity_center_5x1.4mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/pelrun/w_logo/Logo_silk_polarity_center_5x1.4mm/working
     oomp_src_flat: footprints_flat/footprints_flat/pelrun_w_logo_logo_silk_polarity_center_5x1_4mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pelrun_w_logo_logo_silk_polarity_center_5x1_4mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/pelrun/w_logo/Logo_silk_polarity_center_5x1.4mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/pelrun/w_logo/Logo_silk_polarity_center_5x1.4mm/working
   name: libKiCad
+  oomp:
+    footprint_name: logo_silk_polarity_center_5x1_4mm
+    library_name: w_logo
+    md5: c50d9ce6432d9cbffaf263baa356273f
+    md5_10: c50d9ce643
+    md5_5: c50d9
+    md5_6: c50d9c
+    oomp_key: oomp_pelrun_w_logo_logo_silk_polarity_center_5x1_4mm
+    oomp_key_extra: oomp_footprint_pelrun_w_logo_logo_silk_polarity_center_5x1_4mm
+    oomp_key_full: oomp_footprint_pelrun_w_logo_logo_silk_polarity_center_5x1_4mm_c50d9c
+    oomp_key_simple: pelrun_w_logo_logo_silk_polarity_center_5x1_4mm
+    original_filename: libKiCad/footprint/w_logo.pretty/Logo_silk_polarity_center_5x1.4mm.kicad_mod
+    owner_name: pelrun
   oomp_key: oomp_pelrun_w_logo_logo_silk_polarity_center_5x1_4mm
+  oomp_key_full: oomp_footprint_pelrun_w_logo_logo_silk_polarity_center_5x1_4mm
   oomp_key_simple: pelrun_w_logo_logo_silk_polarity_center_5x1_4mm
   owner: pelrun
   repo:

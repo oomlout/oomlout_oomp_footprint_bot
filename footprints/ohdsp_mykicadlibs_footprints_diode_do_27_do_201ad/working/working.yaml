@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/ohdsp_mykicadlibs_footprints_diode_do_27_do_201ad/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ohdsp_mykicadlibs_footprints_diode_do_27_do_201ad/working
-    oomp_doc: footprints/footprints/ohdsp/MyKiCadLibs-Footprints/DIODE-DO-27-DO-201AD/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ohdsp/MyKiCadLibs-Footprints/DIODE-DO-27-DO-201AD/working
     oomp_src_flat: footprints_flat/footprints_flat/ohdsp_mykicadlibs_footprints_diode_do_27_do_201ad/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ohdsp_mykicadlibs_footprints_diode_do_27_do_201ad/working
-    oomp_src_folder: footprints_folder/footprints_folder/ohdsp/MyKiCadLibs-Footprints/DIODE-DO-27-DO-201AD/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ohdsp/MyKiCadLibs-Footprints/DIODE-DO-27-DO-201AD/working
   name: KiCad-Libs
+  oomp:
+    footprint_name: diode_do_27_do_201ad
+    library_name: mykicadlibs_footprints
+    md5: 0e9ded87e39583b3a30c58bfd117a5f9
+    md5_10: 0e9ded87e3
+    md5_5: 0e9de
+    md5_6: 0e9ded
+    oomp_key: oomp_ohdsp_mykicadlibs_footprints_diode_do_27_do_201ad
+    oomp_key_extra: oomp_footprint_ohdsp_mykicadlibs_footprints_diode_do_27_do_201ad
+    oomp_key_full: oomp_footprint_ohdsp_mykicadlibs_footprints_diode_do_27_do_201ad_0e9ded
+    oomp_key_simple: ohdsp_mykicadlibs_footprints_diode_do_27_do_201ad
+    original_filename: KiCad-Libs/MyKiCadLibs-Footprints.pretty/DIODE-DO-27-DO-201AD.kicad_mod
+    owner_name: ohdsp
   oomp_key: oomp_ohdsp_mykicadlibs_footprints_diode_do_27_do_201ad
+  oomp_key_full: oomp_footprint_ohdsp_mykicadlibs_footprints_diode_do_27_do_201ad
   oomp_key_simple: ohdsp_mykicadlibs_footprints_diode_do_27_do_201ad
   owner: ohdsp
   repo:

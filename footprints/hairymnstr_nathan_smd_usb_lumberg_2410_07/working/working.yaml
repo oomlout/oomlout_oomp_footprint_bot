@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/hairymnstr_nathan_smd_usb_lumberg_2410_07/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/hairymnstr_nathan_smd_usb_lumberg_2410_07/working
-    oomp_doc: footprints/footprints/hairymnstr/Nathan_SMD/USB_LUMBERG_2410_07/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/hairymnstr/Nathan_SMD/USB_LUMBERG_2410_07/working
     oomp_src_flat: footprints_flat/footprints_flat/hairymnstr_nathan_smd_usb_lumberg_2410_07/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/hairymnstr_nathan_smd_usb_lumberg_2410_07/working
-    oomp_src_folder: footprints_folder/footprints_folder/hairymnstr/Nathan_SMD/USB_LUMBERG_2410_07/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/hairymnstr/Nathan_SMD/USB_LUMBERG_2410_07/working
   name: Nathan_SMD.pretty
+  oomp:
+    footprint_name: usb_lumberg_2410_07
+    library_name: nathan_smd
+    md5: a43b71d0d056d391bc545d917f52fef9
+    md5_10: a43b71d0d0
+    md5_5: a43b7
+    md5_6: a43b71
+    oomp_key: oomp_hairymnstr_nathan_smd_usb_lumberg_2410_07
+    oomp_key_extra: oomp_footprint_hairymnstr_nathan_smd_usb_lumberg_2410_07
+    oomp_key_full: oomp_footprint_hairymnstr_nathan_smd_usb_lumberg_2410_07_a43b71
+    oomp_key_simple: hairymnstr_nathan_smd_usb_lumberg_2410_07
+    original_filename: Nathan_SMD.pretty/USB_LUMBERG_2410_07.kicad_mod
+    owner_name: hairymnstr
   oomp_key: oomp_hairymnstr_nathan_smd_usb_lumberg_2410_07
+  oomp_key_full: oomp_footprint_hairymnstr_nathan_smd_usb_lumberg_2410_07
   oomp_key_simple: hairymnstr_nathan_smd_usb_lumberg_2410_07
   owner: hairymnstr
   repo:

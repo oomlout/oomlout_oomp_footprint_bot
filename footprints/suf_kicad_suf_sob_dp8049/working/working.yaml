@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/suf_kicad_suf_sob_dp8049/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/suf_kicad_suf_sob_dp8049/working
-    oomp_doc: footprints/footprints/suf-KiCAD/suf_sob/DP8049/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/suf-KiCAD/suf_sob/DP8049/working
     oomp_src_flat: footprints_flat/footprints_flat/suf_kicad_suf_sob_dp8049/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/suf_kicad_suf_sob_dp8049/working
-    oomp_src_folder: footprints_folder/footprints_folder/suf-KiCAD/suf_sob/DP8049/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/suf-KiCAD/suf_sob/DP8049/working
   name: suf_sob.pretty
+  oomp:
+    footprint_name: dp8049
+    library_name: suf_sob
+    md5: 139c0d4cfc37174357e1837eab32eed6
+    md5_10: 139c0d4cfc
+    md5_5: 139c0
+    md5_6: 139c0d
+    oomp_key: oomp_suf_kicad_suf_sob_dp8049
+    oomp_key_extra: oomp_footprint_suf_kicad_suf_sob_dp8049
+    oomp_key_full: oomp_footprint_suf_kicad_suf_sob_dp8049_139c0d
+    oomp_key_simple: suf_kicad_suf_sob_dp8049
+    original_filename: suf_sob.pretty/DP8049.kicad_mod
+    owner_name: suf_kicad
   oomp_key: oomp_suf_kicad_suf_sob_dp8049
+  oomp_key_full: oomp_footprint_suf_kicad_suf_sob_dp8049
   oomp_key_simple: suf_kicad_suf_sob_dp8049
   owner: suf-KiCAD
   repo:

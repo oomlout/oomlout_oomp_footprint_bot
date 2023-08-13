@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/rascalmicro_rascalmicro_kicad_footprints_3m_2908_05wb_mg/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/rascalmicro_rascalmicro_kicad_footprints_3m_2908_05wb_mg/working
-    oomp_doc: footprints/footprints/rascalmicro/rascalmicro-kicad-footprints/3M_2908-05WB-MG/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/rascalmicro/rascalmicro-kicad-footprints/3M_2908-05WB-MG/working
     oomp_src_flat: footprints_flat/footprints_flat/rascalmicro_rascalmicro_kicad_footprints_3m_2908_05wb_mg/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/rascalmicro_rascalmicro_kicad_footprints_3m_2908_05wb_mg/working
-    oomp_src_folder: footprints_folder/footprints_folder/rascalmicro/rascalmicro-kicad-footprints/3M_2908-05WB-MG/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/rascalmicro/rascalmicro-kicad-footprints/3M_2908-05WB-MG/working
   name: rascalmicro-kicad-footprints.pretty
+  oomp:
+    footprint_name: 3m_2908_05wb_mg
+    library_name: rascalmicro_kicad_footprints
+    md5: 25ea4553e80f67e18ef182c26095b59d
+    md5_10: 25ea4553e8
+    md5_5: 25ea4
+    md5_6: 25ea45
+    oomp_key: oomp_rascalmicro_rascalmicro_kicad_footprints_3m_2908_05wb_mg
+    oomp_key_extra: oomp_footprint_rascalmicro_rascalmicro_kicad_footprints_3m_2908_05wb_mg
+    oomp_key_full: oomp_footprint_rascalmicro_rascalmicro_kicad_footprints_3m_2908_05wb_mg_25ea45
+    oomp_key_simple: rascalmicro_rascalmicro_kicad_footprints_3m_2908_05wb_mg
+    original_filename: rascalmicro-kicad-footprints.pretty/3M_2908-05WB-MG.kicad_mod
+    owner_name: rascalmicro
   oomp_key: oomp_rascalmicro_rascalmicro_kicad_footprints_3m_2908_05wb_mg
+  oomp_key_full: oomp_footprint_rascalmicro_rascalmicro_kicad_footprints_3m_2908_05wb_mg
   oomp_key_simple: rascalmicro_rascalmicro_kicad_footprints_3m_2908_05wb_mg
   owner: rascalmicro
   repo:

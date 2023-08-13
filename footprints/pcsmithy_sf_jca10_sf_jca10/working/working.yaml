@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pcsmithy_sf_jca10_sf_jca10/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pcsmithy_sf_jca10_sf_jca10/working
-    oomp_doc: footprints/footprints/PCSmithy/SF_JCA10/SF_JCA10/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/PCSmithy/SF_JCA10/SF_JCA10/working
     oomp_src_flat: footprints_flat/footprints_flat/pcsmithy_sf_jca10_sf_jca10/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pcsmithy_sf_jca10_sf_jca10/working
-    oomp_src_folder: footprints_folder/footprints_folder/PCSmithy/SF_JCA10/SF_JCA10/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/PCSmithy/SF_JCA10/SF_JCA10/working
   name: SF_JCA10.pretty
+  oomp:
+    footprint_name: sf_jca10
+    library_name: sf_jca10
+    md5: af710aaacca6cb2f124de9711b8da226
+    md5_10: af710aaacc
+    md5_5: af710
+    md5_6: af710a
+    oomp_key: oomp_pcsmithy_sf_jca10_sf_jca10
+    oomp_key_extra: oomp_footprint_pcsmithy_sf_jca10_sf_jca10
+    oomp_key_full: oomp_footprint_pcsmithy_sf_jca10_sf_jca10_af710a
+    oomp_key_simple: pcsmithy_sf_jca10_sf_jca10
+    original_filename: SF_JCA10.pretty/SF_JCA10.kicad_mod
+    owner_name: pcsmithy
   oomp_key: oomp_pcsmithy_sf_jca10_sf_jca10
+  oomp_key_full: oomp_footprint_pcsmithy_sf_jca10_sf_jca10
   oomp_key_simple: pcsmithy_sf_jca10_sf_jca10
   owner: PCSmithy
   repo:

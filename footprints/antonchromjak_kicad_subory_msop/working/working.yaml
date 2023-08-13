@@ -14,14 +14,24 @@
     github_src_repo: https://github.com/antonchromjak/kicad_subory.pretty
     oomp_bot: footprints/antonchromjak_kicad_subory_msop/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/antonchromjak_kicad_subory_msop/working
-    oomp_doc: footprints/footprints/antonchromjak/kicad_subory/MSOP/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/antonchromjak/kicad_subory/MSOP/working
     oomp_src_flat: footprints_flat/footprints_flat/antonchromjak_kicad_subory_msop/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/antonchromjak_kicad_subory_msop/working
-    oomp_src_folder: footprints_folder/footprints_folder/antonchromjak/kicad_subory/MSOP/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/antonchromjak/kicad_subory/MSOP/working
   name: kicad_subory.pretty
+  oomp:
+    footprint_name: msop
+    library_name: kicad_subory
+    md5: 496ce7a8bb8292b5de24b1378d0f6724
+    md5_10: 496ce7a8bb
+    md5_5: 496ce
+    md5_6: 496ce7
+    oomp_key: oomp_antonchromjak_kicad_subory_msop
+    oomp_key_extra: oomp_footprint_antonchromjak_kicad_subory_msop
+    oomp_key_full: oomp_footprint_antonchromjak_kicad_subory_msop_496ce7
+    oomp_key_simple: antonchromjak_kicad_subory_msop
+    original_filename: kicad_subory.pretty/MSOP.kicad_mod
+    owner_name: antonchromjak
   oomp_key: oomp_antonchromjak_kicad_subory_msop
+  oomp_key_full: oomp_footprint_antonchromjak_kicad_subory_msop
   oomp_key_simple: antonchromjak_kicad_subory_msop
   owner: antonchromjak
   repo:

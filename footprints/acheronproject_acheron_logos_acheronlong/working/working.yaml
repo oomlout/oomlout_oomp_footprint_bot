@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/AcheronProject/acheron_Logos.pretty
     oomp_bot: footprints/acheronproject_acheron_logos_acheronlong/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/acheronproject_acheron_logos_acheronlong/working
-    oomp_doc: footprints/footprints/AcheronProject/acheron_Logos/acheronLong/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/AcheronProject/acheron_Logos/acheronLong/working
     oomp_src_flat: footprints_flat/footprints_flat/acheronproject_acheron_logos_acheronlong/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/acheronproject_acheron_logos_acheronlong/working
-    oomp_src_folder: footprints_folder/footprints_folder/AcheronProject/acheron_Logos/acheronLong/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/AcheronProject/acheron_Logos/acheronLong/working
   name: acheron_Logos.pretty
+  oomp:
+    footprint_name: acheronlong
+    library_name: acheron_logos
+    md5: 5f984d23cd1b642ff68765b3fa39ff1b
+    md5_10: 5f984d23cd
+    md5_5: 5f984
+    md5_6: 5f984d
+    oomp_key: oomp_acheronproject_acheron_logos_acheronlong
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_logos_acheronlong
+    oomp_key_full: oomp_footprint_acheronproject_acheron_logos_acheronlong_5f984d
+    oomp_key_simple: acheronproject_acheron_logos_acheronlong
+    original_filename: acheron_Logos.pretty/acheronLong.kicad_mod
+    owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_logos_acheronlong
+  oomp_key_full: oomp_footprint_acheronproject_acheron_logos_acheronlong
   oomp_key_simple: acheronproject_acheron_logos_acheronlong
   owner: AcheronProject
   repo:

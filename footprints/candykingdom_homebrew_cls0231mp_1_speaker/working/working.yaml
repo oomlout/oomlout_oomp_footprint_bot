@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/candykingdom_homebrew_cls0231mp_1_speaker/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/candykingdom_homebrew_cls0231mp_1_speaker/working
-    oomp_doc: footprints/footprints/candykingdom/homebrew/CLS0231MP-1_SPEAKER/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/candykingdom/homebrew/CLS0231MP-1_SPEAKER/working
     oomp_src_flat: footprints_flat/footprints_flat/candykingdom_homebrew_cls0231mp_1_speaker/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/candykingdom_homebrew_cls0231mp_1_speaker/working
-    oomp_src_folder: footprints_folder/footprints_folder/candykingdom/homebrew/CLS0231MP-1_SPEAKER/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/candykingdom/homebrew/CLS0231MP-1_SPEAKER/working
   name: homebrew.pretty
+  oomp:
+    footprint_name: cls0231mp_1_speaker
+    library_name: homebrew
+    md5: fdc46f4f30b71c97f69c11ae1d42cec1
+    md5_10: fdc46f4f30
+    md5_5: fdc46
+    md5_6: fdc46f
+    oomp_key: oomp_candykingdom_homebrew_cls0231mp_1_speaker
+    oomp_key_extra: oomp_footprint_candykingdom_homebrew_cls0231mp_1_speaker
+    oomp_key_full: oomp_footprint_candykingdom_homebrew_cls0231mp_1_speaker_fdc46f
+    oomp_key_simple: candykingdom_homebrew_cls0231mp_1_speaker
+    original_filename: homebrew.pretty/CLS0231MP-1_SPEAKER.kicad_mod
+    owner_name: candykingdom
   oomp_key: oomp_candykingdom_homebrew_cls0231mp_1_speaker
+  oomp_key_full: oomp_footprint_candykingdom_homebrew_cls0231mp_1_speaker
   oomp_key_simple: candykingdom_homebrew_cls0231mp_1_speaker
   owner: candykingdom
   repo:

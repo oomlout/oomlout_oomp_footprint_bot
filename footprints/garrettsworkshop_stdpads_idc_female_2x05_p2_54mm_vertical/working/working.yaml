@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/garrettsworkshop_stdpads_idc_female_2x05_p2_54mm_vertical/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/garrettsworkshop_stdpads_idc_female_2x05_p2_54mm_vertical/working
-    oomp_doc: footprints/footprints/garrettsworkshop/stdpads/IDC-Female_2x05_P2.54mm_Vertical/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/garrettsworkshop/stdpads/IDC-Female_2x05_P2.54mm_Vertical/working
     oomp_src_flat: footprints_flat/footprints_flat/garrettsworkshop_stdpads_idc_female_2x05_p2_54mm_vertical/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/garrettsworkshop_stdpads_idc_female_2x05_p2_54mm_vertical/working
-    oomp_src_folder: footprints_folder/footprints_folder/garrettsworkshop/stdpads/IDC-Female_2x05_P2.54mm_Vertical/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/garrettsworkshop/stdpads/IDC-Female_2x05_P2.54mm_Vertical/working
   name: stdpads.pretty
+  oomp:
+    footprint_name: idc_female_2x05_p2_54mm_vertical
+    library_name: stdpads
+    md5: f0c2888d6d32d723afcfed951bd04df1
+    md5_10: f0c2888d6d
+    md5_5: f0c28
+    md5_6: f0c288
+    oomp_key: oomp_garrettsworkshop_stdpads_idc_female_2x05_p2_54mm_vertical
+    oomp_key_extra: oomp_footprint_garrettsworkshop_stdpads_idc_female_2x05_p2_54mm_vertical
+    oomp_key_full: oomp_footprint_garrettsworkshop_stdpads_idc_female_2x05_p2_54mm_vertical_f0c288
+    oomp_key_simple: garrettsworkshop_stdpads_idc_female_2x05_p2_54mm_vertical
+    original_filename: stdpads.pretty/IDC-Female_2x05_P2.54mm_Vertical.kicad_mod
+    owner_name: garrettsworkshop
   oomp_key: oomp_garrettsworkshop_stdpads_idc_female_2x05_p2_54mm_vertical
+  oomp_key_full: oomp_footprint_garrettsworkshop_stdpads_idc_female_2x05_p2_54mm_vertical
   oomp_key_simple: garrettsworkshop_stdpads_idc_female_2x05_p2_54mm_vertical
   owner: garrettsworkshop
   repo:

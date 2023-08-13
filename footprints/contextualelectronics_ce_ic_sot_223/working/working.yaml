@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/contextualelectronics_ce_ic_sot_223/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/contextualelectronics_ce_ic_sot_223/working
-    oomp_doc: footprints/footprints/ContextualElectronics/CE_IC/SOT-223/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ContextualElectronics/CE_IC/SOT-223/working
     oomp_src_flat: footprints_flat/footprints_flat/contextualelectronics_ce_ic_sot_223/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/contextualelectronics_ce_ic_sot_223/working
-    oomp_src_folder: footprints_folder/footprints_folder/ContextualElectronics/CE_IC/SOT-223/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ContextualElectronics/CE_IC/SOT-223/working
   name: CE_KiCadLib
+  oomp:
+    footprint_name: sot_223
+    library_name: ce_ic
+    md5: c010e03fadc2ec4f7885357354ba2a99
+    md5_10: c010e03fad
+    md5_5: c010e
+    md5_6: c010e0
+    oomp_key: oomp_contextualelectronics_ce_ic_sot_223
+    oomp_key_extra: oomp_footprint_contextualelectronics_ce_ic_sot_223
+    oomp_key_full: oomp_footprint_contextualelectronics_ce_ic_sot_223_c010e0
+    oomp_key_simple: contextualelectronics_ce_ic_sot_223
+    original_filename: CE_KiCadLib/Footprint/CE_IC.pretty/SOT-223.kicad_mod
+    owner_name: contextualelectronics
   oomp_key: oomp_contextualelectronics_ce_ic_sot_223
+  oomp_key_full: oomp_footprint_contextualelectronics_ce_ic_sot_223
   oomp_key_simple: contextualelectronics_ce_ic_sot_223
   owner: ContextualElectronics
   repo:

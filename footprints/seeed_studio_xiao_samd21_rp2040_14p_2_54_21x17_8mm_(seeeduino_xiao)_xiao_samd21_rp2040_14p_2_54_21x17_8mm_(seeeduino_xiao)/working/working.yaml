@@ -13,22 +13,25 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/seeed_studio_xiao_samd21_rp2040_14p_2_54_21x17_8mm_(seeeduino_xiao)_xiao_samd21_rp2040_14p_2_54_21x17_8mm_(seeeduino_xiao)/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/seeed_studio_xiao_samd21_rp2040_14p_2_54_21x17_8mm_(seeeduino_xiao)_xiao_samd21_rp2040_14p_2_54_21x17_8mm_(seeeduino_xiao)/working
-    oomp_doc: footprints/footprints/Seeed-Studio/XIAO-SAMD21-RP2040-14P-2.54-21X17.8MM
-      (Seeeduino XIAO).kicad_mod/XIAO-SAMD21-RP2040-14P-2.54-21X17.8MM (Seeeduino
-      XIAO)/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Seeed-Studio/XIAO-SAMD21-RP2040-14P-2.54-21X17.8MM
-      (Seeeduino XIAO).kicad_mod/XIAO-SAMD21-RP2040-14P-2.54-21X17.8MM (Seeeduino
-      XIAO)/working
     oomp_src_flat: footprints_flat/footprints_flat/seeed_studio_xiao_samd21_rp2040_14p_2_54_21x17_8mm_(seeeduino_xiao)_xiao_samd21_rp2040_14p_2_54_21x17_8mm_(seeeduino_xiao)/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/seeed_studio_xiao_samd21_rp2040_14p_2_54_21x17_8mm_(seeeduino_xiao)_xiao_samd21_rp2040_14p_2_54_21x17_8mm_(seeeduino_xiao)/working
-    oomp_src_folder: footprints_folder/footprints_folder/Seeed-Studio/XIAO-SAMD21-RP2040-14P-2.54-21X17.8MM
-      (Seeeduino XIAO).kicad_mod/XIAO-SAMD21-RP2040-14P-2.54-21X17.8MM (Seeeduino
-      XIAO)/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Seeed-Studio/XIAO-SAMD21-RP2040-14P-2.54-21X17.8MM
-      (Seeeduino XIAO).kicad_mod/XIAO-SAMD21-RP2040-14P-2.54-21X17.8MM (Seeeduino
-      XIAO)/working
   name: OPL_Kicad_Library
+  oomp:
+    footprint_name: xiao_samd21_rp2040_14p_2_54_21x17_8mm_(seeeduino_xiao)
+    library_name: xiao_samd21_rp2040_14p_2_54_21x17_8mm_(seeeduino_xiao)_kicad_mod
+    md5: 0f31788f8477c8dfa77e7677f2180d3a
+    md5_10: 0f31788f84
+    md5_5: 0f317
+    md5_6: 0f3178
+    oomp_key: oomp_seeed_studio_xiao_samd21_rp2040_14p_2_54_21x17_8mm_(seeeduino_xiao)_xiao_samd21_rp2040_14p_2_54_21x17_8mm_(seeeduino_xiao)
+    oomp_key_extra: oomp_footprint_seeed_studio_xiao_samd21_rp2040_14p_2_54_21x17_8mm_(seeeduino_xiao)_xiao_samd21_rp2040_14p_2_54_21x17_8mm_(seeeduino_xiao)
+    oomp_key_full: oomp_footprint_seeed_studio_xiao_samd21_rp2040_14p_2_54_21x17_8mm_(seeeduino_xiao)_xiao_samd21_rp2040_14p_2_54_21x17_8mm_(seeeduino_xiao)_0f3178
+    oomp_key_simple: seeed_studio_xiao_samd21_rp2040_14p_2_54_21x17_8mm_(seeeduino_xiao)_xiao_samd21_rp2040_14p_2_54_21x17_8mm_(seeeduino_xiao)
+    original_filename: OPL_Kicad_Library/Seeed Studio XIAO Series Library/XIAO-SAMD21-RP2040-14P-2.54-21X17.8MM
+      (Seeeduino XIAO).kicad_mod
+    owner_name: seeed_studio
   oomp_key: oomp_seeed_studio_xiao_samd21_rp2040_14p_2_54_21x17_8mm_(seeeduino_xiao)_xiao_samd21_rp2040_14p_2_54_21x17_8mm_(seeeduino_xiao)
+  oomp_key_full: oomp_footprint_seeed_studio_xiao_samd21_rp2040_14p_2_54_21x17_8mm_(seeeduino_xiao)_xiao_samd21_rp2040_14p_2_54_21x17_8mm_(seeeduino_xiao)
   oomp_key_simple: seeed_studio_xiao_samd21_rp2040_14p_2_54_21x17_8mm_(seeeduino_xiao)_xiao_samd21_rp2040_14p_2_54_21x17_8mm_(seeeduino_xiao)
   owner: Seeed-Studio
   repo:

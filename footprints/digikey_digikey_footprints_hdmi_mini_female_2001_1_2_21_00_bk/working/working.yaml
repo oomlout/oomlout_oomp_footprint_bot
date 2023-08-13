@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/digikey_digikey_footprints_hdmi_mini_female_2001_1_2_21_00_bk/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_digikey_footprints_hdmi_mini_female_2001_1_2_21_00_bk/working
-    oomp_doc: footprints/footprints/digikey/digikey-footprints/HDMI_Mini_Female_2001-1-2-21-00-BK/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/digikey/digikey-footprints/HDMI_Mini_Female_2001-1-2-21-00-BK/working
     oomp_src_flat: footprints_flat/footprints_flat/digikey_digikey_footprints_hdmi_mini_female_2001_1_2_21_00_bk/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/digikey_digikey_footprints_hdmi_mini_female_2001_1_2_21_00_bk/working
-    oomp_src_folder: footprints_folder/footprints_folder/digikey/digikey-footprints/HDMI_Mini_Female_2001-1-2-21-00-BK/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/digikey/digikey-footprints/HDMI_Mini_Female_2001-1-2-21-00-BK/working
   name: digikey-kicad-library
+  oomp:
+    footprint_name: hdmi_mini_female_2001_1_2_21_00_bk
+    library_name: digikey_footprints
+    md5: 1ae994ce6429ebe4269498f07cd607fb
+    md5_10: 1ae994ce64
+    md5_5: 1ae99
+    md5_6: 1ae994
+    oomp_key: oomp_digikey_digikey_footprints_hdmi_mini_female_2001_1_2_21_00_bk
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_hdmi_mini_female_2001_1_2_21_00_bk
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_hdmi_mini_female_2001_1_2_21_00_bk_1ae994
+    oomp_key_simple: digikey_digikey_footprints_hdmi_mini_female_2001_1_2_21_00_bk
+    original_filename: digikey-kicad-library/digikey-footprints.pretty/HDMI_Mini_Female_2001-1-2-21-00-BK.kicad_mod
+    owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_hdmi_mini_female_2001_1_2_21_00_bk
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_hdmi_mini_female_2001_1_2_21_00_bk
   oomp_key_simple: digikey_digikey_footprints_hdmi_mini_female_2001_1_2_21_00_bk
   owner: digikey
   repo:

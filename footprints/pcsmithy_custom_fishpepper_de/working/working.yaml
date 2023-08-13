@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pcsmithy_custom_fishpepper_de/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pcsmithy_custom_fishpepper_de/working
-    oomp_doc: footprints/footprints/PCSmithy/custom/fishpepper.de/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/PCSmithy/custom/fishpepper.de/working
     oomp_src_flat: footprints_flat/footprints_flat/pcsmithy_custom_fishpepper_de/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pcsmithy_custom_fishpepper_de/working
-    oomp_src_folder: footprints_folder/footprints_folder/PCSmithy/custom/fishpepper.de/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/PCSmithy/custom/fishpepper.de/working
   name: custom.pretty
+  oomp:
+    footprint_name: fishpepper_de
+    library_name: custom
+    md5: b467688a3876c2b944e65f4b8bd706b3
+    md5_10: b467688a38
+    md5_5: b4676
+    md5_6: b46768
+    oomp_key: oomp_pcsmithy_custom_fishpepper_de
+    oomp_key_extra: oomp_footprint_pcsmithy_custom_fishpepper_de
+    oomp_key_full: oomp_footprint_pcsmithy_custom_fishpepper_de_b46768
+    oomp_key_simple: pcsmithy_custom_fishpepper_de
+    original_filename: custom.pretty/fishpepper.de.kicad_mod
+    owner_name: pcsmithy
   oomp_key: oomp_pcsmithy_custom_fishpepper_de
+  oomp_key_full: oomp_footprint_pcsmithy_custom_fishpepper_de
   oomp_key_simple: pcsmithy_custom_fishpepper_de
   owner: PCSmithy
   repo:

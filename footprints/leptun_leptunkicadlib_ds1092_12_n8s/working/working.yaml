@@ -14,14 +14,24 @@
     github_src_repo: https://github.com/leptun/leptunKicadLib.pretty
     oomp_bot: footprints/leptun_leptunkicadlib_ds1092_12_n8s/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/leptun_leptunkicadlib_ds1092_12_n8s/working
-    oomp_doc: footprints/footprints/leptun/leptunKicadLib/DS1092-12-N8S/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/leptun/leptunKicadLib/DS1092-12-N8S/working
     oomp_src_flat: footprints_flat/footprints_flat/leptun_leptunkicadlib_ds1092_12_n8s/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/leptun_leptunkicadlib_ds1092_12_n8s/working
-    oomp_src_folder: footprints_folder/footprints_folder/leptun/leptunKicadLib/DS1092-12-N8S/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/leptun/leptunKicadLib/DS1092-12-N8S/working
   name: leptunKicadLib.pretty
+  oomp:
+    footprint_name: ds1092_12_n8s
+    library_name: leptunkicadlib
+    md5: edadaa4ddd7fcb0b07867a9589b0e261
+    md5_10: edadaa4ddd
+    md5_5: edada
+    md5_6: edadaa
+    oomp_key: oomp_leptun_leptunkicadlib_ds1092_12_n8s
+    oomp_key_extra: oomp_footprint_leptun_leptunkicadlib_ds1092_12_n8s
+    oomp_key_full: oomp_footprint_leptun_leptunkicadlib_ds1092_12_n8s_edadaa
+    oomp_key_simple: leptun_leptunkicadlib_ds1092_12_n8s
+    original_filename: leptunKicadLib.pretty/DS1092-12-N8S.kicad_mod
+    owner_name: leptun
   oomp_key: oomp_leptun_leptunkicadlib_ds1092_12_n8s
+  oomp_key_full: oomp_footprint_leptun_leptunkicadlib_ds1092_12_n8s
   oomp_key_simple: leptun_leptunkicadlib_ds1092_12_n8s
   owner: leptun
   repo:

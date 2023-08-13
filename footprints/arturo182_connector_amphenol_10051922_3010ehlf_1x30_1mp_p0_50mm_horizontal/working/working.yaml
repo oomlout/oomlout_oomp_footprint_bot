@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/arturo182/kicad-modules
     oomp_bot: footprints/arturo182_connector_amphenol_10051922_3010ehlf_1x30_1mp_p0_50mm_horizontal/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/arturo182_connector_amphenol_10051922_3010ehlf_1x30_1mp_p0_50mm_horizontal/working
-    oomp_doc: footprints/footprints/arturo182/Connector_Amphenol/10051922-3010EHLF_1x30-1MP_P0.50mm_Horizontal/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/arturo182/Connector_Amphenol/10051922-3010EHLF_1x30-1MP_P0.50mm_Horizontal/working
     oomp_src_flat: footprints_flat/footprints_flat/arturo182_connector_amphenol_10051922_3010ehlf_1x30_1mp_p0_50mm_horizontal/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/arturo182_connector_amphenol_10051922_3010ehlf_1x30_1mp_p0_50mm_horizontal/working
-    oomp_src_folder: footprints_folder/footprints_folder/arturo182/Connector_Amphenol/10051922-3010EHLF_1x30-1MP_P0.50mm_Horizontal/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/arturo182/Connector_Amphenol/10051922-3010EHLF_1x30-1MP_P0.50mm_Horizontal/working
   name: kicad-modules
+  oomp:
+    footprint_name: 10051922_3010ehlf_1x30_1mp_p0_50mm_horizontal
+    library_name: connector_amphenol
+    md5: 8d2dde05cf7aa4fec0e9697e9d9b457b
+    md5_10: 8d2dde05cf
+    md5_5: 8d2dd
+    md5_6: 8d2dde
+    oomp_key: oomp_arturo182_connector_amphenol_10051922_3010ehlf_1x30_1mp_p0_50mm_horizontal
+    oomp_key_extra: oomp_footprint_arturo182_connector_amphenol_10051922_3010ehlf_1x30_1mp_p0_50mm_horizontal
+    oomp_key_full: oomp_footprint_arturo182_connector_amphenol_10051922_3010ehlf_1x30_1mp_p0_50mm_horizontal_8d2dde
+    oomp_key_simple: arturo182_connector_amphenol_10051922_3010ehlf_1x30_1mp_p0_50mm_horizontal
+    original_filename: kicad-modules/Connector_Amphenol.pretty/10051922-3010EHLF_1x30-1MP_P0.50mm_Horizontal.kicad_mod
+    owner_name: arturo182
   oomp_key: oomp_arturo182_connector_amphenol_10051922_3010ehlf_1x30_1mp_p0_50mm_horizontal
+  oomp_key_full: oomp_footprint_arturo182_connector_amphenol_10051922_3010ehlf_1x30_1mp_p0_50mm_horizontal
   oomp_key_simple: arturo182_connector_amphenol_10051922_3010ehlf_1x30_1mp_p0_50mm_horizontal
   owner: arturo182
   repo:

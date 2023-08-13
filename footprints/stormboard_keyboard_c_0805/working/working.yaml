@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/stormboard_keyboard_c_0805/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stormboard_keyboard_c_0805/working
-    oomp_doc: footprints/footprints/stormboard/Keyboard/C_0805/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/stormboard/Keyboard/C_0805/working
     oomp_src_flat: footprints_flat/footprints_flat/stormboard_keyboard_c_0805/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/stormboard_keyboard_c_0805/working
-    oomp_src_folder: footprints_folder/footprints_folder/stormboard/Keyboard/C_0805/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/stormboard/Keyboard/C_0805/working
   name: Keyboard.pretty
+  oomp:
+    footprint_name: c_0805
+    library_name: keyboard
+    md5: fbc310bf140fbbcf49928e1cee970bb4
+    md5_10: fbc310bf14
+    md5_5: fbc31
+    md5_6: fbc310
+    oomp_key: oomp_stormboard_keyboard_c_0805
+    oomp_key_extra: oomp_footprint_stormboard_keyboard_c_0805
+    oomp_key_full: oomp_footprint_stormboard_keyboard_c_0805_fbc310
+    oomp_key_simple: stormboard_keyboard_c_0805
+    original_filename: Keyboard.pretty/C_0805.kicad_mod
+    owner_name: stormboard
   oomp_key: oomp_stormboard_keyboard_c_0805
+  oomp_key_full: oomp_footprint_stormboard_keyboard_c_0805
   oomp_key_simple: stormboard_keyboard_c_0805
   owner: stormboard
   repo:

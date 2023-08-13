@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/asofttech_gbd_smd_arm_10_pin_smt/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/asofttech_gbd_smd_arm_10_pin_smt/working
-    oomp_doc: footprints/footprints/ASoftTech/GBD-SMD/ARM_10_PIN_SMT/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ASoftTech/GBD-SMD/ARM_10_PIN_SMT/working
     oomp_src_flat: footprints_flat/footprints_flat/asofttech_gbd_smd_arm_10_pin_smt/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/asofttech_gbd_smd_arm_10_pin_smt/working
-    oomp_src_folder: footprints_folder/footprints_folder/ASoftTech/GBD-SMD/ARM_10_PIN_SMT/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ASoftTech/GBD-SMD/ARM_10_PIN_SMT/working
   name: CAD.KiCad.Libs
+  oomp:
+    footprint_name: arm_10_pin_smt
+    library_name: gbd_smd
+    md5: ba3d2f8c78cd58abeece9e236c5bbd91
+    md5_10: ba3d2f8c78
+    md5_5: ba3d2
+    md5_6: ba3d2f
+    oomp_key: oomp_asofttech_gbd_smd_arm_10_pin_smt
+    oomp_key_extra: oomp_footprint_asofttech_gbd_smd_arm_10_pin_smt
+    oomp_key_full: oomp_footprint_asofttech_gbd_smd_arm_10_pin_smt_ba3d2f
+    oomp_key_simple: asofttech_gbd_smd_arm_10_pin_smt
+    original_filename: CAD.KiCad.Libs/modules/GBD-SMD.pretty/ARM_10_PIN_SMT.kicad_mod
+    owner_name: asofttech
   oomp_key: oomp_asofttech_gbd_smd_arm_10_pin_smt
+  oomp_key_full: oomp_footprint_asofttech_gbd_smd_arm_10_pin_smt
   oomp_key_simple: asofttech_gbd_smd_arm_10_pin_smt
   owner: ASoftTech
   repo:

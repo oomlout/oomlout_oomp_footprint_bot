@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/rohbotics_ipc7351_nominal_qfp40p1600x1600x120_128an/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/rohbotics_ipc7351_nominal_qfp40p1600x1600x120_128an/working
-    oomp_doc: footprints/footprints/rohbotics/IPC7351-Nominal/QFP40P1600X1600X120-128AN/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/rohbotics/IPC7351-Nominal/QFP40P1600X1600X120-128AN/working
     oomp_src_flat: footprints_flat/footprints_flat/rohbotics_ipc7351_nominal_qfp40p1600x1600x120_128an/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/rohbotics_ipc7351_nominal_qfp40p1600x1600x120_128an/working
-    oomp_src_folder: footprints_folder/footprints_folder/rohbotics/IPC7351-Nominal/QFP40P1600X1600X120-128AN/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/rohbotics/IPC7351-Nominal/QFP40P1600X1600X120-128AN/working
   name: IPC7351-Nominal.pretty
+  oomp:
+    footprint_name: qfp40p1600x1600x120_128an
+    library_name: ipc7351_nominal
+    md5: 9a10a29893ec7345afb32860457a6d22
+    md5_10: 9a10a29893
+    md5_5: 9a10a
+    md5_6: 9a10a2
+    oomp_key: oomp_rohbotics_ipc7351_nominal_qfp40p1600x1600x120_128an
+    oomp_key_extra: oomp_footprint_rohbotics_ipc7351_nominal_qfp40p1600x1600x120_128an
+    oomp_key_full: oomp_footprint_rohbotics_ipc7351_nominal_qfp40p1600x1600x120_128an_9a10a2
+    oomp_key_simple: rohbotics_ipc7351_nominal_qfp40p1600x1600x120_128an
+    original_filename: IPC7351-Nominal.pretty/QFP40P1600X1600X120-128AN.kicad_mod
+    owner_name: rohbotics
   oomp_key: oomp_rohbotics_ipc7351_nominal_qfp40p1600x1600x120_128an
+  oomp_key_full: oomp_footprint_rohbotics_ipc7351_nominal_qfp40p1600x1600x120_128an
   oomp_key_simple: rohbotics_ipc7351_nominal_qfp40p1600x1600x120_128an
   owner: rohbotics
   repo:

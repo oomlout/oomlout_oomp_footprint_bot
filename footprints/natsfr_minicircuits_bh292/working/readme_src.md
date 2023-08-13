@@ -6,20 +6,22 @@ The original footprint can be found at:
 http://gitlab.com/natsfr/kicad-components/blob/master/Pretty_Footprints/Xtal_SMD.pretty/XTAL_5.0x3.2mm.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
-* description:   
-* libraryLink:   
-* number_of_pads:   
+* description: None  
+* libraryLink: BH292  
+* number_of_pads: 6  
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| error | Expression does not have the correct type |  
 | file | kicad-components/Pretty_Footprints/MiniCircuits.pretty/BH292.kicad_mod |  
+| footprint | {'description': None, 'libraryLink': 'BH292', 'number_of_pads': 6} |  
 | footprint_library_directory | footprint_library_owner/natsfr_kicad-components |  
 | footprint_library_directory_flat | footprints_flat/natsfr_minicircuits_bh292/working |  
 | github_path | http://github.com/natsfr/kicad-components/blob/master/Pretty_Footprints/MiniCircuits.pretty/BH292.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/natsfr/kicad-components/blob/master/Pretty_Footprints/Xtal_SMD.pretty/XTAL_5.0x3.2mm.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/natsfr_minicircuits_bh292/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/natsfr_minicircuits_bh292/working', 'oomp_doc': 'footprints/footprints/natsfr/MiniCircuits/BH292/working/', 'oomp_doc_github': 'https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/natsfr/MiniCircuits/BH292/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/natsfr_minicircuits_bh292/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/natsfr_minicircuits_bh292/working', 'oomp_src_folder': 'footprints_folder/footprints_folder/natsfr/MiniCircuits/BH292/working', 'oomp_src_folder_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/natsfr/MiniCircuits/BH292/working'} |  
+| links | {'github_src': 'http://gitlab.com/natsfr/kicad-components/blob/master/Pretty_Footprints/Xtal_SMD.pretty/XTAL_5.0x3.2mm.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/natsfr_minicircuits_bh292/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/natsfr_minicircuits_bh292/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/natsfr_minicircuits_bh292/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/natsfr_minicircuits_bh292/working'} |  
 | name | kicad-components |  
+| oomp | {'footprint_name': 'bh292', 'library_name': 'minicircuits', 'md5': 'b0ca6a02dfb5622fd194830b88f0e292', 'md5_10': 'b0ca6a02df', 'md5_5': 'b0ca6', 'md5_6': 'b0ca6a', 'oomp_key': 'oomp_natsfr_minicircuits_bh292', 'oomp_key_extra': 'oomp_footprint_natsfr_minicircuits_bh292', 'oomp_key_full': 'oomp_footprint_natsfr_minicircuits_bh292_b0ca6a', 'oomp_key_simple': 'natsfr_minicircuits_bh292', 'original_filename': 'kicad-components/Pretty_Footprints/MiniCircuits.pretty/BH292.kicad_mod', 'owner_name': 'natsfr'} |  
 | oomp_key | oomp_natsfr_minicircuits_bh292 |  
+| oomp_key_full | oomp_footprint_natsfr_minicircuits_bh292 |  
 | oomp_key_simple | natsfr_minicircuits_bh292 |  
 | owner | natsfr |  
 | repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  

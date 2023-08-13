@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/joem_jwm_kicad_footprints_misc_ina3221_module_p2_54mm_novpu_noextragnds/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/joem_jwm_kicad_footprints_misc_ina3221_module_p2_54mm_novpu_noextragnds/working
-    oomp_doc: footprints/footprints/joem/jwm_kicad_footprints_misc/INA3221_Module_P2.54mm_NoVPU_NoExtraGnds/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/joem/jwm_kicad_footprints_misc/INA3221_Module_P2.54mm_NoVPU_NoExtraGnds/working
     oomp_src_flat: footprints_flat/footprints_flat/joem_jwm_kicad_footprints_misc_ina3221_module_p2_54mm_novpu_noextragnds/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/joem_jwm_kicad_footprints_misc_ina3221_module_p2_54mm_novpu_noextragnds/working
-    oomp_src_folder: footprints_folder/footprints_folder/joem/jwm_kicad_footprints_misc/INA3221_Module_P2.54mm_NoVPU_NoExtraGnds/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/joem/jwm_kicad_footprints_misc/INA3221_Module_P2.54mm_NoVPU_NoExtraGnds/working
   name: jwm_kicad_footprints_misc.pretty
+  oomp:
+    footprint_name: ina3221_module_p2_54mm_novpu_noextragnds
+    library_name: jwm_kicad_footprints_misc
+    md5: c0fc165fa931de09d340b45267d1a9dc
+    md5_10: c0fc165fa9
+    md5_5: c0fc1
+    md5_6: c0fc16
+    oomp_key: oomp_joem_jwm_kicad_footprints_misc_ina3221_module_p2_54mm_novpu_noextragnds
+    oomp_key_extra: oomp_footprint_joem_jwm_kicad_footprints_misc_ina3221_module_p2_54mm_novpu_noextragnds
+    oomp_key_full: oomp_footprint_joem_jwm_kicad_footprints_misc_ina3221_module_p2_54mm_novpu_noextragnds_c0fc16
+    oomp_key_simple: joem_jwm_kicad_footprints_misc_ina3221_module_p2_54mm_novpu_noextragnds
+    original_filename: jwm_kicad_footprints_misc.pretty/INA3221_Module_P2.54mm_NoVPU_NoExtraGnds.kicad_mod
+    owner_name: joem
   oomp_key: oomp_joem_jwm_kicad_footprints_misc_ina3221_module_p2_54mm_novpu_noextragnds
+  oomp_key_full: oomp_footprint_joem_jwm_kicad_footprints_misc_ina3221_module_p2_54mm_novpu_noextragnds
   oomp_key_simple: joem_jwm_kicad_footprints_misc_ina3221_module_p2_54mm_novpu_noextragnds
   owner: joem
   repo:

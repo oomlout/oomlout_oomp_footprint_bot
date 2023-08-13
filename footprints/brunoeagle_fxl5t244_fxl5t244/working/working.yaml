@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_fxl5t244_fxl5t244/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_fxl5t244_fxl5t244/working
-    oomp_doc: footprints/footprints/brunoeagle/FXL5T244.kicad_mod/FXL5T244/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/FXL5T244.kicad_mod/FXL5T244/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_fxl5t244_fxl5t244/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_fxl5t244_fxl5t244/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/FXL5T244.kicad_mod/FXL5T244/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/FXL5T244.kicad_mod/FXL5T244/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: fxl5t244
+    library_name: fxl5t244_kicad_mod
+    md5: d770e17dd22b046c1cee1aece52fb6fc
+    md5_10: d770e17dd2
+    md5_5: d770e
+    md5_6: d770e1
+    oomp_key: oomp_brunoeagle_fxl5t244_fxl5t244
+    oomp_key_extra: oomp_footprint_brunoeagle_fxl5t244_fxl5t244
+    oomp_key_full: oomp_footprint_brunoeagle_fxl5t244_fxl5t244_d770e1
+    oomp_key_simple: brunoeagle_fxl5t244_fxl5t244
+    original_filename: kicad-open-modules/FXL5T244.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_fxl5t244_fxl5t244
+  oomp_key_full: oomp_footprint_brunoeagle_fxl5t244_fxl5t244
   oomp_key_simple: brunoeagle_fxl5t244_fxl5t244
   owner: brunoeagle
   repo:

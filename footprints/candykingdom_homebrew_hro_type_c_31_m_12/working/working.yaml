@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/candykingdom_homebrew_hro_type_c_31_m_12/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/candykingdom_homebrew_hro_type_c_31_m_12/working
-    oomp_doc: footprints/footprints/candykingdom/homebrew/HRO_TYPE-C-31-M-12/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/candykingdom/homebrew/HRO_TYPE-C-31-M-12/working
     oomp_src_flat: footprints_flat/footprints_flat/candykingdom_homebrew_hro_type_c_31_m_12/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/candykingdom_homebrew_hro_type_c_31_m_12/working
-    oomp_src_folder: footprints_folder/footprints_folder/candykingdom/homebrew/HRO_TYPE-C-31-M-12/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/candykingdom/homebrew/HRO_TYPE-C-31-M-12/working
   name: homebrew.pretty
+  oomp:
+    footprint_name: hro_type_c_31_m_12
+    library_name: homebrew
+    md5: 6a0ddd6fe4e982fe2d6fbbca5af48a0a
+    md5_10: 6a0ddd6fe4
+    md5_5: 6a0dd
+    md5_6: 6a0ddd
+    oomp_key: oomp_candykingdom_homebrew_hro_type_c_31_m_12
+    oomp_key_extra: oomp_footprint_candykingdom_homebrew_hro_type_c_31_m_12
+    oomp_key_full: oomp_footprint_candykingdom_homebrew_hro_type_c_31_m_12_6a0ddd
+    oomp_key_simple: candykingdom_homebrew_hro_type_c_31_m_12
+    original_filename: homebrew.pretty/HRO_TYPE-C-31-M-12.kicad_mod
+    owner_name: candykingdom
   oomp_key: oomp_candykingdom_homebrew_hro_type_c_31_m_12
+  oomp_key_full: oomp_footprint_candykingdom_homebrew_hro_type_c_31_m_12
   oomp_key_simple: candykingdom_homebrew_hro_type_c_31_m_12
   owner: candykingdom
   repo:

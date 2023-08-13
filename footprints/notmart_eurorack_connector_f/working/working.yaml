@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/notmart_eurorack_connector_f/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/notmart_eurorack_connector_f/working
-    oomp_doc: footprints/footprints/notmart/eurorack/Connector_F/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/notmart/eurorack/Connector_F/working
     oomp_src_flat: footprints_flat/footprints_flat/notmart_eurorack_connector_f/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/notmart_eurorack_connector_f/working
-    oomp_src_folder: footprints_folder/footprints_folder/notmart/eurorack/Connector_F/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/notmart/eurorack/Connector_F/working
   name: eurorack.pretty
+  oomp:
+    footprint_name: connector_f
+    library_name: eurorack
+    md5: cf90de7391f50c70c6b2e0fd435a4fa1
+    md5_10: cf90de7391
+    md5_5: cf90d
+    md5_6: cf90de
+    oomp_key: oomp_notmart_eurorack_connector_f
+    oomp_key_extra: oomp_footprint_notmart_eurorack_connector_f
+    oomp_key_full: oomp_footprint_notmart_eurorack_connector_f_cf90de
+    oomp_key_simple: notmart_eurorack_connector_f
+    original_filename: eurorack.pretty/Connector_F.kicad_mod
+    owner_name: notmart
   oomp_key: oomp_notmart_eurorack_connector_f
+  oomp_key_full: oomp_footprint_notmart_eurorack_connector_f
   oomp_key_simple: notmart_eurorack_connector_f
   owner: notmart
   repo:

@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/AcheronProject/acheron_Logos.pretty
     oomp_bot: footprints/acheronproject_acheron_logos_acheronlong_40x12mm_plated/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/acheronproject_acheron_logos_acheronlong_40x12mm_plated/working
-    oomp_doc: footprints/footprints/AcheronProject/acheron_Logos/acheronLong_40x12mm_Plated/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/AcheronProject/acheron_Logos/acheronLong_40x12mm_Plated/working
     oomp_src_flat: footprints_flat/footprints_flat/acheronproject_acheron_logos_acheronlong_40x12mm_plated/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/acheronproject_acheron_logos_acheronlong_40x12mm_plated/working
-    oomp_src_folder: footprints_folder/footprints_folder/AcheronProject/acheron_Logos/acheronLong_40x12mm_Plated/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/AcheronProject/acheron_Logos/acheronLong_40x12mm_Plated/working
   name: acheron_Logos.pretty
+  oomp:
+    footprint_name: acheronlong_40x12mm_plated
+    library_name: acheron_logos
+    md5: 3d06999df5ae4840b8f7995be8d207ac
+    md5_10: 3d06999df5
+    md5_5: 3d069
+    md5_6: 3d0699
+    oomp_key: oomp_acheronproject_acheron_logos_acheronlong_40x12mm_plated
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_logos_acheronlong_40x12mm_plated
+    oomp_key_full: oomp_footprint_acheronproject_acheron_logos_acheronlong_40x12mm_plated_3d0699
+    oomp_key_simple: acheronproject_acheron_logos_acheronlong_40x12mm_plated
+    original_filename: acheron_Logos.pretty/acheronLong_40x12mm_Plated.kicad_mod
+    owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_logos_acheronlong_40x12mm_plated
+  oomp_key_full: oomp_footprint_acheronproject_acheron_logos_acheronlong_40x12mm_plated
   oomp_key_simple: acheronproject_acheron_logos_acheronlong_40x12mm_plated
   owner: AcheronProject
   repo:

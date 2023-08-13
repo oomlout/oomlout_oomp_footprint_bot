@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cvra_connectors_molex_picoblade_4/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cvra_connectors_molex_picoblade_4/working
-    oomp_doc: footprints/footprints/cvra/_connectors/Molex-PicoBlade-4/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cvra/_connectors/Molex-PicoBlade-4/working
     oomp_src_flat: footprints_flat/footprints_flat/cvra_connectors_molex_picoblade_4/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cvra_connectors_molex_picoblade_4/working
-    oomp_src_folder: footprints_folder/footprints_folder/cvra/_connectors/Molex-PicoBlade-4/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cvra/_connectors/Molex-PicoBlade-4/working
   name: kicad-lib
+  oomp:
+    footprint_name: molex_picoblade_4
+    library_name: _connectors
+    md5: 4c9d701acb0605b1c77376ceda969eac
+    md5_10: 4c9d701acb
+    md5_5: 4c9d7
+    md5_6: 4c9d70
+    oomp_key: oomp_cvra_connectors_molex_picoblade_4
+    oomp_key_extra: oomp_footprint_cvra_connectors_molex_picoblade_4
+    oomp_key_full: oomp_footprint_cvra_connectors_molex_picoblade_4_4c9d70
+    oomp_key_simple: cvra_connectors_molex_picoblade_4
+    original_filename: kicad-lib/footprints/_connectors.pretty/Molex-PicoBlade-4.kicad_mod
+    owner_name: cvra
   oomp_key: oomp_cvra_connectors_molex_picoblade_4
+  oomp_key_full: oomp_footprint_cvra_connectors_molex_picoblade_4
   oomp_key_simple: cvra_connectors_molex_picoblade_4
   owner: cvra
   repo:

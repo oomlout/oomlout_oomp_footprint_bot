@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_m12f304amd_m12f304amd/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_m12f304amd_m12f304amd/working
-    oomp_doc: footprints/footprints/brunoeagle/M12F304AMD.kicad_mod/M12F304AMD/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/M12F304AMD.kicad_mod/M12F304AMD/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_m12f304amd_m12f304amd/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_m12f304amd_m12f304amd/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/M12F304AMD.kicad_mod/M12F304AMD/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/M12F304AMD.kicad_mod/M12F304AMD/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: m12f304amd
+    library_name: m12f304amd_kicad_mod
+    md5: 816a7948cde5cff0274b2cce9e441e4e
+    md5_10: 816a7948cd
+    md5_5: 816a7
+    md5_6: 816a79
+    oomp_key: oomp_brunoeagle_m12f304amd_m12f304amd
+    oomp_key_extra: oomp_footprint_brunoeagle_m12f304amd_m12f304amd
+    oomp_key_full: oomp_footprint_brunoeagle_m12f304amd_m12f304amd_816a79
+    oomp_key_simple: brunoeagle_m12f304amd_m12f304amd
+    original_filename: kicad-open-modules/M12F304AMD.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_m12f304amd_m12f304amd
+  oomp_key_full: oomp_footprint_brunoeagle_m12f304amd_m12f304amd
   oomp_key_simple: brunoeagle_m12f304amd_m12f304amd
   owner: brunoeagle
   repo:

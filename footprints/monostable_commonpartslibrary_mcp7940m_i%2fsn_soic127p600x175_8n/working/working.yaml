@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/monostable_commonpartslibrary_mcp7940m_i%2fsn_soic127p600x175_8n/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/monostable_commonpartslibrary_mcp7940m_i%2fsn_soic127p600x175_8n/working
-    oomp_doc: footprints/footprints/monostable/CommonPartsLibrary/MCP7940M-I%2fSN_SOIC127P600X175-8N/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/monostable/CommonPartsLibrary/MCP7940M-I%2fSN_SOIC127P600X175-8N/working
     oomp_src_flat: footprints_flat/footprints_flat/monostable_commonpartslibrary_mcp7940m_i%2fsn_soic127p600x175_8n/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/monostable_commonpartslibrary_mcp7940m_i%2fsn_soic127p600x175_8n/working
-    oomp_src_folder: footprints_folder/footprints_folder/monostable/CommonPartsLibrary/MCP7940M-I%2fSN_SOIC127P600X175-8N/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/monostable/CommonPartsLibrary/MCP7940M-I%2fSN_SOIC127P600X175-8N/working
   name: CommonPartsLibrary.pretty
+  oomp:
+    footprint_name: mcp7940m_i%2fsn_soic127p600x175_8n
+    library_name: commonpartslibrary
+    md5: aefe5f8371b79abff3ce06c7bb560c8a
+    md5_10: aefe5f8371
+    md5_5: aefe5
+    md5_6: aefe5f
+    oomp_key: oomp_monostable_commonpartslibrary_mcp7940m_i%2fsn_soic127p600x175_8n
+    oomp_key_extra: oomp_footprint_monostable_commonpartslibrary_mcp7940m_i%2fsn_soic127p600x175_8n
+    oomp_key_full: oomp_footprint_monostable_commonpartslibrary_mcp7940m_i%2fsn_soic127p600x175_8n_aefe5f
+    oomp_key_simple: monostable_commonpartslibrary_mcp7940m_i%2fsn_soic127p600x175_8n
+    original_filename: CommonPartsLibrary.pretty/MCP7940M-I%2fSN_SOIC127P600X175-8N.kicad_mod
+    owner_name: monostable
   oomp_key: oomp_monostable_commonpartslibrary_mcp7940m_i%2fsn_soic127p600x175_8n
+  oomp_key_full: oomp_footprint_monostable_commonpartslibrary_mcp7940m_i%2fsn_soic127p600x175_8n
   oomp_key_simple: monostable_commonpartslibrary_mcp7940m_i%2fsn_soic127p600x175_8n
   owner: monostable
   repo:

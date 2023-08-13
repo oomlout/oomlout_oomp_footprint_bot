@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/alozewski/al-kicad-lib.pretty
     oomp_bot: footprints/alozewski_al_kicad_lib_pad_1_smd/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/alozewski_al_kicad_lib_pad_1_smd/working
-    oomp_doc: footprints/footprints/alozewski/al-kicad-lib/Pad_1_SMD/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/alozewski/al-kicad-lib/Pad_1_SMD/working
     oomp_src_flat: footprints_flat/footprints_flat/alozewski_al_kicad_lib_pad_1_smd/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/alozewski_al_kicad_lib_pad_1_smd/working
-    oomp_src_folder: footprints_folder/footprints_folder/alozewski/al-kicad-lib/Pad_1_SMD/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/alozewski/al-kicad-lib/Pad_1_SMD/working
   name: al-kicad-lib.pretty
+  oomp:
+    footprint_name: pad_1_smd
+    library_name: al_kicad_lib
+    md5: 45fd13507914f2398d76b71ea3344e80
+    md5_10: 45fd135079
+    md5_5: 45fd1
+    md5_6: 45fd13
+    oomp_key: oomp_alozewski_al_kicad_lib_pad_1_smd
+    oomp_key_extra: oomp_footprint_alozewski_al_kicad_lib_pad_1_smd
+    oomp_key_full: oomp_footprint_alozewski_al_kicad_lib_pad_1_smd_45fd13
+    oomp_key_simple: alozewski_al_kicad_lib_pad_1_smd
+    original_filename: al-kicad-lib.pretty/Pad_1_SMD.kicad_mod
+    owner_name: alozewski
   oomp_key: oomp_alozewski_al_kicad_lib_pad_1_smd
+  oomp_key_full: oomp_footprint_alozewski_al_kicad_lib_pad_1_smd
   oomp_key_simple: alozewski_al_kicad_lib_pad_1_smd
   owner: alozewski
   repo:

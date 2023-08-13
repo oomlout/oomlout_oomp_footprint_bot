@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cuzdaori_kicad_module_arduino_nano/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cuzdaori_kicad_module_arduino_nano/working
-    oomp_doc: footprints/footprints/cuzdaori/KiCad/MODULE_ARDUINO_NANO/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cuzdaori/KiCad/MODULE_ARDUINO_NANO/working
     oomp_src_flat: footprints_flat/footprints_flat/cuzdaori_kicad_module_arduino_nano/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cuzdaori_kicad_module_arduino_nano/working
-    oomp_src_folder: footprints_folder/footprints_folder/cuzdaori/KiCad/MODULE_ARDUINO_NANO/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cuzdaori/KiCad/MODULE_ARDUINO_NANO/working
   name: KiCad.pretty
+  oomp:
+    footprint_name: module_arduino_nano
+    library_name: kicad
+    md5: be8381924d0670188791c47c5cf14655
+    md5_10: be8381924d
+    md5_5: be838
+    md5_6: be8381
+    oomp_key: oomp_cuzdaori_kicad_module_arduino_nano
+    oomp_key_extra: oomp_footprint_cuzdaori_kicad_module_arduino_nano
+    oomp_key_full: oomp_footprint_cuzdaori_kicad_module_arduino_nano_be8381
+    oomp_key_simple: cuzdaori_kicad_module_arduino_nano
+    original_filename: KiCad.pretty/MODULE_ARDUINO_NANO.kicad_mod
+    owner_name: cuzdaori
   oomp_key: oomp_cuzdaori_kicad_module_arduino_nano
+  oomp_key_full: oomp_footprint_cuzdaori_kicad_module_arduino_nano
   oomp_key_simple: cuzdaori_kicad_module_arduino_nano
   owner: cuzdaori
   repo:

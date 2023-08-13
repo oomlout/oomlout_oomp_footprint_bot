@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/ninjaneer7_kicadlib_sot_23_3/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ninjaneer7_kicadlib_sot_23_3/working
-    oomp_doc: footprints/footprints/Ninjaneer7/KiCADLib/SOT-23-3/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Ninjaneer7/KiCADLib/SOT-23-3/working
     oomp_src_flat: footprints_flat/footprints_flat/ninjaneer7_kicadlib_sot_23_3/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ninjaneer7_kicadlib_sot_23_3/working
-    oomp_src_folder: footprints_folder/footprints_folder/Ninjaneer7/KiCADLib/SOT-23-3/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Ninjaneer7/KiCADLib/SOT-23-3/working
   name: KiCADLib.pretty
+  oomp:
+    footprint_name: sot_23_3
+    library_name: kicadlib
+    md5: b6750a279694ef9d5f052b53af0e1102
+    md5_10: b6750a2796
+    md5_5: b6750
+    md5_6: b6750a
+    oomp_key: oomp_ninjaneer7_kicadlib_sot_23_3
+    oomp_key_extra: oomp_footprint_ninjaneer7_kicadlib_sot_23_3
+    oomp_key_full: oomp_footprint_ninjaneer7_kicadlib_sot_23_3_b6750a
+    oomp_key_simple: ninjaneer7_kicadlib_sot_23_3
+    original_filename: KiCADLib.pretty/SOT-23-3.kicad_mod
+    owner_name: ninjaneer7
   oomp_key: oomp_ninjaneer7_kicadlib_sot_23_3
+  oomp_key_full: oomp_footprint_ninjaneer7_kicadlib_sot_23_3
   oomp_key_simple: ninjaneer7_kicadlib_sot_23_3
   owner: Ninjaneer7
   repo:

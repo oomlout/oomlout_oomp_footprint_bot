@@ -12,17 +12,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_package_dfn_qfn_texas_s_pvqfn_n20_ep3_15x3_15mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_package_dfn_qfn_texas_s_pvqfn_n20_ep3_15x3_15mm/working
-    oomp_doc: footprints/footprints/kicad/Package_DFN_QFN/Texas_S-PVQFN-N20_EP3.15x3.15mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Package_DFN_QFN/Texas_S-PVQFN-N20_EP3.15x3.15mm/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_package_dfn_qfn_texas_s_pvqfn_n20_ep3_15x3_15mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_package_dfn_qfn_texas_s_pvqfn_n20_ep3_15x3_15mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Package_DFN_QFN/Texas_S-PVQFN-N20_EP3.15x3.15mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Package_DFN_QFN/Texas_S-PVQFN-N20_EP3.15x3.15mm/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: texas_s_pvqfn_n20_ep3_15x3_15mm
+    library_name: package_dfn_qfn
+    md5: 1ccedb68ca9c3bd26262c9296463f5d8
+    md5_10: 1ccedb68ca
+    md5_5: 1cced
+    md5_6: 1ccedb
+    oomp_key: oomp_kicad_package_dfn_qfn_texas_s_pvqfn_n20_ep3_15x3_15mm
+    oomp_key_extra: oomp_footprint_kicad_package_dfn_qfn_texas_s_pvqfn_n20_ep3_15x3_15mm
+    oomp_key_full: oomp_footprint_kicad_package_dfn_qfn_texas_s_pvqfn_n20_ep3_15x3_15mm_1ccedb
+    oomp_key_simple: kicad_package_dfn_qfn_texas_s_pvqfn_n20_ep3_15x3_15mm
+    original_filename: libraries/kicad-footprints/Package_DFN_QFN.pretty/Texas_S-PVQFN-N20_EP3.15x3.15mm.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_package_dfn_qfn_texas_s_pvqfn_n20_ep3_15x3_15mm
+  oomp_key_full: oomp_footprint_kicad_package_dfn_qfn_texas_s_pvqfn_n20_ep3_15x3_15mm
   oomp_key_simple: kicad_package_dfn_qfn_texas_s_pvqfn_n20_ep3_15x3_15mm
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

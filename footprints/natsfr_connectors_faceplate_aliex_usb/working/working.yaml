@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/natsfr_connectors_faceplate_aliex_usb/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/natsfr_connectors_faceplate_aliex_usb/working
-    oomp_doc: footprints/footprints/natsfr/Connectors_Faceplate/AliEx_USB/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/natsfr/Connectors_Faceplate/AliEx_USB/working
     oomp_src_flat: footprints_flat/footprints_flat/natsfr_connectors_faceplate_aliex_usb/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/natsfr_connectors_faceplate_aliex_usb/working
-    oomp_src_folder: footprints_folder/footprints_folder/natsfr/Connectors_Faceplate/AliEx_USB/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/natsfr/Connectors_Faceplate/AliEx_USB/working
   name: kicad-components
+  oomp:
+    footprint_name: aliex_usb
+    library_name: connectors_faceplate
+    md5: 5146b10aa97705695ac4ee0942323ade
+    md5_10: 5146b10aa9
+    md5_5: 5146b
+    md5_6: 5146b1
+    oomp_key: oomp_natsfr_connectors_faceplate_aliex_usb
+    oomp_key_extra: oomp_footprint_natsfr_connectors_faceplate_aliex_usb
+    oomp_key_full: oomp_footprint_natsfr_connectors_faceplate_aliex_usb_5146b1
+    oomp_key_simple: natsfr_connectors_faceplate_aliex_usb
+    original_filename: kicad-components/Pretty_Footprints/Connectors_Faceplate.pretty/AliEx_USB.kicad_mod
+    owner_name: natsfr
   oomp_key: oomp_natsfr_connectors_faceplate_aliex_usb
+  oomp_key_full: oomp_footprint_natsfr_connectors_faceplate_aliex_usb
   oomp_key_simple: natsfr_connectors_faceplate_aliex_usb
   owner: natsfr
   repo:

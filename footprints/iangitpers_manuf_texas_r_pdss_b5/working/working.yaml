@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/Iangitpers/4a
     oomp_bot: footprints/iangitpers_manuf_texas_r_pdss_b5/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/iangitpers_manuf_texas_r_pdss_b5/working
-    oomp_doc: footprints/footprints/Iangitpers/manuf/TEXAS-R-PDSS-B5/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Iangitpers/manuf/TEXAS-R-PDSS-B5/working
     oomp_src_flat: footprints_flat/footprints_flat/iangitpers_manuf_texas_r_pdss_b5/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/iangitpers_manuf_texas_r_pdss_b5/working
-    oomp_src_folder: footprints_folder/footprints_folder/Iangitpers/manuf/TEXAS-R-PDSS-B5/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Iangitpers/manuf/TEXAS-R-PDSS-B5/working
   name: 4a
+  oomp:
+    footprint_name: texas_r_pdss_b5
+    library_name: manuf
+    md5: 7033ea0cdd0b3d86e503e6abd2784285
+    md5_10: 7033ea0cdd
+    md5_5: 7033e
+    md5_6: 7033ea
+    oomp_key: oomp_iangitpers_manuf_texas_r_pdss_b5
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_texas_r_pdss_b5
+    oomp_key_full: oomp_footprint_iangitpers_manuf_texas_r_pdss_b5_7033ea
+    oomp_key_simple: iangitpers_manuf_texas_r_pdss_b5
+    original_filename: 4a/manuf.pretty/TEXAS-R-PDSS-B5.kicad_mod
+    owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_texas_r_pdss_b5
+  oomp_key_full: oomp_footprint_iangitpers_manuf_texas_r_pdss_b5
   oomp_key_simple: iangitpers_manuf_texas_r_pdss_b5
   owner: Iangitpers
   repo:

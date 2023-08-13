@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/chriswags_pic_programmer_fp_rv2x4/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/chriswags_pic_programmer_fp_rv2x4/working
-    oomp_doc: footprints/footprints/chriswags/pic_programmer_fp/RV2X4/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/chriswags/pic_programmer_fp/RV2X4/working
     oomp_src_flat: footprints_flat/footprints_flat/chriswags_pic_programmer_fp_rv2x4/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/chriswags_pic_programmer_fp_rv2x4/working
-    oomp_src_folder: footprints_folder/footprints_folder/chriswags/pic_programmer_fp/RV2X4/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/chriswags/pic_programmer_fp/RV2X4/working
   name: KiCad
+  oomp:
+    footprint_name: rv2x4
+    library_name: pic_programmer_fp
+    md5: bfa1f64b2a93f44ee92470311be8cff2
+    md5_10: bfa1f64b2a
+    md5_5: bfa1f
+    md5_6: bfa1f6
+    oomp_key: oomp_chriswags_pic_programmer_fp_rv2x4
+    oomp_key_extra: oomp_footprint_chriswags_pic_programmer_fp_rv2x4
+    oomp_key_full: oomp_footprint_chriswags_pic_programmer_fp_rv2x4_bfa1f6
+    oomp_key_simple: chriswags_pic_programmer_fp_rv2x4
+    original_filename: KiCad/demos/pic_programmer/libs/pic_programmer_fp.pretty/RV2X4.kicad_mod
+    owner_name: chriswags
   oomp_key: oomp_chriswags_pic_programmer_fp_rv2x4
+  oomp_key_full: oomp_footprint_chriswags_pic_programmer_fp_rv2x4
   oomp_key_simple: chriswags_pic_programmer_fp_rv2x4
   owner: chriswags
   repo:

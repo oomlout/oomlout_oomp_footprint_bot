@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/AcheronProject/acheron_EC.pretty
     oomp_bot: footprints/acheronproject_acheron_ec_ec600/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/acheronproject_acheron_ec_ec600/working
-    oomp_doc: footprints/footprints/AcheronProject/acheron_EC/EC600/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/AcheronProject/acheron_EC/EC600/working
     oomp_src_flat: footprints_flat/footprints_flat/acheronproject_acheron_ec_ec600/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/acheronproject_acheron_ec_ec600/working
-    oomp_src_folder: footprints_folder/footprints_folder/AcheronProject/acheron_EC/EC600/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/AcheronProject/acheron_EC/EC600/working
   name: acheron_EC.pretty
+  oomp:
+    footprint_name: ec600
+    library_name: acheron_ec
+    md5: 4cb62ab6cef26500e8cf952b68ce825f
+    md5_10: 4cb62ab6ce
+    md5_5: 4cb62
+    md5_6: 4cb62a
+    oomp_key: oomp_acheronproject_acheron_ec_ec600
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_ec_ec600
+    oomp_key_full: oomp_footprint_acheronproject_acheron_ec_ec600_4cb62a
+    oomp_key_simple: acheronproject_acheron_ec_ec600
+    original_filename: acheron_EC.pretty/EC600.kicad_mod
+    owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_ec_ec600
+  oomp_key_full: oomp_footprint_acheronproject_acheron_ec_ec600
   oomp_key_simple: acheronproject_acheron_ec_ec600
   owner: AcheronProject
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/digikey_sot_753_sot_753/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_sot_753_sot_753/working
-    oomp_doc: footprints/footprints/digikey/SOT-753.kicad_mod/SOT-753/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/digikey/SOT-753.kicad_mod/SOT-753/working
     oomp_src_flat: footprints_flat/footprints_flat/digikey_sot_753_sot_753/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/digikey_sot_753_sot_753/working
-    oomp_src_folder: footprints_folder/footprints_folder/digikey/SOT-753.kicad_mod/SOT-753/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/digikey/SOT-753.kicad_mod/SOT-753/working
   name: digikey-kicad-library
+  oomp:
+    footprint_name: sot_753
+    library_name: sot_753_kicad_mod
+    md5: f2f4faf19f7e1b5f7e2a20daff299466
+    md5_10: f2f4faf19f
+    md5_5: f2f4f
+    md5_6: f2f4fa
+    oomp_key: oomp_digikey_sot_753_sot_753
+    oomp_key_extra: oomp_footprint_digikey_sot_753_sot_753
+    oomp_key_full: oomp_footprint_digikey_sot_753_sot_753_f2f4fa
+    oomp_key_simple: digikey_sot_753_sot_753
+    original_filename: digikey-kicad-library/src/Source_Footprints/SOT-753.kicad_mod
+    owner_name: digikey
   oomp_key: oomp_digikey_sot_753_sot_753
+  oomp_key_full: oomp_footprint_digikey_sot_753_sot_753
   oomp_key_simple: digikey_sot_753_sot_753
   owner: digikey
   repo:

@@ -12,17 +12,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_connector_molex_molex_sabre_43160_1104_1x04_p7_49mm_horizontal/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_connector_molex_molex_sabre_43160_1104_1x04_p7_49mm_horizontal/working
-    oomp_doc: footprints/footprints/kicad/Connector_Molex/Molex_Sabre_43160-1104_1x04_P7.49mm_Horizontal/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Connector_Molex/Molex_Sabre_43160-1104_1x04_P7.49mm_Horizontal/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_connector_molex_molex_sabre_43160_1104_1x04_p7_49mm_horizontal/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_connector_molex_molex_sabre_43160_1104_1x04_p7_49mm_horizontal/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Connector_Molex/Molex_Sabre_43160-1104_1x04_P7.49mm_Horizontal/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Connector_Molex/Molex_Sabre_43160-1104_1x04_P7.49mm_Horizontal/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: molex_sabre_43160_1104_1x04_p7_49mm_horizontal
+    library_name: connector_molex
+    md5: 91fedd23009fdde769f2a2a2ffe8e4b6
+    md5_10: 91fedd2300
+    md5_5: 91fed
+    md5_6: 91fedd
+    oomp_key: oomp_kicad_connector_molex_molex_sabre_43160_1104_1x04_p7_49mm_horizontal
+    oomp_key_extra: oomp_footprint_kicad_connector_molex_molex_sabre_43160_1104_1x04_p7_49mm_horizontal
+    oomp_key_full: oomp_footprint_kicad_connector_molex_molex_sabre_43160_1104_1x04_p7_49mm_horizontal_91fedd
+    oomp_key_simple: kicad_connector_molex_molex_sabre_43160_1104_1x04_p7_49mm_horizontal
+    original_filename: libraries/kicad-footprints/Connector_Molex.pretty/Molex_Sabre_43160-1104_1x04_P7.49mm_Horizontal.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_connector_molex_molex_sabre_43160_1104_1x04_p7_49mm_horizontal
+  oomp_key_full: oomp_footprint_kicad_connector_molex_molex_sabre_43160_1104_1x04_p7_49mm_horizontal
   oomp_key_simple: kicad_connector_molex_molex_sabre_43160_1104_1x04_p7_49mm_horizontal
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

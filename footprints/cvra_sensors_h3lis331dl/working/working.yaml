@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cvra_sensors_h3lis331dl/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cvra_sensors_h3lis331dl/working
-    oomp_doc: footprints/footprints/cvra/_sensors/_H3LIS331DL/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cvra/_sensors/_H3LIS331DL/working
     oomp_src_flat: footprints_flat/footprints_flat/cvra_sensors_h3lis331dl/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cvra_sensors_h3lis331dl/working
-    oomp_src_folder: footprints_folder/footprints_folder/cvra/_sensors/_H3LIS331DL/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cvra/_sensors/_H3LIS331DL/working
   name: kicad-lib
+  oomp:
+    footprint_name: _h3lis331dl
+    library_name: _sensors
+    md5: bf2ef7dda8d29284c84395c6530a57a2
+    md5_10: bf2ef7dda8
+    md5_5: bf2ef
+    md5_6: bf2ef7
+    oomp_key: oomp_cvra_sensors_h3lis331dl
+    oomp_key_extra: oomp_footprint_cvra_sensors_h3lis331dl
+    oomp_key_full: oomp_footprint_cvra_sensors_h3lis331dl_bf2ef7
+    oomp_key_simple: cvra_sensors_h3lis331dl
+    original_filename: kicad-lib/footprints/_sensors.pretty/_H3LIS331DL.kicad_mod
+    owner_name: cvra
   oomp_key: oomp_cvra_sensors_h3lis331dl
+  oomp_key_full: oomp_footprint_cvra_sensors_h3lis331dl
   oomp_key_simple: cvra_sensors_h3lis331dl
   owner: cvra
   repo:

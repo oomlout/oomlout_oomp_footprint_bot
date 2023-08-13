@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/digikey_led_2_smd_no_lead_1_7x0_8mm_led_2_smd_no_lead_1_7x0_8mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_led_2_smd_no_lead_1_7x0_8mm_led_2_smd_no_lead_1_7x0_8mm/working
-    oomp_doc: footprints/footprints/digikey/LED_2-SMD_No_Lead_1.7x0.8mm.kicad_mod/LED_2-SMD_No_Lead_1.7x0.8mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/digikey/LED_2-SMD_No_Lead_1.7x0.8mm.kicad_mod/LED_2-SMD_No_Lead_1.7x0.8mm/working
     oomp_src_flat: footprints_flat/footprints_flat/digikey_led_2_smd_no_lead_1_7x0_8mm_led_2_smd_no_lead_1_7x0_8mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/digikey_led_2_smd_no_lead_1_7x0_8mm_led_2_smd_no_lead_1_7x0_8mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/digikey/LED_2-SMD_No_Lead_1.7x0.8mm.kicad_mod/LED_2-SMD_No_Lead_1.7x0.8mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/digikey/LED_2-SMD_No_Lead_1.7x0.8mm.kicad_mod/LED_2-SMD_No_Lead_1.7x0.8mm/working
   name: digikey-kicad-library
+  oomp:
+    footprint_name: led_2_smd_no_lead_1_7x0_8mm
+    library_name: led_2_smd_no_lead_1_7x0_8mm_kicad_mod
+    md5: 237bf32c75c40f0946cea80db6a6dcdf
+    md5_10: 237bf32c75
+    md5_5: 237bf
+    md5_6: 237bf3
+    oomp_key: oomp_digikey_led_2_smd_no_lead_1_7x0_8mm_led_2_smd_no_lead_1_7x0_8mm
+    oomp_key_extra: oomp_footprint_digikey_led_2_smd_no_lead_1_7x0_8mm_led_2_smd_no_lead_1_7x0_8mm
+    oomp_key_full: oomp_footprint_digikey_led_2_smd_no_lead_1_7x0_8mm_led_2_smd_no_lead_1_7x0_8mm_237bf3
+    oomp_key_simple: digikey_led_2_smd_no_lead_1_7x0_8mm_led_2_smd_no_lead_1_7x0_8mm
+    original_filename: digikey-kicad-library/src/Source_Footprints/LED_2-SMD_No_Lead_1.7x0.8mm.kicad_mod
+    owner_name: digikey
   oomp_key: oomp_digikey_led_2_smd_no_lead_1_7x0_8mm_led_2_smd_no_lead_1_7x0_8mm
+  oomp_key_full: oomp_footprint_digikey_led_2_smd_no_lead_1_7x0_8mm_led_2_smd_no_lead_1_7x0_8mm
   oomp_key_simple: digikey_led_2_smd_no_lead_1_7x0_8mm_led_2_smd_no_lead_1_7x0_8mm
   owner: digikey
   repo:

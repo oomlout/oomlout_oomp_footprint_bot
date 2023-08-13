@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cormoran_kicad_mov_disc_20mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cormoran_kicad_mov_disc_20mm/working
-    oomp_doc: footprints/footprints/cormoran/kicad/MOV_DISC_20MM/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cormoran/kicad/MOV_DISC_20MM/working
     oomp_src_flat: footprints_flat/footprints_flat/cormoran_kicad_mov_disc_20mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cormoran_kicad_mov_disc_20mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/cormoran/kicad/MOV_DISC_20MM/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cormoran/kicad/MOV_DISC_20MM/working
   name: kicad.pretty
+  oomp:
+    footprint_name: mov_disc_20mm
+    library_name: kicad
+    md5: d8433e585cbb17c50ad7d5b1e738eb56
+    md5_10: d8433e585c
+    md5_5: d8433
+    md5_6: d8433e
+    oomp_key: oomp_cormoran_kicad_mov_disc_20mm
+    oomp_key_extra: oomp_footprint_cormoran_kicad_mov_disc_20mm
+    oomp_key_full: oomp_footprint_cormoran_kicad_mov_disc_20mm_d8433e
+    oomp_key_simple: cormoran_kicad_mov_disc_20mm
+    original_filename: kicad.pretty/MOV_DISC_20MM.kicad_mod
+    owner_name: cormoran
   oomp_key: oomp_cormoran_kicad_mov_disc_20mm
+  oomp_key_full: oomp_footprint_cormoran_kicad_mov_disc_20mm
   oomp_key_simple: cormoran_kicad_mov_disc_20mm
   owner: cormoran
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/digikey_wifi_module_atwinc1500_mr210pb_wifi_module_atwinc1500_mr210pb/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_wifi_module_atwinc1500_mr210pb_wifi_module_atwinc1500_mr210pb/working
-    oomp_doc: footprints/footprints/digikey/WIFI_Module_ATWINC1500-MR210PB.kicad_mod/WIFI_Module_ATWINC1500-MR210PB/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/digikey/WIFI_Module_ATWINC1500-MR210PB.kicad_mod/WIFI_Module_ATWINC1500-MR210PB/working
     oomp_src_flat: footprints_flat/footprints_flat/digikey_wifi_module_atwinc1500_mr210pb_wifi_module_atwinc1500_mr210pb/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/digikey_wifi_module_atwinc1500_mr210pb_wifi_module_atwinc1500_mr210pb/working
-    oomp_src_folder: footprints_folder/footprints_folder/digikey/WIFI_Module_ATWINC1500-MR210PB.kicad_mod/WIFI_Module_ATWINC1500-MR210PB/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/digikey/WIFI_Module_ATWINC1500-MR210PB.kicad_mod/WIFI_Module_ATWINC1500-MR210PB/working
   name: digikey-kicad-library
+  oomp:
+    footprint_name: wifi_module_atwinc1500_mr210pb
+    library_name: wifi_module_atwinc1500_mr210pb_kicad_mod
+    md5: cb2e283411669e17bbdd2affa1d28a23
+    md5_10: cb2e283411
+    md5_5: cb2e2
+    md5_6: cb2e28
+    oomp_key: oomp_digikey_wifi_module_atwinc1500_mr210pb_wifi_module_atwinc1500_mr210pb
+    oomp_key_extra: oomp_footprint_digikey_wifi_module_atwinc1500_mr210pb_wifi_module_atwinc1500_mr210pb
+    oomp_key_full: oomp_footprint_digikey_wifi_module_atwinc1500_mr210pb_wifi_module_atwinc1500_mr210pb_cb2e28
+    oomp_key_simple: digikey_wifi_module_atwinc1500_mr210pb_wifi_module_atwinc1500_mr210pb
+    original_filename: digikey-kicad-library/src/Source_Footprints/WIFI_Module_ATWINC1500-MR210PB.kicad_mod
+    owner_name: digikey
   oomp_key: oomp_digikey_wifi_module_atwinc1500_mr210pb_wifi_module_atwinc1500_mr210pb
+  oomp_key_full: oomp_footprint_digikey_wifi_module_atwinc1500_mr210pb_wifi_module_atwinc1500_mr210pb
   oomp_key_simple: digikey_wifi_module_atwinc1500_mr210pb_wifi_module_atwinc1500_mr210pb
   owner: digikey
   repo:

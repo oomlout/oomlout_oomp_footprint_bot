@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/ohdsp_mykicadlibs_footprints_xtal_8_dil/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ohdsp_mykicadlibs_footprints_xtal_8_dil/working
-    oomp_doc: footprints/footprints/ohdsp/MyKiCadLibs-Footprints/XTAL_8_DIL/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ohdsp/MyKiCadLibs-Footprints/XTAL_8_DIL/working
     oomp_src_flat: footprints_flat/footprints_flat/ohdsp_mykicadlibs_footprints_xtal_8_dil/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ohdsp_mykicadlibs_footprints_xtal_8_dil/working
-    oomp_src_folder: footprints_folder/footprints_folder/ohdsp/MyKiCadLibs-Footprints/XTAL_8_DIL/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ohdsp/MyKiCadLibs-Footprints/XTAL_8_DIL/working
   name: KiCad-Libs
+  oomp:
+    footprint_name: xtal_8_dil
+    library_name: mykicadlibs_footprints
+    md5: c2e808a1b0220bbe91ec1fc8ef8d076d
+    md5_10: c2e808a1b0
+    md5_5: c2e80
+    md5_6: c2e808
+    oomp_key: oomp_ohdsp_mykicadlibs_footprints_xtal_8_dil
+    oomp_key_extra: oomp_footprint_ohdsp_mykicadlibs_footprints_xtal_8_dil
+    oomp_key_full: oomp_footprint_ohdsp_mykicadlibs_footprints_xtal_8_dil_c2e808
+    oomp_key_simple: ohdsp_mykicadlibs_footprints_xtal_8_dil
+    original_filename: KiCad-Libs/MyKiCadLibs-Footprints.pretty/XTAL_8_DIL.kicad_mod
+    owner_name: ohdsp
   oomp_key: oomp_ohdsp_mykicadlibs_footprints_xtal_8_dil
+  oomp_key_full: oomp_footprint_ohdsp_mykicadlibs_footprints_xtal_8_dil
   oomp_key_simple: ohdsp_mykicadlibs_footprints_xtal_8_dil
   owner: ohdsp
   repo:

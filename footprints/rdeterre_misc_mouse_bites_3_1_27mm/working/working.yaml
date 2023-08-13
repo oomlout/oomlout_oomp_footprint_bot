@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/rdeterre_misc_mouse_bites_3_1_27mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/rdeterre_misc_mouse_bites_3_1_27mm/working
-    oomp_doc: footprints/footprints/rdeterre/misc/Mouse_Bites_3_1.27mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/rdeterre/misc/Mouse_Bites_3_1.27mm/working
     oomp_src_flat: footprints_flat/footprints_flat/rdeterre_misc_mouse_bites_3_1_27mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/rdeterre_misc_mouse_bites_3_1_27mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/rdeterre/misc/Mouse_Bites_3_1.27mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/rdeterre/misc/Mouse_Bites_3_1.27mm/working
   name: misc.pretty
+  oomp:
+    footprint_name: mouse_bites_3_1_27mm
+    library_name: misc
+    md5: 162e33b0200417dad0f6b0b39383798b
+    md5_10: 162e33b020
+    md5_5: 162e3
+    md5_6: 162e33
+    oomp_key: oomp_rdeterre_misc_mouse_bites_3_1_27mm
+    oomp_key_extra: oomp_footprint_rdeterre_misc_mouse_bites_3_1_27mm
+    oomp_key_full: oomp_footprint_rdeterre_misc_mouse_bites_3_1_27mm_162e33
+    oomp_key_simple: rdeterre_misc_mouse_bites_3_1_27mm
+    original_filename: misc.pretty/Mouse_Bites_3_1.27mm.kicad_mod
+    owner_name: rdeterre
   oomp_key: oomp_rdeterre_misc_mouse_bites_3_1_27mm
+  oomp_key_full: oomp_footprint_rdeterre_misc_mouse_bites_3_1_27mm
   oomp_key_simple: rdeterre_misc_mouse_bites_3_1_27mm
   owner: rdeterre
   repo:

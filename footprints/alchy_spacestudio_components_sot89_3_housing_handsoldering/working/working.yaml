@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/alchy/spacestudio_components.pretty
     oomp_bot: footprints/alchy_spacestudio_components_sot89_3_housing_handsoldering/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/alchy_spacestudio_components_sot89_3_housing_handsoldering/working
-    oomp_doc: footprints/footprints/alchy/spacestudio_components/SOT89-3_Housing_Handsoldering/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/alchy/spacestudio_components/SOT89-3_Housing_Handsoldering/working
     oomp_src_flat: footprints_flat/footprints_flat/alchy_spacestudio_components_sot89_3_housing_handsoldering/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/alchy_spacestudio_components_sot89_3_housing_handsoldering/working
-    oomp_src_folder: footprints_folder/footprints_folder/alchy/spacestudio_components/SOT89-3_Housing_Handsoldering/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/alchy/spacestudio_components/SOT89-3_Housing_Handsoldering/working
   name: spacestudio_components.pretty
+  oomp:
+    footprint_name: sot89_3_housing_handsoldering
+    library_name: spacestudio_components
+    md5: d24d54e73cf0b2ccc97da45a3b402bf8
+    md5_10: d24d54e73c
+    md5_5: d24d5
+    md5_6: d24d54
+    oomp_key: oomp_alchy_spacestudio_components_sot89_3_housing_handsoldering
+    oomp_key_extra: oomp_footprint_alchy_spacestudio_components_sot89_3_housing_handsoldering
+    oomp_key_full: oomp_footprint_alchy_spacestudio_components_sot89_3_housing_handsoldering_d24d54
+    oomp_key_simple: alchy_spacestudio_components_sot89_3_housing_handsoldering
+    original_filename: spacestudio_components.pretty/SOT89-3_Housing_Handsoldering.kicad_mod
+    owner_name: alchy
   oomp_key: oomp_alchy_spacestudio_components_sot89_3_housing_handsoldering
+  oomp_key_full: oomp_footprint_alchy_spacestudio_components_sot89_3_housing_handsoldering
   oomp_key_simple: alchy_spacestudio_components_sot89_3_housing_handsoldering
   owner: alchy
   repo:

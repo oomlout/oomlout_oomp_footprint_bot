@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/chriswags_1w_grove_v0_1_conn2/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/chriswags_1w_grove_v0_1_conn2/working
-    oomp_doc: footprints/footprints/chriswags/1w-grove-v0.1/conn2/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/chriswags/1w-grove-v0.1/conn2/working
     oomp_src_flat: footprints_flat/footprints_flat/chriswags_1w_grove_v0_1_conn2/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/chriswags_1w_grove_v0_1_conn2/working
-    oomp_src_folder: footprints_folder/footprints_folder/chriswags/1w-grove-v0.1/conn2/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/chriswags/1w-grove-v0.1/conn2/working
   name: KiCad
+  oomp:
+    footprint_name: conn2
+    library_name: 1w_grove_v0_1
+    md5: c3515b965ebe6c9caa3da55c0737fea0
+    md5_10: c3515b965e
+    md5_5: c3515
+    md5_6: c3515b
+    oomp_key: oomp_chriswags_1w_grove_v0_1_conn2
+    oomp_key_extra: oomp_footprint_chriswags_1w_grove_v0_1_conn2
+    oomp_key_full: oomp_footprint_chriswags_1w_grove_v0_1_conn2_c3515b
+    oomp_key_simple: chriswags_1w_grove_v0_1_conn2
+    original_filename: KiCad/6.0/projects/1w-grove-v0.1/1w-grove-v0.1.pretty/conn2.kicad_mod
+    owner_name: chriswags
   oomp_key: oomp_chriswags_1w_grove_v0_1_conn2
+  oomp_key_full: oomp_footprint_chriswags_1w_grove_v0_1_conn2
   oomp_key_simple: chriswags_1w_grove_v0_1_conn2
   owner: chriswags
   repo:

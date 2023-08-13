@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/arturo182/kicad-modules
     oomp_bot: footprints/arturo182_button_switch_smd_extra_metal_dome_cross_6mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/arturo182_button_switch_smd_extra_metal_dome_cross_6mm/working
-    oomp_doc: footprints/footprints/arturo182/Button_Switch_SMD_Extra/Metal_Dome_Cross_6mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/arturo182/Button_Switch_SMD_Extra/Metal_Dome_Cross_6mm/working
     oomp_src_flat: footprints_flat/footprints_flat/arturo182_button_switch_smd_extra_metal_dome_cross_6mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/arturo182_button_switch_smd_extra_metal_dome_cross_6mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/arturo182/Button_Switch_SMD_Extra/Metal_Dome_Cross_6mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/arturo182/Button_Switch_SMD_Extra/Metal_Dome_Cross_6mm/working
   name: kicad-modules
+  oomp:
+    footprint_name: metal_dome_cross_6mm
+    library_name: button_switch_smd_extra
+    md5: b68027690327013bfc0d22c7834d161a
+    md5_10: b680276903
+    md5_5: b6802
+    md5_6: b68027
+    oomp_key: oomp_arturo182_button_switch_smd_extra_metal_dome_cross_6mm
+    oomp_key_extra: oomp_footprint_arturo182_button_switch_smd_extra_metal_dome_cross_6mm
+    oomp_key_full: oomp_footprint_arturo182_button_switch_smd_extra_metal_dome_cross_6mm_b68027
+    oomp_key_simple: arturo182_button_switch_smd_extra_metal_dome_cross_6mm
+    original_filename: kicad-modules/Button_Switch_SMD_Extra.pretty/Metal_Dome_Cross_6mm.kicad_mod
+    owner_name: arturo182
   oomp_key: oomp_arturo182_button_switch_smd_extra_metal_dome_cross_6mm
+  oomp_key_full: oomp_footprint_arturo182_button_switch_smd_extra_metal_dome_cross_6mm
   oomp_key_simple: arturo182_button_switch_smd_extra_metal_dome_cross_6mm
   owner: arturo182
   repo:

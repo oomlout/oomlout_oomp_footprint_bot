@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/adamgreig/agg-kicad
     oomp_bot: footprints/adamgreig_agg_s7b_eh/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/adamgreig_agg_s7b_eh/working
-    oomp_doc: footprints/footprints/adamgreig/agg/S7B-EH/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/adamgreig/agg/S7B-EH/working
     oomp_src_flat: footprints_flat/footprints_flat/adamgreig_agg_s7b_eh/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/adamgreig_agg_s7b_eh/working
-    oomp_src_folder: footprints_folder/footprints_folder/adamgreig/agg/S7B-EH/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/adamgreig/agg/S7B-EH/working
   name: agg-kicad
+  oomp:
+    footprint_name: s7b_eh
+    library_name: agg
+    md5: 3bd1907902504521ca1f45c9a550918e
+    md5_10: 3bd1907902
+    md5_5: 3bd19
+    md5_6: 3bd190
+    oomp_key: oomp_adamgreig_agg_s7b_eh
+    oomp_key_extra: oomp_footprint_adamgreig_agg_s7b_eh
+    oomp_key_full: oomp_footprint_adamgreig_agg_s7b_eh_3bd190
+    oomp_key_simple: adamgreig_agg_s7b_eh
+    original_filename: agg-kicad/agg.pretty/S7B-EH.kicad_mod
+    owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_s7b_eh
+  oomp_key_full: oomp_footprint_adamgreig_agg_s7b_eh
   oomp_key_simple: adamgreig_agg_s7b_eh
   owner: adamgreig
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/imrehg_seeedopl_connector_2016_h3_2_54/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/imrehg_seeedopl_connector_2016_h3_2_54/working
-    oomp_doc: footprints/footprints/imrehg/SeeedOPL-Connector-2016/H3-2.54/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/imrehg/SeeedOPL-Connector-2016/H3-2.54/working
     oomp_src_flat: footprints_flat/footprints_flat/imrehg_seeedopl_connector_2016_h3_2_54/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/imrehg_seeedopl_connector_2016_h3_2_54/working
-    oomp_src_folder: footprints_folder/footprints_folder/imrehg/SeeedOPL-Connector-2016/H3-2.54/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/imrehg/SeeedOPL-Connector-2016/H3-2.54/working
   name: kicalopl
+  oomp:
+    footprint_name: h3_2_54
+    library_name: seeedopl_connector_2016
+    md5: 3c281f02d449028db8f4e4d147dbd501
+    md5_10: 3c281f02d4
+    md5_5: 3c281
+    md5_6: 3c281f
+    oomp_key: oomp_imrehg_seeedopl_connector_2016_h3_2_54
+    oomp_key_extra: oomp_footprint_imrehg_seeedopl_connector_2016_h3_2_54
+    oomp_key_full: oomp_footprint_imrehg_seeedopl_connector_2016_h3_2_54_3c281f
+    oomp_key_simple: imrehg_seeedopl_connector_2016_h3_2_54
+    original_filename: kicalopl/SeeedOPL-Connector-2016.pretty/H3-2.54.kicad_mod
+    owner_name: imrehg
   oomp_key: oomp_imrehg_seeedopl_connector_2016_h3_2_54
+  oomp_key_full: oomp_footprint_imrehg_seeedopl_connector_2016_h3_2_54
   oomp_key_simple: imrehg_seeedopl_connector_2016_h3_2_54
   owner: imrehg
   repo:

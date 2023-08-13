@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/hizlabs_kicad_footprints_qfn_32_1ep/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/hizlabs_kicad_footprints_qfn_32_1ep/working
-    oomp_doc: footprints/footprints/HiZLabs/KiCad_Footprints/QFN-32-1EP/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/HiZLabs/KiCad_Footprints/QFN-32-1EP/working
     oomp_src_flat: footprints_flat/footprints_flat/hizlabs_kicad_footprints_qfn_32_1ep/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/hizlabs_kicad_footprints_qfn_32_1ep/working
-    oomp_src_folder: footprints_folder/footprints_folder/HiZLabs/KiCad_Footprints/QFN-32-1EP/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/HiZLabs/KiCad_Footprints/QFN-32-1EP/working
   name: KiCad_Footprints.pretty
+  oomp:
+    footprint_name: qfn_32_1ep
+    library_name: kicad_footprints
+    md5: e5fcc270da854f0a6df18bd94efefe1d
+    md5_10: e5fcc270da
+    md5_5: e5fcc
+    md5_6: e5fcc2
+    oomp_key: oomp_hizlabs_kicad_footprints_qfn_32_1ep
+    oomp_key_extra: oomp_footprint_hizlabs_kicad_footprints_qfn_32_1ep
+    oomp_key_full: oomp_footprint_hizlabs_kicad_footprints_qfn_32_1ep_e5fcc2
+    oomp_key_simple: hizlabs_kicad_footprints_qfn_32_1ep
+    original_filename: KiCad_Footprints.pretty/QFN-32-1EP.kicad_mod
+    owner_name: hizlabs
   oomp_key: oomp_hizlabs_kicad_footprints_qfn_32_1ep
+  oomp_key_full: oomp_footprint_hizlabs_kicad_footprints_qfn_32_1ep
   oomp_key_simple: hizlabs_kicad_footprints_qfn_32_1ep
   owner: HiZLabs
   repo:

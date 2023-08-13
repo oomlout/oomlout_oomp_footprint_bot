@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/junes_phd_jolly_roger_jolly_roger/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/junes_phd_jolly_roger_jolly_roger/working
-    oomp_doc: footprints/footprints/Junes-PhD/jolly_roger.kicad_mod/jolly_roger/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Junes-PhD/jolly_roger.kicad_mod/jolly_roger/working
     oomp_src_flat: footprints_flat/footprints_flat/junes_phd_jolly_roger_jolly_roger/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/junes_phd_jolly_roger_jolly_roger/working
-    oomp_src_folder: footprints_folder/footprints_folder/Junes-PhD/jolly_roger.kicad_mod/jolly_roger/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Junes-PhD/jolly_roger.kicad_mod/jolly_roger/working
   name: kicad_arbitrary_pad_example
+  oomp:
+    footprint_name: jolly_roger
+    library_name: jolly_roger_kicad_mod
+    md5: 9854159537bd50894a64c23c7c1114a8
+    md5_10: '9854159537'
+    md5_5: '98541'
+    md5_6: '985415'
+    oomp_key: oomp_junes_phd_jolly_roger_jolly_roger
+    oomp_key_extra: oomp_footprint_junes_phd_jolly_roger_jolly_roger
+    oomp_key_full: oomp_footprint_junes_phd_jolly_roger_jolly_roger_985415
+    oomp_key_simple: junes_phd_jolly_roger_jolly_roger
+    original_filename: kicad_arbitrary_pad_example/jolly_roger.kicad_mod
+    owner_name: junes_phd
   oomp_key: oomp_junes_phd_jolly_roger_jolly_roger
+  oomp_key_full: oomp_footprint_junes_phd_jolly_roger_jolly_roger
   oomp_key_simple: junes_phd_jolly_roger_jolly_roger
   owner: Junes-PhD
   repo:

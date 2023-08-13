@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/fruchti_qfn_qfn16/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/fruchti_qfn_qfn16/working
-    oomp_doc: footprints/footprints/fruchti/qfn/QFN16/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/fruchti/qfn/QFN16/working
     oomp_src_flat: footprints_flat/footprints_flat/fruchti_qfn_qfn16/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/fruchti_qfn_qfn16/working
-    oomp_src_folder: footprints_folder/footprints_folder/fruchti/qfn/QFN16/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/fruchti/qfn/QFN16/working
   name: fruchtilib
+  oomp:
+    footprint_name: qfn16
+    library_name: qfn
+    md5: 88f159893be66b363c5f45c230866b8a
+    md5_10: 88f159893b
+    md5_5: 88f15
+    md5_6: 88f159
+    oomp_key: oomp_fruchti_qfn_qfn16
+    oomp_key_extra: oomp_footprint_fruchti_qfn_qfn16
+    oomp_key_full: oomp_footprint_fruchti_qfn_qfn16_88f159
+    oomp_key_simple: fruchti_qfn_qfn16
+    original_filename: fruchtilib/mod/qfn.pretty/QFN16.kicad_mod
+    owner_name: fruchti
   oomp_key: oomp_fruchti_qfn_qfn16
+  oomp_key_full: oomp_footprint_fruchti_qfn_qfn16
   oomp_key_simple: fruchti_qfn_qfn16
   owner: fruchti
   repo:

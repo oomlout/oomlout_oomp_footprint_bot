@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/ai03-2725/Type-C.pretty
     oomp_bot: footprints/ai03_2725_type_c_hro_type_c_31_m_12_handsoldering/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ai03_2725_type_c_hro_type_c_31_m_12_handsoldering/working
-    oomp_doc: footprints/footprints/ai03-2725/Type-C/HRO-TYPE-C-31-M-12-HandSoldering/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ai03-2725/Type-C/HRO-TYPE-C-31-M-12-HandSoldering/working
     oomp_src_flat: footprints_flat/footprints_flat/ai03_2725_type_c_hro_type_c_31_m_12_handsoldering/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ai03_2725_type_c_hro_type_c_31_m_12_handsoldering/working
-    oomp_src_folder: footprints_folder/footprints_folder/ai03-2725/Type-C/HRO-TYPE-C-31-M-12-HandSoldering/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ai03-2725/Type-C/HRO-TYPE-C-31-M-12-HandSoldering/working
   name: Type-C.pretty
+  oomp:
+    footprint_name: hro_type_c_31_m_12_handsoldering
+    library_name: type_c
+    md5: c8113dc9a23c3a4269e230f665c11a2b
+    md5_10: c8113dc9a2
+    md5_5: c8113
+    md5_6: c8113d
+    oomp_key: oomp_ai03_2725_type_c_hro_type_c_31_m_12_handsoldering
+    oomp_key_extra: oomp_footprint_ai03_2725_type_c_hro_type_c_31_m_12_handsoldering
+    oomp_key_full: oomp_footprint_ai03_2725_type_c_hro_type_c_31_m_12_handsoldering_c8113d
+    oomp_key_simple: ai03_2725_type_c_hro_type_c_31_m_12_handsoldering
+    original_filename: Type-C.pretty/HRO-TYPE-C-31-M-12-HandSoldering.kicad_mod
+    owner_name: ai03_2725
   oomp_key: oomp_ai03_2725_type_c_hro_type_c_31_m_12_handsoldering
+  oomp_key_full: oomp_footprint_ai03_2725_type_c_hro_type_c_31_m_12_handsoldering
   oomp_key_simple: ai03_2725_type_c_hro_type_c_31_m_12_handsoldering
   owner: ai03-2725
   repo:

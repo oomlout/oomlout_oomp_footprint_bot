@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/KUT-KiCad/KUT_DriveIC.pretty
     oomp_bot: footprints/kut_kicad_kut_driveic_upak/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kut_kicad_kut_driveic_upak/working
-    oomp_doc: footprints/footprints/KUT-KiCad/KUT_DriveIC/UPAK/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/KUT-KiCad/KUT_DriveIC/UPAK/working
     oomp_src_flat: footprints_flat/footprints_flat/kut_kicad_kut_driveic_upak/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kut_kicad_kut_driveic_upak/working
-    oomp_src_folder: footprints_folder/footprints_folder/KUT-KiCad/KUT_DriveIC/UPAK/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/KUT-KiCad/KUT_DriveIC/UPAK/working
   name: KUT_DriveIC.pretty
+  oomp:
+    footprint_name: upak
+    library_name: kut_driveic
+    md5: fee5b957121693575a604a00085753aa
+    md5_10: fee5b95712
+    md5_5: fee5b
+    md5_6: fee5b9
+    oomp_key: oomp_kut_kicad_kut_driveic_upak
+    oomp_key_extra: oomp_footprint_kut_kicad_kut_driveic_upak
+    oomp_key_full: oomp_footprint_kut_kicad_kut_driveic_upak_fee5b9
+    oomp_key_simple: kut_kicad_kut_driveic_upak
+    original_filename: KUT_DriveIC.pretty/UPAK.kicad_mod
+    owner_name: kut_kicad
   oomp_key: oomp_kut_kicad_kut_driveic_upak
+  oomp_key_full: oomp_footprint_kut_kicad_kut_driveic_upak
   oomp_key_simple: kut_kicad_kut_driveic_upak
   owner: KUT-KiCad
   repo:

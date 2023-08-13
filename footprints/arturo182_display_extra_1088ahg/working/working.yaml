@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/arturo182/kicad-modules
     oomp_bot: footprints/arturo182_display_extra_1088ahg/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/arturo182_display_extra_1088ahg/working
-    oomp_doc: footprints/footprints/arturo182/Display_Extra/1088AHG/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/arturo182/Display_Extra/1088AHG/working
     oomp_src_flat: footprints_flat/footprints_flat/arturo182_display_extra_1088ahg/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/arturo182_display_extra_1088ahg/working
-    oomp_src_folder: footprints_folder/footprints_folder/arturo182/Display_Extra/1088AHG/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/arturo182/Display_Extra/1088AHG/working
   name: kicad-modules
+  oomp:
+    footprint_name: 1088ahg
+    library_name: display_extra
+    md5: e84fb1c64743cf8145faaa1cd81e5953
+    md5_10: e84fb1c647
+    md5_5: e84fb
+    md5_6: e84fb1
+    oomp_key: oomp_arturo182_display_extra_1088ahg
+    oomp_key_extra: oomp_footprint_arturo182_display_extra_1088ahg
+    oomp_key_full: oomp_footprint_arturo182_display_extra_1088ahg_e84fb1
+    oomp_key_simple: arturo182_display_extra_1088ahg
+    original_filename: kicad-modules/Display_Extra.pretty/1088AHG.kicad_mod
+    owner_name: arturo182
   oomp_key: oomp_arturo182_display_extra_1088ahg
+  oomp_key_full: oomp_footprint_arturo182_display_extra_1088ahg
   oomp_key_simple: arturo182_display_extra_1088ahg
   owner: arturo182
   repo:

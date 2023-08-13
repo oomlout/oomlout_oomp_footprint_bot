@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/patiqs_kicadlib_sc_70_5/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/patiqs_kicadlib_sc_70_5/working
-    oomp_doc: footprints/footprints/patiqs/KicadLib/SC-70-5/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/patiqs/KicadLib/SC-70-5/working
     oomp_src_flat: footprints_flat/footprints_flat/patiqs_kicadlib_sc_70_5/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/patiqs_kicadlib_sc_70_5/working
-    oomp_src_folder: footprints_folder/footprints_folder/patiqs/KicadLib/SC-70-5/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/patiqs/KicadLib/SC-70-5/working
   name: KicadLib.pretty
+  oomp:
+    footprint_name: sc_70_5
+    library_name: kicadlib
+    md5: 68160ab49624ebe700325336c3e11dac
+    md5_10: 68160ab496
+    md5_5: '68160'
+    md5_6: 68160a
+    oomp_key: oomp_patiqs_kicadlib_sc_70_5
+    oomp_key_extra: oomp_footprint_patiqs_kicadlib_sc_70_5
+    oomp_key_full: oomp_footprint_patiqs_kicadlib_sc_70_5_68160a
+    oomp_key_simple: patiqs_kicadlib_sc_70_5
+    original_filename: KicadLib.pretty/SC-70-5.kicad_mod
+    owner_name: patiqs
   oomp_key: oomp_patiqs_kicadlib_sc_70_5
+  oomp_key_full: oomp_footprint_patiqs_kicadlib_sc_70_5
   oomp_key_simple: patiqs_kicadlib_sc_70_5
   owner: patiqs
   repo:

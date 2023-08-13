@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_bga524n6e6327xtsa1_bga524n6e6327xtsa1/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_bga524n6e6327xtsa1_bga524n6e6327xtsa1/working
-    oomp_doc: footprints/footprints/brunoeagle/BGA524N6E6327XTSA1.kicad_mod/BGA524N6E6327XTSA1/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/BGA524N6E6327XTSA1.kicad_mod/BGA524N6E6327XTSA1/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_bga524n6e6327xtsa1_bga524n6e6327xtsa1/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_bga524n6e6327xtsa1_bga524n6e6327xtsa1/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/BGA524N6E6327XTSA1.kicad_mod/BGA524N6E6327XTSA1/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/BGA524N6E6327XTSA1.kicad_mod/BGA524N6E6327XTSA1/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: bga524n6e6327xtsa1
+    library_name: bga524n6e6327xtsa1_kicad_mod
+    md5: 61ab8fe4c79f82cdf8df4acce4383c3e
+    md5_10: 61ab8fe4c7
+    md5_5: 61ab8
+    md5_6: 61ab8f
+    oomp_key: oomp_brunoeagle_bga524n6e6327xtsa1_bga524n6e6327xtsa1
+    oomp_key_extra: oomp_footprint_brunoeagle_bga524n6e6327xtsa1_bga524n6e6327xtsa1
+    oomp_key_full: oomp_footprint_brunoeagle_bga524n6e6327xtsa1_bga524n6e6327xtsa1_61ab8f
+    oomp_key_simple: brunoeagle_bga524n6e6327xtsa1_bga524n6e6327xtsa1
+    original_filename: kicad-open-modules/BGA524N6E6327XTSA1.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_bga524n6e6327xtsa1_bga524n6e6327xtsa1
+  oomp_key_full: oomp_footprint_brunoeagle_bga524n6e6327xtsa1_bga524n6e6327xtsa1
   oomp_key_simple: brunoeagle_bga524n6e6327xtsa1_bga524n6e6327xtsa1
   owner: brunoeagle
   repo:

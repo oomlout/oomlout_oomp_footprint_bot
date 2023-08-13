@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/tmk_keyboard_parts_mini_din_8/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/tmk_keyboard_parts_mini_din_8/working
-    oomp_doc: footprints/footprints/tmk/keyboard_parts/MINI_DIN_8/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/tmk/keyboard_parts/MINI_DIN_8/working
     oomp_src_flat: footprints_flat/footprints_flat/tmk_keyboard_parts_mini_din_8/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/tmk_keyboard_parts_mini_din_8/working
-    oomp_src_folder: footprints_folder/footprints_folder/tmk/keyboard_parts/MINI_DIN_8/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/tmk/keyboard_parts/MINI_DIN_8/working
   name: keyboard_parts.pretty
+  oomp:
+    footprint_name: mini_din_8
+    library_name: keyboard_parts
+    md5: bdbc0aa8b765ec004364e527e2e848f2
+    md5_10: bdbc0aa8b7
+    md5_5: bdbc0
+    md5_6: bdbc0a
+    oomp_key: oomp_tmk_keyboard_parts_mini_din_8
+    oomp_key_extra: oomp_footprint_tmk_keyboard_parts_mini_din_8
+    oomp_key_full: oomp_footprint_tmk_keyboard_parts_mini_din_8_bdbc0a
+    oomp_key_simple: tmk_keyboard_parts_mini_din_8
+    original_filename: keyboard_parts.pretty/MINI_DIN_8.kicad_mod
+    owner_name: tmk
   oomp_key: oomp_tmk_keyboard_parts_mini_din_8
+  oomp_key_full: oomp_footprint_tmk_keyboard_parts_mini_din_8
   oomp_key_simple: tmk_keyboard_parts_mini_din_8
   owner: tmk
   repo:

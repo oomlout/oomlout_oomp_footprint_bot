@@ -1,24 +1,31 @@
-- file: SparkFun-KiCad-Libraries/Footprints/Resistors.pretty/1210.kicad_mod
-  footprint:
-    description: GENERIC 3225 (1210) PACKAGE
-    libraryLink: 1210
-    number_of_pads: 2
+- error: expected string or bytes-like object, got 'int'
+  file: SparkFun-KiCad-Libraries/Pre_v7/Footprints/Resistors.pretty/1210.kicad_mod
   footprint_library_directory: footprint_library_owner/sparkfun_SparkFun-KiCad-Libraries
   footprint_library_directory_flat: footprints_flat/sparkfun_resistors_1210/working
-  github_path: http://github.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Footprints/Resistors.pretty/1210.kicad_mod
+  github_path: http://github.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Pre_v7/Footprints/Resistors.pretty/1210.kicad_mod
   links:
-    github_src: http://gitlab.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Tools/SparkFun-Eagle-Libraries_Conversion/Export.pretty/DFN-6-3X3.kicad_mod
+    github_src: http://gitlab.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Pre_v7/Tools/SparkFun-Eagle-Libraries_Conversion/Export.pretty/DFN-6-3X3.kicad_mod
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/sparkfun_resistors_1210/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/sparkfun_resistors_1210/working
-    oomp_doc: footprints/footprints/sparkfun/Resistors/1210/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/sparkfun/Resistors/1210/working
     oomp_src_flat: footprints_flat/footprints_flat/sparkfun_resistors_1210/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/sparkfun_resistors_1210/working
-    oomp_src_folder: footprints_folder/footprints_folder/sparkfun/Resistors/1210/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/sparkfun/Resistors/1210/working
   name: SparkFun-KiCad-Libraries
+  oomp:
+    footprint_name: '1210'
+    library_name: resistors
+    md5: 2abeadac863f03d56dbe4cc51b14eb7e
+    md5_10: 2abeadac86
+    md5_5: 2abea
+    md5_6: 2abead
+    oomp_key: oomp_sparkfun_resistors_1210
+    oomp_key_extra: oomp_footprint_sparkfun_resistors_1210
+    oomp_key_full: oomp_footprint_sparkfun_resistors_1210_2abead
+    oomp_key_simple: sparkfun_resistors_1210
+    original_filename: SparkFun-KiCad-Libraries/Pre_v7/Footprints/Resistors.pretty/1210.kicad_mod
+    owner_name: sparkfun
   oomp_key: oomp_sparkfun_resistors_1210
+  oomp_key_full: oomp_footprint_sparkfun_resistors_1210
   oomp_key_simple: sparkfun_resistors_1210
   owner: sparkfun
   repo:

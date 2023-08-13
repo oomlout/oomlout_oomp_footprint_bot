@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/nightmechanic_nightmechanic_pcb_ck_kmr2/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nightmechanic_nightmechanic_pcb_ck_kmr2/working
-    oomp_doc: footprints/footprints/nightmechanic/nightmechanic_pcb/CK_KMR2/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/nightmechanic/nightmechanic_pcb/CK_KMR2/working
     oomp_src_flat: footprints_flat/footprints_flat/nightmechanic_nightmechanic_pcb_ck_kmr2/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nightmechanic_nightmechanic_pcb_ck_kmr2/working
-    oomp_src_folder: footprints_folder/footprints_folder/nightmechanic/nightmechanic_pcb/CK_KMR2/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/nightmechanic/nightmechanic_pcb/CK_KMR2/working
   name: nightmechanic_pcb.pretty
+  oomp:
+    footprint_name: ck_kmr2
+    library_name: nightmechanic_pcb
+    md5: 5b064bed0845fecc875469da4d66feab
+    md5_10: 5b064bed08
+    md5_5: 5b064
+    md5_6: 5b064b
+    oomp_key: oomp_nightmechanic_nightmechanic_pcb_ck_kmr2
+    oomp_key_extra: oomp_footprint_nightmechanic_nightmechanic_pcb_ck_kmr2
+    oomp_key_full: oomp_footprint_nightmechanic_nightmechanic_pcb_ck_kmr2_5b064b
+    oomp_key_simple: nightmechanic_nightmechanic_pcb_ck_kmr2
+    original_filename: nightmechanic_pcb.pretty/CK_KMR2.kicad_mod
+    owner_name: nightmechanic
   oomp_key: oomp_nightmechanic_nightmechanic_pcb_ck_kmr2
+  oomp_key_full: oomp_footprint_nightmechanic_nightmechanic_pcb_ck_kmr2
   oomp_key_simple: nightmechanic_nightmechanic_pcb_ck_kmr2
   owner: nightmechanic
   repo:

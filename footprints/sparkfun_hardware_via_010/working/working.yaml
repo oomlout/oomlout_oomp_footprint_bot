@@ -1,24 +1,34 @@
-- file: SparkFun-KiCad-Libraries/Footprints/Hardware.pretty/VIA-.010.kicad_mod
+- file: SparkFun-KiCad-Libraries/Pre_v7/Footprints/Hardware.pretty/VIA-.010.kicad_mod
   footprint:
     description: null
     libraryLink: VIA-.010
     number_of_pads: 1
   footprint_library_directory: footprint_library_owner/sparkfun_SparkFun-KiCad-Libraries
   footprint_library_directory_flat: footprints_flat/sparkfun_hardware_via_010/working
-  github_path: http://github.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Footprints/Hardware.pretty/VIA-.010.kicad_mod
+  github_path: http://github.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Pre_v7/Footprints/Hardware.pretty/VIA-.010.kicad_mod
   links:
-    github_src: http://gitlab.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Tools/SparkFun-Eagle-Libraries_Conversion/Export.pretty/DFN-6-3X3.kicad_mod
+    github_src: http://gitlab.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Pre_v7/Tools/SparkFun-Eagle-Libraries_Conversion/Export.pretty/DFN-6-3X3.kicad_mod
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/sparkfun_hardware_via_010/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/sparkfun_hardware_via_010/working
-    oomp_doc: footprints/footprints/sparkfun/Hardware/VIA-.010/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/sparkfun/Hardware/VIA-.010/working
     oomp_src_flat: footprints_flat/footprints_flat/sparkfun_hardware_via_010/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/sparkfun_hardware_via_010/working
-    oomp_src_folder: footprints_folder/footprints_folder/sparkfun/Hardware/VIA-.010/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/sparkfun/Hardware/VIA-.010/working
   name: SparkFun-KiCad-Libraries
+  oomp:
+    footprint_name: via_010
+    library_name: hardware
+    md5: 8b55fa8584e6d59c183ccf4f9c33b680
+    md5_10: 8b55fa8584
+    md5_5: 8b55f
+    md5_6: 8b55fa
+    oomp_key: oomp_sparkfun_hardware_via_010
+    oomp_key_extra: oomp_footprint_sparkfun_hardware_via_010
+    oomp_key_full: oomp_footprint_sparkfun_hardware_via_010_8b55fa
+    oomp_key_simple: sparkfun_hardware_via_010
+    original_filename: SparkFun-KiCad-Libraries/Pre_v7/Footprints/Hardware.pretty/VIA-.010.kicad_mod
+    owner_name: sparkfun
   oomp_key: oomp_sparkfun_hardware_via_010
+  oomp_key_full: oomp_footprint_sparkfun_hardware_via_010
   oomp_key_simple: sparkfun_hardware_via_010
   owner: sparkfun
   repo:

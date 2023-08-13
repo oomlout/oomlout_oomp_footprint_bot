@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pelrun_w_smd_bga_tfbga48_9x11/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pelrun_w_smd_bga_tfbga48_9x11/working
-    oomp_doc: footprints/footprints/pelrun/w_smd_bga/tfbga48-9x11/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/pelrun/w_smd_bga/tfbga48-9x11/working
     oomp_src_flat: footprints_flat/footprints_flat/pelrun_w_smd_bga_tfbga48_9x11/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pelrun_w_smd_bga_tfbga48_9x11/working
-    oomp_src_folder: footprints_folder/footprints_folder/pelrun/w_smd_bga/tfbga48-9x11/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/pelrun/w_smd_bga/tfbga48-9x11/working
   name: libKiCad
+  oomp:
+    footprint_name: tfbga48_9x11
+    library_name: w_smd_bga
+    md5: f4c3b41b4853ba520848d3039746592b
+    md5_10: f4c3b41b48
+    md5_5: f4c3b
+    md5_6: f4c3b4
+    oomp_key: oomp_pelrun_w_smd_bga_tfbga48_9x11
+    oomp_key_extra: oomp_footprint_pelrun_w_smd_bga_tfbga48_9x11
+    oomp_key_full: oomp_footprint_pelrun_w_smd_bga_tfbga48_9x11_f4c3b4
+    oomp_key_simple: pelrun_w_smd_bga_tfbga48_9x11
+    original_filename: libKiCad/footprint/w_smd_bga.pretty/tfbga48-9x11.kicad_mod
+    owner_name: pelrun
   oomp_key: oomp_pelrun_w_smd_bga_tfbga48_9x11
+  oomp_key_full: oomp_footprint_pelrun_w_smd_bga_tfbga48_9x11
   oomp_key_simple: pelrun_w_smd_bga_tfbga48_9x11
   owner: pelrun
   repo:

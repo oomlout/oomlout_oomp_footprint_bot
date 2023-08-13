@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/arturo182/kicad-modules
     oomp_bot: footprints/arturo182_buzzer_beeper_extra_cmt_5023s/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/arturo182_buzzer_beeper_extra_cmt_5023s/working
-    oomp_doc: footprints/footprints/arturo182/Buzzer_Beeper_Extra/CMT-5023S/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/arturo182/Buzzer_Beeper_Extra/CMT-5023S/working
     oomp_src_flat: footprints_flat/footprints_flat/arturo182_buzzer_beeper_extra_cmt_5023s/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/arturo182_buzzer_beeper_extra_cmt_5023s/working
-    oomp_src_folder: footprints_folder/footprints_folder/arturo182/Buzzer_Beeper_Extra/CMT-5023S/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/arturo182/Buzzer_Beeper_Extra/CMT-5023S/working
   name: kicad-modules
+  oomp:
+    footprint_name: cmt_5023s
+    library_name: buzzer_beeper_extra
+    md5: dba6c8b8497e8958125830e1168e533e
+    md5_10: dba6c8b849
+    md5_5: dba6c
+    md5_6: dba6c8
+    oomp_key: oomp_arturo182_buzzer_beeper_extra_cmt_5023s
+    oomp_key_extra: oomp_footprint_arturo182_buzzer_beeper_extra_cmt_5023s
+    oomp_key_full: oomp_footprint_arturo182_buzzer_beeper_extra_cmt_5023s_dba6c8
+    oomp_key_simple: arturo182_buzzer_beeper_extra_cmt_5023s
+    original_filename: kicad-modules/Buzzer_Beeper_Extra.pretty/CMT-5023S.kicad_mod
+    owner_name: arturo182
   oomp_key: oomp_arturo182_buzzer_beeper_extra_cmt_5023s
+  oomp_key_full: oomp_footprint_arturo182_buzzer_beeper_extra_cmt_5023s
   oomp_key_simple: arturo182_buzzer_beeper_extra_cmt_5023s
   owner: arturo182
   repo:

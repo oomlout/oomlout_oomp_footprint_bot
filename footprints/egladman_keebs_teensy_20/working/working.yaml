@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/egladman_keebs_teensy_20/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/egladman_keebs_teensy_20/working
-    oomp_doc: footprints/footprints/egladman/keebs/Teensy_20/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/egladman/keebs/Teensy_20/working
     oomp_src_flat: footprints_flat/footprints_flat/egladman_keebs_teensy_20/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/egladman_keebs_teensy_20/working
-    oomp_src_folder: footprints_folder/footprints_folder/egladman/keebs/Teensy_20/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/egladman/keebs/Teensy_20/working
   name: keebs.pretty
+  oomp:
+    footprint_name: teensy_20
+    library_name: keebs
+    md5: fa8f2cac1fbc019011369ed324a27ab2
+    md5_10: fa8f2cac1f
+    md5_5: fa8f2
+    md5_6: fa8f2c
+    oomp_key: oomp_egladman_keebs_teensy_20
+    oomp_key_extra: oomp_footprint_egladman_keebs_teensy_20
+    oomp_key_full: oomp_footprint_egladman_keebs_teensy_20_fa8f2c
+    oomp_key_simple: egladman_keebs_teensy_20
+    original_filename: keebs.pretty/Teensy_20.kicad_mod
+    owner_name: egladman
   oomp_key: oomp_egladman_keebs_teensy_20
+  oomp_key_full: oomp_footprint_egladman_keebs_teensy_20
   oomp_key_simple: egladman_keebs_teensy_20
   owner: egladman
   repo:

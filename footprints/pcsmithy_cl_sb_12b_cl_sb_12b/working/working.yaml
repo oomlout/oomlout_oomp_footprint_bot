@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pcsmithy_cl_sb_12b_cl_sb_12b/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pcsmithy_cl_sb_12b_cl_sb_12b/working
-    oomp_doc: footprints/footprints/PCSmithy/CL-SB-12B/CL-SB-12B/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/PCSmithy/CL-SB-12B/CL-SB-12B/working
     oomp_src_flat: footprints_flat/footprints_flat/pcsmithy_cl_sb_12b_cl_sb_12b/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pcsmithy_cl_sb_12b_cl_sb_12b/working
-    oomp_src_folder: footprints_folder/footprints_folder/PCSmithy/CL-SB-12B/CL-SB-12B/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/PCSmithy/CL-SB-12B/CL-SB-12B/working
   name: CL-SB-12B.pretty
+  oomp:
+    footprint_name: cl_sb_12b
+    library_name: cl_sb_12b
+    md5: 159863fed77ac525f1240b8374d2d81d
+    md5_10: 159863fed7
+    md5_5: '15986'
+    md5_6: '159863'
+    oomp_key: oomp_pcsmithy_cl_sb_12b_cl_sb_12b
+    oomp_key_extra: oomp_footprint_pcsmithy_cl_sb_12b_cl_sb_12b
+    oomp_key_full: oomp_footprint_pcsmithy_cl_sb_12b_cl_sb_12b_159863
+    oomp_key_simple: pcsmithy_cl_sb_12b_cl_sb_12b
+    original_filename: CL-SB-12B.pretty/CL-SB-12B.kicad_mod
+    owner_name: pcsmithy
   oomp_key: oomp_pcsmithy_cl_sb_12b_cl_sb_12b
+  oomp_key_full: oomp_footprint_pcsmithy_cl_sb_12b_cl_sb_12b
   oomp_key_simple: pcsmithy_cl_sb_12b_cl_sb_12b
   owner: PCSmithy
   repo:

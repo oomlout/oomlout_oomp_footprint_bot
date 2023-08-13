@@ -13,14 +13,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/re_innovation_reinnovationfootprint_sm_c_0603/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/re_innovation_reinnovationfootprint_sm_c_0603/working
-    oomp_doc: footprints/footprints/re-innovation/REInnovationFootprint/SM_C_0603/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/re-innovation/REInnovationFootprint/SM_C_0603/working
     oomp_src_flat: footprints_flat/footprints_flat/re_innovation_reinnovationfootprint_sm_c_0603/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/re_innovation_reinnovationfootprint_sm_c_0603/working
-    oomp_src_folder: footprints_folder/footprints_folder/re-innovation/REInnovationFootprint/SM_C_0603/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/re-innovation/REInnovationFootprint/SM_C_0603/working
   name: kicad_reinnovation
+  oomp:
+    footprint_name: sm_c_0603
+    library_name: reinnovationfootprint
+    md5: 54b1c72a10402c6447173544e5854c96
+    md5_10: 54b1c72a10
+    md5_5: 54b1c
+    md5_6: 54b1c7
+    oomp_key: oomp_re_innovation_reinnovationfootprint_sm_c_0603
+    oomp_key_extra: oomp_footprint_re_innovation_reinnovationfootprint_sm_c_0603
+    oomp_key_full: oomp_footprint_re_innovation_reinnovationfootprint_sm_c_0603_54b1c7
+    oomp_key_simple: re_innovation_reinnovationfootprint_sm_c_0603
+    original_filename: kicad_reinnovation/KiCAD PRETTY/REInnovationFootprint.pretty/SM_C_0603.kicad_mod
+    owner_name: re_innovation
   oomp_key: oomp_re_innovation_reinnovationfootprint_sm_c_0603
+  oomp_key_full: oomp_footprint_re_innovation_reinnovationfootprint_sm_c_0603
   oomp_key_simple: re_innovation_reinnovationfootprint_sm_c_0603
   owner: re-innovation
   repo:

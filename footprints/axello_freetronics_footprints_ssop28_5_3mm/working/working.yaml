@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/axello_freetronics_footprints_ssop28_5_3mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/axello_freetronics_footprints_ssop28_5_3mm/working
-    oomp_doc: footprints/footprints/axello/freetronics_footprints/SSOP28_5.3mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/axello/freetronics_footprints/SSOP28_5.3mm/working
     oomp_src_flat: footprints_flat/footprints_flat/axello_freetronics_footprints_ssop28_5_3mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/axello_freetronics_footprints_ssop28_5_3mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/axello/freetronics_footprints/SSOP28_5.3mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/axello/freetronics_footprints/SSOP28_5.3mm/working
   name: kicad
+  oomp:
+    footprint_name: ssop28_5_3mm
+    library_name: freetronics_footprints
+    md5: 1508b50d2470dad71d652ef35a0b1f44
+    md5_10: 1508b50d24
+    md5_5: 1508b
+    md5_6: 1508b5
+    oomp_key: oomp_axello_freetronics_footprints_ssop28_5_3mm
+    oomp_key_extra: oomp_footprint_axello_freetronics_footprints_ssop28_5_3mm
+    oomp_key_full: oomp_footprint_axello_freetronics_footprints_ssop28_5_3mm_1508b5
+    oomp_key_simple: axello_freetronics_footprints_ssop28_5_3mm
+    original_filename: kicad/mods/freetronics_footprints.pretty/SSOP28_5.3mm.kicad_mod
+    owner_name: axello
   oomp_key: oomp_axello_freetronics_footprints_ssop28_5_3mm
+  oomp_key_full: oomp_footprint_axello_freetronics_footprints_ssop28_5_3mm
   oomp_key_simple: axello_freetronics_footprints_ssop28_5_3mm
   owner: axello
   repo:

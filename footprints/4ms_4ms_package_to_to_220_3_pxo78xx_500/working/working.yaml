@@ -1,5 +1,8 @@
-- error: Expression does not have the correct type
-  file: 4ms-kicad-lib/footprints/4ms_Package_TO.pretty/TO-220-3_PXO78xx-500.kicad_mod
+- file: 4ms-kicad-lib/footprints/4ms_Package_TO.pretty/TO-220-3_PXO78xx-500.kicad_mod
+  footprint:
+    description: TO-220-3, Vertical, RM 2.54mm, see https://www.vishay.com/docs/66542/to-220-1.pdf
+    libraryLink: TO-220-3_PXO78xx-500
+    number_of_pads: 3
   footprint_library_directory: footprint_library_owner/4ms_4ms-kicad-lib
   footprint_library_directory_flat: footprints_flat/4ms_4ms_package_to_to_220_3_pxo78xx_500/working
   github_path: http://github.com/4ms/4ms-kicad-lib/blob/master/footprints/4ms_Package_TO.pretty/TO-220-3_PXO78xx-500.kicad_mod
@@ -10,14 +13,24 @@
     github_src_repo: https://github.com/4ms/4ms-kicad-lib
     oomp_bot: footprints/4ms_4ms_package_to_to_220_3_pxo78xx_500/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/4ms_4ms_package_to_to_220_3_pxo78xx_500/working
-    oomp_doc: footprints/footprints/4ms/4ms_Package_TO/TO-220-3_PXO78xx-500/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/4ms/4ms_Package_TO/TO-220-3_PXO78xx-500/working
     oomp_src_flat: footprints_flat/footprints_flat/4ms_4ms_package_to_to_220_3_pxo78xx_500/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/4ms_4ms_package_to_to_220_3_pxo78xx_500/working
-    oomp_src_folder: footprints_folder/footprints_folder/4ms/4ms_Package_TO/TO-220-3_PXO78xx-500/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/4ms/4ms_Package_TO/TO-220-3_PXO78xx-500/working
   name: 4ms-kicad-lib
+  oomp:
+    footprint_name: to_220_3_pxo78xx_500
+    library_name: 4ms_package_to
+    md5: 96a9c6f53058af066adeba52f0ad4390
+    md5_10: 96a9c6f530
+    md5_5: 96a9c
+    md5_6: 96a9c6
+    oomp_key: oomp_4ms_4ms_package_to_to_220_3_pxo78xx_500
+    oomp_key_extra: oomp_footprint_4ms_4ms_package_to_to_220_3_pxo78xx_500
+    oomp_key_full: oomp_footprint_4ms_4ms_package_to_to_220_3_pxo78xx_500_96a9c6
+    oomp_key_simple: 4ms_4ms_package_to_to_220_3_pxo78xx_500
+    original_filename: 4ms-kicad-lib/footprints/4ms_Package_TO.pretty/TO-220-3_PXO78xx-500.kicad_mod
+    owner_name: 4ms
   oomp_key: oomp_4ms_4ms_package_to_to_220_3_pxo78xx_500
+  oomp_key_full: oomp_footprint_4ms_4ms_package_to_to_220_3_pxo78xx_500
   oomp_key_simple: 4ms_4ms_package_to_to_220_3_pxo78xx_500
   owner: 4ms
   repo:
@@ -123,9 +136,9 @@
       url: https://api.github.com/users/4ms
     private: false
     pulls_url: https://api.github.com/repos/4ms/4ms-kicad-lib/pulls{/number}
-    pushed_at: '2023-08-07T23:22:22Z'
+    pushed_at: '2023-08-11T23:48:49Z'
     releases_url: https://api.github.com/repos/4ms/4ms-kicad-lib/releases{/id}
-    size: 22693
+    size: 22703
     ssh_url: git@github.com:4ms/4ms-kicad-lib.git
     stargazers_count: 54
     stargazers_url: https://api.github.com/repos/4ms/4ms-kicad-lib/stargazers

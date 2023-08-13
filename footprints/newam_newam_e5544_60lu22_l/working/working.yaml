@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/newam_newam_e5544_60lu22_l/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/newam_newam_e5544_60lu22_l/working
-    oomp_doc: footprints/footprints/newAM/newam/E5544-60LU22-L/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/newAM/newam/E5544-60LU22-L/working
     oomp_src_flat: footprints_flat/footprints_flat/newam_newam_e5544_60lu22_l/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/newam_newam_e5544_60lu22_l/working
-    oomp_src_folder: footprints_folder/footprints_folder/newAM/newam/E5544-60LU22-L/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/newAM/newam/E5544-60LU22-L/working
   name: newam.pretty
+  oomp:
+    footprint_name: e5544_60lu22_l
+    library_name: newam
+    md5: 4765d687b4c2b7f5fdd4cf888783794e
+    md5_10: 4765d687b4
+    md5_5: 4765d
+    md5_6: 4765d6
+    oomp_key: oomp_newam_newam_e5544_60lu22_l
+    oomp_key_extra: oomp_footprint_newam_newam_e5544_60lu22_l
+    oomp_key_full: oomp_footprint_newam_newam_e5544_60lu22_l_4765d6
+    oomp_key_simple: newam_newam_e5544_60lu22_l
+    original_filename: newam.pretty/E5544-60LU22-L.kicad_mod
+    owner_name: newam
   oomp_key: oomp_newam_newam_e5544_60lu22_l
+  oomp_key_full: oomp_footprint_newam_newam_e5544_60lu22_l
   oomp_key_simple: newam_newam_e5544_60lu22_l
   owner: newAM
   repo:

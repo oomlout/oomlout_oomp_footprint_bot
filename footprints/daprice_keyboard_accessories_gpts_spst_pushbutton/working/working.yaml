@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/daprice_keyboard_accessories_gpts_spst_pushbutton/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/daprice_keyboard_accessories_gpts_spst_pushbutton/working
-    oomp_doc: footprints/footprints/daprice/keyboard_accessories/GPTS_SPST_Pushbutton/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/daprice/keyboard_accessories/GPTS_SPST_Pushbutton/working
     oomp_src_flat: footprints_flat/footprints_flat/daprice_keyboard_accessories_gpts_spst_pushbutton/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/daprice_keyboard_accessories_gpts_spst_pushbutton/working
-    oomp_src_folder: footprints_folder/footprints_folder/daprice/keyboard_accessories/GPTS_SPST_Pushbutton/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/daprice/keyboard_accessories/GPTS_SPST_Pushbutton/working
   name: keyboard_accessories.pretty
+  oomp:
+    footprint_name: gpts_spst_pushbutton
+    library_name: keyboard_accessories
+    md5: c734978703a1ca44782676ecf29c0898
+    md5_10: c734978703
+    md5_5: c7349
+    md5_6: c73497
+    oomp_key: oomp_daprice_keyboard_accessories_gpts_spst_pushbutton
+    oomp_key_extra: oomp_footprint_daprice_keyboard_accessories_gpts_spst_pushbutton
+    oomp_key_full: oomp_footprint_daprice_keyboard_accessories_gpts_spst_pushbutton_c73497
+    oomp_key_simple: daprice_keyboard_accessories_gpts_spst_pushbutton
+    original_filename: keyboard_accessories.pretty/GPTS_SPST_Pushbutton.kicad_mod
+    owner_name: daprice
   oomp_key: oomp_daprice_keyboard_accessories_gpts_spst_pushbutton
+  oomp_key_full: oomp_footprint_daprice_keyboard_accessories_gpts_spst_pushbutton
   oomp_key_simple: daprice_keyboard_accessories_gpts_spst_pushbutton
   owner: daprice
   repo:

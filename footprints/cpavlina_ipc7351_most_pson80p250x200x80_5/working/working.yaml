@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cpavlina_ipc7351_most_pson80p250x200x80_5/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cpavlina_ipc7351_most_pson80p250x200x80_5/working
-    oomp_doc: footprints/footprints/cpavlina/IPC7351-Most/PSON80P250X200X80-5/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cpavlina/IPC7351-Most/PSON80P250X200X80-5/working
     oomp_src_flat: footprints_flat/footprints_flat/cpavlina_ipc7351_most_pson80p250x200x80_5/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cpavlina_ipc7351_most_pson80p250x200x80_5/working
-    oomp_src_folder: footprints_folder/footprints_folder/cpavlina/IPC7351-Most/PSON80P250X200X80-5/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cpavlina/IPC7351-Most/PSON80P250X200X80-5/working
   name: kicad-pcblib
+  oomp:
+    footprint_name: pson80p250x200x80_5
+    library_name: ipc7351_most
+    md5: b6d124897c7dfd4b37d6fcd2d3bbe5cc
+    md5_10: b6d124897c
+    md5_5: b6d12
+    md5_6: b6d124
+    oomp_key: oomp_cpavlina_ipc7351_most_pson80p250x200x80_5
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_most_pson80p250x200x80_5
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_pson80p250x200x80_5_b6d124
+    oomp_key_simple: cpavlina_ipc7351_most_pson80p250x200x80_5
+    original_filename: kicad-pcblib/IPC7351-Most.pretty/PSON80P250X200X80-5.kicad_mod
+    owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_most_pson80p250x200x80_5
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_pson80p250x200x80_5
   oomp_key_simple: cpavlina_ipc7351_most_pson80p250x200x80_5
   owner: cpavlina
   repo:

@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/KozueNakano/KiCADKozueLib.pretty
     oomp_bot: footprints/kozuenakano_kicadkozuelib_solderjamper/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kozuenakano_kicadkozuelib_solderjamper/working
-    oomp_doc: footprints/footprints/KozueNakano/KiCADKozueLib/solderJAMPER/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/KozueNakano/KiCADKozueLib/solderJAMPER/working
     oomp_src_flat: footprints_flat/footprints_flat/kozuenakano_kicadkozuelib_solderjamper/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kozuenakano_kicadkozuelib_solderjamper/working
-    oomp_src_folder: footprints_folder/footprints_folder/KozueNakano/KiCADKozueLib/solderJAMPER/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/KozueNakano/KiCADKozueLib/solderJAMPER/working
   name: KiCADKozueLib.pretty
+  oomp:
+    footprint_name: solderjamper
+    library_name: kicadkozuelib
+    md5: c8192783f58c59c3fde6565ccfc55ec6
+    md5_10: c8192783f5
+    md5_5: c8192
+    md5_6: c81927
+    oomp_key: oomp_kozuenakano_kicadkozuelib_solderjamper
+    oomp_key_extra: oomp_footprint_kozuenakano_kicadkozuelib_solderjamper
+    oomp_key_full: oomp_footprint_kozuenakano_kicadkozuelib_solderjamper_c81927
+    oomp_key_simple: kozuenakano_kicadkozuelib_solderjamper
+    original_filename: KiCADKozueLib.pretty/solderJAMPER.kicad_mod
+    owner_name: kozuenakano
   oomp_key: oomp_kozuenakano_kicadkozuelib_solderjamper
+  oomp_key_full: oomp_footprint_kozuenakano_kicadkozuelib_solderjamper
   oomp_key_simple: kozuenakano_kicadkozuelib_solderjamper
   owner: KozueNakano
   repo:

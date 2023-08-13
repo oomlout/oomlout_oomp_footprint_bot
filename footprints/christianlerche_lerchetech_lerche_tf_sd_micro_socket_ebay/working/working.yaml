@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/christianlerche_lerchetech_lerche_tf_sd_micro_socket_ebay/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/christianlerche_lerchetech_lerche_tf_sd_micro_socket_ebay/working
-    oomp_doc: footprints/footprints/ChristianLerche/LercheTech/Lerche_TF-SD-Micro_Socket-Ebay/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ChristianLerche/LercheTech/Lerche_TF-SD-Micro_Socket-Ebay/working
     oomp_src_flat: footprints_flat/footprints_flat/christianlerche_lerchetech_lerche_tf_sd_micro_socket_ebay/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/christianlerche_lerchetech_lerche_tf_sd_micro_socket_ebay/working
-    oomp_src_folder: footprints_folder/footprints_folder/ChristianLerche/LercheTech/Lerche_TF-SD-Micro_Socket-Ebay/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ChristianLerche/LercheTech/Lerche_TF-SD-Micro_Socket-Ebay/working
   name: LercheTech_KiCAD
+  oomp:
+    footprint_name: lerche_tf_sd_micro_socket_ebay
+    library_name: lerchetech
+    md5: d6ffa0a93bd0de1affbc48d38c87cbf3
+    md5_10: d6ffa0a93b
+    md5_5: d6ffa
+    md5_6: d6ffa0
+    oomp_key: oomp_christianlerche_lerchetech_lerche_tf_sd_micro_socket_ebay
+    oomp_key_extra: oomp_footprint_christianlerche_lerchetech_lerche_tf_sd_micro_socket_ebay
+    oomp_key_full: oomp_footprint_christianlerche_lerchetech_lerche_tf_sd_micro_socket_ebay_d6ffa0
+    oomp_key_simple: christianlerche_lerchetech_lerche_tf_sd_micro_socket_ebay
+    original_filename: LercheTech_KiCAD/LercheTech.pretty/Lerche_TF-SD-Micro_Socket-Ebay.kicad_mod
+    owner_name: christianlerche
   oomp_key: oomp_christianlerche_lerchetech_lerche_tf_sd_micro_socket_ebay
+  oomp_key_full: oomp_footprint_christianlerche_lerchetech_lerche_tf_sd_micro_socket_ebay
   oomp_key_simple: christianlerche_lerchetech_lerche_tf_sd_micro_socket_ebay
   owner: ChristianLerche
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/sherifeid_robolib_s4b_ph_k_s/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/sherifeid_robolib_s4b_ph_k_s/working
-    oomp_doc: footprints/footprints/sherifeid/RoboLib/S4B-PH-K-S/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/sherifeid/RoboLib/S4B-PH-K-S/working
     oomp_src_flat: footprints_flat/footprints_flat/sherifeid_robolib_s4b_ph_k_s/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/sherifeid_robolib_s4b_ph_k_s/working
-    oomp_src_folder: footprints_folder/footprints_folder/sherifeid/RoboLib/S4B-PH-K-S/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/sherifeid/RoboLib/S4B-PH-K-S/working
   name: RoboLib.pretty
+  oomp:
+    footprint_name: s4b_ph_k_s
+    library_name: robolib
+    md5: 3a6cd57fb1820ce2f86fc7e7ae4de330
+    md5_10: 3a6cd57fb1
+    md5_5: 3a6cd
+    md5_6: 3a6cd5
+    oomp_key: oomp_sherifeid_robolib_s4b_ph_k_s
+    oomp_key_extra: oomp_footprint_sherifeid_robolib_s4b_ph_k_s
+    oomp_key_full: oomp_footprint_sherifeid_robolib_s4b_ph_k_s_3a6cd5
+    oomp_key_simple: sherifeid_robolib_s4b_ph_k_s
+    original_filename: RoboLib.pretty/S4B-PH-K-S.kicad_mod
+    owner_name: sherifeid
   oomp_key: oomp_sherifeid_robolib_s4b_ph_k_s
+  oomp_key_full: oomp_footprint_sherifeid_robolib_s4b_ph_k_s
   oomp_key_simple: sherifeid_robolib_s4b_ph_k_s
   owner: sherifeid
   repo:

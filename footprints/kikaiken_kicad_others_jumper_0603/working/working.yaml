@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/kikaiken/kicad_others.pretty
     oomp_bot: footprints/kikaiken_kicad_others_jumper_0603/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kikaiken_kicad_others_jumper_0603/working
-    oomp_doc: footprints/footprints/kikaiken/kicad_others/Jumper_0603/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kikaiken/kicad_others/Jumper_0603/working
     oomp_src_flat: footprints_flat/footprints_flat/kikaiken_kicad_others_jumper_0603/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kikaiken_kicad_others_jumper_0603/working
-    oomp_src_folder: footprints_folder/footprints_folder/kikaiken/kicad_others/Jumper_0603/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kikaiken/kicad_others/Jumper_0603/working
   name: kicad_others.pretty
+  oomp:
+    footprint_name: jumper_0603
+    library_name: kicad_others
+    md5: c220b5f04bce8cb3dd05067726e400c8
+    md5_10: c220b5f04b
+    md5_5: c220b
+    md5_6: c220b5
+    oomp_key: oomp_kikaiken_kicad_others_jumper_0603
+    oomp_key_extra: oomp_footprint_kikaiken_kicad_others_jumper_0603
+    oomp_key_full: oomp_footprint_kikaiken_kicad_others_jumper_0603_c220b5
+    oomp_key_simple: kikaiken_kicad_others_jumper_0603
+    original_filename: kicad_others.pretty/Jumper_0603.kicad_mod
+    owner_name: kikaiken
   oomp_key: oomp_kikaiken_kicad_others_jumper_0603
+  oomp_key_full: oomp_footprint_kikaiken_kicad_others_jumper_0603
   oomp_key_simple: kikaiken_kicad_others_jumper_0603
   owner: kikaiken
   repo:

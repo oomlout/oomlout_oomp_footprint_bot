@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/shozaburo_shimada_kicadfootprint_b2p_vh_fb_b/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/shozaburo_shimada_kicadfootprint_b2p_vh_fb_b/working
-    oomp_doc: footprints/footprints/shozaburo-shimada/KiCADfootprint/B2P-VH-FB-B/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/shozaburo-shimada/KiCADfootprint/B2P-VH-FB-B/working
     oomp_src_flat: footprints_flat/footprints_flat/shozaburo_shimada_kicadfootprint_b2p_vh_fb_b/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/shozaburo_shimada_kicadfootprint_b2p_vh_fb_b/working
-    oomp_src_folder: footprints_folder/footprints_folder/shozaburo-shimada/KiCADfootprint/B2P-VH-FB-B/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/shozaburo-shimada/KiCADfootprint/B2P-VH-FB-B/working
   name: KiCADfootprint.pretty
+  oomp:
+    footprint_name: b2p_vh_fb_b
+    library_name: kicadfootprint
+    md5: 7e438fc904140db99b247bd30a5c6b38
+    md5_10: 7e438fc904
+    md5_5: 7e438
+    md5_6: 7e438f
+    oomp_key: oomp_shozaburo_shimada_kicadfootprint_b2p_vh_fb_b
+    oomp_key_extra: oomp_footprint_shozaburo_shimada_kicadfootprint_b2p_vh_fb_b
+    oomp_key_full: oomp_footprint_shozaburo_shimada_kicadfootprint_b2p_vh_fb_b_7e438f
+    oomp_key_simple: shozaburo_shimada_kicadfootprint_b2p_vh_fb_b
+    original_filename: KiCADfootprint.pretty/B2P-VH-FB-B.kicad_mod
+    owner_name: shozaburo_shimada
   oomp_key: oomp_shozaburo_shimada_kicadfootprint_b2p_vh_fb_b
+  oomp_key_full: oomp_footprint_shozaburo_shimada_kicadfootprint_b2p_vh_fb_b
   oomp_key_simple: shozaburo_shimada_kicadfootprint_b2p_vh_fb_b
   owner: shozaburo-shimada
   repo:

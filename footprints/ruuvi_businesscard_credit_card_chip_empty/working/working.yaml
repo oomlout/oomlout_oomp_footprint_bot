@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/ruuvi_businesscard_credit_card_chip_empty/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ruuvi_businesscard_credit_card_chip_empty/working
-    oomp_doc: footprints/footprints/ruuvi/BusinessCard/CREDIT_CARD_CHIP_EMPTY/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ruuvi/BusinessCard/CREDIT_CARD_CHIP_EMPTY/working
     oomp_src_flat: footprints_flat/footprints_flat/ruuvi_businesscard_credit_card_chip_empty/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ruuvi_businesscard_credit_card_chip_empty/working
-    oomp_src_folder: footprints_folder/footprints_folder/ruuvi/BusinessCard/CREDIT_CARD_CHIP_EMPTY/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ruuvi/BusinessCard/CREDIT_CARD_CHIP_EMPTY/working
   name: kicad-library
+  oomp:
+    footprint_name: credit_card_chip_empty
+    library_name: businesscard
+    md5: e2f9efcc2f59604170ab5b2d35f2a7d7
+    md5_10: e2f9efcc2f
+    md5_5: e2f9e
+    md5_6: e2f9ef
+    oomp_key: oomp_ruuvi_businesscard_credit_card_chip_empty
+    oomp_key_extra: oomp_footprint_ruuvi_businesscard_credit_card_chip_empty
+    oomp_key_full: oomp_footprint_ruuvi_businesscard_credit_card_chip_empty_e2f9ef
+    oomp_key_simple: ruuvi_businesscard_credit_card_chip_empty
+    original_filename: kicad-library/BusinessCard.pretty/CREDIT_CARD_CHIP_EMPTY.kicad_mod
+    owner_name: ruuvi
   oomp_key: oomp_ruuvi_businesscard_credit_card_chip_empty
+  oomp_key_full: oomp_footprint_ruuvi_businesscard_credit_card_chip_empty
   oomp_key_simple: ruuvi_businesscard_credit_card_chip_empty
   owner: ruuvi
   repo:

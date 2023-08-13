@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/coddingtonbear_coddingtonbear_abracon_abm2_largepads/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/coddingtonbear_coddingtonbear_abracon_abm2_largepads/working
-    oomp_doc: footprints/footprints/coddingtonbear/coddingtonbear/Abracon-ABM2_LargePads/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/coddingtonbear/coddingtonbear/Abracon-ABM2_LargePads/working
     oomp_src_flat: footprints_flat/footprints_flat/coddingtonbear_coddingtonbear_abracon_abm2_largepads/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/coddingtonbear_coddingtonbear_abracon_abm2_largepads/working
-    oomp_src_folder: footprints_folder/footprints_folder/coddingtonbear/coddingtonbear/Abracon-ABM2_LargePads/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/coddingtonbear/coddingtonbear/Abracon-ABM2_LargePads/working
   name: coddingtonbear-kicad-lib
+  oomp:
+    footprint_name: abracon_abm2_largepads
+    library_name: coddingtonbear
+    md5: 6a6742d48002c95a507174a675aa27b5
+    md5_10: 6a6742d480
+    md5_5: 6a674
+    md5_6: 6a6742
+    oomp_key: oomp_coddingtonbear_coddingtonbear_abracon_abm2_largepads
+    oomp_key_extra: oomp_footprint_coddingtonbear_coddingtonbear_abracon_abm2_largepads
+    oomp_key_full: oomp_footprint_coddingtonbear_coddingtonbear_abracon_abm2_largepads_6a6742
+    oomp_key_simple: coddingtonbear_coddingtonbear_abracon_abm2_largepads
+    original_filename: coddingtonbear-kicad-lib/coddingtonbear.pretty/Abracon-ABM2_LargePads.kicad_mod
+    owner_name: coddingtonbear
   oomp_key: oomp_coddingtonbear_coddingtonbear_abracon_abm2_largepads
+  oomp_key_full: oomp_footprint_coddingtonbear_coddingtonbear_abracon_abm2_largepads
   oomp_key_simple: coddingtonbear_coddingtonbear_abracon_abm2_largepads
   owner: coddingtonbear
   repo:

@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/Iangitpers/4a
     oomp_bot: footprints/iangitpers_symbol_polarity_center_positive_20mm_silkscreen/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/iangitpers_symbol_polarity_center_positive_20mm_silkscreen/working
-    oomp_doc: footprints/footprints/Iangitpers/Symbol/Polarity_Center_Positive_20mm_SilkScreen/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Iangitpers/Symbol/Polarity_Center_Positive_20mm_SilkScreen/working
     oomp_src_flat: footprints_flat/footprints_flat/iangitpers_symbol_polarity_center_positive_20mm_silkscreen/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/iangitpers_symbol_polarity_center_positive_20mm_silkscreen/working
-    oomp_src_folder: footprints_folder/footprints_folder/Iangitpers/Symbol/Polarity_Center_Positive_20mm_SilkScreen/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Iangitpers/Symbol/Polarity_Center_Positive_20mm_SilkScreen/working
   name: 4a
+  oomp:
+    footprint_name: polarity_center_positive_20mm_silkscreen
+    library_name: symbol
+    md5: b663e9d0100ab475a52afdbee9e7dc8c
+    md5_10: b663e9d010
+    md5_5: b663e
+    md5_6: b663e9
+    oomp_key: oomp_iangitpers_symbol_polarity_center_positive_20mm_silkscreen
+    oomp_key_extra: oomp_footprint_iangitpers_symbol_polarity_center_positive_20mm_silkscreen
+    oomp_key_full: oomp_footprint_iangitpers_symbol_polarity_center_positive_20mm_silkscreen_b663e9
+    oomp_key_simple: iangitpers_symbol_polarity_center_positive_20mm_silkscreen
+    original_filename: 4a/Symbol.pretty/Polarity_Center_Positive_20mm_SilkScreen.kicad_mod
+    owner_name: iangitpers
   oomp_key: oomp_iangitpers_symbol_polarity_center_positive_20mm_silkscreen
+  oomp_key_full: oomp_footprint_iangitpers_symbol_polarity_center_positive_20mm_silkscreen
   oomp_key_simple: iangitpers_symbol_polarity_center_positive_20mm_silkscreen
   owner: Iangitpers
   repo:

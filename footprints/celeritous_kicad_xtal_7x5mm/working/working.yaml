@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/celeritous_kicad_xtal_7x5mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/celeritous_kicad_xtal_7x5mm/working
-    oomp_doc: footprints/footprints/celeritous/KiCad/XTAL_7X5MM/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/celeritous/KiCad/XTAL_7X5MM/working
     oomp_src_flat: footprints_flat/footprints_flat/celeritous_kicad_xtal_7x5mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/celeritous_kicad_xtal_7x5mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/celeritous/KiCad/XTAL_7X5MM/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/celeritous/KiCad/XTAL_7X5MM/working
   name: KiCad.pretty
+  oomp:
+    footprint_name: xtal_7x5mm
+    library_name: kicad
+    md5: de88203281b82d982ed38321712ed220
+    md5_10: de88203281
+    md5_5: de882
+    md5_6: de8820
+    oomp_key: oomp_celeritous_kicad_xtal_7x5mm
+    oomp_key_extra: oomp_footprint_celeritous_kicad_xtal_7x5mm
+    oomp_key_full: oomp_footprint_celeritous_kicad_xtal_7x5mm_de8820
+    oomp_key_simple: celeritous_kicad_xtal_7x5mm
+    original_filename: KiCad.pretty/XTAL_7X5MM.kicad_mod
+    owner_name: celeritous
   oomp_key: oomp_celeritous_kicad_xtal_7x5mm
+  oomp_key_full: oomp_footprint_celeritous_kicad_xtal_7x5mm
   oomp_key_simple: celeritous_kicad_xtal_7x5mm
   owner: celeritous
   repo:

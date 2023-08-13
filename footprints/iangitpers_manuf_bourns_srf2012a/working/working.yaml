@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/Iangitpers/4a
     oomp_bot: footprints/iangitpers_manuf_bourns_srf2012a/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/iangitpers_manuf_bourns_srf2012a/working
-    oomp_doc: footprints/footprints/Iangitpers/manuf/BOURNS-SRF2012A/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Iangitpers/manuf/BOURNS-SRF2012A/working
     oomp_src_flat: footprints_flat/footprints_flat/iangitpers_manuf_bourns_srf2012a/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/iangitpers_manuf_bourns_srf2012a/working
-    oomp_src_folder: footprints_folder/footprints_folder/Iangitpers/manuf/BOURNS-SRF2012A/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Iangitpers/manuf/BOURNS-SRF2012A/working
   name: 4a
+  oomp:
+    footprint_name: bourns_srf2012a
+    library_name: manuf
+    md5: e66d7156b662ef8a2e31ff3c523322d5
+    md5_10: e66d7156b6
+    md5_5: e66d7
+    md5_6: e66d71
+    oomp_key: oomp_iangitpers_manuf_bourns_srf2012a
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_bourns_srf2012a
+    oomp_key_full: oomp_footprint_iangitpers_manuf_bourns_srf2012a_e66d71
+    oomp_key_simple: iangitpers_manuf_bourns_srf2012a
+    original_filename: 4a/manuf.pretty/BOURNS-SRF2012A.kicad_mod
+    owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_bourns_srf2012a
+  oomp_key_full: oomp_footprint_iangitpers_manuf_bourns_srf2012a
   oomp_key_simple: iangitpers_manuf_bourns_srf2012a
   owner: Iangitpers
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/rocketscream_rocketscreamkicadlibrary_mf_psmf020x/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/rocketscream_rocketscreamkicadlibrary_mf_psmf020x/working
-    oomp_doc: footprints/footprints/rocketscream/RocketScreamKicadLibrary/MF-PSMF020X/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/rocketscream/RocketScreamKicadLibrary/MF-PSMF020X/working
     oomp_src_flat: footprints_flat/footprints_flat/rocketscream_rocketscreamkicadlibrary_mf_psmf020x/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/rocketscream_rocketscreamkicadlibrary_mf_psmf020x/working
-    oomp_src_folder: footprints_folder/footprints_folder/rocketscream/RocketScreamKicadLibrary/MF-PSMF020X/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/rocketscream/RocketScreamKicadLibrary/MF-PSMF020X/working
   name: RocketScreamKicadLibrary
+  oomp:
+    footprint_name: mf_psmf020x
+    library_name: rocketscreamkicadlibrary
+    md5: 50251c06de44d464de062a1b84981a07
+    md5_10: 50251c06de
+    md5_5: '50251'
+    md5_6: 50251c
+    oomp_key: oomp_rocketscream_rocketscreamkicadlibrary_mf_psmf020x
+    oomp_key_extra: oomp_footprint_rocketscream_rocketscreamkicadlibrary_mf_psmf020x
+    oomp_key_full: oomp_footprint_rocketscream_rocketscreamkicadlibrary_mf_psmf020x_50251c
+    oomp_key_simple: rocketscream_rocketscreamkicadlibrary_mf_psmf020x
+    original_filename: RocketScreamKicadLibrary/RocketScreamKicadLibrary.pretty/MF-PSMF020X.kicad_mod
+    owner_name: rocketscream
   oomp_key: oomp_rocketscream_rocketscreamkicadlibrary_mf_psmf020x
+  oomp_key_full: oomp_footprint_rocketscream_rocketscreamkicadlibrary_mf_psmf020x
   oomp_key_simple: rocketscream_rocketscreamkicadlibrary_mf_psmf020x
   owner: rocketscream
   repo:

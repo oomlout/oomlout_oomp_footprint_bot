@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/candykingdom_homebrew_teensy35_36_simple/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/candykingdom_homebrew_teensy35_36_simple/working
-    oomp_doc: footprints/footprints/candykingdom/homebrew/Teensy35_36_simple/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/candykingdom/homebrew/Teensy35_36_simple/working
     oomp_src_flat: footprints_flat/footprints_flat/candykingdom_homebrew_teensy35_36_simple/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/candykingdom_homebrew_teensy35_36_simple/working
-    oomp_src_folder: footprints_folder/footprints_folder/candykingdom/homebrew/Teensy35_36_simple/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/candykingdom/homebrew/Teensy35_36_simple/working
   name: homebrew.pretty
+  oomp:
+    footprint_name: teensy35_36_simple
+    library_name: homebrew
+    md5: de2740a16503fdedb5588f9fc03a7c7f
+    md5_10: de2740a165
+    md5_5: de274
+    md5_6: de2740
+    oomp_key: oomp_candykingdom_homebrew_teensy35_36_simple
+    oomp_key_extra: oomp_footprint_candykingdom_homebrew_teensy35_36_simple
+    oomp_key_full: oomp_footprint_candykingdom_homebrew_teensy35_36_simple_de2740
+    oomp_key_simple: candykingdom_homebrew_teensy35_36_simple
+    original_filename: homebrew.pretty/Teensy35_36_simple.kicad_mod
+    owner_name: candykingdom
   oomp_key: oomp_candykingdom_homebrew_teensy35_36_simple
+  oomp_key_full: oomp_footprint_candykingdom_homebrew_teensy35_36_simple
   oomp_key_simple: candykingdom_homebrew_teensy35_36_simple
   owner: candykingdom
   repo:

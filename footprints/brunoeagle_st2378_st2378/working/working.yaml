@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_st2378_st2378/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_st2378_st2378/working
-    oomp_doc: footprints/footprints/brunoeagle/ST2378.kicad_mod/ST2378/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/ST2378.kicad_mod/ST2378/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_st2378_st2378/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_st2378_st2378/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/ST2378.kicad_mod/ST2378/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/ST2378.kicad_mod/ST2378/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: st2378
+    library_name: st2378_kicad_mod
+    md5: 8c92d064794301868b5b6c9ce44a822e
+    md5_10: 8c92d06479
+    md5_5: 8c92d
+    md5_6: 8c92d0
+    oomp_key: oomp_brunoeagle_st2378_st2378
+    oomp_key_extra: oomp_footprint_brunoeagle_st2378_st2378
+    oomp_key_full: oomp_footprint_brunoeagle_st2378_st2378_8c92d0
+    oomp_key_simple: brunoeagle_st2378_st2378
+    original_filename: kicad-open-modules/ST2378.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_st2378_st2378
+  oomp_key_full: oomp_footprint_brunoeagle_st2378_st2378
   oomp_key_simple: brunoeagle_st2378_st2378
   owner: brunoeagle
   repo:

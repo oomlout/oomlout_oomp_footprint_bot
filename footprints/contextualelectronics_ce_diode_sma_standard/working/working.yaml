@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/contextualelectronics_ce_diode_sma_standard/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/contextualelectronics_ce_diode_sma_standard/working
-    oomp_doc: footprints/footprints/ContextualElectronics/CE_Diode/SMA_Standard/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ContextualElectronics/CE_Diode/SMA_Standard/working
     oomp_src_flat: footprints_flat/footprints_flat/contextualelectronics_ce_diode_sma_standard/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/contextualelectronics_ce_diode_sma_standard/working
-    oomp_src_folder: footprints_folder/footprints_folder/ContextualElectronics/CE_Diode/SMA_Standard/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ContextualElectronics/CE_Diode/SMA_Standard/working
   name: CE_KiCadLib
+  oomp:
+    footprint_name: sma_standard
+    library_name: ce_diode
+    md5: edfa9291880867a4ef249a0abea6a637
+    md5_10: edfa929188
+    md5_5: edfa9
+    md5_6: edfa92
+    oomp_key: oomp_contextualelectronics_ce_diode_sma_standard
+    oomp_key_extra: oomp_footprint_contextualelectronics_ce_diode_sma_standard
+    oomp_key_full: oomp_footprint_contextualelectronics_ce_diode_sma_standard_edfa92
+    oomp_key_simple: contextualelectronics_ce_diode_sma_standard
+    original_filename: CE_KiCadLib/Footprint/CE_Diode.pretty/SMA_Standard.kicad_mod
+    owner_name: contextualelectronics
   oomp_key: oomp_contextualelectronics_ce_diode_sma_standard
+  oomp_key_full: oomp_footprint_contextualelectronics_ce_diode_sma_standard
   oomp_key_simple: contextualelectronics_ce_diode_sma_standard
   owner: ContextualElectronics
   repo:

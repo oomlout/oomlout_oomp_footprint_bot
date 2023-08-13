@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cormoran_kicad_lmr14006_module/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cormoran_kicad_lmr14006_module/working
-    oomp_doc: footprints/footprints/cormoran/kicad/LMR14006_MODULE/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cormoran/kicad/LMR14006_MODULE/working
     oomp_src_flat: footprints_flat/footprints_flat/cormoran_kicad_lmr14006_module/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cormoran_kicad_lmr14006_module/working
-    oomp_src_folder: footprints_folder/footprints_folder/cormoran/kicad/LMR14006_MODULE/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cormoran/kicad/LMR14006_MODULE/working
   name: kicad.pretty
+  oomp:
+    footprint_name: lmr14006_module
+    library_name: kicad
+    md5: 9222c6c5c6287da5db414af764a69771
+    md5_10: 9222c6c5c6
+    md5_5: 9222c
+    md5_6: 9222c6
+    oomp_key: oomp_cormoran_kicad_lmr14006_module
+    oomp_key_extra: oomp_footprint_cormoran_kicad_lmr14006_module
+    oomp_key_full: oomp_footprint_cormoran_kicad_lmr14006_module_9222c6
+    oomp_key_simple: cormoran_kicad_lmr14006_module
+    original_filename: kicad.pretty/LMR14006_MODULE.kicad_mod
+    owner_name: cormoran
   oomp_key: oomp_cormoran_kicad_lmr14006_module
+  oomp_key_full: oomp_footprint_cormoran_kicad_lmr14006_module
   oomp_key_simple: cormoran_kicad_lmr14006_module
   owner: cormoran
   repo:

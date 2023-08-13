@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/aewallin/awallinKiCadFootprints.pretty
     oomp_bot: footprints/aewallin_awallinkicadfootprints_spdt_te_hf3/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/aewallin_awallinkicadfootprints_spdt_te_hf3/working
-    oomp_doc: footprints/footprints/aewallin/awallinKiCadFootprints/SPDT_TE_HF3/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/aewallin/awallinKiCadFootprints/SPDT_TE_HF3/working
     oomp_src_flat: footprints_flat/footprints_flat/aewallin_awallinkicadfootprints_spdt_te_hf3/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/aewallin_awallinkicadfootprints_spdt_te_hf3/working
-    oomp_src_folder: footprints_folder/footprints_folder/aewallin/awallinKiCadFootprints/SPDT_TE_HF3/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/aewallin/awallinKiCadFootprints/SPDT_TE_HF3/working
   name: awallinKiCadFootprints.pretty
+  oomp:
+    footprint_name: spdt_te_hf3
+    library_name: awallinkicadfootprints
+    md5: 977885de2997c3fd4fbddcb8eb0d5e41
+    md5_10: 977885de29
+    md5_5: '97788'
+    md5_6: '977885'
+    oomp_key: oomp_aewallin_awallinkicadfootprints_spdt_te_hf3
+    oomp_key_extra: oomp_footprint_aewallin_awallinkicadfootprints_spdt_te_hf3
+    oomp_key_full: oomp_footprint_aewallin_awallinkicadfootprints_spdt_te_hf3_977885
+    oomp_key_simple: aewallin_awallinkicadfootprints_spdt_te_hf3
+    original_filename: awallinKiCadFootprints.pretty/SPDT_TE_HF3.kicad_mod
+    owner_name: aewallin
   oomp_key: oomp_aewallin_awallinkicadfootprints_spdt_te_hf3
+  oomp_key_full: oomp_footprint_aewallin_awallinkicadfootprints_spdt_te_hf3
   oomp_key_simple: aewallin_awallinkicadfootprints_spdt_te_hf3
   owner: aewallin
   repo:

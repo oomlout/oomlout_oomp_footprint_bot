@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/fruchti_rcl_cp_8mm_3_5mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/fruchti_rcl_cp_8mm_3_5mm/working
-    oomp_doc: footprints/footprints/fruchti/rcl/CP_8mm_3.5mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/fruchti/rcl/CP_8mm_3.5mm/working
     oomp_src_flat: footprints_flat/footprints_flat/fruchti_rcl_cp_8mm_3_5mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/fruchti_rcl_cp_8mm_3_5mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/fruchti/rcl/CP_8mm_3.5mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/fruchti/rcl/CP_8mm_3.5mm/working
   name: fruchtilib
+  oomp:
+    footprint_name: cp_8mm_3_5mm
+    library_name: rcl
+    md5: dda643817195182d9265042745ad42b7
+    md5_10: dda6438171
+    md5_5: dda64
+    md5_6: dda643
+    oomp_key: oomp_fruchti_rcl_cp_8mm_3_5mm
+    oomp_key_extra: oomp_footprint_fruchti_rcl_cp_8mm_3_5mm
+    oomp_key_full: oomp_footprint_fruchti_rcl_cp_8mm_3_5mm_dda643
+    oomp_key_simple: fruchti_rcl_cp_8mm_3_5mm
+    original_filename: fruchtilib/mod/rcl.pretty/CP_8mm_3.5mm.kicad_mod
+    owner_name: fruchti
   oomp_key: oomp_fruchti_rcl_cp_8mm_3_5mm
+  oomp_key_full: oomp_footprint_fruchti_rcl_cp_8mm_3_5mm
   oomp_key_simple: fruchti_rcl_cp_8mm_3_5mm
   owner: fruchti
   repo:

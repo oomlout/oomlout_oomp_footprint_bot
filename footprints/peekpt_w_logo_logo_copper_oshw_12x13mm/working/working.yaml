@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/peekpt_w_logo_logo_copper_oshw_12x13mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/peekpt_w_logo_logo_copper_oshw_12x13mm/working
-    oomp_doc: footprints/footprints/peekpt/w_logo/Logo_copper_OSHW_12x13mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/peekpt/w_logo/Logo_copper_OSHW_12x13mm/working
     oomp_src_flat: footprints_flat/footprints_flat/peekpt_w_logo_logo_copper_oshw_12x13mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/peekpt_w_logo_logo_copper_oshw_12x13mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/peekpt/w_logo/Logo_copper_OSHW_12x13mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/peekpt/w_logo/Logo_copper_OSHW_12x13mm/working
   name: kicad_smisioto
+  oomp:
+    footprint_name: logo_copper_oshw_12x13mm
+    library_name: w_logo
+    md5: 0941fb167d55e5d50c0b9aab4bbbccdf
+    md5_10: 0941fb167d
+    md5_5: 0941f
+    md5_6: 0941fb
+    oomp_key: oomp_peekpt_w_logo_logo_copper_oshw_12x13mm
+    oomp_key_extra: oomp_footprint_peekpt_w_logo_logo_copper_oshw_12x13mm
+    oomp_key_full: oomp_footprint_peekpt_w_logo_logo_copper_oshw_12x13mm_0941fb
+    oomp_key_simple: peekpt_w_logo_logo_copper_oshw_12x13mm
+    original_filename: kicad_smisioto/modules/walter/w_logo.pretty/Logo_copper_OSHW_12x13mm.kicad_mod
+    owner_name: peekpt
   oomp_key: oomp_peekpt_w_logo_logo_copper_oshw_12x13mm
+  oomp_key_full: oomp_footprint_peekpt_w_logo_logo_copper_oshw_12x13mm
   oomp_key_simple: peekpt_w_logo_logo_copper_oshw_12x13mm
   owner: peekpt
   repo:

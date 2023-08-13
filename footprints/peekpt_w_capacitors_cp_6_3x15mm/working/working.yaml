@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/peekpt_w_capacitors_cp_6_3x15mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/peekpt_w_capacitors_cp_6_3x15mm/working
-    oomp_doc: footprints/footprints/peekpt/w_capacitors/CP_6.3x15mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/peekpt/w_capacitors/CP_6.3x15mm/working
     oomp_src_flat: footprints_flat/footprints_flat/peekpt_w_capacitors_cp_6_3x15mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/peekpt_w_capacitors_cp_6_3x15mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/peekpt/w_capacitors/CP_6.3x15mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/peekpt/w_capacitors/CP_6.3x15mm/working
   name: kicad_smisioto
+  oomp:
+    footprint_name: cp_6_3x15mm
+    library_name: w_capacitors
+    md5: eeb446c446245df04a587028cb8bbf66
+    md5_10: eeb446c446
+    md5_5: eeb44
+    md5_6: eeb446
+    oomp_key: oomp_peekpt_w_capacitors_cp_6_3x15mm
+    oomp_key_extra: oomp_footprint_peekpt_w_capacitors_cp_6_3x15mm
+    oomp_key_full: oomp_footprint_peekpt_w_capacitors_cp_6_3x15mm_eeb446
+    oomp_key_simple: peekpt_w_capacitors_cp_6_3x15mm
+    original_filename: kicad_smisioto/modules/walter/w_capacitors.pretty/CP_6.3x15mm.kicad_mod
+    owner_name: peekpt
   oomp_key: oomp_peekpt_w_capacitors_cp_6_3x15mm
+  oomp_key_full: oomp_footprint_peekpt_w_capacitors_cp_6_3x15mm
   oomp_key_simple: peekpt_w_capacitors_cp_6_3x15mm
   owner: peekpt
   repo:

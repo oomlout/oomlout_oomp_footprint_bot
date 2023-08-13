@@ -13,14 +13,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/joanthespark_1wire_v0_4_r_0805_2012metric/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/joanthespark_1wire_v0_4_r_0805_2012metric/working
-    oomp_doc: footprints/footprints/JoanTheSpark/1wire-v0.4/R_0805_2012Metric/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/JoanTheSpark/1wire-v0.4/R_0805_2012Metric/working
     oomp_src_flat: footprints_flat/footprints_flat/joanthespark_1wire_v0_4_r_0805_2012metric/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/joanthespark_1wire_v0_4_r_0805_2012metric/working
-    oomp_src_folder: footprints_folder/footprints_folder/JoanTheSpark/1wire-v0.4/R_0805_2012Metric/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/JoanTheSpark/1wire-v0.4/R_0805_2012Metric/working
   name: KiCAD
+  oomp:
+    footprint_name: r_0805_2012metric
+    library_name: 1wire_v0_4
+    md5: 7300e1f37b3f960515e692322598c651
+    md5_10: 7300e1f37b
+    md5_5: 7300e
+    md5_6: 7300e1
+    oomp_key: oomp_joanthespark_1wire_v0_4_r_0805_2012metric
+    oomp_key_extra: oomp_footprint_joanthespark_1wire_v0_4_r_0805_2012metric
+    oomp_key_full: oomp_footprint_joanthespark_1wire_v0_4_r_0805_2012metric_7300e1
+    oomp_key_simple: joanthespark_1wire_v0_4_r_0805_2012metric
+    original_filename: KiCAD/6.0/projects/1w-grove-v0.1/1wire-v0.4.pretty/R_0805_2012Metric.kicad_mod
+    owner_name: joanthespark
   oomp_key: oomp_joanthespark_1wire_v0_4_r_0805_2012metric
+  oomp_key_full: oomp_footprint_joanthespark_1wire_v0_4_r_0805_2012metric
   oomp_key_simple: joanthespark_1wire_v0_4_r_0805_2012metric
   owner: JoanTheSpark
   repo:

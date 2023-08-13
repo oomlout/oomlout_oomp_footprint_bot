@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/olimex_freetronics_footprints_ssop28_5_3mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/olimex_freetronics_footprints_ssop28_5_3mm/working
-    oomp_doc: footprints/footprints/OLIMEX/freetronics_footprints/SSOP28_5.3mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/OLIMEX/freetronics_footprints/SSOP28_5.3mm/working
     oomp_src_flat: footprints_flat/footprints_flat/olimex_freetronics_footprints_ssop28_5_3mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/olimex_freetronics_footprints_ssop28_5_3mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/OLIMEX/freetronics_footprints/SSOP28_5.3mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/OLIMEX/freetronics_footprints/SSOP28_5.3mm/working
   name: KiCAD
+  oomp:
+    footprint_name: ssop28_5_3mm
+    library_name: freetronics_footprints
+    md5: ba310b75eae576c589044efea099918f
+    md5_10: ba310b75ea
+    md5_5: ba310
+    md5_6: ba310b
+    oomp_key: oomp_olimex_freetronics_footprints_ssop28_5_3mm
+    oomp_key_extra: oomp_footprint_olimex_freetronics_footprints_ssop28_5_3mm
+    oomp_key_full: oomp_footprint_olimex_freetronics_footprints_ssop28_5_3mm_ba310b
+    oomp_key_simple: olimex_freetronics_footprints_ssop28_5_3mm
+    original_filename: KiCAD/mods/freetronics_footprints.pretty/SSOP28_5.3mm.kicad_mod
+    owner_name: olimex
   oomp_key: oomp_olimex_freetronics_footprints_ssop28_5_3mm
+  oomp_key_full: oomp_footprint_olimex_freetronics_footprints_ssop28_5_3mm
   oomp_key_simple: olimex_freetronics_footprints_ssop28_5_3mm
   owner: OLIMEX
   repo:

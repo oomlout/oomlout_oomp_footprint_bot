@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/arturo182/kicad-modules
     oomp_bot: footprints/arturo182_led_smd_extra_led_rgba_0606_upsidedown/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/arturo182_led_smd_extra_led_rgba_0606_upsidedown/working
-    oomp_doc: footprints/footprints/arturo182/LED_SMD_Extra/LED_RGBA_0606_UpsideDown/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/arturo182/LED_SMD_Extra/LED_RGBA_0606_UpsideDown/working
     oomp_src_flat: footprints_flat/footprints_flat/arturo182_led_smd_extra_led_rgba_0606_upsidedown/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/arturo182_led_smd_extra_led_rgba_0606_upsidedown/working
-    oomp_src_folder: footprints_folder/footprints_folder/arturo182/LED_SMD_Extra/LED_RGBA_0606_UpsideDown/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/arturo182/LED_SMD_Extra/LED_RGBA_0606_UpsideDown/working
   name: kicad-modules
+  oomp:
+    footprint_name: led_rgba_0606_upsidedown
+    library_name: led_smd_extra
+    md5: 0f44c90b83b05feea79ebde7eed191dd
+    md5_10: 0f44c90b83
+    md5_5: 0f44c
+    md5_6: 0f44c9
+    oomp_key: oomp_arturo182_led_smd_extra_led_rgba_0606_upsidedown
+    oomp_key_extra: oomp_footprint_arturo182_led_smd_extra_led_rgba_0606_upsidedown
+    oomp_key_full: oomp_footprint_arturo182_led_smd_extra_led_rgba_0606_upsidedown_0f44c9
+    oomp_key_simple: arturo182_led_smd_extra_led_rgba_0606_upsidedown
+    original_filename: kicad-modules/LED_SMD_Extra.pretty/LED_RGBA_0606_UpsideDown.kicad_mod
+    owner_name: arturo182
   oomp_key: oomp_arturo182_led_smd_extra_led_rgba_0606_upsidedown
+  oomp_key_full: oomp_footprint_arturo182_led_smd_extra_led_rgba_0606_upsidedown
   oomp_key_simple: arturo182_led_smd_extra_led_rgba_0606_upsidedown
   owner: arturo182
   repo:

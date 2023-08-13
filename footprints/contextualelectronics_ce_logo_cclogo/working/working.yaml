@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/contextualelectronics_ce_logo_cclogo/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/contextualelectronics_ce_logo_cclogo/working
-    oomp_doc: footprints/footprints/ContextualElectronics/CE_Logo/CClogo/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ContextualElectronics/CE_Logo/CClogo/working
     oomp_src_flat: footprints_flat/footprints_flat/contextualelectronics_ce_logo_cclogo/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/contextualelectronics_ce_logo_cclogo/working
-    oomp_src_folder: footprints_folder/footprints_folder/ContextualElectronics/CE_Logo/CClogo/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ContextualElectronics/CE_Logo/CClogo/working
   name: CE_KiCadLib
+  oomp:
+    footprint_name: cclogo
+    library_name: ce_logo
+    md5: d79c754a0c91c1932e923b623c93293c
+    md5_10: d79c754a0c
+    md5_5: d79c7
+    md5_6: d79c75
+    oomp_key: oomp_contextualelectronics_ce_logo_cclogo
+    oomp_key_extra: oomp_footprint_contextualelectronics_ce_logo_cclogo
+    oomp_key_full: oomp_footprint_contextualelectronics_ce_logo_cclogo_d79c75
+    oomp_key_simple: contextualelectronics_ce_logo_cclogo
+    original_filename: CE_KiCadLib/Footprint/CE_Logo.pretty/CClogo.kicad_mod
+    owner_name: contextualelectronics
   oomp_key: oomp_contextualelectronics_ce_logo_cclogo
+  oomp_key_full: oomp_footprint_contextualelectronics_ce_logo_cclogo
   oomp_key_simple: contextualelectronics_ce_logo_cclogo
   owner: ContextualElectronics
   repo:

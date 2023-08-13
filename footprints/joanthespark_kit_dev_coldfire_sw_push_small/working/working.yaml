@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/joanthespark_kit_dev_coldfire_sw_push_small/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/joanthespark_kit_dev_coldfire_sw_push_small/working
-    oomp_doc: footprints/footprints/JoanTheSpark/kit-dev-coldfire/SW_PUSH_SMALL/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/JoanTheSpark/kit-dev-coldfire/SW_PUSH_SMALL/working
     oomp_src_flat: footprints_flat/footprints_flat/joanthespark_kit_dev_coldfire_sw_push_small/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/joanthespark_kit_dev_coldfire_sw_push_small/working
-    oomp_src_folder: footprints_folder/footprints_folder/JoanTheSpark/kit-dev-coldfire/SW_PUSH_SMALL/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/JoanTheSpark/kit-dev-coldfire/SW_PUSH_SMALL/working
   name: KiCAD
+  oomp:
+    footprint_name: sw_push_small
+    library_name: kit_dev_coldfire
+    md5: fcf8faed997967456b369bca5190c984
+    md5_10: fcf8faed99
+    md5_5: fcf8f
+    md5_6: fcf8fa
+    oomp_key: oomp_joanthespark_kit_dev_coldfire_sw_push_small
+    oomp_key_extra: oomp_footprint_joanthespark_kit_dev_coldfire_sw_push_small
+    oomp_key_full: oomp_footprint_joanthespark_kit_dev_coldfire_sw_push_small_fcf8fa
+    oomp_key_simple: joanthespark_kit_dev_coldfire_sw_push_small
+    original_filename: KiCAD/demos/kit-dev-coldfire-xilinx_5213/kit-dev-coldfire.pretty/SW_PUSH_SMALL.kicad_mod
+    owner_name: joanthespark
   oomp_key: oomp_joanthespark_kit_dev_coldfire_sw_push_small
+  oomp_key_full: oomp_footprint_joanthespark_kit_dev_coldfire_sw_push_small
   oomp_key_simple: joanthespark_kit_dev_coldfire_sw_push_small
   owner: JoanTheSpark
   repo:

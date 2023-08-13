@@ -13,14 +13,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/candykingdom_homebrew_sop_8_3_9x4_9mm_p1_27mm_thermal/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/candykingdom_homebrew_sop_8_3_9x4_9mm_p1_27mm_thermal/working
-    oomp_doc: footprints/footprints/candykingdom/homebrew/SOP-8_3.9x4.9mm_P1.27mm_Thermal/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/candykingdom/homebrew/SOP-8_3.9x4.9mm_P1.27mm_Thermal/working
     oomp_src_flat: footprints_flat/footprints_flat/candykingdom_homebrew_sop_8_3_9x4_9mm_p1_27mm_thermal/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/candykingdom_homebrew_sop_8_3_9x4_9mm_p1_27mm_thermal/working
-    oomp_src_folder: footprints_folder/footprints_folder/candykingdom/homebrew/SOP-8_3.9x4.9mm_P1.27mm_Thermal/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/candykingdom/homebrew/SOP-8_3.9x4.9mm_P1.27mm_Thermal/working
   name: homebrew.pretty
+  oomp:
+    footprint_name: sop_8_3_9x4_9mm_p1_27mm_thermal
+    library_name: homebrew
+    md5: d2bd2253af4233bc5b5ef815f3c04ad9
+    md5_10: d2bd2253af
+    md5_5: d2bd2
+    md5_6: d2bd22
+    oomp_key: oomp_candykingdom_homebrew_sop_8_3_9x4_9mm_p1_27mm_thermal
+    oomp_key_extra: oomp_footprint_candykingdom_homebrew_sop_8_3_9x4_9mm_p1_27mm_thermal
+    oomp_key_full: oomp_footprint_candykingdom_homebrew_sop_8_3_9x4_9mm_p1_27mm_thermal_d2bd22
+    oomp_key_simple: candykingdom_homebrew_sop_8_3_9x4_9mm_p1_27mm_thermal
+    original_filename: homebrew.pretty/SOP-8_3.9x4.9mm_P1.27mm_Thermal.kicad_mod
+    owner_name: candykingdom
   oomp_key: oomp_candykingdom_homebrew_sop_8_3_9x4_9mm_p1_27mm_thermal
+  oomp_key_full: oomp_footprint_candykingdom_homebrew_sop_8_3_9x4_9mm_p1_27mm_thermal
   oomp_key_simple: candykingdom_homebrew_sop_8_3_9x4_9mm_p1_27mm_thermal
   owner: candykingdom
   repo:

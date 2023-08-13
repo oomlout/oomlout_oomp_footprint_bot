@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/fruchti_conn_hdmi_w_smd_wuerth_685119134923/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/fruchti_conn_hdmi_w_smd_wuerth_685119134923/working
-    oomp_doc: footprints/footprints/fruchti/conn/HDMI_W_SMD_WUERTH_685119134923/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/fruchti/conn/HDMI_W_SMD_WUERTH_685119134923/working
     oomp_src_flat: footprints_flat/footprints_flat/fruchti_conn_hdmi_w_smd_wuerth_685119134923/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/fruchti_conn_hdmi_w_smd_wuerth_685119134923/working
-    oomp_src_folder: footprints_folder/footprints_folder/fruchti/conn/HDMI_W_SMD_WUERTH_685119134923/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/fruchti/conn/HDMI_W_SMD_WUERTH_685119134923/working
   name: fruchtilib
+  oomp:
+    footprint_name: hdmi_w_smd_wuerth_685119134923
+    library_name: conn
+    md5: ac5f0f8d5315db22f00e222494a39204
+    md5_10: ac5f0f8d53
+    md5_5: ac5f0
+    md5_6: ac5f0f
+    oomp_key: oomp_fruchti_conn_hdmi_w_smd_wuerth_685119134923
+    oomp_key_extra: oomp_footprint_fruchti_conn_hdmi_w_smd_wuerth_685119134923
+    oomp_key_full: oomp_footprint_fruchti_conn_hdmi_w_smd_wuerth_685119134923_ac5f0f
+    oomp_key_simple: fruchti_conn_hdmi_w_smd_wuerth_685119134923
+    original_filename: fruchtilib/mod/conn.pretty/HDMI_W_SMD_WUERTH_685119134923.kicad_mod
+    owner_name: fruchti
   oomp_key: oomp_fruchti_conn_hdmi_w_smd_wuerth_685119134923
+  oomp_key_full: oomp_footprint_fruchti_conn_hdmi_w_smd_wuerth_685119134923
   oomp_key_simple: fruchti_conn_hdmi_w_smd_wuerth_685119134923
   owner: fruchti
   repo:

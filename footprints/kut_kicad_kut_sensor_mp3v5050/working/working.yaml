@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/KUT-KiCad/KUT_Sensor.pretty
     oomp_bot: footprints/kut_kicad_kut_sensor_mp3v5050/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kut_kicad_kut_sensor_mp3v5050/working
-    oomp_doc: footprints/footprints/KUT-KiCad/KUT_Sensor/MP3V5050/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/KUT-KiCad/KUT_Sensor/MP3V5050/working
     oomp_src_flat: footprints_flat/footprints_flat/kut_kicad_kut_sensor_mp3v5050/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kut_kicad_kut_sensor_mp3v5050/working
-    oomp_src_folder: footprints_folder/footprints_folder/KUT-KiCad/KUT_Sensor/MP3V5050/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/KUT-KiCad/KUT_Sensor/MP3V5050/working
   name: KUT_Sensor.pretty
+  oomp:
+    footprint_name: mp3v5050
+    library_name: kut_sensor
+    md5: 571e0b5f369d2c2c844184a365eeb169
+    md5_10: 571e0b5f36
+    md5_5: 571e0
+    md5_6: 571e0b
+    oomp_key: oomp_kut_kicad_kut_sensor_mp3v5050
+    oomp_key_extra: oomp_footprint_kut_kicad_kut_sensor_mp3v5050
+    oomp_key_full: oomp_footprint_kut_kicad_kut_sensor_mp3v5050_571e0b
+    oomp_key_simple: kut_kicad_kut_sensor_mp3v5050
+    original_filename: KUT_Sensor.pretty/MP3V5050.kicad_mod
+    owner_name: kut_kicad
   oomp_key: oomp_kut_kicad_kut_sensor_mp3v5050
+  oomp_key_full: oomp_footprint_kut_kicad_kut_sensor_mp3v5050
   oomp_key_simple: kut_kicad_kut_sensor_mp3v5050
   owner: KUT-KiCad
   repo:

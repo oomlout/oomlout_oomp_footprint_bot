@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cpavlina_manuf_wurth_we_pd_8mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cpavlina_manuf_wurth_we_pd_8mm/working
-    oomp_doc: footprints/footprints/cpavlina/manuf/WURTH-WE-PD-8MM/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cpavlina/manuf/WURTH-WE-PD-8MM/working
     oomp_src_flat: footprints_flat/footprints_flat/cpavlina_manuf_wurth_we_pd_8mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cpavlina_manuf_wurth_we_pd_8mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/cpavlina/manuf/WURTH-WE-PD-8MM/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cpavlina/manuf/WURTH-WE-PD-8MM/working
   name: kicad-pcblib
+  oomp:
+    footprint_name: wurth_we_pd_8mm
+    library_name: manuf
+    md5: 4d5336bf2d77ab0ffddb6f4fec7b7e54
+    md5_10: 4d5336bf2d
+    md5_5: 4d533
+    md5_6: 4d5336
+    oomp_key: oomp_cpavlina_manuf_wurth_we_pd_8mm
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_wurth_we_pd_8mm
+    oomp_key_full: oomp_footprint_cpavlina_manuf_wurth_we_pd_8mm_4d5336
+    oomp_key_simple: cpavlina_manuf_wurth_we_pd_8mm
+    original_filename: kicad-pcblib/manuf.pretty/WURTH-WE-PD-8MM.kicad_mod
+    owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_wurth_we_pd_8mm
+  oomp_key_full: oomp_footprint_cpavlina_manuf_wurth_we_pd_8mm
   oomp_key_simple: cpavlina_manuf_wurth_we_pd_8mm
   owner: cpavlina
   repo:

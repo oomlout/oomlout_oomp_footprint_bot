@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/peekpt_w_pth_resistors_trimmer_alps_rk12l12c0_f15_c0/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/peekpt_w_pth_resistors_trimmer_alps_rk12l12c0_f15_c0/working
-    oomp_doc: footprints/footprints/peekpt/w_pth_resistors/trimmer_alps_rk12l12c0-f15-c0/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/peekpt/w_pth_resistors/trimmer_alps_rk12l12c0-f15-c0/working
     oomp_src_flat: footprints_flat/footprints_flat/peekpt_w_pth_resistors_trimmer_alps_rk12l12c0_f15_c0/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/peekpt_w_pth_resistors_trimmer_alps_rk12l12c0_f15_c0/working
-    oomp_src_folder: footprints_folder/footprints_folder/peekpt/w_pth_resistors/trimmer_alps_rk12l12c0-f15-c0/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/peekpt/w_pth_resistors/trimmer_alps_rk12l12c0-f15-c0/working
   name: kicad_smisioto
+  oomp:
+    footprint_name: trimmer_alps_rk12l12c0_f15_c0
+    library_name: w_pth_resistors
+    md5: 1ca71d276bcbd9e9ac7690003ff43c7b
+    md5_10: 1ca71d276b
+    md5_5: 1ca71
+    md5_6: 1ca71d
+    oomp_key: oomp_peekpt_w_pth_resistors_trimmer_alps_rk12l12c0_f15_c0
+    oomp_key_extra: oomp_footprint_peekpt_w_pth_resistors_trimmer_alps_rk12l12c0_f15_c0
+    oomp_key_full: oomp_footprint_peekpt_w_pth_resistors_trimmer_alps_rk12l12c0_f15_c0_1ca71d
+    oomp_key_simple: peekpt_w_pth_resistors_trimmer_alps_rk12l12c0_f15_c0
+    original_filename: kicad_smisioto/modules/walter/w_pth_resistors.pretty/trimmer_alps_rk12l12c0-f15-c0.kicad_mod
+    owner_name: peekpt
   oomp_key: oomp_peekpt_w_pth_resistors_trimmer_alps_rk12l12c0_f15_c0
+  oomp_key_full: oomp_footprint_peekpt_w_pth_resistors_trimmer_alps_rk12l12c0_f15_c0
   oomp_key_simple: peekpt_w_pth_resistors_trimmer_alps_rk12l12c0_f15_c0
   owner: peekpt
   repo:

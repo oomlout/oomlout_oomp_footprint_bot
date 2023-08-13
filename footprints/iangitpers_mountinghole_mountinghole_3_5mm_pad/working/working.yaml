@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/Iangitpers/4a
     oomp_bot: footprints/iangitpers_mountinghole_mountinghole_3_5mm_pad/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/iangitpers_mountinghole_mountinghole_3_5mm_pad/working
-    oomp_doc: footprints/footprints/Iangitpers/MountingHole/MountingHole_3.5mm_Pad/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Iangitpers/MountingHole/MountingHole_3.5mm_Pad/working
     oomp_src_flat: footprints_flat/footprints_flat/iangitpers_mountinghole_mountinghole_3_5mm_pad/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/iangitpers_mountinghole_mountinghole_3_5mm_pad/working
-    oomp_src_folder: footprints_folder/footprints_folder/Iangitpers/MountingHole/MountingHole_3.5mm_Pad/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Iangitpers/MountingHole/MountingHole_3.5mm_Pad/working
   name: 4a
+  oomp:
+    footprint_name: mountinghole_3_5mm_pad
+    library_name: mountinghole
+    md5: 69792325feb64cf97a606f296d0b1c2a
+    md5_10: 69792325fe
+    md5_5: '69792'
+    md5_6: '697923'
+    oomp_key: oomp_iangitpers_mountinghole_mountinghole_3_5mm_pad
+    oomp_key_extra: oomp_footprint_iangitpers_mountinghole_mountinghole_3_5mm_pad
+    oomp_key_full: oomp_footprint_iangitpers_mountinghole_mountinghole_3_5mm_pad_697923
+    oomp_key_simple: iangitpers_mountinghole_mountinghole_3_5mm_pad
+    original_filename: 4a/MountingHole.pretty/MountingHole_3.5mm_Pad.kicad_mod
+    owner_name: iangitpers
   oomp_key: oomp_iangitpers_mountinghole_mountinghole_3_5mm_pad
+  oomp_key_full: oomp_footprint_iangitpers_mountinghole_mountinghole_3_5mm_pad
   oomp_key_simple: iangitpers_mountinghole_mountinghole_3_5mm_pad
   owner: Iangitpers
   repo:

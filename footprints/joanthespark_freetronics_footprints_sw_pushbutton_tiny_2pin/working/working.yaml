@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/joanthespark_freetronics_footprints_sw_pushbutton_tiny_2pin/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/joanthespark_freetronics_footprints_sw_pushbutton_tiny_2pin/working
-    oomp_doc: footprints/footprints/JoanTheSpark/freetronics_footprints/SW_PUSHBUTTON_TINY_2PIN/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/JoanTheSpark/freetronics_footprints/SW_PUSHBUTTON_TINY_2PIN/working
     oomp_src_flat: footprints_flat/footprints_flat/joanthespark_freetronics_footprints_sw_pushbutton_tiny_2pin/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/joanthespark_freetronics_footprints_sw_pushbutton_tiny_2pin/working
-    oomp_src_folder: footprints_folder/footprints_folder/JoanTheSpark/freetronics_footprints/SW_PUSHBUTTON_TINY_2PIN/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/JoanTheSpark/freetronics_footprints/SW_PUSHBUTTON_TINY_2PIN/working
   name: KiCAD
+  oomp:
+    footprint_name: sw_pushbutton_tiny_2pin
+    library_name: freetronics_footprints
+    md5: 306edc2dd2d2bd33c8eb5c890507d921
+    md5_10: 306edc2dd2
+    md5_5: 306ed
+    md5_6: 306edc
+    oomp_key: oomp_joanthespark_freetronics_footprints_sw_pushbutton_tiny_2pin
+    oomp_key_extra: oomp_footprint_joanthespark_freetronics_footprints_sw_pushbutton_tiny_2pin
+    oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_sw_pushbutton_tiny_2pin_306edc
+    oomp_key_simple: joanthespark_freetronics_footprints_sw_pushbutton_tiny_2pin
+    original_filename: KiCAD/mods/freetronics_footprints.pretty/SW_PUSHBUTTON_TINY_2PIN.kicad_mod
+    owner_name: joanthespark
   oomp_key: oomp_joanthespark_freetronics_footprints_sw_pushbutton_tiny_2pin
+  oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_sw_pushbutton_tiny_2pin
   oomp_key_simple: joanthespark_freetronics_footprints_sw_pushbutton_tiny_2pin
   owner: JoanTheSpark
   repo:

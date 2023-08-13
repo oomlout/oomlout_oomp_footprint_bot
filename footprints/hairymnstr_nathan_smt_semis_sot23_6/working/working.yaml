@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/hairymnstr_nathan_smt_semis_sot23_6/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/hairymnstr_nathan_smt_semis_sot23_6/working
-    oomp_doc: footprints/footprints/hairymnstr/Nathan_SMT_Semis/SOT23-6/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/hairymnstr/Nathan_SMT_Semis/SOT23-6/working
     oomp_src_flat: footprints_flat/footprints_flat/hairymnstr_nathan_smt_semis_sot23_6/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/hairymnstr_nathan_smt_semis_sot23_6/working
-    oomp_src_folder: footprints_folder/footprints_folder/hairymnstr/Nathan_SMT_Semis/SOT23-6/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/hairymnstr/Nathan_SMT_Semis/SOT23-6/working
   name: Nathan_SMT_Semis.pretty
+  oomp:
+    footprint_name: sot23_6
+    library_name: nathan_smt_semis
+    md5: fd53763d165e346eb7262b2a115f1d4b
+    md5_10: fd53763d16
+    md5_5: fd537
+    md5_6: fd5376
+    oomp_key: oomp_hairymnstr_nathan_smt_semis_sot23_6
+    oomp_key_extra: oomp_footprint_hairymnstr_nathan_smt_semis_sot23_6
+    oomp_key_full: oomp_footprint_hairymnstr_nathan_smt_semis_sot23_6_fd5376
+    oomp_key_simple: hairymnstr_nathan_smt_semis_sot23_6
+    original_filename: Nathan_SMT_Semis.pretty/SOT23-6.kicad_mod
+    owner_name: hairymnstr
   oomp_key: oomp_hairymnstr_nathan_smt_semis_sot23_6
+  oomp_key_full: oomp_footprint_hairymnstr_nathan_smt_semis_sot23_6
   oomp_key_simple: hairymnstr_nathan_smt_semis_sot23_6
   owner: hairymnstr
   repo:

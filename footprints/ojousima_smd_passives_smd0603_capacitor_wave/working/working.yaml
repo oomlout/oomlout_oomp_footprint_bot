@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/ojousima_smd_passives_smd0603_capacitor_wave/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ojousima_smd_passives_smd0603_capacitor_wave/working
-    oomp_doc: footprints/footprints/ojousima/SMD_Passives/SMD0603_CAPACITOR_WAVE/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ojousima/SMD_Passives/SMD0603_CAPACITOR_WAVE/working
     oomp_src_flat: footprints_flat/footprints_flat/ojousima_smd_passives_smd0603_capacitor_wave/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ojousima_smd_passives_smd0603_capacitor_wave/working
-    oomp_src_folder: footprints_folder/footprints_folder/ojousima/SMD_Passives/SMD0603_CAPACITOR_WAVE/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ojousima/SMD_Passives/SMD0603_CAPACITOR_WAVE/working
   name: SMD_Passives.pretty
+  oomp:
+    footprint_name: smd0603_capacitor_wave
+    library_name: smd_passives
+    md5: ed4d02d51b2a738410eb01485c1ee8a4
+    md5_10: ed4d02d51b
+    md5_5: ed4d0
+    md5_6: ed4d02
+    oomp_key: oomp_ojousima_smd_passives_smd0603_capacitor_wave
+    oomp_key_extra: oomp_footprint_ojousima_smd_passives_smd0603_capacitor_wave
+    oomp_key_full: oomp_footprint_ojousima_smd_passives_smd0603_capacitor_wave_ed4d02
+    oomp_key_simple: ojousima_smd_passives_smd0603_capacitor_wave
+    original_filename: SMD_Passives.pretty/SMD0603_CAPACITOR_WAVE.kicad_mod
+    owner_name: ojousima
   oomp_key: oomp_ojousima_smd_passives_smd0603_capacitor_wave
+  oomp_key_full: oomp_footprint_ojousima_smd_passives_smd0603_capacitor_wave
   oomp_key_simple: ojousima_smd_passives_smd0603_capacitor_wave
   owner: ojousima
   repo:

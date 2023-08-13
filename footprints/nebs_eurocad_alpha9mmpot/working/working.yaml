@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/nebs_eurocad_alpha9mmpot/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nebs_eurocad_alpha9mmpot/working
-    oomp_doc: footprints/footprints/nebs/Eurocad/Alpha9mmPot/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/nebs/Eurocad/Alpha9mmPot/working
     oomp_src_flat: footprints_flat/footprints_flat/nebs_eurocad_alpha9mmpot/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nebs_eurocad_alpha9mmpot/working
-    oomp_src_folder: footprints_folder/footprints_folder/nebs/Eurocad/Alpha9mmPot/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/nebs/Eurocad/Alpha9mmPot/working
   name: eurocad
+  oomp:
+    footprint_name: alpha9mmpot
+    library_name: eurocad
+    md5: be54707b5151973f763d06521babe7f9
+    md5_10: be54707b51
+    md5_5: be547
+    md5_6: be5470
+    oomp_key: oomp_nebs_eurocad_alpha9mmpot
+    oomp_key_extra: oomp_footprint_nebs_eurocad_alpha9mmpot
+    oomp_key_full: oomp_footprint_nebs_eurocad_alpha9mmpot_be5470
+    oomp_key_simple: nebs_eurocad_alpha9mmpot
+    original_filename: eurocad/Eurocad.pretty/Alpha9mmPot.kicad_mod
+    owner_name: nebs
   oomp_key: oomp_nebs_eurocad_alpha9mmpot
+  oomp_key_full: oomp_footprint_nebs_eurocad_alpha9mmpot
   oomp_key_simple: nebs_eurocad_alpha9mmpot
   owner: nebs
   repo:

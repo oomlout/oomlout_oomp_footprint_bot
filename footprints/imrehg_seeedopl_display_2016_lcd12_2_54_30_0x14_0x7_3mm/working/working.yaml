@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/imrehg_seeedopl_display_2016_lcd12_2_54_30_0x14_0x7_3mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/imrehg_seeedopl_display_2016_lcd12_2_54_30_0x14_0x7_3mm/working
-    oomp_doc: footprints/footprints/imrehg/SeeedOPL-Display-2016/LCD12-2.54-30.0X14.0X7.3MM/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/imrehg/SeeedOPL-Display-2016/LCD12-2.54-30.0X14.0X7.3MM/working
     oomp_src_flat: footprints_flat/footprints_flat/imrehg_seeedopl_display_2016_lcd12_2_54_30_0x14_0x7_3mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/imrehg_seeedopl_display_2016_lcd12_2_54_30_0x14_0x7_3mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/imrehg/SeeedOPL-Display-2016/LCD12-2.54-30.0X14.0X7.3MM/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/imrehg/SeeedOPL-Display-2016/LCD12-2.54-30.0X14.0X7.3MM/working
   name: kicalopl
+  oomp:
+    footprint_name: lcd12_2_54_30_0x14_0x7_3mm
+    library_name: seeedopl_display_2016
+    md5: c416885fea63fdf90353d2be24964ef6
+    md5_10: c416885fea
+    md5_5: c4168
+    md5_6: c41688
+    oomp_key: oomp_imrehg_seeedopl_display_2016_lcd12_2_54_30_0x14_0x7_3mm
+    oomp_key_extra: oomp_footprint_imrehg_seeedopl_display_2016_lcd12_2_54_30_0x14_0x7_3mm
+    oomp_key_full: oomp_footprint_imrehg_seeedopl_display_2016_lcd12_2_54_30_0x14_0x7_3mm_c41688
+    oomp_key_simple: imrehg_seeedopl_display_2016_lcd12_2_54_30_0x14_0x7_3mm
+    original_filename: kicalopl/SeeedOPL-Display-2016.pretty/LCD12-2.54-30.0X14.0X7.3MM.kicad_mod
+    owner_name: imrehg
   oomp_key: oomp_imrehg_seeedopl_display_2016_lcd12_2_54_30_0x14_0x7_3mm
+  oomp_key_full: oomp_footprint_imrehg_seeedopl_display_2016_lcd12_2_54_30_0x14_0x7_3mm
   oomp_key_simple: imrehg_seeedopl_display_2016_lcd12_2_54_30_0x14_0x7_3mm
   owner: imrehg
   repo:

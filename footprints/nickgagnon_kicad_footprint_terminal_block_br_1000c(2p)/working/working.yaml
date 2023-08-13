@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/nickgagnon_kicad_footprint_terminal_block_br_1000c(2p)/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nickgagnon_kicad_footprint_terminal_block_br_1000c(2p)/working
-    oomp_doc: footprints/footprints/nickgagnon/Kicad_footprint/Terminal_Block_BR-1000C(2P)/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/nickgagnon/Kicad_footprint/Terminal_Block_BR-1000C(2P)/working
     oomp_src_flat: footprints_flat/footprints_flat/nickgagnon_kicad_footprint_terminal_block_br_1000c(2p)/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nickgagnon_kicad_footprint_terminal_block_br_1000c(2p)/working
-    oomp_src_folder: footprints_folder/footprints_folder/nickgagnon/Kicad_footprint/Terminal_Block_BR-1000C(2P)/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/nickgagnon/Kicad_footprint/Terminal_Block_BR-1000C(2P)/working
   name: Kicad_footprint.pretty
+  oomp:
+    footprint_name: terminal_block_br_1000c(2p)
+    library_name: kicad_footprint
+    md5: 38ff6ec341b07a7e55ace2be0a9182c4
+    md5_10: 38ff6ec341
+    md5_5: 38ff6
+    md5_6: 38ff6e
+    oomp_key: oomp_nickgagnon_kicad_footprint_terminal_block_br_1000c(2p)
+    oomp_key_extra: oomp_footprint_nickgagnon_kicad_footprint_terminal_block_br_1000c(2p)
+    oomp_key_full: oomp_footprint_nickgagnon_kicad_footprint_terminal_block_br_1000c(2p)_38ff6e
+    oomp_key_simple: nickgagnon_kicad_footprint_terminal_block_br_1000c(2p)
+    original_filename: Kicad_footprint.pretty/Terminal_Block_BR-1000C(2P).kicad_mod
+    owner_name: nickgagnon
   oomp_key: oomp_nickgagnon_kicad_footprint_terminal_block_br_1000c(2p)
+  oomp_key_full: oomp_footprint_nickgagnon_kicad_footprint_terminal_block_br_1000c(2p)
   oomp_key_simple: nickgagnon_kicad_footprint_terminal_block_br_1000c(2p)
   owner: nickgagnon
   repo:

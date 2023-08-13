@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cpavlina_pth_passive_c_film_6mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cpavlina_pth_passive_c_film_6mm/working
-    oomp_doc: footprints/footprints/cpavlina/pth-passive/C-FILM-6mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cpavlina/pth-passive/C-FILM-6mm/working
     oomp_src_flat: footprints_flat/footprints_flat/cpavlina_pth_passive_c_film_6mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cpavlina_pth_passive_c_film_6mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/cpavlina/pth-passive/C-FILM-6mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cpavlina/pth-passive/C-FILM-6mm/working
   name: kicad-pcblib
+  oomp:
+    footprint_name: c_film_6mm
+    library_name: pth_passive
+    md5: 63c74a2d1e15370a33772d11e48d2f5f
+    md5_10: 63c74a2d1e
+    md5_5: 63c74
+    md5_6: 63c74a
+    oomp_key: oomp_cpavlina_pth_passive_c_film_6mm
+    oomp_key_extra: oomp_footprint_cpavlina_pth_passive_c_film_6mm
+    oomp_key_full: oomp_footprint_cpavlina_pth_passive_c_film_6mm_63c74a
+    oomp_key_simple: cpavlina_pth_passive_c_film_6mm
+    original_filename: kicad-pcblib/pth-passive.pretty/C-FILM-6mm.kicad_mod
+    owner_name: cpavlina
   oomp_key: oomp_cpavlina_pth_passive_c_film_6mm
+  oomp_key_full: oomp_footprint_cpavlina_pth_passive_c_film_6mm
   oomp_key_simple: cpavlina_pth_passive_c_film_6mm
   owner: cpavlina
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/peekpt_w_pga_cpga_132/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/peekpt_w_pga_cpga_132/working
-    oomp_doc: footprints/footprints/peekpt/w_pga/cpga-132/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/peekpt/w_pga/cpga-132/working
     oomp_src_flat: footprints_flat/footprints_flat/peekpt_w_pga_cpga_132/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/peekpt_w_pga_cpga_132/working
-    oomp_src_folder: footprints_folder/footprints_folder/peekpt/w_pga/cpga-132/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/peekpt/w_pga/cpga-132/working
   name: kicad_smisioto
+  oomp:
+    footprint_name: cpga_132
+    library_name: w_pga
+    md5: d427b1d338ae8df35995698d3b6f3042
+    md5_10: d427b1d338
+    md5_5: d427b
+    md5_6: d427b1
+    oomp_key: oomp_peekpt_w_pga_cpga_132
+    oomp_key_extra: oomp_footprint_peekpt_w_pga_cpga_132
+    oomp_key_full: oomp_footprint_peekpt_w_pga_cpga_132_d427b1
+    oomp_key_simple: peekpt_w_pga_cpga_132
+    original_filename: kicad_smisioto/modules/walter/w_pga.pretty/cpga-132.kicad_mod
+    owner_name: peekpt
   oomp_key: oomp_peekpt_w_pga_cpga_132
+  oomp_key_full: oomp_footprint_peekpt_w_pga_cpga_132
   oomp_key_simple: peekpt_w_pga_cpga_132
   owner: peekpt
   repo:

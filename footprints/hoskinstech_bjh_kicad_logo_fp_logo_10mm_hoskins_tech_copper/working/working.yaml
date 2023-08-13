@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/hoskinstech_bjh_kicad_logo_fp_logo_10mm_hoskins_tech_copper/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/hoskinstech_bjh_kicad_logo_fp_logo_10mm_hoskins_tech_copper/working
-    oomp_doc: footprints/footprints/hoskinstech/bjh-kicad-logo-fp/logo_10mm_hoskins_tech_copper/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/hoskinstech/bjh-kicad-logo-fp/logo_10mm_hoskins_tech_copper/working
     oomp_src_flat: footprints_flat/footprints_flat/hoskinstech_bjh_kicad_logo_fp_logo_10mm_hoskins_tech_copper/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/hoskinstech_bjh_kicad_logo_fp_logo_10mm_hoskins_tech_copper/working
-    oomp_src_folder: footprints_folder/footprints_folder/hoskinstech/bjh-kicad-logo-fp/logo_10mm_hoskins_tech_copper/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/hoskinstech/bjh-kicad-logo-fp/logo_10mm_hoskins_tech_copper/working
   name: bjh-kicad-logo-fp.pretty
+  oomp:
+    footprint_name: logo_10mm_hoskins_tech_copper
+    library_name: bjh_kicad_logo_fp
+    md5: ff04345f42f67a822b9f82892a36a4ba
+    md5_10: ff04345f42
+    md5_5: ff043
+    md5_6: ff0434
+    oomp_key: oomp_hoskinstech_bjh_kicad_logo_fp_logo_10mm_hoskins_tech_copper
+    oomp_key_extra: oomp_footprint_hoskinstech_bjh_kicad_logo_fp_logo_10mm_hoskins_tech_copper
+    oomp_key_full: oomp_footprint_hoskinstech_bjh_kicad_logo_fp_logo_10mm_hoskins_tech_copper_ff0434
+    oomp_key_simple: hoskinstech_bjh_kicad_logo_fp_logo_10mm_hoskins_tech_copper
+    original_filename: bjh-kicad-logo-fp.pretty/logo_10mm_hoskins_tech_copper.kicad_mod
+    owner_name: hoskinstech
   oomp_key: oomp_hoskinstech_bjh_kicad_logo_fp_logo_10mm_hoskins_tech_copper
+  oomp_key_full: oomp_footprint_hoskinstech_bjh_kicad_logo_fp_logo_10mm_hoskins_tech_copper
   oomp_key_simple: hoskinstech_bjh_kicad_logo_fp_logo_10mm_hoskins_tech_copper
   owner: hoskinstech
   repo:

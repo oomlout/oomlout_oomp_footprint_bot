@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/freetronics_freetronics_footprints_so24w_7_5mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/freetronics_freetronics_footprints_so24w_7_5mm/working
-    oomp_doc: footprints/footprints/freetronics/freetronics_footprints/SO24W_7.5mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/freetronics/freetronics_footprints/SO24W_7.5mm/working
     oomp_src_flat: footprints_flat/footprints_flat/freetronics_freetronics_footprints_so24w_7_5mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/freetronics_freetronics_footprints_so24w_7_5mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/freetronics/freetronics_footprints/SO24W_7.5mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/freetronics/freetronics_footprints/SO24W_7.5mm/working
   name: freetronics_kicad_library
+  oomp:
+    footprint_name: so24w_7_5mm
+    library_name: freetronics_footprints
+    md5: e3669987d3f110876fa030d991f13b03
+    md5_10: e3669987d3
+    md5_5: e3669
+    md5_6: e36699
+    oomp_key: oomp_freetronics_freetronics_footprints_so24w_7_5mm
+    oomp_key_extra: oomp_footprint_freetronics_freetronics_footprints_so24w_7_5mm
+    oomp_key_full: oomp_footprint_freetronics_freetronics_footprints_so24w_7_5mm_e36699
+    oomp_key_simple: freetronics_freetronics_footprints_so24w_7_5mm
+    original_filename: freetronics_kicad_library/freetronics_footprints.pretty/SO24W_7.5mm.kicad_mod
+    owner_name: freetronics
   oomp_key: oomp_freetronics_freetronics_footprints_so24w_7_5mm
+  oomp_key_full: oomp_footprint_freetronics_freetronics_footprints_so24w_7_5mm
   oomp_key_simple: freetronics_freetronics_footprints_so24w_7_5mm
   owner: freetronics
   repo:

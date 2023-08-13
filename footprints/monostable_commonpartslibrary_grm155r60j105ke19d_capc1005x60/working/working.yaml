@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/monostable_commonpartslibrary_grm155r60j105ke19d_capc1005x60/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/monostable_commonpartslibrary_grm155r60j105ke19d_capc1005x60/working
-    oomp_doc: footprints/footprints/monostable/CommonPartsLibrary/GRM155R60J105KE19D_CAPC1005X60/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/monostable/CommonPartsLibrary/GRM155R60J105KE19D_CAPC1005X60/working
     oomp_src_flat: footprints_flat/footprints_flat/monostable_commonpartslibrary_grm155r60j105ke19d_capc1005x60/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/monostable_commonpartslibrary_grm155r60j105ke19d_capc1005x60/working
-    oomp_src_folder: footprints_folder/footprints_folder/monostable/CommonPartsLibrary/GRM155R60J105KE19D_CAPC1005X60/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/monostable/CommonPartsLibrary/GRM155R60J105KE19D_CAPC1005X60/working
   name: CommonPartsLibrary.pretty
+  oomp:
+    footprint_name: grm155r60j105ke19d_capc1005x60
+    library_name: commonpartslibrary
+    md5: 014bb587822fb88c333a98f081face2f
+    md5_10: 014bb58782
+    md5_5: 014bb
+    md5_6: 014bb5
+    oomp_key: oomp_monostable_commonpartslibrary_grm155r60j105ke19d_capc1005x60
+    oomp_key_extra: oomp_footprint_monostable_commonpartslibrary_grm155r60j105ke19d_capc1005x60
+    oomp_key_full: oomp_footprint_monostable_commonpartslibrary_grm155r60j105ke19d_capc1005x60_014bb5
+    oomp_key_simple: monostable_commonpartslibrary_grm155r60j105ke19d_capc1005x60
+    original_filename: CommonPartsLibrary.pretty/GRM155R60J105KE19D_CAPC1005X60.kicad_mod
+    owner_name: monostable
   oomp_key: oomp_monostable_commonpartslibrary_grm155r60j105ke19d_capc1005x60
+  oomp_key_full: oomp_footprint_monostable_commonpartslibrary_grm155r60j105ke19d_capc1005x60
   oomp_key_simple: monostable_commonpartslibrary_grm155r60j105ke19d_capc1005x60
   owner: monostable
   repo:

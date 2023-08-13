@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/adamjvr/KiCAD-OnHand-Lib
     oomp_bot: footprints/adamjvr_onhand_components_txs0104ergyr/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/adamjvr_onhand_components_txs0104ergyr/working
-    oomp_doc: footprints/footprints/adamjvr/OnHand-Components/TXS0104ERGYR/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/adamjvr/OnHand-Components/TXS0104ERGYR/working
     oomp_src_flat: footprints_flat/footprints_flat/adamjvr_onhand_components_txs0104ergyr/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/adamjvr_onhand_components_txs0104ergyr/working
-    oomp_src_folder: footprints_folder/footprints_folder/adamjvr/OnHand-Components/TXS0104ERGYR/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/adamjvr/OnHand-Components/TXS0104ERGYR/working
   name: KiCAD-OnHand-Lib
+  oomp:
+    footprint_name: txs0104ergyr
+    library_name: onhand_components
+    md5: e1b163aa5c863f83293dd1a60b588fe3
+    md5_10: e1b163aa5c
+    md5_5: e1b16
+    md5_6: e1b163
+    oomp_key: oomp_adamjvr_onhand_components_txs0104ergyr
+    oomp_key_extra: oomp_footprint_adamjvr_onhand_components_txs0104ergyr
+    oomp_key_full: oomp_footprint_adamjvr_onhand_components_txs0104ergyr_e1b163
+    oomp_key_simple: adamjvr_onhand_components_txs0104ergyr
+    original_filename: KiCAD-OnHand-Lib/OnHand-Components.pretty/TXS0104ERGYR.kicad_mod
+    owner_name: adamjvr
   oomp_key: oomp_adamjvr_onhand_components_txs0104ergyr
+  oomp_key_full: oomp_footprint_adamjvr_onhand_components_txs0104ergyr
   oomp_key_simple: adamjvr_onhand_components_txs0104ergyr
   owner: adamjvr
   repo:

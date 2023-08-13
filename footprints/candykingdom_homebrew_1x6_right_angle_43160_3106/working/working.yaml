@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/candykingdom_homebrew_1x6_right_angle_43160_3106/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/candykingdom_homebrew_1x6_right_angle_43160_3106/working
-    oomp_doc: footprints/footprints/candykingdom/homebrew/1x6-RIGHT_ANGLE-43160-3106/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/candykingdom/homebrew/1x6-RIGHT_ANGLE-43160-3106/working
     oomp_src_flat: footprints_flat/footprints_flat/candykingdom_homebrew_1x6_right_angle_43160_3106/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/candykingdom_homebrew_1x6_right_angle_43160_3106/working
-    oomp_src_folder: footprints_folder/footprints_folder/candykingdom/homebrew/1x6-RIGHT_ANGLE-43160-3106/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/candykingdom/homebrew/1x6-RIGHT_ANGLE-43160-3106/working
   name: homebrew.pretty
+  oomp:
+    footprint_name: 1x6_right_angle_43160_3106
+    library_name: homebrew
+    md5: 4aa3a512b31d1724e51afcc40d1570e9
+    md5_10: 4aa3a512b3
+    md5_5: 4aa3a
+    md5_6: 4aa3a5
+    oomp_key: oomp_candykingdom_homebrew_1x6_right_angle_43160_3106
+    oomp_key_extra: oomp_footprint_candykingdom_homebrew_1x6_right_angle_43160_3106
+    oomp_key_full: oomp_footprint_candykingdom_homebrew_1x6_right_angle_43160_3106_4aa3a5
+    oomp_key_simple: candykingdom_homebrew_1x6_right_angle_43160_3106
+    original_filename: homebrew.pretty/1x6-RIGHT_ANGLE-43160-3106.kicad_mod
+    owner_name: candykingdom
   oomp_key: oomp_candykingdom_homebrew_1x6_right_angle_43160_3106
+  oomp_key_full: oomp_footprint_candykingdom_homebrew_1x6_right_angle_43160_3106
   oomp_key_simple: candykingdom_homebrew_1x6_right_angle_43160_3106
   owner: candykingdom
   repo:

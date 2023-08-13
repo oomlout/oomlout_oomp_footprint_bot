@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_vlp8040_vlp8040/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_vlp8040_vlp8040/working
-    oomp_doc: footprints/footprints/brunoeagle/VLP8040.kicad_mod/VLP8040/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/VLP8040.kicad_mod/VLP8040/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_vlp8040_vlp8040/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_vlp8040_vlp8040/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/VLP8040.kicad_mod/VLP8040/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/VLP8040.kicad_mod/VLP8040/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: vlp8040
+    library_name: vlp8040_kicad_mod
+    md5: 86e5fdb517d1ee83f7026f9d47882d30
+    md5_10: 86e5fdb517
+    md5_5: 86e5f
+    md5_6: 86e5fd
+    oomp_key: oomp_brunoeagle_vlp8040_vlp8040
+    oomp_key_extra: oomp_footprint_brunoeagle_vlp8040_vlp8040
+    oomp_key_full: oomp_footprint_brunoeagle_vlp8040_vlp8040_86e5fd
+    oomp_key_simple: brunoeagle_vlp8040_vlp8040
+    original_filename: kicad-open-modules/VLP8040.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_vlp8040_vlp8040
+  oomp_key_full: oomp_footprint_brunoeagle_vlp8040_vlp8040
   oomp_key_simple: brunoeagle_vlp8040_vlp8040
   owner: brunoeagle
   repo:

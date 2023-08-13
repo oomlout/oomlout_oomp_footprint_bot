@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pelrun_w_smd_lqfp_lqfp64/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pelrun_w_smd_lqfp_lqfp64/working
-    oomp_doc: footprints/footprints/pelrun/w_smd_lqfp/lqfp64/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/pelrun/w_smd_lqfp/lqfp64/working
     oomp_src_flat: footprints_flat/footprints_flat/pelrun_w_smd_lqfp_lqfp64/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pelrun_w_smd_lqfp_lqfp64/working
-    oomp_src_folder: footprints_folder/footprints_folder/pelrun/w_smd_lqfp/lqfp64/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/pelrun/w_smd_lqfp/lqfp64/working
   name: libKiCad
+  oomp:
+    footprint_name: lqfp64
+    library_name: w_smd_lqfp
+    md5: 7c16528b47ff54ef7cc9cf8b53eebef1
+    md5_10: 7c16528b47
+    md5_5: 7c165
+    md5_6: 7c1652
+    oomp_key: oomp_pelrun_w_smd_lqfp_lqfp64
+    oomp_key_extra: oomp_footprint_pelrun_w_smd_lqfp_lqfp64
+    oomp_key_full: oomp_footprint_pelrun_w_smd_lqfp_lqfp64_7c1652
+    oomp_key_simple: pelrun_w_smd_lqfp_lqfp64
+    original_filename: libKiCad/footprint/w_smd_lqfp.pretty/lqfp64.kicad_mod
+    owner_name: pelrun
   oomp_key: oomp_pelrun_w_smd_lqfp_lqfp64
+  oomp_key_full: oomp_footprint_pelrun_w_smd_lqfp_lqfp64
   oomp_key_simple: pelrun_w_smd_lqfp_lqfp64
   owner: pelrun
   repo:

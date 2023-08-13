@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/hoskinstech_bjh_kicad_mountingholes_fp_mountinghole_2_6mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/hoskinstech_bjh_kicad_mountingholes_fp_mountinghole_2_6mm/working
-    oomp_doc: footprints/footprints/hoskinstech/bjh-kicad-mountingholes-fp/MountingHole_2-6mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/hoskinstech/bjh-kicad-mountingholes-fp/MountingHole_2-6mm/working
     oomp_src_flat: footprints_flat/footprints_flat/hoskinstech_bjh_kicad_mountingholes_fp_mountinghole_2_6mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/hoskinstech_bjh_kicad_mountingholes_fp_mountinghole_2_6mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/hoskinstech/bjh-kicad-mountingholes-fp/MountingHole_2-6mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/hoskinstech/bjh-kicad-mountingholes-fp/MountingHole_2-6mm/working
   name: bjh-kicad-mountingholes-fp.pretty
+  oomp:
+    footprint_name: mountinghole_2_6mm
+    library_name: bjh_kicad_mountingholes_fp
+    md5: 8e766c8665331d4d89f79c46993ac334
+    md5_10: 8e766c8665
+    md5_5: 8e766
+    md5_6: 8e766c
+    oomp_key: oomp_hoskinstech_bjh_kicad_mountingholes_fp_mountinghole_2_6mm
+    oomp_key_extra: oomp_footprint_hoskinstech_bjh_kicad_mountingholes_fp_mountinghole_2_6mm
+    oomp_key_full: oomp_footprint_hoskinstech_bjh_kicad_mountingholes_fp_mountinghole_2_6mm_8e766c
+    oomp_key_simple: hoskinstech_bjh_kicad_mountingholes_fp_mountinghole_2_6mm
+    original_filename: bjh-kicad-mountingholes-fp.pretty/MountingHole_2-6mm.kicad_mod
+    owner_name: hoskinstech
   oomp_key: oomp_hoskinstech_bjh_kicad_mountingholes_fp_mountinghole_2_6mm
+  oomp_key_full: oomp_footprint_hoskinstech_bjh_kicad_mountingholes_fp_mountinghole_2_6mm
   oomp_key_simple: hoskinstech_bjh_kicad_mountingholes_fp_mountinghole_2_6mm
   owner: hoskinstech
   repo:

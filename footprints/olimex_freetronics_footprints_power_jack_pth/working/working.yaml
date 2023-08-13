@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/olimex_freetronics_footprints_power_jack_pth/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/olimex_freetronics_footprints_power_jack_pth/working
-    oomp_doc: footprints/footprints/OLIMEX/freetronics_footprints/POWER_JACK_PTH/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/OLIMEX/freetronics_footprints/POWER_JACK_PTH/working
     oomp_src_flat: footprints_flat/footprints_flat/olimex_freetronics_footprints_power_jack_pth/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/olimex_freetronics_footprints_power_jack_pth/working
-    oomp_src_folder: footprints_folder/footprints_folder/OLIMEX/freetronics_footprints/POWER_JACK_PTH/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/OLIMEX/freetronics_footprints/POWER_JACK_PTH/working
   name: KiCAD
+  oomp:
+    footprint_name: power_jack_pth
+    library_name: freetronics_footprints
+    md5: 7a1fe32f47820ae06f72491210c3f1fa
+    md5_10: 7a1fe32f47
+    md5_5: 7a1fe
+    md5_6: 7a1fe3
+    oomp_key: oomp_olimex_freetronics_footprints_power_jack_pth
+    oomp_key_extra: oomp_footprint_olimex_freetronics_footprints_power_jack_pth
+    oomp_key_full: oomp_footprint_olimex_freetronics_footprints_power_jack_pth_7a1fe3
+    oomp_key_simple: olimex_freetronics_footprints_power_jack_pth
+    original_filename: KiCAD/mods/freetronics_footprints.pretty/POWER_JACK_PTH.kicad_mod
+    owner_name: olimex
   oomp_key: oomp_olimex_freetronics_footprints_power_jack_pth
+  oomp_key_full: oomp_footprint_olimex_freetronics_footprints_power_jack_pth
   oomp_key_simple: olimex_freetronics_footprints_power_jack_pth
   owner: OLIMEX
   repo:

@@ -14,14 +14,24 @@
     github_src_repo: https://github.com/alozewski/al-kicad-lib.pretty
     oomp_bot: footprints/alozewski_al_kicad_lib_c_axial_large_horizontal/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/alozewski_al_kicad_lib_c_axial_large_horizontal/working
-    oomp_doc: footprints/footprints/alozewski/al-kicad-lib/C_Axial_Large_Horizontal/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/alozewski/al-kicad-lib/C_Axial_Large_Horizontal/working
     oomp_src_flat: footprints_flat/footprints_flat/alozewski_al_kicad_lib_c_axial_large_horizontal/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/alozewski_al_kicad_lib_c_axial_large_horizontal/working
-    oomp_src_folder: footprints_folder/footprints_folder/alozewski/al-kicad-lib/C_Axial_Large_Horizontal/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/alozewski/al-kicad-lib/C_Axial_Large_Horizontal/working
   name: al-kicad-lib.pretty
+  oomp:
+    footprint_name: c_axial_large_horizontal
+    library_name: al_kicad_lib
+    md5: c0502ec12a867e6cf842cb9f486e247d
+    md5_10: c0502ec12a
+    md5_5: c0502
+    md5_6: c0502e
+    oomp_key: oomp_alozewski_al_kicad_lib_c_axial_large_horizontal
+    oomp_key_extra: oomp_footprint_alozewski_al_kicad_lib_c_axial_large_horizontal
+    oomp_key_full: oomp_footprint_alozewski_al_kicad_lib_c_axial_large_horizontal_c0502e
+    oomp_key_simple: alozewski_al_kicad_lib_c_axial_large_horizontal
+    original_filename: al-kicad-lib.pretty/C_Axial_Large_Horizontal.kicad_mod
+    owner_name: alozewski
   oomp_key: oomp_alozewski_al_kicad_lib_c_axial_large_horizontal
+  oomp_key_full: oomp_footprint_alozewski_al_kicad_lib_c_axial_large_horizontal
   oomp_key_simple: alozewski_al_kicad_lib_c_axial_large_horizontal
   owner: alozewski
   repo:

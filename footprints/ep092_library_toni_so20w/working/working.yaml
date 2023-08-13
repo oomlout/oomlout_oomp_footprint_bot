@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/ep092_library_toni_so20w/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ep092_library_toni_so20w/working
-    oomp_doc: footprints/footprints/ep092/library_toni/SO20W/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ep092/library_toni/SO20W/working
     oomp_src_flat: footprints_flat/footprints_flat/ep092_library_toni_so20w/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ep092_library_toni_so20w/working
-    oomp_src_folder: footprints_folder/footprints_folder/ep092/library_toni/SO20W/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ep092/library_toni/SO20W/working
   name: library_toni.pretty
+  oomp:
+    footprint_name: so20w
+    library_name: library_toni
+    md5: dae544a79cf8d0d7b5f1ab1c827dcb7d
+    md5_10: dae544a79c
+    md5_5: dae54
+    md5_6: dae544
+    oomp_key: oomp_ep092_library_toni_so20w
+    oomp_key_extra: oomp_footprint_ep092_library_toni_so20w
+    oomp_key_full: oomp_footprint_ep092_library_toni_so20w_dae544
+    oomp_key_simple: ep092_library_toni_so20w
+    original_filename: library_toni.pretty/SO20W.kicad_mod
+    owner_name: ep092
   oomp_key: oomp_ep092_library_toni_so20w
+  oomp_key_full: oomp_footprint_ep092_library_toni_so20w
   oomp_key_simple: ep092_library_toni_so20w
   owner: ep092
   repo:

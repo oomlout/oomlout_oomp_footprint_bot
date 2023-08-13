@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/dx_mon_rhais_rcl_c0402/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/dx_mon_rhais_rcl_c0402/working
-    oomp_doc: footprints/footprints/DX-MON/rhais_rcl/C0402/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/DX-MON/rhais_rcl/C0402/working
     oomp_src_flat: footprints_flat/footprints_flat/dx_mon_rhais_rcl_c0402/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/dx_mon_rhais_rcl_c0402/working
-    oomp_src_folder: footprints_folder/footprints_folder/DX-MON/rhais_rcl/C0402/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/DX-MON/rhais_rcl/C0402/working
   name: rhais_rcl.pretty
+  oomp:
+    footprint_name: c0402
+    library_name: rhais_rcl
+    md5: b9083563d442c0c9e4ca8ed006c35ab5
+    md5_10: b9083563d4
+    md5_5: b9083
+    md5_6: b90835
+    oomp_key: oomp_dx_mon_rhais_rcl_c0402
+    oomp_key_extra: oomp_footprint_dx_mon_rhais_rcl_c0402
+    oomp_key_full: oomp_footprint_dx_mon_rhais_rcl_c0402_b90835
+    oomp_key_simple: dx_mon_rhais_rcl_c0402
+    original_filename: rhais_rcl.pretty/C0402.kicad_mod
+    owner_name: dx_mon
   oomp_key: oomp_dx_mon_rhais_rcl_c0402
+  oomp_key_full: oomp_footprint_dx_mon_rhais_rcl_c0402
   oomp_key_simple: dx_mon_rhais_rcl_c0402
   owner: DX-MON
   repo:

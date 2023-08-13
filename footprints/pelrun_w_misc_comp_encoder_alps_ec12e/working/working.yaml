@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pelrun_w_misc_comp_encoder_alps_ec12e/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pelrun_w_misc_comp_encoder_alps_ec12e/working
-    oomp_doc: footprints/footprints/pelrun/w_misc_comp/encoder_alps-ec12e/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/pelrun/w_misc_comp/encoder_alps-ec12e/working
     oomp_src_flat: footprints_flat/footprints_flat/pelrun_w_misc_comp_encoder_alps_ec12e/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pelrun_w_misc_comp_encoder_alps_ec12e/working
-    oomp_src_folder: footprints_folder/footprints_folder/pelrun/w_misc_comp/encoder_alps-ec12e/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/pelrun/w_misc_comp/encoder_alps-ec12e/working
   name: libKiCad
+  oomp:
+    footprint_name: encoder_alps_ec12e
+    library_name: w_misc_comp
+    md5: 40870d9a7be22a2369abbc0bb202a343
+    md5_10: 40870d9a7b
+    md5_5: '40870'
+    md5_6: 40870d
+    oomp_key: oomp_pelrun_w_misc_comp_encoder_alps_ec12e
+    oomp_key_extra: oomp_footprint_pelrun_w_misc_comp_encoder_alps_ec12e
+    oomp_key_full: oomp_footprint_pelrun_w_misc_comp_encoder_alps_ec12e_40870d
+    oomp_key_simple: pelrun_w_misc_comp_encoder_alps_ec12e
+    original_filename: libKiCad/footprint/w_misc_comp.pretty/encoder_alps-ec12e.kicad_mod
+    owner_name: pelrun
   oomp_key: oomp_pelrun_w_misc_comp_encoder_alps_ec12e
+  oomp_key_full: oomp_footprint_pelrun_w_misc_comp_encoder_alps_ec12e
   oomp_key_simple: pelrun_w_misc_comp_encoder_alps_ec12e
   owner: pelrun
   repo:

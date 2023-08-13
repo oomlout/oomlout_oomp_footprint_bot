@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/asukiaaa_my_kicad_footprints_gatedriver_a3921_tssop_28_4_4x9_7mm_p0_65mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/asukiaaa_my_kicad_footprints_gatedriver_a3921_tssop_28_4_4x9_7mm_p0_65mm/working
-    oomp_doc: footprints/footprints/asukiaaa/my-kicad-footprints/GateDriver_A3921_TSSOP-28_4.4x9.7mm_P0.65mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/asukiaaa/my-kicad-footprints/GateDriver_A3921_TSSOP-28_4.4x9.7mm_P0.65mm/working
     oomp_src_flat: footprints_flat/footprints_flat/asukiaaa_my_kicad_footprints_gatedriver_a3921_tssop_28_4_4x9_7mm_p0_65mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/asukiaaa_my_kicad_footprints_gatedriver_a3921_tssop_28_4_4x9_7mm_p0_65mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/asukiaaa/my-kicad-footprints/GateDriver_A3921_TSSOP-28_4.4x9.7mm_P0.65mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/asukiaaa/my-kicad-footprints/GateDriver_A3921_TSSOP-28_4.4x9.7mm_P0.65mm/working
   name: my-kicad-footprints.pretty
+  oomp:
+    footprint_name: gatedriver_a3921_tssop_28_4_4x9_7mm_p0_65mm
+    library_name: my_kicad_footprints
+    md5: 33ddb8bb08b6639db59f959cd1d1f199
+    md5_10: 33ddb8bb08
+    md5_5: 33ddb
+    md5_6: 33ddb8
+    oomp_key: oomp_asukiaaa_my_kicad_footprints_gatedriver_a3921_tssop_28_4_4x9_7mm_p0_65mm
+    oomp_key_extra: oomp_footprint_asukiaaa_my_kicad_footprints_gatedriver_a3921_tssop_28_4_4x9_7mm_p0_65mm
+    oomp_key_full: oomp_footprint_asukiaaa_my_kicad_footprints_gatedriver_a3921_tssop_28_4_4x9_7mm_p0_65mm_33ddb8
+    oomp_key_simple: asukiaaa_my_kicad_footprints_gatedriver_a3921_tssop_28_4_4x9_7mm_p0_65mm
+    original_filename: my-kicad-footprints.pretty/GateDriver_A3921_TSSOP-28_4.4x9.7mm_P0.65mm.kicad_mod
+    owner_name: asukiaaa
   oomp_key: oomp_asukiaaa_my_kicad_footprints_gatedriver_a3921_tssop_28_4_4x9_7mm_p0_65mm
+  oomp_key_full: oomp_footprint_asukiaaa_my_kicad_footprints_gatedriver_a3921_tssop_28_4_4x9_7mm_p0_65mm
   oomp_key_simple: asukiaaa_my_kicad_footprints_gatedriver_a3921_tssop_28_4_4x9_7mm_p0_65mm
   owner: asukiaaa
   repo:

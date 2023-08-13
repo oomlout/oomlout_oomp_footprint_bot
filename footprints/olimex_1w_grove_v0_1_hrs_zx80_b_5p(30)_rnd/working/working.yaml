@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/olimex_1w_grove_v0_1_hrs_zx80_b_5p(30)_rnd/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/olimex_1w_grove_v0_1_hrs_zx80_b_5p(30)_rnd/working
-    oomp_doc: footprints/footprints/OLIMEX/1w-grove-v0.1/HRS_ZX80-B-5P(30)_rnd/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/OLIMEX/1w-grove-v0.1/HRS_ZX80-B-5P(30)_rnd/working
     oomp_src_flat: footprints_flat/footprints_flat/olimex_1w_grove_v0_1_hrs_zx80_b_5p(30)_rnd/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/olimex_1w_grove_v0_1_hrs_zx80_b_5p(30)_rnd/working
-    oomp_src_folder: footprints_folder/footprints_folder/OLIMEX/1w-grove-v0.1/HRS_ZX80-B-5P(30)_rnd/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/OLIMEX/1w-grove-v0.1/HRS_ZX80-B-5P(30)_rnd/working
   name: KiCAD
+  oomp:
+    footprint_name: hrs_zx80_b_5p(30)_rnd
+    library_name: 1w_grove_v0_1
+    md5: 1aacc84825a48d816cc81d010610bcb3
+    md5_10: 1aacc84825
+    md5_5: 1aacc
+    md5_6: 1aacc8
+    oomp_key: oomp_olimex_1w_grove_v0_1_hrs_zx80_b_5p(30)_rnd
+    oomp_key_extra: oomp_footprint_olimex_1w_grove_v0_1_hrs_zx80_b_5p(30)_rnd
+    oomp_key_full: oomp_footprint_olimex_1w_grove_v0_1_hrs_zx80_b_5p(30)_rnd_1aacc8
+    oomp_key_simple: olimex_1w_grove_v0_1_hrs_zx80_b_5p(30)_rnd
+    original_filename: KiCAD/6.0/projects/1w-grove-v0.1/1w-grove-v0.1.pretty/HRS_ZX80-B-5P(30)_rnd.kicad_mod
+    owner_name: olimex
   oomp_key: oomp_olimex_1w_grove_v0_1_hrs_zx80_b_5p(30)_rnd
+  oomp_key_full: oomp_footprint_olimex_1w_grove_v0_1_hrs_zx80_b_5p(30)_rnd
   oomp_key_simple: olimex_1w_grove_v0_1_hrs_zx80_b_5p(30)_rnd
   owner: OLIMEX
   repo:

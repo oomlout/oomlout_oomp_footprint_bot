@@ -14,14 +14,24 @@
     github_src_repo: https://github.com/leptun/leptunKicadLib.pretty
     oomp_bot: footprints/leptun_leptunkicadlib_usb_micro_ab_gct_usb3085_30_a/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/leptun_leptunkicadlib_usb_micro_ab_gct_usb3085_30_a/working
-    oomp_doc: footprints/footprints/leptun/leptunKicadLib/USB_Micro-AB_GCT_USB3085-30-A/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/leptun/leptunKicadLib/USB_Micro-AB_GCT_USB3085-30-A/working
     oomp_src_flat: footprints_flat/footprints_flat/leptun_leptunkicadlib_usb_micro_ab_gct_usb3085_30_a/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/leptun_leptunkicadlib_usb_micro_ab_gct_usb3085_30_a/working
-    oomp_src_folder: footprints_folder/footprints_folder/leptun/leptunKicadLib/USB_Micro-AB_GCT_USB3085-30-A/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/leptun/leptunKicadLib/USB_Micro-AB_GCT_USB3085-30-A/working
   name: leptunKicadLib.pretty
+  oomp:
+    footprint_name: usb_micro_ab_gct_usb3085_30_a
+    library_name: leptunkicadlib
+    md5: 82d288b29246e58681a611444d7c95e4
+    md5_10: 82d288b292
+    md5_5: 82d28
+    md5_6: 82d288
+    oomp_key: oomp_leptun_leptunkicadlib_usb_micro_ab_gct_usb3085_30_a
+    oomp_key_extra: oomp_footprint_leptun_leptunkicadlib_usb_micro_ab_gct_usb3085_30_a
+    oomp_key_full: oomp_footprint_leptun_leptunkicadlib_usb_micro_ab_gct_usb3085_30_a_82d288
+    oomp_key_simple: leptun_leptunkicadlib_usb_micro_ab_gct_usb3085_30_a
+    original_filename: leptunKicadLib.pretty/USB_Micro-AB_GCT_USB3085-30-A.kicad_mod
+    owner_name: leptun
   oomp_key: oomp_leptun_leptunkicadlib_usb_micro_ab_gct_usb3085_30_a
+  oomp_key_full: oomp_footprint_leptun_leptunkicadlib_usb_micro_ab_gct_usb3085_30_a
   oomp_key_simple: leptun_leptunkicadlib_usb_micro_ab_gct_usb3085_30_a
   owner: leptun
   repo:

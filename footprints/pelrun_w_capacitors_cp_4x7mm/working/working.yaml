@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pelrun_w_capacitors_cp_4x7mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pelrun_w_capacitors_cp_4x7mm/working
-    oomp_doc: footprints/footprints/pelrun/w_capacitors/CP_4x7mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/pelrun/w_capacitors/CP_4x7mm/working
     oomp_src_flat: footprints_flat/footprints_flat/pelrun_w_capacitors_cp_4x7mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pelrun_w_capacitors_cp_4x7mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/pelrun/w_capacitors/CP_4x7mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/pelrun/w_capacitors/CP_4x7mm/working
   name: libKiCad
+  oomp:
+    footprint_name: cp_4x7mm
+    library_name: w_capacitors
+    md5: 83d71996c56a686f5a97ca2cded34d9a
+    md5_10: 83d71996c5
+    md5_5: 83d71
+    md5_6: 83d719
+    oomp_key: oomp_pelrun_w_capacitors_cp_4x7mm
+    oomp_key_extra: oomp_footprint_pelrun_w_capacitors_cp_4x7mm
+    oomp_key_full: oomp_footprint_pelrun_w_capacitors_cp_4x7mm_83d719
+    oomp_key_simple: pelrun_w_capacitors_cp_4x7mm
+    original_filename: libKiCad/footprint/w_capacitors.pretty/CP_4x7mm.kicad_mod
+    owner_name: pelrun
   oomp_key: oomp_pelrun_w_capacitors_cp_4x7mm
+  oomp_key_full: oomp_footprint_pelrun_w_capacitors_cp_4x7mm
   oomp_key_simple: pelrun_w_capacitors_cp_4x7mm
   owner: pelrun
   repo:

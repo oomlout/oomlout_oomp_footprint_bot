@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/monostable_commonpartslibrary_sop65p640x120_14n/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/monostable_commonpartslibrary_sop65p640x120_14n/working
-    oomp_doc: footprints/footprints/monostable/CommonPartsLibrary/SOP65P640X120-14N/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/monostable/CommonPartsLibrary/SOP65P640X120-14N/working
     oomp_src_flat: footprints_flat/footprints_flat/monostable_commonpartslibrary_sop65p640x120_14n/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/monostable_commonpartslibrary_sop65p640x120_14n/working
-    oomp_src_folder: footprints_folder/footprints_folder/monostable/CommonPartsLibrary/SOP65P640X120-14N/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/monostable/CommonPartsLibrary/SOP65P640X120-14N/working
   name: CommonPartsLibrary.pretty
+  oomp:
+    footprint_name: sop65p640x120_14n
+    library_name: commonpartslibrary
+    md5: 6a07e360b656256617c70fa0b1b91bd9
+    md5_10: 6a07e360b6
+    md5_5: 6a07e
+    md5_6: 6a07e3
+    oomp_key: oomp_monostable_commonpartslibrary_sop65p640x120_14n
+    oomp_key_extra: oomp_footprint_monostable_commonpartslibrary_sop65p640x120_14n
+    oomp_key_full: oomp_footprint_monostable_commonpartslibrary_sop65p640x120_14n_6a07e3
+    oomp_key_simple: monostable_commonpartslibrary_sop65p640x120_14n
+    original_filename: CommonPartsLibrary.pretty/SOP65P640X120-14N.kicad_mod
+    owner_name: monostable
   oomp_key: oomp_monostable_commonpartslibrary_sop65p640x120_14n
+  oomp_key_full: oomp_footprint_monostable_commonpartslibrary_sop65p640x120_14n
   oomp_key_simple: monostable_commonpartslibrary_sop65p640x120_14n
   owner: monostable
   repo:

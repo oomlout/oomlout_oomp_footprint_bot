@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/celeritous_kicad_connector_usb_mini_b/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/celeritous_kicad_connector_usb_mini_b/working
-    oomp_doc: footprints/footprints/celeritous/KiCad/CONNECTOR_USB_MINI_B/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/celeritous/KiCad/CONNECTOR_USB_MINI_B/working
     oomp_src_flat: footprints_flat/footprints_flat/celeritous_kicad_connector_usb_mini_b/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/celeritous_kicad_connector_usb_mini_b/working
-    oomp_src_folder: footprints_folder/footprints_folder/celeritous/KiCad/CONNECTOR_USB_MINI_B/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/celeritous/KiCad/CONNECTOR_USB_MINI_B/working
   name: KiCad.pretty
+  oomp:
+    footprint_name: connector_usb_mini_b
+    library_name: kicad
+    md5: dd8df76fd27f1eb285d34f834151e719
+    md5_10: dd8df76fd2
+    md5_5: dd8df
+    md5_6: dd8df7
+    oomp_key: oomp_celeritous_kicad_connector_usb_mini_b
+    oomp_key_extra: oomp_footprint_celeritous_kicad_connector_usb_mini_b
+    oomp_key_full: oomp_footprint_celeritous_kicad_connector_usb_mini_b_dd8df7
+    oomp_key_simple: celeritous_kicad_connector_usb_mini_b
+    original_filename: KiCad.pretty/CONNECTOR_USB_MINI_B.kicad_mod
+    owner_name: celeritous
   oomp_key: oomp_celeritous_kicad_connector_usb_mini_b
+  oomp_key_full: oomp_footprint_celeritous_kicad_connector_usb_mini_b
   oomp_key_simple: celeritous_kicad_connector_usb_mini_b
   owner: celeritous
   repo:

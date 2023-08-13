@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/rohbotics_ipc7351_nominal_xtal1160x480x320n/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/rohbotics_ipc7351_nominal_xtal1160x480x320n/working
-    oomp_doc: footprints/footprints/rohbotics/IPC7351-Nominal/XTAL1160X480X320N/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/rohbotics/IPC7351-Nominal/XTAL1160X480X320N/working
     oomp_src_flat: footprints_flat/footprints_flat/rohbotics_ipc7351_nominal_xtal1160x480x320n/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/rohbotics_ipc7351_nominal_xtal1160x480x320n/working
-    oomp_src_folder: footprints_folder/footprints_folder/rohbotics/IPC7351-Nominal/XTAL1160X480X320N/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/rohbotics/IPC7351-Nominal/XTAL1160X480X320N/working
   name: IPC7351-Nominal.pretty
+  oomp:
+    footprint_name: xtal1160x480x320n
+    library_name: ipc7351_nominal
+    md5: ec6e3cf9cb24b074472d6d76122d152f
+    md5_10: ec6e3cf9cb
+    md5_5: ec6e3
+    md5_6: ec6e3c
+    oomp_key: oomp_rohbotics_ipc7351_nominal_xtal1160x480x320n
+    oomp_key_extra: oomp_footprint_rohbotics_ipc7351_nominal_xtal1160x480x320n
+    oomp_key_full: oomp_footprint_rohbotics_ipc7351_nominal_xtal1160x480x320n_ec6e3c
+    oomp_key_simple: rohbotics_ipc7351_nominal_xtal1160x480x320n
+    original_filename: IPC7351-Nominal.pretty/XTAL1160X480X320N.kicad_mod
+    owner_name: rohbotics
   oomp_key: oomp_rohbotics_ipc7351_nominal_xtal1160x480x320n
+  oomp_key_full: oomp_footprint_rohbotics_ipc7351_nominal_xtal1160x480x320n
   oomp_key_simple: rohbotics_ipc7351_nominal_xtal1160x480x320n
   owner: rohbotics
   repo:

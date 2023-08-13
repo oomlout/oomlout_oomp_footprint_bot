@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/peekpt_w_conn_modu_amp_modu_9/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/peekpt_w_conn_modu_amp_modu_9/working
-    oomp_doc: footprints/footprints/peekpt/w_conn_modu/AMP-MODU-9/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/peekpt/w_conn_modu/AMP-MODU-9/working
     oomp_src_flat: footprints_flat/footprints_flat/peekpt_w_conn_modu_amp_modu_9/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/peekpt_w_conn_modu_amp_modu_9/working
-    oomp_src_folder: footprints_folder/footprints_folder/peekpt/w_conn_modu/AMP-MODU-9/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/peekpt/w_conn_modu/AMP-MODU-9/working
   name: kicad_smisioto
+  oomp:
+    footprint_name: amp_modu_9
+    library_name: w_conn_modu
+    md5: b3d190a12bd5d73ae73018e09f893f22
+    md5_10: b3d190a12b
+    md5_5: b3d19
+    md5_6: b3d190
+    oomp_key: oomp_peekpt_w_conn_modu_amp_modu_9
+    oomp_key_extra: oomp_footprint_peekpt_w_conn_modu_amp_modu_9
+    oomp_key_full: oomp_footprint_peekpt_w_conn_modu_amp_modu_9_b3d190
+    oomp_key_simple: peekpt_w_conn_modu_amp_modu_9
+    original_filename: kicad_smisioto/modules/walter/w_conn_modu.pretty/AMP-MODU-9.kicad_mod
+    owner_name: peekpt
   oomp_key: oomp_peekpt_w_conn_modu_amp_modu_9
+  oomp_key_full: oomp_footprint_peekpt_w_conn_modu_amp_modu_9
   oomp_key_simple: peekpt_w_conn_modu_amp_modu_9
   owner: peekpt
   repo:

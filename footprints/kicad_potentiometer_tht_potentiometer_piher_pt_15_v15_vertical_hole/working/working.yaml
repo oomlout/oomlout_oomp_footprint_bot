@@ -11,17 +11,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_potentiometer_tht_potentiometer_piher_pt_15_v15_vertical_hole/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_potentiometer_tht_potentiometer_piher_pt_15_v15_vertical_hole/working
-    oomp_doc: footprints/footprints/kicad/Potentiometer_THT/Potentiometer_Piher_PT-15-V15_Vertical_Hole/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Potentiometer_THT/Potentiometer_Piher_PT-15-V15_Vertical_Hole/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_potentiometer_tht_potentiometer_piher_pt_15_v15_vertical_hole/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_potentiometer_tht_potentiometer_piher_pt_15_v15_vertical_hole/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Potentiometer_THT/Potentiometer_Piher_PT-15-V15_Vertical_Hole/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Potentiometer_THT/Potentiometer_Piher_PT-15-V15_Vertical_Hole/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: potentiometer_piher_pt_15_v15_vertical_hole
+    library_name: potentiometer_tht
+    md5: 9a25ce8c2be07eacbcb908d2e12075c4
+    md5_10: 9a25ce8c2b
+    md5_5: 9a25c
+    md5_6: 9a25ce
+    oomp_key: oomp_kicad_potentiometer_tht_potentiometer_piher_pt_15_v15_vertical_hole
+    oomp_key_extra: oomp_footprint_kicad_potentiometer_tht_potentiometer_piher_pt_15_v15_vertical_hole
+    oomp_key_full: oomp_footprint_kicad_potentiometer_tht_potentiometer_piher_pt_15_v15_vertical_hole_9a25ce
+    oomp_key_simple: kicad_potentiometer_tht_potentiometer_piher_pt_15_v15_vertical_hole
+    original_filename: libraries/kicad-footprints/Potentiometer_THT.pretty/Potentiometer_Piher_PT-15-V15_Vertical_Hole.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_potentiometer_tht_potentiometer_piher_pt_15_v15_vertical_hole
+  oomp_key_full: oomp_footprint_kicad_potentiometer_tht_potentiometer_piher_pt_15_v15_vertical_hole
   oomp_key_simple: kicad_potentiometer_tht_potentiometer_piher_pt_15_v15_vertical_hole
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

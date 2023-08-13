@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cvra_std_inductor2300/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cvra_std_inductor2300/working
-    oomp_doc: footprints/footprints/cvra/_std/Inductor2300/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cvra/_std/Inductor2300/working
     oomp_src_flat: footprints_flat/footprints_flat/cvra_std_inductor2300/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cvra_std_inductor2300/working
-    oomp_src_folder: footprints_folder/footprints_folder/cvra/_std/Inductor2300/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cvra/_std/Inductor2300/working
   name: kicad-lib
+  oomp:
+    footprint_name: inductor2300
+    library_name: _std
+    md5: f1142ab2b14968ba70732743cf67b965
+    md5_10: f1142ab2b1
+    md5_5: f1142
+    md5_6: f1142a
+    oomp_key: oomp_cvra_std_inductor2300
+    oomp_key_extra: oomp_footprint_cvra_std_inductor2300
+    oomp_key_full: oomp_footprint_cvra_std_inductor2300_f1142a
+    oomp_key_simple: cvra_std_inductor2300
+    original_filename: kicad-lib/footprints/_std.pretty/Inductor2300.kicad_mod
+    owner_name: cvra
   oomp_key: oomp_cvra_std_inductor2300
+  oomp_key_full: oomp_footprint_cvra_std_inductor2300
   oomp_key_simple: cvra_std_inductor2300
   owner: cvra
   repo:

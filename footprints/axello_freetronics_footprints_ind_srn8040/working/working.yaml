@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/axello_freetronics_footprints_ind_srn8040/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/axello_freetronics_footprints_ind_srn8040/working
-    oomp_doc: footprints/footprints/axello/freetronics_footprints/IND_SRN8040/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/axello/freetronics_footprints/IND_SRN8040/working
     oomp_src_flat: footprints_flat/footprints_flat/axello_freetronics_footprints_ind_srn8040/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/axello_freetronics_footprints_ind_srn8040/working
-    oomp_src_folder: footprints_folder/footprints_folder/axello/freetronics_footprints/IND_SRN8040/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/axello/freetronics_footprints/IND_SRN8040/working
   name: kicad
+  oomp:
+    footprint_name: ind_srn8040
+    library_name: freetronics_footprints
+    md5: 22a5da4a700611aef35e7ee6fa26dded
+    md5_10: 22a5da4a70
+    md5_5: 22a5d
+    md5_6: 22a5da
+    oomp_key: oomp_axello_freetronics_footprints_ind_srn8040
+    oomp_key_extra: oomp_footprint_axello_freetronics_footprints_ind_srn8040
+    oomp_key_full: oomp_footprint_axello_freetronics_footprints_ind_srn8040_22a5da
+    oomp_key_simple: axello_freetronics_footprints_ind_srn8040
+    original_filename: kicad/mods/freetronics_footprints.pretty/IND_SRN8040.kicad_mod
+    owner_name: axello
   oomp_key: oomp_axello_freetronics_footprints_ind_srn8040
+  oomp_key_full: oomp_footprint_axello_freetronics_footprints_ind_srn8040
   oomp_key_simple: axello_freetronics_footprints_ind_srn8040
   owner: axello
   repo:

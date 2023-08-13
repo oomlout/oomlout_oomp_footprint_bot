@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pelrun_w_conn_kk156_kk156_26_60_4020/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pelrun_w_conn_kk156_kk156_26_60_4020/working
-    oomp_doc: footprints/footprints/pelrun/w_conn_kk156/kk156_26-60-4020/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/pelrun/w_conn_kk156/kk156_26-60-4020/working
     oomp_src_flat: footprints_flat/footprints_flat/pelrun_w_conn_kk156_kk156_26_60_4020/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pelrun_w_conn_kk156_kk156_26_60_4020/working
-    oomp_src_folder: footprints_folder/footprints_folder/pelrun/w_conn_kk156/kk156_26-60-4020/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/pelrun/w_conn_kk156/kk156_26-60-4020/working
   name: libKiCad
+  oomp:
+    footprint_name: kk156_26_60_4020
+    library_name: w_conn_kk156
+    md5: 37a763726daced364a31301e7bb3a3e1
+    md5_10: 37a763726d
+    md5_5: 37a76
+    md5_6: 37a763
+    oomp_key: oomp_pelrun_w_conn_kk156_kk156_26_60_4020
+    oomp_key_extra: oomp_footprint_pelrun_w_conn_kk156_kk156_26_60_4020
+    oomp_key_full: oomp_footprint_pelrun_w_conn_kk156_kk156_26_60_4020_37a763
+    oomp_key_simple: pelrun_w_conn_kk156_kk156_26_60_4020
+    original_filename: libKiCad/footprint/w_conn_kk156.pretty/kk156_26-60-4020.kicad_mod
+    owner_name: pelrun
   oomp_key: oomp_pelrun_w_conn_kk156_kk156_26_60_4020
+  oomp_key_full: oomp_footprint_pelrun_w_conn_kk156_kk156_26_60_4020
   oomp_key_simple: pelrun_w_conn_kk156_kk156_26_60_4020
   owner: pelrun
   repo:

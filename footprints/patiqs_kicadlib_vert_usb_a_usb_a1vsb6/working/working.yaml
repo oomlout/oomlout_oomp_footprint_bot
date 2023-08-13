@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/patiqs_kicadlib_vert_usb_a_usb_a1vsb6/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/patiqs_kicadlib_vert_usb_a_usb_a1vsb6/working
-    oomp_doc: footprints/footprints/patiqs/KicadLib/Vert_USB_A_USB-A1VSB6/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/patiqs/KicadLib/Vert_USB_A_USB-A1VSB6/working
     oomp_src_flat: footprints_flat/footprints_flat/patiqs_kicadlib_vert_usb_a_usb_a1vsb6/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/patiqs_kicadlib_vert_usb_a_usb_a1vsb6/working
-    oomp_src_folder: footprints_folder/footprints_folder/patiqs/KicadLib/Vert_USB_A_USB-A1VSB6/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/patiqs/KicadLib/Vert_USB_A_USB-A1VSB6/working
   name: KicadLib.pretty
+  oomp:
+    footprint_name: vert_usb_a_usb_a1vsb6
+    library_name: kicadlib
+    md5: b89dd2850b0a85463e63431cac1e05b3
+    md5_10: b89dd2850b
+    md5_5: b89dd
+    md5_6: b89dd2
+    oomp_key: oomp_patiqs_kicadlib_vert_usb_a_usb_a1vsb6
+    oomp_key_extra: oomp_footprint_patiqs_kicadlib_vert_usb_a_usb_a1vsb6
+    oomp_key_full: oomp_footprint_patiqs_kicadlib_vert_usb_a_usb_a1vsb6_b89dd2
+    oomp_key_simple: patiqs_kicadlib_vert_usb_a_usb_a1vsb6
+    original_filename: KicadLib.pretty/Vert_USB_A_USB-A1VSB6.kicad_mod
+    owner_name: patiqs
   oomp_key: oomp_patiqs_kicadlib_vert_usb_a_usb_a1vsb6
+  oomp_key_full: oomp_footprint_patiqs_kicadlib_vert_usb_a_usb_a1vsb6
   oomp_key_simple: patiqs_kicadlib_vert_usb_a_usb_a1vsb6
   owner: patiqs
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/rohbotics_ipc7351_nominal_capc2012x100n/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/rohbotics_ipc7351_nominal_capc2012x100n/working
-    oomp_doc: footprints/footprints/rohbotics/IPC7351-Nominal/CAPC2012X100N/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/rohbotics/IPC7351-Nominal/CAPC2012X100N/working
     oomp_src_flat: footprints_flat/footprints_flat/rohbotics_ipc7351_nominal_capc2012x100n/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/rohbotics_ipc7351_nominal_capc2012x100n/working
-    oomp_src_folder: footprints_folder/footprints_folder/rohbotics/IPC7351-Nominal/CAPC2012X100N/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/rohbotics/IPC7351-Nominal/CAPC2012X100N/working
   name: IPC7351-Nominal.pretty
+  oomp:
+    footprint_name: capc2012x100n
+    library_name: ipc7351_nominal
+    md5: 0d8c4e1723f3c4e0f74ca73f16ea60d6
+    md5_10: 0d8c4e1723
+    md5_5: 0d8c4
+    md5_6: 0d8c4e
+    oomp_key: oomp_rohbotics_ipc7351_nominal_capc2012x100n
+    oomp_key_extra: oomp_footprint_rohbotics_ipc7351_nominal_capc2012x100n
+    oomp_key_full: oomp_footprint_rohbotics_ipc7351_nominal_capc2012x100n_0d8c4e
+    oomp_key_simple: rohbotics_ipc7351_nominal_capc2012x100n
+    original_filename: IPC7351-Nominal.pretty/CAPC2012X100N.kicad_mod
+    owner_name: rohbotics
   oomp_key: oomp_rohbotics_ipc7351_nominal_capc2012x100n
+  oomp_key_full: oomp_footprint_rohbotics_ipc7351_nominal_capc2012x100n
   oomp_key_simple: rohbotics_ipc7351_nominal_capc2012x100n
   owner: rohbotics
   repo:

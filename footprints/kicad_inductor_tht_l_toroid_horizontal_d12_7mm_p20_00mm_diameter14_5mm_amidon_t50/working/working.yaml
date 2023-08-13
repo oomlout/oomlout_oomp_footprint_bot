@@ -12,17 +12,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_inductor_tht_l_toroid_horizontal_d12_7mm_p20_00mm_diameter14_5mm_amidon_t50/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_inductor_tht_l_toroid_horizontal_d12_7mm_p20_00mm_diameter14_5mm_amidon_t50/working
-    oomp_doc: footprints/footprints/kicad/Inductor_THT/L_Toroid_Horizontal_D12.7mm_P20.00mm_Diameter14-5mm_Amidon-T50/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Inductor_THT/L_Toroid_Horizontal_D12.7mm_P20.00mm_Diameter14-5mm_Amidon-T50/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_inductor_tht_l_toroid_horizontal_d12_7mm_p20_00mm_diameter14_5mm_amidon_t50/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_inductor_tht_l_toroid_horizontal_d12_7mm_p20_00mm_diameter14_5mm_amidon_t50/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Inductor_THT/L_Toroid_Horizontal_D12.7mm_P20.00mm_Diameter14-5mm_Amidon-T50/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Inductor_THT/L_Toroid_Horizontal_D12.7mm_P20.00mm_Diameter14-5mm_Amidon-T50/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: l_toroid_horizontal_d12_7mm_p20_00mm_diameter14_5mm_amidon_t50
+    library_name: inductor_tht
+    md5: 74aad9d1e61ca974b6b7568767a0a8c4
+    md5_10: 74aad9d1e6
+    md5_5: 74aad
+    md5_6: 74aad9
+    oomp_key: oomp_kicad_inductor_tht_l_toroid_horizontal_d12_7mm_p20_00mm_diameter14_5mm_amidon_t50
+    oomp_key_extra: oomp_footprint_kicad_inductor_tht_l_toroid_horizontal_d12_7mm_p20_00mm_diameter14_5mm_amidon_t50
+    oomp_key_full: oomp_footprint_kicad_inductor_tht_l_toroid_horizontal_d12_7mm_p20_00mm_diameter14_5mm_amidon_t50_74aad9
+    oomp_key_simple: kicad_inductor_tht_l_toroid_horizontal_d12_7mm_p20_00mm_diameter14_5mm_amidon_t50
+    original_filename: libraries/kicad-footprints/Inductor_THT.pretty/L_Toroid_Horizontal_D12.7mm_P20.00mm_Diameter14-5mm_Amidon-T50.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_inductor_tht_l_toroid_horizontal_d12_7mm_p20_00mm_diameter14_5mm_amidon_t50
+  oomp_key_full: oomp_footprint_kicad_inductor_tht_l_toroid_horizontal_d12_7mm_p20_00mm_diameter14_5mm_amidon_t50
   oomp_key_simple: kicad_inductor_tht_l_toroid_horizontal_d12_7mm_p20_00mm_diameter14_5mm_amidon_t50
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/natsfr_skyworks_sky16602_632/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/natsfr_skyworks_sky16602_632/working
-    oomp_doc: footprints/footprints/natsfr/Skyworks/SKY16602-632/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/natsfr/Skyworks/SKY16602-632/working
     oomp_src_flat: footprints_flat/footprints_flat/natsfr_skyworks_sky16602_632/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/natsfr_skyworks_sky16602_632/working
-    oomp_src_folder: footprints_folder/footprints_folder/natsfr/Skyworks/SKY16602-632/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/natsfr/Skyworks/SKY16602-632/working
   name: kicad-components
+  oomp:
+    footprint_name: sky16602_632
+    library_name: skyworks
+    md5: 2fa013933dbe6a9027f29d77493617a6
+    md5_10: 2fa013933d
+    md5_5: 2fa01
+    md5_6: 2fa013
+    oomp_key: oomp_natsfr_skyworks_sky16602_632
+    oomp_key_extra: oomp_footprint_natsfr_skyworks_sky16602_632
+    oomp_key_full: oomp_footprint_natsfr_skyworks_sky16602_632_2fa013
+    oomp_key_simple: natsfr_skyworks_sky16602_632
+    original_filename: kicad-components/Pretty_Footprints/Skyworks.pretty/SKY16602-632.kicad_mod
+    owner_name: natsfr
   oomp_key: oomp_natsfr_skyworks_sky16602_632
+  oomp_key_full: oomp_footprint_natsfr_skyworks_sky16602_632
   oomp_key_simple: natsfr_skyworks_sky16602_632
   owner: natsfr
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/esden_pkl_buttons_switches_tact_switch_side_boss_b3u_3000p_b/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/esden_pkl_buttons_switches_tact_switch_side_boss_b3u_3000p_b/working
-    oomp_doc: footprints/footprints/esden/pkl_buttons_switches/Tact_Switch_Side_Boss_B3U-3000P-B/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/esden/pkl_buttons_switches/Tact_Switch_Side_Boss_B3U-3000P-B/working
     oomp_src_flat: footprints_flat/footprints_flat/esden_pkl_buttons_switches_tact_switch_side_boss_b3u_3000p_b/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/esden_pkl_buttons_switches_tact_switch_side_boss_b3u_3000p_b/working
-    oomp_src_folder: footprints_folder/footprints_folder/esden/pkl_buttons_switches/Tact_Switch_Side_Boss_B3U-3000P-B/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/esden/pkl_buttons_switches/Tact_Switch_Side_Boss_B3U-3000P-B/working
   name: pretty-kicad-libs
+  oomp:
+    footprint_name: tact_switch_side_boss_b3u_3000p_b
+    library_name: pkl_buttons_switches
+    md5: cb38815dd500f48b585e77e2ab6ad6dd
+    md5_10: cb38815dd5
+    md5_5: cb388
+    md5_6: cb3881
+    oomp_key: oomp_esden_pkl_buttons_switches_tact_switch_side_boss_b3u_3000p_b
+    oomp_key_extra: oomp_footprint_esden_pkl_buttons_switches_tact_switch_side_boss_b3u_3000p_b
+    oomp_key_full: oomp_footprint_esden_pkl_buttons_switches_tact_switch_side_boss_b3u_3000p_b_cb3881
+    oomp_key_simple: esden_pkl_buttons_switches_tact_switch_side_boss_b3u_3000p_b
+    original_filename: pretty-kicad-libs/pkl_buttons_switches.pretty/Tact_Switch_Side_Boss_B3U-3000P-B.kicad_mod
+    owner_name: esden
   oomp_key: oomp_esden_pkl_buttons_switches_tact_switch_side_boss_b3u_3000p_b
+  oomp_key_full: oomp_footprint_esden_pkl_buttons_switches_tact_switch_side_boss_b3u_3000p_b
   oomp_key_simple: esden_pkl_buttons_switches_tact_switch_side_boss_b3u_3000p_b
   owner: esden
   repo:

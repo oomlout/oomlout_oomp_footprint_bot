@@ -15,18 +15,24 @@
     github_src_repo: https://github.com/leptun/leptunKicadLib.pretty
     oomp_bot: footprints/leptun_leptunkicadlib_waveshare_3_2inch_320x240_touch_lcd_(c)/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/leptun_leptunkicadlib_waveshare_3_2inch_320x240_touch_lcd_(c)/working
-    oomp_doc: footprints/footprints/leptun/leptunKicadLib/Waveshare_3.2inch 320x240
-      Touch LCD (C)/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/leptun/leptunKicadLib/Waveshare_3.2inch
-      320x240 Touch LCD (C)/working
     oomp_src_flat: footprints_flat/footprints_flat/leptun_leptunkicadlib_waveshare_3_2inch_320x240_touch_lcd_(c)/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/leptun_leptunkicadlib_waveshare_3_2inch_320x240_touch_lcd_(c)/working
-    oomp_src_folder: footprints_folder/footprints_folder/leptun/leptunKicadLib/Waveshare_3.2inch
-      320x240 Touch LCD (C)/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/leptun/leptunKicadLib/Waveshare_3.2inch
-      320x240 Touch LCD (C)/working
   name: leptunKicadLib.pretty
+  oomp:
+    footprint_name: waveshare_3_2inch_320x240_touch_lcd_(c)
+    library_name: leptunkicadlib
+    md5: bb77b6c9e52b982e9632ef58628f19f9
+    md5_10: bb77b6c9e5
+    md5_5: bb77b
+    md5_6: bb77b6
+    oomp_key: oomp_leptun_leptunkicadlib_waveshare_3_2inch_320x240_touch_lcd_(c)
+    oomp_key_extra: oomp_footprint_leptun_leptunkicadlib_waveshare_3_2inch_320x240_touch_lcd_(c)
+    oomp_key_full: oomp_footprint_leptun_leptunkicadlib_waveshare_3_2inch_320x240_touch_lcd_(c)_bb77b6
+    oomp_key_simple: leptun_leptunkicadlib_waveshare_3_2inch_320x240_touch_lcd_(c)
+    original_filename: leptunKicadLib.pretty/Waveshare_3.2inch 320x240 Touch LCD (C).kicad_mod
+    owner_name: leptun
   oomp_key: oomp_leptun_leptunkicadlib_waveshare_3_2inch_320x240_touch_lcd_(c)
+  oomp_key_full: oomp_footprint_leptun_leptunkicadlib_waveshare_3_2inch_320x240_touch_lcd_(c)
   oomp_key_simple: leptun_leptunkicadlib_waveshare_3_2inch_320x240_touch_lcd_(c)
   owner: leptun
   repo:

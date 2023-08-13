@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/joanthespark_rf_rcv/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/joanthespark_rf_rcv/working
-    oomp_doc: footprints/footprints/JoanTheSpark/RF/RCV/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/JoanTheSpark/RF/RCV/working
     oomp_src_flat: footprints_flat/footprints_flat/joanthespark_rf_rcv/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/joanthespark_rf_rcv/working
-    oomp_src_folder: footprints_folder/footprints_folder/JoanTheSpark/RF/RCV/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/JoanTheSpark/RF/RCV/working
   name: KiCAD
+  oomp:
+    footprint_name: rcv
+    library_name: rf
+    md5: 1047c7dde8ee1ea5de9de34eece89486
+    md5_10: 1047c7dde8
+    md5_5: 1047c
+    md5_6: 1047c7
+    oomp_key: oomp_joanthespark_rf_rcv
+    oomp_key_extra: oomp_footprint_joanthespark_rf_rcv
+    oomp_key_full: oomp_footprint_joanthespark_rf_rcv_1047c7
+    oomp_key_simple: joanthespark_rf_rcv
+    original_filename: KiCAD/mods/RF.pretty/RCV.kicad_mod
+    owner_name: joanthespark
   oomp_key: oomp_joanthespark_rf_rcv
+  oomp_key_full: oomp_footprint_joanthespark_rf_rcv
   oomp_key_simple: joanthespark_rf_rcv
   owner: JoanTheSpark
   repo:

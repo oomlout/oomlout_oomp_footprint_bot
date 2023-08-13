@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/rocketscream_rocketscreamkicadlibrary_sod_123/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/rocketscream_rocketscreamkicadlibrary_sod_123/working
-    oomp_doc: footprints/footprints/rocketscream/RocketScreamKicadLibrary/SOD-123/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/rocketscream/RocketScreamKicadLibrary/SOD-123/working
     oomp_src_flat: footprints_flat/footprints_flat/rocketscream_rocketscreamkicadlibrary_sod_123/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/rocketscream_rocketscreamkicadlibrary_sod_123/working
-    oomp_src_folder: footprints_folder/footprints_folder/rocketscream/RocketScreamKicadLibrary/SOD-123/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/rocketscream/RocketScreamKicadLibrary/SOD-123/working
   name: RocketScreamKicadLibrary
+  oomp:
+    footprint_name: sod_123
+    library_name: rocketscreamkicadlibrary
+    md5: d8bd9ed4646d15c90761cc8d3e12adc7
+    md5_10: d8bd9ed464
+    md5_5: d8bd9
+    md5_6: d8bd9e
+    oomp_key: oomp_rocketscream_rocketscreamkicadlibrary_sod_123
+    oomp_key_extra: oomp_footprint_rocketscream_rocketscreamkicadlibrary_sod_123
+    oomp_key_full: oomp_footprint_rocketscream_rocketscreamkicadlibrary_sod_123_d8bd9e
+    oomp_key_simple: rocketscream_rocketscreamkicadlibrary_sod_123
+    original_filename: RocketScreamKicadLibrary/RocketScreamKicadLibrary.pretty/SOD-123.kicad_mod
+    owner_name: rocketscream
   oomp_key: oomp_rocketscream_rocketscreamkicadlibrary_sod_123
+  oomp_key_full: oomp_footprint_rocketscream_rocketscreamkicadlibrary_sod_123
   oomp_key_simple: rocketscream_rocketscreamkicadlibrary_sod_123
   owner: rocketscream
   repo:

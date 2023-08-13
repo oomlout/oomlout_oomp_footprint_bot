@@ -12,17 +12,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_package_csp_st_wlcsp_36_die417/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_package_csp_st_wlcsp_36_die417/working
-    oomp_doc: footprints/footprints/kicad/Package_CSP/ST_WLCSP-36_Die417/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Package_CSP/ST_WLCSP-36_Die417/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_package_csp_st_wlcsp_36_die417/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_package_csp_st_wlcsp_36_die417/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Package_CSP/ST_WLCSP-36_Die417/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Package_CSP/ST_WLCSP-36_Die417/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: st_wlcsp_36_die417
+    library_name: package_csp
+    md5: 190b2efcec133a2cc09970662f70a026
+    md5_10: 190b2efcec
+    md5_5: 190b2
+    md5_6: 190b2e
+    oomp_key: oomp_kicad_package_csp_st_wlcsp_36_die417
+    oomp_key_extra: oomp_footprint_kicad_package_csp_st_wlcsp_36_die417
+    oomp_key_full: oomp_footprint_kicad_package_csp_st_wlcsp_36_die417_190b2e
+    oomp_key_simple: kicad_package_csp_st_wlcsp_36_die417
+    original_filename: libraries/kicad-footprints/Package_CSP.pretty/ST_WLCSP-36_Die417.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_package_csp_st_wlcsp_36_die417
+  oomp_key_full: oomp_footprint_kicad_package_csp_st_wlcsp_36_die417
   oomp_key_simple: kicad_package_csp_st_wlcsp_36_die417
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

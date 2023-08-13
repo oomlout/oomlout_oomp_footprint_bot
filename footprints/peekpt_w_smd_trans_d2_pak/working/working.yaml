@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/peekpt_w_smd_trans_d2_pak/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/peekpt_w_smd_trans_d2_pak/working
-    oomp_doc: footprints/footprints/peekpt/w_smd_trans/d2-pak/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/peekpt/w_smd_trans/d2-pak/working
     oomp_src_flat: footprints_flat/footprints_flat/peekpt_w_smd_trans_d2_pak/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/peekpt_w_smd_trans_d2_pak/working
-    oomp_src_folder: footprints_folder/footprints_folder/peekpt/w_smd_trans/d2-pak/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/peekpt/w_smd_trans/d2-pak/working
   name: kicad_smisioto
+  oomp:
+    footprint_name: d2_pak
+    library_name: w_smd_trans
+    md5: 955524f992beaf4d0a42783cd3b50013
+    md5_10: 955524f992
+    md5_5: '95552'
+    md5_6: '955524'
+    oomp_key: oomp_peekpt_w_smd_trans_d2_pak
+    oomp_key_extra: oomp_footprint_peekpt_w_smd_trans_d2_pak
+    oomp_key_full: oomp_footprint_peekpt_w_smd_trans_d2_pak_955524
+    oomp_key_simple: peekpt_w_smd_trans_d2_pak
+    original_filename: kicad_smisioto/modules/walter/w_smd_trans.pretty/d2-pak.kicad_mod
+    owner_name: peekpt
   oomp_key: oomp_peekpt_w_smd_trans_d2_pak
+  oomp_key_full: oomp_footprint_peekpt_w_smd_trans_d2_pak
   oomp_key_simple: peekpt_w_smd_trans_d2_pak
   owner: peekpt
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/seeed_studio_opl_integrated_circuit_ssop28_0_65_10_2x5_2mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/seeed_studio_opl_integrated_circuit_ssop28_0_65_10_2x5_2mm/working
-    oomp_doc: footprints/footprints/Seeed-Studio/OPL_Integrated_Circuit/SSOP28-0.65-10.2X5.2MM/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Seeed-Studio/OPL_Integrated_Circuit/SSOP28-0.65-10.2X5.2MM/working
     oomp_src_flat: footprints_flat/footprints_flat/seeed_studio_opl_integrated_circuit_ssop28_0_65_10_2x5_2mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/seeed_studio_opl_integrated_circuit_ssop28_0_65_10_2x5_2mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/Seeed-Studio/OPL_Integrated_Circuit/SSOP28-0.65-10.2X5.2MM/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Seeed-Studio/OPL_Integrated_Circuit/SSOP28-0.65-10.2X5.2MM/working
   name: OPL_Kicad_Library
+  oomp:
+    footprint_name: ssop28_0_65_10_2x5_2mm
+    library_name: opl_integrated_circuit
+    md5: 7f76b7e4eea2c2d9bf51f9de7993cc65
+    md5_10: 7f76b7e4ee
+    md5_5: 7f76b
+    md5_6: 7f76b7
+    oomp_key: oomp_seeed_studio_opl_integrated_circuit_ssop28_0_65_10_2x5_2mm
+    oomp_key_extra: oomp_footprint_seeed_studio_opl_integrated_circuit_ssop28_0_65_10_2x5_2mm
+    oomp_key_full: oomp_footprint_seeed_studio_opl_integrated_circuit_ssop28_0_65_10_2x5_2mm_7f76b7
+    oomp_key_simple: seeed_studio_opl_integrated_circuit_ssop28_0_65_10_2x5_2mm
+    original_filename: OPL_Kicad_Library/Seeed_Fusion_PCBA_OPL_Component_Library_for_KiCad/OPL_Integrated_Circuit.pretty/SSOP28-0.65-10.2X5.2MM.kicad_mod
+    owner_name: seeed_studio
   oomp_key: oomp_seeed_studio_opl_integrated_circuit_ssop28_0_65_10_2x5_2mm
+  oomp_key_full: oomp_footprint_seeed_studio_opl_integrated_circuit_ssop28_0_65_10_2x5_2mm
   oomp_key_simple: seeed_studio_opl_integrated_circuit_ssop28_0_65_10_2x5_2mm
   owner: Seeed-Studio
   repo:

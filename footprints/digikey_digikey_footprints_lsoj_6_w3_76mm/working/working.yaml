@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/digikey_digikey_footprints_lsoj_6_w3_76mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_digikey_footprints_lsoj_6_w3_76mm/working
-    oomp_doc: footprints/footprints/digikey/digikey-footprints/LSOJ-6_W3.76mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/digikey/digikey-footprints/LSOJ-6_W3.76mm/working
     oomp_src_flat: footprints_flat/footprints_flat/digikey_digikey_footprints_lsoj_6_w3_76mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/digikey_digikey_footprints_lsoj_6_w3_76mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/digikey/digikey-footprints/LSOJ-6_W3.76mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/digikey/digikey-footprints/LSOJ-6_W3.76mm/working
   name: digikey-kicad-library
+  oomp:
+    footprint_name: lsoj_6_w3_76mm
+    library_name: digikey_footprints
+    md5: 681df2c8263801027926cd27528499a9
+    md5_10: 681df2c826
+    md5_5: 681df
+    md5_6: 681df2
+    oomp_key: oomp_digikey_digikey_footprints_lsoj_6_w3_76mm
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_lsoj_6_w3_76mm
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_lsoj_6_w3_76mm_681df2
+    oomp_key_simple: digikey_digikey_footprints_lsoj_6_w3_76mm
+    original_filename: digikey-kicad-library/digikey-footprints.pretty/LSOJ-6_W3.76mm.kicad_mod
+    owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_lsoj_6_w3_76mm
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_lsoj_6_w3_76mm
   oomp_key_simple: digikey_digikey_footprints_lsoj_6_w3_76mm
   owner: digikey
   repo:

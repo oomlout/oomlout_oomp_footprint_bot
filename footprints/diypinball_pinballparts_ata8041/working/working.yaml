@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/diypinball_pinballparts_ata8041/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/diypinball_pinballparts_ata8041/working
-    oomp_doc: footprints/footprints/diypinball/PinballParts/ATA8041/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/diypinball/PinballParts/ATA8041/working
     oomp_src_flat: footprints_flat/footprints_flat/diypinball_pinballparts_ata8041/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/diypinball_pinballparts_ata8041/working
-    oomp_src_folder: footprints_folder/footprints_folder/diypinball/PinballParts/ATA8041/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/diypinball/PinballParts/ATA8041/working
   name: PinballParts.pretty
+  oomp:
+    footprint_name: ata8041
+    library_name: pinballparts
+    md5: 6618899d1fe1499e7f6eef5c81b427ab
+    md5_10: 6618899d1f
+    md5_5: '66188'
+    md5_6: '661889'
+    oomp_key: oomp_diypinball_pinballparts_ata8041
+    oomp_key_extra: oomp_footprint_diypinball_pinballparts_ata8041
+    oomp_key_full: oomp_footprint_diypinball_pinballparts_ata8041_661889
+    oomp_key_simple: diypinball_pinballparts_ata8041
+    original_filename: PinballParts.pretty/ATA8041.kicad_mod
+    owner_name: diypinball
   oomp_key: oomp_diypinball_pinballparts_ata8041
+  oomp_key_full: oomp_footprint_diypinball_pinballparts_ata8041
   oomp_key_simple: diypinball_pinballparts_ata8041
   owner: diypinball
   repo:

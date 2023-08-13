@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/stormbard_keyboard_cherry_mx_led/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stormbard_keyboard_cherry_mx_led/working
-    oomp_doc: footprints/footprints/stormbard/Keyboard/CHERRY_MX_LED/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/stormbard/Keyboard/CHERRY_MX_LED/working
     oomp_src_flat: footprints_flat/footprints_flat/stormbard_keyboard_cherry_mx_led/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/stormbard_keyboard_cherry_mx_led/working
-    oomp_src_folder: footprints_folder/footprints_folder/stormbard/Keyboard/CHERRY_MX_LED/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/stormbard/Keyboard/CHERRY_MX_LED/working
   name: Keyboard.pretty
+  oomp:
+    footprint_name: cherry_mx_led
+    library_name: keyboard
+    md5: 921702969e86d156119f278d638a2c44
+    md5_10: 921702969e
+    md5_5: '92170'
+    md5_6: '921702'
+    oomp_key: oomp_stormbard_keyboard_cherry_mx_led
+    oomp_key_extra: oomp_footprint_stormbard_keyboard_cherry_mx_led
+    oomp_key_full: oomp_footprint_stormbard_keyboard_cherry_mx_led_921702
+    oomp_key_simple: stormbard_keyboard_cherry_mx_led
+    original_filename: Keyboard.pretty/CHERRY_MX_LED.kicad_mod
+    owner_name: stormbard
   oomp_key: oomp_stormbard_keyboard_cherry_mx_led
+  oomp_key_full: oomp_footprint_stormbard_keyboard_cherry_mx_led
   oomp_key_simple: stormbard_keyboard_cherry_mx_led
   owner: stormbard
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/axello_1wire_v0_4_sot_23_3/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/axello_1wire_v0_4_sot_23_3/working
-    oomp_doc: footprints/footprints/axello/1wire-v0.4/SOT-23-3/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/axello/1wire-v0.4/SOT-23-3/working
     oomp_src_flat: footprints_flat/footprints_flat/axello_1wire_v0_4_sot_23_3/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/axello_1wire_v0_4_sot_23_3/working
-    oomp_src_folder: footprints_folder/footprints_folder/axello/1wire-v0.4/SOT-23-3/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/axello/1wire-v0.4/SOT-23-3/working
   name: kicad
+  oomp:
+    footprint_name: sot_23_3
+    library_name: 1wire_v0_4
+    md5: 70c0090c7410e5668b666efa09a86abd
+    md5_10: 70c0090c74
+    md5_5: 70c00
+    md5_6: 70c009
+    oomp_key: oomp_axello_1wire_v0_4_sot_23_3
+    oomp_key_extra: oomp_footprint_axello_1wire_v0_4_sot_23_3
+    oomp_key_full: oomp_footprint_axello_1wire_v0_4_sot_23_3_70c009
+    oomp_key_simple: axello_1wire_v0_4_sot_23_3
+    original_filename: kicad/6.0/projects/1w-grove-v0.1/1wire-v0.4.pretty/SOT-23-3.kicad_mod
+    owner_name: axello
   oomp_key: oomp_axello_1wire_v0_4_sot_23_3
+  oomp_key_full: oomp_footprint_axello_1wire_v0_4_sot_23_3
   oomp_key_simple: axello_1wire_v0_4_sot_23_3
   owner: axello
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/tdholmes_tylercustom_creeled_6/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/tdholmes_tylercustom_creeled_6/working
-    oomp_doc: footprints/footprints/TDHolmes/TylerCustom/CREELED_6/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/TDHolmes/TylerCustom/CREELED_6/working
     oomp_src_flat: footprints_flat/footprints_flat/tdholmes_tylercustom_creeled_6/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/tdholmes_tylercustom_creeled_6/working
-    oomp_src_folder: footprints_folder/footprints_folder/TDHolmes/TylerCustom/CREELED_6/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/TDHolmes/TylerCustom/CREELED_6/working
   name: KiCadCustomFootprints
+  oomp:
+    footprint_name: creeled_6
+    library_name: tylercustom
+    md5: 16866e65a0de99b4c46552dd03cdbd82
+    md5_10: 16866e65a0
+    md5_5: '16866'
+    md5_6: 16866e
+    oomp_key: oomp_tdholmes_tylercustom_creeled_6
+    oomp_key_extra: oomp_footprint_tdholmes_tylercustom_creeled_6
+    oomp_key_full: oomp_footprint_tdholmes_tylercustom_creeled_6_16866e
+    oomp_key_simple: tdholmes_tylercustom_creeled_6
+    original_filename: KiCadCustomFootprints/TylerCustom.pretty/CREELED_6.kicad_mod
+    owner_name: tdholmes
   oomp_key: oomp_tdholmes_tylercustom_creeled_6
+  oomp_key_full: oomp_footprint_tdholmes_tylercustom_creeled_6
   oomp_key_simple: tdholmes_tylercustom_creeled_6
   owner: TDHolmes
   repo:

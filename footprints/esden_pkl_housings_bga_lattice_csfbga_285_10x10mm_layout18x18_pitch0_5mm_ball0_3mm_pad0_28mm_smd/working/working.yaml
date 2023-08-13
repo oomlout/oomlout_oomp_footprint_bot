@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/esden_pkl_housings_bga_lattice_csfbga_285_10x10mm_layout18x18_pitch0_5mm_ball0_3mm_pad0_28mm_smd/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/esden_pkl_housings_bga_lattice_csfbga_285_10x10mm_layout18x18_pitch0_5mm_ball0_3mm_pad0_28mm_smd/working
-    oomp_doc: footprints/footprints/esden/pkl_housings_bga/Lattice_csfBGA-285_10x10mm_Layout18x18_Pitch0.5mm_Ball0.3mm_Pad0.28mm_SMD/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/esden/pkl_housings_bga/Lattice_csfBGA-285_10x10mm_Layout18x18_Pitch0.5mm_Ball0.3mm_Pad0.28mm_SMD/working
     oomp_src_flat: footprints_flat/footprints_flat/esden_pkl_housings_bga_lattice_csfbga_285_10x10mm_layout18x18_pitch0_5mm_ball0_3mm_pad0_28mm_smd/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/esden_pkl_housings_bga_lattice_csfbga_285_10x10mm_layout18x18_pitch0_5mm_ball0_3mm_pad0_28mm_smd/working
-    oomp_src_folder: footprints_folder/footprints_folder/esden/pkl_housings_bga/Lattice_csfBGA-285_10x10mm_Layout18x18_Pitch0.5mm_Ball0.3mm_Pad0.28mm_SMD/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/esden/pkl_housings_bga/Lattice_csfBGA-285_10x10mm_Layout18x18_Pitch0.5mm_Ball0.3mm_Pad0.28mm_SMD/working
   name: pretty-kicad-libs
+  oomp:
+    footprint_name: lattice_csfbga_285_10x10mm_layout18x18_pitch0_5mm_ball0_3mm_pad0_28mm_smd
+    library_name: pkl_housings_bga
+    md5: 0dcf0b8ee2b25ec070f1898b0731af76
+    md5_10: 0dcf0b8ee2
+    md5_5: 0dcf0
+    md5_6: 0dcf0b
+    oomp_key: oomp_esden_pkl_housings_bga_lattice_csfbga_285_10x10mm_layout18x18_pitch0_5mm_ball0_3mm_pad0_28mm_smd
+    oomp_key_extra: oomp_footprint_esden_pkl_housings_bga_lattice_csfbga_285_10x10mm_layout18x18_pitch0_5mm_ball0_3mm_pad0_28mm_smd
+    oomp_key_full: oomp_footprint_esden_pkl_housings_bga_lattice_csfbga_285_10x10mm_layout18x18_pitch0_5mm_ball0_3mm_pad0_28mm_smd_0dcf0b
+    oomp_key_simple: esden_pkl_housings_bga_lattice_csfbga_285_10x10mm_layout18x18_pitch0_5mm_ball0_3mm_pad0_28mm_smd
+    original_filename: pretty-kicad-libs/pkl_housings_bga.pretty/Lattice_csfBGA-285_10x10mm_Layout18x18_Pitch0.5mm_Ball0.3mm_Pad0.28mm_SMD.kicad_mod
+    owner_name: esden
   oomp_key: oomp_esden_pkl_housings_bga_lattice_csfbga_285_10x10mm_layout18x18_pitch0_5mm_ball0_3mm_pad0_28mm_smd
+  oomp_key_full: oomp_footprint_esden_pkl_housings_bga_lattice_csfbga_285_10x10mm_layout18x18_pitch0_5mm_ball0_3mm_pad0_28mm_smd
   oomp_key_simple: esden_pkl_housings_bga_lattice_csfbga_285_10x10mm_layout18x18_pitch0_5mm_ball0_3mm_pad0_28mm_smd
   owner: esden
   repo:

@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/KUT-KiCad/KUT_Connector.pretty
     oomp_bot: footprints/kut_kicad_kut_connector_df1e_5p/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kut_kicad_kut_connector_df1e_5p/working
-    oomp_doc: footprints/footprints/KUT-KiCad/KUT_Connector/DF1E-5P/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/KUT-KiCad/KUT_Connector/DF1E-5P/working
     oomp_src_flat: footprints_flat/footprints_flat/kut_kicad_kut_connector_df1e_5p/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kut_kicad_kut_connector_df1e_5p/working
-    oomp_src_folder: footprints_folder/footprints_folder/KUT-KiCad/KUT_Connector/DF1E-5P/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/KUT-KiCad/KUT_Connector/DF1E-5P/working
   name: KUT_Connector.pretty
+  oomp:
+    footprint_name: df1e_5p
+    library_name: kut_connector
+    md5: c3897d734de25ab2daa6bcd197c3da01
+    md5_10: c3897d734d
+    md5_5: c3897
+    md5_6: c3897d
+    oomp_key: oomp_kut_kicad_kut_connector_df1e_5p
+    oomp_key_extra: oomp_footprint_kut_kicad_kut_connector_df1e_5p
+    oomp_key_full: oomp_footprint_kut_kicad_kut_connector_df1e_5p_c3897d
+    oomp_key_simple: kut_kicad_kut_connector_df1e_5p
+    original_filename: KUT_Connector.pretty/DF1E-5P.kicad_mod
+    owner_name: kut_kicad
   oomp_key: oomp_kut_kicad_kut_connector_df1e_5p
+  oomp_key_full: oomp_footprint_kut_kicad_kut_connector_df1e_5p
   oomp_key_simple: kut_kicad_kut_connector_df1e_5p
   owner: KUT-KiCad
   repo:

@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/AcheronProject/acheron_MXH_metalrings.pretty
     oomp_bot: footprints/acheronproject_acheron_mxh_metalrings_mx175h/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/acheronproject_acheron_mxh_metalrings_mx175h/working
-    oomp_doc: footprints/footprints/AcheronProject/acheron_MXH_metalrings/MX175H/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/AcheronProject/acheron_MXH_metalrings/MX175H/working
     oomp_src_flat: footprints_flat/footprints_flat/acheronproject_acheron_mxh_metalrings_mx175h/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/acheronproject_acheron_mxh_metalrings_mx175h/working
-    oomp_src_folder: footprints_folder/footprints_folder/AcheronProject/acheron_MXH_metalrings/MX175H/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/AcheronProject/acheron_MXH_metalrings/MX175H/working
   name: acheron_MXH_metalrings.pretty
+  oomp:
+    footprint_name: mx175h
+    library_name: acheron_mxh_metalrings
+    md5: 4b2372f35bbd0043d90fafe2391f91a9
+    md5_10: 4b2372f35b
+    md5_5: 4b237
+    md5_6: 4b2372
+    oomp_key: oomp_acheronproject_acheron_mxh_metalrings_mx175h
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_mxh_metalrings_mx175h
+    oomp_key_full: oomp_footprint_acheronproject_acheron_mxh_metalrings_mx175h_4b2372
+    oomp_key_simple: acheronproject_acheron_mxh_metalrings_mx175h
+    original_filename: acheron_MXH_metalrings.pretty/MX175H.kicad_mod
+    owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_mxh_metalrings_mx175h
+  oomp_key_full: oomp_footprint_acheronproject_acheron_mxh_metalrings_mx175h
   oomp_key_simple: acheronproject_acheron_mxh_metalrings_mx175h
   owner: AcheronProject
   repo:

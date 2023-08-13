@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/stefanhamminga_sh_inductors_tayo_yuden_nr30xx/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stefanhamminga_sh_inductors_tayo_yuden_nr30xx/working
-    oomp_doc: footprints/footprints/StefanHamminga/SH_Inductors/Tayo_Yuden_NR30xx/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/StefanHamminga/SH_Inductors/Tayo_Yuden_NR30xx/working
     oomp_src_flat: footprints_flat/footprints_flat/stefanhamminga_sh_inductors_tayo_yuden_nr30xx/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/stefanhamminga_sh_inductors_tayo_yuden_nr30xx/working
-    oomp_src_folder: footprints_folder/footprints_folder/StefanHamminga/SH_Inductors/Tayo_Yuden_NR30xx/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/StefanHamminga/SH_Inductors/Tayo_Yuden_NR30xx/working
   name: SH_Inductors.pretty
+  oomp:
+    footprint_name: tayo_yuden_nr30xx
+    library_name: sh_inductors
+    md5: bfee0b9f853d4509fd080bb040b5e2cf
+    md5_10: bfee0b9f85
+    md5_5: bfee0
+    md5_6: bfee0b
+    oomp_key: oomp_stefanhamminga_sh_inductors_tayo_yuden_nr30xx
+    oomp_key_extra: oomp_footprint_stefanhamminga_sh_inductors_tayo_yuden_nr30xx
+    oomp_key_full: oomp_footprint_stefanhamminga_sh_inductors_tayo_yuden_nr30xx_bfee0b
+    oomp_key_simple: stefanhamminga_sh_inductors_tayo_yuden_nr30xx
+    original_filename: SH_Inductors.pretty/Tayo_Yuden_NR30xx.kicad_mod
+    owner_name: stefanhamminga
   oomp_key: oomp_stefanhamminga_sh_inductors_tayo_yuden_nr30xx
+  oomp_key_full: oomp_footprint_stefanhamminga_sh_inductors_tayo_yuden_nr30xx
   oomp_key_simple: stefanhamminga_sh_inductors_tayo_yuden_nr30xx
   owner: StefanHamminga
   repo:

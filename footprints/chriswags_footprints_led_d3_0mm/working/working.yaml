@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/chriswags_footprints_led_d3_0mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/chriswags_footprints_led_d3_0mm/working
-    oomp_doc: footprints/footprints/chriswags/footprints/LED_D3.0mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/chriswags/footprints/LED_D3.0mm/working
     oomp_src_flat: footprints_flat/footprints_flat/chriswags_footprints_led_d3_0mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/chriswags_footprints_led_d3_0mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/chriswags/footprints/LED_D3.0mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/chriswags/footprints/LED_D3.0mm/working
   name: KiCad
+  oomp:
+    footprint_name: led_d3_0mm
+    library_name: footprints
+    md5: b9aaad51bb6d8323e5e5ad0d47f678a3
+    md5_10: b9aaad51bb
+    md5_5: b9aaa
+    md5_6: b9aaad
+    oomp_key: oomp_chriswags_footprints_led_d3_0mm
+    oomp_key_extra: oomp_footprint_chriswags_footprints_led_d3_0mm
+    oomp_key_full: oomp_footprint_chriswags_footprints_led_d3_0mm_b9aaad
+    oomp_key_simple: chriswags_footprints_led_d3_0mm
+    original_filename: KiCad/demos/video/libs/footprints.pretty/LED_D3.0mm.kicad_mod
+    owner_name: chriswags
   oomp_key: oomp_chriswags_footprints_led_d3_0mm
+  oomp_key_full: oomp_footprint_chriswags_footprints_led_d3_0mm
   oomp_key_simple: chriswags_footprints_led_d3_0mm
   owner: chriswags
   repo:

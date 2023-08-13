@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/greatscottgadgets_gsg_modules_lqfp144/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/greatscottgadgets_gsg_modules_lqfp144/working
-    oomp_doc: footprints/footprints/greatscottgadgets/gsg-modules/LQFP144/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/greatscottgadgets/gsg-modules/LQFP144/working
     oomp_src_flat: footprints_flat/footprints_flat/greatscottgadgets_gsg_modules_lqfp144/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/greatscottgadgets_gsg_modules_lqfp144/working
-    oomp_src_folder: footprints_folder/footprints_folder/greatscottgadgets/gsg-modules/LQFP144/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/greatscottgadgets/gsg-modules/LQFP144/working
   name: gsg-kicad-lib
+  oomp:
+    footprint_name: lqfp144
+    library_name: gsg_modules
+    md5: 7dc89eb4e09792b6eb0d4ce1530aad52
+    md5_10: 7dc89eb4e0
+    md5_5: 7dc89
+    md5_6: 7dc89e
+    oomp_key: oomp_greatscottgadgets_gsg_modules_lqfp144
+    oomp_key_extra: oomp_footprint_greatscottgadgets_gsg_modules_lqfp144
+    oomp_key_full: oomp_footprint_greatscottgadgets_gsg_modules_lqfp144_7dc89e
+    oomp_key_simple: greatscottgadgets_gsg_modules_lqfp144
+    original_filename: gsg-kicad-lib/gsg-modules.pretty/LQFP144.kicad_mod
+    owner_name: greatscottgadgets
   oomp_key: oomp_greatscottgadgets_gsg_modules_lqfp144
+  oomp_key_full: oomp_footprint_greatscottgadgets_gsg_modules_lqfp144
   oomp_key_simple: greatscottgadgets_gsg_modules_lqfp144
   owner: greatscottgadgets
   repo:

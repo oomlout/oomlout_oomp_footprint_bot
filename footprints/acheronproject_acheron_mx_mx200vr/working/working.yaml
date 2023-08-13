@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/AcheronProject/acheron_MX.pretty
     oomp_bot: footprints/acheronproject_acheron_mx_mx200vr/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/acheronproject_acheron_mx_mx200vr/working
-    oomp_doc: footprints/footprints/AcheronProject/acheron_MX/MX200VR/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/AcheronProject/acheron_MX/MX200VR/working
     oomp_src_flat: footprints_flat/footprints_flat/acheronproject_acheron_mx_mx200vr/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/acheronproject_acheron_mx_mx200vr/working
-    oomp_src_folder: footprints_folder/footprints_folder/AcheronProject/acheron_MX/MX200VR/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/AcheronProject/acheron_MX/MX200VR/working
   name: acheron_MX.pretty
+  oomp:
+    footprint_name: mx200vr
+    library_name: acheron_mx
+    md5: a49bc54d1afa47a2f8f05e0ddf5de61e
+    md5_10: a49bc54d1a
+    md5_5: a49bc
+    md5_6: a49bc5
+    oomp_key: oomp_acheronproject_acheron_mx_mx200vr
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_mx_mx200vr
+    oomp_key_full: oomp_footprint_acheronproject_acheron_mx_mx200vr_a49bc5
+    oomp_key_simple: acheronproject_acheron_mx_mx200vr
+    original_filename: acheron_MX.pretty/MX200VR.kicad_mod
+    owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_mx_mx200vr
+  oomp_key_full: oomp_footprint_acheronproject_acheron_mx_mx200vr
   oomp_key_simple: acheronproject_acheron_mx_mx200vr
   owner: AcheronProject
   repo:

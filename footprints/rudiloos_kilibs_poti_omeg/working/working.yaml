@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/rudiloos_kilibs_poti_omeg/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/rudiloos_kilibs_poti_omeg/working
-    oomp_doc: footprints/footprints/rudiloos/kilibs/POTI-OMEG/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/rudiloos/kilibs/POTI-OMEG/working
     oomp_src_flat: footprints_flat/footprints_flat/rudiloos_kilibs_poti_omeg/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/rudiloos_kilibs_poti_omeg/working
-    oomp_src_folder: footprints_folder/footprints_folder/rudiloos/kilibs/POTI-OMEG/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/rudiloos/kilibs/POTI-OMEG/working
   name: kilibs.pretty
+  oomp:
+    footprint_name: poti_omeg
+    library_name: kilibs
+    md5: ca538b6c80410097967c5a34585ea55f
+    md5_10: ca538b6c80
+    md5_5: ca538
+    md5_6: ca538b
+    oomp_key: oomp_rudiloos_kilibs_poti_omeg
+    oomp_key_extra: oomp_footprint_rudiloos_kilibs_poti_omeg
+    oomp_key_full: oomp_footprint_rudiloos_kilibs_poti_omeg_ca538b
+    oomp_key_simple: rudiloos_kilibs_poti_omeg
+    original_filename: kilibs.pretty/POTI-OMEG.kicad_mod
+    owner_name: rudiloos
   oomp_key: oomp_rudiloos_kilibs_poti_omeg
+  oomp_key_full: oomp_footprint_rudiloos_kilibs_poti_omeg
   oomp_key_simple: rudiloos_kilibs_poti_omeg
   owner: rudiloos
   repo:

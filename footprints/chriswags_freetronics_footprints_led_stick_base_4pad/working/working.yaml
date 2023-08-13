@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/chriswags_freetronics_footprints_led_stick_base_4pad/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/chriswags_freetronics_footprints_led_stick_base_4pad/working
-    oomp_doc: footprints/footprints/chriswags/freetronics_footprints/LED_STICK_BASE_4PAD/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/chriswags/freetronics_footprints/LED_STICK_BASE_4PAD/working
     oomp_src_flat: footprints_flat/footprints_flat/chriswags_freetronics_footprints_led_stick_base_4pad/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/chriswags_freetronics_footprints_led_stick_base_4pad/working
-    oomp_src_folder: footprints_folder/footprints_folder/chriswags/freetronics_footprints/LED_STICK_BASE_4PAD/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/chriswags/freetronics_footprints/LED_STICK_BASE_4PAD/working
   name: KiCad
+  oomp:
+    footprint_name: led_stick_base_4pad
+    library_name: freetronics_footprints
+    md5: 2cc3663ee752025d09d221beafd93b05
+    md5_10: 2cc3663ee7
+    md5_5: 2cc36
+    md5_6: 2cc366
+    oomp_key: oomp_chriswags_freetronics_footprints_led_stick_base_4pad
+    oomp_key_extra: oomp_footprint_chriswags_freetronics_footprints_led_stick_base_4pad
+    oomp_key_full: oomp_footprint_chriswags_freetronics_footprints_led_stick_base_4pad_2cc366
+    oomp_key_simple: chriswags_freetronics_footprints_led_stick_base_4pad
+    original_filename: KiCad/mods/freetronics_footprints.pretty/LED_STICK_BASE_4PAD.kicad_mod
+    owner_name: chriswags
   oomp_key: oomp_chriswags_freetronics_footprints_led_stick_base_4pad
+  oomp_key_full: oomp_footprint_chriswags_freetronics_footprints_led_stick_base_4pad
   oomp_key_simple: chriswags_freetronics_footprints_led_stick_base_4pad
   owner: chriswags
   repo:

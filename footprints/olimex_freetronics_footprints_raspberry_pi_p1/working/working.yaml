@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/olimex_freetronics_footprints_raspberry_pi_p1/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/olimex_freetronics_footprints_raspberry_pi_p1/working
-    oomp_doc: footprints/footprints/OLIMEX/freetronics_footprints/RASPBERRY_PI_P1/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/OLIMEX/freetronics_footprints/RASPBERRY_PI_P1/working
     oomp_src_flat: footprints_flat/footprints_flat/olimex_freetronics_footprints_raspberry_pi_p1/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/olimex_freetronics_footprints_raspberry_pi_p1/working
-    oomp_src_folder: footprints_folder/footprints_folder/OLIMEX/freetronics_footprints/RASPBERRY_PI_P1/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/OLIMEX/freetronics_footprints/RASPBERRY_PI_P1/working
   name: KiCAD
+  oomp:
+    footprint_name: raspberry_pi_p1
+    library_name: freetronics_footprints
+    md5: 2efb4a840d04f4113e8ab7107fbd87bf
+    md5_10: 2efb4a840d
+    md5_5: 2efb4
+    md5_6: 2efb4a
+    oomp_key: oomp_olimex_freetronics_footprints_raspberry_pi_p1
+    oomp_key_extra: oomp_footprint_olimex_freetronics_footprints_raspberry_pi_p1
+    oomp_key_full: oomp_footprint_olimex_freetronics_footprints_raspberry_pi_p1_2efb4a
+    oomp_key_simple: olimex_freetronics_footprints_raspberry_pi_p1
+    original_filename: KiCAD/mods/freetronics_footprints.pretty/RASPBERRY_PI_P1.kicad_mod
+    owner_name: olimex
   oomp_key: oomp_olimex_freetronics_footprints_raspberry_pi_p1
+  oomp_key_full: oomp_footprint_olimex_freetronics_footprints_raspberry_pi_p1
   oomp_key_simple: olimex_freetronics_footprints_raspberry_pi_p1
   owner: OLIMEX
   repo:

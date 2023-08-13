@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/asofttech_gbd_smd_sot_563f/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/asofttech_gbd_smd_sot_563f/working
-    oomp_doc: footprints/footprints/ASoftTech/GBD-SMD/SOT-563F/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ASoftTech/GBD-SMD/SOT-563F/working
     oomp_src_flat: footprints_flat/footprints_flat/asofttech_gbd_smd_sot_563f/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/asofttech_gbd_smd_sot_563f/working
-    oomp_src_folder: footprints_folder/footprints_folder/ASoftTech/GBD-SMD/SOT-563F/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ASoftTech/GBD-SMD/SOT-563F/working
   name: CAD.KiCad.Libs
+  oomp:
+    footprint_name: sot_563f
+    library_name: gbd_smd
+    md5: 380243130cac1593d92c827061fde935
+    md5_10: 380243130c
+    md5_5: '38024'
+    md5_6: '380243'
+    oomp_key: oomp_asofttech_gbd_smd_sot_563f
+    oomp_key_extra: oomp_footprint_asofttech_gbd_smd_sot_563f
+    oomp_key_full: oomp_footprint_asofttech_gbd_smd_sot_563f_380243
+    oomp_key_simple: asofttech_gbd_smd_sot_563f
+    original_filename: CAD.KiCad.Libs/modules/GBD-SMD.pretty/SOT-563F.kicad_mod
+    owner_name: asofttech
   oomp_key: oomp_asofttech_gbd_smd_sot_563f
+  oomp_key_full: oomp_footprint_asofttech_gbd_smd_sot_563f
   oomp_key_simple: asofttech_gbd_smd_sot_563f
   owner: ASoftTech
   repo:

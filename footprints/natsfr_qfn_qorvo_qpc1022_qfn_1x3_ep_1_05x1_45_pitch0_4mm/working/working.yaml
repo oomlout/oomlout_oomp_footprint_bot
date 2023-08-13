@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/natsfr_qfn_qorvo_qpc1022_qfn_1x3_ep_1_05x1_45_pitch0_4mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/natsfr_qfn_qorvo_qpc1022_qfn_1x3_ep_1_05x1_45_pitch0_4mm/working
-    oomp_doc: footprints/footprints/natsfr/QFN/Qorvo_QPC1022_QFN-1x3_EP_1.05x1.45_Pitch0.4mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/natsfr/QFN/Qorvo_QPC1022_QFN-1x3_EP_1.05x1.45_Pitch0.4mm/working
     oomp_src_flat: footprints_flat/footprints_flat/natsfr_qfn_qorvo_qpc1022_qfn_1x3_ep_1_05x1_45_pitch0_4mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/natsfr_qfn_qorvo_qpc1022_qfn_1x3_ep_1_05x1_45_pitch0_4mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/natsfr/QFN/Qorvo_QPC1022_QFN-1x3_EP_1.05x1.45_Pitch0.4mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/natsfr/QFN/Qorvo_QPC1022_QFN-1x3_EP_1.05x1.45_Pitch0.4mm/working
   name: kicad-components
+  oomp:
+    footprint_name: qorvo_qpc1022_qfn_1x3_ep_1_05x1_45_pitch0_4mm
+    library_name: qfn
+    md5: 0127676d8e7eb5649f12e71d70905a29
+    md5_10: 0127676d8e
+    md5_5: '01276'
+    md5_6: '012767'
+    oomp_key: oomp_natsfr_qfn_qorvo_qpc1022_qfn_1x3_ep_1_05x1_45_pitch0_4mm
+    oomp_key_extra: oomp_footprint_natsfr_qfn_qorvo_qpc1022_qfn_1x3_ep_1_05x1_45_pitch0_4mm
+    oomp_key_full: oomp_footprint_natsfr_qfn_qorvo_qpc1022_qfn_1x3_ep_1_05x1_45_pitch0_4mm_012767
+    oomp_key_simple: natsfr_qfn_qorvo_qpc1022_qfn_1x3_ep_1_05x1_45_pitch0_4mm
+    original_filename: kicad-components/Pretty_Footprints/QFN.pretty/Qorvo_QPC1022_QFN-1x3_EP_1.05x1.45_Pitch0.4mm.kicad_mod
+    owner_name: natsfr
   oomp_key: oomp_natsfr_qfn_qorvo_qpc1022_qfn_1x3_ep_1_05x1_45_pitch0_4mm
+  oomp_key_full: oomp_footprint_natsfr_qfn_qorvo_qpc1022_qfn_1x3_ep_1_05x1_45_pitch0_4mm
   oomp_key_simple: natsfr_qfn_qorvo_qpc1022_qfn_1x3_ep_1_05x1_45_pitch0_4mm
   owner: natsfr
   repo:

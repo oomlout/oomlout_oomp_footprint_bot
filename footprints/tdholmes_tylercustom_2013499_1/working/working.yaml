@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/tdholmes_tylercustom_2013499_1/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/tdholmes_tylercustom_2013499_1/working
-    oomp_doc: footprints/footprints/TDHolmes/TylerCustom/2013499-1/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/TDHolmes/TylerCustom/2013499-1/working
     oomp_src_flat: footprints_flat/footprints_flat/tdholmes_tylercustom_2013499_1/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/tdholmes_tylercustom_2013499_1/working
-    oomp_src_folder: footprints_folder/footprints_folder/TDHolmes/TylerCustom/2013499-1/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/TDHolmes/TylerCustom/2013499-1/working
   name: KiCadCustomFootprints
+  oomp:
+    footprint_name: '2013499_1'
+    library_name: tylercustom
+    md5: f392ab81a904dd3006461a3ab2f0bb17
+    md5_10: f392ab81a9
+    md5_5: f392a
+    md5_6: f392ab
+    oomp_key: oomp_tdholmes_tylercustom_2013499_1
+    oomp_key_extra: oomp_footprint_tdholmes_tylercustom_2013499_1
+    oomp_key_full: oomp_footprint_tdholmes_tylercustom_2013499_1_f392ab
+    oomp_key_simple: tdholmes_tylercustom_2013499_1
+    original_filename: KiCadCustomFootprints/TylerCustom.pretty/2013499-1.kicad_mod
+    owner_name: tdholmes
   oomp_key: oomp_tdholmes_tylercustom_2013499_1
+  oomp_key_full: oomp_footprint_tdholmes_tylercustom_2013499_1
   oomp_key_simple: tdholmes_tylercustom_2013499_1
   owner: TDHolmes
   repo:

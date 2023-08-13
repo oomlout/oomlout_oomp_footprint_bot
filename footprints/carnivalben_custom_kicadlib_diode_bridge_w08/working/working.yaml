@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/carnivalben_custom_kicadlib_diode_bridge_w08/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/carnivalben_custom_kicadlib_diode_bridge_w08/working
-    oomp_doc: footprints/footprints/CarnivalBen/custom-kicadlib/Diode_Bridge_W08/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/CarnivalBen/custom-kicadlib/Diode_Bridge_W08/working
     oomp_src_flat: footprints_flat/footprints_flat/carnivalben_custom_kicadlib_diode_bridge_w08/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/carnivalben_custom_kicadlib_diode_bridge_w08/working
-    oomp_src_folder: footprints_folder/footprints_folder/CarnivalBen/custom-kicadlib/Diode_Bridge_W08/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/CarnivalBen/custom-kicadlib/Diode_Bridge_W08/working
   name: custom-kicadlib.pretty
+  oomp:
+    footprint_name: diode_bridge_w08
+    library_name: custom_kicadlib
+    md5: 1a0efb158345e41449feff71ad79a0e5
+    md5_10: 1a0efb1583
+    md5_5: 1a0ef
+    md5_6: 1a0efb
+    oomp_key: oomp_carnivalben_custom_kicadlib_diode_bridge_w08
+    oomp_key_extra: oomp_footprint_carnivalben_custom_kicadlib_diode_bridge_w08
+    oomp_key_full: oomp_footprint_carnivalben_custom_kicadlib_diode_bridge_w08_1a0efb
+    oomp_key_simple: carnivalben_custom_kicadlib_diode_bridge_w08
+    original_filename: custom-kicadlib.pretty/Diode_Bridge_W08.kicad_mod
+    owner_name: carnivalben
   oomp_key: oomp_carnivalben_custom_kicadlib_diode_bridge_w08
+  oomp_key_full: oomp_footprint_carnivalben_custom_kicadlib_diode_bridge_w08
   oomp_key_simple: carnivalben_custom_kicadlib_diode_bridge_w08
   owner: CarnivalBen
   repo:

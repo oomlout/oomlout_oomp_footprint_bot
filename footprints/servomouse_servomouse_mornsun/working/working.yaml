@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/servomouse_servomouse_mornsun/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/servomouse_servomouse_mornsun/working
-    oomp_doc: footprints/footprints/servomouse/servomouse/MORNSUN/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/servomouse/servomouse/MORNSUN/working
     oomp_src_flat: footprints_flat/footprints_flat/servomouse_servomouse_mornsun/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/servomouse_servomouse_mornsun/working
-    oomp_src_folder: footprints_folder/footprints_folder/servomouse/servomouse/MORNSUN/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/servomouse/servomouse/MORNSUN/working
   name: servomouse.pretty
+  oomp:
+    footprint_name: mornsun
+    library_name: servomouse
+    md5: e52b9c15f31d3c574ad771ab69d5edd3
+    md5_10: e52b9c15f3
+    md5_5: e52b9
+    md5_6: e52b9c
+    oomp_key: oomp_servomouse_servomouse_mornsun
+    oomp_key_extra: oomp_footprint_servomouse_servomouse_mornsun
+    oomp_key_full: oomp_footprint_servomouse_servomouse_mornsun_e52b9c
+    oomp_key_simple: servomouse_servomouse_mornsun
+    original_filename: servomouse.pretty/MORNSUN.kicad_mod
+    owner_name: servomouse
   oomp_key: oomp_servomouse_servomouse_mornsun
+  oomp_key_full: oomp_footprint_servomouse_servomouse_mornsun
   oomp_key_simple: servomouse_servomouse_mornsun
   owner: servomouse
   repo:

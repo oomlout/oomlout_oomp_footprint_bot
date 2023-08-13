@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cpavlina_conn_test_test_smd/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cpavlina_conn_test_test_smd/working
-    oomp_doc: footprints/footprints/cpavlina/conn-test/TEST-SMD/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cpavlina/conn-test/TEST-SMD/working
     oomp_src_flat: footprints_flat/footprints_flat/cpavlina_conn_test_test_smd/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cpavlina_conn_test_test_smd/working
-    oomp_src_folder: footprints_folder/footprints_folder/cpavlina/conn-test/TEST-SMD/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cpavlina/conn-test/TEST-SMD/working
   name: kicad-pcblib
+  oomp:
+    footprint_name: test_smd
+    library_name: conn_test
+    md5: 4bfdf69f5e66e7c561c6c67bd278a06a
+    md5_10: 4bfdf69f5e
+    md5_5: 4bfdf
+    md5_6: 4bfdf6
+    oomp_key: oomp_cpavlina_conn_test_test_smd
+    oomp_key_extra: oomp_footprint_cpavlina_conn_test_test_smd
+    oomp_key_full: oomp_footprint_cpavlina_conn_test_test_smd_4bfdf6
+    oomp_key_simple: cpavlina_conn_test_test_smd
+    original_filename: kicad-pcblib/conn-test.pretty/TEST-SMD.kicad_mod
+    owner_name: cpavlina
   oomp_key: oomp_cpavlina_conn_test_test_smd
+  oomp_key_full: oomp_footprint_cpavlina_conn_test_test_smd
   oomp_key_simple: cpavlina_conn_test_test_smd
   owner: cpavlina
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cpavlina_smd_semi_sc_70/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cpavlina_smd_semi_sc_70/working
-    oomp_doc: footprints/footprints/cpavlina/smd-semi/SC-70/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cpavlina/smd-semi/SC-70/working
     oomp_src_flat: footprints_flat/footprints_flat/cpavlina_smd_semi_sc_70/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cpavlina_smd_semi_sc_70/working
-    oomp_src_folder: footprints_folder/footprints_folder/cpavlina/smd-semi/SC-70/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cpavlina/smd-semi/SC-70/working
   name: kicad-pcblib
+  oomp:
+    footprint_name: sc_70
+    library_name: smd_semi
+    md5: 0329a5d1f3336037f6a73f3250ae55e7
+    md5_10: 0329a5d1f3
+    md5_5: 0329a
+    md5_6: 0329a5
+    oomp_key: oomp_cpavlina_smd_semi_sc_70
+    oomp_key_extra: oomp_footprint_cpavlina_smd_semi_sc_70
+    oomp_key_full: oomp_footprint_cpavlina_smd_semi_sc_70_0329a5
+    oomp_key_simple: cpavlina_smd_semi_sc_70
+    original_filename: kicad-pcblib/smd-semi.pretty/SC-70.kicad_mod
+    owner_name: cpavlina
   oomp_key: oomp_cpavlina_smd_semi_sc_70
+  oomp_key_full: oomp_footprint_cpavlina_smd_semi_sc_70
   oomp_key_simple: cpavlina_smd_semi_sc_70
   owner: cpavlina
   repo:

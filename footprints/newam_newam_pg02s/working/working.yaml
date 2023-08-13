@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/newam_newam_pg02s/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/newam_newam_pg02s/working
-    oomp_doc: footprints/footprints/newAM/newam/PG02S/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/newAM/newam/PG02S/working
     oomp_src_flat: footprints_flat/footprints_flat/newam_newam_pg02s/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/newam_newam_pg02s/working
-    oomp_src_folder: footprints_folder/footprints_folder/newAM/newam/PG02S/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/newAM/newam/PG02S/working
   name: newam.pretty
+  oomp:
+    footprint_name: pg02s
+    library_name: newam
+    md5: 1d0033c8a73c046e11bbe86102cda39b
+    md5_10: 1d0033c8a7
+    md5_5: 1d003
+    md5_6: 1d0033
+    oomp_key: oomp_newam_newam_pg02s
+    oomp_key_extra: oomp_footprint_newam_newam_pg02s
+    oomp_key_full: oomp_footprint_newam_newam_pg02s_1d0033
+    oomp_key_simple: newam_newam_pg02s
+    original_filename: newam.pretty/PG02S.kicad_mod
+    owner_name: newam
   oomp_key: oomp_newam_newam_pg02s
+  oomp_key_full: oomp_footprint_newam_newam_pg02s
   oomp_key_simple: newam_newam_pg02s
   owner: newAM
   repo:

@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/apexelectrix/Apex.pretty
     oomp_bot: footprints/apexelectrix_apex_2x5_pin_1_27mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/apexelectrix_apex_2x5_pin_1_27mm/working
-    oomp_doc: footprints/footprints/apexelectrix/Apex/2x5-PIN-1.27mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/apexelectrix/Apex/2x5-PIN-1.27mm/working
     oomp_src_flat: footprints_flat/footprints_flat/apexelectrix_apex_2x5_pin_1_27mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/apexelectrix_apex_2x5_pin_1_27mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/apexelectrix/Apex/2x5-PIN-1.27mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/apexelectrix/Apex/2x5-PIN-1.27mm/working
   name: Apex.pretty
+  oomp:
+    footprint_name: 2x5_pin_1_27mm
+    library_name: apex
+    md5: 98bb535fe164fdbfa1e5bae71bed5f4d
+    md5_10: 98bb535fe1
+    md5_5: 98bb5
+    md5_6: 98bb53
+    oomp_key: oomp_apexelectrix_apex_2x5_pin_1_27mm
+    oomp_key_extra: oomp_footprint_apexelectrix_apex_2x5_pin_1_27mm
+    oomp_key_full: oomp_footprint_apexelectrix_apex_2x5_pin_1_27mm_98bb53
+    oomp_key_simple: apexelectrix_apex_2x5_pin_1_27mm
+    original_filename: Apex.pretty/2x5-PIN-1.27mm.kicad_mod
+    owner_name: apexelectrix
   oomp_key: oomp_apexelectrix_apex_2x5_pin_1_27mm
+  oomp_key_full: oomp_footprint_apexelectrix_apex_2x5_pin_1_27mm
   oomp_key_simple: apexelectrix_apex_2x5_pin_1_27mm
   owner: apexelectrix
   repo:

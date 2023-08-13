@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/gorbachev_kicad_ssd1306_0_91_oled_4pin_128x32_ssd1306_0_91_oled_4pin_128x32/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/gorbachev_kicad_ssd1306_0_91_oled_4pin_128x32_ssd1306_0_91_oled_4pin_128x32/working
-    oomp_doc: footprints/footprints/gorbachev/KiCad-SSD1306-0.91-OLED-4pin-128x32/SSD1306-0.91-OLED-4pin-128x32/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/gorbachev/KiCad-SSD1306-0.91-OLED-4pin-128x32/SSD1306-0.91-OLED-4pin-128x32/working
     oomp_src_flat: footprints_flat/footprints_flat/gorbachev_kicad_ssd1306_0_91_oled_4pin_128x32_ssd1306_0_91_oled_4pin_128x32/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/gorbachev_kicad_ssd1306_0_91_oled_4pin_128x32_ssd1306_0_91_oled_4pin_128x32/working
-    oomp_src_folder: footprints_folder/footprints_folder/gorbachev/KiCad-SSD1306-0.91-OLED-4pin-128x32/SSD1306-0.91-OLED-4pin-128x32/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/gorbachev/KiCad-SSD1306-0.91-OLED-4pin-128x32/SSD1306-0.91-OLED-4pin-128x32/working
   name: KiCad-SSD1306-0.91-OLED-4pin-128x32.pretty
+  oomp:
+    footprint_name: ssd1306_0_91_oled_4pin_128x32
+    library_name: kicad_ssd1306_0_91_oled_4pin_128x32
+    md5: 6746d08a16accfb7d5006174e6c3032d
+    md5_10: 6746d08a16
+    md5_5: 6746d
+    md5_6: 6746d0
+    oomp_key: oomp_gorbachev_kicad_ssd1306_0_91_oled_4pin_128x32_ssd1306_0_91_oled_4pin_128x32
+    oomp_key_extra: oomp_footprint_gorbachev_kicad_ssd1306_0_91_oled_4pin_128x32_ssd1306_0_91_oled_4pin_128x32
+    oomp_key_full: oomp_footprint_gorbachev_kicad_ssd1306_0_91_oled_4pin_128x32_ssd1306_0_91_oled_4pin_128x32_6746d0
+    oomp_key_simple: gorbachev_kicad_ssd1306_0_91_oled_4pin_128x32_ssd1306_0_91_oled_4pin_128x32
+    original_filename: KiCad-SSD1306-0.91-OLED-4pin-128x32.pretty/SSD1306-0.91-OLED-4pin-128x32.kicad_mod
+    owner_name: gorbachev
   oomp_key: oomp_gorbachev_kicad_ssd1306_0_91_oled_4pin_128x32_ssd1306_0_91_oled_4pin_128x32
+  oomp_key_full: oomp_footprint_gorbachev_kicad_ssd1306_0_91_oled_4pin_128x32_ssd1306_0_91_oled_4pin_128x32
   oomp_key_simple: gorbachev_kicad_ssd1306_0_91_oled_4pin_128x32_ssd1306_0_91_oled_4pin_128x32
   owner: gorbachev
   repo:

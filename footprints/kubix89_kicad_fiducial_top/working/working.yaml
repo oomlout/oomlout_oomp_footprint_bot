@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/kubiX89/kiCAD.pretty
     oomp_bot: footprints/kubix89_kicad_fiducial_top/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kubix89_kicad_fiducial_top/working
-    oomp_doc: footprints/footprints/kubiX89/kiCAD/FIDUCIAL_TOP/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kubiX89/kiCAD/FIDUCIAL_TOP/working
     oomp_src_flat: footprints_flat/footprints_flat/kubix89_kicad_fiducial_top/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kubix89_kicad_fiducial_top/working
-    oomp_src_folder: footprints_folder/footprints_folder/kubiX89/kiCAD/FIDUCIAL_TOP/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kubiX89/kiCAD/FIDUCIAL_TOP/working
   name: kiCAD.pretty
+  oomp:
+    footprint_name: fiducial_top
+    library_name: kicad
+    md5: 5578afc16b18130a01f0714f134285e9
+    md5_10: 5578afc16b
+    md5_5: 5578a
+    md5_6: 5578af
+    oomp_key: oomp_kubix89_kicad_fiducial_top
+    oomp_key_extra: oomp_footprint_kubix89_kicad_fiducial_top
+    oomp_key_full: oomp_footprint_kubix89_kicad_fiducial_top_5578af
+    oomp_key_simple: kubix89_kicad_fiducial_top
+    original_filename: kiCAD.pretty/FIDUCIAL_TOP.kicad_mod
+    owner_name: kubix89
   oomp_key: oomp_kubix89_kicad_fiducial_top
+  oomp_key_full: oomp_footprint_kubix89_kicad_fiducial_top
   oomp_key_simple: kubix89_kicad_fiducial_top
   owner: kubiX89
   repo:

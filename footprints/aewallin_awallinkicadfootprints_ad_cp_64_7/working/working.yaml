@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/aewallin/awallinKiCadFootprints.pretty
     oomp_bot: footprints/aewallin_awallinkicadfootprints_ad_cp_64_7/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/aewallin_awallinkicadfootprints_ad_cp_64_7/working
-    oomp_doc: footprints/footprints/aewallin/awallinKiCadFootprints/AD_CP-64-7/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/aewallin/awallinKiCadFootprints/AD_CP-64-7/working
     oomp_src_flat: footprints_flat/footprints_flat/aewallin_awallinkicadfootprints_ad_cp_64_7/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/aewallin_awallinkicadfootprints_ad_cp_64_7/working
-    oomp_src_folder: footprints_folder/footprints_folder/aewallin/awallinKiCadFootprints/AD_CP-64-7/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/aewallin/awallinKiCadFootprints/AD_CP-64-7/working
   name: awallinKiCadFootprints.pretty
+  oomp:
+    footprint_name: ad_cp_64_7
+    library_name: awallinkicadfootprints
+    md5: 2b1f769cc2abe5fab6da90f904de935a
+    md5_10: 2b1f769cc2
+    md5_5: 2b1f7
+    md5_6: 2b1f76
+    oomp_key: oomp_aewallin_awallinkicadfootprints_ad_cp_64_7
+    oomp_key_extra: oomp_footprint_aewallin_awallinkicadfootprints_ad_cp_64_7
+    oomp_key_full: oomp_footprint_aewallin_awallinkicadfootprints_ad_cp_64_7_2b1f76
+    oomp_key_simple: aewallin_awallinkicadfootprints_ad_cp_64_7
+    original_filename: awallinKiCadFootprints.pretty/AD_CP-64-7.kicad_mod
+    owner_name: aewallin
   oomp_key: oomp_aewallin_awallinkicadfootprints_ad_cp_64_7
+  oomp_key_full: oomp_footprint_aewallin_awallinkicadfootprints_ad_cp_64_7
   oomp_key_simple: aewallin_awallinkicadfootprints_ad_cp_64_7
   owner: aewallin
   repo:

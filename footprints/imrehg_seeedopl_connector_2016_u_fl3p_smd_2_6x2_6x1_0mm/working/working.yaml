@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/imrehg_seeedopl_connector_2016_u_fl3p_smd_2_6x2_6x1_0mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/imrehg_seeedopl_connector_2016_u_fl3p_smd_2_6x2_6x1_0mm/working
-    oomp_doc: footprints/footprints/imrehg/SeeedOPL-Connector-2016/U-FL3P-SMD-2.6X2.6X1.0MM/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/imrehg/SeeedOPL-Connector-2016/U-FL3P-SMD-2.6X2.6X1.0MM/working
     oomp_src_flat: footprints_flat/footprints_flat/imrehg_seeedopl_connector_2016_u_fl3p_smd_2_6x2_6x1_0mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/imrehg_seeedopl_connector_2016_u_fl3p_smd_2_6x2_6x1_0mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/imrehg/SeeedOPL-Connector-2016/U-FL3P-SMD-2.6X2.6X1.0MM/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/imrehg/SeeedOPL-Connector-2016/U-FL3P-SMD-2.6X2.6X1.0MM/working
   name: kicalopl
+  oomp:
+    footprint_name: u_fl3p_smd_2_6x2_6x1_0mm
+    library_name: seeedopl_connector_2016
+    md5: 15714a6521399b4b003ef8082d99b14b
+    md5_10: 15714a6521
+    md5_5: '15714'
+    md5_6: 15714a
+    oomp_key: oomp_imrehg_seeedopl_connector_2016_u_fl3p_smd_2_6x2_6x1_0mm
+    oomp_key_extra: oomp_footprint_imrehg_seeedopl_connector_2016_u_fl3p_smd_2_6x2_6x1_0mm
+    oomp_key_full: oomp_footprint_imrehg_seeedopl_connector_2016_u_fl3p_smd_2_6x2_6x1_0mm_15714a
+    oomp_key_simple: imrehg_seeedopl_connector_2016_u_fl3p_smd_2_6x2_6x1_0mm
+    original_filename: kicalopl/SeeedOPL-Connector-2016.pretty/U-FL3P-SMD-2.6X2.6X1.0MM.kicad_mod
+    owner_name: imrehg
   oomp_key: oomp_imrehg_seeedopl_connector_2016_u_fl3p_smd_2_6x2_6x1_0mm
+  oomp_key_full: oomp_footprint_imrehg_seeedopl_connector_2016_u_fl3p_smd_2_6x2_6x1_0mm
   oomp_key_simple: imrehg_seeedopl_connector_2016_u_fl3p_smd_2_6x2_6x1_0mm
   owner: imrehg
   repo:

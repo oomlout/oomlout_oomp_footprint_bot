@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/joem_jwm_kicad_footprints_misc_pinheader_2x08_p2_54mm_vertical_eurorackpower/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/joem_jwm_kicad_footprints_misc_pinheader_2x08_p2_54mm_vertical_eurorackpower/working
-    oomp_doc: footprints/footprints/joem/jwm_kicad_footprints_misc/PinHeader_2x08_P2.54mm_Vertical_EurorackPower/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/joem/jwm_kicad_footprints_misc/PinHeader_2x08_P2.54mm_Vertical_EurorackPower/working
     oomp_src_flat: footprints_flat/footprints_flat/joem_jwm_kicad_footprints_misc_pinheader_2x08_p2_54mm_vertical_eurorackpower/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/joem_jwm_kicad_footprints_misc_pinheader_2x08_p2_54mm_vertical_eurorackpower/working
-    oomp_src_folder: footprints_folder/footprints_folder/joem/jwm_kicad_footprints_misc/PinHeader_2x08_P2.54mm_Vertical_EurorackPower/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/joem/jwm_kicad_footprints_misc/PinHeader_2x08_P2.54mm_Vertical_EurorackPower/working
   name: jwm_kicad_footprints_misc.pretty
+  oomp:
+    footprint_name: pinheader_2x08_p2_54mm_vertical_eurorackpower
+    library_name: jwm_kicad_footprints_misc
+    md5: d76589d9a10133afb0b9b2574392c9b7
+    md5_10: d76589d9a1
+    md5_5: d7658
+    md5_6: d76589
+    oomp_key: oomp_joem_jwm_kicad_footprints_misc_pinheader_2x08_p2_54mm_vertical_eurorackpower
+    oomp_key_extra: oomp_footprint_joem_jwm_kicad_footprints_misc_pinheader_2x08_p2_54mm_vertical_eurorackpower
+    oomp_key_full: oomp_footprint_joem_jwm_kicad_footprints_misc_pinheader_2x08_p2_54mm_vertical_eurorackpower_d76589
+    oomp_key_simple: joem_jwm_kicad_footprints_misc_pinheader_2x08_p2_54mm_vertical_eurorackpower
+    original_filename: jwm_kicad_footprints_misc.pretty/PinHeader_2x08_P2.54mm_Vertical_EurorackPower.kicad_mod
+    owner_name: joem
   oomp_key: oomp_joem_jwm_kicad_footprints_misc_pinheader_2x08_p2_54mm_vertical_eurorackpower
+  oomp_key_full: oomp_footprint_joem_jwm_kicad_footprints_misc_pinheader_2x08_p2_54mm_vertical_eurorackpower
   oomp_key_simple: joem_jwm_kicad_footprints_misc_pinheader_2x08_p2_54mm_vertical_eurorackpower
   owner: joem
   repo:

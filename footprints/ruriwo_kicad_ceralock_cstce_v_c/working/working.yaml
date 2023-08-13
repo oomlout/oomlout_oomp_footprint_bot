@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/ruriwo_kicad_ceralock_cstce_v_c/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ruriwo_kicad_ceralock_cstce_v_c/working
-    oomp_doc: footprints/footprints/ruriwo/KiCad_Ceralock/CSTCE_V_C/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ruriwo/KiCad_Ceralock/CSTCE_V_C/working
     oomp_src_flat: footprints_flat/footprints_flat/ruriwo_kicad_ceralock_cstce_v_c/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ruriwo_kicad_ceralock_cstce_v_c/working
-    oomp_src_folder: footprints_folder/footprints_folder/ruriwo/KiCad_Ceralock/CSTCE_V_C/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ruriwo/KiCad_Ceralock/CSTCE_V_C/working
   name: KiCad_Ceralock.pretty
+  oomp:
+    footprint_name: cstce_v_c
+    library_name: kicad_ceralock
+    md5: 14881f8394346bd6d3ca872fe05d47ff
+    md5_10: 14881f8394
+    md5_5: '14881'
+    md5_6: 14881f
+    oomp_key: oomp_ruriwo_kicad_ceralock_cstce_v_c
+    oomp_key_extra: oomp_footprint_ruriwo_kicad_ceralock_cstce_v_c
+    oomp_key_full: oomp_footprint_ruriwo_kicad_ceralock_cstce_v_c_14881f
+    oomp_key_simple: ruriwo_kicad_ceralock_cstce_v_c
+    original_filename: KiCad_Ceralock.pretty/CSTCE_V_C.kicad_mod
+    owner_name: ruriwo
   oomp_key: oomp_ruriwo_kicad_ceralock_cstce_v_c
+  oomp_key_full: oomp_footprint_ruriwo_kicad_ceralock_cstce_v_c
   oomp_key_simple: ruriwo_kicad_ceralock_cstce_v_c
   owner: ruriwo
   repo:

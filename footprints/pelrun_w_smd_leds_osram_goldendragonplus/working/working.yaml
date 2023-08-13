@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pelrun_w_smd_leds_osram_goldendragonplus/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pelrun_w_smd_leds_osram_goldendragonplus/working
-    oomp_doc: footprints/footprints/pelrun/w_smd_leds/Osram_GoldenDragonPlus/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/pelrun/w_smd_leds/Osram_GoldenDragonPlus/working
     oomp_src_flat: footprints_flat/footprints_flat/pelrun_w_smd_leds_osram_goldendragonplus/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pelrun_w_smd_leds_osram_goldendragonplus/working
-    oomp_src_folder: footprints_folder/footprints_folder/pelrun/w_smd_leds/Osram_GoldenDragonPlus/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/pelrun/w_smd_leds/Osram_GoldenDragonPlus/working
   name: libKiCad
+  oomp:
+    footprint_name: osram_goldendragonplus
+    library_name: w_smd_leds
+    md5: 635e2c68710c79dd9635c9234359a5a1
+    md5_10: 635e2c6871
+    md5_5: 635e2
+    md5_6: 635e2c
+    oomp_key: oomp_pelrun_w_smd_leds_osram_goldendragonplus
+    oomp_key_extra: oomp_footprint_pelrun_w_smd_leds_osram_goldendragonplus
+    oomp_key_full: oomp_footprint_pelrun_w_smd_leds_osram_goldendragonplus_635e2c
+    oomp_key_simple: pelrun_w_smd_leds_osram_goldendragonplus
+    original_filename: libKiCad/footprint/w_smd_leds.pretty/Osram_GoldenDragonPlus.kicad_mod
+    owner_name: pelrun
   oomp_key: oomp_pelrun_w_smd_leds_osram_goldendragonplus
+  oomp_key_full: oomp_footprint_pelrun_w_smd_leds_osram_goldendragonplus
   oomp_key_simple: pelrun_w_smd_leds_osram_goldendragonplus
   owner: pelrun
   repo:

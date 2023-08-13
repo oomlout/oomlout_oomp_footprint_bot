@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/KUT-KiCad/KUT_Connector.pretty
     oomp_bot: footprints/kut_kicad_kut_connector_df3_5p_2ds/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kut_kicad_kut_connector_df3_5p_2ds/working
-    oomp_doc: footprints/footprints/KUT-KiCad/KUT_Connector/DF3-5P-2DS/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/KUT-KiCad/KUT_Connector/DF3-5P-2DS/working
     oomp_src_flat: footprints_flat/footprints_flat/kut_kicad_kut_connector_df3_5p_2ds/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kut_kicad_kut_connector_df3_5p_2ds/working
-    oomp_src_folder: footprints_folder/footprints_folder/KUT-KiCad/KUT_Connector/DF3-5P-2DS/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/KUT-KiCad/KUT_Connector/DF3-5P-2DS/working
   name: KUT_Connector.pretty
+  oomp:
+    footprint_name: df3_5p_2ds
+    library_name: kut_connector
+    md5: cf20525b4a889ab12063605d5e39b74d
+    md5_10: cf20525b4a
+    md5_5: cf205
+    md5_6: cf2052
+    oomp_key: oomp_kut_kicad_kut_connector_df3_5p_2ds
+    oomp_key_extra: oomp_footprint_kut_kicad_kut_connector_df3_5p_2ds
+    oomp_key_full: oomp_footprint_kut_kicad_kut_connector_df3_5p_2ds_cf2052
+    oomp_key_simple: kut_kicad_kut_connector_df3_5p_2ds
+    original_filename: KUT_Connector.pretty/DF3-5P-2DS.kicad_mod
+    owner_name: kut_kicad
   oomp_key: oomp_kut_kicad_kut_connector_df3_5p_2ds
+  oomp_key_full: oomp_footprint_kut_kicad_kut_connector_df3_5p_2ds
   oomp_key_simple: kut_kicad_kut_connector_df3_5p_2ds
   owner: KUT-KiCad
   repo:

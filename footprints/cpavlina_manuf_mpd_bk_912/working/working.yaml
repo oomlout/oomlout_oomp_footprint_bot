@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cpavlina_manuf_mpd_bk_912/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cpavlina_manuf_mpd_bk_912/working
-    oomp_doc: footprints/footprints/cpavlina/manuf/MPD-BK-912/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cpavlina/manuf/MPD-BK-912/working
     oomp_src_flat: footprints_flat/footprints_flat/cpavlina_manuf_mpd_bk_912/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cpavlina_manuf_mpd_bk_912/working
-    oomp_src_folder: footprints_folder/footprints_folder/cpavlina/manuf/MPD-BK-912/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cpavlina/manuf/MPD-BK-912/working
   name: kicad-pcblib
+  oomp:
+    footprint_name: mpd_bk_912
+    library_name: manuf
+    md5: 90eb89a90f15e9722935e7f304e08a59
+    md5_10: 90eb89a90f
+    md5_5: 90eb8
+    md5_6: 90eb89
+    oomp_key: oomp_cpavlina_manuf_mpd_bk_912
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_mpd_bk_912
+    oomp_key_full: oomp_footprint_cpavlina_manuf_mpd_bk_912_90eb89
+    oomp_key_simple: cpavlina_manuf_mpd_bk_912
+    original_filename: kicad-pcblib/manuf.pretty/MPD-BK-912.kicad_mod
+    owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_mpd_bk_912
+  oomp_key_full: oomp_footprint_cpavlina_manuf_mpd_bk_912
   oomp_key_simple: cpavlina_manuf_mpd_bk_912
   owner: cpavlina
   repo:

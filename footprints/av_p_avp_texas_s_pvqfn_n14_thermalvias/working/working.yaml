@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/av_p_avp_texas_s_pvqfn_n14_thermalvias/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/av_p_avp_texas_s_pvqfn_n14_thermalvias/working
-    oomp_doc: footprints/footprints/av-p/Avp/Texas_S-PVQFN-N14_ThermalVias/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/av-p/Avp/Texas_S-PVQFN-N14_ThermalVias/working
     oomp_src_flat: footprints_flat/footprints_flat/av_p_avp_texas_s_pvqfn_n14_thermalvias/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/av_p_avp_texas_s_pvqfn_n14_thermalvias/working
-    oomp_src_folder: footprints_folder/footprints_folder/av-p/Avp/Texas_S-PVQFN-N14_ThermalVias/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/av-p/Avp/Texas_S-PVQFN-N14_ThermalVias/working
   name: Avp.pretty
+  oomp:
+    footprint_name: texas_s_pvqfn_n14_thermalvias
+    library_name: avp
+    md5: 5a332dd0700ec4d4070e6262b3b9a280
+    md5_10: 5a332dd070
+    md5_5: 5a332
+    md5_6: 5a332d
+    oomp_key: oomp_av_p_avp_texas_s_pvqfn_n14_thermalvias
+    oomp_key_extra: oomp_footprint_av_p_avp_texas_s_pvqfn_n14_thermalvias
+    oomp_key_full: oomp_footprint_av_p_avp_texas_s_pvqfn_n14_thermalvias_5a332d
+    oomp_key_simple: av_p_avp_texas_s_pvqfn_n14_thermalvias
+    original_filename: Avp.pretty/Texas_S-PVQFN-N14_ThermalVias.kicad_mod
+    owner_name: av_p
   oomp_key: oomp_av_p_avp_texas_s_pvqfn_n14_thermalvias
+  oomp_key_full: oomp_footprint_av_p_avp_texas_s_pvqfn_n14_thermalvias
   oomp_key_simple: av_p_avp_texas_s_pvqfn_n14_thermalvias
   owner: av-p
   repo:

@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/kikaiken/kicad_others.pretty
     oomp_bot: footprints/kikaiken_kicad_others_piezobuzer_4mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kikaiken_kicad_others_piezobuzer_4mm/working
-    oomp_doc: footprints/footprints/kikaiken/kicad_others/PiezoBuzer_4mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kikaiken/kicad_others/PiezoBuzer_4mm/working
     oomp_src_flat: footprints_flat/footprints_flat/kikaiken_kicad_others_piezobuzer_4mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kikaiken_kicad_others_piezobuzer_4mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/kikaiken/kicad_others/PiezoBuzer_4mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kikaiken/kicad_others/PiezoBuzer_4mm/working
   name: kicad_others.pretty
+  oomp:
+    footprint_name: piezobuzer_4mm
+    library_name: kicad_others
+    md5: c5b0c87e33bb3e41b2632235ff17670f
+    md5_10: c5b0c87e33
+    md5_5: c5b0c
+    md5_6: c5b0c8
+    oomp_key: oomp_kikaiken_kicad_others_piezobuzer_4mm
+    oomp_key_extra: oomp_footprint_kikaiken_kicad_others_piezobuzer_4mm
+    oomp_key_full: oomp_footprint_kikaiken_kicad_others_piezobuzer_4mm_c5b0c8
+    oomp_key_simple: kikaiken_kicad_others_piezobuzer_4mm
+    original_filename: kicad_others.pretty/PiezoBuzer_4mm.kicad_mod
+    owner_name: kikaiken
   oomp_key: oomp_kikaiken_kicad_others_piezobuzer_4mm
+  oomp_key_full: oomp_footprint_kikaiken_kicad_others_piezobuzer_4mm
   oomp_key_simple: kikaiken_kicad_others_piezobuzer_4mm
   owner: kikaiken
   repo:

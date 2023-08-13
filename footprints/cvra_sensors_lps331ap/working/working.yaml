@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cvra_sensors_lps331ap/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cvra_sensors_lps331ap/working
-    oomp_doc: footprints/footprints/cvra/_sensors/_LPS331AP/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cvra/_sensors/_LPS331AP/working
     oomp_src_flat: footprints_flat/footprints_flat/cvra_sensors_lps331ap/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cvra_sensors_lps331ap/working
-    oomp_src_folder: footprints_folder/footprints_folder/cvra/_sensors/_LPS331AP/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cvra/_sensors/_LPS331AP/working
   name: kicad-lib
+  oomp:
+    footprint_name: _lps331ap
+    library_name: _sensors
+    md5: 13cbc2483910653a45ae54c77531a091
+    md5_10: 13cbc24839
+    md5_5: 13cbc
+    md5_6: 13cbc2
+    oomp_key: oomp_cvra_sensors_lps331ap
+    oomp_key_extra: oomp_footprint_cvra_sensors_lps331ap
+    oomp_key_full: oomp_footprint_cvra_sensors_lps331ap_13cbc2
+    oomp_key_simple: cvra_sensors_lps331ap
+    original_filename: kicad-lib/footprints/_sensors.pretty/_LPS331AP.kicad_mod
+    owner_name: cvra
   oomp_key: oomp_cvra_sensors_lps331ap
+  oomp_key_full: oomp_footprint_cvra_sensors_lps331ap
   oomp_key_simple: cvra_sensors_lps331ap
   owner: cvra
   repo:

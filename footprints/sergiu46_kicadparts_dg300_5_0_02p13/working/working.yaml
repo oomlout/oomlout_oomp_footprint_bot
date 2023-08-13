@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/sergiu46_kicadparts_dg300_5_0_02p13/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/sergiu46_kicadparts_dg300_5_0_02p13/working
-    oomp_doc: footprints/footprints/sergiu46/KiCadParts/DG300-5.0-02P13/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/sergiu46/KiCadParts/DG300-5.0-02P13/working
     oomp_src_flat: footprints_flat/footprints_flat/sergiu46_kicadparts_dg300_5_0_02p13/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/sergiu46_kicadparts_dg300_5_0_02p13/working
-    oomp_src_folder: footprints_folder/footprints_folder/sergiu46/KiCadParts/DG300-5.0-02P13/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/sergiu46/KiCadParts/DG300-5.0-02P13/working
   name: KiCadParts.pretty
+  oomp:
+    footprint_name: dg300_5_0_02p13
+    library_name: kicadparts
+    md5: 12ac53b28dbb183b53a646cfc39dc062
+    md5_10: 12ac53b28d
+    md5_5: 12ac5
+    md5_6: 12ac53
+    oomp_key: oomp_sergiu46_kicadparts_dg300_5_0_02p13
+    oomp_key_extra: oomp_footprint_sergiu46_kicadparts_dg300_5_0_02p13
+    oomp_key_full: oomp_footprint_sergiu46_kicadparts_dg300_5_0_02p13_12ac53
+    oomp_key_simple: sergiu46_kicadparts_dg300_5_0_02p13
+    original_filename: KiCadParts.pretty/DG300-5.0-02P13.kicad_mod
+    owner_name: sergiu46
   oomp_key: oomp_sergiu46_kicadparts_dg300_5_0_02p13
+  oomp_key_full: oomp_footprint_sergiu46_kicadparts_dg300_5_0_02p13
   oomp_key_simple: sergiu46_kicadparts_dg300_5_0_02p13
   owner: sergiu46
   repo:

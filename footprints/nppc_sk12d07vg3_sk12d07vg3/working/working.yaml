@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/nppc_sk12d07vg3_sk12d07vg3/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nppc_sk12d07vg3_sk12d07vg3/working
-    oomp_doc: footprints/footprints/nppc/SK12D07VG3.kicad_mod/SK12D07VG3/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/nppc/SK12D07VG3.kicad_mod/SK12D07VG3/working
     oomp_src_flat: footprints_flat/footprints_flat/nppc_sk12d07vg3_sk12d07vg3/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nppc_sk12d07vg3_sk12d07vg3/working
-    oomp_src_folder: footprints_folder/footprints_folder/nppc/SK12D07VG3.kicad_mod/SK12D07VG3/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/nppc/SK12D07VG3.kicad_mod/SK12D07VG3/working
   name: KiCadCustomLibs
+  oomp:
+    footprint_name: sk12d07vg3
+    library_name: sk12d07vg3_kicad_mod
+    md5: 3d78f4583160c18be287e5240565435b
+    md5_10: 3d78f45831
+    md5_5: 3d78f
+    md5_6: 3d78f4
+    oomp_key: oomp_nppc_sk12d07vg3_sk12d07vg3
+    oomp_key_extra: oomp_footprint_nppc_sk12d07vg3_sk12d07vg3
+    oomp_key_full: oomp_footprint_nppc_sk12d07vg3_sk12d07vg3_3d78f4
+    oomp_key_simple: nppc_sk12d07vg3_sk12d07vg3
+    original_filename: KiCadCustomLibs/SK12D07VG3.kicad_mod
+    owner_name: nppc
   oomp_key: oomp_nppc_sk12d07vg3_sk12d07vg3
+  oomp_key_full: oomp_footprint_nppc_sk12d07vg3_sk12d07vg3
   oomp_key_simple: nppc_sk12d07vg3_sk12d07vg3
   owner: nppc
   repo:

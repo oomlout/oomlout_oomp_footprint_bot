@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/esden_pkl_pads_pad_smd_1x2_65/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/esden_pkl_pads_pad_smd_1x2_65/working
-    oomp_doc: footprints/footprints/esden/pkl_pads/PAD_SMD_1x2.65/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/esden/pkl_pads/PAD_SMD_1x2.65/working
     oomp_src_flat: footprints_flat/footprints_flat/esden_pkl_pads_pad_smd_1x2_65/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/esden_pkl_pads_pad_smd_1x2_65/working
-    oomp_src_folder: footprints_folder/footprints_folder/esden/pkl_pads/PAD_SMD_1x2.65/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/esden/pkl_pads/PAD_SMD_1x2.65/working
   name: pretty-kicad-libs
+  oomp:
+    footprint_name: pad_smd_1x2_65
+    library_name: pkl_pads
+    md5: 8a633e0c8d4ec8de2344ba1cca5f7879
+    md5_10: 8a633e0c8d
+    md5_5: 8a633
+    md5_6: 8a633e
+    oomp_key: oomp_esden_pkl_pads_pad_smd_1x2_65
+    oomp_key_extra: oomp_footprint_esden_pkl_pads_pad_smd_1x2_65
+    oomp_key_full: oomp_footprint_esden_pkl_pads_pad_smd_1x2_65_8a633e
+    oomp_key_simple: esden_pkl_pads_pad_smd_1x2_65
+    original_filename: pretty-kicad-libs/pkl_pads.pretty/PAD_SMD_1x2.65.kicad_mod
+    owner_name: esden
   oomp_key: oomp_esden_pkl_pads_pad_smd_1x2_65
+  oomp_key_full: oomp_footprint_esden_pkl_pads_pad_smd_1x2_65
   oomp_key_simple: esden_pkl_pads_pad_smd_1x2_65
   owner: esden
   repo:

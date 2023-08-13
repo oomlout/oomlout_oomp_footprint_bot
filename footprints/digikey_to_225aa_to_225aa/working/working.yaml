@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/digikey_to_225aa_to_225aa/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_to_225aa_to_225aa/working
-    oomp_doc: footprints/footprints/digikey/TO-225AA.kicad_mod/TO-225AA/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/digikey/TO-225AA.kicad_mod/TO-225AA/working
     oomp_src_flat: footprints_flat/footprints_flat/digikey_to_225aa_to_225aa/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/digikey_to_225aa_to_225aa/working
-    oomp_src_folder: footprints_folder/footprints_folder/digikey/TO-225AA.kicad_mod/TO-225AA/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/digikey/TO-225AA.kicad_mod/TO-225AA/working
   name: digikey-kicad-library
+  oomp:
+    footprint_name: to_225aa
+    library_name: to_225aa_kicad_mod
+    md5: 878260f7509e6b6207eb897be4e94fb0
+    md5_10: 878260f750
+    md5_5: '87826'
+    md5_6: '878260'
+    oomp_key: oomp_digikey_to_225aa_to_225aa
+    oomp_key_extra: oomp_footprint_digikey_to_225aa_to_225aa
+    oomp_key_full: oomp_footprint_digikey_to_225aa_to_225aa_878260
+    oomp_key_simple: digikey_to_225aa_to_225aa
+    original_filename: digikey-kicad-library/src/Source_Footprints/TO-225AA.kicad_mod
+    owner_name: digikey
   oomp_key: oomp_digikey_to_225aa_to_225aa
+  oomp_key_full: oomp_footprint_digikey_to_225aa_to_225aa
   oomp_key_simple: digikey_to_225aa_to_225aa
   owner: digikey
   repo:

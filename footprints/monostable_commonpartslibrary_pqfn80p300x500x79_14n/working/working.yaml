@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/monostable_commonpartslibrary_pqfn80p300x500x79_14n/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/monostable_commonpartslibrary_pqfn80p300x500x79_14n/working
-    oomp_doc: footprints/footprints/monostable/CommonPartsLibrary/PQFN80P300X500X79-14N/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/monostable/CommonPartsLibrary/PQFN80P300X500X79-14N/working
     oomp_src_flat: footprints_flat/footprints_flat/monostable_commonpartslibrary_pqfn80p300x500x79_14n/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/monostable_commonpartslibrary_pqfn80p300x500x79_14n/working
-    oomp_src_folder: footprints_folder/footprints_folder/monostable/CommonPartsLibrary/PQFN80P300X500X79-14N/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/monostable/CommonPartsLibrary/PQFN80P300X500X79-14N/working
   name: CommonPartsLibrary.pretty
+  oomp:
+    footprint_name: pqfn80p300x500x79_14n
+    library_name: commonpartslibrary
+    md5: cb458f962be3a9217f4176e773316ccf
+    md5_10: cb458f962b
+    md5_5: cb458
+    md5_6: cb458f
+    oomp_key: oomp_monostable_commonpartslibrary_pqfn80p300x500x79_14n
+    oomp_key_extra: oomp_footprint_monostable_commonpartslibrary_pqfn80p300x500x79_14n
+    oomp_key_full: oomp_footprint_monostable_commonpartslibrary_pqfn80p300x500x79_14n_cb458f
+    oomp_key_simple: monostable_commonpartslibrary_pqfn80p300x500x79_14n
+    original_filename: CommonPartsLibrary.pretty/PQFN80P300X500X79-14N.kicad_mod
+    owner_name: monostable
   oomp_key: oomp_monostable_commonpartslibrary_pqfn80p300x500x79_14n
+  oomp_key_full: oomp_footprint_monostable_commonpartslibrary_pqfn80p300x500x79_14n
   oomp_key_simple: monostable_commonpartslibrary_pqfn80p300x500x79_14n
   owner: monostable
   repo:

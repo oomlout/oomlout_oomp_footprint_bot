@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/adamgreig/agg-kicad
     oomp_bot: footprints/adamgreig_agg_do_214ab_smc/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/adamgreig_agg_do_214ab_smc/working
-    oomp_doc: footprints/footprints/adamgreig/agg/DO-214AB-SMC/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/adamgreig/agg/DO-214AB-SMC/working
     oomp_src_flat: footprints_flat/footprints_flat/adamgreig_agg_do_214ab_smc/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/adamgreig_agg_do_214ab_smc/working
-    oomp_src_folder: footprints_folder/footprints_folder/adamgreig/agg/DO-214AB-SMC/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/adamgreig/agg/DO-214AB-SMC/working
   name: agg-kicad
+  oomp:
+    footprint_name: do_214ab_smc
+    library_name: agg
+    md5: 5c8017b6205d8bd5bb44b69e341e4906
+    md5_10: 5c8017b620
+    md5_5: 5c801
+    md5_6: 5c8017
+    oomp_key: oomp_adamgreig_agg_do_214ab_smc
+    oomp_key_extra: oomp_footprint_adamgreig_agg_do_214ab_smc
+    oomp_key_full: oomp_footprint_adamgreig_agg_do_214ab_smc_5c8017
+    oomp_key_simple: adamgreig_agg_do_214ab_smc
+    original_filename: agg-kicad/agg.pretty/DO-214AB-SMC.kicad_mod
+    owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_do_214ab_smc
+  oomp_key_full: oomp_footprint_adamgreig_agg_do_214ab_smc
   oomp_key_simple: adamgreig_agg_do_214ab_smc
   owner: adamgreig
   repo:

@@ -1,5 +1,9 @@
-- error: Expression does not have the correct type
-  file: libraries/kicad-footprints/Package_DFN_QFN.pretty/QFN-28-1EP_4x4mm_P0.4mm_EP2.6x2.6mm_ThermalVias.kicad_mod
+- file: libraries/kicad-footprints/Package_DFN_QFN.pretty/QFN-28-1EP_4x4mm_P0.4mm_EP2.6x2.6mm_ThermalVias.kicad_mod
+  footprint:
+    description: QFN, 28 Pin (package code T2844-1; https://pdfserv.maximintegrated.com/package_dwgs/21-0139.PDF),
+      generated with kicad-footprint-generator ipc_noLead_generator.py
+    libraryLink: QFN-28-1EP_4x4mm_P0.4mm_EP2.6x2.6mm_ThermalVias
+    number_of_pads: 43
   footprint_library_directory: footprint_library_owner/kicad_libraries/kicad-footprints/
   footprint_library_directory_flat: footprints_flat/kicad_package_dfn_qfn_qfn_28_1ep_4x4mm_p0_4mm_ep2_6x2_6mm_thermalvias/working
   github_path: http://github.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Package_DFN_QFN.pretty/QFN-28-1EP_4x4mm_P0.4mm_EP2.6x2.6mm_ThermalVias.kicad_mod
@@ -8,17 +12,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_package_dfn_qfn_qfn_28_1ep_4x4mm_p0_4mm_ep2_6x2_6mm_thermalvias/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_package_dfn_qfn_qfn_28_1ep_4x4mm_p0_4mm_ep2_6x2_6mm_thermalvias/working
-    oomp_doc: footprints/footprints/kicad/Package_DFN_QFN/QFN-28-1EP_4x4mm_P0.4mm_EP2.6x2.6mm_ThermalVias/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Package_DFN_QFN/QFN-28-1EP_4x4mm_P0.4mm_EP2.6x2.6mm_ThermalVias/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_package_dfn_qfn_qfn_28_1ep_4x4mm_p0_4mm_ep2_6x2_6mm_thermalvias/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_package_dfn_qfn_qfn_28_1ep_4x4mm_p0_4mm_ep2_6x2_6mm_thermalvias/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Package_DFN_QFN/QFN-28-1EP_4x4mm_P0.4mm_EP2.6x2.6mm_ThermalVias/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Package_DFN_QFN/QFN-28-1EP_4x4mm_P0.4mm_EP2.6x2.6mm_ThermalVias/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: qfn_28_1ep_4x4mm_p0_4mm_ep2_6x2_6mm_thermalvias
+    library_name: package_dfn_qfn
+    md5: a6371439065aef8db7308557a3b44313
+    md5_10: a637143906
+    md5_5: a6371
+    md5_6: a63714
+    oomp_key: oomp_kicad_package_dfn_qfn_qfn_28_1ep_4x4mm_p0_4mm_ep2_6x2_6mm_thermalvias
+    oomp_key_extra: oomp_footprint_kicad_package_dfn_qfn_qfn_28_1ep_4x4mm_p0_4mm_ep2_6x2_6mm_thermalvias
+    oomp_key_full: oomp_footprint_kicad_package_dfn_qfn_qfn_28_1ep_4x4mm_p0_4mm_ep2_6x2_6mm_thermalvias_a63714
+    oomp_key_simple: kicad_package_dfn_qfn_qfn_28_1ep_4x4mm_p0_4mm_ep2_6x2_6mm_thermalvias
+    original_filename: libraries/kicad-footprints/Package_DFN_QFN.pretty/QFN-28-1EP_4x4mm_P0.4mm_EP2.6x2.6mm_ThermalVias.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_package_dfn_qfn_qfn_28_1ep_4x4mm_p0_4mm_ep2_6x2_6mm_thermalvias
+  oomp_key_full: oomp_footprint_kicad_package_dfn_qfn_qfn_28_1ep_4x4mm_p0_4mm_ep2_6x2_6mm_thermalvias
   oomp_key_simple: kicad_package_dfn_qfn_qfn_28_1ep_4x4mm_p0_4mm_ep2_6x2_6mm_thermalvias
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

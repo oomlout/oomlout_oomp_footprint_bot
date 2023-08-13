@@ -11,17 +11,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_terminalblock_wuerth_wuerth_redcube_thr_wp_thrbu_74650074_thr/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_terminalblock_wuerth_wuerth_redcube_thr_wp_thrbu_74650074_thr/working
-    oomp_doc: footprints/footprints/kicad/TerminalBlock_Wuerth/Wuerth_REDCUBE-THR_WP-THRBU_74650074_THR/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/TerminalBlock_Wuerth/Wuerth_REDCUBE-THR_WP-THRBU_74650074_THR/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_terminalblock_wuerth_wuerth_redcube_thr_wp_thrbu_74650074_thr/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_terminalblock_wuerth_wuerth_redcube_thr_wp_thrbu_74650074_thr/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/TerminalBlock_Wuerth/Wuerth_REDCUBE-THR_WP-THRBU_74650074_THR/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/TerminalBlock_Wuerth/Wuerth_REDCUBE-THR_WP-THRBU_74650074_THR/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: wuerth_redcube_thr_wp_thrbu_74650074_thr
+    library_name: terminalblock_wuerth
+    md5: 64b378cd95f95547db6e57e734a1cb4b
+    md5_10: 64b378cd95
+    md5_5: 64b37
+    md5_6: 64b378
+    oomp_key: oomp_kicad_terminalblock_wuerth_wuerth_redcube_thr_wp_thrbu_74650074_thr
+    oomp_key_extra: oomp_footprint_kicad_terminalblock_wuerth_wuerth_redcube_thr_wp_thrbu_74650074_thr
+    oomp_key_full: oomp_footprint_kicad_terminalblock_wuerth_wuerth_redcube_thr_wp_thrbu_74650074_thr_64b378
+    oomp_key_simple: kicad_terminalblock_wuerth_wuerth_redcube_thr_wp_thrbu_74650074_thr
+    original_filename: libraries/kicad-footprints/TerminalBlock_Wuerth.pretty/Wuerth_REDCUBE-THR_WP-THRBU_74650074_THR.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_terminalblock_wuerth_wuerth_redcube_thr_wp_thrbu_74650074_thr
+  oomp_key_full: oomp_footprint_kicad_terminalblock_wuerth_wuerth_redcube_thr_wp_thrbu_74650074_thr
   oomp_key_simple: kicad_terminalblock_wuerth_wuerth_redcube_thr_wp_thrbu_74650074_thr
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

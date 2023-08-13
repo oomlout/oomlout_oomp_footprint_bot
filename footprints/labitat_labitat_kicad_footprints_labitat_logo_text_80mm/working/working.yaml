@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/labitat/labitat_kicad_footprints.pretty
     oomp_bot: footprints/labitat_labitat_kicad_footprints_labitat_logo_text_80mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/labitat_labitat_kicad_footprints_labitat_logo_text_80mm/working
-    oomp_doc: footprints/footprints/labitat/labitat_kicad_footprints/labitat_logo_text_80mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/labitat/labitat_kicad_footprints/labitat_logo_text_80mm/working
     oomp_src_flat: footprints_flat/footprints_flat/labitat_labitat_kicad_footprints_labitat_logo_text_80mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/labitat_labitat_kicad_footprints_labitat_logo_text_80mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/labitat/labitat_kicad_footprints/labitat_logo_text_80mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/labitat/labitat_kicad_footprints/labitat_logo_text_80mm/working
   name: labitat_kicad_footprints.pretty
+  oomp:
+    footprint_name: labitat_logo_text_80mm
+    library_name: labitat_kicad_footprints
+    md5: 25d57715a3228b691491baa36f6e21be
+    md5_10: 25d57715a3
+    md5_5: 25d57
+    md5_6: 25d577
+    oomp_key: oomp_labitat_labitat_kicad_footprints_labitat_logo_text_80mm
+    oomp_key_extra: oomp_footprint_labitat_labitat_kicad_footprints_labitat_logo_text_80mm
+    oomp_key_full: oomp_footprint_labitat_labitat_kicad_footprints_labitat_logo_text_80mm_25d577
+    oomp_key_simple: labitat_labitat_kicad_footprints_labitat_logo_text_80mm
+    original_filename: labitat_kicad_footprints.pretty/labitat_logo_text_80mm.kicad_mod
+    owner_name: labitat
   oomp_key: oomp_labitat_labitat_kicad_footprints_labitat_logo_text_80mm
+  oomp_key_full: oomp_footprint_labitat_labitat_kicad_footprints_labitat_logo_text_80mm
   oomp_key_simple: labitat_labitat_kicad_footprints_labitat_logo_text_80mm
   owner: labitat
   repo:

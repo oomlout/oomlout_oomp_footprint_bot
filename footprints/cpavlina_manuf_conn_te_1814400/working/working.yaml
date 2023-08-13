@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cpavlina_manuf_conn_te_1814400/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cpavlina_manuf_conn_te_1814400/working
-    oomp_doc: footprints/footprints/cpavlina/manuf/CONN-TE-1814400/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cpavlina/manuf/CONN-TE-1814400/working
     oomp_src_flat: footprints_flat/footprints_flat/cpavlina_manuf_conn_te_1814400/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cpavlina_manuf_conn_te_1814400/working
-    oomp_src_folder: footprints_folder/footprints_folder/cpavlina/manuf/CONN-TE-1814400/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cpavlina/manuf/CONN-TE-1814400/working
   name: kicad-pcblib
+  oomp:
+    footprint_name: conn_te_1814400
+    library_name: manuf
+    md5: ddbc112fb22a9db46564c6bb9d3d67a4
+    md5_10: ddbc112fb2
+    md5_5: ddbc1
+    md5_6: ddbc11
+    oomp_key: oomp_cpavlina_manuf_conn_te_1814400
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_conn_te_1814400
+    oomp_key_full: oomp_footprint_cpavlina_manuf_conn_te_1814400_ddbc11
+    oomp_key_simple: cpavlina_manuf_conn_te_1814400
+    original_filename: kicad-pcblib/manuf.pretty/CONN-TE-1814400.kicad_mod
+    owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_conn_te_1814400
+  oomp_key_full: oomp_footprint_cpavlina_manuf_conn_te_1814400
   oomp_key_simple: cpavlina_manuf_conn_te_1814400
   owner: cpavlina
   repo:

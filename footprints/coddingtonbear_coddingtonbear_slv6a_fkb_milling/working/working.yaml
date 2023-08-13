@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/coddingtonbear_coddingtonbear_slv6a_fkb_milling/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/coddingtonbear_coddingtonbear_slv6a_fkb_milling/working
-    oomp_doc: footprints/footprints/coddingtonbear/coddingtonbear/SLV6A-FKB-MILLING/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/coddingtonbear/coddingtonbear/SLV6A-FKB-MILLING/working
     oomp_src_flat: footprints_flat/footprints_flat/coddingtonbear_coddingtonbear_slv6a_fkb_milling/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/coddingtonbear_coddingtonbear_slv6a_fkb_milling/working
-    oomp_src_folder: footprints_folder/footprints_folder/coddingtonbear/coddingtonbear/SLV6A-FKB-MILLING/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/coddingtonbear/coddingtonbear/SLV6A-FKB-MILLING/working
   name: coddingtonbear-kicad-lib
+  oomp:
+    footprint_name: slv6a_fkb_milling
+    library_name: coddingtonbear
+    md5: 5c855f6f87d46813e49cb1c13c1beca8
+    md5_10: 5c855f6f87
+    md5_5: 5c855
+    md5_6: 5c855f
+    oomp_key: oomp_coddingtonbear_coddingtonbear_slv6a_fkb_milling
+    oomp_key_extra: oomp_footprint_coddingtonbear_coddingtonbear_slv6a_fkb_milling
+    oomp_key_full: oomp_footprint_coddingtonbear_coddingtonbear_slv6a_fkb_milling_5c855f
+    oomp_key_simple: coddingtonbear_coddingtonbear_slv6a_fkb_milling
+    original_filename: coddingtonbear-kicad-lib/coddingtonbear.pretty/SLV6A-FKB-MILLING.kicad_mod
+    owner_name: coddingtonbear
   oomp_key: oomp_coddingtonbear_coddingtonbear_slv6a_fkb_milling
+  oomp_key_full: oomp_footprint_coddingtonbear_coddingtonbear_slv6a_fkb_milling
   oomp_key_simple: coddingtonbear_coddingtonbear_slv6a_fkb_milling
   owner: coddingtonbear
   repo:

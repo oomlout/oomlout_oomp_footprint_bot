@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/tmk_keyboard_parts_alps_skcm_cutout_stab406/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/tmk_keyboard_parts_alps_skcm_cutout_stab406/working
-    oomp_doc: footprints/footprints/tmk/keyboard_parts/ALPS_SKCM_CUTOUT_STAB406/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/tmk/keyboard_parts/ALPS_SKCM_CUTOUT_STAB406/working
     oomp_src_flat: footprints_flat/footprints_flat/tmk_keyboard_parts_alps_skcm_cutout_stab406/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/tmk_keyboard_parts_alps_skcm_cutout_stab406/working
-    oomp_src_folder: footprints_folder/footprints_folder/tmk/keyboard_parts/ALPS_SKCM_CUTOUT_STAB406/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/tmk/keyboard_parts/ALPS_SKCM_CUTOUT_STAB406/working
   name: keyboard_parts.pretty
+  oomp:
+    footprint_name: alps_skcm_cutout_stab406
+    library_name: keyboard_parts
+    md5: c20a7b76224a332705f4209ecb7943ca
+    md5_10: c20a7b7622
+    md5_5: c20a7
+    md5_6: c20a7b
+    oomp_key: oomp_tmk_keyboard_parts_alps_skcm_cutout_stab406
+    oomp_key_extra: oomp_footprint_tmk_keyboard_parts_alps_skcm_cutout_stab406
+    oomp_key_full: oomp_footprint_tmk_keyboard_parts_alps_skcm_cutout_stab406_c20a7b
+    oomp_key_simple: tmk_keyboard_parts_alps_skcm_cutout_stab406
+    original_filename: keyboard_parts.pretty/ALPS_SKCM_CUTOUT_STAB406.kicad_mod
+    owner_name: tmk
   oomp_key: oomp_tmk_keyboard_parts_alps_skcm_cutout_stab406
+  oomp_key_full: oomp_footprint_tmk_keyboard_parts_alps_skcm_cutout_stab406
   oomp_key_simple: tmk_keyboard_parts_alps_skcm_cutout_stab406
   owner: tmk
   repo:

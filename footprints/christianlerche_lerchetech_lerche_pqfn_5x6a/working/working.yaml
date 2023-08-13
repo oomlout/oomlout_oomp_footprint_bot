@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/christianlerche_lerchetech_lerche_pqfn_5x6a/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/christianlerche_lerchetech_lerche_pqfn_5x6a/working
-    oomp_doc: footprints/footprints/ChristianLerche/LercheTech/Lerche_PQFN_5x6A/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ChristianLerche/LercheTech/Lerche_PQFN_5x6A/working
     oomp_src_flat: footprints_flat/footprints_flat/christianlerche_lerchetech_lerche_pqfn_5x6a/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/christianlerche_lerchetech_lerche_pqfn_5x6a/working
-    oomp_src_folder: footprints_folder/footprints_folder/ChristianLerche/LercheTech/Lerche_PQFN_5x6A/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ChristianLerche/LercheTech/Lerche_PQFN_5x6A/working
   name: LercheTech_KiCAD
+  oomp:
+    footprint_name: lerche_pqfn_5x6a
+    library_name: lerchetech
+    md5: 20a2ac99efd0a40c636e7431d994b7c0
+    md5_10: 20a2ac99ef
+    md5_5: 20a2a
+    md5_6: 20a2ac
+    oomp_key: oomp_christianlerche_lerchetech_lerche_pqfn_5x6a
+    oomp_key_extra: oomp_footprint_christianlerche_lerchetech_lerche_pqfn_5x6a
+    oomp_key_full: oomp_footprint_christianlerche_lerchetech_lerche_pqfn_5x6a_20a2ac
+    oomp_key_simple: christianlerche_lerchetech_lerche_pqfn_5x6a
+    original_filename: LercheTech_KiCAD/LercheTech.pretty/Lerche_PQFN_5x6A.kicad_mod
+    owner_name: christianlerche
   oomp_key: oomp_christianlerche_lerchetech_lerche_pqfn_5x6a
+  oomp_key_full: oomp_footprint_christianlerche_lerchetech_lerche_pqfn_5x6a
   oomp_key_simple: christianlerche_lerchetech_lerche_pqfn_5x6a
   owner: ChristianLerche
   repo:

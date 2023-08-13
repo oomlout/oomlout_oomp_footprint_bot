@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/monostable_commonpartslibrary_to254p1420x457_3n/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/monostable_commonpartslibrary_to254p1420x457_3n/working
-    oomp_doc: footprints/footprints/monostable/CommonPartsLibrary/TO254P1420X457-3N/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/monostable/CommonPartsLibrary/TO254P1420X457-3N/working
     oomp_src_flat: footprints_flat/footprints_flat/monostable_commonpartslibrary_to254p1420x457_3n/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/monostable_commonpartslibrary_to254p1420x457_3n/working
-    oomp_src_folder: footprints_folder/footprints_folder/monostable/CommonPartsLibrary/TO254P1420X457-3N/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/monostable/CommonPartsLibrary/TO254P1420X457-3N/working
   name: CommonPartsLibrary.pretty
+  oomp:
+    footprint_name: to254p1420x457_3n
+    library_name: commonpartslibrary
+    md5: 37690ea6ef13ae5d4f352f5ace0ba650
+    md5_10: 37690ea6ef
+    md5_5: '37690'
+    md5_6: 37690e
+    oomp_key: oomp_monostable_commonpartslibrary_to254p1420x457_3n
+    oomp_key_extra: oomp_footprint_monostable_commonpartslibrary_to254p1420x457_3n
+    oomp_key_full: oomp_footprint_monostable_commonpartslibrary_to254p1420x457_3n_37690e
+    oomp_key_simple: monostable_commonpartslibrary_to254p1420x457_3n
+    original_filename: CommonPartsLibrary.pretty/TO254P1420X457-3N.kicad_mod
+    owner_name: monostable
   oomp_key: oomp_monostable_commonpartslibrary_to254p1420x457_3n
+  oomp_key_full: oomp_footprint_monostable_commonpartslibrary_to254p1420x457_3n
   oomp_key_simple: monostable_commonpartslibrary_to254p1420x457_3n
   owner: monostable
   repo:

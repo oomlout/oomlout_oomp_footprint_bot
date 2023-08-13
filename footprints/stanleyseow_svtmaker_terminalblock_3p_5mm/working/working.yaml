@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/stanleyseow_svtmaker_terminalblock_3p_5mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stanleyseow_svtmaker_terminalblock_3p_5mm/working
-    oomp_doc: footprints/footprints/stanleyseow/SVTmaker/TerminalBlock_3P-5mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/stanleyseow/SVTmaker/TerminalBlock_3P-5mm/working
     oomp_src_flat: footprints_flat/footprints_flat/stanleyseow_svtmaker_terminalblock_3p_5mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/stanleyseow_svtmaker_terminalblock_3p_5mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/stanleyseow/SVTmaker/TerminalBlock_3P-5mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/stanleyseow/SVTmaker/TerminalBlock_3P-5mm/working
   name: SVTmaker.pretty
+  oomp:
+    footprint_name: terminalblock_3p_5mm
+    library_name: svtmaker
+    md5: 806db1d1aaa1fda8b74d2fc9a9dcbdf2
+    md5_10: 806db1d1aa
+    md5_5: 806db
+    md5_6: 806db1
+    oomp_key: oomp_stanleyseow_svtmaker_terminalblock_3p_5mm
+    oomp_key_extra: oomp_footprint_stanleyseow_svtmaker_terminalblock_3p_5mm
+    oomp_key_full: oomp_footprint_stanleyseow_svtmaker_terminalblock_3p_5mm_806db1
+    oomp_key_simple: stanleyseow_svtmaker_terminalblock_3p_5mm
+    original_filename: SVTmaker.pretty/TerminalBlock_3P-5mm.kicad_mod
+    owner_name: stanleyseow
   oomp_key: oomp_stanleyseow_svtmaker_terminalblock_3p_5mm
+  oomp_key_full: oomp_footprint_stanleyseow_svtmaker_terminalblock_3p_5mm
   oomp_key_simple: stanleyseow_svtmaker_terminalblock_3p_5mm
   owner: stanleyseow
   repo:

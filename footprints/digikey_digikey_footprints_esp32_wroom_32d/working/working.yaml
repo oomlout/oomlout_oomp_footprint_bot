@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/digikey_digikey_footprints_esp32_wroom_32d/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_digikey_footprints_esp32_wroom_32d/working
-    oomp_doc: footprints/footprints/digikey/digikey-footprints/ESP32-WROOM-32D/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/digikey/digikey-footprints/ESP32-WROOM-32D/working
     oomp_src_flat: footprints_flat/footprints_flat/digikey_digikey_footprints_esp32_wroom_32d/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/digikey_digikey_footprints_esp32_wroom_32d/working
-    oomp_src_folder: footprints_folder/footprints_folder/digikey/digikey-footprints/ESP32-WROOM-32D/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/digikey/digikey-footprints/ESP32-WROOM-32D/working
   name: digikey-kicad-library
+  oomp:
+    footprint_name: esp32_wroom_32d
+    library_name: digikey_footprints
+    md5: d0d934958153744018a220662aa6a062
+    md5_10: d0d9349581
+    md5_5: d0d93
+    md5_6: d0d934
+    oomp_key: oomp_digikey_digikey_footprints_esp32_wroom_32d
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_esp32_wroom_32d
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_esp32_wroom_32d_d0d934
+    oomp_key_simple: digikey_digikey_footprints_esp32_wroom_32d
+    original_filename: digikey-kicad-library/digikey-footprints.pretty/ESP32-WROOM-32D.kicad_mod
+    owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_esp32_wroom_32d
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_esp32_wroom_32d
   oomp_key_simple: digikey_digikey_footprints_esp32_wroom_32d
   owner: digikey
   repo:

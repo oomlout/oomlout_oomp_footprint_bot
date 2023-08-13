@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/ruuvi_ruuvitag_ruuvitag_curved_silk/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ruuvi_ruuvitag_ruuvitag_curved_silk/working
-    oomp_doc: footprints/footprints/ruuvi/RuuviTag/RUUVITAG_CURVED_SILK/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ruuvi/RuuviTag/RUUVITAG_CURVED_SILK/working
     oomp_src_flat: footprints_flat/footprints_flat/ruuvi_ruuvitag_ruuvitag_curved_silk/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ruuvi_ruuvitag_ruuvitag_curved_silk/working
-    oomp_src_folder: footprints_folder/footprints_folder/ruuvi/RuuviTag/RUUVITAG_CURVED_SILK/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ruuvi/RuuviTag/RUUVITAG_CURVED_SILK/working
   name: kicad-library
+  oomp:
+    footprint_name: ruuvitag_curved_silk
+    library_name: ruuvitag
+    md5: 3310fe23c7c7c775c6048361ebccddc6
+    md5_10: 3310fe23c7
+    md5_5: 3310f
+    md5_6: 3310fe
+    oomp_key: oomp_ruuvi_ruuvitag_ruuvitag_curved_silk
+    oomp_key_extra: oomp_footprint_ruuvi_ruuvitag_ruuvitag_curved_silk
+    oomp_key_full: oomp_footprint_ruuvi_ruuvitag_ruuvitag_curved_silk_3310fe
+    oomp_key_simple: ruuvi_ruuvitag_ruuvitag_curved_silk
+    original_filename: kicad-library/RuuviTag.pretty/RUUVITAG_CURVED_SILK.kicad_mod
+    owner_name: ruuvi
   oomp_key: oomp_ruuvi_ruuvitag_ruuvitag_curved_silk
+  oomp_key_full: oomp_footprint_ruuvi_ruuvitag_ruuvitag_curved_silk
   oomp_key_simple: ruuvi_ruuvitag_ruuvitag_curved_silk
   owner: ruuvi
   repo:

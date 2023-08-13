@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/candykingdom_homebrew_anderson_1336g1_right_angle_bottom_two/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/candykingdom_homebrew_anderson_1336g1_right_angle_bottom_two/working
-    oomp_doc: footprints/footprints/candykingdom/homebrew/Anderson_1336G1_right_angle_bottom_two/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/candykingdom/homebrew/Anderson_1336G1_right_angle_bottom_two/working
     oomp_src_flat: footprints_flat/footprints_flat/candykingdom_homebrew_anderson_1336g1_right_angle_bottom_two/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/candykingdom_homebrew_anderson_1336g1_right_angle_bottom_two/working
-    oomp_src_folder: footprints_folder/footprints_folder/candykingdom/homebrew/Anderson_1336G1_right_angle_bottom_two/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/candykingdom/homebrew/Anderson_1336G1_right_angle_bottom_two/working
   name: homebrew.pretty
+  oomp:
+    footprint_name: anderson_1336g1_right_angle_bottom_two
+    library_name: homebrew
+    md5: 5e57056baf86e72bd4631ec35c8b81b8
+    md5_10: 5e57056baf
+    md5_5: 5e570
+    md5_6: 5e5705
+    oomp_key: oomp_candykingdom_homebrew_anderson_1336g1_right_angle_bottom_two
+    oomp_key_extra: oomp_footprint_candykingdom_homebrew_anderson_1336g1_right_angle_bottom_two
+    oomp_key_full: oomp_footprint_candykingdom_homebrew_anderson_1336g1_right_angle_bottom_two_5e5705
+    oomp_key_simple: candykingdom_homebrew_anderson_1336g1_right_angle_bottom_two
+    original_filename: homebrew.pretty/Anderson_1336G1_right_angle_bottom_two.kicad_mod
+    owner_name: candykingdom
   oomp_key: oomp_candykingdom_homebrew_anderson_1336g1_right_angle_bottom_two
+  oomp_key_full: oomp_footprint_candykingdom_homebrew_anderson_1336g1_right_angle_bottom_two
   oomp_key_simple: candykingdom_homebrew_anderson_1336g1_right_angle_bottom_two
   owner: candykingdom
   repo:

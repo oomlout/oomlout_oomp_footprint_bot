@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/garrettsworkshop_stdpads_soic_8_3_9mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/garrettsworkshop_stdpads_soic_8_3_9mm/working
-    oomp_doc: footprints/footprints/garrettsworkshop/stdpads/SOIC-8_3.9mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/garrettsworkshop/stdpads/SOIC-8_3.9mm/working
     oomp_src_flat: footprints_flat/footprints_flat/garrettsworkshop_stdpads_soic_8_3_9mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/garrettsworkshop_stdpads_soic_8_3_9mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/garrettsworkshop/stdpads/SOIC-8_3.9mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/garrettsworkshop/stdpads/SOIC-8_3.9mm/working
   name: stdpads.pretty
+  oomp:
+    footprint_name: soic_8_3_9mm
+    library_name: stdpads
+    md5: 2f48c61e582deb06e2d79a607ea2deb8
+    md5_10: 2f48c61e58
+    md5_5: 2f48c
+    md5_6: 2f48c6
+    oomp_key: oomp_garrettsworkshop_stdpads_soic_8_3_9mm
+    oomp_key_extra: oomp_footprint_garrettsworkshop_stdpads_soic_8_3_9mm
+    oomp_key_full: oomp_footprint_garrettsworkshop_stdpads_soic_8_3_9mm_2f48c6
+    oomp_key_simple: garrettsworkshop_stdpads_soic_8_3_9mm
+    original_filename: stdpads.pretty/SOIC-8_3.9mm.kicad_mod
+    owner_name: garrettsworkshop
   oomp_key: oomp_garrettsworkshop_stdpads_soic_8_3_9mm
+  oomp_key_full: oomp_footprint_garrettsworkshop_stdpads_soic_8_3_9mm
   oomp_key_simple: garrettsworkshop_stdpads_soic_8_3_9mm
   owner: garrettsworkshop
   repo:

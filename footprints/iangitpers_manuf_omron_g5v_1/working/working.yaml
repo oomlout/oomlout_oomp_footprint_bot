@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/Iangitpers/4a
     oomp_bot: footprints/iangitpers_manuf_omron_g5v_1/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/iangitpers_manuf_omron_g5v_1/working
-    oomp_doc: footprints/footprints/Iangitpers/manuf/OMRON-G5V-1/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Iangitpers/manuf/OMRON-G5V-1/working
     oomp_src_flat: footprints_flat/footprints_flat/iangitpers_manuf_omron_g5v_1/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/iangitpers_manuf_omron_g5v_1/working
-    oomp_src_folder: footprints_folder/footprints_folder/Iangitpers/manuf/OMRON-G5V-1/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Iangitpers/manuf/OMRON-G5V-1/working
   name: 4a
+  oomp:
+    footprint_name: omron_g5v_1
+    library_name: manuf
+    md5: 803ffdb732fccb1d3ab1df5e20d20b98
+    md5_10: 803ffdb732
+    md5_5: 803ff
+    md5_6: 803ffd
+    oomp_key: oomp_iangitpers_manuf_omron_g5v_1
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_omron_g5v_1
+    oomp_key_full: oomp_footprint_iangitpers_manuf_omron_g5v_1_803ffd
+    oomp_key_simple: iangitpers_manuf_omron_g5v_1
+    original_filename: 4a/manuf.pretty/OMRON-G5V-1.kicad_mod
+    owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_omron_g5v_1
+  oomp_key_full: oomp_footprint_iangitpers_manuf_omron_g5v_1
   oomp_key_simple: iangitpers_manuf_omron_g5v_1
   owner: Iangitpers
   repo:

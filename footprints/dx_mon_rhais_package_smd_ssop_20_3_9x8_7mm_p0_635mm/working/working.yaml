@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/dx_mon_rhais_package_smd_ssop_20_3_9x8_7mm_p0_635mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/dx_mon_rhais_package_smd_ssop_20_3_9x8_7mm_p0_635mm/working
-    oomp_doc: footprints/footprints/DX-MON/rhais_package-smd/SSOP-20_3.9x8.7mm_P0.635mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/DX-MON/rhais_package-smd/SSOP-20_3.9x8.7mm_P0.635mm/working
     oomp_src_flat: footprints_flat/footprints_flat/dx_mon_rhais_package_smd_ssop_20_3_9x8_7mm_p0_635mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/dx_mon_rhais_package_smd_ssop_20_3_9x8_7mm_p0_635mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/DX-MON/rhais_package-smd/SSOP-20_3.9x8.7mm_P0.635mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/DX-MON/rhais_package-smd/SSOP-20_3.9x8.7mm_P0.635mm/working
   name: rhais_package-smd.pretty
+  oomp:
+    footprint_name: ssop_20_3_9x8_7mm_p0_635mm
+    library_name: rhais_package_smd
+    md5: 35fb17e63124b663339f6e63e506f1f9
+    md5_10: 35fb17e631
+    md5_5: 35fb1
+    md5_6: 35fb17
+    oomp_key: oomp_dx_mon_rhais_package_smd_ssop_20_3_9x8_7mm_p0_635mm
+    oomp_key_extra: oomp_footprint_dx_mon_rhais_package_smd_ssop_20_3_9x8_7mm_p0_635mm
+    oomp_key_full: oomp_footprint_dx_mon_rhais_package_smd_ssop_20_3_9x8_7mm_p0_635mm_35fb17
+    oomp_key_simple: dx_mon_rhais_package_smd_ssop_20_3_9x8_7mm_p0_635mm
+    original_filename: rhais_package-smd.pretty/SSOP-20_3.9x8.7mm_P0.635mm.kicad_mod
+    owner_name: dx_mon
   oomp_key: oomp_dx_mon_rhais_package_smd_ssop_20_3_9x8_7mm_p0_635mm
+  oomp_key_full: oomp_footprint_dx_mon_rhais_package_smd_ssop_20_3_9x8_7mm_p0_635mm
   oomp_key_simple: dx_mon_rhais_package_smd_ssop_20_3_9x8_7mm_p0_635mm
   owner: DX-MON
   repo:

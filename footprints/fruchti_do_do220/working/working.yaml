@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/fruchti_do_do220/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/fruchti_do_do220/working
-    oomp_doc: footprints/footprints/fruchti/do/DO220/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/fruchti/do/DO220/working
     oomp_src_flat: footprints_flat/footprints_flat/fruchti_do_do220/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/fruchti_do_do220/working
-    oomp_src_folder: footprints_folder/footprints_folder/fruchti/do/DO220/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/fruchti/do/DO220/working
   name: fruchtilib
+  oomp:
+    footprint_name: do220
+    library_name: do
+    md5: 77c1da23ebeb290b6c66bde241a8745d
+    md5_10: 77c1da23eb
+    md5_5: 77c1d
+    md5_6: 77c1da
+    oomp_key: oomp_fruchti_do_do220
+    oomp_key_extra: oomp_footprint_fruchti_do_do220
+    oomp_key_full: oomp_footprint_fruchti_do_do220_77c1da
+    oomp_key_simple: fruchti_do_do220
+    original_filename: fruchtilib/mod/do.pretty/DO220.kicad_mod
+    owner_name: fruchti
   oomp_key: oomp_fruchti_do_do220
+  oomp_key_full: oomp_footprint_fruchti_do_do220
   oomp_key_simple: fruchti_do_do220
   owner: fruchti
   repo:

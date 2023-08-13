@@ -1,5 +1,8 @@
-- error: Expression does not have the correct type
-  file: acheron_Components.pretty/VQFN-16-1EP_3x3mm_P0.5mm_EP1.6x1.6mm.kicad_mod
+- file: acheron_Components.pretty/VQFN-16-1EP_3x3mm_P0.5mm_EP1.6x1.6mm.kicad_mod
+  footprint:
+    description: null
+    libraryLink: VQFN-16-1EP_3x3mm_P0.5mm_EP1.6x1.6mm
+    number_of_pads: 27
   footprint_library_directory: footprint_library_owner/AcheronProject_acheron_Components.pretty
   footprint_library_directory_flat: footprints_flat/acheronproject_acheron_components_vqfn_16_1ep_3x3mm_p0_5mm_ep1_6x1_6mm/working
   github_path: http://github.com/AcheronProject/acheron_Components.pretty/blob/master/VQFN-16-1EP_3x3mm_P0.5mm_EP1.6x1.6mm.kicad_mod
@@ -10,14 +13,24 @@
     github_src_repo: https://github.com/AcheronProject/acheron_Components.pretty
     oomp_bot: footprints/acheronproject_acheron_components_vqfn_16_1ep_3x3mm_p0_5mm_ep1_6x1_6mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/acheronproject_acheron_components_vqfn_16_1ep_3x3mm_p0_5mm_ep1_6x1_6mm/working
-    oomp_doc: footprints/footprints/AcheronProject/acheron_Components/VQFN-16-1EP_3x3mm_P0.5mm_EP1.6x1.6mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/AcheronProject/acheron_Components/VQFN-16-1EP_3x3mm_P0.5mm_EP1.6x1.6mm/working
     oomp_src_flat: footprints_flat/footprints_flat/acheronproject_acheron_components_vqfn_16_1ep_3x3mm_p0_5mm_ep1_6x1_6mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/acheronproject_acheron_components_vqfn_16_1ep_3x3mm_p0_5mm_ep1_6x1_6mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/AcheronProject/acheron_Components/VQFN-16-1EP_3x3mm_P0.5mm_EP1.6x1.6mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/AcheronProject/acheron_Components/VQFN-16-1EP_3x3mm_P0.5mm_EP1.6x1.6mm/working
   name: acheron_Components.pretty
+  oomp:
+    footprint_name: vqfn_16_1ep_3x3mm_p0_5mm_ep1_6x1_6mm
+    library_name: acheron_components
+    md5: c37adc990e275df2081d246659aa6d68
+    md5_10: c37adc990e
+    md5_5: c37ad
+    md5_6: c37adc
+    oomp_key: oomp_acheronproject_acheron_components_vqfn_16_1ep_3x3mm_p0_5mm_ep1_6x1_6mm
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_components_vqfn_16_1ep_3x3mm_p0_5mm_ep1_6x1_6mm
+    oomp_key_full: oomp_footprint_acheronproject_acheron_components_vqfn_16_1ep_3x3mm_p0_5mm_ep1_6x1_6mm_c37adc
+    oomp_key_simple: acheronproject_acheron_components_vqfn_16_1ep_3x3mm_p0_5mm_ep1_6x1_6mm
+    original_filename: acheron_Components.pretty/VQFN-16-1EP_3x3mm_P0.5mm_EP1.6x1.6mm.kicad_mod
+    owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_components_vqfn_16_1ep_3x3mm_p0_5mm_ep1_6x1_6mm
+  oomp_key_full: oomp_footprint_acheronproject_acheron_components_vqfn_16_1ep_3x3mm_p0_5mm_ep1_6x1_6mm
   oomp_key_simple: acheronproject_acheron_components_vqfn_16_1ep_3x3mm_p0_5mm_ep1_6x1_6mm
   owner: AcheronProject
   repo:

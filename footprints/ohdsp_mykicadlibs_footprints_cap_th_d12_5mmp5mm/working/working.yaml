@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/ohdsp_mykicadlibs_footprints_cap_th_d12_5mmp5mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ohdsp_mykicadlibs_footprints_cap_th_d12_5mmp5mm/working
-    oomp_doc: footprints/footprints/ohdsp/MyKiCadLibs-Footprints/CAP-TH-D12.5mmP5mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ohdsp/MyKiCadLibs-Footprints/CAP-TH-D12.5mmP5mm/working
     oomp_src_flat: footprints_flat/footprints_flat/ohdsp_mykicadlibs_footprints_cap_th_d12_5mmp5mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ohdsp_mykicadlibs_footprints_cap_th_d12_5mmp5mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/ohdsp/MyKiCadLibs-Footprints/CAP-TH-D12.5mmP5mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ohdsp/MyKiCadLibs-Footprints/CAP-TH-D12.5mmP5mm/working
   name: KiCad-Libs
+  oomp:
+    footprint_name: cap_th_d12_5mmp5mm
+    library_name: mykicadlibs_footprints
+    md5: e377a9b51b1ea405cd2f0983fc581ec5
+    md5_10: e377a9b51b
+    md5_5: e377a
+    md5_6: e377a9
+    oomp_key: oomp_ohdsp_mykicadlibs_footprints_cap_th_d12_5mmp5mm
+    oomp_key_extra: oomp_footprint_ohdsp_mykicadlibs_footprints_cap_th_d12_5mmp5mm
+    oomp_key_full: oomp_footprint_ohdsp_mykicadlibs_footprints_cap_th_d12_5mmp5mm_e377a9
+    oomp_key_simple: ohdsp_mykicadlibs_footprints_cap_th_d12_5mmp5mm
+    original_filename: KiCad-Libs/MyKiCadLibs-Footprints.pretty/CAP-TH-D12.5mmP5mm.kicad_mod
+    owner_name: ohdsp
   oomp_key: oomp_ohdsp_mykicadlibs_footprints_cap_th_d12_5mmp5mm
+  oomp_key_full: oomp_footprint_ohdsp_mykicadlibs_footprints_cap_th_d12_5mmp5mm
   oomp_key_simple: ohdsp_mykicadlibs_footprints_cap_th_d12_5mmp5mm
   owner: ohdsp
   repo:

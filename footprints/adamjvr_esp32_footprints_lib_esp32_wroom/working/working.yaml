@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/adamjvr/ESP32-kiCAD-Footprints
     oomp_bot: footprints/adamjvr_esp32_footprints_lib_esp32_wroom/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/adamjvr_esp32_footprints_lib_esp32_wroom/working
-    oomp_doc: footprints/footprints/adamjvr/ESP32-footprints-Lib/ESP32-WROOM/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/adamjvr/ESP32-footprints-Lib/ESP32-WROOM/working
     oomp_src_flat: footprints_flat/footprints_flat/adamjvr_esp32_footprints_lib_esp32_wroom/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/adamjvr_esp32_footprints_lib_esp32_wroom/working
-    oomp_src_folder: footprints_folder/footprints_folder/adamjvr/ESP32-footprints-Lib/ESP32-WROOM/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/adamjvr/ESP32-footprints-Lib/ESP32-WROOM/working
   name: ESP32-kiCAD-Footprints
+  oomp:
+    footprint_name: esp32_wroom
+    library_name: esp32_footprints_lib
+    md5: 870f7ba6bafa04847edc26bf9bfe31b7
+    md5_10: 870f7ba6ba
+    md5_5: 870f7
+    md5_6: 870f7b
+    oomp_key: oomp_adamjvr_esp32_footprints_lib_esp32_wroom
+    oomp_key_extra: oomp_footprint_adamjvr_esp32_footprints_lib_esp32_wroom
+    oomp_key_full: oomp_footprint_adamjvr_esp32_footprints_lib_esp32_wroom_870f7b
+    oomp_key_simple: adamjvr_esp32_footprints_lib_esp32_wroom
+    original_filename: ESP32-kiCAD-Footprints/ESP32-Footprints/ESP32-footprints-Lib.pretty/ESP32-WROOM.kicad_mod
+    owner_name: adamjvr
   oomp_key: oomp_adamjvr_esp32_footprints_lib_esp32_wroom
+  oomp_key_full: oomp_footprint_adamjvr_esp32_footprints_lib_esp32_wroom
   oomp_key_simple: adamjvr_esp32_footprints_lib_esp32_wroom
   owner: adamjvr
   repo:

@@ -13,17 +13,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_connector_molex_molex_mega_fit_76829_0112_2x06_p5_70mm_vertical/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_connector_molex_molex_mega_fit_76829_0112_2x06_p5_70mm_vertical/working
-    oomp_doc: footprints/footprints/kicad/Connector_Molex/Molex_Mega-Fit_76829-0112_2x06_P5.70mm_Vertical/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Connector_Molex/Molex_Mega-Fit_76829-0112_2x06_P5.70mm_Vertical/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_connector_molex_molex_mega_fit_76829_0112_2x06_p5_70mm_vertical/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_connector_molex_molex_mega_fit_76829_0112_2x06_p5_70mm_vertical/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Connector_Molex/Molex_Mega-Fit_76829-0112_2x06_P5.70mm_Vertical/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Connector_Molex/Molex_Mega-Fit_76829-0112_2x06_P5.70mm_Vertical/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: molex_mega_fit_76829_0112_2x06_p5_70mm_vertical
+    library_name: connector_molex
+    md5: bdf37d4b6cb36ba4463c6f7635f83c07
+    md5_10: bdf37d4b6c
+    md5_5: bdf37
+    md5_6: bdf37d
+    oomp_key: oomp_kicad_connector_molex_molex_mega_fit_76829_0112_2x06_p5_70mm_vertical
+    oomp_key_extra: oomp_footprint_kicad_connector_molex_molex_mega_fit_76829_0112_2x06_p5_70mm_vertical
+    oomp_key_full: oomp_footprint_kicad_connector_molex_molex_mega_fit_76829_0112_2x06_p5_70mm_vertical_bdf37d
+    oomp_key_simple: kicad_connector_molex_molex_mega_fit_76829_0112_2x06_p5_70mm_vertical
+    original_filename: libraries/kicad-footprints/Connector_Molex.pretty/Molex_Mega-Fit_76829-0112_2x06_P5.70mm_Vertical.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_connector_molex_molex_mega_fit_76829_0112_2x06_p5_70mm_vertical
+  oomp_key_full: oomp_footprint_kicad_connector_molex_molex_mega_fit_76829_0112_2x06_p5_70mm_vertical
   oomp_key_simple: kicad_connector_molex_molex_mega_fit_76829_0112_2x06_p5_70mm_vertical
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

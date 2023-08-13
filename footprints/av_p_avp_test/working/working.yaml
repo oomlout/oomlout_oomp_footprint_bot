@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/av_p_avp_test/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/av_p_avp_test/working
-    oomp_doc: footprints/footprints/av-p/Avp/Test/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/av-p/Avp/Test/working
     oomp_src_flat: footprints_flat/footprints_flat/av_p_avp_test/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/av_p_avp_test/working
-    oomp_src_folder: footprints_folder/footprints_folder/av-p/Avp/Test/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/av-p/Avp/Test/working
   name: Avp.pretty
+  oomp:
+    footprint_name: test
+    library_name: avp
+    md5: 6d8c71917ce66df104e4e1b77e86925c
+    md5_10: 6d8c71917c
+    md5_5: 6d8c7
+    md5_6: 6d8c71
+    oomp_key: oomp_av_p_avp_test
+    oomp_key_extra: oomp_footprint_av_p_avp_test
+    oomp_key_full: oomp_footprint_av_p_avp_test_6d8c71
+    oomp_key_simple: av_p_avp_test
+    original_filename: Avp.pretty/Test.kicad_mod
+    owner_name: av_p
   oomp_key: oomp_av_p_avp_test
+  oomp_key_full: oomp_footprint_av_p_avp_test
   oomp_key_simple: av_p_avp_test
   owner: av-p
   repo:

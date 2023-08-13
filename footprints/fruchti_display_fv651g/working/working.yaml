@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/fruchti_display_fv651g/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/fruchti_display_fv651g/working
-    oomp_doc: footprints/footprints/fruchti/display/FV651G/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/fruchti/display/FV651G/working
     oomp_src_flat: footprints_flat/footprints_flat/fruchti_display_fv651g/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/fruchti_display_fv651g/working
-    oomp_src_folder: footprints_folder/footprints_folder/fruchti/display/FV651G/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/fruchti/display/FV651G/working
   name: fruchtilib
+  oomp:
+    footprint_name: fv651g
+    library_name: display
+    md5: c00db2d5e45661a882088437f5143167
+    md5_10: c00db2d5e4
+    md5_5: c00db
+    md5_6: c00db2
+    oomp_key: oomp_fruchti_display_fv651g
+    oomp_key_extra: oomp_footprint_fruchti_display_fv651g
+    oomp_key_full: oomp_footprint_fruchti_display_fv651g_c00db2
+    oomp_key_simple: fruchti_display_fv651g
+    original_filename: fruchtilib/mod/display.pretty/FV651G.kicad_mod
+    owner_name: fruchti
   oomp_key: oomp_fruchti_display_fv651g
+  oomp_key_full: oomp_footprint_fruchti_display_fv651g
   oomp_key_simple: fruchti_display_fv651g
   owner: fruchti
   repo:

@@ -13,14 +13,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/re_innovation_curiouselectric3_curiouselectric_flat_12mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/re_innovation_curiouselectric3_curiouselectric_flat_12mm/working
-    oomp_doc: footprints/footprints/re-innovation/CuriousElectric3/CuriousElectric_flat_12mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/re-innovation/CuriousElectric3/CuriousElectric_flat_12mm/working
     oomp_src_flat: footprints_flat/footprints_flat/re_innovation_curiouselectric3_curiouselectric_flat_12mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/re_innovation_curiouselectric3_curiouselectric_flat_12mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/re-innovation/CuriousElectric3/CuriousElectric_flat_12mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/re-innovation/CuriousElectric3/CuriousElectric_flat_12mm/working
   name: kicad_reinnovation
+  oomp:
+    footprint_name: curiouselectric_flat_12mm
+    library_name: curiouselectric3
+    md5: 7f289b8641cc082970e2037de6dcedfa
+    md5_10: 7f289b8641
+    md5_5: 7f289
+    md5_6: 7f289b
+    oomp_key: oomp_re_innovation_curiouselectric3_curiouselectric_flat_12mm
+    oomp_key_extra: oomp_footprint_re_innovation_curiouselectric3_curiouselectric_flat_12mm
+    oomp_key_full: oomp_footprint_re_innovation_curiouselectric3_curiouselectric_flat_12mm_7f289b
+    oomp_key_simple: re_innovation_curiouselectric3_curiouselectric_flat_12mm
+    original_filename: kicad_reinnovation/KiCAD PRETTY/CuriousElectric3.pretty/CuriousElectric_flat_12mm.kicad_mod
+    owner_name: re_innovation
   oomp_key: oomp_re_innovation_curiouselectric3_curiouselectric_flat_12mm
+  oomp_key_full: oomp_footprint_re_innovation_curiouselectric3_curiouselectric_flat_12mm
   oomp_key_simple: re_innovation_curiouselectric3_curiouselectric_flat_12mm
   owner: re-innovation
   repo:

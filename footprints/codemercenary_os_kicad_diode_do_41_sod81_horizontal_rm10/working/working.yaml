@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/codemercenary_os_kicad_diode_do_41_sod81_horizontal_rm10/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/codemercenary_os_kicad_diode_do_41_sod81_horizontal_rm10/working
-    oomp_doc: footprints/footprints/codemercenary-os/kicad/Diode_DO-41_SOD81_Horizontal_RM10/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/codemercenary-os/kicad/Diode_DO-41_SOD81_Horizontal_RM10/working
     oomp_src_flat: footprints_flat/footprints_flat/codemercenary_os_kicad_diode_do_41_sod81_horizontal_rm10/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/codemercenary_os_kicad_diode_do_41_sod81_horizontal_rm10/working
-    oomp_src_folder: footprints_folder/footprints_folder/codemercenary-os/kicad/Diode_DO-41_SOD81_Horizontal_RM10/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/codemercenary-os/kicad/Diode_DO-41_SOD81_Horizontal_RM10/working
   name: kicad.pretty
+  oomp:
+    footprint_name: diode_do_41_sod81_horizontal_rm10
+    library_name: kicad
+    md5: c37f4bc68f3374e1b337761fe0c0f42f
+    md5_10: c37f4bc68f
+    md5_5: c37f4
+    md5_6: c37f4b
+    oomp_key: oomp_codemercenary_os_kicad_diode_do_41_sod81_horizontal_rm10
+    oomp_key_extra: oomp_footprint_codemercenary_os_kicad_diode_do_41_sod81_horizontal_rm10
+    oomp_key_full: oomp_footprint_codemercenary_os_kicad_diode_do_41_sod81_horizontal_rm10_c37f4b
+    oomp_key_simple: codemercenary_os_kicad_diode_do_41_sod81_horizontal_rm10
+    original_filename: kicad.pretty/Diode_DO-41_SOD81_Horizontal_RM10.kicad_mod
+    owner_name: codemercenary_os
   oomp_key: oomp_codemercenary_os_kicad_diode_do_41_sod81_horizontal_rm10
+  oomp_key_full: oomp_footprint_codemercenary_os_kicad_diode_do_41_sod81_horizontal_rm10
   oomp_key_simple: codemercenary_os_kicad_diode_do_41_sod81_horizontal_rm10
   owner: codemercenary-os
   repo:

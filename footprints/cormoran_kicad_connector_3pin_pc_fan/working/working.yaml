@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cormoran_kicad_connector_3pin_pc_fan/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cormoran_kicad_connector_3pin_pc_fan/working
-    oomp_doc: footprints/footprints/cormoran/kicad/Connector_3Pin_PC_Fan/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cormoran/kicad/Connector_3Pin_PC_Fan/working
     oomp_src_flat: footprints_flat/footprints_flat/cormoran_kicad_connector_3pin_pc_fan/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cormoran_kicad_connector_3pin_pc_fan/working
-    oomp_src_folder: footprints_folder/footprints_folder/cormoran/kicad/Connector_3Pin_PC_Fan/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cormoran/kicad/Connector_3Pin_PC_Fan/working
   name: kicad.pretty
+  oomp:
+    footprint_name: connector_3pin_pc_fan
+    library_name: kicad
+    md5: 74016cc3cb7c45d1e90153b273774b5f
+    md5_10: 74016cc3cb
+    md5_5: '74016'
+    md5_6: 74016c
+    oomp_key: oomp_cormoran_kicad_connector_3pin_pc_fan
+    oomp_key_extra: oomp_footprint_cormoran_kicad_connector_3pin_pc_fan
+    oomp_key_full: oomp_footprint_cormoran_kicad_connector_3pin_pc_fan_74016c
+    oomp_key_simple: cormoran_kicad_connector_3pin_pc_fan
+    original_filename: kicad.pretty/Connector_3Pin_PC_Fan.kicad_mod
+    owner_name: cormoran
   oomp_key: oomp_cormoran_kicad_connector_3pin_pc_fan
+  oomp_key_full: oomp_footprint_cormoran_kicad_connector_3pin_pc_fan
   oomp_key_simple: cormoran_kicad_connector_3pin_pc_fan
   owner: cormoran
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/olimex_esp_rs232_pin_header_straight_1x05b/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/olimex_esp_rs232_pin_header_straight_1x05b/working
-    oomp_doc: footprints/footprints/OLIMEX/ESP-RS232/Pin_Header_Straight_1x05b/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/OLIMEX/ESP-RS232/Pin_Header_Straight_1x05b/working
     oomp_src_flat: footprints_flat/footprints_flat/olimex_esp_rs232_pin_header_straight_1x05b/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/olimex_esp_rs232_pin_header_straight_1x05b/working
-    oomp_src_folder: footprints_folder/footprints_folder/OLIMEX/ESP-RS232/Pin_Header_Straight_1x05b/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/OLIMEX/ESP-RS232/Pin_Header_Straight_1x05b/working
   name: KiCAD
+  oomp:
+    footprint_name: pin_header_straight_1x05b
+    library_name: esp_rs232
+    md5: 5cf71a34fbf56093a32acef9a2aa2ff1
+    md5_10: 5cf71a34fb
+    md5_5: 5cf71
+    md5_6: 5cf71a
+    oomp_key: oomp_olimex_esp_rs232_pin_header_straight_1x05b
+    oomp_key_extra: oomp_footprint_olimex_esp_rs232_pin_header_straight_1x05b
+    oomp_key_full: oomp_footprint_olimex_esp_rs232_pin_header_straight_1x05b_5cf71a
+    oomp_key_simple: olimex_esp_rs232_pin_header_straight_1x05b
+    original_filename: KiCAD/mods/ESP-RS232.pretty/Pin_Header_Straight_1x05b.kicad_mod
+    owner_name: olimex
   oomp_key: oomp_olimex_esp_rs232_pin_header_straight_1x05b
+  oomp_key_full: oomp_footprint_olimex_esp_rs232_pin_header_straight_1x05b
   oomp_key_simple: olimex_esp_rs232_pin_header_straight_1x05b
   owner: OLIMEX
   repo:

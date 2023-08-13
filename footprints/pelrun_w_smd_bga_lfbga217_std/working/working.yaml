@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pelrun_w_smd_bga_lfbga217_std/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pelrun_w_smd_bga_lfbga217_std/working
-    oomp_doc: footprints/footprints/pelrun/w_smd_bga/lfbga217-std/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/pelrun/w_smd_bga/lfbga217-std/working
     oomp_src_flat: footprints_flat/footprints_flat/pelrun_w_smd_bga_lfbga217_std/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pelrun_w_smd_bga_lfbga217_std/working
-    oomp_src_folder: footprints_folder/footprints_folder/pelrun/w_smd_bga/lfbga217-std/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/pelrun/w_smd_bga/lfbga217-std/working
   name: libKiCad
+  oomp:
+    footprint_name: lfbga217_std
+    library_name: w_smd_bga
+    md5: 42da6377bbac3295395b71fde10dfed1
+    md5_10: 42da6377bb
+    md5_5: 42da6
+    md5_6: 42da63
+    oomp_key: oomp_pelrun_w_smd_bga_lfbga217_std
+    oomp_key_extra: oomp_footprint_pelrun_w_smd_bga_lfbga217_std
+    oomp_key_full: oomp_footprint_pelrun_w_smd_bga_lfbga217_std_42da63
+    oomp_key_simple: pelrun_w_smd_bga_lfbga217_std
+    original_filename: libKiCad/footprint/w_smd_bga.pretty/lfbga217-std.kicad_mod
+    owner_name: pelrun
   oomp_key: oomp_pelrun_w_smd_bga_lfbga217_std
+  oomp_key_full: oomp_footprint_pelrun_w_smd_bga_lfbga217_std
   oomp_key_simple: pelrun_w_smd_bga_lfbga217_std
   owner: pelrun
   repo:

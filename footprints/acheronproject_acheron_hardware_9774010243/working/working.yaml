@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/AcheronProject/acheron_Hardware.pretty
     oomp_bot: footprints/acheronproject_acheron_hardware_9774010243/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/acheronproject_acheron_hardware_9774010243/working
-    oomp_doc: footprints/footprints/AcheronProject/acheron_Hardware/9774010243/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/AcheronProject/acheron_Hardware/9774010243/working
     oomp_src_flat: footprints_flat/footprints_flat/acheronproject_acheron_hardware_9774010243/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/acheronproject_acheron_hardware_9774010243/working
-    oomp_src_folder: footprints_folder/footprints_folder/AcheronProject/acheron_Hardware/9774010243/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/AcheronProject/acheron_Hardware/9774010243/working
   name: acheron_Hardware.pretty
+  oomp:
+    footprint_name: '9774010243'
+    library_name: acheron_hardware
+    md5: e2ee6d2254b7856c1d260d6942fb23e2
+    md5_10: e2ee6d2254
+    md5_5: e2ee6
+    md5_6: e2ee6d
+    oomp_key: oomp_acheronproject_acheron_hardware_9774010243
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_hardware_9774010243
+    oomp_key_full: oomp_footprint_acheronproject_acheron_hardware_9774010243_e2ee6d
+    oomp_key_simple: acheronproject_acheron_hardware_9774010243
+    original_filename: acheron_Hardware.pretty/9774010243.kicad_mod
+    owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_hardware_9774010243
+  oomp_key_full: oomp_footprint_acheronproject_acheron_hardware_9774010243
   oomp_key_simple: acheronproject_acheron_hardware_9774010243
   owner: AcheronProject
   repo:

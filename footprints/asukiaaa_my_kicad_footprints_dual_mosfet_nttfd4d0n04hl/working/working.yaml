@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/asukiaaa_my_kicad_footprints_dual_mosfet_nttfd4d0n04hl/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/asukiaaa_my_kicad_footprints_dual_mosfet_nttfd4d0n04hl/working
-    oomp_doc: footprints/footprints/asukiaaa/my-kicad-footprints/Dual_mosfet_NTTFD4D0N04HL/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/asukiaaa/my-kicad-footprints/Dual_mosfet_NTTFD4D0N04HL/working
     oomp_src_flat: footprints_flat/footprints_flat/asukiaaa_my_kicad_footprints_dual_mosfet_nttfd4d0n04hl/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/asukiaaa_my_kicad_footprints_dual_mosfet_nttfd4d0n04hl/working
-    oomp_src_folder: footprints_folder/footprints_folder/asukiaaa/my-kicad-footprints/Dual_mosfet_NTTFD4D0N04HL/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/asukiaaa/my-kicad-footprints/Dual_mosfet_NTTFD4D0N04HL/working
   name: my-kicad-footprints.pretty
+  oomp:
+    footprint_name: dual_mosfet_nttfd4d0n04hl
+    library_name: my_kicad_footprints
+    md5: 412252502cd15501d99f62bc6b25919d
+    md5_10: 412252502c
+    md5_5: '41225'
+    md5_6: '412252'
+    oomp_key: oomp_asukiaaa_my_kicad_footprints_dual_mosfet_nttfd4d0n04hl
+    oomp_key_extra: oomp_footprint_asukiaaa_my_kicad_footprints_dual_mosfet_nttfd4d0n04hl
+    oomp_key_full: oomp_footprint_asukiaaa_my_kicad_footprints_dual_mosfet_nttfd4d0n04hl_412252
+    oomp_key_simple: asukiaaa_my_kicad_footprints_dual_mosfet_nttfd4d0n04hl
+    original_filename: my-kicad-footprints.pretty/Dual_mosfet_NTTFD4D0N04HL.kicad_mod
+    owner_name: asukiaaa
   oomp_key: oomp_asukiaaa_my_kicad_footprints_dual_mosfet_nttfd4d0n04hl
+  oomp_key_full: oomp_footprint_asukiaaa_my_kicad_footprints_dual_mosfet_nttfd4d0n04hl
   oomp_key_simple: asukiaaa_my_kicad_footprints_dual_mosfet_nttfd4d0n04hl
   owner: asukiaaa
   repo:

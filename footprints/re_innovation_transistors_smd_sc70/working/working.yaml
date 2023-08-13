@@ -13,14 +13,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/re_innovation_transistors_smd_sc70/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/re_innovation_transistors_smd_sc70/working
-    oomp_doc: footprints/footprints/re-innovation/Transistors_SMD/sc70/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/re-innovation/Transistors_SMD/sc70/working
     oomp_src_flat: footprints_flat/footprints_flat/re_innovation_transistors_smd_sc70/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/re_innovation_transistors_smd_sc70/working
-    oomp_src_folder: footprints_folder/footprints_folder/re-innovation/Transistors_SMD/sc70/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/re-innovation/Transistors_SMD/sc70/working
   name: kicad_reinnovation
+  oomp:
+    footprint_name: sc70
+    library_name: transistors_smd
+    md5: aecd2289ca7e3200da6e97f8519dd167
+    md5_10: aecd2289ca
+    md5_5: aecd2
+    md5_6: aecd22
+    oomp_key: oomp_re_innovation_transistors_smd_sc70
+    oomp_key_extra: oomp_footprint_re_innovation_transistors_smd_sc70
+    oomp_key_full: oomp_footprint_re_innovation_transistors_smd_sc70_aecd22
+    oomp_key_simple: re_innovation_transistors_smd_sc70
+    original_filename: kicad_reinnovation/KiCAD PRETTY/Transistors_SMD.pretty/sc70.kicad_mod
+    owner_name: re_innovation
   oomp_key: oomp_re_innovation_transistors_smd_sc70
+  oomp_key_full: oomp_footprint_re_innovation_transistors_smd_sc70
   oomp_key_simple: re_innovation_transistors_smd_sc70
   owner: re-innovation
   repo:

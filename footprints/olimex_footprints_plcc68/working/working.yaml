@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/olimex_footprints_plcc68/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/olimex_footprints_plcc68/working
-    oomp_doc: footprints/footprints/OLIMEX/footprints/PLCC68/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/OLIMEX/footprints/PLCC68/working
     oomp_src_flat: footprints_flat/footprints_flat/olimex_footprints_plcc68/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/olimex_footprints_plcc68/working
-    oomp_src_folder: footprints_folder/footprints_folder/OLIMEX/footprints/PLCC68/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/OLIMEX/footprints/PLCC68/working
   name: KiCAD
+  oomp:
+    footprint_name: plcc68
+    library_name: footprints
+    md5: f9c9b28c5502ee75e1669abdc86fea3c
+    md5_10: f9c9b28c55
+    md5_5: f9c9b
+    md5_6: f9c9b2
+    oomp_key: oomp_olimex_footprints_plcc68
+    oomp_key_extra: oomp_footprint_olimex_footprints_plcc68
+    oomp_key_full: oomp_footprint_olimex_footprints_plcc68_f9c9b2
+    oomp_key_simple: olimex_footprints_plcc68
+    original_filename: KiCAD/demos/video/libs/footprints.pretty/PLCC68.kicad_mod
+    owner_name: olimex
   oomp_key: oomp_olimex_footprints_plcc68
+  oomp_key_full: oomp_footprint_olimex_footprints_plcc68
   oomp_key_simple: olimex_footprints_plcc68
   owner: OLIMEX
   repo:

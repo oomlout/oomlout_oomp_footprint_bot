@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/christianlerche_lerchetech_lerche_8p_2_54mm_terminal/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/christianlerche_lerchetech_lerche_8p_2_54mm_terminal/working
-    oomp_doc: footprints/footprints/ChristianLerche/LercheTech/Lerche_8P_2.54mm_Terminal/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ChristianLerche/LercheTech/Lerche_8P_2.54mm_Terminal/working
     oomp_src_flat: footprints_flat/footprints_flat/christianlerche_lerchetech_lerche_8p_2_54mm_terminal/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/christianlerche_lerchetech_lerche_8p_2_54mm_terminal/working
-    oomp_src_folder: footprints_folder/footprints_folder/ChristianLerche/LercheTech/Lerche_8P_2.54mm_Terminal/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ChristianLerche/LercheTech/Lerche_8P_2.54mm_Terminal/working
   name: LercheTech_KiCAD
+  oomp:
+    footprint_name: lerche_8p_2_54mm_terminal
+    library_name: lerchetech
+    md5: 5bea78ffb50ce77fd83b72731ce8c144
+    md5_10: 5bea78ffb5
+    md5_5: 5bea7
+    md5_6: 5bea78
+    oomp_key: oomp_christianlerche_lerchetech_lerche_8p_2_54mm_terminal
+    oomp_key_extra: oomp_footprint_christianlerche_lerchetech_lerche_8p_2_54mm_terminal
+    oomp_key_full: oomp_footprint_christianlerche_lerchetech_lerche_8p_2_54mm_terminal_5bea78
+    oomp_key_simple: christianlerche_lerchetech_lerche_8p_2_54mm_terminal
+    original_filename: LercheTech_KiCAD/LercheTech.pretty/Lerche_8P_2.54mm_Terminal.kicad_mod
+    owner_name: christianlerche
   oomp_key: oomp_christianlerche_lerchetech_lerche_8p_2_54mm_terminal
+  oomp_key_full: oomp_footprint_christianlerche_lerchetech_lerche_8p_2_54mm_terminal
   oomp_key_simple: christianlerche_lerchetech_lerche_8p_2_54mm_terminal
   owner: ChristianLerche
   repo:

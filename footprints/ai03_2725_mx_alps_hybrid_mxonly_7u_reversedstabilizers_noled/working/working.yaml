@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/ai03-2725/MX_Alps_Hybrid
     oomp_bot: footprints/ai03_2725_mx_alps_hybrid_mxonly_7u_reversedstabilizers_noled/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ai03_2725_mx_alps_hybrid_mxonly_7u_reversedstabilizers_noled/working
-    oomp_doc: footprints/footprints/ai03-2725/MX_Alps_Hybrid/MXOnly-7U-ReversedStabilizers-NoLED/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ai03-2725/MX_Alps_Hybrid/MXOnly-7U-ReversedStabilizers-NoLED/working
     oomp_src_flat: footprints_flat/footprints_flat/ai03_2725_mx_alps_hybrid_mxonly_7u_reversedstabilizers_noled/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ai03_2725_mx_alps_hybrid_mxonly_7u_reversedstabilizers_noled/working
-    oomp_src_folder: footprints_folder/footprints_folder/ai03-2725/MX_Alps_Hybrid/MXOnly-7U-ReversedStabilizers-NoLED/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ai03-2725/MX_Alps_Hybrid/MXOnly-7U-ReversedStabilizers-NoLED/working
   name: MX_Alps_Hybrid.pretty
+  oomp:
+    footprint_name: mxonly_7u_reversedstabilizers_noled
+    library_name: mx_alps_hybrid
+    md5: 9f8a4f313774c450118ffe58dad10eb7
+    md5_10: 9f8a4f3137
+    md5_5: 9f8a4
+    md5_6: 9f8a4f
+    oomp_key: oomp_ai03_2725_mx_alps_hybrid_mxonly_7u_reversedstabilizers_noled
+    oomp_key_extra: oomp_footprint_ai03_2725_mx_alps_hybrid_mxonly_7u_reversedstabilizers_noled
+    oomp_key_full: oomp_footprint_ai03_2725_mx_alps_hybrid_mxonly_7u_reversedstabilizers_noled_9f8a4f
+    oomp_key_simple: ai03_2725_mx_alps_hybrid_mxonly_7u_reversedstabilizers_noled
+    original_filename: MX_Alps_Hybrid.pretty/MX_Only.pretty/MXOnly-7U-ReversedStabilizers-NoLED.kicad_mod
+    owner_name: ai03_2725
   oomp_key: oomp_ai03_2725_mx_alps_hybrid_mxonly_7u_reversedstabilizers_noled
+  oomp_key_full: oomp_footprint_ai03_2725_mx_alps_hybrid_mxonly_7u_reversedstabilizers_noled
   oomp_key_simple: ai03_2725_mx_alps_hybrid_mxonly_7u_reversedstabilizers_noled
   owner: ai03-2725
   repo:
@@ -45,8 +55,8 @@
     downloads_url: https://api.github.com/repos/ai03-2725/MX_Alps_Hybrid/downloads
     events_url: https://api.github.com/repos/ai03-2725/MX_Alps_Hybrid/events
     fork: false
-    forks: 133
-    forks_count: 133
+    forks: 134
+    forks_count: 134
     forks_url: https://api.github.com/repos/ai03-2725/MX_Alps_Hybrid/forks
     full_name: ai03-2725/MX_Alps_Hybrid
     git_commits_url: https://api.github.com/repos/ai03-2725/MX_Alps_Hybrid/git/commits{/sha}
@@ -81,7 +91,7 @@
     milestones_url: https://api.github.com/repos/ai03-2725/MX_Alps_Hybrid/milestones{/number}
     mirror_url: null
     name: MX_Alps_Hybrid
-    network_count: 133
+    network_count: 134
     node_id: MDEwOlJlcG9zaXRvcnk5MTI2OTgxNQ==
     notifications_url: https://api.github.com/repos/ai03-2725/MX_Alps_Hybrid/notifications{?since,all,participating}
     open_issues: 3

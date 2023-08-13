@@ -7,23 +7,132 @@
   footprint_library_directory_flat: footprints_flat/mitarothanken_connector_audio_mod_jack_3_5mm_pj320d_horizontal_mod/working
   github_path: http://github.com/mitaroThanken/Connector_Audio_Mod.pretty/blob/master/Jack_3.5mm_PJ320D_Horizontal_Mod.kicad_mod
   links:
-    github_src: http://gitlab.com/mitaroThanken/Connector_Audio_Mod.pretty/blob/master/Jack_3.5mm_PJ320D_Horizontal_Mod.kicad_mod
-    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
+    github_owner: mitaroThanken
+    github_repo_name: Connector_Audio_Mod.pretty
+    github_src: http://github.com/mitaroThanken/Connector_Audio_Mod.pretty/blob/master/Jack_3.5mm_PJ320D_Horizontal_Mod.kicad_mod
+    github_src_repo: https://github.com/mitaroThanken/Connector_Audio_Mod.pretty
     oomp_bot: footprints/mitarothanken_connector_audio_mod_jack_3_5mm_pj320d_horizontal_mod/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/mitarothanken_connector_audio_mod_jack_3_5mm_pj320d_horizontal_mod/working
-    oomp_doc: footprints/footprints/mitaroThanken/Connector_Audio_Mod/Jack_3.5mm_PJ320D_Horizontal_Mod/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/mitaroThanken/Connector_Audio_Mod/Jack_3.5mm_PJ320D_Horizontal_Mod/working
     oomp_src_flat: footprints_flat/footprints_flat/mitarothanken_connector_audio_mod_jack_3_5mm_pj320d_horizontal_mod/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/mitarothanken_connector_audio_mod_jack_3_5mm_pj320d_horizontal_mod/working
-    oomp_src_folder: footprints_folder/footprints_folder/mitaroThanken/Connector_Audio_Mod/Jack_3.5mm_PJ320D_Horizontal_Mod/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/mitaroThanken/Connector_Audio_Mod/Jack_3.5mm_PJ320D_Horizontal_Mod/working
   name: Connector_Audio_Mod.pretty
+  oomp:
+    footprint_name: jack_3_5mm_pj320d_horizontal_mod
+    library_name: connector_audio_mod
+    md5: dc5d6cfe3978d0a28239516928d8299c
+    md5_10: dc5d6cfe39
+    md5_5: dc5d6
+    md5_6: dc5d6c
+    oomp_key: oomp_mitarothanken_connector_audio_mod_jack_3_5mm_pj320d_horizontal_mod
+    oomp_key_extra: oomp_footprint_mitarothanken_connector_audio_mod_jack_3_5mm_pj320d_horizontal_mod
+    oomp_key_full: oomp_footprint_mitarothanken_connector_audio_mod_jack_3_5mm_pj320d_horizontal_mod_dc5d6c
+    oomp_key_simple: mitarothanken_connector_audio_mod_jack_3_5mm_pj320d_horizontal_mod
+    original_filename: Connector_Audio_Mod.pretty/Jack_3.5mm_PJ320D_Horizontal_Mod.kicad_mod
+    owner_name: mitarothanken
   oomp_key: oomp_mitarothanken_connector_audio_mod_jack_3_5mm_pj320d_horizontal_mod
+  oomp_key_full: oomp_footprint_mitarothanken_connector_audio_mod_jack_3_5mm_pj320d_horizontal_mod
   oomp_key_simple: mitarothanken_connector_audio_mod_jack_3_5mm_pj320d_horizontal_mod
   owner: mitaroThanken
   repo:
-    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
-    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
-      Authenticated requests get a higher rate limit. Check out the documentation
-      for more details.)'
+    allow_forking: true
+    archive_url: https://api.github.com/repos/mitaroThanken/Connector_Audio_Mod.pretty/{archive_format}{/ref}
+    archived: false
+    assignees_url: https://api.github.com/repos/mitaroThanken/Connector_Audio_Mod.pretty/assignees{/user}
+    blobs_url: https://api.github.com/repos/mitaroThanken/Connector_Audio_Mod.pretty/git/blobs{/sha}
+    branches_url: https://api.github.com/repos/mitaroThanken/Connector_Audio_Mod.pretty/branches{/branch}
+    clone_url: https://github.com/mitaroThanken/Connector_Audio_Mod.pretty.git
+    collaborators_url: https://api.github.com/repos/mitaroThanken/Connector_Audio_Mod.pretty/collaborators{/collaborator}
+    comments_url: https://api.github.com/repos/mitaroThanken/Connector_Audio_Mod.pretty/comments{/number}
+    commits_url: https://api.github.com/repos/mitaroThanken/Connector_Audio_Mod.pretty/commits{/sha}
+    compare_url: https://api.github.com/repos/mitaroThanken/Connector_Audio_Mod.pretty/compare/{base}...{head}
+    contents_url: https://api.github.com/repos/mitaroThanken/Connector_Audio_Mod.pretty/contents/{+path}
+    contributors_url: https://api.github.com/repos/mitaroThanken/Connector_Audio_Mod.pretty/contributors
+    created_at: '2019-04-07T11:55:46Z'
+    default_branch: master
+    deployments_url: https://api.github.com/repos/mitaroThanken/Connector_Audio_Mod.pretty/deployments
+    description: "https://github.com/KiCad/kicad-footprints/tree/master/Connector_Audio.pretty\
+      \ \u3092\u8ABF\u6574"
+    disabled: false
+    downloads_url: https://api.github.com/repos/mitaroThanken/Connector_Audio_Mod.pretty/downloads
+    events_url: https://api.github.com/repos/mitaroThanken/Connector_Audio_Mod.pretty/events
+    fork: false
+    forks: 0
+    forks_count: 0
+    forks_url: https://api.github.com/repos/mitaroThanken/Connector_Audio_Mod.pretty/forks
+    full_name: mitaroThanken/Connector_Audio_Mod.pretty
+    git_commits_url: https://api.github.com/repos/mitaroThanken/Connector_Audio_Mod.pretty/git/commits{/sha}
+    git_refs_url: https://api.github.com/repos/mitaroThanken/Connector_Audio_Mod.pretty/git/refs{/sha}
+    git_tags_url: https://api.github.com/repos/mitaroThanken/Connector_Audio_Mod.pretty/git/tags{/sha}
+    git_url: git://github.com/mitaroThanken/Connector_Audio_Mod.pretty.git
+    has_discussions: false
+    has_downloads: true
+    has_issues: true
+    has_pages: false
+    has_projects: true
+    has_wiki: true
+    homepage: null
+    hooks_url: https://api.github.com/repos/mitaroThanken/Connector_Audio_Mod.pretty/hooks
+    html_url: https://github.com/mitaroThanken/Connector_Audio_Mod.pretty
+    id: 179959380
+    is_template: false
+    issue_comment_url: https://api.github.com/repos/mitaroThanken/Connector_Audio_Mod.pretty/issues/comments{/number}
+    issue_events_url: https://api.github.com/repos/mitaroThanken/Connector_Audio_Mod.pretty/issues/events{/number}
+    issues_url: https://api.github.com/repos/mitaroThanken/Connector_Audio_Mod.pretty/issues{/number}
+    keys_url: https://api.github.com/repos/mitaroThanken/Connector_Audio_Mod.pretty/keys{/key_id}
+    labels_url: https://api.github.com/repos/mitaroThanken/Connector_Audio_Mod.pretty/labels{/name}
+    language: null
+    languages_url: https://api.github.com/repos/mitaroThanken/Connector_Audio_Mod.pretty/languages
+    license: null
+    merges_url: https://api.github.com/repos/mitaroThanken/Connector_Audio_Mod.pretty/merges
+    milestones_url: https://api.github.com/repos/mitaroThanken/Connector_Audio_Mod.pretty/milestones{/number}
+    mirror_url: null
+    name: Connector_Audio_Mod.pretty
+    network_count: 0
+    node_id: MDEwOlJlcG9zaXRvcnkxNzk5NTkzODA=
+    notifications_url: https://api.github.com/repos/mitaroThanken/Connector_Audio_Mod.pretty/notifications{?since,all,participating}
+    open_issues: 0
+    open_issues_count: 0
+    owner:
+      avatar_url: https://avatars.githubusercontent.com/u/2104065?v=4
+      events_url: https://api.github.com/users/mitaroThanken/events{/privacy}
+      followers_url: https://api.github.com/users/mitaroThanken/followers
+      following_url: https://api.github.com/users/mitaroThanken/following{/other_user}
+      gists_url: https://api.github.com/users/mitaroThanken/gists{/gist_id}
+      gravatar_id: ''
+      html_url: https://github.com/mitaroThanken
+      id: 2104065
+      login: mitaroThanken
+      node_id: MDQ6VXNlcjIxMDQwNjU=
+      organizations_url: https://api.github.com/users/mitaroThanken/orgs
+      received_events_url: https://api.github.com/users/mitaroThanken/received_events
+      repos_url: https://api.github.com/users/mitaroThanken/repos
+      site_admin: false
+      starred_url: https://api.github.com/users/mitaroThanken/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/mitaroThanken/subscriptions
+      type: User
+      url: https://api.github.com/users/mitaroThanken
+    private: false
+    pulls_url: https://api.github.com/repos/mitaroThanken/Connector_Audio_Mod.pretty/pulls{/number}
+    pushed_at: '2019-04-07T11:58:43Z'
+    releases_url: https://api.github.com/repos/mitaroThanken/Connector_Audio_Mod.pretty/releases{/id}
+    size: 1
+    ssh_url: git@github.com:mitaroThanken/Connector_Audio_Mod.pretty.git
+    stargazers_count: 0
+    stargazers_url: https://api.github.com/repos/mitaroThanken/Connector_Audio_Mod.pretty/stargazers
+    statuses_url: https://api.github.com/repos/mitaroThanken/Connector_Audio_Mod.pretty/statuses/{sha}
+    subscribers_count: 2
+    subscribers_url: https://api.github.com/repos/mitaroThanken/Connector_Audio_Mod.pretty/subscribers
+    subscription_url: https://api.github.com/repos/mitaroThanken/Connector_Audio_Mod.pretty/subscription
+    svn_url: https://github.com/mitaroThanken/Connector_Audio_Mod.pretty
+    tags_url: https://api.github.com/repos/mitaroThanken/Connector_Audio_Mod.pretty/tags
+    teams_url: https://api.github.com/repos/mitaroThanken/Connector_Audio_Mod.pretty/teams
+    temp_clone_token: null
+    topics: []
+    trees_url: https://api.github.com/repos/mitaroThanken/Connector_Audio_Mod.pretty/git/trees{/sha}
+    updated_at: '2019-04-07T11:58:44Z'
+    url: https://api.github.com/repos/mitaroThanken/Connector_Audio_Mod.pretty
+    visibility: public
+    watchers: 0
+    watchers_count: 0
+    web_commit_signoff_required: false
   url: http://github.com/mitaroThanken/Connector_Audio_Mod.pretty

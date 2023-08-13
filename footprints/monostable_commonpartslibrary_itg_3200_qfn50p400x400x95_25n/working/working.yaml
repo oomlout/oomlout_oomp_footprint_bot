@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/monostable_commonpartslibrary_itg_3200_qfn50p400x400x95_25n/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/monostable_commonpartslibrary_itg_3200_qfn50p400x400x95_25n/working
-    oomp_doc: footprints/footprints/monostable/CommonPartsLibrary/ITG-3200_QFN50P400X400X95-25N/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/monostable/CommonPartsLibrary/ITG-3200_QFN50P400X400X95-25N/working
     oomp_src_flat: footprints_flat/footprints_flat/monostable_commonpartslibrary_itg_3200_qfn50p400x400x95_25n/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/monostable_commonpartslibrary_itg_3200_qfn50p400x400x95_25n/working
-    oomp_src_folder: footprints_folder/footprints_folder/monostable/CommonPartsLibrary/ITG-3200_QFN50P400X400X95-25N/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/monostable/CommonPartsLibrary/ITG-3200_QFN50P400X400X95-25N/working
   name: CommonPartsLibrary.pretty
+  oomp:
+    footprint_name: itg_3200_qfn50p400x400x95_25n
+    library_name: commonpartslibrary
+    md5: 876c5e7d632d9be0a4c26e93ebaa56f8
+    md5_10: 876c5e7d63
+    md5_5: 876c5
+    md5_6: 876c5e
+    oomp_key: oomp_monostable_commonpartslibrary_itg_3200_qfn50p400x400x95_25n
+    oomp_key_extra: oomp_footprint_monostable_commonpartslibrary_itg_3200_qfn50p400x400x95_25n
+    oomp_key_full: oomp_footprint_monostable_commonpartslibrary_itg_3200_qfn50p400x400x95_25n_876c5e
+    oomp_key_simple: monostable_commonpartslibrary_itg_3200_qfn50p400x400x95_25n
+    original_filename: CommonPartsLibrary.pretty/ITG-3200_QFN50P400X400X95-25N.kicad_mod
+    owner_name: monostable
   oomp_key: oomp_monostable_commonpartslibrary_itg_3200_qfn50p400x400x95_25n
+  oomp_key_full: oomp_footprint_monostable_commonpartslibrary_itg_3200_qfn50p400x400x95_25n
   oomp_key_simple: monostable_commonpartslibrary_itg_3200_qfn50p400x400x95_25n
   owner: monostable
   repo:

@@ -11,17 +11,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_rf_mini_circuits_mini_circuits_qqq130_clockwisepinnumbering/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_rf_mini_circuits_mini_circuits_qqq130_clockwisepinnumbering/working
-    oomp_doc: footprints/footprints/kicad/RF_Mini-Circuits/Mini-Circuits_QQQ130_ClockwisePinNumbering/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/RF_Mini-Circuits/Mini-Circuits_QQQ130_ClockwisePinNumbering/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_rf_mini_circuits_mini_circuits_qqq130_clockwisepinnumbering/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_rf_mini_circuits_mini_circuits_qqq130_clockwisepinnumbering/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/RF_Mini-Circuits/Mini-Circuits_QQQ130_ClockwisePinNumbering/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/RF_Mini-Circuits/Mini-Circuits_QQQ130_ClockwisePinNumbering/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: mini_circuits_qqq130_clockwisepinnumbering
+    library_name: rf_mini_circuits
+    md5: 40c78700dc63a3aa3115fd92a8df57f6
+    md5_10: 40c78700dc
+    md5_5: 40c78
+    md5_6: 40c787
+    oomp_key: oomp_kicad_rf_mini_circuits_mini_circuits_qqq130_clockwisepinnumbering
+    oomp_key_extra: oomp_footprint_kicad_rf_mini_circuits_mini_circuits_qqq130_clockwisepinnumbering
+    oomp_key_full: oomp_footprint_kicad_rf_mini_circuits_mini_circuits_qqq130_clockwisepinnumbering_40c787
+    oomp_key_simple: kicad_rf_mini_circuits_mini_circuits_qqq130_clockwisepinnumbering
+    original_filename: libraries/kicad-footprints/RF_Mini-Circuits.pretty/Mini-Circuits_QQQ130_ClockwisePinNumbering.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_rf_mini_circuits_mini_circuits_qqq130_clockwisepinnumbering
+  oomp_key_full: oomp_footprint_kicad_rf_mini_circuits_mini_circuits_qqq130_clockwisepinnumbering
   oomp_key_simple: kicad_rf_mini_circuits_mini_circuits_qqq130_clockwisepinnumbering
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

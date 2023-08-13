@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/natsfr_connectors_rf_border_antenna/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/natsfr_connectors_rf_border_antenna/working
-    oomp_doc: footprints/footprints/natsfr/Connectors_RF/Border_Antenna/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/natsfr/Connectors_RF/Border_Antenna/working
     oomp_src_flat: footprints_flat/footprints_flat/natsfr_connectors_rf_border_antenna/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/natsfr_connectors_rf_border_antenna/working
-    oomp_src_folder: footprints_folder/footprints_folder/natsfr/Connectors_RF/Border_Antenna/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/natsfr/Connectors_RF/Border_Antenna/working
   name: kicad-components
+  oomp:
+    footprint_name: border_antenna
+    library_name: connectors_rf
+    md5: 727b404d06336329aa79a5215b4c7992
+    md5_10: 727b404d06
+    md5_5: 727b4
+    md5_6: 727b40
+    oomp_key: oomp_natsfr_connectors_rf_border_antenna
+    oomp_key_extra: oomp_footprint_natsfr_connectors_rf_border_antenna
+    oomp_key_full: oomp_footprint_natsfr_connectors_rf_border_antenna_727b40
+    oomp_key_simple: natsfr_connectors_rf_border_antenna
+    original_filename: kicad-components/Pretty_Footprints/Connectors_RF.pretty/Border_Antenna.kicad_mod
+    owner_name: natsfr
   oomp_key: oomp_natsfr_connectors_rf_border_antenna
+  oomp_key_full: oomp_footprint_natsfr_connectors_rf_border_antenna
   oomp_key_simple: natsfr_connectors_rf_border_antenna
   owner: natsfr
   repo:

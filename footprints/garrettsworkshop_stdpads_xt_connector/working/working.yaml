@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/garrettsworkshop_stdpads_xt_connector/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/garrettsworkshop_stdpads_xt_connector/working
-    oomp_doc: footprints/footprints/garrettsworkshop/stdpads/XT_Connector/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/garrettsworkshop/stdpads/XT_Connector/working
     oomp_src_flat: footprints_flat/footprints_flat/garrettsworkshop_stdpads_xt_connector/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/garrettsworkshop_stdpads_xt_connector/working
-    oomp_src_folder: footprints_folder/footprints_folder/garrettsworkshop/stdpads/XT_Connector/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/garrettsworkshop/stdpads/XT_Connector/working
   name: stdpads.pretty
+  oomp:
+    footprint_name: xt_connector
+    library_name: stdpads
+    md5: e5a134f378de00afd48484aa3f0d867e
+    md5_10: e5a134f378
+    md5_5: e5a13
+    md5_6: e5a134
+    oomp_key: oomp_garrettsworkshop_stdpads_xt_connector
+    oomp_key_extra: oomp_footprint_garrettsworkshop_stdpads_xt_connector
+    oomp_key_full: oomp_footprint_garrettsworkshop_stdpads_xt_connector_e5a134
+    oomp_key_simple: garrettsworkshop_stdpads_xt_connector
+    original_filename: stdpads.pretty/XT_Connector.kicad_mod
+    owner_name: garrettsworkshop
   oomp_key: oomp_garrettsworkshop_stdpads_xt_connector
+  oomp_key_full: oomp_footprint_garrettsworkshop_stdpads_xt_connector
   oomp_key_simple: garrettsworkshop_stdpads_xt_connector
   owner: garrettsworkshop
   repo:

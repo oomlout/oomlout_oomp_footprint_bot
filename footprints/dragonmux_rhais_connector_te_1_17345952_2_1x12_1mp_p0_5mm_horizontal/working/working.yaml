@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/dragonmux_rhais_connector_te_1_17345952_2_1x12_1mp_p0_5mm_horizontal/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/dragonmux_rhais_connector_te_1_17345952_2_1x12_1mp_p0_5mm_horizontal/working
-    oomp_doc: footprints/footprints/dragonmux/rhais_connector-te/1-17345952-2_1x12-1MP_P0.5mm_Horizontal/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/dragonmux/rhais_connector-te/1-17345952-2_1x12-1MP_P0.5mm_Horizontal/working
     oomp_src_flat: footprints_flat/footprints_flat/dragonmux_rhais_connector_te_1_17345952_2_1x12_1mp_p0_5mm_horizontal/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/dragonmux_rhais_connector_te_1_17345952_2_1x12_1mp_p0_5mm_horizontal/working
-    oomp_src_folder: footprints_folder/footprints_folder/dragonmux/rhais_connector-te/1-17345952-2_1x12-1MP_P0.5mm_Horizontal/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/dragonmux/rhais_connector-te/1-17345952-2_1x12-1MP_P0.5mm_Horizontal/working
   name: rhais_connector-te.pretty
+  oomp:
+    footprint_name: 1_17345952_2_1x12_1mp_p0_5mm_horizontal
+    library_name: rhais_connector_te
+    md5: 12d5d41904d9dc9d36d4dec09676348f
+    md5_10: 12d5d41904
+    md5_5: 12d5d
+    md5_6: 12d5d4
+    oomp_key: oomp_dragonmux_rhais_connector_te_1_17345952_2_1x12_1mp_p0_5mm_horizontal
+    oomp_key_extra: oomp_footprint_dragonmux_rhais_connector_te_1_17345952_2_1x12_1mp_p0_5mm_horizontal
+    oomp_key_full: oomp_footprint_dragonmux_rhais_connector_te_1_17345952_2_1x12_1mp_p0_5mm_horizontal_12d5d4
+    oomp_key_simple: dragonmux_rhais_connector_te_1_17345952_2_1x12_1mp_p0_5mm_horizontal
+    original_filename: rhais_connector-te.pretty/1-17345952-2_1x12-1MP_P0.5mm_Horizontal.kicad_mod
+    owner_name: dragonmux
   oomp_key: oomp_dragonmux_rhais_connector_te_1_17345952_2_1x12_1mp_p0_5mm_horizontal
+  oomp_key_full: oomp_footprint_dragonmux_rhais_connector_te_1_17345952_2_1x12_1mp_p0_5mm_horizontal
   oomp_key_simple: dragonmux_rhais_connector_te_1_17345952_2_1x12_1mp_p0_5mm_horizontal
   owner: dragonmux
   repo:

@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/madworm/RC-Battery-Connectors.pretty
     oomp_bot: footprints/madworm_rc_battery_connectors_xt_60_female/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/madworm_rc_battery_connectors_xt_60_female/working
-    oomp_doc: footprints/footprints/madworm/RC-Battery-Connectors/XT-60_female/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/madworm/RC-Battery-Connectors/XT-60_female/working
     oomp_src_flat: footprints_flat/footprints_flat/madworm_rc_battery_connectors_xt_60_female/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/madworm_rc_battery_connectors_xt_60_female/working
-    oomp_src_folder: footprints_folder/footprints_folder/madworm/RC-Battery-Connectors/XT-60_female/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/madworm/RC-Battery-Connectors/XT-60_female/working
   name: RC-Battery-Connectors.pretty
+  oomp:
+    footprint_name: xt_60_female
+    library_name: rc_battery_connectors
+    md5: 90e1986620883c854ed4ac34c9ef76ed
+    md5_10: 90e1986620
+    md5_5: 90e19
+    md5_6: 90e198
+    oomp_key: oomp_madworm_rc_battery_connectors_xt_60_female
+    oomp_key_extra: oomp_footprint_madworm_rc_battery_connectors_xt_60_female
+    oomp_key_full: oomp_footprint_madworm_rc_battery_connectors_xt_60_female_90e198
+    oomp_key_simple: madworm_rc_battery_connectors_xt_60_female
+    original_filename: RC-Battery-Connectors.pretty/XT-60_female.kicad_mod
+    owner_name: madworm
   oomp_key: oomp_madworm_rc_battery_connectors_xt_60_female
+  oomp_key_full: oomp_footprint_madworm_rc_battery_connectors_xt_60_female
   oomp_key_simple: madworm_rc_battery_connectors_xt_60_female
   owner: madworm
   repo:

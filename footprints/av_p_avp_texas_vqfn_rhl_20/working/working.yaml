@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/av_p_avp_texas_vqfn_rhl_20/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/av_p_avp_texas_vqfn_rhl_20/working
-    oomp_doc: footprints/footprints/av-p/Avp/Texas_VQFN-RHL-20/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/av-p/Avp/Texas_VQFN-RHL-20/working
     oomp_src_flat: footprints_flat/footprints_flat/av_p_avp_texas_vqfn_rhl_20/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/av_p_avp_texas_vqfn_rhl_20/working
-    oomp_src_folder: footprints_folder/footprints_folder/av-p/Avp/Texas_VQFN-RHL-20/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/av-p/Avp/Texas_VQFN-RHL-20/working
   name: Avp.pretty
+  oomp:
+    footprint_name: texas_vqfn_rhl_20
+    library_name: avp
+    md5: 8f5dfa3ac257f490c44a1149e7d5ce2e
+    md5_10: 8f5dfa3ac2
+    md5_5: 8f5df
+    md5_6: 8f5dfa
+    oomp_key: oomp_av_p_avp_texas_vqfn_rhl_20
+    oomp_key_extra: oomp_footprint_av_p_avp_texas_vqfn_rhl_20
+    oomp_key_full: oomp_footprint_av_p_avp_texas_vqfn_rhl_20_8f5dfa
+    oomp_key_simple: av_p_avp_texas_vqfn_rhl_20
+    original_filename: Avp.pretty/Texas_VQFN-RHL-20.kicad_mod
+    owner_name: av_p
   oomp_key: oomp_av_p_avp_texas_vqfn_rhl_20
+  oomp_key_full: oomp_footprint_av_p_avp_texas_vqfn_rhl_20
   oomp_key_simple: av_p_avp_texas_vqfn_rhl_20
   owner: av-p
   repo:

@@ -8,14 +8,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cormoran_kicad_htssop14pwr/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cormoran_kicad_htssop14pwr/working
-    oomp_doc: footprints/footprints/cormoran/kicad/HTSSOP14PWR/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cormoran/kicad/HTSSOP14PWR/working
     oomp_src_flat: footprints_flat/footprints_flat/cormoran_kicad_htssop14pwr/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cormoran_kicad_htssop14pwr/working
-    oomp_src_folder: footprints_folder/footprints_folder/cormoran/kicad/HTSSOP14PWR/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cormoran/kicad/HTSSOP14PWR/working
   name: kicad.pretty
+  oomp:
+    footprint_name: htssop14pwr
+    library_name: kicad
+    md5: 6f5dcc6e6840d165dc326bf4890b18fb
+    md5_10: 6f5dcc6e68
+    md5_5: 6f5dc
+    md5_6: 6f5dcc
+    oomp_key: oomp_cormoran_kicad_htssop14pwr
+    oomp_key_extra: oomp_footprint_cormoran_kicad_htssop14pwr
+    oomp_key_full: oomp_footprint_cormoran_kicad_htssop14pwr_6f5dcc
+    oomp_key_simple: cormoran_kicad_htssop14pwr
+    original_filename: kicad.pretty/HTSSOP14PWR.kicad_mod
+    owner_name: cormoran
   oomp_key: oomp_cormoran_kicad_htssop14pwr
+  oomp_key_full: oomp_footprint_cormoran_kicad_htssop14pwr
   oomp_key_simple: cormoran_kicad_htssop14pwr
   owner: cormoran
   repo:

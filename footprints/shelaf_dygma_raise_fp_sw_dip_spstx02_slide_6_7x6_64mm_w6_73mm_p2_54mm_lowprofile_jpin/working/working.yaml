@@ -13,14 +13,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/shelaf_dygma_raise_fp_sw_dip_spstx02_slide_6_7x6_64mm_w6_73mm_p2_54mm_lowprofile_jpin/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/shelaf_dygma_raise_fp_sw_dip_spstx02_slide_6_7x6_64mm_w6_73mm_p2_54mm_lowprofile_jpin/working
-    oomp_doc: footprints/footprints/shelaf-dygma/raise_fp/SW_DIP_SPSTx02_Slide_6.7x6.64mm_W6.73mm_P2.54mm_LowProfile_JPin/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/shelaf-dygma/raise_fp/SW_DIP_SPSTx02_Slide_6.7x6.64mm_W6.73mm_P2.54mm_LowProfile_JPin/working
     oomp_src_flat: footprints_flat/footprints_flat/shelaf_dygma_raise_fp_sw_dip_spstx02_slide_6_7x6_64mm_w6_73mm_p2_54mm_lowprofile_jpin/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/shelaf_dygma_raise_fp_sw_dip_spstx02_slide_6_7x6_64mm_w6_73mm_p2_54mm_lowprofile_jpin/working
-    oomp_src_folder: footprints_folder/footprints_folder/shelaf-dygma/raise_fp/SW_DIP_SPSTx02_Slide_6.7x6.64mm_W6.73mm_P2.54mm_LowProfile_JPin/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/shelaf-dygma/raise_fp/SW_DIP_SPSTx02_Slide_6.7x6.64mm_W6.73mm_P2.54mm_LowProfile_JPin/working
   name: raise_fp.pretty
+  oomp:
+    footprint_name: sw_dip_spstx02_slide_6_7x6_64mm_w6_73mm_p2_54mm_lowprofile_jpin
+    library_name: raise_fp
+    md5: cb79c01e4f873ab5cb69b68f60c80f79
+    md5_10: cb79c01e4f
+    md5_5: cb79c
+    md5_6: cb79c0
+    oomp_key: oomp_shelaf_dygma_raise_fp_sw_dip_spstx02_slide_6_7x6_64mm_w6_73mm_p2_54mm_lowprofile_jpin
+    oomp_key_extra: oomp_footprint_shelaf_dygma_raise_fp_sw_dip_spstx02_slide_6_7x6_64mm_w6_73mm_p2_54mm_lowprofile_jpin
+    oomp_key_full: oomp_footprint_shelaf_dygma_raise_fp_sw_dip_spstx02_slide_6_7x6_64mm_w6_73mm_p2_54mm_lowprofile_jpin_cb79c0
+    oomp_key_simple: shelaf_dygma_raise_fp_sw_dip_spstx02_slide_6_7x6_64mm_w6_73mm_p2_54mm_lowprofile_jpin
+    original_filename: raise_fp.pretty/SW_DIP_SPSTx02_Slide_6.7x6.64mm_W6.73mm_P2.54mm_LowProfile_JPin.kicad_mod
+    owner_name: shelaf_dygma
   oomp_key: oomp_shelaf_dygma_raise_fp_sw_dip_spstx02_slide_6_7x6_64mm_w6_73mm_p2_54mm_lowprofile_jpin
+  oomp_key_full: oomp_footprint_shelaf_dygma_raise_fp_sw_dip_spstx02_slide_6_7x6_64mm_w6_73mm_p2_54mm_lowprofile_jpin
   oomp_key_simple: shelaf_dygma_raise_fp_sw_dip_spstx02_slide_6_7x6_64mm_w6_73mm_p2_54mm_lowprofile_jpin
   owner: shelaf-dygma
   repo:

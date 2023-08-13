@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/servomouse_servomouse_hongfa_hf32f_g/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/servomouse_servomouse_hongfa_hf32f_g/working
-    oomp_doc: footprints/footprints/servomouse/servomouse/HONGFA-HF32F-G/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/servomouse/servomouse/HONGFA-HF32F-G/working
     oomp_src_flat: footprints_flat/footprints_flat/servomouse_servomouse_hongfa_hf32f_g/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/servomouse_servomouse_hongfa_hf32f_g/working
-    oomp_src_folder: footprints_folder/footprints_folder/servomouse/servomouse/HONGFA-HF32F-G/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/servomouse/servomouse/HONGFA-HF32F-G/working
   name: servomouse.pretty
+  oomp:
+    footprint_name: hongfa_hf32f_g
+    library_name: servomouse
+    md5: 46d60f83d394bfb251f9c1b6a8396422
+    md5_10: 46d60f83d3
+    md5_5: 46d60
+    md5_6: 46d60f
+    oomp_key: oomp_servomouse_servomouse_hongfa_hf32f_g
+    oomp_key_extra: oomp_footprint_servomouse_servomouse_hongfa_hf32f_g
+    oomp_key_full: oomp_footprint_servomouse_servomouse_hongfa_hf32f_g_46d60f
+    oomp_key_simple: servomouse_servomouse_hongfa_hf32f_g
+    original_filename: servomouse.pretty/HONGFA-HF32F-G.kicad_mod
+    owner_name: servomouse
   oomp_key: oomp_servomouse_servomouse_hongfa_hf32f_g
+  oomp_key_full: oomp_footprint_servomouse_servomouse_hongfa_hf32f_g
   oomp_key_simple: servomouse_servomouse_hongfa_hf32f_g
   owner: servomouse
   repo:

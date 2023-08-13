@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/rohbotics_ipc7351_nominal_qfp65p1720x2320x340_100an/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/rohbotics_ipc7351_nominal_qfp65p1720x2320x340_100an/working
-    oomp_doc: footprints/footprints/rohbotics/IPC7351-Nominal/QFP65P1720X2320X340-100AN/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/rohbotics/IPC7351-Nominal/QFP65P1720X2320X340-100AN/working
     oomp_src_flat: footprints_flat/footprints_flat/rohbotics_ipc7351_nominal_qfp65p1720x2320x340_100an/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/rohbotics_ipc7351_nominal_qfp65p1720x2320x340_100an/working
-    oomp_src_folder: footprints_folder/footprints_folder/rohbotics/IPC7351-Nominal/QFP65P1720X2320X340-100AN/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/rohbotics/IPC7351-Nominal/QFP65P1720X2320X340-100AN/working
   name: IPC7351-Nominal.pretty
+  oomp:
+    footprint_name: qfp65p1720x2320x340_100an
+    library_name: ipc7351_nominal
+    md5: a285627e9d419caf6ae4aee54a47b67c
+    md5_10: a285627e9d
+    md5_5: a2856
+    md5_6: a28562
+    oomp_key: oomp_rohbotics_ipc7351_nominal_qfp65p1720x2320x340_100an
+    oomp_key_extra: oomp_footprint_rohbotics_ipc7351_nominal_qfp65p1720x2320x340_100an
+    oomp_key_full: oomp_footprint_rohbotics_ipc7351_nominal_qfp65p1720x2320x340_100an_a28562
+    oomp_key_simple: rohbotics_ipc7351_nominal_qfp65p1720x2320x340_100an
+    original_filename: IPC7351-Nominal.pretty/QFP65P1720X2320X340-100AN.kicad_mod
+    owner_name: rohbotics
   oomp_key: oomp_rohbotics_ipc7351_nominal_qfp65p1720x2320x340_100an
+  oomp_key_full: oomp_footprint_rohbotics_ipc7351_nominal_qfp65p1720x2320x340_100an
   oomp_key_simple: rohbotics_ipc7351_nominal_qfp65p1720x2320x340_100an
   owner: rohbotics
   repo:

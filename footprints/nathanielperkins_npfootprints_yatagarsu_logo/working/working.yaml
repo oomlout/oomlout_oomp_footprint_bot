@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/nathanielperkins_npfootprints_yatagarsu_logo/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nathanielperkins_npfootprints_yatagarsu_logo/working
-    oomp_doc: footprints/footprints/NathanielPerkins/NPFootprints/Yatagarsu_Logo/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/NathanielPerkins/NPFootprints/Yatagarsu_Logo/working
     oomp_src_flat: footprints_flat/footprints_flat/nathanielperkins_npfootprints_yatagarsu_logo/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nathanielperkins_npfootprints_yatagarsu_logo/working
-    oomp_src_folder: footprints_folder/footprints_folder/NathanielPerkins/NPFootprints/Yatagarsu_Logo/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/NathanielPerkins/NPFootprints/Yatagarsu_Logo/working
   name: NPFootprints.pretty
+  oomp:
+    footprint_name: yatagarsu_logo
+    library_name: npfootprints
+    md5: 58558fb7f4a116b73cb4ba20a47ffb50
+    md5_10: 58558fb7f4
+    md5_5: '58558'
+    md5_6: 58558f
+    oomp_key: oomp_nathanielperkins_npfootprints_yatagarsu_logo
+    oomp_key_extra: oomp_footprint_nathanielperkins_npfootprints_yatagarsu_logo
+    oomp_key_full: oomp_footprint_nathanielperkins_npfootprints_yatagarsu_logo_58558f
+    oomp_key_simple: nathanielperkins_npfootprints_yatagarsu_logo
+    original_filename: NPFootprints.pretty/Yatagarsu_Logo.kicad_mod
+    owner_name: nathanielperkins
   oomp_key: oomp_nathanielperkins_npfootprints_yatagarsu_logo
+  oomp_key_full: oomp_footprint_nathanielperkins_npfootprints_yatagarsu_logo
   oomp_key_simple: nathanielperkins_npfootprints_yatagarsu_logo
   owner: NathanielPerkins
   repo:

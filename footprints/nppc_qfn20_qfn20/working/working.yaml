@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/nppc_qfn20_qfn20/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nppc_qfn20_qfn20/working
-    oomp_doc: footprints/footprints/nppc/QFN20.kicad_mod/QFN20/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/nppc/QFN20.kicad_mod/QFN20/working
     oomp_src_flat: footprints_flat/footprints_flat/nppc_qfn20_qfn20/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nppc_qfn20_qfn20/working
-    oomp_src_folder: footprints_folder/footprints_folder/nppc/QFN20.kicad_mod/QFN20/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/nppc/QFN20.kicad_mod/QFN20/working
   name: KiCadCustomLibs
+  oomp:
+    footprint_name: qfn20
+    library_name: qfn20_kicad_mod
+    md5: 0b5cfccf4bdaae2381ee316ee2bdac3b
+    md5_10: 0b5cfccf4b
+    md5_5: 0b5cf
+    md5_6: 0b5cfc
+    oomp_key: oomp_nppc_qfn20_qfn20
+    oomp_key_extra: oomp_footprint_nppc_qfn20_qfn20
+    oomp_key_full: oomp_footprint_nppc_qfn20_qfn20_0b5cfc
+    oomp_key_simple: nppc_qfn20_qfn20
+    original_filename: KiCadCustomLibs/QFN20.kicad_mod
+    owner_name: nppc
   oomp_key: oomp_nppc_qfn20_qfn20
+  oomp_key_full: oomp_footprint_nppc_qfn20_qfn20
   oomp_key_simple: nppc_qfn20_qfn20
   owner: nppc
   repo:

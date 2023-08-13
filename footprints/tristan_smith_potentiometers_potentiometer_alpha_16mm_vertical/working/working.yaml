@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/tristan_smith_potentiometers_potentiometer_alpha_16mm_vertical/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/tristan_smith_potentiometers_potentiometer_alpha_16mm_vertical/working
-    oomp_doc: footprints/footprints/tristan-smith/Potentiometers/Potentiometer_Alpha_16mm_Vertical/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/tristan-smith/Potentiometers/Potentiometer_Alpha_16mm_Vertical/working
     oomp_src_flat: footprints_flat/footprints_flat/tristan_smith_potentiometers_potentiometer_alpha_16mm_vertical/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/tristan_smith_potentiometers_potentiometer_alpha_16mm_vertical/working
-    oomp_src_folder: footprints_folder/footprints_folder/tristan-smith/Potentiometers/Potentiometer_Alpha_16mm_Vertical/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/tristan-smith/Potentiometers/Potentiometer_Alpha_16mm_Vertical/working
   name: HA_KicadLibraries
+  oomp:
+    footprint_name: potentiometer_alpha_16mm_vertical
+    library_name: potentiometers
+    md5: 1c49c79b7d4842d3bf742f610619a679
+    md5_10: 1c49c79b7d
+    md5_5: 1c49c
+    md5_6: 1c49c7
+    oomp_key: oomp_tristan_smith_potentiometers_potentiometer_alpha_16mm_vertical
+    oomp_key_extra: oomp_footprint_tristan_smith_potentiometers_potentiometer_alpha_16mm_vertical
+    oomp_key_full: oomp_footprint_tristan_smith_potentiometers_potentiometer_alpha_16mm_vertical_1c49c7
+    oomp_key_simple: tristan_smith_potentiometers_potentiometer_alpha_16mm_vertical
+    original_filename: HA_KicadLibraries/Potentiometers.pretty/Potentiometer_Alpha_16mm_Vertical.kicad_mod
+    owner_name: tristan_smith
   oomp_key: oomp_tristan_smith_potentiometers_potentiometer_alpha_16mm_vertical
+  oomp_key_full: oomp_footprint_tristan_smith_potentiometers_potentiometer_alpha_16mm_vertical
   oomp_key_simple: tristan_smith_potentiometers_potentiometer_alpha_16mm_vertical
   owner: tristan-smith
   repo:

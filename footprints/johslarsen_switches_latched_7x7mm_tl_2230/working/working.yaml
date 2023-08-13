@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/johslarsen_switches_latched_7x7mm_tl_2230/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/johslarsen_switches_latched_7x7mm_tl_2230/working
-    oomp_doc: footprints/footprints/johslarsen/Switches/Latched_7x7mm_TL_2230/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/johslarsen/Switches/Latched_7x7mm_TL_2230/working
     oomp_src_flat: footprints_flat/footprints_flat/johslarsen_switches_latched_7x7mm_tl_2230/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/johslarsen_switches_latched_7x7mm_tl_2230/working
-    oomp_src_folder: footprints_folder/footprints_folder/johslarsen/Switches/Latched_7x7mm_TL_2230/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/johslarsen/Switches/Latched_7x7mm_TL_2230/working
   name: Switches.pretty
+  oomp:
+    footprint_name: latched_7x7mm_tl_2230
+    library_name: switches
+    md5: 4cf3afed1f4e7db97682d8c740b9e106
+    md5_10: 4cf3afed1f
+    md5_5: 4cf3a
+    md5_6: 4cf3af
+    oomp_key: oomp_johslarsen_switches_latched_7x7mm_tl_2230
+    oomp_key_extra: oomp_footprint_johslarsen_switches_latched_7x7mm_tl_2230
+    oomp_key_full: oomp_footprint_johslarsen_switches_latched_7x7mm_tl_2230_4cf3af
+    oomp_key_simple: johslarsen_switches_latched_7x7mm_tl_2230
+    original_filename: Switches.pretty/Latched_7x7mm_TL_2230.kicad_mod
+    owner_name: johslarsen
   oomp_key: oomp_johslarsen_switches_latched_7x7mm_tl_2230
+  oomp_key_full: oomp_footprint_johslarsen_switches_latched_7x7mm_tl_2230
   oomp_key_simple: johslarsen_switches_latched_7x7mm_tl_2230
   owner: johslarsen
   repo:

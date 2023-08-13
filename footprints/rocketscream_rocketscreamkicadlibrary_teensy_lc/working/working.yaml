@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/rocketscream_rocketscreamkicadlibrary_teensy_lc/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/rocketscream_rocketscreamkicadlibrary_teensy_lc/working
-    oomp_doc: footprints/footprints/rocketscream/RocketScreamKicadLibrary/TEENSY-LC/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/rocketscream/RocketScreamKicadLibrary/TEENSY-LC/working
     oomp_src_flat: footprints_flat/footprints_flat/rocketscream_rocketscreamkicadlibrary_teensy_lc/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/rocketscream_rocketscreamkicadlibrary_teensy_lc/working
-    oomp_src_folder: footprints_folder/footprints_folder/rocketscream/RocketScreamKicadLibrary/TEENSY-LC/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/rocketscream/RocketScreamKicadLibrary/TEENSY-LC/working
   name: RocketScreamKicadLibrary
+  oomp:
+    footprint_name: teensy_lc
+    library_name: rocketscreamkicadlibrary
+    md5: 352584be6cc7adb8d72f710002a4f7d9
+    md5_10: 352584be6c
+    md5_5: '35258'
+    md5_6: '352584'
+    oomp_key: oomp_rocketscream_rocketscreamkicadlibrary_teensy_lc
+    oomp_key_extra: oomp_footprint_rocketscream_rocketscreamkicadlibrary_teensy_lc
+    oomp_key_full: oomp_footprint_rocketscream_rocketscreamkicadlibrary_teensy_lc_352584
+    oomp_key_simple: rocketscream_rocketscreamkicadlibrary_teensy_lc
+    original_filename: RocketScreamKicadLibrary/RocketScreamKicadLibrary.pretty/TEENSY-LC.kicad_mod
+    owner_name: rocketscream
   oomp_key: oomp_rocketscream_rocketscreamkicadlibrary_teensy_lc
+  oomp_key_full: oomp_footprint_rocketscream_rocketscreamkicadlibrary_teensy_lc
   oomp_key_simple: rocketscream_rocketscreamkicadlibrary_teensy_lc
   owner: rocketscream
   repo:

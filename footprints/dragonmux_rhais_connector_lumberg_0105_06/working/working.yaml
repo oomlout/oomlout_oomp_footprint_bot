@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/dragonmux_rhais_connector_lumberg_0105_06/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/dragonmux_rhais_connector_lumberg_0105_06/working
-    oomp_doc: footprints/footprints/dragonmux/rhais_connector-lumberg/0105_06/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/dragonmux/rhais_connector-lumberg/0105_06/working
     oomp_src_flat: footprints_flat/footprints_flat/dragonmux_rhais_connector_lumberg_0105_06/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/dragonmux_rhais_connector_lumberg_0105_06/working
-    oomp_src_folder: footprints_folder/footprints_folder/dragonmux/rhais_connector-lumberg/0105_06/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/dragonmux/rhais_connector-lumberg/0105_06/working
   name: rhais_connector-lumberg.pretty
+  oomp:
+    footprint_name: '0105_06'
+    library_name: rhais_connector_lumberg
+    md5: bed96e9284bbb59a3c2d10a3ae33a1d6
+    md5_10: bed96e9284
+    md5_5: bed96
+    md5_6: bed96e
+    oomp_key: oomp_dragonmux_rhais_connector_lumberg_0105_06
+    oomp_key_extra: oomp_footprint_dragonmux_rhais_connector_lumberg_0105_06
+    oomp_key_full: oomp_footprint_dragonmux_rhais_connector_lumberg_0105_06_bed96e
+    oomp_key_simple: dragonmux_rhais_connector_lumberg_0105_06
+    original_filename: rhais_connector-lumberg.pretty/0105_06.kicad_mod
+    owner_name: dragonmux
   oomp_key: oomp_dragonmux_rhais_connector_lumberg_0105_06
+  oomp_key_full: oomp_footprint_dragonmux_rhais_connector_lumberg_0105_06
   oomp_key_simple: dragonmux_rhais_connector_lumberg_0105_06
   owner: dragonmux
   repo:

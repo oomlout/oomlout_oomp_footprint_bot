@@ -11,17 +11,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_filter_filter_murata_sfecf_6_handsoldering/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_filter_filter_murata_sfecf_6_handsoldering/working
-    oomp_doc: footprints/footprints/kicad/Filter/Filter_Murata_SFECF-6_HandSoldering/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Filter/Filter_Murata_SFECF-6_HandSoldering/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_filter_filter_murata_sfecf_6_handsoldering/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_filter_filter_murata_sfecf_6_handsoldering/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Filter/Filter_Murata_SFECF-6_HandSoldering/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Filter/Filter_Murata_SFECF-6_HandSoldering/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: filter_murata_sfecf_6_handsoldering
+    library_name: filter
+    md5: 3fb5c30c78204b6477d3f20468ddd46a
+    md5_10: 3fb5c30c78
+    md5_5: 3fb5c
+    md5_6: 3fb5c3
+    oomp_key: oomp_kicad_filter_filter_murata_sfecf_6_handsoldering
+    oomp_key_extra: oomp_footprint_kicad_filter_filter_murata_sfecf_6_handsoldering
+    oomp_key_full: oomp_footprint_kicad_filter_filter_murata_sfecf_6_handsoldering_3fb5c3
+    oomp_key_simple: kicad_filter_filter_murata_sfecf_6_handsoldering
+    original_filename: libraries/kicad-footprints/Filter.pretty/Filter_Murata_SFECF-6_HandSoldering.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_filter_filter_murata_sfecf_6_handsoldering
+  oomp_key_full: oomp_footprint_kicad_filter_filter_murata_sfecf_6_handsoldering
   oomp_key_simple: kicad_filter_filter_murata_sfecf_6_handsoldering
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_mt48lc16m16a2tg_6a_mt48lc16m16a2tg_6a/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_mt48lc16m16a2tg_6a_mt48lc16m16a2tg_6a/working
-    oomp_doc: footprints/footprints/brunoeagle/MT48LC16M16A2TG-6A.kicad_mod/MT48LC16M16A2TG-6A/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/MT48LC16M16A2TG-6A.kicad_mod/MT48LC16M16A2TG-6A/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_mt48lc16m16a2tg_6a_mt48lc16m16a2tg_6a/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_mt48lc16m16a2tg_6a_mt48lc16m16a2tg_6a/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/MT48LC16M16A2TG-6A.kicad_mod/MT48LC16M16A2TG-6A/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/MT48LC16M16A2TG-6A.kicad_mod/MT48LC16M16A2TG-6A/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: mt48lc16m16a2tg_6a
+    library_name: mt48lc16m16a2tg_6a_kicad_mod
+    md5: aa062f747a4920ea94865ce2be86059f
+    md5_10: aa062f747a
+    md5_5: aa062
+    md5_6: aa062f
+    oomp_key: oomp_brunoeagle_mt48lc16m16a2tg_6a_mt48lc16m16a2tg_6a
+    oomp_key_extra: oomp_footprint_brunoeagle_mt48lc16m16a2tg_6a_mt48lc16m16a2tg_6a
+    oomp_key_full: oomp_footprint_brunoeagle_mt48lc16m16a2tg_6a_mt48lc16m16a2tg_6a_aa062f
+    oomp_key_simple: brunoeagle_mt48lc16m16a2tg_6a_mt48lc16m16a2tg_6a
+    original_filename: kicad-open-modules/MT48LC16M16A2TG-6A.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_mt48lc16m16a2tg_6a_mt48lc16m16a2tg_6a
+  oomp_key_full: oomp_footprint_brunoeagle_mt48lc16m16a2tg_6a_mt48lc16m16a2tg_6a
   oomp_key_simple: brunoeagle_mt48lc16m16a2tg_6a_mt48lc16m16a2tg_6a
   owner: brunoeagle
   repo:

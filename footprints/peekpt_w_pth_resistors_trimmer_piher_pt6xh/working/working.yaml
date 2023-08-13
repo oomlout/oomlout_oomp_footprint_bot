@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/peekpt_w_pth_resistors_trimmer_piher_pt6xh/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/peekpt_w_pth_resistors_trimmer_piher_pt6xh/working
-    oomp_doc: footprints/footprints/peekpt/w_pth_resistors/trimmer_piher_pt6xh/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/peekpt/w_pth_resistors/trimmer_piher_pt6xh/working
     oomp_src_flat: footprints_flat/footprints_flat/peekpt_w_pth_resistors_trimmer_piher_pt6xh/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/peekpt_w_pth_resistors_trimmer_piher_pt6xh/working
-    oomp_src_folder: footprints_folder/footprints_folder/peekpt/w_pth_resistors/trimmer_piher_pt6xh/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/peekpt/w_pth_resistors/trimmer_piher_pt6xh/working
   name: kicad_smisioto
+  oomp:
+    footprint_name: trimmer_piher_pt6xh
+    library_name: w_pth_resistors
+    md5: 619c07c6d2f00e85bcf18a3c0cdbaaae
+    md5_10: 619c07c6d2
+    md5_5: 619c0
+    md5_6: 619c07
+    oomp_key: oomp_peekpt_w_pth_resistors_trimmer_piher_pt6xh
+    oomp_key_extra: oomp_footprint_peekpt_w_pth_resistors_trimmer_piher_pt6xh
+    oomp_key_full: oomp_footprint_peekpt_w_pth_resistors_trimmer_piher_pt6xh_619c07
+    oomp_key_simple: peekpt_w_pth_resistors_trimmer_piher_pt6xh
+    original_filename: kicad_smisioto/modules/walter/w_pth_resistors.pretty/trimmer_piher_pt6xh.kicad_mod
+    owner_name: peekpt
   oomp_key: oomp_peekpt_w_pth_resistors_trimmer_piher_pt6xh
+  oomp_key_full: oomp_footprint_peekpt_w_pth_resistors_trimmer_piher_pt6xh
   oomp_key_simple: peekpt_w_pth_resistors_trimmer_piher_pt6xh
   owner: peekpt
   repo:

@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/KozueNakano/KiCADKozueLib.pretty
     oomp_bot: footprints/kozuenakano_kicadkozuelib_d_sub9_plug/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kozuenakano_kicadkozuelib_d_sub9_plug/working
-    oomp_doc: footprints/footprints/KozueNakano/KiCADKozueLib/D-sub9_plug/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/KozueNakano/KiCADKozueLib/D-sub9_plug/working
     oomp_src_flat: footprints_flat/footprints_flat/kozuenakano_kicadkozuelib_d_sub9_plug/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kozuenakano_kicadkozuelib_d_sub9_plug/working
-    oomp_src_folder: footprints_folder/footprints_folder/KozueNakano/KiCADKozueLib/D-sub9_plug/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/KozueNakano/KiCADKozueLib/D-sub9_plug/working
   name: KiCADKozueLib.pretty
+  oomp:
+    footprint_name: d_sub9_plug
+    library_name: kicadkozuelib
+    md5: af356b986917b2b764b106731b8f164a
+    md5_10: af356b9869
+    md5_5: af356
+    md5_6: af356b
+    oomp_key: oomp_kozuenakano_kicadkozuelib_d_sub9_plug
+    oomp_key_extra: oomp_footprint_kozuenakano_kicadkozuelib_d_sub9_plug
+    oomp_key_full: oomp_footprint_kozuenakano_kicadkozuelib_d_sub9_plug_af356b
+    oomp_key_simple: kozuenakano_kicadkozuelib_d_sub9_plug
+    original_filename: KiCADKozueLib.pretty/D-sub9_plug.kicad_mod
+    owner_name: kozuenakano
   oomp_key: oomp_kozuenakano_kicadkozuelib_d_sub9_plug
+  oomp_key_full: oomp_footprint_kozuenakano_kicadkozuelib_d_sub9_plug
   oomp_key_simple: kozuenakano_kicadkozuelib_d_sub9_plug
   owner: KozueNakano
   repo:

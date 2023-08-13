@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/stefanhamminga_sh_audio_tct40_18_ultrasonic_transceiver/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stefanhamminga_sh_audio_tct40_18_ultrasonic_transceiver/working
-    oomp_doc: footprints/footprints/StefanHamminga/SH_Audio/TCT40-18_Ultrasonic_Transceiver/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/StefanHamminga/SH_Audio/TCT40-18_Ultrasonic_Transceiver/working
     oomp_src_flat: footprints_flat/footprints_flat/stefanhamminga_sh_audio_tct40_18_ultrasonic_transceiver/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/stefanhamminga_sh_audio_tct40_18_ultrasonic_transceiver/working
-    oomp_src_folder: footprints_folder/footprints_folder/StefanHamminga/SH_Audio/TCT40-18_Ultrasonic_Transceiver/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/StefanHamminga/SH_Audio/TCT40-18_Ultrasonic_Transceiver/working
   name: SH_Audio.pretty
+  oomp:
+    footprint_name: tct40_18_ultrasonic_transceiver
+    library_name: sh_audio
+    md5: 677f6175cc9bef6f78e251edf0a71594
+    md5_10: 677f6175cc
+    md5_5: 677f6
+    md5_6: 677f61
+    oomp_key: oomp_stefanhamminga_sh_audio_tct40_18_ultrasonic_transceiver
+    oomp_key_extra: oomp_footprint_stefanhamminga_sh_audio_tct40_18_ultrasonic_transceiver
+    oomp_key_full: oomp_footprint_stefanhamminga_sh_audio_tct40_18_ultrasonic_transceiver_677f61
+    oomp_key_simple: stefanhamminga_sh_audio_tct40_18_ultrasonic_transceiver
+    original_filename: SH_Audio.pretty/TCT40-18_Ultrasonic_Transceiver.kicad_mod
+    owner_name: stefanhamminga
   oomp_key: oomp_stefanhamminga_sh_audio_tct40_18_ultrasonic_transceiver
+  oomp_key_full: oomp_footprint_stefanhamminga_sh_audio_tct40_18_ultrasonic_transceiver
   oomp_key_simple: stefanhamminga_sh_audio_tct40_18_ultrasonic_transceiver
   owner: StefanHamminga
   repo:

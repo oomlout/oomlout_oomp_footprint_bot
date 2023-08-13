@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/notmart_eurorack_potentiometer_legend_small/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/notmart_eurorack_potentiometer_legend_small/working
-    oomp_doc: footprints/footprints/notmart/eurorack/Potentiometer_legend_small/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/notmart/eurorack/Potentiometer_legend_small/working
     oomp_src_flat: footprints_flat/footprints_flat/notmart_eurorack_potentiometer_legend_small/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/notmart_eurorack_potentiometer_legend_small/working
-    oomp_src_folder: footprints_folder/footprints_folder/notmart/eurorack/Potentiometer_legend_small/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/notmart/eurorack/Potentiometer_legend_small/working
   name: eurorack.pretty
+  oomp:
+    footprint_name: potentiometer_legend_small
+    library_name: eurorack
+    md5: 44ac3d1f1963f207310e65ba89ae6c21
+    md5_10: 44ac3d1f19
+    md5_5: 44ac3
+    md5_6: 44ac3d
+    oomp_key: oomp_notmart_eurorack_potentiometer_legend_small
+    oomp_key_extra: oomp_footprint_notmart_eurorack_potentiometer_legend_small
+    oomp_key_full: oomp_footprint_notmart_eurorack_potentiometer_legend_small_44ac3d
+    oomp_key_simple: notmart_eurorack_potentiometer_legend_small
+    original_filename: eurorack.pretty/Potentiometer_legend_small.kicad_mod
+    owner_name: notmart
   oomp_key: oomp_notmart_eurorack_potentiometer_legend_small
+  oomp_key_full: oomp_footprint_notmart_eurorack_potentiometer_legend_small
   oomp_key_simple: notmart_eurorack_potentiometer_legend_small
   owner: notmart
   repo:

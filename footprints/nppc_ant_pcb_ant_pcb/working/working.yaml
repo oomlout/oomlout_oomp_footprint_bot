@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/nppc_ant_pcb_ant_pcb/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nppc_ant_pcb_ant_pcb/working
-    oomp_doc: footprints/footprints/nppc/ANT_PCB.kicad_mod/ANT_PCB/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/nppc/ANT_PCB.kicad_mod/ANT_PCB/working
     oomp_src_flat: footprints_flat/footprints_flat/nppc_ant_pcb_ant_pcb/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nppc_ant_pcb_ant_pcb/working
-    oomp_src_folder: footprints_folder/footprints_folder/nppc/ANT_PCB.kicad_mod/ANT_PCB/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/nppc/ANT_PCB.kicad_mod/ANT_PCB/working
   name: KiCadCustomLibs
+  oomp:
+    footprint_name: ant_pcb
+    library_name: ant_pcb_kicad_mod
+    md5: 7034cf0f2076452a07443675c7d4db77
+    md5_10: 7034cf0f20
+    md5_5: 7034c
+    md5_6: 7034cf
+    oomp_key: oomp_nppc_ant_pcb_ant_pcb
+    oomp_key_extra: oomp_footprint_nppc_ant_pcb_ant_pcb
+    oomp_key_full: oomp_footprint_nppc_ant_pcb_ant_pcb_7034cf
+    oomp_key_simple: nppc_ant_pcb_ant_pcb
+    original_filename: KiCadCustomLibs/ANT_PCB.kicad_mod
+    owner_name: nppc
   oomp_key: oomp_nppc_ant_pcb_ant_pcb
+  oomp_key_full: oomp_footprint_nppc_ant_pcb_ant_pcb
   oomp_key_simple: nppc_ant_pcb_ant_pcb
   owner: nppc
   repo:

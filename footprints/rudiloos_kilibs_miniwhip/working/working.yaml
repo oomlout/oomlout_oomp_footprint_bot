@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/rudiloos_kilibs_miniwhip/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/rudiloos_kilibs_miniwhip/working
-    oomp_doc: footprints/footprints/rudiloos/kilibs/MINIWHIP/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/rudiloos/kilibs/MINIWHIP/working
     oomp_src_flat: footprints_flat/footprints_flat/rudiloos_kilibs_miniwhip/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/rudiloos_kilibs_miniwhip/working
-    oomp_src_folder: footprints_folder/footprints_folder/rudiloos/kilibs/MINIWHIP/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/rudiloos/kilibs/MINIWHIP/working
   name: kilibs.pretty
+  oomp:
+    footprint_name: miniwhip
+    library_name: kilibs
+    md5: 5c06848af65ea07ec2497fde5faafd6f
+    md5_10: 5c06848af6
+    md5_5: 5c068
+    md5_6: 5c0684
+    oomp_key: oomp_rudiloos_kilibs_miniwhip
+    oomp_key_extra: oomp_footprint_rudiloos_kilibs_miniwhip
+    oomp_key_full: oomp_footprint_rudiloos_kilibs_miniwhip_5c0684
+    oomp_key_simple: rudiloos_kilibs_miniwhip
+    original_filename: kilibs.pretty/MINIWHIP.kicad_mod
+    owner_name: rudiloos
   oomp_key: oomp_rudiloos_kilibs_miniwhip
+  oomp_key_full: oomp_footprint_rudiloos_kilibs_miniwhip
   oomp_key_simple: rudiloos_kilibs_miniwhip
   owner: rudiloos
   repo:

@@ -11,17 +11,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_heatsink_heatsink_sheettype_50x7mm_2fixations/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_heatsink_heatsink_sheettype_50x7mm_2fixations/working
-    oomp_doc: footprints/footprints/kicad/Heatsink/Heatsink_SheetType_50x7mm_2Fixations/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Heatsink/Heatsink_SheetType_50x7mm_2Fixations/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_heatsink_heatsink_sheettype_50x7mm_2fixations/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_heatsink_heatsink_sheettype_50x7mm_2fixations/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Heatsink/Heatsink_SheetType_50x7mm_2Fixations/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Heatsink/Heatsink_SheetType_50x7mm_2Fixations/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: heatsink_sheettype_50x7mm_2fixations
+    library_name: heatsink
+    md5: 9f1cdea10cfb02b6179bd07e3cf245a7
+    md5_10: 9f1cdea10c
+    md5_5: 9f1cd
+    md5_6: 9f1cde
+    oomp_key: oomp_kicad_heatsink_heatsink_sheettype_50x7mm_2fixations
+    oomp_key_extra: oomp_footprint_kicad_heatsink_heatsink_sheettype_50x7mm_2fixations
+    oomp_key_full: oomp_footprint_kicad_heatsink_heatsink_sheettype_50x7mm_2fixations_9f1cde
+    oomp_key_simple: kicad_heatsink_heatsink_sheettype_50x7mm_2fixations
+    original_filename: libraries/kicad-footprints/Heatsink.pretty/Heatsink_SheetType_50x7mm_2Fixations.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_heatsink_heatsink_sheettype_50x7mm_2fixations
+  oomp_key_full: oomp_footprint_kicad_heatsink_heatsink_sheettype_50x7mm_2fixations
   oomp_key_simple: kicad_heatsink_heatsink_sheettype_50x7mm_2fixations
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

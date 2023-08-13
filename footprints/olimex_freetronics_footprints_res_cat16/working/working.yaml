@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/olimex_freetronics_footprints_res_cat16/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/olimex_freetronics_footprints_res_cat16/working
-    oomp_doc: footprints/footprints/OLIMEX/freetronics_footprints/RES_CAT16/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/OLIMEX/freetronics_footprints/RES_CAT16/working
     oomp_src_flat: footprints_flat/footprints_flat/olimex_freetronics_footprints_res_cat16/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/olimex_freetronics_footprints_res_cat16/working
-    oomp_src_folder: footprints_folder/footprints_folder/OLIMEX/freetronics_footprints/RES_CAT16/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/OLIMEX/freetronics_footprints/RES_CAT16/working
   name: KiCAD
+  oomp:
+    footprint_name: res_cat16
+    library_name: freetronics_footprints
+    md5: a3341dea71a8189e2b16c191853e6c9c
+    md5_10: a3341dea71
+    md5_5: a3341
+    md5_6: a3341d
+    oomp_key: oomp_olimex_freetronics_footprints_res_cat16
+    oomp_key_extra: oomp_footprint_olimex_freetronics_footprints_res_cat16
+    oomp_key_full: oomp_footprint_olimex_freetronics_footprints_res_cat16_a3341d
+    oomp_key_simple: olimex_freetronics_footprints_res_cat16
+    original_filename: KiCAD/mods/freetronics_footprints.pretty/RES_CAT16.kicad_mod
+    owner_name: olimex
   oomp_key: oomp_olimex_freetronics_footprints_res_cat16
+  oomp_key_full: oomp_footprint_olimex_freetronics_footprints_res_cat16
   oomp_key_simple: olimex_freetronics_footprints_res_cat16
   owner: OLIMEX
   repo:

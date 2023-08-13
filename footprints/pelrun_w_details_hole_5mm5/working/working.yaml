@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pelrun_w_details_hole_5mm5/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pelrun_w_details_hole_5mm5/working
-    oomp_doc: footprints/footprints/pelrun/w_details/hole_5mm5/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/pelrun/w_details/hole_5mm5/working
     oomp_src_flat: footprints_flat/footprints_flat/pelrun_w_details_hole_5mm5/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pelrun_w_details_hole_5mm5/working
-    oomp_src_folder: footprints_folder/footprints_folder/pelrun/w_details/hole_5mm5/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/pelrun/w_details/hole_5mm5/working
   name: libKiCad
+  oomp:
+    footprint_name: hole_5mm5
+    library_name: w_details
+    md5: 9eb096e0af2a3b4d2b3e684451162ab3
+    md5_10: 9eb096e0af
+    md5_5: 9eb09
+    md5_6: 9eb096
+    oomp_key: oomp_pelrun_w_details_hole_5mm5
+    oomp_key_extra: oomp_footprint_pelrun_w_details_hole_5mm5
+    oomp_key_full: oomp_footprint_pelrun_w_details_hole_5mm5_9eb096
+    oomp_key_simple: pelrun_w_details_hole_5mm5
+    original_filename: libKiCad/footprint/w_details.pretty/hole_5mm5.kicad_mod
+    owner_name: pelrun
   oomp_key: oomp_pelrun_w_details_hole_5mm5
+  oomp_key_full: oomp_footprint_pelrun_w_details_hole_5mm5
   oomp_key_simple: pelrun_w_details_hole_5mm5
   owner: pelrun
   repo:

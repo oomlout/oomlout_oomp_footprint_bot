@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/MacroFab/EDALibraries
     oomp_bot: footprints/macrofab_mf_leds_mf_leds_ws2812b/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/macrofab_mf_leds_mf_leds_ws2812b/working
-    oomp_doc: footprints/footprints/MacroFab/MF_LEDs/MF_LEDs-WS2812B/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/MacroFab/MF_LEDs/MF_LEDs-WS2812B/working
     oomp_src_flat: footprints_flat/footprints_flat/macrofab_mf_leds_mf_leds_ws2812b/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/macrofab_mf_leds_mf_leds_ws2812b/working
-    oomp_src_folder: footprints_folder/footprints_folder/MacroFab/MF_LEDs/MF_LEDs-WS2812B/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/MacroFab/MF_LEDs/MF_LEDs-WS2812B/working
   name: EDALibraries
+  oomp:
+    footprint_name: mf_leds_ws2812b
+    library_name: mf_leds
+    md5: e35ddda2dce341a43665353ed202c495
+    md5_10: e35ddda2dc
+    md5_5: e35dd
+    md5_6: e35ddd
+    oomp_key: oomp_macrofab_mf_leds_mf_leds_ws2812b
+    oomp_key_extra: oomp_footprint_macrofab_mf_leds_mf_leds_ws2812b
+    oomp_key_full: oomp_footprint_macrofab_mf_leds_mf_leds_ws2812b_e35ddd
+    oomp_key_simple: macrofab_mf_leds_mf_leds_ws2812b
+    original_filename: EDALibraries/KiCad/Footprints/MF_LEDs.pretty/MF_LEDs-WS2812B.kicad_mod
+    owner_name: macrofab
   oomp_key: oomp_macrofab_mf_leds_mf_leds_ws2812b
+  oomp_key_full: oomp_footprint_macrofab_mf_leds_mf_leds_ws2812b
   oomp_key_simple: macrofab_mf_leds_mf_leds_ws2812b
   owner: MacroFab
   repo:

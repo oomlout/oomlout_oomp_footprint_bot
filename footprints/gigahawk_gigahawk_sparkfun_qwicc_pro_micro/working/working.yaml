@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/gigahawk_gigahawk_sparkfun_qwicc_pro_micro/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/gigahawk_gigahawk_sparkfun_qwicc_pro_micro/working
-    oomp_doc: footprints/footprints/Gigahawk/Gigahawk/SPARKFUN_QWICC_PRO_MICRO/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Gigahawk/Gigahawk/SPARKFUN_QWICC_PRO_MICRO/working
     oomp_src_flat: footprints_flat/footprints_flat/gigahawk_gigahawk_sparkfun_qwicc_pro_micro/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/gigahawk_gigahawk_sparkfun_qwicc_pro_micro/working
-    oomp_src_folder: footprints_folder/footprints_folder/Gigahawk/Gigahawk/SPARKFUN_QWICC_PRO_MICRO/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Gigahawk/Gigahawk/SPARKFUN_QWICC_PRO_MICRO/working
   name: Gigahawk.pretty
+  oomp:
+    footprint_name: sparkfun_qwicc_pro_micro
+    library_name: gigahawk
+    md5: 20e69c18cfedb5c29a4cdb0f4477726b
+    md5_10: 20e69c18cf
+    md5_5: 20e69
+    md5_6: 20e69c
+    oomp_key: oomp_gigahawk_gigahawk_sparkfun_qwicc_pro_micro
+    oomp_key_extra: oomp_footprint_gigahawk_gigahawk_sparkfun_qwicc_pro_micro
+    oomp_key_full: oomp_footprint_gigahawk_gigahawk_sparkfun_qwicc_pro_micro_20e69c
+    oomp_key_simple: gigahawk_gigahawk_sparkfun_qwicc_pro_micro
+    original_filename: Gigahawk.pretty/SPARKFUN_QWICC_PRO_MICRO.kicad_mod
+    owner_name: gigahawk
   oomp_key: oomp_gigahawk_gigahawk_sparkfun_qwicc_pro_micro
+  oomp_key_full: oomp_footprint_gigahawk_gigahawk_sparkfun_qwicc_pro_micro
   oomp_key_simple: gigahawk_gigahawk_sparkfun_qwicc_pro_micro
   owner: Gigahawk
   repo:

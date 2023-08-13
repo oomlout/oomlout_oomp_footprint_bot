@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/hiroieee_kicad_lib_inj0312ac1/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/hiroieee_kicad_lib_inj0312ac1/working
-    oomp_doc: footprints/footprints/hiroieee/kicad-lib/INJ0312AC1/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/hiroieee/kicad-lib/INJ0312AC1/working
     oomp_src_flat: footprints_flat/footprints_flat/hiroieee_kicad_lib_inj0312ac1/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/hiroieee_kicad_lib_inj0312ac1/working
-    oomp_src_folder: footprints_folder/footprints_folder/hiroieee/kicad-lib/INJ0312AC1/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/hiroieee/kicad-lib/INJ0312AC1/working
   name: kicad-lib.pretty
+  oomp:
+    footprint_name: inj0312ac1
+    library_name: kicad_lib
+    md5: 3ff0b931b78332e30e43447fbf5a185b
+    md5_10: 3ff0b931b7
+    md5_5: 3ff0b
+    md5_6: 3ff0b9
+    oomp_key: oomp_hiroieee_kicad_lib_inj0312ac1
+    oomp_key_extra: oomp_footprint_hiroieee_kicad_lib_inj0312ac1
+    oomp_key_full: oomp_footprint_hiroieee_kicad_lib_inj0312ac1_3ff0b9
+    oomp_key_simple: hiroieee_kicad_lib_inj0312ac1
+    original_filename: kicad-lib.pretty/INJ0312AC1.kicad_mod
+    owner_name: hiroieee
   oomp_key: oomp_hiroieee_kicad_lib_inj0312ac1
+  oomp_key_full: oomp_footprint_hiroieee_kicad_lib_inj0312ac1
   oomp_key_simple: hiroieee_kicad_lib_inj0312ac1
   owner: hiroieee
   repo:

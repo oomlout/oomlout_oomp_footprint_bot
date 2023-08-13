@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/peekpt_w_indicators_7segdisp_sa05/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/peekpt_w_indicators_7segdisp_sa05/working
-    oomp_doc: footprints/footprints/peekpt/w_indicators/7segdisp_sa05/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/peekpt/w_indicators/7segdisp_sa05/working
     oomp_src_flat: footprints_flat/footprints_flat/peekpt_w_indicators_7segdisp_sa05/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/peekpt_w_indicators_7segdisp_sa05/working
-    oomp_src_folder: footprints_folder/footprints_folder/peekpt/w_indicators/7segdisp_sa05/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/peekpt/w_indicators/7segdisp_sa05/working
   name: kicad_smisioto
+  oomp:
+    footprint_name: 7segdisp_sa05
+    library_name: w_indicators
+    md5: f9fb695ff5ab9fd2f6c08fb02444b304
+    md5_10: f9fb695ff5
+    md5_5: f9fb6
+    md5_6: f9fb69
+    oomp_key: oomp_peekpt_w_indicators_7segdisp_sa05
+    oomp_key_extra: oomp_footprint_peekpt_w_indicators_7segdisp_sa05
+    oomp_key_full: oomp_footprint_peekpt_w_indicators_7segdisp_sa05_f9fb69
+    oomp_key_simple: peekpt_w_indicators_7segdisp_sa05
+    original_filename: kicad_smisioto/modules/walter/w_indicators.pretty/7segdisp_sa05.kicad_mod
+    owner_name: peekpt
   oomp_key: oomp_peekpt_w_indicators_7segdisp_sa05
+  oomp_key_full: oomp_footprint_peekpt_w_indicators_7segdisp_sa05
   oomp_key_simple: peekpt_w_indicators_7segdisp_sa05
   owner: peekpt
   repo:

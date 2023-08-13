@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/monostable_commonpartslibrary_sot95p270x145_5n/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/monostable_commonpartslibrary_sot95p270x145_5n/working
-    oomp_doc: footprints/footprints/monostable/CommonPartsLibrary/SOT95P270X145-5N/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/monostable/CommonPartsLibrary/SOT95P270X145-5N/working
     oomp_src_flat: footprints_flat/footprints_flat/monostable_commonpartslibrary_sot95p270x145_5n/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/monostable_commonpartslibrary_sot95p270x145_5n/working
-    oomp_src_folder: footprints_folder/footprints_folder/monostable/CommonPartsLibrary/SOT95P270X145-5N/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/monostable/CommonPartsLibrary/SOT95P270X145-5N/working
   name: CommonPartsLibrary.pretty
+  oomp:
+    footprint_name: sot95p270x145_5n
+    library_name: commonpartslibrary
+    md5: 14d2d1b6fd98ff9ad7821b86c036f221
+    md5_10: 14d2d1b6fd
+    md5_5: 14d2d
+    md5_6: 14d2d1
+    oomp_key: oomp_monostable_commonpartslibrary_sot95p270x145_5n
+    oomp_key_extra: oomp_footprint_monostable_commonpartslibrary_sot95p270x145_5n
+    oomp_key_full: oomp_footprint_monostable_commonpartslibrary_sot95p270x145_5n_14d2d1
+    oomp_key_simple: monostable_commonpartslibrary_sot95p270x145_5n
+    original_filename: CommonPartsLibrary.pretty/SOT95P270X145-5N.kicad_mod
+    owner_name: monostable
   oomp_key: oomp_monostable_commonpartslibrary_sot95p270x145_5n
+  oomp_key_full: oomp_footprint_monostable_commonpartslibrary_sot95p270x145_5n
   oomp_key_simple: monostable_commonpartslibrary_sot95p270x145_5n
   owner: monostable
   repo:

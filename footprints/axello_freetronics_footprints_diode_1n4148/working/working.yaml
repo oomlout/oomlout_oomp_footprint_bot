@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/axello_freetronics_footprints_diode_1n4148/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/axello_freetronics_footprints_diode_1n4148/working
-    oomp_doc: footprints/footprints/axello/freetronics_footprints/DIODE-1N4148/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/axello/freetronics_footprints/DIODE-1N4148/working
     oomp_src_flat: footprints_flat/footprints_flat/axello_freetronics_footprints_diode_1n4148/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/axello_freetronics_footprints_diode_1n4148/working
-    oomp_src_folder: footprints_folder/footprints_folder/axello/freetronics_footprints/DIODE-1N4148/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/axello/freetronics_footprints/DIODE-1N4148/working
   name: kicad
+  oomp:
+    footprint_name: diode_1n4148
+    library_name: freetronics_footprints
+    md5: 28b1b0064cecc05d351ee76ff949b444
+    md5_10: 28b1b0064c
+    md5_5: 28b1b
+    md5_6: 28b1b0
+    oomp_key: oomp_axello_freetronics_footprints_diode_1n4148
+    oomp_key_extra: oomp_footprint_axello_freetronics_footprints_diode_1n4148
+    oomp_key_full: oomp_footprint_axello_freetronics_footprints_diode_1n4148_28b1b0
+    oomp_key_simple: axello_freetronics_footprints_diode_1n4148
+    original_filename: kicad/mods/freetronics_footprints.pretty/DIODE-1N4148.kicad_mod
+    owner_name: axello
   oomp_key: oomp_axello_freetronics_footprints_diode_1n4148
+  oomp_key_full: oomp_footprint_axello_freetronics_footprints_diode_1n4148
   oomp_key_simple: axello_freetronics_footprints_diode_1n4148
   owner: axello
   repo:

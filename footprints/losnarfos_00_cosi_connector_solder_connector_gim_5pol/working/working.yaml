@@ -14,14 +14,24 @@
     github_src_repo: https://github.com/LosNarfos/Kicad_Libraries
     oomp_bot: footprints/losnarfos_00_cosi_connector_solder_connector_gim_5pol/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/losnarfos_00_cosi_connector_solder_connector_gim_5pol/working
-    oomp_doc: footprints/footprints/LosNarfos/00_cosi_connector/solder_connector_GIM_5pol/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/LosNarfos/00_cosi_connector/solder_connector_GIM_5pol/working
     oomp_src_flat: footprints_flat/footprints_flat/losnarfos_00_cosi_connector_solder_connector_gim_5pol/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/losnarfos_00_cosi_connector_solder_connector_gim_5pol/working
-    oomp_src_folder: footprints_folder/footprints_folder/LosNarfos/00_cosi_connector/solder_connector_GIM_5pol/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/LosNarfos/00_cosi_connector/solder_connector_GIM_5pol/working
   name: Kicad_Libraries
+  oomp:
+    footprint_name: solder_connector_gim_5pol
+    library_name: 00_cosi_connector
+    md5: 35587372a5bedef142f7325727db3726
+    md5_10: 35587372a5
+    md5_5: '35587'
+    md5_6: '355873'
+    oomp_key: oomp_losnarfos_00_cosi_connector_solder_connector_gim_5pol
+    oomp_key_extra: oomp_footprint_losnarfos_00_cosi_connector_solder_connector_gim_5pol
+    oomp_key_full: oomp_footprint_losnarfos_00_cosi_connector_solder_connector_gim_5pol_355873
+    oomp_key_simple: losnarfos_00_cosi_connector_solder_connector_gim_5pol
+    original_filename: Kicad_Libraries/cosi_footprints/00_cosi_connector.pretty/solder_connector_GIM_5pol.kicad_mod
+    owner_name: losnarfos
   oomp_key: oomp_losnarfos_00_cosi_connector_solder_connector_gim_5pol
+  oomp_key_full: oomp_footprint_losnarfos_00_cosi_connector_solder_connector_gim_5pol
   oomp_key_simple: losnarfos_00_cosi_connector_solder_connector_gim_5pol
   owner: LosNarfos
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/garrettsworkshop_stdpads_te_174552_1_molex/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/garrettsworkshop_stdpads_te_174552_1_molex/working
-    oomp_doc: footprints/footprints/garrettsworkshop/stdpads/TE_174552-1_Molex/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/garrettsworkshop/stdpads/TE_174552-1_Molex/working
     oomp_src_flat: footprints_flat/footprints_flat/garrettsworkshop_stdpads_te_174552_1_molex/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/garrettsworkshop_stdpads_te_174552_1_molex/working
-    oomp_src_folder: footprints_folder/footprints_folder/garrettsworkshop/stdpads/TE_174552-1_Molex/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/garrettsworkshop/stdpads/TE_174552-1_Molex/working
   name: stdpads.pretty
+  oomp:
+    footprint_name: te_174552_1_molex
+    library_name: stdpads
+    md5: 510471eac9db0b73a3b9b2ad45c6eb23
+    md5_10: 510471eac9
+    md5_5: '51047'
+    md5_6: '510471'
+    oomp_key: oomp_garrettsworkshop_stdpads_te_174552_1_molex
+    oomp_key_extra: oomp_footprint_garrettsworkshop_stdpads_te_174552_1_molex
+    oomp_key_full: oomp_footprint_garrettsworkshop_stdpads_te_174552_1_molex_510471
+    oomp_key_simple: garrettsworkshop_stdpads_te_174552_1_molex
+    original_filename: stdpads.pretty/TE_174552-1_Molex.kicad_mod
+    owner_name: garrettsworkshop
   oomp_key: oomp_garrettsworkshop_stdpads_te_174552_1_molex
+  oomp_key_full: oomp_footprint_garrettsworkshop_stdpads_te_174552_1_molex
   oomp_key_simple: garrettsworkshop_stdpads_te_174552_1_molex
   owner: garrettsworkshop
   repo:

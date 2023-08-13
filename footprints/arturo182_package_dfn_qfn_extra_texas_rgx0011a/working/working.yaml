@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/arturo182/kicad-modules
     oomp_bot: footprints/arturo182_package_dfn_qfn_extra_texas_rgx0011a/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/arturo182_package_dfn_qfn_extra_texas_rgx0011a/working
-    oomp_doc: footprints/footprints/arturo182/Package_DFN_QFN_Extra/Texas_RGX0011A/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/arturo182/Package_DFN_QFN_Extra/Texas_RGX0011A/working
     oomp_src_flat: footprints_flat/footprints_flat/arturo182_package_dfn_qfn_extra_texas_rgx0011a/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/arturo182_package_dfn_qfn_extra_texas_rgx0011a/working
-    oomp_src_folder: footprints_folder/footprints_folder/arturo182/Package_DFN_QFN_Extra/Texas_RGX0011A/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/arturo182/Package_DFN_QFN_Extra/Texas_RGX0011A/working
   name: kicad-modules
+  oomp:
+    footprint_name: texas_rgx0011a
+    library_name: package_dfn_qfn_extra
+    md5: 27c1be198cddc98dadd02a4dabaede10
+    md5_10: 27c1be198c
+    md5_5: 27c1b
+    md5_6: 27c1be
+    oomp_key: oomp_arturo182_package_dfn_qfn_extra_texas_rgx0011a
+    oomp_key_extra: oomp_footprint_arturo182_package_dfn_qfn_extra_texas_rgx0011a
+    oomp_key_full: oomp_footprint_arturo182_package_dfn_qfn_extra_texas_rgx0011a_27c1be
+    oomp_key_simple: arturo182_package_dfn_qfn_extra_texas_rgx0011a
+    original_filename: kicad-modules/Package_DFN_QFN_Extra.pretty/Texas_RGX0011A.kicad_mod
+    owner_name: arturo182
   oomp_key: oomp_arturo182_package_dfn_qfn_extra_texas_rgx0011a
+  oomp_key_full: oomp_footprint_arturo182_package_dfn_qfn_extra_texas_rgx0011a
   oomp_key_simple: arturo182_package_dfn_qfn_extra_texas_rgx0011a
   owner: arturo182
   repo:

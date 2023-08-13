@@ -6,22 +6,24 @@ The original footprint can be found at:
 http://gitlab.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
-* description:   
-* libraryLink:   
-* number_of_pads:   
+* description: MPS LGA-18 12x12x3.82mm (https://www.monolithicpower.com/en/documentview/productdocument/index/version/2/document_type/Datasheet/lang/en/sku/MPM3550EGLE/document_id/5102/)  
+* libraryLink: MPS_LGA-18-10EP_12x12mm_P3.3mm  
+* number_of_pads: 18  
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| error | Expression does not have the correct type |  
 | file | libraries/kicad-footprints/Package_LGA.pretty/MPS_LGA-18-10EP_12x12mm_P3.3mm.kicad_mod |  
+| footprint | {'description': 'MPS LGA-18 12x12x3.82mm (https://www.monolithicpower.com/en/documentview/productdocument/index/version/2/document_type/Datasheet/lang/en/sku/MPM3550EGLE/document_id/5102/)', 'libraryLink': 'MPS_LGA-18-10EP_12x12mm_P3.3mm', 'number_of_pads': 18} |  
 | footprint_library_directory | footprint_library_owner/kicad_libraries/kicad-footprints/ |  
 | footprint_library_directory_flat | footprints_flat/kicad_package_lga_mps_lga_18_10ep_12x12mm_p3_3mm/working |  
 | github_path | http://github.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Package_LGA.pretty/MPS_LGA-18-10EP_12x12mm_P3.3mm.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/kicad_package_lga_mps_lga_18_10ep_12x12mm_p3_3mm/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_package_lga_mps_lga_18_10ep_12x12mm_p3_3mm/working', 'oomp_doc': 'footprints/footprints/kicad/Package_LGA/MPS_LGA-18-10EP_12x12mm_P3.3mm/working/', 'oomp_doc_github': 'https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Package_LGA/MPS_LGA-18-10EP_12x12mm_P3.3mm/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/kicad_package_lga_mps_lga_18_10ep_12x12mm_p3_3mm/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_package_lga_mps_lga_18_10ep_12x12mm_p3_3mm/working', 'oomp_src_folder': 'footprints_folder/footprints_folder/kicad/Package_LGA/MPS_LGA-18-10EP_12x12mm_P3.3mm/working', 'oomp_src_folder_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Package_LGA/MPS_LGA-18-10EP_12x12mm_P3.3mm/working'} |  
+| links | {'github_src': 'http://gitlab.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/kicad_package_lga_mps_lga_18_10ep_12x12mm_p3_3mm/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_package_lga_mps_lga_18_10ep_12x12mm_p3_3mm/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/kicad_package_lga_mps_lga_18_10ep_12x12mm_p3_3mm/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_package_lga_mps_lga_18_10ep_12x12mm_p3_3mm/working'} |  
 | name | libraries/kicad-footprints/ |  
+| oomp | {'footprint_name': 'mps_lga_18_10ep_12x12mm_p3_3mm', 'library_name': 'package_lga', 'md5': '0eba21d6ca911ef797108cf37621d5de', 'md5_10': '0eba21d6ca', 'md5_5': '0eba2', 'md5_6': '0eba21', 'oomp_key': 'oomp_kicad_package_lga_mps_lga_18_10ep_12x12mm_p3_3mm', 'oomp_key_extra': 'oomp_footprint_kicad_package_lga_mps_lga_18_10ep_12x12mm_p3_3mm', 'oomp_key_full': 'oomp_footprint_kicad_package_lga_mps_lga_18_10ep_12x12mm_p3_3mm_0eba21', 'oomp_key_simple': 'kicad_package_lga_mps_lga_18_10ep_12x12mm_p3_3mm', 'original_filename': 'libraries/kicad-footprints/Package_LGA.pretty/MPS_LGA-18-10EP_12x12mm_P3.3mm.kicad_mod', 'owner_name': 'kicad'} |  
 | oomp_key | oomp_kicad_package_lga_mps_lga_18_10ep_12x12mm_p3_3mm |  
+| oomp_key_full | oomp_footprint_kicad_package_lga_mps_lga_18_10ep_12x12mm_p3_3mm |  
 | oomp_key_simple | kicad_package_lga_mps_lga_18_10ep_12x12mm_p3_3mm |  
 | owner | kicad |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/repos/repos#get-a-repository', 'message': 'Not Found'} |  
+| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
 | url | https://gitlab.com/kicad/libraries/kicad-footprints |  
 

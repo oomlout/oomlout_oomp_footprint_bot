@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/alchy/spacestudio_components.pretty
     oomp_bot: footprints/alchy_spacestudio_components_ebay_tactile/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/alchy_spacestudio_components_ebay_tactile/working
-    oomp_doc: footprints/footprints/alchy/spacestudio_components/ebay_tactile/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/alchy/spacestudio_components/ebay_tactile/working
     oomp_src_flat: footprints_flat/footprints_flat/alchy_spacestudio_components_ebay_tactile/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/alchy_spacestudio_components_ebay_tactile/working
-    oomp_src_folder: footprints_folder/footprints_folder/alchy/spacestudio_components/ebay_tactile/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/alchy/spacestudio_components/ebay_tactile/working
   name: spacestudio_components.pretty
+  oomp:
+    footprint_name: ebay_tactile
+    library_name: spacestudio_components
+    md5: 99ced81d5ec22bf4d7057cd78988e985
+    md5_10: 99ced81d5e
+    md5_5: 99ced
+    md5_6: 99ced8
+    oomp_key: oomp_alchy_spacestudio_components_ebay_tactile
+    oomp_key_extra: oomp_footprint_alchy_spacestudio_components_ebay_tactile
+    oomp_key_full: oomp_footprint_alchy_spacestudio_components_ebay_tactile_99ced8
+    oomp_key_simple: alchy_spacestudio_components_ebay_tactile
+    original_filename: spacestudio_components.pretty/ebay_tactile.kicad_mod
+    owner_name: alchy
   oomp_key: oomp_alchy_spacestudio_components_ebay_tactile
+  oomp_key_full: oomp_footprint_alchy_spacestudio_components_ebay_tactile
   oomp_key_simple: alchy_spacestudio_components_ebay_tactile
   owner: alchy
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/digikey_rf_module_spwf01sa_11_rf_module_spwf01sa_11/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_rf_module_spwf01sa_11_rf_module_spwf01sa_11/working
-    oomp_doc: footprints/footprints/digikey/RF_Module_SPWF01SA.11.kicad_mod/RF_Module_SPWF01SA.11/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/digikey/RF_Module_SPWF01SA.11.kicad_mod/RF_Module_SPWF01SA.11/working
     oomp_src_flat: footprints_flat/footprints_flat/digikey_rf_module_spwf01sa_11_rf_module_spwf01sa_11/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/digikey_rf_module_spwf01sa_11_rf_module_spwf01sa_11/working
-    oomp_src_folder: footprints_folder/footprints_folder/digikey/RF_Module_SPWF01SA.11.kicad_mod/RF_Module_SPWF01SA.11/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/digikey/RF_Module_SPWF01SA.11.kicad_mod/RF_Module_SPWF01SA.11/working
   name: digikey-kicad-library
+  oomp:
+    footprint_name: rf_module_spwf01sa_11
+    library_name: rf_module_spwf01sa_11_kicad_mod
+    md5: ba781bcb7ad9b316a267fed95be5a14b
+    md5_10: ba781bcb7a
+    md5_5: ba781
+    md5_6: ba781b
+    oomp_key: oomp_digikey_rf_module_spwf01sa_11_rf_module_spwf01sa_11
+    oomp_key_extra: oomp_footprint_digikey_rf_module_spwf01sa_11_rf_module_spwf01sa_11
+    oomp_key_full: oomp_footprint_digikey_rf_module_spwf01sa_11_rf_module_spwf01sa_11_ba781b
+    oomp_key_simple: digikey_rf_module_spwf01sa_11_rf_module_spwf01sa_11
+    original_filename: digikey-kicad-library/src/Source_Footprints/RF_Module_SPWF01SA.11.kicad_mod
+    owner_name: digikey
   oomp_key: oomp_digikey_rf_module_spwf01sa_11_rf_module_spwf01sa_11
+  oomp_key_full: oomp_footprint_digikey_rf_module_spwf01sa_11_rf_module_spwf01sa_11
   oomp_key_simple: digikey_rf_module_spwf01sa_11_rf_module_spwf01sa_11
   owner: digikey
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/shelaf_dygma_raise_fp_testpoint/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/shelaf_dygma_raise_fp_testpoint/working
-    oomp_doc: footprints/footprints/shelaf-dygma/raise_fp/testpoint/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/shelaf-dygma/raise_fp/testpoint/working
     oomp_src_flat: footprints_flat/footprints_flat/shelaf_dygma_raise_fp_testpoint/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/shelaf_dygma_raise_fp_testpoint/working
-    oomp_src_folder: footprints_folder/footprints_folder/shelaf-dygma/raise_fp/testpoint/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/shelaf-dygma/raise_fp/testpoint/working
   name: raise_fp.pretty
+  oomp:
+    footprint_name: testpoint
+    library_name: raise_fp
+    md5: 20b7cb7c7117f42538b95a797ee0ad9c
+    md5_10: 20b7cb7c71
+    md5_5: 20b7c
+    md5_6: 20b7cb
+    oomp_key: oomp_shelaf_dygma_raise_fp_testpoint
+    oomp_key_extra: oomp_footprint_shelaf_dygma_raise_fp_testpoint
+    oomp_key_full: oomp_footprint_shelaf_dygma_raise_fp_testpoint_20b7cb
+    oomp_key_simple: shelaf_dygma_raise_fp_testpoint
+    original_filename: raise_fp.pretty/testpoint.kicad_mod
+    owner_name: shelaf_dygma
   oomp_key: oomp_shelaf_dygma_raise_fp_testpoint
+  oomp_key_full: oomp_footprint_shelaf_dygma_raise_fp_testpoint
   oomp_key_simple: shelaf_dygma_raise_fp_testpoint
   owner: shelaf-dygma
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/codemercenary_os_kicad_tcxo/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/codemercenary_os_kicad_tcxo/working
-    oomp_doc: footprints/footprints/codemercenary-os/kicad/TCXO/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/codemercenary-os/kicad/TCXO/working
     oomp_src_flat: footprints_flat/footprints_flat/codemercenary_os_kicad_tcxo/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/codemercenary_os_kicad_tcxo/working
-    oomp_src_folder: footprints_folder/footprints_folder/codemercenary-os/kicad/TCXO/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/codemercenary-os/kicad/TCXO/working
   name: kicad.pretty
+  oomp:
+    footprint_name: tcxo
+    library_name: kicad
+    md5: 593baa0b878cf57750c78973a0ccc4a3
+    md5_10: 593baa0b87
+    md5_5: 593ba
+    md5_6: 593baa
+    oomp_key: oomp_codemercenary_os_kicad_tcxo
+    oomp_key_extra: oomp_footprint_codemercenary_os_kicad_tcxo
+    oomp_key_full: oomp_footprint_codemercenary_os_kicad_tcxo_593baa
+    oomp_key_simple: codemercenary_os_kicad_tcxo
+    original_filename: kicad.pretty/TCXO.kicad_mod
+    owner_name: codemercenary_os
   oomp_key: oomp_codemercenary_os_kicad_tcxo
+  oomp_key_full: oomp_footprint_codemercenary_os_kicad_tcxo
   oomp_key_simple: codemercenary_os_kicad_tcxo
   owner: codemercenary-os
   repo:

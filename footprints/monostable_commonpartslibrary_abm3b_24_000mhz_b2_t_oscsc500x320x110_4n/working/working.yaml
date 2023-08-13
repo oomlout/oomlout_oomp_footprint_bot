@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/monostable_commonpartslibrary_abm3b_24_000mhz_b2_t_oscsc500x320x110_4n/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/monostable_commonpartslibrary_abm3b_24_000mhz_b2_t_oscsc500x320x110_4n/working
-    oomp_doc: footprints/footprints/monostable/CommonPartsLibrary/ABM3B-24.000MHZ-B2-T_OSCSC500X320X110-4N/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/monostable/CommonPartsLibrary/ABM3B-24.000MHZ-B2-T_OSCSC500X320X110-4N/working
     oomp_src_flat: footprints_flat/footprints_flat/monostable_commonpartslibrary_abm3b_24_000mhz_b2_t_oscsc500x320x110_4n/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/monostable_commonpartslibrary_abm3b_24_000mhz_b2_t_oscsc500x320x110_4n/working
-    oomp_src_folder: footprints_folder/footprints_folder/monostable/CommonPartsLibrary/ABM3B-24.000MHZ-B2-T_OSCSC500X320X110-4N/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/monostable/CommonPartsLibrary/ABM3B-24.000MHZ-B2-T_OSCSC500X320X110-4N/working
   name: CommonPartsLibrary.pretty
+  oomp:
+    footprint_name: abm3b_24_000mhz_b2_t_oscsc500x320x110_4n
+    library_name: commonpartslibrary
+    md5: 36eda89b657ca638b6851b798f183a7f
+    md5_10: 36eda89b65
+    md5_5: 36eda
+    md5_6: 36eda8
+    oomp_key: oomp_monostable_commonpartslibrary_abm3b_24_000mhz_b2_t_oscsc500x320x110_4n
+    oomp_key_extra: oomp_footprint_monostable_commonpartslibrary_abm3b_24_000mhz_b2_t_oscsc500x320x110_4n
+    oomp_key_full: oomp_footprint_monostable_commonpartslibrary_abm3b_24_000mhz_b2_t_oscsc500x320x110_4n_36eda8
+    oomp_key_simple: monostable_commonpartslibrary_abm3b_24_000mhz_b2_t_oscsc500x320x110_4n
+    original_filename: CommonPartsLibrary.pretty/ABM3B-24.000MHZ-B2-T_OSCSC500X320X110-4N.kicad_mod
+    owner_name: monostable
   oomp_key: oomp_monostable_commonpartslibrary_abm3b_24_000mhz_b2_t_oscsc500x320x110_4n
+  oomp_key_full: oomp_footprint_monostable_commonpartslibrary_abm3b_24_000mhz_b2_t_oscsc500x320x110_4n
   oomp_key_simple: monostable_commonpartslibrary_abm3b_24_000mhz_b2_t_oscsc500x320x110_4n
   owner: monostable
   repo:

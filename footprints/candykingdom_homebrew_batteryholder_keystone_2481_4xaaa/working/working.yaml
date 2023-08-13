@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/candykingdom_homebrew_batteryholder_keystone_2481_4xaaa/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/candykingdom_homebrew_batteryholder_keystone_2481_4xaaa/working
-    oomp_doc: footprints/footprints/candykingdom/homebrew/BatteryHolder_Keystone_2481_4xAAA/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/candykingdom/homebrew/BatteryHolder_Keystone_2481_4xAAA/working
     oomp_src_flat: footprints_flat/footprints_flat/candykingdom_homebrew_batteryholder_keystone_2481_4xaaa/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/candykingdom_homebrew_batteryholder_keystone_2481_4xaaa/working
-    oomp_src_folder: footprints_folder/footprints_folder/candykingdom/homebrew/BatteryHolder_Keystone_2481_4xAAA/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/candykingdom/homebrew/BatteryHolder_Keystone_2481_4xAAA/working
   name: homebrew.pretty
+  oomp:
+    footprint_name: batteryholder_keystone_2481_4xaaa
+    library_name: homebrew
+    md5: fd5647c176aaf6d1de1db1c74fc51f2c
+    md5_10: fd5647c176
+    md5_5: fd564
+    md5_6: fd5647
+    oomp_key: oomp_candykingdom_homebrew_batteryholder_keystone_2481_4xaaa
+    oomp_key_extra: oomp_footprint_candykingdom_homebrew_batteryholder_keystone_2481_4xaaa
+    oomp_key_full: oomp_footprint_candykingdom_homebrew_batteryholder_keystone_2481_4xaaa_fd5647
+    oomp_key_simple: candykingdom_homebrew_batteryholder_keystone_2481_4xaaa
+    original_filename: homebrew.pretty/BatteryHolder_Keystone_2481_4xAAA.kicad_mod
+    owner_name: candykingdom
   oomp_key: oomp_candykingdom_homebrew_batteryholder_keystone_2481_4xaaa
+  oomp_key_full: oomp_footprint_candykingdom_homebrew_batteryholder_keystone_2481_4xaaa
   oomp_key_simple: candykingdom_homebrew_batteryholder_keystone_2481_4xaaa
   owner: candykingdom
   repo:

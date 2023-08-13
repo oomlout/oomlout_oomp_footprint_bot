@@ -11,17 +11,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_resistor_smd_r_array_convex_8x0602/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_resistor_smd_r_array_convex_8x0602/working
-    oomp_doc: footprints/footprints/kicad/Resistor_SMD/R_Array_Convex_8x0602/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Resistor_SMD/R_Array_Convex_8x0602/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_resistor_smd_r_array_convex_8x0602/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_resistor_smd_r_array_convex_8x0602/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Resistor_SMD/R_Array_Convex_8x0602/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Resistor_SMD/R_Array_Convex_8x0602/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: r_array_convex_8x0602
+    library_name: resistor_smd
+    md5: 48beaac854db188a059737a9cd0260b7
+    md5_10: 48beaac854
+    md5_5: 48bea
+    md5_6: 48beaa
+    oomp_key: oomp_kicad_resistor_smd_r_array_convex_8x0602
+    oomp_key_extra: oomp_footprint_kicad_resistor_smd_r_array_convex_8x0602
+    oomp_key_full: oomp_footprint_kicad_resistor_smd_r_array_convex_8x0602_48beaa
+    oomp_key_simple: kicad_resistor_smd_r_array_convex_8x0602
+    original_filename: libraries/kicad-footprints/Resistor_SMD.pretty/R_Array_Convex_8x0602.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_resistor_smd_r_array_convex_8x0602
+  oomp_key_full: oomp_footprint_kicad_resistor_smd_r_array_convex_8x0602
   oomp_key_simple: kicad_resistor_smd_r_array_convex_8x0602
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

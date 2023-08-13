@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/hoskinstech_bjh_kicad_transistor_fp_to_263/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/hoskinstech_bjh_kicad_transistor_fp_to_263/working
-    oomp_doc: footprints/footprints/hoskinstech/bjh-kicad-transistor-fp/TO-263/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/hoskinstech/bjh-kicad-transistor-fp/TO-263/working
     oomp_src_flat: footprints_flat/footprints_flat/hoskinstech_bjh_kicad_transistor_fp_to_263/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/hoskinstech_bjh_kicad_transistor_fp_to_263/working
-    oomp_src_folder: footprints_folder/footprints_folder/hoskinstech/bjh-kicad-transistor-fp/TO-263/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/hoskinstech/bjh-kicad-transistor-fp/TO-263/working
   name: bjh-kicad-transistor-fp.pretty
+  oomp:
+    footprint_name: to_263
+    library_name: bjh_kicad_transistor_fp
+    md5: 25a789d2433a3a6c674368356866c7a0
+    md5_10: 25a789d243
+    md5_5: 25a78
+    md5_6: 25a789
+    oomp_key: oomp_hoskinstech_bjh_kicad_transistor_fp_to_263
+    oomp_key_extra: oomp_footprint_hoskinstech_bjh_kicad_transistor_fp_to_263
+    oomp_key_full: oomp_footprint_hoskinstech_bjh_kicad_transistor_fp_to_263_25a789
+    oomp_key_simple: hoskinstech_bjh_kicad_transistor_fp_to_263
+    original_filename: bjh-kicad-transistor-fp.pretty/TO-263.kicad_mod
+    owner_name: hoskinstech
   oomp_key: oomp_hoskinstech_bjh_kicad_transistor_fp_to_263
+  oomp_key_full: oomp_footprint_hoskinstech_bjh_kicad_transistor_fp_to_263
   oomp_key_simple: hoskinstech_bjh_kicad_transistor_fp_to_263
   owner: hoskinstech
   repo:

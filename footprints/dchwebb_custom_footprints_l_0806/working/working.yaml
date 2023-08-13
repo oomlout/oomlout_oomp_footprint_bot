@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/dchwebb_custom_footprints_l_0806/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/dchwebb_custom_footprints_l_0806/working
-    oomp_doc: footprints/footprints/dchwebb/Custom_Footprints/L_0806/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/dchwebb/Custom_Footprints/L_0806/working
     oomp_src_flat: footprints_flat/footprints_flat/dchwebb_custom_footprints_l_0806/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/dchwebb_custom_footprints_l_0806/working
-    oomp_src_folder: footprints_folder/footprints_folder/dchwebb/Custom_Footprints/L_0806/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/dchwebb/Custom_Footprints/L_0806/working
   name: Custom_Footprints.pretty
+  oomp:
+    footprint_name: l_0806
+    library_name: custom_footprints
+    md5: ec1e4fa23d1690083f152b9a2dc4092e
+    md5_10: ec1e4fa23d
+    md5_5: ec1e4
+    md5_6: ec1e4f
+    oomp_key: oomp_dchwebb_custom_footprints_l_0806
+    oomp_key_extra: oomp_footprint_dchwebb_custom_footprints_l_0806
+    oomp_key_full: oomp_footprint_dchwebb_custom_footprints_l_0806_ec1e4f
+    oomp_key_simple: dchwebb_custom_footprints_l_0806
+    original_filename: Custom_Footprints.pretty/L_0806.kicad_mod
+    owner_name: dchwebb
   oomp_key: oomp_dchwebb_custom_footprints_l_0806
+  oomp_key_full: oomp_footprint_dchwebb_custom_footprints_l_0806
   oomp_key_simple: dchwebb_custom_footprints_l_0806
   owner: dchwebb
   repo:

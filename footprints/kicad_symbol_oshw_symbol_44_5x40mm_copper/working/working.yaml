@@ -11,17 +11,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_symbol_oshw_symbol_44_5x40mm_copper/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_symbol_oshw_symbol_44_5x40mm_copper/working
-    oomp_doc: footprints/footprints/kicad/Symbol/OSHW-Symbol_44.5x40mm_Copper/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Symbol/OSHW-Symbol_44.5x40mm_Copper/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_symbol_oshw_symbol_44_5x40mm_copper/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_symbol_oshw_symbol_44_5x40mm_copper/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Symbol/OSHW-Symbol_44.5x40mm_Copper/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Symbol/OSHW-Symbol_44.5x40mm_Copper/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: oshw_symbol_44_5x40mm_copper
+    library_name: symbol
+    md5: d4b2aec930aea36cb6988ff94d97edc8
+    md5_10: d4b2aec930
+    md5_5: d4b2a
+    md5_6: d4b2ae
+    oomp_key: oomp_kicad_symbol_oshw_symbol_44_5x40mm_copper
+    oomp_key_extra: oomp_footprint_kicad_symbol_oshw_symbol_44_5x40mm_copper
+    oomp_key_full: oomp_footprint_kicad_symbol_oshw_symbol_44_5x40mm_copper_d4b2ae
+    oomp_key_simple: kicad_symbol_oshw_symbol_44_5x40mm_copper
+    original_filename: libraries/kicad-footprints/Symbol.pretty/OSHW-Symbol_44.5x40mm_Copper.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_symbol_oshw_symbol_44_5x40mm_copper
+  oomp_key_full: oomp_footprint_kicad_symbol_oshw_symbol_44_5x40mm_copper
   oomp_key_simple: kicad_symbol_oshw_symbol_44_5x40mm_copper
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

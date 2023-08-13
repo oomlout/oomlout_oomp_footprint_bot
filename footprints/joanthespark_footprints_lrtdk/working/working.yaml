@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/joanthespark_footprints_lrtdk/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/joanthespark_footprints_lrtdk/working
-    oomp_doc: footprints/footprints/JoanTheSpark/footprints/LRTDK/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/JoanTheSpark/footprints/LRTDK/working
     oomp_src_flat: footprints_flat/footprints_flat/joanthespark_footprints_lrtdk/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/joanthespark_footprints_lrtdk/working
-    oomp_src_folder: footprints_folder/footprints_folder/JoanTheSpark/footprints/LRTDK/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/JoanTheSpark/footprints/LRTDK/working
   name: KiCAD
+  oomp:
+    footprint_name: lrtdk
+    library_name: footprints
+    md5: 4d3078782218acbe197e83e22caf03c4
+    md5_10: 4d30787822
+    md5_5: 4d307
+    md5_6: 4d3078
+    oomp_key: oomp_joanthespark_footprints_lrtdk
+    oomp_key_extra: oomp_footprint_joanthespark_footprints_lrtdk
+    oomp_key_full: oomp_footprint_joanthespark_footprints_lrtdk_4d3078
+    oomp_key_simple: joanthespark_footprints_lrtdk
+    original_filename: KiCAD/demos/video/libs/footprints.pretty/LRTDK.kicad_mod
+    owner_name: joanthespark
   oomp_key: oomp_joanthespark_footprints_lrtdk
+  oomp_key_full: oomp_footprint_joanthespark_footprints_lrtdk
   oomp_key_simple: joanthespark_footprints_lrtdk
   owner: JoanTheSpark
   repo:

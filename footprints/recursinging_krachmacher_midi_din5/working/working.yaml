@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/recursinging_krachmacher_midi_din5/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/recursinging_krachmacher_midi_din5/working
-    oomp_doc: footprints/footprints/recursinging/krachmacher/MIDI_DIN5/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/recursinging/krachmacher/MIDI_DIN5/working
     oomp_src_flat: footprints_flat/footprints_flat/recursinging_krachmacher_midi_din5/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/recursinging_krachmacher_midi_din5/working
-    oomp_src_folder: footprints_folder/footprints_folder/recursinging/krachmacher/MIDI_DIN5/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/recursinging/krachmacher/MIDI_DIN5/working
   name: kxmx
+  oomp:
+    footprint_name: midi_din5
+    library_name: krachmacher
+    md5: a033428c42852e3467bc1dadb524275f
+    md5_10: a033428c42
+    md5_5: a0334
+    md5_6: a03342
+    oomp_key: oomp_recursinging_krachmacher_midi_din5
+    oomp_key_extra: oomp_footprint_recursinging_krachmacher_midi_din5
+    oomp_key_full: oomp_footprint_recursinging_krachmacher_midi_din5_a03342
+    oomp_key_simple: recursinging_krachmacher_midi_din5
+    original_filename: kxmx/kxmx_erack/kicad/kicad/libraries/krachmacher.pretty/MIDI_DIN5.kicad_mod
+    owner_name: recursinging
   oomp_key: oomp_recursinging_krachmacher_midi_din5
+  oomp_key_full: oomp_footprint_recursinging_krachmacher_midi_din5
   oomp_key_simple: recursinging_krachmacher_midi_din5
   owner: recursinging
   repo:

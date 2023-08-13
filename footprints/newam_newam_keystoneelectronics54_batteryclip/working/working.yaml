@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/newam_newam_keystoneelectronics54_batteryclip/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/newam_newam_keystoneelectronics54_batteryclip/working
-    oomp_doc: footprints/footprints/newAM/newam/KeystoneElectronics54_BatteryClip/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/newAM/newam/KeystoneElectronics54_BatteryClip/working
     oomp_src_flat: footprints_flat/footprints_flat/newam_newam_keystoneelectronics54_batteryclip/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/newam_newam_keystoneelectronics54_batteryclip/working
-    oomp_src_folder: footprints_folder/footprints_folder/newAM/newam/KeystoneElectronics54_BatteryClip/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/newAM/newam/KeystoneElectronics54_BatteryClip/working
   name: newam.pretty
+  oomp:
+    footprint_name: keystoneelectronics54_batteryclip
+    library_name: newam
+    md5: a0aa48afdc6639e91147954177174e26
+    md5_10: a0aa48afdc
+    md5_5: a0aa4
+    md5_6: a0aa48
+    oomp_key: oomp_newam_newam_keystoneelectronics54_batteryclip
+    oomp_key_extra: oomp_footprint_newam_newam_keystoneelectronics54_batteryclip
+    oomp_key_full: oomp_footprint_newam_newam_keystoneelectronics54_batteryclip_a0aa48
+    oomp_key_simple: newam_newam_keystoneelectronics54_batteryclip
+    original_filename: newam.pretty/KeystoneElectronics54_BatteryClip.kicad_mod
+    owner_name: newam
   oomp_key: oomp_newam_newam_keystoneelectronics54_batteryclip
+  oomp_key_full: oomp_footprint_newam_newam_keystoneelectronics54_batteryclip
   oomp_key_simple: newam_newam_keystoneelectronics54_batteryclip
   owner: newAM
   repo:

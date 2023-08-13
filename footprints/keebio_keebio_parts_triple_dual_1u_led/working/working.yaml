@@ -8,14 +8,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/keebio_keebio_parts_triple_dual_1u_led/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/keebio_keebio_parts_triple_dual_1u_led/working
-    oomp_doc: footprints/footprints/keebio/Keebio-Parts/Triple-Dual-1u-LED/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/keebio/Keebio-Parts/Triple-Dual-1u-LED/working
     oomp_src_flat: footprints_flat/footprints_flat/keebio_keebio_parts_triple_dual_1u_led/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/keebio_keebio_parts_triple_dual_1u_led/working
-    oomp_src_folder: footprints_folder/footprints_folder/keebio/Keebio-Parts/Triple-Dual-1u-LED/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/keebio/Keebio-Parts/Triple-Dual-1u-LED/working
   name: Keebio-Parts.pretty
+  oomp:
+    footprint_name: triple_dual_1u_led
+    library_name: keebio_parts
+    md5: 130e15252ed94925bd1c0cee7229a07f
+    md5_10: 130e15252e
+    md5_5: 130e1
+    md5_6: 130e15
+    oomp_key: oomp_keebio_keebio_parts_triple_dual_1u_led
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_triple_dual_1u_led
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_triple_dual_1u_led_130e15
+    oomp_key_simple: keebio_keebio_parts_triple_dual_1u_led
+    original_filename: Keebio-Parts.pretty/Triple-Dual-1u-LED.kicad_mod
+    owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_triple_dual_1u_led
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_triple_dual_1u_led
   oomp_key_simple: keebio_keebio_parts_triple_dual_1u_led
   owner: keebio
   repo:

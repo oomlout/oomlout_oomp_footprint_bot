@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cpavlina_manuf_copal_css_1210tb/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cpavlina_manuf_copal_css_1210tb/working
-    oomp_doc: footprints/footprints/cpavlina/manuf/COPAL_CSS-1210TB/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cpavlina/manuf/COPAL_CSS-1210TB/working
     oomp_src_flat: footprints_flat/footprints_flat/cpavlina_manuf_copal_css_1210tb/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cpavlina_manuf_copal_css_1210tb/working
-    oomp_src_folder: footprints_folder/footprints_folder/cpavlina/manuf/COPAL_CSS-1210TB/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cpavlina/manuf/COPAL_CSS-1210TB/working
   name: kicad-pcblib
+  oomp:
+    footprint_name: copal_css_1210tb
+    library_name: manuf
+    md5: 393abdb0acc6f9575b844b2cf3f89f4d
+    md5_10: 393abdb0ac
+    md5_5: 393ab
+    md5_6: 393abd
+    oomp_key: oomp_cpavlina_manuf_copal_css_1210tb
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_copal_css_1210tb
+    oomp_key_full: oomp_footprint_cpavlina_manuf_copal_css_1210tb_393abd
+    oomp_key_simple: cpavlina_manuf_copal_css_1210tb
+    original_filename: kicad-pcblib/manuf.pretty/COPAL_CSS-1210TB.kicad_mod
+    owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_copal_css_1210tb
+  oomp_key_full: oomp_footprint_cpavlina_manuf_copal_css_1210tb
   oomp_key_simple: cpavlina_manuf_copal_css_1210tb
   owner: cpavlina
   repo:

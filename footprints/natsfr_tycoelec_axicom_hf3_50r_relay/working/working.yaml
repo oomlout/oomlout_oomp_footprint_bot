@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/natsfr_tycoelec_axicom_hf3_50r_relay/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/natsfr_tycoelec_axicom_hf3_50r_relay/working
-    oomp_doc: footprints/footprints/natsfr/TycoElec/Axicom_HF3_50R_Relay/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/natsfr/TycoElec/Axicom_HF3_50R_Relay/working
     oomp_src_flat: footprints_flat/footprints_flat/natsfr_tycoelec_axicom_hf3_50r_relay/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/natsfr_tycoelec_axicom_hf3_50r_relay/working
-    oomp_src_folder: footprints_folder/footprints_folder/natsfr/TycoElec/Axicom_HF3_50R_Relay/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/natsfr/TycoElec/Axicom_HF3_50R_Relay/working
   name: kicad-components
+  oomp:
+    footprint_name: axicom_hf3_50r_relay
+    library_name: tycoelec
+    md5: 0b4a2fd1395b6c57eea6a57c04b46f84
+    md5_10: 0b4a2fd139
+    md5_5: 0b4a2
+    md5_6: 0b4a2f
+    oomp_key: oomp_natsfr_tycoelec_axicom_hf3_50r_relay
+    oomp_key_extra: oomp_footprint_natsfr_tycoelec_axicom_hf3_50r_relay
+    oomp_key_full: oomp_footprint_natsfr_tycoelec_axicom_hf3_50r_relay_0b4a2f
+    oomp_key_simple: natsfr_tycoelec_axicom_hf3_50r_relay
+    original_filename: kicad-components/Pretty_Footprints/TycoElec.pretty/Axicom_HF3_50R_Relay.kicad_mod
+    owner_name: natsfr
   oomp_key: oomp_natsfr_tycoelec_axicom_hf3_50r_relay
+  oomp_key_full: oomp_footprint_natsfr_tycoelec_axicom_hf3_50r_relay
   oomp_key_simple: natsfr_tycoelec_axicom_hf3_50r_relay
   owner: natsfr
   repo:

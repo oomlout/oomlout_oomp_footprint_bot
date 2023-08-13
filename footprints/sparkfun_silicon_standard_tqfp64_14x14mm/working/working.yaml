@@ -1,24 +1,34 @@
-- file: SparkFun-KiCad-Libraries/Footprints/Silicon-Standard.pretty/TQFP64_14X14MM.kicad_mod
+- file: SparkFun-KiCad-Libraries/Pre_v7/Footprints/Silicon-Standard.pretty/TQFP64_14X14MM.kicad_mod
   footprint:
     description: 64-LEAD TQFP PLASTIC THIN QUAD FLATPACK - 14X14X1MM BODY
     libraryLink: TQFP64_14X14MM
     number_of_pads: 64
   footprint_library_directory: footprint_library_owner/sparkfun_SparkFun-KiCad-Libraries
   footprint_library_directory_flat: footprints_flat/sparkfun_silicon_standard_tqfp64_14x14mm/working
-  github_path: http://github.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Footprints/Silicon-Standard.pretty/TQFP64_14X14MM.kicad_mod
+  github_path: http://github.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Pre_v7/Footprints/Silicon-Standard.pretty/TQFP64_14X14MM.kicad_mod
   links:
-    github_src: http://gitlab.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Tools/SparkFun-Eagle-Libraries_Conversion/Export.pretty/DFN-6-3X3.kicad_mod
+    github_src: http://gitlab.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Pre_v7/Tools/SparkFun-Eagle-Libraries_Conversion/Export.pretty/DFN-6-3X3.kicad_mod
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/sparkfun_silicon_standard_tqfp64_14x14mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/sparkfun_silicon_standard_tqfp64_14x14mm/working
-    oomp_doc: footprints/footprints/sparkfun/Silicon-Standard/TQFP64_14X14MM/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/sparkfun/Silicon-Standard/TQFP64_14X14MM/working
     oomp_src_flat: footprints_flat/footprints_flat/sparkfun_silicon_standard_tqfp64_14x14mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/sparkfun_silicon_standard_tqfp64_14x14mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/sparkfun/Silicon-Standard/TQFP64_14X14MM/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/sparkfun/Silicon-Standard/TQFP64_14X14MM/working
   name: SparkFun-KiCad-Libraries
+  oomp:
+    footprint_name: tqfp64_14x14mm
+    library_name: silicon_standard
+    md5: e71758a0a0cc33f41db3d5ab26e50881
+    md5_10: e71758a0a0
+    md5_5: e7175
+    md5_6: e71758
+    oomp_key: oomp_sparkfun_silicon_standard_tqfp64_14x14mm
+    oomp_key_extra: oomp_footprint_sparkfun_silicon_standard_tqfp64_14x14mm
+    oomp_key_full: oomp_footprint_sparkfun_silicon_standard_tqfp64_14x14mm_e71758
+    oomp_key_simple: sparkfun_silicon_standard_tqfp64_14x14mm
+    original_filename: SparkFun-KiCad-Libraries/Pre_v7/Footprints/Silicon-Standard.pretty/TQFP64_14X14MM.kicad_mod
+    owner_name: sparkfun
   oomp_key: oomp_sparkfun_silicon_standard_tqfp64_14x14mm
+  oomp_key_full: oomp_footprint_sparkfun_silicon_standard_tqfp64_14x14mm
   oomp_key_simple: sparkfun_silicon_standard_tqfp64_14x14mm
   owner: sparkfun
   repo:

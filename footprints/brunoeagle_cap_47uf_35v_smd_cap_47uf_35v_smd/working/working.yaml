@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_cap_47uf_35v_smd_cap_47uf_35v_smd/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_cap_47uf_35v_smd_cap_47uf_35v_smd/working
-    oomp_doc: footprints/footprints/brunoeagle/CAP_47UF_35V_SMD.kicad_mod/CAP_47UF_35V_SMD/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/CAP_47UF_35V_SMD.kicad_mod/CAP_47UF_35V_SMD/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_cap_47uf_35v_smd_cap_47uf_35v_smd/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_cap_47uf_35v_smd_cap_47uf_35v_smd/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/CAP_47UF_35V_SMD.kicad_mod/CAP_47UF_35V_SMD/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/CAP_47UF_35V_SMD.kicad_mod/CAP_47UF_35V_SMD/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: cap_47uf_35v_smd
+    library_name: cap_47uf_35v_smd_kicad_mod
+    md5: 0c4c6cad6f4dcea1f0a7e5d7cbf053e9
+    md5_10: 0c4c6cad6f
+    md5_5: 0c4c6
+    md5_6: 0c4c6c
+    oomp_key: oomp_brunoeagle_cap_47uf_35v_smd_cap_47uf_35v_smd
+    oomp_key_extra: oomp_footprint_brunoeagle_cap_47uf_35v_smd_cap_47uf_35v_smd
+    oomp_key_full: oomp_footprint_brunoeagle_cap_47uf_35v_smd_cap_47uf_35v_smd_0c4c6c
+    oomp_key_simple: brunoeagle_cap_47uf_35v_smd_cap_47uf_35v_smd
+    original_filename: kicad-open-modules/CAP_47UF_35V_SMD.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_cap_47uf_35v_smd_cap_47uf_35v_smd
+  oomp_key_full: oomp_footprint_brunoeagle_cap_47uf_35v_smd_cap_47uf_35v_smd
   oomp_key_simple: brunoeagle_cap_47uf_35v_smd_cap_47uf_35v_smd
   owner: brunoeagle
   repo:

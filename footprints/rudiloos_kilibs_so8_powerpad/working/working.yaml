@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/rudiloos_kilibs_so8_powerpad/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/rudiloos_kilibs_so8_powerpad/working
-    oomp_doc: footprints/footprints/rudiloos/kilibs/SO8-PowerPAD/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/rudiloos/kilibs/SO8-PowerPAD/working
     oomp_src_flat: footprints_flat/footprints_flat/rudiloos_kilibs_so8_powerpad/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/rudiloos_kilibs_so8_powerpad/working
-    oomp_src_folder: footprints_folder/footprints_folder/rudiloos/kilibs/SO8-PowerPAD/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/rudiloos/kilibs/SO8-PowerPAD/working
   name: kilibs.pretty
+  oomp:
+    footprint_name: so8_powerpad
+    library_name: kilibs
+    md5: 91a37f4d88c4e452faf30a661b7e8975
+    md5_10: 91a37f4d88
+    md5_5: 91a37
+    md5_6: 91a37f
+    oomp_key: oomp_rudiloos_kilibs_so8_powerpad
+    oomp_key_extra: oomp_footprint_rudiloos_kilibs_so8_powerpad
+    oomp_key_full: oomp_footprint_rudiloos_kilibs_so8_powerpad_91a37f
+    oomp_key_simple: rudiloos_kilibs_so8_powerpad
+    original_filename: kilibs.pretty/SO8-PowerPAD.kicad_mod
+    owner_name: rudiloos
   oomp_key: oomp_rudiloos_kilibs_so8_powerpad
+  oomp_key_full: oomp_footprint_rudiloos_kilibs_so8_powerpad
   oomp_key_simple: rudiloos_kilibs_so8_powerpad
   owner: rudiloos
   repo:

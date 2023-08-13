@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cpavlina_manuf_nxp_udfn_10/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cpavlina_manuf_nxp_udfn_10/working
-    oomp_doc: footprints/footprints/cpavlina/manuf/NXP-UDFN-10/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cpavlina/manuf/NXP-UDFN-10/working
     oomp_src_flat: footprints_flat/footprints_flat/cpavlina_manuf_nxp_udfn_10/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cpavlina_manuf_nxp_udfn_10/working
-    oomp_src_folder: footprints_folder/footprints_folder/cpavlina/manuf/NXP-UDFN-10/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cpavlina/manuf/NXP-UDFN-10/working
   name: kicad-pcblib
+  oomp:
+    footprint_name: nxp_udfn_10
+    library_name: manuf
+    md5: 3f978fc5c4e623b151046573f53a37ac
+    md5_10: 3f978fc5c4
+    md5_5: 3f978
+    md5_6: 3f978f
+    oomp_key: oomp_cpavlina_manuf_nxp_udfn_10
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_nxp_udfn_10
+    oomp_key_full: oomp_footprint_cpavlina_manuf_nxp_udfn_10_3f978f
+    oomp_key_simple: cpavlina_manuf_nxp_udfn_10
+    original_filename: kicad-pcblib/manuf.pretty/NXP-UDFN-10.kicad_mod
+    owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_nxp_udfn_10
+  oomp_key_full: oomp_footprint_cpavlina_manuf_nxp_udfn_10
   oomp_key_simple: cpavlina_manuf_nxp_udfn_10
   owner: cpavlina
   repo:

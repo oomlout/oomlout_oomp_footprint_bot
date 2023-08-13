@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/aniline/akn_misc.pretty
     oomp_bot: footprints/aniline_akn_misc_sw_push_pth_6_5x4_5mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/aniline_akn_misc_sw_push_pth_6_5x4_5mm/working
-    oomp_doc: footprints/footprints/aniline/akn_misc/SW_PUSH_PTH_6.5x4.5mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/aniline/akn_misc/SW_PUSH_PTH_6.5x4.5mm/working
     oomp_src_flat: footprints_flat/footprints_flat/aniline_akn_misc_sw_push_pth_6_5x4_5mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/aniline_akn_misc_sw_push_pth_6_5x4_5mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/aniline/akn_misc/SW_PUSH_PTH_6.5x4.5mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/aniline/akn_misc/SW_PUSH_PTH_6.5x4.5mm/working
   name: akn_misc.pretty
+  oomp:
+    footprint_name: sw_push_pth_6_5x4_5mm
+    library_name: akn_misc
+    md5: 5b7bdf97d77ba314b4c04ebf7707b85d
+    md5_10: 5b7bdf97d7
+    md5_5: 5b7bd
+    md5_6: 5b7bdf
+    oomp_key: oomp_aniline_akn_misc_sw_push_pth_6_5x4_5mm
+    oomp_key_extra: oomp_footprint_aniline_akn_misc_sw_push_pth_6_5x4_5mm
+    oomp_key_full: oomp_footprint_aniline_akn_misc_sw_push_pth_6_5x4_5mm_5b7bdf
+    oomp_key_simple: aniline_akn_misc_sw_push_pth_6_5x4_5mm
+    original_filename: akn_misc.pretty/SW_PUSH_PTH_6.5x4.5mm.kicad_mod
+    owner_name: aniline
   oomp_key: oomp_aniline_akn_misc_sw_push_pth_6_5x4_5mm
+  oomp_key_full: oomp_footprint_aniline_akn_misc_sw_push_pth_6_5x4_5mm
   oomp_key_simple: aniline_akn_misc_sw_push_pth_6_5x4_5mm
   owner: aniline
   repo:

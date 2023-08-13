@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pelrun_w_conn_d_sub_db_25f/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pelrun_w_conn_d_sub_db_25f/working
-    oomp_doc: footprints/footprints/pelrun/w_conn_d-sub/DB_25F/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/pelrun/w_conn_d-sub/DB_25F/working
     oomp_src_flat: footprints_flat/footprints_flat/pelrun_w_conn_d_sub_db_25f/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pelrun_w_conn_d_sub_db_25f/working
-    oomp_src_folder: footprints_folder/footprints_folder/pelrun/w_conn_d-sub/DB_25F/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/pelrun/w_conn_d-sub/DB_25F/working
   name: libKiCad
+  oomp:
+    footprint_name: db_25f
+    library_name: w_conn_d_sub
+    md5: ea8080a7eb921997042fb8f476e306bb
+    md5_10: ea8080a7eb
+    md5_5: ea808
+    md5_6: ea8080
+    oomp_key: oomp_pelrun_w_conn_d_sub_db_25f
+    oomp_key_extra: oomp_footprint_pelrun_w_conn_d_sub_db_25f
+    oomp_key_full: oomp_footprint_pelrun_w_conn_d_sub_db_25f_ea8080
+    oomp_key_simple: pelrun_w_conn_d_sub_db_25f
+    original_filename: libKiCad/footprint/w_conn_d-sub.pretty/DB_25F.kicad_mod
+    owner_name: pelrun
   oomp_key: oomp_pelrun_w_conn_d_sub_db_25f
+  oomp_key_full: oomp_footprint_pelrun_w_conn_d_sub_db_25f
   oomp_key_simple: pelrun_w_conn_d_sub_db_25f
   owner: pelrun
   repo:

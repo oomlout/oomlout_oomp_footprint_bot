@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/AcheronProject/acheron_Connectors.pretty
     oomp_bot: footprints/acheronproject_acheron_connectors_xfcn_f1004_h_16_20g_r_p1_0mm_mountingreliefs/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/acheronproject_acheron_connectors_xfcn_f1004_h_16_20g_r_p1_0mm_mountingreliefs/working
-    oomp_doc: footprints/footprints/AcheronProject/acheron_Connectors/XFCN_F1004-H-16-20G-R_P1.0mm_MountingReliefs/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/AcheronProject/acheron_Connectors/XFCN_F1004-H-16-20G-R_P1.0mm_MountingReliefs/working
     oomp_src_flat: footprints_flat/footprints_flat/acheronproject_acheron_connectors_xfcn_f1004_h_16_20g_r_p1_0mm_mountingreliefs/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/acheronproject_acheron_connectors_xfcn_f1004_h_16_20g_r_p1_0mm_mountingreliefs/working
-    oomp_src_folder: footprints_folder/footprints_folder/AcheronProject/acheron_Connectors/XFCN_F1004-H-16-20G-R_P1.0mm_MountingReliefs/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/AcheronProject/acheron_Connectors/XFCN_F1004-H-16-20G-R_P1.0mm_MountingReliefs/working
   name: acheron_Connectors.pretty
+  oomp:
+    footprint_name: xfcn_f1004_h_16_20g_r_p1_0mm_mountingreliefs
+    library_name: acheron_connectors
+    md5: cb5409fb96b504f1ddeceda5ac463005
+    md5_10: cb5409fb96
+    md5_5: cb540
+    md5_6: cb5409
+    oomp_key: oomp_acheronproject_acheron_connectors_xfcn_f1004_h_16_20g_r_p1_0mm_mountingreliefs
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_connectors_xfcn_f1004_h_16_20g_r_p1_0mm_mountingreliefs
+    oomp_key_full: oomp_footprint_acheronproject_acheron_connectors_xfcn_f1004_h_16_20g_r_p1_0mm_mountingreliefs_cb5409
+    oomp_key_simple: acheronproject_acheron_connectors_xfcn_f1004_h_16_20g_r_p1_0mm_mountingreliefs
+    original_filename: acheron_Connectors.pretty/XFCN_F1004-H-16-20G-R_P1.0mm_MountingReliefs.kicad_mod
+    owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_connectors_xfcn_f1004_h_16_20g_r_p1_0mm_mountingreliefs
+  oomp_key_full: oomp_footprint_acheronproject_acheron_connectors_xfcn_f1004_h_16_20g_r_p1_0mm_mountingreliefs
   oomp_key_simple: acheronproject_acheron_connectors_xfcn_f1004_h_16_20g_r_p1_0mm_mountingreliefs
   owner: AcheronProject
   repo:

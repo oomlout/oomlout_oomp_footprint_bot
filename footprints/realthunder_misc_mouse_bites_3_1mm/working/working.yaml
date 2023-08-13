@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/realthunder_misc_mouse_bites_3_1mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/realthunder_misc_mouse_bites_3_1mm/working
-    oomp_doc: footprints/footprints/realthunder/Misc/Mouse_Bites_3_1mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/realthunder/Misc/Mouse_Bites_3_1mm/working
     oomp_src_flat: footprints_flat/footprints_flat/realthunder_misc_mouse_bites_3_1mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/realthunder_misc_mouse_bites_3_1mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/realthunder/Misc/Mouse_Bites_3_1mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/realthunder/Misc/Mouse_Bites_3_1mm/working
   name: Misc.pretty
+  oomp:
+    footprint_name: mouse_bites_3_1mm
+    library_name: misc
+    md5: 1390c065eb3fe8e6356e48a14ca3b788
+    md5_10: 1390c065eb
+    md5_5: 1390c
+    md5_6: 1390c0
+    oomp_key: oomp_realthunder_misc_mouse_bites_3_1mm
+    oomp_key_extra: oomp_footprint_realthunder_misc_mouse_bites_3_1mm
+    oomp_key_full: oomp_footprint_realthunder_misc_mouse_bites_3_1mm_1390c0
+    oomp_key_simple: realthunder_misc_mouse_bites_3_1mm
+    original_filename: Misc.pretty/Mouse_Bites_3_1mm.kicad_mod
+    owner_name: realthunder
   oomp_key: oomp_realthunder_misc_mouse_bites_3_1mm
+  oomp_key_full: oomp_footprint_realthunder_misc_mouse_bites_3_1mm
   oomp_key_simple: realthunder_misc_mouse_bites_3_1mm
   owner: realthunder
   repo:

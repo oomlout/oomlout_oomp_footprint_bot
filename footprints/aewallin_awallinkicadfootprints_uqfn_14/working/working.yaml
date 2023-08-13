@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/aewallin/awallinKiCadFootprints.pretty
     oomp_bot: footprints/aewallin_awallinkicadfootprints_uqfn_14/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/aewallin_awallinkicadfootprints_uqfn_14/working
-    oomp_doc: footprints/footprints/aewallin/awallinKiCadFootprints/UQFN-14/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/aewallin/awallinKiCadFootprints/UQFN-14/working
     oomp_src_flat: footprints_flat/footprints_flat/aewallin_awallinkicadfootprints_uqfn_14/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/aewallin_awallinkicadfootprints_uqfn_14/working
-    oomp_src_folder: footprints_folder/footprints_folder/aewallin/awallinKiCadFootprints/UQFN-14/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/aewallin/awallinKiCadFootprints/UQFN-14/working
   name: awallinKiCadFootprints.pretty
+  oomp:
+    footprint_name: uqfn_14
+    library_name: awallinkicadfootprints
+    md5: 6d65f7d0edac74e9ebe8f4c7fd52390b
+    md5_10: 6d65f7d0ed
+    md5_5: 6d65f
+    md5_6: 6d65f7
+    oomp_key: oomp_aewallin_awallinkicadfootprints_uqfn_14
+    oomp_key_extra: oomp_footprint_aewallin_awallinkicadfootprints_uqfn_14
+    oomp_key_full: oomp_footprint_aewallin_awallinkicadfootprints_uqfn_14_6d65f7
+    oomp_key_simple: aewallin_awallinkicadfootprints_uqfn_14
+    original_filename: awallinKiCadFootprints.pretty/UQFN-14.kicad_mod
+    owner_name: aewallin
   oomp_key: oomp_aewallin_awallinkicadfootprints_uqfn_14
+  oomp_key_full: oomp_footprint_aewallin_awallinkicadfootprints_uqfn_14
   oomp_key_simple: aewallin_awallinkicadfootprints_uqfn_14
   owner: aewallin
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/greatscottgadgets_gsg_modules_switch_pts840_p/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/greatscottgadgets_gsg_modules_switch_pts840_p/working
-    oomp_doc: footprints/footprints/greatscottgadgets/gsg-modules/SWITCH-PTS840-P/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/greatscottgadgets/gsg-modules/SWITCH-PTS840-P/working
     oomp_src_flat: footprints_flat/footprints_flat/greatscottgadgets_gsg_modules_switch_pts840_p/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/greatscottgadgets_gsg_modules_switch_pts840_p/working
-    oomp_src_folder: footprints_folder/footprints_folder/greatscottgadgets/gsg-modules/SWITCH-PTS840-P/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/greatscottgadgets/gsg-modules/SWITCH-PTS840-P/working
   name: gsg-kicad-lib
+  oomp:
+    footprint_name: switch_pts840_p
+    library_name: gsg_modules
+    md5: 67e1a31551f4162e7ecddb5caff36280
+    md5_10: 67e1a31551
+    md5_5: 67e1a
+    md5_6: 67e1a3
+    oomp_key: oomp_greatscottgadgets_gsg_modules_switch_pts840_p
+    oomp_key_extra: oomp_footprint_greatscottgadgets_gsg_modules_switch_pts840_p
+    oomp_key_full: oomp_footprint_greatscottgadgets_gsg_modules_switch_pts840_p_67e1a3
+    oomp_key_simple: greatscottgadgets_gsg_modules_switch_pts840_p
+    original_filename: gsg-kicad-lib/gsg-modules.pretty/SWITCH-PTS840-P.kicad_mod
+    owner_name: greatscottgadgets
   oomp_key: oomp_greatscottgadgets_gsg_modules_switch_pts840_p
+  oomp_key_full: oomp_footprint_greatscottgadgets_gsg_modules_switch_pts840_p
   oomp_key_simple: greatscottgadgets_gsg_modules_switch_pts840_p
   owner: greatscottgadgets
   repo:

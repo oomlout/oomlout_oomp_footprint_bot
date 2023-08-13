@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/digikey_mic_cma_4544pf_w_mic_cma_4544pf_w/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_mic_cma_4544pf_w_mic_cma_4544pf_w/working
-    oomp_doc: footprints/footprints/digikey/Mic_CMA-4544PF-W.kicad_mod/Mic_CMA-4544PF-W/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/digikey/Mic_CMA-4544PF-W.kicad_mod/Mic_CMA-4544PF-W/working
     oomp_src_flat: footprints_flat/footprints_flat/digikey_mic_cma_4544pf_w_mic_cma_4544pf_w/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/digikey_mic_cma_4544pf_w_mic_cma_4544pf_w/working
-    oomp_src_folder: footprints_folder/footprints_folder/digikey/Mic_CMA-4544PF-W.kicad_mod/Mic_CMA-4544PF-W/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/digikey/Mic_CMA-4544PF-W.kicad_mod/Mic_CMA-4544PF-W/working
   name: digikey-kicad-library
+  oomp:
+    footprint_name: mic_cma_4544pf_w
+    library_name: mic_cma_4544pf_w_kicad_mod
+    md5: 0b62f538f86e6e3285384548ae9448e0
+    md5_10: 0b62f538f8
+    md5_5: 0b62f
+    md5_6: 0b62f5
+    oomp_key: oomp_digikey_mic_cma_4544pf_w_mic_cma_4544pf_w
+    oomp_key_extra: oomp_footprint_digikey_mic_cma_4544pf_w_mic_cma_4544pf_w
+    oomp_key_full: oomp_footprint_digikey_mic_cma_4544pf_w_mic_cma_4544pf_w_0b62f5
+    oomp_key_simple: digikey_mic_cma_4544pf_w_mic_cma_4544pf_w
+    original_filename: digikey-kicad-library/src/Source_Footprints/Mic_CMA-4544PF-W.kicad_mod
+    owner_name: digikey
   oomp_key: oomp_digikey_mic_cma_4544pf_w_mic_cma_4544pf_w
+  oomp_key_full: oomp_footprint_digikey_mic_cma_4544pf_w_mic_cma_4544pf_w
   oomp_key_simple: digikey_mic_cma_4544pf_w_mic_cma_4544pf_w
   owner: digikey
   repo:

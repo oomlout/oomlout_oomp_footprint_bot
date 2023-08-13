@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/electroniccats_signalcommunications_signalcommunications_we_fi_7447028/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/electroniccats_signalcommunications_signalcommunications_we_fi_7447028/working
-    oomp_doc: footprints/footprints/ElectronicCats/SignalCommunications/SignalCommunications-WE-FI_7447028/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ElectronicCats/SignalCommunications/SignalCommunications-WE-FI_7447028/working
     oomp_src_flat: footprints_flat/footprints_flat/electroniccats_signalcommunications_signalcommunications_we_fi_7447028/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/electroniccats_signalcommunications_signalcommunications_we_fi_7447028/working
-    oomp_src_folder: footprints_folder/footprints_folder/ElectronicCats/SignalCommunications/SignalCommunications-WE-FI_7447028/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ElectronicCats/SignalCommunications/SignalCommunications-WE-FI_7447028/working
   name: ComponentLibrariesKicadWurthElektronik
+  oomp:
+    footprint_name: signalcommunications_we_fi_7447028
+    library_name: signalcommunications
+    md5: d3a8d1a17c1e85c71aed2ba5ed8b1dde
+    md5_10: d3a8d1a17c
+    md5_5: d3a8d
+    md5_6: d3a8d1
+    oomp_key: oomp_electroniccats_signalcommunications_signalcommunications_we_fi_7447028
+    oomp_key_extra: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_fi_7447028
+    oomp_key_full: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_fi_7447028_d3a8d1
+    oomp_key_simple: electroniccats_signalcommunications_signalcommunications_we_fi_7447028
+    original_filename: ComponentLibrariesKicadWurthElektronik/SIGNAL-COMMUNICATIONS-rev18a/SignalCommunications.pretty/SignalCommunications-WE-FI_7447028.kicad_mod
+    owner_name: electroniccats
   oomp_key: oomp_electroniccats_signalcommunications_signalcommunications_we_fi_7447028
+  oomp_key_full: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_fi_7447028
   oomp_key_simple: electroniccats_signalcommunications_signalcommunications_we_fi_7447028
   owner: ElectronicCats
   repo:

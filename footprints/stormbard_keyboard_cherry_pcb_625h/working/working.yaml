@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/stormbard_keyboard_cherry_pcb_625h/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stormbard_keyboard_cherry_pcb_625h/working
-    oomp_doc: footprints/footprints/stormbard/Keyboard/CHERRY_PCB_625H/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/stormbard/Keyboard/CHERRY_PCB_625H/working
     oomp_src_flat: footprints_flat/footprints_flat/stormbard_keyboard_cherry_pcb_625h/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/stormbard_keyboard_cherry_pcb_625h/working
-    oomp_src_folder: footprints_folder/footprints_folder/stormbard/Keyboard/CHERRY_PCB_625H/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/stormbard/Keyboard/CHERRY_PCB_625H/working
   name: Keyboard.pretty
+  oomp:
+    footprint_name: cherry_pcb_625h
+    library_name: keyboard
+    md5: 725f4622d5619ab1c22051c4ee856134
+    md5_10: 725f4622d5
+    md5_5: 725f4
+    md5_6: 725f46
+    oomp_key: oomp_stormbard_keyboard_cherry_pcb_625h
+    oomp_key_extra: oomp_footprint_stormbard_keyboard_cherry_pcb_625h
+    oomp_key_full: oomp_footprint_stormbard_keyboard_cherry_pcb_625h_725f46
+    oomp_key_simple: stormbard_keyboard_cherry_pcb_625h
+    original_filename: Keyboard.pretty/CHERRY_PCB_625H.kicad_mod
+    owner_name: stormbard
   oomp_key: oomp_stormbard_keyboard_cherry_pcb_625h
+  oomp_key_full: oomp_footprint_stormbard_keyboard_cherry_pcb_625h
   oomp_key_simple: stormbard_keyboard_cherry_pcb_625h
   owner: stormbard
   repo:

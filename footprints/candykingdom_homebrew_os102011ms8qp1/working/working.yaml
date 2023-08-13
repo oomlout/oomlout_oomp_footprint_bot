@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/candykingdom_homebrew_os102011ms8qp1/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/candykingdom_homebrew_os102011ms8qp1/working
-    oomp_doc: footprints/footprints/candykingdom/homebrew/OS102011MS8QP1/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/candykingdom/homebrew/OS102011MS8QP1/working
     oomp_src_flat: footprints_flat/footprints_flat/candykingdom_homebrew_os102011ms8qp1/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/candykingdom_homebrew_os102011ms8qp1/working
-    oomp_src_folder: footprints_folder/footprints_folder/candykingdom/homebrew/OS102011MS8QP1/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/candykingdom/homebrew/OS102011MS8QP1/working
   name: homebrew.pretty
+  oomp:
+    footprint_name: os102011ms8qp1
+    library_name: homebrew
+    md5: 6196abc1d92ff19ee3172b0ede709632
+    md5_10: 6196abc1d9
+    md5_5: 6196a
+    md5_6: 6196ab
+    oomp_key: oomp_candykingdom_homebrew_os102011ms8qp1
+    oomp_key_extra: oomp_footprint_candykingdom_homebrew_os102011ms8qp1
+    oomp_key_full: oomp_footprint_candykingdom_homebrew_os102011ms8qp1_6196ab
+    oomp_key_simple: candykingdom_homebrew_os102011ms8qp1
+    original_filename: homebrew.pretty/OS102011MS8QP1.kicad_mod
+    owner_name: candykingdom
   oomp_key: oomp_candykingdom_homebrew_os102011ms8qp1
+  oomp_key_full: oomp_footprint_candykingdom_homebrew_os102011ms8qp1
   oomp_key_simple: candykingdom_homebrew_os102011ms8qp1
   owner: candykingdom
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/monostable_commonpartslibrary_capprd500w60d1000h1250b/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/monostable_commonpartslibrary_capprd500w60d1000h1250b/working
-    oomp_doc: footprints/footprints/monostable/CommonPartsLibrary/CAPPRD500W60D1000H1250B/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/monostable/CommonPartsLibrary/CAPPRD500W60D1000H1250B/working
     oomp_src_flat: footprints_flat/footprints_flat/monostable_commonpartslibrary_capprd500w60d1000h1250b/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/monostable_commonpartslibrary_capprd500w60d1000h1250b/working
-    oomp_src_folder: footprints_folder/footprints_folder/monostable/CommonPartsLibrary/CAPPRD500W60D1000H1250B/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/monostable/CommonPartsLibrary/CAPPRD500W60D1000H1250B/working
   name: CommonPartsLibrary.pretty
+  oomp:
+    footprint_name: capprd500w60d1000h1250b
+    library_name: commonpartslibrary
+    md5: 3999def024a45db0cdad0a8b77f873ce
+    md5_10: 3999def024
+    md5_5: 3999d
+    md5_6: 3999de
+    oomp_key: oomp_monostable_commonpartslibrary_capprd500w60d1000h1250b
+    oomp_key_extra: oomp_footprint_monostable_commonpartslibrary_capprd500w60d1000h1250b
+    oomp_key_full: oomp_footprint_monostable_commonpartslibrary_capprd500w60d1000h1250b_3999de
+    oomp_key_simple: monostable_commonpartslibrary_capprd500w60d1000h1250b
+    original_filename: CommonPartsLibrary.pretty/CAPPRD500W60D1000H1250B.kicad_mod
+    owner_name: monostable
   oomp_key: oomp_monostable_commonpartslibrary_capprd500w60d1000h1250b
+  oomp_key_full: oomp_footprint_monostable_commonpartslibrary_capprd500w60d1000h1250b
   oomp_key_simple: monostable_commonpartslibrary_capprd500w60d1000h1250b
   owner: monostable
   repo:

@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/candykingdom_homebrew_dialight_515_1069f_lightpipe_x3/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/candykingdom_homebrew_dialight_515_1069f_lightpipe_x3/working
-    oomp_doc: footprints/footprints/candykingdom/homebrew/DIALIGHT_515-1069F_LIGHTPIPE_X3/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/candykingdom/homebrew/DIALIGHT_515-1069F_LIGHTPIPE_X3/working
     oomp_src_flat: footprints_flat/footprints_flat/candykingdom_homebrew_dialight_515_1069f_lightpipe_x3/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/candykingdom_homebrew_dialight_515_1069f_lightpipe_x3/working
-    oomp_src_folder: footprints_folder/footprints_folder/candykingdom/homebrew/DIALIGHT_515-1069F_LIGHTPIPE_X3/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/candykingdom/homebrew/DIALIGHT_515-1069F_LIGHTPIPE_X3/working
   name: homebrew.pretty
+  oomp:
+    footprint_name: dialight_515_1069f_lightpipe_x3
+    library_name: homebrew
+    md5: 717819c1109da335e032a952d4583832
+    md5_10: 717819c110
+    md5_5: '71781'
+    md5_6: '717819'
+    oomp_key: oomp_candykingdom_homebrew_dialight_515_1069f_lightpipe_x3
+    oomp_key_extra: oomp_footprint_candykingdom_homebrew_dialight_515_1069f_lightpipe_x3
+    oomp_key_full: oomp_footprint_candykingdom_homebrew_dialight_515_1069f_lightpipe_x3_717819
+    oomp_key_simple: candykingdom_homebrew_dialight_515_1069f_lightpipe_x3
+    original_filename: homebrew.pretty/DIALIGHT_515-1069F_LIGHTPIPE_X3.kicad_mod
+    owner_name: candykingdom
   oomp_key: oomp_candykingdom_homebrew_dialight_515_1069f_lightpipe_x3
+  oomp_key_full: oomp_footprint_candykingdom_homebrew_dialight_515_1069f_lightpipe_x3
   oomp_key_simple: candykingdom_homebrew_dialight_515_1069f_lightpipe_x3
   owner: candykingdom
   repo:

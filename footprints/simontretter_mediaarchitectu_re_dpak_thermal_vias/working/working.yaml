@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/simontretter_mediaarchitectu_re_dpak_thermal_vias/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/simontretter_mediaarchitectu_re_dpak_thermal_vias/working
-    oomp_doc: footprints/footprints/simontretter/mediaarchitectu.re/DPak_thermal_vias/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/simontretter/mediaarchitectu.re/DPak_thermal_vias/working
     oomp_src_flat: footprints_flat/footprints_flat/simontretter_mediaarchitectu_re_dpak_thermal_vias/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/simontretter_mediaarchitectu_re_dpak_thermal_vias/working
-    oomp_src_folder: footprints_folder/footprints_folder/simontretter/mediaarchitectu.re/DPak_thermal_vias/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/simontretter/mediaarchitectu.re/DPak_thermal_vias/working
   name: mediaarchitectu.re.pretty
+  oomp:
+    footprint_name: dpak_thermal_vias
+    library_name: mediaarchitectu_re
+    md5: aa52c501e86aa9e268bb35ad61cf8c8b
+    md5_10: aa52c501e8
+    md5_5: aa52c
+    md5_6: aa52c5
+    oomp_key: oomp_simontretter_mediaarchitectu_re_dpak_thermal_vias
+    oomp_key_extra: oomp_footprint_simontretter_mediaarchitectu_re_dpak_thermal_vias
+    oomp_key_full: oomp_footprint_simontretter_mediaarchitectu_re_dpak_thermal_vias_aa52c5
+    oomp_key_simple: simontretter_mediaarchitectu_re_dpak_thermal_vias
+    original_filename: mediaarchitectu.re.pretty/DPak_thermal_vias.kicad_mod
+    owner_name: simontretter
   oomp_key: oomp_simontretter_mediaarchitectu_re_dpak_thermal_vias
+  oomp_key_full: oomp_footprint_simontretter_mediaarchitectu_re_dpak_thermal_vias
   oomp_key_simple: simontretter_mediaarchitectu_re_dpak_thermal_vias
   owner: simontretter
   repo:

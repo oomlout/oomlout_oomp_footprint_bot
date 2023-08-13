@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pelrun_w_capacitors_cnpa_24x44mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pelrun_w_capacitors_cnpa_24x44mm/working
-    oomp_doc: footprints/footprints/pelrun/w_capacitors/cnpa_24x44mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/pelrun/w_capacitors/cnpa_24x44mm/working
     oomp_src_flat: footprints_flat/footprints_flat/pelrun_w_capacitors_cnpa_24x44mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pelrun_w_capacitors_cnpa_24x44mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/pelrun/w_capacitors/cnpa_24x44mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/pelrun/w_capacitors/cnpa_24x44mm/working
   name: libKiCad
+  oomp:
+    footprint_name: cnpa_24x44mm
+    library_name: w_capacitors
+    md5: ae5314728bc3f9bc1e75d7ece54b4a61
+    md5_10: ae5314728b
+    md5_5: ae531
+    md5_6: ae5314
+    oomp_key: oomp_pelrun_w_capacitors_cnpa_24x44mm
+    oomp_key_extra: oomp_footprint_pelrun_w_capacitors_cnpa_24x44mm
+    oomp_key_full: oomp_footprint_pelrun_w_capacitors_cnpa_24x44mm_ae5314
+    oomp_key_simple: pelrun_w_capacitors_cnpa_24x44mm
+    original_filename: libKiCad/footprint/w_capacitors.pretty/cnpa_24x44mm.kicad_mod
+    owner_name: pelrun
   oomp_key: oomp_pelrun_w_capacitors_cnpa_24x44mm
+  oomp_key_full: oomp_footprint_pelrun_w_capacitors_cnpa_24x44mm
   oomp_key_simple: pelrun_w_capacitors_cnpa_24x44mm
   owner: pelrun
   repo:

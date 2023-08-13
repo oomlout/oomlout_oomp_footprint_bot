@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/myelin_myelin_kicad_minidin_6_ps2_pcb_mount/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/myelin_myelin_kicad_minidin_6_ps2_pcb_mount/working
-    oomp_doc: footprints/footprints/myelin/myelin-kicad/minidin_6_ps2_pcb_mount/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/myelin/myelin-kicad/minidin_6_ps2_pcb_mount/working
     oomp_src_flat: footprints_flat/footprints_flat/myelin_myelin_kicad_minidin_6_ps2_pcb_mount/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/myelin_myelin_kicad_minidin_6_ps2_pcb_mount/working
-    oomp_src_folder: footprints_folder/footprints_folder/myelin/myelin-kicad/minidin_6_ps2_pcb_mount/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/myelin/myelin-kicad/minidin_6_ps2_pcb_mount/working
   name: myelin-kicad.pretty
+  oomp:
+    footprint_name: minidin_6_ps2_pcb_mount
+    library_name: myelin_kicad
+    md5: 0cecb78fcdfcb2de67335129f8c75ae9
+    md5_10: 0cecb78fcd
+    md5_5: 0cecb
+    md5_6: 0cecb7
+    oomp_key: oomp_myelin_myelin_kicad_minidin_6_ps2_pcb_mount
+    oomp_key_extra: oomp_footprint_myelin_myelin_kicad_minidin_6_ps2_pcb_mount
+    oomp_key_full: oomp_footprint_myelin_myelin_kicad_minidin_6_ps2_pcb_mount_0cecb7
+    oomp_key_simple: myelin_myelin_kicad_minidin_6_ps2_pcb_mount
+    original_filename: myelin-kicad.pretty/minidin_6_ps2_pcb_mount.kicad_mod
+    owner_name: myelin
   oomp_key: oomp_myelin_myelin_kicad_minidin_6_ps2_pcb_mount
+  oomp_key_full: oomp_footprint_myelin_myelin_kicad_minidin_6_ps2_pcb_mount
   oomp_key_simple: myelin_myelin_kicad_minidin_6_ps2_pcb_mount
   owner: myelin
   repo:

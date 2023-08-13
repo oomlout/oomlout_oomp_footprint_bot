@@ -14,14 +14,24 @@
     github_src_repo: https://github.com/4ms/4ms-kicad-lib
     oomp_bot: footprints/4ms_4ms_legacy_footprints_soic_8_3_9x4_9mm_pitch1_27mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/4ms_4ms_legacy_footprints_soic_8_3_9x4_9mm_pitch1_27mm/working
-    oomp_doc: footprints/footprints/4ms/4ms-legacy-footprints/SOIC-8_3.9x4.9mm_Pitch1.27mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/4ms/4ms-legacy-footprints/SOIC-8_3.9x4.9mm_Pitch1.27mm/working
     oomp_src_flat: footprints_flat/footprints_flat/4ms_4ms_legacy_footprints_soic_8_3_9x4_9mm_pitch1_27mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/4ms_4ms_legacy_footprints_soic_8_3_9x4_9mm_pitch1_27mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/4ms/4ms-legacy-footprints/SOIC-8_3.9x4.9mm_Pitch1.27mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/4ms/4ms-legacy-footprints/SOIC-8_3.9x4.9mm_Pitch1.27mm/working
   name: 4ms-kicad-lib
+  oomp:
+    footprint_name: soic_8_3_9x4_9mm_pitch1_27mm
+    library_name: 4ms_legacy_footprints
+    md5: 6e2220403be3c654b983737c553c128b
+    md5_10: 6e2220403b
+    md5_5: 6e222
+    md5_6: 6e2220
+    oomp_key: oomp_4ms_4ms_legacy_footprints_soic_8_3_9x4_9mm_pitch1_27mm
+    oomp_key_extra: oomp_footprint_4ms_4ms_legacy_footprints_soic_8_3_9x4_9mm_pitch1_27mm
+    oomp_key_full: oomp_footprint_4ms_4ms_legacy_footprints_soic_8_3_9x4_9mm_pitch1_27mm_6e2220
+    oomp_key_simple: 4ms_4ms_legacy_footprints_soic_8_3_9x4_9mm_pitch1_27mm
+    original_filename: 4ms-kicad-lib/footprints-legacy/4ms-legacy-footprints.pretty/SOIC-8_3.9x4.9mm_Pitch1.27mm.kicad_mod
+    owner_name: 4ms
   oomp_key: oomp_4ms_4ms_legacy_footprints_soic_8_3_9x4_9mm_pitch1_27mm
+  oomp_key_full: oomp_footprint_4ms_4ms_legacy_footprints_soic_8_3_9x4_9mm_pitch1_27mm
   oomp_key_simple: 4ms_4ms_legacy_footprints_soic_8_3_9x4_9mm_pitch1_27mm
   owner: 4ms
   repo:
@@ -127,9 +137,9 @@
       url: https://api.github.com/users/4ms
     private: false
     pulls_url: https://api.github.com/repos/4ms/4ms-kicad-lib/pulls{/number}
-    pushed_at: '2023-08-07T23:22:22Z'
+    pushed_at: '2023-08-11T23:48:49Z'
     releases_url: https://api.github.com/repos/4ms/4ms-kicad-lib/releases{/id}
-    size: 22693
+    size: 22703
     ssh_url: git@github.com:4ms/4ms-kicad-lib.git
     stargazers_count: 54
     stargazers_url: https://api.github.com/repos/4ms/4ms-kicad-lib/stargazers

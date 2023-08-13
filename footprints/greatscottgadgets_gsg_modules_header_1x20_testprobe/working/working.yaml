@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/greatscottgadgets_gsg_modules_header_1x20_testprobe/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/greatscottgadgets_gsg_modules_header_1x20_testprobe/working
-    oomp_doc: footprints/footprints/greatscottgadgets/gsg-modules/HEADER-1x20-TESTPROBE/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/greatscottgadgets/gsg-modules/HEADER-1x20-TESTPROBE/working
     oomp_src_flat: footprints_flat/footprints_flat/greatscottgadgets_gsg_modules_header_1x20_testprobe/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/greatscottgadgets_gsg_modules_header_1x20_testprobe/working
-    oomp_src_folder: footprints_folder/footprints_folder/greatscottgadgets/gsg-modules/HEADER-1x20-TESTPROBE/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/greatscottgadgets/gsg-modules/HEADER-1x20-TESTPROBE/working
   name: gsg-kicad-lib
+  oomp:
+    footprint_name: header_1x20_testprobe
+    library_name: gsg_modules
+    md5: 8cc9790f5d075e894481915d50685b86
+    md5_10: 8cc9790f5d
+    md5_5: 8cc97
+    md5_6: 8cc979
+    oomp_key: oomp_greatscottgadgets_gsg_modules_header_1x20_testprobe
+    oomp_key_extra: oomp_footprint_greatscottgadgets_gsg_modules_header_1x20_testprobe
+    oomp_key_full: oomp_footprint_greatscottgadgets_gsg_modules_header_1x20_testprobe_8cc979
+    oomp_key_simple: greatscottgadgets_gsg_modules_header_1x20_testprobe
+    original_filename: gsg-kicad-lib/gsg-modules.pretty/HEADER-1x20-TESTPROBE.kicad_mod
+    owner_name: greatscottgadgets
   oomp_key: oomp_greatscottgadgets_gsg_modules_header_1x20_testprobe
+  oomp_key_full: oomp_footprint_greatscottgadgets_gsg_modules_header_1x20_testprobe
   oomp_key_simple: greatscottgadgets_gsg_modules_header_1x20_testprobe
   owner: greatscottgadgets
   repo:

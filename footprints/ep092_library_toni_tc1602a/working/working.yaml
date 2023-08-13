@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/ep092_library_toni_tc1602a/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ep092_library_toni_tc1602a/working
-    oomp_doc: footprints/footprints/ep092/library_toni/TC1602A/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ep092/library_toni/TC1602A/working
     oomp_src_flat: footprints_flat/footprints_flat/ep092_library_toni_tc1602a/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ep092_library_toni_tc1602a/working
-    oomp_src_folder: footprints_folder/footprints_folder/ep092/library_toni/TC1602A/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ep092/library_toni/TC1602A/working
   name: library_toni.pretty
+  oomp:
+    footprint_name: tc1602a
+    library_name: library_toni
+    md5: 2dcf51a019161e677bbfc77c0fff40c3
+    md5_10: 2dcf51a019
+    md5_5: 2dcf5
+    md5_6: 2dcf51
+    oomp_key: oomp_ep092_library_toni_tc1602a
+    oomp_key_extra: oomp_footprint_ep092_library_toni_tc1602a
+    oomp_key_full: oomp_footprint_ep092_library_toni_tc1602a_2dcf51
+    oomp_key_simple: ep092_library_toni_tc1602a
+    original_filename: library_toni.pretty/TC1602A.kicad_mod
+    owner_name: ep092
   oomp_key: oomp_ep092_library_toni_tc1602a
+  oomp_key_full: oomp_footprint_ep092_library_toni_tc1602a
   oomp_key_simple: ep092_library_toni_tc1602a
   owner: ep092
   repo:

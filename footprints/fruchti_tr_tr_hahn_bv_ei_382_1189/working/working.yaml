@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/fruchti_tr_tr_hahn_bv_ei_382_1189/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/fruchti_tr_tr_hahn_bv_ei_382_1189/working
-    oomp_doc: footprints/footprints/fruchti/tr/TR_HAHN_BV-EI-382-1189/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/fruchti/tr/TR_HAHN_BV-EI-382-1189/working
     oomp_src_flat: footprints_flat/footprints_flat/fruchti_tr_tr_hahn_bv_ei_382_1189/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/fruchti_tr_tr_hahn_bv_ei_382_1189/working
-    oomp_src_folder: footprints_folder/footprints_folder/fruchti/tr/TR_HAHN_BV-EI-382-1189/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/fruchti/tr/TR_HAHN_BV-EI-382-1189/working
   name: fruchtilib
+  oomp:
+    footprint_name: tr_hahn_bv_ei_382_1189
+    library_name: tr
+    md5: 52ead4b9d53860f9cab4e86f59f025de
+    md5_10: 52ead4b9d5
+    md5_5: 52ead
+    md5_6: 52ead4
+    oomp_key: oomp_fruchti_tr_tr_hahn_bv_ei_382_1189
+    oomp_key_extra: oomp_footprint_fruchti_tr_tr_hahn_bv_ei_382_1189
+    oomp_key_full: oomp_footprint_fruchti_tr_tr_hahn_bv_ei_382_1189_52ead4
+    oomp_key_simple: fruchti_tr_tr_hahn_bv_ei_382_1189
+    original_filename: fruchtilib/mod/tr.pretty/TR_HAHN_BV-EI-382-1189.kicad_mod
+    owner_name: fruchti
   oomp_key: oomp_fruchti_tr_tr_hahn_bv_ei_382_1189
+  oomp_key_full: oomp_footprint_fruchti_tr_tr_hahn_bv_ei_382_1189
   oomp_key_simple: fruchti_tr_tr_hahn_bv_ei_382_1189
   owner: fruchti
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/seeed_studio_opl_integrated_circuit_dfn6_0_5_1_5x1_0x0_72mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/seeed_studio_opl_integrated_circuit_dfn6_0_5_1_5x1_0x0_72mm/working
-    oomp_doc: footprints/footprints/Seeed-Studio/OPL_Integrated_Circuit/DFN6-0.5-1.5X1.0X0.72MM/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Seeed-Studio/OPL_Integrated_Circuit/DFN6-0.5-1.5X1.0X0.72MM/working
     oomp_src_flat: footprints_flat/footprints_flat/seeed_studio_opl_integrated_circuit_dfn6_0_5_1_5x1_0x0_72mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/seeed_studio_opl_integrated_circuit_dfn6_0_5_1_5x1_0x0_72mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/Seeed-Studio/OPL_Integrated_Circuit/DFN6-0.5-1.5X1.0X0.72MM/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Seeed-Studio/OPL_Integrated_Circuit/DFN6-0.5-1.5X1.0X0.72MM/working
   name: OPL_Kicad_Library
+  oomp:
+    footprint_name: dfn6_0_5_1_5x1_0x0_72mm
+    library_name: opl_integrated_circuit
+    md5: 60ec44198485d06d2683d0d6739e7485
+    md5_10: 60ec441984
+    md5_5: 60ec4
+    md5_6: 60ec44
+    oomp_key: oomp_seeed_studio_opl_integrated_circuit_dfn6_0_5_1_5x1_0x0_72mm
+    oomp_key_extra: oomp_footprint_seeed_studio_opl_integrated_circuit_dfn6_0_5_1_5x1_0x0_72mm
+    oomp_key_full: oomp_footprint_seeed_studio_opl_integrated_circuit_dfn6_0_5_1_5x1_0x0_72mm_60ec44
+    oomp_key_simple: seeed_studio_opl_integrated_circuit_dfn6_0_5_1_5x1_0x0_72mm
+    original_filename: OPL_Kicad_Library/Seeed_Fusion_PCBA_OPL_Component_Library_for_KiCad/OPL_Integrated_Circuit.pretty/DFN6-0.5-1.5X1.0X0.72MM.kicad_mod
+    owner_name: seeed_studio
   oomp_key: oomp_seeed_studio_opl_integrated_circuit_dfn6_0_5_1_5x1_0x0_72mm
+  oomp_key_full: oomp_footprint_seeed_studio_opl_integrated_circuit_dfn6_0_5_1_5x1_0x0_72mm
   oomp_key_simple: seeed_studio_opl_integrated_circuit_dfn6_0_5_1_5x1_0x0_72mm
   owner: Seeed-Studio
   repo:

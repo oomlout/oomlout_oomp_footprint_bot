@@ -11,17 +11,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_package_csp_maxim_wlcsp_35_3_0x2_17mm_layout7x5_p0_4mm_ball0_27mm_pad0_25mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_package_csp_maxim_wlcsp_35_3_0x2_17mm_layout7x5_p0_4mm_ball0_27mm_pad0_25mm/working
-    oomp_doc: footprints/footprints/kicad/Package_CSP/Maxim_WLCSP-35_3.0x2.17mm_Layout7x5_P0.4mm_Ball0.27mm_Pad0.25mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Package_CSP/Maxim_WLCSP-35_3.0x2.17mm_Layout7x5_P0.4mm_Ball0.27mm_Pad0.25mm/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_package_csp_maxim_wlcsp_35_3_0x2_17mm_layout7x5_p0_4mm_ball0_27mm_pad0_25mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_package_csp_maxim_wlcsp_35_3_0x2_17mm_layout7x5_p0_4mm_ball0_27mm_pad0_25mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Package_CSP/Maxim_WLCSP-35_3.0x2.17mm_Layout7x5_P0.4mm_Ball0.27mm_Pad0.25mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Package_CSP/Maxim_WLCSP-35_3.0x2.17mm_Layout7x5_P0.4mm_Ball0.27mm_Pad0.25mm/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: maxim_wlcsp_35_3_0x2_17mm_layout7x5_p0_4mm_ball0_27mm_pad0_25mm
+    library_name: package_csp
+    md5: 699696dbca4a2a50e33a78936d72153f
+    md5_10: 699696dbca
+    md5_5: '69969'
+    md5_6: '699696'
+    oomp_key: oomp_kicad_package_csp_maxim_wlcsp_35_3_0x2_17mm_layout7x5_p0_4mm_ball0_27mm_pad0_25mm
+    oomp_key_extra: oomp_footprint_kicad_package_csp_maxim_wlcsp_35_3_0x2_17mm_layout7x5_p0_4mm_ball0_27mm_pad0_25mm
+    oomp_key_full: oomp_footprint_kicad_package_csp_maxim_wlcsp_35_3_0x2_17mm_layout7x5_p0_4mm_ball0_27mm_pad0_25mm_699696
+    oomp_key_simple: kicad_package_csp_maxim_wlcsp_35_3_0x2_17mm_layout7x5_p0_4mm_ball0_27mm_pad0_25mm
+    original_filename: libraries/kicad-footprints/Package_CSP.pretty/Maxim_WLCSP-35_3.0x2.17mm_Layout7x5_P0.4mm_Ball0.27mm_Pad0.25mm.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_package_csp_maxim_wlcsp_35_3_0x2_17mm_layout7x5_p0_4mm_ball0_27mm_pad0_25mm
+  oomp_key_full: oomp_footprint_kicad_package_csp_maxim_wlcsp_35_3_0x2_17mm_layout7x5_p0_4mm_ball0_27mm_pad0_25mm
   oomp_key_simple: kicad_package_csp_maxim_wlcsp_35_3_0x2_17mm_layout7x5_p0_4mm_ball0_27mm_pad0_25mm
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/shelaf_dygma_raise_fp_c_1206/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/shelaf_dygma_raise_fp_c_1206/working
-    oomp_doc: footprints/footprints/shelaf-dygma/raise_fp/C_1206/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/shelaf-dygma/raise_fp/C_1206/working
     oomp_src_flat: footprints_flat/footprints_flat/shelaf_dygma_raise_fp_c_1206/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/shelaf_dygma_raise_fp_c_1206/working
-    oomp_src_folder: footprints_folder/footprints_folder/shelaf-dygma/raise_fp/C_1206/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/shelaf-dygma/raise_fp/C_1206/working
   name: raise_fp.pretty
+  oomp:
+    footprint_name: c_1206
+    library_name: raise_fp
+    md5: 0b4536baaa06919390d848195074a157
+    md5_10: 0b4536baaa
+    md5_5: 0b453
+    md5_6: 0b4536
+    oomp_key: oomp_shelaf_dygma_raise_fp_c_1206
+    oomp_key_extra: oomp_footprint_shelaf_dygma_raise_fp_c_1206
+    oomp_key_full: oomp_footprint_shelaf_dygma_raise_fp_c_1206_0b4536
+    oomp_key_simple: shelaf_dygma_raise_fp_c_1206
+    original_filename: raise_fp.pretty/C_1206.kicad_mod
+    owner_name: shelaf_dygma
   oomp_key: oomp_shelaf_dygma_raise_fp_c_1206
+  oomp_key_full: oomp_footprint_shelaf_dygma_raise_fp_c_1206
   oomp_key_simple: shelaf_dygma_raise_fp_c_1206
   owner: shelaf-dygma
   repo:

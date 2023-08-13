@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/dragonmux_rhais_usb_usb_3_1_type_c_in_pcb/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/dragonmux_rhais_usb_usb_3_1_type_c_in_pcb/working
-    oomp_doc: footprints/footprints/dragonmux/rhais_usb/USB-3.1-Type-C_In-PCB/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/dragonmux/rhais_usb/USB-3.1-Type-C_In-PCB/working
     oomp_src_flat: footprints_flat/footprints_flat/dragonmux_rhais_usb_usb_3_1_type_c_in_pcb/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/dragonmux_rhais_usb_usb_3_1_type_c_in_pcb/working
-    oomp_src_folder: footprints_folder/footprints_folder/dragonmux/rhais_usb/USB-3.1-Type-C_In-PCB/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/dragonmux/rhais_usb/USB-3.1-Type-C_In-PCB/working
   name: rhais_usb.pretty
+  oomp:
+    footprint_name: usb_3_1_type_c_in_pcb
+    library_name: rhais_usb
+    md5: 4a8eaa26246fdb1c749589a6136438b8
+    md5_10: 4a8eaa2624
+    md5_5: 4a8ea
+    md5_6: 4a8eaa
+    oomp_key: oomp_dragonmux_rhais_usb_usb_3_1_type_c_in_pcb
+    oomp_key_extra: oomp_footprint_dragonmux_rhais_usb_usb_3_1_type_c_in_pcb
+    oomp_key_full: oomp_footprint_dragonmux_rhais_usb_usb_3_1_type_c_in_pcb_4a8eaa
+    oomp_key_simple: dragonmux_rhais_usb_usb_3_1_type_c_in_pcb
+    original_filename: rhais_usb.pretty/USB-3.1-Type-C_In-PCB.kicad_mod
+    owner_name: dragonmux
   oomp_key: oomp_dragonmux_rhais_usb_usb_3_1_type_c_in_pcb
+  oomp_key_full: oomp_footprint_dragonmux_rhais_usb_usb_3_1_type_c_in_pcb
   oomp_key_simple: dragonmux_rhais_usb_usb_3_1_type_c_in_pcb
   owner: dragonmux
   repo:

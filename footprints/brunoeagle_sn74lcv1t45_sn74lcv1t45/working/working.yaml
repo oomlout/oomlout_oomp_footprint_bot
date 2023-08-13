@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_sn74lcv1t45_sn74lcv1t45/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_sn74lcv1t45_sn74lcv1t45/working
-    oomp_doc: footprints/footprints/brunoeagle/SN74LCV1T45.kicad_mod/SN74LCV1T45/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/SN74LCV1T45.kicad_mod/SN74LCV1T45/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_sn74lcv1t45_sn74lcv1t45/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_sn74lcv1t45_sn74lcv1t45/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/SN74LCV1T45.kicad_mod/SN74LCV1T45/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/SN74LCV1T45.kicad_mod/SN74LCV1T45/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: sn74lcv1t45
+    library_name: sn74lcv1t45_kicad_mod
+    md5: 4b57a6915c4c9162dfe04944cca60107
+    md5_10: 4b57a6915c
+    md5_5: 4b57a
+    md5_6: 4b57a6
+    oomp_key: oomp_brunoeagle_sn74lcv1t45_sn74lcv1t45
+    oomp_key_extra: oomp_footprint_brunoeagle_sn74lcv1t45_sn74lcv1t45
+    oomp_key_full: oomp_footprint_brunoeagle_sn74lcv1t45_sn74lcv1t45_4b57a6
+    oomp_key_simple: brunoeagle_sn74lcv1t45_sn74lcv1t45
+    original_filename: kicad-open-modules/SN74LCV1T45.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_sn74lcv1t45_sn74lcv1t45
+  oomp_key_full: oomp_footprint_brunoeagle_sn74lcv1t45_sn74lcv1t45
   oomp_key_simple: brunoeagle_sn74lcv1t45_sn74lcv1t45
   owner: brunoeagle
   repo:

@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/nellump_connectors_powerpole_anderson_powerpole_25a_v/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nellump_connectors_powerpole_anderson_powerpole_25a_v/working
-    oomp_doc: footprints/footprints/nellump/Connectors_Powerpole/Anderson_Powerpole-25A-V/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/nellump/Connectors_Powerpole/Anderson_Powerpole-25A-V/working
     oomp_src_flat: footprints_flat/footprints_flat/nellump_connectors_powerpole_anderson_powerpole_25a_v/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nellump_connectors_powerpole_anderson_powerpole_25a_v/working
-    oomp_src_folder: footprints_folder/footprints_folder/nellump/Connectors_Powerpole/Anderson_Powerpole-25A-V/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/nellump/Connectors_Powerpole/Anderson_Powerpole-25A-V/working
   name: Connectors_Powerpole.pretty
+  oomp:
+    footprint_name: anderson_powerpole_25a_v
+    library_name: connectors_powerpole
+    md5: 701927c3501d3c81fadea4794837f09f
+    md5_10: 701927c350
+    md5_5: '70192'
+    md5_6: '701927'
+    oomp_key: oomp_nellump_connectors_powerpole_anderson_powerpole_25a_v
+    oomp_key_extra: oomp_footprint_nellump_connectors_powerpole_anderson_powerpole_25a_v
+    oomp_key_full: oomp_footprint_nellump_connectors_powerpole_anderson_powerpole_25a_v_701927
+    oomp_key_simple: nellump_connectors_powerpole_anderson_powerpole_25a_v
+    original_filename: Connectors_Powerpole.pretty/Anderson_Powerpole-25A-V.kicad_mod
+    owner_name: nellump
   oomp_key: oomp_nellump_connectors_powerpole_anderson_powerpole_25a_v
+  oomp_key_full: oomp_footprint_nellump_connectors_powerpole_anderson_powerpole_25a_v
   oomp_key_simple: nellump_connectors_powerpole_anderson_powerpole_25a_v
   owner: nellump
   repo:

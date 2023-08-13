@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/Iangitpers/4a
     oomp_bot: footprints/iangitpers_mountinghole_mountinghole_3_5mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/iangitpers_mountinghole_mountinghole_3_5mm/working
-    oomp_doc: footprints/footprints/Iangitpers/MountingHole/MountingHole_3.5mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Iangitpers/MountingHole/MountingHole_3.5mm/working
     oomp_src_flat: footprints_flat/footprints_flat/iangitpers_mountinghole_mountinghole_3_5mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/iangitpers_mountinghole_mountinghole_3_5mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/Iangitpers/MountingHole/MountingHole_3.5mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Iangitpers/MountingHole/MountingHole_3.5mm/working
   name: 4a
+  oomp:
+    footprint_name: mountinghole_3_5mm
+    library_name: mountinghole
+    md5: d63cc5350a5894e979098916acec2edb
+    md5_10: d63cc5350a
+    md5_5: d63cc
+    md5_6: d63cc5
+    oomp_key: oomp_iangitpers_mountinghole_mountinghole_3_5mm
+    oomp_key_extra: oomp_footprint_iangitpers_mountinghole_mountinghole_3_5mm
+    oomp_key_full: oomp_footprint_iangitpers_mountinghole_mountinghole_3_5mm_d63cc5
+    oomp_key_simple: iangitpers_mountinghole_mountinghole_3_5mm
+    original_filename: 4a/MountingHole.pretty/MountingHole_3.5mm.kicad_mod
+    owner_name: iangitpers
   oomp_key: oomp_iangitpers_mountinghole_mountinghole_3_5mm
+  oomp_key_full: oomp_footprint_iangitpers_mountinghole_mountinghole_3_5mm
   oomp_key_simple: iangitpers_mountinghole_mountinghole_3_5mm
   owner: Iangitpers
   repo:

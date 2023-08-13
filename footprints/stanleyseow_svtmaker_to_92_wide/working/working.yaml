@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/stanleyseow_svtmaker_to_92_wide/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stanleyseow_svtmaker_to_92_wide/working
-    oomp_doc: footprints/footprints/stanleyseow/SVTmaker/TO-92_wide/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/stanleyseow/SVTmaker/TO-92_wide/working
     oomp_src_flat: footprints_flat/footprints_flat/stanleyseow_svtmaker_to_92_wide/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/stanleyseow_svtmaker_to_92_wide/working
-    oomp_src_folder: footprints_folder/footprints_folder/stanleyseow/SVTmaker/TO-92_wide/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/stanleyseow/SVTmaker/TO-92_wide/working
   name: SVTmaker.pretty
+  oomp:
+    footprint_name: to_92_wide
+    library_name: svtmaker
+    md5: 4ec44483443c862db8b2193e8015055f
+    md5_10: 4ec4448344
+    md5_5: 4ec44
+    md5_6: 4ec444
+    oomp_key: oomp_stanleyseow_svtmaker_to_92_wide
+    oomp_key_extra: oomp_footprint_stanleyseow_svtmaker_to_92_wide
+    oomp_key_full: oomp_footprint_stanleyseow_svtmaker_to_92_wide_4ec444
+    oomp_key_simple: stanleyseow_svtmaker_to_92_wide
+    original_filename: SVTmaker.pretty/TO-92_wide.kicad_mod
+    owner_name: stanleyseow
   oomp_key: oomp_stanleyseow_svtmaker_to_92_wide
+  oomp_key_full: oomp_footprint_stanleyseow_svtmaker_to_92_wide
   oomp_key_simple: stanleyseow_svtmaker_to_92_wide
   owner: stanleyseow
   repo:

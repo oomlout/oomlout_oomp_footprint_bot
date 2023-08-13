@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/Iangitpers/4a
     oomp_bot: footprints/iangitpers_symbol_kicad_logo_20mm_silkscreen/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/iangitpers_symbol_kicad_logo_20mm_silkscreen/working
-    oomp_doc: footprints/footprints/Iangitpers/Symbol/KiCad-Logo_20mm_SilkScreen/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Iangitpers/Symbol/KiCad-Logo_20mm_SilkScreen/working
     oomp_src_flat: footprints_flat/footprints_flat/iangitpers_symbol_kicad_logo_20mm_silkscreen/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/iangitpers_symbol_kicad_logo_20mm_silkscreen/working
-    oomp_src_folder: footprints_folder/footprints_folder/Iangitpers/Symbol/KiCad-Logo_20mm_SilkScreen/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Iangitpers/Symbol/KiCad-Logo_20mm_SilkScreen/working
   name: 4a
+  oomp:
+    footprint_name: kicad_logo_20mm_silkscreen
+    library_name: symbol
+    md5: c278628464681f4e393820a006f76068
+    md5_10: c278628464
+    md5_5: c2786
+    md5_6: c27862
+    oomp_key: oomp_iangitpers_symbol_kicad_logo_20mm_silkscreen
+    oomp_key_extra: oomp_footprint_iangitpers_symbol_kicad_logo_20mm_silkscreen
+    oomp_key_full: oomp_footprint_iangitpers_symbol_kicad_logo_20mm_silkscreen_c27862
+    oomp_key_simple: iangitpers_symbol_kicad_logo_20mm_silkscreen
+    original_filename: 4a/Symbol.pretty/KiCad-Logo_20mm_SilkScreen.kicad_mod
+    owner_name: iangitpers
   oomp_key: oomp_iangitpers_symbol_kicad_logo_20mm_silkscreen
+  oomp_key_full: oomp_footprint_iangitpers_symbol_kicad_logo_20mm_silkscreen
   oomp_key_simple: iangitpers_symbol_kicad_logo_20mm_silkscreen
   owner: Iangitpers
   repo:

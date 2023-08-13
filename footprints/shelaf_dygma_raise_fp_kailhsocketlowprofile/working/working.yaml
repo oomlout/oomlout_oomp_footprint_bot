@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/shelaf_dygma_raise_fp_kailhsocketlowprofile/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/shelaf_dygma_raise_fp_kailhsocketlowprofile/working
-    oomp_doc: footprints/footprints/shelaf-dygma/raise_fp/kailhsocketlowprofile/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/shelaf-dygma/raise_fp/kailhsocketlowprofile/working
     oomp_src_flat: footprints_flat/footprints_flat/shelaf_dygma_raise_fp_kailhsocketlowprofile/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/shelaf_dygma_raise_fp_kailhsocketlowprofile/working
-    oomp_src_folder: footprints_folder/footprints_folder/shelaf-dygma/raise_fp/kailhsocketlowprofile/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/shelaf-dygma/raise_fp/kailhsocketlowprofile/working
   name: raise_fp.pretty
+  oomp:
+    footprint_name: kailhsocketlowprofile
+    library_name: raise_fp
+    md5: f305f07cdde75163e47c739a094440ad
+    md5_10: f305f07cdd
+    md5_5: f305f
+    md5_6: f305f0
+    oomp_key: oomp_shelaf_dygma_raise_fp_kailhsocketlowprofile
+    oomp_key_extra: oomp_footprint_shelaf_dygma_raise_fp_kailhsocketlowprofile
+    oomp_key_full: oomp_footprint_shelaf_dygma_raise_fp_kailhsocketlowprofile_f305f0
+    oomp_key_simple: shelaf_dygma_raise_fp_kailhsocketlowprofile
+    original_filename: raise_fp.pretty/kailhsocketlowprofile.kicad_mod
+    owner_name: shelaf_dygma
   oomp_key: oomp_shelaf_dygma_raise_fp_kailhsocketlowprofile
+  oomp_key_full: oomp_footprint_shelaf_dygma_raise_fp_kailhsocketlowprofile
   oomp_key_simple: shelaf_dygma_raise_fp_kailhsocketlowprofile
   owner: shelaf-dygma
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/digikey_particle_photon_particle_photon/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_particle_photon_particle_photon/working
-    oomp_doc: footprints/footprints/digikey/Particle_Photon.kicad_mod/Particle_Photon/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/digikey/Particle_Photon.kicad_mod/Particle_Photon/working
     oomp_src_flat: footprints_flat/footprints_flat/digikey_particle_photon_particle_photon/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/digikey_particle_photon_particle_photon/working
-    oomp_src_folder: footprints_folder/footprints_folder/digikey/Particle_Photon.kicad_mod/Particle_Photon/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/digikey/Particle_Photon.kicad_mod/Particle_Photon/working
   name: digikey-kicad-library
+  oomp:
+    footprint_name: particle_photon
+    library_name: particle_photon_kicad_mod
+    md5: be7d08e725507bc44de1b90fcad0dda9
+    md5_10: be7d08e725
+    md5_5: be7d0
+    md5_6: be7d08
+    oomp_key: oomp_digikey_particle_photon_particle_photon
+    oomp_key_extra: oomp_footprint_digikey_particle_photon_particle_photon
+    oomp_key_full: oomp_footprint_digikey_particle_photon_particle_photon_be7d08
+    oomp_key_simple: digikey_particle_photon_particle_photon
+    original_filename: digikey-kicad-library/src/Source_Footprints/Particle_Photon.kicad_mod
+    owner_name: digikey
   oomp_key: oomp_digikey_particle_photon_particle_photon
+  oomp_key_full: oomp_footprint_digikey_particle_photon_particle_photon
   oomp_key_simple: digikey_particle_photon_particle_photon
   owner: digikey
   repo:

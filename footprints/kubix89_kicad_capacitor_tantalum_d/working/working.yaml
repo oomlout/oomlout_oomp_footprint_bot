@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/kubiX89/kiCAD.pretty
     oomp_bot: footprints/kubix89_kicad_capacitor_tantalum_d/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kubix89_kicad_capacitor_tantalum_d/working
-    oomp_doc: footprints/footprints/kubiX89/kiCAD/CAPACITOR_TANTALUM_D/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kubiX89/kiCAD/CAPACITOR_TANTALUM_D/working
     oomp_src_flat: footprints_flat/footprints_flat/kubix89_kicad_capacitor_tantalum_d/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kubix89_kicad_capacitor_tantalum_d/working
-    oomp_src_folder: footprints_folder/footprints_folder/kubiX89/kiCAD/CAPACITOR_TANTALUM_D/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kubiX89/kiCAD/CAPACITOR_TANTALUM_D/working
   name: kiCAD.pretty
+  oomp:
+    footprint_name: capacitor_tantalum_d
+    library_name: kicad
+    md5: d67abe418ae3f5db5ff66e5f0d4d2245
+    md5_10: d67abe418a
+    md5_5: d67ab
+    md5_6: d67abe
+    oomp_key: oomp_kubix89_kicad_capacitor_tantalum_d
+    oomp_key_extra: oomp_footprint_kubix89_kicad_capacitor_tantalum_d
+    oomp_key_full: oomp_footprint_kubix89_kicad_capacitor_tantalum_d_d67abe
+    oomp_key_simple: kubix89_kicad_capacitor_tantalum_d
+    original_filename: kiCAD.pretty/CAPACITOR_TANTALUM_D.kicad_mod
+    owner_name: kubix89
   oomp_key: oomp_kubix89_kicad_capacitor_tantalum_d
+  oomp_key_full: oomp_footprint_kubix89_kicad_capacitor_tantalum_d
   oomp_key_simple: kubix89_kicad_capacitor_tantalum_d
   owner: kubiX89
   repo:

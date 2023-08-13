@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cpavlina_manuf_tdk_mem2012s/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cpavlina_manuf_tdk_mem2012s/working
-    oomp_doc: footprints/footprints/cpavlina/manuf/TDK-MEM2012S/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cpavlina/manuf/TDK-MEM2012S/working
     oomp_src_flat: footprints_flat/footprints_flat/cpavlina_manuf_tdk_mem2012s/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cpavlina_manuf_tdk_mem2012s/working
-    oomp_src_folder: footprints_folder/footprints_folder/cpavlina/manuf/TDK-MEM2012S/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cpavlina/manuf/TDK-MEM2012S/working
   name: kicad-pcblib
+  oomp:
+    footprint_name: tdk_mem2012s
+    library_name: manuf
+    md5: a2911005f95edaa79b86d2cdb8170b29
+    md5_10: a2911005f9
+    md5_5: a2911
+    md5_6: a29110
+    oomp_key: oomp_cpavlina_manuf_tdk_mem2012s
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_tdk_mem2012s
+    oomp_key_full: oomp_footprint_cpavlina_manuf_tdk_mem2012s_a29110
+    oomp_key_simple: cpavlina_manuf_tdk_mem2012s
+    original_filename: kicad-pcblib/manuf.pretty/TDK-MEM2012S.kicad_mod
+    owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_tdk_mem2012s
+  oomp_key_full: oomp_footprint_cpavlina_manuf_tdk_mem2012s
   oomp_key_simple: cpavlina_manuf_tdk_mem2012s
   owner: cpavlina
   repo:

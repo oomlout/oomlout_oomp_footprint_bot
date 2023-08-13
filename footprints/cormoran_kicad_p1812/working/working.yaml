@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cormoran_kicad_p1812/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cormoran_kicad_p1812/working
-    oomp_doc: footprints/footprints/cormoran/kicad/P1812/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cormoran/kicad/P1812/working
     oomp_src_flat: footprints_flat/footprints_flat/cormoran_kicad_p1812/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cormoran_kicad_p1812/working
-    oomp_src_folder: footprints_folder/footprints_folder/cormoran/kicad/P1812/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cormoran/kicad/P1812/working
   name: kicad.pretty
+  oomp:
+    footprint_name: p1812
+    library_name: kicad
+    md5: 21bcdebc0f516e578bc2f2a4b6bf7719
+    md5_10: 21bcdebc0f
+    md5_5: 21bcd
+    md5_6: 21bcde
+    oomp_key: oomp_cormoran_kicad_p1812
+    oomp_key_extra: oomp_footprint_cormoran_kicad_p1812
+    oomp_key_full: oomp_footprint_cormoran_kicad_p1812_21bcde
+    oomp_key_simple: cormoran_kicad_p1812
+    original_filename: kicad.pretty/P1812.kicad_mod
+    owner_name: cormoran
   oomp_key: oomp_cormoran_kicad_p1812
+  oomp_key_full: oomp_footprint_cormoran_kicad_p1812
   oomp_key_simple: cormoran_kicad_p1812
   owner: cormoran
   repo:

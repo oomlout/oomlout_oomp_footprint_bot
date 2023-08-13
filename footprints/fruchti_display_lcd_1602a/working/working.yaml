@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/fruchti_display_lcd_1602a/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/fruchti_display_lcd_1602a/working
-    oomp_doc: footprints/footprints/fruchti/display/LCD_1602A/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/fruchti/display/LCD_1602A/working
     oomp_src_flat: footprints_flat/footprints_flat/fruchti_display_lcd_1602a/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/fruchti_display_lcd_1602a/working
-    oomp_src_folder: footprints_folder/footprints_folder/fruchti/display/LCD_1602A/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/fruchti/display/LCD_1602A/working
   name: fruchtilib
+  oomp:
+    footprint_name: lcd_1602a
+    library_name: display
+    md5: 7570c835538f9a7ae95891c5187557f8
+    md5_10: 7570c83553
+    md5_5: 7570c
+    md5_6: 7570c8
+    oomp_key: oomp_fruchti_display_lcd_1602a
+    oomp_key_extra: oomp_footprint_fruchti_display_lcd_1602a
+    oomp_key_full: oomp_footprint_fruchti_display_lcd_1602a_7570c8
+    oomp_key_simple: fruchti_display_lcd_1602a
+    original_filename: fruchtilib/mod/display.pretty/LCD_1602A.kicad_mod
+    owner_name: fruchti
   oomp_key: oomp_fruchti_display_lcd_1602a
+  oomp_key_full: oomp_footprint_fruchti_display_lcd_1602a
   oomp_key_simple: fruchti_display_lcd_1602a
   owner: fruchti
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/descampsa_leds_led_0603/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/descampsa_leds_led_0603/working
-    oomp_doc: footprints/footprints/descampsa/LEDs/LED_0603/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/descampsa/LEDs/LED_0603/working
     oomp_src_flat: footprints_flat/footprints_flat/descampsa_leds_led_0603/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/descampsa_leds_led_0603/working
-    oomp_src_folder: footprints_folder/footprints_folder/descampsa/LEDs/LED_0603/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/descampsa/LEDs/LED_0603/working
   name: LEDs.pretty
+  oomp:
+    footprint_name: led_0603
+    library_name: leds
+    md5: 7f86a836c8a0a35537520ccbb7f15a37
+    md5_10: 7f86a836c8
+    md5_5: 7f86a
+    md5_6: 7f86a8
+    oomp_key: oomp_descampsa_leds_led_0603
+    oomp_key_extra: oomp_footprint_descampsa_leds_led_0603
+    oomp_key_full: oomp_footprint_descampsa_leds_led_0603_7f86a8
+    oomp_key_simple: descampsa_leds_led_0603
+    original_filename: LEDs.pretty/LED_0603.kicad_mod
+    owner_name: descampsa
   oomp_key: oomp_descampsa_leds_led_0603
+  oomp_key_full: oomp_footprint_descampsa_leds_led_0603
   oomp_key_simple: descampsa_leds_led_0603
   owner: descampsa
   repo:

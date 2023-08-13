@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/KUT-KiCad/KUT_Device.pretty
     oomp_bot: footprints/kut_kicad_kut_device_bc_2001/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kut_kicad_kut_device_bc_2001/working
-    oomp_doc: footprints/footprints/KUT-KiCad/KUT_Device/BC-2001/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/KUT-KiCad/KUT_Device/BC-2001/working
     oomp_src_flat: footprints_flat/footprints_flat/kut_kicad_kut_device_bc_2001/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kut_kicad_kut_device_bc_2001/working
-    oomp_src_folder: footprints_folder/footprints_folder/KUT-KiCad/KUT_Device/BC-2001/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/KUT-KiCad/KUT_Device/BC-2001/working
   name: KUT_Device.pretty
+  oomp:
+    footprint_name: bc_2001
+    library_name: kut_device
+    md5: 6e70154f2805f907cbfd4b21e2bd7e23
+    md5_10: 6e70154f28
+    md5_5: 6e701
+    md5_6: 6e7015
+    oomp_key: oomp_kut_kicad_kut_device_bc_2001
+    oomp_key_extra: oomp_footprint_kut_kicad_kut_device_bc_2001
+    oomp_key_full: oomp_footprint_kut_kicad_kut_device_bc_2001_6e7015
+    oomp_key_simple: kut_kicad_kut_device_bc_2001
+    original_filename: KUT_Device.pretty/BC-2001.kicad_mod
+    owner_name: kut_kicad
   oomp_key: oomp_kut_kicad_kut_device_bc_2001
+  oomp_key_full: oomp_footprint_kut_kicad_kut_device_bc_2001
   oomp_key_simple: kut_kicad_kut_device_bc_2001
   owner: KUT-KiCad
   repo:

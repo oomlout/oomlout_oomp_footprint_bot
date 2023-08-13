@@ -22,14 +22,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/dchwebb_custom_footprints_alpha_9mm_potentiometer/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/dchwebb_custom_footprints_alpha_9mm_potentiometer/working
-    oomp_doc: footprints/footprints/dchwebb/Custom_Footprints/Alpha_9mm_Potentiometer/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/dchwebb/Custom_Footprints/Alpha_9mm_Potentiometer/working
     oomp_src_flat: footprints_flat/footprints_flat/dchwebb_custom_footprints_alpha_9mm_potentiometer/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/dchwebb_custom_footprints_alpha_9mm_potentiometer/working
-    oomp_src_folder: footprints_folder/footprints_folder/dchwebb/Custom_Footprints/Alpha_9mm_Potentiometer/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/dchwebb/Custom_Footprints/Alpha_9mm_Potentiometer/working
   name: Custom_Footprints.pretty
+  oomp:
+    footprint_name: alpha_9mm_potentiometer
+    library_name: custom_footprints
+    md5: 9347d3dce7b22bdb45e21fa61ba099aa
+    md5_10: 9347d3dce7
+    md5_5: 9347d
+    md5_6: 9347d3
+    oomp_key: oomp_dchwebb_custom_footprints_alpha_9mm_potentiometer
+    oomp_key_extra: oomp_footprint_dchwebb_custom_footprints_alpha_9mm_potentiometer
+    oomp_key_full: oomp_footprint_dchwebb_custom_footprints_alpha_9mm_potentiometer_9347d3
+    oomp_key_simple: dchwebb_custom_footprints_alpha_9mm_potentiometer
+    original_filename: Custom_Footprints.pretty/Alpha_9mm_Potentiometer.kicad_mod
+    owner_name: dchwebb
   oomp_key: oomp_dchwebb_custom_footprints_alpha_9mm_potentiometer
+  oomp_key_full: oomp_footprint_dchwebb_custom_footprints_alpha_9mm_potentiometer
   oomp_key_simple: dchwebb_custom_footprints_alpha_9mm_potentiometer
   owner: dchwebb
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/monostable_commonpartslibrary_sotfl50p160x60_6n/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/monostable_commonpartslibrary_sotfl50p160x60_6n/working
-    oomp_doc: footprints/footprints/monostable/CommonPartsLibrary/SOTFL50P160X60-6N/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/monostable/CommonPartsLibrary/SOTFL50P160X60-6N/working
     oomp_src_flat: footprints_flat/footprints_flat/monostable_commonpartslibrary_sotfl50p160x60_6n/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/monostable_commonpartslibrary_sotfl50p160x60_6n/working
-    oomp_src_folder: footprints_folder/footprints_folder/monostable/CommonPartsLibrary/SOTFL50P160X60-6N/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/monostable/CommonPartsLibrary/SOTFL50P160X60-6N/working
   name: CommonPartsLibrary.pretty
+  oomp:
+    footprint_name: sotfl50p160x60_6n
+    library_name: commonpartslibrary
+    md5: a04df6ecebf3bb060b2b0d5427728cd3
+    md5_10: a04df6eceb
+    md5_5: a04df
+    md5_6: a04df6
+    oomp_key: oomp_monostable_commonpartslibrary_sotfl50p160x60_6n
+    oomp_key_extra: oomp_footprint_monostable_commonpartslibrary_sotfl50p160x60_6n
+    oomp_key_full: oomp_footprint_monostable_commonpartslibrary_sotfl50p160x60_6n_a04df6
+    oomp_key_simple: monostable_commonpartslibrary_sotfl50p160x60_6n
+    original_filename: CommonPartsLibrary.pretty/SOTFL50P160X60-6N.kicad_mod
+    owner_name: monostable
   oomp_key: oomp_monostable_commonpartslibrary_sotfl50p160x60_6n
+  oomp_key_full: oomp_footprint_monostable_commonpartslibrary_sotfl50p160x60_6n
   oomp_key_simple: monostable_commonpartslibrary_sotfl50p160x60_6n
   owner: monostable
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/codemercenary_os_kicad_capacitor_tantalum_d/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/codemercenary_os_kicad_capacitor_tantalum_d/working
-    oomp_doc: footprints/footprints/codemercenary-os/kicad/CAPACITOR_TANTALUM_D/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/codemercenary-os/kicad/CAPACITOR_TANTALUM_D/working
     oomp_src_flat: footprints_flat/footprints_flat/codemercenary_os_kicad_capacitor_tantalum_d/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/codemercenary_os_kicad_capacitor_tantalum_d/working
-    oomp_src_folder: footprints_folder/footprints_folder/codemercenary-os/kicad/CAPACITOR_TANTALUM_D/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/codemercenary-os/kicad/CAPACITOR_TANTALUM_D/working
   name: kicad.pretty
+  oomp:
+    footprint_name: capacitor_tantalum_d
+    library_name: kicad
+    md5: a0a646958fe9099f30776690e13fb400
+    md5_10: a0a646958f
+    md5_5: a0a64
+    md5_6: a0a646
+    oomp_key: oomp_codemercenary_os_kicad_capacitor_tantalum_d
+    oomp_key_extra: oomp_footprint_codemercenary_os_kicad_capacitor_tantalum_d
+    oomp_key_full: oomp_footprint_codemercenary_os_kicad_capacitor_tantalum_d_a0a646
+    oomp_key_simple: codemercenary_os_kicad_capacitor_tantalum_d
+    original_filename: kicad.pretty/CAPACITOR_TANTALUM_D.kicad_mod
+    owner_name: codemercenary_os
   oomp_key: oomp_codemercenary_os_kicad_capacitor_tantalum_d
+  oomp_key_full: oomp_footprint_codemercenary_os_kicad_capacitor_tantalum_d
   oomp_key_simple: codemercenary_os_kicad_capacitor_tantalum_d
   owner: codemercenary-os
   repo:

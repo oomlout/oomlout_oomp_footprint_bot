@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/benkev_mylib_lm4780/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/benkev_mylib_lm4780/working
-    oomp_doc: footprints/footprints/benkev/myLib/LM4780/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/benkev/myLib/LM4780/working
     oomp_src_flat: footprints_flat/footprints_flat/benkev_mylib_lm4780/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/benkev_mylib_lm4780/working
-    oomp_src_folder: footprints_folder/footprints_folder/benkev/myLib/LM4780/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/benkev/myLib/LM4780/working
   name: myLib.pretty
+  oomp:
+    footprint_name: lm4780
+    library_name: mylib
+    md5: 5f4d3ef29f216fa06cfcf7683a8f18e9
+    md5_10: 5f4d3ef29f
+    md5_5: 5f4d3
+    md5_6: 5f4d3e
+    oomp_key: oomp_benkev_mylib_lm4780
+    oomp_key_extra: oomp_footprint_benkev_mylib_lm4780
+    oomp_key_full: oomp_footprint_benkev_mylib_lm4780_5f4d3e
+    oomp_key_simple: benkev_mylib_lm4780
+    original_filename: myLib.pretty/LM4780.kicad_mod
+    owner_name: benkev
   oomp_key: oomp_benkev_mylib_lm4780
+  oomp_key_full: oomp_footprint_benkev_mylib_lm4780
   oomp_key_simple: benkev_mylib_lm4780
   owner: benkev
   repo:

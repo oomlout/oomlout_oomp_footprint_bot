@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/johaa1993_kicad_dev_littlebee/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/johaa1993_kicad_dev_littlebee/working
-    oomp_doc: footprints/footprints/johaa1993/KiCad-Dev/Littlebee/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/johaa1993/KiCad-Dev/Littlebee/working
     oomp_src_flat: footprints_flat/footprints_flat/johaa1993_kicad_dev_littlebee/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/johaa1993_kicad_dev_littlebee/working
-    oomp_src_folder: footprints_folder/footprints_folder/johaa1993/KiCad-Dev/Littlebee/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/johaa1993/KiCad-Dev/Littlebee/working
   name: KiCad-Dev.pretty
+  oomp:
+    footprint_name: littlebee
+    library_name: kicad_dev
+    md5: 0656a63e73f3245d4cf0aa15044a068a
+    md5_10: 0656a63e73
+    md5_5: 0656a
+    md5_6: 0656a6
+    oomp_key: oomp_johaa1993_kicad_dev_littlebee
+    oomp_key_extra: oomp_footprint_johaa1993_kicad_dev_littlebee
+    oomp_key_full: oomp_footprint_johaa1993_kicad_dev_littlebee_0656a6
+    oomp_key_simple: johaa1993_kicad_dev_littlebee
+    original_filename: KiCad-Dev.pretty/Littlebee.kicad_mod
+    owner_name: johaa1993
   oomp_key: oomp_johaa1993_kicad_dev_littlebee
+  oomp_key_full: oomp_footprint_johaa1993_kicad_dev_littlebee
   oomp_key_simple: johaa1993_kicad_dev_littlebee
   owner: johaa1993
   repo:

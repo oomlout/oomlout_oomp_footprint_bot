@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/rudiloos_kilibs_sks_pk10a/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/rudiloos_kilibs_sks_pk10a/working
-    oomp_doc: footprints/footprints/rudiloos/kilibs/SKS-PK10A/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/rudiloos/kilibs/SKS-PK10A/working
     oomp_src_flat: footprints_flat/footprints_flat/rudiloos_kilibs_sks_pk10a/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/rudiloos_kilibs_sks_pk10a/working
-    oomp_src_folder: footprints_folder/footprints_folder/rudiloos/kilibs/SKS-PK10A/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/rudiloos/kilibs/SKS-PK10A/working
   name: kilibs.pretty
+  oomp:
+    footprint_name: sks_pk10a
+    library_name: kilibs
+    md5: 61d9b986f98cb6e3765994d63a619626
+    md5_10: 61d9b986f9
+    md5_5: 61d9b
+    md5_6: 61d9b9
+    oomp_key: oomp_rudiloos_kilibs_sks_pk10a
+    oomp_key_extra: oomp_footprint_rudiloos_kilibs_sks_pk10a
+    oomp_key_full: oomp_footprint_rudiloos_kilibs_sks_pk10a_61d9b9
+    oomp_key_simple: rudiloos_kilibs_sks_pk10a
+    original_filename: kilibs.pretty/SKS-PK10A.kicad_mod
+    owner_name: rudiloos
   oomp_key: oomp_rudiloos_kilibs_sks_pk10a
+  oomp_key_full: oomp_footprint_rudiloos_kilibs_sks_pk10a
   oomp_key_simple: rudiloos_kilibs_sks_pk10a
   owner: rudiloos
   repo:

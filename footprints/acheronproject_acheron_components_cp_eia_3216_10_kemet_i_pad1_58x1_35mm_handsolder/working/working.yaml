@@ -15,14 +15,24 @@
     github_src_repo: https://github.com/AcheronProject/acheron_Components.pretty
     oomp_bot: footprints/acheronproject_acheron_components_cp_eia_3216_10_kemet_i_pad1_58x1_35mm_handsolder/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/acheronproject_acheron_components_cp_eia_3216_10_kemet_i_pad1_58x1_35mm_handsolder/working
-    oomp_doc: footprints/footprints/AcheronProject/acheron_Components/CP_EIA-3216-10_Kemet-I_Pad1.58x1.35mm_HandSolder/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/AcheronProject/acheron_Components/CP_EIA-3216-10_Kemet-I_Pad1.58x1.35mm_HandSolder/working
     oomp_src_flat: footprints_flat/footprints_flat/acheronproject_acheron_components_cp_eia_3216_10_kemet_i_pad1_58x1_35mm_handsolder/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/acheronproject_acheron_components_cp_eia_3216_10_kemet_i_pad1_58x1_35mm_handsolder/working
-    oomp_src_folder: footprints_folder/footprints_folder/AcheronProject/acheron_Components/CP_EIA-3216-10_Kemet-I_Pad1.58x1.35mm_HandSolder/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/AcheronProject/acheron_Components/CP_EIA-3216-10_Kemet-I_Pad1.58x1.35mm_HandSolder/working
   name: acheron_Components.pretty
+  oomp:
+    footprint_name: cp_eia_3216_10_kemet_i_pad1_58x1_35mm_handsolder
+    library_name: acheron_components
+    md5: b305866fa33e0905f707b09aa4d19820
+    md5_10: b305866fa3
+    md5_5: b3058
+    md5_6: b30586
+    oomp_key: oomp_acheronproject_acheron_components_cp_eia_3216_10_kemet_i_pad1_58x1_35mm_handsolder
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_components_cp_eia_3216_10_kemet_i_pad1_58x1_35mm_handsolder
+    oomp_key_full: oomp_footprint_acheronproject_acheron_components_cp_eia_3216_10_kemet_i_pad1_58x1_35mm_handsolder_b30586
+    oomp_key_simple: acheronproject_acheron_components_cp_eia_3216_10_kemet_i_pad1_58x1_35mm_handsolder
+    original_filename: acheron_Components.pretty/CP_EIA-3216-10_Kemet-I_Pad1.58x1.35mm_HandSolder.kicad_mod
+    owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_components_cp_eia_3216_10_kemet_i_pad1_58x1_35mm_handsolder
+  oomp_key_full: oomp_footprint_acheronproject_acheron_components_cp_eia_3216_10_kemet_i_pad1_58x1_35mm_handsolder
   oomp_key_simple: acheronproject_acheron_components_cp_eia_3216_10_kemet_i_pad1_58x1_35mm_handsolder
   owner: AcheronProject
   repo:

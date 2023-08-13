@@ -11,17 +11,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_varistor_rv_rect_v25s440p_l26_5mm_w8_2mm_p12_7mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_varistor_rv_rect_v25s440p_l26_5mm_w8_2mm_p12_7mm/working
-    oomp_doc: footprints/footprints/kicad/Varistor/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Varistor/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_varistor_rv_rect_v25s440p_l26_5mm_w8_2mm_p12_7mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_varistor_rv_rect_v25s440p_l26_5mm_w8_2mm_p12_7mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Varistor/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Varistor/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: rv_rect_v25s440p_l26_5mm_w8_2mm_p12_7mm
+    library_name: varistor
+    md5: d910c9d267e49ecdb286be37f2d3d35c
+    md5_10: d910c9d267
+    md5_5: d910c
+    md5_6: d910c9
+    oomp_key: oomp_kicad_varistor_rv_rect_v25s440p_l26_5mm_w8_2mm_p12_7mm
+    oomp_key_extra: oomp_footprint_kicad_varistor_rv_rect_v25s440p_l26_5mm_w8_2mm_p12_7mm
+    oomp_key_full: oomp_footprint_kicad_varistor_rv_rect_v25s440p_l26_5mm_w8_2mm_p12_7mm_d910c9
+    oomp_key_simple: kicad_varistor_rv_rect_v25s440p_l26_5mm_w8_2mm_p12_7mm
+    original_filename: libraries/kicad-footprints/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_varistor_rv_rect_v25s440p_l26_5mm_w8_2mm_p12_7mm
+  oomp_key_full: oomp_footprint_kicad_varistor_rv_rect_v25s440p_l26_5mm_w8_2mm_p12_7mm
   oomp_key_simple: kicad_varistor_rv_rect_v25s440p_l26_5mm_w8_2mm_p12_7mm
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

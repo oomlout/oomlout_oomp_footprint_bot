@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pelrun_w_conn_d_sub_db_26f/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pelrun_w_conn_d_sub_db_26f/working
-    oomp_doc: footprints/footprints/pelrun/w_conn_d-sub/DB_26F/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/pelrun/w_conn_d-sub/DB_26F/working
     oomp_src_flat: footprints_flat/footprints_flat/pelrun_w_conn_d_sub_db_26f/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pelrun_w_conn_d_sub_db_26f/working
-    oomp_src_folder: footprints_folder/footprints_folder/pelrun/w_conn_d-sub/DB_26F/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/pelrun/w_conn_d-sub/DB_26F/working
   name: libKiCad
+  oomp:
+    footprint_name: db_26f
+    library_name: w_conn_d_sub
+    md5: 63225a6098e5be2c5ac0b33d30032a7e
+    md5_10: 63225a6098
+    md5_5: '63225'
+    md5_6: 63225a
+    oomp_key: oomp_pelrun_w_conn_d_sub_db_26f
+    oomp_key_extra: oomp_footprint_pelrun_w_conn_d_sub_db_26f
+    oomp_key_full: oomp_footprint_pelrun_w_conn_d_sub_db_26f_63225a
+    oomp_key_simple: pelrun_w_conn_d_sub_db_26f
+    original_filename: libKiCad/footprint/w_conn_d-sub.pretty/DB_26F.kicad_mod
+    owner_name: pelrun
   oomp_key: oomp_pelrun_w_conn_d_sub_db_26f
+  oomp_key_full: oomp_footprint_pelrun_w_conn_d_sub_db_26f
   oomp_key_simple: pelrun_w_conn_d_sub_db_26f
   owner: pelrun
   repo:

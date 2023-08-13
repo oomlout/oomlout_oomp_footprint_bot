@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/esden_pkl_housings_bga_texas_dsbga_6_0_926x1_3mm_layout2x3_p0_4mm_nsmd/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/esden_pkl_housings_bga_texas_dsbga_6_0_926x1_3mm_layout2x3_p0_4mm_nsmd/working
-    oomp_doc: footprints/footprints/esden/pkl_housings_bga/Texas_DSBGA-6_0.926x1.3mm_Layout2x3_P0.4mm_NSMD/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/esden/pkl_housings_bga/Texas_DSBGA-6_0.926x1.3mm_Layout2x3_P0.4mm_NSMD/working
     oomp_src_flat: footprints_flat/footprints_flat/esden_pkl_housings_bga_texas_dsbga_6_0_926x1_3mm_layout2x3_p0_4mm_nsmd/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/esden_pkl_housings_bga_texas_dsbga_6_0_926x1_3mm_layout2x3_p0_4mm_nsmd/working
-    oomp_src_folder: footprints_folder/footprints_folder/esden/pkl_housings_bga/Texas_DSBGA-6_0.926x1.3mm_Layout2x3_P0.4mm_NSMD/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/esden/pkl_housings_bga/Texas_DSBGA-6_0.926x1.3mm_Layout2x3_P0.4mm_NSMD/working
   name: pretty-kicad-libs
+  oomp:
+    footprint_name: texas_dsbga_6_0_926x1_3mm_layout2x3_p0_4mm_nsmd
+    library_name: pkl_housings_bga
+    md5: 85c2dc7cab1b306525460c5552aa9a75
+    md5_10: 85c2dc7cab
+    md5_5: 85c2d
+    md5_6: 85c2dc
+    oomp_key: oomp_esden_pkl_housings_bga_texas_dsbga_6_0_926x1_3mm_layout2x3_p0_4mm_nsmd
+    oomp_key_extra: oomp_footprint_esden_pkl_housings_bga_texas_dsbga_6_0_926x1_3mm_layout2x3_p0_4mm_nsmd
+    oomp_key_full: oomp_footprint_esden_pkl_housings_bga_texas_dsbga_6_0_926x1_3mm_layout2x3_p0_4mm_nsmd_85c2dc
+    oomp_key_simple: esden_pkl_housings_bga_texas_dsbga_6_0_926x1_3mm_layout2x3_p0_4mm_nsmd
+    original_filename: pretty-kicad-libs/pkl_housings_bga.pretty/Texas_DSBGA-6_0.926x1.3mm_Layout2x3_P0.4mm_NSMD.kicad_mod
+    owner_name: esden
   oomp_key: oomp_esden_pkl_housings_bga_texas_dsbga_6_0_926x1_3mm_layout2x3_p0_4mm_nsmd
+  oomp_key_full: oomp_footprint_esden_pkl_housings_bga_texas_dsbga_6_0_926x1_3mm_layout2x3_p0_4mm_nsmd
   oomp_key_simple: esden_pkl_housings_bga_texas_dsbga_6_0_926x1_3mm_layout2x3_p0_4mm_nsmd
   owner: esden
   repo:

@@ -1,8 +1,5 @@
-- file: KiCAD-OnHand-Lib/OnHand-Components.pretty/705530003.kicad_mod
-  footprint:
-    description: null
-    libraryLink: 705530003
-    number_of_pads: 4
+- error: expected string or bytes-like object, got 'int'
+  file: KiCAD-OnHand-Lib/OnHand-Components.pretty/705530003.kicad_mod
   footprint_library_directory: footprint_library_owner/adamjvr_KiCAD-OnHand-Lib
   footprint_library_directory_flat: footprints_flat/adamjvr_onhand_components_705530003/working
   github_path: http://github.com/adamjvr/KiCAD-OnHand-Lib/blob/master/OnHand-Components.pretty/705530003.kicad_mod
@@ -13,14 +10,24 @@
     github_src_repo: https://github.com/adamjvr/KiCAD-OnHand-Lib
     oomp_bot: footprints/adamjvr_onhand_components_705530003/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/adamjvr_onhand_components_705530003/working
-    oomp_doc: footprints/footprints/adamjvr/OnHand-Components/705530003/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/adamjvr/OnHand-Components/705530003/working
     oomp_src_flat: footprints_flat/footprints_flat/adamjvr_onhand_components_705530003/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/adamjvr_onhand_components_705530003/working
-    oomp_src_folder: footprints_folder/footprints_folder/adamjvr/OnHand-Components/705530003/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/adamjvr/OnHand-Components/705530003/working
   name: KiCAD-OnHand-Lib
+  oomp:
+    footprint_name: '705530003'
+    library_name: onhand_components
+    md5: b93e0d9445cb662ce6da03f8d251611d
+    md5_10: b93e0d9445
+    md5_5: b93e0
+    md5_6: b93e0d
+    oomp_key: oomp_adamjvr_onhand_components_705530003
+    oomp_key_extra: oomp_footprint_adamjvr_onhand_components_705530003
+    oomp_key_full: oomp_footprint_adamjvr_onhand_components_705530003_b93e0d
+    oomp_key_simple: adamjvr_onhand_components_705530003
+    original_filename: KiCAD-OnHand-Lib/OnHand-Components.pretty/705530003.kicad_mod
+    owner_name: adamjvr
   oomp_key: oomp_adamjvr_onhand_components_705530003
+  oomp_key_full: oomp_footprint_adamjvr_onhand_components_705530003
   oomp_key_simple: adamjvr_onhand_components_705530003
   owner: adamjvr
   repo:

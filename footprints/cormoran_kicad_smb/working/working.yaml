@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cormoran_kicad_smb/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cormoran_kicad_smb/working
-    oomp_doc: footprints/footprints/cormoran/kicad/SMB/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cormoran/kicad/SMB/working
     oomp_src_flat: footprints_flat/footprints_flat/cormoran_kicad_smb/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cormoran_kicad_smb/working
-    oomp_src_folder: footprints_folder/footprints_folder/cormoran/kicad/SMB/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cormoran/kicad/SMB/working
   name: kicad.pretty
+  oomp:
+    footprint_name: smb
+    library_name: kicad
+    md5: c253f965be1c10a71edc3bc1233432e5
+    md5_10: c253f965be
+    md5_5: c253f
+    md5_6: c253f9
+    oomp_key: oomp_cormoran_kicad_smb
+    oomp_key_extra: oomp_footprint_cormoran_kicad_smb
+    oomp_key_full: oomp_footprint_cormoran_kicad_smb_c253f9
+    oomp_key_simple: cormoran_kicad_smb
+    original_filename: kicad.pretty/SMB.kicad_mod
+    owner_name: cormoran
   oomp_key: oomp_cormoran_kicad_smb
+  oomp_key_full: oomp_footprint_cormoran_kicad_smb
   oomp_key_simple: cormoran_kicad_smb
   owner: cormoran
   repo:

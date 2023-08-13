@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/peekpt_w_conn_misc_dc_socket_rh/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/peekpt_w_conn_misc_dc_socket_rh/working
-    oomp_doc: footprints/footprints/peekpt/w_conn_misc/dc_socket_rh/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/peekpt/w_conn_misc/dc_socket_rh/working
     oomp_src_flat: footprints_flat/footprints_flat/peekpt_w_conn_misc_dc_socket_rh/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/peekpt_w_conn_misc_dc_socket_rh/working
-    oomp_src_folder: footprints_folder/footprints_folder/peekpt/w_conn_misc/dc_socket_rh/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/peekpt/w_conn_misc/dc_socket_rh/working
   name: kicad_smisioto
+  oomp:
+    footprint_name: dc_socket_rh
+    library_name: w_conn_misc
+    md5: 0d997b89938a76a3090966842034a26f
+    md5_10: 0d997b8993
+    md5_5: 0d997
+    md5_6: 0d997b
+    oomp_key: oomp_peekpt_w_conn_misc_dc_socket_rh
+    oomp_key_extra: oomp_footprint_peekpt_w_conn_misc_dc_socket_rh
+    oomp_key_full: oomp_footprint_peekpt_w_conn_misc_dc_socket_rh_0d997b
+    oomp_key_simple: peekpt_w_conn_misc_dc_socket_rh
+    original_filename: kicad_smisioto/modules/walter/w_conn_misc.pretty/dc_socket_rh.kicad_mod
+    owner_name: peekpt
   oomp_key: oomp_peekpt_w_conn_misc_dc_socket_rh
+  oomp_key_full: oomp_footprint_peekpt_w_conn_misc_dc_socket_rh
   oomp_key_simple: peekpt_w_conn_misc_dc_socket_rh
   owner: peekpt
   repo:

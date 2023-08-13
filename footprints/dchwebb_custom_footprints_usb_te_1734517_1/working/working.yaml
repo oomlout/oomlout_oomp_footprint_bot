@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/dchwebb_custom_footprints_usb_te_1734517_1/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/dchwebb_custom_footprints_usb_te_1734517_1/working
-    oomp_doc: footprints/footprints/dchwebb/Custom_Footprints/USB_TE_1734517-1/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/dchwebb/Custom_Footprints/USB_TE_1734517-1/working
     oomp_src_flat: footprints_flat/footprints_flat/dchwebb_custom_footprints_usb_te_1734517_1/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/dchwebb_custom_footprints_usb_te_1734517_1/working
-    oomp_src_folder: footprints_folder/footprints_folder/dchwebb/Custom_Footprints/USB_TE_1734517-1/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/dchwebb/Custom_Footprints/USB_TE_1734517-1/working
   name: Custom_Footprints.pretty
+  oomp:
+    footprint_name: usb_te_1734517_1
+    library_name: custom_footprints
+    md5: 096f9823d0f37b7317800e715c6be5dd
+    md5_10: 096f9823d0
+    md5_5: 096f9
+    md5_6: 096f98
+    oomp_key: oomp_dchwebb_custom_footprints_usb_te_1734517_1
+    oomp_key_extra: oomp_footprint_dchwebb_custom_footprints_usb_te_1734517_1
+    oomp_key_full: oomp_footprint_dchwebb_custom_footprints_usb_te_1734517_1_096f98
+    oomp_key_simple: dchwebb_custom_footprints_usb_te_1734517_1
+    original_filename: Custom_Footprints.pretty/USB_TE_1734517-1.kicad_mod
+    owner_name: dchwebb
   oomp_key: oomp_dchwebb_custom_footprints_usb_te_1734517_1
+  oomp_key_full: oomp_footprint_dchwebb_custom_footprints_usb_te_1734517_1
   oomp_key_simple: dchwebb_custom_footprints_usb_te_1734517_1
   owner: dchwebb
   repo:

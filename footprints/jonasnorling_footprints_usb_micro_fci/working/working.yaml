@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/jonasnorling_footprints_usb_micro_fci/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/jonasnorling_footprints_usb_micro_fci/working
-    oomp_doc: footprints/footprints/JonasNorling/Footprints/USB_Micro_FCI/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/JonasNorling/Footprints/USB_Micro_FCI/working
     oomp_src_flat: footprints_flat/footprints_flat/jonasnorling_footprints_usb_micro_fci/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/jonasnorling_footprints_usb_micro_fci/working
-    oomp_src_folder: footprints_folder/footprints_folder/JonasNorling/Footprints/USB_Micro_FCI/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/JonasNorling/Footprints/USB_Micro_FCI/working
   name: Footprints.pretty
+  oomp:
+    footprint_name: usb_micro_fci
+    library_name: footprints
+    md5: 1e98086be577c6f022c5667257e044ca
+    md5_10: 1e98086be5
+    md5_5: 1e980
+    md5_6: 1e9808
+    oomp_key: oomp_jonasnorling_footprints_usb_micro_fci
+    oomp_key_extra: oomp_footprint_jonasnorling_footprints_usb_micro_fci
+    oomp_key_full: oomp_footprint_jonasnorling_footprints_usb_micro_fci_1e9808
+    oomp_key_simple: jonasnorling_footprints_usb_micro_fci
+    original_filename: Footprints.pretty/USB_Micro_FCI.kicad_mod
+    owner_name: jonasnorling
   oomp_key: oomp_jonasnorling_footprints_usb_micro_fci
+  oomp_key_full: oomp_footprint_jonasnorling_footprints_usb_micro_fci
   oomp_key_simple: jonasnorling_footprints_usb_micro_fci
   owner: JonasNorling
   repo:

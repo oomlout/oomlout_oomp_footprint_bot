@@ -13,17 +13,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_fuse_fuse_1812_4532metric_pad1_30x3_40mm_handsolder/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_fuse_fuse_1812_4532metric_pad1_30x3_40mm_handsolder/working
-    oomp_doc: footprints/footprints/kicad/Fuse/Fuse_1812_4532Metric_Pad1.30x3.40mm_HandSolder/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Fuse/Fuse_1812_4532Metric_Pad1.30x3.40mm_HandSolder/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_fuse_fuse_1812_4532metric_pad1_30x3_40mm_handsolder/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_fuse_fuse_1812_4532metric_pad1_30x3_40mm_handsolder/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Fuse/Fuse_1812_4532Metric_Pad1.30x3.40mm_HandSolder/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Fuse/Fuse_1812_4532Metric_Pad1.30x3.40mm_HandSolder/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: fuse_1812_4532metric_pad1_30x3_40mm_handsolder
+    library_name: fuse
+    md5: 8a08a36d5c33c98a6e0fe9a9e591b100
+    md5_10: 8a08a36d5c
+    md5_5: 8a08a
+    md5_6: 8a08a3
+    oomp_key: oomp_kicad_fuse_fuse_1812_4532metric_pad1_30x3_40mm_handsolder
+    oomp_key_extra: oomp_footprint_kicad_fuse_fuse_1812_4532metric_pad1_30x3_40mm_handsolder
+    oomp_key_full: oomp_footprint_kicad_fuse_fuse_1812_4532metric_pad1_30x3_40mm_handsolder_8a08a3
+    oomp_key_simple: kicad_fuse_fuse_1812_4532metric_pad1_30x3_40mm_handsolder
+    original_filename: libraries/kicad-footprints/Fuse.pretty/Fuse_1812_4532Metric_Pad1.30x3.40mm_HandSolder.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_fuse_fuse_1812_4532metric_pad1_30x3_40mm_handsolder
+  oomp_key_full: oomp_footprint_kicad_fuse_fuse_1812_4532metric_pad1_30x3_40mm_handsolder
   oomp_key_simple: kicad_fuse_fuse_1812_4532metric_pad1_30x3_40mm_handsolder
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

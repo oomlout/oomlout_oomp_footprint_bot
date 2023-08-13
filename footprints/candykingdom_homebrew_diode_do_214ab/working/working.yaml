@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/candykingdom_homebrew_diode_do_214ab/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/candykingdom_homebrew_diode_do_214ab/working
-    oomp_doc: footprints/footprints/candykingdom/homebrew/DIODE-DO-214AB/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/candykingdom/homebrew/DIODE-DO-214AB/working
     oomp_src_flat: footprints_flat/footprints_flat/candykingdom_homebrew_diode_do_214ab/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/candykingdom_homebrew_diode_do_214ab/working
-    oomp_src_folder: footprints_folder/footprints_folder/candykingdom/homebrew/DIODE-DO-214AB/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/candykingdom/homebrew/DIODE-DO-214AB/working
   name: homebrew.pretty
+  oomp:
+    footprint_name: diode_do_214ab
+    library_name: homebrew
+    md5: 4e12ae23865475121675a9e8cd7358d0
+    md5_10: 4e12ae2386
+    md5_5: 4e12a
+    md5_6: 4e12ae
+    oomp_key: oomp_candykingdom_homebrew_diode_do_214ab
+    oomp_key_extra: oomp_footprint_candykingdom_homebrew_diode_do_214ab
+    oomp_key_full: oomp_footprint_candykingdom_homebrew_diode_do_214ab_4e12ae
+    oomp_key_simple: candykingdom_homebrew_diode_do_214ab
+    original_filename: homebrew.pretty/DIODE-DO-214AB.kicad_mod
+    owner_name: candykingdom
   oomp_key: oomp_candykingdom_homebrew_diode_do_214ab
+  oomp_key_full: oomp_footprint_candykingdom_homebrew_diode_do_214ab
   oomp_key_simple: candykingdom_homebrew_diode_do_214ab
   owner: candykingdom
   repo:

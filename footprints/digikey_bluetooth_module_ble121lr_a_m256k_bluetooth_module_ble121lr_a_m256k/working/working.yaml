@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/digikey_bluetooth_module_ble121lr_a_m256k_bluetooth_module_ble121lr_a_m256k/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_bluetooth_module_ble121lr_a_m256k_bluetooth_module_ble121lr_a_m256k/working
-    oomp_doc: footprints/footprints/digikey/Bluetooth_Module_BLE121LR-A-M256K.kicad_mod/Bluetooth_Module_BLE121LR-A-M256K/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/digikey/Bluetooth_Module_BLE121LR-A-M256K.kicad_mod/Bluetooth_Module_BLE121LR-A-M256K/working
     oomp_src_flat: footprints_flat/footprints_flat/digikey_bluetooth_module_ble121lr_a_m256k_bluetooth_module_ble121lr_a_m256k/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/digikey_bluetooth_module_ble121lr_a_m256k_bluetooth_module_ble121lr_a_m256k/working
-    oomp_src_folder: footprints_folder/footprints_folder/digikey/Bluetooth_Module_BLE121LR-A-M256K.kicad_mod/Bluetooth_Module_BLE121LR-A-M256K/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/digikey/Bluetooth_Module_BLE121LR-A-M256K.kicad_mod/Bluetooth_Module_BLE121LR-A-M256K/working
   name: digikey-kicad-library
+  oomp:
+    footprint_name: bluetooth_module_ble121lr_a_m256k
+    library_name: bluetooth_module_ble121lr_a_m256k_kicad_mod
+    md5: 201dd10a67557518ff132ef03d0d8286
+    md5_10: 201dd10a67
+    md5_5: 201dd
+    md5_6: 201dd1
+    oomp_key: oomp_digikey_bluetooth_module_ble121lr_a_m256k_bluetooth_module_ble121lr_a_m256k
+    oomp_key_extra: oomp_footprint_digikey_bluetooth_module_ble121lr_a_m256k_bluetooth_module_ble121lr_a_m256k
+    oomp_key_full: oomp_footprint_digikey_bluetooth_module_ble121lr_a_m256k_bluetooth_module_ble121lr_a_m256k_201dd1
+    oomp_key_simple: digikey_bluetooth_module_ble121lr_a_m256k_bluetooth_module_ble121lr_a_m256k
+    original_filename: digikey-kicad-library/src/Source_Footprints/Bluetooth_Module_BLE121LR-A-M256K.kicad_mod
+    owner_name: digikey
   oomp_key: oomp_digikey_bluetooth_module_ble121lr_a_m256k_bluetooth_module_ble121lr_a_m256k
+  oomp_key_full: oomp_footprint_digikey_bluetooth_module_ble121lr_a_m256k_bluetooth_module_ble121lr_a_m256k
   oomp_key_simple: digikey_bluetooth_module_ble121lr_a_m256k_bluetooth_module_ble121lr_a_m256k
   owner: digikey
   repo:

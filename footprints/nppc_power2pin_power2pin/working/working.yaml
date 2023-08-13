@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/nppc_power2pin_power2pin/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nppc_power2pin_power2pin/working
-    oomp_doc: footprints/footprints/nppc/POWER2PIN.kicad_mod/POWER2PIN/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/nppc/POWER2PIN.kicad_mod/POWER2PIN/working
     oomp_src_flat: footprints_flat/footprints_flat/nppc_power2pin_power2pin/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nppc_power2pin_power2pin/working
-    oomp_src_folder: footprints_folder/footprints_folder/nppc/POWER2PIN.kicad_mod/POWER2PIN/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/nppc/POWER2PIN.kicad_mod/POWER2PIN/working
   name: KiCadCustomLibs
+  oomp:
+    footprint_name: power2pin
+    library_name: power2pin_kicad_mod
+    md5: ac4edfd0b73c9d4c9bb52566a723188d
+    md5_10: ac4edfd0b7
+    md5_5: ac4ed
+    md5_6: ac4edf
+    oomp_key: oomp_nppc_power2pin_power2pin
+    oomp_key_extra: oomp_footprint_nppc_power2pin_power2pin
+    oomp_key_full: oomp_footprint_nppc_power2pin_power2pin_ac4edf
+    oomp_key_simple: nppc_power2pin_power2pin
+    original_filename: KiCadCustomLibs/POWER2PIN.kicad_mod
+    owner_name: nppc
   oomp_key: oomp_nppc_power2pin_power2pin
+  oomp_key_full: oomp_footprint_nppc_power2pin_power2pin
   oomp_key_simple: nppc_power2pin_power2pin
   owner: nppc
   repo:

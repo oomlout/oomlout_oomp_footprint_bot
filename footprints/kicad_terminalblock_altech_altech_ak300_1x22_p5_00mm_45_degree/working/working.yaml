@@ -12,17 +12,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_terminalblock_altech_altech_ak300_1x22_p5_00mm_45_degree/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_terminalblock_altech_altech_ak300_1x22_p5_00mm_45_degree/working
-    oomp_doc: footprints/footprints/kicad/TerminalBlock_Altech/Altech_AK300_1x22_P5.00mm_45-Degree/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/TerminalBlock_Altech/Altech_AK300_1x22_P5.00mm_45-Degree/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_terminalblock_altech_altech_ak300_1x22_p5_00mm_45_degree/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_terminalblock_altech_altech_ak300_1x22_p5_00mm_45_degree/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/TerminalBlock_Altech/Altech_AK300_1x22_P5.00mm_45-Degree/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/TerminalBlock_Altech/Altech_AK300_1x22_P5.00mm_45-Degree/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: altech_ak300_1x22_p5_00mm_45_degree
+    library_name: terminalblock_altech
+    md5: 1b0e2da27a69ef0fa57a4289d1e5ab53
+    md5_10: 1b0e2da27a
+    md5_5: 1b0e2
+    md5_6: 1b0e2d
+    oomp_key: oomp_kicad_terminalblock_altech_altech_ak300_1x22_p5_00mm_45_degree
+    oomp_key_extra: oomp_footprint_kicad_terminalblock_altech_altech_ak300_1x22_p5_00mm_45_degree
+    oomp_key_full: oomp_footprint_kicad_terminalblock_altech_altech_ak300_1x22_p5_00mm_45_degree_1b0e2d
+    oomp_key_simple: kicad_terminalblock_altech_altech_ak300_1x22_p5_00mm_45_degree
+    original_filename: libraries/kicad-footprints/TerminalBlock_Altech.pretty/Altech_AK300_1x22_P5.00mm_45-Degree.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_terminalblock_altech_altech_ak300_1x22_p5_00mm_45_degree
+  oomp_key_full: oomp_footprint_kicad_terminalblock_altech_altech_ak300_1x22_p5_00mm_45_degree
   oomp_key_simple: kicad_terminalblock_altech_altech_ak300_1x22_p5_00mm_45_degree
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

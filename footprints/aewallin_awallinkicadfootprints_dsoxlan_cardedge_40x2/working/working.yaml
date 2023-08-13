@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/aewallin/awallinKiCadFootprints.pretty
     oomp_bot: footprints/aewallin_awallinkicadfootprints_dsoxlan_cardedge_40x2/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/aewallin_awallinkicadfootprints_dsoxlan_cardedge_40x2/working
-    oomp_doc: footprints/footprints/aewallin/awallinKiCadFootprints/DSOXLAN_cardedge_40x2/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/aewallin/awallinKiCadFootprints/DSOXLAN_cardedge_40x2/working
     oomp_src_flat: footprints_flat/footprints_flat/aewallin_awallinkicadfootprints_dsoxlan_cardedge_40x2/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/aewallin_awallinkicadfootprints_dsoxlan_cardedge_40x2/working
-    oomp_src_folder: footprints_folder/footprints_folder/aewallin/awallinKiCadFootprints/DSOXLAN_cardedge_40x2/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/aewallin/awallinKiCadFootprints/DSOXLAN_cardedge_40x2/working
   name: awallinKiCadFootprints.pretty
+  oomp:
+    footprint_name: dsoxlan_cardedge_40x2
+    library_name: awallinkicadfootprints
+    md5: f7c59b769a07988474a362297973ff65
+    md5_10: f7c59b769a
+    md5_5: f7c59
+    md5_6: f7c59b
+    oomp_key: oomp_aewallin_awallinkicadfootprints_dsoxlan_cardedge_40x2
+    oomp_key_extra: oomp_footprint_aewallin_awallinkicadfootprints_dsoxlan_cardedge_40x2
+    oomp_key_full: oomp_footprint_aewallin_awallinkicadfootprints_dsoxlan_cardedge_40x2_f7c59b
+    oomp_key_simple: aewallin_awallinkicadfootprints_dsoxlan_cardedge_40x2
+    original_filename: awallinKiCadFootprints.pretty/DSOXLAN_cardedge_40x2.kicad_mod
+    owner_name: aewallin
   oomp_key: oomp_aewallin_awallinkicadfootprints_dsoxlan_cardedge_40x2
+  oomp_key_full: oomp_footprint_aewallin_awallinkicadfootprints_dsoxlan_cardedge_40x2
   oomp_key_simple: aewallin_awallinkicadfootprints_dsoxlan_cardedge_40x2
   owner: aewallin
   repo:

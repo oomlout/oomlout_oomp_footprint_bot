@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/nppc_nodemcu1_0(12_e)_nodemcu1_0(12_e)/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nppc_nodemcu1_0(12_e)_nodemcu1_0(12_e)/working
-    oomp_doc: footprints/footprints/nppc/NodeMCU1.0(12-E).kicad_mod/NodeMCU1.0(12-E)/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/nppc/NodeMCU1.0(12-E).kicad_mod/NodeMCU1.0(12-E)/working
     oomp_src_flat: footprints_flat/footprints_flat/nppc_nodemcu1_0(12_e)_nodemcu1_0(12_e)/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nppc_nodemcu1_0(12_e)_nodemcu1_0(12_e)/working
-    oomp_src_folder: footprints_folder/footprints_folder/nppc/NodeMCU1.0(12-E).kicad_mod/NodeMCU1.0(12-E)/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/nppc/NodeMCU1.0(12-E).kicad_mod/NodeMCU1.0(12-E)/working
   name: KiCadCustomLibs
+  oomp:
+    footprint_name: nodemcu1_0(12_e)
+    library_name: nodemcu1_0(12_e)_kicad_mod
+    md5: 8e35cb1e31c68ad65147bdc32fdcf1d5
+    md5_10: 8e35cb1e31
+    md5_5: 8e35c
+    md5_6: 8e35cb
+    oomp_key: oomp_nppc_nodemcu1_0(12_e)_nodemcu1_0(12_e)
+    oomp_key_extra: oomp_footprint_nppc_nodemcu1_0(12_e)_nodemcu1_0(12_e)
+    oomp_key_full: oomp_footprint_nppc_nodemcu1_0(12_e)_nodemcu1_0(12_e)_8e35cb
+    oomp_key_simple: nppc_nodemcu1_0(12_e)_nodemcu1_0(12_e)
+    original_filename: KiCadCustomLibs/NodeMCU1.0(12-E).kicad_mod
+    owner_name: nppc
   oomp_key: oomp_nppc_nodemcu1_0(12_e)_nodemcu1_0(12_e)
+  oomp_key_full: oomp_footprint_nppc_nodemcu1_0(12_e)_nodemcu1_0(12_e)
   oomp_key_simple: nppc_nodemcu1_0(12_e)_nodemcu1_0(12_e)
   owner: nppc
   repo:

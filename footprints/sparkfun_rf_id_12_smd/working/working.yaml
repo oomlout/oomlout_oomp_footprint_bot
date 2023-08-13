@@ -1,24 +1,34 @@
-- file: SparkFun-KiCad-Libraries/Footprints/RF.pretty/ID-12_SMD.kicad_mod
+- file: SparkFun-KiCad-Libraries/Pre_v7/Footprints/RF.pretty/ID-12_SMD.kicad_mod
   footprint:
     description: ID-2, ID-12, AND ID-20 LOW-VOLTAGE RFID READERS - SMD FOOTPRINT
     libraryLink: ID-12_SMD
     number_of_pads: 12
   footprint_library_directory: footprint_library_owner/sparkfun_SparkFun-KiCad-Libraries
   footprint_library_directory_flat: footprints_flat/sparkfun_rf_id_12_smd/working
-  github_path: http://github.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Footprints/RF.pretty/ID-12_SMD.kicad_mod
+  github_path: http://github.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Pre_v7/Footprints/RF.pretty/ID-12_SMD.kicad_mod
   links:
-    github_src: http://gitlab.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Tools/SparkFun-Eagle-Libraries_Conversion/Export.pretty/DFN-6-3X3.kicad_mod
+    github_src: http://gitlab.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Pre_v7/Tools/SparkFun-Eagle-Libraries_Conversion/Export.pretty/DFN-6-3X3.kicad_mod
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/sparkfun_rf_id_12_smd/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/sparkfun_rf_id_12_smd/working
-    oomp_doc: footprints/footprints/sparkfun/RF/ID-12_SMD/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/sparkfun/RF/ID-12_SMD/working
     oomp_src_flat: footprints_flat/footprints_flat/sparkfun_rf_id_12_smd/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/sparkfun_rf_id_12_smd/working
-    oomp_src_folder: footprints_folder/footprints_folder/sparkfun/RF/ID-12_SMD/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/sparkfun/RF/ID-12_SMD/working
   name: SparkFun-KiCad-Libraries
+  oomp:
+    footprint_name: id_12_smd
+    library_name: rf
+    md5: 379400e72c4329255b0d8b4b4c339c58
+    md5_10: 379400e72c
+    md5_5: '37940'
+    md5_6: '379400'
+    oomp_key: oomp_sparkfun_rf_id_12_smd
+    oomp_key_extra: oomp_footprint_sparkfun_rf_id_12_smd
+    oomp_key_full: oomp_footprint_sparkfun_rf_id_12_smd_379400
+    oomp_key_simple: sparkfun_rf_id_12_smd
+    original_filename: SparkFun-KiCad-Libraries/Pre_v7/Footprints/RF.pretty/ID-12_SMD.kicad_mod
+    owner_name: sparkfun
   oomp_key: oomp_sparkfun_rf_id_12_smd
+  oomp_key_full: oomp_footprint_sparkfun_rf_id_12_smd
   oomp_key_simple: sparkfun_rf_id_12_smd
   owner: sparkfun
   repo:

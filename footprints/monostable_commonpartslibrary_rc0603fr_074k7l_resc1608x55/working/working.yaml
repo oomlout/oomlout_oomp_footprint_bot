@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/monostable_commonpartslibrary_rc0603fr_074k7l_resc1608x55/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/monostable_commonpartslibrary_rc0603fr_074k7l_resc1608x55/working
-    oomp_doc: footprints/footprints/monostable/CommonPartsLibrary/RC0603FR-074K7L_RESC1608X55/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/monostable/CommonPartsLibrary/RC0603FR-074K7L_RESC1608X55/working
     oomp_src_flat: footprints_flat/footprints_flat/monostable_commonpartslibrary_rc0603fr_074k7l_resc1608x55/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/monostable_commonpartslibrary_rc0603fr_074k7l_resc1608x55/working
-    oomp_src_folder: footprints_folder/footprints_folder/monostable/CommonPartsLibrary/RC0603FR-074K7L_RESC1608X55/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/monostable/CommonPartsLibrary/RC0603FR-074K7L_RESC1608X55/working
   name: CommonPartsLibrary.pretty
+  oomp:
+    footprint_name: rc0603fr_074k7l_resc1608x55
+    library_name: commonpartslibrary
+    md5: 99177ee680761e5514807b9c3598e091
+    md5_10: 99177ee680
+    md5_5: '99177'
+    md5_6: 99177e
+    oomp_key: oomp_monostable_commonpartslibrary_rc0603fr_074k7l_resc1608x55
+    oomp_key_extra: oomp_footprint_monostable_commonpartslibrary_rc0603fr_074k7l_resc1608x55
+    oomp_key_full: oomp_footprint_monostable_commonpartslibrary_rc0603fr_074k7l_resc1608x55_99177e
+    oomp_key_simple: monostable_commonpartslibrary_rc0603fr_074k7l_resc1608x55
+    original_filename: CommonPartsLibrary.pretty/RC0603FR-074K7L_RESC1608X55.kicad_mod
+    owner_name: monostable
   oomp_key: oomp_monostable_commonpartslibrary_rc0603fr_074k7l_resc1608x55
+  oomp_key_full: oomp_footprint_monostable_commonpartslibrary_rc0603fr_074k7l_resc1608x55
   oomp_key_simple: monostable_commonpartslibrary_rc0603fr_074k7l_resc1608x55
   owner: monostable
   repo:

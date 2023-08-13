@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/kubiX89/kiCAD.pretty
     oomp_bot: footprints/kubix89_kicad_lmr14006_module/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kubix89_kicad_lmr14006_module/working
-    oomp_doc: footprints/footprints/kubiX89/kiCAD/LMR14006_MODULE/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kubiX89/kiCAD/LMR14006_MODULE/working
     oomp_src_flat: footprints_flat/footprints_flat/kubix89_kicad_lmr14006_module/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kubix89_kicad_lmr14006_module/working
-    oomp_src_folder: footprints_folder/footprints_folder/kubiX89/kiCAD/LMR14006_MODULE/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kubiX89/kiCAD/LMR14006_MODULE/working
   name: kiCAD.pretty
+  oomp:
+    footprint_name: lmr14006_module
+    library_name: kicad
+    md5: 17aaca106da8485f1f5573b968a1d7ad
+    md5_10: 17aaca106d
+    md5_5: 17aac
+    md5_6: 17aaca
+    oomp_key: oomp_kubix89_kicad_lmr14006_module
+    oomp_key_extra: oomp_footprint_kubix89_kicad_lmr14006_module
+    oomp_key_full: oomp_footprint_kubix89_kicad_lmr14006_module_17aaca
+    oomp_key_simple: kubix89_kicad_lmr14006_module
+    original_filename: kiCAD.pretty/LMR14006_MODULE.kicad_mod
+    owner_name: kubix89
   oomp_key: oomp_kubix89_kicad_lmr14006_module
+  oomp_key_full: oomp_footprint_kubix89_kicad_lmr14006_module
   oomp_key_simple: kubix89_kicad_lmr14006_module
   owner: kubiX89
   repo:

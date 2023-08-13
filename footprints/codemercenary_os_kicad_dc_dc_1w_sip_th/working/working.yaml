@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/codemercenary_os_kicad_dc_dc_1w_sip_th/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/codemercenary_os_kicad_dc_dc_1w_sip_th/working
-    oomp_doc: footprints/footprints/codemercenary-os/kicad/DC_DC_1W_SIP_TH/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/codemercenary-os/kicad/DC_DC_1W_SIP_TH/working
     oomp_src_flat: footprints_flat/footprints_flat/codemercenary_os_kicad_dc_dc_1w_sip_th/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/codemercenary_os_kicad_dc_dc_1w_sip_th/working
-    oomp_src_folder: footprints_folder/footprints_folder/codemercenary-os/kicad/DC_DC_1W_SIP_TH/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/codemercenary-os/kicad/DC_DC_1W_SIP_TH/working
   name: kicad.pretty
+  oomp:
+    footprint_name: dc_dc_1w_sip_th
+    library_name: kicad
+    md5: d040ad9c1ecf210f95c9c08500fd9b8f
+    md5_10: d040ad9c1e
+    md5_5: d040a
+    md5_6: d040ad
+    oomp_key: oomp_codemercenary_os_kicad_dc_dc_1w_sip_th
+    oomp_key_extra: oomp_footprint_codemercenary_os_kicad_dc_dc_1w_sip_th
+    oomp_key_full: oomp_footprint_codemercenary_os_kicad_dc_dc_1w_sip_th_d040ad
+    oomp_key_simple: codemercenary_os_kicad_dc_dc_1w_sip_th
+    original_filename: kicad.pretty/DC_DC_1W_SIP_TH.kicad_mod
+    owner_name: codemercenary_os
   oomp_key: oomp_codemercenary_os_kicad_dc_dc_1w_sip_th
+  oomp_key_full: oomp_footprint_codemercenary_os_kicad_dc_dc_1w_sip_th
   oomp_key_simple: codemercenary_os_kicad_dc_dc_1w_sip_th
   owner: codemercenary-os
   repo:

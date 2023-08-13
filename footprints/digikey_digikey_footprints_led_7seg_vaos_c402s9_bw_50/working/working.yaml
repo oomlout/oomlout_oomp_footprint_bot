@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/digikey_digikey_footprints_led_7seg_vaos_c402s9_bw_50/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_digikey_footprints_led_7seg_vaos_c402s9_bw_50/working
-    oomp_doc: footprints/footprints/digikey/digikey-footprints/LED_7Seg_VAOS-C402S9-BW_50/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/digikey/digikey-footprints/LED_7Seg_VAOS-C402S9-BW_50/working
     oomp_src_flat: footprints_flat/footprints_flat/digikey_digikey_footprints_led_7seg_vaos_c402s9_bw_50/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/digikey_digikey_footprints_led_7seg_vaos_c402s9_bw_50/working
-    oomp_src_folder: footprints_folder/footprints_folder/digikey/digikey-footprints/LED_7Seg_VAOS-C402S9-BW_50/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/digikey/digikey-footprints/LED_7Seg_VAOS-C402S9-BW_50/working
   name: digikey-kicad-library
+  oomp:
+    footprint_name: led_7seg_vaos_c402s9_bw_50
+    library_name: digikey_footprints
+    md5: 92ef7b861e57976d6f52a8a298c9e83d
+    md5_10: 92ef7b861e
+    md5_5: 92ef7
+    md5_6: 92ef7b
+    oomp_key: oomp_digikey_digikey_footprints_led_7seg_vaos_c402s9_bw_50
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_led_7seg_vaos_c402s9_bw_50
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_led_7seg_vaos_c402s9_bw_50_92ef7b
+    oomp_key_simple: digikey_digikey_footprints_led_7seg_vaos_c402s9_bw_50
+    original_filename: digikey-kicad-library/digikey-footprints.pretty/LED_7Seg_VAOS-C402S9-BW_50.kicad_mod
+    owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_led_7seg_vaos_c402s9_bw_50
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_led_7seg_vaos_c402s9_bw_50
   oomp_key_simple: digikey_digikey_footprints_led_7seg_vaos_c402s9_bw_50
   owner: digikey
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/christianlerche_lerchetech_lerche_to_3p/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/christianlerche_lerchetech_lerche_to_3p/working
-    oomp_doc: footprints/footprints/ChristianLerche/LercheTech/Lerche_TO-3p/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ChristianLerche/LercheTech/Lerche_TO-3p/working
     oomp_src_flat: footprints_flat/footprints_flat/christianlerche_lerchetech_lerche_to_3p/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/christianlerche_lerchetech_lerche_to_3p/working
-    oomp_src_folder: footprints_folder/footprints_folder/ChristianLerche/LercheTech/Lerche_TO-3p/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ChristianLerche/LercheTech/Lerche_TO-3p/working
   name: LercheTech_KiCAD
+  oomp:
+    footprint_name: lerche_to_3p
+    library_name: lerchetech
+    md5: 864d88298a17cfccac9dfe332f7d231e
+    md5_10: 864d88298a
+    md5_5: 864d8
+    md5_6: 864d88
+    oomp_key: oomp_christianlerche_lerchetech_lerche_to_3p
+    oomp_key_extra: oomp_footprint_christianlerche_lerchetech_lerche_to_3p
+    oomp_key_full: oomp_footprint_christianlerche_lerchetech_lerche_to_3p_864d88
+    oomp_key_simple: christianlerche_lerchetech_lerche_to_3p
+    original_filename: LercheTech_KiCAD/LercheTech.pretty/Lerche_TO-3p.kicad_mod
+    owner_name: christianlerche
   oomp_key: oomp_christianlerche_lerchetech_lerche_to_3p
+  oomp_key_full: oomp_footprint_christianlerche_lerchetech_lerche_to_3p
   oomp_key_simple: christianlerche_lerchetech_lerche_to_3p
   owner: ChristianLerche
   repo:

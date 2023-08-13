@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/granskog_dgs_connectors_atmel_isp_6p_2_54/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/granskog_dgs_connectors_atmel_isp_6p_2_54/working
-    oomp_doc: footprints/footprints/granskog/DGS_Connectors/Atmel_ISP_6P_2_54/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/granskog/DGS_Connectors/Atmel_ISP_6P_2_54/working
     oomp_src_flat: footprints_flat/footprints_flat/granskog_dgs_connectors_atmel_isp_6p_2_54/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/granskog_dgs_connectors_atmel_isp_6p_2_54/working
-    oomp_src_folder: footprints_folder/footprints_folder/granskog/DGS_Connectors/Atmel_ISP_6P_2_54/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/granskog/DGS_Connectors/Atmel_ISP_6P_2_54/working
   name: DGS_Connectors.pretty
+  oomp:
+    footprint_name: atmel_isp_6p_2_54
+    library_name: dgs_connectors
+    md5: af271ecc2cfbc9373ba7e08810b2cf59
+    md5_10: af271ecc2c
+    md5_5: af271
+    md5_6: af271e
+    oomp_key: oomp_granskog_dgs_connectors_atmel_isp_6p_2_54
+    oomp_key_extra: oomp_footprint_granskog_dgs_connectors_atmel_isp_6p_2_54
+    oomp_key_full: oomp_footprint_granskog_dgs_connectors_atmel_isp_6p_2_54_af271e
+    oomp_key_simple: granskog_dgs_connectors_atmel_isp_6p_2_54
+    original_filename: DGS_Connectors.pretty/Atmel_ISP_6P_2_54.kicad_mod
+    owner_name: granskog
   oomp_key: oomp_granskog_dgs_connectors_atmel_isp_6p_2_54
+  oomp_key_full: oomp_footprint_granskog_dgs_connectors_atmel_isp_6p_2_54
   oomp_key_simple: granskog_dgs_connectors_atmel_isp_6p_2_54
   owner: granskog
   repo:

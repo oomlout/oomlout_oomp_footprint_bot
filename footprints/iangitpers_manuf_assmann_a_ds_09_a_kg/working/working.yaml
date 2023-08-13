@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/Iangitpers/4a
     oomp_bot: footprints/iangitpers_manuf_assmann_a_ds_09_a_kg/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/iangitpers_manuf_assmann_a_ds_09_a_kg/working
-    oomp_doc: footprints/footprints/Iangitpers/manuf/ASSMANN-A-DS-09-A-KG/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Iangitpers/manuf/ASSMANN-A-DS-09-A-KG/working
     oomp_src_flat: footprints_flat/footprints_flat/iangitpers_manuf_assmann_a_ds_09_a_kg/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/iangitpers_manuf_assmann_a_ds_09_a_kg/working
-    oomp_src_folder: footprints_folder/footprints_folder/Iangitpers/manuf/ASSMANN-A-DS-09-A-KG/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Iangitpers/manuf/ASSMANN-A-DS-09-A-KG/working
   name: 4a
+  oomp:
+    footprint_name: assmann_a_ds_09_a_kg
+    library_name: manuf
+    md5: 43b96f204a5459297fdb9c50d20f5187
+    md5_10: 43b96f204a
+    md5_5: 43b96
+    md5_6: 43b96f
+    oomp_key: oomp_iangitpers_manuf_assmann_a_ds_09_a_kg
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_assmann_a_ds_09_a_kg
+    oomp_key_full: oomp_footprint_iangitpers_manuf_assmann_a_ds_09_a_kg_43b96f
+    oomp_key_simple: iangitpers_manuf_assmann_a_ds_09_a_kg
+    original_filename: 4a/manuf.pretty/ASSMANN-A-DS-09-A-KG.kicad_mod
+    owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_assmann_a_ds_09_a_kg
+  oomp_key_full: oomp_footprint_iangitpers_manuf_assmann_a_ds_09_a_kg
   oomp_key_simple: iangitpers_manuf_assmann_a_ds_09_a_kg
   owner: Iangitpers
   repo:

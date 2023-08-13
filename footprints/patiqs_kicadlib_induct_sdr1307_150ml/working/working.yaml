@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/patiqs_kicadlib_induct_sdr1307_150ml/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/patiqs_kicadlib_induct_sdr1307_150ml/working
-    oomp_doc: footprints/footprints/patiqs/KicadLib/INDUCT_SDR1307-150ML/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/patiqs/KicadLib/INDUCT_SDR1307-150ML/working
     oomp_src_flat: footprints_flat/footprints_flat/patiqs_kicadlib_induct_sdr1307_150ml/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/patiqs_kicadlib_induct_sdr1307_150ml/working
-    oomp_src_folder: footprints_folder/footprints_folder/patiqs/KicadLib/INDUCT_SDR1307-150ML/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/patiqs/KicadLib/INDUCT_SDR1307-150ML/working
   name: KicadLib.pretty
+  oomp:
+    footprint_name: induct_sdr1307_150ml
+    library_name: kicadlib
+    md5: d4d3bf5e7347c708f49db5beb89bd892
+    md5_10: d4d3bf5e73
+    md5_5: d4d3b
+    md5_6: d4d3bf
+    oomp_key: oomp_patiqs_kicadlib_induct_sdr1307_150ml
+    oomp_key_extra: oomp_footprint_patiqs_kicadlib_induct_sdr1307_150ml
+    oomp_key_full: oomp_footprint_patiqs_kicadlib_induct_sdr1307_150ml_d4d3bf
+    oomp_key_simple: patiqs_kicadlib_induct_sdr1307_150ml
+    original_filename: KicadLib.pretty/INDUCT_SDR1307-150ML.kicad_mod
+    owner_name: patiqs
   oomp_key: oomp_patiqs_kicadlib_induct_sdr1307_150ml
+  oomp_key_full: oomp_footprint_patiqs_kicadlib_induct_sdr1307_150ml
   oomp_key_simple: patiqs_kicadlib_induct_sdr1307_150ml
   owner: patiqs
   repo:

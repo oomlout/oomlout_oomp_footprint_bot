@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/kubiX89/kiCAD.pretty
     oomp_bot: footprints/kubix89_kicad_smc/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kubix89_kicad_smc/working
-    oomp_doc: footprints/footprints/kubiX89/kiCAD/SMC/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kubiX89/kiCAD/SMC/working
     oomp_src_flat: footprints_flat/footprints_flat/kubix89_kicad_smc/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kubix89_kicad_smc/working
-    oomp_src_folder: footprints_folder/footprints_folder/kubiX89/kiCAD/SMC/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kubiX89/kiCAD/SMC/working
   name: kiCAD.pretty
+  oomp:
+    footprint_name: smc
+    library_name: kicad
+    md5: 5d472795075feda02dbbbe245eade247
+    md5_10: 5d47279507
+    md5_5: 5d472
+    md5_6: 5d4727
+    oomp_key: oomp_kubix89_kicad_smc
+    oomp_key_extra: oomp_footprint_kubix89_kicad_smc
+    oomp_key_full: oomp_footprint_kubix89_kicad_smc_5d4727
+    oomp_key_simple: kubix89_kicad_smc
+    original_filename: kiCAD.pretty/SMC.kicad_mod
+    owner_name: kubix89
   oomp_key: oomp_kubix89_kicad_smc
+  oomp_key_full: oomp_footprint_kubix89_kicad_smc
   oomp_key_simple: kubix89_kicad_smc
   owner: kubiX89
   repo:

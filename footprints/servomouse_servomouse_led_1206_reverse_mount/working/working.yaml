@@ -13,14 +13,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/servomouse_servomouse_led_1206_reverse_mount/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/servomouse_servomouse_led_1206_reverse_mount/working
-    oomp_doc: footprints/footprints/servomouse/servomouse/LED_1206_Reverse_mount/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/servomouse/servomouse/LED_1206_Reverse_mount/working
     oomp_src_flat: footprints_flat/footprints_flat/servomouse_servomouse_led_1206_reverse_mount/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/servomouse_servomouse_led_1206_reverse_mount/working
-    oomp_src_folder: footprints_folder/footprints_folder/servomouse/servomouse/LED_1206_Reverse_mount/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/servomouse/servomouse/LED_1206_Reverse_mount/working
   name: servomouse.pretty
+  oomp:
+    footprint_name: led_1206_reverse_mount
+    library_name: servomouse
+    md5: 806fd6ef8d9fd933132573c4dfced542
+    md5_10: 806fd6ef8d
+    md5_5: 806fd
+    md5_6: 806fd6
+    oomp_key: oomp_servomouse_servomouse_led_1206_reverse_mount
+    oomp_key_extra: oomp_footprint_servomouse_servomouse_led_1206_reverse_mount
+    oomp_key_full: oomp_footprint_servomouse_servomouse_led_1206_reverse_mount_806fd6
+    oomp_key_simple: servomouse_servomouse_led_1206_reverse_mount
+    original_filename: servomouse.pretty/LED_1206_Reverse_mount.kicad_mod
+    owner_name: servomouse
   oomp_key: oomp_servomouse_servomouse_led_1206_reverse_mount
+  oomp_key_full: oomp_footprint_servomouse_servomouse_led_1206_reverse_mount
   oomp_key_simple: servomouse_servomouse_led_1206_reverse_mount
   owner: servomouse
   repo:

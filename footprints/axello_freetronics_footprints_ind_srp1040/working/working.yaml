@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/axello_freetronics_footprints_ind_srp1040/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/axello_freetronics_footprints_ind_srp1040/working
-    oomp_doc: footprints/footprints/axello/freetronics_footprints/IND_SRP1040/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/axello/freetronics_footprints/IND_SRP1040/working
     oomp_src_flat: footprints_flat/footprints_flat/axello_freetronics_footprints_ind_srp1040/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/axello_freetronics_footprints_ind_srp1040/working
-    oomp_src_folder: footprints_folder/footprints_folder/axello/freetronics_footprints/IND_SRP1040/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/axello/freetronics_footprints/IND_SRP1040/working
   name: kicad
+  oomp:
+    footprint_name: ind_srp1040
+    library_name: freetronics_footprints
+    md5: f6430eb493d33c3afc80a342fbd42559
+    md5_10: f6430eb493
+    md5_5: f6430
+    md5_6: f6430e
+    oomp_key: oomp_axello_freetronics_footprints_ind_srp1040
+    oomp_key_extra: oomp_footprint_axello_freetronics_footprints_ind_srp1040
+    oomp_key_full: oomp_footprint_axello_freetronics_footprints_ind_srp1040_f6430e
+    oomp_key_simple: axello_freetronics_footprints_ind_srp1040
+    original_filename: kicad/mods/freetronics_footprints.pretty/IND_SRP1040.kicad_mod
+    owner_name: axello
   oomp_key: oomp_axello_freetronics_footprints_ind_srp1040
+  oomp_key_full: oomp_footprint_axello_freetronics_footprints_ind_srp1040
   oomp_key_simple: axello_freetronics_footprints_ind_srp1040
   owner: axello
   repo:

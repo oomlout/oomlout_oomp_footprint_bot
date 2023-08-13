@@ -14,14 +14,24 @@
     github_src_repo: https://github.com/leptun/leptunKicadLib.pretty
     oomp_bot: footprints/leptun_leptunkicadlib_srp6530a_6r8m/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/leptun_leptunkicadlib_srp6530a_6r8m/working
-    oomp_doc: footprints/footprints/leptun/leptunKicadLib/SRP6530A-6R8M/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/leptun/leptunKicadLib/SRP6530A-6R8M/working
     oomp_src_flat: footprints_flat/footprints_flat/leptun_leptunkicadlib_srp6530a_6r8m/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/leptun_leptunkicadlib_srp6530a_6r8m/working
-    oomp_src_folder: footprints_folder/footprints_folder/leptun/leptunKicadLib/SRP6530A-6R8M/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/leptun/leptunKicadLib/SRP6530A-6R8M/working
   name: leptunKicadLib.pretty
+  oomp:
+    footprint_name: srp6530a_6r8m
+    library_name: leptunkicadlib
+    md5: c6fe3d06b32505cc3723b9a4b74dde62
+    md5_10: c6fe3d06b3
+    md5_5: c6fe3
+    md5_6: c6fe3d
+    oomp_key: oomp_leptun_leptunkicadlib_srp6530a_6r8m
+    oomp_key_extra: oomp_footprint_leptun_leptunkicadlib_srp6530a_6r8m
+    oomp_key_full: oomp_footprint_leptun_leptunkicadlib_srp6530a_6r8m_c6fe3d
+    oomp_key_simple: leptun_leptunkicadlib_srp6530a_6r8m
+    original_filename: leptunKicadLib.pretty/SRP6530A-6R8M.kicad_mod
+    owner_name: leptun
   oomp_key: oomp_leptun_leptunkicadlib_srp6530a_6r8m
+  oomp_key_full: oomp_footprint_leptun_leptunkicadlib_srp6530a_6r8m
   oomp_key_simple: leptun_leptunkicadlib_srp6530a_6r8m
   owner: leptun
   repo:

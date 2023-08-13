@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/suf_kicad_suf_connector_misc_conn_edge_solder_2,54_16/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/suf_kicad_suf_connector_misc_conn_edge_solder_2,54_16/working
-    oomp_doc: footprints/footprints/suf-KiCAD/suf_connector_misc/CONN_EDGE_SOLDER_2,54_16/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/suf-KiCAD/suf_connector_misc/CONN_EDGE_SOLDER_2,54_16/working
     oomp_src_flat: footprints_flat/footprints_flat/suf_kicad_suf_connector_misc_conn_edge_solder_2,54_16/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/suf_kicad_suf_connector_misc_conn_edge_solder_2,54_16/working
-    oomp_src_folder: footprints_folder/footprints_folder/suf-KiCAD/suf_connector_misc/CONN_EDGE_SOLDER_2,54_16/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/suf-KiCAD/suf_connector_misc/CONN_EDGE_SOLDER_2,54_16/working
   name: suf_connector_misc.pretty
+  oomp:
+    footprint_name: conn_edge_solder_2,54_16
+    library_name: suf_connector_misc
+    md5: 39775c884f49031eb83a15c5b6b02b7c
+    md5_10: 39775c884f
+    md5_5: '39775'
+    md5_6: 39775c
+    oomp_key: oomp_suf_kicad_suf_connector_misc_conn_edge_solder_2,54_16
+    oomp_key_extra: oomp_footprint_suf_kicad_suf_connector_misc_conn_edge_solder_2,54_16
+    oomp_key_full: oomp_footprint_suf_kicad_suf_connector_misc_conn_edge_solder_2,54_16_39775c
+    oomp_key_simple: suf_kicad_suf_connector_misc_conn_edge_solder_2,54_16
+    original_filename: suf_connector_misc.pretty/CONN_EDGE_SOLDER_2,54_16.kicad_mod
+    owner_name: suf_kicad
   oomp_key: oomp_suf_kicad_suf_connector_misc_conn_edge_solder_2,54_16
+  oomp_key_full: oomp_footprint_suf_kicad_suf_connector_misc_conn_edge_solder_2,54_16
   oomp_key_simple: suf_kicad_suf_connector_misc_conn_edge_solder_2,54_16
   owner: suf-KiCAD
   repo:

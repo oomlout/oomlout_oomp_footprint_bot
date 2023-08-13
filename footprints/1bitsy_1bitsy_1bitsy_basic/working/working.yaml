@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/1Bitsy/1bitsy-hardware-lib
     oomp_bot: footprints/1bitsy_1bitsy_1bitsy_basic/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/1bitsy_1bitsy_1bitsy_basic/working
-    oomp_doc: footprints/footprints/1Bitsy/1bitsy/1bitsy-basic/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/1Bitsy/1bitsy/1bitsy-basic/working
     oomp_src_flat: footprints_flat/footprints_flat/1bitsy_1bitsy_1bitsy_basic/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/1bitsy_1bitsy_1bitsy_basic/working
-    oomp_src_folder: footprints_folder/footprints_folder/1Bitsy/1bitsy/1bitsy-basic/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/1Bitsy/1bitsy/1bitsy-basic/working
   name: 1bitsy-hardware-lib
+  oomp:
+    footprint_name: 1bitsy_basic
+    library_name: 1bitsy
+    md5: 23316f7958ee3a24ac924525bb17108d
+    md5_10: 23316f7958
+    md5_5: '23316'
+    md5_6: 23316f
+    oomp_key: oomp_1bitsy_1bitsy_1bitsy_basic
+    oomp_key_extra: oomp_footprint_1bitsy_1bitsy_1bitsy_basic
+    oomp_key_full: oomp_footprint_1bitsy_1bitsy_1bitsy_basic_23316f
+    oomp_key_simple: 1bitsy_1bitsy_1bitsy_basic
+    original_filename: 1bitsy-hardware-lib/kicad/1bitsy.pretty/1bitsy-basic.kicad_mod
+    owner_name: 1bitsy
   oomp_key: oomp_1bitsy_1bitsy_1bitsy_basic
+  oomp_key_full: oomp_footprint_1bitsy_1bitsy_1bitsy_basic
   oomp_key_simple: 1bitsy_1bitsy_1bitsy_basic
   owner: 1Bitsy
   repo:

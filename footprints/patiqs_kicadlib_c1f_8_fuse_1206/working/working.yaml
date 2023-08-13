@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/patiqs_kicadlib_c1f_8_fuse_1206/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/patiqs_kicadlib_c1f_8_fuse_1206/working
-    oomp_doc: footprints/footprints/patiqs/KicadLib/C1F_8_FUSE_1206/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/patiqs/KicadLib/C1F_8_FUSE_1206/working
     oomp_src_flat: footprints_flat/footprints_flat/patiqs_kicadlib_c1f_8_fuse_1206/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/patiqs_kicadlib_c1f_8_fuse_1206/working
-    oomp_src_folder: footprints_folder/footprints_folder/patiqs/KicadLib/C1F_8_FUSE_1206/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/patiqs/KicadLib/C1F_8_FUSE_1206/working
   name: KicadLib.pretty
+  oomp:
+    footprint_name: c1f_8_fuse_1206
+    library_name: kicadlib
+    md5: b5d6c9d48789837eed188345c10ad4d7
+    md5_10: b5d6c9d487
+    md5_5: b5d6c
+    md5_6: b5d6c9
+    oomp_key: oomp_patiqs_kicadlib_c1f_8_fuse_1206
+    oomp_key_extra: oomp_footprint_patiqs_kicadlib_c1f_8_fuse_1206
+    oomp_key_full: oomp_footprint_patiqs_kicadlib_c1f_8_fuse_1206_b5d6c9
+    oomp_key_simple: patiqs_kicadlib_c1f_8_fuse_1206
+    original_filename: KicadLib.pretty/C1F_8_FUSE_1206.kicad_mod
+    owner_name: patiqs
   oomp_key: oomp_patiqs_kicadlib_c1f_8_fuse_1206
+  oomp_key_full: oomp_footprint_patiqs_kicadlib_c1f_8_fuse_1206
   oomp_key_simple: patiqs_kicadlib_c1f_8_fuse_1206
   owner: patiqs
   repo:

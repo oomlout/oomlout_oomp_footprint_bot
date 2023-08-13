@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/joanthespark_switch_keyboard_kailh_sw_kailh_choc_v2_6_00u_offset/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/joanthespark_switch_keyboard_kailh_sw_kailh_choc_v2_6_00u_offset/working
-    oomp_doc: footprints/footprints/JoanTheSpark/Switch_Keyboard_Kailh/SW_Kailh_Choc_V2_6.00u_Offset/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/JoanTheSpark/Switch_Keyboard_Kailh/SW_Kailh_Choc_V2_6.00u_Offset/working
     oomp_src_flat: footprints_flat/footprints_flat/joanthespark_switch_keyboard_kailh_sw_kailh_choc_v2_6_00u_offset/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/joanthespark_switch_keyboard_kailh_sw_kailh_choc_v2_6_00u_offset/working
-    oomp_src_folder: footprints_folder/footprints_folder/JoanTheSpark/Switch_Keyboard_Kailh/SW_Kailh_Choc_V2_6.00u_Offset/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/JoanTheSpark/Switch_Keyboard_Kailh/SW_Kailh_Choc_V2_6.00u_Offset/working
   name: KiCAD
+  oomp:
+    footprint_name: sw_kailh_choc_v2_6_00u_offset
+    library_name: switch_keyboard_kailh
+    md5: c7308cd231c6218e1c6d1abd9d1344ce
+    md5_10: c7308cd231
+    md5_5: c7308
+    md5_6: c7308c
+    oomp_key: oomp_joanthespark_switch_keyboard_kailh_sw_kailh_choc_v2_6_00u_offset
+    oomp_key_extra: oomp_footprint_joanthespark_switch_keyboard_kailh_sw_kailh_choc_v2_6_00u_offset
+    oomp_key_full: oomp_footprint_joanthespark_switch_keyboard_kailh_sw_kailh_choc_v2_6_00u_offset_c7308c
+    oomp_key_simple: joanthespark_switch_keyboard_kailh_sw_kailh_choc_v2_6_00u_offset
+    original_filename: KiCAD/6.0/3rdparty/footprints/com_github_perigoso_keyswitch-kicad-library/Switch_Keyboard_Kailh.pretty/SW_Kailh_Choc_V2_6.00u_Offset.kicad_mod
+    owner_name: joanthespark
   oomp_key: oomp_joanthespark_switch_keyboard_kailh_sw_kailh_choc_v2_6_00u_offset
+  oomp_key_full: oomp_footprint_joanthespark_switch_keyboard_kailh_sw_kailh_choc_v2_6_00u_offset
   oomp_key_simple: joanthespark_switch_keyboard_kailh_sw_kailh_choc_v2_6_00u_offset
   owner: JoanTheSpark
   repo:

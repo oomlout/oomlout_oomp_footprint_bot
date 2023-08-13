@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/f6itu_omron_g5le_omron_g5le/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/f6itu_omron_g5le_omron_g5le/working
-    oomp_doc: footprints/footprints/F6ITU/Omron_G5LE/Omron_G5LE/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/F6ITU/Omron_G5LE/Omron_G5LE/working
     oomp_src_flat: footprints_flat/footprints_flat/f6itu_omron_g5le_omron_g5le/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/f6itu_omron_g5le_omron_g5le/working
-    oomp_src_folder: footprints_folder/footprints_folder/F6ITU/Omron_G5LE/Omron_G5LE/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/F6ITU/Omron_G5LE/Omron_G5LE/working
   name: Kicad_Modules
+  oomp:
+    footprint_name: omron_g5le
+    library_name: omron_g5le
+    md5: 320ad935645be183f0936025a050f2fa
+    md5_10: 320ad93564
+    md5_5: 320ad
+    md5_6: 320ad9
+    oomp_key: oomp_f6itu_omron_g5le_omron_g5le
+    oomp_key_extra: oomp_footprint_f6itu_omron_g5le_omron_g5le
+    oomp_key_full: oomp_footprint_f6itu_omron_g5le_omron_g5le_320ad9
+    oomp_key_simple: f6itu_omron_g5le_omron_g5le
+    original_filename: Kicad_Modules/Omron_G5LE.pretty/Omron_G5LE.kicad_mod
+    owner_name: f6itu
   oomp_key: oomp_f6itu_omron_g5le_omron_g5le
+  oomp_key_full: oomp_footprint_f6itu_omron_g5le_omron_g5le
   oomp_key_simple: f6itu_omron_g5le_omron_g5le
   owner: F6ITU
   repo:

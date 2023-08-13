@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/AcheronProject/acheron_Components.pretty
     oomp_bot: footprints/acheronproject_acheron_components_ssal220100/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/acheronproject_acheron_components_ssal220100/working
-    oomp_doc: footprints/footprints/AcheronProject/acheron_Components/SSAL220100/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/AcheronProject/acheron_Components/SSAL220100/working
     oomp_src_flat: footprints_flat/footprints_flat/acheronproject_acheron_components_ssal220100/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/acheronproject_acheron_components_ssal220100/working
-    oomp_src_folder: footprints_folder/footprints_folder/AcheronProject/acheron_Components/SSAL220100/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/AcheronProject/acheron_Components/SSAL220100/working
   name: acheron_Components.pretty
+  oomp:
+    footprint_name: ssal220100
+    library_name: acheron_components
+    md5: 8facba886fed798d988360a66b7cdad2
+    md5_10: 8facba886f
+    md5_5: 8facb
+    md5_6: 8facba
+    oomp_key: oomp_acheronproject_acheron_components_ssal220100
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_components_ssal220100
+    oomp_key_full: oomp_footprint_acheronproject_acheron_components_ssal220100_8facba
+    oomp_key_simple: acheronproject_acheron_components_ssal220100
+    original_filename: acheron_Components.pretty/SSAL220100.kicad_mod
+    owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_components_ssal220100
+  oomp_key_full: oomp_footprint_acheronproject_acheron_components_ssal220100
   oomp_key_simple: acheronproject_acheron_components_ssal220100
   owner: AcheronProject
   repo:

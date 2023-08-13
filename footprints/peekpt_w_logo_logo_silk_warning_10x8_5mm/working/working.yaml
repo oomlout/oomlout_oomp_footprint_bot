@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/peekpt_w_logo_logo_silk_warning_10x8_5mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/peekpt_w_logo_logo_silk_warning_10x8_5mm/working
-    oomp_doc: footprints/footprints/peekpt/w_logo/Logo_silk_warning_10x8.5mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/peekpt/w_logo/Logo_silk_warning_10x8.5mm/working
     oomp_src_flat: footprints_flat/footprints_flat/peekpt_w_logo_logo_silk_warning_10x8_5mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/peekpt_w_logo_logo_silk_warning_10x8_5mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/peekpt/w_logo/Logo_silk_warning_10x8.5mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/peekpt/w_logo/Logo_silk_warning_10x8.5mm/working
   name: kicad_smisioto
+  oomp:
+    footprint_name: logo_silk_warning_10x8_5mm
+    library_name: w_logo
+    md5: af8744d67ec903317718846a6e76db1b
+    md5_10: af8744d67e
+    md5_5: af874
+    md5_6: af8744
+    oomp_key: oomp_peekpt_w_logo_logo_silk_warning_10x8_5mm
+    oomp_key_extra: oomp_footprint_peekpt_w_logo_logo_silk_warning_10x8_5mm
+    oomp_key_full: oomp_footprint_peekpt_w_logo_logo_silk_warning_10x8_5mm_af8744
+    oomp_key_simple: peekpt_w_logo_logo_silk_warning_10x8_5mm
+    original_filename: kicad_smisioto/modules/walter/w_logo.pretty/Logo_silk_warning_10x8.5mm.kicad_mod
+    owner_name: peekpt
   oomp_key: oomp_peekpt_w_logo_logo_silk_warning_10x8_5mm
+  oomp_key_full: oomp_footprint_peekpt_w_logo_logo_silk_warning_10x8_5mm
   oomp_key_simple: peekpt_w_logo_logo_silk_warning_10x8_5mm
   owner: peekpt
   repo:

@@ -1,5 +1,8 @@
-- error: Expression does not have the correct type
-  file: kicad-modules/Button_Switch_SMD_Extra.pretty/Snaptron_Dome_S-series.kicad_mod
+- file: kicad-modules/Button_Switch_SMD_Extra.pretty/Snaptron_Dome_S-series.kicad_mod
+  footprint:
+    description: null
+    libraryLink: Snaptron_Dome_S-series
+    number_of_pads: 6
   footprint_library_directory: footprint_library_owner/arturo182_kicad-modules
   footprint_library_directory_flat: footprints_flat/arturo182_button_switch_smd_extra_snaptron_dome_s_series/working
   github_path: http://github.com/arturo182/kicad-modules/blob/master/Button_Switch_SMD_Extra.pretty/Snaptron_Dome_S-series.kicad_mod
@@ -10,14 +13,24 @@
     github_src_repo: https://github.com/arturo182/kicad-modules
     oomp_bot: footprints/arturo182_button_switch_smd_extra_snaptron_dome_s_series/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/arturo182_button_switch_smd_extra_snaptron_dome_s_series/working
-    oomp_doc: footprints/footprints/arturo182/Button_Switch_SMD_Extra/Snaptron_Dome_S-series/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/arturo182/Button_Switch_SMD_Extra/Snaptron_Dome_S-series/working
     oomp_src_flat: footprints_flat/footprints_flat/arturo182_button_switch_smd_extra_snaptron_dome_s_series/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/arturo182_button_switch_smd_extra_snaptron_dome_s_series/working
-    oomp_src_folder: footprints_folder/footprints_folder/arturo182/Button_Switch_SMD_Extra/Snaptron_Dome_S-series/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/arturo182/Button_Switch_SMD_Extra/Snaptron_Dome_S-series/working
   name: kicad-modules
+  oomp:
+    footprint_name: snaptron_dome_s_series
+    library_name: button_switch_smd_extra
+    md5: 62ece0e5593e467ede2bdb0fa9be6bcb
+    md5_10: 62ece0e559
+    md5_5: 62ece
+    md5_6: 62ece0
+    oomp_key: oomp_arturo182_button_switch_smd_extra_snaptron_dome_s_series
+    oomp_key_extra: oomp_footprint_arturo182_button_switch_smd_extra_snaptron_dome_s_series
+    oomp_key_full: oomp_footprint_arturo182_button_switch_smd_extra_snaptron_dome_s_series_62ece0
+    oomp_key_simple: arturo182_button_switch_smd_extra_snaptron_dome_s_series
+    original_filename: kicad-modules/Button_Switch_SMD_Extra.pretty/Snaptron_Dome_S-series.kicad_mod
+    owner_name: arturo182
   oomp_key: oomp_arturo182_button_switch_smd_extra_snaptron_dome_s_series
+  oomp_key_full: oomp_footprint_arturo182_button_switch_smd_extra_snaptron_dome_s_series
   oomp_key_simple: arturo182_button_switch_smd_extra_snaptron_dome_s_series
   owner: arturo182
   repo:

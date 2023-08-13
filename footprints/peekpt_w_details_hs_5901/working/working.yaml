@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/peekpt_w_details_hs_5901/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/peekpt_w_details_hs_5901/working
-    oomp_doc: footprints/footprints/peekpt/w_details/hs_5901/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/peekpt/w_details/hs_5901/working
     oomp_src_flat: footprints_flat/footprints_flat/peekpt_w_details_hs_5901/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/peekpt_w_details_hs_5901/working
-    oomp_src_folder: footprints_folder/footprints_folder/peekpt/w_details/hs_5901/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/peekpt/w_details/hs_5901/working
   name: kicad_smisioto
+  oomp:
+    footprint_name: hs_5901
+    library_name: w_details
+    md5: 4572301a5678ea3996132aac52c0474b
+    md5_10: 4572301a56
+    md5_5: '45723'
+    md5_6: '457230'
+    oomp_key: oomp_peekpt_w_details_hs_5901
+    oomp_key_extra: oomp_footprint_peekpt_w_details_hs_5901
+    oomp_key_full: oomp_footprint_peekpt_w_details_hs_5901_457230
+    oomp_key_simple: peekpt_w_details_hs_5901
+    original_filename: kicad_smisioto/modules/walter/w_details.pretty/hs_5901.kicad_mod
+    owner_name: peekpt
   oomp_key: oomp_peekpt_w_details_hs_5901
+  oomp_key_full: oomp_footprint_peekpt_w_details_hs_5901
   oomp_key_simple: peekpt_w_details_hs_5901
   owner: peekpt
   repo:

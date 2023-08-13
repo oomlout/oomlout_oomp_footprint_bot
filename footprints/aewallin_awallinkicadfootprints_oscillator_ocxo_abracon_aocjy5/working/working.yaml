@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/aewallin/awallinKiCadFootprints.pretty
     oomp_bot: footprints/aewallin_awallinkicadfootprints_oscillator_ocxo_abracon_aocjy5/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/aewallin_awallinkicadfootprints_oscillator_ocxo_abracon_aocjy5/working
-    oomp_doc: footprints/footprints/aewallin/awallinKiCadFootprints/Oscillator_OCXO_Abracon_AOCJY5/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/aewallin/awallinKiCadFootprints/Oscillator_OCXO_Abracon_AOCJY5/working
     oomp_src_flat: footprints_flat/footprints_flat/aewallin_awallinkicadfootprints_oscillator_ocxo_abracon_aocjy5/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/aewallin_awallinkicadfootprints_oscillator_ocxo_abracon_aocjy5/working
-    oomp_src_folder: footprints_folder/footprints_folder/aewallin/awallinKiCadFootprints/Oscillator_OCXO_Abracon_AOCJY5/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/aewallin/awallinKiCadFootprints/Oscillator_OCXO_Abracon_AOCJY5/working
   name: awallinKiCadFootprints.pretty
+  oomp:
+    footprint_name: oscillator_ocxo_abracon_aocjy5
+    library_name: awallinkicadfootprints
+    md5: 8f0eca0a1bfd1b2a07ef8981967e0ef2
+    md5_10: 8f0eca0a1b
+    md5_5: 8f0ec
+    md5_6: 8f0eca
+    oomp_key: oomp_aewallin_awallinkicadfootprints_oscillator_ocxo_abracon_aocjy5
+    oomp_key_extra: oomp_footprint_aewallin_awallinkicadfootprints_oscillator_ocxo_abracon_aocjy5
+    oomp_key_full: oomp_footprint_aewallin_awallinkicadfootprints_oscillator_ocxo_abracon_aocjy5_8f0eca
+    oomp_key_simple: aewallin_awallinkicadfootprints_oscillator_ocxo_abracon_aocjy5
+    original_filename: awallinKiCadFootprints.pretty/Oscillator_OCXO_Abracon_AOCJY5.kicad_mod
+    owner_name: aewallin
   oomp_key: oomp_aewallin_awallinkicadfootprints_oscillator_ocxo_abracon_aocjy5
+  oomp_key_full: oomp_footprint_aewallin_awallinkicadfootprints_oscillator_ocxo_abracon_aocjy5
   oomp_key_simple: aewallin_awallinkicadfootprints_oscillator_ocxo_abracon_aocjy5
   owner: aewallin
   repo:

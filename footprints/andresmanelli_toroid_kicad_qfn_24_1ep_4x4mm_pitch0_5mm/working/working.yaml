@@ -14,14 +14,24 @@
     github_src_repo: https://github.com/andresmanelli/TOROID-KiCad.pretty
     oomp_bot: footprints/andresmanelli_toroid_kicad_qfn_24_1ep_4x4mm_pitch0_5mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/andresmanelli_toroid_kicad_qfn_24_1ep_4x4mm_pitch0_5mm/working
-    oomp_doc: footprints/footprints/andresmanelli/TOROID-KiCad/QFN-24-1EP_4x4mm_Pitch0.5mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/andresmanelli/TOROID-KiCad/QFN-24-1EP_4x4mm_Pitch0.5mm/working
     oomp_src_flat: footprints_flat/footprints_flat/andresmanelli_toroid_kicad_qfn_24_1ep_4x4mm_pitch0_5mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/andresmanelli_toroid_kicad_qfn_24_1ep_4x4mm_pitch0_5mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/andresmanelli/TOROID-KiCad/QFN-24-1EP_4x4mm_Pitch0.5mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/andresmanelli/TOROID-KiCad/QFN-24-1EP_4x4mm_Pitch0.5mm/working
   name: TOROID-KiCad.pretty
+  oomp:
+    footprint_name: qfn_24_1ep_4x4mm_pitch0_5mm
+    library_name: toroid_kicad
+    md5: cdf6122111198252690f03a36b813cc0
+    md5_10: cdf6122111
+    md5_5: cdf61
+    md5_6: cdf612
+    oomp_key: oomp_andresmanelli_toroid_kicad_qfn_24_1ep_4x4mm_pitch0_5mm
+    oomp_key_extra: oomp_footprint_andresmanelli_toroid_kicad_qfn_24_1ep_4x4mm_pitch0_5mm
+    oomp_key_full: oomp_footprint_andresmanelli_toroid_kicad_qfn_24_1ep_4x4mm_pitch0_5mm_cdf612
+    oomp_key_simple: andresmanelli_toroid_kicad_qfn_24_1ep_4x4mm_pitch0_5mm
+    original_filename: TOROID-KiCad.pretty/QFN-24-1EP_4x4mm_Pitch0.5mm.kicad_mod
+    owner_name: andresmanelli
   oomp_key: oomp_andresmanelli_toroid_kicad_qfn_24_1ep_4x4mm_pitch0_5mm
+  oomp_key_full: oomp_footprint_andresmanelli_toroid_kicad_qfn_24_1ep_4x4mm_pitch0_5mm
   oomp_key_simple: andresmanelli_toroid_kicad_qfn_24_1ep_4x4mm_pitch0_5mm
   owner: andresmanelli
   repo:

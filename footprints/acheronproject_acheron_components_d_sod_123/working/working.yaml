@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/AcheronProject/acheron_Components.pretty
     oomp_bot: footprints/acheronproject_acheron_components_d_sod_123/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/acheronproject_acheron_components_d_sod_123/working
-    oomp_doc: footprints/footprints/AcheronProject/acheron_Components/D_SOD-123/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/AcheronProject/acheron_Components/D_SOD-123/working
     oomp_src_flat: footprints_flat/footprints_flat/acheronproject_acheron_components_d_sod_123/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/acheronproject_acheron_components_d_sod_123/working
-    oomp_src_folder: footprints_folder/footprints_folder/AcheronProject/acheron_Components/D_SOD-123/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/AcheronProject/acheron_Components/D_SOD-123/working
   name: acheron_Components.pretty
+  oomp:
+    footprint_name: d_sod_123
+    library_name: acheron_components
+    md5: 6f1441b424483eee758e888e88acb366
+    md5_10: 6f1441b424
+    md5_5: 6f144
+    md5_6: 6f1441
+    oomp_key: oomp_acheronproject_acheron_components_d_sod_123
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_components_d_sod_123
+    oomp_key_full: oomp_footprint_acheronproject_acheron_components_d_sod_123_6f1441
+    oomp_key_simple: acheronproject_acheron_components_d_sod_123
+    original_filename: acheron_Components.pretty/D_SOD-123.kicad_mod
+    owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_components_d_sod_123
+  oomp_key_full: oomp_footprint_acheronproject_acheron_components_d_sod_123
   oomp_key_simple: acheronproject_acheron_components_d_sod_123
   owner: AcheronProject
   repo:

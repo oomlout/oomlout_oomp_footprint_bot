@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/aaarsene/MX_19mm.pretty
     oomp_bot: footprints/aaarsene_mx_19mm_mx_19mm_1_25u_noled/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/aaarsene_mx_19mm_mx_19mm_1_25u_noled/working
-    oomp_doc: footprints/footprints/aaarsene/MX_19mm/MX_19mm-1.25U-NoLED/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/aaarsene/MX_19mm/MX_19mm-1.25U-NoLED/working
     oomp_src_flat: footprints_flat/footprints_flat/aaarsene_mx_19mm_mx_19mm_1_25u_noled/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/aaarsene_mx_19mm_mx_19mm_1_25u_noled/working
-    oomp_src_folder: footprints_folder/footprints_folder/aaarsene/MX_19mm/MX_19mm-1.25U-NoLED/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/aaarsene/MX_19mm/MX_19mm-1.25U-NoLED/working
   name: MX_19mm.pretty
+  oomp:
+    footprint_name: mx_19mm_1_25u_noled
+    library_name: mx_19mm
+    md5: fc2f534aaeb6f266393a45a360353009
+    md5_10: fc2f534aae
+    md5_5: fc2f5
+    md5_6: fc2f53
+    oomp_key: oomp_aaarsene_mx_19mm_mx_19mm_1_25u_noled
+    oomp_key_extra: oomp_footprint_aaarsene_mx_19mm_mx_19mm_1_25u_noled
+    oomp_key_full: oomp_footprint_aaarsene_mx_19mm_mx_19mm_1_25u_noled_fc2f53
+    oomp_key_simple: aaarsene_mx_19mm_mx_19mm_1_25u_noled
+    original_filename: MX_19mm.pretty/MX_19mm-1.25U-NoLED.kicad_mod
+    owner_name: aaarsene
   oomp_key: oomp_aaarsene_mx_19mm_mx_19mm_1_25u_noled
+  oomp_key_full: oomp_footprint_aaarsene_mx_19mm_mx_19mm_1_25u_noled
   oomp_key_simple: aaarsene_mx_19mm_mx_19mm_1_25u_noled
   owner: aaarsene
   repo:

@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_cp_tantalum_case_v_eia_7361_38_reflow_cp_tantalum_case_v_eia_7361_38_reflow/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_cp_tantalum_case_v_eia_7361_38_reflow_cp_tantalum_case_v_eia_7361_38_reflow/working
-    oomp_doc: footprints/footprints/brunoeagle/CP_Tantalum_Case-V_EIA-7361-38_Reflow.kicad_mod/CP_Tantalum_Case-V_EIA-7361-38_Reflow/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/CP_Tantalum_Case-V_EIA-7361-38_Reflow.kicad_mod/CP_Tantalum_Case-V_EIA-7361-38_Reflow/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_cp_tantalum_case_v_eia_7361_38_reflow_cp_tantalum_case_v_eia_7361_38_reflow/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_cp_tantalum_case_v_eia_7361_38_reflow_cp_tantalum_case_v_eia_7361_38_reflow/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/CP_Tantalum_Case-V_EIA-7361-38_Reflow.kicad_mod/CP_Tantalum_Case-V_EIA-7361-38_Reflow/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/CP_Tantalum_Case-V_EIA-7361-38_Reflow.kicad_mod/CP_Tantalum_Case-V_EIA-7361-38_Reflow/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: cp_tantalum_case_v_eia_7361_38_reflow
+    library_name: cp_tantalum_case_v_eia_7361_38_reflow_kicad_mod
+    md5: 80022da8e658d0974974f7ca6500da29
+    md5_10: 80022da8e6
+    md5_5: '80022'
+    md5_6: 80022d
+    oomp_key: oomp_brunoeagle_cp_tantalum_case_v_eia_7361_38_reflow_cp_tantalum_case_v_eia_7361_38_reflow
+    oomp_key_extra: oomp_footprint_brunoeagle_cp_tantalum_case_v_eia_7361_38_reflow_cp_tantalum_case_v_eia_7361_38_reflow
+    oomp_key_full: oomp_footprint_brunoeagle_cp_tantalum_case_v_eia_7361_38_reflow_cp_tantalum_case_v_eia_7361_38_reflow_80022d
+    oomp_key_simple: brunoeagle_cp_tantalum_case_v_eia_7361_38_reflow_cp_tantalum_case_v_eia_7361_38_reflow
+    original_filename: kicad-open-modules/CP_Tantalum_Case-V_EIA-7361-38_Reflow.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_cp_tantalum_case_v_eia_7361_38_reflow_cp_tantalum_case_v_eia_7361_38_reflow
+  oomp_key_full: oomp_footprint_brunoeagle_cp_tantalum_case_v_eia_7361_38_reflow_cp_tantalum_case_v_eia_7361_38_reflow
   oomp_key_simple: brunoeagle_cp_tantalum_case_v_eia_7361_38_reflow_cp_tantalum_case_v_eia_7361_38_reflow
   owner: brunoeagle
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/nqbit_nqbit_gh_1x8_top/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nqbit_nqbit_gh_1x8_top/working
-    oomp_doc: footprints/footprints/nqbit/NQBit/GH_1x8_TOP/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/nqbit/NQBit/GH_1x8_TOP/working
     oomp_src_flat: footprints_flat/footprints_flat/nqbit_nqbit_gh_1x8_top/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nqbit_nqbit_gh_1x8_top/working
-    oomp_src_folder: footprints_folder/footprints_folder/nqbit/NQBit/GH_1x8_TOP/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/nqbit/NQBit/GH_1x8_TOP/working
   name: NQBit.pretty
+  oomp:
+    footprint_name: gh_1x8_top
+    library_name: nqbit
+    md5: e1192997da5c1eaa3bcff236ef59798a
+    md5_10: e1192997da
+    md5_5: e1192
+    md5_6: e11929
+    oomp_key: oomp_nqbit_nqbit_gh_1x8_top
+    oomp_key_extra: oomp_footprint_nqbit_nqbit_gh_1x8_top
+    oomp_key_full: oomp_footprint_nqbit_nqbit_gh_1x8_top_e11929
+    oomp_key_simple: nqbit_nqbit_gh_1x8_top
+    original_filename: NQBit.pretty/GH_1x8_TOP.kicad_mod
+    owner_name: nqbit
   oomp_key: oomp_nqbit_nqbit_gh_1x8_top
+  oomp_key_full: oomp_footprint_nqbit_nqbit_gh_1x8_top
   oomp_key_simple: nqbit_nqbit_gh_1x8_top
   owner: nqbit
   repo:

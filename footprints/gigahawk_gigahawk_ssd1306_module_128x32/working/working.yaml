@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/gigahawk_gigahawk_ssd1306_module_128x32/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/gigahawk_gigahawk_ssd1306_module_128x32/working
-    oomp_doc: footprints/footprints/Gigahawk/Gigahawk/SSD1306_MODULE_128x32/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Gigahawk/Gigahawk/SSD1306_MODULE_128x32/working
     oomp_src_flat: footprints_flat/footprints_flat/gigahawk_gigahawk_ssd1306_module_128x32/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/gigahawk_gigahawk_ssd1306_module_128x32/working
-    oomp_src_folder: footprints_folder/footprints_folder/Gigahawk/Gigahawk/SSD1306_MODULE_128x32/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Gigahawk/Gigahawk/SSD1306_MODULE_128x32/working
   name: Gigahawk.pretty
+  oomp:
+    footprint_name: ssd1306_module_128x32
+    library_name: gigahawk
+    md5: abf4fbd3a3c745526a0fd424a425583a
+    md5_10: abf4fbd3a3
+    md5_5: abf4f
+    md5_6: abf4fb
+    oomp_key: oomp_gigahawk_gigahawk_ssd1306_module_128x32
+    oomp_key_extra: oomp_footprint_gigahawk_gigahawk_ssd1306_module_128x32
+    oomp_key_full: oomp_footprint_gigahawk_gigahawk_ssd1306_module_128x32_abf4fb
+    oomp_key_simple: gigahawk_gigahawk_ssd1306_module_128x32
+    original_filename: Gigahawk.pretty/SSD1306_MODULE_128x32.kicad_mod
+    owner_name: gigahawk
   oomp_key: oomp_gigahawk_gigahawk_ssd1306_module_128x32
+  oomp_key_full: oomp_footprint_gigahawk_gigahawk_ssd1306_module_128x32
   oomp_key_simple: gigahawk_gigahawk_ssd1306_module_128x32
   owner: Gigahawk
   repo:

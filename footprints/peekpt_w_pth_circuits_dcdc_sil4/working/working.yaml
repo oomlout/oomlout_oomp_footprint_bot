@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/peekpt_w_pth_circuits_dcdc_sil4/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/peekpt_w_pth_circuits_dcdc_sil4/working
-    oomp_doc: footprints/footprints/peekpt/w_pth_circuits/dcdc_sil4/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/peekpt/w_pth_circuits/dcdc_sil4/working
     oomp_src_flat: footprints_flat/footprints_flat/peekpt_w_pth_circuits_dcdc_sil4/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/peekpt_w_pth_circuits_dcdc_sil4/working
-    oomp_src_folder: footprints_folder/footprints_folder/peekpt/w_pth_circuits/dcdc_sil4/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/peekpt/w_pth_circuits/dcdc_sil4/working
   name: kicad_smisioto
+  oomp:
+    footprint_name: dcdc_sil4
+    library_name: w_pth_circuits
+    md5: e6353ab679f882843de1f80501f8d0b8
+    md5_10: e6353ab679
+    md5_5: e6353
+    md5_6: e6353a
+    oomp_key: oomp_peekpt_w_pth_circuits_dcdc_sil4
+    oomp_key_extra: oomp_footprint_peekpt_w_pth_circuits_dcdc_sil4
+    oomp_key_full: oomp_footprint_peekpt_w_pth_circuits_dcdc_sil4_e6353a
+    oomp_key_simple: peekpt_w_pth_circuits_dcdc_sil4
+    original_filename: kicad_smisioto/modules/walter/w_pth_circuits.pretty/dcdc_sil4.kicad_mod
+    owner_name: peekpt
   oomp_key: oomp_peekpt_w_pth_circuits_dcdc_sil4
+  oomp_key_full: oomp_footprint_peekpt_w_pth_circuits_dcdc_sil4
   oomp_key_simple: peekpt_w_pth_circuits_dcdc_sil4
   owner: peekpt
   repo:

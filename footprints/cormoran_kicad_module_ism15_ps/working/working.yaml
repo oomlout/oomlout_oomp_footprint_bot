@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cormoran_kicad_module_ism15_ps/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cormoran_kicad_module_ism15_ps/working
-    oomp_doc: footprints/footprints/cormoran/kicad/MODULE_ISM15_PS/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cormoran/kicad/MODULE_ISM15_PS/working
     oomp_src_flat: footprints_flat/footprints_flat/cormoran_kicad_module_ism15_ps/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cormoran_kicad_module_ism15_ps/working
-    oomp_src_folder: footprints_folder/footprints_folder/cormoran/kicad/MODULE_ISM15_PS/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cormoran/kicad/MODULE_ISM15_PS/working
   name: kicad.pretty
+  oomp:
+    footprint_name: module_ism15_ps
+    library_name: kicad
+    md5: 3f5cdff488d6f95a56670e9e935b4a61
+    md5_10: 3f5cdff488
+    md5_5: 3f5cd
+    md5_6: 3f5cdf
+    oomp_key: oomp_cormoran_kicad_module_ism15_ps
+    oomp_key_extra: oomp_footprint_cormoran_kicad_module_ism15_ps
+    oomp_key_full: oomp_footprint_cormoran_kicad_module_ism15_ps_3f5cdf
+    oomp_key_simple: cormoran_kicad_module_ism15_ps
+    original_filename: kicad.pretty/MODULE_ISM15_PS.kicad_mod
+    owner_name: cormoran
   oomp_key: oomp_cormoran_kicad_module_ism15_ps
+  oomp_key_full: oomp_footprint_cormoran_kicad_module_ism15_ps
   oomp_key_simple: cormoran_kicad_module_ism15_ps
   owner: cormoran
   repo:

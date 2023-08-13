@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/codemercenary_os_kicad_diode_do_41/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/codemercenary_os_kicad_diode_do_41/working
-    oomp_doc: footprints/footprints/codemercenary-os/kicad/Diode_DO-41/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/codemercenary-os/kicad/Diode_DO-41/working
     oomp_src_flat: footprints_flat/footprints_flat/codemercenary_os_kicad_diode_do_41/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/codemercenary_os_kicad_diode_do_41/working
-    oomp_src_folder: footprints_folder/footprints_folder/codemercenary-os/kicad/Diode_DO-41/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/codemercenary-os/kicad/Diode_DO-41/working
   name: kicad.pretty
+  oomp:
+    footprint_name: diode_do_41
+    library_name: kicad
+    md5: 53cc142a14207c50af14f020da9d601b
+    md5_10: 53cc142a14
+    md5_5: 53cc1
+    md5_6: 53cc14
+    oomp_key: oomp_codemercenary_os_kicad_diode_do_41
+    oomp_key_extra: oomp_footprint_codemercenary_os_kicad_diode_do_41
+    oomp_key_full: oomp_footprint_codemercenary_os_kicad_diode_do_41_53cc14
+    oomp_key_simple: codemercenary_os_kicad_diode_do_41
+    original_filename: kicad.pretty/Diode_DO-41.kicad_mod
+    owner_name: codemercenary_os
   oomp_key: oomp_codemercenary_os_kicad_diode_do_41
+  oomp_key_full: oomp_footprint_codemercenary_os_kicad_diode_do_41
   oomp_key_simple: codemercenary_os_kicad_diode_do_41
   owner: codemercenary-os
   repo:

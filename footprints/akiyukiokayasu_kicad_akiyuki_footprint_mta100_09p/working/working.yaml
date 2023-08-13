@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty
     oomp_bot: footprints/akiyukiokayasu_kicad_akiyuki_footprint_mta100_09p/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/akiyukiokayasu_kicad_akiyuki_footprint_mta100_09p/working
-    oomp_doc: footprints/footprints/AkiyukiOkayasu/Kicad_Akiyuki_Footprint/MTA100_09P/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/AkiyukiOkayasu/Kicad_Akiyuki_Footprint/MTA100_09P/working
     oomp_src_flat: footprints_flat/footprints_flat/akiyukiokayasu_kicad_akiyuki_footprint_mta100_09p/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/akiyukiokayasu_kicad_akiyuki_footprint_mta100_09p/working
-    oomp_src_folder: footprints_folder/footprints_folder/AkiyukiOkayasu/Kicad_Akiyuki_Footprint/MTA100_09P/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/AkiyukiOkayasu/Kicad_Akiyuki_Footprint/MTA100_09P/working
   name: Kicad_Akiyuki_Footprint.pretty
+  oomp:
+    footprint_name: mta100_09p
+    library_name: kicad_akiyuki_footprint
+    md5: ed1e95f6f8bb49a6575337d974574fe6
+    md5_10: ed1e95f6f8
+    md5_5: ed1e9
+    md5_6: ed1e95
+    oomp_key: oomp_akiyukiokayasu_kicad_akiyuki_footprint_mta100_09p
+    oomp_key_extra: oomp_footprint_akiyukiokayasu_kicad_akiyuki_footprint_mta100_09p
+    oomp_key_full: oomp_footprint_akiyukiokayasu_kicad_akiyuki_footprint_mta100_09p_ed1e95
+    oomp_key_simple: akiyukiokayasu_kicad_akiyuki_footprint_mta100_09p
+    original_filename: Kicad_Akiyuki_Footprint.pretty/MTA100_09P.kicad_mod
+    owner_name: akiyukiokayasu
   oomp_key: oomp_akiyukiokayasu_kicad_akiyuki_footprint_mta100_09p
+  oomp_key_full: oomp_footprint_akiyukiokayasu_kicad_akiyuki_footprint_mta100_09p
   oomp_key_simple: akiyukiokayasu_kicad_akiyuki_footprint_mta100_09p
   owner: AkiyukiOkayasu
   repo:

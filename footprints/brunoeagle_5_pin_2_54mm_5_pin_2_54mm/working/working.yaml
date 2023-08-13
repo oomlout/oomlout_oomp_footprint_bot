@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_5_pin_2_54mm_5_pin_2_54mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_5_pin_2_54mm_5_pin_2_54mm/working
-    oomp_doc: footprints/footprints/brunoeagle/5-PIN-2.54mm.kicad_mod/5-PIN-2.54mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/5-PIN-2.54mm.kicad_mod/5-PIN-2.54mm/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_5_pin_2_54mm_5_pin_2_54mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_5_pin_2_54mm_5_pin_2_54mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/5-PIN-2.54mm.kicad_mod/5-PIN-2.54mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/5-PIN-2.54mm.kicad_mod/5-PIN-2.54mm/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: 5_pin_2_54mm
+    library_name: 5_pin_2_54mm_kicad_mod
+    md5: 2833a6211191c0641d082d676c3d09e4
+    md5_10: 2833a62111
+    md5_5: 2833a
+    md5_6: 2833a6
+    oomp_key: oomp_brunoeagle_5_pin_2_54mm_5_pin_2_54mm
+    oomp_key_extra: oomp_footprint_brunoeagle_5_pin_2_54mm_5_pin_2_54mm
+    oomp_key_full: oomp_footprint_brunoeagle_5_pin_2_54mm_5_pin_2_54mm_2833a6
+    oomp_key_simple: brunoeagle_5_pin_2_54mm_5_pin_2_54mm
+    original_filename: kicad-open-modules/5-PIN-2.54mm.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_5_pin_2_54mm_5_pin_2_54mm
+  oomp_key_full: oomp_footprint_brunoeagle_5_pin_2_54mm_5_pin_2_54mm
   oomp_key_simple: brunoeagle_5_pin_2_54mm_5_pin_2_54mm
   owner: brunoeagle
   repo:

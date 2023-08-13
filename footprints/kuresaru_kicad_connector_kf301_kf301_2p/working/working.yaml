@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/kuresaru/KiCAD-Connector_KF301.pretty
     oomp_bot: footprints/kuresaru_kicad_connector_kf301_kf301_2p/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kuresaru_kicad_connector_kf301_kf301_2p/working
-    oomp_doc: footprints/footprints/kuresaru/KiCAD-Connector_KF301/KF301-2P/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kuresaru/KiCAD-Connector_KF301/KF301-2P/working
     oomp_src_flat: footprints_flat/footprints_flat/kuresaru_kicad_connector_kf301_kf301_2p/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kuresaru_kicad_connector_kf301_kf301_2p/working
-    oomp_src_folder: footprints_folder/footprints_folder/kuresaru/KiCAD-Connector_KF301/KF301-2P/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kuresaru/KiCAD-Connector_KF301/KF301-2P/working
   name: KiCAD-Connector_KF301.pretty
+  oomp:
+    footprint_name: kf301_2p
+    library_name: kicad_connector_kf301
+    md5: 6ce5d7fabda2418398f927df15a24de3
+    md5_10: 6ce5d7fabd
+    md5_5: 6ce5d
+    md5_6: 6ce5d7
+    oomp_key: oomp_kuresaru_kicad_connector_kf301_kf301_2p
+    oomp_key_extra: oomp_footprint_kuresaru_kicad_connector_kf301_kf301_2p
+    oomp_key_full: oomp_footprint_kuresaru_kicad_connector_kf301_kf301_2p_6ce5d7
+    oomp_key_simple: kuresaru_kicad_connector_kf301_kf301_2p
+    original_filename: KiCAD-Connector_KF301.pretty/KF301-2P.kicad_mod
+    owner_name: kuresaru
   oomp_key: oomp_kuresaru_kicad_connector_kf301_kf301_2p
+  oomp_key_full: oomp_footprint_kuresaru_kicad_connector_kf301_kf301_2p
   oomp_key_simple: kuresaru_kicad_connector_kf301_kf301_2p
   owner: kuresaru
   repo:

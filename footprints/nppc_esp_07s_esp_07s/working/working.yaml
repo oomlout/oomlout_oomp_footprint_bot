@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/nppc_esp_07s_esp_07s/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nppc_esp_07s_esp_07s/working
-    oomp_doc: footprints/footprints/nppc/ESP-07S.kicad_mod/ESP-07S/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/nppc/ESP-07S.kicad_mod/ESP-07S/working
     oomp_src_flat: footprints_flat/footprints_flat/nppc_esp_07s_esp_07s/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nppc_esp_07s_esp_07s/working
-    oomp_src_folder: footprints_folder/footprints_folder/nppc/ESP-07S.kicad_mod/ESP-07S/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/nppc/ESP-07S.kicad_mod/ESP-07S/working
   name: KiCadCustomLibs
+  oomp:
+    footprint_name: esp_07s
+    library_name: esp_07s_kicad_mod
+    md5: 21536c35f8e332d67b889f00ae8f2717
+    md5_10: 21536c35f8
+    md5_5: '21536'
+    md5_6: 21536c
+    oomp_key: oomp_nppc_esp_07s_esp_07s
+    oomp_key_extra: oomp_footprint_nppc_esp_07s_esp_07s
+    oomp_key_full: oomp_footprint_nppc_esp_07s_esp_07s_21536c
+    oomp_key_simple: nppc_esp_07s_esp_07s
+    original_filename: KiCadCustomLibs/ESP-07S.kicad_mod
+    owner_name: nppc
   oomp_key: oomp_nppc_esp_07s_esp_07s
+  oomp_key_full: oomp_footprint_nppc_esp_07s_esp_07s
   oomp_key_simple: nppc_esp_07s_esp_07s
   owner: nppc
   repo:

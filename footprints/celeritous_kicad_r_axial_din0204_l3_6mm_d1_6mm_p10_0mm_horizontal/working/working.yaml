@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/celeritous_kicad_r_axial_din0204_l3_6mm_d1_6mm_p10_0mm_horizontal/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/celeritous_kicad_r_axial_din0204_l3_6mm_d1_6mm_p10_0mm_horizontal/working
-    oomp_doc: footprints/footprints/celeritous/KiCad/R_Axial_DIN0204_L3.6mm_D1.6mm_P10.0mm_Horizontal/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/celeritous/KiCad/R_Axial_DIN0204_L3.6mm_D1.6mm_P10.0mm_Horizontal/working
     oomp_src_flat: footprints_flat/footprints_flat/celeritous_kicad_r_axial_din0204_l3_6mm_d1_6mm_p10_0mm_horizontal/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/celeritous_kicad_r_axial_din0204_l3_6mm_d1_6mm_p10_0mm_horizontal/working
-    oomp_src_folder: footprints_folder/footprints_folder/celeritous/KiCad/R_Axial_DIN0204_L3.6mm_D1.6mm_P10.0mm_Horizontal/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/celeritous/KiCad/R_Axial_DIN0204_L3.6mm_D1.6mm_P10.0mm_Horizontal/working
   name: KiCad.pretty
+  oomp:
+    footprint_name: r_axial_din0204_l3_6mm_d1_6mm_p10_0mm_horizontal
+    library_name: kicad
+    md5: f02563e8722f0b99dbeccdc40d3d7122
+    md5_10: f02563e872
+    md5_5: f0256
+    md5_6: f02563
+    oomp_key: oomp_celeritous_kicad_r_axial_din0204_l3_6mm_d1_6mm_p10_0mm_horizontal
+    oomp_key_extra: oomp_footprint_celeritous_kicad_r_axial_din0204_l3_6mm_d1_6mm_p10_0mm_horizontal
+    oomp_key_full: oomp_footprint_celeritous_kicad_r_axial_din0204_l3_6mm_d1_6mm_p10_0mm_horizontal_f02563
+    oomp_key_simple: celeritous_kicad_r_axial_din0204_l3_6mm_d1_6mm_p10_0mm_horizontal
+    original_filename: KiCad.pretty/R_Axial_DIN0204_L3.6mm_D1.6mm_P10.0mm_Horizontal.kicad_mod
+    owner_name: celeritous
   oomp_key: oomp_celeritous_kicad_r_axial_din0204_l3_6mm_d1_6mm_p10_0mm_horizontal
+  oomp_key_full: oomp_footprint_celeritous_kicad_r_axial_din0204_l3_6mm_d1_6mm_p10_0mm_horizontal
   oomp_key_simple: celeritous_kicad_r_axial_din0204_l3_6mm_d1_6mm_p10_0mm_horizontal
   owner: celeritous
   repo:

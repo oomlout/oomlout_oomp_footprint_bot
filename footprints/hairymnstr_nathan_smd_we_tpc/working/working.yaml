@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/hairymnstr_nathan_smd_we_tpc/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/hairymnstr_nathan_smd_we_tpc/working
-    oomp_doc: footprints/footprints/hairymnstr/Nathan_SMD/WE_TPC/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/hairymnstr/Nathan_SMD/WE_TPC/working
     oomp_src_flat: footprints_flat/footprints_flat/hairymnstr_nathan_smd_we_tpc/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/hairymnstr_nathan_smd_we_tpc/working
-    oomp_src_folder: footprints_folder/footprints_folder/hairymnstr/Nathan_SMD/WE_TPC/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/hairymnstr/Nathan_SMD/WE_TPC/working
   name: Nathan_SMD.pretty
+  oomp:
+    footprint_name: we_tpc
+    library_name: nathan_smd
+    md5: e27dd62ab103a96112b3a79416e78046
+    md5_10: e27dd62ab1
+    md5_5: e27dd
+    md5_6: e27dd6
+    oomp_key: oomp_hairymnstr_nathan_smd_we_tpc
+    oomp_key_extra: oomp_footprint_hairymnstr_nathan_smd_we_tpc
+    oomp_key_full: oomp_footprint_hairymnstr_nathan_smd_we_tpc_e27dd6
+    oomp_key_simple: hairymnstr_nathan_smd_we_tpc
+    original_filename: Nathan_SMD.pretty/WE_TPC.kicad_mod
+    owner_name: hairymnstr
   oomp_key: oomp_hairymnstr_nathan_smd_we_tpc
+  oomp_key_full: oomp_footprint_hairymnstr_nathan_smd_we_tpc
   oomp_key_simple: hairymnstr_nathan_smd_we_tpc
   owner: hairymnstr
   repo:

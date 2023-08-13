@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/daprice_keyboard_accessories_trrs_jack_sj_43514_reversible/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/daprice_keyboard_accessories_trrs_jack_sj_43514_reversible/working
-    oomp_doc: footprints/footprints/daprice/keyboard_accessories/TRRS_Jack_SJ-43514_reversible/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/daprice/keyboard_accessories/TRRS_Jack_SJ-43514_reversible/working
     oomp_src_flat: footprints_flat/footprints_flat/daprice_keyboard_accessories_trrs_jack_sj_43514_reversible/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/daprice_keyboard_accessories_trrs_jack_sj_43514_reversible/working
-    oomp_src_folder: footprints_folder/footprints_folder/daprice/keyboard_accessories/TRRS_Jack_SJ-43514_reversible/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/daprice/keyboard_accessories/TRRS_Jack_SJ-43514_reversible/working
   name: keyboard_accessories.pretty
+  oomp:
+    footprint_name: trrs_jack_sj_43514_reversible
+    library_name: keyboard_accessories
+    md5: 0dd6ee7485a3c845da32d6146dc84f96
+    md5_10: 0dd6ee7485
+    md5_5: 0dd6e
+    md5_6: 0dd6ee
+    oomp_key: oomp_daprice_keyboard_accessories_trrs_jack_sj_43514_reversible
+    oomp_key_extra: oomp_footprint_daprice_keyboard_accessories_trrs_jack_sj_43514_reversible
+    oomp_key_full: oomp_footprint_daprice_keyboard_accessories_trrs_jack_sj_43514_reversible_0dd6ee
+    oomp_key_simple: daprice_keyboard_accessories_trrs_jack_sj_43514_reversible
+    original_filename: keyboard_accessories.pretty/TRRS_Jack_SJ-43514_reversible.kicad_mod
+    owner_name: daprice
   oomp_key: oomp_daprice_keyboard_accessories_trrs_jack_sj_43514_reversible
+  oomp_key_full: oomp_footprint_daprice_keyboard_accessories_trrs_jack_sj_43514_reversible
   oomp_key_simple: daprice_keyboard_accessories_trrs_jack_sj_43514_reversible
   owner: daprice
   repo:

@@ -11,17 +11,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_package_bga_st_lfbga_354_16x16mm_layout19x19_p0_8mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_package_bga_st_lfbga_354_16x16mm_layout19x19_p0_8mm/working
-    oomp_doc: footprints/footprints/kicad/Package_BGA/ST_LFBGA-354_16x16mm_Layout19x19_P0.8mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Package_BGA/ST_LFBGA-354_16x16mm_Layout19x19_P0.8mm/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_package_bga_st_lfbga_354_16x16mm_layout19x19_p0_8mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_package_bga_st_lfbga_354_16x16mm_layout19x19_p0_8mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Package_BGA/ST_LFBGA-354_16x16mm_Layout19x19_P0.8mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Package_BGA/ST_LFBGA-354_16x16mm_Layout19x19_P0.8mm/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: st_lfbga_354_16x16mm_layout19x19_p0_8mm
+    library_name: package_bga
+    md5: ae50008b2c4cc28fd6a392491e3f009b
+    md5_10: ae50008b2c
+    md5_5: ae500
+    md5_6: ae5000
+    oomp_key: oomp_kicad_package_bga_st_lfbga_354_16x16mm_layout19x19_p0_8mm
+    oomp_key_extra: oomp_footprint_kicad_package_bga_st_lfbga_354_16x16mm_layout19x19_p0_8mm
+    oomp_key_full: oomp_footprint_kicad_package_bga_st_lfbga_354_16x16mm_layout19x19_p0_8mm_ae5000
+    oomp_key_simple: kicad_package_bga_st_lfbga_354_16x16mm_layout19x19_p0_8mm
+    original_filename: libraries/kicad-footprints/Package_BGA.pretty/ST_LFBGA-354_16x16mm_Layout19x19_P0.8mm.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_package_bga_st_lfbga_354_16x16mm_layout19x19_p0_8mm
+  oomp_key_full: oomp_footprint_kicad_package_bga_st_lfbga_354_16x16mm_layout19x19_p0_8mm
   oomp_key_simple: kicad_package_bga_st_lfbga_354_16x16mm_layout19x19_p0_8mm
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

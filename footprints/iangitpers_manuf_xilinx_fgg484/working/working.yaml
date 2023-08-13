@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/Iangitpers/4a
     oomp_bot: footprints/iangitpers_manuf_xilinx_fgg484/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/iangitpers_manuf_xilinx_fgg484/working
-    oomp_doc: footprints/footprints/Iangitpers/manuf/XILINX-FGG484/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Iangitpers/manuf/XILINX-FGG484/working
     oomp_src_flat: footprints_flat/footprints_flat/iangitpers_manuf_xilinx_fgg484/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/iangitpers_manuf_xilinx_fgg484/working
-    oomp_src_folder: footprints_folder/footprints_folder/Iangitpers/manuf/XILINX-FGG484/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Iangitpers/manuf/XILINX-FGG484/working
   name: 4a
+  oomp:
+    footprint_name: xilinx_fgg484
+    library_name: manuf
+    md5: 215840740a6778e6c34ce8054138acbf
+    md5_10: 215840740a
+    md5_5: '21584'
+    md5_6: '215840'
+    oomp_key: oomp_iangitpers_manuf_xilinx_fgg484
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_xilinx_fgg484
+    oomp_key_full: oomp_footprint_iangitpers_manuf_xilinx_fgg484_215840
+    oomp_key_simple: iangitpers_manuf_xilinx_fgg484
+    original_filename: 4a/manuf.pretty/XILINX-FGG484.kicad_mod
+    owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_xilinx_fgg484
+  oomp_key_full: oomp_footprint_iangitpers_manuf_xilinx_fgg484
   oomp_key_simple: iangitpers_manuf_xilinx_fgg484
   owner: Iangitpers
   repo:

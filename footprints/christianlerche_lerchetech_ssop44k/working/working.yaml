@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/christianlerche_lerchetech_ssop44k/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/christianlerche_lerchetech_ssop44k/working
-    oomp_doc: footprints/footprints/ChristianLerche/LercheTech/SSOP44K/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ChristianLerche/LercheTech/SSOP44K/working
     oomp_src_flat: footprints_flat/footprints_flat/christianlerche_lerchetech_ssop44k/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/christianlerche_lerchetech_ssop44k/working
-    oomp_src_folder: footprints_folder/footprints_folder/ChristianLerche/LercheTech/SSOP44K/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ChristianLerche/LercheTech/SSOP44K/working
   name: LercheTech_KiCAD
+  oomp:
+    footprint_name: ssop44k
+    library_name: lerchetech
+    md5: d30e3359225e1884c5f12e38ea22c29c
+    md5_10: d30e335922
+    md5_5: d30e3
+    md5_6: d30e33
+    oomp_key: oomp_christianlerche_lerchetech_ssop44k
+    oomp_key_extra: oomp_footprint_christianlerche_lerchetech_ssop44k
+    oomp_key_full: oomp_footprint_christianlerche_lerchetech_ssop44k_d30e33
+    oomp_key_simple: christianlerche_lerchetech_ssop44k
+    original_filename: LercheTech_KiCAD/LercheTech.pretty/SSOP44K.kicad_mod
+    owner_name: christianlerche
   oomp_key: oomp_christianlerche_lerchetech_ssop44k
+  oomp_key_full: oomp_footprint_christianlerche_lerchetech_ssop44k
   oomp_key_simple: christianlerche_lerchetech_ssop44k
   owner: ChristianLerche
   repo:

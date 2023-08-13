@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pelrun_w_pin_strip_pin_socket_4x2_90/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pelrun_w_pin_strip_pin_socket_4x2_90/working
-    oomp_doc: footprints/footprints/pelrun/w_pin_strip/pin_socket_4x2-90/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/pelrun/w_pin_strip/pin_socket_4x2-90/working
     oomp_src_flat: footprints_flat/footprints_flat/pelrun_w_pin_strip_pin_socket_4x2_90/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pelrun_w_pin_strip_pin_socket_4x2_90/working
-    oomp_src_folder: footprints_folder/footprints_folder/pelrun/w_pin_strip/pin_socket_4x2-90/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/pelrun/w_pin_strip/pin_socket_4x2-90/working
   name: libKiCad
+  oomp:
+    footprint_name: pin_socket_4x2_90
+    library_name: w_pin_strip
+    md5: ccc7d073910d395437a43c9d3bf076cb
+    md5_10: ccc7d07391
+    md5_5: ccc7d
+    md5_6: ccc7d0
+    oomp_key: oomp_pelrun_w_pin_strip_pin_socket_4x2_90
+    oomp_key_extra: oomp_footprint_pelrun_w_pin_strip_pin_socket_4x2_90
+    oomp_key_full: oomp_footprint_pelrun_w_pin_strip_pin_socket_4x2_90_ccc7d0
+    oomp_key_simple: pelrun_w_pin_strip_pin_socket_4x2_90
+    original_filename: libKiCad/footprint/w_pin_strip.pretty/pin_socket_4x2-90.kicad_mod
+    owner_name: pelrun
   oomp_key: oomp_pelrun_w_pin_strip_pin_socket_4x2_90
+  oomp_key_full: oomp_footprint_pelrun_w_pin_strip_pin_socket_4x2_90
   oomp_key_simple: pelrun_w_pin_strip_pin_socket_4x2_90
   owner: pelrun
   repo:

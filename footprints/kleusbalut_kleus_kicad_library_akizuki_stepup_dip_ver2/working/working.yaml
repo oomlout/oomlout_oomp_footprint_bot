@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/kleusbalut/kleus_kicad_library.pretty
     oomp_bot: footprints/kleusbalut_kleus_kicad_library_akizuki_stepup_dip_ver2/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kleusbalut_kleus_kicad_library_akizuki_stepup_dip_ver2/working
-    oomp_doc: footprints/footprints/kleusbalut/kleus_kicad_library/Akizuki_Stepup-dip_Ver2/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kleusbalut/kleus_kicad_library/Akizuki_Stepup-dip_Ver2/working
     oomp_src_flat: footprints_flat/footprints_flat/kleusbalut_kleus_kicad_library_akizuki_stepup_dip_ver2/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kleusbalut_kleus_kicad_library_akizuki_stepup_dip_ver2/working
-    oomp_src_folder: footprints_folder/footprints_folder/kleusbalut/kleus_kicad_library/Akizuki_Stepup-dip_Ver2/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kleusbalut/kleus_kicad_library/Akizuki_Stepup-dip_Ver2/working
   name: kleus_kicad_library.pretty
+  oomp:
+    footprint_name: akizuki_stepup_dip_ver2
+    library_name: kleus_kicad_library
+    md5: a6ed75e83c5775da5d00d99cc5181eb2
+    md5_10: a6ed75e83c
+    md5_5: a6ed7
+    md5_6: a6ed75
+    oomp_key: oomp_kleusbalut_kleus_kicad_library_akizuki_stepup_dip_ver2
+    oomp_key_extra: oomp_footprint_kleusbalut_kleus_kicad_library_akizuki_stepup_dip_ver2
+    oomp_key_full: oomp_footprint_kleusbalut_kleus_kicad_library_akizuki_stepup_dip_ver2_a6ed75
+    oomp_key_simple: kleusbalut_kleus_kicad_library_akizuki_stepup_dip_ver2
+    original_filename: kleus_kicad_library.pretty/Akizuki_Stepup-dip_Ver2.kicad_mod
+    owner_name: kleusbalut
   oomp_key: oomp_kleusbalut_kleus_kicad_library_akizuki_stepup_dip_ver2
+  oomp_key_full: oomp_footprint_kleusbalut_kleus_kicad_library_akizuki_stepup_dip_ver2
   oomp_key_simple: kleusbalut_kleus_kicad_library_akizuki_stepup_dip_ver2
   owner: kleusbalut
   repo:

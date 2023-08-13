@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/nqbit_nqbit_srn4018/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nqbit_nqbit_srn4018/working
-    oomp_doc: footprints/footprints/nqbit/NQBit/SRN4018/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/nqbit/NQBit/SRN4018/working
     oomp_src_flat: footprints_flat/footprints_flat/nqbit_nqbit_srn4018/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nqbit_nqbit_srn4018/working
-    oomp_src_folder: footprints_folder/footprints_folder/nqbit/NQBit/SRN4018/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/nqbit/NQBit/SRN4018/working
   name: NQBit.pretty
+  oomp:
+    footprint_name: srn4018
+    library_name: nqbit
+    md5: 7ed8358db900ae88f7ff9ea8cd39cd64
+    md5_10: 7ed8358db9
+    md5_5: 7ed83
+    md5_6: 7ed835
+    oomp_key: oomp_nqbit_nqbit_srn4018
+    oomp_key_extra: oomp_footprint_nqbit_nqbit_srn4018
+    oomp_key_full: oomp_footprint_nqbit_nqbit_srn4018_7ed835
+    oomp_key_simple: nqbit_nqbit_srn4018
+    original_filename: NQBit.pretty/SRN4018.kicad_mod
+    owner_name: nqbit
   oomp_key: oomp_nqbit_nqbit_srn4018
+  oomp_key_full: oomp_footprint_nqbit_nqbit_srn4018
   oomp_key_simple: nqbit_nqbit_srn4018
   owner: nqbit
   repo:

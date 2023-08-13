@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/freetronics_freetronics_footprints_leostick_shield/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/freetronics_freetronics_footprints_leostick_shield/working
-    oomp_doc: footprints/footprints/freetronics/freetronics_footprints/LEOSTICK_SHIELD/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/freetronics/freetronics_footprints/LEOSTICK_SHIELD/working
     oomp_src_flat: footprints_flat/footprints_flat/freetronics_freetronics_footprints_leostick_shield/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/freetronics_freetronics_footprints_leostick_shield/working
-    oomp_src_folder: footprints_folder/footprints_folder/freetronics/freetronics_footprints/LEOSTICK_SHIELD/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/freetronics/freetronics_footprints/LEOSTICK_SHIELD/working
   name: freetronics_kicad_library
+  oomp:
+    footprint_name: leostick_shield
+    library_name: freetronics_footprints
+    md5: ee9a630eb3f919fcfc659e867cc86d34
+    md5_10: ee9a630eb3
+    md5_5: ee9a6
+    md5_6: ee9a63
+    oomp_key: oomp_freetronics_freetronics_footprints_leostick_shield
+    oomp_key_extra: oomp_footprint_freetronics_freetronics_footprints_leostick_shield
+    oomp_key_full: oomp_footprint_freetronics_freetronics_footprints_leostick_shield_ee9a63
+    oomp_key_simple: freetronics_freetronics_footprints_leostick_shield
+    original_filename: freetronics_kicad_library/freetronics_footprints.pretty/LEOSTICK_SHIELD.kicad_mod
+    owner_name: freetronics
   oomp_key: oomp_freetronics_freetronics_footprints_leostick_shield
+  oomp_key_full: oomp_footprint_freetronics_freetronics_footprints_leostick_shield
   oomp_key_simple: freetronics_freetronics_footprints_leostick_shield
   owner: freetronics
   repo:

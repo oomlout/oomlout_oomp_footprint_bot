@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/hairymnstr_nathan_smt_semis_lqfp48/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/hairymnstr_nathan_smt_semis_lqfp48/working
-    oomp_doc: footprints/footprints/hairymnstr/Nathan_SMT_Semis/LQFP48/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/hairymnstr/Nathan_SMT_Semis/LQFP48/working
     oomp_src_flat: footprints_flat/footprints_flat/hairymnstr_nathan_smt_semis_lqfp48/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/hairymnstr_nathan_smt_semis_lqfp48/working
-    oomp_src_folder: footprints_folder/footprints_folder/hairymnstr/Nathan_SMT_Semis/LQFP48/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/hairymnstr/Nathan_SMT_Semis/LQFP48/working
   name: Nathan_SMT_Semis.pretty
+  oomp:
+    footprint_name: lqfp48
+    library_name: nathan_smt_semis
+    md5: 9a89974824341de6c9a28a3dcb48868c
+    md5_10: 9a89974824
+    md5_5: 9a899
+    md5_6: 9a8997
+    oomp_key: oomp_hairymnstr_nathan_smt_semis_lqfp48
+    oomp_key_extra: oomp_footprint_hairymnstr_nathan_smt_semis_lqfp48
+    oomp_key_full: oomp_footprint_hairymnstr_nathan_smt_semis_lqfp48_9a8997
+    oomp_key_simple: hairymnstr_nathan_smt_semis_lqfp48
+    original_filename: Nathan_SMT_Semis.pretty/LQFP48.kicad_mod
+    owner_name: hairymnstr
   oomp_key: oomp_hairymnstr_nathan_smt_semis_lqfp48
+  oomp_key_full: oomp_footprint_hairymnstr_nathan_smt_semis_lqfp48
   oomp_key_simple: hairymnstr_nathan_smt_semis_lqfp48
   owner: hairymnstr
   repo:

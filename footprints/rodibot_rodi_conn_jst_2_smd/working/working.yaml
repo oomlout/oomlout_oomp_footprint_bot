@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/rodibot_rodi_conn_jst_2_smd/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/rodibot_rodi_conn_jst_2_smd/working
-    oomp_doc: footprints/footprints/rodibot/RoDI/CONN_JST-2_SMD/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/rodibot/RoDI/CONN_JST-2_SMD/working
     oomp_src_flat: footprints_flat/footprints_flat/rodibot_rodi_conn_jst_2_smd/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/rodibot_rodi_conn_jst_2_smd/working
-    oomp_src_folder: footprints_folder/footprints_folder/rodibot/RoDI/CONN_JST-2_SMD/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/rodibot/RoDI/CONN_JST-2_SMD/working
   name: RoDI.pretty
+  oomp:
+    footprint_name: conn_jst_2_smd
+    library_name: rodi
+    md5: facff6fadd8ff0113bac882405888c2e
+    md5_10: facff6fadd
+    md5_5: facff
+    md5_6: facff6
+    oomp_key: oomp_rodibot_rodi_conn_jst_2_smd
+    oomp_key_extra: oomp_footprint_rodibot_rodi_conn_jst_2_smd
+    oomp_key_full: oomp_footprint_rodibot_rodi_conn_jst_2_smd_facff6
+    oomp_key_simple: rodibot_rodi_conn_jst_2_smd
+    original_filename: RoDI.pretty/CONN_JST-2_SMD.kicad_mod
+    owner_name: rodibot
   oomp_key: oomp_rodibot_rodi_conn_jst_2_smd
+  oomp_key_full: oomp_footprint_rodibot_rodi_conn_jst_2_smd
   oomp_key_simple: rodibot_rodi_conn_jst_2_smd
   owner: rodibot
   repo:

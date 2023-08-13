@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/rchojetzki_rchojetzki_kicad_footprints_lib_36wire014mm2_test/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/rchojetzki_rchojetzki_kicad_footprints_lib_36wire014mm2_test/working
-    oomp_doc: footprints/footprints/rchojetzki/rchojetzki-kicad-footprints-lib/36wire014mm2_test/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/rchojetzki/rchojetzki-kicad-footprints-lib/36wire014mm2_test/working
     oomp_src_flat: footprints_flat/footprints_flat/rchojetzki_rchojetzki_kicad_footprints_lib_36wire014mm2_test/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/rchojetzki_rchojetzki_kicad_footprints_lib_36wire014mm2_test/working
-    oomp_src_folder: footprints_folder/footprints_folder/rchojetzki/rchojetzki-kicad-footprints-lib/36wire014mm2_test/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/rchojetzki/rchojetzki-kicad-footprints-lib/36wire014mm2_test/working
   name: rchojetzki-kicad-footprints-lib.pretty
+  oomp:
+    footprint_name: 36wire014mm2_test
+    library_name: rchojetzki_kicad_footprints_lib
+    md5: e94c0ac4f3c3534abf83a9494a42dcda
+    md5_10: e94c0ac4f3
+    md5_5: e94c0
+    md5_6: e94c0a
+    oomp_key: oomp_rchojetzki_rchojetzki_kicad_footprints_lib_36wire014mm2_test
+    oomp_key_extra: oomp_footprint_rchojetzki_rchojetzki_kicad_footprints_lib_36wire014mm2_test
+    oomp_key_full: oomp_footprint_rchojetzki_rchojetzki_kicad_footprints_lib_36wire014mm2_test_e94c0a
+    oomp_key_simple: rchojetzki_rchojetzki_kicad_footprints_lib_36wire014mm2_test
+    original_filename: rchojetzki-kicad-footprints-lib.pretty/36wire014mm2_test.kicad_mod
+    owner_name: rchojetzki
   oomp_key: oomp_rchojetzki_rchojetzki_kicad_footprints_lib_36wire014mm2_test
+  oomp_key_full: oomp_footprint_rchojetzki_rchojetzki_kicad_footprints_lib_36wire014mm2_test
   oomp_key_simple: rchojetzki_rchojetzki_kicad_footprints_lib_36wire014mm2_test
   owner: rchojetzki
   repo:

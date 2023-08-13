@@ -6,22 +6,24 @@ The original footprint can be found at:
 http://gitlab.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
-* description:   
-* libraryLink:   
-* number_of_pads:   
+* description: Würth WR-MMCX PCB SMT Jack, Horizontal (https://www.we-online.com/components/products/datasheet/66011102111302.pdf)  
+* libraryLink: WR-MMCX_Wuerth_66011102111302_Horizontal  
+* number_of_pads: 7  
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| error | Expression does not have the correct type |  
 | file | libraries/kicad-footprints/Connector_Coaxial.pretty/WR-MMCX_Wuerth_66011102111302_Horizontal.kicad_mod |  
+| footprint | {'description': 'Würth WR-MMCX PCB SMT Jack, Horizontal (https://www.we-online.com/components/products/datasheet/66011102111302.pdf)', 'libraryLink': 'WR-MMCX_Wuerth_66011102111302_Horizontal', 'number_of_pads': 7} |  
 | footprint_library_directory | footprint_library_owner/kicad_libraries/kicad-footprints/ |  
 | footprint_library_directory_flat | footprints_flat/kicad_connector_coaxial_wr_mmcx_wuerth_66011102111302_horizontal/working |  
 | github_path | http://github.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Connector_Coaxial.pretty/WR-MMCX_Wuerth_66011102111302_Horizontal.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/kicad_connector_coaxial_wr_mmcx_wuerth_66011102111302_horizontal/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_connector_coaxial_wr_mmcx_wuerth_66011102111302_horizontal/working', 'oomp_doc': 'footprints/footprints/kicad/Connector_Coaxial/WR-MMCX_Wuerth_66011102111302_Horizontal/working/', 'oomp_doc_github': 'https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Connector_Coaxial/WR-MMCX_Wuerth_66011102111302_Horizontal/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/kicad_connector_coaxial_wr_mmcx_wuerth_66011102111302_horizontal/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_connector_coaxial_wr_mmcx_wuerth_66011102111302_horizontal/working', 'oomp_src_folder': 'footprints_folder/footprints_folder/kicad/Connector_Coaxial/WR-MMCX_Wuerth_66011102111302_Horizontal/working', 'oomp_src_folder_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Connector_Coaxial/WR-MMCX_Wuerth_66011102111302_Horizontal/working'} |  
+| links | {'github_src': 'http://gitlab.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/kicad_connector_coaxial_wr_mmcx_wuerth_66011102111302_horizontal/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_connector_coaxial_wr_mmcx_wuerth_66011102111302_horizontal/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/kicad_connector_coaxial_wr_mmcx_wuerth_66011102111302_horizontal/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_connector_coaxial_wr_mmcx_wuerth_66011102111302_horizontal/working'} |  
 | name | libraries/kicad-footprints/ |  
+| oomp | {'footprint_name': 'wr_mmcx_wuerth_66011102111302_horizontal', 'library_name': 'connector_coaxial', 'md5': '707ab9775811cf3abf379640de912c32', 'md5_10': '707ab97758', 'md5_5': '707ab', 'md5_6': '707ab9', 'oomp_key': 'oomp_kicad_connector_coaxial_wr_mmcx_wuerth_66011102111302_horizontal', 'oomp_key_extra': 'oomp_footprint_kicad_connector_coaxial_wr_mmcx_wuerth_66011102111302_horizontal', 'oomp_key_full': 'oomp_footprint_kicad_connector_coaxial_wr_mmcx_wuerth_66011102111302_horizontal_707ab9', 'oomp_key_simple': 'kicad_connector_coaxial_wr_mmcx_wuerth_66011102111302_horizontal', 'original_filename': 'libraries/kicad-footprints/Connector_Coaxial.pretty/WR-MMCX_Wuerth_66011102111302_Horizontal.kicad_mod', 'owner_name': 'kicad'} |  
 | oomp_key | oomp_kicad_connector_coaxial_wr_mmcx_wuerth_66011102111302_horizontal |  
+| oomp_key_full | oomp_footprint_kicad_connector_coaxial_wr_mmcx_wuerth_66011102111302_horizontal |  
 | oomp_key_simple | kicad_connector_coaxial_wr_mmcx_wuerth_66011102111302_horizontal |  
 | owner | kicad |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/repos/repos#get-a-repository', 'message': 'Not Found'} |  
+| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
 | url | https://gitlab.com/kicad/libraries/kicad-footprints |  
 

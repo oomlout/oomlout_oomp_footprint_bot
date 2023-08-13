@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/stanleyseow_svtmaker_measurement_point_square_smd_pad_small/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stanleyseow_svtmaker_measurement_point_square_smd_pad_small/working
-    oomp_doc: footprints/footprints/stanleyseow/SVTmaker/Measurement_Point_Square-SMD-Pad_Small/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/stanleyseow/SVTmaker/Measurement_Point_Square-SMD-Pad_Small/working
     oomp_src_flat: footprints_flat/footprints_flat/stanleyseow_svtmaker_measurement_point_square_smd_pad_small/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/stanleyseow_svtmaker_measurement_point_square_smd_pad_small/working
-    oomp_src_folder: footprints_folder/footprints_folder/stanleyseow/SVTmaker/Measurement_Point_Square-SMD-Pad_Small/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/stanleyseow/SVTmaker/Measurement_Point_Square-SMD-Pad_Small/working
   name: SVTmaker.pretty
+  oomp:
+    footprint_name: measurement_point_square_smd_pad_small
+    library_name: svtmaker
+    md5: 5f6eb0581a4854c6b1bc11772b9bf41f
+    md5_10: 5f6eb0581a
+    md5_5: 5f6eb
+    md5_6: 5f6eb0
+    oomp_key: oomp_stanleyseow_svtmaker_measurement_point_square_smd_pad_small
+    oomp_key_extra: oomp_footprint_stanleyseow_svtmaker_measurement_point_square_smd_pad_small
+    oomp_key_full: oomp_footprint_stanleyseow_svtmaker_measurement_point_square_smd_pad_small_5f6eb0
+    oomp_key_simple: stanleyseow_svtmaker_measurement_point_square_smd_pad_small
+    original_filename: SVTmaker.pretty/Measurement_Point_Square-SMD-Pad_Small.kicad_mod
+    owner_name: stanleyseow
   oomp_key: oomp_stanleyseow_svtmaker_measurement_point_square_smd_pad_small
+  oomp_key_full: oomp_footprint_stanleyseow_svtmaker_measurement_point_square_smd_pad_small
   oomp_key_simple: stanleyseow_svtmaker_measurement_point_square_smd_pad_small
   owner: stanleyseow
   repo:

@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/arturo182/kicad-modules
     oomp_bot: footprints/arturo182_inductor_smd_extra_l_coilmx_ms0420_4742/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/arturo182_inductor_smd_extra_l_coilmx_ms0420_4742/working
-    oomp_doc: footprints/footprints/arturo182/Inductor_SMD_Extra/L_COILMX-MS0420-4742/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/arturo182/Inductor_SMD_Extra/L_COILMX-MS0420-4742/working
     oomp_src_flat: footprints_flat/footprints_flat/arturo182_inductor_smd_extra_l_coilmx_ms0420_4742/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/arturo182_inductor_smd_extra_l_coilmx_ms0420_4742/working
-    oomp_src_folder: footprints_folder/footprints_folder/arturo182/Inductor_SMD_Extra/L_COILMX-MS0420-4742/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/arturo182/Inductor_SMD_Extra/L_COILMX-MS0420-4742/working
   name: kicad-modules
+  oomp:
+    footprint_name: l_coilmx_ms0420_4742
+    library_name: inductor_smd_extra
+    md5: 225ead628117734980a45186ddfb1003
+    md5_10: 225ead6281
+    md5_5: 225ea
+    md5_6: 225ead
+    oomp_key: oomp_arturo182_inductor_smd_extra_l_coilmx_ms0420_4742
+    oomp_key_extra: oomp_footprint_arturo182_inductor_smd_extra_l_coilmx_ms0420_4742
+    oomp_key_full: oomp_footprint_arturo182_inductor_smd_extra_l_coilmx_ms0420_4742_225ead
+    oomp_key_simple: arturo182_inductor_smd_extra_l_coilmx_ms0420_4742
+    original_filename: kicad-modules/Inductor_SMD_Extra.pretty/L_COILMX-MS0420-4742.kicad_mod
+    owner_name: arturo182
   oomp_key: oomp_arturo182_inductor_smd_extra_l_coilmx_ms0420_4742
+  oomp_key_full: oomp_footprint_arturo182_inductor_smd_extra_l_coilmx_ms0420_4742
   oomp_key_simple: arturo182_inductor_smd_extra_l_coilmx_ms0420_4742
   owner: arturo182
   repo:

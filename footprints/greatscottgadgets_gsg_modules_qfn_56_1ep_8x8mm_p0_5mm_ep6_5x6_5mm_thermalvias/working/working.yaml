@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/greatscottgadgets_gsg_modules_qfn_56_1ep_8x8mm_p0_5mm_ep6_5x6_5mm_thermalvias/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/greatscottgadgets_gsg_modules_qfn_56_1ep_8x8mm_p0_5mm_ep6_5x6_5mm_thermalvias/working
-    oomp_doc: footprints/footprints/greatscottgadgets/gsg-modules/QFN-56-1EP_8x8mm_P0.5mm_EP6.5x6.5mm_ThermalVias/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/greatscottgadgets/gsg-modules/QFN-56-1EP_8x8mm_P0.5mm_EP6.5x6.5mm_ThermalVias/working
     oomp_src_flat: footprints_flat/footprints_flat/greatscottgadgets_gsg_modules_qfn_56_1ep_8x8mm_p0_5mm_ep6_5x6_5mm_thermalvias/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/greatscottgadgets_gsg_modules_qfn_56_1ep_8x8mm_p0_5mm_ep6_5x6_5mm_thermalvias/working
-    oomp_src_folder: footprints_folder/footprints_folder/greatscottgadgets/gsg-modules/QFN-56-1EP_8x8mm_P0.5mm_EP6.5x6.5mm_ThermalVias/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/greatscottgadgets/gsg-modules/QFN-56-1EP_8x8mm_P0.5mm_EP6.5x6.5mm_ThermalVias/working
   name: gsg-kicad-lib
+  oomp:
+    footprint_name: qfn_56_1ep_8x8mm_p0_5mm_ep6_5x6_5mm_thermalvias
+    library_name: gsg_modules
+    md5: 8f11735b93b4e97f1c14157f0598bec7
+    md5_10: 8f11735b93
+    md5_5: 8f117
+    md5_6: 8f1173
+    oomp_key: oomp_greatscottgadgets_gsg_modules_qfn_56_1ep_8x8mm_p0_5mm_ep6_5x6_5mm_thermalvias
+    oomp_key_extra: oomp_footprint_greatscottgadgets_gsg_modules_qfn_56_1ep_8x8mm_p0_5mm_ep6_5x6_5mm_thermalvias
+    oomp_key_full: oomp_footprint_greatscottgadgets_gsg_modules_qfn_56_1ep_8x8mm_p0_5mm_ep6_5x6_5mm_thermalvias_8f1173
+    oomp_key_simple: greatscottgadgets_gsg_modules_qfn_56_1ep_8x8mm_p0_5mm_ep6_5x6_5mm_thermalvias
+    original_filename: gsg-kicad-lib/gsg-modules.pretty/QFN-56-1EP_8x8mm_P0.5mm_EP6.5x6.5mm_ThermalVias.kicad_mod
+    owner_name: greatscottgadgets
   oomp_key: oomp_greatscottgadgets_gsg_modules_qfn_56_1ep_8x8mm_p0_5mm_ep6_5x6_5mm_thermalvias
+  oomp_key_full: oomp_footprint_greatscottgadgets_gsg_modules_qfn_56_1ep_8x8mm_p0_5mm_ep6_5x6_5mm_thermalvias
   oomp_key_simple: greatscottgadgets_gsg_modules_qfn_56_1ep_8x8mm_p0_5mm_ep6_5x6_5mm_thermalvias
   owner: greatscottgadgets
   repo:

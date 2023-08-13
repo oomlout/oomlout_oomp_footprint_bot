@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/stefanhamminga_sh_ic_custom_ti_tps62125/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stefanhamminga_sh_ic_custom_ti_tps62125/working
-    oomp_doc: footprints/footprints/StefanHamminga/SH_IC_Custom/TI_TPS62125/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/StefanHamminga/SH_IC_Custom/TI_TPS62125/working
     oomp_src_flat: footprints_flat/footprints_flat/stefanhamminga_sh_ic_custom_ti_tps62125/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/stefanhamminga_sh_ic_custom_ti_tps62125/working
-    oomp_src_folder: footprints_folder/footprints_folder/StefanHamminga/SH_IC_Custom/TI_TPS62125/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/StefanHamminga/SH_IC_Custom/TI_TPS62125/working
   name: SH_IC_Custom.pretty
+  oomp:
+    footprint_name: ti_tps62125
+    library_name: sh_ic_custom
+    md5: 5f6c9ba328c3014194766a83eaa4f8a0
+    md5_10: 5f6c9ba328
+    md5_5: 5f6c9
+    md5_6: 5f6c9b
+    oomp_key: oomp_stefanhamminga_sh_ic_custom_ti_tps62125
+    oomp_key_extra: oomp_footprint_stefanhamminga_sh_ic_custom_ti_tps62125
+    oomp_key_full: oomp_footprint_stefanhamminga_sh_ic_custom_ti_tps62125_5f6c9b
+    oomp_key_simple: stefanhamminga_sh_ic_custom_ti_tps62125
+    original_filename: SH_IC_Custom.pretty/TI_TPS62125.kicad_mod
+    owner_name: stefanhamminga
   oomp_key: oomp_stefanhamminga_sh_ic_custom_ti_tps62125
+  oomp_key_full: oomp_footprint_stefanhamminga_sh_ic_custom_ti_tps62125
   oomp_key_simple: stefanhamminga_sh_ic_custom_ti_tps62125
   owner: StefanHamminga
   repo:

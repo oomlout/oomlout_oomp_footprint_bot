@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cuzdaori_kicad_spitft2_2/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cuzdaori_kicad_spitft2_2/working
-    oomp_doc: footprints/footprints/cuzdaori/KiCad/SPITFT2.2/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cuzdaori/KiCad/SPITFT2.2/working
     oomp_src_flat: footprints_flat/footprints_flat/cuzdaori_kicad_spitft2_2/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cuzdaori_kicad_spitft2_2/working
-    oomp_src_folder: footprints_folder/footprints_folder/cuzdaori/KiCad/SPITFT2.2/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cuzdaori/KiCad/SPITFT2.2/working
   name: KiCad.pretty
+  oomp:
+    footprint_name: spitft2_2
+    library_name: kicad
+    md5: b02a80044d42096ad8117cc770b882f9
+    md5_10: b02a80044d
+    md5_5: b02a8
+    md5_6: b02a80
+    oomp_key: oomp_cuzdaori_kicad_spitft2_2
+    oomp_key_extra: oomp_footprint_cuzdaori_kicad_spitft2_2
+    oomp_key_full: oomp_footprint_cuzdaori_kicad_spitft2_2_b02a80
+    oomp_key_simple: cuzdaori_kicad_spitft2_2
+    original_filename: KiCad.pretty/SPITFT2.2.kicad_mod
+    owner_name: cuzdaori
   oomp_key: oomp_cuzdaori_kicad_spitft2_2
+  oomp_key_full: oomp_footprint_cuzdaori_kicad_spitft2_2
   oomp_key_simple: cuzdaori_kicad_spitft2_2
   owner: cuzdaori
   repo:

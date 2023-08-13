@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_sp1002_02jtg_sp1002_02jtg/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_sp1002_02jtg_sp1002_02jtg/working
-    oomp_doc: footprints/footprints/brunoeagle/SP1002-02JTG.kicad_mod/SP1002-02JTG/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/SP1002-02JTG.kicad_mod/SP1002-02JTG/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_sp1002_02jtg_sp1002_02jtg/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_sp1002_02jtg_sp1002_02jtg/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/SP1002-02JTG.kicad_mod/SP1002-02JTG/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/SP1002-02JTG.kicad_mod/SP1002-02JTG/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: sp1002_02jtg
+    library_name: sp1002_02jtg_kicad_mod
+    md5: 45e621e954981a2fea4e7c60fdbf17de
+    md5_10: 45e621e954
+    md5_5: 45e62
+    md5_6: 45e621
+    oomp_key: oomp_brunoeagle_sp1002_02jtg_sp1002_02jtg
+    oomp_key_extra: oomp_footprint_brunoeagle_sp1002_02jtg_sp1002_02jtg
+    oomp_key_full: oomp_footprint_brunoeagle_sp1002_02jtg_sp1002_02jtg_45e621
+    oomp_key_simple: brunoeagle_sp1002_02jtg_sp1002_02jtg
+    original_filename: kicad-open-modules/SP1002-02JTG.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_sp1002_02jtg_sp1002_02jtg
+  oomp_key_full: oomp_footprint_brunoeagle_sp1002_02jtg_sp1002_02jtg
   oomp_key_simple: brunoeagle_sp1002_02jtg_sp1002_02jtg
   owner: brunoeagle
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/hormigaazul_libs_neopixel/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/hormigaazul_libs_neopixel/working
-    oomp_doc: footprints/footprints/hormigaAzul/libs/NeoPixel/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/hormigaAzul/libs/NeoPixel/working
     oomp_src_flat: footprints_flat/footprints_flat/hormigaazul_libs_neopixel/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/hormigaazul_libs_neopixel/working
-    oomp_src_folder: footprints_folder/footprints_folder/hormigaAzul/libs/NeoPixel/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/hormigaAzul/libs/NeoPixel/working
   name: libs.pretty
+  oomp:
+    footprint_name: neopixel
+    library_name: libs
+    md5: e159dfdf72eca31ce8398cf8cbef4f2c
+    md5_10: e159dfdf72
+    md5_5: e159d
+    md5_6: e159df
+    oomp_key: oomp_hormigaazul_libs_neopixel
+    oomp_key_extra: oomp_footprint_hormigaazul_libs_neopixel
+    oomp_key_full: oomp_footprint_hormigaazul_libs_neopixel_e159df
+    oomp_key_simple: hormigaazul_libs_neopixel
+    original_filename: libs.pretty/NeoPixel.kicad_mod
+    owner_name: hormigaazul
   oomp_key: oomp_hormigaazul_libs_neopixel
+  oomp_key_full: oomp_footprint_hormigaazul_libs_neopixel
   oomp_key_simple: hormigaazul_libs_neopixel
   owner: hormigaAzul
   repo:

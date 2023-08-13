@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/farizno_kicadfootprints_custom_molex_kk_396_41792_0004_1x04_p3_96_rightangle_nopins/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/farizno_kicadfootprints_custom_molex_kk_396_41792_0004_1x04_p3_96_rightangle_nopins/working
-    oomp_doc: footprints/footprints/farizno/KicadFootprints/Custom_Molex_KK-396_41792-0004_1x04_P3.96_RightAngle_NoPins/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/farizno/KicadFootprints/Custom_Molex_KK-396_41792-0004_1x04_P3.96_RightAngle_NoPins/working
     oomp_src_flat: footprints_flat/footprints_flat/farizno_kicadfootprints_custom_molex_kk_396_41792_0004_1x04_p3_96_rightangle_nopins/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/farizno_kicadfootprints_custom_molex_kk_396_41792_0004_1x04_p3_96_rightangle_nopins/working
-    oomp_src_folder: footprints_folder/footprints_folder/farizno/KicadFootprints/Custom_Molex_KK-396_41792-0004_1x04_P3.96_RightAngle_NoPins/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/farizno/KicadFootprints/Custom_Molex_KK-396_41792-0004_1x04_P3.96_RightAngle_NoPins/working
   name: KicadFootprints.pretty
+  oomp:
+    footprint_name: custom_molex_kk_396_41792_0004_1x04_p3_96_rightangle_nopins
+    library_name: kicadfootprints
+    md5: 59b2ca9e5ed895529594547761b4cead
+    md5_10: 59b2ca9e5e
+    md5_5: 59b2c
+    md5_6: 59b2ca
+    oomp_key: oomp_farizno_kicadfootprints_custom_molex_kk_396_41792_0004_1x04_p3_96_rightangle_nopins
+    oomp_key_extra: oomp_footprint_farizno_kicadfootprints_custom_molex_kk_396_41792_0004_1x04_p3_96_rightangle_nopins
+    oomp_key_full: oomp_footprint_farizno_kicadfootprints_custom_molex_kk_396_41792_0004_1x04_p3_96_rightangle_nopins_59b2ca
+    oomp_key_simple: farizno_kicadfootprints_custom_molex_kk_396_41792_0004_1x04_p3_96_rightangle_nopins
+    original_filename: KicadFootprints.pretty/Custom_Molex_KK-396_41792-0004_1x04_P3.96_RightAngle_NoPins.kicad_mod
+    owner_name: farizno
   oomp_key: oomp_farizno_kicadfootprints_custom_molex_kk_396_41792_0004_1x04_p3_96_rightangle_nopins
+  oomp_key_full: oomp_footprint_farizno_kicadfootprints_custom_molex_kk_396_41792_0004_1x04_p3_96_rightangle_nopins
   oomp_key_simple: farizno_kicadfootprints_custom_molex_kk_396_41792_0004_1x04_p3_96_rightangle_nopins
   owner: farizno
   repo:

@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/Iangitpers/4a
     oomp_bot: footprints/iangitpers_mountinghole_mountinghole_6_4mm_m6_iso14580/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/iangitpers_mountinghole_mountinghole_6_4mm_m6_iso14580/working
-    oomp_doc: footprints/footprints/Iangitpers/MountingHole/MountingHole_6.4mm_M6_ISO14580/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Iangitpers/MountingHole/MountingHole_6.4mm_M6_ISO14580/working
     oomp_src_flat: footprints_flat/footprints_flat/iangitpers_mountinghole_mountinghole_6_4mm_m6_iso14580/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/iangitpers_mountinghole_mountinghole_6_4mm_m6_iso14580/working
-    oomp_src_folder: footprints_folder/footprints_folder/Iangitpers/MountingHole/MountingHole_6.4mm_M6_ISO14580/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Iangitpers/MountingHole/MountingHole_6.4mm_M6_ISO14580/working
   name: 4a
+  oomp:
+    footprint_name: mountinghole_6_4mm_m6_iso14580
+    library_name: mountinghole
+    md5: 2750ceea2ba77952e04e57244517ad94
+    md5_10: 2750ceea2b
+    md5_5: 2750c
+    md5_6: 2750ce
+    oomp_key: oomp_iangitpers_mountinghole_mountinghole_6_4mm_m6_iso14580
+    oomp_key_extra: oomp_footprint_iangitpers_mountinghole_mountinghole_6_4mm_m6_iso14580
+    oomp_key_full: oomp_footprint_iangitpers_mountinghole_mountinghole_6_4mm_m6_iso14580_2750ce
+    oomp_key_simple: iangitpers_mountinghole_mountinghole_6_4mm_m6_iso14580
+    original_filename: 4a/MountingHole.pretty/MountingHole_6.4mm_M6_ISO14580.kicad_mod
+    owner_name: iangitpers
   oomp_key: oomp_iangitpers_mountinghole_mountinghole_6_4mm_m6_iso14580
+  oomp_key_full: oomp_footprint_iangitpers_mountinghole_mountinghole_6_4mm_m6_iso14580
   oomp_key_simple: iangitpers_mountinghole_mountinghole_6_4mm_m6_iso14580
   owner: Iangitpers
   repo:

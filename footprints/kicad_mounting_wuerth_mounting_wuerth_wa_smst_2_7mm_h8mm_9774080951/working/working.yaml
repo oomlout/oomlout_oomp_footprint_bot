@@ -13,17 +13,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_mounting_wuerth_mounting_wuerth_wa_smst_2_7mm_h8mm_9774080951/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_mounting_wuerth_mounting_wuerth_wa_smst_2_7mm_h8mm_9774080951/working
-    oomp_doc: footprints/footprints/kicad/Mounting_Wuerth/Mounting_Wuerth_WA-SMST-2.7mm_H8mm_9774080951/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Mounting_Wuerth/Mounting_Wuerth_WA-SMST-2.7mm_H8mm_9774080951/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_mounting_wuerth_mounting_wuerth_wa_smst_2_7mm_h8mm_9774080951/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_mounting_wuerth_mounting_wuerth_wa_smst_2_7mm_h8mm_9774080951/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Mounting_Wuerth/Mounting_Wuerth_WA-SMST-2.7mm_H8mm_9774080951/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Mounting_Wuerth/Mounting_Wuerth_WA-SMST-2.7mm_H8mm_9774080951/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: mounting_wuerth_wa_smst_2_7mm_h8mm_9774080951
+    library_name: mounting_wuerth
+    md5: d1add70052d1fb4f7a7bd87353e39df7
+    md5_10: d1add70052
+    md5_5: d1add
+    md5_6: d1add7
+    oomp_key: oomp_kicad_mounting_wuerth_mounting_wuerth_wa_smst_2_7mm_h8mm_9774080951
+    oomp_key_extra: oomp_footprint_kicad_mounting_wuerth_mounting_wuerth_wa_smst_2_7mm_h8mm_9774080951
+    oomp_key_full: oomp_footprint_kicad_mounting_wuerth_mounting_wuerth_wa_smst_2_7mm_h8mm_9774080951_d1add7
+    oomp_key_simple: kicad_mounting_wuerth_mounting_wuerth_wa_smst_2_7mm_h8mm_9774080951
+    original_filename: libraries/kicad-footprints/Mounting_Wuerth.pretty/Mounting_Wuerth_WA-SMST-2.7mm_H8mm_9774080951.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_mounting_wuerth_mounting_wuerth_wa_smst_2_7mm_h8mm_9774080951
+  oomp_key_full: oomp_footprint_kicad_mounting_wuerth_mounting_wuerth_wa_smst_2_7mm_h8mm_9774080951
   oomp_key_simple: kicad_mounting_wuerth_mounting_wuerth_wa_smst_2_7mm_h8mm_9774080951
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_d2pak_d2pak/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_d2pak_d2pak/working
-    oomp_doc: footprints/footprints/brunoeagle/D2PAK.kicad_mod/D2PAK/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/D2PAK.kicad_mod/D2PAK/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_d2pak_d2pak/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_d2pak_d2pak/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/D2PAK.kicad_mod/D2PAK/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/D2PAK.kicad_mod/D2PAK/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: d2pak
+    library_name: d2pak_kicad_mod
+    md5: 80ab56df814595d1ba9f924ed58f3da5
+    md5_10: 80ab56df81
+    md5_5: 80ab5
+    md5_6: 80ab56
+    oomp_key: oomp_brunoeagle_d2pak_d2pak
+    oomp_key_extra: oomp_footprint_brunoeagle_d2pak_d2pak
+    oomp_key_full: oomp_footprint_brunoeagle_d2pak_d2pak_80ab56
+    oomp_key_simple: brunoeagle_d2pak_d2pak
+    original_filename: kicad-open-modules/D2PAK.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_d2pak_d2pak
+  oomp_key_full: oomp_footprint_brunoeagle_d2pak_d2pak
   oomp_key_simple: brunoeagle_d2pak_d2pak
   owner: brunoeagle
   repo:

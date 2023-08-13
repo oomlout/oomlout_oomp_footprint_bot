@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/Iangitpers/4a
     oomp_bot: footprints/iangitpers_dp_lcd_tft_20_qt200h1201/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/iangitpers_dp_lcd_tft_20_qt200h1201/working
-    oomp_doc: footprints/footprints/Iangitpers/dp-lcd/TFT_20_QT200H1201/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Iangitpers/dp-lcd/TFT_20_QT200H1201/working
     oomp_src_flat: footprints_flat/footprints_flat/iangitpers_dp_lcd_tft_20_qt200h1201/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/iangitpers_dp_lcd_tft_20_qt200h1201/working
-    oomp_src_folder: footprints_folder/footprints_folder/Iangitpers/dp-lcd/TFT_20_QT200H1201/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Iangitpers/dp-lcd/TFT_20_QT200H1201/working
   name: 4a
+  oomp:
+    footprint_name: tft_20_qt200h1201
+    library_name: dp_lcd
+    md5: 3188e4abc7cb23b42819e2db25eed714
+    md5_10: 3188e4abc7
+    md5_5: 3188e
+    md5_6: 3188e4
+    oomp_key: oomp_iangitpers_dp_lcd_tft_20_qt200h1201
+    oomp_key_extra: oomp_footprint_iangitpers_dp_lcd_tft_20_qt200h1201
+    oomp_key_full: oomp_footprint_iangitpers_dp_lcd_tft_20_qt200h1201_3188e4
+    oomp_key_simple: iangitpers_dp_lcd_tft_20_qt200h1201
+    original_filename: 4a/dp-lcd/dp-lcd.pretty/TFT_20_QT200H1201.kicad_mod
+    owner_name: iangitpers
   oomp_key: oomp_iangitpers_dp_lcd_tft_20_qt200h1201
+  oomp_key_full: oomp_footprint_iangitpers_dp_lcd_tft_20_qt200h1201
   oomp_key_simple: iangitpers_dp_lcd_tft_20_qt200h1201
   owner: Iangitpers
   repo:

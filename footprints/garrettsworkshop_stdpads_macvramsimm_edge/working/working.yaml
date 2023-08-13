@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/garrettsworkshop_stdpads_macvramsimm_edge/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/garrettsworkshop_stdpads_macvramsimm_edge/working
-    oomp_doc: footprints/footprints/garrettsworkshop/stdpads/MacVRAMSIMM_Edge/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/garrettsworkshop/stdpads/MacVRAMSIMM_Edge/working
     oomp_src_flat: footprints_flat/footprints_flat/garrettsworkshop_stdpads_macvramsimm_edge/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/garrettsworkshop_stdpads_macvramsimm_edge/working
-    oomp_src_folder: footprints_folder/footprints_folder/garrettsworkshop/stdpads/MacVRAMSIMM_Edge/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/garrettsworkshop/stdpads/MacVRAMSIMM_Edge/working
   name: stdpads.pretty
+  oomp:
+    footprint_name: macvramsimm_edge
+    library_name: stdpads
+    md5: ed40c2c870a3a35923448945f516410b
+    md5_10: ed40c2c870
+    md5_5: ed40c
+    md5_6: ed40c2
+    oomp_key: oomp_garrettsworkshop_stdpads_macvramsimm_edge
+    oomp_key_extra: oomp_footprint_garrettsworkshop_stdpads_macvramsimm_edge
+    oomp_key_full: oomp_footprint_garrettsworkshop_stdpads_macvramsimm_edge_ed40c2
+    oomp_key_simple: garrettsworkshop_stdpads_macvramsimm_edge
+    original_filename: stdpads.pretty/MacVRAMSIMM_Edge.kicad_mod
+    owner_name: garrettsworkshop
   oomp_key: oomp_garrettsworkshop_stdpads_macvramsimm_edge
+  oomp_key_full: oomp_footprint_garrettsworkshop_stdpads_macvramsimm_edge
   oomp_key_simple: garrettsworkshop_stdpads_macvramsimm_edge
   owner: garrettsworkshop
   repo:

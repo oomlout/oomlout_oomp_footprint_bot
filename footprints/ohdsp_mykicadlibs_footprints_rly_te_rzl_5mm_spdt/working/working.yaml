@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/ohdsp_mykicadlibs_footprints_rly_te_rzl_5mm_spdt/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ohdsp_mykicadlibs_footprints_rly_te_rzl_5mm_spdt/working
-    oomp_doc: footprints/footprints/ohdsp/MyKiCadLibs-Footprints/RLY_TE_RZL_5MM_SPDT/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ohdsp/MyKiCadLibs-Footprints/RLY_TE_RZL_5MM_SPDT/working
     oomp_src_flat: footprints_flat/footprints_flat/ohdsp_mykicadlibs_footprints_rly_te_rzl_5mm_spdt/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ohdsp_mykicadlibs_footprints_rly_te_rzl_5mm_spdt/working
-    oomp_src_folder: footprints_folder/footprints_folder/ohdsp/MyKiCadLibs-Footprints/RLY_TE_RZL_5MM_SPDT/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ohdsp/MyKiCadLibs-Footprints/RLY_TE_RZL_5MM_SPDT/working
   name: KiCad-Libs
+  oomp:
+    footprint_name: rly_te_rzl_5mm_spdt
+    library_name: mykicadlibs_footprints
+    md5: d2ac1bafe433ada5380a7206d48c4202
+    md5_10: d2ac1bafe4
+    md5_5: d2ac1
+    md5_6: d2ac1b
+    oomp_key: oomp_ohdsp_mykicadlibs_footprints_rly_te_rzl_5mm_spdt
+    oomp_key_extra: oomp_footprint_ohdsp_mykicadlibs_footprints_rly_te_rzl_5mm_spdt
+    oomp_key_full: oomp_footprint_ohdsp_mykicadlibs_footprints_rly_te_rzl_5mm_spdt_d2ac1b
+    oomp_key_simple: ohdsp_mykicadlibs_footprints_rly_te_rzl_5mm_spdt
+    original_filename: KiCad-Libs/MyKiCadLibs-Footprints.pretty/RLY_TE_RZL_5MM_SPDT.kicad_mod
+    owner_name: ohdsp
   oomp_key: oomp_ohdsp_mykicadlibs_footprints_rly_te_rzl_5mm_spdt
+  oomp_key_full: oomp_footprint_ohdsp_mykicadlibs_footprints_rly_te_rzl_5mm_spdt
   oomp_key_simple: ohdsp_mykicadlibs_footprints_rly_te_rzl_5mm_spdt
   owner: ohdsp
   repo:

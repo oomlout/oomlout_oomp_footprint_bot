@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/digikey_phototransistor_4_4x1_5mm_p2_54_radial_phototransistor_4_4x1_5mm_p2_54_radial/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_phototransistor_4_4x1_5mm_p2_54_radial_phototransistor_4_4x1_5mm_p2_54_radial/working
-    oomp_doc: footprints/footprints/digikey/Phototransistor_4.4x1.5mm_P2.54_Radial.kicad_mod/Phototransistor_4.4x1.5mm_P2.54_Radial/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/digikey/Phototransistor_4.4x1.5mm_P2.54_Radial.kicad_mod/Phototransistor_4.4x1.5mm_P2.54_Radial/working
     oomp_src_flat: footprints_flat/footprints_flat/digikey_phototransistor_4_4x1_5mm_p2_54_radial_phototransistor_4_4x1_5mm_p2_54_radial/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/digikey_phototransistor_4_4x1_5mm_p2_54_radial_phototransistor_4_4x1_5mm_p2_54_radial/working
-    oomp_src_folder: footprints_folder/footprints_folder/digikey/Phototransistor_4.4x1.5mm_P2.54_Radial.kicad_mod/Phototransistor_4.4x1.5mm_P2.54_Radial/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/digikey/Phototransistor_4.4x1.5mm_P2.54_Radial.kicad_mod/Phototransistor_4.4x1.5mm_P2.54_Radial/working
   name: digikey-kicad-library
+  oomp:
+    footprint_name: phototransistor_4_4x1_5mm_p2_54_radial
+    library_name: phototransistor_4_4x1_5mm_p2_54_radial_kicad_mod
+    md5: ac7708b2b7c2bbbab08adf67a50ff411
+    md5_10: ac7708b2b7
+    md5_5: ac770
+    md5_6: ac7708
+    oomp_key: oomp_digikey_phototransistor_4_4x1_5mm_p2_54_radial_phototransistor_4_4x1_5mm_p2_54_radial
+    oomp_key_extra: oomp_footprint_digikey_phototransistor_4_4x1_5mm_p2_54_radial_phototransistor_4_4x1_5mm_p2_54_radial
+    oomp_key_full: oomp_footprint_digikey_phototransistor_4_4x1_5mm_p2_54_radial_phototransistor_4_4x1_5mm_p2_54_radial_ac7708
+    oomp_key_simple: digikey_phototransistor_4_4x1_5mm_p2_54_radial_phototransistor_4_4x1_5mm_p2_54_radial
+    original_filename: digikey-kicad-library/src/Source_Footprints/Phototransistor_4.4x1.5mm_P2.54_Radial.kicad_mod
+    owner_name: digikey
   oomp_key: oomp_digikey_phototransistor_4_4x1_5mm_p2_54_radial_phototransistor_4_4x1_5mm_p2_54_radial
+  oomp_key_full: oomp_footprint_digikey_phototransistor_4_4x1_5mm_p2_54_radial_phototransistor_4_4x1_5mm_p2_54_radial
   oomp_key_simple: digikey_phototransistor_4_4x1_5mm_p2_54_radial_phototransistor_4_4x1_5mm_p2_54_radial
   owner: digikey
   repo:

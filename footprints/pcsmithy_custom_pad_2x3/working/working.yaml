@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pcsmithy_custom_pad_2x3/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pcsmithy_custom_pad_2x3/working
-    oomp_doc: footprints/footprints/PCSmithy/custom/PAD_2x3/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/PCSmithy/custom/PAD_2x3/working
     oomp_src_flat: footprints_flat/footprints_flat/pcsmithy_custom_pad_2x3/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pcsmithy_custom_pad_2x3/working
-    oomp_src_folder: footprints_folder/footprints_folder/PCSmithy/custom/PAD_2x3/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/PCSmithy/custom/PAD_2x3/working
   name: custom.pretty
+  oomp:
+    footprint_name: pad_2x3
+    library_name: custom
+    md5: 31ca3b66ac7f47d423ac1aa92018f95b
+    md5_10: 31ca3b66ac
+    md5_5: 31ca3
+    md5_6: 31ca3b
+    oomp_key: oomp_pcsmithy_custom_pad_2x3
+    oomp_key_extra: oomp_footprint_pcsmithy_custom_pad_2x3
+    oomp_key_full: oomp_footprint_pcsmithy_custom_pad_2x3_31ca3b
+    oomp_key_simple: pcsmithy_custom_pad_2x3
+    original_filename: custom.pretty/PAD_2x3.kicad_mod
+    owner_name: pcsmithy
   oomp_key: oomp_pcsmithy_custom_pad_2x3
+  oomp_key_full: oomp_footprint_pcsmithy_custom_pad_2x3
   oomp_key_simple: pcsmithy_custom_pad_2x3
   owner: PCSmithy
   repo:

@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/Iangitpers/4a
     oomp_bot: footprints/iangitpers_mountinghole_mountinghole_2_2mm_m2_din965_pad/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/iangitpers_mountinghole_mountinghole_2_2mm_m2_din965_pad/working
-    oomp_doc: footprints/footprints/Iangitpers/MountingHole/MountingHole_2.2mm_M2_DIN965_Pad/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Iangitpers/MountingHole/MountingHole_2.2mm_M2_DIN965_Pad/working
     oomp_src_flat: footprints_flat/footprints_flat/iangitpers_mountinghole_mountinghole_2_2mm_m2_din965_pad/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/iangitpers_mountinghole_mountinghole_2_2mm_m2_din965_pad/working
-    oomp_src_folder: footprints_folder/footprints_folder/Iangitpers/MountingHole/MountingHole_2.2mm_M2_DIN965_Pad/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Iangitpers/MountingHole/MountingHole_2.2mm_M2_DIN965_Pad/working
   name: 4a
+  oomp:
+    footprint_name: mountinghole_2_2mm_m2_din965_pad
+    library_name: mountinghole
+    md5: bcfb06a3676f9e6b083cb23a0788e517
+    md5_10: bcfb06a367
+    md5_5: bcfb0
+    md5_6: bcfb06
+    oomp_key: oomp_iangitpers_mountinghole_mountinghole_2_2mm_m2_din965_pad
+    oomp_key_extra: oomp_footprint_iangitpers_mountinghole_mountinghole_2_2mm_m2_din965_pad
+    oomp_key_full: oomp_footprint_iangitpers_mountinghole_mountinghole_2_2mm_m2_din965_pad_bcfb06
+    oomp_key_simple: iangitpers_mountinghole_mountinghole_2_2mm_m2_din965_pad
+    original_filename: 4a/MountingHole.pretty/MountingHole_2.2mm_M2_DIN965_Pad.kicad_mod
+    owner_name: iangitpers
   oomp_key: oomp_iangitpers_mountinghole_mountinghole_2_2mm_m2_din965_pad
+  oomp_key_full: oomp_footprint_iangitpers_mountinghole_mountinghole_2_2mm_m2_din965_pad
   oomp_key_simple: iangitpers_mountinghole_mountinghole_2_2mm_m2_din965_pad
   owner: Iangitpers
   repo:

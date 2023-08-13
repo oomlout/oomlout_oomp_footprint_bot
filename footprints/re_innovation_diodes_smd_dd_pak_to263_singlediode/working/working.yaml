@@ -13,14 +13,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/re_innovation_diodes_smd_dd_pak_to263_singlediode/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/re_innovation_diodes_smd_dd_pak_to263_singlediode/working
-    oomp_doc: footprints/footprints/re-innovation/Diodes_SMD/DD-PAK_TO263_SingleDiode/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/re-innovation/Diodes_SMD/DD-PAK_TO263_SingleDiode/working
     oomp_src_flat: footprints_flat/footprints_flat/re_innovation_diodes_smd_dd_pak_to263_singlediode/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/re_innovation_diodes_smd_dd_pak_to263_singlediode/working
-    oomp_src_folder: footprints_folder/footprints_folder/re-innovation/Diodes_SMD/DD-PAK_TO263_SingleDiode/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/re-innovation/Diodes_SMD/DD-PAK_TO263_SingleDiode/working
   name: kicad_reinnovation
+  oomp:
+    footprint_name: dd_pak_to263_singlediode
+    library_name: diodes_smd
+    md5: e3e2913e3472c605ea7d733ea4a73420
+    md5_10: e3e2913e34
+    md5_5: e3e29
+    md5_6: e3e291
+    oomp_key: oomp_re_innovation_diodes_smd_dd_pak_to263_singlediode
+    oomp_key_extra: oomp_footprint_re_innovation_diodes_smd_dd_pak_to263_singlediode
+    oomp_key_full: oomp_footprint_re_innovation_diodes_smd_dd_pak_to263_singlediode_e3e291
+    oomp_key_simple: re_innovation_diodes_smd_dd_pak_to263_singlediode
+    original_filename: kicad_reinnovation/KiCAD PRETTY/Diodes_SMD.pretty/DD-PAK_TO263_SingleDiode.kicad_mod
+    owner_name: re_innovation
   oomp_key: oomp_re_innovation_diodes_smd_dd_pak_to263_singlediode
+  oomp_key_full: oomp_footprint_re_innovation_diodes_smd_dd_pak_to263_singlediode
   oomp_key_simple: re_innovation_diodes_smd_dd_pak_to263_singlediode
   owner: re-innovation
   repo:

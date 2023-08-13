@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/gigahawk_gigahawk_msop_8_1ep_3x3mm_p0_65mm_ep1_425x1_76mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/gigahawk_gigahawk_msop_8_1ep_3x3mm_p0_65mm_ep1_425x1_76mm/working
-    oomp_doc: footprints/footprints/Gigahawk/Gigahawk/MSOP-8-1EP_3x3mm_P0.65mm_EP1.425x1.76mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Gigahawk/Gigahawk/MSOP-8-1EP_3x3mm_P0.65mm_EP1.425x1.76mm/working
     oomp_src_flat: footprints_flat/footprints_flat/gigahawk_gigahawk_msop_8_1ep_3x3mm_p0_65mm_ep1_425x1_76mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/gigahawk_gigahawk_msop_8_1ep_3x3mm_p0_65mm_ep1_425x1_76mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/Gigahawk/Gigahawk/MSOP-8-1EP_3x3mm_P0.65mm_EP1.425x1.76mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Gigahawk/Gigahawk/MSOP-8-1EP_3x3mm_P0.65mm_EP1.425x1.76mm/working
   name: Gigahawk.pretty
+  oomp:
+    footprint_name: msop_8_1ep_3x3mm_p0_65mm_ep1_425x1_76mm
+    library_name: gigahawk
+    md5: bd18cf3b599a8fc82acbb95fae4fa404
+    md5_10: bd18cf3b59
+    md5_5: bd18c
+    md5_6: bd18cf
+    oomp_key: oomp_gigahawk_gigahawk_msop_8_1ep_3x3mm_p0_65mm_ep1_425x1_76mm
+    oomp_key_extra: oomp_footprint_gigahawk_gigahawk_msop_8_1ep_3x3mm_p0_65mm_ep1_425x1_76mm
+    oomp_key_full: oomp_footprint_gigahawk_gigahawk_msop_8_1ep_3x3mm_p0_65mm_ep1_425x1_76mm_bd18cf
+    oomp_key_simple: gigahawk_gigahawk_msop_8_1ep_3x3mm_p0_65mm_ep1_425x1_76mm
+    original_filename: Gigahawk.pretty/MSOP-8-1EP_3x3mm_P0.65mm_EP1.425x1.76mm.kicad_mod
+    owner_name: gigahawk
   oomp_key: oomp_gigahawk_gigahawk_msop_8_1ep_3x3mm_p0_65mm_ep1_425x1_76mm
+  oomp_key_full: oomp_footprint_gigahawk_gigahawk_msop_8_1ep_3x3mm_p0_65mm_ep1_425x1_76mm
   oomp_key_simple: gigahawk_gigahawk_msop_8_1ep_3x3mm_p0_65mm_ep1_425x1_76mm
   owner: Gigahawk
   repo:

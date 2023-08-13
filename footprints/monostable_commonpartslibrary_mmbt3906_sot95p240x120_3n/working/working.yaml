@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/monostable_commonpartslibrary_mmbt3906_sot95p240x120_3n/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/monostable_commonpartslibrary_mmbt3906_sot95p240x120_3n/working
-    oomp_doc: footprints/footprints/monostable/CommonPartsLibrary/MMBT3906_SOT95P240X120-3N/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/monostable/CommonPartsLibrary/MMBT3906_SOT95P240X120-3N/working
     oomp_src_flat: footprints_flat/footprints_flat/monostable_commonpartslibrary_mmbt3906_sot95p240x120_3n/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/monostable_commonpartslibrary_mmbt3906_sot95p240x120_3n/working
-    oomp_src_folder: footprints_folder/footprints_folder/monostable/CommonPartsLibrary/MMBT3906_SOT95P240X120-3N/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/monostable/CommonPartsLibrary/MMBT3906_SOT95P240X120-3N/working
   name: CommonPartsLibrary.pretty
+  oomp:
+    footprint_name: mmbt3906_sot95p240x120_3n
+    library_name: commonpartslibrary
+    md5: 69e124a6ff460ca4ea959c64642f4d32
+    md5_10: 69e124a6ff
+    md5_5: 69e12
+    md5_6: 69e124
+    oomp_key: oomp_monostable_commonpartslibrary_mmbt3906_sot95p240x120_3n
+    oomp_key_extra: oomp_footprint_monostable_commonpartslibrary_mmbt3906_sot95p240x120_3n
+    oomp_key_full: oomp_footprint_monostable_commonpartslibrary_mmbt3906_sot95p240x120_3n_69e124
+    oomp_key_simple: monostable_commonpartslibrary_mmbt3906_sot95p240x120_3n
+    original_filename: CommonPartsLibrary.pretty/MMBT3906_SOT95P240X120-3N.kicad_mod
+    owner_name: monostable
   oomp_key: oomp_monostable_commonpartslibrary_mmbt3906_sot95p240x120_3n
+  oomp_key_full: oomp_footprint_monostable_commonpartslibrary_mmbt3906_sot95p240x120_3n
   oomp_key_simple: monostable_commonpartslibrary_mmbt3906_sot95p240x120_3n
   owner: monostable
   repo:

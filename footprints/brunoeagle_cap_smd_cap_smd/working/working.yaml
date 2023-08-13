@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_cap_smd_cap_smd/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_cap_smd_cap_smd/working
-    oomp_doc: footprints/footprints/brunoeagle/CAP_SMD.kicad_mod/CAP_SMD/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/CAP_SMD.kicad_mod/CAP_SMD/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_cap_smd_cap_smd/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_cap_smd_cap_smd/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/CAP_SMD.kicad_mod/CAP_SMD/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/CAP_SMD.kicad_mod/CAP_SMD/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: cap_smd
+    library_name: cap_smd_kicad_mod
+    md5: 9f2a461cad1273d9a1278e821ad7b079
+    md5_10: 9f2a461cad
+    md5_5: 9f2a4
+    md5_6: 9f2a46
+    oomp_key: oomp_brunoeagle_cap_smd_cap_smd
+    oomp_key_extra: oomp_footprint_brunoeagle_cap_smd_cap_smd
+    oomp_key_full: oomp_footprint_brunoeagle_cap_smd_cap_smd_9f2a46
+    oomp_key_simple: brunoeagle_cap_smd_cap_smd
+    original_filename: kicad-open-modules/CAP_SMD.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_cap_smd_cap_smd
+  oomp_key_full: oomp_footprint_brunoeagle_cap_smd_cap_smd
   oomp_key_simple: brunoeagle_cap_smd_cap_smd
   owner: brunoeagle
   repo:

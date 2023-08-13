@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/arturo182/kicad-modules
     oomp_bot: footprints/arturo182_display_extra_jlx19264g_333/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/arturo182_display_extra_jlx19264g_333/working
-    oomp_doc: footprints/footprints/arturo182/Display_Extra/JLX19264G-333/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/arturo182/Display_Extra/JLX19264G-333/working
     oomp_src_flat: footprints_flat/footprints_flat/arturo182_display_extra_jlx19264g_333/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/arturo182_display_extra_jlx19264g_333/working
-    oomp_src_folder: footprints_folder/footprints_folder/arturo182/Display_Extra/JLX19264G-333/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/arturo182/Display_Extra/JLX19264G-333/working
   name: kicad-modules
+  oomp:
+    footprint_name: jlx19264g_333
+    library_name: display_extra
+    md5: aa49c81a472bc09572c8db8f4c21029a
+    md5_10: aa49c81a47
+    md5_5: aa49c
+    md5_6: aa49c8
+    oomp_key: oomp_arturo182_display_extra_jlx19264g_333
+    oomp_key_extra: oomp_footprint_arturo182_display_extra_jlx19264g_333
+    oomp_key_full: oomp_footprint_arturo182_display_extra_jlx19264g_333_aa49c8
+    oomp_key_simple: arturo182_display_extra_jlx19264g_333
+    original_filename: kicad-modules/Display_Extra.pretty/JLX19264G-333.kicad_mod
+    owner_name: arturo182
   oomp_key: oomp_arturo182_display_extra_jlx19264g_333
+  oomp_key_full: oomp_footprint_arturo182_display_extra_jlx19264g_333
   oomp_key_simple: arturo182_display_extra_jlx19264g_333
   owner: arturo182
   repo:

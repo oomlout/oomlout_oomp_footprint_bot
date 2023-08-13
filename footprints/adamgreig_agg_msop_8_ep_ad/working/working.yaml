@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/adamgreig/agg-kicad
     oomp_bot: footprints/adamgreig_agg_msop_8_ep_ad/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/adamgreig_agg_msop_8_ep_ad/working
-    oomp_doc: footprints/footprints/adamgreig/agg/MSOP-8-EP-AD/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/adamgreig/agg/MSOP-8-EP-AD/working
     oomp_src_flat: footprints_flat/footprints_flat/adamgreig_agg_msop_8_ep_ad/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/adamgreig_agg_msop_8_ep_ad/working
-    oomp_src_folder: footprints_folder/footprints_folder/adamgreig/agg/MSOP-8-EP-AD/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/adamgreig/agg/MSOP-8-EP-AD/working
   name: agg-kicad
+  oomp:
+    footprint_name: msop_8_ep_ad
+    library_name: agg
+    md5: 613738a9369bd4f93290e760b5aebb30
+    md5_10: 613738a936
+    md5_5: '61373'
+    md5_6: '613738'
+    oomp_key: oomp_adamgreig_agg_msop_8_ep_ad
+    oomp_key_extra: oomp_footprint_adamgreig_agg_msop_8_ep_ad
+    oomp_key_full: oomp_footprint_adamgreig_agg_msop_8_ep_ad_613738
+    oomp_key_simple: adamgreig_agg_msop_8_ep_ad
+    original_filename: agg-kicad/agg.pretty/MSOP-8-EP-AD.kicad_mod
+    owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_msop_8_ep_ad
+  oomp_key_full: oomp_footprint_adamgreig_agg_msop_8_ep_ad
   oomp_key_simple: adamgreig_agg_msop_8_ep_ad
   owner: adamgreig
   repo:

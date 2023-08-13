@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/adamjvr/KiCAD-OnHand-Lib
     oomp_bot: footprints/adamjvr_onhand_components_pca9518apw,512/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/adamjvr_onhand_components_pca9518apw,512/working
-    oomp_doc: footprints/footprints/adamjvr/OnHand-Components/PCA9518APW,512/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/adamjvr/OnHand-Components/PCA9518APW,512/working
     oomp_src_flat: footprints_flat/footprints_flat/adamjvr_onhand_components_pca9518apw,512/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/adamjvr_onhand_components_pca9518apw,512/working
-    oomp_src_folder: footprints_folder/footprints_folder/adamjvr/OnHand-Components/PCA9518APW,512/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/adamjvr/OnHand-Components/PCA9518APW,512/working
   name: KiCAD-OnHand-Lib
+  oomp:
+    footprint_name: pca9518apw,512
+    library_name: onhand_components
+    md5: c1499c33c1e8bdf912f50a59a6751681
+    md5_10: c1499c33c1
+    md5_5: c1499
+    md5_6: c1499c
+    oomp_key: oomp_adamjvr_onhand_components_pca9518apw,512
+    oomp_key_extra: oomp_footprint_adamjvr_onhand_components_pca9518apw,512
+    oomp_key_full: oomp_footprint_adamjvr_onhand_components_pca9518apw,512_c1499c
+    oomp_key_simple: adamjvr_onhand_components_pca9518apw,512
+    original_filename: KiCAD-OnHand-Lib/OnHand-Components.pretty/PCA9518APW,512.kicad_mod
+    owner_name: adamjvr
   oomp_key: oomp_adamjvr_onhand_components_pca9518apw,512
+  oomp_key_full: oomp_footprint_adamjvr_onhand_components_pca9518apw,512
   oomp_key_simple: adamjvr_onhand_components_pca9518apw,512
   owner: adamjvr
   repo:

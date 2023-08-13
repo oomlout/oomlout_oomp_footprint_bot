@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/freetronics_freetronics_footprints_ft_module_sound/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/freetronics_freetronics_footprints_ft_module_sound/working
-    oomp_doc: footprints/footprints/freetronics/freetronics_footprints/FT_MODULE_SOUND/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/freetronics/freetronics_footprints/FT_MODULE_SOUND/working
     oomp_src_flat: footprints_flat/footprints_flat/freetronics_freetronics_footprints_ft_module_sound/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/freetronics_freetronics_footprints_ft_module_sound/working
-    oomp_src_folder: footprints_folder/footprints_folder/freetronics/freetronics_footprints/FT_MODULE_SOUND/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/freetronics/freetronics_footprints/FT_MODULE_SOUND/working
   name: freetronics_kicad_library
+  oomp:
+    footprint_name: ft_module_sound
+    library_name: freetronics_footprints
+    md5: 27f34affd0de10477730a8a2d0345443
+    md5_10: 27f34affd0
+    md5_5: 27f34
+    md5_6: 27f34a
+    oomp_key: oomp_freetronics_freetronics_footprints_ft_module_sound
+    oomp_key_extra: oomp_footprint_freetronics_freetronics_footprints_ft_module_sound
+    oomp_key_full: oomp_footprint_freetronics_freetronics_footprints_ft_module_sound_27f34a
+    oomp_key_simple: freetronics_freetronics_footprints_ft_module_sound
+    original_filename: freetronics_kicad_library/freetronics_footprints.pretty/FT_MODULE_SOUND.kicad_mod
+    owner_name: freetronics
   oomp_key: oomp_freetronics_freetronics_footprints_ft_module_sound
+  oomp_key_full: oomp_footprint_freetronics_freetronics_footprints_ft_module_sound
   oomp_key_simple: freetronics_freetronics_footprints_ft_module_sound
   owner: freetronics
   repo:

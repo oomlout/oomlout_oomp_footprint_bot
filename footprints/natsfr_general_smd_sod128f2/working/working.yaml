@@ -1,5 +1,8 @@
-- error: Expression does not have the correct type
-  file: kicad-components/Pretty_Footprints/General_SMD.pretty/SOD128F2.kicad_mod
+- file: kicad-components/Pretty_Footprints/General_SMD.pretty/SOD128F2.kicad_mod
+  footprint:
+    description: null
+    libraryLink: SOD128F2
+    number_of_pads: 2
   footprint_library_directory: footprint_library_owner/natsfr_kicad-components
   footprint_library_directory_flat: footprints_flat/natsfr_general_smd_sod128f2/working
   github_path: http://github.com/natsfr/kicad-components/blob/master/Pretty_Footprints/General_SMD.pretty/SOD128F2.kicad_mod
@@ -8,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/natsfr_general_smd_sod128f2/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/natsfr_general_smd_sod128f2/working
-    oomp_doc: footprints/footprints/natsfr/General_SMD/SOD128F2/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/natsfr/General_SMD/SOD128F2/working
     oomp_src_flat: footprints_flat/footprints_flat/natsfr_general_smd_sod128f2/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/natsfr_general_smd_sod128f2/working
-    oomp_src_folder: footprints_folder/footprints_folder/natsfr/General_SMD/SOD128F2/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/natsfr/General_SMD/SOD128F2/working
   name: kicad-components
+  oomp:
+    footprint_name: sod128f2
+    library_name: general_smd
+    md5: 4ef01fbd6ad28472bf3f0f07c59da9fa
+    md5_10: 4ef01fbd6a
+    md5_5: 4ef01
+    md5_6: 4ef01f
+    oomp_key: oomp_natsfr_general_smd_sod128f2
+    oomp_key_extra: oomp_footprint_natsfr_general_smd_sod128f2
+    oomp_key_full: oomp_footprint_natsfr_general_smd_sod128f2_4ef01f
+    oomp_key_simple: natsfr_general_smd_sod128f2
+    original_filename: kicad-components/Pretty_Footprints/General_SMD.pretty/SOD128F2.kicad_mod
+    owner_name: natsfr
   oomp_key: oomp_natsfr_general_smd_sod128f2
+  oomp_key_full: oomp_footprint_natsfr_general_smd_sod128f2
   oomp_key_simple: natsfr_general_smd_sod128f2
   owner: natsfr
   repo:

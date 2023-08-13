@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/garrettsworkshop_stdpads_usb_micro_b_amphenol_10118192_0001/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/garrettsworkshop_stdpads_usb_micro_b_amphenol_10118192_0001/working
-    oomp_doc: footprints/footprints/garrettsworkshop/stdpads/USB_Micro-B_Amphenol_10118192-0001/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/garrettsworkshop/stdpads/USB_Micro-B_Amphenol_10118192-0001/working
     oomp_src_flat: footprints_flat/footprints_flat/garrettsworkshop_stdpads_usb_micro_b_amphenol_10118192_0001/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/garrettsworkshop_stdpads_usb_micro_b_amphenol_10118192_0001/working
-    oomp_src_folder: footprints_folder/footprints_folder/garrettsworkshop/stdpads/USB_Micro-B_Amphenol_10118192-0001/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/garrettsworkshop/stdpads/USB_Micro-B_Amphenol_10118192-0001/working
   name: stdpads.pretty
+  oomp:
+    footprint_name: usb_micro_b_amphenol_10118192_0001
+    library_name: stdpads
+    md5: 98c428f0609c7a6a3087541f8eaba849
+    md5_10: 98c428f060
+    md5_5: 98c42
+    md5_6: 98c428
+    oomp_key: oomp_garrettsworkshop_stdpads_usb_micro_b_amphenol_10118192_0001
+    oomp_key_extra: oomp_footprint_garrettsworkshop_stdpads_usb_micro_b_amphenol_10118192_0001
+    oomp_key_full: oomp_footprint_garrettsworkshop_stdpads_usb_micro_b_amphenol_10118192_0001_98c428
+    oomp_key_simple: garrettsworkshop_stdpads_usb_micro_b_amphenol_10118192_0001
+    original_filename: stdpads.pretty/USB_Micro-B_Amphenol_10118192-0001.kicad_mod
+    owner_name: garrettsworkshop
   oomp_key: oomp_garrettsworkshop_stdpads_usb_micro_b_amphenol_10118192_0001
+  oomp_key_full: oomp_footprint_garrettsworkshop_stdpads_usb_micro_b_amphenol_10118192_0001
   oomp_key_simple: garrettsworkshop_stdpads_usb_micro_b_amphenol_10118192_0001
   owner: garrettsworkshop
   repo:

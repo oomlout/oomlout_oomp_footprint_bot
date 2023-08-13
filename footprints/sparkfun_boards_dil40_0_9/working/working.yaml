@@ -1,24 +1,34 @@
-- file: SparkFun-KiCad-Libraries/Footprints/Boards.pretty/DIL40_0.9.kicad_mod
+- file: SparkFun-KiCad-Libraries/Pre_v7/Footprints/Boards.pretty/DIL40_0.9.kicad_mod
   footprint:
     description: DUAL INLINE 40 PIN PACKAGE FOR MBED MICROCONTROLLER DEVELOPMENT PLATFORM.
     libraryLink: DIL40_0.9
     number_of_pads: 40
   footprint_library_directory: footprint_library_owner/sparkfun_SparkFun-KiCad-Libraries
   footprint_library_directory_flat: footprints_flat/sparkfun_boards_dil40_0_9/working
-  github_path: http://github.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Footprints/Boards.pretty/DIL40_0.9.kicad_mod
+  github_path: http://github.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Pre_v7/Footprints/Boards.pretty/DIL40_0.9.kicad_mod
   links:
-    github_src: http://gitlab.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Tools/SparkFun-Eagle-Libraries_Conversion/Export.pretty/DFN-6-3X3.kicad_mod
+    github_src: http://gitlab.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Pre_v7/Tools/SparkFun-Eagle-Libraries_Conversion/Export.pretty/DFN-6-3X3.kicad_mod
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/sparkfun_boards_dil40_0_9/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/sparkfun_boards_dil40_0_9/working
-    oomp_doc: footprints/footprints/sparkfun/Boards/DIL40_0.9/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/sparkfun/Boards/DIL40_0.9/working
     oomp_src_flat: footprints_flat/footprints_flat/sparkfun_boards_dil40_0_9/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/sparkfun_boards_dil40_0_9/working
-    oomp_src_folder: footprints_folder/footprints_folder/sparkfun/Boards/DIL40_0.9/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/sparkfun/Boards/DIL40_0.9/working
   name: SparkFun-KiCad-Libraries
+  oomp:
+    footprint_name: dil40_0_9
+    library_name: boards
+    md5: 4b6430919da4826ac1a9dba9f66899ef
+    md5_10: 4b6430919d
+    md5_5: 4b643
+    md5_6: 4b6430
+    oomp_key: oomp_sparkfun_boards_dil40_0_9
+    oomp_key_extra: oomp_footprint_sparkfun_boards_dil40_0_9
+    oomp_key_full: oomp_footprint_sparkfun_boards_dil40_0_9_4b6430
+    oomp_key_simple: sparkfun_boards_dil40_0_9
+    original_filename: SparkFun-KiCad-Libraries/Pre_v7/Footprints/Boards.pretty/DIL40_0.9.kicad_mod
+    owner_name: sparkfun
   oomp_key: oomp_sparkfun_boards_dil40_0_9
+  oomp_key_full: oomp_footprint_sparkfun_boards_dil40_0_9
   oomp_key_simple: sparkfun_boards_dil40_0_9
   owner: sparkfun
   repo:

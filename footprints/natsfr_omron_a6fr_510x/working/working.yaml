@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/natsfr_omron_a6fr_510x/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/natsfr_omron_a6fr_510x/working
-    oomp_doc: footprints/footprints/natsfr/Omron/A6FR-510x/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/natsfr/Omron/A6FR-510x/working
     oomp_src_flat: footprints_flat/footprints_flat/natsfr_omron_a6fr_510x/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/natsfr_omron_a6fr_510x/working
-    oomp_src_folder: footprints_folder/footprints_folder/natsfr/Omron/A6FR-510x/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/natsfr/Omron/A6FR-510x/working
   name: kicad-components
+  oomp:
+    footprint_name: a6fr_510x
+    library_name: omron
+    md5: 49678d7eaadb80eda5696e2cb997fb25
+    md5_10: 49678d7eaa
+    md5_5: '49678'
+    md5_6: 49678d
+    oomp_key: oomp_natsfr_omron_a6fr_510x
+    oomp_key_extra: oomp_footprint_natsfr_omron_a6fr_510x
+    oomp_key_full: oomp_footprint_natsfr_omron_a6fr_510x_49678d
+    oomp_key_simple: natsfr_omron_a6fr_510x
+    original_filename: kicad-components/Pretty_Footprints/Omron.pretty/A6FR-510x.kicad_mod
+    owner_name: natsfr
   oomp_key: oomp_natsfr_omron_a6fr_510x
+  oomp_key_full: oomp_footprint_natsfr_omron_a6fr_510x
   oomp_key_simple: natsfr_omron_a6fr_510x
   owner: natsfr
   repo:

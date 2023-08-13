@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/nppc_do_214aa_do_214aa/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nppc_do_214aa_do_214aa/working
-    oomp_doc: footprints/footprints/nppc/DO_214AA.kicad_mod/DO_214AA/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/nppc/DO_214AA.kicad_mod/DO_214AA/working
     oomp_src_flat: footprints_flat/footprints_flat/nppc_do_214aa_do_214aa/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nppc_do_214aa_do_214aa/working
-    oomp_src_folder: footprints_folder/footprints_folder/nppc/DO_214AA.kicad_mod/DO_214AA/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/nppc/DO_214AA.kicad_mod/DO_214AA/working
   name: KiCadCustomLibs
+  oomp:
+    footprint_name: do_214aa
+    library_name: do_214aa_kicad_mod
+    md5: 4847cf28c5d85a43d1dcb72ef39cef1c
+    md5_10: 4847cf28c5
+    md5_5: 4847c
+    md5_6: 4847cf
+    oomp_key: oomp_nppc_do_214aa_do_214aa
+    oomp_key_extra: oomp_footprint_nppc_do_214aa_do_214aa
+    oomp_key_full: oomp_footprint_nppc_do_214aa_do_214aa_4847cf
+    oomp_key_simple: nppc_do_214aa_do_214aa
+    original_filename: KiCadCustomLibs/DO_214AA.kicad_mod
+    owner_name: nppc
   oomp_key: oomp_nppc_do_214aa_do_214aa
+  oomp_key_full: oomp_footprint_nppc_do_214aa_do_214aa
   oomp_key_simple: nppc_do_214aa_do_214aa
   owner: nppc
   repo:

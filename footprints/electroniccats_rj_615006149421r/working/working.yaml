@@ -13,14 +13,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/electroniccats_rj_615006149421r/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/electroniccats_rj_615006149421r/working
-    oomp_doc: footprints/footprints/ElectronicCats/RJ/615006149421R/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ElectronicCats/RJ/615006149421R/working
     oomp_src_flat: footprints_flat/footprints_flat/electroniccats_rj_615006149421r/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/electroniccats_rj_615006149421r/working
-    oomp_src_folder: footprints_folder/footprints_folder/ElectronicCats/RJ/615006149421R/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ElectronicCats/RJ/615006149421R/working
   name: ComponentLibrariesKicadWurthElektronik
+  oomp:
+    footprint_name: 615006149421r
+    library_name: rj
+    md5: ed885fdc5ec8c4f28616b9aa955efe42
+    md5_10: ed885fdc5e
+    md5_5: ed885
+    md5_6: ed885f
+    oomp_key: oomp_electroniccats_rj_615006149421r
+    oomp_key_extra: oomp_footprint_electroniccats_rj_615006149421r
+    oomp_key_full: oomp_footprint_electroniccats_rj_615006149421r_ed885f
+    oomp_key_simple: electroniccats_rj_615006149421r
+    original_filename: ComponentLibrariesKicadWurthElektronik/INPUT_OUTPUT_CONNECTORS-rev17b/RJ.pretty/615006149421R.kicad_mod
+    owner_name: electroniccats
   oomp_key: oomp_electroniccats_rj_615006149421r
+  oomp_key_full: oomp_footprint_electroniccats_rj_615006149421r
   oomp_key_simple: electroniccats_rj_615006149421r
   owner: ElectronicCats
   repo:

@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/adamgreig/agg-kicad
     oomp_bot: footprints/adamgreig_agg_tslp7_4/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/adamgreig_agg_tslp7_4/working
-    oomp_doc: footprints/footprints/adamgreig/agg/TSLP7-4/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/adamgreig/agg/TSLP7-4/working
     oomp_src_flat: footprints_flat/footprints_flat/adamgreig_agg_tslp7_4/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/adamgreig_agg_tslp7_4/working
-    oomp_src_folder: footprints_folder/footprints_folder/adamgreig/agg/TSLP7-4/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/adamgreig/agg/TSLP7-4/working
   name: agg-kicad
+  oomp:
+    footprint_name: tslp7_4
+    library_name: agg
+    md5: aa5523d245a9d75a9b3681f05e3e0563
+    md5_10: aa5523d245
+    md5_5: aa552
+    md5_6: aa5523
+    oomp_key: oomp_adamgreig_agg_tslp7_4
+    oomp_key_extra: oomp_footprint_adamgreig_agg_tslp7_4
+    oomp_key_full: oomp_footprint_adamgreig_agg_tslp7_4_aa5523
+    oomp_key_simple: adamgreig_agg_tslp7_4
+    original_filename: agg-kicad/agg.pretty/TSLP7-4.kicad_mod
+    owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_tslp7_4
+  oomp_key_full: oomp_footprint_adamgreig_agg_tslp7_4
   oomp_key_simple: adamgreig_agg_tslp7_4
   owner: adamgreig
   repo:

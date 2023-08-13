@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/arturo182/kicad-modules
     oomp_bot: footprints/arturo182_connector_te_connectivity_extra_1_1734248_5/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/arturo182_connector_te_connectivity_extra_1_1734248_5/working
-    oomp_doc: footprints/footprints/arturo182/Connector_TE-Connectivity_Extra/1-1734248-5/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/arturo182/Connector_TE-Connectivity_Extra/1-1734248-5/working
     oomp_src_flat: footprints_flat/footprints_flat/arturo182_connector_te_connectivity_extra_1_1734248_5/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/arturo182_connector_te_connectivity_extra_1_1734248_5/working
-    oomp_src_folder: footprints_folder/footprints_folder/arturo182/Connector_TE-Connectivity_Extra/1-1734248-5/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/arturo182/Connector_TE-Connectivity_Extra/1-1734248-5/working
   name: kicad-modules
+  oomp:
+    footprint_name: '1_1734248_5'
+    library_name: connector_te_connectivity_extra
+    md5: f80a3bd95d3ad9f1241b615fed29e554
+    md5_10: f80a3bd95d
+    md5_5: f80a3
+    md5_6: f80a3b
+    oomp_key: oomp_arturo182_connector_te_connectivity_extra_1_1734248_5
+    oomp_key_extra: oomp_footprint_arturo182_connector_te_connectivity_extra_1_1734248_5
+    oomp_key_full: oomp_footprint_arturo182_connector_te_connectivity_extra_1_1734248_5_f80a3b
+    oomp_key_simple: arturo182_connector_te_connectivity_extra_1_1734248_5
+    original_filename: kicad-modules/Connector_TE-Connectivity_Extra.pretty/1-1734248-5.kicad_mod
+    owner_name: arturo182
   oomp_key: oomp_arturo182_connector_te_connectivity_extra_1_1734248_5
+  oomp_key_full: oomp_footprint_arturo182_connector_te_connectivity_extra_1_1734248_5
   oomp_key_simple: arturo182_connector_te_connectivity_extra_1_1734248_5
   owner: arturo182
   repo:

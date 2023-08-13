@@ -11,17 +11,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_potentiometer_tht_potentiometer_bourns_3006p_horizontal/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_potentiometer_tht_potentiometer_bourns_3006p_horizontal/working
-    oomp_doc: footprints/footprints/kicad/Potentiometer_THT/Potentiometer_Bourns_3006P_Horizontal/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Potentiometer_THT/Potentiometer_Bourns_3006P_Horizontal/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_potentiometer_tht_potentiometer_bourns_3006p_horizontal/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_potentiometer_tht_potentiometer_bourns_3006p_horizontal/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Potentiometer_THT/Potentiometer_Bourns_3006P_Horizontal/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Potentiometer_THT/Potentiometer_Bourns_3006P_Horizontal/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: potentiometer_bourns_3006p_horizontal
+    library_name: potentiometer_tht
+    md5: 6ac5db8be80162fcefd4501bec064d48
+    md5_10: 6ac5db8be8
+    md5_5: 6ac5d
+    md5_6: 6ac5db
+    oomp_key: oomp_kicad_potentiometer_tht_potentiometer_bourns_3006p_horizontal
+    oomp_key_extra: oomp_footprint_kicad_potentiometer_tht_potentiometer_bourns_3006p_horizontal
+    oomp_key_full: oomp_footprint_kicad_potentiometer_tht_potentiometer_bourns_3006p_horizontal_6ac5db
+    oomp_key_simple: kicad_potentiometer_tht_potentiometer_bourns_3006p_horizontal
+    original_filename: libraries/kicad-footprints/Potentiometer_THT.pretty/Potentiometer_Bourns_3006P_Horizontal.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_potentiometer_tht_potentiometer_bourns_3006p_horizontal
+  oomp_key_full: oomp_footprint_kicad_potentiometer_tht_potentiometer_bourns_3006p_horizontal
   oomp_key_simple: kicad_potentiometer_tht_potentiometer_bourns_3006p_horizontal
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

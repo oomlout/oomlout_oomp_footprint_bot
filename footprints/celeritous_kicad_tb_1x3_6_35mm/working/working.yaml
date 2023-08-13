@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/celeritous_kicad_tb_1x3_6_35mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/celeritous_kicad_tb_1x3_6_35mm/working
-    oomp_doc: footprints/footprints/celeritous/KiCad/TB_1x3_6.35mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/celeritous/KiCad/TB_1x3_6.35mm/working
     oomp_src_flat: footprints_flat/footprints_flat/celeritous_kicad_tb_1x3_6_35mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/celeritous_kicad_tb_1x3_6_35mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/celeritous/KiCad/TB_1x3_6.35mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/celeritous/KiCad/TB_1x3_6.35mm/working
   name: KiCad.pretty
+  oomp:
+    footprint_name: tb_1x3_6_35mm
+    library_name: kicad
+    md5: 41f5ebf183f43b22fa77f489f9eb4e37
+    md5_10: 41f5ebf183
+    md5_5: 41f5e
+    md5_6: 41f5eb
+    oomp_key: oomp_celeritous_kicad_tb_1x3_6_35mm
+    oomp_key_extra: oomp_footprint_celeritous_kicad_tb_1x3_6_35mm
+    oomp_key_full: oomp_footprint_celeritous_kicad_tb_1x3_6_35mm_41f5eb
+    oomp_key_simple: celeritous_kicad_tb_1x3_6_35mm
+    original_filename: KiCad.pretty/TB_1x3_6.35mm.kicad_mod
+    owner_name: celeritous
   oomp_key: oomp_celeritous_kicad_tb_1x3_6_35mm
+  oomp_key_full: oomp_footprint_celeritous_kicad_tb_1x3_6_35mm
   oomp_key_simple: celeritous_kicad_tb_1x3_6_35mm
   owner: celeritous
   repo:

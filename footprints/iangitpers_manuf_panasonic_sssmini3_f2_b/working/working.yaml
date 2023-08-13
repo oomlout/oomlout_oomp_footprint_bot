@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/Iangitpers/4a
     oomp_bot: footprints/iangitpers_manuf_panasonic_sssmini3_f2_b/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/iangitpers_manuf_panasonic_sssmini3_f2_b/working
-    oomp_doc: footprints/footprints/Iangitpers/manuf/PANASONIC-SSSMini3-F2-B/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Iangitpers/manuf/PANASONIC-SSSMini3-F2-B/working
     oomp_src_flat: footprints_flat/footprints_flat/iangitpers_manuf_panasonic_sssmini3_f2_b/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/iangitpers_manuf_panasonic_sssmini3_f2_b/working
-    oomp_src_folder: footprints_folder/footprints_folder/Iangitpers/manuf/PANASONIC-SSSMini3-F2-B/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Iangitpers/manuf/PANASONIC-SSSMini3-F2-B/working
   name: 4a
+  oomp:
+    footprint_name: panasonic_sssmini3_f2_b
+    library_name: manuf
+    md5: dc64894177acfd46085bcd39f6a5efca
+    md5_10: dc64894177
+    md5_5: dc648
+    md5_6: dc6489
+    oomp_key: oomp_iangitpers_manuf_panasonic_sssmini3_f2_b
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_panasonic_sssmini3_f2_b
+    oomp_key_full: oomp_footprint_iangitpers_manuf_panasonic_sssmini3_f2_b_dc6489
+    oomp_key_simple: iangitpers_manuf_panasonic_sssmini3_f2_b
+    original_filename: 4a/manuf.pretty/PANASONIC-SSSMini3-F2-B.kicad_mod
+    owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_panasonic_sssmini3_f2_b
+  oomp_key_full: oomp_footprint_iangitpers_manuf_panasonic_sssmini3_f2_b
   oomp_key_simple: iangitpers_manuf_panasonic_sssmini3_f2_b
   owner: Iangitpers
   repo:

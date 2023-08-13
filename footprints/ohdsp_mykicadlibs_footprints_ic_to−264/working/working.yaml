@@ -14,19 +14,26 @@
     oomp_bot: "footprints/ohdsp_mykicadlibs_footprints_ic_to\u2212264/working"
     oomp_bot_github: "https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ohdsp_mykicadlibs_footprints_ic_to\u2212\
       264/working"
-    oomp_doc: "footprints/footprints/ohdsp/MyKiCadLibs-Footprints/IC-TO\u2212264/working/"
-    oomp_doc_github: "https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ohdsp/MyKiCadLibs-Footprints/IC-TO\u2212\
-      264/working"
     oomp_src_flat: "footprints_flat/footprints_flat/ohdsp_mykicadlibs_footprints_ic_to\u2212\
       264/working"
     oomp_src_flat_github: "https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ohdsp_mykicadlibs_footprints_ic_to\u2212\
       264/working"
-    oomp_src_folder: "footprints_folder/footprints_folder/ohdsp/MyKiCadLibs-Footprints/IC-TO\u2212\
-      264/working"
-    oomp_src_folder_github: "https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ohdsp/MyKiCadLibs-Footprints/IC-TO\u2212\
-      264/working"
   name: KiCad-Libs
+  oomp:
+    footprint_name: "ic_to\u2212264"
+    library_name: mykicadlibs_footprints
+    md5: d6d3dfbb2a7425a3a3550e40157f4602
+    md5_10: d6d3dfbb2a
+    md5_5: d6d3d
+    md5_6: d6d3df
+    oomp_key: "oomp_ohdsp_mykicadlibs_footprints_ic_to\u2212264"
+    oomp_key_extra: "oomp_footprint_ohdsp_mykicadlibs_footprints_ic_to\u2212264"
+    oomp_key_full: "oomp_footprint_ohdsp_mykicadlibs_footprints_ic_to\u2212264_d6d3df"
+    oomp_key_simple: "ohdsp_mykicadlibs_footprints_ic_to\u2212264"
+    original_filename: "KiCad-Libs/MyKiCadLibs-Footprints.pretty/IC-TO\u2212264.kicad_mod"
+    owner_name: ohdsp
   oomp_key: "oomp_ohdsp_mykicadlibs_footprints_ic_to\u2212264"
+  oomp_key_full: "oomp_footprint_ohdsp_mykicadlibs_footprints_ic_to\u2212264"
   oomp_key_simple: "ohdsp_mykicadlibs_footprints_ic_to\u2212264"
   owner: ohdsp
   repo:

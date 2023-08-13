@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/candykingdom_homebrew_trans_csd17318q2t/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/candykingdom_homebrew_trans_csd17318q2t/working
-    oomp_doc: footprints/footprints/candykingdom/homebrew/TRANS_CSD17318Q2T/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/candykingdom/homebrew/TRANS_CSD17318Q2T/working
     oomp_src_flat: footprints_flat/footprints_flat/candykingdom_homebrew_trans_csd17318q2t/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/candykingdom_homebrew_trans_csd17318q2t/working
-    oomp_src_folder: footprints_folder/footprints_folder/candykingdom/homebrew/TRANS_CSD17318Q2T/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/candykingdom/homebrew/TRANS_CSD17318Q2T/working
   name: homebrew.pretty
+  oomp:
+    footprint_name: trans_csd17318q2t
+    library_name: homebrew
+    md5: 63ffff8d1e0e6b2ce550c4cb95f8bdfb
+    md5_10: 63ffff8d1e
+    md5_5: 63fff
+    md5_6: 63ffff
+    oomp_key: oomp_candykingdom_homebrew_trans_csd17318q2t
+    oomp_key_extra: oomp_footprint_candykingdom_homebrew_trans_csd17318q2t
+    oomp_key_full: oomp_footprint_candykingdom_homebrew_trans_csd17318q2t_63ffff
+    oomp_key_simple: candykingdom_homebrew_trans_csd17318q2t
+    original_filename: homebrew.pretty/TRANS_CSD17318Q2T.kicad_mod
+    owner_name: candykingdom
   oomp_key: oomp_candykingdom_homebrew_trans_csd17318q2t
+  oomp_key_full: oomp_footprint_candykingdom_homebrew_trans_csd17318q2t
   oomp_key_simple: candykingdom_homebrew_trans_csd17318q2t
   owner: candykingdom
   repo:

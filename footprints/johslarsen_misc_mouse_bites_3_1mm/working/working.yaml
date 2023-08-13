@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/johslarsen_misc_mouse_bites_3_1mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/johslarsen_misc_mouse_bites_3_1mm/working
-    oomp_doc: footprints/footprints/johslarsen/Misc/Mouse_Bites_3_1mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/johslarsen/Misc/Mouse_Bites_3_1mm/working
     oomp_src_flat: footprints_flat/footprints_flat/johslarsen_misc_mouse_bites_3_1mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/johslarsen_misc_mouse_bites_3_1mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/johslarsen/Misc/Mouse_Bites_3_1mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/johslarsen/Misc/Mouse_Bites_3_1mm/working
   name: Misc.pretty
+  oomp:
+    footprint_name: mouse_bites_3_1mm
+    library_name: misc
+    md5: c1454551b6ede54d78282598acd381a3
+    md5_10: c1454551b6
+    md5_5: c1454
+    md5_6: c14545
+    oomp_key: oomp_johslarsen_misc_mouse_bites_3_1mm
+    oomp_key_extra: oomp_footprint_johslarsen_misc_mouse_bites_3_1mm
+    oomp_key_full: oomp_footprint_johslarsen_misc_mouse_bites_3_1mm_c14545
+    oomp_key_simple: johslarsen_misc_mouse_bites_3_1mm
+    original_filename: Misc.pretty/Mouse_Bites_3_1mm.kicad_mod
+    owner_name: johslarsen
   oomp_key: oomp_johslarsen_misc_mouse_bites_3_1mm
+  oomp_key_full: oomp_footprint_johslarsen_misc_mouse_bites_3_1mm
   oomp_key_simple: johslarsen_misc_mouse_bites_3_1mm
   owner: johslarsen
   repo:

@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/Iangitpers/4a
     oomp_bot: footprints/iangitpers_manuf_linear_de14_reflow/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/iangitpers_manuf_linear_de14_reflow/working
-    oomp_doc: footprints/footprints/Iangitpers/manuf/LINEAR-DE14-REFLOW/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Iangitpers/manuf/LINEAR-DE14-REFLOW/working
     oomp_src_flat: footprints_flat/footprints_flat/iangitpers_manuf_linear_de14_reflow/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/iangitpers_manuf_linear_de14_reflow/working
-    oomp_src_folder: footprints_folder/footprints_folder/Iangitpers/manuf/LINEAR-DE14-REFLOW/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Iangitpers/manuf/LINEAR-DE14-REFLOW/working
   name: 4a
+  oomp:
+    footprint_name: linear_de14_reflow
+    library_name: manuf
+    md5: 2ab938057ca0a1e364865ac81b68ad3c
+    md5_10: 2ab938057c
+    md5_5: 2ab93
+    md5_6: 2ab938
+    oomp_key: oomp_iangitpers_manuf_linear_de14_reflow
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_linear_de14_reflow
+    oomp_key_full: oomp_footprint_iangitpers_manuf_linear_de14_reflow_2ab938
+    oomp_key_simple: iangitpers_manuf_linear_de14_reflow
+    original_filename: 4a/manuf.pretty/LINEAR-DE14-REFLOW.kicad_mod
+    owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_linear_de14_reflow
+  oomp_key_full: oomp_footprint_iangitpers_manuf_linear_de14_reflow
   oomp_key_simple: iangitpers_manuf_linear_de14_reflow
   owner: Iangitpers
   repo:

@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/rohbotics_ipc7351_nominal_qfn0p300x300x80_5wn/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/rohbotics_ipc7351_nominal_qfn0p300x300x80_5wn/working
-    oomp_doc: footprints/footprints/rohbotics/IPC7351-Nominal/QFN0P300X300X80-5WN/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/rohbotics/IPC7351-Nominal/QFN0P300X300X80-5WN/working
     oomp_src_flat: footprints_flat/footprints_flat/rohbotics_ipc7351_nominal_qfn0p300x300x80_5wn/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/rohbotics_ipc7351_nominal_qfn0p300x300x80_5wn/working
-    oomp_src_folder: footprints_folder/footprints_folder/rohbotics/IPC7351-Nominal/QFN0P300X300X80-5WN/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/rohbotics/IPC7351-Nominal/QFN0P300X300X80-5WN/working
   name: IPC7351-Nominal.pretty
+  oomp:
+    footprint_name: qfn0p300x300x80_5wn
+    library_name: ipc7351_nominal
+    md5: fe73dea019cc6d02ab97178f6f938a2a
+    md5_10: fe73dea019
+    md5_5: fe73d
+    md5_6: fe73de
+    oomp_key: oomp_rohbotics_ipc7351_nominal_qfn0p300x300x80_5wn
+    oomp_key_extra: oomp_footprint_rohbotics_ipc7351_nominal_qfn0p300x300x80_5wn
+    oomp_key_full: oomp_footprint_rohbotics_ipc7351_nominal_qfn0p300x300x80_5wn_fe73de
+    oomp_key_simple: rohbotics_ipc7351_nominal_qfn0p300x300x80_5wn
+    original_filename: IPC7351-Nominal.pretty/QFN0P300X300X80-5WN.kicad_mod
+    owner_name: rohbotics
   oomp_key: oomp_rohbotics_ipc7351_nominal_qfn0p300x300x80_5wn
+  oomp_key_full: oomp_footprint_rohbotics_ipc7351_nominal_qfn0p300x300x80_5wn
   oomp_key_simple: rohbotics_ipc7351_nominal_qfn0p300x300x80_5wn
   owner: rohbotics
   repo:

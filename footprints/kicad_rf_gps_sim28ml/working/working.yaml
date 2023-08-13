@@ -11,17 +11,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_rf_gps_sim28ml/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_rf_gps_sim28ml/working
-    oomp_doc: footprints/footprints/kicad/RF_GPS/SIM28ML/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/RF_GPS/SIM28ML/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_rf_gps_sim28ml/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_rf_gps_sim28ml/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/RF_GPS/SIM28ML/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/RF_GPS/SIM28ML/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: sim28ml
+    library_name: rf_gps
+    md5: e70749e1ceb449b19da1969bcad1f10a
+    md5_10: e70749e1ce
+    md5_5: e7074
+    md5_6: e70749
+    oomp_key: oomp_kicad_rf_gps_sim28ml
+    oomp_key_extra: oomp_footprint_kicad_rf_gps_sim28ml
+    oomp_key_full: oomp_footprint_kicad_rf_gps_sim28ml_e70749
+    oomp_key_simple: kicad_rf_gps_sim28ml
+    original_filename: libraries/kicad-footprints/RF_GPS.pretty/SIM28ML.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_rf_gps_sim28ml
+  oomp_key_full: oomp_footprint_kicad_rf_gps_sim28ml
   oomp_key_simple: kicad_rf_gps_sim28ml
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

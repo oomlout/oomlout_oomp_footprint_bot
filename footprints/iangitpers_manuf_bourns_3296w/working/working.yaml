@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/Iangitpers/4a
     oomp_bot: footprints/iangitpers_manuf_bourns_3296w/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/iangitpers_manuf_bourns_3296w/working
-    oomp_doc: footprints/footprints/Iangitpers/manuf/BOURNS-3296W/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Iangitpers/manuf/BOURNS-3296W/working
     oomp_src_flat: footprints_flat/footprints_flat/iangitpers_manuf_bourns_3296w/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/iangitpers_manuf_bourns_3296w/working
-    oomp_src_folder: footprints_folder/footprints_folder/Iangitpers/manuf/BOURNS-3296W/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Iangitpers/manuf/BOURNS-3296W/working
   name: 4a
+  oomp:
+    footprint_name: bourns_3296w
+    library_name: manuf
+    md5: 3711086720216e35f96b160029690fcb
+    md5_10: '3711086720'
+    md5_5: '37110'
+    md5_6: '371108'
+    oomp_key: oomp_iangitpers_manuf_bourns_3296w
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_bourns_3296w
+    oomp_key_full: oomp_footprint_iangitpers_manuf_bourns_3296w_371108
+    oomp_key_simple: iangitpers_manuf_bourns_3296w
+    original_filename: 4a/manuf.pretty/BOURNS-3296W.kicad_mod
+    owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_bourns_3296w
+  oomp_key_full: oomp_footprint_iangitpers_manuf_bourns_3296w
   oomp_key_simple: iangitpers_manuf_bourns_3296w
   owner: Iangitpers
   repo:

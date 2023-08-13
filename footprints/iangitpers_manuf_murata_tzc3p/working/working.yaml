@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/Iangitpers/4a
     oomp_bot: footprints/iangitpers_manuf_murata_tzc3p/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/iangitpers_manuf_murata_tzc3p/working
-    oomp_doc: footprints/footprints/Iangitpers/manuf/MURATA-TZC3P/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Iangitpers/manuf/MURATA-TZC3P/working
     oomp_src_flat: footprints_flat/footprints_flat/iangitpers_manuf_murata_tzc3p/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/iangitpers_manuf_murata_tzc3p/working
-    oomp_src_folder: footprints_folder/footprints_folder/Iangitpers/manuf/MURATA-TZC3P/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Iangitpers/manuf/MURATA-TZC3P/working
   name: 4a
+  oomp:
+    footprint_name: murata_tzc3p
+    library_name: manuf
+    md5: 8c32a17fc543109474dac5271de45d21
+    md5_10: 8c32a17fc5
+    md5_5: 8c32a
+    md5_6: 8c32a1
+    oomp_key: oomp_iangitpers_manuf_murata_tzc3p
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_murata_tzc3p
+    oomp_key_full: oomp_footprint_iangitpers_manuf_murata_tzc3p_8c32a1
+    oomp_key_simple: iangitpers_manuf_murata_tzc3p
+    original_filename: 4a/manuf.pretty/MURATA-TZC3P.kicad_mod
+    owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_murata_tzc3p
+  oomp_key_full: oomp_footprint_iangitpers_manuf_murata_tzc3p
   oomp_key_simple: iangitpers_manuf_murata_tzc3p
   owner: Iangitpers
   repo:

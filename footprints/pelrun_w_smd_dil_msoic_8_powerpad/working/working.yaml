@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pelrun_w_smd_dil_msoic_8_powerpad/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pelrun_w_smd_dil_msoic_8_powerpad/working
-    oomp_doc: footprints/footprints/pelrun/w_smd_dil/msoic-8_powerpad/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/pelrun/w_smd_dil/msoic-8_powerpad/working
     oomp_src_flat: footprints_flat/footprints_flat/pelrun_w_smd_dil_msoic_8_powerpad/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pelrun_w_smd_dil_msoic_8_powerpad/working
-    oomp_src_folder: footprints_folder/footprints_folder/pelrun/w_smd_dil/msoic-8_powerpad/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/pelrun/w_smd_dil/msoic-8_powerpad/working
   name: libKiCad
+  oomp:
+    footprint_name: msoic_8_powerpad
+    library_name: w_smd_dil
+    md5: 9e1cd5d6896cb997b2d01cd5cc7aabed
+    md5_10: 9e1cd5d689
+    md5_5: 9e1cd
+    md5_6: 9e1cd5
+    oomp_key: oomp_pelrun_w_smd_dil_msoic_8_powerpad
+    oomp_key_extra: oomp_footprint_pelrun_w_smd_dil_msoic_8_powerpad
+    oomp_key_full: oomp_footprint_pelrun_w_smd_dil_msoic_8_powerpad_9e1cd5
+    oomp_key_simple: pelrun_w_smd_dil_msoic_8_powerpad
+    original_filename: libKiCad/footprint/w_smd_dil.pretty/msoic-8_powerpad.kicad_mod
+    owner_name: pelrun
   oomp_key: oomp_pelrun_w_smd_dil_msoic_8_powerpad
+  oomp_key_full: oomp_footprint_pelrun_w_smd_dil_msoic_8_powerpad
   oomp_key_simple: pelrun_w_smd_dil_msoic_8_powerpad
   owner: pelrun
   repo:

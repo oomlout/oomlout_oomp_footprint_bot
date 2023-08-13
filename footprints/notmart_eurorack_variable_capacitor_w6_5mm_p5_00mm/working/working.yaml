@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/notmart_eurorack_variable_capacitor_w6_5mm_p5_00mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/notmart_eurorack_variable_capacitor_w6_5mm_p5_00mm/working
-    oomp_doc: footprints/footprints/notmart/eurorack/Variable_Capacitor_W6.5mm_P5.00mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/notmart/eurorack/Variable_Capacitor_W6.5mm_P5.00mm/working
     oomp_src_flat: footprints_flat/footprints_flat/notmart_eurorack_variable_capacitor_w6_5mm_p5_00mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/notmart_eurorack_variable_capacitor_w6_5mm_p5_00mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/notmart/eurorack/Variable_Capacitor_W6.5mm_P5.00mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/notmart/eurorack/Variable_Capacitor_W6.5mm_P5.00mm/working
   name: eurorack.pretty
+  oomp:
+    footprint_name: variable_capacitor_w6_5mm_p5_00mm
+    library_name: eurorack
+    md5: 6db5f2f895588625c8816b34778185eb
+    md5_10: 6db5f2f895
+    md5_5: 6db5f
+    md5_6: 6db5f2
+    oomp_key: oomp_notmart_eurorack_variable_capacitor_w6_5mm_p5_00mm
+    oomp_key_extra: oomp_footprint_notmart_eurorack_variable_capacitor_w6_5mm_p5_00mm
+    oomp_key_full: oomp_footprint_notmart_eurorack_variable_capacitor_w6_5mm_p5_00mm_6db5f2
+    oomp_key_simple: notmart_eurorack_variable_capacitor_w6_5mm_p5_00mm
+    original_filename: eurorack.pretty/Variable_Capacitor_W6.5mm_P5.00mm.kicad_mod
+    owner_name: notmart
   oomp_key: oomp_notmart_eurorack_variable_capacitor_w6_5mm_p5_00mm
+  oomp_key_full: oomp_footprint_notmart_eurorack_variable_capacitor_w6_5mm_p5_00mm
   oomp_key_simple: notmart_eurorack_variable_capacitor_w6_5mm_p5_00mm
   owner: notmart
   repo:

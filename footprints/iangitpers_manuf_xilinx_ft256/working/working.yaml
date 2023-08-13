@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/Iangitpers/4a
     oomp_bot: footprints/iangitpers_manuf_xilinx_ft256/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/iangitpers_manuf_xilinx_ft256/working
-    oomp_doc: footprints/footprints/Iangitpers/manuf/XILINX-FT256/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Iangitpers/manuf/XILINX-FT256/working
     oomp_src_flat: footprints_flat/footprints_flat/iangitpers_manuf_xilinx_ft256/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/iangitpers_manuf_xilinx_ft256/working
-    oomp_src_folder: footprints_folder/footprints_folder/Iangitpers/manuf/XILINX-FT256/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Iangitpers/manuf/XILINX-FT256/working
   name: 4a
+  oomp:
+    footprint_name: xilinx_ft256
+    library_name: manuf
+    md5: b35a019cec0ad338411b9d8d3d34ad6c
+    md5_10: b35a019cec
+    md5_5: b35a0
+    md5_6: b35a01
+    oomp_key: oomp_iangitpers_manuf_xilinx_ft256
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_xilinx_ft256
+    oomp_key_full: oomp_footprint_iangitpers_manuf_xilinx_ft256_b35a01
+    oomp_key_simple: iangitpers_manuf_xilinx_ft256
+    original_filename: 4a/manuf.pretty/XILINX-FT256.kicad_mod
+    owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_xilinx_ft256
+  oomp_key_full: oomp_footprint_iangitpers_manuf_xilinx_ft256
   oomp_key_simple: iangitpers_manuf_xilinx_ft256
   owner: Iangitpers
   repo:

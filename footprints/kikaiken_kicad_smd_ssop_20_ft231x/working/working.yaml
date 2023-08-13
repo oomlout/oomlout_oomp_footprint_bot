@@ -14,14 +14,24 @@
     github_src_repo: https://github.com/kikaiken/kicad_smd.pretty
     oomp_bot: footprints/kikaiken_kicad_smd_ssop_20_ft231x/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kikaiken_kicad_smd_ssop_20_ft231x/working
-    oomp_doc: footprints/footprints/kikaiken/kicad_smd/SSOP-20_FT231X/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kikaiken/kicad_smd/SSOP-20_FT231X/working
     oomp_src_flat: footprints_flat/footprints_flat/kikaiken_kicad_smd_ssop_20_ft231x/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kikaiken_kicad_smd_ssop_20_ft231x/working
-    oomp_src_folder: footprints_folder/footprints_folder/kikaiken/kicad_smd/SSOP-20_FT231X/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kikaiken/kicad_smd/SSOP-20_FT231X/working
   name: kicad_smd.pretty
+  oomp:
+    footprint_name: ssop_20_ft231x
+    library_name: kicad_smd
+    md5: 93e27d765ef7a0f7db243ea21e6bc1b0
+    md5_10: 93e27d765e
+    md5_5: 93e27
+    md5_6: 93e27d
+    oomp_key: oomp_kikaiken_kicad_smd_ssop_20_ft231x
+    oomp_key_extra: oomp_footprint_kikaiken_kicad_smd_ssop_20_ft231x
+    oomp_key_full: oomp_footprint_kikaiken_kicad_smd_ssop_20_ft231x_93e27d
+    oomp_key_simple: kikaiken_kicad_smd_ssop_20_ft231x
+    original_filename: kicad_smd.pretty/SSOP-20_FT231X.kicad_mod
+    owner_name: kikaiken
   oomp_key: oomp_kikaiken_kicad_smd_ssop_20_ft231x
+  oomp_key_full: oomp_footprint_kikaiken_kicad_smd_ssop_20_ft231x
   oomp_key_simple: kikaiken_kicad_smd_ssop_20_ft231x
   owner: kikaiken
   repo:

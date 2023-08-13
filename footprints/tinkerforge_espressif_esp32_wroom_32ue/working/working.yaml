@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/tinkerforge_espressif_esp32_wroom_32ue/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/tinkerforge_espressif_esp32_wroom_32ue/working
-    oomp_doc: footprints/footprints/Tinkerforge/Espressif/ESP32-WROOM-32UE/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Tinkerforge/Espressif/ESP32-WROOM-32UE/working
     oomp_src_flat: footprints_flat/footprints_flat/tinkerforge_espressif_esp32_wroom_32ue/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/tinkerforge_espressif_esp32_wroom_32ue/working
-    oomp_src_folder: footprints_folder/footprints_folder/Tinkerforge/Espressif/ESP32-WROOM-32UE/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Tinkerforge/Espressif/ESP32-WROOM-32UE/working
   name: kicad-libraries
+  oomp:
+    footprint_name: esp32_wroom_32ue
+    library_name: espressif
+    md5: 508b42aafcb1f0f6e9153ccc4facb6dd
+    md5_10: 508b42aafc
+    md5_5: 508b4
+    md5_6: 508b42
+    oomp_key: oomp_tinkerforge_espressif_esp32_wroom_32ue
+    oomp_key_extra: oomp_footprint_tinkerforge_espressif_esp32_wroom_32ue
+    oomp_key_full: oomp_footprint_tinkerforge_espressif_esp32_wroom_32ue_508b42
+    oomp_key_simple: tinkerforge_espressif_esp32_wroom_32ue
+    original_filename: kicad-libraries/footprints/Espressif.pretty/ESP32-WROOM-32UE.kicad_mod
+    owner_name: tinkerforge
   oomp_key: oomp_tinkerforge_espressif_esp32_wroom_32ue
+  oomp_key_full: oomp_footprint_tinkerforge_espressif_esp32_wroom_32ue
   oomp_key_simple: tinkerforge_espressif_esp32_wroom_32ue
   owner: Tinkerforge
   repo:

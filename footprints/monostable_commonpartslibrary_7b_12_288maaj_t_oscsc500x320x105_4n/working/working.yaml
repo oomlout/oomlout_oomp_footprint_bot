@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/monostable_commonpartslibrary_7b_12_288maaj_t_oscsc500x320x105_4n/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/monostable_commonpartslibrary_7b_12_288maaj_t_oscsc500x320x105_4n/working
-    oomp_doc: footprints/footprints/monostable/CommonPartsLibrary/7B-12.288MAAJ-T_OSCSC500X320X105-4N/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/monostable/CommonPartsLibrary/7B-12.288MAAJ-T_OSCSC500X320X105-4N/working
     oomp_src_flat: footprints_flat/footprints_flat/monostable_commonpartslibrary_7b_12_288maaj_t_oscsc500x320x105_4n/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/monostable_commonpartslibrary_7b_12_288maaj_t_oscsc500x320x105_4n/working
-    oomp_src_folder: footprints_folder/footprints_folder/monostable/CommonPartsLibrary/7B-12.288MAAJ-T_OSCSC500X320X105-4N/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/monostable/CommonPartsLibrary/7B-12.288MAAJ-T_OSCSC500X320X105-4N/working
   name: CommonPartsLibrary.pretty
+  oomp:
+    footprint_name: 7b_12_288maaj_t_oscsc500x320x105_4n
+    library_name: commonpartslibrary
+    md5: 620f8ea391ca37b31a6399c1fa2c7d24
+    md5_10: 620f8ea391
+    md5_5: 620f8
+    md5_6: 620f8e
+    oomp_key: oomp_monostable_commonpartslibrary_7b_12_288maaj_t_oscsc500x320x105_4n
+    oomp_key_extra: oomp_footprint_monostable_commonpartslibrary_7b_12_288maaj_t_oscsc500x320x105_4n
+    oomp_key_full: oomp_footprint_monostable_commonpartslibrary_7b_12_288maaj_t_oscsc500x320x105_4n_620f8e
+    oomp_key_simple: monostable_commonpartslibrary_7b_12_288maaj_t_oscsc500x320x105_4n
+    original_filename: CommonPartsLibrary.pretty/7B-12.288MAAJ-T_OSCSC500X320X105-4N.kicad_mod
+    owner_name: monostable
   oomp_key: oomp_monostable_commonpartslibrary_7b_12_288maaj_t_oscsc500x320x105_4n
+  oomp_key_full: oomp_footprint_monostable_commonpartslibrary_7b_12_288maaj_t_oscsc500x320x105_4n
   oomp_key_simple: monostable_commonpartslibrary_7b_12_288maaj_t_oscsc500x320x105_4n
   owner: monostable
   repo:

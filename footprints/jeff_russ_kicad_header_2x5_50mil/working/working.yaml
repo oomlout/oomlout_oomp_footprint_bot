@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/jeff_russ_kicad_header_2x5_50mil/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/jeff_russ_kicad_header_2x5_50mil/working
-    oomp_doc: footprints/footprints/Jeff-Russ/Kicad/HEADER_2X5_50MIL/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Jeff-Russ/Kicad/HEADER_2X5_50MIL/working
     oomp_src_flat: footprints_flat/footprints_flat/jeff_russ_kicad_header_2x5_50mil/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/jeff_russ_kicad_header_2x5_50mil/working
-    oomp_src_folder: footprints_folder/footprints_folder/Jeff-Russ/Kicad/HEADER_2X5_50MIL/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Jeff-Russ/Kicad/HEADER_2X5_50MIL/working
   name: Kicad.pretty
+  oomp:
+    footprint_name: header_2x5_50mil
+    library_name: kicad
+    md5: 0e2be3582cbfd28754cbaff4fd5f80d7
+    md5_10: 0e2be3582c
+    md5_5: 0e2be
+    md5_6: 0e2be3
+    oomp_key: oomp_jeff_russ_kicad_header_2x5_50mil
+    oomp_key_extra: oomp_footprint_jeff_russ_kicad_header_2x5_50mil
+    oomp_key_full: oomp_footprint_jeff_russ_kicad_header_2x5_50mil_0e2be3
+    oomp_key_simple: jeff_russ_kicad_header_2x5_50mil
+    original_filename: Kicad.pretty/HEADER_2X5_50MIL.kicad_mod
+    owner_name: jeff_russ
   oomp_key: oomp_jeff_russ_kicad_header_2x5_50mil
+  oomp_key_full: oomp_footprint_jeff_russ_kicad_header_2x5_50mil
   oomp_key_simple: jeff_russ_kicad_header_2x5_50mil
   owner: Jeff-Russ
   repo:

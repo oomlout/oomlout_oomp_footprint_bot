@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/fatenozomi_fate_parts_mx_2_00u_pcb/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/fatenozomi_fate_parts_mx_2_00u_pcb/working
-    oomp_doc: footprints/footprints/FateNozomi/Fate_Parts/MX_2.00u_PCB/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/FateNozomi/Fate_Parts/MX_2.00u_PCB/working
     oomp_src_flat: footprints_flat/footprints_flat/fatenozomi_fate_parts_mx_2_00u_pcb/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/fatenozomi_fate_parts_mx_2_00u_pcb/working
-    oomp_src_folder: footprints_folder/footprints_folder/FateNozomi/Fate_Parts/MX_2.00u_PCB/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/FateNozomi/Fate_Parts/MX_2.00u_PCB/working
   name: Fate_Parts.pretty
+  oomp:
+    footprint_name: mx_2_00u_pcb
+    library_name: fate_parts
+    md5: b8c50e722ca6f76e0b524f0f624b2ad5
+    md5_10: b8c50e722c
+    md5_5: b8c50
+    md5_6: b8c50e
+    oomp_key: oomp_fatenozomi_fate_parts_mx_2_00u_pcb
+    oomp_key_extra: oomp_footprint_fatenozomi_fate_parts_mx_2_00u_pcb
+    oomp_key_full: oomp_footprint_fatenozomi_fate_parts_mx_2_00u_pcb_b8c50e
+    oomp_key_simple: fatenozomi_fate_parts_mx_2_00u_pcb
+    original_filename: Fate_Parts.pretty/MX_Switch.pretty/MX_2.00u_PCB.kicad_mod
+    owner_name: fatenozomi
   oomp_key: oomp_fatenozomi_fate_parts_mx_2_00u_pcb
+  oomp_key_full: oomp_footprint_fatenozomi_fate_parts_mx_2_00u_pcb
   oomp_key_simple: fatenozomi_fate_parts_mx_2_00u_pcb
   owner: FateNozomi
   repo:

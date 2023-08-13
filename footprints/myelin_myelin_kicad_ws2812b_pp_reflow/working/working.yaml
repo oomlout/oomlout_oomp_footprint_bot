@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/myelin_myelin_kicad_ws2812b_pp_reflow/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/myelin_myelin_kicad_ws2812b_pp_reflow/working
-    oomp_doc: footprints/footprints/myelin/myelin-kicad/WS2812B_PP_reflow/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/myelin/myelin-kicad/WS2812B_PP_reflow/working
     oomp_src_flat: footprints_flat/footprints_flat/myelin_myelin_kicad_ws2812b_pp_reflow/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/myelin_myelin_kicad_ws2812b_pp_reflow/working
-    oomp_src_folder: footprints_folder/footprints_folder/myelin/myelin-kicad/WS2812B_PP_reflow/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/myelin/myelin-kicad/WS2812B_PP_reflow/working
   name: myelin-kicad.pretty
+  oomp:
+    footprint_name: ws2812b_pp_reflow
+    library_name: myelin_kicad
+    md5: bc5ada27ee9c2ba1e6682815d7648143
+    md5_10: bc5ada27ee
+    md5_5: bc5ad
+    md5_6: bc5ada
+    oomp_key: oomp_myelin_myelin_kicad_ws2812b_pp_reflow
+    oomp_key_extra: oomp_footprint_myelin_myelin_kicad_ws2812b_pp_reflow
+    oomp_key_full: oomp_footprint_myelin_myelin_kicad_ws2812b_pp_reflow_bc5ada
+    oomp_key_simple: myelin_myelin_kicad_ws2812b_pp_reflow
+    original_filename: myelin-kicad.pretty/WS2812B_PP_reflow.kicad_mod
+    owner_name: myelin
   oomp_key: oomp_myelin_myelin_kicad_ws2812b_pp_reflow
+  oomp_key_full: oomp_footprint_myelin_myelin_kicad_ws2812b_pp_reflow
   oomp_key_simple: myelin_myelin_kicad_ws2812b_pp_reflow
   owner: myelin
   repo:

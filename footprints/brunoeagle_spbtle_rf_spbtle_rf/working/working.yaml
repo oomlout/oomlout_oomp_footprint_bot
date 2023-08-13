@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_spbtle_rf_spbtle_rf/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_spbtle_rf_spbtle_rf/working
-    oomp_doc: footprints/footprints/brunoeagle/SPBTLE-RF.kicad_mod/SPBTLE-RF/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/SPBTLE-RF.kicad_mod/SPBTLE-RF/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_spbtle_rf_spbtle_rf/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_spbtle_rf_spbtle_rf/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/SPBTLE-RF.kicad_mod/SPBTLE-RF/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/SPBTLE-RF.kicad_mod/SPBTLE-RF/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: spbtle_rf
+    library_name: spbtle_rf_kicad_mod
+    md5: 77133a3b66dabbfe239f0e53361c3bec
+    md5_10: 77133a3b66
+    md5_5: '77133'
+    md5_6: 77133a
+    oomp_key: oomp_brunoeagle_spbtle_rf_spbtle_rf
+    oomp_key_extra: oomp_footprint_brunoeagle_spbtle_rf_spbtle_rf
+    oomp_key_full: oomp_footprint_brunoeagle_spbtle_rf_spbtle_rf_77133a
+    oomp_key_simple: brunoeagle_spbtle_rf_spbtle_rf
+    original_filename: kicad-open-modules/SPBTLE-RF.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_spbtle_rf_spbtle_rf
+  oomp_key_full: oomp_footprint_brunoeagle_spbtle_rf_spbtle_rf
   oomp_key_simple: brunoeagle_spbtle_rf_spbtle_rf
   owner: brunoeagle
   repo:

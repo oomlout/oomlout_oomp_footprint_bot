@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/audrentis_mx_plate_footprints_tkl_bottom_row/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/audrentis_mx_plate_footprints_tkl_bottom_row/working
-    oomp_doc: footprints/footprints/audrentis/MX_Plate_Footprints/TKL_Bottom_Row/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/audrentis/MX_Plate_Footprints/TKL_Bottom_Row/working
     oomp_src_flat: footprints_flat/footprints_flat/audrentis_mx_plate_footprints_tkl_bottom_row/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/audrentis_mx_plate_footprints_tkl_bottom_row/working
-    oomp_src_folder: footprints_folder/footprints_folder/audrentis/MX_Plate_Footprints/TKL_Bottom_Row/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/audrentis/MX_Plate_Footprints/TKL_Bottom_Row/working
   name: MX_Plate_Footprints.pretty
+  oomp:
+    footprint_name: tkl_bottom_row
+    library_name: mx_plate_footprints
+    md5: 5b160162328f424895183ba566be9788
+    md5_10: 5b16016232
+    md5_5: 5b160
+    md5_6: 5b1601
+    oomp_key: oomp_audrentis_mx_plate_footprints_tkl_bottom_row
+    oomp_key_extra: oomp_footprint_audrentis_mx_plate_footprints_tkl_bottom_row
+    oomp_key_full: oomp_footprint_audrentis_mx_plate_footprints_tkl_bottom_row_5b1601
+    oomp_key_simple: audrentis_mx_plate_footprints_tkl_bottom_row
+    original_filename: MX_Plate_Footprints.pretty/TKL_Bottom_Row.kicad_mod
+    owner_name: audrentis
   oomp_key: oomp_audrentis_mx_plate_footprints_tkl_bottom_row
+  oomp_key_full: oomp_footprint_audrentis_mx_plate_footprints_tkl_bottom_row
   oomp_key_simple: audrentis_mx_plate_footprints_tkl_bottom_row
   owner: audrentis
   repo:

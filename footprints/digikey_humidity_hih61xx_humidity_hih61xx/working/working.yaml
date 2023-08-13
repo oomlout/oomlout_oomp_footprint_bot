@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/digikey_humidity_hih61xx_humidity_hih61xx/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_humidity_hih61xx_humidity_hih61xx/working
-    oomp_doc: footprints/footprints/digikey/Humidity_HIH61xx.kicad_mod/Humidity_HIH61xx/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/digikey/Humidity_HIH61xx.kicad_mod/Humidity_HIH61xx/working
     oomp_src_flat: footprints_flat/footprints_flat/digikey_humidity_hih61xx_humidity_hih61xx/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/digikey_humidity_hih61xx_humidity_hih61xx/working
-    oomp_src_folder: footprints_folder/footprints_folder/digikey/Humidity_HIH61xx.kicad_mod/Humidity_HIH61xx/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/digikey/Humidity_HIH61xx.kicad_mod/Humidity_HIH61xx/working
   name: digikey-kicad-library
+  oomp:
+    footprint_name: humidity_hih61xx
+    library_name: humidity_hih61xx_kicad_mod
+    md5: 13b785f5922dcd7d5a9515c60333b49f
+    md5_10: 13b785f592
+    md5_5: 13b78
+    md5_6: 13b785
+    oomp_key: oomp_digikey_humidity_hih61xx_humidity_hih61xx
+    oomp_key_extra: oomp_footprint_digikey_humidity_hih61xx_humidity_hih61xx
+    oomp_key_full: oomp_footprint_digikey_humidity_hih61xx_humidity_hih61xx_13b785
+    oomp_key_simple: digikey_humidity_hih61xx_humidity_hih61xx
+    original_filename: digikey-kicad-library/src/Source_Footprints/Humidity_HIH61xx.kicad_mod
+    owner_name: digikey
   oomp_key: oomp_digikey_humidity_hih61xx_humidity_hih61xx
+  oomp_key_full: oomp_footprint_digikey_humidity_hih61xx_humidity_hih61xx
   oomp_key_simple: digikey_humidity_hih61xx_humidity_hih61xx
   owner: digikey
   repo:

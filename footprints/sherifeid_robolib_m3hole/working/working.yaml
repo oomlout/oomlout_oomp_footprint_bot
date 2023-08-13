@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/sherifeid_robolib_m3hole/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/sherifeid_robolib_m3hole/working
-    oomp_doc: footprints/footprints/sherifeid/RoboLib/M3Hole/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/sherifeid/RoboLib/M3Hole/working
     oomp_src_flat: footprints_flat/footprints_flat/sherifeid_robolib_m3hole/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/sherifeid_robolib_m3hole/working
-    oomp_src_folder: footprints_folder/footprints_folder/sherifeid/RoboLib/M3Hole/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/sherifeid/RoboLib/M3Hole/working
   name: RoboLib.pretty
+  oomp:
+    footprint_name: m3hole
+    library_name: robolib
+    md5: 0c663d053c2ea953e4f3eed7918f55b7
+    md5_10: 0c663d053c
+    md5_5: 0c663
+    md5_6: 0c663d
+    oomp_key: oomp_sherifeid_robolib_m3hole
+    oomp_key_extra: oomp_footprint_sherifeid_robolib_m3hole
+    oomp_key_full: oomp_footprint_sherifeid_robolib_m3hole_0c663d
+    oomp_key_simple: sherifeid_robolib_m3hole
+    original_filename: RoboLib.pretty/M3Hole.kicad_mod
+    owner_name: sherifeid
   oomp_key: oomp_sherifeid_robolib_m3hole
+  oomp_key_full: oomp_footprint_sherifeid_robolib_m3hole
   oomp_key_simple: sherifeid_robolib_m3hole
   owner: sherifeid
   repo:

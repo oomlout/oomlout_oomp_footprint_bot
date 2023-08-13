@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/candykingdom_homebrew_teensy41_stripped/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/candykingdom_homebrew_teensy41_stripped/working
-    oomp_doc: footprints/footprints/candykingdom/homebrew/Teensy41_stripped/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/candykingdom/homebrew/Teensy41_stripped/working
     oomp_src_flat: footprints_flat/footprints_flat/candykingdom_homebrew_teensy41_stripped/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/candykingdom_homebrew_teensy41_stripped/working
-    oomp_src_folder: footprints_folder/footprints_folder/candykingdom/homebrew/Teensy41_stripped/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/candykingdom/homebrew/Teensy41_stripped/working
   name: homebrew.pretty
+  oomp:
+    footprint_name: teensy41_stripped
+    library_name: homebrew
+    md5: 0afd2f3c34dc6f348fce661a7a954ba6
+    md5_10: 0afd2f3c34
+    md5_5: 0afd2
+    md5_6: 0afd2f
+    oomp_key: oomp_candykingdom_homebrew_teensy41_stripped
+    oomp_key_extra: oomp_footprint_candykingdom_homebrew_teensy41_stripped
+    oomp_key_full: oomp_footprint_candykingdom_homebrew_teensy41_stripped_0afd2f
+    oomp_key_simple: candykingdom_homebrew_teensy41_stripped
+    original_filename: homebrew.pretty/Teensy41_stripped.kicad_mod
+    owner_name: candykingdom
   oomp_key: oomp_candykingdom_homebrew_teensy41_stripped
+  oomp_key_full: oomp_footprint_candykingdom_homebrew_teensy41_stripped
   oomp_key_simple: candykingdom_homebrew_teensy41_stripped
   owner: candykingdom
   repo:

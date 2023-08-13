@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/asukiaaa_my_kicad_footprints_m4_screw_terminal_2p/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/asukiaaa_my_kicad_footprints_m4_screw_terminal_2p/working
-    oomp_doc: footprints/footprints/asukiaaa/my-kicad-footprints/M4_screw_terminal_2p/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/asukiaaa/my-kicad-footprints/M4_screw_terminal_2p/working
     oomp_src_flat: footprints_flat/footprints_flat/asukiaaa_my_kicad_footprints_m4_screw_terminal_2p/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/asukiaaa_my_kicad_footprints_m4_screw_terminal_2p/working
-    oomp_src_folder: footprints_folder/footprints_folder/asukiaaa/my-kicad-footprints/M4_screw_terminal_2p/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/asukiaaa/my-kicad-footprints/M4_screw_terminal_2p/working
   name: my-kicad-footprints.pretty
+  oomp:
+    footprint_name: m4_screw_terminal_2p
+    library_name: my_kicad_footprints
+    md5: 37430f989e37e994972e4b68a7b42f2a
+    md5_10: 37430f989e
+    md5_5: '37430'
+    md5_6: 37430f
+    oomp_key: oomp_asukiaaa_my_kicad_footprints_m4_screw_terminal_2p
+    oomp_key_extra: oomp_footprint_asukiaaa_my_kicad_footprints_m4_screw_terminal_2p
+    oomp_key_full: oomp_footprint_asukiaaa_my_kicad_footprints_m4_screw_terminal_2p_37430f
+    oomp_key_simple: asukiaaa_my_kicad_footprints_m4_screw_terminal_2p
+    original_filename: my-kicad-footprints.pretty/M4_screw_terminal_2p.kicad_mod
+    owner_name: asukiaaa
   oomp_key: oomp_asukiaaa_my_kicad_footprints_m4_screw_terminal_2p
+  oomp_key_full: oomp_footprint_asukiaaa_my_kicad_footprints_m4_screw_terminal_2p
   oomp_key_simple: asukiaaa_my_kicad_footprints_m4_screw_terminal_2p
   owner: asukiaaa
   repo:

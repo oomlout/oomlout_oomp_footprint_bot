@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/seeed_studio_opl_discrete_semiconductor_do_41/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/seeed_studio_opl_discrete_semiconductor_do_41/working
-    oomp_doc: footprints/footprints/Seeed-Studio/OPL_Discrete_Semiconductor/DO-41/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Seeed-Studio/OPL_Discrete_Semiconductor/DO-41/working
     oomp_src_flat: footprints_flat/footprints_flat/seeed_studio_opl_discrete_semiconductor_do_41/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/seeed_studio_opl_discrete_semiconductor_do_41/working
-    oomp_src_folder: footprints_folder/footprints_folder/Seeed-Studio/OPL_Discrete_Semiconductor/DO-41/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Seeed-Studio/OPL_Discrete_Semiconductor/DO-41/working
   name: OPL_Kicad_Library
+  oomp:
+    footprint_name: do_41
+    library_name: opl_discrete_semiconductor
+    md5: d9a45e7b0bd2b1be298988f4f75ac441
+    md5_10: d9a45e7b0b
+    md5_5: d9a45
+    md5_6: d9a45e
+    oomp_key: oomp_seeed_studio_opl_discrete_semiconductor_do_41
+    oomp_key_extra: oomp_footprint_seeed_studio_opl_discrete_semiconductor_do_41
+    oomp_key_full: oomp_footprint_seeed_studio_opl_discrete_semiconductor_do_41_d9a45e
+    oomp_key_simple: seeed_studio_opl_discrete_semiconductor_do_41
+    original_filename: OPL_Kicad_Library/Seeed_Fusion_PCBA_OPL_Component_Library_for_KiCad/OPL_Discrete_Semiconductor.pretty/DO-41.kicad_mod
+    owner_name: seeed_studio
   oomp_key: oomp_seeed_studio_opl_discrete_semiconductor_do_41
+  oomp_key_full: oomp_footprint_seeed_studio_opl_discrete_semiconductor_do_41
   oomp_key_simple: seeed_studio_opl_discrete_semiconductor_do_41
   owner: Seeed-Studio
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/rocketscream_rocketscreamkicadlibrary_rfm9xw/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/rocketscream_rocketscreamkicadlibrary_rfm9xw/working
-    oomp_doc: footprints/footprints/rocketscream/RocketScreamKicadLibrary/RFM9xW/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/rocketscream/RocketScreamKicadLibrary/RFM9xW/working
     oomp_src_flat: footprints_flat/footprints_flat/rocketscream_rocketscreamkicadlibrary_rfm9xw/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/rocketscream_rocketscreamkicadlibrary_rfm9xw/working
-    oomp_src_folder: footprints_folder/footprints_folder/rocketscream/RocketScreamKicadLibrary/RFM9xW/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/rocketscream/RocketScreamKicadLibrary/RFM9xW/working
   name: RocketScreamKicadLibrary
+  oomp:
+    footprint_name: rfm9xw
+    library_name: rocketscreamkicadlibrary
+    md5: 3be68e700549c31c98be03e9465282b9
+    md5_10: 3be68e7005
+    md5_5: 3be68
+    md5_6: 3be68e
+    oomp_key: oomp_rocketscream_rocketscreamkicadlibrary_rfm9xw
+    oomp_key_extra: oomp_footprint_rocketscream_rocketscreamkicadlibrary_rfm9xw
+    oomp_key_full: oomp_footprint_rocketscream_rocketscreamkicadlibrary_rfm9xw_3be68e
+    oomp_key_simple: rocketscream_rocketscreamkicadlibrary_rfm9xw
+    original_filename: RocketScreamKicadLibrary/RocketScreamKicadLibrary.pretty/RFM9xW.kicad_mod
+    owner_name: rocketscream
   oomp_key: oomp_rocketscream_rocketscreamkicadlibrary_rfm9xw
+  oomp_key_full: oomp_footprint_rocketscream_rocketscreamkicadlibrary_rfm9xw
   oomp_key_simple: rocketscream_rocketscreamkicadlibrary_rfm9xw
   owner: rocketscream
   repo:

@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/alozewski/al-kicad-lib.pretty
     oomp_bot: footprints/alozewski_al_kicad_lib_c_axial_smd_l46_d35_p56_h/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/alozewski_al_kicad_lib_c_axial_smd_l46_d35_p56_h/working
-    oomp_doc: footprints/footprints/alozewski/al-kicad-lib/C_Axial_SMD_L46_D35_P56_H/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/alozewski/al-kicad-lib/C_Axial_SMD_L46_D35_P56_H/working
     oomp_src_flat: footprints_flat/footprints_flat/alozewski_al_kicad_lib_c_axial_smd_l46_d35_p56_h/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/alozewski_al_kicad_lib_c_axial_smd_l46_d35_p56_h/working
-    oomp_src_folder: footprints_folder/footprints_folder/alozewski/al-kicad-lib/C_Axial_SMD_L46_D35_P56_H/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/alozewski/al-kicad-lib/C_Axial_SMD_L46_D35_P56_H/working
   name: al-kicad-lib.pretty
+  oomp:
+    footprint_name: c_axial_smd_l46_d35_p56_h
+    library_name: al_kicad_lib
+    md5: fa689b2aff52ae06e0a771d35c93e4f4
+    md5_10: fa689b2aff
+    md5_5: fa689
+    md5_6: fa689b
+    oomp_key: oomp_alozewski_al_kicad_lib_c_axial_smd_l46_d35_p56_h
+    oomp_key_extra: oomp_footprint_alozewski_al_kicad_lib_c_axial_smd_l46_d35_p56_h
+    oomp_key_full: oomp_footprint_alozewski_al_kicad_lib_c_axial_smd_l46_d35_p56_h_fa689b
+    oomp_key_simple: alozewski_al_kicad_lib_c_axial_smd_l46_d35_p56_h
+    original_filename: al-kicad-lib.pretty/C_Axial_SMD_L46_D35_P56_H.kicad_mod
+    owner_name: alozewski
   oomp_key: oomp_alozewski_al_kicad_lib_c_axial_smd_l46_d35_p56_h
+  oomp_key_full: oomp_footprint_alozewski_al_kicad_lib_c_axial_smd_l46_d35_p56_h
   oomp_key_simple: alozewski_al_kicad_lib_c_axial_smd_l46_d35_p56_h
   owner: alozewski
   repo:

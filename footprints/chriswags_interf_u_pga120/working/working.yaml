@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/chriswags_interf_u_pga120/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/chriswags_interf_u_pga120/working
-    oomp_doc: footprints/footprints/chriswags/interf_u/PGA120/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/chriswags/interf_u/PGA120/working
     oomp_src_flat: footprints_flat/footprints_flat/chriswags_interf_u_pga120/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/chriswags_interf_u_pga120/working
-    oomp_src_folder: footprints_folder/footprints_folder/chriswags/interf_u/PGA120/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/chriswags/interf_u/PGA120/working
   name: KiCad
+  oomp:
+    footprint_name: pga120
+    library_name: interf_u
+    md5: 993be8904222b262d1f2af76978c9299
+    md5_10: 993be89042
+    md5_5: 993be
+    md5_6: 993be8
+    oomp_key: oomp_chriswags_interf_u_pga120
+    oomp_key_extra: oomp_footprint_chriswags_interf_u_pga120
+    oomp_key_full: oomp_footprint_chriswags_interf_u_pga120_993be8
+    oomp_key_simple: chriswags_interf_u_pga120
+    original_filename: KiCad/demos/interf_u/interf_u.pretty/PGA120.kicad_mod
+    owner_name: chriswags
   oomp_key: oomp_chriswags_interf_u_pga120
+  oomp_key_full: oomp_footprint_chriswags_interf_u_pga120
   oomp_key_simple: chriswags_interf_u_pga120
   owner: chriswags
   repo:

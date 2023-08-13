@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/nqbit_nqbit_dd1b030ha1r500/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nqbit_nqbit_dd1b030ha1r500/working
-    oomp_doc: footprints/footprints/nqbit/NQBit/DD1B030HA1R500/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/nqbit/NQBit/DD1B030HA1R500/working
     oomp_src_flat: footprints_flat/footprints_flat/nqbit_nqbit_dd1b030ha1r500/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nqbit_nqbit_dd1b030ha1r500/working
-    oomp_src_folder: footprints_folder/footprints_folder/nqbit/NQBit/DD1B030HA1R500/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/nqbit/NQBit/DD1B030HA1R500/working
   name: NQBit.pretty
+  oomp:
+    footprint_name: dd1b030ha1r500
+    library_name: nqbit
+    md5: bda841e776bb8333284d752f81d986df
+    md5_10: bda841e776
+    md5_5: bda84
+    md5_6: bda841
+    oomp_key: oomp_nqbit_nqbit_dd1b030ha1r500
+    oomp_key_extra: oomp_footprint_nqbit_nqbit_dd1b030ha1r500
+    oomp_key_full: oomp_footprint_nqbit_nqbit_dd1b030ha1r500_bda841
+    oomp_key_simple: nqbit_nqbit_dd1b030ha1r500
+    original_filename: NQBit.pretty/DD1B030HA1R500.kicad_mod
+    owner_name: nqbit
   oomp_key: oomp_nqbit_nqbit_dd1b030ha1r500
+  oomp_key_full: oomp_footprint_nqbit_nqbit_dd1b030ha1r500
   oomp_key_simple: nqbit_nqbit_dd1b030ha1r500
   owner: nqbit
   repo:

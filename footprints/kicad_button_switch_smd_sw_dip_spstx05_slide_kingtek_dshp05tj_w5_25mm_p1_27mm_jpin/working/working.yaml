@@ -13,17 +13,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_button_switch_smd_sw_dip_spstx05_slide_kingtek_dshp05tj_w5_25mm_p1_27mm_jpin/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_button_switch_smd_sw_dip_spstx05_slide_kingtek_dshp05tj_w5_25mm_p1_27mm_jpin/working
-    oomp_doc: footprints/footprints/kicad/Button_Switch_SMD/SW_DIP_SPSTx05_Slide_KingTek_DSHP05TJ_W5.25mm_P1.27mm_JPin/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Button_Switch_SMD/SW_DIP_SPSTx05_Slide_KingTek_DSHP05TJ_W5.25mm_P1.27mm_JPin/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_button_switch_smd_sw_dip_spstx05_slide_kingtek_dshp05tj_w5_25mm_p1_27mm_jpin/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_button_switch_smd_sw_dip_spstx05_slide_kingtek_dshp05tj_w5_25mm_p1_27mm_jpin/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Button_Switch_SMD/SW_DIP_SPSTx05_Slide_KingTek_DSHP05TJ_W5.25mm_P1.27mm_JPin/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Button_Switch_SMD/SW_DIP_SPSTx05_Slide_KingTek_DSHP05TJ_W5.25mm_P1.27mm_JPin/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: sw_dip_spstx05_slide_kingtek_dshp05tj_w5_25mm_p1_27mm_jpin
+    library_name: button_switch_smd
+    md5: c1536aadafcc504e2c005614cc726be0
+    md5_10: c1536aadaf
+    md5_5: c1536
+    md5_6: c1536a
+    oomp_key: oomp_kicad_button_switch_smd_sw_dip_spstx05_slide_kingtek_dshp05tj_w5_25mm_p1_27mm_jpin
+    oomp_key_extra: oomp_footprint_kicad_button_switch_smd_sw_dip_spstx05_slide_kingtek_dshp05tj_w5_25mm_p1_27mm_jpin
+    oomp_key_full: oomp_footprint_kicad_button_switch_smd_sw_dip_spstx05_slide_kingtek_dshp05tj_w5_25mm_p1_27mm_jpin_c1536a
+    oomp_key_simple: kicad_button_switch_smd_sw_dip_spstx05_slide_kingtek_dshp05tj_w5_25mm_p1_27mm_jpin
+    original_filename: libraries/kicad-footprints/Button_Switch_SMD.pretty/SW_DIP_SPSTx05_Slide_KingTek_DSHP05TJ_W5.25mm_P1.27mm_JPin.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_button_switch_smd_sw_dip_spstx05_slide_kingtek_dshp05tj_w5_25mm_p1_27mm_jpin
+  oomp_key_full: oomp_footprint_kicad_button_switch_smd_sw_dip_spstx05_slide_kingtek_dshp05tj_w5_25mm_p1_27mm_jpin
   oomp_key_simple: kicad_button_switch_smd_sw_dip_spstx05_slide_kingtek_dshp05tj_w5_25mm_p1_27mm_jpin
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

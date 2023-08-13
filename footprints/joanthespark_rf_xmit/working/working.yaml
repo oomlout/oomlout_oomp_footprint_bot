@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/joanthespark_rf_xmit/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/joanthespark_rf_xmit/working
-    oomp_doc: footprints/footprints/JoanTheSpark/RF/XMIT/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/JoanTheSpark/RF/XMIT/working
     oomp_src_flat: footprints_flat/footprints_flat/joanthespark_rf_xmit/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/joanthespark_rf_xmit/working
-    oomp_src_folder: footprints_folder/footprints_folder/JoanTheSpark/RF/XMIT/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/JoanTheSpark/RF/XMIT/working
   name: KiCAD
+  oomp:
+    footprint_name: xmit
+    library_name: rf
+    md5: 5792e33443c372b44f10338222283370
+    md5_10: 5792e33443
+    md5_5: 5792e
+    md5_6: 5792e3
+    oomp_key: oomp_joanthespark_rf_xmit
+    oomp_key_extra: oomp_footprint_joanthespark_rf_xmit
+    oomp_key_full: oomp_footprint_joanthespark_rf_xmit_5792e3
+    oomp_key_simple: joanthespark_rf_xmit
+    original_filename: KiCAD/mods/RF.pretty/XMIT.kicad_mod
+    owner_name: joanthespark
   oomp_key: oomp_joanthespark_rf_xmit
+  oomp_key_full: oomp_footprint_joanthespark_rf_xmit
   oomp_key_simple: joanthespark_rf_xmit
   owner: JoanTheSpark
   repo:

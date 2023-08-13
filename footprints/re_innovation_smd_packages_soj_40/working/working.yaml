@@ -13,14 +13,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/re_innovation_smd_packages_soj_40/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/re_innovation_smd_packages_soj_40/working
-    oomp_doc: footprints/footprints/re-innovation/SMD_Packages/SOJ-40/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/re-innovation/SMD_Packages/SOJ-40/working
     oomp_src_flat: footprints_flat/footprints_flat/re_innovation_smd_packages_soj_40/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/re_innovation_smd_packages_soj_40/working
-    oomp_src_folder: footprints_folder/footprints_folder/re-innovation/SMD_Packages/SOJ-40/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/re-innovation/SMD_Packages/SOJ-40/working
   name: kicad_reinnovation
+  oomp:
+    footprint_name: soj_40
+    library_name: smd_packages
+    md5: 5879abbb2816e8676f2bdca6250f0e75
+    md5_10: 5879abbb28
+    md5_5: 5879a
+    md5_6: 5879ab
+    oomp_key: oomp_re_innovation_smd_packages_soj_40
+    oomp_key_extra: oomp_footprint_re_innovation_smd_packages_soj_40
+    oomp_key_full: oomp_footprint_re_innovation_smd_packages_soj_40_5879ab
+    oomp_key_simple: re_innovation_smd_packages_soj_40
+    original_filename: kicad_reinnovation/KiCAD PRETTY/SMD_Packages.pretty/SOJ-40.kicad_mod
+    owner_name: re_innovation
   oomp_key: oomp_re_innovation_smd_packages_soj_40
+  oomp_key_full: oomp_footprint_re_innovation_smd_packages_soj_40
   oomp_key_simple: re_innovation_smd_packages_soj_40
   owner: re-innovation
   repo:

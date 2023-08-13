@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/hairymnstr_nathan_tht_conn_header_6/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/hairymnstr_nathan_tht_conn_header_6/working
-    oomp_doc: footprints/footprints/hairymnstr/Nathan_THT_Conn/HEADER_6/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/hairymnstr/Nathan_THT_Conn/HEADER_6/working
     oomp_src_flat: footprints_flat/footprints_flat/hairymnstr_nathan_tht_conn_header_6/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/hairymnstr_nathan_tht_conn_header_6/working
-    oomp_src_folder: footprints_folder/footprints_folder/hairymnstr/Nathan_THT_Conn/HEADER_6/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/hairymnstr/Nathan_THT_Conn/HEADER_6/working
   name: Nathan_THT_Conn.pretty
+  oomp:
+    footprint_name: header_6
+    library_name: nathan_tht_conn
+    md5: 023c4343be8f984692f0c122b59e030a
+    md5_10: 023c4343be
+    md5_5: 023c4
+    md5_6: 023c43
+    oomp_key: oomp_hairymnstr_nathan_tht_conn_header_6
+    oomp_key_extra: oomp_footprint_hairymnstr_nathan_tht_conn_header_6
+    oomp_key_full: oomp_footprint_hairymnstr_nathan_tht_conn_header_6_023c43
+    oomp_key_simple: hairymnstr_nathan_tht_conn_header_6
+    original_filename: Nathan_THT_Conn.pretty/HEADER_6.kicad_mod
+    owner_name: hairymnstr
   oomp_key: oomp_hairymnstr_nathan_tht_conn_header_6
+  oomp_key_full: oomp_footprint_hairymnstr_nathan_tht_conn_header_6
   oomp_key_simple: hairymnstr_nathan_tht_conn_header_6
   owner: hairymnstr
   repo:

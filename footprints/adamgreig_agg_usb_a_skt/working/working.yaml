@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/adamgreig/agg-kicad
     oomp_bot: footprints/adamgreig_agg_usb_a_skt/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/adamgreig_agg_usb_a_skt/working
-    oomp_doc: footprints/footprints/adamgreig/agg/USB-A-SKT/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/adamgreig/agg/USB-A-SKT/working
     oomp_src_flat: footprints_flat/footprints_flat/adamgreig_agg_usb_a_skt/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/adamgreig_agg_usb_a_skt/working
-    oomp_src_folder: footprints_folder/footprints_folder/adamgreig/agg/USB-A-SKT/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/adamgreig/agg/USB-A-SKT/working
   name: agg-kicad
+  oomp:
+    footprint_name: usb_a_skt
+    library_name: agg
+    md5: 56062b0f0fd95a3224ca413052958574
+    md5_10: 56062b0f0f
+    md5_5: '56062'
+    md5_6: 56062b
+    oomp_key: oomp_adamgreig_agg_usb_a_skt
+    oomp_key_extra: oomp_footprint_adamgreig_agg_usb_a_skt
+    oomp_key_full: oomp_footprint_adamgreig_agg_usb_a_skt_56062b
+    oomp_key_simple: adamgreig_agg_usb_a_skt
+    original_filename: agg-kicad/agg.pretty/USB-A-SKT.kicad_mod
+    owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_usb_a_skt
+  oomp_key_full: oomp_footprint_adamgreig_agg_usb_a_skt
   oomp_key_simple: adamgreig_agg_usb_a_skt
   owner: adamgreig
   repo:

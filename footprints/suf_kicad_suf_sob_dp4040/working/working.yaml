@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/suf_kicad_suf_sob_dp4040/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/suf_kicad_suf_sob_dp4040/working
-    oomp_doc: footprints/footprints/suf-KiCAD/suf_sob/DP4040/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/suf-KiCAD/suf_sob/DP4040/working
     oomp_src_flat: footprints_flat/footprints_flat/suf_kicad_suf_sob_dp4040/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/suf_kicad_suf_sob_dp4040/working
-    oomp_src_folder: footprints_folder/footprints_folder/suf-KiCAD/suf_sob/DP4040/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/suf-KiCAD/suf_sob/DP4040/working
   name: suf_sob.pretty
+  oomp:
+    footprint_name: dp4040
+    library_name: suf_sob
+    md5: 0f8a9f4a1596c7a6fa8b7e8c17142306
+    md5_10: 0f8a9f4a15
+    md5_5: 0f8a9
+    md5_6: 0f8a9f
+    oomp_key: oomp_suf_kicad_suf_sob_dp4040
+    oomp_key_extra: oomp_footprint_suf_kicad_suf_sob_dp4040
+    oomp_key_full: oomp_footprint_suf_kicad_suf_sob_dp4040_0f8a9f
+    oomp_key_simple: suf_kicad_suf_sob_dp4040
+    original_filename: suf_sob.pretty/DP4040.kicad_mod
+    owner_name: suf_kicad
   oomp_key: oomp_suf_kicad_suf_sob_dp4040
+  oomp_key_full: oomp_footprint_suf_kicad_suf_sob_dp4040
   oomp_key_simple: suf_kicad_suf_sob_dp4040
   owner: suf-KiCAD
   repo:

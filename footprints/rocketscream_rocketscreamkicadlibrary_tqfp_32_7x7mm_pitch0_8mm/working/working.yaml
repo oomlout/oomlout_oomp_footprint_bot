@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/rocketscream_rocketscreamkicadlibrary_tqfp_32_7x7mm_pitch0_8mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/rocketscream_rocketscreamkicadlibrary_tqfp_32_7x7mm_pitch0_8mm/working
-    oomp_doc: footprints/footprints/rocketscream/RocketScreamKicadLibrary/TQFP-32_7x7mm_Pitch0.8mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/rocketscream/RocketScreamKicadLibrary/TQFP-32_7x7mm_Pitch0.8mm/working
     oomp_src_flat: footprints_flat/footprints_flat/rocketscream_rocketscreamkicadlibrary_tqfp_32_7x7mm_pitch0_8mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/rocketscream_rocketscreamkicadlibrary_tqfp_32_7x7mm_pitch0_8mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/rocketscream/RocketScreamKicadLibrary/TQFP-32_7x7mm_Pitch0.8mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/rocketscream/RocketScreamKicadLibrary/TQFP-32_7x7mm_Pitch0.8mm/working
   name: RocketScreamKicadLibrary
+  oomp:
+    footprint_name: tqfp_32_7x7mm_pitch0_8mm
+    library_name: rocketscreamkicadlibrary
+    md5: a0048b5a7a243ac415ec7200203a36e2
+    md5_10: a0048b5a7a
+    md5_5: a0048
+    md5_6: a0048b
+    oomp_key: oomp_rocketscream_rocketscreamkicadlibrary_tqfp_32_7x7mm_pitch0_8mm
+    oomp_key_extra: oomp_footprint_rocketscream_rocketscreamkicadlibrary_tqfp_32_7x7mm_pitch0_8mm
+    oomp_key_full: oomp_footprint_rocketscream_rocketscreamkicadlibrary_tqfp_32_7x7mm_pitch0_8mm_a0048b
+    oomp_key_simple: rocketscream_rocketscreamkicadlibrary_tqfp_32_7x7mm_pitch0_8mm
+    original_filename: RocketScreamKicadLibrary/RocketScreamKicadLibrary.pretty/TQFP-32_7x7mm_Pitch0.8mm.kicad_mod
+    owner_name: rocketscream
   oomp_key: oomp_rocketscream_rocketscreamkicadlibrary_tqfp_32_7x7mm_pitch0_8mm
+  oomp_key_full: oomp_footprint_rocketscream_rocketscreamkicadlibrary_tqfp_32_7x7mm_pitch0_8mm
   oomp_key_simple: rocketscream_rocketscreamkicadlibrary_tqfp_32_7x7mm_pitch0_8mm
   owner: rocketscream
   repo:

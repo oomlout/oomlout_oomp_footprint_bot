@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/candykingdom_homebrew_a_df_25_pp/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/candykingdom_homebrew_a_df_25_pp/working
-    oomp_doc: footprints/footprints/candykingdom/homebrew/A-DF_25_PP/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/candykingdom/homebrew/A-DF_25_PP/working
     oomp_src_flat: footprints_flat/footprints_flat/candykingdom_homebrew_a_df_25_pp/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/candykingdom_homebrew_a_df_25_pp/working
-    oomp_src_folder: footprints_folder/footprints_folder/candykingdom/homebrew/A-DF_25_PP/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/candykingdom/homebrew/A-DF_25_PP/working
   name: homebrew.pretty
+  oomp:
+    footprint_name: a_df_25_pp
+    library_name: homebrew
+    md5: be9933d29dea9ce322a212dc061caf23
+    md5_10: be9933d29d
+    md5_5: be993
+    md5_6: be9933
+    oomp_key: oomp_candykingdom_homebrew_a_df_25_pp
+    oomp_key_extra: oomp_footprint_candykingdom_homebrew_a_df_25_pp
+    oomp_key_full: oomp_footprint_candykingdom_homebrew_a_df_25_pp_be9933
+    oomp_key_simple: candykingdom_homebrew_a_df_25_pp
+    original_filename: homebrew.pretty/A-DF_25_PP.kicad_mod
+    owner_name: candykingdom
   oomp_key: oomp_candykingdom_homebrew_a_df_25_pp
+  oomp_key_full: oomp_footprint_candykingdom_homebrew_a_df_25_pp
   oomp_key_simple: candykingdom_homebrew_a_df_25_pp
   owner: candykingdom
   repo:

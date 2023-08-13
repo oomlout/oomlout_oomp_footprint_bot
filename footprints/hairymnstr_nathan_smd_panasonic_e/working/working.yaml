@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/hairymnstr_nathan_smd_panasonic_e/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/hairymnstr_nathan_smd_panasonic_e/working
-    oomp_doc: footprints/footprints/hairymnstr/Nathan_SMD/PANASONIC_E/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/hairymnstr/Nathan_SMD/PANASONIC_E/working
     oomp_src_flat: footprints_flat/footprints_flat/hairymnstr_nathan_smd_panasonic_e/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/hairymnstr_nathan_smd_panasonic_e/working
-    oomp_src_folder: footprints_folder/footprints_folder/hairymnstr/Nathan_SMD/PANASONIC_E/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/hairymnstr/Nathan_SMD/PANASONIC_E/working
   name: Nathan_SMD.pretty
+  oomp:
+    footprint_name: panasonic_e
+    library_name: nathan_smd
+    md5: 024a9ca5014c08a33e7d5da82d0e22f9
+    md5_10: 024a9ca501
+    md5_5: 024a9
+    md5_6: 024a9c
+    oomp_key: oomp_hairymnstr_nathan_smd_panasonic_e
+    oomp_key_extra: oomp_footprint_hairymnstr_nathan_smd_panasonic_e
+    oomp_key_full: oomp_footprint_hairymnstr_nathan_smd_panasonic_e_024a9c
+    oomp_key_simple: hairymnstr_nathan_smd_panasonic_e
+    original_filename: Nathan_SMD.pretty/PANASONIC_E.kicad_mod
+    owner_name: hairymnstr
   oomp_key: oomp_hairymnstr_nathan_smd_panasonic_e
+  oomp_key_full: oomp_footprint_hairymnstr_nathan_smd_panasonic_e
   oomp_key_simple: hairymnstr_nathan_smd_panasonic_e
   owner: hairymnstr
   repo:

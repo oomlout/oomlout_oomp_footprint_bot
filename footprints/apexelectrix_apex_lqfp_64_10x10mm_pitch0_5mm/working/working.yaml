@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/apexelectrix/Apex.pretty
     oomp_bot: footprints/apexelectrix_apex_lqfp_64_10x10mm_pitch0_5mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/apexelectrix_apex_lqfp_64_10x10mm_pitch0_5mm/working
-    oomp_doc: footprints/footprints/apexelectrix/Apex/LQFP-64_10x10mm_Pitch0.5mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/apexelectrix/Apex/LQFP-64_10x10mm_Pitch0.5mm/working
     oomp_src_flat: footprints_flat/footprints_flat/apexelectrix_apex_lqfp_64_10x10mm_pitch0_5mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/apexelectrix_apex_lqfp_64_10x10mm_pitch0_5mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/apexelectrix/Apex/LQFP-64_10x10mm_Pitch0.5mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/apexelectrix/Apex/LQFP-64_10x10mm_Pitch0.5mm/working
   name: Apex.pretty
+  oomp:
+    footprint_name: lqfp_64_10x10mm_pitch0_5mm
+    library_name: apex
+    md5: 3527d7d26d4aaf02d8ebad356ef6d6d1
+    md5_10: 3527d7d26d
+    md5_5: 3527d
+    md5_6: 3527d7
+    oomp_key: oomp_apexelectrix_apex_lqfp_64_10x10mm_pitch0_5mm
+    oomp_key_extra: oomp_footprint_apexelectrix_apex_lqfp_64_10x10mm_pitch0_5mm
+    oomp_key_full: oomp_footprint_apexelectrix_apex_lqfp_64_10x10mm_pitch0_5mm_3527d7
+    oomp_key_simple: apexelectrix_apex_lqfp_64_10x10mm_pitch0_5mm
+    original_filename: Apex.pretty/LQFP-64_10x10mm_Pitch0.5mm.kicad_mod
+    owner_name: apexelectrix
   oomp_key: oomp_apexelectrix_apex_lqfp_64_10x10mm_pitch0_5mm
+  oomp_key_full: oomp_footprint_apexelectrix_apex_lqfp_64_10x10mm_pitch0_5mm
   oomp_key_simple: apexelectrix_apex_lqfp_64_10x10mm_pitch0_5mm
   owner: apexelectrix
   repo:

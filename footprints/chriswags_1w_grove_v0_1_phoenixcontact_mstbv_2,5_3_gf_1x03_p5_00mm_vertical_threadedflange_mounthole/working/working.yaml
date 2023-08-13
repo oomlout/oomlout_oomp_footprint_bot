@@ -15,14 +15,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/chriswags_1w_grove_v0_1_phoenixcontact_mstbv_2,5_3_gf_1x03_p5_00mm_vertical_threadedflange_mounthole/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/chriswags_1w_grove_v0_1_phoenixcontact_mstbv_2,5_3_gf_1x03_p5_00mm_vertical_threadedflange_mounthole/working
-    oomp_doc: footprints/footprints/chriswags/1w-grove-v0.1/PhoenixContact_MSTBV_2,5_3-GF_1x03_P5.00mm_Vertical_ThreadedFlange_MountHole/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/chriswags/1w-grove-v0.1/PhoenixContact_MSTBV_2,5_3-GF_1x03_P5.00mm_Vertical_ThreadedFlange_MountHole/working
     oomp_src_flat: footprints_flat/footprints_flat/chriswags_1w_grove_v0_1_phoenixcontact_mstbv_2,5_3_gf_1x03_p5_00mm_vertical_threadedflange_mounthole/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/chriswags_1w_grove_v0_1_phoenixcontact_mstbv_2,5_3_gf_1x03_p5_00mm_vertical_threadedflange_mounthole/working
-    oomp_src_folder: footprints_folder/footprints_folder/chriswags/1w-grove-v0.1/PhoenixContact_MSTBV_2,5_3-GF_1x03_P5.00mm_Vertical_ThreadedFlange_MountHole/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/chriswags/1w-grove-v0.1/PhoenixContact_MSTBV_2,5_3-GF_1x03_P5.00mm_Vertical_ThreadedFlange_MountHole/working
   name: KiCad
+  oomp:
+    footprint_name: phoenixcontact_mstbv_2,5_3_gf_1x03_p5_00mm_vertical_threadedflange_mounthole
+    library_name: 1w_grove_v0_1
+    md5: 8dfcf4234f0bc9c02897a900420d59fc
+    md5_10: 8dfcf4234f
+    md5_5: 8dfcf
+    md5_6: 8dfcf4
+    oomp_key: oomp_chriswags_1w_grove_v0_1_phoenixcontact_mstbv_2,5_3_gf_1x03_p5_00mm_vertical_threadedflange_mounthole
+    oomp_key_extra: oomp_footprint_chriswags_1w_grove_v0_1_phoenixcontact_mstbv_2,5_3_gf_1x03_p5_00mm_vertical_threadedflange_mounthole
+    oomp_key_full: oomp_footprint_chriswags_1w_grove_v0_1_phoenixcontact_mstbv_2,5_3_gf_1x03_p5_00mm_vertical_threadedflange_mounthole_8dfcf4
+    oomp_key_simple: chriswags_1w_grove_v0_1_phoenixcontact_mstbv_2,5_3_gf_1x03_p5_00mm_vertical_threadedflange_mounthole
+    original_filename: KiCad/6.0/projects/1w-grove-v0.1/1w-grove-v0.1.pretty/PhoenixContact_MSTBV_2,5_3-GF_1x03_P5.00mm_Vertical_ThreadedFlange_MountHole.kicad_mod
+    owner_name: chriswags
   oomp_key: oomp_chriswags_1w_grove_v0_1_phoenixcontact_mstbv_2,5_3_gf_1x03_p5_00mm_vertical_threadedflange_mounthole
+  oomp_key_full: oomp_footprint_chriswags_1w_grove_v0_1_phoenixcontact_mstbv_2,5_3_gf_1x03_p5_00mm_vertical_threadedflange_mounthole
   oomp_key_simple: chriswags_1w_grove_v0_1_phoenixcontact_mstbv_2,5_3_gf_1x03_p5_00mm_vertical_threadedflange_mounthole
   owner: chriswags
   repo:

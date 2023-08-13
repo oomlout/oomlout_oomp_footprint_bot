@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/aaarsene/MX_19mm.pretty
     oomp_bot: footprints/aaarsene_mx_19mm_mx_19mm_6_25u_reversedstabilizers_noled/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/aaarsene_mx_19mm_mx_19mm_6_25u_reversedstabilizers_noled/working
-    oomp_doc: footprints/footprints/aaarsene/MX_19mm/MX_19mm-6.25U-ReversedStabilizers-NoLED/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/aaarsene/MX_19mm/MX_19mm-6.25U-ReversedStabilizers-NoLED/working
     oomp_src_flat: footprints_flat/footprints_flat/aaarsene_mx_19mm_mx_19mm_6_25u_reversedstabilizers_noled/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/aaarsene_mx_19mm_mx_19mm_6_25u_reversedstabilizers_noled/working
-    oomp_src_folder: footprints_folder/footprints_folder/aaarsene/MX_19mm/MX_19mm-6.25U-ReversedStabilizers-NoLED/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/aaarsene/MX_19mm/MX_19mm-6.25U-ReversedStabilizers-NoLED/working
   name: MX_19mm.pretty
+  oomp:
+    footprint_name: mx_19mm_6_25u_reversedstabilizers_noled
+    library_name: mx_19mm
+    md5: e5013aa5f4562ed9dbee0c5dfdca4bcd
+    md5_10: e5013aa5f4
+    md5_5: e5013
+    md5_6: e5013a
+    oomp_key: oomp_aaarsene_mx_19mm_mx_19mm_6_25u_reversedstabilizers_noled
+    oomp_key_extra: oomp_footprint_aaarsene_mx_19mm_mx_19mm_6_25u_reversedstabilizers_noled
+    oomp_key_full: oomp_footprint_aaarsene_mx_19mm_mx_19mm_6_25u_reversedstabilizers_noled_e5013a
+    oomp_key_simple: aaarsene_mx_19mm_mx_19mm_6_25u_reversedstabilizers_noled
+    original_filename: MX_19mm.pretty/MX_19mm-6.25U-ReversedStabilizers-NoLED.kicad_mod
+    owner_name: aaarsene
   oomp_key: oomp_aaarsene_mx_19mm_mx_19mm_6_25u_reversedstabilizers_noled
+  oomp_key_full: oomp_footprint_aaarsene_mx_19mm_mx_19mm_6_25u_reversedstabilizers_noled
   oomp_key_simple: aaarsene_mx_19mm_mx_19mm_6_25u_reversedstabilizers_noled
   owner: aaarsene
   repo:

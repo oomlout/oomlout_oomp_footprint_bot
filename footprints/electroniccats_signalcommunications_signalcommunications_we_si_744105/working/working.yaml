@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/electroniccats_signalcommunications_signalcommunications_we_si_744105/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/electroniccats_signalcommunications_signalcommunications_we_si_744105/working
-    oomp_doc: footprints/footprints/ElectronicCats/SignalCommunications/SignalCommunications-WE-SI_744105/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ElectronicCats/SignalCommunications/SignalCommunications-WE-SI_744105/working
     oomp_src_flat: footprints_flat/footprints_flat/electroniccats_signalcommunications_signalcommunications_we_si_744105/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/electroniccats_signalcommunications_signalcommunications_we_si_744105/working
-    oomp_src_folder: footprints_folder/footprints_folder/ElectronicCats/SignalCommunications/SignalCommunications-WE-SI_744105/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ElectronicCats/SignalCommunications/SignalCommunications-WE-SI_744105/working
   name: ComponentLibrariesKicadWurthElektronik
+  oomp:
+    footprint_name: signalcommunications_we_si_744105
+    library_name: signalcommunications
+    md5: 51b1ea7592e2fa5eb7a768ee82db4c87
+    md5_10: 51b1ea7592
+    md5_5: 51b1e
+    md5_6: 51b1ea
+    oomp_key: oomp_electroniccats_signalcommunications_signalcommunications_we_si_744105
+    oomp_key_extra: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_si_744105
+    oomp_key_full: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_si_744105_51b1ea
+    oomp_key_simple: electroniccats_signalcommunications_signalcommunications_we_si_744105
+    original_filename: ComponentLibrariesKicadWurthElektronik/SIGNAL-COMMUNICATIONS-rev18a/SignalCommunications.pretty/SignalCommunications-WE-SI_744105.kicad_mod
+    owner_name: electroniccats
   oomp_key: oomp_electroniccats_signalcommunications_signalcommunications_we_si_744105
+  oomp_key_full: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_si_744105
   oomp_key_simple: electroniccats_signalcommunications_signalcommunications_we_si_744105
   owner: ElectronicCats
   repo:

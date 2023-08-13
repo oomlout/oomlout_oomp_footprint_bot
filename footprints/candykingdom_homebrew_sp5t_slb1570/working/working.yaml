@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/candykingdom_homebrew_sp5t_slb1570/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/candykingdom_homebrew_sp5t_slb1570/working
-    oomp_doc: footprints/footprints/candykingdom/homebrew/SP5T_SLB1570/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/candykingdom/homebrew/SP5T_SLB1570/working
     oomp_src_flat: footprints_flat/footprints_flat/candykingdom_homebrew_sp5t_slb1570/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/candykingdom_homebrew_sp5t_slb1570/working
-    oomp_src_folder: footprints_folder/footprints_folder/candykingdom/homebrew/SP5T_SLB1570/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/candykingdom/homebrew/SP5T_SLB1570/working
   name: homebrew.pretty
+  oomp:
+    footprint_name: sp5t_slb1570
+    library_name: homebrew
+    md5: b42651041f3f8a6ac179931d99c04483
+    md5_10: b42651041f
+    md5_5: b4265
+    md5_6: b42651
+    oomp_key: oomp_candykingdom_homebrew_sp5t_slb1570
+    oomp_key_extra: oomp_footprint_candykingdom_homebrew_sp5t_slb1570
+    oomp_key_full: oomp_footprint_candykingdom_homebrew_sp5t_slb1570_b42651
+    oomp_key_simple: candykingdom_homebrew_sp5t_slb1570
+    original_filename: homebrew.pretty/SP5T_SLB1570.kicad_mod
+    owner_name: candykingdom
   oomp_key: oomp_candykingdom_homebrew_sp5t_slb1570
+  oomp_key_full: oomp_footprint_candykingdom_homebrew_sp5t_slb1570
   oomp_key_simple: candykingdom_homebrew_sp5t_slb1570
   owner: candykingdom
   repo:

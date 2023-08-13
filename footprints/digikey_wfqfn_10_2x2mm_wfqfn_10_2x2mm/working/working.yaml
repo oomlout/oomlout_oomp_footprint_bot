@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/digikey_wfqfn_10_2x2mm_wfqfn_10_2x2mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_wfqfn_10_2x2mm_wfqfn_10_2x2mm/working
-    oomp_doc: footprints/footprints/digikey/WFQFN-10_2x2mm.kicad_mod/WFQFN-10_2x2mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/digikey/WFQFN-10_2x2mm.kicad_mod/WFQFN-10_2x2mm/working
     oomp_src_flat: footprints_flat/footprints_flat/digikey_wfqfn_10_2x2mm_wfqfn_10_2x2mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/digikey_wfqfn_10_2x2mm_wfqfn_10_2x2mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/digikey/WFQFN-10_2x2mm.kicad_mod/WFQFN-10_2x2mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/digikey/WFQFN-10_2x2mm.kicad_mod/WFQFN-10_2x2mm/working
   name: digikey-kicad-library
+  oomp:
+    footprint_name: wfqfn_10_2x2mm
+    library_name: wfqfn_10_2x2mm_kicad_mod
+    md5: 391b0aa56128633328bdc49d39a46ad1
+    md5_10: 391b0aa561
+    md5_5: 391b0
+    md5_6: 391b0a
+    oomp_key: oomp_digikey_wfqfn_10_2x2mm_wfqfn_10_2x2mm
+    oomp_key_extra: oomp_footprint_digikey_wfqfn_10_2x2mm_wfqfn_10_2x2mm
+    oomp_key_full: oomp_footprint_digikey_wfqfn_10_2x2mm_wfqfn_10_2x2mm_391b0a
+    oomp_key_simple: digikey_wfqfn_10_2x2mm_wfqfn_10_2x2mm
+    original_filename: digikey-kicad-library/src/Source_Footprints/WFQFN-10_2x2mm.kicad_mod
+    owner_name: digikey
   oomp_key: oomp_digikey_wfqfn_10_2x2mm_wfqfn_10_2x2mm
+  oomp_key_full: oomp_footprint_digikey_wfqfn_10_2x2mm_wfqfn_10_2x2mm
   oomp_key_simple: digikey_wfqfn_10_2x2mm_wfqfn_10_2x2mm
   owner: digikey
   repo:

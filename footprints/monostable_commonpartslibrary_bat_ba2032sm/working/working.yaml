@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/monostable_commonpartslibrary_bat_ba2032sm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/monostable_commonpartslibrary_bat_ba2032sm/working
-    oomp_doc: footprints/footprints/monostable/CommonPartsLibrary/BAT_BA2032SM/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/monostable/CommonPartsLibrary/BAT_BA2032SM/working
     oomp_src_flat: footprints_flat/footprints_flat/monostable_commonpartslibrary_bat_ba2032sm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/monostable_commonpartslibrary_bat_ba2032sm/working
-    oomp_src_folder: footprints_folder/footprints_folder/monostable/CommonPartsLibrary/BAT_BA2032SM/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/monostable/CommonPartsLibrary/BAT_BA2032SM/working
   name: CommonPartsLibrary.pretty
+  oomp:
+    footprint_name: bat_ba2032sm
+    library_name: commonpartslibrary
+    md5: e11bfff26e0ac87e2201035a731d4f98
+    md5_10: e11bfff26e
+    md5_5: e11bf
+    md5_6: e11bff
+    oomp_key: oomp_monostable_commonpartslibrary_bat_ba2032sm
+    oomp_key_extra: oomp_footprint_monostable_commonpartslibrary_bat_ba2032sm
+    oomp_key_full: oomp_footprint_monostable_commonpartslibrary_bat_ba2032sm_e11bff
+    oomp_key_simple: monostable_commonpartslibrary_bat_ba2032sm
+    original_filename: CommonPartsLibrary.pretty/BAT_BA2032SM.kicad_mod
+    owner_name: monostable
   oomp_key: oomp_monostable_commonpartslibrary_bat_ba2032sm
+  oomp_key_full: oomp_footprint_monostable_commonpartslibrary_bat_ba2032sm
   oomp_key_simple: monostable_commonpartslibrary_bat_ba2032sm
   owner: monostable
   repo:

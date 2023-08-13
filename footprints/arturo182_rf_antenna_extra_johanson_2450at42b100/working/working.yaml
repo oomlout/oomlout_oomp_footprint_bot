@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/arturo182/kicad-modules
     oomp_bot: footprints/arturo182_rf_antenna_extra_johanson_2450at42b100/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/arturo182_rf_antenna_extra_johanson_2450at42b100/working
-    oomp_doc: footprints/footprints/arturo182/RF_Antenna_Extra/Johanson_2450AT42B100/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/arturo182/RF_Antenna_Extra/Johanson_2450AT42B100/working
     oomp_src_flat: footprints_flat/footprints_flat/arturo182_rf_antenna_extra_johanson_2450at42b100/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/arturo182_rf_antenna_extra_johanson_2450at42b100/working
-    oomp_src_folder: footprints_folder/footprints_folder/arturo182/RF_Antenna_Extra/Johanson_2450AT42B100/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/arturo182/RF_Antenna_Extra/Johanson_2450AT42B100/working
   name: kicad-modules
+  oomp:
+    footprint_name: johanson_2450at42b100
+    library_name: rf_antenna_extra
+    md5: ae22dc9e1563332e41451e0cbc959502
+    md5_10: ae22dc9e15
+    md5_5: ae22d
+    md5_6: ae22dc
+    oomp_key: oomp_arturo182_rf_antenna_extra_johanson_2450at42b100
+    oomp_key_extra: oomp_footprint_arturo182_rf_antenna_extra_johanson_2450at42b100
+    oomp_key_full: oomp_footprint_arturo182_rf_antenna_extra_johanson_2450at42b100_ae22dc
+    oomp_key_simple: arturo182_rf_antenna_extra_johanson_2450at42b100
+    original_filename: kicad-modules/RF_Antenna_Extra.pretty/Johanson_2450AT42B100.kicad_mod
+    owner_name: arturo182
   oomp_key: oomp_arturo182_rf_antenna_extra_johanson_2450at42b100
+  oomp_key_full: oomp_footprint_arturo182_rf_antenna_extra_johanson_2450at42b100
   oomp_key_simple: arturo182_rf_antenna_extra_johanson_2450at42b100
   owner: arturo182
   repo:

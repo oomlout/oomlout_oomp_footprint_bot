@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/kubiX89/kiCAD.pretty
     oomp_bot: footprints/kubix89_kicad_mod_dc_dc/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kubix89_kicad_mod_dc_dc/working
-    oomp_doc: footprints/footprints/kubiX89/kiCAD/MOD_DC_DC/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kubiX89/kiCAD/MOD_DC_DC/working
     oomp_src_flat: footprints_flat/footprints_flat/kubix89_kicad_mod_dc_dc/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kubix89_kicad_mod_dc_dc/working
-    oomp_src_folder: footprints_folder/footprints_folder/kubiX89/kiCAD/MOD_DC_DC/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kubiX89/kiCAD/MOD_DC_DC/working
   name: kiCAD.pretty
+  oomp:
+    footprint_name: mod_dc_dc
+    library_name: kicad
+    md5: 811b057813061e3c10890580494d30c3
+    md5_10: 811b057813
+    md5_5: 811b0
+    md5_6: 811b05
+    oomp_key: oomp_kubix89_kicad_mod_dc_dc
+    oomp_key_extra: oomp_footprint_kubix89_kicad_mod_dc_dc
+    oomp_key_full: oomp_footprint_kubix89_kicad_mod_dc_dc_811b05
+    oomp_key_simple: kubix89_kicad_mod_dc_dc
+    original_filename: kiCAD.pretty/MOD_DC_DC.kicad_mod
+    owner_name: kubix89
   oomp_key: oomp_kubix89_kicad_mod_dc_dc
+  oomp_key_full: oomp_footprint_kubix89_kicad_mod_dc_dc
   oomp_key_simple: kubix89_kicad_mod_dc_dc
   owner: kubiX89
   repo:

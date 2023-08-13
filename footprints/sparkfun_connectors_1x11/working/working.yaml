@@ -1,24 +1,34 @@
-- file: SparkFun-KiCad-Libraries/Footprints/Connectors.pretty/1X11.kicad_mod
+- file: SparkFun-KiCad-Libraries/Pre_v7/Footprints/Connectors.pretty/1X11.kicad_mod
   footprint:
     description: PLATED THROUGH HOLE -11 PIN
     libraryLink: 1X11
     number_of_pads: 11
   footprint_library_directory: footprint_library_owner/sparkfun_SparkFun-KiCad-Libraries
   footprint_library_directory_flat: footprints_flat/sparkfun_connectors_1x11/working
-  github_path: http://github.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Footprints/Connectors.pretty/1X11.kicad_mod
+  github_path: http://github.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Pre_v7/Footprints/Connectors.pretty/1X11.kicad_mod
   links:
-    github_src: http://gitlab.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Tools/SparkFun-Eagle-Libraries_Conversion/Export.pretty/DFN-6-3X3.kicad_mod
+    github_src: http://gitlab.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Pre_v7/Tools/SparkFun-Eagle-Libraries_Conversion/Export.pretty/DFN-6-3X3.kicad_mod
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/sparkfun_connectors_1x11/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/sparkfun_connectors_1x11/working
-    oomp_doc: footprints/footprints/sparkfun/Connectors/1X11/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/sparkfun/Connectors/1X11/working
     oomp_src_flat: footprints_flat/footprints_flat/sparkfun_connectors_1x11/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/sparkfun_connectors_1x11/working
-    oomp_src_folder: footprints_folder/footprints_folder/sparkfun/Connectors/1X11/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/sparkfun/Connectors/1X11/working
   name: SparkFun-KiCad-Libraries
+  oomp:
+    footprint_name: 1x11
+    library_name: connectors
+    md5: 3411b986c19cbdfde848a72415e0c80f
+    md5_10: 3411b986c1
+    md5_5: 3411b
+    md5_6: 3411b9
+    oomp_key: oomp_sparkfun_connectors_1x11
+    oomp_key_extra: oomp_footprint_sparkfun_connectors_1x11
+    oomp_key_full: oomp_footprint_sparkfun_connectors_1x11_3411b9
+    oomp_key_simple: sparkfun_connectors_1x11
+    original_filename: SparkFun-KiCad-Libraries/Pre_v7/Footprints/Connectors.pretty/1X11.kicad_mod
+    owner_name: sparkfun
   oomp_key: oomp_sparkfun_connectors_1x11
+  oomp_key_full: oomp_footprint_sparkfun_connectors_1x11
   oomp_key_simple: sparkfun_connectors_1x11
   owner: sparkfun
   repo:

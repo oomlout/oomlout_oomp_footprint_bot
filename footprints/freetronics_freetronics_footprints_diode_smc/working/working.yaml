@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/freetronics_freetronics_footprints_diode_smc/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/freetronics_freetronics_footprints_diode_smc/working
-    oomp_doc: footprints/footprints/freetronics/freetronics_footprints/DIODE_SMC/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/freetronics/freetronics_footprints/DIODE_SMC/working
     oomp_src_flat: footprints_flat/footprints_flat/freetronics_freetronics_footprints_diode_smc/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/freetronics_freetronics_footprints_diode_smc/working
-    oomp_src_folder: footprints_folder/footprints_folder/freetronics/freetronics_footprints/DIODE_SMC/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/freetronics/freetronics_footprints/DIODE_SMC/working
   name: freetronics_kicad_library
+  oomp:
+    footprint_name: diode_smc
+    library_name: freetronics_footprints
+    md5: fa0a28daecc740ebdea12fa9018ffa3d
+    md5_10: fa0a28daec
+    md5_5: fa0a2
+    md5_6: fa0a28
+    oomp_key: oomp_freetronics_freetronics_footprints_diode_smc
+    oomp_key_extra: oomp_footprint_freetronics_freetronics_footprints_diode_smc
+    oomp_key_full: oomp_footprint_freetronics_freetronics_footprints_diode_smc_fa0a28
+    oomp_key_simple: freetronics_freetronics_footprints_diode_smc
+    original_filename: freetronics_kicad_library/freetronics_footprints.pretty/DIODE_SMC.kicad_mod
+    owner_name: freetronics
   oomp_key: oomp_freetronics_freetronics_footprints_diode_smc
+  oomp_key_full: oomp_footprint_freetronics_freetronics_footprints_diode_smc
   oomp_key_simple: freetronics_freetronics_footprints_diode_smc
   owner: freetronics
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/natsfr_connectors_power_2_1mm_dc_jack_neb21r/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/natsfr_connectors_power_2_1mm_dc_jack_neb21r/working
-    oomp_doc: footprints/footprints/natsfr/Connectors_POWER/2.1mm_DC_Jack_NEB21R/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/natsfr/Connectors_POWER/2.1mm_DC_Jack_NEB21R/working
     oomp_src_flat: footprints_flat/footprints_flat/natsfr_connectors_power_2_1mm_dc_jack_neb21r/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/natsfr_connectors_power_2_1mm_dc_jack_neb21r/working
-    oomp_src_folder: footprints_folder/footprints_folder/natsfr/Connectors_POWER/2.1mm_DC_Jack_NEB21R/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/natsfr/Connectors_POWER/2.1mm_DC_Jack_NEB21R/working
   name: kicad-components
+  oomp:
+    footprint_name: 2_1mm_dc_jack_neb21r
+    library_name: connectors_power
+    md5: 950679dd617e68709383b0727fbe4547
+    md5_10: 950679dd61
+    md5_5: '95067'
+    md5_6: '950679'
+    oomp_key: oomp_natsfr_connectors_power_2_1mm_dc_jack_neb21r
+    oomp_key_extra: oomp_footprint_natsfr_connectors_power_2_1mm_dc_jack_neb21r
+    oomp_key_full: oomp_footprint_natsfr_connectors_power_2_1mm_dc_jack_neb21r_950679
+    oomp_key_simple: natsfr_connectors_power_2_1mm_dc_jack_neb21r
+    original_filename: kicad-components/Pretty_Footprints/Connectors_POWER.pretty/2.1mm_DC_Jack_NEB21R.kicad_mod
+    owner_name: natsfr
   oomp_key: oomp_natsfr_connectors_power_2_1mm_dc_jack_neb21r
+  oomp_key_full: oomp_footprint_natsfr_connectors_power_2_1mm_dc_jack_neb21r
   oomp_key_simple: natsfr_connectors_power_2_1mm_dc_jack_neb21r
   owner: natsfr
   repo:

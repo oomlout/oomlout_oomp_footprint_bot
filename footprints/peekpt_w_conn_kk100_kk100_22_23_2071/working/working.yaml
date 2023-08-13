@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/peekpt_w_conn_kk100_kk100_22_23_2071/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/peekpt_w_conn_kk100_kk100_22_23_2071/working
-    oomp_doc: footprints/footprints/peekpt/w_conn_kk100/kk100_22-23-2071/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/peekpt/w_conn_kk100/kk100_22-23-2071/working
     oomp_src_flat: footprints_flat/footprints_flat/peekpt_w_conn_kk100_kk100_22_23_2071/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/peekpt_w_conn_kk100_kk100_22_23_2071/working
-    oomp_src_folder: footprints_folder/footprints_folder/peekpt/w_conn_kk100/kk100_22-23-2071/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/peekpt/w_conn_kk100/kk100_22-23-2071/working
   name: kicad_smisioto
+  oomp:
+    footprint_name: kk100_22_23_2071
+    library_name: w_conn_kk100
+    md5: 6ce1fb7aa6909a7a5cbb4175977d0ce9
+    md5_10: 6ce1fb7aa6
+    md5_5: 6ce1f
+    md5_6: 6ce1fb
+    oomp_key: oomp_peekpt_w_conn_kk100_kk100_22_23_2071
+    oomp_key_extra: oomp_footprint_peekpt_w_conn_kk100_kk100_22_23_2071
+    oomp_key_full: oomp_footprint_peekpt_w_conn_kk100_kk100_22_23_2071_6ce1fb
+    oomp_key_simple: peekpt_w_conn_kk100_kk100_22_23_2071
+    original_filename: kicad_smisioto/modules/walter/w_conn_kk100.pretty/kk100_22-23-2071.kicad_mod
+    owner_name: peekpt
   oomp_key: oomp_peekpt_w_conn_kk100_kk100_22_23_2071
+  oomp_key_full: oomp_footprint_peekpt_w_conn_kk100_kk100_22_23_2071
   oomp_key_simple: peekpt_w_conn_kk100_kk100_22_23_2071
   owner: peekpt
   repo:

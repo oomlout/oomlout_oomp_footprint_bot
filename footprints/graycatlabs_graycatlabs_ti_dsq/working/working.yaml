@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/graycatlabs_graycatlabs_ti_dsq/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/graycatlabs_graycatlabs_ti_dsq/working
-    oomp_doc: footprints/footprints/graycatlabs/GrayCatLabs/TI-DSQ/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/graycatlabs/GrayCatLabs/TI-DSQ/working
     oomp_src_flat: footprints_flat/footprints_flat/graycatlabs_graycatlabs_ti_dsq/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/graycatlabs_graycatlabs_ti_dsq/working
-    oomp_src_folder: footprints_folder/footprints_folder/graycatlabs/GrayCatLabs/TI-DSQ/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/graycatlabs/GrayCatLabs/TI-DSQ/working
   name: GrayCatLabs.pretty
+  oomp:
+    footprint_name: ti_dsq
+    library_name: graycatlabs
+    md5: 95de8445f35e33842e0354efbeb5af38
+    md5_10: 95de8445f3
+    md5_5: 95de8
+    md5_6: 95de84
+    oomp_key: oomp_graycatlabs_graycatlabs_ti_dsq
+    oomp_key_extra: oomp_footprint_graycatlabs_graycatlabs_ti_dsq
+    oomp_key_full: oomp_footprint_graycatlabs_graycatlabs_ti_dsq_95de84
+    oomp_key_simple: graycatlabs_graycatlabs_ti_dsq
+    original_filename: GrayCatLabs.pretty/TI-DSQ.kicad_mod
+    owner_name: graycatlabs
   oomp_key: oomp_graycatlabs_graycatlabs_ti_dsq
+  oomp_key_full: oomp_footprint_graycatlabs_graycatlabs_ti_dsq
   oomp_key_simple: graycatlabs_graycatlabs_ti_dsq
   owner: graycatlabs
   repo:

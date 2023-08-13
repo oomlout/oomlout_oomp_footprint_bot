@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/arturo182/kicad-modules
     oomp_bot: footprints/arturo182_module_extra_featherwing/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/arturo182_module_extra_featherwing/working
-    oomp_doc: footprints/footprints/arturo182/Module_Extra/FeatherWing/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/arturo182/Module_Extra/FeatherWing/working
     oomp_src_flat: footprints_flat/footprints_flat/arturo182_module_extra_featherwing/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/arturo182_module_extra_featherwing/working
-    oomp_src_folder: footprints_folder/footprints_folder/arturo182/Module_Extra/FeatherWing/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/arturo182/Module_Extra/FeatherWing/working
   name: kicad-modules
+  oomp:
+    footprint_name: featherwing
+    library_name: module_extra
+    md5: 632734d319693093a305917084359c93
+    md5_10: 632734d319
+    md5_5: '63273'
+    md5_6: '632734'
+    oomp_key: oomp_arturo182_module_extra_featherwing
+    oomp_key_extra: oomp_footprint_arturo182_module_extra_featherwing
+    oomp_key_full: oomp_footprint_arturo182_module_extra_featherwing_632734
+    oomp_key_simple: arturo182_module_extra_featherwing
+    original_filename: kicad-modules/Module_Extra.pretty/FeatherWing.kicad_mod
+    owner_name: arturo182
   oomp_key: oomp_arturo182_module_extra_featherwing
+  oomp_key_full: oomp_footprint_arturo182_module_extra_featherwing
   oomp_key_simple: arturo182_module_extra_featherwing
   owner: arturo182
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/bsakatu_kicad_parts_bsakatu_jack_3_5mm_mj_4pp_9_horizontal/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/bsakatu_kicad_parts_bsakatu_jack_3_5mm_mj_4pp_9_horizontal/working
-    oomp_doc: footprints/footprints/bsakatu/kicad_parts_bsakatu/Jack_3.5mm_MJ-4PP-9_Horizontal/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/bsakatu/kicad_parts_bsakatu/Jack_3.5mm_MJ-4PP-9_Horizontal/working
     oomp_src_flat: footprints_flat/footprints_flat/bsakatu_kicad_parts_bsakatu_jack_3_5mm_mj_4pp_9_horizontal/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/bsakatu_kicad_parts_bsakatu_jack_3_5mm_mj_4pp_9_horizontal/working
-    oomp_src_folder: footprints_folder/footprints_folder/bsakatu/kicad_parts_bsakatu/Jack_3.5mm_MJ-4PP-9_Horizontal/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/bsakatu/kicad_parts_bsakatu/Jack_3.5mm_MJ-4PP-9_Horizontal/working
   name: kicad_parts_bsakatu.pretty
+  oomp:
+    footprint_name: jack_3_5mm_mj_4pp_9_horizontal
+    library_name: kicad_parts_bsakatu
+    md5: 4063ad2a3645eb53a7a97e108a8a0c91
+    md5_10: 4063ad2a36
+    md5_5: 4063a
+    md5_6: 4063ad
+    oomp_key: oomp_bsakatu_kicad_parts_bsakatu_jack_3_5mm_mj_4pp_9_horizontal
+    oomp_key_extra: oomp_footprint_bsakatu_kicad_parts_bsakatu_jack_3_5mm_mj_4pp_9_horizontal
+    oomp_key_full: oomp_footprint_bsakatu_kicad_parts_bsakatu_jack_3_5mm_mj_4pp_9_horizontal_4063ad
+    oomp_key_simple: bsakatu_kicad_parts_bsakatu_jack_3_5mm_mj_4pp_9_horizontal
+    original_filename: kicad_parts_bsakatu.pretty/Jack_3.5mm_MJ-4PP-9_Horizontal.kicad_mod
+    owner_name: bsakatu
   oomp_key: oomp_bsakatu_kicad_parts_bsakatu_jack_3_5mm_mj_4pp_9_horizontal
+  oomp_key_full: oomp_footprint_bsakatu_kicad_parts_bsakatu_jack_3_5mm_mj_4pp_9_horizontal
   oomp_key_simple: bsakatu_kicad_parts_bsakatu_jack_3_5mm_mj_4pp_9_horizontal
   owner: bsakatu
   repo:

@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/arturo182/kicad-modules
     oomp_bot: footprints/arturo182_connector_card_extra_microsd_hc_molex_104031_0811/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/arturo182_connector_card_extra_microsd_hc_molex_104031_0811/working
-    oomp_doc: footprints/footprints/arturo182/Connector_Card_Extra/microSD_HC_Molex_104031-0811/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/arturo182/Connector_Card_Extra/microSD_HC_Molex_104031-0811/working
     oomp_src_flat: footprints_flat/footprints_flat/arturo182_connector_card_extra_microsd_hc_molex_104031_0811/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/arturo182_connector_card_extra_microsd_hc_molex_104031_0811/working
-    oomp_src_folder: footprints_folder/footprints_folder/arturo182/Connector_Card_Extra/microSD_HC_Molex_104031-0811/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/arturo182/Connector_Card_Extra/microSD_HC_Molex_104031-0811/working
   name: kicad-modules
+  oomp:
+    footprint_name: microsd_hc_molex_104031_0811
+    library_name: connector_card_extra
+    md5: e9fd06cfd2cd553ac14259db0e2b12c8
+    md5_10: e9fd06cfd2
+    md5_5: e9fd0
+    md5_6: e9fd06
+    oomp_key: oomp_arturo182_connector_card_extra_microsd_hc_molex_104031_0811
+    oomp_key_extra: oomp_footprint_arturo182_connector_card_extra_microsd_hc_molex_104031_0811
+    oomp_key_full: oomp_footprint_arturo182_connector_card_extra_microsd_hc_molex_104031_0811_e9fd06
+    oomp_key_simple: arturo182_connector_card_extra_microsd_hc_molex_104031_0811
+    original_filename: kicad-modules/Connector_Card_Extra.pretty/microSD_HC_Molex_104031-0811.kicad_mod
+    owner_name: arturo182
   oomp_key: oomp_arturo182_connector_card_extra_microsd_hc_molex_104031_0811
+  oomp_key_full: oomp_footprint_arturo182_connector_card_extra_microsd_hc_molex_104031_0811
   oomp_key_simple: arturo182_connector_card_extra_microsd_hc_molex_104031_0811
   owner: arturo182
   repo:

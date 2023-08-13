@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/natsfr_tdk_hhm1591d1/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/natsfr_tdk_hhm1591d1/working
-    oomp_doc: footprints/footprints/natsfr/TDK/HHM1591D1/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/natsfr/TDK/HHM1591D1/working
     oomp_src_flat: footprints_flat/footprints_flat/natsfr_tdk_hhm1591d1/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/natsfr_tdk_hhm1591d1/working
-    oomp_src_folder: footprints_folder/footprints_folder/natsfr/TDK/HHM1591D1/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/natsfr/TDK/HHM1591D1/working
   name: kicad-components
+  oomp:
+    footprint_name: hhm1591d1
+    library_name: tdk
+    md5: 3c49c8f8619a0587cdab642e3acb7668
+    md5_10: 3c49c8f861
+    md5_5: 3c49c
+    md5_6: 3c49c8
+    oomp_key: oomp_natsfr_tdk_hhm1591d1
+    oomp_key_extra: oomp_footprint_natsfr_tdk_hhm1591d1
+    oomp_key_full: oomp_footprint_natsfr_tdk_hhm1591d1_3c49c8
+    oomp_key_simple: natsfr_tdk_hhm1591d1
+    original_filename: kicad-components/Pretty_Footprints/TDK.pretty/HHM1591D1.kicad_mod
+    owner_name: natsfr
   oomp_key: oomp_natsfr_tdk_hhm1591d1
+  oomp_key_full: oomp_footprint_natsfr_tdk_hhm1591d1
   oomp_key_simple: natsfr_tdk_hhm1591d1
   owner: natsfr
   repo:

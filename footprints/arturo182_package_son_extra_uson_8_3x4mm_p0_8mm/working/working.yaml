@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/arturo182/kicad-modules
     oomp_bot: footprints/arturo182_package_son_extra_uson_8_3x4mm_p0_8mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/arturo182_package_son_extra_uson_8_3x4mm_p0_8mm/working
-    oomp_doc: footprints/footprints/arturo182/Package_SON_Extra/USON-8_3x4mm_P0.8mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/arturo182/Package_SON_Extra/USON-8_3x4mm_P0.8mm/working
     oomp_src_flat: footprints_flat/footprints_flat/arturo182_package_son_extra_uson_8_3x4mm_p0_8mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/arturo182_package_son_extra_uson_8_3x4mm_p0_8mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/arturo182/Package_SON_Extra/USON-8_3x4mm_P0.8mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/arturo182/Package_SON_Extra/USON-8_3x4mm_P0.8mm/working
   name: kicad-modules
+  oomp:
+    footprint_name: uson_8_3x4mm_p0_8mm
+    library_name: package_son_extra
+    md5: a83855df4fb4b349c584b261edc64d4f
+    md5_10: a83855df4f
+    md5_5: a8385
+    md5_6: a83855
+    oomp_key: oomp_arturo182_package_son_extra_uson_8_3x4mm_p0_8mm
+    oomp_key_extra: oomp_footprint_arturo182_package_son_extra_uson_8_3x4mm_p0_8mm
+    oomp_key_full: oomp_footprint_arturo182_package_son_extra_uson_8_3x4mm_p0_8mm_a83855
+    oomp_key_simple: arturo182_package_son_extra_uson_8_3x4mm_p0_8mm
+    original_filename: kicad-modules/Package_SON_Extra.pretty/USON-8_3x4mm_P0.8mm.kicad_mod
+    owner_name: arturo182
   oomp_key: oomp_arturo182_package_son_extra_uson_8_3x4mm_p0_8mm
+  oomp_key_full: oomp_footprint_arturo182_package_son_extra_uson_8_3x4mm_p0_8mm
   oomp_key_simple: arturo182_package_son_extra_uson_8_3x4mm_p0_8mm
   owner: arturo182
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/stanleyseow_svtmaker_svtlogo_5mm_f_mask/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stanleyseow_svtmaker_svtlogo_5mm_f_mask/working
-    oomp_doc: footprints/footprints/stanleyseow/SVTmaker/SVTLogo_5mm_F.Mask/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/stanleyseow/SVTmaker/SVTLogo_5mm_F.Mask/working
     oomp_src_flat: footprints_flat/footprints_flat/stanleyseow_svtmaker_svtlogo_5mm_f_mask/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/stanleyseow_svtmaker_svtlogo_5mm_f_mask/working
-    oomp_src_folder: footprints_folder/footprints_folder/stanleyseow/SVTmaker/SVTLogo_5mm_F.Mask/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/stanleyseow/SVTmaker/SVTLogo_5mm_F.Mask/working
   name: SVTmaker.pretty
+  oomp:
+    footprint_name: svtlogo_5mm_f_mask
+    library_name: svtmaker
+    md5: b2f3f69f383f1b9b35f280f0b4dcfbb0
+    md5_10: b2f3f69f38
+    md5_5: b2f3f
+    md5_6: b2f3f6
+    oomp_key: oomp_stanleyseow_svtmaker_svtlogo_5mm_f_mask
+    oomp_key_extra: oomp_footprint_stanleyseow_svtmaker_svtlogo_5mm_f_mask
+    oomp_key_full: oomp_footprint_stanleyseow_svtmaker_svtlogo_5mm_f_mask_b2f3f6
+    oomp_key_simple: stanleyseow_svtmaker_svtlogo_5mm_f_mask
+    original_filename: SVTmaker.pretty/SVTLogo_5mm_F.Mask.kicad_mod
+    owner_name: stanleyseow
   oomp_key: oomp_stanleyseow_svtmaker_svtlogo_5mm_f_mask
+  oomp_key_full: oomp_footprint_stanleyseow_svtmaker_svtlogo_5mm_f_mask
   oomp_key_simple: stanleyseow_svtmaker_svtlogo_5mm_f_mask
   owner: stanleyseow
   repo:

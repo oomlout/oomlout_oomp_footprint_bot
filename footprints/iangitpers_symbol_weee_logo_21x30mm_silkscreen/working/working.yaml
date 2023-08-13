@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/Iangitpers/4a
     oomp_bot: footprints/iangitpers_symbol_weee_logo_21x30mm_silkscreen/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/iangitpers_symbol_weee_logo_21x30mm_silkscreen/working
-    oomp_doc: footprints/footprints/Iangitpers/Symbol/WEEE-Logo_21x30mm_SilkScreen/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Iangitpers/Symbol/WEEE-Logo_21x30mm_SilkScreen/working
     oomp_src_flat: footprints_flat/footprints_flat/iangitpers_symbol_weee_logo_21x30mm_silkscreen/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/iangitpers_symbol_weee_logo_21x30mm_silkscreen/working
-    oomp_src_folder: footprints_folder/footprints_folder/Iangitpers/Symbol/WEEE-Logo_21x30mm_SilkScreen/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Iangitpers/Symbol/WEEE-Logo_21x30mm_SilkScreen/working
   name: 4a
+  oomp:
+    footprint_name: weee_logo_21x30mm_silkscreen
+    library_name: symbol
+    md5: 1caa4339f8b9437840c06bc9f45e837a
+    md5_10: 1caa4339f8
+    md5_5: 1caa4
+    md5_6: 1caa43
+    oomp_key: oomp_iangitpers_symbol_weee_logo_21x30mm_silkscreen
+    oomp_key_extra: oomp_footprint_iangitpers_symbol_weee_logo_21x30mm_silkscreen
+    oomp_key_full: oomp_footprint_iangitpers_symbol_weee_logo_21x30mm_silkscreen_1caa43
+    oomp_key_simple: iangitpers_symbol_weee_logo_21x30mm_silkscreen
+    original_filename: 4a/Symbol.pretty/WEEE-Logo_21x30mm_SilkScreen.kicad_mod
+    owner_name: iangitpers
   oomp_key: oomp_iangitpers_symbol_weee_logo_21x30mm_silkscreen
+  oomp_key_full: oomp_footprint_iangitpers_symbol_weee_logo_21x30mm_silkscreen
   oomp_key_simple: iangitpers_symbol_weee_logo_21x30mm_silkscreen
   owner: Iangitpers
   repo:

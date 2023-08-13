@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/stefanhamminga_sh_test_points_fiducials_program_connector_6p_board_edge_tilt/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stefanhamminga_sh_test_points_fiducials_program_connector_6p_board_edge_tilt/working
-    oomp_doc: footprints/footprints/StefanHamminga/SH_Test_Points_Fiducials/Program_Connector_6P_board_edge_tilt/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/StefanHamminga/SH_Test_Points_Fiducials/Program_Connector_6P_board_edge_tilt/working
     oomp_src_flat: footprints_flat/footprints_flat/stefanhamminga_sh_test_points_fiducials_program_connector_6p_board_edge_tilt/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/stefanhamminga_sh_test_points_fiducials_program_connector_6p_board_edge_tilt/working
-    oomp_src_folder: footprints_folder/footprints_folder/StefanHamminga/SH_Test_Points_Fiducials/Program_Connector_6P_board_edge_tilt/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/StefanHamminga/SH_Test_Points_Fiducials/Program_Connector_6P_board_edge_tilt/working
   name: SH_Test_Points_Fiducials.pretty
+  oomp:
+    footprint_name: program_connector_6p_board_edge_tilt
+    library_name: sh_test_points_fiducials
+    md5: 16e9bfa26382dba2dcc589ebb4728e97
+    md5_10: 16e9bfa263
+    md5_5: 16e9b
+    md5_6: 16e9bf
+    oomp_key: oomp_stefanhamminga_sh_test_points_fiducials_program_connector_6p_board_edge_tilt
+    oomp_key_extra: oomp_footprint_stefanhamminga_sh_test_points_fiducials_program_connector_6p_board_edge_tilt
+    oomp_key_full: oomp_footprint_stefanhamminga_sh_test_points_fiducials_program_connector_6p_board_edge_tilt_16e9bf
+    oomp_key_simple: stefanhamminga_sh_test_points_fiducials_program_connector_6p_board_edge_tilt
+    original_filename: SH_Test_Points_Fiducials.pretty/Program_Connector_6P_board_edge_tilt.kicad_mod
+    owner_name: stefanhamminga
   oomp_key: oomp_stefanhamminga_sh_test_points_fiducials_program_connector_6p_board_edge_tilt
+  oomp_key_full: oomp_footprint_stefanhamminga_sh_test_points_fiducials_program_connector_6p_board_edge_tilt
   oomp_key_simple: stefanhamminga_sh_test_points_fiducials_program_connector_6p_board_edge_tilt
   owner: StefanHamminga
   repo:

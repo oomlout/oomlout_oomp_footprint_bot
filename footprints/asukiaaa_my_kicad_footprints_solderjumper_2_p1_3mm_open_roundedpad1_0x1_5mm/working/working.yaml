@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/asukiaaa_my_kicad_footprints_solderjumper_2_p1_3mm_open_roundedpad1_0x1_5mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/asukiaaa_my_kicad_footprints_solderjumper_2_p1_3mm_open_roundedpad1_0x1_5mm/working
-    oomp_doc: footprints/footprints/asukiaaa/my-kicad-footprints/SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/asukiaaa/my-kicad-footprints/SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm/working
     oomp_src_flat: footprints_flat/footprints_flat/asukiaaa_my_kicad_footprints_solderjumper_2_p1_3mm_open_roundedpad1_0x1_5mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/asukiaaa_my_kicad_footprints_solderjumper_2_p1_3mm_open_roundedpad1_0x1_5mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/asukiaaa/my-kicad-footprints/SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/asukiaaa/my-kicad-footprints/SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm/working
   name: my-kicad-footprints.pretty
+  oomp:
+    footprint_name: solderjumper_2_p1_3mm_open_roundedpad1_0x1_5mm
+    library_name: my_kicad_footprints
+    md5: 7c191aca0520c913112a298051050c42
+    md5_10: 7c191aca05
+    md5_5: 7c191
+    md5_6: 7c191a
+    oomp_key: oomp_asukiaaa_my_kicad_footprints_solderjumper_2_p1_3mm_open_roundedpad1_0x1_5mm
+    oomp_key_extra: oomp_footprint_asukiaaa_my_kicad_footprints_solderjumper_2_p1_3mm_open_roundedpad1_0x1_5mm
+    oomp_key_full: oomp_footprint_asukiaaa_my_kicad_footprints_solderjumper_2_p1_3mm_open_roundedpad1_0x1_5mm_7c191a
+    oomp_key_simple: asukiaaa_my_kicad_footprints_solderjumper_2_p1_3mm_open_roundedpad1_0x1_5mm
+    original_filename: my-kicad-footprints.pretty/SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm.kicad_mod
+    owner_name: asukiaaa
   oomp_key: oomp_asukiaaa_my_kicad_footprints_solderjumper_2_p1_3mm_open_roundedpad1_0x1_5mm
+  oomp_key_full: oomp_footprint_asukiaaa_my_kicad_footprints_solderjumper_2_p1_3mm_open_roundedpad1_0x1_5mm
   oomp_key_simple: asukiaaa_my_kicad_footprints_solderjumper_2_p1_3mm_open_roundedpad1_0x1_5mm
   owner: asukiaaa
   repo:

@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/electroniccats_sockets_623x2021021/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/electroniccats_sockets_623x2021021/working
-    oomp_doc: footprints/footprints/ElectronicCats/Sockets/623X2021021/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ElectronicCats/Sockets/623X2021021/working
     oomp_src_flat: footprints_flat/footprints_flat/electroniccats_sockets_623x2021021/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/electroniccats_sockets_623x2021021/working
-    oomp_src_folder: footprints_folder/footprints_folder/ElectronicCats/Sockets/623X2021021/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ElectronicCats/Sockets/623X2021021/working
   name: ComponentLibrariesKicadWurthElektronik
+  oomp:
+    footprint_name: 623x2021021
+    library_name: sockets
+    md5: a61865d9eb696651d776379568bda540
+    md5_10: a61865d9eb
+    md5_5: a6186
+    md5_6: a61865
+    oomp_key: oomp_electroniccats_sockets_623x2021021
+    oomp_key_extra: oomp_footprint_electroniccats_sockets_623x2021021
+    oomp_key_full: oomp_footprint_electroniccats_sockets_623x2021021_a61865
+    oomp_key_simple: electroniccats_sockets_623x2021021
+    original_filename: ComponentLibrariesKicadWurthElektronik/EAGLE-BOARD-TO-BOARD_CONNECTORS-rev16c/Sockets.pretty/623X2021021.kicad_mod
+    owner_name: electroniccats
   oomp_key: oomp_electroniccats_sockets_623x2021021
+  oomp_key_full: oomp_footprint_electroniccats_sockets_623x2021021
   oomp_key_simple: electroniccats_sockets_623x2021021
   owner: ElectronicCats
   repo:

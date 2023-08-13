@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/garrettsworkshop_stdpads_dip_40_w15_24mm_socket_longpads_inverse/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/garrettsworkshop_stdpads_dip_40_w15_24mm_socket_longpads_inverse/working
-    oomp_doc: footprints/footprints/garrettsworkshop/stdpads/DIP-40_W15.24mm_Socket_LongPads_Inverse/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/garrettsworkshop/stdpads/DIP-40_W15.24mm_Socket_LongPads_Inverse/working
     oomp_src_flat: footprints_flat/footprints_flat/garrettsworkshop_stdpads_dip_40_w15_24mm_socket_longpads_inverse/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/garrettsworkshop_stdpads_dip_40_w15_24mm_socket_longpads_inverse/working
-    oomp_src_folder: footprints_folder/footprints_folder/garrettsworkshop/stdpads/DIP-40_W15.24mm_Socket_LongPads_Inverse/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/garrettsworkshop/stdpads/DIP-40_W15.24mm_Socket_LongPads_Inverse/working
   name: stdpads.pretty
+  oomp:
+    footprint_name: dip_40_w15_24mm_socket_longpads_inverse
+    library_name: stdpads
+    md5: bd344a41b8aa6de6d75150a5c9662b7d
+    md5_10: bd344a41b8
+    md5_5: bd344
+    md5_6: bd344a
+    oomp_key: oomp_garrettsworkshop_stdpads_dip_40_w15_24mm_socket_longpads_inverse
+    oomp_key_extra: oomp_footprint_garrettsworkshop_stdpads_dip_40_w15_24mm_socket_longpads_inverse
+    oomp_key_full: oomp_footprint_garrettsworkshop_stdpads_dip_40_w15_24mm_socket_longpads_inverse_bd344a
+    oomp_key_simple: garrettsworkshop_stdpads_dip_40_w15_24mm_socket_longpads_inverse
+    original_filename: stdpads.pretty/DIP-40_W15.24mm_Socket_LongPads_Inverse.kicad_mod
+    owner_name: garrettsworkshop
   oomp_key: oomp_garrettsworkshop_stdpads_dip_40_w15_24mm_socket_longpads_inverse
+  oomp_key_full: oomp_footprint_garrettsworkshop_stdpads_dip_40_w15_24mm_socket_longpads_inverse
   oomp_key_simple: garrettsworkshop_stdpads_dip_40_w15_24mm_socket_longpads_inverse
   owner: garrettsworkshop
   repo:

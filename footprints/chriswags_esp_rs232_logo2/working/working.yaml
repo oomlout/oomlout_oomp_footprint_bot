@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/chriswags_esp_rs232_logo2/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/chriswags_esp_rs232_logo2/working
-    oomp_doc: footprints/footprints/chriswags/ESP-RS232/LOGO2/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/chriswags/ESP-RS232/LOGO2/working
     oomp_src_flat: footprints_flat/footprints_flat/chriswags_esp_rs232_logo2/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/chriswags_esp_rs232_logo2/working
-    oomp_src_folder: footprints_folder/footprints_folder/chriswags/ESP-RS232/LOGO2/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/chriswags/ESP-RS232/LOGO2/working
   name: KiCad
+  oomp:
+    footprint_name: logo2
+    library_name: esp_rs232
+    md5: e89ff36a8e18bd904c68fd88fb783720
+    md5_10: e89ff36a8e
+    md5_5: e89ff
+    md5_6: e89ff3
+    oomp_key: oomp_chriswags_esp_rs232_logo2
+    oomp_key_extra: oomp_footprint_chriswags_esp_rs232_logo2
+    oomp_key_full: oomp_footprint_chriswags_esp_rs232_logo2_e89ff3
+    oomp_key_simple: chriswags_esp_rs232_logo2
+    original_filename: KiCad/mods/ESP-RS232.pretty/LOGO2.kicad_mod
+    owner_name: chriswags
   oomp_key: oomp_chriswags_esp_rs232_logo2
+  oomp_key_full: oomp_footprint_chriswags_esp_rs232_logo2
   oomp_key_simple: chriswags_esp_rs232_logo2
   owner: chriswags
   repo:

@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/KUT-KiCad/KUT_Device.pretty
     oomp_bot: footprints/kut_kicad_kut_device_e_type_d6_8/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kut_kicad_kut_device_e_type_d6_8/working
-    oomp_doc: footprints/footprints/KUT-KiCad/KUT_Device/E-Type_D6.8/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/KUT-KiCad/KUT_Device/E-Type_D6.8/working
     oomp_src_flat: footprints_flat/footprints_flat/kut_kicad_kut_device_e_type_d6_8/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kut_kicad_kut_device_e_type_d6_8/working
-    oomp_src_folder: footprints_folder/footprints_folder/KUT-KiCad/KUT_Device/E-Type_D6.8/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/KUT-KiCad/KUT_Device/E-Type_D6.8/working
   name: KUT_Device.pretty
+  oomp:
+    footprint_name: e_type_d6_8
+    library_name: kut_device
+    md5: 693c5b3a479bec2f73087e5f7b7de902
+    md5_10: 693c5b3a47
+    md5_5: 693c5
+    md5_6: 693c5b
+    oomp_key: oomp_kut_kicad_kut_device_e_type_d6_8
+    oomp_key_extra: oomp_footprint_kut_kicad_kut_device_e_type_d6_8
+    oomp_key_full: oomp_footprint_kut_kicad_kut_device_e_type_d6_8_693c5b
+    oomp_key_simple: kut_kicad_kut_device_e_type_d6_8
+    original_filename: KUT_Device.pretty/E-Type_D6.8.kicad_mod
+    owner_name: kut_kicad
   oomp_key: oomp_kut_kicad_kut_device_e_type_d6_8
+  oomp_key_full: oomp_footprint_kut_kicad_kut_device_e_type_d6_8
   oomp_key_simple: kut_kicad_kut_device_e_type_d6_8
   owner: KUT-KiCad
   repo:

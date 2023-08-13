@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/AcheronProject/acheron_Hardware.pretty
     oomp_bot: footprints/acheronproject_acheron_hardware_keystone_3030/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/acheronproject_acheron_hardware_keystone_3030/working
-    oomp_doc: footprints/footprints/AcheronProject/acheron_Hardware/KEYSTONE-3030/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/AcheronProject/acheron_Hardware/KEYSTONE-3030/working
     oomp_src_flat: footprints_flat/footprints_flat/acheronproject_acheron_hardware_keystone_3030/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/acheronproject_acheron_hardware_keystone_3030/working
-    oomp_src_folder: footprints_folder/footprints_folder/AcheronProject/acheron_Hardware/KEYSTONE-3030/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/AcheronProject/acheron_Hardware/KEYSTONE-3030/working
   name: acheron_Hardware.pretty
+  oomp:
+    footprint_name: keystone_3030
+    library_name: acheron_hardware
+    md5: b048f271b6d4efb8d2cb4cd6cacd255b
+    md5_10: b048f271b6
+    md5_5: b048f
+    md5_6: b048f2
+    oomp_key: oomp_acheronproject_acheron_hardware_keystone_3030
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_hardware_keystone_3030
+    oomp_key_full: oomp_footprint_acheronproject_acheron_hardware_keystone_3030_b048f2
+    oomp_key_simple: acheronproject_acheron_hardware_keystone_3030
+    original_filename: acheron_Hardware.pretty/KEYSTONE-3030.kicad_mod
+    owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_hardware_keystone_3030
+  oomp_key_full: oomp_footprint_acheronproject_acheron_hardware_keystone_3030
   oomp_key_simple: acheronproject_acheron_hardware_keystone_3030
   owner: AcheronProject
   repo:

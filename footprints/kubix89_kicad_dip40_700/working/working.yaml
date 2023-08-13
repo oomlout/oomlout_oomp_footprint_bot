@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/kubiX89/kiCAD.pretty
     oomp_bot: footprints/kubix89_kicad_dip40_700/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kubix89_kicad_dip40_700/working
-    oomp_doc: footprints/footprints/kubiX89/kiCAD/DIP40_700/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kubiX89/kiCAD/DIP40_700/working
     oomp_src_flat: footprints_flat/footprints_flat/kubix89_kicad_dip40_700/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kubix89_kicad_dip40_700/working
-    oomp_src_folder: footprints_folder/footprints_folder/kubiX89/kiCAD/DIP40_700/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kubiX89/kiCAD/DIP40_700/working
   name: kiCAD.pretty
+  oomp:
+    footprint_name: dip40_700
+    library_name: kicad
+    md5: 25f34699492091e8dcd2074bd1802059
+    md5_10: 25f3469949
+    md5_5: 25f34
+    md5_6: 25f346
+    oomp_key: oomp_kubix89_kicad_dip40_700
+    oomp_key_extra: oomp_footprint_kubix89_kicad_dip40_700
+    oomp_key_full: oomp_footprint_kubix89_kicad_dip40_700_25f346
+    oomp_key_simple: kubix89_kicad_dip40_700
+    original_filename: kiCAD.pretty/DIP40_700.kicad_mod
+    owner_name: kubix89
   oomp_key: oomp_kubix89_kicad_dip40_700
+  oomp_key_full: oomp_footprint_kubix89_kicad_dip40_700
   oomp_key_simple: kubix89_kicad_dip40_700
   owner: kubiX89
   repo:

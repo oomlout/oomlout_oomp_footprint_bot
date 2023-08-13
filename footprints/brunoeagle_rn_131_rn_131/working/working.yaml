@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_rn_131_rn_131/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_rn_131_rn_131/working
-    oomp_doc: footprints/footprints/brunoeagle/RN-131.kicad_mod/RN-131/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/RN-131.kicad_mod/RN-131/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_rn_131_rn_131/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_rn_131_rn_131/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/RN-131.kicad_mod/RN-131/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/RN-131.kicad_mod/RN-131/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: rn_131
+    library_name: rn_131_kicad_mod
+    md5: a84b06fc2be081a8bf13b695322fe160
+    md5_10: a84b06fc2b
+    md5_5: a84b0
+    md5_6: a84b06
+    oomp_key: oomp_brunoeagle_rn_131_rn_131
+    oomp_key_extra: oomp_footprint_brunoeagle_rn_131_rn_131
+    oomp_key_full: oomp_footprint_brunoeagle_rn_131_rn_131_a84b06
+    oomp_key_simple: brunoeagle_rn_131_rn_131
+    original_filename: kicad-open-modules/RN-131.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_rn_131_rn_131
+  oomp_key_full: oomp_footprint_brunoeagle_rn_131_rn_131
   oomp_key_simple: brunoeagle_rn_131_rn_131
   owner: brunoeagle
   repo:

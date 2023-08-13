@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/esden_pkl_logos_1bitsy_silk_025grid/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/esden_pkl_logos_1bitsy_silk_025grid/working
-    oomp_doc: footprints/footprints/esden/pkl_logos/1bitsy_silk_025grid/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/esden/pkl_logos/1bitsy_silk_025grid/working
     oomp_src_flat: footprints_flat/footprints_flat/esden_pkl_logos_1bitsy_silk_025grid/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/esden_pkl_logos_1bitsy_silk_025grid/working
-    oomp_src_folder: footprints_folder/footprints_folder/esden/pkl_logos/1bitsy_silk_025grid/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/esden/pkl_logos/1bitsy_silk_025grid/working
   name: pretty-kicad-libs
+  oomp:
+    footprint_name: 1bitsy_silk_025grid
+    library_name: pkl_logos
+    md5: 816917e2de64a11ad7c267d3b265eca2
+    md5_10: 816917e2de
+    md5_5: '81691'
+    md5_6: '816917'
+    oomp_key: oomp_esden_pkl_logos_1bitsy_silk_025grid
+    oomp_key_extra: oomp_footprint_esden_pkl_logos_1bitsy_silk_025grid
+    oomp_key_full: oomp_footprint_esden_pkl_logos_1bitsy_silk_025grid_816917
+    oomp_key_simple: esden_pkl_logos_1bitsy_silk_025grid
+    original_filename: pretty-kicad-libs/pkl_logos.pretty/1bitsy_silk_025grid.kicad_mod
+    owner_name: esden
   oomp_key: oomp_esden_pkl_logos_1bitsy_silk_025grid
+  oomp_key_full: oomp_footprint_esden_pkl_logos_1bitsy_silk_025grid
   oomp_key_simple: esden_pkl_logos_1bitsy_silk_025grid
   owner: esden
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/hoskinstech_bjh_kicad_connector_fp_rcpt_2row_2_54mm_26way/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/hoskinstech_bjh_kicad_connector_fp_rcpt_2row_2_54mm_26way/working
-    oomp_doc: footprints/footprints/hoskinstech/bjh-kicad-connector-fp/RCPT-2row-2.54mm-26way/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/hoskinstech/bjh-kicad-connector-fp/RCPT-2row-2.54mm-26way/working
     oomp_src_flat: footprints_flat/footprints_flat/hoskinstech_bjh_kicad_connector_fp_rcpt_2row_2_54mm_26way/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/hoskinstech_bjh_kicad_connector_fp_rcpt_2row_2_54mm_26way/working
-    oomp_src_folder: footprints_folder/footprints_folder/hoskinstech/bjh-kicad-connector-fp/RCPT-2row-2.54mm-26way/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/hoskinstech/bjh-kicad-connector-fp/RCPT-2row-2.54mm-26way/working
   name: bjh-kicad-connector-fp.pretty
+  oomp:
+    footprint_name: rcpt_2row_2_54mm_26way
+    library_name: bjh_kicad_connector_fp
+    md5: 7098b56c08a94d2a16214983398be67c
+    md5_10: 7098b56c08
+    md5_5: 7098b
+    md5_6: 7098b5
+    oomp_key: oomp_hoskinstech_bjh_kicad_connector_fp_rcpt_2row_2_54mm_26way
+    oomp_key_extra: oomp_footprint_hoskinstech_bjh_kicad_connector_fp_rcpt_2row_2_54mm_26way
+    oomp_key_full: oomp_footprint_hoskinstech_bjh_kicad_connector_fp_rcpt_2row_2_54mm_26way_7098b5
+    oomp_key_simple: hoskinstech_bjh_kicad_connector_fp_rcpt_2row_2_54mm_26way
+    original_filename: bjh-kicad-connector-fp.pretty/RCPT-2row-2.54mm-26way.kicad_mod
+    owner_name: hoskinstech
   oomp_key: oomp_hoskinstech_bjh_kicad_connector_fp_rcpt_2row_2_54mm_26way
+  oomp_key_full: oomp_footprint_hoskinstech_bjh_kicad_connector_fp_rcpt_2row_2_54mm_26way
   oomp_key_simple: hoskinstech_bjh_kicad_connector_fp_rcpt_2row_2_54mm_26way
   owner: hoskinstech
   repo:

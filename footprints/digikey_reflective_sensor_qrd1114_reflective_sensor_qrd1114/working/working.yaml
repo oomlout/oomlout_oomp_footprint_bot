@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/digikey_reflective_sensor_qrd1114_reflective_sensor_qrd1114/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_reflective_sensor_qrd1114_reflective_sensor_qrd1114/working
-    oomp_doc: footprints/footprints/digikey/Reflective_Sensor_QRD1114.kicad_mod/Reflective_Sensor_QRD1114/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/digikey/Reflective_Sensor_QRD1114.kicad_mod/Reflective_Sensor_QRD1114/working
     oomp_src_flat: footprints_flat/footprints_flat/digikey_reflective_sensor_qrd1114_reflective_sensor_qrd1114/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/digikey_reflective_sensor_qrd1114_reflective_sensor_qrd1114/working
-    oomp_src_folder: footprints_folder/footprints_folder/digikey/Reflective_Sensor_QRD1114.kicad_mod/Reflective_Sensor_QRD1114/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/digikey/Reflective_Sensor_QRD1114.kicad_mod/Reflective_Sensor_QRD1114/working
   name: digikey-kicad-library
+  oomp:
+    footprint_name: reflective_sensor_qrd1114
+    library_name: reflective_sensor_qrd1114_kicad_mod
+    md5: 5df3919cfdf5af64f2eb194d0967fb95
+    md5_10: 5df3919cfd
+    md5_5: 5df39
+    md5_6: 5df391
+    oomp_key: oomp_digikey_reflective_sensor_qrd1114_reflective_sensor_qrd1114
+    oomp_key_extra: oomp_footprint_digikey_reflective_sensor_qrd1114_reflective_sensor_qrd1114
+    oomp_key_full: oomp_footprint_digikey_reflective_sensor_qrd1114_reflective_sensor_qrd1114_5df391
+    oomp_key_simple: digikey_reflective_sensor_qrd1114_reflective_sensor_qrd1114
+    original_filename: digikey-kicad-library/src/Source_Footprints/Reflective_Sensor_QRD1114.kicad_mod
+    owner_name: digikey
   oomp_key: oomp_digikey_reflective_sensor_qrd1114_reflective_sensor_qrd1114
+  oomp_key_full: oomp_footprint_digikey_reflective_sensor_qrd1114_reflective_sensor_qrd1114
   oomp_key_simple: digikey_reflective_sensor_qrd1114_reflective_sensor_qrd1114
   owner: digikey
   repo:

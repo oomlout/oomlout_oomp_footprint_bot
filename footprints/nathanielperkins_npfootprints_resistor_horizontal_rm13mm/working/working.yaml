@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/nathanielperkins_npfootprints_resistor_horizontal_rm13mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nathanielperkins_npfootprints_resistor_horizontal_rm13mm/working
-    oomp_doc: footprints/footprints/NathanielPerkins/NPFootprints/Resistor_Horizontal_RM13mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/NathanielPerkins/NPFootprints/Resistor_Horizontal_RM13mm/working
     oomp_src_flat: footprints_flat/footprints_flat/nathanielperkins_npfootprints_resistor_horizontal_rm13mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nathanielperkins_npfootprints_resistor_horizontal_rm13mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/NathanielPerkins/NPFootprints/Resistor_Horizontal_RM13mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/NathanielPerkins/NPFootprints/Resistor_Horizontal_RM13mm/working
   name: NPFootprints.pretty
+  oomp:
+    footprint_name: resistor_horizontal_rm13mm
+    library_name: npfootprints
+    md5: 57e1475e9f4b44364b4b36848d384a26
+    md5_10: 57e1475e9f
+    md5_5: 57e14
+    md5_6: 57e147
+    oomp_key: oomp_nathanielperkins_npfootprints_resistor_horizontal_rm13mm
+    oomp_key_extra: oomp_footprint_nathanielperkins_npfootprints_resistor_horizontal_rm13mm
+    oomp_key_full: oomp_footprint_nathanielperkins_npfootprints_resistor_horizontal_rm13mm_57e147
+    oomp_key_simple: nathanielperkins_npfootprints_resistor_horizontal_rm13mm
+    original_filename: NPFootprints.pretty/Resistor_Horizontal_RM13mm.kicad_mod
+    owner_name: nathanielperkins
   oomp_key: oomp_nathanielperkins_npfootprints_resistor_horizontal_rm13mm
+  oomp_key_full: oomp_footprint_nathanielperkins_npfootprints_resistor_horizontal_rm13mm
   oomp_key_simple: nathanielperkins_npfootprints_resistor_horizontal_rm13mm
   owner: NathanielPerkins
   repo:

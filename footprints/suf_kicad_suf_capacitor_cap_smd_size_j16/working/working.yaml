@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/suf_kicad_suf_capacitor_cap_smd_size_j16/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/suf_kicad_suf_capacitor_cap_smd_size_j16/working
-    oomp_doc: footprints/footprints/suf-KiCAD/suf_capacitor/CAP-SMD-SIZE-J16/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/suf-KiCAD/suf_capacitor/CAP-SMD-SIZE-J16/working
     oomp_src_flat: footprints_flat/footprints_flat/suf_kicad_suf_capacitor_cap_smd_size_j16/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/suf_kicad_suf_capacitor_cap_smd_size_j16/working
-    oomp_src_folder: footprints_folder/footprints_folder/suf-KiCAD/suf_capacitor/CAP-SMD-SIZE-J16/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/suf-KiCAD/suf_capacitor/CAP-SMD-SIZE-J16/working
   name: suf_capacitor.pretty
+  oomp:
+    footprint_name: cap_smd_size_j16
+    library_name: suf_capacitor
+    md5: 27e75f80b8b816b66019060ddec5af28
+    md5_10: 27e75f80b8
+    md5_5: 27e75
+    md5_6: 27e75f
+    oomp_key: oomp_suf_kicad_suf_capacitor_cap_smd_size_j16
+    oomp_key_extra: oomp_footprint_suf_kicad_suf_capacitor_cap_smd_size_j16
+    oomp_key_full: oomp_footprint_suf_kicad_suf_capacitor_cap_smd_size_j16_27e75f
+    oomp_key_simple: suf_kicad_suf_capacitor_cap_smd_size_j16
+    original_filename: suf_capacitor.pretty/CAP-SMD-SIZE-J16.kicad_mod
+    owner_name: suf_kicad
   oomp_key: oomp_suf_kicad_suf_capacitor_cap_smd_size_j16
+  oomp_key_full: oomp_footprint_suf_kicad_suf_capacitor_cap_smd_size_j16
   oomp_key_simple: suf_kicad_suf_capacitor_cap_smd_size_j16
   owner: suf-KiCAD
   repo:

@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/nppc_cc2500_cc2500/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nppc_cc2500_cc2500/working
-    oomp_doc: footprints/footprints/nppc/CC2500.kicad_mod/CC2500/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/nppc/CC2500.kicad_mod/CC2500/working
     oomp_src_flat: footprints_flat/footprints_flat/nppc_cc2500_cc2500/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nppc_cc2500_cc2500/working
-    oomp_src_folder: footprints_folder/footprints_folder/nppc/CC2500.kicad_mod/CC2500/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/nppc/CC2500.kicad_mod/CC2500/working
   name: KiCadCustomLibs
+  oomp:
+    footprint_name: cc2500
+    library_name: cc2500_kicad_mod
+    md5: f6cc3adb8885c3d7c4d3eeaf951460b9
+    md5_10: f6cc3adb88
+    md5_5: f6cc3
+    md5_6: f6cc3a
+    oomp_key: oomp_nppc_cc2500_cc2500
+    oomp_key_extra: oomp_footprint_nppc_cc2500_cc2500
+    oomp_key_full: oomp_footprint_nppc_cc2500_cc2500_f6cc3a
+    oomp_key_simple: nppc_cc2500_cc2500
+    original_filename: KiCadCustomLibs/CC2500.kicad_mod
+    owner_name: nppc
   oomp_key: oomp_nppc_cc2500_cc2500
+  oomp_key_full: oomp_footprint_nppc_cc2500_cc2500
   oomp_key_simple: nppc_cc2500_cc2500
   owner: nppc
   repo:

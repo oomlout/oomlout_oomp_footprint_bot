@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/natsfr_connectors_sata_sata_a_ra_smt/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/natsfr_connectors_sata_sata_a_ra_smt/working
-    oomp_doc: footprints/footprints/natsfr/Connectors_SATA/SATA-A_RA_SMT/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/natsfr/Connectors_SATA/SATA-A_RA_SMT/working
     oomp_src_flat: footprints_flat/footprints_flat/natsfr_connectors_sata_sata_a_ra_smt/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/natsfr_connectors_sata_sata_a_ra_smt/working
-    oomp_src_folder: footprints_folder/footprints_folder/natsfr/Connectors_SATA/SATA-A_RA_SMT/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/natsfr/Connectors_SATA/SATA-A_RA_SMT/working
   name: kicad-components
+  oomp:
+    footprint_name: sata_a_ra_smt
+    library_name: connectors_sata
+    md5: e1d2a9c75e51da2d03f5692136586c07
+    md5_10: e1d2a9c75e
+    md5_5: e1d2a
+    md5_6: e1d2a9
+    oomp_key: oomp_natsfr_connectors_sata_sata_a_ra_smt
+    oomp_key_extra: oomp_footprint_natsfr_connectors_sata_sata_a_ra_smt
+    oomp_key_full: oomp_footprint_natsfr_connectors_sata_sata_a_ra_smt_e1d2a9
+    oomp_key_simple: natsfr_connectors_sata_sata_a_ra_smt
+    original_filename: kicad-components/Pretty_Footprints/Connectors_SATA.pretty/SATA-A_RA_SMT.kicad_mod
+    owner_name: natsfr
   oomp_key: oomp_natsfr_connectors_sata_sata_a_ra_smt
+  oomp_key_full: oomp_footprint_natsfr_connectors_sata_sata_a_ra_smt
   oomp_key_simple: natsfr_connectors_sata_sata_a_ra_smt
   owner: natsfr
   repo:

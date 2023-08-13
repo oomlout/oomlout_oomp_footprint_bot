@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_tl1014bf160qg_tl1014bf160qg/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_tl1014bf160qg_tl1014bf160qg/working
-    oomp_doc: footprints/footprints/brunoeagle/TL1014BF160QG.kicad_mod/TL1014BF160QG/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/TL1014BF160QG.kicad_mod/TL1014BF160QG/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_tl1014bf160qg_tl1014bf160qg/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_tl1014bf160qg_tl1014bf160qg/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/TL1014BF160QG.kicad_mod/TL1014BF160QG/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/TL1014BF160QG.kicad_mod/TL1014BF160QG/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: tl1014bf160qg
+    library_name: tl1014bf160qg_kicad_mod
+    md5: 943835b5bdf8d78c0787bca64e12c75e
+    md5_10: 943835b5bd
+    md5_5: '94383'
+    md5_6: '943835'
+    oomp_key: oomp_brunoeagle_tl1014bf160qg_tl1014bf160qg
+    oomp_key_extra: oomp_footprint_brunoeagle_tl1014bf160qg_tl1014bf160qg
+    oomp_key_full: oomp_footprint_brunoeagle_tl1014bf160qg_tl1014bf160qg_943835
+    oomp_key_simple: brunoeagle_tl1014bf160qg_tl1014bf160qg
+    original_filename: kicad-open-modules/TL1014BF160QG.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_tl1014bf160qg_tl1014bf160qg
+  oomp_key_full: oomp_footprint_brunoeagle_tl1014bf160qg_tl1014bf160qg
   oomp_key_simple: brunoeagle_tl1014bf160qg_tl1014bf160qg
   owner: brunoeagle
   repo:

@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/Iangitpers/4a
     oomp_bot: footprints/iangitpers_symbol_symbol_highvoltage_type2_coppertop_verysmall/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/iangitpers_symbol_symbol_highvoltage_type2_coppertop_verysmall/working
-    oomp_doc: footprints/footprints/Iangitpers/Symbol/Symbol_HighVoltage_Type2_CopperTop_VerySmall/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Iangitpers/Symbol/Symbol_HighVoltage_Type2_CopperTop_VerySmall/working
     oomp_src_flat: footprints_flat/footprints_flat/iangitpers_symbol_symbol_highvoltage_type2_coppertop_verysmall/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/iangitpers_symbol_symbol_highvoltage_type2_coppertop_verysmall/working
-    oomp_src_folder: footprints_folder/footprints_folder/Iangitpers/Symbol/Symbol_HighVoltage_Type2_CopperTop_VerySmall/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Iangitpers/Symbol/Symbol_HighVoltage_Type2_CopperTop_VerySmall/working
   name: 4a
+  oomp:
+    footprint_name: symbol_highvoltage_type2_coppertop_verysmall
+    library_name: symbol
+    md5: 7ecc03e35c582c78009b6fa946db9c4a
+    md5_10: 7ecc03e35c
+    md5_5: 7ecc0
+    md5_6: 7ecc03
+    oomp_key: oomp_iangitpers_symbol_symbol_highvoltage_type2_coppertop_verysmall
+    oomp_key_extra: oomp_footprint_iangitpers_symbol_symbol_highvoltage_type2_coppertop_verysmall
+    oomp_key_full: oomp_footprint_iangitpers_symbol_symbol_highvoltage_type2_coppertop_verysmall_7ecc03
+    oomp_key_simple: iangitpers_symbol_symbol_highvoltage_type2_coppertop_verysmall
+    original_filename: 4a/Symbol.pretty/Symbol_HighVoltage_Type2_CopperTop_VerySmall.kicad_mod
+    owner_name: iangitpers
   oomp_key: oomp_iangitpers_symbol_symbol_highvoltage_type2_coppertop_verysmall
+  oomp_key_full: oomp_footprint_iangitpers_symbol_symbol_highvoltage_type2_coppertop_verysmall
   oomp_key_simple: iangitpers_symbol_symbol_highvoltage_type2_coppertop_verysmall
   owner: Iangitpers
   repo:

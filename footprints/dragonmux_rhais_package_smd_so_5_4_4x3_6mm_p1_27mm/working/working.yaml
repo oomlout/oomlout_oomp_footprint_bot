@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/dragonmux_rhais_package_smd_so_5_4_4x3_6mm_p1_27mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/dragonmux_rhais_package_smd_so_5_4_4x3_6mm_p1_27mm/working
-    oomp_doc: footprints/footprints/dragonmux/rhais_package-smd/SO-5_4.4x3.6mm_P1.27mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/dragonmux/rhais_package-smd/SO-5_4.4x3.6mm_P1.27mm/working
     oomp_src_flat: footprints_flat/footprints_flat/dragonmux_rhais_package_smd_so_5_4_4x3_6mm_p1_27mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/dragonmux_rhais_package_smd_so_5_4_4x3_6mm_p1_27mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/dragonmux/rhais_package-smd/SO-5_4.4x3.6mm_P1.27mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/dragonmux/rhais_package-smd/SO-5_4.4x3.6mm_P1.27mm/working
   name: rhais_package-smd.pretty
+  oomp:
+    footprint_name: so_5_4_4x3_6mm_p1_27mm
+    library_name: rhais_package_smd
+    md5: cc9e13f8c536b4a9cb8ab645e3d14ed4
+    md5_10: cc9e13f8c5
+    md5_5: cc9e1
+    md5_6: cc9e13
+    oomp_key: oomp_dragonmux_rhais_package_smd_so_5_4_4x3_6mm_p1_27mm
+    oomp_key_extra: oomp_footprint_dragonmux_rhais_package_smd_so_5_4_4x3_6mm_p1_27mm
+    oomp_key_full: oomp_footprint_dragonmux_rhais_package_smd_so_5_4_4x3_6mm_p1_27mm_cc9e13
+    oomp_key_simple: dragonmux_rhais_package_smd_so_5_4_4x3_6mm_p1_27mm
+    original_filename: rhais_package-smd.pretty/SO-5_4.4x3.6mm_P1.27mm.kicad_mod
+    owner_name: dragonmux
   oomp_key: oomp_dragonmux_rhais_package_smd_so_5_4_4x3_6mm_p1_27mm
+  oomp_key_full: oomp_footprint_dragonmux_rhais_package_smd_so_5_4_4x3_6mm_p1_27mm
   oomp_key_simple: dragonmux_rhais_package_smd_so_5_4_4x3_6mm_p1_27mm
   owner: dragonmux
   repo:

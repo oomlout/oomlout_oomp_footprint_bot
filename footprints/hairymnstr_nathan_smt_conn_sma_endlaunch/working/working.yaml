@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/hairymnstr_nathan_smt_conn_sma_endlaunch/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/hairymnstr_nathan_smt_conn_sma_endlaunch/working
-    oomp_doc: footprints/footprints/hairymnstr/Nathan_SMT_Conn/SMA_ENDLAUNCH/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/hairymnstr/Nathan_SMT_Conn/SMA_ENDLAUNCH/working
     oomp_src_flat: footprints_flat/footprints_flat/hairymnstr_nathan_smt_conn_sma_endlaunch/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/hairymnstr_nathan_smt_conn_sma_endlaunch/working
-    oomp_src_folder: footprints_folder/footprints_folder/hairymnstr/Nathan_SMT_Conn/SMA_ENDLAUNCH/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/hairymnstr/Nathan_SMT_Conn/SMA_ENDLAUNCH/working
   name: Nathan_SMT_Conn.pretty
+  oomp:
+    footprint_name: sma_endlaunch
+    library_name: nathan_smt_conn
+    md5: 274a777c3ad91699ddb35015416b8fce
+    md5_10: 274a777c3a
+    md5_5: 274a7
+    md5_6: 274a77
+    oomp_key: oomp_hairymnstr_nathan_smt_conn_sma_endlaunch
+    oomp_key_extra: oomp_footprint_hairymnstr_nathan_smt_conn_sma_endlaunch
+    oomp_key_full: oomp_footprint_hairymnstr_nathan_smt_conn_sma_endlaunch_274a77
+    oomp_key_simple: hairymnstr_nathan_smt_conn_sma_endlaunch
+    original_filename: Nathan_SMT_Conn.pretty/SMA_ENDLAUNCH.kicad_mod
+    owner_name: hairymnstr
   oomp_key: oomp_hairymnstr_nathan_smt_conn_sma_endlaunch
+  oomp_key_full: oomp_footprint_hairymnstr_nathan_smt_conn_sma_endlaunch
   oomp_key_simple: hairymnstr_nathan_smt_conn_sma_endlaunch
   owner: hairymnstr
   repo:

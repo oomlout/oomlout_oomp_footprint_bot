@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/thefork_umidi_optocoupler_dip8_smd/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/thefork_umidi_optocoupler_dip8_smd/working
-    oomp_doc: footprints/footprints/theFork/uMIDI/Optocoupler_DIP8_SMD/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/theFork/uMIDI/Optocoupler_DIP8_SMD/working
     oomp_src_flat: footprints_flat/footprints_flat/thefork_umidi_optocoupler_dip8_smd/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/thefork_umidi_optocoupler_dip8_smd/working
-    oomp_src_folder: footprints_folder/footprints_folder/theFork/uMIDI/Optocoupler_DIP8_SMD/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/theFork/uMIDI/Optocoupler_DIP8_SMD/working
   name: uMIDI.pretty
+  oomp:
+    footprint_name: optocoupler_dip8_smd
+    library_name: umidi
+    md5: ff751ef2cfb491fa507e08fff36755d9
+    md5_10: ff751ef2cf
+    md5_5: ff751
+    md5_6: ff751e
+    oomp_key: oomp_thefork_umidi_optocoupler_dip8_smd
+    oomp_key_extra: oomp_footprint_thefork_umidi_optocoupler_dip8_smd
+    oomp_key_full: oomp_footprint_thefork_umidi_optocoupler_dip8_smd_ff751e
+    oomp_key_simple: thefork_umidi_optocoupler_dip8_smd
+    original_filename: uMIDI.pretty/Optocoupler_DIP8_SMD.kicad_mod
+    owner_name: thefork
   oomp_key: oomp_thefork_umidi_optocoupler_dip8_smd
+  oomp_key_full: oomp_footprint_thefork_umidi_optocoupler_dip8_smd
   oomp_key_simple: thefork_umidi_optocoupler_dip8_smd
   owner: theFork
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/chriswags_freetronics_footprints_2x20/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/chriswags_freetronics_footprints_2x20/working
-    oomp_doc: footprints/footprints/chriswags/freetronics_footprints/2X20/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/chriswags/freetronics_footprints/2X20/working
     oomp_src_flat: footprints_flat/footprints_flat/chriswags_freetronics_footprints_2x20/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/chriswags_freetronics_footprints_2x20/working
-    oomp_src_folder: footprints_folder/footprints_folder/chriswags/freetronics_footprints/2X20/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/chriswags/freetronics_footprints/2X20/working
   name: KiCad
+  oomp:
+    footprint_name: 2x20
+    library_name: freetronics_footprints
+    md5: 0993a3e2e9dd3535246a8634c1a5b2f3
+    md5_10: 0993a3e2e9
+    md5_5: 0993a
+    md5_6: 0993a3
+    oomp_key: oomp_chriswags_freetronics_footprints_2x20
+    oomp_key_extra: oomp_footprint_chriswags_freetronics_footprints_2x20
+    oomp_key_full: oomp_footprint_chriswags_freetronics_footprints_2x20_0993a3
+    oomp_key_simple: chriswags_freetronics_footprints_2x20
+    original_filename: KiCad/mods/freetronics_footprints.pretty/2X20.kicad_mod
+    owner_name: chriswags
   oomp_key: oomp_chriswags_freetronics_footprints_2x20
+  oomp_key_full: oomp_footprint_chriswags_freetronics_footprints_2x20
   oomp_key_simple: chriswags_freetronics_footprints_2x20
   owner: chriswags
   repo:

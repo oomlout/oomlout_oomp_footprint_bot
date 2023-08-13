@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/garrettsworkshop_stdpads_pqfp_100_14x20mm_p0_65mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/garrettsworkshop_stdpads_pqfp_100_14x20mm_p0_65mm/working
-    oomp_doc: footprints/footprints/garrettsworkshop/stdpads/PQFP-100_14x20mm_P0.65mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/garrettsworkshop/stdpads/PQFP-100_14x20mm_P0.65mm/working
     oomp_src_flat: footprints_flat/footprints_flat/garrettsworkshop_stdpads_pqfp_100_14x20mm_p0_65mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/garrettsworkshop_stdpads_pqfp_100_14x20mm_p0_65mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/garrettsworkshop/stdpads/PQFP-100_14x20mm_P0.65mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/garrettsworkshop/stdpads/PQFP-100_14x20mm_P0.65mm/working
   name: stdpads.pretty
+  oomp:
+    footprint_name: pqfp_100_14x20mm_p0_65mm
+    library_name: stdpads
+    md5: b9e3058ac4478a06cff5a44b89ed100a
+    md5_10: b9e3058ac4
+    md5_5: b9e30
+    md5_6: b9e305
+    oomp_key: oomp_garrettsworkshop_stdpads_pqfp_100_14x20mm_p0_65mm
+    oomp_key_extra: oomp_footprint_garrettsworkshop_stdpads_pqfp_100_14x20mm_p0_65mm
+    oomp_key_full: oomp_footprint_garrettsworkshop_stdpads_pqfp_100_14x20mm_p0_65mm_b9e305
+    oomp_key_simple: garrettsworkshop_stdpads_pqfp_100_14x20mm_p0_65mm
+    original_filename: stdpads.pretty/PQFP-100_14x20mm_P0.65mm.kicad_mod
+    owner_name: garrettsworkshop
   oomp_key: oomp_garrettsworkshop_stdpads_pqfp_100_14x20mm_p0_65mm
+  oomp_key_full: oomp_footprint_garrettsworkshop_stdpads_pqfp_100_14x20mm_p0_65mm
   oomp_key_simple: garrettsworkshop_stdpads_pqfp_100_14x20mm_p0_65mm
   owner: garrettsworkshop
   repo:

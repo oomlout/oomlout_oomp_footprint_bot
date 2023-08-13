@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/nppc_lora_ra_02_lora_ra_02/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nppc_lora_ra_02_lora_ra_02/working
-    oomp_doc: footprints/footprints/nppc/LoRa_Ra-02.kicad_mod/LoRa_Ra-02/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/nppc/LoRa_Ra-02.kicad_mod/LoRa_Ra-02/working
     oomp_src_flat: footprints_flat/footprints_flat/nppc_lora_ra_02_lora_ra_02/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nppc_lora_ra_02_lora_ra_02/working
-    oomp_src_folder: footprints_folder/footprints_folder/nppc/LoRa_Ra-02.kicad_mod/LoRa_Ra-02/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/nppc/LoRa_Ra-02.kicad_mod/LoRa_Ra-02/working
   name: KiCadCustomLibs
+  oomp:
+    footprint_name: lora_ra_02
+    library_name: lora_ra_02_kicad_mod
+    md5: 948b5e10da7ea99a1b450ef6436c4322
+    md5_10: 948b5e10da
+    md5_5: 948b5
+    md5_6: 948b5e
+    oomp_key: oomp_nppc_lora_ra_02_lora_ra_02
+    oomp_key_extra: oomp_footprint_nppc_lora_ra_02_lora_ra_02
+    oomp_key_full: oomp_footprint_nppc_lora_ra_02_lora_ra_02_948b5e
+    oomp_key_simple: nppc_lora_ra_02_lora_ra_02
+    original_filename: KiCadCustomLibs/LoRa_Ra-02.kicad_mod
+    owner_name: nppc
   oomp_key: oomp_nppc_lora_ra_02_lora_ra_02
+  oomp_key_full: oomp_footprint_nppc_lora_ra_02_lora_ra_02
   oomp_key_simple: nppc_lora_ra_02_lora_ra_02
   owner: nppc
   repo:

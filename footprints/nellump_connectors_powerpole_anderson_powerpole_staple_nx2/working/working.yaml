@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/nellump_connectors_powerpole_anderson_powerpole_staple_nx2/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nellump_connectors_powerpole_anderson_powerpole_staple_nx2/working
-    oomp_doc: footprints/footprints/nellump/Connectors_Powerpole/Anderson_Powerpole-staple-Nx2/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/nellump/Connectors_Powerpole/Anderson_Powerpole-staple-Nx2/working
     oomp_src_flat: footprints_flat/footprints_flat/nellump_connectors_powerpole_anderson_powerpole_staple_nx2/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nellump_connectors_powerpole_anderson_powerpole_staple_nx2/working
-    oomp_src_folder: footprints_folder/footprints_folder/nellump/Connectors_Powerpole/Anderson_Powerpole-staple-Nx2/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/nellump/Connectors_Powerpole/Anderson_Powerpole-staple-Nx2/working
   name: Connectors_Powerpole.pretty
+  oomp:
+    footprint_name: anderson_powerpole_staple_nx2
+    library_name: connectors_powerpole
+    md5: 9fe7d496c7124037a16c2a6d9324cdd1
+    md5_10: 9fe7d496c7
+    md5_5: 9fe7d
+    md5_6: 9fe7d4
+    oomp_key: oomp_nellump_connectors_powerpole_anderson_powerpole_staple_nx2
+    oomp_key_extra: oomp_footprint_nellump_connectors_powerpole_anderson_powerpole_staple_nx2
+    oomp_key_full: oomp_footprint_nellump_connectors_powerpole_anderson_powerpole_staple_nx2_9fe7d4
+    oomp_key_simple: nellump_connectors_powerpole_anderson_powerpole_staple_nx2
+    original_filename: Connectors_Powerpole.pretty/Anderson_Powerpole-staple-Nx2.kicad_mod
+    owner_name: nellump
   oomp_key: oomp_nellump_connectors_powerpole_anderson_powerpole_staple_nx2
+  oomp_key_full: oomp_footprint_nellump_connectors_powerpole_anderson_powerpole_staple_nx2
   oomp_key_simple: nellump_connectors_powerpole_anderson_powerpole_staple_nx2
   owner: nellump
   repo:

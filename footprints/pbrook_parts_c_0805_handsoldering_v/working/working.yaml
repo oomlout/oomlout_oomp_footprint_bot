@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pbrook_parts_c_0805_handsoldering_v/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pbrook_parts_c_0805_handsoldering_v/working
-    oomp_doc: footprints/footprints/pbrook/Parts/C_0805_HandSoldering_V/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/pbrook/Parts/C_0805_HandSoldering_V/working
     oomp_src_flat: footprints_flat/footprints_flat/pbrook_parts_c_0805_handsoldering_v/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pbrook_parts_c_0805_handsoldering_v/working
-    oomp_src_folder: footprints_folder/footprints_folder/pbrook/Parts/C_0805_HandSoldering_V/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/pbrook/Parts/C_0805_HandSoldering_V/working
   name: Parts.pretty
+  oomp:
+    footprint_name: c_0805_handsoldering_v
+    library_name: parts
+    md5: 55259740522b2d335bd3ea5415527d62
+    md5_10: '5525974052'
+    md5_5: '55259'
+    md5_6: '552597'
+    oomp_key: oomp_pbrook_parts_c_0805_handsoldering_v
+    oomp_key_extra: oomp_footprint_pbrook_parts_c_0805_handsoldering_v
+    oomp_key_full: oomp_footprint_pbrook_parts_c_0805_handsoldering_v_552597
+    oomp_key_simple: pbrook_parts_c_0805_handsoldering_v
+    original_filename: Parts.pretty/C_0805_HandSoldering_V.kicad_mod
+    owner_name: pbrook
   oomp_key: oomp_pbrook_parts_c_0805_handsoldering_v
+  oomp_key_full: oomp_footprint_pbrook_parts_c_0805_handsoldering_v
   oomp_key_simple: pbrook_parts_c_0805_handsoldering_v
   owner: pbrook
   repo:

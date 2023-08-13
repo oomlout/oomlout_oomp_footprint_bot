@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/stormboard_keyboard_cherry_plate_625h/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stormboard_keyboard_cherry_plate_625h/working
-    oomp_doc: footprints/footprints/stormboard/Keyboard/CHERRY_PLATE_625H/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/stormboard/Keyboard/CHERRY_PLATE_625H/working
     oomp_src_flat: footprints_flat/footprints_flat/stormboard_keyboard_cherry_plate_625h/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/stormboard_keyboard_cherry_plate_625h/working
-    oomp_src_folder: footprints_folder/footprints_folder/stormboard/Keyboard/CHERRY_PLATE_625H/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/stormboard/Keyboard/CHERRY_PLATE_625H/working
   name: Keyboard.pretty
+  oomp:
+    footprint_name: cherry_plate_625h
+    library_name: keyboard
+    md5: 8081b1f2650dce3dc1743393d24a06ec
+    md5_10: 8081b1f265
+    md5_5: 8081b
+    md5_6: 8081b1
+    oomp_key: oomp_stormboard_keyboard_cherry_plate_625h
+    oomp_key_extra: oomp_footprint_stormboard_keyboard_cherry_plate_625h
+    oomp_key_full: oomp_footprint_stormboard_keyboard_cherry_plate_625h_8081b1
+    oomp_key_simple: stormboard_keyboard_cherry_plate_625h
+    original_filename: Keyboard.pretty/CHERRY_PLATE_625H.kicad_mod
+    owner_name: stormboard
   oomp_key: oomp_stormboard_keyboard_cherry_plate_625h
+  oomp_key_full: oomp_footprint_stormboard_keyboard_cherry_plate_625h
   oomp_key_simple: stormboard_keyboard_cherry_plate_625h
   owner: stormboard
   repo:

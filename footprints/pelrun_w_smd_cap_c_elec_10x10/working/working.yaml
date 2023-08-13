@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pelrun_w_smd_cap_c_elec_10x10/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pelrun_w_smd_cap_c_elec_10x10/working
-    oomp_doc: footprints/footprints/pelrun/w_smd_cap/c_elec_10x10/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/pelrun/w_smd_cap/c_elec_10x10/working
     oomp_src_flat: footprints_flat/footprints_flat/pelrun_w_smd_cap_c_elec_10x10/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pelrun_w_smd_cap_c_elec_10x10/working
-    oomp_src_folder: footprints_folder/footprints_folder/pelrun/w_smd_cap/c_elec_10x10/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/pelrun/w_smd_cap/c_elec_10x10/working
   name: libKiCad
+  oomp:
+    footprint_name: c_elec_10x10
+    library_name: w_smd_cap
+    md5: ffbda56c3a2960b3eb413637fe4b0d7b
+    md5_10: ffbda56c3a
+    md5_5: ffbda
+    md5_6: ffbda5
+    oomp_key: oomp_pelrun_w_smd_cap_c_elec_10x10
+    oomp_key_extra: oomp_footprint_pelrun_w_smd_cap_c_elec_10x10
+    oomp_key_full: oomp_footprint_pelrun_w_smd_cap_c_elec_10x10_ffbda5
+    oomp_key_simple: pelrun_w_smd_cap_c_elec_10x10
+    original_filename: libKiCad/footprint/w_smd_cap.pretty/c_elec_10x10.kicad_mod
+    owner_name: pelrun
   oomp_key: oomp_pelrun_w_smd_cap_c_elec_10x10
+  oomp_key_full: oomp_footprint_pelrun_w_smd_cap_c_elec_10x10
   oomp_key_simple: pelrun_w_smd_cap_c_elec_10x10
   owner: pelrun
   repo:

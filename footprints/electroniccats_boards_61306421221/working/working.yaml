@@ -1,8 +1,5 @@
-- file: ComponentLibrariesKicadWurthElektronik/EAGLE-BOARD-TO-BOARD_CONNECTORS-rev16c/boards.pretty/61306421221.kicad_mod
-  footprint:
-    description: WR-PHD 2.54mm Dual Board Stacker, 64 Pins
-    libraryLink: 61306421221
-    number_of_pads: 64
+- error: expected string or bytes-like object, got 'int'
+  file: ComponentLibrariesKicadWurthElektronik/EAGLE-BOARD-TO-BOARD_CONNECTORS-rev16c/boards.pretty/61306421221.kicad_mod
   footprint_library_directory: footprint_library_owner/ElectronicCats_ComponentLibrariesKicadWurthElektronik
   footprint_library_directory_flat: footprints_flat/electroniccats_boards_61306421221/working
   github_path: http://github.com/ElectronicCats/ComponentLibrariesKicadWurthElektronik/blob/master/EAGLE-BOARD-TO-BOARD_CONNECTORS-rev16c/boards.pretty/61306421221.kicad_mod
@@ -12,14 +9,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/electroniccats_boards_61306421221/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/electroniccats_boards_61306421221/working
-    oomp_doc: footprints/footprints/ElectronicCats/boards/61306421221/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ElectronicCats/boards/61306421221/working
     oomp_src_flat: footprints_flat/footprints_flat/electroniccats_boards_61306421221/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/electroniccats_boards_61306421221/working
-    oomp_src_folder: footprints_folder/footprints_folder/ElectronicCats/boards/61306421221/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ElectronicCats/boards/61306421221/working
   name: ComponentLibrariesKicadWurthElektronik
+  oomp:
+    footprint_name: '61306421221'
+    library_name: boards
+    md5: 0f480d7569b7903fd041e76d3d0016cf
+    md5_10: 0f480d7569
+    md5_5: 0f480
+    md5_6: 0f480d
+    oomp_key: oomp_electroniccats_boards_61306421221
+    oomp_key_extra: oomp_footprint_electroniccats_boards_61306421221
+    oomp_key_full: oomp_footprint_electroniccats_boards_61306421221_0f480d
+    oomp_key_simple: electroniccats_boards_61306421221
+    original_filename: ComponentLibrariesKicadWurthElektronik/EAGLE-BOARD-TO-BOARD_CONNECTORS-rev16c/boards.pretty/61306421221.kicad_mod
+    owner_name: electroniccats
   oomp_key: oomp_electroniccats_boards_61306421221
+  oomp_key_full: oomp_footprint_electroniccats_boards_61306421221
   oomp_key_simple: electroniccats_boards_61306421221
   owner: ElectronicCats
   repo:

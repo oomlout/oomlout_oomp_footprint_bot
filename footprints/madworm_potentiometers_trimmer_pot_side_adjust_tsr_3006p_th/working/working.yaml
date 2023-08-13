@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/madworm/Potentiometers.pretty
     oomp_bot: footprints/madworm_potentiometers_trimmer_pot_side_adjust_tsr_3006p_th/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/madworm_potentiometers_trimmer_pot_side_adjust_tsr_3006p_th/working
-    oomp_doc: footprints/footprints/madworm/Potentiometers/trimmer-pot_side-adjust_TSR-3006P_TH/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/madworm/Potentiometers/trimmer-pot_side-adjust_TSR-3006P_TH/working
     oomp_src_flat: footprints_flat/footprints_flat/madworm_potentiometers_trimmer_pot_side_adjust_tsr_3006p_th/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/madworm_potentiometers_trimmer_pot_side_adjust_tsr_3006p_th/working
-    oomp_src_folder: footprints_folder/footprints_folder/madworm/Potentiometers/trimmer-pot_side-adjust_TSR-3006P_TH/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/madworm/Potentiometers/trimmer-pot_side-adjust_TSR-3006P_TH/working
   name: Potentiometers.pretty
+  oomp:
+    footprint_name: trimmer_pot_side_adjust_tsr_3006p_th
+    library_name: potentiometers
+    md5: c2d2c16fa1f827c516216db917d2fd23
+    md5_10: c2d2c16fa1
+    md5_5: c2d2c
+    md5_6: c2d2c1
+    oomp_key: oomp_madworm_potentiometers_trimmer_pot_side_adjust_tsr_3006p_th
+    oomp_key_extra: oomp_footprint_madworm_potentiometers_trimmer_pot_side_adjust_tsr_3006p_th
+    oomp_key_full: oomp_footprint_madworm_potentiometers_trimmer_pot_side_adjust_tsr_3006p_th_c2d2c1
+    oomp_key_simple: madworm_potentiometers_trimmer_pot_side_adjust_tsr_3006p_th
+    original_filename: Potentiometers.pretty/trimmer-pot_side-adjust_TSR-3006P_TH.kicad_mod
+    owner_name: madworm
   oomp_key: oomp_madworm_potentiometers_trimmer_pot_side_adjust_tsr_3006p_th
+  oomp_key_full: oomp_footprint_madworm_potentiometers_trimmer_pot_side_adjust_tsr_3006p_th
   oomp_key_simple: madworm_potentiometers_trimmer_pot_side_adjust_tsr_3006p_th
   owner: madworm
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/chriswags_rf_xmit/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/chriswags_rf_xmit/working
-    oomp_doc: footprints/footprints/chriswags/RF/XMIT/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/chriswags/RF/XMIT/working
     oomp_src_flat: footprints_flat/footprints_flat/chriswags_rf_xmit/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/chriswags_rf_xmit/working
-    oomp_src_folder: footprints_folder/footprints_folder/chriswags/RF/XMIT/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/chriswags/RF/XMIT/working
   name: KiCad
+  oomp:
+    footprint_name: xmit
+    library_name: rf
+    md5: 28dc63c94b36047c9ad60879049a5e1b
+    md5_10: 28dc63c94b
+    md5_5: 28dc6
+    md5_6: 28dc63
+    oomp_key: oomp_chriswags_rf_xmit
+    oomp_key_extra: oomp_footprint_chriswags_rf_xmit
+    oomp_key_full: oomp_footprint_chriswags_rf_xmit_28dc63
+    oomp_key_simple: chriswags_rf_xmit
+    original_filename: KiCad/mods/RF.pretty/XMIT.kicad_mod
+    owner_name: chriswags
   oomp_key: oomp_chriswags_rf_xmit
+  oomp_key_full: oomp_footprint_chriswags_rf_xmit
   oomp_key_simple: chriswags_rf_xmit
   owner: chriswags
   repo:

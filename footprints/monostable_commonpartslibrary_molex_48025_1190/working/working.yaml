@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/monostable_commonpartslibrary_molex_48025_1190/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/monostable_commonpartslibrary_molex_48025_1190/working
-    oomp_doc: footprints/footprints/monostable/CommonPartsLibrary/MOLEX_48025-1190/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/monostable/CommonPartsLibrary/MOLEX_48025-1190/working
     oomp_src_flat: footprints_flat/footprints_flat/monostable_commonpartslibrary_molex_48025_1190/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/monostable_commonpartslibrary_molex_48025_1190/working
-    oomp_src_folder: footprints_folder/footprints_folder/monostable/CommonPartsLibrary/MOLEX_48025-1190/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/monostable/CommonPartsLibrary/MOLEX_48025-1190/working
   name: CommonPartsLibrary.pretty
+  oomp:
+    footprint_name: molex_48025_1190
+    library_name: commonpartslibrary
+    md5: 4940fbaffbdc70df09946f4799c63cd2
+    md5_10: 4940fbaffb
+    md5_5: 4940f
+    md5_6: 4940fb
+    oomp_key: oomp_monostable_commonpartslibrary_molex_48025_1190
+    oomp_key_extra: oomp_footprint_monostable_commonpartslibrary_molex_48025_1190
+    oomp_key_full: oomp_footprint_monostable_commonpartslibrary_molex_48025_1190_4940fb
+    oomp_key_simple: monostable_commonpartslibrary_molex_48025_1190
+    original_filename: CommonPartsLibrary.pretty/MOLEX_48025-1190.kicad_mod
+    owner_name: monostable
   oomp_key: oomp_monostable_commonpartslibrary_molex_48025_1190
+  oomp_key_full: oomp_footprint_monostable_commonpartslibrary_molex_48025_1190
   oomp_key_simple: monostable_commonpartslibrary_molex_48025_1190
   owner: monostable
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/garrettsworkshop_stdpads_switchcraft_35rapc2av/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/garrettsworkshop_stdpads_switchcraft_35rapc2av/working
-    oomp_doc: footprints/footprints/garrettsworkshop/stdpads/Switchcraft_35RAPC2AV/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/garrettsworkshop/stdpads/Switchcraft_35RAPC2AV/working
     oomp_src_flat: footprints_flat/footprints_flat/garrettsworkshop_stdpads_switchcraft_35rapc2av/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/garrettsworkshop_stdpads_switchcraft_35rapc2av/working
-    oomp_src_folder: footprints_folder/footprints_folder/garrettsworkshop/stdpads/Switchcraft_35RAPC2AV/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/garrettsworkshop/stdpads/Switchcraft_35RAPC2AV/working
   name: stdpads.pretty
+  oomp:
+    footprint_name: switchcraft_35rapc2av
+    library_name: stdpads
+    md5: 953a4e72d5dfe95260cf7304f230ffb1
+    md5_10: 953a4e72d5
+    md5_5: 953a4
+    md5_6: 953a4e
+    oomp_key: oomp_garrettsworkshop_stdpads_switchcraft_35rapc2av
+    oomp_key_extra: oomp_footprint_garrettsworkshop_stdpads_switchcraft_35rapc2av
+    oomp_key_full: oomp_footprint_garrettsworkshop_stdpads_switchcraft_35rapc2av_953a4e
+    oomp_key_simple: garrettsworkshop_stdpads_switchcraft_35rapc2av
+    original_filename: stdpads.pretty/Switchcraft_35RAPC2AV.kicad_mod
+    owner_name: garrettsworkshop
   oomp_key: oomp_garrettsworkshop_stdpads_switchcraft_35rapc2av
+  oomp_key_full: oomp_footprint_garrettsworkshop_stdpads_switchcraft_35rapc2av
   oomp_key_simple: garrettsworkshop_stdpads_switchcraft_35rapc2av
   owner: garrettsworkshop
   repo:

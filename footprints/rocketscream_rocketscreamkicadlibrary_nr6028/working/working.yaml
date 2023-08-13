@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/rocketscream_rocketscreamkicadlibrary_nr6028/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/rocketscream_rocketscreamkicadlibrary_nr6028/working
-    oomp_doc: footprints/footprints/rocketscream/RocketScreamKicadLibrary/NR6028/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/rocketscream/RocketScreamKicadLibrary/NR6028/working
     oomp_src_flat: footprints_flat/footprints_flat/rocketscream_rocketscreamkicadlibrary_nr6028/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/rocketscream_rocketscreamkicadlibrary_nr6028/working
-    oomp_src_folder: footprints_folder/footprints_folder/rocketscream/RocketScreamKicadLibrary/NR6028/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/rocketscream/RocketScreamKicadLibrary/NR6028/working
   name: RocketScreamKicadLibrary
+  oomp:
+    footprint_name: nr6028
+    library_name: rocketscreamkicadlibrary
+    md5: 415ed2dfe9123e08ffe41efa5c46662d
+    md5_10: 415ed2dfe9
+    md5_5: 415ed
+    md5_6: 415ed2
+    oomp_key: oomp_rocketscream_rocketscreamkicadlibrary_nr6028
+    oomp_key_extra: oomp_footprint_rocketscream_rocketscreamkicadlibrary_nr6028
+    oomp_key_full: oomp_footprint_rocketscream_rocketscreamkicadlibrary_nr6028_415ed2
+    oomp_key_simple: rocketscream_rocketscreamkicadlibrary_nr6028
+    original_filename: RocketScreamKicadLibrary/RocketScreamKicadLibrary.pretty/NR6028.kicad_mod
+    owner_name: rocketscream
   oomp_key: oomp_rocketscream_rocketscreamkicadlibrary_nr6028
+  oomp_key_full: oomp_footprint_rocketscream_rocketscreamkicadlibrary_nr6028
   oomp_key_simple: rocketscream_rocketscreamkicadlibrary_nr6028
   owner: rocketscream
   repo:

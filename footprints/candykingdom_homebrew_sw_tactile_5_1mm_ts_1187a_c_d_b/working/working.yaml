@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/candykingdom_homebrew_sw_tactile_5_1mm_ts_1187a_c_d_b/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/candykingdom_homebrew_sw_tactile_5_1mm_ts_1187a_c_d_b/working
-    oomp_doc: footprints/footprints/candykingdom/homebrew/SW_TACTILE_5.1MM_TS-1187A-C-D-B/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/candykingdom/homebrew/SW_TACTILE_5.1MM_TS-1187A-C-D-B/working
     oomp_src_flat: footprints_flat/footprints_flat/candykingdom_homebrew_sw_tactile_5_1mm_ts_1187a_c_d_b/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/candykingdom_homebrew_sw_tactile_5_1mm_ts_1187a_c_d_b/working
-    oomp_src_folder: footprints_folder/footprints_folder/candykingdom/homebrew/SW_TACTILE_5.1MM_TS-1187A-C-D-B/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/candykingdom/homebrew/SW_TACTILE_5.1MM_TS-1187A-C-D-B/working
   name: homebrew.pretty
+  oomp:
+    footprint_name: sw_tactile_5_1mm_ts_1187a_c_d_b
+    library_name: homebrew
+    md5: 61beaf29f1857965b4b0150b99b62a20
+    md5_10: 61beaf29f1
+    md5_5: 61bea
+    md5_6: 61beaf
+    oomp_key: oomp_candykingdom_homebrew_sw_tactile_5_1mm_ts_1187a_c_d_b
+    oomp_key_extra: oomp_footprint_candykingdom_homebrew_sw_tactile_5_1mm_ts_1187a_c_d_b
+    oomp_key_full: oomp_footprint_candykingdom_homebrew_sw_tactile_5_1mm_ts_1187a_c_d_b_61beaf
+    oomp_key_simple: candykingdom_homebrew_sw_tactile_5_1mm_ts_1187a_c_d_b
+    original_filename: homebrew.pretty/SW_TACTILE_5.1MM_TS-1187A-C-D-B.kicad_mod
+    owner_name: candykingdom
   oomp_key: oomp_candykingdom_homebrew_sw_tactile_5_1mm_ts_1187a_c_d_b
+  oomp_key_full: oomp_footprint_candykingdom_homebrew_sw_tactile_5_1mm_ts_1187a_c_d_b
   oomp_key_simple: candykingdom_homebrew_sw_tactile_5_1mm_ts_1187a_c_d_b
   owner: candykingdom
   repo:

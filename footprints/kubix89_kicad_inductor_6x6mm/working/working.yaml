@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/kubiX89/kiCAD.pretty
     oomp_bot: footprints/kubix89_kicad_inductor_6x6mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kubix89_kicad_inductor_6x6mm/working
-    oomp_doc: footprints/footprints/kubiX89/kiCAD/INDUCTOR_6X6MM/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kubiX89/kiCAD/INDUCTOR_6X6MM/working
     oomp_src_flat: footprints_flat/footprints_flat/kubix89_kicad_inductor_6x6mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kubix89_kicad_inductor_6x6mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/kubiX89/kiCAD/INDUCTOR_6X6MM/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kubiX89/kiCAD/INDUCTOR_6X6MM/working
   name: kiCAD.pretty
+  oomp:
+    footprint_name: inductor_6x6mm
+    library_name: kicad
+    md5: 8025840627e2a07e339f747350e993b0
+    md5_10: '8025840627'
+    md5_5: '80258'
+    md5_6: '802584'
+    oomp_key: oomp_kubix89_kicad_inductor_6x6mm
+    oomp_key_extra: oomp_footprint_kubix89_kicad_inductor_6x6mm
+    oomp_key_full: oomp_footprint_kubix89_kicad_inductor_6x6mm_802584
+    oomp_key_simple: kubix89_kicad_inductor_6x6mm
+    original_filename: kiCAD.pretty/INDUCTOR_6X6MM.kicad_mod
+    owner_name: kubix89
   oomp_key: oomp_kubix89_kicad_inductor_6x6mm
+  oomp_key_full: oomp_footprint_kubix89_kicad_inductor_6x6mm
   oomp_key_simple: kubix89_kicad_inductor_6x6mm
   owner: kubiX89
   repo:

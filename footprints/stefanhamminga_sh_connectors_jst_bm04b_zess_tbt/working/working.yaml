@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/stefanhamminga_sh_connectors_jst_bm04b_zess_tbt/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stefanhamminga_sh_connectors_jst_bm04b_zess_tbt/working
-    oomp_doc: footprints/footprints/StefanHamminga/SH_Connectors/JST_BM04B-ZESS-TBT/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/StefanHamminga/SH_Connectors/JST_BM04B-ZESS-TBT/working
     oomp_src_flat: footprints_flat/footprints_flat/stefanhamminga_sh_connectors_jst_bm04b_zess_tbt/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/stefanhamminga_sh_connectors_jst_bm04b_zess_tbt/working
-    oomp_src_folder: footprints_folder/footprints_folder/StefanHamminga/SH_Connectors/JST_BM04B-ZESS-TBT/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/StefanHamminga/SH_Connectors/JST_BM04B-ZESS-TBT/working
   name: SH_Connectors.pretty
+  oomp:
+    footprint_name: jst_bm04b_zess_tbt
+    library_name: sh_connectors
+    md5: 2822f3402b71307a6add3c97489f5041
+    md5_10: 2822f3402b
+    md5_5: 2822f
+    md5_6: 2822f3
+    oomp_key: oomp_stefanhamminga_sh_connectors_jst_bm04b_zess_tbt
+    oomp_key_extra: oomp_footprint_stefanhamminga_sh_connectors_jst_bm04b_zess_tbt
+    oomp_key_full: oomp_footprint_stefanhamminga_sh_connectors_jst_bm04b_zess_tbt_2822f3
+    oomp_key_simple: stefanhamminga_sh_connectors_jst_bm04b_zess_tbt
+    original_filename: SH_Connectors.pretty/JST_BM04B-ZESS-TBT.kicad_mod
+    owner_name: stefanhamminga
   oomp_key: oomp_stefanhamminga_sh_connectors_jst_bm04b_zess_tbt
+  oomp_key_full: oomp_footprint_stefanhamminga_sh_connectors_jst_bm04b_zess_tbt
   oomp_key_simple: stefanhamminga_sh_connectors_jst_bm04b_zess_tbt
   owner: StefanHamminga
   repo:

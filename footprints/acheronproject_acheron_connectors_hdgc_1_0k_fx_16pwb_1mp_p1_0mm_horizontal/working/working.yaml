@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/AcheronProject/acheron_Connectors.pretty
     oomp_bot: footprints/acheronproject_acheron_connectors_hdgc_1_0k_fx_16pwb_1mp_p1_0mm_horizontal/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/acheronproject_acheron_connectors_hdgc_1_0k_fx_16pwb_1mp_p1_0mm_horizontal/working
-    oomp_doc: footprints/footprints/AcheronProject/acheron_Connectors/HDGC_1.0K-FX-16PWB_1MP_P1.0mm_Horizontal/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/AcheronProject/acheron_Connectors/HDGC_1.0K-FX-16PWB_1MP_P1.0mm_Horizontal/working
     oomp_src_flat: footprints_flat/footprints_flat/acheronproject_acheron_connectors_hdgc_1_0k_fx_16pwb_1mp_p1_0mm_horizontal/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/acheronproject_acheron_connectors_hdgc_1_0k_fx_16pwb_1mp_p1_0mm_horizontal/working
-    oomp_src_folder: footprints_folder/footprints_folder/AcheronProject/acheron_Connectors/HDGC_1.0K-FX-16PWB_1MP_P1.0mm_Horizontal/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/AcheronProject/acheron_Connectors/HDGC_1.0K-FX-16PWB_1MP_P1.0mm_Horizontal/working
   name: acheron_Connectors.pretty
+  oomp:
+    footprint_name: hdgc_1_0k_fx_16pwb_1mp_p1_0mm_horizontal
+    library_name: acheron_connectors
+    md5: 6ae9ba3a39676aafd6aed8a2098576e1
+    md5_10: 6ae9ba3a39
+    md5_5: 6ae9b
+    md5_6: 6ae9ba
+    oomp_key: oomp_acheronproject_acheron_connectors_hdgc_1_0k_fx_16pwb_1mp_p1_0mm_horizontal
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_connectors_hdgc_1_0k_fx_16pwb_1mp_p1_0mm_horizontal
+    oomp_key_full: oomp_footprint_acheronproject_acheron_connectors_hdgc_1_0k_fx_16pwb_1mp_p1_0mm_horizontal_6ae9ba
+    oomp_key_simple: acheronproject_acheron_connectors_hdgc_1_0k_fx_16pwb_1mp_p1_0mm_horizontal
+    original_filename: acheron_Connectors.pretty/HDGC_1.0K-FX-16PWB_1MP_P1.0mm_Horizontal.kicad_mod
+    owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_connectors_hdgc_1_0k_fx_16pwb_1mp_p1_0mm_horizontal
+  oomp_key_full: oomp_footprint_acheronproject_acheron_connectors_hdgc_1_0k_fx_16pwb_1mp_p1_0mm_horizontal
   oomp_key_simple: acheronproject_acheron_connectors_hdgc_1_0k_fx_16pwb_1mp_p1_0mm_horizontal
   owner: AcheronProject
   repo:

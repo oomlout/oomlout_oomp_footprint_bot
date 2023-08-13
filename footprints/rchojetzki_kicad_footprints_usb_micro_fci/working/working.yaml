@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/rchojetzki_kicad_footprints_usb_micro_fci/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/rchojetzki_kicad_footprints_usb_micro_fci/working
-    oomp_doc: footprints/footprints/rchojetzki-kicad/footprints/USB_Micro_FCI/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/rchojetzki-kicad/footprints/USB_Micro_FCI/working
     oomp_src_flat: footprints_flat/footprints_flat/rchojetzki_kicad_footprints_usb_micro_fci/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/rchojetzki_kicad_footprints_usb_micro_fci/working
-    oomp_src_folder: footprints_folder/footprints_folder/rchojetzki-kicad/footprints/USB_Micro_FCI/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/rchojetzki-kicad/footprints/USB_Micro_FCI/working
   name: footprints.pretty
+  oomp:
+    footprint_name: usb_micro_fci
+    library_name: footprints
+    md5: 3401af42c0fb22cd417d1f3f4612345e
+    md5_10: 3401af42c0
+    md5_5: 3401a
+    md5_6: 3401af
+    oomp_key: oomp_rchojetzki_kicad_footprints_usb_micro_fci
+    oomp_key_extra: oomp_footprint_rchojetzki_kicad_footprints_usb_micro_fci
+    oomp_key_full: oomp_footprint_rchojetzki_kicad_footprints_usb_micro_fci_3401af
+    oomp_key_simple: rchojetzki_kicad_footprints_usb_micro_fci
+    original_filename: footprints.pretty/USB_Micro_FCI.kicad_mod
+    owner_name: rchojetzki_kicad
   oomp_key: oomp_rchojetzki_kicad_footprints_usb_micro_fci
+  oomp_key_full: oomp_footprint_rchojetzki_kicad_footprints_usb_micro_fci
   oomp_key_simple: rchojetzki_kicad_footprints_usb_micro_fci
   owner: rchojetzki-kicad
   repo:

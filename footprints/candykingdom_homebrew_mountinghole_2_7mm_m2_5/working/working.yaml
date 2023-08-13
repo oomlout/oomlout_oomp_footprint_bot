@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/candykingdom_homebrew_mountinghole_2_7mm_m2_5/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/candykingdom_homebrew_mountinghole_2_7mm_m2_5/working
-    oomp_doc: footprints/footprints/candykingdom/homebrew/MountingHole_2.7mm_M2.5/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/candykingdom/homebrew/MountingHole_2.7mm_M2.5/working
     oomp_src_flat: footprints_flat/footprints_flat/candykingdom_homebrew_mountinghole_2_7mm_m2_5/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/candykingdom_homebrew_mountinghole_2_7mm_m2_5/working
-    oomp_src_folder: footprints_folder/footprints_folder/candykingdom/homebrew/MountingHole_2.7mm_M2.5/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/candykingdom/homebrew/MountingHole_2.7mm_M2.5/working
   name: homebrew.pretty
+  oomp:
+    footprint_name: mountinghole_2_7mm_m2_5
+    library_name: homebrew
+    md5: 04d7ec82d04bc1f4fbf7d3f720896587
+    md5_10: 04d7ec82d0
+    md5_5: 04d7e
+    md5_6: 04d7ec
+    oomp_key: oomp_candykingdom_homebrew_mountinghole_2_7mm_m2_5
+    oomp_key_extra: oomp_footprint_candykingdom_homebrew_mountinghole_2_7mm_m2_5
+    oomp_key_full: oomp_footprint_candykingdom_homebrew_mountinghole_2_7mm_m2_5_04d7ec
+    oomp_key_simple: candykingdom_homebrew_mountinghole_2_7mm_m2_5
+    original_filename: homebrew.pretty/MountingHole_2.7mm_M2.5.kicad_mod
+    owner_name: candykingdom
   oomp_key: oomp_candykingdom_homebrew_mountinghole_2_7mm_m2_5
+  oomp_key_full: oomp_footprint_candykingdom_homebrew_mountinghole_2_7mm_m2_5
   oomp_key_simple: candykingdom_homebrew_mountinghole_2_7mm_m2_5
   owner: candykingdom
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/bsakatu_kicad_parts_bsakatu_module_beetleusb_smd_stack_with_3v3/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/bsakatu_kicad_parts_bsakatu_module_beetleusb_smd_stack_with_3v3/working
-    oomp_doc: footprints/footprints/bsakatu/kicad_parts_bsakatu/Module_BeetleUSB_SMD_stack_with_3V3/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/bsakatu/kicad_parts_bsakatu/Module_BeetleUSB_SMD_stack_with_3V3/working
     oomp_src_flat: footprints_flat/footprints_flat/bsakatu_kicad_parts_bsakatu_module_beetleusb_smd_stack_with_3v3/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/bsakatu_kicad_parts_bsakatu_module_beetleusb_smd_stack_with_3v3/working
-    oomp_src_folder: footprints_folder/footprints_folder/bsakatu/kicad_parts_bsakatu/Module_BeetleUSB_SMD_stack_with_3V3/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/bsakatu/kicad_parts_bsakatu/Module_BeetleUSB_SMD_stack_with_3V3/working
   name: kicad_parts_bsakatu.pretty
+  oomp:
+    footprint_name: module_beetleusb_smd_stack_with_3v3
+    library_name: kicad_parts_bsakatu
+    md5: bd6246c5952d1ad7cd26adca2304dd41
+    md5_10: bd6246c595
+    md5_5: bd624
+    md5_6: bd6246
+    oomp_key: oomp_bsakatu_kicad_parts_bsakatu_module_beetleusb_smd_stack_with_3v3
+    oomp_key_extra: oomp_footprint_bsakatu_kicad_parts_bsakatu_module_beetleusb_smd_stack_with_3v3
+    oomp_key_full: oomp_footprint_bsakatu_kicad_parts_bsakatu_module_beetleusb_smd_stack_with_3v3_bd6246
+    oomp_key_simple: bsakatu_kicad_parts_bsakatu_module_beetleusb_smd_stack_with_3v3
+    original_filename: kicad_parts_bsakatu.pretty/Module_BeetleUSB_SMD_stack_with_3V3.kicad_mod
+    owner_name: bsakatu
   oomp_key: oomp_bsakatu_kicad_parts_bsakatu_module_beetleusb_smd_stack_with_3v3
+  oomp_key_full: oomp_footprint_bsakatu_kicad_parts_bsakatu_module_beetleusb_smd_stack_with_3v3
   oomp_key_simple: bsakatu_kicad_parts_bsakatu_module_beetleusb_smd_stack_with_3v3
   owner: bsakatu
   repo:

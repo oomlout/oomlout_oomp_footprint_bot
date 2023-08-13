@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/candykingdom_homebrew_button_ks_01q_01/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/candykingdom_homebrew_button_ks_01q_01/working
-    oomp_doc: footprints/footprints/candykingdom/homebrew/BUTTON_KS-01Q-01/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/candykingdom/homebrew/BUTTON_KS-01Q-01/working
     oomp_src_flat: footprints_flat/footprints_flat/candykingdom_homebrew_button_ks_01q_01/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/candykingdom_homebrew_button_ks_01q_01/working
-    oomp_src_folder: footprints_folder/footprints_folder/candykingdom/homebrew/BUTTON_KS-01Q-01/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/candykingdom/homebrew/BUTTON_KS-01Q-01/working
   name: homebrew.pretty
+  oomp:
+    footprint_name: button_ks_01q_01
+    library_name: homebrew
+    md5: eecfb5887cbe87d5e2df6b9cb642d03a
+    md5_10: eecfb5887c
+    md5_5: eecfb
+    md5_6: eecfb5
+    oomp_key: oomp_candykingdom_homebrew_button_ks_01q_01
+    oomp_key_extra: oomp_footprint_candykingdom_homebrew_button_ks_01q_01
+    oomp_key_full: oomp_footprint_candykingdom_homebrew_button_ks_01q_01_eecfb5
+    oomp_key_simple: candykingdom_homebrew_button_ks_01q_01
+    original_filename: homebrew.pretty/BUTTON_KS-01Q-01.kicad_mod
+    owner_name: candykingdom
   oomp_key: oomp_candykingdom_homebrew_button_ks_01q_01
+  oomp_key_full: oomp_footprint_candykingdom_homebrew_button_ks_01q_01
   oomp_key_simple: candykingdom_homebrew_button_ks_01q_01
   owner: candykingdom
   repo:

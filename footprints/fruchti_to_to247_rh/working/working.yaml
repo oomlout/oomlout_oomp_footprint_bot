@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/fruchti_to_to247_rh/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/fruchti_to_to247_rh/working
-    oomp_doc: footprints/footprints/fruchti/to/TO247_RH/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/fruchti/to/TO247_RH/working
     oomp_src_flat: footprints_flat/footprints_flat/fruchti_to_to247_rh/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/fruchti_to_to247_rh/working
-    oomp_src_folder: footprints_folder/footprints_folder/fruchti/to/TO247_RH/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/fruchti/to/TO247_RH/working
   name: fruchtilib
+  oomp:
+    footprint_name: to247_rh
+    library_name: to
+    md5: f4a3650387262f2434f5be2f73b23b9f
+    md5_10: f4a3650387
+    md5_5: f4a36
+    md5_6: f4a365
+    oomp_key: oomp_fruchti_to_to247_rh
+    oomp_key_extra: oomp_footprint_fruchti_to_to247_rh
+    oomp_key_full: oomp_footprint_fruchti_to_to247_rh_f4a365
+    oomp_key_simple: fruchti_to_to247_rh
+    original_filename: fruchtilib/mod/to.pretty/TO247_RH.kicad_mod
+    owner_name: fruchti
   oomp_key: oomp_fruchti_to_to247_rh
+  oomp_key_full: oomp_footprint_fruchti_to_to247_rh
   oomp_key_simple: fruchti_to_to247_rh
   owner: fruchti
   repo:

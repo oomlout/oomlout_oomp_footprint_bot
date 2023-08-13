@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/ruuvi_ruuvitag_x3_dfn0603_2/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ruuvi_ruuvitag_x3_dfn0603_2/working
-    oomp_doc: footprints/footprints/ruuvi/RuuviTag/X3-DFN0603-2/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ruuvi/RuuviTag/X3-DFN0603-2/working
     oomp_src_flat: footprints_flat/footprints_flat/ruuvi_ruuvitag_x3_dfn0603_2/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ruuvi_ruuvitag_x3_dfn0603_2/working
-    oomp_src_folder: footprints_folder/footprints_folder/ruuvi/RuuviTag/X3-DFN0603-2/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ruuvi/RuuviTag/X3-DFN0603-2/working
   name: kicad-library
+  oomp:
+    footprint_name: x3_dfn0603_2
+    library_name: ruuvitag
+    md5: b228eea7b6dad802c5698f9a0923814b
+    md5_10: b228eea7b6
+    md5_5: b228e
+    md5_6: b228ee
+    oomp_key: oomp_ruuvi_ruuvitag_x3_dfn0603_2
+    oomp_key_extra: oomp_footprint_ruuvi_ruuvitag_x3_dfn0603_2
+    oomp_key_full: oomp_footprint_ruuvi_ruuvitag_x3_dfn0603_2_b228ee
+    oomp_key_simple: ruuvi_ruuvitag_x3_dfn0603_2
+    original_filename: kicad-library/RuuviTag.pretty/X3-DFN0603-2.kicad_mod
+    owner_name: ruuvi
   oomp_key: oomp_ruuvi_ruuvitag_x3_dfn0603_2
+  oomp_key_full: oomp_footprint_ruuvi_ruuvitag_x3_dfn0603_2
   oomp_key_simple: ruuvi_ruuvitag_x3_dfn0603_2
   owner: ruuvi
   repo:

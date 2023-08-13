@@ -13,14 +13,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/re_innovation_reinnovationfootprint_th_3_5mm_jack/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/re_innovation_reinnovationfootprint_th_3_5mm_jack/working
-    oomp_doc: footprints/footprints/re-innovation/REInnovationFootprint/TH_3_5mm_Jack/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/re-innovation/REInnovationFootprint/TH_3_5mm_Jack/working
     oomp_src_flat: footprints_flat/footprints_flat/re_innovation_reinnovationfootprint_th_3_5mm_jack/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/re_innovation_reinnovationfootprint_th_3_5mm_jack/working
-    oomp_src_folder: footprints_folder/footprints_folder/re-innovation/REInnovationFootprint/TH_3_5mm_Jack/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/re-innovation/REInnovationFootprint/TH_3_5mm_Jack/working
   name: kicad_reinnovation
+  oomp:
+    footprint_name: th_3_5mm_jack
+    library_name: reinnovationfootprint
+    md5: 56cc6dec6676e5f57fe983a83a0fc8f4
+    md5_10: 56cc6dec66
+    md5_5: 56cc6
+    md5_6: 56cc6d
+    oomp_key: oomp_re_innovation_reinnovationfootprint_th_3_5mm_jack
+    oomp_key_extra: oomp_footprint_re_innovation_reinnovationfootprint_th_3_5mm_jack
+    oomp_key_full: oomp_footprint_re_innovation_reinnovationfootprint_th_3_5mm_jack_56cc6d
+    oomp_key_simple: re_innovation_reinnovationfootprint_th_3_5mm_jack
+    original_filename: kicad_reinnovation/KiCAD PRETTY/REInnovationFootprint.pretty/TH_3_5mm_Jack.kicad_mod
+    owner_name: re_innovation
   oomp_key: oomp_re_innovation_reinnovationfootprint_th_3_5mm_jack
+  oomp_key_full: oomp_footprint_re_innovation_reinnovationfootprint_th_3_5mm_jack
   oomp_key_simple: re_innovation_reinnovationfootprint_th_3_5mm_jack
   owner: re-innovation
   repo:

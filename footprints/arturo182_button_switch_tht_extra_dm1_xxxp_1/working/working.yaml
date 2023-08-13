@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/arturo182/kicad-modules
     oomp_bot: footprints/arturo182_button_switch_tht_extra_dm1_xxxp_1/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/arturo182_button_switch_tht_extra_dm1_xxxp_1/working
-    oomp_doc: footprints/footprints/arturo182/Button_Switch_THT_Extra/DM1-XXXP-1/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/arturo182/Button_Switch_THT_Extra/DM1-XXXP-1/working
     oomp_src_flat: footprints_flat/footprints_flat/arturo182_button_switch_tht_extra_dm1_xxxp_1/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/arturo182_button_switch_tht_extra_dm1_xxxp_1/working
-    oomp_src_folder: footprints_folder/footprints_folder/arturo182/Button_Switch_THT_Extra/DM1-XXXP-1/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/arturo182/Button_Switch_THT_Extra/DM1-XXXP-1/working
   name: kicad-modules
+  oomp:
+    footprint_name: dm1_xxxp_1
+    library_name: button_switch_tht_extra
+    md5: a8b7de8d39487cdff5a47a89ce37c73d
+    md5_10: a8b7de8d39
+    md5_5: a8b7d
+    md5_6: a8b7de
+    oomp_key: oomp_arturo182_button_switch_tht_extra_dm1_xxxp_1
+    oomp_key_extra: oomp_footprint_arturo182_button_switch_tht_extra_dm1_xxxp_1
+    oomp_key_full: oomp_footprint_arturo182_button_switch_tht_extra_dm1_xxxp_1_a8b7de
+    oomp_key_simple: arturo182_button_switch_tht_extra_dm1_xxxp_1
+    original_filename: kicad-modules/Button_Switch_THT_Extra.pretty/DM1-XXXP-1.kicad_mod
+    owner_name: arturo182
   oomp_key: oomp_arturo182_button_switch_tht_extra_dm1_xxxp_1
+  oomp_key_full: oomp_footprint_arturo182_button_switch_tht_extra_dm1_xxxp_1
   oomp_key_simple: arturo182_button_switch_tht_extra_dm1_xxxp_1
   owner: arturo182
   repo:

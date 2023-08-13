@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/AcheronProject/acheron_Components.pretty
     oomp_bot: footprints/acheronproject_acheron_components_sot_563/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/acheronproject_acheron_components_sot_563/working
-    oomp_doc: footprints/footprints/AcheronProject/acheron_Components/SOT-563/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/AcheronProject/acheron_Components/SOT-563/working
     oomp_src_flat: footprints_flat/footprints_flat/acheronproject_acheron_components_sot_563/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/acheronproject_acheron_components_sot_563/working
-    oomp_src_folder: footprints_folder/footprints_folder/AcheronProject/acheron_Components/SOT-563/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/AcheronProject/acheron_Components/SOT-563/working
   name: acheron_Components.pretty
+  oomp:
+    footprint_name: sot_563
+    library_name: acheron_components
+    md5: 23f5b9a7ea5891ad03a4ce65b9e4c241
+    md5_10: 23f5b9a7ea
+    md5_5: 23f5b
+    md5_6: 23f5b9
+    oomp_key: oomp_acheronproject_acheron_components_sot_563
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_components_sot_563
+    oomp_key_full: oomp_footprint_acheronproject_acheron_components_sot_563_23f5b9
+    oomp_key_simple: acheronproject_acheron_components_sot_563
+    original_filename: acheron_Components.pretty/SOT-563.kicad_mod
+    owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_components_sot_563
+  oomp_key_full: oomp_footprint_acheronproject_acheron_components_sot_563
   oomp_key_simple: acheronproject_acheron_components_sot_563
   owner: AcheronProject
   repo:

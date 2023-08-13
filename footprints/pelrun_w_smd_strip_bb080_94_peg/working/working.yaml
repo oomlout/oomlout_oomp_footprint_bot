@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pelrun_w_smd_strip_bb080_94_peg/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pelrun_w_smd_strip_bb080_94_peg/working
-    oomp_doc: footprints/footprints/pelrun/w_smd_strip/bb080_94_peg/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/pelrun/w_smd_strip/bb080_94_peg/working
     oomp_src_flat: footprints_flat/footprints_flat/pelrun_w_smd_strip_bb080_94_peg/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pelrun_w_smd_strip_bb080_94_peg/working
-    oomp_src_folder: footprints_folder/footprints_folder/pelrun/w_smd_strip/bb080_94_peg/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/pelrun/w_smd_strip/bb080_94_peg/working
   name: libKiCad
+  oomp:
+    footprint_name: bb080_94_peg
+    library_name: w_smd_strip
+    md5: 07462c0cdbf8fddd147837458f8c2a09
+    md5_10: 07462c0cdb
+    md5_5: '07462'
+    md5_6: 07462c
+    oomp_key: oomp_pelrun_w_smd_strip_bb080_94_peg
+    oomp_key_extra: oomp_footprint_pelrun_w_smd_strip_bb080_94_peg
+    oomp_key_full: oomp_footprint_pelrun_w_smd_strip_bb080_94_peg_07462c
+    oomp_key_simple: pelrun_w_smd_strip_bb080_94_peg
+    original_filename: libKiCad/footprint/w_smd_strip.pretty/bb080_94_peg.kicad_mod
+    owner_name: pelrun
   oomp_key: oomp_pelrun_w_smd_strip_bb080_94_peg
+  oomp_key_full: oomp_footprint_pelrun_w_smd_strip_bb080_94_peg
   oomp_key_simple: pelrun_w_smd_strip_bb080_94_peg
   owner: pelrun
   repo:

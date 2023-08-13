@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/lab6-ifma/LAB6-LIB.pretty
     oomp_bot: footprints/lab6_ifma_lab6_lib_ws2812b/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/lab6_ifma_lab6_lib_ws2812b/working
-    oomp_doc: footprints/footprints/lab6-ifma/LAB6-LIB/WS2812B/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/lab6-ifma/LAB6-LIB/WS2812B/working
     oomp_src_flat: footprints_flat/footprints_flat/lab6_ifma_lab6_lib_ws2812b/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/lab6_ifma_lab6_lib_ws2812b/working
-    oomp_src_folder: footprints_folder/footprints_folder/lab6-ifma/LAB6-LIB/WS2812B/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/lab6-ifma/LAB6-LIB/WS2812B/working
   name: LAB6-LIB.pretty
+  oomp:
+    footprint_name: ws2812b
+    library_name: lab6_lib
+    md5: 58d5206e8269b92f515a0355c0d52257
+    md5_10: 58d5206e82
+    md5_5: 58d52
+    md5_6: 58d520
+    oomp_key: oomp_lab6_ifma_lab6_lib_ws2812b
+    oomp_key_extra: oomp_footprint_lab6_ifma_lab6_lib_ws2812b
+    oomp_key_full: oomp_footprint_lab6_ifma_lab6_lib_ws2812b_58d520
+    oomp_key_simple: lab6_ifma_lab6_lib_ws2812b
+    original_filename: LAB6-LIB.pretty/WS2812B.kicad_mod
+    owner_name: lab6_ifma
   oomp_key: oomp_lab6_ifma_lab6_lib_ws2812b
+  oomp_key_full: oomp_footprint_lab6_ifma_lab6_lib_ws2812b
   oomp_key_simple: lab6_ifma_lab6_lib_ws2812b
   owner: lab6-ifma
   repo:

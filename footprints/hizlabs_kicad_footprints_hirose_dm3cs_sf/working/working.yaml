@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/hizlabs_kicad_footprints_hirose_dm3cs_sf/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/hizlabs_kicad_footprints_hirose_dm3cs_sf/working
-    oomp_doc: footprints/footprints/HiZLabs/KiCad_Footprints/Hirose_DM3CS-SF/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/HiZLabs/KiCad_Footprints/Hirose_DM3CS-SF/working
     oomp_src_flat: footprints_flat/footprints_flat/hizlabs_kicad_footprints_hirose_dm3cs_sf/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/hizlabs_kicad_footprints_hirose_dm3cs_sf/working
-    oomp_src_folder: footprints_folder/footprints_folder/HiZLabs/KiCad_Footprints/Hirose_DM3CS-SF/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/HiZLabs/KiCad_Footprints/Hirose_DM3CS-SF/working
   name: KiCad_Footprints.pretty
+  oomp:
+    footprint_name: hirose_dm3cs_sf
+    library_name: kicad_footprints
+    md5: c4d95c01905ba3b861efae8842864af8
+    md5_10: c4d95c0190
+    md5_5: c4d95
+    md5_6: c4d95c
+    oomp_key: oomp_hizlabs_kicad_footprints_hirose_dm3cs_sf
+    oomp_key_extra: oomp_footprint_hizlabs_kicad_footprints_hirose_dm3cs_sf
+    oomp_key_full: oomp_footprint_hizlabs_kicad_footprints_hirose_dm3cs_sf_c4d95c
+    oomp_key_simple: hizlabs_kicad_footprints_hirose_dm3cs_sf
+    original_filename: KiCad_Footprints.pretty/Hirose_DM3CS-SF.kicad_mod
+    owner_name: hizlabs
   oomp_key: oomp_hizlabs_kicad_footprints_hirose_dm3cs_sf
+  oomp_key_full: oomp_footprint_hizlabs_kicad_footprints_hirose_dm3cs_sf
   oomp_key_simple: hizlabs_kicad_footprints_hirose_dm3cs_sf
   owner: HiZLabs
   repo:

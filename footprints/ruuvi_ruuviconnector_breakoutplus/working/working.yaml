@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/ruuvi_ruuviconnector_breakoutplus/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ruuvi_ruuviconnector_breakoutplus/working
-    oomp_doc: footprints/footprints/ruuvi/RuuviConnector/BreakoutPlus/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ruuvi/RuuviConnector/BreakoutPlus/working
     oomp_src_flat: footprints_flat/footprints_flat/ruuvi_ruuviconnector_breakoutplus/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ruuvi_ruuviconnector_breakoutplus/working
-    oomp_src_folder: footprints_folder/footprints_folder/ruuvi/RuuviConnector/BreakoutPlus/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ruuvi/RuuviConnector/BreakoutPlus/working
   name: kicad-library
+  oomp:
+    footprint_name: breakoutplus
+    library_name: ruuviconnector
+    md5: d78001ad1b8e6f09e29f2baf9f598785
+    md5_10: d78001ad1b
+    md5_5: d7800
+    md5_6: d78001
+    oomp_key: oomp_ruuvi_ruuviconnector_breakoutplus
+    oomp_key_extra: oomp_footprint_ruuvi_ruuviconnector_breakoutplus
+    oomp_key_full: oomp_footprint_ruuvi_ruuviconnector_breakoutplus_d78001
+    oomp_key_simple: ruuvi_ruuviconnector_breakoutplus
+    original_filename: kicad-library/RuuviConnector.pretty/BreakoutPlus.kicad_mod
+    owner_name: ruuvi
   oomp_key: oomp_ruuvi_ruuviconnector_breakoutplus
+  oomp_key_full: oomp_footprint_ruuvi_ruuviconnector_breakoutplus
   oomp_key_simple: ruuvi_ruuviconnector_breakoutplus
   owner: ruuvi
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/peekpt_w_pth_resistors_tfbga144/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/peekpt_w_pth_resistors_tfbga144/working
-    oomp_doc: footprints/footprints/peekpt/w_pth_resistors/tfbga144/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/peekpt/w_pth_resistors/tfbga144/working
     oomp_src_flat: footprints_flat/footprints_flat/peekpt_w_pth_resistors_tfbga144/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/peekpt_w_pth_resistors_tfbga144/working
-    oomp_src_folder: footprints_folder/footprints_folder/peekpt/w_pth_resistors/tfbga144/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/peekpt/w_pth_resistors/tfbga144/working
   name: kicad_smisioto
+  oomp:
+    footprint_name: tfbga144
+    library_name: w_pth_resistors
+    md5: ba5db1ade3f5090b2f669ab9caa498fc
+    md5_10: ba5db1ade3
+    md5_5: ba5db
+    md5_6: ba5db1
+    oomp_key: oomp_peekpt_w_pth_resistors_tfbga144
+    oomp_key_extra: oomp_footprint_peekpt_w_pth_resistors_tfbga144
+    oomp_key_full: oomp_footprint_peekpt_w_pth_resistors_tfbga144_ba5db1
+    oomp_key_simple: peekpt_w_pth_resistors_tfbga144
+    original_filename: kicad_smisioto/modules/walter/w_pth_resistors.pretty/w_smd_bga.pretty/tfbga144.kicad_mod
+    owner_name: peekpt
   oomp_key: oomp_peekpt_w_pth_resistors_tfbga144
+  oomp_key_full: oomp_footprint_peekpt_w_pth_resistors_tfbga144
   oomp_key_simple: peekpt_w_pth_resistors_tfbga144
   owner: peekpt
   repo:

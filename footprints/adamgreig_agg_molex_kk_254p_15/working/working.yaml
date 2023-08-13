@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/adamgreig/agg-kicad
     oomp_bot: footprints/adamgreig_agg_molex_kk_254p_15/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/adamgreig_agg_molex_kk_254p_15/working
-    oomp_doc: footprints/footprints/adamgreig/agg/MOLEX-KK-254P-15/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/adamgreig/agg/MOLEX-KK-254P-15/working
     oomp_src_flat: footprints_flat/footprints_flat/adamgreig_agg_molex_kk_254p_15/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/adamgreig_agg_molex_kk_254p_15/working
-    oomp_src_folder: footprints_folder/footprints_folder/adamgreig/agg/MOLEX-KK-254P-15/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/adamgreig/agg/MOLEX-KK-254P-15/working
   name: agg-kicad
+  oomp:
+    footprint_name: molex_kk_254p_15
+    library_name: agg
+    md5: fd293f07d86026f88aa99334f2afa35b
+    md5_10: fd293f07d8
+    md5_5: fd293
+    md5_6: fd293f
+    oomp_key: oomp_adamgreig_agg_molex_kk_254p_15
+    oomp_key_extra: oomp_footprint_adamgreig_agg_molex_kk_254p_15
+    oomp_key_full: oomp_footprint_adamgreig_agg_molex_kk_254p_15_fd293f
+    oomp_key_simple: adamgreig_agg_molex_kk_254p_15
+    original_filename: agg-kicad/agg.pretty/MOLEX-KK-254P-15.kicad_mod
+    owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_molex_kk_254p_15
+  oomp_key_full: oomp_footprint_adamgreig_agg_molex_kk_254p_15
   oomp_key_simple: adamgreig_agg_molex_kk_254p_15
   owner: adamgreig
   repo:

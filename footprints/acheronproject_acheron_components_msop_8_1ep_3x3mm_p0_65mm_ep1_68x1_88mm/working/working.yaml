@@ -14,14 +14,24 @@
     github_src_repo: https://github.com/AcheronProject/acheron_Components.pretty
     oomp_bot: footprints/acheronproject_acheron_components_msop_8_1ep_3x3mm_p0_65mm_ep1_68x1_88mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/acheronproject_acheron_components_msop_8_1ep_3x3mm_p0_65mm_ep1_68x1_88mm/working
-    oomp_doc: footprints/footprints/AcheronProject/acheron_Components/MSOP-8-1EP_3x3mm_P0.65mm_EP1.68x1.88mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/AcheronProject/acheron_Components/MSOP-8-1EP_3x3mm_P0.65mm_EP1.68x1.88mm/working
     oomp_src_flat: footprints_flat/footprints_flat/acheronproject_acheron_components_msop_8_1ep_3x3mm_p0_65mm_ep1_68x1_88mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/acheronproject_acheron_components_msop_8_1ep_3x3mm_p0_65mm_ep1_68x1_88mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/AcheronProject/acheron_Components/MSOP-8-1EP_3x3mm_P0.65mm_EP1.68x1.88mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/AcheronProject/acheron_Components/MSOP-8-1EP_3x3mm_P0.65mm_EP1.68x1.88mm/working
   name: acheron_Components.pretty
+  oomp:
+    footprint_name: msop_8_1ep_3x3mm_p0_65mm_ep1_68x1_88mm
+    library_name: acheron_components
+    md5: 0db14bfc61ce973843c65a8603456b26
+    md5_10: 0db14bfc61
+    md5_5: 0db14
+    md5_6: 0db14b
+    oomp_key: oomp_acheronproject_acheron_components_msop_8_1ep_3x3mm_p0_65mm_ep1_68x1_88mm
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_components_msop_8_1ep_3x3mm_p0_65mm_ep1_68x1_88mm
+    oomp_key_full: oomp_footprint_acheronproject_acheron_components_msop_8_1ep_3x3mm_p0_65mm_ep1_68x1_88mm_0db14b
+    oomp_key_simple: acheronproject_acheron_components_msop_8_1ep_3x3mm_p0_65mm_ep1_68x1_88mm
+    original_filename: acheron_Components.pretty/MSOP-8-1EP_3x3mm_P0.65mm_EP1.68x1.88mm.kicad_mod
+    owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_components_msop_8_1ep_3x3mm_p0_65mm_ep1_68x1_88mm
+  oomp_key_full: oomp_footprint_acheronproject_acheron_components_msop_8_1ep_3x3mm_p0_65mm_ep1_68x1_88mm
   oomp_key_simple: acheronproject_acheron_components_msop_8_1ep_3x3mm_p0_65mm_ep1_68x1_88mm
   owner: AcheronProject
   repo:

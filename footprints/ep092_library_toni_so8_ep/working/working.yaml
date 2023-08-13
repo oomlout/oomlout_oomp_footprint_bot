@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/ep092_library_toni_so8_ep/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ep092_library_toni_so8_ep/working
-    oomp_doc: footprints/footprints/ep092/library_toni/SO8_EP/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ep092/library_toni/SO8_EP/working
     oomp_src_flat: footprints_flat/footprints_flat/ep092_library_toni_so8_ep/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ep092_library_toni_so8_ep/working
-    oomp_src_folder: footprints_folder/footprints_folder/ep092/library_toni/SO8_EP/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ep092/library_toni/SO8_EP/working
   name: library_toni.pretty
+  oomp:
+    footprint_name: so8_ep
+    library_name: library_toni
+    md5: 7bc9d77dfb143473e0c3215b9227d8fe
+    md5_10: 7bc9d77dfb
+    md5_5: 7bc9d
+    md5_6: 7bc9d7
+    oomp_key: oomp_ep092_library_toni_so8_ep
+    oomp_key_extra: oomp_footprint_ep092_library_toni_so8_ep
+    oomp_key_full: oomp_footprint_ep092_library_toni_so8_ep_7bc9d7
+    oomp_key_simple: ep092_library_toni_so8_ep
+    original_filename: library_toni.pretty/SO8_EP.kicad_mod
+    owner_name: ep092
   oomp_key: oomp_ep092_library_toni_so8_ep
+  oomp_key_full: oomp_footprint_ep092_library_toni_so8_ep
   oomp_key_simple: ep092_library_toni_so8_ep
   owner: ep092
   repo:

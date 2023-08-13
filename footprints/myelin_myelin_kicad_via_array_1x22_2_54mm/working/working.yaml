@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/myelin_myelin_kicad_via_array_1x22_2_54mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/myelin_myelin_kicad_via_array_1x22_2_54mm/working
-    oomp_doc: footprints/footprints/myelin/myelin-kicad/via_array_1x22_2.54mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/myelin/myelin-kicad/via_array_1x22_2.54mm/working
     oomp_src_flat: footprints_flat/footprints_flat/myelin_myelin_kicad_via_array_1x22_2_54mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/myelin_myelin_kicad_via_array_1x22_2_54mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/myelin/myelin-kicad/via_array_1x22_2.54mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/myelin/myelin-kicad/via_array_1x22_2.54mm/working
   name: myelin-kicad.pretty
+  oomp:
+    footprint_name: via_array_1x22_2_54mm
+    library_name: myelin_kicad
+    md5: 637fb60f4de3317d502a5e797de15cfd
+    md5_10: 637fb60f4d
+    md5_5: 637fb
+    md5_6: 637fb6
+    oomp_key: oomp_myelin_myelin_kicad_via_array_1x22_2_54mm
+    oomp_key_extra: oomp_footprint_myelin_myelin_kicad_via_array_1x22_2_54mm
+    oomp_key_full: oomp_footprint_myelin_myelin_kicad_via_array_1x22_2_54mm_637fb6
+    oomp_key_simple: myelin_myelin_kicad_via_array_1x22_2_54mm
+    original_filename: myelin-kicad.pretty/via_array_1x22_2.54mm.kicad_mod
+    owner_name: myelin
   oomp_key: oomp_myelin_myelin_kicad_via_array_1x22_2_54mm
+  oomp_key_full: oomp_footprint_myelin_myelin_kicad_via_array_1x22_2_54mm
   oomp_key_simple: myelin_myelin_kicad_via_array_1x22_2_54mm
   owner: myelin
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/av_p_avp_texas_rwh0032a/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/av_p_avp_texas_rwh0032a/working
-    oomp_doc: footprints/footprints/av-p/Avp/Texas_RWH0032A/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/av-p/Avp/Texas_RWH0032A/working
     oomp_src_flat: footprints_flat/footprints_flat/av_p_avp_texas_rwh0032a/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/av_p_avp_texas_rwh0032a/working
-    oomp_src_folder: footprints_folder/footprints_folder/av-p/Avp/Texas_RWH0032A/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/av-p/Avp/Texas_RWH0032A/working
   name: Avp.pretty
+  oomp:
+    footprint_name: texas_rwh0032a
+    library_name: avp
+    md5: 0a469d3883474047fc87f0a7820d59ea
+    md5_10: 0a469d3883
+    md5_5: 0a469
+    md5_6: 0a469d
+    oomp_key: oomp_av_p_avp_texas_rwh0032a
+    oomp_key_extra: oomp_footprint_av_p_avp_texas_rwh0032a
+    oomp_key_full: oomp_footprint_av_p_avp_texas_rwh0032a_0a469d
+    oomp_key_simple: av_p_avp_texas_rwh0032a
+    original_filename: Avp.pretty/Texas_RWH0032A.kicad_mod
+    owner_name: av_p
   oomp_key: oomp_av_p_avp_texas_rwh0032a
+  oomp_key_full: oomp_footprint_av_p_avp_texas_rwh0032a
   oomp_key_simple: av_p_avp_texas_rwh0032a
   owner: av-p
   repo:

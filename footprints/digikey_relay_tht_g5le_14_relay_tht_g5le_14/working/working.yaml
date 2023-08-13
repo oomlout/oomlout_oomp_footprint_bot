@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/digikey_relay_tht_g5le_14_relay_tht_g5le_14/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_relay_tht_g5le_14_relay_tht_g5le_14/working
-    oomp_doc: footprints/footprints/digikey/Relay_THT_G5LE-14.kicad_mod/Relay_THT_G5LE-14/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/digikey/Relay_THT_G5LE-14.kicad_mod/Relay_THT_G5LE-14/working
     oomp_src_flat: footprints_flat/footprints_flat/digikey_relay_tht_g5le_14_relay_tht_g5le_14/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/digikey_relay_tht_g5le_14_relay_tht_g5le_14/working
-    oomp_src_folder: footprints_folder/footprints_folder/digikey/Relay_THT_G5LE-14.kicad_mod/Relay_THT_G5LE-14/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/digikey/Relay_THT_G5LE-14.kicad_mod/Relay_THT_G5LE-14/working
   name: digikey-kicad-library
+  oomp:
+    footprint_name: relay_tht_g5le_14
+    library_name: relay_tht_g5le_14_kicad_mod
+    md5: 8561db0f98b8bd7f719e361b6e5f169f
+    md5_10: 8561db0f98
+    md5_5: 8561d
+    md5_6: 8561db
+    oomp_key: oomp_digikey_relay_tht_g5le_14_relay_tht_g5le_14
+    oomp_key_extra: oomp_footprint_digikey_relay_tht_g5le_14_relay_tht_g5le_14
+    oomp_key_full: oomp_footprint_digikey_relay_tht_g5le_14_relay_tht_g5le_14_8561db
+    oomp_key_simple: digikey_relay_tht_g5le_14_relay_tht_g5le_14
+    original_filename: digikey-kicad-library/src/Source_Footprints/Relay_THT_G5LE-14.kicad_mod
+    owner_name: digikey
   oomp_key: oomp_digikey_relay_tht_g5le_14_relay_tht_g5le_14
+  oomp_key_full: oomp_footprint_digikey_relay_tht_g5le_14_relay_tht_g5le_14
   oomp_key_simple: digikey_relay_tht_g5le_14_relay_tht_g5le_14
   owner: digikey
   repo:

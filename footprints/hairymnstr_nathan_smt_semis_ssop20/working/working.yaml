@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/hairymnstr_nathan_smt_semis_ssop20/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/hairymnstr_nathan_smt_semis_ssop20/working
-    oomp_doc: footprints/footprints/hairymnstr/Nathan_SMT_Semis/SSOP20/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/hairymnstr/Nathan_SMT_Semis/SSOP20/working
     oomp_src_flat: footprints_flat/footprints_flat/hairymnstr_nathan_smt_semis_ssop20/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/hairymnstr_nathan_smt_semis_ssop20/working
-    oomp_src_folder: footprints_folder/footprints_folder/hairymnstr/Nathan_SMT_Semis/SSOP20/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/hairymnstr/Nathan_SMT_Semis/SSOP20/working
   name: Nathan_SMT_Semis.pretty
+  oomp:
+    footprint_name: ssop20
+    library_name: nathan_smt_semis
+    md5: 50a772b9231d4bbcfc2f40519d6ba381
+    md5_10: 50a772b923
+    md5_5: 50a77
+    md5_6: 50a772
+    oomp_key: oomp_hairymnstr_nathan_smt_semis_ssop20
+    oomp_key_extra: oomp_footprint_hairymnstr_nathan_smt_semis_ssop20
+    oomp_key_full: oomp_footprint_hairymnstr_nathan_smt_semis_ssop20_50a772
+    oomp_key_simple: hairymnstr_nathan_smt_semis_ssop20
+    original_filename: Nathan_SMT_Semis.pretty/SSOP20.kicad_mod
+    owner_name: hairymnstr
   oomp_key: oomp_hairymnstr_nathan_smt_semis_ssop20
+  oomp_key_full: oomp_footprint_hairymnstr_nathan_smt_semis_ssop20
   oomp_key_simple: hairymnstr_nathan_smt_semis_ssop20
   owner: hairymnstr
   repo:

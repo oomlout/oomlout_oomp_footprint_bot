@@ -14,14 +14,24 @@
     github_src_repo: https://github.com/Iangitpers/4a
     oomp_bot: footprints/iangitpers_mcu_raspberrypi_and_boards_crystal_smd_hc49_us/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/iangitpers_mcu_raspberrypi_and_boards_crystal_smd_hc49_us/working
-    oomp_doc: footprints/footprints/Iangitpers/MCU_RaspberryPi_and_Boards/Crystal_SMD_HC49-US/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Iangitpers/MCU_RaspberryPi_and_Boards/Crystal_SMD_HC49-US/working
     oomp_src_flat: footprints_flat/footprints_flat/iangitpers_mcu_raspberrypi_and_boards_crystal_smd_hc49_us/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/iangitpers_mcu_raspberrypi_and_boards_crystal_smd_hc49_us/working
-    oomp_src_folder: footprints_folder/footprints_folder/Iangitpers/MCU_RaspberryPi_and_Boards/Crystal_SMD_HC49-US/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Iangitpers/MCU_RaspberryPi_and_Boards/Crystal_SMD_HC49-US/working
   name: 4a
+  oomp:
+    footprint_name: crystal_smd_hc49_us
+    library_name: mcu_raspberrypi_and_boards
+    md5: a14b1864adc695cd66a1f7cf589e2428
+    md5_10: a14b1864ad
+    md5_5: a14b1
+    md5_6: a14b18
+    oomp_key: oomp_iangitpers_mcu_raspberrypi_and_boards_crystal_smd_hc49_us
+    oomp_key_extra: oomp_footprint_iangitpers_mcu_raspberrypi_and_boards_crystal_smd_hc49_us
+    oomp_key_full: oomp_footprint_iangitpers_mcu_raspberrypi_and_boards_crystal_smd_hc49_us_a14b18
+    oomp_key_simple: iangitpers_mcu_raspberrypi_and_boards_crystal_smd_hc49_us
+    original_filename: 4a/RP_Silicon_KiCad-main/KiCadLibraries/MCU_RaspberryPi_and_Boards.pretty/Crystal_SMD_HC49-US.kicad_mod
+    owner_name: iangitpers
   oomp_key: oomp_iangitpers_mcu_raspberrypi_and_boards_crystal_smd_hc49_us
+  oomp_key_full: oomp_footprint_iangitpers_mcu_raspberrypi_and_boards_crystal_smd_hc49_us
   oomp_key_simple: iangitpers_mcu_raspberrypi_and_boards_crystal_smd_hc49_us
   owner: Iangitpers
   repo:

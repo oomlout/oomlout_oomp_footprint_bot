@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/drmacak_eli_hw_kicad_rectifierbrigde_w10m/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/drmacak_eli_hw_kicad_rectifierbrigde_w10m/working
-    oomp_doc: footprints/footprints/DrMacak/ELI_HW_KiCad/RectifierBrigde_W10M/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/DrMacak/ELI_HW_KiCad/RectifierBrigde_W10M/working
     oomp_src_flat: footprints_flat/footprints_flat/drmacak_eli_hw_kicad_rectifierbrigde_w10m/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/drmacak_eli_hw_kicad_rectifierbrigde_w10m/working
-    oomp_src_folder: footprints_folder/footprints_folder/DrMacak/ELI_HW_KiCad/RectifierBrigde_W10M/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/DrMacak/ELI_HW_KiCad/RectifierBrigde_W10M/working
   name: ELI_HW_KiCad.pretty
+  oomp:
+    footprint_name: rectifierbrigde_w10m
+    library_name: eli_hw_kicad
+    md5: c299ec1062e57741f96e301a56f5f6a9
+    md5_10: c299ec1062
+    md5_5: c299e
+    md5_6: c299ec
+    oomp_key: oomp_drmacak_eli_hw_kicad_rectifierbrigde_w10m
+    oomp_key_extra: oomp_footprint_drmacak_eli_hw_kicad_rectifierbrigde_w10m
+    oomp_key_full: oomp_footprint_drmacak_eli_hw_kicad_rectifierbrigde_w10m_c299ec
+    oomp_key_simple: drmacak_eli_hw_kicad_rectifierbrigde_w10m
+    original_filename: ELI_HW_KiCad.pretty/RectifierBrigde_W10M.kicad_mod
+    owner_name: drmacak
   oomp_key: oomp_drmacak_eli_hw_kicad_rectifierbrigde_w10m
+  oomp_key_full: oomp_footprint_drmacak_eli_hw_kicad_rectifierbrigde_w10m
   oomp_key_simple: drmacak_eli_hw_kicad_rectifierbrigde_w10m
   owner: DrMacak
   repo:

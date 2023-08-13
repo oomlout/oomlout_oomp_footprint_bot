@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_nhd_c12832a1z_fsw_nhd_c12832a1z_fsw/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_nhd_c12832a1z_fsw_nhd_c12832a1z_fsw/working
-    oomp_doc: footprints/footprints/brunoeagle/NHD-C12832A1Z-FSW.kicad_mod/NHD-C12832A1Z-FSW/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/NHD-C12832A1Z-FSW.kicad_mod/NHD-C12832A1Z-FSW/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_nhd_c12832a1z_fsw_nhd_c12832a1z_fsw/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_nhd_c12832a1z_fsw_nhd_c12832a1z_fsw/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/NHD-C12832A1Z-FSW.kicad_mod/NHD-C12832A1Z-FSW/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/NHD-C12832A1Z-FSW.kicad_mod/NHD-C12832A1Z-FSW/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: nhd_c12832a1z_fsw
+    library_name: nhd_c12832a1z_fsw_kicad_mod
+    md5: fcb147e3f6694061f0183a70c2e0c4ee
+    md5_10: fcb147e3f6
+    md5_5: fcb14
+    md5_6: fcb147
+    oomp_key: oomp_brunoeagle_nhd_c12832a1z_fsw_nhd_c12832a1z_fsw
+    oomp_key_extra: oomp_footprint_brunoeagle_nhd_c12832a1z_fsw_nhd_c12832a1z_fsw
+    oomp_key_full: oomp_footprint_brunoeagle_nhd_c12832a1z_fsw_nhd_c12832a1z_fsw_fcb147
+    oomp_key_simple: brunoeagle_nhd_c12832a1z_fsw_nhd_c12832a1z_fsw
+    original_filename: kicad-open-modules/NHD-C12832A1Z-FSW.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_nhd_c12832a1z_fsw_nhd_c12832a1z_fsw
+  oomp_key_full: oomp_footprint_brunoeagle_nhd_c12832a1z_fsw_nhd_c12832a1z_fsw
   oomp_key_simple: brunoeagle_nhd_c12832a1z_fsw_nhd_c12832a1z_fsw
   owner: brunoeagle
   repo:

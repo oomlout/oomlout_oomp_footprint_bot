@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/candykingdom_homebrew_rfm69cw/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/candykingdom_homebrew_rfm69cw/working
-    oomp_doc: footprints/footprints/candykingdom/homebrew/RFM69CW/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/candykingdom/homebrew/RFM69CW/working
     oomp_src_flat: footprints_flat/footprints_flat/candykingdom_homebrew_rfm69cw/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/candykingdom_homebrew_rfm69cw/working
-    oomp_src_folder: footprints_folder/footprints_folder/candykingdom/homebrew/RFM69CW/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/candykingdom/homebrew/RFM69CW/working
   name: homebrew.pretty
+  oomp:
+    footprint_name: rfm69cw
+    library_name: homebrew
+    md5: ae6812ad319dab6f8d0a388368bb87db
+    md5_10: ae6812ad31
+    md5_5: ae681
+    md5_6: ae6812
+    oomp_key: oomp_candykingdom_homebrew_rfm69cw
+    oomp_key_extra: oomp_footprint_candykingdom_homebrew_rfm69cw
+    oomp_key_full: oomp_footprint_candykingdom_homebrew_rfm69cw_ae6812
+    oomp_key_simple: candykingdom_homebrew_rfm69cw
+    original_filename: homebrew.pretty/RFM69CW.kicad_mod
+    owner_name: candykingdom
   oomp_key: oomp_candykingdom_homebrew_rfm69cw
+  oomp_key_full: oomp_footprint_candykingdom_homebrew_rfm69cw
   oomp_key_simple: candykingdom_homebrew_rfm69cw
   owner: candykingdom
   repo:

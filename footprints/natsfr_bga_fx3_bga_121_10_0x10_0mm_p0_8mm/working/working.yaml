@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/natsfr_bga_fx3_bga_121_10_0x10_0mm_p0_8mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/natsfr_bga_fx3_bga_121_10_0x10_0mm_p0_8mm/working
-    oomp_doc: footprints/footprints/natsfr/BGA/FX3_BGA-121_10.0x10.0mm_P0.8mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/natsfr/BGA/FX3_BGA-121_10.0x10.0mm_P0.8mm/working
     oomp_src_flat: footprints_flat/footprints_flat/natsfr_bga_fx3_bga_121_10_0x10_0mm_p0_8mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/natsfr_bga_fx3_bga_121_10_0x10_0mm_p0_8mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/natsfr/BGA/FX3_BGA-121_10.0x10.0mm_P0.8mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/natsfr/BGA/FX3_BGA-121_10.0x10.0mm_P0.8mm/working
   name: kicad-components
+  oomp:
+    footprint_name: fx3_bga_121_10_0x10_0mm_p0_8mm
+    library_name: bga
+    md5: 3f906af80e497447c956fa976e2c7c0e
+    md5_10: 3f906af80e
+    md5_5: 3f906
+    md5_6: 3f906a
+    oomp_key: oomp_natsfr_bga_fx3_bga_121_10_0x10_0mm_p0_8mm
+    oomp_key_extra: oomp_footprint_natsfr_bga_fx3_bga_121_10_0x10_0mm_p0_8mm
+    oomp_key_full: oomp_footprint_natsfr_bga_fx3_bga_121_10_0x10_0mm_p0_8mm_3f906a
+    oomp_key_simple: natsfr_bga_fx3_bga_121_10_0x10_0mm_p0_8mm
+    original_filename: kicad-components/Pretty_Footprints/BGA.pretty/FX3_BGA-121_10.0x10.0mm_P0.8mm.kicad_mod
+    owner_name: natsfr
   oomp_key: oomp_natsfr_bga_fx3_bga_121_10_0x10_0mm_p0_8mm
+  oomp_key_full: oomp_footprint_natsfr_bga_fx3_bga_121_10_0x10_0mm_p0_8mm
   oomp_key_simple: natsfr_bga_fx3_bga_121_10_0x10_0mm_p0_8mm
   owner: natsfr
   repo:

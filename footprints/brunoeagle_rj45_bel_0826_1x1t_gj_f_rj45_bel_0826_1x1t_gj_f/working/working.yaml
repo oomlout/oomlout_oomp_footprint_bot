@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_rj45_bel_0826_1x1t_gj_f_rj45_bel_0826_1x1t_gj_f/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_rj45_bel_0826_1x1t_gj_f_rj45_bel_0826_1x1t_gj_f/working
-    oomp_doc: footprints/footprints/brunoeagle/RJ45_Bel_0826-1X1T-GJ-F.kicad_mod/RJ45_Bel_0826-1X1T-GJ-F/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/RJ45_Bel_0826-1X1T-GJ-F.kicad_mod/RJ45_Bel_0826-1X1T-GJ-F/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_rj45_bel_0826_1x1t_gj_f_rj45_bel_0826_1x1t_gj_f/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_rj45_bel_0826_1x1t_gj_f_rj45_bel_0826_1x1t_gj_f/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/RJ45_Bel_0826-1X1T-GJ-F.kicad_mod/RJ45_Bel_0826-1X1T-GJ-F/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/RJ45_Bel_0826-1X1T-GJ-F.kicad_mod/RJ45_Bel_0826-1X1T-GJ-F/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: rj45_bel_0826_1x1t_gj_f
+    library_name: rj45_bel_0826_1x1t_gj_f_kicad_mod
+    md5: 784926520f94b36b69041427a7c02637
+    md5_10: 784926520f
+    md5_5: '78492'
+    md5_6: '784926'
+    oomp_key: oomp_brunoeagle_rj45_bel_0826_1x1t_gj_f_rj45_bel_0826_1x1t_gj_f
+    oomp_key_extra: oomp_footprint_brunoeagle_rj45_bel_0826_1x1t_gj_f_rj45_bel_0826_1x1t_gj_f
+    oomp_key_full: oomp_footprint_brunoeagle_rj45_bel_0826_1x1t_gj_f_rj45_bel_0826_1x1t_gj_f_784926
+    oomp_key_simple: brunoeagle_rj45_bel_0826_1x1t_gj_f_rj45_bel_0826_1x1t_gj_f
+    original_filename: kicad-open-modules/RJ45_Bel_0826-1X1T-GJ-F.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_rj45_bel_0826_1x1t_gj_f_rj45_bel_0826_1x1t_gj_f
+  oomp_key_full: oomp_footprint_brunoeagle_rj45_bel_0826_1x1t_gj_f_rj45_bel_0826_1x1t_gj_f
   oomp_key_simple: brunoeagle_rj45_bel_0826_1x1t_gj_f_rj45_bel_0826_1x1t_gj_f
   owner: brunoeagle
   repo:

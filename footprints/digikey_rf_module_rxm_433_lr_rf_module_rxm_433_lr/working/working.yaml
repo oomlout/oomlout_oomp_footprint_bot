@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/digikey_rf_module_rxm_433_lr_rf_module_rxm_433_lr/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_rf_module_rxm_433_lr_rf_module_rxm_433_lr/working
-    oomp_doc: footprints/footprints/digikey/RF_Module_RXM-433-LR.kicad_mod/RF_Module_RXM-433-LR/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/digikey/RF_Module_RXM-433-LR.kicad_mod/RF_Module_RXM-433-LR/working
     oomp_src_flat: footprints_flat/footprints_flat/digikey_rf_module_rxm_433_lr_rf_module_rxm_433_lr/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/digikey_rf_module_rxm_433_lr_rf_module_rxm_433_lr/working
-    oomp_src_folder: footprints_folder/footprints_folder/digikey/RF_Module_RXM-433-LR.kicad_mod/RF_Module_RXM-433-LR/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/digikey/RF_Module_RXM-433-LR.kicad_mod/RF_Module_RXM-433-LR/working
   name: digikey-kicad-library
+  oomp:
+    footprint_name: rf_module_rxm_433_lr
+    library_name: rf_module_rxm_433_lr_kicad_mod
+    md5: c1bf347d4cf5ed9e57c13cde68e8ba95
+    md5_10: c1bf347d4c
+    md5_5: c1bf3
+    md5_6: c1bf34
+    oomp_key: oomp_digikey_rf_module_rxm_433_lr_rf_module_rxm_433_lr
+    oomp_key_extra: oomp_footprint_digikey_rf_module_rxm_433_lr_rf_module_rxm_433_lr
+    oomp_key_full: oomp_footprint_digikey_rf_module_rxm_433_lr_rf_module_rxm_433_lr_c1bf34
+    oomp_key_simple: digikey_rf_module_rxm_433_lr_rf_module_rxm_433_lr
+    original_filename: digikey-kicad-library/src/Source_Footprints/RF_Module_RXM-433-LR.kicad_mod
+    owner_name: digikey
   oomp_key: oomp_digikey_rf_module_rxm_433_lr_rf_module_rxm_433_lr
+  oomp_key_full: oomp_footprint_digikey_rf_module_rxm_433_lr_rf_module_rxm_433_lr
   oomp_key_simple: digikey_rf_module_rxm_433_lr_rf_module_rxm_433_lr
   owner: digikey
   repo:

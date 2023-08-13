@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/digikey_digikey_footprints_4_smd_2_35x2_95mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_digikey_footprints_4_smd_2_35x2_95mm/working
-    oomp_doc: footprints/footprints/digikey/digikey-footprints/4-SMD_2.35x2.95mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/digikey/digikey-footprints/4-SMD_2.35x2.95mm/working
     oomp_src_flat: footprints_flat/footprints_flat/digikey_digikey_footprints_4_smd_2_35x2_95mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/digikey_digikey_footprints_4_smd_2_35x2_95mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/digikey/digikey-footprints/4-SMD_2.35x2.95mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/digikey/digikey-footprints/4-SMD_2.35x2.95mm/working
   name: digikey-kicad-library
+  oomp:
+    footprint_name: 4_smd_2_35x2_95mm
+    library_name: digikey_footprints
+    md5: 2b0ff0d03ed40eff033b6659adb0a679
+    md5_10: 2b0ff0d03e
+    md5_5: 2b0ff
+    md5_6: 2b0ff0
+    oomp_key: oomp_digikey_digikey_footprints_4_smd_2_35x2_95mm
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_4_smd_2_35x2_95mm
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_4_smd_2_35x2_95mm_2b0ff0
+    oomp_key_simple: digikey_digikey_footprints_4_smd_2_35x2_95mm
+    original_filename: digikey-kicad-library/digikey-footprints.pretty/4-SMD_2.35x2.95mm.kicad_mod
+    owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_4_smd_2_35x2_95mm
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_4_smd_2_35x2_95mm
   oomp_key_simple: digikey_digikey_footprints_4_smd_2_35x2_95mm
   owner: digikey
   repo:

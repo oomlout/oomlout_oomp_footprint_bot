@@ -13,14 +13,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/re_innovation_fuse_holders_and_fuses_bladefuse_cartype/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/re_innovation_fuse_holders_and_fuses_bladefuse_cartype/working
-    oomp_doc: footprints/footprints/re-innovation/Fuse_Holders_and_Fuses/BladeFuse-CarType/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/re-innovation/Fuse_Holders_and_Fuses/BladeFuse-CarType/working
     oomp_src_flat: footprints_flat/footprints_flat/re_innovation_fuse_holders_and_fuses_bladefuse_cartype/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/re_innovation_fuse_holders_and_fuses_bladefuse_cartype/working
-    oomp_src_folder: footprints_folder/footprints_folder/re-innovation/Fuse_Holders_and_Fuses/BladeFuse-CarType/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/re-innovation/Fuse_Holders_and_Fuses/BladeFuse-CarType/working
   name: kicad_reinnovation
+  oomp:
+    footprint_name: bladefuse_cartype
+    library_name: fuse_holders_and_fuses
+    md5: ac31ad95b06f84c3637f7013b3438ca5
+    md5_10: ac31ad95b0
+    md5_5: ac31a
+    md5_6: ac31ad
+    oomp_key: oomp_re_innovation_fuse_holders_and_fuses_bladefuse_cartype
+    oomp_key_extra: oomp_footprint_re_innovation_fuse_holders_and_fuses_bladefuse_cartype
+    oomp_key_full: oomp_footprint_re_innovation_fuse_holders_and_fuses_bladefuse_cartype_ac31ad
+    oomp_key_simple: re_innovation_fuse_holders_and_fuses_bladefuse_cartype
+    original_filename: kicad_reinnovation/KiCAD PRETTY/Fuse_Holders_and_Fuses.pretty/BladeFuse-CarType.kicad_mod
+    owner_name: re_innovation
   oomp_key: oomp_re_innovation_fuse_holders_and_fuses_bladefuse_cartype
+  oomp_key_full: oomp_footprint_re_innovation_fuse_holders_and_fuses_bladefuse_cartype
   oomp_key_simple: re_innovation_fuse_holders_and_fuses_bladefuse_cartype
   owner: re-innovation
   repo:

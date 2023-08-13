@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/diypinball_pinballparts_3_1969543_2/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/diypinball_pinballparts_3_1969543_2/working
-    oomp_doc: footprints/footprints/diypinball/PinballParts/3-1969543-2/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/diypinball/PinballParts/3-1969543-2/working
     oomp_src_flat: footprints_flat/footprints_flat/diypinball_pinballparts_3_1969543_2/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/diypinball_pinballparts_3_1969543_2/working
-    oomp_src_folder: footprints_folder/footprints_folder/diypinball/PinballParts/3-1969543-2/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/diypinball/PinballParts/3-1969543-2/working
   name: PinballParts.pretty
+  oomp:
+    footprint_name: '3_1969543_2'
+    library_name: pinballparts
+    md5: b170c15416e23dc47136300b7f85f386
+    md5_10: b170c15416
+    md5_5: b170c
+    md5_6: b170c1
+    oomp_key: oomp_diypinball_pinballparts_3_1969543_2
+    oomp_key_extra: oomp_footprint_diypinball_pinballparts_3_1969543_2
+    oomp_key_full: oomp_footprint_diypinball_pinballparts_3_1969543_2_b170c1
+    oomp_key_simple: diypinball_pinballparts_3_1969543_2
+    original_filename: PinballParts.pretty/3-1969543-2.kicad_mod
+    owner_name: diypinball
   oomp_key: oomp_diypinball_pinballparts_3_1969543_2
+  oomp_key_full: oomp_footprint_diypinball_pinballparts_3_1969543_2
   oomp_key_simple: diypinball_pinballparts_3_1969543_2
   owner: diypinball
   repo:

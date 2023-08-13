@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/olimex_freetronics_footprints_sj_open/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/olimex_freetronics_footprints_sj_open/working
-    oomp_doc: footprints/footprints/OLIMEX/freetronics_footprints/SJ_OPEN/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/OLIMEX/freetronics_footprints/SJ_OPEN/working
     oomp_src_flat: footprints_flat/footprints_flat/olimex_freetronics_footprints_sj_open/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/olimex_freetronics_footprints_sj_open/working
-    oomp_src_folder: footprints_folder/footprints_folder/OLIMEX/freetronics_footprints/SJ_OPEN/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/OLIMEX/freetronics_footprints/SJ_OPEN/working
   name: KiCAD
+  oomp:
+    footprint_name: sj_open
+    library_name: freetronics_footprints
+    md5: 1b1b2cd2f7ddd4eeb4e9ed25f4e5044f
+    md5_10: 1b1b2cd2f7
+    md5_5: 1b1b2
+    md5_6: 1b1b2c
+    oomp_key: oomp_olimex_freetronics_footprints_sj_open
+    oomp_key_extra: oomp_footprint_olimex_freetronics_footprints_sj_open
+    oomp_key_full: oomp_footprint_olimex_freetronics_footprints_sj_open_1b1b2c
+    oomp_key_simple: olimex_freetronics_footprints_sj_open
+    original_filename: KiCAD/mods/freetronics_footprints.pretty/SJ_OPEN.kicad_mod
+    owner_name: olimex
   oomp_key: oomp_olimex_freetronics_footprints_sj_open
+  oomp_key_full: oomp_footprint_olimex_freetronics_footprints_sj_open
   oomp_key_simple: olimex_freetronics_footprints_sj_open
   owner: OLIMEX
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/hairymnstr_nathan_tht_conn_wurth_615_008_140_621/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/hairymnstr_nathan_tht_conn_wurth_615_008_140_621/working
-    oomp_doc: footprints/footprints/hairymnstr/Nathan_THT_Conn/WURTH_615-008-140-621/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/hairymnstr/Nathan_THT_Conn/WURTH_615-008-140-621/working
     oomp_src_flat: footprints_flat/footprints_flat/hairymnstr_nathan_tht_conn_wurth_615_008_140_621/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/hairymnstr_nathan_tht_conn_wurth_615_008_140_621/working
-    oomp_src_folder: footprints_folder/footprints_folder/hairymnstr/Nathan_THT_Conn/WURTH_615-008-140-621/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/hairymnstr/Nathan_THT_Conn/WURTH_615-008-140-621/working
   name: Nathan_THT_Conn.pretty
+  oomp:
+    footprint_name: wurth_615_008_140_621
+    library_name: nathan_tht_conn
+    md5: 0fe849cf1fe2ccc212279e621c912786
+    md5_10: 0fe849cf1f
+    md5_5: 0fe84
+    md5_6: 0fe849
+    oomp_key: oomp_hairymnstr_nathan_tht_conn_wurth_615_008_140_621
+    oomp_key_extra: oomp_footprint_hairymnstr_nathan_tht_conn_wurth_615_008_140_621
+    oomp_key_full: oomp_footprint_hairymnstr_nathan_tht_conn_wurth_615_008_140_621_0fe849
+    oomp_key_simple: hairymnstr_nathan_tht_conn_wurth_615_008_140_621
+    original_filename: Nathan_THT_Conn.pretty/WURTH_615-008-140-621.kicad_mod
+    owner_name: hairymnstr
   oomp_key: oomp_hairymnstr_nathan_tht_conn_wurth_615_008_140_621
+  oomp_key_full: oomp_footprint_hairymnstr_nathan_tht_conn_wurth_615_008_140_621
   oomp_key_simple: hairymnstr_nathan_tht_conn_wurth_615_008_140_621
   owner: hairymnstr
   repo:

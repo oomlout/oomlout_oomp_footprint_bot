@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/fatenozomi_fate_parts_sw_cherry_mx_2_25u_pcb_reversedstabilizers/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/fatenozomi_fate_parts_sw_cherry_mx_2_25u_pcb_reversedstabilizers/working
-    oomp_doc: footprints/footprints/FateNozomi/Fate_Parts/SW_Cherry_MX_2.25u_PCB_ReversedStabilizers/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/FateNozomi/Fate_Parts/SW_Cherry_MX_2.25u_PCB_ReversedStabilizers/working
     oomp_src_flat: footprints_flat/footprints_flat/fatenozomi_fate_parts_sw_cherry_mx_2_25u_pcb_reversedstabilizers/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/fatenozomi_fate_parts_sw_cherry_mx_2_25u_pcb_reversedstabilizers/working
-    oomp_src_folder: footprints_folder/footprints_folder/FateNozomi/Fate_Parts/SW_Cherry_MX_2.25u_PCB_ReversedStabilizers/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/FateNozomi/Fate_Parts/SW_Cherry_MX_2.25u_PCB_ReversedStabilizers/working
   name: Fate_Parts.pretty
+  oomp:
+    footprint_name: sw_cherry_mx_2_25u_pcb_reversedstabilizers
+    library_name: fate_parts
+    md5: cdff873a78f097e864f472d704777e89
+    md5_10: cdff873a78
+    md5_5: cdff8
+    md5_6: cdff87
+    oomp_key: oomp_fatenozomi_fate_parts_sw_cherry_mx_2_25u_pcb_reversedstabilizers
+    oomp_key_extra: oomp_footprint_fatenozomi_fate_parts_sw_cherry_mx_2_25u_pcb_reversedstabilizers
+    oomp_key_full: oomp_footprint_fatenozomi_fate_parts_sw_cherry_mx_2_25u_pcb_reversedstabilizers_cdff87
+    oomp_key_simple: fatenozomi_fate_parts_sw_cherry_mx_2_25u_pcb_reversedstabilizers
+    original_filename: Fate_Parts.pretty/MX_Switch.pretty/SW_Cherry_MX_2.25u_PCB_ReversedStabilizers.kicad_mod
+    owner_name: fatenozomi
   oomp_key: oomp_fatenozomi_fate_parts_sw_cherry_mx_2_25u_pcb_reversedstabilizers
+  oomp_key_full: oomp_footprint_fatenozomi_fate_parts_sw_cherry_mx_2_25u_pcb_reversedstabilizers
   oomp_key_simple: fatenozomi_fate_parts_sw_cherry_mx_2_25u_pcb_reversedstabilizers
   owner: FateNozomi
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cmos_droner_kicad_sdiy_capacitor_rect_l4_5_w2_5/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cmos_droner_kicad_sdiy_capacitor_rect_l4_5_w2_5/working
-    oomp_doc: footprints/footprints/cmos-droner/KiCAD-SDIY/capacitor_rect-l4.5_w2.5/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cmos-droner/KiCAD-SDIY/capacitor_rect-l4.5_w2.5/working
     oomp_src_flat: footprints_flat/footprints_flat/cmos_droner_kicad_sdiy_capacitor_rect_l4_5_w2_5/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cmos_droner_kicad_sdiy_capacitor_rect_l4_5_w2_5/working
-    oomp_src_folder: footprints_folder/footprints_folder/cmos-droner/KiCAD-SDIY/capacitor_rect-l4.5_w2.5/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cmos-droner/KiCAD-SDIY/capacitor_rect-l4.5_w2.5/working
   name: KiCAD-SDIY.pretty
+  oomp:
+    footprint_name: capacitor_rect_l4_5_w2_5
+    library_name: kicad_sdiy
+    md5: 48dca849c8c533c64c5eb5d3f14c7426
+    md5_10: 48dca849c8
+    md5_5: 48dca
+    md5_6: 48dca8
+    oomp_key: oomp_cmos_droner_kicad_sdiy_capacitor_rect_l4_5_w2_5
+    oomp_key_extra: oomp_footprint_cmos_droner_kicad_sdiy_capacitor_rect_l4_5_w2_5
+    oomp_key_full: oomp_footprint_cmos_droner_kicad_sdiy_capacitor_rect_l4_5_w2_5_48dca8
+    oomp_key_simple: cmos_droner_kicad_sdiy_capacitor_rect_l4_5_w2_5
+    original_filename: KiCAD-SDIY.pretty/capacitor_rect-l4.5_w2.5.kicad_mod
+    owner_name: cmos_droner
   oomp_key: oomp_cmos_droner_kicad_sdiy_capacitor_rect_l4_5_w2_5
+  oomp_key_full: oomp_footprint_cmos_droner_kicad_sdiy_capacitor_rect_l4_5_w2_5
   oomp_key_simple: cmos_droner_kicad_sdiy_capacitor_rect_l4_5_w2_5
   owner: cmos-droner
   repo:

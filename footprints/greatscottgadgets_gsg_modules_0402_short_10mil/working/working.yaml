@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/greatscottgadgets_gsg_modules_0402_short_10mil/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/greatscottgadgets_gsg_modules_0402_short_10mil/working
-    oomp_doc: footprints/footprints/greatscottgadgets/gsg-modules/0402-SHORT-10MIL/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/greatscottgadgets/gsg-modules/0402-SHORT-10MIL/working
     oomp_src_flat: footprints_flat/footprints_flat/greatscottgadgets_gsg_modules_0402_short_10mil/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/greatscottgadgets_gsg_modules_0402_short_10mil/working
-    oomp_src_folder: footprints_folder/footprints_folder/greatscottgadgets/gsg-modules/0402-SHORT-10MIL/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/greatscottgadgets/gsg-modules/0402-SHORT-10MIL/working
   name: gsg-kicad-lib
+  oomp:
+    footprint_name: 0402_short_10mil
+    library_name: gsg_modules
+    md5: 5ce9f0eab84c0943e99349814f3e040b
+    md5_10: 5ce9f0eab8
+    md5_5: 5ce9f
+    md5_6: 5ce9f0
+    oomp_key: oomp_greatscottgadgets_gsg_modules_0402_short_10mil
+    oomp_key_extra: oomp_footprint_greatscottgadgets_gsg_modules_0402_short_10mil
+    oomp_key_full: oomp_footprint_greatscottgadgets_gsg_modules_0402_short_10mil_5ce9f0
+    oomp_key_simple: greatscottgadgets_gsg_modules_0402_short_10mil
+    original_filename: gsg-kicad-lib/gsg-modules.pretty/0402-SHORT-10MIL.kicad_mod
+    owner_name: greatscottgadgets
   oomp_key: oomp_greatscottgadgets_gsg_modules_0402_short_10mil
+  oomp_key_full: oomp_footprint_greatscottgadgets_gsg_modules_0402_short_10mil
   oomp_key_simple: greatscottgadgets_gsg_modules_0402_short_10mil
   owner: greatscottgadgets
   repo:

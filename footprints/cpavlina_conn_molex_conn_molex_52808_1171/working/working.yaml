@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cpavlina_conn_molex_conn_molex_52808_1171/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cpavlina_conn_molex_conn_molex_52808_1171/working
-    oomp_doc: footprints/footprints/cpavlina/conn-molex/CONN-MOLEX-52808-1171/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cpavlina/conn-molex/CONN-MOLEX-52808-1171/working
     oomp_src_flat: footprints_flat/footprints_flat/cpavlina_conn_molex_conn_molex_52808_1171/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cpavlina_conn_molex_conn_molex_52808_1171/working
-    oomp_src_folder: footprints_folder/footprints_folder/cpavlina/conn-molex/CONN-MOLEX-52808-1171/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cpavlina/conn-molex/CONN-MOLEX-52808-1171/working
   name: kicad-pcblib
+  oomp:
+    footprint_name: conn_molex_52808_1171
+    library_name: conn_molex
+    md5: 1443d74eaabe60cfc585ebd55793910c
+    md5_10: 1443d74eaa
+    md5_5: 1443d
+    md5_6: 1443d7
+    oomp_key: oomp_cpavlina_conn_molex_conn_molex_52808_1171
+    oomp_key_extra: oomp_footprint_cpavlina_conn_molex_conn_molex_52808_1171
+    oomp_key_full: oomp_footprint_cpavlina_conn_molex_conn_molex_52808_1171_1443d7
+    oomp_key_simple: cpavlina_conn_molex_conn_molex_52808_1171
+    original_filename: kicad-pcblib/conn-molex.pretty/CONN-MOLEX-52808-1171.kicad_mod
+    owner_name: cpavlina
   oomp_key: oomp_cpavlina_conn_molex_conn_molex_52808_1171
+  oomp_key_full: oomp_footprint_cpavlina_conn_molex_conn_molex_52808_1171
   oomp_key_simple: cpavlina_conn_molex_conn_molex_52808_1171
   owner: cpavlina
   repo:

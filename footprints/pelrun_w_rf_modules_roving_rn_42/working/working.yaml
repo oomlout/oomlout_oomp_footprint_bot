@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pelrun_w_rf_modules_roving_rn_42/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pelrun_w_rf_modules_roving_rn_42/working
-    oomp_doc: footprints/footprints/pelrun/w_rf_modules/roving_rn-42/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/pelrun/w_rf_modules/roving_rn-42/working
     oomp_src_flat: footprints_flat/footprints_flat/pelrun_w_rf_modules_roving_rn_42/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pelrun_w_rf_modules_roving_rn_42/working
-    oomp_src_folder: footprints_folder/footprints_folder/pelrun/w_rf_modules/roving_rn-42/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/pelrun/w_rf_modules/roving_rn-42/working
   name: libKiCad
+  oomp:
+    footprint_name: roving_rn_42
+    library_name: w_rf_modules
+    md5: 306e98a3bcde1aaf3d6085d1cc0902c8
+    md5_10: 306e98a3bc
+    md5_5: 306e9
+    md5_6: 306e98
+    oomp_key: oomp_pelrun_w_rf_modules_roving_rn_42
+    oomp_key_extra: oomp_footprint_pelrun_w_rf_modules_roving_rn_42
+    oomp_key_full: oomp_footprint_pelrun_w_rf_modules_roving_rn_42_306e98
+    oomp_key_simple: pelrun_w_rf_modules_roving_rn_42
+    original_filename: libKiCad/footprint/w_rf_modules.pretty/roving_rn-42.kicad_mod
+    owner_name: pelrun
   oomp_key: oomp_pelrun_w_rf_modules_roving_rn_42
+  oomp_key_full: oomp_footprint_pelrun_w_rf_modules_roving_rn_42
   oomp_key_simple: pelrun_w_rf_modules_roving_rn_42
   owner: pelrun
   repo:

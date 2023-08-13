@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/digikey_sip_4_w3_81mm_sip_4_w3_81mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_sip_4_w3_81mm_sip_4_w3_81mm/working
-    oomp_doc: footprints/footprints/digikey/SIP-4_W3.81mm.kicad_mod/SIP-4_W3.81mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/digikey/SIP-4_W3.81mm.kicad_mod/SIP-4_W3.81mm/working
     oomp_src_flat: footprints_flat/footprints_flat/digikey_sip_4_w3_81mm_sip_4_w3_81mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/digikey_sip_4_w3_81mm_sip_4_w3_81mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/digikey/SIP-4_W3.81mm.kicad_mod/SIP-4_W3.81mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/digikey/SIP-4_W3.81mm.kicad_mod/SIP-4_W3.81mm/working
   name: digikey-kicad-library
+  oomp:
+    footprint_name: sip_4_w3_81mm
+    library_name: sip_4_w3_81mm_kicad_mod
+    md5: 483e5a664f9d6cc71d3b9d4b1ec2f502
+    md5_10: 483e5a664f
+    md5_5: 483e5
+    md5_6: 483e5a
+    oomp_key: oomp_digikey_sip_4_w3_81mm_sip_4_w3_81mm
+    oomp_key_extra: oomp_footprint_digikey_sip_4_w3_81mm_sip_4_w3_81mm
+    oomp_key_full: oomp_footprint_digikey_sip_4_w3_81mm_sip_4_w3_81mm_483e5a
+    oomp_key_simple: digikey_sip_4_w3_81mm_sip_4_w3_81mm
+    original_filename: digikey-kicad-library/src/Source_Footprints/SIP-4_W3.81mm.kicad_mod
+    owner_name: digikey
   oomp_key: oomp_digikey_sip_4_w3_81mm_sip_4_w3_81mm
+  oomp_key_full: oomp_footprint_digikey_sip_4_w3_81mm_sip_4_w3_81mm
   oomp_key_simple: digikey_sip_4_w3_81mm_sip_4_w3_81mm
   owner: digikey
   repo:

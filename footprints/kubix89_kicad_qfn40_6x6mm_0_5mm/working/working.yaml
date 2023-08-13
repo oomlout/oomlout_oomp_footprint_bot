@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/kubiX89/kiCAD.pretty
     oomp_bot: footprints/kubix89_kicad_qfn40_6x6mm_0_5mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kubix89_kicad_qfn40_6x6mm_0_5mm/working
-    oomp_doc: footprints/footprints/kubiX89/kiCAD/QFN40_6X6MM_0.5MM/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kubiX89/kiCAD/QFN40_6X6MM_0.5MM/working
     oomp_src_flat: footprints_flat/footprints_flat/kubix89_kicad_qfn40_6x6mm_0_5mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kubix89_kicad_qfn40_6x6mm_0_5mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/kubiX89/kiCAD/QFN40_6X6MM_0.5MM/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kubiX89/kiCAD/QFN40_6X6MM_0.5MM/working
   name: kiCAD.pretty
+  oomp:
+    footprint_name: qfn40_6x6mm_0_5mm
+    library_name: kicad
+    md5: 65aa6ffa53abfd8a0dd5f4e6bd7dc32d
+    md5_10: 65aa6ffa53
+    md5_5: 65aa6
+    md5_6: 65aa6f
+    oomp_key: oomp_kubix89_kicad_qfn40_6x6mm_0_5mm
+    oomp_key_extra: oomp_footprint_kubix89_kicad_qfn40_6x6mm_0_5mm
+    oomp_key_full: oomp_footprint_kubix89_kicad_qfn40_6x6mm_0_5mm_65aa6f
+    oomp_key_simple: kubix89_kicad_qfn40_6x6mm_0_5mm
+    original_filename: kiCAD.pretty/QFN40_6X6MM_0.5MM.kicad_mod
+    owner_name: kubix89
   oomp_key: oomp_kubix89_kicad_qfn40_6x6mm_0_5mm
+  oomp_key_full: oomp_footprint_kubix89_kicad_qfn40_6x6mm_0_5mm
   oomp_key_simple: kubix89_kicad_qfn40_6x6mm_0_5mm
   owner: kubiX89
   repo:

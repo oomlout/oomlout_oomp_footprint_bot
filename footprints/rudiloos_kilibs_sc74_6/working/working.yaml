@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/rudiloos_kilibs_sc74_6/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/rudiloos_kilibs_sc74_6/working
-    oomp_doc: footprints/footprints/rudiloos/kilibs/SC74-6/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/rudiloos/kilibs/SC74-6/working
     oomp_src_flat: footprints_flat/footprints_flat/rudiloos_kilibs_sc74_6/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/rudiloos_kilibs_sc74_6/working
-    oomp_src_folder: footprints_folder/footprints_folder/rudiloos/kilibs/SC74-6/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/rudiloos/kilibs/SC74-6/working
   name: kilibs.pretty
+  oomp:
+    footprint_name: sc74_6
+    library_name: kilibs
+    md5: 0adf78a122c1a5cee9bfeb645429d2a4
+    md5_10: 0adf78a122
+    md5_5: 0adf7
+    md5_6: 0adf78
+    oomp_key: oomp_rudiloos_kilibs_sc74_6
+    oomp_key_extra: oomp_footprint_rudiloos_kilibs_sc74_6
+    oomp_key_full: oomp_footprint_rudiloos_kilibs_sc74_6_0adf78
+    oomp_key_simple: rudiloos_kilibs_sc74_6
+    original_filename: kilibs.pretty/SC74-6.kicad_mod
+    owner_name: rudiloos
   oomp_key: oomp_rudiloos_kilibs_sc74_6
+  oomp_key_full: oomp_footprint_rudiloos_kilibs_sc74_6
   oomp_key_simple: rudiloos_kilibs_sc74_6
   owner: rudiloos
   repo:

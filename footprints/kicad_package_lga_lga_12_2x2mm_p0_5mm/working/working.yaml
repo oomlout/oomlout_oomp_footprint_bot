@@ -11,17 +11,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_package_lga_lga_12_2x2mm_p0_5mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_package_lga_lga_12_2x2mm_p0_5mm/working
-    oomp_doc: footprints/footprints/kicad/Package_LGA/LGA-12_2x2mm_P0.5mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Package_LGA/LGA-12_2x2mm_P0.5mm/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_package_lga_lga_12_2x2mm_p0_5mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_package_lga_lga_12_2x2mm_p0_5mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Package_LGA/LGA-12_2x2mm_P0.5mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Package_LGA/LGA-12_2x2mm_P0.5mm/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: lga_12_2x2mm_p0_5mm
+    library_name: package_lga
+    md5: 46ba14a1f3e9d78efa8ff2443e91975f
+    md5_10: 46ba14a1f3
+    md5_5: 46ba1
+    md5_6: 46ba14
+    oomp_key: oomp_kicad_package_lga_lga_12_2x2mm_p0_5mm
+    oomp_key_extra: oomp_footprint_kicad_package_lga_lga_12_2x2mm_p0_5mm
+    oomp_key_full: oomp_footprint_kicad_package_lga_lga_12_2x2mm_p0_5mm_46ba14
+    oomp_key_simple: kicad_package_lga_lga_12_2x2mm_p0_5mm
+    original_filename: libraries/kicad-footprints/Package_LGA.pretty/LGA-12_2x2mm_P0.5mm.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_package_lga_lga_12_2x2mm_p0_5mm
+  oomp_key_full: oomp_footprint_kicad_package_lga_lga_12_2x2mm_p0_5mm
   oomp_key_simple: kicad_package_lga_lga_12_2x2mm_p0_5mm
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

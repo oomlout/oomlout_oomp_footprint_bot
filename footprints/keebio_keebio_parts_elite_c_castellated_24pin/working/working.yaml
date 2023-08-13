@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/keebio_keebio_parts_elite_c_castellated_24pin/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/keebio_keebio_parts_elite_c_castellated_24pin/working
-    oomp_doc: footprints/footprints/keebio/Keebio-Parts/Elite-C-castellated-24pin/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/keebio/Keebio-Parts/Elite-C-castellated-24pin/working
     oomp_src_flat: footprints_flat/footprints_flat/keebio_keebio_parts_elite_c_castellated_24pin/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/keebio_keebio_parts_elite_c_castellated_24pin/working
-    oomp_src_folder: footprints_folder/footprints_folder/keebio/Keebio-Parts/Elite-C-castellated-24pin/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/keebio/Keebio-Parts/Elite-C-castellated-24pin/working
   name: Keebio-Parts.pretty
+  oomp:
+    footprint_name: elite_c_castellated_24pin
+    library_name: keebio_parts
+    md5: a52dcda95dadf32a0fdcc87046b1adc9
+    md5_10: a52dcda95d
+    md5_5: a52dc
+    md5_6: a52dcd
+    oomp_key: oomp_keebio_keebio_parts_elite_c_castellated_24pin
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_elite_c_castellated_24pin
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_elite_c_castellated_24pin_a52dcd
+    oomp_key_simple: keebio_keebio_parts_elite_c_castellated_24pin
+    original_filename: Keebio-Parts.pretty/Elite-C-castellated-24pin.kicad_mod
+    owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_elite_c_castellated_24pin
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_elite_c_castellated_24pin
   oomp_key_simple: keebio_keebio_parts_elite_c_castellated_24pin
   owner: keebio
   repo:

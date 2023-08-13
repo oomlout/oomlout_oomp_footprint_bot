@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/adamgreig/agg-kicad
     oomp_bot: footprints/adamgreig_agg_soic_8_powerpad/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/adamgreig_agg_soic_8_powerpad/working
-    oomp_doc: footprints/footprints/adamgreig/agg/SOIC-8-PowerPAD/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/adamgreig/agg/SOIC-8-PowerPAD/working
     oomp_src_flat: footprints_flat/footprints_flat/adamgreig_agg_soic_8_powerpad/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/adamgreig_agg_soic_8_powerpad/working
-    oomp_src_folder: footprints_folder/footprints_folder/adamgreig/agg/SOIC-8-PowerPAD/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/adamgreig/agg/SOIC-8-PowerPAD/working
   name: agg-kicad
+  oomp:
+    footprint_name: soic_8_powerpad
+    library_name: agg
+    md5: ec30f0a3b26a166d6cecfb93b0c0abe5
+    md5_10: ec30f0a3b2
+    md5_5: ec30f
+    md5_6: ec30f0
+    oomp_key: oomp_adamgreig_agg_soic_8_powerpad
+    oomp_key_extra: oomp_footprint_adamgreig_agg_soic_8_powerpad
+    oomp_key_full: oomp_footprint_adamgreig_agg_soic_8_powerpad_ec30f0
+    oomp_key_simple: adamgreig_agg_soic_8_powerpad
+    original_filename: agg-kicad/agg.pretty/SOIC-8-PowerPAD.kicad_mod
+    owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_soic_8_powerpad
+  oomp_key_full: oomp_footprint_adamgreig_agg_soic_8_powerpad
   oomp_key_simple: adamgreig_agg_soic_8_powerpad
   owner: adamgreig
   repo:

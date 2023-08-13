@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/aewallin/awallinKiCadFootprints.pretty
     oomp_bot: footprints/aewallin_awallinkicadfootprints_connector_azimuth_butterfly_5253_100_7_s/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/aewallin_awallinkicadfootprints_connector_azimuth_butterfly_5253_100_7_s/working
-    oomp_doc: footprints/footprints/aewallin/awallinKiCadFootprints/Connector_Azimuth_Butterfly_5253-100-7-S/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/aewallin/awallinKiCadFootprints/Connector_Azimuth_Butterfly_5253-100-7-S/working
     oomp_src_flat: footprints_flat/footprints_flat/aewallin_awallinkicadfootprints_connector_azimuth_butterfly_5253_100_7_s/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/aewallin_awallinkicadfootprints_connector_azimuth_butterfly_5253_100_7_s/working
-    oomp_src_folder: footprints_folder/footprints_folder/aewallin/awallinKiCadFootprints/Connector_Azimuth_Butterfly_5253-100-7-S/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/aewallin/awallinKiCadFootprints/Connector_Azimuth_Butterfly_5253-100-7-S/working
   name: awallinKiCadFootprints.pretty
+  oomp:
+    footprint_name: connector_azimuth_butterfly_5253_100_7_s
+    library_name: awallinkicadfootprints
+    md5: 0fc72342c821186fbdb901622362c907
+    md5_10: 0fc72342c8
+    md5_5: 0fc72
+    md5_6: 0fc723
+    oomp_key: oomp_aewallin_awallinkicadfootprints_connector_azimuth_butterfly_5253_100_7_s
+    oomp_key_extra: oomp_footprint_aewallin_awallinkicadfootprints_connector_azimuth_butterfly_5253_100_7_s
+    oomp_key_full: oomp_footprint_aewallin_awallinkicadfootprints_connector_azimuth_butterfly_5253_100_7_s_0fc723
+    oomp_key_simple: aewallin_awallinkicadfootprints_connector_azimuth_butterfly_5253_100_7_s
+    original_filename: awallinKiCadFootprints.pretty/Connector_Azimuth_Butterfly_5253-100-7-S.kicad_mod
+    owner_name: aewallin
   oomp_key: oomp_aewallin_awallinkicadfootprints_connector_azimuth_butterfly_5253_100_7_s
+  oomp_key_full: oomp_footprint_aewallin_awallinkicadfootprints_connector_azimuth_butterfly_5253_100_7_s
   oomp_key_simple: aewallin_awallinkicadfootprints_connector_azimuth_butterfly_5253_100_7_s
   owner: aewallin
   repo:

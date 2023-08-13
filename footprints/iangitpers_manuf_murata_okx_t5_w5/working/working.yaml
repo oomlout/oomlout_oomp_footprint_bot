@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/Iangitpers/4a
     oomp_bot: footprints/iangitpers_manuf_murata_okx_t5_w5/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/iangitpers_manuf_murata_okx_t5_w5/working
-    oomp_doc: footprints/footprints/Iangitpers/manuf/MURATA-OKX-T5-W5/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Iangitpers/manuf/MURATA-OKX-T5-W5/working
     oomp_src_flat: footprints_flat/footprints_flat/iangitpers_manuf_murata_okx_t5_w5/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/iangitpers_manuf_murata_okx_t5_w5/working
-    oomp_src_folder: footprints_folder/footprints_folder/Iangitpers/manuf/MURATA-OKX-T5-W5/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Iangitpers/manuf/MURATA-OKX-T5-W5/working
   name: 4a
+  oomp:
+    footprint_name: murata_okx_t5_w5
+    library_name: manuf
+    md5: 54623a5b9787194542e6d56eb53db35f
+    md5_10: 54623a5b97
+    md5_5: '54623'
+    md5_6: 54623a
+    oomp_key: oomp_iangitpers_manuf_murata_okx_t5_w5
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_murata_okx_t5_w5
+    oomp_key_full: oomp_footprint_iangitpers_manuf_murata_okx_t5_w5_54623a
+    oomp_key_simple: iangitpers_manuf_murata_okx_t5_w5
+    original_filename: 4a/manuf.pretty/MURATA-OKX-T5-W5.kicad_mod
+    owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_murata_okx_t5_w5
+  oomp_key_full: oomp_footprint_iangitpers_manuf_murata_okx_t5_w5
   oomp_key_simple: iangitpers_manuf_murata_okx_t5_w5
   owner: Iangitpers
   repo:

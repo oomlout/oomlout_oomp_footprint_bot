@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/olimex_mounting_keyboard_stabilizer_stabilizer_cherry_mx_6_00u/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/olimex_mounting_keyboard_stabilizer_stabilizer_cherry_mx_6_00u/working
-    oomp_doc: footprints/footprints/OLIMEX/Mounting_Keyboard_Stabilizer/Stabilizer_Cherry_MX_6.00u/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/OLIMEX/Mounting_Keyboard_Stabilizer/Stabilizer_Cherry_MX_6.00u/working
     oomp_src_flat: footprints_flat/footprints_flat/olimex_mounting_keyboard_stabilizer_stabilizer_cherry_mx_6_00u/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/olimex_mounting_keyboard_stabilizer_stabilizer_cherry_mx_6_00u/working
-    oomp_src_folder: footprints_folder/footprints_folder/OLIMEX/Mounting_Keyboard_Stabilizer/Stabilizer_Cherry_MX_6.00u/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/OLIMEX/Mounting_Keyboard_Stabilizer/Stabilizer_Cherry_MX_6.00u/working
   name: KiCAD
+  oomp:
+    footprint_name: stabilizer_cherry_mx_6_00u
+    library_name: mounting_keyboard_stabilizer
+    md5: e95836c36c838f49bdf238bcc8aaa351
+    md5_10: e95836c36c
+    md5_5: e9583
+    md5_6: e95836
+    oomp_key: oomp_olimex_mounting_keyboard_stabilizer_stabilizer_cherry_mx_6_00u
+    oomp_key_extra: oomp_footprint_olimex_mounting_keyboard_stabilizer_stabilizer_cherry_mx_6_00u
+    oomp_key_full: oomp_footprint_olimex_mounting_keyboard_stabilizer_stabilizer_cherry_mx_6_00u_e95836
+    oomp_key_simple: olimex_mounting_keyboard_stabilizer_stabilizer_cherry_mx_6_00u
+    original_filename: KiCAD/6.0/3rdparty/footprints/com_github_perigoso_keyswitch-kicad-library/Mounting_Keyboard_Stabilizer.pretty/Stabilizer_Cherry_MX_6.00u.kicad_mod
+    owner_name: olimex
   oomp_key: oomp_olimex_mounting_keyboard_stabilizer_stabilizer_cherry_mx_6_00u
+  oomp_key_full: oomp_footprint_olimex_mounting_keyboard_stabilizer_stabilizer_cherry_mx_6_00u
   oomp_key_simple: olimex_mounting_keyboard_stabilizer_stabilizer_cherry_mx_6_00u
   owner: OLIMEX
   repo:

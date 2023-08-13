@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/peekpt_w_smd_plcc_plcc68/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/peekpt_w_smd_plcc_plcc68/working
-    oomp_doc: footprints/footprints/peekpt/w_smd_plcc/PLCC68/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/peekpt/w_smd_plcc/PLCC68/working
     oomp_src_flat: footprints_flat/footprints_flat/peekpt_w_smd_plcc_plcc68/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/peekpt_w_smd_plcc_plcc68/working
-    oomp_src_folder: footprints_folder/footprints_folder/peekpt/w_smd_plcc/PLCC68/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/peekpt/w_smd_plcc/PLCC68/working
   name: kicad_smisioto
+  oomp:
+    footprint_name: plcc68
+    library_name: w_smd_plcc
+    md5: 6598f7032d9f3694ae199e44e41db782
+    md5_10: 6598f7032d
+    md5_5: 6598f
+    md5_6: 6598f7
+    oomp_key: oomp_peekpt_w_smd_plcc_plcc68
+    oomp_key_extra: oomp_footprint_peekpt_w_smd_plcc_plcc68
+    oomp_key_full: oomp_footprint_peekpt_w_smd_plcc_plcc68_6598f7
+    oomp_key_simple: peekpt_w_smd_plcc_plcc68
+    original_filename: kicad_smisioto/modules/walter/w_smd_plcc.pretty/PLCC68.kicad_mod
+    owner_name: peekpt
   oomp_key: oomp_peekpt_w_smd_plcc_plcc68
+  oomp_key_full: oomp_footprint_peekpt_w_smd_plcc_plcc68
   oomp_key_simple: peekpt_w_smd_plcc_plcc68
   owner: peekpt
   repo:

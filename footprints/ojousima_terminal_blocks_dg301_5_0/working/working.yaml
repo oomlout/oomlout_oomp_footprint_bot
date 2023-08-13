@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/ojousima_terminal_blocks_dg301_5_0/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ojousima_terminal_blocks_dg301_5_0/working
-    oomp_doc: footprints/footprints/ojousima/Terminal_blocks/DG301-5.0/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ojousima/Terminal_blocks/DG301-5.0/working
     oomp_src_flat: footprints_flat/footprints_flat/ojousima_terminal_blocks_dg301_5_0/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ojousima_terminal_blocks_dg301_5_0/working
-    oomp_src_folder: footprints_folder/footprints_folder/ojousima/Terminal_blocks/DG301-5.0/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ojousima/Terminal_blocks/DG301-5.0/working
   name: Terminal_blocks.pretty
+  oomp:
+    footprint_name: dg301_5_0
+    library_name: terminal_blocks
+    md5: ea380a19266d2031619a38aead43178d
+    md5_10: ea380a1926
+    md5_5: ea380
+    md5_6: ea380a
+    oomp_key: oomp_ojousima_terminal_blocks_dg301_5_0
+    oomp_key_extra: oomp_footprint_ojousima_terminal_blocks_dg301_5_0
+    oomp_key_full: oomp_footprint_ojousima_terminal_blocks_dg301_5_0_ea380a
+    oomp_key_simple: ojousima_terminal_blocks_dg301_5_0
+    original_filename: Terminal_blocks.pretty/DG301-5.0.kicad_mod
+    owner_name: ojousima
   oomp_key: oomp_ojousima_terminal_blocks_dg301_5_0
+  oomp_key_full: oomp_footprint_ojousima_terminal_blocks_dg301_5_0
   oomp_key_simple: ojousima_terminal_blocks_dg301_5_0
   owner: ojousima
   repo:

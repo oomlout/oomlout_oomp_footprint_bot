@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/naturesyouth_footprints_encoder_bourns_pel12d_4/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/naturesyouth_footprints_encoder_bourns_pel12d_4/working
-    oomp_doc: footprints/footprints/naturesyouth/Footprints/Encoder_Bourns_PEL12D-4/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/naturesyouth/Footprints/Encoder_Bourns_PEL12D-4/working
     oomp_src_flat: footprints_flat/footprints_flat/naturesyouth_footprints_encoder_bourns_pel12d_4/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/naturesyouth_footprints_encoder_bourns_pel12d_4/working
-    oomp_src_folder: footprints_folder/footprints_folder/naturesyouth/Footprints/Encoder_Bourns_PEL12D-4/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/naturesyouth/Footprints/Encoder_Bourns_PEL12D-4/working
   name: Footprints.pretty
+  oomp:
+    footprint_name: encoder_bourns_pel12d_4
+    library_name: footprints
+    md5: b05cb428dd67cc9c4cafcf3df7d3c35f
+    md5_10: b05cb428dd
+    md5_5: b05cb
+    md5_6: b05cb4
+    oomp_key: oomp_naturesyouth_footprints_encoder_bourns_pel12d_4
+    oomp_key_extra: oomp_footprint_naturesyouth_footprints_encoder_bourns_pel12d_4
+    oomp_key_full: oomp_footprint_naturesyouth_footprints_encoder_bourns_pel12d_4_b05cb4
+    oomp_key_simple: naturesyouth_footprints_encoder_bourns_pel12d_4
+    original_filename: Footprints.pretty/Encoder_Bourns_PEL12D-4.kicad_mod
+    owner_name: naturesyouth
   oomp_key: oomp_naturesyouth_footprints_encoder_bourns_pel12d_4
+  oomp_key_full: oomp_footprint_naturesyouth_footprints_encoder_bourns_pel12d_4
   oomp_key_simple: naturesyouth_footprints_encoder_bourns_pel12d_4
   owner: naturesyouth
   repo:

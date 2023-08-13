@@ -11,17 +11,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_package_bga_micron_fbga_96_7_5x13_5mm_layout9x16_p0_8mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_package_bga_micron_fbga_96_7_5x13_5mm_layout9x16_p0_8mm/working
-    oomp_doc: footprints/footprints/kicad/Package_BGA/Micron_FBGA-96_7.5x13.5mm_Layout9x16_P0.8mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Package_BGA/Micron_FBGA-96_7.5x13.5mm_Layout9x16_P0.8mm/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_package_bga_micron_fbga_96_7_5x13_5mm_layout9x16_p0_8mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_package_bga_micron_fbga_96_7_5x13_5mm_layout9x16_p0_8mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Package_BGA/Micron_FBGA-96_7.5x13.5mm_Layout9x16_P0.8mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Package_BGA/Micron_FBGA-96_7.5x13.5mm_Layout9x16_P0.8mm/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: micron_fbga_96_7_5x13_5mm_layout9x16_p0_8mm
+    library_name: package_bga
+    md5: 76cf3a475195428b330fa2971652e74a
+    md5_10: 76cf3a4751
+    md5_5: 76cf3
+    md5_6: 76cf3a
+    oomp_key: oomp_kicad_package_bga_micron_fbga_96_7_5x13_5mm_layout9x16_p0_8mm
+    oomp_key_extra: oomp_footprint_kicad_package_bga_micron_fbga_96_7_5x13_5mm_layout9x16_p0_8mm
+    oomp_key_full: oomp_footprint_kicad_package_bga_micron_fbga_96_7_5x13_5mm_layout9x16_p0_8mm_76cf3a
+    oomp_key_simple: kicad_package_bga_micron_fbga_96_7_5x13_5mm_layout9x16_p0_8mm
+    original_filename: libraries/kicad-footprints/Package_BGA.pretty/Micron_FBGA-96_7.5x13.5mm_Layout9x16_P0.8mm.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_package_bga_micron_fbga_96_7_5x13_5mm_layout9x16_p0_8mm
+  oomp_key_full: oomp_footprint_kicad_package_bga_micron_fbga_96_7_5x13_5mm_layout9x16_p0_8mm
   oomp_key_simple: kicad_package_bga_micron_fbga_96_7_5x13_5mm_layout9x16_p0_8mm
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

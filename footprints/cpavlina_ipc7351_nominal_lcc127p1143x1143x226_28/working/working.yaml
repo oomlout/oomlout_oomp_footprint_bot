@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cpavlina_ipc7351_nominal_lcc127p1143x1143x226_28/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cpavlina_ipc7351_nominal_lcc127p1143x1143x226_28/working
-    oomp_doc: footprints/footprints/cpavlina/IPC7351-Nominal/LCC127P1143X1143X226-28/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cpavlina/IPC7351-Nominal/LCC127P1143X1143X226-28/working
     oomp_src_flat: footprints_flat/footprints_flat/cpavlina_ipc7351_nominal_lcc127p1143x1143x226_28/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cpavlina_ipc7351_nominal_lcc127p1143x1143x226_28/working
-    oomp_src_folder: footprints_folder/footprints_folder/cpavlina/IPC7351-Nominal/LCC127P1143X1143X226-28/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cpavlina/IPC7351-Nominal/LCC127P1143X1143X226-28/working
   name: kicad-pcblib
+  oomp:
+    footprint_name: lcc127p1143x1143x226_28
+    library_name: ipc7351_nominal
+    md5: 7006f99b9a7a49e0d982fbdbd8ebbbc6
+    md5_10: 7006f99b9a
+    md5_5: 7006f
+    md5_6: 7006f9
+    oomp_key: oomp_cpavlina_ipc7351_nominal_lcc127p1143x1143x226_28
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_nominal_lcc127p1143x1143x226_28
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_lcc127p1143x1143x226_28_7006f9
+    oomp_key_simple: cpavlina_ipc7351_nominal_lcc127p1143x1143x226_28
+    original_filename: kicad-pcblib/IPC7351-Nominal.pretty/LCC127P1143X1143X226-28.kicad_mod
+    owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_nominal_lcc127p1143x1143x226_28
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_lcc127p1143x1143x226_28
   oomp_key_simple: cpavlina_ipc7351_nominal_lcc127p1143x1143x226_28
   owner: cpavlina
   repo:

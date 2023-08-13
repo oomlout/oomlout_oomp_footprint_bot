@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/freetronics_freetronics_footprints_screwterminal_3_5mm_8/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/freetronics_freetronics_footprints_screwterminal_3_5mm_8/working
-    oomp_doc: footprints/footprints/freetronics/freetronics_footprints/SCREWTERMINAL-3.5MM-8/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/freetronics/freetronics_footprints/SCREWTERMINAL-3.5MM-8/working
     oomp_src_flat: footprints_flat/footprints_flat/freetronics_freetronics_footprints_screwterminal_3_5mm_8/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/freetronics_freetronics_footprints_screwterminal_3_5mm_8/working
-    oomp_src_folder: footprints_folder/footprints_folder/freetronics/freetronics_footprints/SCREWTERMINAL-3.5MM-8/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/freetronics/freetronics_footprints/SCREWTERMINAL-3.5MM-8/working
   name: freetronics_kicad_library
+  oomp:
+    footprint_name: screwterminal_3_5mm_8
+    library_name: freetronics_footprints
+    md5: 6b5e2e2777a29e88cfada7954f864768
+    md5_10: 6b5e2e2777
+    md5_5: 6b5e2
+    md5_6: 6b5e2e
+    oomp_key: oomp_freetronics_freetronics_footprints_screwterminal_3_5mm_8
+    oomp_key_extra: oomp_footprint_freetronics_freetronics_footprints_screwterminal_3_5mm_8
+    oomp_key_full: oomp_footprint_freetronics_freetronics_footprints_screwterminal_3_5mm_8_6b5e2e
+    oomp_key_simple: freetronics_freetronics_footprints_screwterminal_3_5mm_8
+    original_filename: freetronics_kicad_library/freetronics_footprints.pretty/SCREWTERMINAL-3.5MM-8.kicad_mod
+    owner_name: freetronics
   oomp_key: oomp_freetronics_freetronics_footprints_screwterminal_3_5mm_8
+  oomp_key_full: oomp_footprint_freetronics_freetronics_footprints_screwterminal_3_5mm_8
   oomp_key_simple: freetronics_freetronics_footprints_screwterminal_3_5mm_8
   owner: freetronics
   repo:

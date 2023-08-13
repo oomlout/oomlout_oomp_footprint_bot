@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/benkev_mylib_upad/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/benkev_mylib_upad/working
-    oomp_doc: footprints/footprints/benkev/myLib/uPAD/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/benkev/myLib/uPAD/working
     oomp_src_flat: footprints_flat/footprints_flat/benkev_mylib_upad/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/benkev_mylib_upad/working
-    oomp_src_folder: footprints_folder/footprints_folder/benkev/myLib/uPAD/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/benkev/myLib/uPAD/working
   name: myLib.pretty
+  oomp:
+    footprint_name: upad
+    library_name: mylib
+    md5: 7655af54956c8160f6d1910a3b5995e5
+    md5_10: 7655af5495
+    md5_5: 7655a
+    md5_6: 7655af
+    oomp_key: oomp_benkev_mylib_upad
+    oomp_key_extra: oomp_footprint_benkev_mylib_upad
+    oomp_key_full: oomp_footprint_benkev_mylib_upad_7655af
+    oomp_key_simple: benkev_mylib_upad
+    original_filename: myLib.pretty/uPAD.kicad_mod
+    owner_name: benkev
   oomp_key: oomp_benkev_mylib_upad
+  oomp_key_full: oomp_footprint_benkev_mylib_upad
   oomp_key_simple: benkev_mylib_upad
   owner: benkev
   repo:

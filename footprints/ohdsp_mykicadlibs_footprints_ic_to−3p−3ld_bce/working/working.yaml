@@ -14,20 +14,30 @@
     oomp_bot: "footprints/ohdsp_mykicadlibs_footprints_ic_to\u22123p\u22123ld_bce/working"
     oomp_bot_github: "https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ohdsp_mykicadlibs_footprints_ic_to\u2212\
       3p\u22123ld_bce/working"
-    oomp_doc: "footprints/footprints/ohdsp/MyKiCadLibs-Footprints/IC-TO\u22123P\u2212\
-      3LD-BCE/working/"
-    oomp_doc_github: "https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ohdsp/MyKiCadLibs-Footprints/IC-TO\u2212\
-      3P\u22123LD-BCE/working"
     oomp_src_flat: "footprints_flat/footprints_flat/ohdsp_mykicadlibs_footprints_ic_to\u2212\
       3p\u22123ld_bce/working"
     oomp_src_flat_github: "https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ohdsp_mykicadlibs_footprints_ic_to\u2212\
       3p\u22123ld_bce/working"
-    oomp_src_folder: "footprints_folder/footprints_folder/ohdsp/MyKiCadLibs-Footprints/IC-TO\u2212\
-      3P\u22123LD-BCE/working"
-    oomp_src_folder_github: "https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ohdsp/MyKiCadLibs-Footprints/IC-TO\u2212\
-      3P\u22123LD-BCE/working"
   name: KiCad-Libs
+  oomp:
+    footprint_name: "ic_to\u22123p\u22123ld_bce"
+    library_name: mykicadlibs_footprints
+    md5: a7148b8427ebac947766e889a73f2ff8
+    md5_10: a7148b8427
+    md5_5: a7148
+    md5_6: a7148b
+    oomp_key: "oomp_ohdsp_mykicadlibs_footprints_ic_to\u22123p\u22123ld_bce"
+    oomp_key_extra: "oomp_footprint_ohdsp_mykicadlibs_footprints_ic_to\u22123p\u2212\
+      3ld_bce"
+    oomp_key_full: "oomp_footprint_ohdsp_mykicadlibs_footprints_ic_to\u22123p\u2212\
+      3ld_bce_a7148b"
+    oomp_key_simple: "ohdsp_mykicadlibs_footprints_ic_to\u22123p\u22123ld_bce"
+    original_filename: "KiCad-Libs/MyKiCadLibs-Footprints.pretty/IC-TO\u22123P\u2212\
+      3LD-BCE.kicad_mod"
+    owner_name: ohdsp
   oomp_key: "oomp_ohdsp_mykicadlibs_footprints_ic_to\u22123p\u22123ld_bce"
+  oomp_key_full: "oomp_footprint_ohdsp_mykicadlibs_footprints_ic_to\u22123p\u2212\
+    3ld_bce"
   oomp_key_simple: "ohdsp_mykicadlibs_footprints_ic_to\u22123p\u22123ld_bce"
   owner: ohdsp
   repo:

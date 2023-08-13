@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/stefanhamminga_sh_inductors_2520_a/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stefanhamminga_sh_inductors_2520_a/working
-    oomp_doc: footprints/footprints/StefanHamminga/SH_Inductors/2520_A/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/StefanHamminga/SH_Inductors/2520_A/working
     oomp_src_flat: footprints_flat/footprints_flat/stefanhamminga_sh_inductors_2520_a/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/stefanhamminga_sh_inductors_2520_a/working
-    oomp_src_folder: footprints_folder/footprints_folder/StefanHamminga/SH_Inductors/2520_A/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/StefanHamminga/SH_Inductors/2520_A/working
   name: SH_Inductors.pretty
+  oomp:
+    footprint_name: 2520_a
+    library_name: sh_inductors
+    md5: c6a849cb7926fb183b287f481313e975
+    md5_10: c6a849cb79
+    md5_5: c6a84
+    md5_6: c6a849
+    oomp_key: oomp_stefanhamminga_sh_inductors_2520_a
+    oomp_key_extra: oomp_footprint_stefanhamminga_sh_inductors_2520_a
+    oomp_key_full: oomp_footprint_stefanhamminga_sh_inductors_2520_a_c6a849
+    oomp_key_simple: stefanhamminga_sh_inductors_2520_a
+    original_filename: SH_Inductors.pretty/2520_A.kicad_mod
+    owner_name: stefanhamminga
   oomp_key: oomp_stefanhamminga_sh_inductors_2520_a
+  oomp_key_full: oomp_footprint_stefanhamminga_sh_inductors_2520_a
   oomp_key_simple: stefanhamminga_sh_inductors_2520_a
   owner: StefanHamminga
   repo:

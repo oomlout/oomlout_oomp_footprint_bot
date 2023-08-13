@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/recursinging_krachmacher_pinsocket39/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/recursinging_krachmacher_pinsocket39/working
-    oomp_doc: footprints/footprints/recursinging/krachmacher/PinSocket39/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/recursinging/krachmacher/PinSocket39/working
     oomp_src_flat: footprints_flat/footprints_flat/recursinging_krachmacher_pinsocket39/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/recursinging_krachmacher_pinsocket39/working
-    oomp_src_folder: footprints_folder/footprints_folder/recursinging/krachmacher/PinSocket39/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/recursinging/krachmacher/PinSocket39/working
   name: kxmx
+  oomp:
+    footprint_name: pinsocket39
+    library_name: krachmacher
+    md5: 6e33076d9ff919960749f306d915729e
+    md5_10: 6e33076d9f
+    md5_5: 6e330
+    md5_6: 6e3307
+    oomp_key: oomp_recursinging_krachmacher_pinsocket39
+    oomp_key_extra: oomp_footprint_recursinging_krachmacher_pinsocket39
+    oomp_key_full: oomp_footprint_recursinging_krachmacher_pinsocket39_6e3307
+    oomp_key_simple: recursinging_krachmacher_pinsocket39
+    original_filename: kxmx/kxmx_erack/kicad/kicad/libraries/krachmacher.pretty/PinSocket39.kicad_mod
+    owner_name: recursinging
   oomp_key: oomp_recursinging_krachmacher_pinsocket39
+  oomp_key_full: oomp_footprint_recursinging_krachmacher_pinsocket39
   oomp_key_simple: recursinging_krachmacher_pinsocket39
   owner: recursinging
   repo:

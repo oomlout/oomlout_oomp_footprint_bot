@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/chriswags_freetronics_footprints_axial_0_3/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/chriswags_freetronics_footprints_axial_0_3/working
-    oomp_doc: footprints/footprints/chriswags/freetronics_footprints/AXIAL-0.3/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/chriswags/freetronics_footprints/AXIAL-0.3/working
     oomp_src_flat: footprints_flat/footprints_flat/chriswags_freetronics_footprints_axial_0_3/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/chriswags_freetronics_footprints_axial_0_3/working
-    oomp_src_folder: footprints_folder/footprints_folder/chriswags/freetronics_footprints/AXIAL-0.3/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/chriswags/freetronics_footprints/AXIAL-0.3/working
   name: KiCad
+  oomp:
+    footprint_name: axial_0_3
+    library_name: freetronics_footprints
+    md5: ecbcabe269d19bbbdf42e48d8e22b94b
+    md5_10: ecbcabe269
+    md5_5: ecbca
+    md5_6: ecbcab
+    oomp_key: oomp_chriswags_freetronics_footprints_axial_0_3
+    oomp_key_extra: oomp_footprint_chriswags_freetronics_footprints_axial_0_3
+    oomp_key_full: oomp_footprint_chriswags_freetronics_footprints_axial_0_3_ecbcab
+    oomp_key_simple: chriswags_freetronics_footprints_axial_0_3
+    original_filename: KiCad/mods/freetronics_footprints.pretty/AXIAL-0.3.kicad_mod
+    owner_name: chriswags
   oomp_key: oomp_chriswags_freetronics_footprints_axial_0_3
+  oomp_key_full: oomp_footprint_chriswags_freetronics_footprints_axial_0_3
   oomp_key_simple: chriswags_freetronics_footprints_axial_0_3
   owner: chriswags
   repo:

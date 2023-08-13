@@ -12,17 +12,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_oscillator_oscillator_smd_euroquartz_xo91_4pin_7_0x5_0mm_handsoldering/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_oscillator_oscillator_smd_euroquartz_xo91_4pin_7_0x5_0mm_handsoldering/working
-    oomp_doc: footprints/footprints/kicad/Oscillator/Oscillator_SMD_EuroQuartz_XO91-4Pin_7.0x5.0mm_HandSoldering/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Oscillator/Oscillator_SMD_EuroQuartz_XO91-4Pin_7.0x5.0mm_HandSoldering/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_oscillator_oscillator_smd_euroquartz_xo91_4pin_7_0x5_0mm_handsoldering/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_oscillator_oscillator_smd_euroquartz_xo91_4pin_7_0x5_0mm_handsoldering/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Oscillator/Oscillator_SMD_EuroQuartz_XO91-4Pin_7.0x5.0mm_HandSoldering/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Oscillator/Oscillator_SMD_EuroQuartz_XO91-4Pin_7.0x5.0mm_HandSoldering/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: oscillator_smd_euroquartz_xo91_4pin_7_0x5_0mm_handsoldering
+    library_name: oscillator
+    md5: ba2a43e73c3bec20e8e5c1329f13e013
+    md5_10: ba2a43e73c
+    md5_5: ba2a4
+    md5_6: ba2a43
+    oomp_key: oomp_kicad_oscillator_oscillator_smd_euroquartz_xo91_4pin_7_0x5_0mm_handsoldering
+    oomp_key_extra: oomp_footprint_kicad_oscillator_oscillator_smd_euroquartz_xo91_4pin_7_0x5_0mm_handsoldering
+    oomp_key_full: oomp_footprint_kicad_oscillator_oscillator_smd_euroquartz_xo91_4pin_7_0x5_0mm_handsoldering_ba2a43
+    oomp_key_simple: kicad_oscillator_oscillator_smd_euroquartz_xo91_4pin_7_0x5_0mm_handsoldering
+    original_filename: libraries/kicad-footprints/Oscillator.pretty/Oscillator_SMD_EuroQuartz_XO91-4Pin_7.0x5.0mm_HandSoldering.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_oscillator_oscillator_smd_euroquartz_xo91_4pin_7_0x5_0mm_handsoldering
+  oomp_key_full: oomp_footprint_kicad_oscillator_oscillator_smd_euroquartz_xo91_4pin_7_0x5_0mm_handsoldering
   oomp_key_simple: kicad_oscillator_oscillator_smd_euroquartz_xo91_4pin_7_0x5_0mm_handsoldering
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

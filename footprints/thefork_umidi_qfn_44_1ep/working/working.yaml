@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/thefork_umidi_qfn_44_1ep/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/thefork_umidi_qfn_44_1ep/working
-    oomp_doc: footprints/footprints/theFork/uMIDI/QFN-44-1EP/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/theFork/uMIDI/QFN-44-1EP/working
     oomp_src_flat: footprints_flat/footprints_flat/thefork_umidi_qfn_44_1ep/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/thefork_umidi_qfn_44_1ep/working
-    oomp_src_folder: footprints_folder/footprints_folder/theFork/uMIDI/QFN-44-1EP/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/theFork/uMIDI/QFN-44-1EP/working
   name: uMIDI.pretty
+  oomp:
+    footprint_name: qfn_44_1ep
+    library_name: umidi
+    md5: 10e90c9d3de09623e953836818a7befb
+    md5_10: 10e90c9d3d
+    md5_5: 10e90
+    md5_6: 10e90c
+    oomp_key: oomp_thefork_umidi_qfn_44_1ep
+    oomp_key_extra: oomp_footprint_thefork_umidi_qfn_44_1ep
+    oomp_key_full: oomp_footprint_thefork_umidi_qfn_44_1ep_10e90c
+    oomp_key_simple: thefork_umidi_qfn_44_1ep
+    original_filename: uMIDI.pretty/QFN-44-1EP.kicad_mod
+    owner_name: thefork
   oomp_key: oomp_thefork_umidi_qfn_44_1ep
+  oomp_key_full: oomp_footprint_thefork_umidi_qfn_44_1ep
   oomp_key_simple: thefork_umidi_qfn_44_1ep
   owner: theFork
   repo:

@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/AcheronProject/acheron_Components.pretty
     oomp_bot: footprints/acheronproject_acheron_components_hh_smd6028rgbc_ca_reverse_mounted_6028_2_8x3_5mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/acheronproject_acheron_components_hh_smd6028rgbc_ca_reverse_mounted_6028_2_8x3_5mm/working
-    oomp_doc: footprints/footprints/AcheronProject/acheron_Components/HH-SMD6028RGBC-CA_reverse_mounted_6028_2.8x3.5mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/AcheronProject/acheron_Components/HH-SMD6028RGBC-CA_reverse_mounted_6028_2.8x3.5mm/working
     oomp_src_flat: footprints_flat/footprints_flat/acheronproject_acheron_components_hh_smd6028rgbc_ca_reverse_mounted_6028_2_8x3_5mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/acheronproject_acheron_components_hh_smd6028rgbc_ca_reverse_mounted_6028_2_8x3_5mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/AcheronProject/acheron_Components/HH-SMD6028RGBC-CA_reverse_mounted_6028_2.8x3.5mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/AcheronProject/acheron_Components/HH-SMD6028RGBC-CA_reverse_mounted_6028_2.8x3.5mm/working
   name: acheron_Components.pretty
+  oomp:
+    footprint_name: hh_smd6028rgbc_ca_reverse_mounted_6028_2_8x3_5mm
+    library_name: acheron_components
+    md5: 6468a5ae2c689dfc5390bfa0266416cd
+    md5_10: 6468a5ae2c
+    md5_5: 6468a
+    md5_6: 6468a5
+    oomp_key: oomp_acheronproject_acheron_components_hh_smd6028rgbc_ca_reverse_mounted_6028_2_8x3_5mm
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_components_hh_smd6028rgbc_ca_reverse_mounted_6028_2_8x3_5mm
+    oomp_key_full: oomp_footprint_acheronproject_acheron_components_hh_smd6028rgbc_ca_reverse_mounted_6028_2_8x3_5mm_6468a5
+    oomp_key_simple: acheronproject_acheron_components_hh_smd6028rgbc_ca_reverse_mounted_6028_2_8x3_5mm
+    original_filename: acheron_Components.pretty/HH-SMD6028RGBC-CA_reverse_mounted_6028_2.8x3.5mm.kicad_mod
+    owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_components_hh_smd6028rgbc_ca_reverse_mounted_6028_2_8x3_5mm
+  oomp_key_full: oomp_footprint_acheronproject_acheron_components_hh_smd6028rgbc_ca_reverse_mounted_6028_2_8x3_5mm
   oomp_key_simple: acheronproject_acheron_components_hh_smd6028rgbc_ca_reverse_mounted_6028_2_8x3_5mm
   owner: AcheronProject
   repo:

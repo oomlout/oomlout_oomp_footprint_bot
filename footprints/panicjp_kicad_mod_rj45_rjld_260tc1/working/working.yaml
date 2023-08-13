@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/panicjp_kicad_mod_rj45_rjld_260tc1/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/panicjp_kicad_mod_rj45_rjld_260tc1/working
-    oomp_doc: footprints/footprints/panicjp/KiCad_Mod/RJ45_RJLD_260TC1/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/panicjp/KiCad_Mod/RJ45_RJLD_260TC1/working
     oomp_src_flat: footprints_flat/footprints_flat/panicjp_kicad_mod_rj45_rjld_260tc1/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/panicjp_kicad_mod_rj45_rjld_260tc1/working
-    oomp_src_folder: footprints_folder/footprints_folder/panicjp/KiCad_Mod/RJ45_RJLD_260TC1/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/panicjp/KiCad_Mod/RJ45_RJLD_260TC1/working
   name: KiCad_Mod.pretty
+  oomp:
+    footprint_name: rj45_rjld_260tc1
+    library_name: kicad_mod
+    md5: 0be79d74da0aca634d65aa12fb7dfac7
+    md5_10: 0be79d74da
+    md5_5: 0be79
+    md5_6: 0be79d
+    oomp_key: oomp_panicjp_kicad_mod_rj45_rjld_260tc1
+    oomp_key_extra: oomp_footprint_panicjp_kicad_mod_rj45_rjld_260tc1
+    oomp_key_full: oomp_footprint_panicjp_kicad_mod_rj45_rjld_260tc1_0be79d
+    oomp_key_simple: panicjp_kicad_mod_rj45_rjld_260tc1
+    original_filename: KiCad_Mod.pretty/RJ45_RJLD_260TC1.kicad_mod
+    owner_name: panicjp
   oomp_key: oomp_panicjp_kicad_mod_rj45_rjld_260tc1
+  oomp_key_full: oomp_footprint_panicjp_kicad_mod_rj45_rjld_260tc1
   oomp_key_simple: panicjp_kicad_mod_rj45_rjld_260tc1
   owner: panicjp
   repo:

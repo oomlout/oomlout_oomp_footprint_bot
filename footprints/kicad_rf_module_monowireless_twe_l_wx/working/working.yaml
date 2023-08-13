@@ -11,17 +11,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_rf_module_monowireless_twe_l_wx/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_rf_module_monowireless_twe_l_wx/working
-    oomp_doc: footprints/footprints/kicad/RF_Module/MonoWireless_TWE-L-WX/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/RF_Module/MonoWireless_TWE-L-WX/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_rf_module_monowireless_twe_l_wx/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_rf_module_monowireless_twe_l_wx/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/RF_Module/MonoWireless_TWE-L-WX/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/RF_Module/MonoWireless_TWE-L-WX/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: monowireless_twe_l_wx
+    library_name: rf_module
+    md5: 93b4ddd91cf7fb925b154b2cfa6ab3f2
+    md5_10: 93b4ddd91c
+    md5_5: 93b4d
+    md5_6: 93b4dd
+    oomp_key: oomp_kicad_rf_module_monowireless_twe_l_wx
+    oomp_key_extra: oomp_footprint_kicad_rf_module_monowireless_twe_l_wx
+    oomp_key_full: oomp_footprint_kicad_rf_module_monowireless_twe_l_wx_93b4dd
+    oomp_key_simple: kicad_rf_module_monowireless_twe_l_wx
+    original_filename: libraries/kicad-footprints/RF_Module.pretty/MonoWireless_TWE-L-WX.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_rf_module_monowireless_twe_l_wx
+  oomp_key_full: oomp_footprint_kicad_rf_module_monowireless_twe_l_wx
   oomp_key_simple: kicad_rf_module_monowireless_twe_l_wx
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

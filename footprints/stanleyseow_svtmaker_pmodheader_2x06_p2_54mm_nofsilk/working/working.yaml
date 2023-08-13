@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/stanleyseow_svtmaker_pmodheader_2x06_p2_54mm_nofsilk/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stanleyseow_svtmaker_pmodheader_2x06_p2_54mm_nofsilk/working
-    oomp_doc: footprints/footprints/stanleyseow/SVTmaker/PMODHeader_2x06_P2.54mm_NoFSilk/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/stanleyseow/SVTmaker/PMODHeader_2x06_P2.54mm_NoFSilk/working
     oomp_src_flat: footprints_flat/footprints_flat/stanleyseow_svtmaker_pmodheader_2x06_p2_54mm_nofsilk/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/stanleyseow_svtmaker_pmodheader_2x06_p2_54mm_nofsilk/working
-    oomp_src_folder: footprints_folder/footprints_folder/stanleyseow/SVTmaker/PMODHeader_2x06_P2.54mm_NoFSilk/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/stanleyseow/SVTmaker/PMODHeader_2x06_P2.54mm_NoFSilk/working
   name: SVTmaker.pretty
+  oomp:
+    footprint_name: pmodheader_2x06_p2_54mm_nofsilk
+    library_name: svtmaker
+    md5: ebbeaa58d7919664f27bf67e9cfc1c70
+    md5_10: ebbeaa58d7
+    md5_5: ebbea
+    md5_6: ebbeaa
+    oomp_key: oomp_stanleyseow_svtmaker_pmodheader_2x06_p2_54mm_nofsilk
+    oomp_key_extra: oomp_footprint_stanleyseow_svtmaker_pmodheader_2x06_p2_54mm_nofsilk
+    oomp_key_full: oomp_footprint_stanleyseow_svtmaker_pmodheader_2x06_p2_54mm_nofsilk_ebbeaa
+    oomp_key_simple: stanleyseow_svtmaker_pmodheader_2x06_p2_54mm_nofsilk
+    original_filename: SVTmaker.pretty/PMODHeader_2x06_P2.54mm_NoFSilk.kicad_mod
+    owner_name: stanleyseow
   oomp_key: oomp_stanleyseow_svtmaker_pmodheader_2x06_p2_54mm_nofsilk
+  oomp_key_full: oomp_footprint_stanleyseow_svtmaker_pmodheader_2x06_p2_54mm_nofsilk
   oomp_key_simple: stanleyseow_svtmaker_pmodheader_2x06_p2_54mm_nofsilk
   owner: stanleyseow
   repo:

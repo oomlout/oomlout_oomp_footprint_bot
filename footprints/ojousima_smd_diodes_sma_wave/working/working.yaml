@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/ojousima_smd_diodes_sma_wave/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ojousima_smd_diodes_sma_wave/working
-    oomp_doc: footprints/footprints/ojousima/SMD_Diodes/SMA_WAVE/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ojousima/SMD_Diodes/SMA_WAVE/working
     oomp_src_flat: footprints_flat/footprints_flat/ojousima_smd_diodes_sma_wave/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ojousima_smd_diodes_sma_wave/working
-    oomp_src_folder: footprints_folder/footprints_folder/ojousima/SMD_Diodes/SMA_WAVE/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ojousima/SMD_Diodes/SMA_WAVE/working
   name: SMD_Diodes.pretty
+  oomp:
+    footprint_name: sma_wave
+    library_name: smd_diodes
+    md5: 819d145dbcc878643bae228640acdcbb
+    md5_10: 819d145dbc
+    md5_5: 819d1
+    md5_6: 819d14
+    oomp_key: oomp_ojousima_smd_diodes_sma_wave
+    oomp_key_extra: oomp_footprint_ojousima_smd_diodes_sma_wave
+    oomp_key_full: oomp_footprint_ojousima_smd_diodes_sma_wave_819d14
+    oomp_key_simple: ojousima_smd_diodes_sma_wave
+    original_filename: SMD_Diodes.pretty/SMA_WAVE.kicad_mod
+    owner_name: ojousima
   oomp_key: oomp_ojousima_smd_diodes_sma_wave
+  oomp_key_full: oomp_footprint_ojousima_smd_diodes_sma_wave
   oomp_key_simple: ojousima_smd_diodes_sma_wave
   owner: ojousima
   repo:

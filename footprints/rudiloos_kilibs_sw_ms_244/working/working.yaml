@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/rudiloos_kilibs_sw_ms_244/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/rudiloos_kilibs_sw_ms_244/working
-    oomp_doc: footprints/footprints/rudiloos/kilibs/SW-MS-244/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/rudiloos/kilibs/SW-MS-244/working
     oomp_src_flat: footprints_flat/footprints_flat/rudiloos_kilibs_sw_ms_244/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/rudiloos_kilibs_sw_ms_244/working
-    oomp_src_folder: footprints_folder/footprints_folder/rudiloos/kilibs/SW-MS-244/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/rudiloos/kilibs/SW-MS-244/working
   name: kilibs.pretty
+  oomp:
+    footprint_name: sw_ms_244
+    library_name: kilibs
+    md5: 676b22c1849eee2c5490ee891a06f7c6
+    md5_10: 676b22c184
+    md5_5: 676b2
+    md5_6: 676b22
+    oomp_key: oomp_rudiloos_kilibs_sw_ms_244
+    oomp_key_extra: oomp_footprint_rudiloos_kilibs_sw_ms_244
+    oomp_key_full: oomp_footprint_rudiloos_kilibs_sw_ms_244_676b22
+    oomp_key_simple: rudiloos_kilibs_sw_ms_244
+    original_filename: kilibs.pretty/SW-MS-244.kicad_mod
+    owner_name: rudiloos
   oomp_key: oomp_rudiloos_kilibs_sw_ms_244
+  oomp_key_full: oomp_footprint_rudiloos_kilibs_sw_ms_244
   oomp_key_simple: rudiloos_kilibs_sw_ms_244
   owner: rudiloos
   repo:

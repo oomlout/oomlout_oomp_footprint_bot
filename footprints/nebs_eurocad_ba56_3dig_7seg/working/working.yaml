@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/nebs_eurocad_ba56_3dig_7seg/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nebs_eurocad_ba56_3dig_7seg/working
-    oomp_doc: footprints/footprints/nebs/Eurocad/BA56_3DIG_7SEG/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/nebs/Eurocad/BA56_3DIG_7SEG/working
     oomp_src_flat: footprints_flat/footprints_flat/nebs_eurocad_ba56_3dig_7seg/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nebs_eurocad_ba56_3dig_7seg/working
-    oomp_src_folder: footprints_folder/footprints_folder/nebs/Eurocad/BA56_3DIG_7SEG/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/nebs/Eurocad/BA56_3DIG_7SEG/working
   name: eurocad
+  oomp:
+    footprint_name: ba56_3dig_7seg
+    library_name: eurocad
+    md5: 1bb7abaa782cfd84e1f9501d5c7f8acd
+    md5_10: 1bb7abaa78
+    md5_5: 1bb7a
+    md5_6: 1bb7ab
+    oomp_key: oomp_nebs_eurocad_ba56_3dig_7seg
+    oomp_key_extra: oomp_footprint_nebs_eurocad_ba56_3dig_7seg
+    oomp_key_full: oomp_footprint_nebs_eurocad_ba56_3dig_7seg_1bb7ab
+    oomp_key_simple: nebs_eurocad_ba56_3dig_7seg
+    original_filename: eurocad/Eurocad.pretty/BA56_3DIG_7SEG.kicad_mod
+    owner_name: nebs
   oomp_key: oomp_nebs_eurocad_ba56_3dig_7seg
+  oomp_key_full: oomp_footprint_nebs_eurocad_ba56_3dig_7seg
   oomp_key_simple: nebs_eurocad_ba56_3dig_7seg
   owner: nebs
   repo:

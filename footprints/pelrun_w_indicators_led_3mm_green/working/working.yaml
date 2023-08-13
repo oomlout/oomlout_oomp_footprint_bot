@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pelrun_w_indicators_led_3mm_green/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pelrun_w_indicators_led_3mm_green/working
-    oomp_doc: footprints/footprints/pelrun/w_indicators/led_3mm_green/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/pelrun/w_indicators/led_3mm_green/working
     oomp_src_flat: footprints_flat/footprints_flat/pelrun_w_indicators_led_3mm_green/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pelrun_w_indicators_led_3mm_green/working
-    oomp_src_folder: footprints_folder/footprints_folder/pelrun/w_indicators/led_3mm_green/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/pelrun/w_indicators/led_3mm_green/working
   name: libKiCad
+  oomp:
+    footprint_name: led_3mm_green
+    library_name: w_indicators
+    md5: 8671886a336555e8af6bd3faeabd23c6
+    md5_10: 8671886a33
+    md5_5: '86718'
+    md5_6: '867188'
+    oomp_key: oomp_pelrun_w_indicators_led_3mm_green
+    oomp_key_extra: oomp_footprint_pelrun_w_indicators_led_3mm_green
+    oomp_key_full: oomp_footprint_pelrun_w_indicators_led_3mm_green_867188
+    oomp_key_simple: pelrun_w_indicators_led_3mm_green
+    original_filename: libKiCad/footprint/w_indicators.pretty/led_3mm_green.kicad_mod
+    owner_name: pelrun
   oomp_key: oomp_pelrun_w_indicators_led_3mm_green
+  oomp_key_full: oomp_footprint_pelrun_w_indicators_led_3mm_green
   oomp_key_simple: pelrun_w_indicators_led_3mm_green
   owner: pelrun
   repo:

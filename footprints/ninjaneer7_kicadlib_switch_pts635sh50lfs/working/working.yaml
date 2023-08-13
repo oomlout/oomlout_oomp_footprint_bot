@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/ninjaneer7_kicadlib_switch_pts635sh50lfs/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ninjaneer7_kicadlib_switch_pts635sh50lfs/working
-    oomp_doc: footprints/footprints/Ninjaneer7/KiCADLib/Switch_PTS635SH50LFS/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Ninjaneer7/KiCADLib/Switch_PTS635SH50LFS/working
     oomp_src_flat: footprints_flat/footprints_flat/ninjaneer7_kicadlib_switch_pts635sh50lfs/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ninjaneer7_kicadlib_switch_pts635sh50lfs/working
-    oomp_src_folder: footprints_folder/footprints_folder/Ninjaneer7/KiCADLib/Switch_PTS635SH50LFS/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Ninjaneer7/KiCADLib/Switch_PTS635SH50LFS/working
   name: KiCADLib.pretty
+  oomp:
+    footprint_name: switch_pts635sh50lfs
+    library_name: kicadlib
+    md5: 59e91369049ef17e6075f768a92ccb48
+    md5_10: 59e9136904
+    md5_5: 59e91
+    md5_6: 59e913
+    oomp_key: oomp_ninjaneer7_kicadlib_switch_pts635sh50lfs
+    oomp_key_extra: oomp_footprint_ninjaneer7_kicadlib_switch_pts635sh50lfs
+    oomp_key_full: oomp_footprint_ninjaneer7_kicadlib_switch_pts635sh50lfs_59e913
+    oomp_key_simple: ninjaneer7_kicadlib_switch_pts635sh50lfs
+    original_filename: KiCADLib.pretty/Switch_PTS635SH50LFS.kicad_mod
+    owner_name: ninjaneer7
   oomp_key: oomp_ninjaneer7_kicadlib_switch_pts635sh50lfs
+  oomp_key_full: oomp_footprint_ninjaneer7_kicadlib_switch_pts635sh50lfs
   oomp_key_simple: ninjaneer7_kicadlib_switch_pts635sh50lfs
   owner: Ninjaneer7
   repo:

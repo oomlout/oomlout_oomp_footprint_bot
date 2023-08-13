@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/dchwebb_custom_footprints_jlc_smt_tooling_hole/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/dchwebb_custom_footprints_jlc_smt_tooling_hole/working
-    oomp_doc: footprints/footprints/dchwebb/Custom_Footprints/JLC_SMT_Tooling_Hole/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/dchwebb/Custom_Footprints/JLC_SMT_Tooling_Hole/working
     oomp_src_flat: footprints_flat/footprints_flat/dchwebb_custom_footprints_jlc_smt_tooling_hole/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/dchwebb_custom_footprints_jlc_smt_tooling_hole/working
-    oomp_src_folder: footprints_folder/footprints_folder/dchwebb/Custom_Footprints/JLC_SMT_Tooling_Hole/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/dchwebb/Custom_Footprints/JLC_SMT_Tooling_Hole/working
   name: Custom_Footprints.pretty
+  oomp:
+    footprint_name: jlc_smt_tooling_hole
+    library_name: custom_footprints
+    md5: 7a3748737923a201fa3668460cca6e75
+    md5_10: 7a37487379
+    md5_5: 7a374
+    md5_6: 7a3748
+    oomp_key: oomp_dchwebb_custom_footprints_jlc_smt_tooling_hole
+    oomp_key_extra: oomp_footprint_dchwebb_custom_footprints_jlc_smt_tooling_hole
+    oomp_key_full: oomp_footprint_dchwebb_custom_footprints_jlc_smt_tooling_hole_7a3748
+    oomp_key_simple: dchwebb_custom_footprints_jlc_smt_tooling_hole
+    original_filename: Custom_Footprints.pretty/JLC_SMT_Tooling_Hole.kicad_mod
+    owner_name: dchwebb
   oomp_key: oomp_dchwebb_custom_footprints_jlc_smt_tooling_hole
+  oomp_key_full: oomp_footprint_dchwebb_custom_footprints_jlc_smt_tooling_hole
   oomp_key_simple: dchwebb_custom_footprints_jlc_smt_tooling_hole
   owner: dchwebb
   repo:

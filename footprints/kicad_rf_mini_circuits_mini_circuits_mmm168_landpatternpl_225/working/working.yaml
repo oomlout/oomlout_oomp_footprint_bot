@@ -13,17 +13,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_rf_mini_circuits_mini_circuits_mmm168_landpatternpl_225/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_rf_mini_circuits_mini_circuits_mmm168_landpatternpl_225/working
-    oomp_doc: footprints/footprints/kicad/RF_Mini-Circuits/Mini-Circuits_MMM168_LandPatternPL-225/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/RF_Mini-Circuits/Mini-Circuits_MMM168_LandPatternPL-225/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_rf_mini_circuits_mini_circuits_mmm168_landpatternpl_225/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_rf_mini_circuits_mini_circuits_mmm168_landpatternpl_225/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/RF_Mini-Circuits/Mini-Circuits_MMM168_LandPatternPL-225/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/RF_Mini-Circuits/Mini-Circuits_MMM168_LandPatternPL-225/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: mini_circuits_mmm168_landpatternpl_225
+    library_name: rf_mini_circuits
+    md5: 07237b9c87cbfde0ece836714afc42e4
+    md5_10: 07237b9c87
+    md5_5: '07237'
+    md5_6: 07237b
+    oomp_key: oomp_kicad_rf_mini_circuits_mini_circuits_mmm168_landpatternpl_225
+    oomp_key_extra: oomp_footprint_kicad_rf_mini_circuits_mini_circuits_mmm168_landpatternpl_225
+    oomp_key_full: oomp_footprint_kicad_rf_mini_circuits_mini_circuits_mmm168_landpatternpl_225_07237b
+    oomp_key_simple: kicad_rf_mini_circuits_mini_circuits_mmm168_landpatternpl_225
+    original_filename: libraries/kicad-footprints/RF_Mini-Circuits.pretty/Mini-Circuits_MMM168_LandPatternPL-225.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_rf_mini_circuits_mini_circuits_mmm168_landpatternpl_225
+  oomp_key_full: oomp_footprint_kicad_rf_mini_circuits_mini_circuits_mmm168_landpatternpl_225
   oomp_key_simple: kicad_rf_mini_circuits_mini_circuits_mmm168_landpatternpl_225
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

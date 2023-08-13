@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/suf_kicad_suf_display_tjctm24028_spi/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/suf_kicad_suf_display_tjctm24028_spi/working
-    oomp_doc: footprints/footprints/suf-KiCAD/suf_display/TJCTM24028-SPI/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/suf-KiCAD/suf_display/TJCTM24028-SPI/working
     oomp_src_flat: footprints_flat/footprints_flat/suf_kicad_suf_display_tjctm24028_spi/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/suf_kicad_suf_display_tjctm24028_spi/working
-    oomp_src_folder: footprints_folder/footprints_folder/suf-KiCAD/suf_display/TJCTM24028-SPI/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/suf-KiCAD/suf_display/TJCTM24028-SPI/working
   name: suf_display.pretty
+  oomp:
+    footprint_name: tjctm24028_spi
+    library_name: suf_display
+    md5: 408e67b75f3ae3973f88b8b94ae29720
+    md5_10: 408e67b75f
+    md5_5: 408e6
+    md5_6: 408e67
+    oomp_key: oomp_suf_kicad_suf_display_tjctm24028_spi
+    oomp_key_extra: oomp_footprint_suf_kicad_suf_display_tjctm24028_spi
+    oomp_key_full: oomp_footprint_suf_kicad_suf_display_tjctm24028_spi_408e67
+    oomp_key_simple: suf_kicad_suf_display_tjctm24028_spi
+    original_filename: suf_display.pretty/TJCTM24028-SPI.kicad_mod
+    owner_name: suf_kicad
   oomp_key: oomp_suf_kicad_suf_display_tjctm24028_spi
+  oomp_key_full: oomp_footprint_suf_kicad_suf_display_tjctm24028_spi
   oomp_key_simple: suf_kicad_suf_display_tjctm24028_spi
   owner: suf-KiCAD
   repo:

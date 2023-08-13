@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/KUT-KiCad/KUT_Switch.pretty
     oomp_bot: footprints/kut_kicad_kut_switch_slideswitch_dip/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kut_kicad_kut_switch_slideswitch_dip/working
-    oomp_doc: footprints/footprints/KUT-KiCad/KUT_Switch/SlideSwitch_DIP/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/KUT-KiCad/KUT_Switch/SlideSwitch_DIP/working
     oomp_src_flat: footprints_flat/footprints_flat/kut_kicad_kut_switch_slideswitch_dip/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kut_kicad_kut_switch_slideswitch_dip/working
-    oomp_src_folder: footprints_folder/footprints_folder/KUT-KiCad/KUT_Switch/SlideSwitch_DIP/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/KUT-KiCad/KUT_Switch/SlideSwitch_DIP/working
   name: KUT_Switch.pretty
+  oomp:
+    footprint_name: slideswitch_dip
+    library_name: kut_switch
+    md5: 1e1e7adea22f3d7d477dfcc8c84c4f2b
+    md5_10: 1e1e7adea2
+    md5_5: 1e1e7
+    md5_6: 1e1e7a
+    oomp_key: oomp_kut_kicad_kut_switch_slideswitch_dip
+    oomp_key_extra: oomp_footprint_kut_kicad_kut_switch_slideswitch_dip
+    oomp_key_full: oomp_footprint_kut_kicad_kut_switch_slideswitch_dip_1e1e7a
+    oomp_key_simple: kut_kicad_kut_switch_slideswitch_dip
+    original_filename: KUT_Switch.pretty/SlideSwitch_DIP.kicad_mod
+    owner_name: kut_kicad
   oomp_key: oomp_kut_kicad_kut_switch_slideswitch_dip
+  oomp_key_full: oomp_footprint_kut_kicad_kut_switch_slideswitch_dip
   oomp_key_simple: kut_kicad_kut_switch_slideswitch_dip
   owner: KUT-KiCad
   repo:

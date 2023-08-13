@@ -1,24 +1,34 @@
-- file: SparkFun-KiCad-Libraries/Footprints/Silicon-Custom.pretty/LGA10-MILLABLE.kicad_mod
+- file: SparkFun-KiCad-Libraries/Pre_v7/Footprints/Silicon-Custom.pretty/LGA10-MILLABLE.kicad_mod
   footprint:
     description: 10-PIN LGA PACKAGE - 2.7 X 4.0MM, 0.6MM PITCH
     libraryLink: LGA10-MILLABLE
     number_of_pads: 11
   footprint_library_directory: footprint_library_owner/sparkfun_SparkFun-KiCad-Libraries
   footprint_library_directory_flat: footprints_flat/sparkfun_silicon_custom_lga10_millable/working
-  github_path: http://github.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Footprints/Silicon-Custom.pretty/LGA10-MILLABLE.kicad_mod
+  github_path: http://github.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Pre_v7/Footprints/Silicon-Custom.pretty/LGA10-MILLABLE.kicad_mod
   links:
-    github_src: http://gitlab.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Tools/SparkFun-Eagle-Libraries_Conversion/Export.pretty/DFN-6-3X3.kicad_mod
+    github_src: http://gitlab.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Pre_v7/Tools/SparkFun-Eagle-Libraries_Conversion/Export.pretty/DFN-6-3X3.kicad_mod
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/sparkfun_silicon_custom_lga10_millable/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/sparkfun_silicon_custom_lga10_millable/working
-    oomp_doc: footprints/footprints/sparkfun/Silicon-Custom/LGA10-MILLABLE/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/sparkfun/Silicon-Custom/LGA10-MILLABLE/working
     oomp_src_flat: footprints_flat/footprints_flat/sparkfun_silicon_custom_lga10_millable/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/sparkfun_silicon_custom_lga10_millable/working
-    oomp_src_folder: footprints_folder/footprints_folder/sparkfun/Silicon-Custom/LGA10-MILLABLE/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/sparkfun/Silicon-Custom/LGA10-MILLABLE/working
   name: SparkFun-KiCad-Libraries
+  oomp:
+    footprint_name: lga10_millable
+    library_name: silicon_custom
+    md5: 37d3fd4e24bf13bea228325aade12d47
+    md5_10: 37d3fd4e24
+    md5_5: 37d3f
+    md5_6: 37d3fd
+    oomp_key: oomp_sparkfun_silicon_custom_lga10_millable
+    oomp_key_extra: oomp_footprint_sparkfun_silicon_custom_lga10_millable
+    oomp_key_full: oomp_footprint_sparkfun_silicon_custom_lga10_millable_37d3fd
+    oomp_key_simple: sparkfun_silicon_custom_lga10_millable
+    original_filename: SparkFun-KiCad-Libraries/Pre_v7/Footprints/Silicon-Custom.pretty/LGA10-MILLABLE.kicad_mod
+    owner_name: sparkfun
   oomp_key: oomp_sparkfun_silicon_custom_lga10_millable
+  oomp_key_full: oomp_footprint_sparkfun_silicon_custom_lga10_millable
   oomp_key_simple: sparkfun_silicon_custom_lga10_millable
   owner: sparkfun
   repo:

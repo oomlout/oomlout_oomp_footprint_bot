@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/quinkennedy_chillpizza_little_bits_male/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/quinkennedy_chillpizza_little_bits_male/working
-    oomp_doc: footprints/footprints/quinkennedy/chillpizza/LITTLE_BITS_MALE/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/quinkennedy/chillpizza/LITTLE_BITS_MALE/working
     oomp_src_flat: footprints_flat/footprints_flat/quinkennedy_chillpizza_little_bits_male/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/quinkennedy_chillpizza_little_bits_male/working
-    oomp_src_folder: footprints_folder/footprints_folder/quinkennedy/chillpizza/LITTLE_BITS_MALE/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/quinkennedy/chillpizza/LITTLE_BITS_MALE/working
   name: chillpizza.pretty
+  oomp:
+    footprint_name: little_bits_male
+    library_name: chillpizza
+    md5: c11ebba98f79d761ebeb9eb7ceb5a972
+    md5_10: c11ebba98f
+    md5_5: c11eb
+    md5_6: c11ebb
+    oomp_key: oomp_quinkennedy_chillpizza_little_bits_male
+    oomp_key_extra: oomp_footprint_quinkennedy_chillpizza_little_bits_male
+    oomp_key_full: oomp_footprint_quinkennedy_chillpizza_little_bits_male_c11ebb
+    oomp_key_simple: quinkennedy_chillpizza_little_bits_male
+    original_filename: chillpizza.pretty/LITTLE_BITS_MALE.kicad_mod
+    owner_name: quinkennedy
   oomp_key: oomp_quinkennedy_chillpizza_little_bits_male
+  oomp_key_full: oomp_footprint_quinkennedy_chillpizza_little_bits_male
   oomp_key_simple: quinkennedy_chillpizza_little_bits_male
   owner: quinkennedy
   repo:

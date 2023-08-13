@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/KozueNakano/KiCADKozueLib.pretty
     oomp_bot: footprints/kozuenakano_kicadkozuelib_30r400umr/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kozuenakano_kicadkozuelib_30r400umr/working
-    oomp_doc: footprints/footprints/KozueNakano/KiCADKozueLib/30R400UMR/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/KozueNakano/KiCADKozueLib/30R400UMR/working
     oomp_src_flat: footprints_flat/footprints_flat/kozuenakano_kicadkozuelib_30r400umr/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kozuenakano_kicadkozuelib_30r400umr/working
-    oomp_src_folder: footprints_folder/footprints_folder/KozueNakano/KiCADKozueLib/30R400UMR/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/KozueNakano/KiCADKozueLib/30R400UMR/working
   name: KiCADKozueLib.pretty
+  oomp:
+    footprint_name: 30r400umr
+    library_name: kicadkozuelib
+    md5: 87c5692b320d0d34b8a32f401e43ba3c
+    md5_10: 87c5692b32
+    md5_5: 87c56
+    md5_6: 87c569
+    oomp_key: oomp_kozuenakano_kicadkozuelib_30r400umr
+    oomp_key_extra: oomp_footprint_kozuenakano_kicadkozuelib_30r400umr
+    oomp_key_full: oomp_footprint_kozuenakano_kicadkozuelib_30r400umr_87c569
+    oomp_key_simple: kozuenakano_kicadkozuelib_30r400umr
+    original_filename: KiCADKozueLib.pretty/30R400UMR.kicad_mod
+    owner_name: kozuenakano
   oomp_key: oomp_kozuenakano_kicadkozuelib_30r400umr
+  oomp_key_full: oomp_footprint_kozuenakano_kicadkozuelib_30r400umr
   oomp_key_simple: kozuenakano_kicadkozuelib_30r400umr
   owner: KozueNakano
   repo:

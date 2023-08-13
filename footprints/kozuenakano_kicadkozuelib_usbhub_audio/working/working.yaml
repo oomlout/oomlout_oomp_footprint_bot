@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/KozueNakano/KiCADKozueLib.pretty
     oomp_bot: footprints/kozuenakano_kicadkozuelib_usbhub_audio/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kozuenakano_kicadkozuelib_usbhub_audio/working
-    oomp_doc: footprints/footprints/KozueNakano/KiCADKozueLib/USBHUB+Audio/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/KozueNakano/KiCADKozueLib/USBHUB+Audio/working
     oomp_src_flat: footprints_flat/footprints_flat/kozuenakano_kicadkozuelib_usbhub_audio/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kozuenakano_kicadkozuelib_usbhub_audio/working
-    oomp_src_folder: footprints_folder/footprints_folder/KozueNakano/KiCADKozueLib/USBHUB+Audio/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/KozueNakano/KiCADKozueLib/USBHUB+Audio/working
   name: KiCADKozueLib.pretty
+  oomp:
+    footprint_name: usbhub_audio
+    library_name: kicadkozuelib
+    md5: b5fa3108c3af3a93c671e701b131b2c6
+    md5_10: b5fa3108c3
+    md5_5: b5fa3
+    md5_6: b5fa31
+    oomp_key: oomp_kozuenakano_kicadkozuelib_usbhub_audio
+    oomp_key_extra: oomp_footprint_kozuenakano_kicadkozuelib_usbhub_audio
+    oomp_key_full: oomp_footprint_kozuenakano_kicadkozuelib_usbhub_audio_b5fa31
+    oomp_key_simple: kozuenakano_kicadkozuelib_usbhub_audio
+    original_filename: KiCADKozueLib.pretty/USBHUB+Audio.kicad_mod
+    owner_name: kozuenakano
   oomp_key: oomp_kozuenakano_kicadkozuelib_usbhub_audio
+  oomp_key_full: oomp_footprint_kozuenakano_kicadkozuelib_usbhub_audio
   oomp_key_simple: kozuenakano_kicadkozuelib_usbhub_audio
   owner: KozueNakano
   repo:

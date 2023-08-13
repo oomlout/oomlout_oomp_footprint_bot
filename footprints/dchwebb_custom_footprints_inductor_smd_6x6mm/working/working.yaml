@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/dchwebb_custom_footprints_inductor_smd_6x6mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/dchwebb_custom_footprints_inductor_smd_6x6mm/working
-    oomp_doc: footprints/footprints/dchwebb/Custom_Footprints/Inductor_SMD_6x6mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/dchwebb/Custom_Footprints/Inductor_SMD_6x6mm/working
     oomp_src_flat: footprints_flat/footprints_flat/dchwebb_custom_footprints_inductor_smd_6x6mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/dchwebb_custom_footprints_inductor_smd_6x6mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/dchwebb/Custom_Footprints/Inductor_SMD_6x6mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/dchwebb/Custom_Footprints/Inductor_SMD_6x6mm/working
   name: Custom_Footprints.pretty
+  oomp:
+    footprint_name: inductor_smd_6x6mm
+    library_name: custom_footprints
+    md5: c9547f7ce7855414d7a6dbf77ff2e757
+    md5_10: c9547f7ce7
+    md5_5: c9547
+    md5_6: c9547f
+    oomp_key: oomp_dchwebb_custom_footprints_inductor_smd_6x6mm
+    oomp_key_extra: oomp_footprint_dchwebb_custom_footprints_inductor_smd_6x6mm
+    oomp_key_full: oomp_footprint_dchwebb_custom_footprints_inductor_smd_6x6mm_c9547f
+    oomp_key_simple: dchwebb_custom_footprints_inductor_smd_6x6mm
+    original_filename: Custom_Footprints.pretty/Inductor_SMD_6x6mm.kicad_mod
+    owner_name: dchwebb
   oomp_key: oomp_dchwebb_custom_footprints_inductor_smd_6x6mm
+  oomp_key_full: oomp_footprint_dchwebb_custom_footprints_inductor_smd_6x6mm
   oomp_key_simple: dchwebb_custom_footprints_inductor_smd_6x6mm
   owner: dchwebb
   repo:

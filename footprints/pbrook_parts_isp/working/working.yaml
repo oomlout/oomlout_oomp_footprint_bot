@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pbrook_parts_isp/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pbrook_parts_isp/working
-    oomp_doc: footprints/footprints/pbrook/Parts/isp/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/pbrook/Parts/isp/working
     oomp_src_flat: footprints_flat/footprints_flat/pbrook_parts_isp/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pbrook_parts_isp/working
-    oomp_src_folder: footprints_folder/footprints_folder/pbrook/Parts/isp/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/pbrook/Parts/isp/working
   name: Parts.pretty
+  oomp:
+    footprint_name: isp
+    library_name: parts
+    md5: a380d06ac85eeffa4a107ab949c5b7fc
+    md5_10: a380d06ac8
+    md5_5: a380d
+    md5_6: a380d0
+    oomp_key: oomp_pbrook_parts_isp
+    oomp_key_extra: oomp_footprint_pbrook_parts_isp
+    oomp_key_full: oomp_footprint_pbrook_parts_isp_a380d0
+    oomp_key_simple: pbrook_parts_isp
+    original_filename: Parts.pretty/isp.kicad_mod
+    owner_name: pbrook
   oomp_key: oomp_pbrook_parts_isp
+  oomp_key_full: oomp_footprint_pbrook_parts_isp
   oomp_key_simple: pbrook_parts_isp
   owner: pbrook
   repo:

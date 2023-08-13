@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/KozueNakano/KiCADKozueLib.pretty
     oomp_bot: footprints/kozuenakano_kicadkozuelib_led_3mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kozuenakano_kicadkozuelib_led_3mm/working
-    oomp_doc: footprints/footprints/KozueNakano/KiCADKozueLib/LED-3MM/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/KozueNakano/KiCADKozueLib/LED-3MM/working
     oomp_src_flat: footprints_flat/footprints_flat/kozuenakano_kicadkozuelib_led_3mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kozuenakano_kicadkozuelib_led_3mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/KozueNakano/KiCADKozueLib/LED-3MM/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/KozueNakano/KiCADKozueLib/LED-3MM/working
   name: KiCADKozueLib.pretty
+  oomp:
+    footprint_name: led_3mm
+    library_name: kicadkozuelib
+    md5: 6f411a3d6761e28e8714d36cf9e00609
+    md5_10: 6f411a3d67
+    md5_5: 6f411
+    md5_6: 6f411a
+    oomp_key: oomp_kozuenakano_kicadkozuelib_led_3mm
+    oomp_key_extra: oomp_footprint_kozuenakano_kicadkozuelib_led_3mm
+    oomp_key_full: oomp_footprint_kozuenakano_kicadkozuelib_led_3mm_6f411a
+    oomp_key_simple: kozuenakano_kicadkozuelib_led_3mm
+    original_filename: KiCADKozueLib.pretty/LED-3MM.kicad_mod
+    owner_name: kozuenakano
   oomp_key: oomp_kozuenakano_kicadkozuelib_led_3mm
+  oomp_key_full: oomp_footprint_kozuenakano_kicadkozuelib_led_3mm
   oomp_key_simple: kozuenakano_kicadkozuelib_led_3mm
   owner: KozueNakano
   repo:

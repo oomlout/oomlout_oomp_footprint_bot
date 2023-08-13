@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/4ms/4ms-kicad-lib
     oomp_bot: footprints/4ms_4ms_faceplate_faceplate_hole_jack_3_5mm_copper8mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/4ms_4ms_faceplate_faceplate_hole_jack_3_5mm_copper8mm/working
-    oomp_doc: footprints/footprints/4ms/4ms_Faceplate/Faceplate_Hole_Jack_3.5mm_Copper8mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/4ms/4ms_Faceplate/Faceplate_Hole_Jack_3.5mm_Copper8mm/working
     oomp_src_flat: footprints_flat/footprints_flat/4ms_4ms_faceplate_faceplate_hole_jack_3_5mm_copper8mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/4ms_4ms_faceplate_faceplate_hole_jack_3_5mm_copper8mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/4ms/4ms_Faceplate/Faceplate_Hole_Jack_3.5mm_Copper8mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/4ms/4ms_Faceplate/Faceplate_Hole_Jack_3.5mm_Copper8mm/working
   name: 4ms-kicad-lib
+  oomp:
+    footprint_name: faceplate_hole_jack_3_5mm_copper8mm
+    library_name: 4ms_faceplate
+    md5: 08291a27551647806a86879ebc05247d
+    md5_10: 08291a2755
+    md5_5: 08291
+    md5_6: 08291a
+    oomp_key: oomp_4ms_4ms_faceplate_faceplate_hole_jack_3_5mm_copper8mm
+    oomp_key_extra: oomp_footprint_4ms_4ms_faceplate_faceplate_hole_jack_3_5mm_copper8mm
+    oomp_key_full: oomp_footprint_4ms_4ms_faceplate_faceplate_hole_jack_3_5mm_copper8mm_08291a
+    oomp_key_simple: 4ms_4ms_faceplate_faceplate_hole_jack_3_5mm_copper8mm
+    original_filename: 4ms-kicad-lib/footprints/4ms_Faceplate.pretty/Faceplate_Hole_Jack_3.5mm_Copper8mm.kicad_mod
+    owner_name: 4ms
   oomp_key: oomp_4ms_4ms_faceplate_faceplate_hole_jack_3_5mm_copper8mm
+  oomp_key_full: oomp_footprint_4ms_4ms_faceplate_faceplate_hole_jack_3_5mm_copper8mm
   oomp_key_simple: 4ms_4ms_faceplate_faceplate_hole_jack_3_5mm_copper8mm
   owner: 4ms
   repo:
@@ -126,9 +136,9 @@
       url: https://api.github.com/users/4ms
     private: false
     pulls_url: https://api.github.com/repos/4ms/4ms-kicad-lib/pulls{/number}
-    pushed_at: '2023-08-07T23:22:22Z'
+    pushed_at: '2023-08-11T23:48:49Z'
     releases_url: https://api.github.com/repos/4ms/4ms-kicad-lib/releases{/id}
-    size: 22693
+    size: 22703
     ssh_url: git@github.com:4ms/4ms-kicad-lib.git
     stargazers_count: 54
     stargazers_url: https://api.github.com/repos/4ms/4ms-kicad-lib/stargazers

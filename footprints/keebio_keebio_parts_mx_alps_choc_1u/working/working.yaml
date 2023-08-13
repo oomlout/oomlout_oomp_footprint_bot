@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/keebio_keebio_parts_mx_alps_choc_1u/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/keebio_keebio_parts_mx_alps_choc_1u/working
-    oomp_doc: footprints/footprints/keebio/Keebio-Parts/MX-Alps-Choc-1U/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/keebio/Keebio-Parts/MX-Alps-Choc-1U/working
     oomp_src_flat: footprints_flat/footprints_flat/keebio_keebio_parts_mx_alps_choc_1u/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/keebio_keebio_parts_mx_alps_choc_1u/working
-    oomp_src_folder: footprints_folder/footprints_folder/keebio/Keebio-Parts/MX-Alps-Choc-1U/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/keebio/Keebio-Parts/MX-Alps-Choc-1U/working
   name: Keebio-Parts.pretty
+  oomp:
+    footprint_name: mx_alps_choc_1u
+    library_name: keebio_parts
+    md5: 88f6954db63e7a6f9fbde1c4fc6fc6ae
+    md5_10: 88f6954db6
+    md5_5: 88f69
+    md5_6: 88f695
+    oomp_key: oomp_keebio_keebio_parts_mx_alps_choc_1u
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_mx_alps_choc_1u
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_mx_alps_choc_1u_88f695
+    oomp_key_simple: keebio_keebio_parts_mx_alps_choc_1u
+    original_filename: Keebio-Parts.pretty/MX-Alps-Choc-1U.kicad_mod
+    owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_mx_alps_choc_1u
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_mx_alps_choc_1u
   oomp_key_simple: keebio_keebio_parts_mx_alps_choc_1u
   owner: keebio
   repo:

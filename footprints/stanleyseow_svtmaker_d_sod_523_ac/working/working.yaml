@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/stanleyseow_svtmaker_d_sod_523_ac/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stanleyseow_svtmaker_d_sod_523_ac/working
-    oomp_doc: footprints/footprints/stanleyseow/SVTmaker/D_SOD-523-AC/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/stanleyseow/SVTmaker/D_SOD-523-AC/working
     oomp_src_flat: footprints_flat/footprints_flat/stanleyseow_svtmaker_d_sod_523_ac/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/stanleyseow_svtmaker_d_sod_523_ac/working
-    oomp_src_folder: footprints_folder/footprints_folder/stanleyseow/SVTmaker/D_SOD-523-AC/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/stanleyseow/SVTmaker/D_SOD-523-AC/working
   name: SVTmaker.pretty
+  oomp:
+    footprint_name: d_sod_523_ac
+    library_name: svtmaker
+    md5: c9f0c54349afd3176bd7f4e01fab4fa9
+    md5_10: c9f0c54349
+    md5_5: c9f0c
+    md5_6: c9f0c5
+    oomp_key: oomp_stanleyseow_svtmaker_d_sod_523_ac
+    oomp_key_extra: oomp_footprint_stanleyseow_svtmaker_d_sod_523_ac
+    oomp_key_full: oomp_footprint_stanleyseow_svtmaker_d_sod_523_ac_c9f0c5
+    oomp_key_simple: stanleyseow_svtmaker_d_sod_523_ac
+    original_filename: SVTmaker.pretty/D_SOD-523-AC.kicad_mod
+    owner_name: stanleyseow
   oomp_key: oomp_stanleyseow_svtmaker_d_sod_523_ac
+  oomp_key_full: oomp_footprint_stanleyseow_svtmaker_d_sod_523_ac
   oomp_key_simple: stanleyseow_svtmaker_d_sod_523_ac
   owner: stanleyseow
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/jonasnorling_footprints_35rasmt2bhntrx/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/jonasnorling_footprints_35rasmt2bhntrx/working
-    oomp_doc: footprints/footprints/JonasNorling/Footprints/35RASMT2BHNTRX/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/JonasNorling/Footprints/35RASMT2BHNTRX/working
     oomp_src_flat: footprints_flat/footprints_flat/jonasnorling_footprints_35rasmt2bhntrx/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/jonasnorling_footprints_35rasmt2bhntrx/working
-    oomp_src_folder: footprints_folder/footprints_folder/JonasNorling/Footprints/35RASMT2BHNTRX/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/JonasNorling/Footprints/35RASMT2BHNTRX/working
   name: Footprints.pretty
+  oomp:
+    footprint_name: 35rasmt2bhntrx
+    library_name: footprints
+    md5: fd575ef29419a038f0f0eaaa41cd645b
+    md5_10: fd575ef294
+    md5_5: fd575
+    md5_6: fd575e
+    oomp_key: oomp_jonasnorling_footprints_35rasmt2bhntrx
+    oomp_key_extra: oomp_footprint_jonasnorling_footprints_35rasmt2bhntrx
+    oomp_key_full: oomp_footprint_jonasnorling_footprints_35rasmt2bhntrx_fd575e
+    oomp_key_simple: jonasnorling_footprints_35rasmt2bhntrx
+    original_filename: Footprints.pretty/35RASMT2BHNTRX.kicad_mod
+    owner_name: jonasnorling
   oomp_key: oomp_jonasnorling_footprints_35rasmt2bhntrx
+  oomp_key_full: oomp_footprint_jonasnorling_footprints_35rasmt2bhntrx
   oomp_key_simple: jonasnorling_footprints_35rasmt2bhntrx
   owner: JonasNorling
   repo:

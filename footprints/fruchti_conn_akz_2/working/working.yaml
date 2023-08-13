@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/fruchti_conn_akz_2/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/fruchti_conn_akz_2/working
-    oomp_doc: footprints/footprints/fruchti/conn/AKZ-2/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/fruchti/conn/AKZ-2/working
     oomp_src_flat: footprints_flat/footprints_flat/fruchti_conn_akz_2/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/fruchti_conn_akz_2/working
-    oomp_src_folder: footprints_folder/footprints_folder/fruchti/conn/AKZ-2/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/fruchti/conn/AKZ-2/working
   name: fruchtilib
+  oomp:
+    footprint_name: akz_2
+    library_name: conn
+    md5: 0d1a4eb4ee379003c157a64c6d8367ac
+    md5_10: 0d1a4eb4ee
+    md5_5: 0d1a4
+    md5_6: 0d1a4e
+    oomp_key: oomp_fruchti_conn_akz_2
+    oomp_key_extra: oomp_footprint_fruchti_conn_akz_2
+    oomp_key_full: oomp_footprint_fruchti_conn_akz_2_0d1a4e
+    oomp_key_simple: fruchti_conn_akz_2
+    original_filename: fruchtilib/mod/conn.pretty/AKZ-2.kicad_mod
+    owner_name: fruchti
   oomp_key: oomp_fruchti_conn_akz_2
+  oomp_key_full: oomp_footprint_fruchti_conn_akz_2
   oomp_key_simple: fruchti_conn_akz_2
   owner: fruchti
   repo:

@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/Iangitpers/4a
     oomp_bot: footprints/iangitpers_manuf_abracon_ab26trq/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/iangitpers_manuf_abracon_ab26trq/working
-    oomp_doc: footprints/footprints/Iangitpers/manuf/ABRACON_AB26TRQ/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Iangitpers/manuf/ABRACON_AB26TRQ/working
     oomp_src_flat: footprints_flat/footprints_flat/iangitpers_manuf_abracon_ab26trq/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/iangitpers_manuf_abracon_ab26trq/working
-    oomp_src_folder: footprints_folder/footprints_folder/Iangitpers/manuf/ABRACON_AB26TRQ/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Iangitpers/manuf/ABRACON_AB26TRQ/working
   name: 4a
+  oomp:
+    footprint_name: abracon_ab26trq
+    library_name: manuf
+    md5: c267294ccc44ab58d989668e27355e45
+    md5_10: c267294ccc
+    md5_5: c2672
+    md5_6: c26729
+    oomp_key: oomp_iangitpers_manuf_abracon_ab26trq
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_abracon_ab26trq
+    oomp_key_full: oomp_footprint_iangitpers_manuf_abracon_ab26trq_c26729
+    oomp_key_simple: iangitpers_manuf_abracon_ab26trq
+    original_filename: 4a/manuf.pretty/ABRACON_AB26TRQ.kicad_mod
+    owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_abracon_ab26trq
+  oomp_key_full: oomp_footprint_iangitpers_manuf_abracon_ab26trq
   oomp_key_simple: iangitpers_manuf_abracon_ab26trq
   owner: Iangitpers
   repo:

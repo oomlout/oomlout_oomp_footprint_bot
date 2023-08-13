@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/johaa1993_kicad_dev_acs758_hall/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/johaa1993_kicad_dev_acs758_hall/working
-    oomp_doc: footprints/footprints/johaa1993/KiCad-Dev/ACS758-hall/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/johaa1993/KiCad-Dev/ACS758-hall/working
     oomp_src_flat: footprints_flat/footprints_flat/johaa1993_kicad_dev_acs758_hall/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/johaa1993_kicad_dev_acs758_hall/working
-    oomp_src_folder: footprints_folder/footprints_folder/johaa1993/KiCad-Dev/ACS758-hall/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/johaa1993/KiCad-Dev/ACS758-hall/working
   name: KiCad-Dev.pretty
+  oomp:
+    footprint_name: acs758_hall
+    library_name: kicad_dev
+    md5: 750914aa07ed938b99803d46a9d39bd4
+    md5_10: 750914aa07
+    md5_5: '75091'
+    md5_6: '750914'
+    oomp_key: oomp_johaa1993_kicad_dev_acs758_hall
+    oomp_key_extra: oomp_footprint_johaa1993_kicad_dev_acs758_hall
+    oomp_key_full: oomp_footprint_johaa1993_kicad_dev_acs758_hall_750914
+    oomp_key_simple: johaa1993_kicad_dev_acs758_hall
+    original_filename: KiCad-Dev.pretty/ACS758-hall.kicad_mod
+    owner_name: johaa1993
   oomp_key: oomp_johaa1993_kicad_dev_acs758_hall
+  oomp_key_full: oomp_footprint_johaa1993_kicad_dev_acs758_hall
   oomp_key_simple: johaa1993_kicad_dev_acs758_hall
   owner: johaa1993
   repo:

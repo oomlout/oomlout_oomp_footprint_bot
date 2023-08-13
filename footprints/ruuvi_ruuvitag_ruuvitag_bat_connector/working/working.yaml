@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/ruuvi_ruuvitag_ruuvitag_bat_connector/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ruuvi_ruuvitag_ruuvitag_bat_connector/working
-    oomp_doc: footprints/footprints/ruuvi/RuuviTag/RUUVITAG-BAT-CONNECTOR/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ruuvi/RuuviTag/RUUVITAG-BAT-CONNECTOR/working
     oomp_src_flat: footprints_flat/footprints_flat/ruuvi_ruuvitag_ruuvitag_bat_connector/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ruuvi_ruuvitag_ruuvitag_bat_connector/working
-    oomp_src_folder: footprints_folder/footprints_folder/ruuvi/RuuviTag/RUUVITAG-BAT-CONNECTOR/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ruuvi/RuuviTag/RUUVITAG-BAT-CONNECTOR/working
   name: kicad-library
+  oomp:
+    footprint_name: ruuvitag_bat_connector
+    library_name: ruuvitag
+    md5: 2fb7955ce005ac856a3e956f29895143
+    md5_10: 2fb7955ce0
+    md5_5: 2fb79
+    md5_6: 2fb795
+    oomp_key: oomp_ruuvi_ruuvitag_ruuvitag_bat_connector
+    oomp_key_extra: oomp_footprint_ruuvi_ruuvitag_ruuvitag_bat_connector
+    oomp_key_full: oomp_footprint_ruuvi_ruuvitag_ruuvitag_bat_connector_2fb795
+    oomp_key_simple: ruuvi_ruuvitag_ruuvitag_bat_connector
+    original_filename: kicad-library/RuuviTag.pretty/RUUVITAG-BAT-CONNECTOR.kicad_mod
+    owner_name: ruuvi
   oomp_key: oomp_ruuvi_ruuvitag_ruuvitag_bat_connector
+  oomp_key_full: oomp_footprint_ruuvi_ruuvitag_ruuvitag_bat_connector
   oomp_key_simple: ruuvi_ruuvitag_ruuvitag_bat_connector
   owner: ruuvi
   repo:

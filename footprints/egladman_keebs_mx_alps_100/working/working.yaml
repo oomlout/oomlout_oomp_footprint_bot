@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/egladman_keebs_mx_alps_100/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/egladman_keebs_mx_alps_100/working
-    oomp_doc: footprints/footprints/egladman/keebs/Mx_Alps_100/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/egladman/keebs/Mx_Alps_100/working
     oomp_src_flat: footprints_flat/footprints_flat/egladman_keebs_mx_alps_100/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/egladman_keebs_mx_alps_100/working
-    oomp_src_folder: footprints_folder/footprints_folder/egladman/keebs/Mx_Alps_100/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/egladman/keebs/Mx_Alps_100/working
   name: keebs.pretty
+  oomp:
+    footprint_name: mx_alps_100
+    library_name: keebs
+    md5: 5b081ee75faef6a2845d047b43b0c20c
+    md5_10: 5b081ee75f
+    md5_5: 5b081
+    md5_6: 5b081e
+    oomp_key: oomp_egladman_keebs_mx_alps_100
+    oomp_key_extra: oomp_footprint_egladman_keebs_mx_alps_100
+    oomp_key_full: oomp_footprint_egladman_keebs_mx_alps_100_5b081e
+    oomp_key_simple: egladman_keebs_mx_alps_100
+    original_filename: keebs.pretty/Mx_Alps_100.kicad_mod
+    owner_name: egladman
   oomp_key: oomp_egladman_keebs_mx_alps_100
+  oomp_key_full: oomp_footprint_egladman_keebs_mx_alps_100
   oomp_key_simple: egladman_keebs_mx_alps_100
   owner: egladman
   repo:

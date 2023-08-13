@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/Iangitpers/4a
     oomp_bot: footprints/iangitpers_manuf_testpoint_keystone_5018/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/iangitpers_manuf_testpoint_keystone_5018/working
-    oomp_doc: footprints/footprints/Iangitpers/manuf/TESTPOINT-KEYSTONE-5018/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Iangitpers/manuf/TESTPOINT-KEYSTONE-5018/working
     oomp_src_flat: footprints_flat/footprints_flat/iangitpers_manuf_testpoint_keystone_5018/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/iangitpers_manuf_testpoint_keystone_5018/working
-    oomp_src_folder: footprints_folder/footprints_folder/Iangitpers/manuf/TESTPOINT-KEYSTONE-5018/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Iangitpers/manuf/TESTPOINT-KEYSTONE-5018/working
   name: 4a
+  oomp:
+    footprint_name: testpoint_keystone_5018
+    library_name: manuf
+    md5: 0b25ac33622da70c4193969e718517a8
+    md5_10: 0b25ac3362
+    md5_5: 0b25a
+    md5_6: 0b25ac
+    oomp_key: oomp_iangitpers_manuf_testpoint_keystone_5018
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_testpoint_keystone_5018
+    oomp_key_full: oomp_footprint_iangitpers_manuf_testpoint_keystone_5018_0b25ac
+    oomp_key_simple: iangitpers_manuf_testpoint_keystone_5018
+    original_filename: 4a/manuf.pretty/TESTPOINT-KEYSTONE-5018.kicad_mod
+    owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_testpoint_keystone_5018
+  oomp_key_full: oomp_footprint_iangitpers_manuf_testpoint_keystone_5018
   oomp_key_simple: iangitpers_manuf_testpoint_keystone_5018
   owner: Iangitpers
   repo:

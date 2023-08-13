@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/chriswags_1w_grove_v0_1_ce_140/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/chriswags_1w_grove_v0_1_ce_140/working
-    oomp_doc: footprints/footprints/chriswags/1w-grove-v0.1/CE-140/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/chriswags/1w-grove-v0.1/CE-140/working
     oomp_src_flat: footprints_flat/footprints_flat/chriswags_1w_grove_v0_1_ce_140/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/chriswags_1w_grove_v0_1_ce_140/working
-    oomp_src_folder: footprints_folder/footprints_folder/chriswags/1w-grove-v0.1/CE-140/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/chriswags/1w-grove-v0.1/CE-140/working
   name: KiCad
+  oomp:
+    footprint_name: ce_140
+    library_name: 1w_grove_v0_1
+    md5: 8f8ef58c8d935715e3629b9104caa4ff
+    md5_10: 8f8ef58c8d
+    md5_5: 8f8ef
+    md5_6: 8f8ef5
+    oomp_key: oomp_chriswags_1w_grove_v0_1_ce_140
+    oomp_key_extra: oomp_footprint_chriswags_1w_grove_v0_1_ce_140
+    oomp_key_full: oomp_footprint_chriswags_1w_grove_v0_1_ce_140_8f8ef5
+    oomp_key_simple: chriswags_1w_grove_v0_1_ce_140
+    original_filename: KiCad/6.0/projects/1w-grove-v0.1/1w-grove-v0.1.pretty/CE-140.kicad_mod
+    owner_name: chriswags
   oomp_key: oomp_chriswags_1w_grove_v0_1_ce_140
+  oomp_key_full: oomp_footprint_chriswags_1w_grove_v0_1_ce_140
   oomp_key_simple: chriswags_1w_grove_v0_1_ce_140
   owner: chriswags
   repo:

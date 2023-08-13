@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/johslarsen_2_54mm_pin_headers_edge_1x03/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/johslarsen_2_54mm_pin_headers_edge_1x03/working
-    oomp_doc: footprints/footprints/johslarsen/2.54mm_Pin_Headers/Edge_1x03/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/johslarsen/2.54mm_Pin_Headers/Edge_1x03/working
     oomp_src_flat: footprints_flat/footprints_flat/johslarsen_2_54mm_pin_headers_edge_1x03/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/johslarsen_2_54mm_pin_headers_edge_1x03/working
-    oomp_src_folder: footprints_folder/footprints_folder/johslarsen/2.54mm_Pin_Headers/Edge_1x03/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/johslarsen/2.54mm_Pin_Headers/Edge_1x03/working
   name: 2.54mm_Pin_Headers.pretty
+  oomp:
+    footprint_name: edge_1x03
+    library_name: 2_54mm_pin_headers
+    md5: 63271778bea7ca9514a1aa654a26f5c4
+    md5_10: 63271778be
+    md5_5: '63271'
+    md5_6: '632717'
+    oomp_key: oomp_johslarsen_2_54mm_pin_headers_edge_1x03
+    oomp_key_extra: oomp_footprint_johslarsen_2_54mm_pin_headers_edge_1x03
+    oomp_key_full: oomp_footprint_johslarsen_2_54mm_pin_headers_edge_1x03_632717
+    oomp_key_simple: johslarsen_2_54mm_pin_headers_edge_1x03
+    original_filename: 2.54mm_Pin_Headers.pretty/Edge_1x03.kicad_mod
+    owner_name: johslarsen
   oomp_key: oomp_johslarsen_2_54mm_pin_headers_edge_1x03
+  oomp_key_full: oomp_footprint_johslarsen_2_54mm_pin_headers_edge_1x03
   oomp_key_simple: johslarsen_2_54mm_pin_headers_edge_1x03
   owner: johslarsen
   repo:

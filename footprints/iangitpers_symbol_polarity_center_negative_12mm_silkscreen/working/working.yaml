@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/Iangitpers/4a
     oomp_bot: footprints/iangitpers_symbol_polarity_center_negative_12mm_silkscreen/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/iangitpers_symbol_polarity_center_negative_12mm_silkscreen/working
-    oomp_doc: footprints/footprints/Iangitpers/Symbol/Polarity_Center_Negative_12mm_SilkScreen/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Iangitpers/Symbol/Polarity_Center_Negative_12mm_SilkScreen/working
     oomp_src_flat: footprints_flat/footprints_flat/iangitpers_symbol_polarity_center_negative_12mm_silkscreen/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/iangitpers_symbol_polarity_center_negative_12mm_silkscreen/working
-    oomp_src_folder: footprints_folder/footprints_folder/Iangitpers/Symbol/Polarity_Center_Negative_12mm_SilkScreen/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Iangitpers/Symbol/Polarity_Center_Negative_12mm_SilkScreen/working
   name: 4a
+  oomp:
+    footprint_name: polarity_center_negative_12mm_silkscreen
+    library_name: symbol
+    md5: f500e2fd2e3931ee6d780b6bbb8be31b
+    md5_10: f500e2fd2e
+    md5_5: f500e
+    md5_6: f500e2
+    oomp_key: oomp_iangitpers_symbol_polarity_center_negative_12mm_silkscreen
+    oomp_key_extra: oomp_footprint_iangitpers_symbol_polarity_center_negative_12mm_silkscreen
+    oomp_key_full: oomp_footprint_iangitpers_symbol_polarity_center_negative_12mm_silkscreen_f500e2
+    oomp_key_simple: iangitpers_symbol_polarity_center_negative_12mm_silkscreen
+    original_filename: 4a/Symbol.pretty/Polarity_Center_Negative_12mm_SilkScreen.kicad_mod
+    owner_name: iangitpers
   oomp_key: oomp_iangitpers_symbol_polarity_center_negative_12mm_silkscreen
+  oomp_key_full: oomp_footprint_iangitpers_symbol_polarity_center_negative_12mm_silkscreen
   oomp_key_simple: iangitpers_symbol_polarity_center_negative_12mm_silkscreen
   owner: Iangitpers
   repo:

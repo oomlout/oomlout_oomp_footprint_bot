@@ -12,17 +12,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_connector_dsub_dsub_15_hd_male_horizontal_p2_29x2_54mm_edgepinoffset9_40mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_connector_dsub_dsub_15_hd_male_horizontal_p2_29x2_54mm_edgepinoffset9_40mm/working
-    oomp_doc: footprints/footprints/kicad/Connector_Dsub/DSUB-15-HD_Male_Horizontal_P2.29x2.54mm_EdgePinOffset9.40mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Connector_Dsub/DSUB-15-HD_Male_Horizontal_P2.29x2.54mm_EdgePinOffset9.40mm/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_connector_dsub_dsub_15_hd_male_horizontal_p2_29x2_54mm_edgepinoffset9_40mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_connector_dsub_dsub_15_hd_male_horizontal_p2_29x2_54mm_edgepinoffset9_40mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Connector_Dsub/DSUB-15-HD_Male_Horizontal_P2.29x2.54mm_EdgePinOffset9.40mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Connector_Dsub/DSUB-15-HD_Male_Horizontal_P2.29x2.54mm_EdgePinOffset9.40mm/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: dsub_15_hd_male_horizontal_p2_29x2_54mm_edgepinoffset9_40mm
+    library_name: connector_dsub
+    md5: e4ff474c7bbc28639ca176a0f417a8ed
+    md5_10: e4ff474c7b
+    md5_5: e4ff4
+    md5_6: e4ff47
+    oomp_key: oomp_kicad_connector_dsub_dsub_15_hd_male_horizontal_p2_29x2_54mm_edgepinoffset9_40mm
+    oomp_key_extra: oomp_footprint_kicad_connector_dsub_dsub_15_hd_male_horizontal_p2_29x2_54mm_edgepinoffset9_40mm
+    oomp_key_full: oomp_footprint_kicad_connector_dsub_dsub_15_hd_male_horizontal_p2_29x2_54mm_edgepinoffset9_40mm_e4ff47
+    oomp_key_simple: kicad_connector_dsub_dsub_15_hd_male_horizontal_p2_29x2_54mm_edgepinoffset9_40mm
+    original_filename: libraries/kicad-footprints/Connector_Dsub.pretty/DSUB-15-HD_Male_Horizontal_P2.29x2.54mm_EdgePinOffset9.40mm.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_connector_dsub_dsub_15_hd_male_horizontal_p2_29x2_54mm_edgepinoffset9_40mm
+  oomp_key_full: oomp_footprint_kicad_connector_dsub_dsub_15_hd_male_horizontal_p2_29x2_54mm_edgepinoffset9_40mm
   oomp_key_simple: kicad_connector_dsub_dsub_15_hd_male_horizontal_p2_29x2_54mm_edgepinoffset9_40mm
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

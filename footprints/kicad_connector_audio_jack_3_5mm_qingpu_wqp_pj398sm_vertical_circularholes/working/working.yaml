@@ -11,17 +11,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_connector_audio_jack_3_5mm_qingpu_wqp_pj398sm_vertical_circularholes/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_connector_audio_jack_3_5mm_qingpu_wqp_pj398sm_vertical_circularholes/working
-    oomp_doc: footprints/footprints/kicad/Connector_Audio/Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Connector_Audio/Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_connector_audio_jack_3_5mm_qingpu_wqp_pj398sm_vertical_circularholes/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_connector_audio_jack_3_5mm_qingpu_wqp_pj398sm_vertical_circularholes/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Connector_Audio/Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Connector_Audio/Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: jack_3_5mm_qingpu_wqp_pj398sm_vertical_circularholes
+    library_name: connector_audio
+    md5: ed737d7b44fa1eba050031a5452dd4f1
+    md5_10: ed737d7b44
+    md5_5: ed737
+    md5_6: ed737d
+    oomp_key: oomp_kicad_connector_audio_jack_3_5mm_qingpu_wqp_pj398sm_vertical_circularholes
+    oomp_key_extra: oomp_footprint_kicad_connector_audio_jack_3_5mm_qingpu_wqp_pj398sm_vertical_circularholes
+    oomp_key_full: oomp_footprint_kicad_connector_audio_jack_3_5mm_qingpu_wqp_pj398sm_vertical_circularholes_ed737d
+    oomp_key_simple: kicad_connector_audio_jack_3_5mm_qingpu_wqp_pj398sm_vertical_circularholes
+    original_filename: libraries/kicad-footprints/Connector_Audio.pretty/Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_connector_audio_jack_3_5mm_qingpu_wqp_pj398sm_vertical_circularholes
+  oomp_key_full: oomp_footprint_kicad_connector_audio_jack_3_5mm_qingpu_wqp_pj398sm_vertical_circularholes
   oomp_key_simple: kicad_connector_audio_jack_3_5mm_qingpu_wqp_pj398sm_vertical_circularholes
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

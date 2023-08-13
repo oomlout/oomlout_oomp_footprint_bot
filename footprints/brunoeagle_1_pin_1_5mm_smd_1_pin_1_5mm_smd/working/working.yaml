@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_1_pin_1_5mm_smd_1_pin_1_5mm_smd/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_1_pin_1_5mm_smd_1_pin_1_5mm_smd/working
-    oomp_doc: footprints/footprints/brunoeagle/1-PIN-1.5mm-SMD.kicad_mod/1-PIN-1.5mm-SMD/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/1-PIN-1.5mm-SMD.kicad_mod/1-PIN-1.5mm-SMD/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_1_pin_1_5mm_smd_1_pin_1_5mm_smd/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_1_pin_1_5mm_smd_1_pin_1_5mm_smd/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/1-PIN-1.5mm-SMD.kicad_mod/1-PIN-1.5mm-SMD/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/1-PIN-1.5mm-SMD.kicad_mod/1-PIN-1.5mm-SMD/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: 1_pin_1_5mm_smd
+    library_name: 1_pin_1_5mm_smd_kicad_mod
+    md5: f775924af3930333fe954ae18985ccfd
+    md5_10: f775924af3
+    md5_5: f7759
+    md5_6: f77592
+    oomp_key: oomp_brunoeagle_1_pin_1_5mm_smd_1_pin_1_5mm_smd
+    oomp_key_extra: oomp_footprint_brunoeagle_1_pin_1_5mm_smd_1_pin_1_5mm_smd
+    oomp_key_full: oomp_footprint_brunoeagle_1_pin_1_5mm_smd_1_pin_1_5mm_smd_f77592
+    oomp_key_simple: brunoeagle_1_pin_1_5mm_smd_1_pin_1_5mm_smd
+    original_filename: kicad-open-modules/1-PIN-1.5mm-SMD.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_1_pin_1_5mm_smd_1_pin_1_5mm_smd
+  oomp_key_full: oomp_footprint_brunoeagle_1_pin_1_5mm_smd_1_pin_1_5mm_smd
   oomp_key_simple: brunoeagle_1_pin_1_5mm_smd_1_pin_1_5mm_smd
   owner: brunoeagle
   repo:

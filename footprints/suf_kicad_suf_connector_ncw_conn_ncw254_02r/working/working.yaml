@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/suf_kicad_suf_connector_ncw_conn_ncw254_02r/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/suf_kicad_suf_connector_ncw_conn_ncw254_02r/working
-    oomp_doc: footprints/footprints/suf-KiCAD/suf_connector_ncw/CONN_NCW254-02R/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/suf-KiCAD/suf_connector_ncw/CONN_NCW254-02R/working
     oomp_src_flat: footprints_flat/footprints_flat/suf_kicad_suf_connector_ncw_conn_ncw254_02r/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/suf_kicad_suf_connector_ncw_conn_ncw254_02r/working
-    oomp_src_folder: footprints_folder/footprints_folder/suf-KiCAD/suf_connector_ncw/CONN_NCW254-02R/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/suf-KiCAD/suf_connector_ncw/CONN_NCW254-02R/working
   name: suf_connector_ncw.pretty
+  oomp:
+    footprint_name: conn_ncw254_02r
+    library_name: suf_connector_ncw
+    md5: 7da831e7999228ff3f2287a594ab3c01
+    md5_10: 7da831e799
+    md5_5: 7da83
+    md5_6: 7da831
+    oomp_key: oomp_suf_kicad_suf_connector_ncw_conn_ncw254_02r
+    oomp_key_extra: oomp_footprint_suf_kicad_suf_connector_ncw_conn_ncw254_02r
+    oomp_key_full: oomp_footprint_suf_kicad_suf_connector_ncw_conn_ncw254_02r_7da831
+    oomp_key_simple: suf_kicad_suf_connector_ncw_conn_ncw254_02r
+    original_filename: suf_connector_ncw.pretty/CONN_NCW254-02R.kicad_mod
+    owner_name: suf_kicad
   oomp_key: oomp_suf_kicad_suf_connector_ncw_conn_ncw254_02r
+  oomp_key_full: oomp_footprint_suf_kicad_suf_connector_ncw_conn_ncw254_02r
   oomp_key_simple: suf_kicad_suf_connector_ncw_conn_ncw254_02r
   owner: suf-KiCAD
   repo:

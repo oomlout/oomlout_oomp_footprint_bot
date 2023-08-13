@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pelrun_w_pth_resistors_trimmer_piher_pt15xh05/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pelrun_w_pth_resistors_trimmer_piher_pt15xh05/working
-    oomp_doc: footprints/footprints/pelrun/w_pth_resistors/trimmer_piher_pt15xh05/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/pelrun/w_pth_resistors/trimmer_piher_pt15xh05/working
     oomp_src_flat: footprints_flat/footprints_flat/pelrun_w_pth_resistors_trimmer_piher_pt15xh05/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pelrun_w_pth_resistors_trimmer_piher_pt15xh05/working
-    oomp_src_folder: footprints_folder/footprints_folder/pelrun/w_pth_resistors/trimmer_piher_pt15xh05/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/pelrun/w_pth_resistors/trimmer_piher_pt15xh05/working
   name: libKiCad
+  oomp:
+    footprint_name: trimmer_piher_pt15xh05
+    library_name: w_pth_resistors
+    md5: 5c11c3d0844103ee5fd56c23cb360ab9
+    md5_10: 5c11c3d084
+    md5_5: 5c11c
+    md5_6: 5c11c3
+    oomp_key: oomp_pelrun_w_pth_resistors_trimmer_piher_pt15xh05
+    oomp_key_extra: oomp_footprint_pelrun_w_pth_resistors_trimmer_piher_pt15xh05
+    oomp_key_full: oomp_footprint_pelrun_w_pth_resistors_trimmer_piher_pt15xh05_5c11c3
+    oomp_key_simple: pelrun_w_pth_resistors_trimmer_piher_pt15xh05
+    original_filename: libKiCad/footprint/w_pth_resistors.pretty/trimmer_piher_pt15xh05.kicad_mod
+    owner_name: pelrun
   oomp_key: oomp_pelrun_w_pth_resistors_trimmer_piher_pt15xh05
+  oomp_key_full: oomp_footprint_pelrun_w_pth_resistors_trimmer_piher_pt15xh05
   oomp_key_simple: pelrun_w_pth_resistors_trimmer_piher_pt15xh05
   owner: pelrun
   repo:

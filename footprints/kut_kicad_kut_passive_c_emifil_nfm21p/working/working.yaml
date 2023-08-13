@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/KUT-KiCad/KUT_Passive.pretty
     oomp_bot: footprints/kut_kicad_kut_passive_c_emifil_nfm21p/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kut_kicad_kut_passive_c_emifil_nfm21p/working
-    oomp_doc: footprints/footprints/KUT-KiCad/KUT_Passive/C_EMIFIL_NFM21P/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/KUT-KiCad/KUT_Passive/C_EMIFIL_NFM21P/working
     oomp_src_flat: footprints_flat/footprints_flat/kut_kicad_kut_passive_c_emifil_nfm21p/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kut_kicad_kut_passive_c_emifil_nfm21p/working
-    oomp_src_folder: footprints_folder/footprints_folder/KUT-KiCad/KUT_Passive/C_EMIFIL_NFM21P/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/KUT-KiCad/KUT_Passive/C_EMIFIL_NFM21P/working
   name: KUT_Passive.pretty
+  oomp:
+    footprint_name: c_emifil_nfm21p
+    library_name: kut_passive
+    md5: 0ba3b3ca6cff8e300828d2fefe22c562
+    md5_10: 0ba3b3ca6c
+    md5_5: 0ba3b
+    md5_6: 0ba3b3
+    oomp_key: oomp_kut_kicad_kut_passive_c_emifil_nfm21p
+    oomp_key_extra: oomp_footprint_kut_kicad_kut_passive_c_emifil_nfm21p
+    oomp_key_full: oomp_footprint_kut_kicad_kut_passive_c_emifil_nfm21p_0ba3b3
+    oomp_key_simple: kut_kicad_kut_passive_c_emifil_nfm21p
+    original_filename: KUT_Passive.pretty/C_EMIFIL_NFM21P.kicad_mod
+    owner_name: kut_kicad
   oomp_key: oomp_kut_kicad_kut_passive_c_emifil_nfm21p
+  oomp_key_full: oomp_footprint_kut_kicad_kut_passive_c_emifil_nfm21p
   oomp_key_simple: kut_kicad_kut_passive_c_emifil_nfm21p
   owner: KUT-KiCad
   repo:

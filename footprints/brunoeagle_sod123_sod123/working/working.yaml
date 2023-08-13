@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_sod123_sod123/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_sod123_sod123/working
-    oomp_doc: footprints/footprints/brunoeagle/SOD123.kicad_mod/SOD123/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/SOD123.kicad_mod/SOD123/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_sod123_sod123/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_sod123_sod123/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/SOD123.kicad_mod/SOD123/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/SOD123.kicad_mod/SOD123/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: sod123
+    library_name: sod123_kicad_mod
+    md5: 290e3784be96bccdb3fedf66e045ec04
+    md5_10: 290e3784be
+    md5_5: 290e3
+    md5_6: 290e37
+    oomp_key: oomp_brunoeagle_sod123_sod123
+    oomp_key_extra: oomp_footprint_brunoeagle_sod123_sod123
+    oomp_key_full: oomp_footprint_brunoeagle_sod123_sod123_290e37
+    oomp_key_simple: brunoeagle_sod123_sod123
+    original_filename: kicad-open-modules/SOD123.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_sod123_sod123
+  oomp_key_full: oomp_footprint_brunoeagle_sod123_sod123
   oomp_key_simple: brunoeagle_sod123_sod123
   owner: brunoeagle
   repo:

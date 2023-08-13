@@ -7,140 +7,33 @@
   footprint_library_directory_flat: footprints_flat/kicad_rleh_usb_mikro_smd_china_usb_micro_smd_china/working
   github_path: http://github.com/kicad-rleh/USB_Mikro_SMD_China.pretty/blob/master/USB_Micro_SMD_China.kicad_mod
   links:
-    github_owner: kicad-rleh
-    github_repo_name: USB_Mikro_SMD_China.pretty
-    github_src: http://github.com/kicad-rleh/USB_Mikro_SMD_China.pretty/blob/master/USB_Micro_SMD_China.kicad_mod
-    github_src_repo: https://github.com/kicad-rleh/USB_Mikro_SMD_China.pretty
+    github_src: http://gitlab.com/kicad-rleh/USB_Mikro_SMD_China.pretty/blob/master/USB_Micro_SMD_China.kicad_mod
+    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_rleh_usb_mikro_smd_china_usb_micro_smd_china/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_rleh_usb_mikro_smd_china_usb_micro_smd_china/working
-    oomp_doc: footprints/footprints/kicad-rleh/USB_Mikro_SMD_China/USB_Micro_SMD_China/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad-rleh/USB_Mikro_SMD_China/USB_Micro_SMD_China/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_rleh_usb_mikro_smd_china_usb_micro_smd_china/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_rleh_usb_mikro_smd_china_usb_micro_smd_china/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad-rleh/USB_Mikro_SMD_China/USB_Micro_SMD_China/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad-rleh/USB_Mikro_SMD_China/USB_Micro_SMD_China/working
   name: USB_Mikro_SMD_China.pretty
+  oomp:
+    footprint_name: usb_micro_smd_china
+    library_name: usb_mikro_smd_china
+    md5: 91b6905785f70d6e2e4d4a90f067e042
+    md5_10: 91b6905785
+    md5_5: 91b69
+    md5_6: 91b690
+    oomp_key: oomp_kicad_rleh_usb_mikro_smd_china_usb_micro_smd_china
+    oomp_key_extra: oomp_footprint_kicad_rleh_usb_mikro_smd_china_usb_micro_smd_china
+    oomp_key_full: oomp_footprint_kicad_rleh_usb_mikro_smd_china_usb_micro_smd_china_91b690
+    oomp_key_simple: kicad_rleh_usb_mikro_smd_china_usb_micro_smd_china
+    original_filename: USB_Mikro_SMD_China.pretty/USB_Micro_SMD_China.kicad_mod
+    owner_name: kicad_rleh
   oomp_key: oomp_kicad_rleh_usb_mikro_smd_china_usb_micro_smd_china
+  oomp_key_full: oomp_footprint_kicad_rleh_usb_mikro_smd_china_usb_micro_smd_china
   oomp_key_simple: kicad_rleh_usb_mikro_smd_china_usb_micro_smd_china
   owner: kicad-rleh
   repo:
-    allow_forking: true
-    archive_url: https://api.github.com/repos/kicad-rleh/USB_Mikro_SMD_China.pretty/{archive_format}{/ref}
-    archived: false
-    assignees_url: https://api.github.com/repos/kicad-rleh/USB_Mikro_SMD_China.pretty/assignees{/user}
-    blobs_url: https://api.github.com/repos/kicad-rleh/USB_Mikro_SMD_China.pretty/git/blobs{/sha}
-    branches_url: https://api.github.com/repos/kicad-rleh/USB_Mikro_SMD_China.pretty/branches{/branch}
-    clone_url: https://github.com/kicad-rleh/USB_Mikro_SMD_China.pretty.git
-    collaborators_url: https://api.github.com/repos/kicad-rleh/USB_Mikro_SMD_China.pretty/collaborators{/collaborator}
-    comments_url: https://api.github.com/repos/kicad-rleh/USB_Mikro_SMD_China.pretty/comments{/number}
-    commits_url: https://api.github.com/repos/kicad-rleh/USB_Mikro_SMD_China.pretty/commits{/sha}
-    compare_url: https://api.github.com/repos/kicad-rleh/USB_Mikro_SMD_China.pretty/compare/{base}...{head}
-    contents_url: https://api.github.com/repos/kicad-rleh/USB_Mikro_SMD_China.pretty/contents/{+path}
-    contributors_url: https://api.github.com/repos/kicad-rleh/USB_Mikro_SMD_China.pretty/contributors
-    created_at: '2016-09-09T00:12:19Z'
-    default_branch: master
-    deployments_url: https://api.github.com/repos/kicad-rleh/USB_Mikro_SMD_China.pretty/deployments
-    description: 'KiCAD Footprints: Micro-USB SMD Connector (China)'
-    disabled: false
-    downloads_url: https://api.github.com/repos/kicad-rleh/USB_Mikro_SMD_China.pretty/downloads
-    events_url: https://api.github.com/repos/kicad-rleh/USB_Mikro_SMD_China.pretty/events
-    fork: false
-    forks: 1
-    forks_count: 1
-    forks_url: https://api.github.com/repos/kicad-rleh/USB_Mikro_SMD_China.pretty/forks
-    full_name: kicad-rleh/USB_Mikro_SMD_China.pretty
-    git_commits_url: https://api.github.com/repos/kicad-rleh/USB_Mikro_SMD_China.pretty/git/commits{/sha}
-    git_refs_url: https://api.github.com/repos/kicad-rleh/USB_Mikro_SMD_China.pretty/git/refs{/sha}
-    git_tags_url: https://api.github.com/repos/kicad-rleh/USB_Mikro_SMD_China.pretty/git/tags{/sha}
-    git_url: git://github.com/kicad-rleh/USB_Mikro_SMD_China.pretty.git
-    has_discussions: false
-    has_downloads: true
-    has_issues: true
-    has_pages: false
-    has_projects: true
-    has_wiki: true
-    homepage: null
-    hooks_url: https://api.github.com/repos/kicad-rleh/USB_Mikro_SMD_China.pretty/hooks
-    html_url: https://github.com/kicad-rleh/USB_Mikro_SMD_China.pretty
-    id: 67749956
-    is_template: false
-    issue_comment_url: https://api.github.com/repos/kicad-rleh/USB_Mikro_SMD_China.pretty/issues/comments{/number}
-    issue_events_url: https://api.github.com/repos/kicad-rleh/USB_Mikro_SMD_China.pretty/issues/events{/number}
-    issues_url: https://api.github.com/repos/kicad-rleh/USB_Mikro_SMD_China.pretty/issues{/number}
-    keys_url: https://api.github.com/repos/kicad-rleh/USB_Mikro_SMD_China.pretty/keys{/key_id}
-    labels_url: https://api.github.com/repos/kicad-rleh/USB_Mikro_SMD_China.pretty/labels{/name}
-    language: null
-    languages_url: https://api.github.com/repos/kicad-rleh/USB_Mikro_SMD_China.pretty/languages
-    license: null
-    merges_url: https://api.github.com/repos/kicad-rleh/USB_Mikro_SMD_China.pretty/merges
-    milestones_url: https://api.github.com/repos/kicad-rleh/USB_Mikro_SMD_China.pretty/milestones{/number}
-    mirror_url: null
-    name: USB_Mikro_SMD_China.pretty
-    network_count: 1
-    node_id: MDEwOlJlcG9zaXRvcnk2Nzc0OTk1Ng==
-    notifications_url: https://api.github.com/repos/kicad-rleh/USB_Mikro_SMD_China.pretty/notifications{?since,all,participating}
-    open_issues: 0
-    open_issues_count: 0
-    organization:
-      avatar_url: https://avatars.githubusercontent.com/u/21282019?v=4
-      events_url: https://api.github.com/users/kicad-rleh/events{/privacy}
-      followers_url: https://api.github.com/users/kicad-rleh/followers
-      following_url: https://api.github.com/users/kicad-rleh/following{/other_user}
-      gists_url: https://api.github.com/users/kicad-rleh/gists{/gist_id}
-      gravatar_id: ''
-      html_url: https://github.com/kicad-rleh
-      id: 21282019
-      login: kicad-rleh
-      node_id: MDEyOk9yZ2FuaXphdGlvbjIxMjgyMDE5
-      organizations_url: https://api.github.com/users/kicad-rleh/orgs
-      received_events_url: https://api.github.com/users/kicad-rleh/received_events
-      repos_url: https://api.github.com/users/kicad-rleh/repos
-      site_admin: false
-      starred_url: https://api.github.com/users/kicad-rleh/starred{/owner}{/repo}
-      subscriptions_url: https://api.github.com/users/kicad-rleh/subscriptions
-      type: Organization
-      url: https://api.github.com/users/kicad-rleh
-    owner:
-      avatar_url: https://avatars.githubusercontent.com/u/21282019?v=4
-      events_url: https://api.github.com/users/kicad-rleh/events{/privacy}
-      followers_url: https://api.github.com/users/kicad-rleh/followers
-      following_url: https://api.github.com/users/kicad-rleh/following{/other_user}
-      gists_url: https://api.github.com/users/kicad-rleh/gists{/gist_id}
-      gravatar_id: ''
-      html_url: https://github.com/kicad-rleh
-      id: 21282019
-      login: kicad-rleh
-      node_id: MDEyOk9yZ2FuaXphdGlvbjIxMjgyMDE5
-      organizations_url: https://api.github.com/users/kicad-rleh/orgs
-      received_events_url: https://api.github.com/users/kicad-rleh/received_events
-      repos_url: https://api.github.com/users/kicad-rleh/repos
-      site_admin: false
-      starred_url: https://api.github.com/users/kicad-rleh/starred{/owner}{/repo}
-      subscriptions_url: https://api.github.com/users/kicad-rleh/subscriptions
-      type: Organization
-      url: https://api.github.com/users/kicad-rleh
-    private: false
-    pulls_url: https://api.github.com/repos/kicad-rleh/USB_Mikro_SMD_China.pretty/pulls{/number}
-    pushed_at: '2016-09-09T00:13:25Z'
-    releases_url: https://api.github.com/repos/kicad-rleh/USB_Mikro_SMD_China.pretty/releases{/id}
-    size: 0
-    ssh_url: git@github.com:kicad-rleh/USB_Mikro_SMD_China.pretty.git
-    stargazers_count: 0
-    stargazers_url: https://api.github.com/repos/kicad-rleh/USB_Mikro_SMD_China.pretty/stargazers
-    statuses_url: https://api.github.com/repos/kicad-rleh/USB_Mikro_SMD_China.pretty/statuses/{sha}
-    subscribers_count: 2
-    subscribers_url: https://api.github.com/repos/kicad-rleh/USB_Mikro_SMD_China.pretty/subscribers
-    subscription_url: https://api.github.com/repos/kicad-rleh/USB_Mikro_SMD_China.pretty/subscription
-    svn_url: https://github.com/kicad-rleh/USB_Mikro_SMD_China.pretty
-    tags_url: https://api.github.com/repos/kicad-rleh/USB_Mikro_SMD_China.pretty/tags
-    teams_url: https://api.github.com/repos/kicad-rleh/USB_Mikro_SMD_China.pretty/teams
-    temp_clone_token: null
-    topics: []
-    trees_url: https://api.github.com/repos/kicad-rleh/USB_Mikro_SMD_China.pretty/git/trees{/sha}
-    updated_at: '2016-09-09T00:12:19Z'
-    url: https://api.github.com/repos/kicad-rleh/USB_Mikro_SMD_China.pretty
-    visibility: public
-    watchers: 0
-    watchers_count: 0
-    web_commit_signoff_required: false
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: http://github.com/kicad-rleh/USB_Mikro_SMD_China.pretty

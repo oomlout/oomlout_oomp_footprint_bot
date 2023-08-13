@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/rudiloos_kilibs_htssop_28_powerpad/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/rudiloos_kilibs_htssop_28_powerpad/working
-    oomp_doc: footprints/footprints/rudiloos/kilibs/HTSSOP-28-PowerPAD/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/rudiloos/kilibs/HTSSOP-28-PowerPAD/working
     oomp_src_flat: footprints_flat/footprints_flat/rudiloos_kilibs_htssop_28_powerpad/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/rudiloos_kilibs_htssop_28_powerpad/working
-    oomp_src_folder: footprints_folder/footprints_folder/rudiloos/kilibs/HTSSOP-28-PowerPAD/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/rudiloos/kilibs/HTSSOP-28-PowerPAD/working
   name: kilibs.pretty
+  oomp:
+    footprint_name: htssop_28_powerpad
+    library_name: kilibs
+    md5: d1fcfba513107694b2c4d84c90b54dbb
+    md5_10: d1fcfba513
+    md5_5: d1fcf
+    md5_6: d1fcfb
+    oomp_key: oomp_rudiloos_kilibs_htssop_28_powerpad
+    oomp_key_extra: oomp_footprint_rudiloos_kilibs_htssop_28_powerpad
+    oomp_key_full: oomp_footprint_rudiloos_kilibs_htssop_28_powerpad_d1fcfb
+    oomp_key_simple: rudiloos_kilibs_htssop_28_powerpad
+    original_filename: kilibs.pretty/HTSSOP-28-PowerPAD.kicad_mod
+    owner_name: rudiloos
   oomp_key: oomp_rudiloos_kilibs_htssop_28_powerpad
+  oomp_key_full: oomp_footprint_rudiloos_kilibs_htssop_28_powerpad
   oomp_key_simple: rudiloos_kilibs_htssop_28_powerpad
   owner: rudiloos
   repo:

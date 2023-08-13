@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/av_p_avp_tic234a_bl/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/av_p_avp_tic234a_bl/working
-    oomp_doc: footprints/footprints/av-p/Avp/TIC234A_BL/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/av-p/Avp/TIC234A_BL/working
     oomp_src_flat: footprints_flat/footprints_flat/av_p_avp_tic234a_bl/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/av_p_avp_tic234a_bl/working
-    oomp_src_folder: footprints_folder/footprints_folder/av-p/Avp/TIC234A_BL/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/av-p/Avp/TIC234A_BL/working
   name: Avp.pretty
+  oomp:
+    footprint_name: tic234a_bl
+    library_name: avp
+    md5: c8991d78b3dfd2b519a3582a584999cf
+    md5_10: c8991d78b3
+    md5_5: c8991
+    md5_6: c8991d
+    oomp_key: oomp_av_p_avp_tic234a_bl
+    oomp_key_extra: oomp_footprint_av_p_avp_tic234a_bl
+    oomp_key_full: oomp_footprint_av_p_avp_tic234a_bl_c8991d
+    oomp_key_simple: av_p_avp_tic234a_bl
+    original_filename: Avp.pretty/TIC234A_BL.kicad_mod
+    owner_name: av_p
   oomp_key: oomp_av_p_avp_tic234a_bl
+  oomp_key_full: oomp_footprint_av_p_avp_tic234a_bl
   oomp_key_simple: av_p_avp_tic234a_bl
   owner: av-p
   repo:

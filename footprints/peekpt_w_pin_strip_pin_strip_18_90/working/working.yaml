@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/peekpt_w_pin_strip_pin_strip_18_90/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/peekpt_w_pin_strip_pin_strip_18_90/working
-    oomp_doc: footprints/footprints/peekpt/w_pin_strip/pin_strip_18-90/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/peekpt/w_pin_strip/pin_strip_18-90/working
     oomp_src_flat: footprints_flat/footprints_flat/peekpt_w_pin_strip_pin_strip_18_90/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/peekpt_w_pin_strip_pin_strip_18_90/working
-    oomp_src_folder: footprints_folder/footprints_folder/peekpt/w_pin_strip/pin_strip_18-90/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/peekpt/w_pin_strip/pin_strip_18-90/working
   name: kicad_smisioto
+  oomp:
+    footprint_name: pin_strip_18_90
+    library_name: w_pin_strip
+    md5: 2540fa029d72834bb88a2505aac64574
+    md5_10: 2540fa029d
+    md5_5: 2540f
+    md5_6: 2540fa
+    oomp_key: oomp_peekpt_w_pin_strip_pin_strip_18_90
+    oomp_key_extra: oomp_footprint_peekpt_w_pin_strip_pin_strip_18_90
+    oomp_key_full: oomp_footprint_peekpt_w_pin_strip_pin_strip_18_90_2540fa
+    oomp_key_simple: peekpt_w_pin_strip_pin_strip_18_90
+    original_filename: kicad_smisioto/modules/walter/w_pin_strip.pretty/pin_strip_18-90.kicad_mod
+    owner_name: peekpt
   oomp_key: oomp_peekpt_w_pin_strip_pin_strip_18_90
+  oomp_key_full: oomp_footprint_peekpt_w_pin_strip_pin_strip_18_90
   oomp_key_simple: peekpt_w_pin_strip_pin_strip_18_90
   owner: peekpt
   repo:

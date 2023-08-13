@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/kubiX89/kiCAD.pretty
     oomp_bot: footprints/kubix89_kicad_p0201/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kubix89_kicad_p0201/working
-    oomp_doc: footprints/footprints/kubiX89/kiCAD/P0201/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kubiX89/kiCAD/P0201/working
     oomp_src_flat: footprints_flat/footprints_flat/kubix89_kicad_p0201/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kubix89_kicad_p0201/working
-    oomp_src_folder: footprints_folder/footprints_folder/kubiX89/kiCAD/P0201/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kubiX89/kiCAD/P0201/working
   name: kiCAD.pretty
+  oomp:
+    footprint_name: p0201
+    library_name: kicad
+    md5: 0f9a8353b236fc8be2ba5931aac65342
+    md5_10: 0f9a8353b2
+    md5_5: 0f9a8
+    md5_6: 0f9a83
+    oomp_key: oomp_kubix89_kicad_p0201
+    oomp_key_extra: oomp_footprint_kubix89_kicad_p0201
+    oomp_key_full: oomp_footprint_kubix89_kicad_p0201_0f9a83
+    oomp_key_simple: kubix89_kicad_p0201
+    original_filename: kiCAD.pretty/P0201.kicad_mod
+    owner_name: kubix89
   oomp_key: oomp_kubix89_kicad_p0201
+  oomp_key_full: oomp_footprint_kubix89_kicad_p0201
   oomp_key_simple: kubix89_kicad_p0201
   owner: kubiX89
   repo:

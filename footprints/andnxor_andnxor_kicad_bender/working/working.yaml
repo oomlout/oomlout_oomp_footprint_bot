@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/ANDnXOR/ANDnXOR-Kicad.pretty
     oomp_bot: footprints/andnxor_andnxor_kicad_bender/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/andnxor_andnxor_kicad_bender/working
-    oomp_doc: footprints/footprints/ANDnXOR/ANDnXOR-Kicad/bender/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ANDnXOR/ANDnXOR-Kicad/bender/working
     oomp_src_flat: footprints_flat/footprints_flat/andnxor_andnxor_kicad_bender/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/andnxor_andnxor_kicad_bender/working
-    oomp_src_folder: footprints_folder/footprints_folder/ANDnXOR/ANDnXOR-Kicad/bender/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ANDnXOR/ANDnXOR-Kicad/bender/working
   name: ANDnXOR-Kicad.pretty
+  oomp:
+    footprint_name: bender
+    library_name: andnxor_kicad
+    md5: b68d3c99b4bd3c459deb2262e7023c40
+    md5_10: b68d3c99b4
+    md5_5: b68d3
+    md5_6: b68d3c
+    oomp_key: oomp_andnxor_andnxor_kicad_bender
+    oomp_key_extra: oomp_footprint_andnxor_andnxor_kicad_bender
+    oomp_key_full: oomp_footprint_andnxor_andnxor_kicad_bender_b68d3c
+    oomp_key_simple: andnxor_andnxor_kicad_bender
+    original_filename: ANDnXOR-Kicad.pretty/bender.kicad_mod
+    owner_name: andnxor
   oomp_key: oomp_andnxor_andnxor_kicad_bender
+  oomp_key_full: oomp_footprint_andnxor_andnxor_kicad_bender
   oomp_key_simple: andnxor_andnxor_kicad_bender
   owner: ANDnXOR
   repo:

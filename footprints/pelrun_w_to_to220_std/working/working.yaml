@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pelrun_w_to_to220_std/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pelrun_w_to_to220_std/working
-    oomp_doc: footprints/footprints/pelrun/w_to/to220_std/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/pelrun/w_to/to220_std/working
     oomp_src_flat: footprints_flat/footprints_flat/pelrun_w_to_to220_std/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pelrun_w_to_to220_std/working
-    oomp_src_folder: footprints_folder/footprints_folder/pelrun/w_to/to220_std/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/pelrun/w_to/to220_std/working
   name: libKiCad
+  oomp:
+    footprint_name: to220_std
+    library_name: w_to
+    md5: a12a2ea440dbc544102c1784d26d2ceb
+    md5_10: a12a2ea440
+    md5_5: a12a2
+    md5_6: a12a2e
+    oomp_key: oomp_pelrun_w_to_to220_std
+    oomp_key_extra: oomp_footprint_pelrun_w_to_to220_std
+    oomp_key_full: oomp_footprint_pelrun_w_to_to220_std_a12a2e
+    oomp_key_simple: pelrun_w_to_to220_std
+    original_filename: libKiCad/footprint/w_to.pretty/to220_std.kicad_mod
+    owner_name: pelrun
   oomp_key: oomp_pelrun_w_to_to220_std
+  oomp_key_full: oomp_footprint_pelrun_w_to_to220_std
   oomp_key_simple: pelrun_w_to_to220_std
   owner: pelrun
   repo:

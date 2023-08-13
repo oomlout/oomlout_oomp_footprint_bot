@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/phigleaf_kicadprints_testpad/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/phigleaf_kicadprints_testpad/working
-    oomp_doc: footprints/footprints/phigleaf/kicadprints/TestPad/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/phigleaf/kicadprints/TestPad/working
     oomp_src_flat: footprints_flat/footprints_flat/phigleaf_kicadprints_testpad/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/phigleaf_kicadprints_testpad/working
-    oomp_src_folder: footprints_folder/footprints_folder/phigleaf/kicadprints/TestPad/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/phigleaf/kicadprints/TestPad/working
   name: kicadprints.pretty
+  oomp:
+    footprint_name: testpad
+    library_name: kicadprints
+    md5: 419de6909e1b91dc10b4659210f941cf
+    md5_10: 419de6909e
+    md5_5: 419de
+    md5_6: 419de6
+    oomp_key: oomp_phigleaf_kicadprints_testpad
+    oomp_key_extra: oomp_footprint_phigleaf_kicadprints_testpad
+    oomp_key_full: oomp_footprint_phigleaf_kicadprints_testpad_419de6
+    oomp_key_simple: phigleaf_kicadprints_testpad
+    original_filename: kicadprints.pretty/TestPad.kicad_mod
+    owner_name: phigleaf
   oomp_key: oomp_phigleaf_kicadprints_testpad
+  oomp_key_full: oomp_footprint_phigleaf_kicadprints_testpad
   oomp_key_simple: phigleaf_kicadprints_testpad
   owner: phigleaf
   repo:

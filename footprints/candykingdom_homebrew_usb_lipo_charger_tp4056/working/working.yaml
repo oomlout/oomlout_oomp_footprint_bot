@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/candykingdom_homebrew_usb_lipo_charger_tp4056/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/candykingdom_homebrew_usb_lipo_charger_tp4056/working
-    oomp_doc: footprints/footprints/candykingdom/homebrew/USB_LIPO_CHARGER_TP4056/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/candykingdom/homebrew/USB_LIPO_CHARGER_TP4056/working
     oomp_src_flat: footprints_flat/footprints_flat/candykingdom_homebrew_usb_lipo_charger_tp4056/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/candykingdom_homebrew_usb_lipo_charger_tp4056/working
-    oomp_src_folder: footprints_folder/footprints_folder/candykingdom/homebrew/USB_LIPO_CHARGER_TP4056/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/candykingdom/homebrew/USB_LIPO_CHARGER_TP4056/working
   name: homebrew.pretty
+  oomp:
+    footprint_name: usb_lipo_charger_tp4056
+    library_name: homebrew
+    md5: 9ace9a2ffdeb46230ec1bfff0a02a04e
+    md5_10: 9ace9a2ffd
+    md5_5: 9ace9
+    md5_6: 9ace9a
+    oomp_key: oomp_candykingdom_homebrew_usb_lipo_charger_tp4056
+    oomp_key_extra: oomp_footprint_candykingdom_homebrew_usb_lipo_charger_tp4056
+    oomp_key_full: oomp_footprint_candykingdom_homebrew_usb_lipo_charger_tp4056_9ace9a
+    oomp_key_simple: candykingdom_homebrew_usb_lipo_charger_tp4056
+    original_filename: homebrew.pretty/USB_LIPO_CHARGER_TP4056.kicad_mod
+    owner_name: candykingdom
   oomp_key: oomp_candykingdom_homebrew_usb_lipo_charger_tp4056
+  oomp_key_full: oomp_footprint_candykingdom_homebrew_usb_lipo_charger_tp4056
   oomp_key_simple: candykingdom_homebrew_usb_lipo_charger_tp4056
   owner: candykingdom
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/digikey_sip_3_p2_54mm_sip_3_p2_54mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_sip_3_p2_54mm_sip_3_p2_54mm/working
-    oomp_doc: footprints/footprints/digikey/SIP-3_P2.54mm.kicad_mod/SIP-3_P2.54mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/digikey/SIP-3_P2.54mm.kicad_mod/SIP-3_P2.54mm/working
     oomp_src_flat: footprints_flat/footprints_flat/digikey_sip_3_p2_54mm_sip_3_p2_54mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/digikey_sip_3_p2_54mm_sip_3_p2_54mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/digikey/SIP-3_P2.54mm.kicad_mod/SIP-3_P2.54mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/digikey/SIP-3_P2.54mm.kicad_mod/SIP-3_P2.54mm/working
   name: digikey-kicad-library
+  oomp:
+    footprint_name: sip_3_p2_54mm
+    library_name: sip_3_p2_54mm_kicad_mod
+    md5: 0bf7a9a8dccb30fbcf9f319f9e5fd078
+    md5_10: 0bf7a9a8dc
+    md5_5: 0bf7a
+    md5_6: 0bf7a9
+    oomp_key: oomp_digikey_sip_3_p2_54mm_sip_3_p2_54mm
+    oomp_key_extra: oomp_footprint_digikey_sip_3_p2_54mm_sip_3_p2_54mm
+    oomp_key_full: oomp_footprint_digikey_sip_3_p2_54mm_sip_3_p2_54mm_0bf7a9
+    oomp_key_simple: digikey_sip_3_p2_54mm_sip_3_p2_54mm
+    original_filename: digikey-kicad-library/src/Source_Footprints/SIP-3_P2.54mm.kicad_mod
+    owner_name: digikey
   oomp_key: oomp_digikey_sip_3_p2_54mm_sip_3_p2_54mm
+  oomp_key_full: oomp_footprint_digikey_sip_3_p2_54mm_sip_3_p2_54mm
   oomp_key_simple: digikey_sip_3_p2_54mm_sip_3_p2_54mm
   owner: digikey
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/garrettsworkshop_stdpads_mountinghole_3_2mm_m3_pad_via/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/garrettsworkshop_stdpads_mountinghole_3_2mm_m3_pad_via/working
-    oomp_doc: footprints/footprints/garrettsworkshop/stdpads/MountingHole_3.2mm_M3_Pad_Via/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/garrettsworkshop/stdpads/MountingHole_3.2mm_M3_Pad_Via/working
     oomp_src_flat: footprints_flat/footprints_flat/garrettsworkshop_stdpads_mountinghole_3_2mm_m3_pad_via/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/garrettsworkshop_stdpads_mountinghole_3_2mm_m3_pad_via/working
-    oomp_src_folder: footprints_folder/footprints_folder/garrettsworkshop/stdpads/MountingHole_3.2mm_M3_Pad_Via/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/garrettsworkshop/stdpads/MountingHole_3.2mm_M3_Pad_Via/working
   name: stdpads.pretty
+  oomp:
+    footprint_name: mountinghole_3_2mm_m3_pad_via
+    library_name: stdpads
+    md5: f755aafbe944ab923cdff9e8c500c9e7
+    md5_10: f755aafbe9
+    md5_5: f755a
+    md5_6: f755aa
+    oomp_key: oomp_garrettsworkshop_stdpads_mountinghole_3_2mm_m3_pad_via
+    oomp_key_extra: oomp_footprint_garrettsworkshop_stdpads_mountinghole_3_2mm_m3_pad_via
+    oomp_key_full: oomp_footprint_garrettsworkshop_stdpads_mountinghole_3_2mm_m3_pad_via_f755aa
+    oomp_key_simple: garrettsworkshop_stdpads_mountinghole_3_2mm_m3_pad_via
+    original_filename: stdpads.pretty/MountingHole_3.2mm_M3_Pad_Via.kicad_mod
+    owner_name: garrettsworkshop
   oomp_key: oomp_garrettsworkshop_stdpads_mountinghole_3_2mm_m3_pad_via
+  oomp_key_full: oomp_footprint_garrettsworkshop_stdpads_mountinghole_3_2mm_m3_pad_via
   oomp_key_simple: garrettsworkshop_stdpads_mountinghole_3_2mm_m3_pad_via
   owner: garrettsworkshop
   repo:

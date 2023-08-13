@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/panicjp_kicad_mod_sot_23/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/panicjp_kicad_mod_sot_23/working
-    oomp_doc: footprints/footprints/panicjp/KiCad_Mod/SOT-23/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/panicjp/KiCad_Mod/SOT-23/working
     oomp_src_flat: footprints_flat/footprints_flat/panicjp_kicad_mod_sot_23/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/panicjp_kicad_mod_sot_23/working
-    oomp_src_folder: footprints_folder/footprints_folder/panicjp/KiCad_Mod/SOT-23/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/panicjp/KiCad_Mod/SOT-23/working
   name: KiCad_Mod.pretty
+  oomp:
+    footprint_name: sot_23
+    library_name: kicad_mod
+    md5: 2e8ab83c8c82154dde19614d6284b574
+    md5_10: 2e8ab83c8c
+    md5_5: 2e8ab
+    md5_6: 2e8ab8
+    oomp_key: oomp_panicjp_kicad_mod_sot_23
+    oomp_key_extra: oomp_footprint_panicjp_kicad_mod_sot_23
+    oomp_key_full: oomp_footprint_panicjp_kicad_mod_sot_23_2e8ab8
+    oomp_key_simple: panicjp_kicad_mod_sot_23
+    original_filename: KiCad_Mod.pretty/SOT-23.kicad_mod
+    owner_name: panicjp
   oomp_key: oomp_panicjp_kicad_mod_sot_23
+  oomp_key_full: oomp_footprint_panicjp_kicad_mod_sot_23
   oomp_key_simple: panicjp_kicad_mod_sot_23
   owner: panicjp
   repo:

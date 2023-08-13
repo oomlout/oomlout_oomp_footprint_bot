@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/notsockx_kiboard_usb_c_aliexpress_midmount/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/notsockx_kiboard_usb_c_aliexpress_midmount/working
-    oomp_doc: footprints/footprints/notsockx/kiboard/USB_C_Aliexpress_Midmount/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/notsockx/kiboard/USB_C_Aliexpress_Midmount/working
     oomp_src_flat: footprints_flat/footprints_flat/notsockx_kiboard_usb_c_aliexpress_midmount/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/notsockx_kiboard_usb_c_aliexpress_midmount/working
-    oomp_src_folder: footprints_folder/footprints_folder/notsockx/kiboard/USB_C_Aliexpress_Midmount/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/notsockx/kiboard/USB_C_Aliexpress_Midmount/working
   name: kiboard.pretty
+  oomp:
+    footprint_name: usb_c_aliexpress_midmount
+    library_name: kiboard
+    md5: 88f27aca2c445e8131c4145afd167632
+    md5_10: 88f27aca2c
+    md5_5: 88f27
+    md5_6: 88f27a
+    oomp_key: oomp_notsockx_kiboard_usb_c_aliexpress_midmount
+    oomp_key_extra: oomp_footprint_notsockx_kiboard_usb_c_aliexpress_midmount
+    oomp_key_full: oomp_footprint_notsockx_kiboard_usb_c_aliexpress_midmount_88f27a
+    oomp_key_simple: notsockx_kiboard_usb_c_aliexpress_midmount
+    original_filename: kiboard.pretty/USB_C_Aliexpress_Midmount.kicad_mod
+    owner_name: notsockx
   oomp_key: oomp_notsockx_kiboard_usb_c_aliexpress_midmount
+  oomp_key_full: oomp_footprint_notsockx_kiboard_usb_c_aliexpress_midmount
   oomp_key_simple: notsockx_kiboard_usb_c_aliexpress_midmount
   owner: notsockx
   repo:

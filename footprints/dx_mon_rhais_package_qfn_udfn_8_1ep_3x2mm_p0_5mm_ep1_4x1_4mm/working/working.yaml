@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/dx_mon_rhais_package_qfn_udfn_8_1ep_3x2mm_p0_5mm_ep1_4x1_4mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/dx_mon_rhais_package_qfn_udfn_8_1ep_3x2mm_p0_5mm_ep1_4x1_4mm/working
-    oomp_doc: footprints/footprints/DX-MON/rhais_package-qfn/UDFN-8-1EP_3x2mm_P0.5mm_EP1.4x1.4mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/DX-MON/rhais_package-qfn/UDFN-8-1EP_3x2mm_P0.5mm_EP1.4x1.4mm/working
     oomp_src_flat: footprints_flat/footprints_flat/dx_mon_rhais_package_qfn_udfn_8_1ep_3x2mm_p0_5mm_ep1_4x1_4mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/dx_mon_rhais_package_qfn_udfn_8_1ep_3x2mm_p0_5mm_ep1_4x1_4mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/DX-MON/rhais_package-qfn/UDFN-8-1EP_3x2mm_P0.5mm_EP1.4x1.4mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/DX-MON/rhais_package-qfn/UDFN-8-1EP_3x2mm_P0.5mm_EP1.4x1.4mm/working
   name: rhais_package-qfn.pretty
+  oomp:
+    footprint_name: udfn_8_1ep_3x2mm_p0_5mm_ep1_4x1_4mm
+    library_name: rhais_package_qfn
+    md5: 4fe49e833f7d1058a6d82d28d41112b1
+    md5_10: 4fe49e833f
+    md5_5: 4fe49
+    md5_6: 4fe49e
+    oomp_key: oomp_dx_mon_rhais_package_qfn_udfn_8_1ep_3x2mm_p0_5mm_ep1_4x1_4mm
+    oomp_key_extra: oomp_footprint_dx_mon_rhais_package_qfn_udfn_8_1ep_3x2mm_p0_5mm_ep1_4x1_4mm
+    oomp_key_full: oomp_footprint_dx_mon_rhais_package_qfn_udfn_8_1ep_3x2mm_p0_5mm_ep1_4x1_4mm_4fe49e
+    oomp_key_simple: dx_mon_rhais_package_qfn_udfn_8_1ep_3x2mm_p0_5mm_ep1_4x1_4mm
+    original_filename: rhais_package-qfn.pretty/UDFN-8-1EP_3x2mm_P0.5mm_EP1.4x1.4mm.kicad_mod
+    owner_name: dx_mon
   oomp_key: oomp_dx_mon_rhais_package_qfn_udfn_8_1ep_3x2mm_p0_5mm_ep1_4x1_4mm
+  oomp_key_full: oomp_footprint_dx_mon_rhais_package_qfn_udfn_8_1ep_3x2mm_p0_5mm_ep1_4x1_4mm
   oomp_key_simple: dx_mon_rhais_package_qfn_udfn_8_1ep_3x2mm_p0_5mm_ep1_4x1_4mm
   owner: DX-MON
   repo:

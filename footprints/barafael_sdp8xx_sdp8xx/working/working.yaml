@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/barafael_sdp8xx_sdp8xx/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/barafael_sdp8xx_sdp8xx/working
-    oomp_doc: footprints/footprints/barafael/sdp8xx/sdp8xx/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/barafael/sdp8xx/sdp8xx/working
     oomp_src_flat: footprints_flat/footprints_flat/barafael_sdp8xx_sdp8xx/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/barafael_sdp8xx_sdp8xx/working
-    oomp_src_folder: footprints_folder/footprints_folder/barafael/sdp8xx/sdp8xx/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/barafael/sdp8xx/sdp8xx/working
   name: sdp8xx.pretty
+  oomp:
+    footprint_name: sdp8xx
+    library_name: sdp8xx
+    md5: 87f5c9c6ff76fd5ba2e1fd8d089cb518
+    md5_10: 87f5c9c6ff
+    md5_5: 87f5c
+    md5_6: 87f5c9
+    oomp_key: oomp_barafael_sdp8xx_sdp8xx
+    oomp_key_extra: oomp_footprint_barafael_sdp8xx_sdp8xx
+    oomp_key_full: oomp_footprint_barafael_sdp8xx_sdp8xx_87f5c9
+    oomp_key_simple: barafael_sdp8xx_sdp8xx
+    original_filename: sdp8xx.pretty/sdp8xx.kicad_mod
+    owner_name: barafael
   oomp_key: oomp_barafael_sdp8xx_sdp8xx
+  oomp_key_full: oomp_footprint_barafael_sdp8xx_sdp8xx
   oomp_key_simple: barafael_sdp8xx_sdp8xx
   owner: barafael
   repo:

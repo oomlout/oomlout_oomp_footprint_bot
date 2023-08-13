@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/olimex_freetronics_footprints_ws2812b/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/olimex_freetronics_footprints_ws2812b/working
-    oomp_doc: footprints/footprints/OLIMEX/freetronics_footprints/WS2812B/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/OLIMEX/freetronics_footprints/WS2812B/working
     oomp_src_flat: footprints_flat/footprints_flat/olimex_freetronics_footprints_ws2812b/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/olimex_freetronics_footprints_ws2812b/working
-    oomp_src_folder: footprints_folder/footprints_folder/OLIMEX/freetronics_footprints/WS2812B/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/OLIMEX/freetronics_footprints/WS2812B/working
   name: KiCAD
+  oomp:
+    footprint_name: ws2812b
+    library_name: freetronics_footprints
+    md5: 879d7d7704592e0a88eb978042127818
+    md5_10: 879d7d7704
+    md5_5: 879d7
+    md5_6: 879d7d
+    oomp_key: oomp_olimex_freetronics_footprints_ws2812b
+    oomp_key_extra: oomp_footprint_olimex_freetronics_footprints_ws2812b
+    oomp_key_full: oomp_footprint_olimex_freetronics_footprints_ws2812b_879d7d
+    oomp_key_simple: olimex_freetronics_footprints_ws2812b
+    original_filename: KiCAD/mods/freetronics_footprints.pretty/WS2812B.kicad_mod
+    owner_name: olimex
   oomp_key: oomp_olimex_freetronics_footprints_ws2812b
+  oomp_key_full: oomp_footprint_olimex_freetronics_footprints_ws2812b
   oomp_key_simple: olimex_freetronics_footprints_ws2812b
   owner: OLIMEX
   repo:

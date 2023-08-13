@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/lab6-ifma/LAB6-LIB.pretty
     oomp_bot: footprints/lab6_ifma_lab6_lib_apa102/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/lab6_ifma_lab6_lib_apa102/working
-    oomp_doc: footprints/footprints/lab6-ifma/LAB6-LIB/APA102/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/lab6-ifma/LAB6-LIB/APA102/working
     oomp_src_flat: footprints_flat/footprints_flat/lab6_ifma_lab6_lib_apa102/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/lab6_ifma_lab6_lib_apa102/working
-    oomp_src_folder: footprints_folder/footprints_folder/lab6-ifma/LAB6-LIB/APA102/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/lab6-ifma/LAB6-LIB/APA102/working
   name: LAB6-LIB.pretty
+  oomp:
+    footprint_name: apa102
+    library_name: lab6_lib
+    md5: 29d2629f4d68b71df699cd3246e76631
+    md5_10: 29d2629f4d
+    md5_5: 29d26
+    md5_6: 29d262
+    oomp_key: oomp_lab6_ifma_lab6_lib_apa102
+    oomp_key_extra: oomp_footprint_lab6_ifma_lab6_lib_apa102
+    oomp_key_full: oomp_footprint_lab6_ifma_lab6_lib_apa102_29d262
+    oomp_key_simple: lab6_ifma_lab6_lib_apa102
+    original_filename: LAB6-LIB.pretty/APA102.kicad_mod
+    owner_name: lab6_ifma
   oomp_key: oomp_lab6_ifma_lab6_lib_apa102
+  oomp_key_full: oomp_footprint_lab6_ifma_lab6_lib_apa102
   oomp_key_simple: lab6_ifma_lab6_lib_apa102
   owner: lab6-ifma
   repo:

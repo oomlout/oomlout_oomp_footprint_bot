@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_d_sod_123fl_d_sod_123fl/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_d_sod_123fl_d_sod_123fl/working
-    oomp_doc: footprints/footprints/brunoeagle/D_SOD-123FL.kicad_mod/D_SOD-123FL/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/D_SOD-123FL.kicad_mod/D_SOD-123FL/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_d_sod_123fl_d_sod_123fl/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_d_sod_123fl_d_sod_123fl/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/D_SOD-123FL.kicad_mod/D_SOD-123FL/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/D_SOD-123FL.kicad_mod/D_SOD-123FL/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: d_sod_123fl
+    library_name: d_sod_123fl_kicad_mod
+    md5: df35fcec0d1e86696ca80b98c70e97ba
+    md5_10: df35fcec0d
+    md5_5: df35f
+    md5_6: df35fc
+    oomp_key: oomp_brunoeagle_d_sod_123fl_d_sod_123fl
+    oomp_key_extra: oomp_footprint_brunoeagle_d_sod_123fl_d_sod_123fl
+    oomp_key_full: oomp_footprint_brunoeagle_d_sod_123fl_d_sod_123fl_df35fc
+    oomp_key_simple: brunoeagle_d_sod_123fl_d_sod_123fl
+    original_filename: kicad-open-modules/D_SOD-123FL.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_d_sod_123fl_d_sod_123fl
+  oomp_key_full: oomp_footprint_brunoeagle_d_sod_123fl_d_sod_123fl
   oomp_key_simple: brunoeagle_d_sod_123fl_d_sod_123fl
   owner: brunoeagle
   repo:

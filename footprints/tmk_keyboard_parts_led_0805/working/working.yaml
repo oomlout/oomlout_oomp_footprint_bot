@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/tmk_keyboard_parts_led_0805/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/tmk_keyboard_parts_led_0805/working
-    oomp_doc: footprints/footprints/tmk/keyboard_parts/LED_0805/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/tmk/keyboard_parts/LED_0805/working
     oomp_src_flat: footprints_flat/footprints_flat/tmk_keyboard_parts_led_0805/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/tmk_keyboard_parts_led_0805/working
-    oomp_src_folder: footprints_folder/footprints_folder/tmk/keyboard_parts/LED_0805/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/tmk/keyboard_parts/LED_0805/working
   name: keyboard_parts.pretty
+  oomp:
+    footprint_name: led_0805
+    library_name: keyboard_parts
+    md5: 380212009b01f5c40c1cfce5aa23c9ae
+    md5_10: 380212009b
+    md5_5: '38021'
+    md5_6: '380212'
+    oomp_key: oomp_tmk_keyboard_parts_led_0805
+    oomp_key_extra: oomp_footprint_tmk_keyboard_parts_led_0805
+    oomp_key_full: oomp_footprint_tmk_keyboard_parts_led_0805_380212
+    oomp_key_simple: tmk_keyboard_parts_led_0805
+    original_filename: keyboard_parts.pretty/LED_0805.kicad_mod
+    owner_name: tmk
   oomp_key: oomp_tmk_keyboard_parts_led_0805
+  oomp_key_full: oomp_footprint_tmk_keyboard_parts_led_0805
   oomp_key_simple: tmk_keyboard_parts_led_0805
   owner: tmk
   repo:

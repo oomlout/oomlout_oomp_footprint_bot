@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/kubiX89/kiCAD.pretty
     oomp_bot: footprints/kubix89_kicad_batt_cr2032/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kubix89_kicad_batt_cr2032/working
-    oomp_doc: footprints/footprints/kubiX89/kiCAD/BATT_CR2032/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kubiX89/kiCAD/BATT_CR2032/working
     oomp_src_flat: footprints_flat/footprints_flat/kubix89_kicad_batt_cr2032/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kubix89_kicad_batt_cr2032/working
-    oomp_src_folder: footprints_folder/footprints_folder/kubiX89/kiCAD/BATT_CR2032/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kubiX89/kiCAD/BATT_CR2032/working
   name: kiCAD.pretty
+  oomp:
+    footprint_name: batt_cr2032
+    library_name: kicad
+    md5: 54dde0e5064f9000a1a268e788788c41
+    md5_10: 54dde0e506
+    md5_5: 54dde
+    md5_6: 54dde0
+    oomp_key: oomp_kubix89_kicad_batt_cr2032
+    oomp_key_extra: oomp_footprint_kubix89_kicad_batt_cr2032
+    oomp_key_full: oomp_footprint_kubix89_kicad_batt_cr2032_54dde0
+    oomp_key_simple: kubix89_kicad_batt_cr2032
+    original_filename: kiCAD.pretty/BATT_CR2032.kicad_mod
+    owner_name: kubix89
   oomp_key: oomp_kubix89_kicad_batt_cr2032
+  oomp_key_full: oomp_footprint_kubix89_kicad_batt_cr2032
   oomp_key_simple: kubix89_kicad_batt_cr2032
   owner: kubiX89
   repo:

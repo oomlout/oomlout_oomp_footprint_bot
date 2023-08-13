@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/christianlerche_lerchetech_lerche_1p_2_00mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/christianlerche_lerchetech_lerche_1p_2_00mm/working
-    oomp_doc: footprints/footprints/ChristianLerche/LercheTech/Lerche_1P_2.00MM/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ChristianLerche/LercheTech/Lerche_1P_2.00MM/working
     oomp_src_flat: footprints_flat/footprints_flat/christianlerche_lerchetech_lerche_1p_2_00mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/christianlerche_lerchetech_lerche_1p_2_00mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/ChristianLerche/LercheTech/Lerche_1P_2.00MM/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ChristianLerche/LercheTech/Lerche_1P_2.00MM/working
   name: LercheTech_KiCAD
+  oomp:
+    footprint_name: lerche_1p_2_00mm
+    library_name: lerchetech
+    md5: 197327b17ce046a1b35259d3c3907354
+    md5_10: 197327b17c
+    md5_5: '19732'
+    md5_6: '197327'
+    oomp_key: oomp_christianlerche_lerchetech_lerche_1p_2_00mm
+    oomp_key_extra: oomp_footprint_christianlerche_lerchetech_lerche_1p_2_00mm
+    oomp_key_full: oomp_footprint_christianlerche_lerchetech_lerche_1p_2_00mm_197327
+    oomp_key_simple: christianlerche_lerchetech_lerche_1p_2_00mm
+    original_filename: LercheTech_KiCAD/LercheTech.pretty/Lerche_1P_2.00MM.kicad_mod
+    owner_name: christianlerche
   oomp_key: oomp_christianlerche_lerchetech_lerche_1p_2_00mm
+  oomp_key_full: oomp_footprint_christianlerche_lerchetech_lerche_1p_2_00mm
   oomp_key_simple: christianlerche_lerchetech_lerche_1p_2_00mm
   owner: ChristianLerche
   repo:

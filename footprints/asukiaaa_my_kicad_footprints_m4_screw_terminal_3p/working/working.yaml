@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/asukiaaa_my_kicad_footprints_m4_screw_terminal_3p/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/asukiaaa_my_kicad_footprints_m4_screw_terminal_3p/working
-    oomp_doc: footprints/footprints/asukiaaa/my-kicad-footprints/M4_screw_terminal_3p/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/asukiaaa/my-kicad-footprints/M4_screw_terminal_3p/working
     oomp_src_flat: footprints_flat/footprints_flat/asukiaaa_my_kicad_footprints_m4_screw_terminal_3p/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/asukiaaa_my_kicad_footprints_m4_screw_terminal_3p/working
-    oomp_src_folder: footprints_folder/footprints_folder/asukiaaa/my-kicad-footprints/M4_screw_terminal_3p/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/asukiaaa/my-kicad-footprints/M4_screw_terminal_3p/working
   name: my-kicad-footprints.pretty
+  oomp:
+    footprint_name: m4_screw_terminal_3p
+    library_name: my_kicad_footprints
+    md5: ae9b99c57a761a1b2f0316fd980424dd
+    md5_10: ae9b99c57a
+    md5_5: ae9b9
+    md5_6: ae9b99
+    oomp_key: oomp_asukiaaa_my_kicad_footprints_m4_screw_terminal_3p
+    oomp_key_extra: oomp_footprint_asukiaaa_my_kicad_footprints_m4_screw_terminal_3p
+    oomp_key_full: oomp_footprint_asukiaaa_my_kicad_footprints_m4_screw_terminal_3p_ae9b99
+    oomp_key_simple: asukiaaa_my_kicad_footprints_m4_screw_terminal_3p
+    original_filename: my-kicad-footprints.pretty/M4_screw_terminal_3p.kicad_mod
+    owner_name: asukiaaa
   oomp_key: oomp_asukiaaa_my_kicad_footprints_m4_screw_terminal_3p
+  oomp_key_full: oomp_footprint_asukiaaa_my_kicad_footprints_m4_screw_terminal_3p
   oomp_key_simple: asukiaaa_my_kicad_footprints_m4_screw_terminal_3p
   owner: asukiaaa
   repo:

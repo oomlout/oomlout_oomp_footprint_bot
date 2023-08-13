@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pelrun_w_pth_resistors_r13_5x6_vert/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pelrun_w_pth_resistors_r13_5x6_vert/working
-    oomp_doc: footprints/footprints/pelrun/w_pth_resistors/R13.5x6_vert/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/pelrun/w_pth_resistors/R13.5x6_vert/working
     oomp_src_flat: footprints_flat/footprints_flat/pelrun_w_pth_resistors_r13_5x6_vert/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pelrun_w_pth_resistors_r13_5x6_vert/working
-    oomp_src_folder: footprints_folder/footprints_folder/pelrun/w_pth_resistors/R13.5x6_vert/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/pelrun/w_pth_resistors/R13.5x6_vert/working
   name: libKiCad
+  oomp:
+    footprint_name: r13_5x6_vert
+    library_name: w_pth_resistors
+    md5: 0185acf8f0a9d0996dfdd5a736a90d39
+    md5_10: 0185acf8f0
+    md5_5: 0185a
+    md5_6: 0185ac
+    oomp_key: oomp_pelrun_w_pth_resistors_r13_5x6_vert
+    oomp_key_extra: oomp_footprint_pelrun_w_pth_resistors_r13_5x6_vert
+    oomp_key_full: oomp_footprint_pelrun_w_pth_resistors_r13_5x6_vert_0185ac
+    oomp_key_simple: pelrun_w_pth_resistors_r13_5x6_vert
+    original_filename: libKiCad/footprint/w_pth_resistors.pretty/R13.5x6_vert.kicad_mod
+    owner_name: pelrun
   oomp_key: oomp_pelrun_w_pth_resistors_r13_5x6_vert
+  oomp_key_full: oomp_footprint_pelrun_w_pth_resistors_r13_5x6_vert
   oomp_key_simple: pelrun_w_pth_resistors_r13_5x6_vert
   owner: pelrun
   repo:

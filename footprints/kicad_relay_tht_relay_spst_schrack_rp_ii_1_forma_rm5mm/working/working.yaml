@@ -11,17 +11,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_relay_tht_relay_spst_schrack_rp_ii_1_forma_rm5mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_relay_tht_relay_spst_schrack_rp_ii_1_forma_rm5mm/working
-    oomp_doc: footprints/footprints/kicad/Relay_THT/Relay_SPST_Schrack-RP-II-1-FormA_RM5mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Relay_THT/Relay_SPST_Schrack-RP-II-1-FormA_RM5mm/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_relay_tht_relay_spst_schrack_rp_ii_1_forma_rm5mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_relay_tht_relay_spst_schrack_rp_ii_1_forma_rm5mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Relay_THT/Relay_SPST_Schrack-RP-II-1-FormA_RM5mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Relay_THT/Relay_SPST_Schrack-RP-II-1-FormA_RM5mm/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: relay_spst_schrack_rp_ii_1_forma_rm5mm
+    library_name: relay_tht
+    md5: a388dda5fd006af942d50eae821bcc5f
+    md5_10: a388dda5fd
+    md5_5: a388d
+    md5_6: a388dd
+    oomp_key: oomp_kicad_relay_tht_relay_spst_schrack_rp_ii_1_forma_rm5mm
+    oomp_key_extra: oomp_footprint_kicad_relay_tht_relay_spst_schrack_rp_ii_1_forma_rm5mm
+    oomp_key_full: oomp_footprint_kicad_relay_tht_relay_spst_schrack_rp_ii_1_forma_rm5mm_a388dd
+    oomp_key_simple: kicad_relay_tht_relay_spst_schrack_rp_ii_1_forma_rm5mm
+    original_filename: libraries/kicad-footprints/Relay_THT.pretty/Relay_SPST_Schrack-RP-II-1-FormA_RM5mm.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_relay_tht_relay_spst_schrack_rp_ii_1_forma_rm5mm
+  oomp_key_full: oomp_footprint_kicad_relay_tht_relay_spst_schrack_rp_ii_1_forma_rm5mm
   oomp_key_simple: kicad_relay_tht_relay_spst_schrack_rp_ii_1_forma_rm5mm
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

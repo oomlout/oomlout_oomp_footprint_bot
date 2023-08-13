@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/kleusbalut/kleus_kicad_library.pretty
     oomp_bot: footprints/kleusbalut_kleus_kicad_library_jst_sh_6pin_horizonal/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kleusbalut_kleus_kicad_library_jst_sh_6pin_horizonal/working
-    oomp_doc: footprints/footprints/kleusbalut/kleus_kicad_library/JST_SH-6pin_Horizonal/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kleusbalut/kleus_kicad_library/JST_SH-6pin_Horizonal/working
     oomp_src_flat: footprints_flat/footprints_flat/kleusbalut_kleus_kicad_library_jst_sh_6pin_horizonal/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kleusbalut_kleus_kicad_library_jst_sh_6pin_horizonal/working
-    oomp_src_folder: footprints_folder/footprints_folder/kleusbalut/kleus_kicad_library/JST_SH-6pin_Horizonal/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kleusbalut/kleus_kicad_library/JST_SH-6pin_Horizonal/working
   name: kleus_kicad_library.pretty
+  oomp:
+    footprint_name: jst_sh_6pin_horizonal
+    library_name: kleus_kicad_library
+    md5: 2631f9d70556f98b31466ba5ae3f11e1
+    md5_10: 2631f9d705
+    md5_5: 2631f
+    md5_6: 2631f9
+    oomp_key: oomp_kleusbalut_kleus_kicad_library_jst_sh_6pin_horizonal
+    oomp_key_extra: oomp_footprint_kleusbalut_kleus_kicad_library_jst_sh_6pin_horizonal
+    oomp_key_full: oomp_footprint_kleusbalut_kleus_kicad_library_jst_sh_6pin_horizonal_2631f9
+    oomp_key_simple: kleusbalut_kleus_kicad_library_jst_sh_6pin_horizonal
+    original_filename: kleus_kicad_library.pretty/JST_SH-6pin_Horizonal.kicad_mod
+    owner_name: kleusbalut
   oomp_key: oomp_kleusbalut_kleus_kicad_library_jst_sh_6pin_horizonal
+  oomp_key_full: oomp_footprint_kleusbalut_kleus_kicad_library_jst_sh_6pin_horizonal
   oomp_key_simple: kleusbalut_kleus_kicad_library_jst_sh_6pin_horizonal
   owner: kleusbalut
   repo:

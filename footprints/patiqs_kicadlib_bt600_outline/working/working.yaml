@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/patiqs_kicadlib_bt600_outline/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/patiqs_kicadlib_bt600_outline/working
-    oomp_doc: footprints/footprints/patiqs/KicadLib/BT600_OUTLINE/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/patiqs/KicadLib/BT600_OUTLINE/working
     oomp_src_flat: footprints_flat/footprints_flat/patiqs_kicadlib_bt600_outline/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/patiqs_kicadlib_bt600_outline/working
-    oomp_src_folder: footprints_folder/footprints_folder/patiqs/KicadLib/BT600_OUTLINE/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/patiqs/KicadLib/BT600_OUTLINE/working
   name: KicadLib.pretty
+  oomp:
+    footprint_name: bt600_outline
+    library_name: kicadlib
+    md5: d680ea0ca2b10a6a3ddedf3d6c167808
+    md5_10: d680ea0ca2
+    md5_5: d680e
+    md5_6: d680ea
+    oomp_key: oomp_patiqs_kicadlib_bt600_outline
+    oomp_key_extra: oomp_footprint_patiqs_kicadlib_bt600_outline
+    oomp_key_full: oomp_footprint_patiqs_kicadlib_bt600_outline_d680ea
+    oomp_key_simple: patiqs_kicadlib_bt600_outline
+    original_filename: KicadLib.pretty/BT600_OUTLINE.kicad_mod
+    owner_name: patiqs
   oomp_key: oomp_patiqs_kicadlib_bt600_outline
+  oomp_key_full: oomp_footprint_patiqs_kicadlib_bt600_outline
   oomp_key_simple: patiqs_kicadlib_bt600_outline
   owner: patiqs
   repo:

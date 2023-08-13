@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/russellmcc_russell_neutrick_nmj4hhd2/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/russellmcc_russell_neutrick_nmj4hhd2/working
-    oomp_doc: footprints/footprints/russellmcc/russell/Neutrick_NMJ4HHD2/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/russellmcc/russell/Neutrick_NMJ4HHD2/working
     oomp_src_flat: footprints_flat/footprints_flat/russellmcc_russell_neutrick_nmj4hhd2/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/russellmcc_russell_neutrick_nmj4hhd2/working
-    oomp_src_folder: footprints_folder/footprints_folder/russellmcc/russell/Neutrick_NMJ4HHD2/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/russellmcc/russell/Neutrick_NMJ4HHD2/working
   name: russell_kicad
+  oomp:
+    footprint_name: neutrick_nmj4hhd2
+    library_name: russell
+    md5: 8891186dd13bbf510bbf0bb57ff3d005
+    md5_10: 8891186dd1
+    md5_5: '88911'
+    md5_6: '889118'
+    oomp_key: oomp_russellmcc_russell_neutrick_nmj4hhd2
+    oomp_key_extra: oomp_footprint_russellmcc_russell_neutrick_nmj4hhd2
+    oomp_key_full: oomp_footprint_russellmcc_russell_neutrick_nmj4hhd2_889118
+    oomp_key_simple: russellmcc_russell_neutrick_nmj4hhd2
+    original_filename: russell_kicad/russell.pretty/Neutrick_NMJ4HHD2.kicad_mod
+    owner_name: russellmcc
   oomp_key: oomp_russellmcc_russell_neutrick_nmj4hhd2
+  oomp_key_full: oomp_footprint_russellmcc_russell_neutrick_nmj4hhd2
   oomp_key_simple: russellmcc_russell_neutrick_nmj4hhd2
   owner: russellmcc
   repo:

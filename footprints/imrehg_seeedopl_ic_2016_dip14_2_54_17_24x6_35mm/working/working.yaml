@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/imrehg_seeedopl_ic_2016_dip14_2_54_17_24x6_35mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/imrehg_seeedopl_ic_2016_dip14_2_54_17_24x6_35mm/working
-    oomp_doc: footprints/footprints/imrehg/SeeedOPL-IC-2016/DIP14-2.54-17.24X6.35MM/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/imrehg/SeeedOPL-IC-2016/DIP14-2.54-17.24X6.35MM/working
     oomp_src_flat: footprints_flat/footprints_flat/imrehg_seeedopl_ic_2016_dip14_2_54_17_24x6_35mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/imrehg_seeedopl_ic_2016_dip14_2_54_17_24x6_35mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/imrehg/SeeedOPL-IC-2016/DIP14-2.54-17.24X6.35MM/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/imrehg/SeeedOPL-IC-2016/DIP14-2.54-17.24X6.35MM/working
   name: kicalopl
+  oomp:
+    footprint_name: dip14_2_54_17_24x6_35mm
+    library_name: seeedopl_ic_2016
+    md5: ae17fac6bf5bc681223d3a68dfd99bb8
+    md5_10: ae17fac6bf
+    md5_5: ae17f
+    md5_6: ae17fa
+    oomp_key: oomp_imrehg_seeedopl_ic_2016_dip14_2_54_17_24x6_35mm
+    oomp_key_extra: oomp_footprint_imrehg_seeedopl_ic_2016_dip14_2_54_17_24x6_35mm
+    oomp_key_full: oomp_footprint_imrehg_seeedopl_ic_2016_dip14_2_54_17_24x6_35mm_ae17fa
+    oomp_key_simple: imrehg_seeedopl_ic_2016_dip14_2_54_17_24x6_35mm
+    original_filename: kicalopl/SeeedOPL-IC-2016.pretty/DIP14-2.54-17.24X6.35MM.kicad_mod
+    owner_name: imrehg
   oomp_key: oomp_imrehg_seeedopl_ic_2016_dip14_2_54_17_24x6_35mm
+  oomp_key_full: oomp_footprint_imrehg_seeedopl_ic_2016_dip14_2_54_17_24x6_35mm
   oomp_key_simple: imrehg_seeedopl_ic_2016_dip14_2_54_17_24x6_35mm
   owner: imrehg
   repo:

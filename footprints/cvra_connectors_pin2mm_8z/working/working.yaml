@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cvra_connectors_pin2mm_8z/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cvra_connectors_pin2mm_8z/working
-    oomp_doc: footprints/footprints/cvra/_connectors/_Pin2mm_8z/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cvra/_connectors/_Pin2mm_8z/working
     oomp_src_flat: footprints_flat/footprints_flat/cvra_connectors_pin2mm_8z/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cvra_connectors_pin2mm_8z/working
-    oomp_src_folder: footprints_folder/footprints_folder/cvra/_connectors/_Pin2mm_8z/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cvra/_connectors/_Pin2mm_8z/working
   name: kicad-lib
+  oomp:
+    footprint_name: _pin2mm_8z
+    library_name: _connectors
+    md5: 6324ada48041a7f96ca13e3d687931c4
+    md5_10: 6324ada480
+    md5_5: 6324a
+    md5_6: 6324ad
+    oomp_key: oomp_cvra_connectors_pin2mm_8z
+    oomp_key_extra: oomp_footprint_cvra_connectors_pin2mm_8z
+    oomp_key_full: oomp_footprint_cvra_connectors_pin2mm_8z_6324ad
+    oomp_key_simple: cvra_connectors_pin2mm_8z
+    original_filename: kicad-lib/footprints/_connectors.pretty/_Pin2mm_8z.kicad_mod
+    owner_name: cvra
   oomp_key: oomp_cvra_connectors_pin2mm_8z
+  oomp_key_full: oomp_footprint_cvra_connectors_pin2mm_8z
   oomp_key_simple: cvra_connectors_pin2mm_8z
   owner: cvra
   repo:

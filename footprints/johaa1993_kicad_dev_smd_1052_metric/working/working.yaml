@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/johaa1993_kicad_dev_smd_1052_metric/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/johaa1993_kicad_dev_smd_1052_metric/working
-    oomp_doc: footprints/footprints/johaa1993/KiCad-Dev/SMD_1052_Metric/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/johaa1993/KiCad-Dev/SMD_1052_Metric/working
     oomp_src_flat: footprints_flat/footprints_flat/johaa1993_kicad_dev_smd_1052_metric/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/johaa1993_kicad_dev_smd_1052_metric/working
-    oomp_src_folder: footprints_folder/footprints_folder/johaa1993/KiCad-Dev/SMD_1052_Metric/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/johaa1993/KiCad-Dev/SMD_1052_Metric/working
   name: KiCad-Dev.pretty
+  oomp:
+    footprint_name: smd_1052_metric
+    library_name: kicad_dev
+    md5: 8b1253b93ead8e963bb7f448570dcd68
+    md5_10: 8b1253b93e
+    md5_5: 8b125
+    md5_6: 8b1253
+    oomp_key: oomp_johaa1993_kicad_dev_smd_1052_metric
+    oomp_key_extra: oomp_footprint_johaa1993_kicad_dev_smd_1052_metric
+    oomp_key_full: oomp_footprint_johaa1993_kicad_dev_smd_1052_metric_8b1253
+    oomp_key_simple: johaa1993_kicad_dev_smd_1052_metric
+    original_filename: KiCad-Dev.pretty/SMD_1052_Metric.kicad_mod
+    owner_name: johaa1993
   oomp_key: oomp_johaa1993_kicad_dev_smd_1052_metric
+  oomp_key_full: oomp_footprint_johaa1993_kicad_dev_smd_1052_metric
   oomp_key_simple: johaa1993_kicad_dev_smd_1052_metric
   owner: johaa1993
   repo:

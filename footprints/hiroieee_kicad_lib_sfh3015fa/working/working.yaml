@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/hiroieee_kicad_lib_sfh3015fa/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/hiroieee_kicad_lib_sfh3015fa/working
-    oomp_doc: footprints/footprints/hiroieee/kicad-lib/SFH3015FA/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/hiroieee/kicad-lib/SFH3015FA/working
     oomp_src_flat: footprints_flat/footprints_flat/hiroieee_kicad_lib_sfh3015fa/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/hiroieee_kicad_lib_sfh3015fa/working
-    oomp_src_folder: footprints_folder/footprints_folder/hiroieee/kicad-lib/SFH3015FA/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/hiroieee/kicad-lib/SFH3015FA/working
   name: kicad-lib.pretty
+  oomp:
+    footprint_name: sfh3015fa
+    library_name: kicad_lib
+    md5: 5cd879053d4411731bd6e6343b8d8866
+    md5_10: 5cd879053d
+    md5_5: 5cd87
+    md5_6: 5cd879
+    oomp_key: oomp_hiroieee_kicad_lib_sfh3015fa
+    oomp_key_extra: oomp_footprint_hiroieee_kicad_lib_sfh3015fa
+    oomp_key_full: oomp_footprint_hiroieee_kicad_lib_sfh3015fa_5cd879
+    oomp_key_simple: hiroieee_kicad_lib_sfh3015fa
+    original_filename: kicad-lib.pretty/SFH3015FA.kicad_mod
+    owner_name: hiroieee
   oomp_key: oomp_hiroieee_kicad_lib_sfh3015fa
+  oomp_key_full: oomp_footprint_hiroieee_kicad_lib_sfh3015fa
   oomp_key_simple: hiroieee_kicad_lib_sfh3015fa
   owner: hiroieee
   repo:

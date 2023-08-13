@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/rigidus_kicad_my_library_rj45_tyco_5_6605758_4/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/rigidus_kicad_my_library_rj45_tyco_5_6605758_4/working
-    oomp_doc: footprints/footprints/rigidus/kicad_my_library/rj45-tyco-5-6605758-4/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/rigidus/kicad_my_library/rj45-tyco-5-6605758-4/working
     oomp_src_flat: footprints_flat/footprints_flat/rigidus_kicad_my_library_rj45_tyco_5_6605758_4/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/rigidus_kicad_my_library_rj45_tyco_5_6605758_4/working
-    oomp_src_folder: footprints_folder/footprints_folder/rigidus/kicad_my_library/rj45-tyco-5-6605758-4/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/rigidus/kicad_my_library/rj45-tyco-5-6605758-4/working
   name: kicad_my_library.pretty
+  oomp:
+    footprint_name: rj45_tyco_5_6605758_4
+    library_name: kicad_my_library
+    md5: c5b5a49319e594473f7bd731b9949b00
+    md5_10: c5b5a49319
+    md5_5: c5b5a
+    md5_6: c5b5a4
+    oomp_key: oomp_rigidus_kicad_my_library_rj45_tyco_5_6605758_4
+    oomp_key_extra: oomp_footprint_rigidus_kicad_my_library_rj45_tyco_5_6605758_4
+    oomp_key_full: oomp_footprint_rigidus_kicad_my_library_rj45_tyco_5_6605758_4_c5b5a4
+    oomp_key_simple: rigidus_kicad_my_library_rj45_tyco_5_6605758_4
+    original_filename: kicad_my_library.pretty/rj45-tyco-5-6605758-4.kicad_mod
+    owner_name: rigidus
   oomp_key: oomp_rigidus_kicad_my_library_rj45_tyco_5_6605758_4
+  oomp_key_full: oomp_footprint_rigidus_kicad_my_library_rj45_tyco_5_6605758_4
   oomp_key_simple: rigidus_kicad_my_library_rj45_tyco_5_6605758_4
   owner: rigidus
   repo:

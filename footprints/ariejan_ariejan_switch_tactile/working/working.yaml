@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/ariejan/ariejan.pretty
     oomp_bot: footprints/ariejan_ariejan_switch_tactile/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ariejan_ariejan_switch_tactile/working
-    oomp_doc: footprints/footprints/ariejan/ariejan/SWITCH_TACTILE/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ariejan/ariejan/SWITCH_TACTILE/working
     oomp_src_flat: footprints_flat/footprints_flat/ariejan_ariejan_switch_tactile/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ariejan_ariejan_switch_tactile/working
-    oomp_src_folder: footprints_folder/footprints_folder/ariejan/ariejan/SWITCH_TACTILE/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ariejan/ariejan/SWITCH_TACTILE/working
   name: ariejan.pretty
+  oomp:
+    footprint_name: switch_tactile
+    library_name: ariejan
+    md5: 4c25c233429f12df4e27e89ee87c68eb
+    md5_10: 4c25c23342
+    md5_5: 4c25c
+    md5_6: 4c25c2
+    oomp_key: oomp_ariejan_ariejan_switch_tactile
+    oomp_key_extra: oomp_footprint_ariejan_ariejan_switch_tactile
+    oomp_key_full: oomp_footprint_ariejan_ariejan_switch_tactile_4c25c2
+    oomp_key_simple: ariejan_ariejan_switch_tactile
+    original_filename: ariejan.pretty/SWITCH_TACTILE.kicad_mod
+    owner_name: ariejan
   oomp_key: oomp_ariejan_ariejan_switch_tactile
+  oomp_key_full: oomp_footprint_ariejan_ariejan_switch_tactile
   oomp_key_simple: ariejan_ariejan_switch_tactile
   owner: ariejan
   repo:

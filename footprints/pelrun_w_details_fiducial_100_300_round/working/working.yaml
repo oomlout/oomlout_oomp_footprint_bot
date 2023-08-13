@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pelrun_w_details_fiducial_100_300_round/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pelrun_w_details_fiducial_100_300_round/working
-    oomp_doc: footprints/footprints/pelrun/w_details/fiducial_100_300_round/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/pelrun/w_details/fiducial_100_300_round/working
     oomp_src_flat: footprints_flat/footprints_flat/pelrun_w_details_fiducial_100_300_round/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pelrun_w_details_fiducial_100_300_round/working
-    oomp_src_folder: footprints_folder/footprints_folder/pelrun/w_details/fiducial_100_300_round/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/pelrun/w_details/fiducial_100_300_round/working
   name: libKiCad
+  oomp:
+    footprint_name: fiducial_100_300_round
+    library_name: w_details
+    md5: f8cf7bcb0dc83ff2f1755d66b4440e06
+    md5_10: f8cf7bcb0d
+    md5_5: f8cf7
+    md5_6: f8cf7b
+    oomp_key: oomp_pelrun_w_details_fiducial_100_300_round
+    oomp_key_extra: oomp_footprint_pelrun_w_details_fiducial_100_300_round
+    oomp_key_full: oomp_footprint_pelrun_w_details_fiducial_100_300_round_f8cf7b
+    oomp_key_simple: pelrun_w_details_fiducial_100_300_round
+    original_filename: libKiCad/footprint/w_details.pretty/fiducial_100_300_round.kicad_mod
+    owner_name: pelrun
   oomp_key: oomp_pelrun_w_details_fiducial_100_300_round
+  oomp_key_full: oomp_footprint_pelrun_w_details_fiducial_100_300_round
   oomp_key_simple: pelrun_w_details_fiducial_100_300_round
   owner: pelrun
   repo:

@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/candykingdom_homebrew_anr11r11p2hqe/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/candykingdom_homebrew_anr11r11p2hqe/working
-    oomp_doc: footprints/footprints/candykingdom/homebrew/ANR11R11P2HQE/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/candykingdom/homebrew/ANR11R11P2HQE/working
     oomp_src_flat: footprints_flat/footprints_flat/candykingdom_homebrew_anr11r11p2hqe/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/candykingdom_homebrew_anr11r11p2hqe/working
-    oomp_src_folder: footprints_folder/footprints_folder/candykingdom/homebrew/ANR11R11P2HQE/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/candykingdom/homebrew/ANR11R11P2HQE/working
   name: homebrew.pretty
+  oomp:
+    footprint_name: anr11r11p2hqe
+    library_name: homebrew
+    md5: 16e1dd64eccb06255fb429dcc725dbe3
+    md5_10: 16e1dd64ec
+    md5_5: 16e1d
+    md5_6: 16e1dd
+    oomp_key: oomp_candykingdom_homebrew_anr11r11p2hqe
+    oomp_key_extra: oomp_footprint_candykingdom_homebrew_anr11r11p2hqe
+    oomp_key_full: oomp_footprint_candykingdom_homebrew_anr11r11p2hqe_16e1dd
+    oomp_key_simple: candykingdom_homebrew_anr11r11p2hqe
+    original_filename: homebrew.pretty/ANR11R11P2HQE.kicad_mod
+    owner_name: candykingdom
   oomp_key: oomp_candykingdom_homebrew_anr11r11p2hqe
+  oomp_key_full: oomp_footprint_candykingdom_homebrew_anr11r11p2hqe
   oomp_key_simple: candykingdom_homebrew_anr11r11p2hqe
   owner: candykingdom
   repo:

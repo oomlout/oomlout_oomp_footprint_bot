@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/graycatlabs_graycatlabs_fiducial_1mm_2mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/graycatlabs_graycatlabs_fiducial_1mm_2mm/working
-    oomp_doc: footprints/footprints/graycatlabs/GrayCatLabs/Fiducial_1mm-2mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/graycatlabs/GrayCatLabs/Fiducial_1mm-2mm/working
     oomp_src_flat: footprints_flat/footprints_flat/graycatlabs_graycatlabs_fiducial_1mm_2mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/graycatlabs_graycatlabs_fiducial_1mm_2mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/graycatlabs/GrayCatLabs/Fiducial_1mm-2mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/graycatlabs/GrayCatLabs/Fiducial_1mm-2mm/working
   name: GrayCatLabs.pretty
+  oomp:
+    footprint_name: fiducial_1mm_2mm
+    library_name: graycatlabs
+    md5: 61862f7ed3da13cb4eb44f07e7debcd0
+    md5_10: 61862f7ed3
+    md5_5: '61862'
+    md5_6: 61862f
+    oomp_key: oomp_graycatlabs_graycatlabs_fiducial_1mm_2mm
+    oomp_key_extra: oomp_footprint_graycatlabs_graycatlabs_fiducial_1mm_2mm
+    oomp_key_full: oomp_footprint_graycatlabs_graycatlabs_fiducial_1mm_2mm_61862f
+    oomp_key_simple: graycatlabs_graycatlabs_fiducial_1mm_2mm
+    original_filename: GrayCatLabs.pretty/Fiducial_1mm-2mm.kicad_mod
+    owner_name: graycatlabs
   oomp_key: oomp_graycatlabs_graycatlabs_fiducial_1mm_2mm
+  oomp_key_full: oomp_footprint_graycatlabs_graycatlabs_fiducial_1mm_2mm
   oomp_key_simple: graycatlabs_graycatlabs_fiducial_1mm_2mm
   owner: graycatlabs
   repo:

@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/kubiX89/kiCAD.pretty
     oomp_bot: footprints/kubix89_kicad_p2220/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kubix89_kicad_p2220/working
-    oomp_doc: footprints/footprints/kubiX89/kiCAD/P2220/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kubiX89/kiCAD/P2220/working
     oomp_src_flat: footprints_flat/footprints_flat/kubix89_kicad_p2220/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kubix89_kicad_p2220/working
-    oomp_src_folder: footprints_folder/footprints_folder/kubiX89/kiCAD/P2220/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kubiX89/kiCAD/P2220/working
   name: kiCAD.pretty
+  oomp:
+    footprint_name: p2220
+    library_name: kicad
+    md5: c19c32a8a7b141e4cce9ed236d2ec74c
+    md5_10: c19c32a8a7
+    md5_5: c19c3
+    md5_6: c19c32
+    oomp_key: oomp_kubix89_kicad_p2220
+    oomp_key_extra: oomp_footprint_kubix89_kicad_p2220
+    oomp_key_full: oomp_footprint_kubix89_kicad_p2220_c19c32
+    oomp_key_simple: kubix89_kicad_p2220
+    original_filename: kiCAD.pretty/P2220.kicad_mod
+    owner_name: kubix89
   oomp_key: oomp_kubix89_kicad_p2220
+  oomp_key_full: oomp_footprint_kubix89_kicad_p2220
   oomp_key_simple: kubix89_kicad_p2220
   owner: kubiX89
   repo:

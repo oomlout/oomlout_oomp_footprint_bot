@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/kubiX89/kiCAD.pretty
     oomp_bot: footprints/kubix89_kicad_diode_152af/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kubix89_kicad_diode_152af/working
-    oomp_doc: footprints/footprints/kubiX89/kiCAD/DIODE_152AF/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kubiX89/kiCAD/DIODE_152AF/working
     oomp_src_flat: footprints_flat/footprints_flat/kubix89_kicad_diode_152af/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kubix89_kicad_diode_152af/working
-    oomp_src_folder: footprints_folder/footprints_folder/kubiX89/kiCAD/DIODE_152AF/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kubiX89/kiCAD/DIODE_152AF/working
   name: kiCAD.pretty
+  oomp:
+    footprint_name: diode_152af
+    library_name: kicad
+    md5: ba01b3d3a89b1736c4474fc45604cf64
+    md5_10: ba01b3d3a8
+    md5_5: ba01b
+    md5_6: ba01b3
+    oomp_key: oomp_kubix89_kicad_diode_152af
+    oomp_key_extra: oomp_footprint_kubix89_kicad_diode_152af
+    oomp_key_full: oomp_footprint_kubix89_kicad_diode_152af_ba01b3
+    oomp_key_simple: kubix89_kicad_diode_152af
+    original_filename: kiCAD.pretty/DIODE_152AF.kicad_mod
+    owner_name: kubix89
   oomp_key: oomp_kubix89_kicad_diode_152af
+  oomp_key_full: oomp_footprint_kubix89_kicad_diode_152af
   oomp_key_simple: kubix89_kicad_diode_152af
   owner: kubiX89
   repo:

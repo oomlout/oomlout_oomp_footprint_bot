@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cpavlina_ipc7351_nominal_capmp7350x340/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cpavlina_ipc7351_nominal_capmp7350x340/working
-    oomp_doc: footprints/footprints/cpavlina/IPC7351-Nominal/CAPMP7350X340/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cpavlina/IPC7351-Nominal/CAPMP7350X340/working
     oomp_src_flat: footprints_flat/footprints_flat/cpavlina_ipc7351_nominal_capmp7350x340/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cpavlina_ipc7351_nominal_capmp7350x340/working
-    oomp_src_folder: footprints_folder/footprints_folder/cpavlina/IPC7351-Nominal/CAPMP7350X340/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cpavlina/IPC7351-Nominal/CAPMP7350X340/working
   name: kicad-pcblib
+  oomp:
+    footprint_name: capmp7350x340
+    library_name: ipc7351_nominal
+    md5: 2ab72c4338ed3af2473efc432abb25f7
+    md5_10: 2ab72c4338
+    md5_5: 2ab72
+    md5_6: 2ab72c
+    oomp_key: oomp_cpavlina_ipc7351_nominal_capmp7350x340
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_nominal_capmp7350x340
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_capmp7350x340_2ab72c
+    oomp_key_simple: cpavlina_ipc7351_nominal_capmp7350x340
+    original_filename: kicad-pcblib/IPC7351-Nominal.pretty/CAPMP7350X340.kicad_mod
+    owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_nominal_capmp7350x340
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_capmp7350x340
   oomp_key_simple: cpavlina_ipc7351_nominal_capmp7350x340
   owner: cpavlina
   repo:

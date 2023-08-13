@@ -1,8 +1,5 @@
-- file: KiCAD/mods/freetronics_footprints.pretty/1210.kicad_mod
-  footprint:
-    description: null
-    libraryLink: 1210
-    number_of_pads: 2
+- error: expected string or bytes-like object, got 'int'
+  file: KiCAD/mods/freetronics_footprints.pretty/1210.kicad_mod
   footprint_library_directory: footprint_library_owner/OLIMEX_KiCAD
   footprint_library_directory_flat: footprints_flat/olimex_freetronics_footprints_1210/working
   github_path: http://github.com/OLIMEX/KiCAD/blob/master/mods/freetronics_footprints.pretty/1210.kicad_mod
@@ -11,14 +8,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/olimex_freetronics_footprints_1210/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/olimex_freetronics_footprints_1210/working
-    oomp_doc: footprints/footprints/OLIMEX/freetronics_footprints/1210/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/OLIMEX/freetronics_footprints/1210/working
     oomp_src_flat: footprints_flat/footprints_flat/olimex_freetronics_footprints_1210/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/olimex_freetronics_footprints_1210/working
-    oomp_src_folder: footprints_folder/footprints_folder/OLIMEX/freetronics_footprints/1210/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/OLIMEX/freetronics_footprints/1210/working
   name: KiCAD
+  oomp:
+    footprint_name: '1210'
+    library_name: freetronics_footprints
+    md5: db20171867d1ce7fb1ee12a6c76d5398
+    md5_10: db20171867
+    md5_5: db201
+    md5_6: db2017
+    oomp_key: oomp_olimex_freetronics_footprints_1210
+    oomp_key_extra: oomp_footprint_olimex_freetronics_footprints_1210
+    oomp_key_full: oomp_footprint_olimex_freetronics_footprints_1210_db2017
+    oomp_key_simple: olimex_freetronics_footprints_1210
+    original_filename: KiCAD/mods/freetronics_footprints.pretty/1210.kicad_mod
+    owner_name: olimex
   oomp_key: oomp_olimex_freetronics_footprints_1210
+  oomp_key_full: oomp_footprint_olimex_freetronics_footprints_1210
   oomp_key_simple: olimex_freetronics_footprints_1210
   owner: OLIMEX
   repo:

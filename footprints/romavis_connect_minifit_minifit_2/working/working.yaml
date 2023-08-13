@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/romavis_connect_minifit_minifit_2/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/romavis_connect_minifit_minifit_2/working
-    oomp_doc: footprints/footprints/RomaVis/connect-minifit/minifit-2/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/RomaVis/connect-minifit/minifit-2/working
     oomp_src_flat: footprints_flat/footprints_flat/romavis_connect_minifit_minifit_2/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/romavis_connect_minifit_minifit_2/working
-    oomp_src_folder: footprints_folder/footprints_folder/RomaVis/connect-minifit/minifit-2/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/RomaVis/connect-minifit/minifit-2/working
   name: connect-minifit.pretty
+  oomp:
+    footprint_name: minifit_2
+    library_name: connect_minifit
+    md5: 5458faba492ae3a8cdc4d81716da8355
+    md5_10: 5458faba49
+    md5_5: 5458f
+    md5_6: 5458fa
+    oomp_key: oomp_romavis_connect_minifit_minifit_2
+    oomp_key_extra: oomp_footprint_romavis_connect_minifit_minifit_2
+    oomp_key_full: oomp_footprint_romavis_connect_minifit_minifit_2_5458fa
+    oomp_key_simple: romavis_connect_minifit_minifit_2
+    original_filename: connect-minifit.pretty/minifit-2.kicad_mod
+    owner_name: romavis
   oomp_key: oomp_romavis_connect_minifit_minifit_2
+  oomp_key_full: oomp_footprint_romavis_connect_minifit_minifit_2
   oomp_key_simple: romavis_connect_minifit_minifit_2
   owner: RomaVis
   repo:

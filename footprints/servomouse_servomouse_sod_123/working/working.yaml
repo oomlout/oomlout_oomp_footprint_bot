@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/servomouse_servomouse_sod_123/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/servomouse_servomouse_sod_123/working
-    oomp_doc: footprints/footprints/servomouse/servomouse/SOD-123/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/servomouse/servomouse/SOD-123/working
     oomp_src_flat: footprints_flat/footprints_flat/servomouse_servomouse_sod_123/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/servomouse_servomouse_sod_123/working
-    oomp_src_folder: footprints_folder/footprints_folder/servomouse/servomouse/SOD-123/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/servomouse/servomouse/SOD-123/working
   name: servomouse.pretty
+  oomp:
+    footprint_name: sod_123
+    library_name: servomouse
+    md5: da748fd36bf373cb2f660811418d3cb6
+    md5_10: da748fd36b
+    md5_5: da748
+    md5_6: da748f
+    oomp_key: oomp_servomouse_servomouse_sod_123
+    oomp_key_extra: oomp_footprint_servomouse_servomouse_sod_123
+    oomp_key_full: oomp_footprint_servomouse_servomouse_sod_123_da748f
+    oomp_key_simple: servomouse_servomouse_sod_123
+    original_filename: servomouse.pretty/SOD-123.kicad_mod
+    owner_name: servomouse
   oomp_key: oomp_servomouse_servomouse_sod_123
+  oomp_key_full: oomp_footprint_servomouse_servomouse_sod_123
   oomp_key_simple: servomouse_servomouse_sod_123
   owner: servomouse
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/axello_footprints_creative_commons_by_mask/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/axello_footprints_creative_commons_by_mask/working
-    oomp_doc: footprints/footprints/axello/footprints/Creative_Commons_BY_Mask/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/axello/footprints/Creative_Commons_BY_Mask/working
     oomp_src_flat: footprints_flat/footprints_flat/axello_footprints_creative_commons_by_mask/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/axello_footprints_creative_commons_by_mask/working
-    oomp_src_folder: footprints_folder/footprints_folder/axello/footprints/Creative_Commons_BY_Mask/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/axello/footprints/Creative_Commons_BY_Mask/working
   name: kicad
+  oomp:
+    footprint_name: creative_commons_by_mask
+    library_name: footprints
+    md5: 3dc07d9cbfb5958b4ee1cc3d73a96c76
+    md5_10: 3dc07d9cbf
+    md5_5: 3dc07
+    md5_6: 3dc07d
+    oomp_key: oomp_axello_footprints_creative_commons_by_mask
+    oomp_key_extra: oomp_footprint_axello_footprints_creative_commons_by_mask
+    oomp_key_full: oomp_footprint_axello_footprints_creative_commons_by_mask_3dc07d
+    oomp_key_simple: axello_footprints_creative_commons_by_mask
+    original_filename: kicad/demos/stickhub/footprints.pretty/Creative_Commons_BY_Mask.kicad_mod
+    owner_name: axello
   oomp_key: oomp_axello_footprints_creative_commons_by_mask
+  oomp_key_full: oomp_footprint_axello_footprints_creative_commons_by_mask
   oomp_key_simple: axello_footprints_creative_commons_by_mask
   owner: axello
   repo:

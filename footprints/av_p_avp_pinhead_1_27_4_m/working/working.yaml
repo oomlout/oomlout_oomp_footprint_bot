@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/av_p_avp_pinhead_1_27_4_m/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/av_p_avp_pinhead_1_27_4_m/working
-    oomp_doc: footprints/footprints/av-p/Avp/PINHEAD_1.27_4_M/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/av-p/Avp/PINHEAD_1.27_4_M/working
     oomp_src_flat: footprints_flat/footprints_flat/av_p_avp_pinhead_1_27_4_m/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/av_p_avp_pinhead_1_27_4_m/working
-    oomp_src_folder: footprints_folder/footprints_folder/av-p/Avp/PINHEAD_1.27_4_M/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/av-p/Avp/PINHEAD_1.27_4_M/working
   name: Avp.pretty
+  oomp:
+    footprint_name: pinhead_1_27_4_m
+    library_name: avp
+    md5: 3a6f40f73e5ac418d8610f8120ddae9c
+    md5_10: 3a6f40f73e
+    md5_5: 3a6f4
+    md5_6: 3a6f40
+    oomp_key: oomp_av_p_avp_pinhead_1_27_4_m
+    oomp_key_extra: oomp_footprint_av_p_avp_pinhead_1_27_4_m
+    oomp_key_full: oomp_footprint_av_p_avp_pinhead_1_27_4_m_3a6f40
+    oomp_key_simple: av_p_avp_pinhead_1_27_4_m
+    original_filename: Avp.pretty/PINHEAD_1.27_4_M.kicad_mod
+    owner_name: av_p
   oomp_key: oomp_av_p_avp_pinhead_1_27_4_m
+  oomp_key_full: oomp_footprint_av_p_avp_pinhead_1_27_4_m
   oomp_key_simple: av_p_avp_pinhead_1_27_4_m
   owner: av-p
   repo:

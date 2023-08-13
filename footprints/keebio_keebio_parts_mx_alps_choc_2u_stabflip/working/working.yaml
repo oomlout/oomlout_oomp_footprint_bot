@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/keebio_keebio_parts_mx_alps_choc_2u_stabflip/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/keebio_keebio_parts_mx_alps_choc_2u_stabflip/working
-    oomp_doc: footprints/footprints/keebio/Keebio-Parts/MX-Alps-Choc-2U-StabFlip/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/keebio/Keebio-Parts/MX-Alps-Choc-2U-StabFlip/working
     oomp_src_flat: footprints_flat/footprints_flat/keebio_keebio_parts_mx_alps_choc_2u_stabflip/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/keebio_keebio_parts_mx_alps_choc_2u_stabflip/working
-    oomp_src_folder: footprints_folder/footprints_folder/keebio/Keebio-Parts/MX-Alps-Choc-2U-StabFlip/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/keebio/Keebio-Parts/MX-Alps-Choc-2U-StabFlip/working
   name: Keebio-Parts.pretty
+  oomp:
+    footprint_name: mx_alps_choc_2u_stabflip
+    library_name: keebio_parts
+    md5: cb90e6119c58a2e1de5f2e4cb5c11106
+    md5_10: cb90e6119c
+    md5_5: cb90e
+    md5_6: cb90e6
+    oomp_key: oomp_keebio_keebio_parts_mx_alps_choc_2u_stabflip
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_mx_alps_choc_2u_stabflip
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_mx_alps_choc_2u_stabflip_cb90e6
+    oomp_key_simple: keebio_keebio_parts_mx_alps_choc_2u_stabflip
+    original_filename: Keebio-Parts.pretty/MX-Alps-Choc-2U-StabFlip.kicad_mod
+    owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_mx_alps_choc_2u_stabflip
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_mx_alps_choc_2u_stabflip
   oomp_key_simple: keebio_keebio_parts_mx_alps_choc_2u_stabflip
   owner: keebio
   repo:

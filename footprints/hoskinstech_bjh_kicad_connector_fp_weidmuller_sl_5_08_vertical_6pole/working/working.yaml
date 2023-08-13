@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/hoskinstech_bjh_kicad_connector_fp_weidmuller_sl_5_08_vertical_6pole/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/hoskinstech_bjh_kicad_connector_fp_weidmuller_sl_5_08_vertical_6pole/working
-    oomp_doc: footprints/footprints/hoskinstech/bjh-kicad-connector-fp/Weidmuller-SL-5.08-Vertical-6Pole/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/hoskinstech/bjh-kicad-connector-fp/Weidmuller-SL-5.08-Vertical-6Pole/working
     oomp_src_flat: footprints_flat/footprints_flat/hoskinstech_bjh_kicad_connector_fp_weidmuller_sl_5_08_vertical_6pole/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/hoskinstech_bjh_kicad_connector_fp_weidmuller_sl_5_08_vertical_6pole/working
-    oomp_src_folder: footprints_folder/footprints_folder/hoskinstech/bjh-kicad-connector-fp/Weidmuller-SL-5.08-Vertical-6Pole/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/hoskinstech/bjh-kicad-connector-fp/Weidmuller-SL-5.08-Vertical-6Pole/working
   name: bjh-kicad-connector-fp.pretty
+  oomp:
+    footprint_name: weidmuller_sl_5_08_vertical_6pole
+    library_name: bjh_kicad_connector_fp
+    md5: 084663f5e7e03fab7574db98fd5ccabf
+    md5_10: 084663f5e7
+    md5_5: 08466
+    md5_6: 084663
+    oomp_key: oomp_hoskinstech_bjh_kicad_connector_fp_weidmuller_sl_5_08_vertical_6pole
+    oomp_key_extra: oomp_footprint_hoskinstech_bjh_kicad_connector_fp_weidmuller_sl_5_08_vertical_6pole
+    oomp_key_full: oomp_footprint_hoskinstech_bjh_kicad_connector_fp_weidmuller_sl_5_08_vertical_6pole_084663
+    oomp_key_simple: hoskinstech_bjh_kicad_connector_fp_weidmuller_sl_5_08_vertical_6pole
+    original_filename: bjh-kicad-connector-fp.pretty/Weidmuller-SL-5.08-Vertical-6Pole.kicad_mod
+    owner_name: hoskinstech
   oomp_key: oomp_hoskinstech_bjh_kicad_connector_fp_weidmuller_sl_5_08_vertical_6pole
+  oomp_key_full: oomp_footprint_hoskinstech_bjh_kicad_connector_fp_weidmuller_sl_5_08_vertical_6pole
   oomp_key_simple: hoskinstech_bjh_kicad_connector_fp_weidmuller_sl_5_08_vertical_6pole
   owner: hoskinstech
   repo:

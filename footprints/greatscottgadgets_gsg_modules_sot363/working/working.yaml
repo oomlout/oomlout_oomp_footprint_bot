@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/greatscottgadgets_gsg_modules_sot363/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/greatscottgadgets_gsg_modules_sot363/working
-    oomp_doc: footprints/footprints/greatscottgadgets/gsg-modules/SOT363/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/greatscottgadgets/gsg-modules/SOT363/working
     oomp_src_flat: footprints_flat/footprints_flat/greatscottgadgets_gsg_modules_sot363/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/greatscottgadgets_gsg_modules_sot363/working
-    oomp_src_folder: footprints_folder/footprints_folder/greatscottgadgets/gsg-modules/SOT363/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/greatscottgadgets/gsg-modules/SOT363/working
   name: gsg-kicad-lib
+  oomp:
+    footprint_name: sot363
+    library_name: gsg_modules
+    md5: 4c85506010651235903cb0b46c4d6757
+    md5_10: 4c85506010
+    md5_5: 4c855
+    md5_6: 4c8550
+    oomp_key: oomp_greatscottgadgets_gsg_modules_sot363
+    oomp_key_extra: oomp_footprint_greatscottgadgets_gsg_modules_sot363
+    oomp_key_full: oomp_footprint_greatscottgadgets_gsg_modules_sot363_4c8550
+    oomp_key_simple: greatscottgadgets_gsg_modules_sot363
+    original_filename: gsg-kicad-lib/gsg-modules.pretty/SOT363.kicad_mod
+    owner_name: greatscottgadgets
   oomp_key: oomp_greatscottgadgets_gsg_modules_sot363
+  oomp_key_full: oomp_footprint_greatscottgadgets_gsg_modules_sot363
   oomp_key_simple: greatscottgadgets_gsg_modules_sot363
   owner: greatscottgadgets
   repo:

@@ -12,17 +12,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_connector_dsub_dsub_9_female_vertical_p2_77x2_84mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_connector_dsub_dsub_9_female_vertical_p2_77x2_84mm/working
-    oomp_doc: footprints/footprints/kicad/Connector_Dsub/DSUB-9_Female_Vertical_P2.77x2.84mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Connector_Dsub/DSUB-9_Female_Vertical_P2.77x2.84mm/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_connector_dsub_dsub_9_female_vertical_p2_77x2_84mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_connector_dsub_dsub_9_female_vertical_p2_77x2_84mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Connector_Dsub/DSUB-9_Female_Vertical_P2.77x2.84mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Connector_Dsub/DSUB-9_Female_Vertical_P2.77x2.84mm/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: dsub_9_female_vertical_p2_77x2_84mm
+    library_name: connector_dsub
+    md5: 4c4194b7bcfe861540dc9fc9d4a95039
+    md5_10: 4c4194b7bc
+    md5_5: 4c419
+    md5_6: 4c4194
+    oomp_key: oomp_kicad_connector_dsub_dsub_9_female_vertical_p2_77x2_84mm
+    oomp_key_extra: oomp_footprint_kicad_connector_dsub_dsub_9_female_vertical_p2_77x2_84mm
+    oomp_key_full: oomp_footprint_kicad_connector_dsub_dsub_9_female_vertical_p2_77x2_84mm_4c4194
+    oomp_key_simple: kicad_connector_dsub_dsub_9_female_vertical_p2_77x2_84mm
+    original_filename: libraries/kicad-footprints/Connector_Dsub.pretty/DSUB-9_Female_Vertical_P2.77x2.84mm.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_connector_dsub_dsub_9_female_vertical_p2_77x2_84mm
+  oomp_key_full: oomp_footprint_kicad_connector_dsub_dsub_9_female_vertical_p2_77x2_84mm
   oomp_key_simple: kicad_connector_dsub_dsub_9_female_vertical_p2_77x2_84mm
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

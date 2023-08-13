@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/shelaf_dygma_raise_fp_via_matrix/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/shelaf_dygma_raise_fp_via_matrix/working
-    oomp_doc: footprints/footprints/shelaf-dygma/raise_fp/VIA_MATRIX/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/shelaf-dygma/raise_fp/VIA_MATRIX/working
     oomp_src_flat: footprints_flat/footprints_flat/shelaf_dygma_raise_fp_via_matrix/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/shelaf_dygma_raise_fp_via_matrix/working
-    oomp_src_folder: footprints_folder/footprints_folder/shelaf-dygma/raise_fp/VIA_MATRIX/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/shelaf-dygma/raise_fp/VIA_MATRIX/working
   name: raise_fp.pretty
+  oomp:
+    footprint_name: via_matrix
+    library_name: raise_fp
+    md5: e999bfb51acd02d4bf07fd47cb138596
+    md5_10: e999bfb51a
+    md5_5: e999b
+    md5_6: e999bf
+    oomp_key: oomp_shelaf_dygma_raise_fp_via_matrix
+    oomp_key_extra: oomp_footprint_shelaf_dygma_raise_fp_via_matrix
+    oomp_key_full: oomp_footprint_shelaf_dygma_raise_fp_via_matrix_e999bf
+    oomp_key_simple: shelaf_dygma_raise_fp_via_matrix
+    original_filename: raise_fp.pretty/VIA_MATRIX.kicad_mod
+    owner_name: shelaf_dygma
   oomp_key: oomp_shelaf_dygma_raise_fp_via_matrix
+  oomp_key_full: oomp_footprint_shelaf_dygma_raise_fp_via_matrix
   oomp_key_simple: shelaf_dygma_raise_fp_via_matrix
   owner: shelaf-dygma
   repo:

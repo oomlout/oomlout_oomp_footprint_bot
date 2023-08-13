@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/jeff_russ_kicad_mixer_minicircuits_ade_1/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/jeff_russ_kicad_mixer_minicircuits_ade_1/working
-    oomp_doc: footprints/footprints/Jeff-Russ/Kicad/Mixer_Minicircuits_ADE-1/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Jeff-Russ/Kicad/Mixer_Minicircuits_ADE-1/working
     oomp_src_flat: footprints_flat/footprints_flat/jeff_russ_kicad_mixer_minicircuits_ade_1/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/jeff_russ_kicad_mixer_minicircuits_ade_1/working
-    oomp_src_folder: footprints_folder/footprints_folder/Jeff-Russ/Kicad/Mixer_Minicircuits_ADE-1/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Jeff-Russ/Kicad/Mixer_Minicircuits_ADE-1/working
   name: Kicad.pretty
+  oomp:
+    footprint_name: mixer_minicircuits_ade_1
+    library_name: kicad
+    md5: be1ae78257be635a2b4ae8f54f7fe78f
+    md5_10: be1ae78257
+    md5_5: be1ae
+    md5_6: be1ae7
+    oomp_key: oomp_jeff_russ_kicad_mixer_minicircuits_ade_1
+    oomp_key_extra: oomp_footprint_jeff_russ_kicad_mixer_minicircuits_ade_1
+    oomp_key_full: oomp_footprint_jeff_russ_kicad_mixer_minicircuits_ade_1_be1ae7
+    oomp_key_simple: jeff_russ_kicad_mixer_minicircuits_ade_1
+    original_filename: Kicad.pretty/Mixer_Minicircuits_ADE-1.kicad_mod
+    owner_name: jeff_russ
   oomp_key: oomp_jeff_russ_kicad_mixer_minicircuits_ade_1
+  oomp_key_full: oomp_footprint_jeff_russ_kicad_mixer_minicircuits_ade_1
   oomp_key_simple: jeff_russ_kicad_mixer_minicircuits_ade_1
   owner: Jeff-Russ
   repo:

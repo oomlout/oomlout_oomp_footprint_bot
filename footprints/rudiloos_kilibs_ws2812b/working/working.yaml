@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/rudiloos_kilibs_ws2812b/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/rudiloos_kilibs_ws2812b/working
-    oomp_doc: footprints/footprints/rudiloos/kilibs/WS2812B/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/rudiloos/kilibs/WS2812B/working
     oomp_src_flat: footprints_flat/footprints_flat/rudiloos_kilibs_ws2812b/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/rudiloos_kilibs_ws2812b/working
-    oomp_src_folder: footprints_folder/footprints_folder/rudiloos/kilibs/WS2812B/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/rudiloos/kilibs/WS2812B/working
   name: kilibs.pretty
+  oomp:
+    footprint_name: ws2812b
+    library_name: kilibs
+    md5: b5c09aba7083406138ed7d7146ff173f
+    md5_10: b5c09aba70
+    md5_5: b5c09
+    md5_6: b5c09a
+    oomp_key: oomp_rudiloos_kilibs_ws2812b
+    oomp_key_extra: oomp_footprint_rudiloos_kilibs_ws2812b
+    oomp_key_full: oomp_footprint_rudiloos_kilibs_ws2812b_b5c09a
+    oomp_key_simple: rudiloos_kilibs_ws2812b
+    original_filename: kilibs.pretty/WS2812B.kicad_mod
+    owner_name: rudiloos
   oomp_key: oomp_rudiloos_kilibs_ws2812b
+  oomp_key_full: oomp_footprint_rudiloos_kilibs_ws2812b
   oomp_key_simple: rudiloos_kilibs_ws2812b
   owner: rudiloos
   repo:

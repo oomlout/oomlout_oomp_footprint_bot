@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cpavlina_manuf_xilinx_ft256/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cpavlina_manuf_xilinx_ft256/working
-    oomp_doc: footprints/footprints/cpavlina/manuf/XILINX-FT256/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cpavlina/manuf/XILINX-FT256/working
     oomp_src_flat: footprints_flat/footprints_flat/cpavlina_manuf_xilinx_ft256/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cpavlina_manuf_xilinx_ft256/working
-    oomp_src_folder: footprints_folder/footprints_folder/cpavlina/manuf/XILINX-FT256/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cpavlina/manuf/XILINX-FT256/working
   name: kicad-pcblib
+  oomp:
+    footprint_name: xilinx_ft256
+    library_name: manuf
+    md5: 44c21a739d1736f97de8d8790eedd31a
+    md5_10: 44c21a739d
+    md5_5: 44c21
+    md5_6: 44c21a
+    oomp_key: oomp_cpavlina_manuf_xilinx_ft256
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_xilinx_ft256
+    oomp_key_full: oomp_footprint_cpavlina_manuf_xilinx_ft256_44c21a
+    oomp_key_simple: cpavlina_manuf_xilinx_ft256
+    original_filename: kicad-pcblib/manuf.pretty/XILINX-FT256.kicad_mod
+    owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_xilinx_ft256
+  oomp_key_full: oomp_footprint_cpavlina_manuf_xilinx_ft256
   oomp_key_simple: cpavlina_manuf_xilinx_ft256
   owner: cpavlina
   repo:

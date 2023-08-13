@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/dchwebb_custom_footprints_alpha_9mm_potentiometer_aligned/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/dchwebb_custom_footprints_alpha_9mm_potentiometer_aligned/working
-    oomp_doc: footprints/footprints/dchwebb/Custom_Footprints/Alpha_9mm_Potentiometer_Aligned/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/dchwebb/Custom_Footprints/Alpha_9mm_Potentiometer_Aligned/working
     oomp_src_flat: footprints_flat/footprints_flat/dchwebb_custom_footprints_alpha_9mm_potentiometer_aligned/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/dchwebb_custom_footprints_alpha_9mm_potentiometer_aligned/working
-    oomp_src_folder: footprints_folder/footprints_folder/dchwebb/Custom_Footprints/Alpha_9mm_Potentiometer_Aligned/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/dchwebb/Custom_Footprints/Alpha_9mm_Potentiometer_Aligned/working
   name: Custom_Footprints.pretty
+  oomp:
+    footprint_name: alpha_9mm_potentiometer_aligned
+    library_name: custom_footprints
+    md5: 9fde6cd0f3b59a262d315d3f6718dec4
+    md5_10: 9fde6cd0f3
+    md5_5: 9fde6
+    md5_6: 9fde6c
+    oomp_key: oomp_dchwebb_custom_footprints_alpha_9mm_potentiometer_aligned
+    oomp_key_extra: oomp_footprint_dchwebb_custom_footprints_alpha_9mm_potentiometer_aligned
+    oomp_key_full: oomp_footprint_dchwebb_custom_footprints_alpha_9mm_potentiometer_aligned_9fde6c
+    oomp_key_simple: dchwebb_custom_footprints_alpha_9mm_potentiometer_aligned
+    original_filename: Custom_Footprints.pretty/Alpha_9mm_Potentiometer_Aligned.kicad_mod
+    owner_name: dchwebb
   oomp_key: oomp_dchwebb_custom_footprints_alpha_9mm_potentiometer_aligned
+  oomp_key_full: oomp_footprint_dchwebb_custom_footprints_alpha_9mm_potentiometer_aligned
   oomp_key_simple: dchwebb_custom_footprints_alpha_9mm_potentiometer_aligned
   owner: dchwebb
   repo:

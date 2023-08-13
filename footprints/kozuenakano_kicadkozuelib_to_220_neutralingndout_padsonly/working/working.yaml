@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/KozueNakano/KiCADKozueLib.pretty
     oomp_bot: footprints/kozuenakano_kicadkozuelib_to_220_neutralingndout_padsonly/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kozuenakano_kicadkozuelib_to_220_neutralingndout_padsonly/working
-    oomp_doc: footprints/footprints/KozueNakano/KiCADKozueLib/TO-220_NeutralInGndOut_PadsOnly/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/KozueNakano/KiCADKozueLib/TO-220_NeutralInGndOut_PadsOnly/working
     oomp_src_flat: footprints_flat/footprints_flat/kozuenakano_kicadkozuelib_to_220_neutralingndout_padsonly/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kozuenakano_kicadkozuelib_to_220_neutralingndout_padsonly/working
-    oomp_src_folder: footprints_folder/footprints_folder/KozueNakano/KiCADKozueLib/TO-220_NeutralInGndOut_PadsOnly/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/KozueNakano/KiCADKozueLib/TO-220_NeutralInGndOut_PadsOnly/working
   name: KiCADKozueLib.pretty
+  oomp:
+    footprint_name: to_220_neutralingndout_padsonly
+    library_name: kicadkozuelib
+    md5: 7c38151d1a92ed481a529f39baa28700
+    md5_10: 7c38151d1a
+    md5_5: 7c381
+    md5_6: 7c3815
+    oomp_key: oomp_kozuenakano_kicadkozuelib_to_220_neutralingndout_padsonly
+    oomp_key_extra: oomp_footprint_kozuenakano_kicadkozuelib_to_220_neutralingndout_padsonly
+    oomp_key_full: oomp_footprint_kozuenakano_kicadkozuelib_to_220_neutralingndout_padsonly_7c3815
+    oomp_key_simple: kozuenakano_kicadkozuelib_to_220_neutralingndout_padsonly
+    original_filename: KiCADKozueLib.pretty/TO-220_NeutralInGndOut_PadsOnly.kicad_mod
+    owner_name: kozuenakano
   oomp_key: oomp_kozuenakano_kicadkozuelib_to_220_neutralingndout_padsonly
+  oomp_key_full: oomp_footprint_kozuenakano_kicadkozuelib_to_220_neutralingndout_padsonly
   oomp_key_simple: kozuenakano_kicadkozuelib_to_220_neutralingndout_padsonly
   owner: KozueNakano
   repo:

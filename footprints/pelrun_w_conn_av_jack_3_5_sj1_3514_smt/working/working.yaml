@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pelrun_w_conn_av_jack_3_5_sj1_3514_smt/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pelrun_w_conn_av_jack_3_5_sj1_3514_smt/working
-    oomp_doc: footprints/footprints/pelrun/w_conn_av/jack_3.5_sj1-3514-smt/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/pelrun/w_conn_av/jack_3.5_sj1-3514-smt/working
     oomp_src_flat: footprints_flat/footprints_flat/pelrun_w_conn_av_jack_3_5_sj1_3514_smt/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pelrun_w_conn_av_jack_3_5_sj1_3514_smt/working
-    oomp_src_folder: footprints_folder/footprints_folder/pelrun/w_conn_av/jack_3.5_sj1-3514-smt/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/pelrun/w_conn_av/jack_3.5_sj1-3514-smt/working
   name: libKiCad
+  oomp:
+    footprint_name: jack_3_5_sj1_3514_smt
+    library_name: w_conn_av
+    md5: acaafbd939ec1d253197803485393e49
+    md5_10: acaafbd939
+    md5_5: acaaf
+    md5_6: acaafb
+    oomp_key: oomp_pelrun_w_conn_av_jack_3_5_sj1_3514_smt
+    oomp_key_extra: oomp_footprint_pelrun_w_conn_av_jack_3_5_sj1_3514_smt
+    oomp_key_full: oomp_footprint_pelrun_w_conn_av_jack_3_5_sj1_3514_smt_acaafb
+    oomp_key_simple: pelrun_w_conn_av_jack_3_5_sj1_3514_smt
+    original_filename: libKiCad/footprint/w_conn_av.pretty/jack_3.5_sj1-3514-smt.kicad_mod
+    owner_name: pelrun
   oomp_key: oomp_pelrun_w_conn_av_jack_3_5_sj1_3514_smt
+  oomp_key_full: oomp_footprint_pelrun_w_conn_av_jack_3_5_sj1_3514_smt
   oomp_key_simple: pelrun_w_conn_av_jack_3_5_sj1_3514_smt
   owner: pelrun
   repo:

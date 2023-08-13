@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/devbisme_rpi_hat_pin_header_straight_2x20/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/devbisme_rpi_hat_pin_header_straight_2x20/working
-    oomp_doc: footprints/footprints/devbisme/RPi_Hat/Pin_Header_Straight_2x20/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/devbisme/RPi_Hat/Pin_Header_Straight_2x20/working
     oomp_src_flat: footprints_flat/footprints_flat/devbisme_rpi_hat_pin_header_straight_2x20/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/devbisme_rpi_hat_pin_header_straight_2x20/working
-    oomp_src_folder: footprints_folder/footprints_folder/devbisme/RPi_Hat/Pin_Header_Straight_2x20/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/devbisme/RPi_Hat/Pin_Header_Straight_2x20/working
   name: RPi_Hat.pretty
+  oomp:
+    footprint_name: pin_header_straight_2x20
+    library_name: rpi_hat
+    md5: 620ada9b1f0183f1ca0e6aabb8970f51
+    md5_10: 620ada9b1f
+    md5_5: 620ad
+    md5_6: 620ada
+    oomp_key: oomp_devbisme_rpi_hat_pin_header_straight_2x20
+    oomp_key_extra: oomp_footprint_devbisme_rpi_hat_pin_header_straight_2x20
+    oomp_key_full: oomp_footprint_devbisme_rpi_hat_pin_header_straight_2x20_620ada
+    oomp_key_simple: devbisme_rpi_hat_pin_header_straight_2x20
+    original_filename: RPi_Hat.pretty/Pin_Header_Straight_2x20.kicad_mod
+    owner_name: devbisme
   oomp_key: oomp_devbisme_rpi_hat_pin_header_straight_2x20
+  oomp_key_full: oomp_footprint_devbisme_rpi_hat_pin_header_straight_2x20
   oomp_key_simple: devbisme_rpi_hat_pin_header_straight_2x20
   owner: devbisme
   repo:

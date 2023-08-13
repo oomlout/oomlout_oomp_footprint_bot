@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_s2b_ph_sm4_tb_s2b_ph_sm4_tb/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_s2b_ph_sm4_tb_s2b_ph_sm4_tb/working
-    oomp_doc: footprints/footprints/brunoeagle/s2b-ph-sm4-tb.kicad_mod/s2b-ph-sm4-tb/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/s2b-ph-sm4-tb.kicad_mod/s2b-ph-sm4-tb/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_s2b_ph_sm4_tb_s2b_ph_sm4_tb/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_s2b_ph_sm4_tb_s2b_ph_sm4_tb/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/s2b-ph-sm4-tb.kicad_mod/s2b-ph-sm4-tb/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/s2b-ph-sm4-tb.kicad_mod/s2b-ph-sm4-tb/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: s2b_ph_sm4_tb
+    library_name: s2b_ph_sm4_tb_kicad_mod
+    md5: 866b8f68ec165dc8c6c79c3939f35713
+    md5_10: 866b8f68ec
+    md5_5: 866b8
+    md5_6: 866b8f
+    oomp_key: oomp_brunoeagle_s2b_ph_sm4_tb_s2b_ph_sm4_tb
+    oomp_key_extra: oomp_footprint_brunoeagle_s2b_ph_sm4_tb_s2b_ph_sm4_tb
+    oomp_key_full: oomp_footprint_brunoeagle_s2b_ph_sm4_tb_s2b_ph_sm4_tb_866b8f
+    oomp_key_simple: brunoeagle_s2b_ph_sm4_tb_s2b_ph_sm4_tb
+    original_filename: kicad-open-modules/s2b-ph-sm4-tb.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_s2b_ph_sm4_tb_s2b_ph_sm4_tb
+  oomp_key_full: oomp_footprint_brunoeagle_s2b_ph_sm4_tb_s2b_ph_sm4_tb
   oomp_key_simple: brunoeagle_s2b_ph_sm4_tb_s2b_ph_sm4_tb
   owner: brunoeagle
   repo:

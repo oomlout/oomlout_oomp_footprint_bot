@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/jdunmire_esp8266_esp_201/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/jdunmire_esp8266_esp_201/working
-    oomp_doc: footprints/footprints/jdunmire/ESP8266/ESP-201/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/jdunmire/ESP8266/ESP-201/working
     oomp_src_flat: footprints_flat/footprints_flat/jdunmire_esp8266_esp_201/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/jdunmire_esp8266_esp_201/working
-    oomp_src_folder: footprints_folder/footprints_folder/jdunmire/ESP8266/ESP-201/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/jdunmire/ESP8266/ESP-201/working
   name: kicad-ESP8266
+  oomp:
+    footprint_name: esp_201
+    library_name: esp8266
+    md5: 3160d8c76e5756b0a2dcf3e03d629235
+    md5_10: 3160d8c76e
+    md5_5: 3160d
+    md5_6: 3160d8
+    oomp_key: oomp_jdunmire_esp8266_esp_201
+    oomp_key_extra: oomp_footprint_jdunmire_esp8266_esp_201
+    oomp_key_full: oomp_footprint_jdunmire_esp8266_esp_201_3160d8
+    oomp_key_simple: jdunmire_esp8266_esp_201
+    original_filename: kicad-ESP8266/ESP8266.pretty/ESP-201.kicad_mod
+    owner_name: jdunmire
   oomp_key: oomp_jdunmire_esp8266_esp_201
+  oomp_key_full: oomp_footprint_jdunmire_esp8266_esp_201
   oomp_key_simple: jdunmire_esp8266_esp_201
   owner: jdunmire
   repo:

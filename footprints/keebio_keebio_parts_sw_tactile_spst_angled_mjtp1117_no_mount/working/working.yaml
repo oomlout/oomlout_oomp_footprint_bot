@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/keebio_keebio_parts_sw_tactile_spst_angled_mjtp1117_no_mount/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/keebio_keebio_parts_sw_tactile_spst_angled_mjtp1117_no_mount/working
-    oomp_doc: footprints/footprints/keebio/Keebio-Parts/SW_Tactile_SPST_Angled_MJTP1117-no-mount/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/keebio/Keebio-Parts/SW_Tactile_SPST_Angled_MJTP1117-no-mount/working
     oomp_src_flat: footprints_flat/footprints_flat/keebio_keebio_parts_sw_tactile_spst_angled_mjtp1117_no_mount/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/keebio_keebio_parts_sw_tactile_spst_angled_mjtp1117_no_mount/working
-    oomp_src_folder: footprints_folder/footprints_folder/keebio/Keebio-Parts/SW_Tactile_SPST_Angled_MJTP1117-no-mount/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/keebio/Keebio-Parts/SW_Tactile_SPST_Angled_MJTP1117-no-mount/working
   name: Keebio-Parts.pretty
+  oomp:
+    footprint_name: sw_tactile_spst_angled_mjtp1117_no_mount
+    library_name: keebio_parts
+    md5: 6dd78a0e2763cd84c23778da9e315fa2
+    md5_10: 6dd78a0e27
+    md5_5: 6dd78
+    md5_6: 6dd78a
+    oomp_key: oomp_keebio_keebio_parts_sw_tactile_spst_angled_mjtp1117_no_mount
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_sw_tactile_spst_angled_mjtp1117_no_mount
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_sw_tactile_spst_angled_mjtp1117_no_mount_6dd78a
+    oomp_key_simple: keebio_keebio_parts_sw_tactile_spst_angled_mjtp1117_no_mount
+    original_filename: Keebio-Parts.pretty/SW_Tactile_SPST_Angled_MJTP1117-no-mount.kicad_mod
+    owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_sw_tactile_spst_angled_mjtp1117_no_mount
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_sw_tactile_spst_angled_mjtp1117_no_mount
   oomp_key_simple: keebio_keebio_parts_sw_tactile_spst_angled_mjtp1117_no_mount
   owner: keebio
   repo:

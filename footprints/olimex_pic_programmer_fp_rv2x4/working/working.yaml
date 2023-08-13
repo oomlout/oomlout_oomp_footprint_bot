@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/olimex_pic_programmer_fp_rv2x4/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/olimex_pic_programmer_fp_rv2x4/working
-    oomp_doc: footprints/footprints/OLIMEX/pic_programmer_fp/RV2X4/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/OLIMEX/pic_programmer_fp/RV2X4/working
     oomp_src_flat: footprints_flat/footprints_flat/olimex_pic_programmer_fp_rv2x4/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/olimex_pic_programmer_fp_rv2x4/working
-    oomp_src_folder: footprints_folder/footprints_folder/OLIMEX/pic_programmer_fp/RV2X4/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/OLIMEX/pic_programmer_fp/RV2X4/working
   name: KiCAD
+  oomp:
+    footprint_name: rv2x4
+    library_name: pic_programmer_fp
+    md5: ec1d9c4e264189210bd624444991afcf
+    md5_10: ec1d9c4e26
+    md5_5: ec1d9
+    md5_6: ec1d9c
+    oomp_key: oomp_olimex_pic_programmer_fp_rv2x4
+    oomp_key_extra: oomp_footprint_olimex_pic_programmer_fp_rv2x4
+    oomp_key_full: oomp_footprint_olimex_pic_programmer_fp_rv2x4_ec1d9c
+    oomp_key_simple: olimex_pic_programmer_fp_rv2x4
+    original_filename: KiCAD/demos/pic_programmer/libs/pic_programmer_fp.pretty/RV2X4.kicad_mod
+    owner_name: olimex
   oomp_key: oomp_olimex_pic_programmer_fp_rv2x4
+  oomp_key_full: oomp_footprint_olimex_pic_programmer_fp_rv2x4
   oomp_key_simple: olimex_pic_programmer_fp_rv2x4
   owner: OLIMEX
   repo:

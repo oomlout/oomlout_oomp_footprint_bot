@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/joanthespark_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_choc_v1v2_2_25u/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/joanthespark_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_choc_v1v2_2_25u/working
-    oomp_doc: footprints/footprints/JoanTheSpark/Switch_Keyboard_Hotswap_Kailh/SW_Hotswap_Kailh_Choc_V1V2_2.25u/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/JoanTheSpark/Switch_Keyboard_Hotswap_Kailh/SW_Hotswap_Kailh_Choc_V1V2_2.25u/working
     oomp_src_flat: footprints_flat/footprints_flat/joanthespark_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_choc_v1v2_2_25u/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/joanthespark_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_choc_v1v2_2_25u/working
-    oomp_src_folder: footprints_folder/footprints_folder/JoanTheSpark/Switch_Keyboard_Hotswap_Kailh/SW_Hotswap_Kailh_Choc_V1V2_2.25u/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/JoanTheSpark/Switch_Keyboard_Hotswap_Kailh/SW_Hotswap_Kailh_Choc_V1V2_2.25u/working
   name: KiCAD
+  oomp:
+    footprint_name: sw_hotswap_kailh_choc_v1v2_2_25u
+    library_name: switch_keyboard_hotswap_kailh
+    md5: ca9242881ae4d8a6dc1acc9dd50ad1c2
+    md5_10: ca9242881a
+    md5_5: ca924
+    md5_6: ca9242
+    oomp_key: oomp_joanthespark_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_choc_v1v2_2_25u
+    oomp_key_extra: oomp_footprint_joanthespark_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_choc_v1v2_2_25u
+    oomp_key_full: oomp_footprint_joanthespark_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_choc_v1v2_2_25u_ca9242
+    oomp_key_simple: joanthespark_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_choc_v1v2_2_25u
+    original_filename: KiCAD/6.0/3rdparty/footprints/com_github_perigoso_keyswitch-kicad-library/Switch_Keyboard_Hotswap_Kailh.pretty/SW_Hotswap_Kailh_Choc_V1V2_2.25u.kicad_mod
+    owner_name: joanthespark
   oomp_key: oomp_joanthespark_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_choc_v1v2_2_25u
+  oomp_key_full: oomp_footprint_joanthespark_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_choc_v1v2_2_25u
   oomp_key_simple: joanthespark_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_choc_v1v2_2_25u
   owner: JoanTheSpark
   repo:

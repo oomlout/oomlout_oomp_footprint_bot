@@ -11,17 +11,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_relay_tht_relay_spst_te_pch_1xxx2m/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_relay_tht_relay_spst_te_pch_1xxx2m/working
-    oomp_doc: footprints/footprints/kicad/Relay_THT/Relay_SPST_TE_PCH-1xxx2M/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Relay_THT/Relay_SPST_TE_PCH-1xxx2M/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_relay_tht_relay_spst_te_pch_1xxx2m/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_relay_tht_relay_spst_te_pch_1xxx2m/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Relay_THT/Relay_SPST_TE_PCH-1xxx2M/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Relay_THT/Relay_SPST_TE_PCH-1xxx2M/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: relay_spst_te_pch_1xxx2m
+    library_name: relay_tht
+    md5: 25925707da67f1d6c46a73ab93c55b80
+    md5_10: 25925707da
+    md5_5: '25925'
+    md5_6: '259257'
+    oomp_key: oomp_kicad_relay_tht_relay_spst_te_pch_1xxx2m
+    oomp_key_extra: oomp_footprint_kicad_relay_tht_relay_spst_te_pch_1xxx2m
+    oomp_key_full: oomp_footprint_kicad_relay_tht_relay_spst_te_pch_1xxx2m_259257
+    oomp_key_simple: kicad_relay_tht_relay_spst_te_pch_1xxx2m
+    original_filename: libraries/kicad-footprints/Relay_THT.pretty/Relay_SPST_TE_PCH-1xxx2M.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_relay_tht_relay_spst_te_pch_1xxx2m
+  oomp_key_full: oomp_footprint_kicad_relay_tht_relay_spst_te_pch_1xxx2m
   oomp_key_simple: kicad_relay_tht_relay_spst_te_pch_1xxx2m
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/greatscottgadgets_gsg_modules_qfn16_3/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/greatscottgadgets_gsg_modules_qfn16_3/working
-    oomp_doc: footprints/footprints/greatscottgadgets/gsg-modules/QFN16-3/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/greatscottgadgets/gsg-modules/QFN16-3/working
     oomp_src_flat: footprints_flat/footprints_flat/greatscottgadgets_gsg_modules_qfn16_3/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/greatscottgadgets_gsg_modules_qfn16_3/working
-    oomp_src_folder: footprints_folder/footprints_folder/greatscottgadgets/gsg-modules/QFN16-3/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/greatscottgadgets/gsg-modules/QFN16-3/working
   name: gsg-kicad-lib
+  oomp:
+    footprint_name: qfn16_3
+    library_name: gsg_modules
+    md5: f593ff36c8c415849471cb921c3882b0
+    md5_10: f593ff36c8
+    md5_5: f593f
+    md5_6: f593ff
+    oomp_key: oomp_greatscottgadgets_gsg_modules_qfn16_3
+    oomp_key_extra: oomp_footprint_greatscottgadgets_gsg_modules_qfn16_3
+    oomp_key_full: oomp_footprint_greatscottgadgets_gsg_modules_qfn16_3_f593ff
+    oomp_key_simple: greatscottgadgets_gsg_modules_qfn16_3
+    original_filename: gsg-kicad-lib/gsg-modules.pretty/QFN16-3.kicad_mod
+    owner_name: greatscottgadgets
   oomp_key: oomp_greatscottgadgets_gsg_modules_qfn16_3
+  oomp_key_full: oomp_footprint_greatscottgadgets_gsg_modules_qfn16_3
   oomp_key_simple: greatscottgadgets_gsg_modules_qfn16_3
   owner: greatscottgadgets
   repo:

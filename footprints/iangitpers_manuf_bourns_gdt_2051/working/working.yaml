@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/Iangitpers/4a
     oomp_bot: footprints/iangitpers_manuf_bourns_gdt_2051/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/iangitpers_manuf_bourns_gdt_2051/working
-    oomp_doc: footprints/footprints/Iangitpers/manuf/BOURNS-GDT-2051/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Iangitpers/manuf/BOURNS-GDT-2051/working
     oomp_src_flat: footprints_flat/footprints_flat/iangitpers_manuf_bourns_gdt_2051/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/iangitpers_manuf_bourns_gdt_2051/working
-    oomp_src_folder: footprints_folder/footprints_folder/Iangitpers/manuf/BOURNS-GDT-2051/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Iangitpers/manuf/BOURNS-GDT-2051/working
   name: 4a
+  oomp:
+    footprint_name: bourns_gdt_2051
+    library_name: manuf
+    md5: 320a1fa3d74af9bffa3218160de8af26
+    md5_10: 320a1fa3d7
+    md5_5: 320a1
+    md5_6: 320a1f
+    oomp_key: oomp_iangitpers_manuf_bourns_gdt_2051
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_bourns_gdt_2051
+    oomp_key_full: oomp_footprint_iangitpers_manuf_bourns_gdt_2051_320a1f
+    oomp_key_simple: iangitpers_manuf_bourns_gdt_2051
+    original_filename: 4a/manuf.pretty/BOURNS-GDT-2051.kicad_mod
+    owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_bourns_gdt_2051
+  oomp_key_full: oomp_footprint_iangitpers_manuf_bourns_gdt_2051
   oomp_key_simple: iangitpers_manuf_bourns_gdt_2051
   owner: Iangitpers
   repo:

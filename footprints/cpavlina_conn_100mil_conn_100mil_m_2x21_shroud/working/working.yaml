@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cpavlina_conn_100mil_conn_100mil_m_2x21_shroud/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cpavlina_conn_100mil_conn_100mil_m_2x21_shroud/working
-    oomp_doc: footprints/footprints/cpavlina/conn-100mil/CONN-100MIL-M-2x21-SHROUD/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cpavlina/conn-100mil/CONN-100MIL-M-2x21-SHROUD/working
     oomp_src_flat: footprints_flat/footprints_flat/cpavlina_conn_100mil_conn_100mil_m_2x21_shroud/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cpavlina_conn_100mil_conn_100mil_m_2x21_shroud/working
-    oomp_src_folder: footprints_folder/footprints_folder/cpavlina/conn-100mil/CONN-100MIL-M-2x21-SHROUD/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cpavlina/conn-100mil/CONN-100MIL-M-2x21-SHROUD/working
   name: kicad-pcblib
+  oomp:
+    footprint_name: conn_100mil_m_2x21_shroud
+    library_name: conn_100mil
+    md5: fe2360bc34bb620e67e55bc84decdaf3
+    md5_10: fe2360bc34
+    md5_5: fe236
+    md5_6: fe2360
+    oomp_key: oomp_cpavlina_conn_100mil_conn_100mil_m_2x21_shroud
+    oomp_key_extra: oomp_footprint_cpavlina_conn_100mil_conn_100mil_m_2x21_shroud
+    oomp_key_full: oomp_footprint_cpavlina_conn_100mil_conn_100mil_m_2x21_shroud_fe2360
+    oomp_key_simple: cpavlina_conn_100mil_conn_100mil_m_2x21_shroud
+    original_filename: kicad-pcblib/conn-100mil.pretty/CONN-100MIL-M-2x21-SHROUD.kicad_mod
+    owner_name: cpavlina
   oomp_key: oomp_cpavlina_conn_100mil_conn_100mil_m_2x21_shroud
+  oomp_key_full: oomp_footprint_cpavlina_conn_100mil_conn_100mil_m_2x21_shroud
   oomp_key_simple: cpavlina_conn_100mil_conn_100mil_m_2x21_shroud
   owner: cpavlina
   repo:

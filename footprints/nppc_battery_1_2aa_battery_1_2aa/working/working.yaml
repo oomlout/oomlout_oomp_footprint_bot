@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/nppc_battery_1_2aa_battery_1_2aa/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nppc_battery_1_2aa_battery_1_2aa/working
-    oomp_doc: footprints/footprints/nppc/Battery_1_2AA.kicad_mod/Battery_1_2AA/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/nppc/Battery_1_2AA.kicad_mod/Battery_1_2AA/working
     oomp_src_flat: footprints_flat/footprints_flat/nppc_battery_1_2aa_battery_1_2aa/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nppc_battery_1_2aa_battery_1_2aa/working
-    oomp_src_folder: footprints_folder/footprints_folder/nppc/Battery_1_2AA.kicad_mod/Battery_1_2AA/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/nppc/Battery_1_2AA.kicad_mod/Battery_1_2AA/working
   name: KiCadCustomLibs
+  oomp:
+    footprint_name: battery_1_2aa
+    library_name: battery_1_2aa_kicad_mod
+    md5: dee40d91053851d2f117af9490689f65
+    md5_10: dee40d9105
+    md5_5: dee40
+    md5_6: dee40d
+    oomp_key: oomp_nppc_battery_1_2aa_battery_1_2aa
+    oomp_key_extra: oomp_footprint_nppc_battery_1_2aa_battery_1_2aa
+    oomp_key_full: oomp_footprint_nppc_battery_1_2aa_battery_1_2aa_dee40d
+    oomp_key_simple: nppc_battery_1_2aa_battery_1_2aa
+    original_filename: KiCadCustomLibs/Battery_1_2AA.kicad_mod
+    owner_name: nppc
   oomp_key: oomp_nppc_battery_1_2aa_battery_1_2aa
+  oomp_key_full: oomp_footprint_nppc_battery_1_2aa_battery_1_2aa
   oomp_key_simple: nppc_battery_1_2aa_battery_1_2aa
   owner: nppc
   repo:

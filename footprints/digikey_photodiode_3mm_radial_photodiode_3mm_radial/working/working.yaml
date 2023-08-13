@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/digikey_photodiode_3mm_radial_photodiode_3mm_radial/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_photodiode_3mm_radial_photodiode_3mm_radial/working
-    oomp_doc: footprints/footprints/digikey/Photodiode_3mm_Radial.kicad_mod/Photodiode_3mm_Radial/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/digikey/Photodiode_3mm_Radial.kicad_mod/Photodiode_3mm_Radial/working
     oomp_src_flat: footprints_flat/footprints_flat/digikey_photodiode_3mm_radial_photodiode_3mm_radial/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/digikey_photodiode_3mm_radial_photodiode_3mm_radial/working
-    oomp_src_folder: footprints_folder/footprints_folder/digikey/Photodiode_3mm_Radial.kicad_mod/Photodiode_3mm_Radial/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/digikey/Photodiode_3mm_Radial.kicad_mod/Photodiode_3mm_Radial/working
   name: digikey-kicad-library
+  oomp:
+    footprint_name: photodiode_3mm_radial
+    library_name: photodiode_3mm_radial_kicad_mod
+    md5: 043232ef467280cd6517e13a4d2b13c6
+    md5_10: 043232ef46
+    md5_5: '04323'
+    md5_6: '043232'
+    oomp_key: oomp_digikey_photodiode_3mm_radial_photodiode_3mm_radial
+    oomp_key_extra: oomp_footprint_digikey_photodiode_3mm_radial_photodiode_3mm_radial
+    oomp_key_full: oomp_footprint_digikey_photodiode_3mm_radial_photodiode_3mm_radial_043232
+    oomp_key_simple: digikey_photodiode_3mm_radial_photodiode_3mm_radial
+    original_filename: digikey-kicad-library/src/Source_Footprints/Photodiode_3mm_Radial.kicad_mod
+    owner_name: digikey
   oomp_key: oomp_digikey_photodiode_3mm_radial_photodiode_3mm_radial
+  oomp_key_full: oomp_footprint_digikey_photodiode_3mm_radial_photodiode_3mm_radial
   oomp_key_simple: digikey_photodiode_3mm_radial_photodiode_3mm_radial
   owner: digikey
   repo:

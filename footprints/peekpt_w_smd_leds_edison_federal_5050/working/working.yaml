@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/peekpt_w_smd_leds_edison_federal_5050/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/peekpt_w_smd_leds_edison_federal_5050/working
-    oomp_doc: footprints/footprints/peekpt/w_smd_leds/Edison_Federal_5050/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/peekpt/w_smd_leds/Edison_Federal_5050/working
     oomp_src_flat: footprints_flat/footprints_flat/peekpt_w_smd_leds_edison_federal_5050/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/peekpt_w_smd_leds_edison_federal_5050/working
-    oomp_src_folder: footprints_folder/footprints_folder/peekpt/w_smd_leds/Edison_Federal_5050/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/peekpt/w_smd_leds/Edison_Federal_5050/working
   name: kicad_smisioto
+  oomp:
+    footprint_name: edison_federal_5050
+    library_name: w_smd_leds
+    md5: d2bd68f155850f40c6889c23c9731f2b
+    md5_10: d2bd68f155
+    md5_5: d2bd6
+    md5_6: d2bd68
+    oomp_key: oomp_peekpt_w_smd_leds_edison_federal_5050
+    oomp_key_extra: oomp_footprint_peekpt_w_smd_leds_edison_federal_5050
+    oomp_key_full: oomp_footprint_peekpt_w_smd_leds_edison_federal_5050_d2bd68
+    oomp_key_simple: peekpt_w_smd_leds_edison_federal_5050
+    original_filename: kicad_smisioto/modules/walter/w_smd_leds.pretty/Edison_Federal_5050.kicad_mod
+    owner_name: peekpt
   oomp_key: oomp_peekpt_w_smd_leds_edison_federal_5050
+  oomp_key_full: oomp_footprint_peekpt_w_smd_leds_edison_federal_5050
   oomp_key_simple: peekpt_w_smd_leds_edison_federal_5050
   owner: peekpt
   repo:

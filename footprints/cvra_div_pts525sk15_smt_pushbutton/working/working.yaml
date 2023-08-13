@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cvra_div_pts525sk15_smt_pushbutton/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cvra_div_pts525sk15_smt_pushbutton/working
-    oomp_doc: footprints/footprints/cvra/_div/_PTS525SK15-SMT-Pushbutton/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cvra/_div/_PTS525SK15-SMT-Pushbutton/working
     oomp_src_flat: footprints_flat/footprints_flat/cvra_div_pts525sk15_smt_pushbutton/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cvra_div_pts525sk15_smt_pushbutton/working
-    oomp_src_folder: footprints_folder/footprints_folder/cvra/_div/_PTS525SK15-SMT-Pushbutton/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cvra/_div/_PTS525SK15-SMT-Pushbutton/working
   name: kicad-lib
+  oomp:
+    footprint_name: _pts525sk15_smt_pushbutton
+    library_name: _div
+    md5: 4f21a80067709ebe6f2360bd6f182e4a
+    md5_10: 4f21a80067
+    md5_5: 4f21a
+    md5_6: 4f21a8
+    oomp_key: oomp_cvra_div_pts525sk15_smt_pushbutton
+    oomp_key_extra: oomp_footprint_cvra_div_pts525sk15_smt_pushbutton
+    oomp_key_full: oomp_footprint_cvra_div_pts525sk15_smt_pushbutton_4f21a8
+    oomp_key_simple: cvra_div_pts525sk15_smt_pushbutton
+    original_filename: kicad-lib/footprints/_div.pretty/_PTS525SK15-SMT-Pushbutton.kicad_mod
+    owner_name: cvra
   oomp_key: oomp_cvra_div_pts525sk15_smt_pushbutton
+  oomp_key_full: oomp_footprint_cvra_div_pts525sk15_smt_pushbutton
   oomp_key_simple: cvra_div_pts525sk15_smt_pushbutton
   owner: cvra
   repo:

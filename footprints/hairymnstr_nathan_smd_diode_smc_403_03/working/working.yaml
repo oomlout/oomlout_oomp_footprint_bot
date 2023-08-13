@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/hairymnstr_nathan_smd_diode_smc_403_03/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/hairymnstr_nathan_smd_diode_smc_403_03/working
-    oomp_doc: footprints/footprints/hairymnstr/Nathan_SMD/DIODE_SMC_403_03/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/hairymnstr/Nathan_SMD/DIODE_SMC_403_03/working
     oomp_src_flat: footprints_flat/footprints_flat/hairymnstr_nathan_smd_diode_smc_403_03/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/hairymnstr_nathan_smd_diode_smc_403_03/working
-    oomp_src_folder: footprints_folder/footprints_folder/hairymnstr/Nathan_SMD/DIODE_SMC_403_03/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/hairymnstr/Nathan_SMD/DIODE_SMC_403_03/working
   name: Nathan_SMD.pretty
+  oomp:
+    footprint_name: diode_smc_403_03
+    library_name: nathan_smd
+    md5: b753b558ca9f3ac8806009aa7b975319
+    md5_10: b753b558ca
+    md5_5: b753b
+    md5_6: b753b5
+    oomp_key: oomp_hairymnstr_nathan_smd_diode_smc_403_03
+    oomp_key_extra: oomp_footprint_hairymnstr_nathan_smd_diode_smc_403_03
+    oomp_key_full: oomp_footprint_hairymnstr_nathan_smd_diode_smc_403_03_b753b5
+    oomp_key_simple: hairymnstr_nathan_smd_diode_smc_403_03
+    original_filename: Nathan_SMD.pretty/DIODE_SMC_403_03.kicad_mod
+    owner_name: hairymnstr
   oomp_key: oomp_hairymnstr_nathan_smd_diode_smc_403_03
+  oomp_key_full: oomp_footprint_hairymnstr_nathan_smd_diode_smc_403_03
   oomp_key_simple: hairymnstr_nathan_smd_diode_smc_403_03
   owner: hairymnstr
   repo:

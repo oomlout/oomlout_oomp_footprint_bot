@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/samdolt_kicad_fp_sauro_ctm_p8_3_5mm_x4/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/samdolt_kicad_fp_sauro_ctm_p8_3_5mm_x4/working
-    oomp_doc: footprints/footprints/samdolt/kicad-fp/Sauro_CTM_P8_3.5mm_x4/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/samdolt/kicad-fp/Sauro_CTM_P8_3.5mm_x4/working
     oomp_src_flat: footprints_flat/footprints_flat/samdolt_kicad_fp_sauro_ctm_p8_3_5mm_x4/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/samdolt_kicad_fp_sauro_ctm_p8_3_5mm_x4/working
-    oomp_src_folder: footprints_folder/footprints_folder/samdolt/kicad-fp/Sauro_CTM_P8_3.5mm_x4/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/samdolt/kicad-fp/Sauro_CTM_P8_3.5mm_x4/working
   name: kicad-fp.pretty
+  oomp:
+    footprint_name: sauro_ctm_p8_3_5mm_x4
+    library_name: kicad_fp
+    md5: 1a2b78dfbdb593c0aa71ddc6ceeaf82b
+    md5_10: 1a2b78dfbd
+    md5_5: 1a2b7
+    md5_6: 1a2b78
+    oomp_key: oomp_samdolt_kicad_fp_sauro_ctm_p8_3_5mm_x4
+    oomp_key_extra: oomp_footprint_samdolt_kicad_fp_sauro_ctm_p8_3_5mm_x4
+    oomp_key_full: oomp_footprint_samdolt_kicad_fp_sauro_ctm_p8_3_5mm_x4_1a2b78
+    oomp_key_simple: samdolt_kicad_fp_sauro_ctm_p8_3_5mm_x4
+    original_filename: kicad-fp.pretty/Sauro_CTM_P8_3.5mm_x4.kicad_mod
+    owner_name: samdolt
   oomp_key: oomp_samdolt_kicad_fp_sauro_ctm_p8_3_5mm_x4
+  oomp_key_full: oomp_footprint_samdolt_kicad_fp_sauro_ctm_p8_3_5mm_x4
   oomp_key_simple: samdolt_kicad_fp_sauro_ctm_p8_3_5mm_x4
   owner: samdolt
   repo:

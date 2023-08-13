@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/monostable_commonpartslibrary_te_9_146281_0/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/monostable_commonpartslibrary_te_9_146281_0/working
-    oomp_doc: footprints/footprints/monostable/CommonPartsLibrary/TE_9-146281-0/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/monostable/CommonPartsLibrary/TE_9-146281-0/working
     oomp_src_flat: footprints_flat/footprints_flat/monostable_commonpartslibrary_te_9_146281_0/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/monostable_commonpartslibrary_te_9_146281_0/working
-    oomp_src_folder: footprints_folder/footprints_folder/monostable/CommonPartsLibrary/TE_9-146281-0/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/monostable/CommonPartsLibrary/TE_9-146281-0/working
   name: CommonPartsLibrary.pretty
+  oomp:
+    footprint_name: te_9_146281_0
+    library_name: commonpartslibrary
+    md5: 8ed28c8037f90d7fbcaf8b4f8ff4d8c8
+    md5_10: 8ed28c8037
+    md5_5: 8ed28
+    md5_6: 8ed28c
+    oomp_key: oomp_monostable_commonpartslibrary_te_9_146281_0
+    oomp_key_extra: oomp_footprint_monostable_commonpartslibrary_te_9_146281_0
+    oomp_key_full: oomp_footprint_monostable_commonpartslibrary_te_9_146281_0_8ed28c
+    oomp_key_simple: monostable_commonpartslibrary_te_9_146281_0
+    original_filename: CommonPartsLibrary.pretty/TE_9-146281-0.kicad_mod
+    owner_name: monostable
   oomp_key: oomp_monostable_commonpartslibrary_te_9_146281_0
+  oomp_key_full: oomp_footprint_monostable_commonpartslibrary_te_9_146281_0
   oomp_key_simple: monostable_commonpartslibrary_te_9_146281_0
   owner: monostable
   repo:

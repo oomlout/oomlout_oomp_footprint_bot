@@ -15,14 +15,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/axello_1w_grove_v0_1_phoenixcontact_mstbv_2,5_3_gf_1x03_p5_00mm_vertical_threadedflange_mounthole/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/axello_1w_grove_v0_1_phoenixcontact_mstbv_2,5_3_gf_1x03_p5_00mm_vertical_threadedflange_mounthole/working
-    oomp_doc: footprints/footprints/axello/1w-grove-v0.1/PhoenixContact_MSTBV_2,5_3-GF_1x03_P5.00mm_Vertical_ThreadedFlange_MountHole/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/axello/1w-grove-v0.1/PhoenixContact_MSTBV_2,5_3-GF_1x03_P5.00mm_Vertical_ThreadedFlange_MountHole/working
     oomp_src_flat: footprints_flat/footprints_flat/axello_1w_grove_v0_1_phoenixcontact_mstbv_2,5_3_gf_1x03_p5_00mm_vertical_threadedflange_mounthole/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/axello_1w_grove_v0_1_phoenixcontact_mstbv_2,5_3_gf_1x03_p5_00mm_vertical_threadedflange_mounthole/working
-    oomp_src_folder: footprints_folder/footprints_folder/axello/1w-grove-v0.1/PhoenixContact_MSTBV_2,5_3-GF_1x03_P5.00mm_Vertical_ThreadedFlange_MountHole/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/axello/1w-grove-v0.1/PhoenixContact_MSTBV_2,5_3-GF_1x03_P5.00mm_Vertical_ThreadedFlange_MountHole/working
   name: kicad
+  oomp:
+    footprint_name: phoenixcontact_mstbv_2,5_3_gf_1x03_p5_00mm_vertical_threadedflange_mounthole
+    library_name: 1w_grove_v0_1
+    md5: b468b0cf1ae2b223b2a9dda4855f1181
+    md5_10: b468b0cf1a
+    md5_5: b468b
+    md5_6: b468b0
+    oomp_key: oomp_axello_1w_grove_v0_1_phoenixcontact_mstbv_2,5_3_gf_1x03_p5_00mm_vertical_threadedflange_mounthole
+    oomp_key_extra: oomp_footprint_axello_1w_grove_v0_1_phoenixcontact_mstbv_2,5_3_gf_1x03_p5_00mm_vertical_threadedflange_mounthole
+    oomp_key_full: oomp_footprint_axello_1w_grove_v0_1_phoenixcontact_mstbv_2,5_3_gf_1x03_p5_00mm_vertical_threadedflange_mounthole_b468b0
+    oomp_key_simple: axello_1w_grove_v0_1_phoenixcontact_mstbv_2,5_3_gf_1x03_p5_00mm_vertical_threadedflange_mounthole
+    original_filename: kicad/6.0/projects/1w-grove-v0.1/1w-grove-v0.1.pretty/PhoenixContact_MSTBV_2,5_3-GF_1x03_P5.00mm_Vertical_ThreadedFlange_MountHole.kicad_mod
+    owner_name: axello
   oomp_key: oomp_axello_1w_grove_v0_1_phoenixcontact_mstbv_2,5_3_gf_1x03_p5_00mm_vertical_threadedflange_mounthole
+  oomp_key_full: oomp_footprint_axello_1w_grove_v0_1_phoenixcontact_mstbv_2,5_3_gf_1x03_p5_00mm_vertical_threadedflange_mounthole
   oomp_key_simple: axello_1w_grove_v0_1_phoenixcontact_mstbv_2,5_3_gf_1x03_p5_00mm_vertical_threadedflange_mounthole
   owner: axello
   repo:

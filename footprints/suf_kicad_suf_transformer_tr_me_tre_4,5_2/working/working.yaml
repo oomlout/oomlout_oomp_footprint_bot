@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/suf_kicad_suf_transformer_tr_me_tre_4,5_2/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/suf_kicad_suf_transformer_tr_me_tre_4,5_2/working
-    oomp_doc: footprints/footprints/suf-KiCAD/suf_transformer/TR_ME.TRE-4,5-2/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/suf-KiCAD/suf_transformer/TR_ME.TRE-4,5-2/working
     oomp_src_flat: footprints_flat/footprints_flat/suf_kicad_suf_transformer_tr_me_tre_4,5_2/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/suf_kicad_suf_transformer_tr_me_tre_4,5_2/working
-    oomp_src_folder: footprints_folder/footprints_folder/suf-KiCAD/suf_transformer/TR_ME.TRE-4,5-2/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/suf-KiCAD/suf_transformer/TR_ME.TRE-4,5-2/working
   name: suf_transformer.pretty
+  oomp:
+    footprint_name: tr_me_tre_4,5_2
+    library_name: suf_transformer
+    md5: 4e5a58432431a67b74dfb7b7c50fa34c
+    md5_10: 4e5a584324
+    md5_5: 4e5a5
+    md5_6: 4e5a58
+    oomp_key: oomp_suf_kicad_suf_transformer_tr_me_tre_4,5_2
+    oomp_key_extra: oomp_footprint_suf_kicad_suf_transformer_tr_me_tre_4,5_2
+    oomp_key_full: oomp_footprint_suf_kicad_suf_transformer_tr_me_tre_4,5_2_4e5a58
+    oomp_key_simple: suf_kicad_suf_transformer_tr_me_tre_4,5_2
+    original_filename: suf_transformer.pretty/TR_ME.TRE-4,5-2.kicad_mod
+    owner_name: suf_kicad
   oomp_key: oomp_suf_kicad_suf_transformer_tr_me_tre_4,5_2
+  oomp_key_full: oomp_footprint_suf_kicad_suf_transformer_tr_me_tre_4,5_2
   oomp_key_simple: suf_kicad_suf_transformer_tr_me_tre_4,5_2
   owner: suf-KiCAD
   repo:

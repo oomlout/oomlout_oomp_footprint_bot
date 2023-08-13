@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/codemercenary_os_kicad_dip6sm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/codemercenary_os_kicad_dip6sm/working
-    oomp_doc: footprints/footprints/codemercenary-os/kicad/DIP6SM/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/codemercenary-os/kicad/DIP6SM/working
     oomp_src_flat: footprints_flat/footprints_flat/codemercenary_os_kicad_dip6sm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/codemercenary_os_kicad_dip6sm/working
-    oomp_src_folder: footprints_folder/footprints_folder/codemercenary-os/kicad/DIP6SM/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/codemercenary-os/kicad/DIP6SM/working
   name: kicad.pretty
+  oomp:
+    footprint_name: dip6sm
+    library_name: kicad
+    md5: 2da2405c1db9abdcff302cd450ee6552
+    md5_10: 2da2405c1d
+    md5_5: 2da24
+    md5_6: 2da240
+    oomp_key: oomp_codemercenary_os_kicad_dip6sm
+    oomp_key_extra: oomp_footprint_codemercenary_os_kicad_dip6sm
+    oomp_key_full: oomp_footprint_codemercenary_os_kicad_dip6sm_2da240
+    oomp_key_simple: codemercenary_os_kicad_dip6sm
+    original_filename: kicad.pretty/DIP6SM.kicad_mod
+    owner_name: codemercenary_os
   oomp_key: oomp_codemercenary_os_kicad_dip6sm
+  oomp_key_full: oomp_footprint_codemercenary_os_kicad_dip6sm
   oomp_key_simple: codemercenary_os_kicad_dip6sm
   owner: codemercenary-os
   repo:

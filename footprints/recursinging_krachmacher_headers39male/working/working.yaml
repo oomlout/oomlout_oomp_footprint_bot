@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/recursinging_krachmacher_headers39male/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/recursinging_krachmacher_headers39male/working
-    oomp_doc: footprints/footprints/recursinging/krachmacher/Headers39Male/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/recursinging/krachmacher/Headers39Male/working
     oomp_src_flat: footprints_flat/footprints_flat/recursinging_krachmacher_headers39male/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/recursinging_krachmacher_headers39male/working
-    oomp_src_folder: footprints_folder/footprints_folder/recursinging/krachmacher/Headers39Male/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/recursinging/krachmacher/Headers39Male/working
   name: kxmx
+  oomp:
+    footprint_name: headers39male
+    library_name: krachmacher
+    md5: f9f9df804c418947956e0e29f3d13bae
+    md5_10: f9f9df804c
+    md5_5: f9f9d
+    md5_6: f9f9df
+    oomp_key: oomp_recursinging_krachmacher_headers39male
+    oomp_key_extra: oomp_footprint_recursinging_krachmacher_headers39male
+    oomp_key_full: oomp_footprint_recursinging_krachmacher_headers39male_f9f9df
+    oomp_key_simple: recursinging_krachmacher_headers39male
+    original_filename: kxmx/kxmx_erack/kicad/kicad/libraries/krachmacher.pretty/Headers39Male.kicad_mod
+    owner_name: recursinging
   oomp_key: oomp_recursinging_krachmacher_headers39male
+  oomp_key_full: oomp_footprint_recursinging_krachmacher_headers39male
   oomp_key_simple: recursinging_krachmacher_headers39male
   owner: recursinging
   repo:

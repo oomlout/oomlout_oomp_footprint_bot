@@ -12,17 +12,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_capacitor_tht_cp_axial_l30_0mm_d12_5mm_p35_00mm_horizontal/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_capacitor_tht_cp_axial_l30_0mm_d12_5mm_p35_00mm_horizontal/working
-    oomp_doc: footprints/footprints/kicad/Capacitor_THT/CP_Axial_L30.0mm_D12.5mm_P35.00mm_Horizontal/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Capacitor_THT/CP_Axial_L30.0mm_D12.5mm_P35.00mm_Horizontal/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_capacitor_tht_cp_axial_l30_0mm_d12_5mm_p35_00mm_horizontal/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_capacitor_tht_cp_axial_l30_0mm_d12_5mm_p35_00mm_horizontal/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Capacitor_THT/CP_Axial_L30.0mm_D12.5mm_P35.00mm_Horizontal/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Capacitor_THT/CP_Axial_L30.0mm_D12.5mm_P35.00mm_Horizontal/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: cp_axial_l30_0mm_d12_5mm_p35_00mm_horizontal
+    library_name: capacitor_tht
+    md5: efd30586e0ec82158fe9d88ce6df897a
+    md5_10: efd30586e0
+    md5_5: efd30
+    md5_6: efd305
+    oomp_key: oomp_kicad_capacitor_tht_cp_axial_l30_0mm_d12_5mm_p35_00mm_horizontal
+    oomp_key_extra: oomp_footprint_kicad_capacitor_tht_cp_axial_l30_0mm_d12_5mm_p35_00mm_horizontal
+    oomp_key_full: oomp_footprint_kicad_capacitor_tht_cp_axial_l30_0mm_d12_5mm_p35_00mm_horizontal_efd305
+    oomp_key_simple: kicad_capacitor_tht_cp_axial_l30_0mm_d12_5mm_p35_00mm_horizontal
+    original_filename: libraries/kicad-footprints/Capacitor_THT.pretty/CP_Axial_L30.0mm_D12.5mm_P35.00mm_Horizontal.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_capacitor_tht_cp_axial_l30_0mm_d12_5mm_p35_00mm_horizontal
+  oomp_key_full: oomp_footprint_kicad_capacitor_tht_cp_axial_l30_0mm_d12_5mm_p35_00mm_horizontal
   oomp_key_simple: kicad_capacitor_tht_cp_axial_l30_0mm_d12_5mm_p35_00mm_horizontal
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pelrun_w_crystal_crystal_tc_26_horiz/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pelrun_w_crystal_crystal_tc_26_horiz/working
-    oomp_doc: footprints/footprints/pelrun/w_crystal/crystal_tc-26_horiz/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/pelrun/w_crystal/crystal_tc-26_horiz/working
     oomp_src_flat: footprints_flat/footprints_flat/pelrun_w_crystal_crystal_tc_26_horiz/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pelrun_w_crystal_crystal_tc_26_horiz/working
-    oomp_src_folder: footprints_folder/footprints_folder/pelrun/w_crystal/crystal_tc-26_horiz/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/pelrun/w_crystal/crystal_tc-26_horiz/working
   name: libKiCad
+  oomp:
+    footprint_name: crystal_tc_26_horiz
+    library_name: w_crystal
+    md5: 35b90718095f48374e0680a9e3286c40
+    md5_10: 35b9071809
+    md5_5: 35b90
+    md5_6: 35b907
+    oomp_key: oomp_pelrun_w_crystal_crystal_tc_26_horiz
+    oomp_key_extra: oomp_footprint_pelrun_w_crystal_crystal_tc_26_horiz
+    oomp_key_full: oomp_footprint_pelrun_w_crystal_crystal_tc_26_horiz_35b907
+    oomp_key_simple: pelrun_w_crystal_crystal_tc_26_horiz
+    original_filename: libKiCad/footprint/w_crystal.pretty/crystal_tc-26_horiz.kicad_mod
+    owner_name: pelrun
   oomp_key: oomp_pelrun_w_crystal_crystal_tc_26_horiz
+  oomp_key_full: oomp_footprint_pelrun_w_crystal_crystal_tc_26_horiz
   oomp_key_simple: pelrun_w_crystal_crystal_tc_26_horiz
   owner: pelrun
   repo:

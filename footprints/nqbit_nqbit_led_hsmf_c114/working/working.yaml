@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/nqbit_nqbit_led_hsmf_c114/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nqbit_nqbit_led_hsmf_c114/working
-    oomp_doc: footprints/footprints/nqbit/NQBit/LED_HSMF-C114/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/nqbit/NQBit/LED_HSMF-C114/working
     oomp_src_flat: footprints_flat/footprints_flat/nqbit_nqbit_led_hsmf_c114/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nqbit_nqbit_led_hsmf_c114/working
-    oomp_src_folder: footprints_folder/footprints_folder/nqbit/NQBit/LED_HSMF-C114/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/nqbit/NQBit/LED_HSMF-C114/working
   name: NQBit.pretty
+  oomp:
+    footprint_name: led_hsmf_c114
+    library_name: nqbit
+    md5: 9c5281e7719044d484d74a1f25b317b6
+    md5_10: 9c5281e771
+    md5_5: 9c528
+    md5_6: 9c5281
+    oomp_key: oomp_nqbit_nqbit_led_hsmf_c114
+    oomp_key_extra: oomp_footprint_nqbit_nqbit_led_hsmf_c114
+    oomp_key_full: oomp_footprint_nqbit_nqbit_led_hsmf_c114_9c5281
+    oomp_key_simple: nqbit_nqbit_led_hsmf_c114
+    original_filename: NQBit.pretty/LED_HSMF-C114.kicad_mod
+    owner_name: nqbit
   oomp_key: oomp_nqbit_nqbit_led_hsmf_c114
+  oomp_key_full: oomp_footprint_nqbit_nqbit_led_hsmf_c114
   oomp_key_simple: nqbit_nqbit_led_hsmf_c114
   owner: nqbit
   repo:

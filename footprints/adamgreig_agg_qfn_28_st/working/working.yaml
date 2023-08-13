@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/adamgreig/agg-kicad
     oomp_bot: footprints/adamgreig_agg_qfn_28_st/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/adamgreig_agg_qfn_28_st/working
-    oomp_doc: footprints/footprints/adamgreig/agg/QFN-28-ST/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/adamgreig/agg/QFN-28-ST/working
     oomp_src_flat: footprints_flat/footprints_flat/adamgreig_agg_qfn_28_st/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/adamgreig_agg_qfn_28_st/working
-    oomp_src_folder: footprints_folder/footprints_folder/adamgreig/agg/QFN-28-ST/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/adamgreig/agg/QFN-28-ST/working
   name: agg-kicad
+  oomp:
+    footprint_name: qfn_28_st
+    library_name: agg
+    md5: db5698aff82e164f4fa7cfa4f67d0aef
+    md5_10: db5698aff8
+    md5_5: db569
+    md5_6: db5698
+    oomp_key: oomp_adamgreig_agg_qfn_28_st
+    oomp_key_extra: oomp_footprint_adamgreig_agg_qfn_28_st
+    oomp_key_full: oomp_footprint_adamgreig_agg_qfn_28_st_db5698
+    oomp_key_simple: adamgreig_agg_qfn_28_st
+    original_filename: agg-kicad/agg.pretty/QFN-28-ST.kicad_mod
+    owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_qfn_28_st
+  oomp_key_full: oomp_footprint_adamgreig_agg_qfn_28_st
   oomp_key_simple: adamgreig_agg_qfn_28_st
   owner: adamgreig
   repo:

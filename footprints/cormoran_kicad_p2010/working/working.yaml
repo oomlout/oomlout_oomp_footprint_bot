@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cormoran_kicad_p2010/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cormoran_kicad_p2010/working
-    oomp_doc: footprints/footprints/cormoran/kicad/P2010/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cormoran/kicad/P2010/working
     oomp_src_flat: footprints_flat/footprints_flat/cormoran_kicad_p2010/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cormoran_kicad_p2010/working
-    oomp_src_folder: footprints_folder/footprints_folder/cormoran/kicad/P2010/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cormoran/kicad/P2010/working
   name: kicad.pretty
+  oomp:
+    footprint_name: p2010
+    library_name: kicad
+    md5: 005927fa2745960890941e26b0ec4d5d
+    md5_10: 005927fa27
+    md5_5: 00592
+    md5_6: 005927
+    oomp_key: oomp_cormoran_kicad_p2010
+    oomp_key_extra: oomp_footprint_cormoran_kicad_p2010
+    oomp_key_full: oomp_footprint_cormoran_kicad_p2010_005927
+    oomp_key_simple: cormoran_kicad_p2010
+    original_filename: kicad.pretty/P2010.kicad_mod
+    owner_name: cormoran
   oomp_key: oomp_cormoran_kicad_p2010
+  oomp_key_full: oomp_footprint_cormoran_kicad_p2010
   oomp_key_simple: cormoran_kicad_p2010
   owner: cormoran
   repo:

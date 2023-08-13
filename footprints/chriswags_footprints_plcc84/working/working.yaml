@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/chriswags_footprints_plcc84/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/chriswags_footprints_plcc84/working
-    oomp_doc: footprints/footprints/chriswags/footprints/PLCC84/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/chriswags/footprints/PLCC84/working
     oomp_src_flat: footprints_flat/footprints_flat/chriswags_footprints_plcc84/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/chriswags_footprints_plcc84/working
-    oomp_src_folder: footprints_folder/footprints_folder/chriswags/footprints/PLCC84/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/chriswags/footprints/PLCC84/working
   name: KiCad
+  oomp:
+    footprint_name: plcc84
+    library_name: footprints
+    md5: 9463ea36afc957fb6cc4d0a438d362b3
+    md5_10: 9463ea36af
+    md5_5: 9463e
+    md5_6: 9463ea
+    oomp_key: oomp_chriswags_footprints_plcc84
+    oomp_key_extra: oomp_footprint_chriswags_footprints_plcc84
+    oomp_key_full: oomp_footprint_chriswags_footprints_plcc84_9463ea
+    oomp_key_simple: chriswags_footprints_plcc84
+    original_filename: KiCad/demos/video/libs/footprints.pretty/PLCC84.kicad_mod
+    owner_name: chriswags
   oomp_key: oomp_chriswags_footprints_plcc84
+  oomp_key_full: oomp_footprint_chriswags_footprints_plcc84
   oomp_key_simple: chriswags_footprints_plcc84
   owner: chriswags
   repo:

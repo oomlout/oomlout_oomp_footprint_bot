@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/kubiX89/kiCAD.pretty
     oomp_bot: footprints/kubix89_kicad_fuse_holder_atc_pcb/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kubix89_kicad_fuse_holder_atc_pcb/working
-    oomp_doc: footprints/footprints/kubiX89/kiCAD/FUSE_HOLDER_ATC_PCB/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kubiX89/kiCAD/FUSE_HOLDER_ATC_PCB/working
     oomp_src_flat: footprints_flat/footprints_flat/kubix89_kicad_fuse_holder_atc_pcb/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kubix89_kicad_fuse_holder_atc_pcb/working
-    oomp_src_folder: footprints_folder/footprints_folder/kubiX89/kiCAD/FUSE_HOLDER_ATC_PCB/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kubiX89/kiCAD/FUSE_HOLDER_ATC_PCB/working
   name: kiCAD.pretty
+  oomp:
+    footprint_name: fuse_holder_atc_pcb
+    library_name: kicad
+    md5: 27ba184b0d900d2a76d5e959aec2c151
+    md5_10: 27ba184b0d
+    md5_5: 27ba1
+    md5_6: 27ba18
+    oomp_key: oomp_kubix89_kicad_fuse_holder_atc_pcb
+    oomp_key_extra: oomp_footprint_kubix89_kicad_fuse_holder_atc_pcb
+    oomp_key_full: oomp_footprint_kubix89_kicad_fuse_holder_atc_pcb_27ba18
+    oomp_key_simple: kubix89_kicad_fuse_holder_atc_pcb
+    original_filename: kiCAD.pretty/FUSE_HOLDER_ATC_PCB.kicad_mod
+    owner_name: kubix89
   oomp_key: oomp_kubix89_kicad_fuse_holder_atc_pcb
+  oomp_key_full: oomp_footprint_kubix89_kicad_fuse_holder_atc_pcb
   oomp_key_simple: kubix89_kicad_fuse_holder_atc_pcb
   owner: kubiX89
   repo:

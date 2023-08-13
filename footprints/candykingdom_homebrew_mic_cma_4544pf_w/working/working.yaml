@@ -1,5 +1,8 @@
-- error: Expression does not have the correct type
-  file: homebrew.pretty/MIC_CMA-4544PF-W.kicad_mod
+- file: homebrew.pretty/MIC_CMA-4544PF-W.kicad_mod
+  footprint:
+    description: null
+    libraryLink: MIC_CMA-4544PF-W
+    number_of_pads: 2
   footprint_library_directory: footprint_library_owner/candykingdom_homebrew.pretty
   footprint_library_directory_flat: footprints_flat/candykingdom_homebrew_mic_cma_4544pf_w/working
   github_path: http://github.com/candykingdom/homebrew.pretty/blob/master/MIC_CMA-4544PF-W.kicad_mod
@@ -9,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/candykingdom_homebrew_mic_cma_4544pf_w/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/candykingdom_homebrew_mic_cma_4544pf_w/working
-    oomp_doc: footprints/footprints/candykingdom/homebrew/MIC_CMA-4544PF-W/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/candykingdom/homebrew/MIC_CMA-4544PF-W/working
     oomp_src_flat: footprints_flat/footprints_flat/candykingdom_homebrew_mic_cma_4544pf_w/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/candykingdom_homebrew_mic_cma_4544pf_w/working
-    oomp_src_folder: footprints_folder/footprints_folder/candykingdom/homebrew/MIC_CMA-4544PF-W/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/candykingdom/homebrew/MIC_CMA-4544PF-W/working
   name: homebrew.pretty
+  oomp:
+    footprint_name: mic_cma_4544pf_w
+    library_name: homebrew
+    md5: 263249c51b1bd0e2f8a540277d007764
+    md5_10: 263249c51b
+    md5_5: '26324'
+    md5_6: '263249'
+    oomp_key: oomp_candykingdom_homebrew_mic_cma_4544pf_w
+    oomp_key_extra: oomp_footprint_candykingdom_homebrew_mic_cma_4544pf_w
+    oomp_key_full: oomp_footprint_candykingdom_homebrew_mic_cma_4544pf_w_263249
+    oomp_key_simple: candykingdom_homebrew_mic_cma_4544pf_w
+    original_filename: homebrew.pretty/MIC_CMA-4544PF-W.kicad_mod
+    owner_name: candykingdom
   oomp_key: oomp_candykingdom_homebrew_mic_cma_4544pf_w
+  oomp_key_full: oomp_footprint_candykingdom_homebrew_mic_cma_4544pf_w
   oomp_key_simple: candykingdom_homebrew_mic_cma_4544pf_w
   owner: candykingdom
   repo:

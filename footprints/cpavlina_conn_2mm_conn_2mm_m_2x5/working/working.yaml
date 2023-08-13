@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cpavlina_conn_2mm_conn_2mm_m_2x5/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cpavlina_conn_2mm_conn_2mm_m_2x5/working
-    oomp_doc: footprints/footprints/cpavlina/conn-2mm/CONN-2MM-M-2x5/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cpavlina/conn-2mm/CONN-2MM-M-2x5/working
     oomp_src_flat: footprints_flat/footprints_flat/cpavlina_conn_2mm_conn_2mm_m_2x5/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cpavlina_conn_2mm_conn_2mm_m_2x5/working
-    oomp_src_folder: footprints_folder/footprints_folder/cpavlina/conn-2mm/CONN-2MM-M-2x5/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cpavlina/conn-2mm/CONN-2MM-M-2x5/working
   name: kicad-pcblib
+  oomp:
+    footprint_name: conn_2mm_m_2x5
+    library_name: conn_2mm
+    md5: d2aececd5bf5a132c62d7fc91a3d5156
+    md5_10: d2aececd5b
+    md5_5: d2aec
+    md5_6: d2aece
+    oomp_key: oomp_cpavlina_conn_2mm_conn_2mm_m_2x5
+    oomp_key_extra: oomp_footprint_cpavlina_conn_2mm_conn_2mm_m_2x5
+    oomp_key_full: oomp_footprint_cpavlina_conn_2mm_conn_2mm_m_2x5_d2aece
+    oomp_key_simple: cpavlina_conn_2mm_conn_2mm_m_2x5
+    original_filename: kicad-pcblib/conn-2mm.pretty/CONN-2MM-M-2x5.kicad_mod
+    owner_name: cpavlina
   oomp_key: oomp_cpavlina_conn_2mm_conn_2mm_m_2x5
+  oomp_key_full: oomp_footprint_cpavlina_conn_2mm_conn_2mm_m_2x5
   oomp_key_simple: cpavlina_conn_2mm_conn_2mm_m_2x5
   owner: cpavlina
   repo:

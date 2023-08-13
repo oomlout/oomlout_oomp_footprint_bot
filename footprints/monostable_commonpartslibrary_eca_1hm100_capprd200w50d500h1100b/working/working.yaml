@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/monostable_commonpartslibrary_eca_1hm100_capprd200w50d500h1100b/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/monostable_commonpartslibrary_eca_1hm100_capprd200w50d500h1100b/working
-    oomp_doc: footprints/footprints/monostable/CommonPartsLibrary/ECA-1HM100_CAPPRD200W50D500H1100B/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/monostable/CommonPartsLibrary/ECA-1HM100_CAPPRD200W50D500H1100B/working
     oomp_src_flat: footprints_flat/footprints_flat/monostable_commonpartslibrary_eca_1hm100_capprd200w50d500h1100b/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/monostable_commonpartslibrary_eca_1hm100_capprd200w50d500h1100b/working
-    oomp_src_folder: footprints_folder/footprints_folder/monostable/CommonPartsLibrary/ECA-1HM100_CAPPRD200W50D500H1100B/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/monostable/CommonPartsLibrary/ECA-1HM100_CAPPRD200W50D500H1100B/working
   name: CommonPartsLibrary.pretty
+  oomp:
+    footprint_name: eca_1hm100_capprd200w50d500h1100b
+    library_name: commonpartslibrary
+    md5: ac6c842201c26c268251c12ccf47845d
+    md5_10: ac6c842201
+    md5_5: ac6c8
+    md5_6: ac6c84
+    oomp_key: oomp_monostable_commonpartslibrary_eca_1hm100_capprd200w50d500h1100b
+    oomp_key_extra: oomp_footprint_monostable_commonpartslibrary_eca_1hm100_capprd200w50d500h1100b
+    oomp_key_full: oomp_footprint_monostable_commonpartslibrary_eca_1hm100_capprd200w50d500h1100b_ac6c84
+    oomp_key_simple: monostable_commonpartslibrary_eca_1hm100_capprd200w50d500h1100b
+    original_filename: CommonPartsLibrary.pretty/ECA-1HM100_CAPPRD200W50D500H1100B.kicad_mod
+    owner_name: monostable
   oomp_key: oomp_monostable_commonpartslibrary_eca_1hm100_capprd200w50d500h1100b
+  oomp_key_full: oomp_footprint_monostable_commonpartslibrary_eca_1hm100_capprd200w50d500h1100b
   oomp_key_simple: monostable_commonpartslibrary_eca_1hm100_capprd200w50d500h1100b
   owner: monostable
   repo:

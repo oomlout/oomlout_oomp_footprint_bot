@@ -1,5 +1,8 @@
-- error: Expression does not have the correct type
-  file: kicad-components/Pretty_Footprints/QFN.pretty/LTC2208_QFN-16x16_EP_9x9_Pitch0.5mm.kicad_mod
+- file: kicad-components/Pretty_Footprints/QFN.pretty/LTC2208_QFN-16x16_EP_9x9_Pitch0.5mm.kicad_mod
+  footprint:
+    description: null
+    libraryLink: LTC2208_QFN-16x16_EP_9x9_Pitch0.5mm
+    number_of_pads: 114
   footprint_library_directory: footprint_library_owner/natsfr_kicad-components
   footprint_library_directory_flat: footprints_flat/natsfr_qfn_ltc2208_qfn_16x16_ep_9x9_pitch0_5mm/working
   github_path: http://github.com/natsfr/kicad-components/blob/master/Pretty_Footprints/QFN.pretty/LTC2208_QFN-16x16_EP_9x9_Pitch0.5mm.kicad_mod
@@ -8,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/natsfr_qfn_ltc2208_qfn_16x16_ep_9x9_pitch0_5mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/natsfr_qfn_ltc2208_qfn_16x16_ep_9x9_pitch0_5mm/working
-    oomp_doc: footprints/footprints/natsfr/QFN/LTC2208_QFN-16x16_EP_9x9_Pitch0.5mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/natsfr/QFN/LTC2208_QFN-16x16_EP_9x9_Pitch0.5mm/working
     oomp_src_flat: footprints_flat/footprints_flat/natsfr_qfn_ltc2208_qfn_16x16_ep_9x9_pitch0_5mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/natsfr_qfn_ltc2208_qfn_16x16_ep_9x9_pitch0_5mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/natsfr/QFN/LTC2208_QFN-16x16_EP_9x9_Pitch0.5mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/natsfr/QFN/LTC2208_QFN-16x16_EP_9x9_Pitch0.5mm/working
   name: kicad-components
+  oomp:
+    footprint_name: ltc2208_qfn_16x16_ep_9x9_pitch0_5mm
+    library_name: qfn
+    md5: c098916674bb1284edbbe21b2d394211
+    md5_10: c098916674
+    md5_5: c0989
+    md5_6: c09891
+    oomp_key: oomp_natsfr_qfn_ltc2208_qfn_16x16_ep_9x9_pitch0_5mm
+    oomp_key_extra: oomp_footprint_natsfr_qfn_ltc2208_qfn_16x16_ep_9x9_pitch0_5mm
+    oomp_key_full: oomp_footprint_natsfr_qfn_ltc2208_qfn_16x16_ep_9x9_pitch0_5mm_c09891
+    oomp_key_simple: natsfr_qfn_ltc2208_qfn_16x16_ep_9x9_pitch0_5mm
+    original_filename: kicad-components/Pretty_Footprints/QFN.pretty/LTC2208_QFN-16x16_EP_9x9_Pitch0.5mm.kicad_mod
+    owner_name: natsfr
   oomp_key: oomp_natsfr_qfn_ltc2208_qfn_16x16_ep_9x9_pitch0_5mm
+  oomp_key_full: oomp_footprint_natsfr_qfn_ltc2208_qfn_16x16_ep_9x9_pitch0_5mm
   oomp_key_simple: natsfr_qfn_ltc2208_qfn_16x16_ep_9x9_pitch0_5mm
   owner: natsfr
   repo:

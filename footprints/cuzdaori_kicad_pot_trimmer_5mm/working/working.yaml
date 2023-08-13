@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cuzdaori_kicad_pot_trimmer_5mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cuzdaori_kicad_pot_trimmer_5mm/working
-    oomp_doc: footprints/footprints/cuzdaori/KiCad/POT_TRIMMER_5MM/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cuzdaori/KiCad/POT_TRIMMER_5MM/working
     oomp_src_flat: footprints_flat/footprints_flat/cuzdaori_kicad_pot_trimmer_5mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cuzdaori_kicad_pot_trimmer_5mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/cuzdaori/KiCad/POT_TRIMMER_5MM/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cuzdaori/KiCad/POT_TRIMMER_5MM/working
   name: KiCad.pretty
+  oomp:
+    footprint_name: pot_trimmer_5mm
+    library_name: kicad
+    md5: 16b4abdbde0b27acf9efdc7783637331
+    md5_10: 16b4abdbde
+    md5_5: 16b4a
+    md5_6: 16b4ab
+    oomp_key: oomp_cuzdaori_kicad_pot_trimmer_5mm
+    oomp_key_extra: oomp_footprint_cuzdaori_kicad_pot_trimmer_5mm
+    oomp_key_full: oomp_footprint_cuzdaori_kicad_pot_trimmer_5mm_16b4ab
+    oomp_key_simple: cuzdaori_kicad_pot_trimmer_5mm
+    original_filename: KiCad.pretty/POT_TRIMMER_5MM.kicad_mod
+    owner_name: cuzdaori
   oomp_key: oomp_cuzdaori_kicad_pot_trimmer_5mm
+  oomp_key_full: oomp_footprint_cuzdaori_kicad_pot_trimmer_5mm
   oomp_key_simple: cuzdaori_kicad_pot_trimmer_5mm
   owner: cuzdaori
   repo:

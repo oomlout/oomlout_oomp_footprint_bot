@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pbrook_parts_do_35_sm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pbrook_parts_do_35_sm/working
-    oomp_doc: footprints/footprints/pbrook/Parts/DO-35-SM/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/pbrook/Parts/DO-35-SM/working
     oomp_src_flat: footprints_flat/footprints_flat/pbrook_parts_do_35_sm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pbrook_parts_do_35_sm/working
-    oomp_src_folder: footprints_folder/footprints_folder/pbrook/Parts/DO-35-SM/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/pbrook/Parts/DO-35-SM/working
   name: Parts.pretty
+  oomp:
+    footprint_name: do_35_sm
+    library_name: parts
+    md5: 8748ea5d249b11e7cac1308375f45706
+    md5_10: 8748ea5d24
+    md5_5: 8748e
+    md5_6: 8748ea
+    oomp_key: oomp_pbrook_parts_do_35_sm
+    oomp_key_extra: oomp_footprint_pbrook_parts_do_35_sm
+    oomp_key_full: oomp_footprint_pbrook_parts_do_35_sm_8748ea
+    oomp_key_simple: pbrook_parts_do_35_sm
+    original_filename: Parts.pretty/DO-35-SM.kicad_mod
+    owner_name: pbrook
   oomp_key: oomp_pbrook_parts_do_35_sm
+  oomp_key_full: oomp_footprint_pbrook_parts_do_35_sm
   oomp_key_simple: pbrook_parts_do_35_sm
   owner: pbrook
   repo:

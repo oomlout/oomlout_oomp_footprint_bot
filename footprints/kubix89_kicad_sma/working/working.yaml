@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/kubiX89/kiCAD.pretty
     oomp_bot: footprints/kubix89_kicad_sma/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kubix89_kicad_sma/working
-    oomp_doc: footprints/footprints/kubiX89/kiCAD/SMA/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kubiX89/kiCAD/SMA/working
     oomp_src_flat: footprints_flat/footprints_flat/kubix89_kicad_sma/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kubix89_kicad_sma/working
-    oomp_src_folder: footprints_folder/footprints_folder/kubiX89/kiCAD/SMA/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kubiX89/kiCAD/SMA/working
   name: kiCAD.pretty
+  oomp:
+    footprint_name: sma
+    library_name: kicad
+    md5: 6df506160abbe2e70d6941cc5987cdaa
+    md5_10: 6df506160a
+    md5_5: 6df50
+    md5_6: 6df506
+    oomp_key: oomp_kubix89_kicad_sma
+    oomp_key_extra: oomp_footprint_kubix89_kicad_sma
+    oomp_key_full: oomp_footprint_kubix89_kicad_sma_6df506
+    oomp_key_simple: kubix89_kicad_sma
+    original_filename: kiCAD.pretty/SMA.kicad_mod
+    owner_name: kubix89
   oomp_key: oomp_kubix89_kicad_sma
+  oomp_key_full: oomp_footprint_kubix89_kicad_sma
   oomp_key_simple: kubix89_kicad_sma
   owner: kubiX89
   repo:

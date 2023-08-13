@@ -1,5 +1,8 @@
-- error: Expression does not have the correct type
-  file: kicad-modules/Rotary_Encoder_Extra.pretty/Bourns_PER35.kicad_mod
+- file: kicad-modules/Rotary_Encoder_Extra.pretty/Bourns_PER35.kicad_mod
+  footprint:
+    description: null
+    libraryLink: Bourns_PER35
+    number_of_pads: 10
   footprint_library_directory: footprint_library_owner/arturo182_kicad-modules
   footprint_library_directory_flat: footprints_flat/arturo182_rotary_encoder_extra_bourns_per35/working
   github_path: http://github.com/arturo182/kicad-modules/blob/master/Rotary_Encoder_Extra.pretty/Bourns_PER35.kicad_mod
@@ -10,14 +13,24 @@
     github_src_repo: https://github.com/arturo182/kicad-modules
     oomp_bot: footprints/arturo182_rotary_encoder_extra_bourns_per35/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/arturo182_rotary_encoder_extra_bourns_per35/working
-    oomp_doc: footprints/footprints/arturo182/Rotary_Encoder_Extra/Bourns_PER35/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/arturo182/Rotary_Encoder_Extra/Bourns_PER35/working
     oomp_src_flat: footprints_flat/footprints_flat/arturo182_rotary_encoder_extra_bourns_per35/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/arturo182_rotary_encoder_extra_bourns_per35/working
-    oomp_src_folder: footprints_folder/footprints_folder/arturo182/Rotary_Encoder_Extra/Bourns_PER35/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/arturo182/Rotary_Encoder_Extra/Bourns_PER35/working
   name: kicad-modules
+  oomp:
+    footprint_name: bourns_per35
+    library_name: rotary_encoder_extra
+    md5: 77a48a8676a3dbff93a42a8c2aed3b72
+    md5_10: 77a48a8676
+    md5_5: 77a48
+    md5_6: 77a48a
+    oomp_key: oomp_arturo182_rotary_encoder_extra_bourns_per35
+    oomp_key_extra: oomp_footprint_arturo182_rotary_encoder_extra_bourns_per35
+    oomp_key_full: oomp_footprint_arturo182_rotary_encoder_extra_bourns_per35_77a48a
+    oomp_key_simple: arturo182_rotary_encoder_extra_bourns_per35
+    original_filename: kicad-modules/Rotary_Encoder_Extra.pretty/Bourns_PER35.kicad_mod
+    owner_name: arturo182
   oomp_key: oomp_arturo182_rotary_encoder_extra_bourns_per35
+  oomp_key_full: oomp_footprint_arturo182_rotary_encoder_extra_bourns_per35
   oomp_key_simple: arturo182_rotary_encoder_extra_bourns_per35
   owner: arturo182
   repo:

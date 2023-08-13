@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/rchojetzki_rchojetzki_kicad_footprints_lib_logo_viper/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/rchojetzki_rchojetzki_kicad_footprints_lib_logo_viper/working
-    oomp_doc: footprints/footprints/rchojetzki/rchojetzki-kicad-footprints-lib/LOGO_Viper/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/rchojetzki/rchojetzki-kicad-footprints-lib/LOGO_Viper/working
     oomp_src_flat: footprints_flat/footprints_flat/rchojetzki_rchojetzki_kicad_footprints_lib_logo_viper/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/rchojetzki_rchojetzki_kicad_footprints_lib_logo_viper/working
-    oomp_src_folder: footprints_folder/footprints_folder/rchojetzki/rchojetzki-kicad-footprints-lib/LOGO_Viper/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/rchojetzki/rchojetzki-kicad-footprints-lib/LOGO_Viper/working
   name: rchojetzki-kicad-footprints-lib.pretty
+  oomp:
+    footprint_name: logo_viper
+    library_name: rchojetzki_kicad_footprints_lib
+    md5: 50afb48be41397f254c1f2767c03d28c
+    md5_10: 50afb48be4
+    md5_5: 50afb
+    md5_6: 50afb4
+    oomp_key: oomp_rchojetzki_rchojetzki_kicad_footprints_lib_logo_viper
+    oomp_key_extra: oomp_footprint_rchojetzki_rchojetzki_kicad_footprints_lib_logo_viper
+    oomp_key_full: oomp_footprint_rchojetzki_rchojetzki_kicad_footprints_lib_logo_viper_50afb4
+    oomp_key_simple: rchojetzki_rchojetzki_kicad_footprints_lib_logo_viper
+    original_filename: rchojetzki-kicad-footprints-lib.pretty/LOGO_Viper.kicad_mod
+    owner_name: rchojetzki
   oomp_key: oomp_rchojetzki_rchojetzki_kicad_footprints_lib_logo_viper
+  oomp_key_full: oomp_footprint_rchojetzki_rchojetzki_kicad_footprints_lib_logo_viper
   oomp_key_simple: rchojetzki_rchojetzki_kicad_footprints_lib_logo_viper
   owner: rchojetzki
   repo:

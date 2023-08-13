@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/suf_kicad_suf_terminal_block_dg88_04p_13_10ah/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/suf_kicad_suf_terminal_block_dg88_04p_13_10ah/working
-    oomp_doc: footprints/footprints/suf-KiCAD/suf_terminal_block/DG88-04P-13-10AH/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/suf-KiCAD/suf_terminal_block/DG88-04P-13-10AH/working
     oomp_src_flat: footprints_flat/footprints_flat/suf_kicad_suf_terminal_block_dg88_04p_13_10ah/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/suf_kicad_suf_terminal_block_dg88_04p_13_10ah/working
-    oomp_src_folder: footprints_folder/footprints_folder/suf-KiCAD/suf_terminal_block/DG88-04P-13-10AH/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/suf-KiCAD/suf_terminal_block/DG88-04P-13-10AH/working
   name: suf_terminal_block.pretty
+  oomp:
+    footprint_name: dg88_04p_13_10ah
+    library_name: suf_terminal_block
+    md5: e0468756bdf12bc4cfb59f7a1d0ce540
+    md5_10: e0468756bd
+    md5_5: e0468
+    md5_6: e04687
+    oomp_key: oomp_suf_kicad_suf_terminal_block_dg88_04p_13_10ah
+    oomp_key_extra: oomp_footprint_suf_kicad_suf_terminal_block_dg88_04p_13_10ah
+    oomp_key_full: oomp_footprint_suf_kicad_suf_terminal_block_dg88_04p_13_10ah_e04687
+    oomp_key_simple: suf_kicad_suf_terminal_block_dg88_04p_13_10ah
+    original_filename: suf_terminal_block.pretty/DG88-04P-13-10AH.kicad_mod
+    owner_name: suf_kicad
   oomp_key: oomp_suf_kicad_suf_terminal_block_dg88_04p_13_10ah
+  oomp_key_full: oomp_footprint_suf_kicad_suf_terminal_block_dg88_04p_13_10ah
   oomp_key_simple: suf_kicad_suf_terminal_block_dg88_04p_13_10ah
   owner: suf-KiCAD
   repo:

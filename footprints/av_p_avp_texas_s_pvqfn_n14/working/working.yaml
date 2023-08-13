@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/av_p_avp_texas_s_pvqfn_n14/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/av_p_avp_texas_s_pvqfn_n14/working
-    oomp_doc: footprints/footprints/av-p/Avp/Texas_S-PVQFN-N14/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/av-p/Avp/Texas_S-PVQFN-N14/working
     oomp_src_flat: footprints_flat/footprints_flat/av_p_avp_texas_s_pvqfn_n14/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/av_p_avp_texas_s_pvqfn_n14/working
-    oomp_src_folder: footprints_folder/footprints_folder/av-p/Avp/Texas_S-PVQFN-N14/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/av-p/Avp/Texas_S-PVQFN-N14/working
   name: Avp.pretty
+  oomp:
+    footprint_name: texas_s_pvqfn_n14
+    library_name: avp
+    md5: 1bb429c9857e15308359ba58e7828d5e
+    md5_10: 1bb429c985
+    md5_5: 1bb42
+    md5_6: 1bb429
+    oomp_key: oomp_av_p_avp_texas_s_pvqfn_n14
+    oomp_key_extra: oomp_footprint_av_p_avp_texas_s_pvqfn_n14
+    oomp_key_full: oomp_footprint_av_p_avp_texas_s_pvqfn_n14_1bb429
+    oomp_key_simple: av_p_avp_texas_s_pvqfn_n14
+    original_filename: Avp.pretty/Texas_S-PVQFN-N14.kicad_mod
+    owner_name: av_p
   oomp_key: oomp_av_p_avp_texas_s_pvqfn_n14
+  oomp_key_full: oomp_footprint_av_p_avp_texas_s_pvqfn_n14
   oomp_key_simple: av_p_avp_texas_s_pvqfn_n14
   owner: av-p
   repo:

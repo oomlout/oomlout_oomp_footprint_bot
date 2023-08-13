@@ -13,17 +13,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_button_switch_smd_sw_dip_spstx01_slide_6_7x4_1mm_w6_73mm_p2_54mm_lowprofile_jpin/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_button_switch_smd_sw_dip_spstx01_slide_6_7x4_1mm_w6_73mm_p2_54mm_lowprofile_jpin/working
-    oomp_doc: footprints/footprints/kicad/Button_Switch_SMD/SW_DIP_SPSTx01_Slide_6.7x4.1mm_W6.73mm_P2.54mm_LowProfile_JPin/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Button_Switch_SMD/SW_DIP_SPSTx01_Slide_6.7x4.1mm_W6.73mm_P2.54mm_LowProfile_JPin/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_button_switch_smd_sw_dip_spstx01_slide_6_7x4_1mm_w6_73mm_p2_54mm_lowprofile_jpin/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_button_switch_smd_sw_dip_spstx01_slide_6_7x4_1mm_w6_73mm_p2_54mm_lowprofile_jpin/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Button_Switch_SMD/SW_DIP_SPSTx01_Slide_6.7x4.1mm_W6.73mm_P2.54mm_LowProfile_JPin/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Button_Switch_SMD/SW_DIP_SPSTx01_Slide_6.7x4.1mm_W6.73mm_P2.54mm_LowProfile_JPin/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: sw_dip_spstx01_slide_6_7x4_1mm_w6_73mm_p2_54mm_lowprofile_jpin
+    library_name: button_switch_smd
+    md5: 6e8d4f0bf5d28b3612aee67af5c53e96
+    md5_10: 6e8d4f0bf5
+    md5_5: 6e8d4
+    md5_6: 6e8d4f
+    oomp_key: oomp_kicad_button_switch_smd_sw_dip_spstx01_slide_6_7x4_1mm_w6_73mm_p2_54mm_lowprofile_jpin
+    oomp_key_extra: oomp_footprint_kicad_button_switch_smd_sw_dip_spstx01_slide_6_7x4_1mm_w6_73mm_p2_54mm_lowprofile_jpin
+    oomp_key_full: oomp_footprint_kicad_button_switch_smd_sw_dip_spstx01_slide_6_7x4_1mm_w6_73mm_p2_54mm_lowprofile_jpin_6e8d4f
+    oomp_key_simple: kicad_button_switch_smd_sw_dip_spstx01_slide_6_7x4_1mm_w6_73mm_p2_54mm_lowprofile_jpin
+    original_filename: libraries/kicad-footprints/Button_Switch_SMD.pretty/SW_DIP_SPSTx01_Slide_6.7x4.1mm_W6.73mm_P2.54mm_LowProfile_JPin.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_button_switch_smd_sw_dip_spstx01_slide_6_7x4_1mm_w6_73mm_p2_54mm_lowprofile_jpin
+  oomp_key_full: oomp_footprint_kicad_button_switch_smd_sw_dip_spstx01_slide_6_7x4_1mm_w6_73mm_p2_54mm_lowprofile_jpin
   oomp_key_simple: kicad_button_switch_smd_sw_dip_spstx01_slide_6_7x4_1mm_w6_73mm_p2_54mm_lowprofile_jpin
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

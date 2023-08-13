@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/candykingdom_homebrew_pva1_oa_h2/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/candykingdom_homebrew_pva1_oa_h2/working
-    oomp_doc: footprints/footprints/candykingdom/homebrew/PVA1-OA-H2/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/candykingdom/homebrew/PVA1-OA-H2/working
     oomp_src_flat: footprints_flat/footprints_flat/candykingdom_homebrew_pva1_oa_h2/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/candykingdom_homebrew_pva1_oa_h2/working
-    oomp_src_folder: footprints_folder/footprints_folder/candykingdom/homebrew/PVA1-OA-H2/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/candykingdom/homebrew/PVA1-OA-H2/working
   name: homebrew.pretty
+  oomp:
+    footprint_name: pva1_oa_h2
+    library_name: homebrew
+    md5: f143f38099624cced81a3257372420f6
+    md5_10: f143f38099
+    md5_5: f143f
+    md5_6: f143f3
+    oomp_key: oomp_candykingdom_homebrew_pva1_oa_h2
+    oomp_key_extra: oomp_footprint_candykingdom_homebrew_pva1_oa_h2
+    oomp_key_full: oomp_footprint_candykingdom_homebrew_pva1_oa_h2_f143f3
+    oomp_key_simple: candykingdom_homebrew_pva1_oa_h2
+    original_filename: homebrew.pretty/PVA1-OA-H2.kicad_mod
+    owner_name: candykingdom
   oomp_key: oomp_candykingdom_homebrew_pva1_oa_h2
+  oomp_key_full: oomp_footprint_candykingdom_homebrew_pva1_oa_h2
   oomp_key_simple: candykingdom_homebrew_pva1_oa_h2
   owner: candykingdom
   repo:

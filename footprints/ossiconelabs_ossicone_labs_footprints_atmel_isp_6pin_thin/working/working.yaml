@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/ossiconelabs_ossicone_labs_footprints_atmel_isp_6pin_thin/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ossiconelabs_ossicone_labs_footprints_atmel_isp_6pin_thin/working
-    oomp_doc: footprints/footprints/OssiconeLabs/Ossicone_Labs_Footprints/Atmel_ISP_6PIN_Thin/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/OssiconeLabs/Ossicone_Labs_Footprints/Atmel_ISP_6PIN_Thin/working
     oomp_src_flat: footprints_flat/footprints_flat/ossiconelabs_ossicone_labs_footprints_atmel_isp_6pin_thin/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ossiconelabs_ossicone_labs_footprints_atmel_isp_6pin_thin/working
-    oomp_src_folder: footprints_folder/footprints_folder/OssiconeLabs/Ossicone_Labs_Footprints/Atmel_ISP_6PIN_Thin/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/OssiconeLabs/Ossicone_Labs_Footprints/Atmel_ISP_6PIN_Thin/working
   name: Ossicone_Labs_Footprints.pretty
+  oomp:
+    footprint_name: atmel_isp_6pin_thin
+    library_name: ossicone_labs_footprints
+    md5: b6f3f84fda1deb88d886dbc551c3b55b
+    md5_10: b6f3f84fda
+    md5_5: b6f3f
+    md5_6: b6f3f8
+    oomp_key: oomp_ossiconelabs_ossicone_labs_footprints_atmel_isp_6pin_thin
+    oomp_key_extra: oomp_footprint_ossiconelabs_ossicone_labs_footprints_atmel_isp_6pin_thin
+    oomp_key_full: oomp_footprint_ossiconelabs_ossicone_labs_footprints_atmel_isp_6pin_thin_b6f3f8
+    oomp_key_simple: ossiconelabs_ossicone_labs_footprints_atmel_isp_6pin_thin
+    original_filename: Ossicone_Labs_Footprints.pretty/Atmel_ISP_6PIN_Thin.kicad_mod
+    owner_name: ossiconelabs
   oomp_key: oomp_ossiconelabs_ossicone_labs_footprints_atmel_isp_6pin_thin
+  oomp_key_full: oomp_footprint_ossiconelabs_ossicone_labs_footprints_atmel_isp_6pin_thin
   oomp_key_simple: ossiconelabs_ossicone_labs_footprints_atmel_isp_6pin_thin
   owner: OssiconeLabs
   repo:

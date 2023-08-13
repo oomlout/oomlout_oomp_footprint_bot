@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/stefanhamminga_sh_connectors_jst_xh_4p_smt/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stefanhamminga_sh_connectors_jst_xh_4p_smt/working
-    oomp_doc: footprints/footprints/StefanHamminga/SH_Connectors/JST_XH_4P_SMT/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/StefanHamminga/SH_Connectors/JST_XH_4P_SMT/working
     oomp_src_flat: footprints_flat/footprints_flat/stefanhamminga_sh_connectors_jst_xh_4p_smt/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/stefanhamminga_sh_connectors_jst_xh_4p_smt/working
-    oomp_src_folder: footprints_folder/footprints_folder/StefanHamminga/SH_Connectors/JST_XH_4P_SMT/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/StefanHamminga/SH_Connectors/JST_XH_4P_SMT/working
   name: SH_Connectors.pretty
+  oomp:
+    footprint_name: jst_xh_4p_smt
+    library_name: sh_connectors
+    md5: a2796408355201c335b6f7011cc2f868
+    md5_10: a279640835
+    md5_5: a2796
+    md5_6: a27964
+    oomp_key: oomp_stefanhamminga_sh_connectors_jst_xh_4p_smt
+    oomp_key_extra: oomp_footprint_stefanhamminga_sh_connectors_jst_xh_4p_smt
+    oomp_key_full: oomp_footprint_stefanhamminga_sh_connectors_jst_xh_4p_smt_a27964
+    oomp_key_simple: stefanhamminga_sh_connectors_jst_xh_4p_smt
+    original_filename: SH_Connectors.pretty/JST_XH_4P_SMT.kicad_mod
+    owner_name: stefanhamminga
   oomp_key: oomp_stefanhamminga_sh_connectors_jst_xh_4p_smt
+  oomp_key_full: oomp_footprint_stefanhamminga_sh_connectors_jst_xh_4p_smt
   oomp_key_simple: stefanhamminga_sh_connectors_jst_xh_4p_smt
   owner: StefanHamminga
   repo:

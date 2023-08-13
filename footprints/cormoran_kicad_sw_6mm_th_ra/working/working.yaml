@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cormoran_kicad_sw_6mm_th_ra/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cormoran_kicad_sw_6mm_th_ra/working
-    oomp_doc: footprints/footprints/cormoran/kicad/SW_6MM_TH_RA/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cormoran/kicad/SW_6MM_TH_RA/working
     oomp_src_flat: footprints_flat/footprints_flat/cormoran_kicad_sw_6mm_th_ra/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cormoran_kicad_sw_6mm_th_ra/working
-    oomp_src_folder: footprints_folder/footprints_folder/cormoran/kicad/SW_6MM_TH_RA/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cormoran/kicad/SW_6MM_TH_RA/working
   name: kicad.pretty
+  oomp:
+    footprint_name: sw_6mm_th_ra
+    library_name: kicad
+    md5: cc123595c62cdb95a67304176fc2e19c
+    md5_10: cc123595c6
+    md5_5: cc123
+    md5_6: cc1235
+    oomp_key: oomp_cormoran_kicad_sw_6mm_th_ra
+    oomp_key_extra: oomp_footprint_cormoran_kicad_sw_6mm_th_ra
+    oomp_key_full: oomp_footprint_cormoran_kicad_sw_6mm_th_ra_cc1235
+    oomp_key_simple: cormoran_kicad_sw_6mm_th_ra
+    original_filename: kicad.pretty/SW_6MM_TH_RA.kicad_mod
+    owner_name: cormoran
   oomp_key: oomp_cormoran_kicad_sw_6mm_th_ra
+  oomp_key_full: oomp_footprint_cormoran_kicad_sw_6mm_th_ra
   oomp_key_simple: cormoran_kicad_sw_6mm_th_ra
   owner: cormoran
   repo:

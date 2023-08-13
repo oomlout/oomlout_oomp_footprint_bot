@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pelrun_w_smd_resistors_trim_murata_pvz2r/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pelrun_w_smd_resistors_trim_murata_pvz2r/working
-    oomp_doc: footprints/footprints/pelrun/w_smd_resistors/trim_murata_pvz2r/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/pelrun/w_smd_resistors/trim_murata_pvz2r/working
     oomp_src_flat: footprints_flat/footprints_flat/pelrun_w_smd_resistors_trim_murata_pvz2r/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pelrun_w_smd_resistors_trim_murata_pvz2r/working
-    oomp_src_folder: footprints_folder/footprints_folder/pelrun/w_smd_resistors/trim_murata_pvz2r/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/pelrun/w_smd_resistors/trim_murata_pvz2r/working
   name: libKiCad
+  oomp:
+    footprint_name: trim_murata_pvz2r
+    library_name: w_smd_resistors
+    md5: ee2f57f5523b9b9f195c1a8ca557959e
+    md5_10: ee2f57f552
+    md5_5: ee2f5
+    md5_6: ee2f57
+    oomp_key: oomp_pelrun_w_smd_resistors_trim_murata_pvz2r
+    oomp_key_extra: oomp_footprint_pelrun_w_smd_resistors_trim_murata_pvz2r
+    oomp_key_full: oomp_footprint_pelrun_w_smd_resistors_trim_murata_pvz2r_ee2f57
+    oomp_key_simple: pelrun_w_smd_resistors_trim_murata_pvz2r
+    original_filename: libKiCad/footprint/w_smd_resistors.pretty/trim_murata_pvz2r.kicad_mod
+    owner_name: pelrun
   oomp_key: oomp_pelrun_w_smd_resistors_trim_murata_pvz2r
+  oomp_key_full: oomp_footprint_pelrun_w_smd_resistors_trim_murata_pvz2r
   oomp_key_simple: pelrun_w_smd_resistors_trim_murata_pvz2r
   owner: pelrun
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cvra_sensors_vl6180x/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cvra_sensors_vl6180x/working
-    oomp_doc: footprints/footprints/cvra/_sensors/VL6180X/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cvra/_sensors/VL6180X/working
     oomp_src_flat: footprints_flat/footprints_flat/cvra_sensors_vl6180x/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cvra_sensors_vl6180x/working
-    oomp_src_folder: footprints_folder/footprints_folder/cvra/_sensors/VL6180X/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cvra/_sensors/VL6180X/working
   name: kicad-lib
+  oomp:
+    footprint_name: vl6180x
+    library_name: _sensors
+    md5: 46108d616b68d23da2c26e89ced7bffe
+    md5_10: 46108d616b
+    md5_5: '46108'
+    md5_6: 46108d
+    oomp_key: oomp_cvra_sensors_vl6180x
+    oomp_key_extra: oomp_footprint_cvra_sensors_vl6180x
+    oomp_key_full: oomp_footprint_cvra_sensors_vl6180x_46108d
+    oomp_key_simple: cvra_sensors_vl6180x
+    original_filename: kicad-lib/footprints/_sensors.pretty/VL6180X.kicad_mod
+    owner_name: cvra
   oomp_key: oomp_cvra_sensors_vl6180x
+  oomp_key_full: oomp_footprint_cvra_sensors_vl6180x
   oomp_key_simple: cvra_sensors_vl6180x
   owner: cvra
   repo:

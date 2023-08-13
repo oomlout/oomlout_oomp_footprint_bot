@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/fruchti_ssop_ssop20/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/fruchti_ssop_ssop20/working
-    oomp_doc: footprints/footprints/fruchti/ssop/SSOP20/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/fruchti/ssop/SSOP20/working
     oomp_src_flat: footprints_flat/footprints_flat/fruchti_ssop_ssop20/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/fruchti_ssop_ssop20/working
-    oomp_src_folder: footprints_folder/footprints_folder/fruchti/ssop/SSOP20/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/fruchti/ssop/SSOP20/working
   name: fruchtilib
+  oomp:
+    footprint_name: ssop20
+    library_name: ssop
+    md5: 27c4f3d0c48ad573620d39eb877c37d3
+    md5_10: 27c4f3d0c4
+    md5_5: 27c4f
+    md5_6: 27c4f3
+    oomp_key: oomp_fruchti_ssop_ssop20
+    oomp_key_extra: oomp_footprint_fruchti_ssop_ssop20
+    oomp_key_full: oomp_footprint_fruchti_ssop_ssop20_27c4f3
+    oomp_key_simple: fruchti_ssop_ssop20
+    original_filename: fruchtilib/mod/ssop.pretty/SSOP20.kicad_mod
+    owner_name: fruchti
   oomp_key: oomp_fruchti_ssop_ssop20
+  oomp_key_full: oomp_footprint_fruchti_ssop_ssop20
   oomp_key_simple: fruchti_ssop_ssop20
   owner: fruchti
   repo:

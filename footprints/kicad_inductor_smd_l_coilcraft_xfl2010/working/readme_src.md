@@ -6,22 +6,24 @@ The original footprint can be found at:
 http://gitlab.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
-* description:   
-* libraryLink:   
-* number_of_pads:   
+* description: Coilcraft XFL2010, Shielded power inductor, 0808, 1.9x2.0mm, https://www.coilcraft.com/getmedia/50382b97-998f-4b75-b5ee-4a93b0ac4411/xfl2010.pdf  
+* libraryLink: L_Coilcraft_XFL2010  
+* number_of_pads: 2  
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| error | Expression does not have the correct type |  
 | file | libraries/kicad-footprints/Inductor_SMD.pretty/L_Coilcraft_XFL2010.kicad_mod |  
+| footprint | {'description': 'Coilcraft XFL2010, Shielded power inductor, 0808, 1.9x2.0mm, https://www.coilcraft.com/getmedia/50382b97-998f-4b75-b5ee-4a93b0ac4411/xfl2010.pdf', 'libraryLink': 'L_Coilcraft_XFL2010', 'number_of_pads': 2} |  
 | footprint_library_directory | footprint_library_owner/kicad_libraries/kicad-footprints/ |  
 | footprint_library_directory_flat | footprints_flat/kicad_inductor_smd_l_coilcraft_xfl2010/working |  
 | github_path | http://github.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Inductor_SMD.pretty/L_Coilcraft_XFL2010.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/kicad_inductor_smd_l_coilcraft_xfl2010/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_inductor_smd_l_coilcraft_xfl2010/working', 'oomp_doc': 'footprints/footprints/kicad/Inductor_SMD/L_Coilcraft_XFL2010/working/', 'oomp_doc_github': 'https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Inductor_SMD/L_Coilcraft_XFL2010/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/kicad_inductor_smd_l_coilcraft_xfl2010/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_inductor_smd_l_coilcraft_xfl2010/working', 'oomp_src_folder': 'footprints_folder/footprints_folder/kicad/Inductor_SMD/L_Coilcraft_XFL2010/working', 'oomp_src_folder_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Inductor_SMD/L_Coilcraft_XFL2010/working'} |  
+| links | {'github_src': 'http://gitlab.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/kicad_inductor_smd_l_coilcraft_xfl2010/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_inductor_smd_l_coilcraft_xfl2010/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/kicad_inductor_smd_l_coilcraft_xfl2010/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_inductor_smd_l_coilcraft_xfl2010/working'} |  
 | name | libraries/kicad-footprints/ |  
+| oomp | {'footprint_name': 'l_coilcraft_xfl2010', 'library_name': 'inductor_smd', 'md5': 'a48c8714904bccb7e1782f4ca74084f8', 'md5_10': 'a48c871490', 'md5_5': 'a48c8', 'md5_6': 'a48c87', 'oomp_key': 'oomp_kicad_inductor_smd_l_coilcraft_xfl2010', 'oomp_key_extra': 'oomp_footprint_kicad_inductor_smd_l_coilcraft_xfl2010', 'oomp_key_full': 'oomp_footprint_kicad_inductor_smd_l_coilcraft_xfl2010_a48c87', 'oomp_key_simple': 'kicad_inductor_smd_l_coilcraft_xfl2010', 'original_filename': 'libraries/kicad-footprints/Inductor_SMD.pretty/L_Coilcraft_XFL2010.kicad_mod', 'owner_name': 'kicad'} |  
 | oomp_key | oomp_kicad_inductor_smd_l_coilcraft_xfl2010 |  
+| oomp_key_full | oomp_footprint_kicad_inductor_smd_l_coilcraft_xfl2010 |  
 | oomp_key_simple | kicad_inductor_smd_l_coilcraft_xfl2010 |  
 | owner | kicad |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/repos/repos#get-a-repository', 'message': 'Not Found'} |  
+| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
 | url | https://gitlab.com/kicad/libraries/kicad-footprints |  
 

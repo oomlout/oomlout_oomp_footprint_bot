@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/toroid_io_toroid_kicad_hiroise_df33c_2p_3_3dsa(24)/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/toroid_io_toroid_kicad_hiroise_df33c_2p_3_3dsa(24)/working
-    oomp_doc: footprints/footprints/Toroid-io/toroid-kicad/Hiroise_DF33C-2P-3.3DSA(24)/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Toroid-io/toroid-kicad/Hiroise_DF33C-2P-3.3DSA(24)/working
     oomp_src_flat: footprints_flat/footprints_flat/toroid_io_toroid_kicad_hiroise_df33c_2p_3_3dsa(24)/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/toroid_io_toroid_kicad_hiroise_df33c_2p_3_3dsa(24)/working
-    oomp_src_folder: footprints_folder/footprints_folder/Toroid-io/toroid-kicad/Hiroise_DF33C-2P-3.3DSA(24)/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Toroid-io/toroid-kicad/Hiroise_DF33C-2P-3.3DSA(24)/working
   name: toroid-kicad.pretty
+  oomp:
+    footprint_name: hiroise_df33c_2p_3_3dsa(24)
+    library_name: toroid_kicad
+    md5: 6daa3bf2077a108f0f0fa4384673286c
+    md5_10: 6daa3bf207
+    md5_5: 6daa3
+    md5_6: 6daa3b
+    oomp_key: oomp_toroid_io_toroid_kicad_hiroise_df33c_2p_3_3dsa(24)
+    oomp_key_extra: oomp_footprint_toroid_io_toroid_kicad_hiroise_df33c_2p_3_3dsa(24)
+    oomp_key_full: oomp_footprint_toroid_io_toroid_kicad_hiroise_df33c_2p_3_3dsa(24)_6daa3b
+    oomp_key_simple: toroid_io_toroid_kicad_hiroise_df33c_2p_3_3dsa(24)
+    original_filename: toroid-kicad.pretty/Hiroise_DF33C-2P-3.3DSA(24).kicad_mod
+    owner_name: toroid_io
   oomp_key: oomp_toroid_io_toroid_kicad_hiroise_df33c_2p_3_3dsa(24)
+  oomp_key_full: oomp_footprint_toroid_io_toroid_kicad_hiroise_df33c_2p_3_3dsa(24)
   oomp_key_simple: toroid_io_toroid_kicad_hiroise_df33c_2p_3_3dsa(24)
   owner: Toroid-io
   repo:

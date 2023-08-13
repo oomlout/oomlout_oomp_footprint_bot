@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/stefanhamminga_sh_audio_invensense_inmp504/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stefanhamminga_sh_audio_invensense_inmp504/working
-    oomp_doc: footprints/footprints/StefanHamminga/SH_Audio/InvenSense_INMP504/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/StefanHamminga/SH_Audio/InvenSense_INMP504/working
     oomp_src_flat: footprints_flat/footprints_flat/stefanhamminga_sh_audio_invensense_inmp504/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/stefanhamminga_sh_audio_invensense_inmp504/working
-    oomp_src_folder: footprints_folder/footprints_folder/StefanHamminga/SH_Audio/InvenSense_INMP504/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/StefanHamminga/SH_Audio/InvenSense_INMP504/working
   name: SH_Audio.pretty
+  oomp:
+    footprint_name: invensense_inmp504
+    library_name: sh_audio
+    md5: 6a8a0129cab56e9aed4ef299b468a470
+    md5_10: 6a8a0129ca
+    md5_5: 6a8a0
+    md5_6: 6a8a01
+    oomp_key: oomp_stefanhamminga_sh_audio_invensense_inmp504
+    oomp_key_extra: oomp_footprint_stefanhamminga_sh_audio_invensense_inmp504
+    oomp_key_full: oomp_footprint_stefanhamminga_sh_audio_invensense_inmp504_6a8a01
+    oomp_key_simple: stefanhamminga_sh_audio_invensense_inmp504
+    original_filename: SH_Audio.pretty/InvenSense_INMP504.kicad_mod
+    owner_name: stefanhamminga
   oomp_key: oomp_stefanhamminga_sh_audio_invensense_inmp504
+  oomp_key_full: oomp_footprint_stefanhamminga_sh_audio_invensense_inmp504
   oomp_key_simple: stefanhamminga_sh_audio_invensense_inmp504
   owner: StefanHamminga
   repo:

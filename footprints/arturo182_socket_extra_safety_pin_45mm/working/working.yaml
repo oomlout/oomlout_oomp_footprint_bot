@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/arturo182/kicad-modules
     oomp_bot: footprints/arturo182_socket_extra_safety_pin_45mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/arturo182_socket_extra_safety_pin_45mm/working
-    oomp_doc: footprints/footprints/arturo182/Socket_Extra/Safety_Pin_45mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/arturo182/Socket_Extra/Safety_Pin_45mm/working
     oomp_src_flat: footprints_flat/footprints_flat/arturo182_socket_extra_safety_pin_45mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/arturo182_socket_extra_safety_pin_45mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/arturo182/Socket_Extra/Safety_Pin_45mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/arturo182/Socket_Extra/Safety_Pin_45mm/working
   name: kicad-modules
+  oomp:
+    footprint_name: safety_pin_45mm
+    library_name: socket_extra
+    md5: a44ad80012f1ed236a29b31d044af445
+    md5_10: a44ad80012
+    md5_5: a44ad
+    md5_6: a44ad8
+    oomp_key: oomp_arturo182_socket_extra_safety_pin_45mm
+    oomp_key_extra: oomp_footprint_arturo182_socket_extra_safety_pin_45mm
+    oomp_key_full: oomp_footprint_arturo182_socket_extra_safety_pin_45mm_a44ad8
+    oomp_key_simple: arturo182_socket_extra_safety_pin_45mm
+    original_filename: kicad-modules/Socket_Extra.pretty/Safety_Pin_45mm.kicad_mod
+    owner_name: arturo182
   oomp_key: oomp_arturo182_socket_extra_safety_pin_45mm
+  oomp_key_full: oomp_footprint_arturo182_socket_extra_safety_pin_45mm
   oomp_key_simple: arturo182_socket_extra_safety_pin_45mm
   owner: arturo182
   repo:

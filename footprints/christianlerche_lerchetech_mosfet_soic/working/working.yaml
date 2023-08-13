@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/christianlerche_lerchetech_mosfet_soic/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/christianlerche_lerchetech_mosfet_soic/working
-    oomp_doc: footprints/footprints/ChristianLerche/LercheTech/MOSFET_SOIC/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ChristianLerche/LercheTech/MOSFET_SOIC/working
     oomp_src_flat: footprints_flat/footprints_flat/christianlerche_lerchetech_mosfet_soic/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/christianlerche_lerchetech_mosfet_soic/working
-    oomp_src_folder: footprints_folder/footprints_folder/ChristianLerche/LercheTech/MOSFET_SOIC/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ChristianLerche/LercheTech/MOSFET_SOIC/working
   name: LercheTech_KiCAD
+  oomp:
+    footprint_name: mosfet_soic
+    library_name: lerchetech
+    md5: 7e53b6bb8f9569dcd5f66026aeb2773f
+    md5_10: 7e53b6bb8f
+    md5_5: 7e53b
+    md5_6: 7e53b6
+    oomp_key: oomp_christianlerche_lerchetech_mosfet_soic
+    oomp_key_extra: oomp_footprint_christianlerche_lerchetech_mosfet_soic
+    oomp_key_full: oomp_footprint_christianlerche_lerchetech_mosfet_soic_7e53b6
+    oomp_key_simple: christianlerche_lerchetech_mosfet_soic
+    original_filename: LercheTech_KiCAD/LercheTech.pretty/MOSFET_SOIC.kicad_mod
+    owner_name: christianlerche
   oomp_key: oomp_christianlerche_lerchetech_mosfet_soic
+  oomp_key_full: oomp_footprint_christianlerche_lerchetech_mosfet_soic
   oomp_key_simple: christianlerche_lerchetech_mosfet_soic
   owner: ChristianLerche
   repo:

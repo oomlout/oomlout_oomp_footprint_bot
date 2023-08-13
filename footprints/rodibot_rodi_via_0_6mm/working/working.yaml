@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/rodibot_rodi_via_0_6mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/rodibot_rodi_via_0_6mm/working
-    oomp_doc: footprints/footprints/rodibot/RoDI/VIA-0.6mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/rodibot/RoDI/VIA-0.6mm/working
     oomp_src_flat: footprints_flat/footprints_flat/rodibot_rodi_via_0_6mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/rodibot_rodi_via_0_6mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/rodibot/RoDI/VIA-0.6mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/rodibot/RoDI/VIA-0.6mm/working
   name: RoDI.pretty
+  oomp:
+    footprint_name: via_0_6mm
+    library_name: rodi
+    md5: 1574a4e3fe2e088430c0a9b75e42cf4c
+    md5_10: 1574a4e3fe
+    md5_5: 1574a
+    md5_6: 1574a4
+    oomp_key: oomp_rodibot_rodi_via_0_6mm
+    oomp_key_extra: oomp_footprint_rodibot_rodi_via_0_6mm
+    oomp_key_full: oomp_footprint_rodibot_rodi_via_0_6mm_1574a4
+    oomp_key_simple: rodibot_rodi_via_0_6mm
+    original_filename: RoDI.pretty/VIA-0.6mm.kicad_mod
+    owner_name: rodibot
   oomp_key: oomp_rodibot_rodi_via_0_6mm
+  oomp_key_full: oomp_footprint_rodibot_rodi_via_0_6mm
   oomp_key_simple: rodibot_rodi_via_0_6mm
   owner: rodibot
   repo:

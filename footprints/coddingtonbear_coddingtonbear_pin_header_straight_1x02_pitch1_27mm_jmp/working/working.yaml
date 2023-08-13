@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/coddingtonbear_coddingtonbear_pin_header_straight_1x02_pitch1_27mm_jmp/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/coddingtonbear_coddingtonbear_pin_header_straight_1x02_pitch1_27mm_jmp/working
-    oomp_doc: footprints/footprints/coddingtonbear/coddingtonbear/Pin_Header_Straight_1x02_Pitch1.27mm_JMP/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/coddingtonbear/coddingtonbear/Pin_Header_Straight_1x02_Pitch1.27mm_JMP/working
     oomp_src_flat: footprints_flat/footprints_flat/coddingtonbear_coddingtonbear_pin_header_straight_1x02_pitch1_27mm_jmp/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/coddingtonbear_coddingtonbear_pin_header_straight_1x02_pitch1_27mm_jmp/working
-    oomp_src_folder: footprints_folder/footprints_folder/coddingtonbear/coddingtonbear/Pin_Header_Straight_1x02_Pitch1.27mm_JMP/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/coddingtonbear/coddingtonbear/Pin_Header_Straight_1x02_Pitch1.27mm_JMP/working
   name: coddingtonbear-kicad-lib
+  oomp:
+    footprint_name: pin_header_straight_1x02_pitch1_27mm_jmp
+    library_name: coddingtonbear
+    md5: 1e23a5e8dbb5d01542b035d7371c9eef
+    md5_10: 1e23a5e8db
+    md5_5: 1e23a
+    md5_6: 1e23a5
+    oomp_key: oomp_coddingtonbear_coddingtonbear_pin_header_straight_1x02_pitch1_27mm_jmp
+    oomp_key_extra: oomp_footprint_coddingtonbear_coddingtonbear_pin_header_straight_1x02_pitch1_27mm_jmp
+    oomp_key_full: oomp_footprint_coddingtonbear_coddingtonbear_pin_header_straight_1x02_pitch1_27mm_jmp_1e23a5
+    oomp_key_simple: coddingtonbear_coddingtonbear_pin_header_straight_1x02_pitch1_27mm_jmp
+    original_filename: coddingtonbear-kicad-lib/coddingtonbear.pretty/Pin_Header_Straight_1x02_Pitch1.27mm_JMP.kicad_mod
+    owner_name: coddingtonbear
   oomp_key: oomp_coddingtonbear_coddingtonbear_pin_header_straight_1x02_pitch1_27mm_jmp
+  oomp_key_full: oomp_footprint_coddingtonbear_coddingtonbear_pin_header_straight_1x02_pitch1_27mm_jmp
   oomp_key_simple: coddingtonbear_coddingtonbear_pin_header_straight_1x02_pitch1_27mm_jmp
   owner: coddingtonbear
   repo:

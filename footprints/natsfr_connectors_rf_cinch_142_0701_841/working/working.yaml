@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/natsfr_connectors_rf_cinch_142_0701_841/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/natsfr_connectors_rf_cinch_142_0701_841/working
-    oomp_doc: footprints/footprints/natsfr/Connectors_RF/CINCH_142-0701-841/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/natsfr/Connectors_RF/CINCH_142-0701-841/working
     oomp_src_flat: footprints_flat/footprints_flat/natsfr_connectors_rf_cinch_142_0701_841/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/natsfr_connectors_rf_cinch_142_0701_841/working
-    oomp_src_folder: footprints_folder/footprints_folder/natsfr/Connectors_RF/CINCH_142-0701-841/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/natsfr/Connectors_RF/CINCH_142-0701-841/working
   name: kicad-components
+  oomp:
+    footprint_name: cinch_142_0701_841
+    library_name: connectors_rf
+    md5: 5dddf7e8f8b355052477561544726ed3
+    md5_10: 5dddf7e8f8
+    md5_5: 5dddf
+    md5_6: 5dddf7
+    oomp_key: oomp_natsfr_connectors_rf_cinch_142_0701_841
+    oomp_key_extra: oomp_footprint_natsfr_connectors_rf_cinch_142_0701_841
+    oomp_key_full: oomp_footprint_natsfr_connectors_rf_cinch_142_0701_841_5dddf7
+    oomp_key_simple: natsfr_connectors_rf_cinch_142_0701_841
+    original_filename: kicad-components/Pretty_Footprints/Connectors_RF.pretty/CINCH_142-0701-841.kicad_mod
+    owner_name: natsfr
   oomp_key: oomp_natsfr_connectors_rf_cinch_142_0701_841
+  oomp_key_full: oomp_footprint_natsfr_connectors_rf_cinch_142_0701_841
   oomp_key_simple: natsfr_connectors_rf_cinch_142_0701_841
   owner: natsfr
   repo:

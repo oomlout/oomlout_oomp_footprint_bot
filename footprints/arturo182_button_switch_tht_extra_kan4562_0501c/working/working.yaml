@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/arturo182/kicad-modules
     oomp_bot: footprints/arturo182_button_switch_tht_extra_kan4562_0501c/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/arturo182_button_switch_tht_extra_kan4562_0501c/working
-    oomp_doc: footprints/footprints/arturo182/Button_Switch_THT_Extra/KAN4562-0501C/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/arturo182/Button_Switch_THT_Extra/KAN4562-0501C/working
     oomp_src_flat: footprints_flat/footprints_flat/arturo182_button_switch_tht_extra_kan4562_0501c/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/arturo182_button_switch_tht_extra_kan4562_0501c/working
-    oomp_src_folder: footprints_folder/footprints_folder/arturo182/Button_Switch_THT_Extra/KAN4562-0501C/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/arturo182/Button_Switch_THT_Extra/KAN4562-0501C/working
   name: kicad-modules
+  oomp:
+    footprint_name: kan4562_0501c
+    library_name: button_switch_tht_extra
+    md5: 48b4d01cb1732e7966c23deb33213c8a
+    md5_10: 48b4d01cb1
+    md5_5: 48b4d
+    md5_6: 48b4d0
+    oomp_key: oomp_arturo182_button_switch_tht_extra_kan4562_0501c
+    oomp_key_extra: oomp_footprint_arturo182_button_switch_tht_extra_kan4562_0501c
+    oomp_key_full: oomp_footprint_arturo182_button_switch_tht_extra_kan4562_0501c_48b4d0
+    oomp_key_simple: arturo182_button_switch_tht_extra_kan4562_0501c
+    original_filename: kicad-modules/Button_Switch_THT_Extra.pretty/KAN4562-0501C.kicad_mod
+    owner_name: arturo182
   oomp_key: oomp_arturo182_button_switch_tht_extra_kan4562_0501c
+  oomp_key_full: oomp_footprint_arturo182_button_switch_tht_extra_kan4562_0501c
   oomp_key_simple: arturo182_button_switch_tht_extra_kan4562_0501c
   owner: arturo182
   repo:

@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/andresmanelli/TOROID-KiCad.pretty
     oomp_bot: footprints/andresmanelli_toroid_kicad_thermalvia_0_3mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/andresmanelli_toroid_kicad_thermalvia_0_3mm/working
-    oomp_doc: footprints/footprints/andresmanelli/TOROID-KiCad/ThermalVia_0.3mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/andresmanelli/TOROID-KiCad/ThermalVia_0.3mm/working
     oomp_src_flat: footprints_flat/footprints_flat/andresmanelli_toroid_kicad_thermalvia_0_3mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/andresmanelli_toroid_kicad_thermalvia_0_3mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/andresmanelli/TOROID-KiCad/ThermalVia_0.3mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/andresmanelli/TOROID-KiCad/ThermalVia_0.3mm/working
   name: TOROID-KiCad.pretty
+  oomp:
+    footprint_name: thermalvia_0_3mm
+    library_name: toroid_kicad
+    md5: 3d76c411da00123b49f84db71d81a3e7
+    md5_10: 3d76c411da
+    md5_5: 3d76c
+    md5_6: 3d76c4
+    oomp_key: oomp_andresmanelli_toroid_kicad_thermalvia_0_3mm
+    oomp_key_extra: oomp_footprint_andresmanelli_toroid_kicad_thermalvia_0_3mm
+    oomp_key_full: oomp_footprint_andresmanelli_toroid_kicad_thermalvia_0_3mm_3d76c4
+    oomp_key_simple: andresmanelli_toroid_kicad_thermalvia_0_3mm
+    original_filename: TOROID-KiCad.pretty/ThermalVia_0.3mm.kicad_mod
+    owner_name: andresmanelli
   oomp_key: oomp_andresmanelli_toroid_kicad_thermalvia_0_3mm
+  oomp_key_full: oomp_footprint_andresmanelli_toroid_kicad_thermalvia_0_3mm
   oomp_key_simple: andresmanelli_toroid_kicad_thermalvia_0_3mm
   owner: andresmanelli
   repo:

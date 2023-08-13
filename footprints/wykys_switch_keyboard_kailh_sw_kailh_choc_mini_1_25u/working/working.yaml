@@ -7,130 +7,33 @@
   footprint_library_directory_flat: footprints_flat/wykys_switch_keyboard_kailh_sw_kailh_choc_mini_1_25u/working
   github_path: http://github.com/wykys/kicad/blob/master/6.0/3rdparty/footprints/com_github_perigoso_keyswitch-kicad-library/Switch_Keyboard_Kailh.pretty/SW_Kailh_Choc_Mini_1.25u.kicad_mod
   links:
-    github_owner: wykys
-    github_repo_name: klib
-    github_src: http://github.com/wykys/kicad/blob/master/mods/RF.pretty/XMIT.kicad_mod
-    github_src_repo: https://github.com/wykys/klib
+    github_src: http://gitlab.com/wykys/kicad/blob/master/mods/RF.pretty/XMIT.kicad_mod
+    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/wykys_switch_keyboard_kailh_sw_kailh_choc_mini_1_25u/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/wykys_switch_keyboard_kailh_sw_kailh_choc_mini_1_25u/working
-    oomp_doc: footprints/footprints/wykys/Switch_Keyboard_Kailh/SW_Kailh_Choc_Mini_1.25u/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/wykys/Switch_Keyboard_Kailh/SW_Kailh_Choc_Mini_1.25u/working
     oomp_src_flat: footprints_flat/footprints_flat/wykys_switch_keyboard_kailh_sw_kailh_choc_mini_1_25u/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/wykys_switch_keyboard_kailh_sw_kailh_choc_mini_1_25u/working
-    oomp_src_folder: footprints_folder/footprints_folder/wykys/Switch_Keyboard_Kailh/SW_Kailh_Choc_Mini_1.25u/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/wykys/Switch_Keyboard_Kailh/SW_Kailh_Choc_Mini_1.25u/working
   name: kicad
+  oomp:
+    footprint_name: sw_kailh_choc_mini_1_25u
+    library_name: switch_keyboard_kailh
+    md5: 4d966d26dafedbc2112e811b01a6f303
+    md5_10: 4d966d26da
+    md5_5: 4d966
+    md5_6: 4d966d
+    oomp_key: oomp_wykys_switch_keyboard_kailh_sw_kailh_choc_mini_1_25u
+    oomp_key_extra: oomp_footprint_wykys_switch_keyboard_kailh_sw_kailh_choc_mini_1_25u
+    oomp_key_full: oomp_footprint_wykys_switch_keyboard_kailh_sw_kailh_choc_mini_1_25u_4d966d
+    oomp_key_simple: wykys_switch_keyboard_kailh_sw_kailh_choc_mini_1_25u
+    original_filename: kicad/6.0/3rdparty/footprints/com_github_perigoso_keyswitch-kicad-library/Switch_Keyboard_Kailh.pretty/SW_Kailh_Choc_Mini_1.25u.kicad_mod
+    owner_name: wykys
   oomp_key: oomp_wykys_switch_keyboard_kailh_sw_kailh_choc_mini_1_25u
+  oomp_key_full: oomp_footprint_wykys_switch_keyboard_kailh_sw_kailh_choc_mini_1_25u
   oomp_key_simple: wykys_switch_keyboard_kailh_sw_kailh_choc_mini_1_25u
   owner: wykys
   repo:
-    allow_forking: true
-    archive_url: https://api.github.com/repos/wykys/klib/{archive_format}{/ref}
-    archived: false
-    assignees_url: https://api.github.com/repos/wykys/klib/assignees{/user}
-    blobs_url: https://api.github.com/repos/wykys/klib/git/blobs{/sha}
-    branches_url: https://api.github.com/repos/wykys/klib/branches{/branch}
-    clone_url: https://github.com/wykys/klib.git
-    collaborators_url: https://api.github.com/repos/wykys/klib/collaborators{/collaborator}
-    comments_url: https://api.github.com/repos/wykys/klib/comments{/number}
-    commits_url: https://api.github.com/repos/wykys/klib/commits{/sha}
-    compare_url: https://api.github.com/repos/wykys/klib/compare/{base}...{head}
-    contents_url: https://api.github.com/repos/wykys/klib/contents/{+path}
-    contributors_url: https://api.github.com/repos/wykys/klib/contributors
-    created_at: '2017-08-19T20:50:15Z'
-    default_branch: main
-    deployments_url: https://api.github.com/repos/wykys/klib/deployments
-    description: Wykys's KiCad library and toolkit. This repository is a mirror of
-      https://gitlab.com/wykys/klib, so please direct the issue there.
-    disabled: false
-    downloads_url: https://api.github.com/repos/wykys/klib/downloads
-    events_url: https://api.github.com/repos/wykys/klib/events
-    fork: false
-    forks: 0
-    forks_count: 0
-    forks_url: https://api.github.com/repos/wykys/klib/forks
-    full_name: wykys/klib
-    git_commits_url: https://api.github.com/repos/wykys/klib/git/commits{/sha}
-    git_refs_url: https://api.github.com/repos/wykys/klib/git/refs{/sha}
-    git_tags_url: https://api.github.com/repos/wykys/klib/git/tags{/sha}
-    git_url: git://github.com/wykys/klib.git
-    has_discussions: false
-    has_downloads: true
-    has_issues: true
-    has_pages: false
-    has_projects: true
-    has_wiki: true
-    homepage: ''
-    hooks_url: https://api.github.com/repos/wykys/klib/hooks
-    html_url: https://github.com/wykys/klib
-    id: 100820613
-    is_template: false
-    issue_comment_url: https://api.github.com/repos/wykys/klib/issues/comments{/number}
-    issue_events_url: https://api.github.com/repos/wykys/klib/issues/events{/number}
-    issues_url: https://api.github.com/repos/wykys/klib/issues{/number}
-    keys_url: https://api.github.com/repos/wykys/klib/keys{/key_id}
-    labels_url: https://api.github.com/repos/wykys/klib/labels{/name}
-    language: Python
-    languages_url: https://api.github.com/repos/wykys/klib/languages
-    license:
-      key: gpl-3.0
-      name: GNU General Public License v3.0
-      node_id: MDc6TGljZW5zZTk=
-      spdx_id: GPL-3.0
-      url: https://api.github.com/licenses/gpl-3.0
-    merges_url: https://api.github.com/repos/wykys/klib/merges
-    milestones_url: https://api.github.com/repos/wykys/klib/milestones{/number}
-    mirror_url: null
-    name: klib
-    network_count: 0
-    node_id: MDEwOlJlcG9zaXRvcnkxMDA4MjA2MTM=
-    notifications_url: https://api.github.com/repos/wykys/klib/notifications{?since,all,participating}
-    open_issues: 0
-    open_issues_count: 0
-    owner:
-      avatar_url: https://avatars.githubusercontent.com/u/8275996?v=4
-      events_url: https://api.github.com/users/wykys/events{/privacy}
-      followers_url: https://api.github.com/users/wykys/followers
-      following_url: https://api.github.com/users/wykys/following{/other_user}
-      gists_url: https://api.github.com/users/wykys/gists{/gist_id}
-      gravatar_id: ''
-      html_url: https://github.com/wykys
-      id: 8275996
-      login: wykys
-      node_id: MDQ6VXNlcjgyNzU5OTY=
-      organizations_url: https://api.github.com/users/wykys/orgs
-      received_events_url: https://api.github.com/users/wykys/received_events
-      repos_url: https://api.github.com/users/wykys/repos
-      site_admin: false
-      starred_url: https://api.github.com/users/wykys/starred{/owner}{/repo}
-      subscriptions_url: https://api.github.com/users/wykys/subscriptions
-      type: User
-      url: https://api.github.com/users/wykys
-    private: false
-    pulls_url: https://api.github.com/repos/wykys/klib/pulls{/number}
-    pushed_at: '2022-10-18T02:52:15Z'
-    releases_url: https://api.github.com/repos/wykys/klib/releases{/id}
-    size: 8035
-    ssh_url: git@github.com:wykys/klib.git
-    stargazers_count: 6
-    stargazers_url: https://api.github.com/repos/wykys/klib/stargazers
-    statuses_url: https://api.github.com/repos/wykys/klib/statuses/{sha}
-    subscribers_count: 4
-    subscribers_url: https://api.github.com/repos/wykys/klib/subscribers
-    subscription_url: https://api.github.com/repos/wykys/klib/subscription
-    svn_url: https://github.com/wykys/klib
-    tags_url: https://api.github.com/repos/wykys/klib/tags
-    teams_url: https://api.github.com/repos/wykys/klib/teams
-    temp_clone_token: null
-    topics:
-    - kicad
-    - kicad-footprints
-    - kicad-library
-    trees_url: https://api.github.com/repos/wykys/klib/git/trees{/sha}
-    updated_at: '2023-06-14T22:51:22Z'
-    url: https://api.github.com/repos/wykys/klib
-    visibility: public
-    watchers: 6
-    watchers_count: 6
-    web_commit_signoff_required: false
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: http://github.com/wykys/kicad

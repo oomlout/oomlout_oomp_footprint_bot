@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/jeff_russ_kicad_dip30w/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/jeff_russ_kicad_dip30w/working
-    oomp_doc: footprints/footprints/Jeff-Russ/Kicad/DIP30W/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Jeff-Russ/Kicad/DIP30W/working
     oomp_src_flat: footprints_flat/footprints_flat/jeff_russ_kicad_dip30w/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/jeff_russ_kicad_dip30w/working
-    oomp_src_folder: footprints_folder/footprints_folder/Jeff-Russ/Kicad/DIP30W/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Jeff-Russ/Kicad/DIP30W/working
   name: Kicad.pretty
+  oomp:
+    footprint_name: dip30w
+    library_name: kicad
+    md5: 853baa541543066f4df0dd518963b0b2
+    md5_10: 853baa5415
+    md5_5: 853ba
+    md5_6: 853baa
+    oomp_key: oomp_jeff_russ_kicad_dip30w
+    oomp_key_extra: oomp_footprint_jeff_russ_kicad_dip30w
+    oomp_key_full: oomp_footprint_jeff_russ_kicad_dip30w_853baa
+    oomp_key_simple: jeff_russ_kicad_dip30w
+    original_filename: Kicad.pretty/DIP30W.kicad_mod
+    owner_name: jeff_russ
   oomp_key: oomp_jeff_russ_kicad_dip30w
+  oomp_key_full: oomp_footprint_jeff_russ_kicad_dip30w
   oomp_key_simple: jeff_russ_kicad_dip30w
   owner: Jeff-Russ
   repo:

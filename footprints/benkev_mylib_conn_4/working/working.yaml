@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/benkev_mylib_conn_4/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/benkev_mylib_conn_4/working
-    oomp_doc: footprints/footprints/benkev/myLib/CONN_4/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/benkev/myLib/CONN_4/working
     oomp_src_flat: footprints_flat/footprints_flat/benkev_mylib_conn_4/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/benkev_mylib_conn_4/working
-    oomp_src_folder: footprints_folder/footprints_folder/benkev/myLib/CONN_4/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/benkev/myLib/CONN_4/working
   name: myLib.pretty
+  oomp:
+    footprint_name: conn_4
+    library_name: mylib
+    md5: 85db92fc5f1a7bd94474195bc9bcee55
+    md5_10: 85db92fc5f
+    md5_5: 85db9
+    md5_6: 85db92
+    oomp_key: oomp_benkev_mylib_conn_4
+    oomp_key_extra: oomp_footprint_benkev_mylib_conn_4
+    oomp_key_full: oomp_footprint_benkev_mylib_conn_4_85db92
+    oomp_key_simple: benkev_mylib_conn_4
+    original_filename: myLib.pretty/CONN_4.kicad_mod
+    owner_name: benkev
   oomp_key: oomp_benkev_mylib_conn_4
+  oomp_key_full: oomp_footprint_benkev_mylib_conn_4
   oomp_key_simple: benkev_mylib_conn_4
   owner: benkev
   repo:

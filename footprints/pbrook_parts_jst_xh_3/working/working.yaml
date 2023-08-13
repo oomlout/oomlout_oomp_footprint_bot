@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pbrook_parts_jst_xh_3/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pbrook_parts_jst_xh_3/working
-    oomp_doc: footprints/footprints/pbrook/Parts/JST-XH-3/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/pbrook/Parts/JST-XH-3/working
     oomp_src_flat: footprints_flat/footprints_flat/pbrook_parts_jst_xh_3/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pbrook_parts_jst_xh_3/working
-    oomp_src_folder: footprints_folder/footprints_folder/pbrook/Parts/JST-XH-3/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/pbrook/Parts/JST-XH-3/working
   name: Parts.pretty
+  oomp:
+    footprint_name: jst_xh_3
+    library_name: parts
+    md5: 4c2fca9768801bf6e90b55051c2a4e1c
+    md5_10: 4c2fca9768
+    md5_5: 4c2fc
+    md5_6: 4c2fca
+    oomp_key: oomp_pbrook_parts_jst_xh_3
+    oomp_key_extra: oomp_footprint_pbrook_parts_jst_xh_3
+    oomp_key_full: oomp_footprint_pbrook_parts_jst_xh_3_4c2fca
+    oomp_key_simple: pbrook_parts_jst_xh_3
+    original_filename: Parts.pretty/JST-XH-3.kicad_mod
+    owner_name: pbrook
   oomp_key: oomp_pbrook_parts_jst_xh_3
+  oomp_key_full: oomp_footprint_pbrook_parts_jst_xh_3
   oomp_key_simple: pbrook_parts_jst_xh_3
   owner: pbrook
   repo:

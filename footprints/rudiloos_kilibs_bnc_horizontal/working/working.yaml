@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/rudiloos_kilibs_bnc_horizontal/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/rudiloos_kilibs_bnc_horizontal/working
-    oomp_doc: footprints/footprints/rudiloos/kilibs/BNC_horizontal/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/rudiloos/kilibs/BNC_horizontal/working
     oomp_src_flat: footprints_flat/footprints_flat/rudiloos_kilibs_bnc_horizontal/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/rudiloos_kilibs_bnc_horizontal/working
-    oomp_src_folder: footprints_folder/footprints_folder/rudiloos/kilibs/BNC_horizontal/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/rudiloos/kilibs/BNC_horizontal/working
   name: kilibs.pretty
+  oomp:
+    footprint_name: bnc_horizontal
+    library_name: kilibs
+    md5: ebf6d661440538d8ee253e1263412d4f
+    md5_10: ebf6d66144
+    md5_5: ebf6d
+    md5_6: ebf6d6
+    oomp_key: oomp_rudiloos_kilibs_bnc_horizontal
+    oomp_key_extra: oomp_footprint_rudiloos_kilibs_bnc_horizontal
+    oomp_key_full: oomp_footprint_rudiloos_kilibs_bnc_horizontal_ebf6d6
+    oomp_key_simple: rudiloos_kilibs_bnc_horizontal
+    original_filename: kilibs.pretty/BNC_horizontal.kicad_mod
+    owner_name: rudiloos
   oomp_key: oomp_rudiloos_kilibs_bnc_horizontal
+  oomp_key_full: oomp_footprint_rudiloos_kilibs_bnc_horizontal
   oomp_key_simple: rudiloos_kilibs_bnc_horizontal
   owner: rudiloos
   repo:

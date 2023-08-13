@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/digikey_switch_tactile_tht_6x6mm_switch_tactile_tht_6x6mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_switch_tactile_tht_6x6mm_switch_tactile_tht_6x6mm/working
-    oomp_doc: footprints/footprints/digikey/Switch_Tactile_THT_6x6mm.kicad_mod/Switch_Tactile_THT_6x6mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/digikey/Switch_Tactile_THT_6x6mm.kicad_mod/Switch_Tactile_THT_6x6mm/working
     oomp_src_flat: footprints_flat/footprints_flat/digikey_switch_tactile_tht_6x6mm_switch_tactile_tht_6x6mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/digikey_switch_tactile_tht_6x6mm_switch_tactile_tht_6x6mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/digikey/Switch_Tactile_THT_6x6mm.kicad_mod/Switch_Tactile_THT_6x6mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/digikey/Switch_Tactile_THT_6x6mm.kicad_mod/Switch_Tactile_THT_6x6mm/working
   name: digikey-kicad-library
+  oomp:
+    footprint_name: switch_tactile_tht_6x6mm
+    library_name: switch_tactile_tht_6x6mm_kicad_mod
+    md5: 12e7cd3179c8e0a6a99e286c6d7d4460
+    md5_10: 12e7cd3179
+    md5_5: 12e7c
+    md5_6: 12e7cd
+    oomp_key: oomp_digikey_switch_tactile_tht_6x6mm_switch_tactile_tht_6x6mm
+    oomp_key_extra: oomp_footprint_digikey_switch_tactile_tht_6x6mm_switch_tactile_tht_6x6mm
+    oomp_key_full: oomp_footprint_digikey_switch_tactile_tht_6x6mm_switch_tactile_tht_6x6mm_12e7cd
+    oomp_key_simple: digikey_switch_tactile_tht_6x6mm_switch_tactile_tht_6x6mm
+    original_filename: digikey-kicad-library/src/Source_Footprints/Switch_Tactile_THT_6x6mm.kicad_mod
+    owner_name: digikey
   oomp_key: oomp_digikey_switch_tactile_tht_6x6mm_switch_tactile_tht_6x6mm
+  oomp_key_full: oomp_footprint_digikey_switch_tactile_tht_6x6mm_switch_tactile_tht_6x6mm
   oomp_key_simple: digikey_switch_tactile_tht_6x6mm_switch_tactile_tht_6x6mm
   owner: digikey
   repo:

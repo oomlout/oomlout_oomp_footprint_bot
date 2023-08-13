@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/olimex_freetronics_footprints_ind_cr75/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/olimex_freetronics_footprints_ind_cr75/working
-    oomp_doc: footprints/footprints/OLIMEX/freetronics_footprints/IND_CR75/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/OLIMEX/freetronics_footprints/IND_CR75/working
     oomp_src_flat: footprints_flat/footprints_flat/olimex_freetronics_footprints_ind_cr75/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/olimex_freetronics_footprints_ind_cr75/working
-    oomp_src_folder: footprints_folder/footprints_folder/OLIMEX/freetronics_footprints/IND_CR75/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/OLIMEX/freetronics_footprints/IND_CR75/working
   name: KiCAD
+  oomp:
+    footprint_name: ind_cr75
+    library_name: freetronics_footprints
+    md5: 45dbde784e3a9fe5b5cf739510832435
+    md5_10: 45dbde784e
+    md5_5: 45dbd
+    md5_6: 45dbde
+    oomp_key: oomp_olimex_freetronics_footprints_ind_cr75
+    oomp_key_extra: oomp_footprint_olimex_freetronics_footprints_ind_cr75
+    oomp_key_full: oomp_footprint_olimex_freetronics_footprints_ind_cr75_45dbde
+    oomp_key_simple: olimex_freetronics_footprints_ind_cr75
+    original_filename: KiCAD/mods/freetronics_footprints.pretty/IND_CR75.kicad_mod
+    owner_name: olimex
   oomp_key: oomp_olimex_freetronics_footprints_ind_cr75
+  oomp_key_full: oomp_footprint_olimex_freetronics_footprints_ind_cr75
   oomp_key_simple: olimex_freetronics_footprints_ind_cr75
   owner: OLIMEX
   repo:

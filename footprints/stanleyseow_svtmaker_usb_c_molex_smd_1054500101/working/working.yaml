@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/stanleyseow_svtmaker_usb_c_molex_smd_1054500101/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stanleyseow_svtmaker_usb_c_molex_smd_1054500101/working
-    oomp_doc: footprints/footprints/stanleyseow/SVTmaker/USB-C-MOLEX_SMD_1054500101/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/stanleyseow/SVTmaker/USB-C-MOLEX_SMD_1054500101/working
     oomp_src_flat: footprints_flat/footprints_flat/stanleyseow_svtmaker_usb_c_molex_smd_1054500101/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/stanleyseow_svtmaker_usb_c_molex_smd_1054500101/working
-    oomp_src_folder: footprints_folder/footprints_folder/stanleyseow/SVTmaker/USB-C-MOLEX_SMD_1054500101/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/stanleyseow/SVTmaker/USB-C-MOLEX_SMD_1054500101/working
   name: SVTmaker.pretty
+  oomp:
+    footprint_name: usb_c_molex_smd_1054500101
+    library_name: svtmaker
+    md5: 928338db2fef940b029e7d007c3a9f55
+    md5_10: 928338db2f
+    md5_5: '92833'
+    md5_6: '928338'
+    oomp_key: oomp_stanleyseow_svtmaker_usb_c_molex_smd_1054500101
+    oomp_key_extra: oomp_footprint_stanleyseow_svtmaker_usb_c_molex_smd_1054500101
+    oomp_key_full: oomp_footprint_stanleyseow_svtmaker_usb_c_molex_smd_1054500101_928338
+    oomp_key_simple: stanleyseow_svtmaker_usb_c_molex_smd_1054500101
+    original_filename: SVTmaker.pretty/USB-C-MOLEX_SMD_1054500101.kicad_mod
+    owner_name: stanleyseow
   oomp_key: oomp_stanleyseow_svtmaker_usb_c_molex_smd_1054500101
+  oomp_key_full: oomp_footprint_stanleyseow_svtmaker_usb_c_molex_smd_1054500101
   oomp_key_simple: stanleyseow_svtmaker_usb_c_molex_smd_1054500101
   owner: stanleyseow
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pelrun_w_pth_resistors_rc07/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pelrun_w_pth_resistors_rc07/working
-    oomp_doc: footprints/footprints/pelrun/w_pth_resistors/RC07/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/pelrun/w_pth_resistors/RC07/working
     oomp_src_flat: footprints_flat/footprints_flat/pelrun_w_pth_resistors_rc07/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pelrun_w_pth_resistors_rc07/working
-    oomp_src_folder: footprints_folder/footprints_folder/pelrun/w_pth_resistors/RC07/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/pelrun/w_pth_resistors/RC07/working
   name: libKiCad
+  oomp:
+    footprint_name: rc07
+    library_name: w_pth_resistors
+    md5: 3cc47ccdbbb7ace053684a78ebd32563
+    md5_10: 3cc47ccdbb
+    md5_5: 3cc47
+    md5_6: 3cc47c
+    oomp_key: oomp_pelrun_w_pth_resistors_rc07
+    oomp_key_extra: oomp_footprint_pelrun_w_pth_resistors_rc07
+    oomp_key_full: oomp_footprint_pelrun_w_pth_resistors_rc07_3cc47c
+    oomp_key_simple: pelrun_w_pth_resistors_rc07
+    original_filename: libKiCad/footprint/w_pth_resistors.pretty/RC07.kicad_mod
+    owner_name: pelrun
   oomp_key: oomp_pelrun_w_pth_resistors_rc07
+  oomp_key_full: oomp_footprint_pelrun_w_pth_resistors_rc07
   oomp_key_simple: pelrun_w_pth_resistors_rc07
   owner: pelrun
   repo:

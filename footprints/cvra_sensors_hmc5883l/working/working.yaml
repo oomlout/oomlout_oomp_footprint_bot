@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cvra_sensors_hmc5883l/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cvra_sensors_hmc5883l/working
-    oomp_doc: footprints/footprints/cvra/_sensors/_HMC5883L/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cvra/_sensors/_HMC5883L/working
     oomp_src_flat: footprints_flat/footprints_flat/cvra_sensors_hmc5883l/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cvra_sensors_hmc5883l/working
-    oomp_src_folder: footprints_folder/footprints_folder/cvra/_sensors/_HMC5883L/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cvra/_sensors/_HMC5883L/working
   name: kicad-lib
+  oomp:
+    footprint_name: _hmc5883l
+    library_name: _sensors
+    md5: 908ff5678c5811ed1576367ac8606654
+    md5_10: 908ff5678c
+    md5_5: 908ff
+    md5_6: 908ff5
+    oomp_key: oomp_cvra_sensors_hmc5883l
+    oomp_key_extra: oomp_footprint_cvra_sensors_hmc5883l
+    oomp_key_full: oomp_footprint_cvra_sensors_hmc5883l_908ff5
+    oomp_key_simple: cvra_sensors_hmc5883l
+    original_filename: kicad-lib/footprints/_sensors.pretty/_HMC5883L.kicad_mod
+    owner_name: cvra
   oomp_key: oomp_cvra_sensors_hmc5883l
+  oomp_key_full: oomp_footprint_cvra_sensors_hmc5883l
   oomp_key_simple: cvra_sensors_hmc5883l
   owner: cvra
   repo:

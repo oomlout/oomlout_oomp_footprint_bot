@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/asukiaaa_my_kicad_footprints_2x03_p2_54mm_isp_pads/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/asukiaaa_my_kicad_footprints_2x03_p2_54mm_isp_pads/working
-    oomp_doc: footprints/footprints/asukiaaa/my-kicad-footprints/2x03_P2.54mm_ISP_Pads/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/asukiaaa/my-kicad-footprints/2x03_P2.54mm_ISP_Pads/working
     oomp_src_flat: footprints_flat/footprints_flat/asukiaaa_my_kicad_footprints_2x03_p2_54mm_isp_pads/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/asukiaaa_my_kicad_footprints_2x03_p2_54mm_isp_pads/working
-    oomp_src_folder: footprints_folder/footprints_folder/asukiaaa/my-kicad-footprints/2x03_P2.54mm_ISP_Pads/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/asukiaaa/my-kicad-footprints/2x03_P2.54mm_ISP_Pads/working
   name: my-kicad-footprints.pretty
+  oomp:
+    footprint_name: 2x03_p2_54mm_isp_pads
+    library_name: my_kicad_footprints
+    md5: 08a39868491e81a520b167e7f6459196
+    md5_10: 08a3986849
+    md5_5: 08a39
+    md5_6: 08a398
+    oomp_key: oomp_asukiaaa_my_kicad_footprints_2x03_p2_54mm_isp_pads
+    oomp_key_extra: oomp_footprint_asukiaaa_my_kicad_footprints_2x03_p2_54mm_isp_pads
+    oomp_key_full: oomp_footprint_asukiaaa_my_kicad_footprints_2x03_p2_54mm_isp_pads_08a398
+    oomp_key_simple: asukiaaa_my_kicad_footprints_2x03_p2_54mm_isp_pads
+    original_filename: my-kicad-footprints.pretty/2x03_P2.54mm_ISP_Pads.kicad_mod
+    owner_name: asukiaaa
   oomp_key: oomp_asukiaaa_my_kicad_footprints_2x03_p2_54mm_isp_pads
+  oomp_key_full: oomp_footprint_asukiaaa_my_kicad_footprints_2x03_p2_54mm_isp_pads
   oomp_key_simple: asukiaaa_my_kicad_footprints_2x03_p2_54mm_isp_pads
   owner: asukiaaa
   repo:

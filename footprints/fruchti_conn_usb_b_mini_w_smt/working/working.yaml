@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/fruchti_conn_usb_b_mini_w_smt/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/fruchti_conn_usb_b_mini_w_smt/working
-    oomp_doc: footprints/footprints/fruchti/conn/USB_B_MINI_W_SMT/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/fruchti/conn/USB_B_MINI_W_SMT/working
     oomp_src_flat: footprints_flat/footprints_flat/fruchti_conn_usb_b_mini_w_smt/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/fruchti_conn_usb_b_mini_w_smt/working
-    oomp_src_folder: footprints_folder/footprints_folder/fruchti/conn/USB_B_MINI_W_SMT/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/fruchti/conn/USB_B_MINI_W_SMT/working
   name: fruchtilib
+  oomp:
+    footprint_name: usb_b_mini_w_smt
+    library_name: conn
+    md5: 258d4d4e22dc4f5aaee0921d155f26e8
+    md5_10: 258d4d4e22
+    md5_5: 258d4
+    md5_6: 258d4d
+    oomp_key: oomp_fruchti_conn_usb_b_mini_w_smt
+    oomp_key_extra: oomp_footprint_fruchti_conn_usb_b_mini_w_smt
+    oomp_key_full: oomp_footprint_fruchti_conn_usb_b_mini_w_smt_258d4d
+    oomp_key_simple: fruchti_conn_usb_b_mini_w_smt
+    original_filename: fruchtilib/mod/conn.pretty/USB_B_MINI_W_SMT.kicad_mod
+    owner_name: fruchti
   oomp_key: oomp_fruchti_conn_usb_b_mini_w_smt
+  oomp_key_full: oomp_footprint_fruchti_conn_usb_b_mini_w_smt
   oomp_key_simple: fruchti_conn_usb_b_mini_w_smt
   owner: fruchti
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/axello_freetronics_footprints_dpak_fet/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/axello_freetronics_footprints_dpak_fet/working
-    oomp_doc: footprints/footprints/axello/freetronics_footprints/DPAK_FET/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/axello/freetronics_footprints/DPAK_FET/working
     oomp_src_flat: footprints_flat/footprints_flat/axello_freetronics_footprints_dpak_fet/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/axello_freetronics_footprints_dpak_fet/working
-    oomp_src_folder: footprints_folder/footprints_folder/axello/freetronics_footprints/DPAK_FET/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/axello/freetronics_footprints/DPAK_FET/working
   name: kicad
+  oomp:
+    footprint_name: dpak_fet
+    library_name: freetronics_footprints
+    md5: 8147e4baba8bdf0f25f9a403a58eac1d
+    md5_10: 8147e4baba
+    md5_5: 8147e
+    md5_6: 8147e4
+    oomp_key: oomp_axello_freetronics_footprints_dpak_fet
+    oomp_key_extra: oomp_footprint_axello_freetronics_footprints_dpak_fet
+    oomp_key_full: oomp_footprint_axello_freetronics_footprints_dpak_fet_8147e4
+    oomp_key_simple: axello_freetronics_footprints_dpak_fet
+    original_filename: kicad/mods/freetronics_footprints.pretty/DPAK_FET.kicad_mod
+    owner_name: axello
   oomp_key: oomp_axello_freetronics_footprints_dpak_fet
+  oomp_key_full: oomp_footprint_axello_freetronics_footprints_dpak_fet
   oomp_key_simple: axello_freetronics_footprints_dpak_fet
   owner: axello
   repo:

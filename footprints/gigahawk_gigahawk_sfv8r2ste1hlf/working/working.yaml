@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/gigahawk_gigahawk_sfv8r2ste1hlf/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/gigahawk_gigahawk_sfv8r2ste1hlf/working
-    oomp_doc: footprints/footprints/Gigahawk/Gigahawk/SFV8R2STE1HLF/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Gigahawk/Gigahawk/SFV8R2STE1HLF/working
     oomp_src_flat: footprints_flat/footprints_flat/gigahawk_gigahawk_sfv8r2ste1hlf/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/gigahawk_gigahawk_sfv8r2ste1hlf/working
-    oomp_src_folder: footprints_folder/footprints_folder/Gigahawk/Gigahawk/SFV8R2STE1HLF/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Gigahawk/Gigahawk/SFV8R2STE1HLF/working
   name: Gigahawk.pretty
+  oomp:
+    footprint_name: sfv8r2ste1hlf
+    library_name: gigahawk
+    md5: 4838369e5492b80edfd0222486d733a7
+    md5_10: 4838369e54
+    md5_5: '48383'
+    md5_6: '483836'
+    oomp_key: oomp_gigahawk_gigahawk_sfv8r2ste1hlf
+    oomp_key_extra: oomp_footprint_gigahawk_gigahawk_sfv8r2ste1hlf
+    oomp_key_full: oomp_footprint_gigahawk_gigahawk_sfv8r2ste1hlf_483836
+    oomp_key_simple: gigahawk_gigahawk_sfv8r2ste1hlf
+    original_filename: Gigahawk.pretty/SFV8R2STE1HLF.kicad_mod
+    owner_name: gigahawk
   oomp_key: oomp_gigahawk_gigahawk_sfv8r2ste1hlf
+  oomp_key_full: oomp_footprint_gigahawk_gigahawk_sfv8r2ste1hlf
   oomp_key_simple: gigahawk_gigahawk_sfv8r2ste1hlf
   owner: Gigahawk
   repo:

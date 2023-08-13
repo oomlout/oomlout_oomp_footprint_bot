@@ -13,17 +13,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_mounting_wuerth_mounting_wuerth_wa_smssr_3_3mm_h10mm_snaprivet_9776100960/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_mounting_wuerth_mounting_wuerth_wa_smssr_3_3mm_h10mm_snaprivet_9776100960/working
-    oomp_doc: footprints/footprints/kicad/Mounting_Wuerth/Mounting_Wuerth_WA-SMSSR-3.3mm_H10mm_SnapRivet_9776100960/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Mounting_Wuerth/Mounting_Wuerth_WA-SMSSR-3.3mm_H10mm_SnapRivet_9776100960/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_mounting_wuerth_mounting_wuerth_wa_smssr_3_3mm_h10mm_snaprivet_9776100960/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_mounting_wuerth_mounting_wuerth_wa_smssr_3_3mm_h10mm_snaprivet_9776100960/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Mounting_Wuerth/Mounting_Wuerth_WA-SMSSR-3.3mm_H10mm_SnapRivet_9776100960/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Mounting_Wuerth/Mounting_Wuerth_WA-SMSSR-3.3mm_H10mm_SnapRivet_9776100960/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: mounting_wuerth_wa_smssr_3_3mm_h10mm_snaprivet_9776100960
+    library_name: mounting_wuerth
+    md5: c8c265b59081c00af6e36460e4adfcae
+    md5_10: c8c265b590
+    md5_5: c8c26
+    md5_6: c8c265
+    oomp_key: oomp_kicad_mounting_wuerth_mounting_wuerth_wa_smssr_3_3mm_h10mm_snaprivet_9776100960
+    oomp_key_extra: oomp_footprint_kicad_mounting_wuerth_mounting_wuerth_wa_smssr_3_3mm_h10mm_snaprivet_9776100960
+    oomp_key_full: oomp_footprint_kicad_mounting_wuerth_mounting_wuerth_wa_smssr_3_3mm_h10mm_snaprivet_9776100960_c8c265
+    oomp_key_simple: kicad_mounting_wuerth_mounting_wuerth_wa_smssr_3_3mm_h10mm_snaprivet_9776100960
+    original_filename: libraries/kicad-footprints/Mounting_Wuerth.pretty/Mounting_Wuerth_WA-SMSSR-3.3mm_H10mm_SnapRivet_9776100960.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_mounting_wuerth_mounting_wuerth_wa_smssr_3_3mm_h10mm_snaprivet_9776100960
+  oomp_key_full: oomp_footprint_kicad_mounting_wuerth_mounting_wuerth_wa_smssr_3_3mm_h10mm_snaprivet_9776100960
   oomp_key_simple: kicad_mounting_wuerth_mounting_wuerth_wa_smssr_3_3mm_h10mm_snaprivet_9776100960
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/axello_freetronics_footprints_ft_module_sound/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/axello_freetronics_footprints_ft_module_sound/working
-    oomp_doc: footprints/footprints/axello/freetronics_footprints/FT_MODULE_SOUND/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/axello/freetronics_footprints/FT_MODULE_SOUND/working
     oomp_src_flat: footprints_flat/footprints_flat/axello_freetronics_footprints_ft_module_sound/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/axello_freetronics_footprints_ft_module_sound/working
-    oomp_src_folder: footprints_folder/footprints_folder/axello/freetronics_footprints/FT_MODULE_SOUND/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/axello/freetronics_footprints/FT_MODULE_SOUND/working
   name: kicad
+  oomp:
+    footprint_name: ft_module_sound
+    library_name: freetronics_footprints
+    md5: 7780fefb10811b84af311800971a1c72
+    md5_10: 7780fefb10
+    md5_5: 7780f
+    md5_6: 7780fe
+    oomp_key: oomp_axello_freetronics_footprints_ft_module_sound
+    oomp_key_extra: oomp_footprint_axello_freetronics_footprints_ft_module_sound
+    oomp_key_full: oomp_footprint_axello_freetronics_footprints_ft_module_sound_7780fe
+    oomp_key_simple: axello_freetronics_footprints_ft_module_sound
+    original_filename: kicad/mods/freetronics_footprints.pretty/FT_MODULE_SOUND.kicad_mod
+    owner_name: axello
   oomp_key: oomp_axello_freetronics_footprints_ft_module_sound
+  oomp_key_full: oomp_footprint_axello_freetronics_footprints_ft_module_sound
   oomp_key_simple: axello_freetronics_footprints_ft_module_sound
   owner: axello
   repo:

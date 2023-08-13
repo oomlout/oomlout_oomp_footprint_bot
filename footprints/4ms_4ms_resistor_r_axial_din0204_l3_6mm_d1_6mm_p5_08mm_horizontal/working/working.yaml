@@ -14,14 +14,24 @@
     github_src_repo: https://github.com/4ms/4ms-kicad-lib
     oomp_bot: footprints/4ms_4ms_resistor_r_axial_din0204_l3_6mm_d1_6mm_p5_08mm_horizontal/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/4ms_4ms_resistor_r_axial_din0204_l3_6mm_d1_6mm_p5_08mm_horizontal/working
-    oomp_doc: footprints/footprints/4ms/4ms_Resistor/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/4ms/4ms_Resistor/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal/working
     oomp_src_flat: footprints_flat/footprints_flat/4ms_4ms_resistor_r_axial_din0204_l3_6mm_d1_6mm_p5_08mm_horizontal/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/4ms_4ms_resistor_r_axial_din0204_l3_6mm_d1_6mm_p5_08mm_horizontal/working
-    oomp_src_folder: footprints_folder/footprints_folder/4ms/4ms_Resistor/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/4ms/4ms_Resistor/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal/working
   name: 4ms-kicad-lib
+  oomp:
+    footprint_name: r_axial_din0204_l3_6mm_d1_6mm_p5_08mm_horizontal
+    library_name: 4ms_resistor
+    md5: e83f6185b764496d868ca4f5ec00c7a9
+    md5_10: e83f6185b7
+    md5_5: e83f6
+    md5_6: e83f61
+    oomp_key: oomp_4ms_4ms_resistor_r_axial_din0204_l3_6mm_d1_6mm_p5_08mm_horizontal
+    oomp_key_extra: oomp_footprint_4ms_4ms_resistor_r_axial_din0204_l3_6mm_d1_6mm_p5_08mm_horizontal
+    oomp_key_full: oomp_footprint_4ms_4ms_resistor_r_axial_din0204_l3_6mm_d1_6mm_p5_08mm_horizontal_e83f61
+    oomp_key_simple: 4ms_4ms_resistor_r_axial_din0204_l3_6mm_d1_6mm_p5_08mm_horizontal
+    original_filename: 4ms-kicad-lib/footprints/4ms_Resistor.pretty/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.kicad_mod
+    owner_name: 4ms
   oomp_key: oomp_4ms_4ms_resistor_r_axial_din0204_l3_6mm_d1_6mm_p5_08mm_horizontal
+  oomp_key_full: oomp_footprint_4ms_4ms_resistor_r_axial_din0204_l3_6mm_d1_6mm_p5_08mm_horizontal
   oomp_key_simple: 4ms_4ms_resistor_r_axial_din0204_l3_6mm_d1_6mm_p5_08mm_horizontal
   owner: 4ms
   repo:
@@ -127,9 +137,9 @@
       url: https://api.github.com/users/4ms
     private: false
     pulls_url: https://api.github.com/repos/4ms/4ms-kicad-lib/pulls{/number}
-    pushed_at: '2023-08-07T23:22:22Z'
+    pushed_at: '2023-08-11T23:48:49Z'
     releases_url: https://api.github.com/repos/4ms/4ms-kicad-lib/releases{/id}
-    size: 22693
+    size: 22703
     ssh_url: git@github.com:4ms/4ms-kicad-lib.git
     stargazers_count: 54
     stargazers_url: https://api.github.com/repos/4ms/4ms-kicad-lib/stargazers

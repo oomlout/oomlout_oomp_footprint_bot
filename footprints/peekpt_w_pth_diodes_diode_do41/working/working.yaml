@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/peekpt_w_pth_diodes_diode_do41/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/peekpt_w_pth_diodes_diode_do41/working
-    oomp_doc: footprints/footprints/peekpt/w_pth_diodes/diode_do41/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/peekpt/w_pth_diodes/diode_do41/working
     oomp_src_flat: footprints_flat/footprints_flat/peekpt_w_pth_diodes_diode_do41/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/peekpt_w_pth_diodes_diode_do41/working
-    oomp_src_folder: footprints_folder/footprints_folder/peekpt/w_pth_diodes/diode_do41/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/peekpt/w_pth_diodes/diode_do41/working
   name: kicad_smisioto
+  oomp:
+    footprint_name: diode_do41
+    library_name: w_pth_diodes
+    md5: 17a849ab5424dbf48d977fd7162ac5a2
+    md5_10: 17a849ab54
+    md5_5: 17a84
+    md5_6: 17a849
+    oomp_key: oomp_peekpt_w_pth_diodes_diode_do41
+    oomp_key_extra: oomp_footprint_peekpt_w_pth_diodes_diode_do41
+    oomp_key_full: oomp_footprint_peekpt_w_pth_diodes_diode_do41_17a849
+    oomp_key_simple: peekpt_w_pth_diodes_diode_do41
+    original_filename: kicad_smisioto/modules/walter/w_pth_diodes.pretty/diode_do41.kicad_mod
+    owner_name: peekpt
   oomp_key: oomp_peekpt_w_pth_diodes_diode_do41
+  oomp_key_full: oomp_footprint_peekpt_w_pth_diodes_diode_do41
   oomp_key_simple: peekpt_w_pth_diodes_diode_do41
   owner: peekpt
   repo:

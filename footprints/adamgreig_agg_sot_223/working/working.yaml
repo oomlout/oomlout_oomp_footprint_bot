@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/adamgreig/agg-kicad
     oomp_bot: footprints/adamgreig_agg_sot_223/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/adamgreig_agg_sot_223/working
-    oomp_doc: footprints/footprints/adamgreig/agg/SOT-223/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/adamgreig/agg/SOT-223/working
     oomp_src_flat: footprints_flat/footprints_flat/adamgreig_agg_sot_223/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/adamgreig_agg_sot_223/working
-    oomp_src_folder: footprints_folder/footprints_folder/adamgreig/agg/SOT-223/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/adamgreig/agg/SOT-223/working
   name: agg-kicad
+  oomp:
+    footprint_name: sot_223
+    library_name: agg
+    md5: c20ad7f5952144e0b2e61211075a7df6
+    md5_10: c20ad7f595
+    md5_5: c20ad
+    md5_6: c20ad7
+    oomp_key: oomp_adamgreig_agg_sot_223
+    oomp_key_extra: oomp_footprint_adamgreig_agg_sot_223
+    oomp_key_full: oomp_footprint_adamgreig_agg_sot_223_c20ad7
+    oomp_key_simple: adamgreig_agg_sot_223
+    original_filename: agg-kicad/agg.pretty/SOT-223.kicad_mod
+    owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_sot_223
+  oomp_key_full: oomp_footprint_adamgreig_agg_sot_223
   oomp_key_simple: adamgreig_agg_sot_223
   owner: adamgreig
   repo:

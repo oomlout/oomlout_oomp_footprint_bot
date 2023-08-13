@@ -13,14 +13,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/re_innovation_smd_packages_pot_smd/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/re_innovation_smd_packages_pot_smd/working
-    oomp_doc: footprints/footprints/re-innovation/SMD_Packages/POT_SMD/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/re-innovation/SMD_Packages/POT_SMD/working
     oomp_src_flat: footprints_flat/footprints_flat/re_innovation_smd_packages_pot_smd/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/re_innovation_smd_packages_pot_smd/working
-    oomp_src_folder: footprints_folder/footprints_folder/re-innovation/SMD_Packages/POT_SMD/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/re-innovation/SMD_Packages/POT_SMD/working
   name: kicad_reinnovation
+  oomp:
+    footprint_name: pot_smd
+    library_name: smd_packages
+    md5: 4fccd51bb400d58848176f80afcf721e
+    md5_10: 4fccd51bb4
+    md5_5: 4fccd
+    md5_6: 4fccd5
+    oomp_key: oomp_re_innovation_smd_packages_pot_smd
+    oomp_key_extra: oomp_footprint_re_innovation_smd_packages_pot_smd
+    oomp_key_full: oomp_footprint_re_innovation_smd_packages_pot_smd_4fccd5
+    oomp_key_simple: re_innovation_smd_packages_pot_smd
+    original_filename: kicad_reinnovation/KiCAD PRETTY/SMD_Packages.pretty/POT_SMD.kicad_mod
+    owner_name: re_innovation
   oomp_key: oomp_re_innovation_smd_packages_pot_smd
+  oomp_key_full: oomp_footprint_re_innovation_smd_packages_pot_smd
   oomp_key_simple: re_innovation_smd_packages_pot_smd
   owner: re-innovation
   repo:

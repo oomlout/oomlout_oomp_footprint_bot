@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cormoran_kicad_qsop16/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cormoran_kicad_qsop16/working
-    oomp_doc: footprints/footprints/cormoran/kicad/QSOP16/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cormoran/kicad/QSOP16/working
     oomp_src_flat: footprints_flat/footprints_flat/cormoran_kicad_qsop16/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cormoran_kicad_qsop16/working
-    oomp_src_folder: footprints_folder/footprints_folder/cormoran/kicad/QSOP16/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cormoran/kicad/QSOP16/working
   name: kicad.pretty
+  oomp:
+    footprint_name: qsop16
+    library_name: kicad
+    md5: acb1b1ac2c3d47a754279909b778c3b5
+    md5_10: acb1b1ac2c
+    md5_5: acb1b
+    md5_6: acb1b1
+    oomp_key: oomp_cormoran_kicad_qsop16
+    oomp_key_extra: oomp_footprint_cormoran_kicad_qsop16
+    oomp_key_full: oomp_footprint_cormoran_kicad_qsop16_acb1b1
+    oomp_key_simple: cormoran_kicad_qsop16
+    original_filename: kicad.pretty/QSOP16.kicad_mod
+    owner_name: cormoran
   oomp_key: oomp_cormoran_kicad_qsop16
+  oomp_key_full: oomp_footprint_cormoran_kicad_qsop16
   oomp_key_simple: cormoran_kicad_qsop16
   owner: cormoran
   repo:

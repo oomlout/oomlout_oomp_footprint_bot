@@ -1,5 +1,8 @@
-- error: Expression does not have the correct type
-  file: homebrew.pretty/FRAMATOME_10118194-0001LF_fixed_bridges.kicad_mod
+- file: homebrew.pretty/FRAMATOME_10118194-0001LF_fixed_bridges.kicad_mod
+  footprint:
+    description: null
+    libraryLink: FRAMATOME_10118194-0001LF_fixed_bridges
+    number_of_pads: 13
   footprint_library_directory: footprint_library_owner/candykingdom_homebrew.pretty
   footprint_library_directory_flat: footprints_flat/candykingdom_homebrew_framatome_10118194_0001lf_fixed_bridges/working
   github_path: http://github.com/candykingdom/homebrew.pretty/blob/master/FRAMATOME_10118194-0001LF_fixed_bridges.kicad_mod
@@ -9,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/candykingdom_homebrew_framatome_10118194_0001lf_fixed_bridges/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/candykingdom_homebrew_framatome_10118194_0001lf_fixed_bridges/working
-    oomp_doc: footprints/footprints/candykingdom/homebrew/FRAMATOME_10118194-0001LF_fixed_bridges/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/candykingdom/homebrew/FRAMATOME_10118194-0001LF_fixed_bridges/working
     oomp_src_flat: footprints_flat/footprints_flat/candykingdom_homebrew_framatome_10118194_0001lf_fixed_bridges/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/candykingdom_homebrew_framatome_10118194_0001lf_fixed_bridges/working
-    oomp_src_folder: footprints_folder/footprints_folder/candykingdom/homebrew/FRAMATOME_10118194-0001LF_fixed_bridges/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/candykingdom/homebrew/FRAMATOME_10118194-0001LF_fixed_bridges/working
   name: homebrew.pretty
+  oomp:
+    footprint_name: framatome_10118194_0001lf_fixed_bridges
+    library_name: homebrew
+    md5: 963618ea0ac3788ac77f7ebd65f386d8
+    md5_10: 963618ea0a
+    md5_5: '96361'
+    md5_6: '963618'
+    oomp_key: oomp_candykingdom_homebrew_framatome_10118194_0001lf_fixed_bridges
+    oomp_key_extra: oomp_footprint_candykingdom_homebrew_framatome_10118194_0001lf_fixed_bridges
+    oomp_key_full: oomp_footprint_candykingdom_homebrew_framatome_10118194_0001lf_fixed_bridges_963618
+    oomp_key_simple: candykingdom_homebrew_framatome_10118194_0001lf_fixed_bridges
+    original_filename: homebrew.pretty/FRAMATOME_10118194-0001LF_fixed_bridges.kicad_mod
+    owner_name: candykingdom
   oomp_key: oomp_candykingdom_homebrew_framatome_10118194_0001lf_fixed_bridges
+  oomp_key_full: oomp_footprint_candykingdom_homebrew_framatome_10118194_0001lf_fixed_bridges
   oomp_key_simple: candykingdom_homebrew_framatome_10118194_0001lf_fixed_bridges
   owner: candykingdom
   repo:

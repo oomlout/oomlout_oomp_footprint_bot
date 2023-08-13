@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/ebastler_kicad_keyboard_parts_mx_sk6812mini_e_rev/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ebastler_kicad_keyboard_parts_mx_sk6812mini_e_rev/working
-    oomp_doc: footprints/footprints/ebastler/kicad-keyboard-parts/MX_SK6812MINI-E_REV/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ebastler/kicad-keyboard-parts/MX_SK6812MINI-E_REV/working
     oomp_src_flat: footprints_flat/footprints_flat/ebastler_kicad_keyboard_parts_mx_sk6812mini_e_rev/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ebastler_kicad_keyboard_parts_mx_sk6812mini_e_rev/working
-    oomp_src_folder: footprints_folder/footprints_folder/ebastler/kicad-keyboard-parts/MX_SK6812MINI-E_REV/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ebastler/kicad-keyboard-parts/MX_SK6812MINI-E_REV/working
   name: kicad-keyboard-parts.pretty
+  oomp:
+    footprint_name: mx_sk6812mini_e_rev
+    library_name: kicad_keyboard_parts
+    md5: e48be7476717d14eac7b736147035f0f
+    md5_10: e48be74767
+    md5_5: e48be
+    md5_6: e48be7
+    oomp_key: oomp_ebastler_kicad_keyboard_parts_mx_sk6812mini_e_rev
+    oomp_key_extra: oomp_footprint_ebastler_kicad_keyboard_parts_mx_sk6812mini_e_rev
+    oomp_key_full: oomp_footprint_ebastler_kicad_keyboard_parts_mx_sk6812mini_e_rev_e48be7
+    oomp_key_simple: ebastler_kicad_keyboard_parts_mx_sk6812mini_e_rev
+    original_filename: kicad-keyboard-parts.pretty/MX_SK6812MINI-E_REV.kicad_mod
+    owner_name: ebastler
   oomp_key: oomp_ebastler_kicad_keyboard_parts_mx_sk6812mini_e_rev
+  oomp_key_full: oomp_footprint_ebastler_kicad_keyboard_parts_mx_sk6812mini_e_rev
   oomp_key_simple: ebastler_kicad_keyboard_parts_mx_sk6812mini_e_rev
   owner: ebastler
   repo:

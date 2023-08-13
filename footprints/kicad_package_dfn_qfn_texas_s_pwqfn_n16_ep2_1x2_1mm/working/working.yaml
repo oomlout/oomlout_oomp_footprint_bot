@@ -12,17 +12,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_package_dfn_qfn_texas_s_pwqfn_n16_ep2_1x2_1mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_package_dfn_qfn_texas_s_pwqfn_n16_ep2_1x2_1mm/working
-    oomp_doc: footprints/footprints/kicad/Package_DFN_QFN/Texas_S-PWQFN-N16_EP2.1x2.1mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Package_DFN_QFN/Texas_S-PWQFN-N16_EP2.1x2.1mm/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_package_dfn_qfn_texas_s_pwqfn_n16_ep2_1x2_1mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_package_dfn_qfn_texas_s_pwqfn_n16_ep2_1x2_1mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Package_DFN_QFN/Texas_S-PWQFN-N16_EP2.1x2.1mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Package_DFN_QFN/Texas_S-PWQFN-N16_EP2.1x2.1mm/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: texas_s_pwqfn_n16_ep2_1x2_1mm
+    library_name: package_dfn_qfn
+    md5: e123e15749b6c5b1825d58af6b8c398b
+    md5_10: e123e15749
+    md5_5: e123e
+    md5_6: e123e1
+    oomp_key: oomp_kicad_package_dfn_qfn_texas_s_pwqfn_n16_ep2_1x2_1mm
+    oomp_key_extra: oomp_footprint_kicad_package_dfn_qfn_texas_s_pwqfn_n16_ep2_1x2_1mm
+    oomp_key_full: oomp_footprint_kicad_package_dfn_qfn_texas_s_pwqfn_n16_ep2_1x2_1mm_e123e1
+    oomp_key_simple: kicad_package_dfn_qfn_texas_s_pwqfn_n16_ep2_1x2_1mm
+    original_filename: libraries/kicad-footprints/Package_DFN_QFN.pretty/Texas_S-PWQFN-N16_EP2.1x2.1mm.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_package_dfn_qfn_texas_s_pwqfn_n16_ep2_1x2_1mm
+  oomp_key_full: oomp_footprint_kicad_package_dfn_qfn_texas_s_pwqfn_n16_ep2_1x2_1mm
   oomp_key_simple: kicad_package_dfn_qfn_texas_s_pwqfn_n16_ep2_1x2_1mm
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

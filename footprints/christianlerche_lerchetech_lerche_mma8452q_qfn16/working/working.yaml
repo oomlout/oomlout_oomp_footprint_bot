@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/christianlerche_lerchetech_lerche_mma8452q_qfn16/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/christianlerche_lerchetech_lerche_mma8452q_qfn16/working
-    oomp_doc: footprints/footprints/ChristianLerche/LercheTech/Lerche_MMA8452Q_QFN16/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ChristianLerche/LercheTech/Lerche_MMA8452Q_QFN16/working
     oomp_src_flat: footprints_flat/footprints_flat/christianlerche_lerchetech_lerche_mma8452q_qfn16/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/christianlerche_lerchetech_lerche_mma8452q_qfn16/working
-    oomp_src_folder: footprints_folder/footprints_folder/ChristianLerche/LercheTech/Lerche_MMA8452Q_QFN16/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ChristianLerche/LercheTech/Lerche_MMA8452Q_QFN16/working
   name: LercheTech_KiCAD
+  oomp:
+    footprint_name: lerche_mma8452q_qfn16
+    library_name: lerchetech
+    md5: d5d7a187a7e307dd42500efa84ad43c1
+    md5_10: d5d7a187a7
+    md5_5: d5d7a
+    md5_6: d5d7a1
+    oomp_key: oomp_christianlerche_lerchetech_lerche_mma8452q_qfn16
+    oomp_key_extra: oomp_footprint_christianlerche_lerchetech_lerche_mma8452q_qfn16
+    oomp_key_full: oomp_footprint_christianlerche_lerchetech_lerche_mma8452q_qfn16_d5d7a1
+    oomp_key_simple: christianlerche_lerchetech_lerche_mma8452q_qfn16
+    original_filename: LercheTech_KiCAD/LercheTech.pretty/Lerche_MMA8452Q_QFN16.kicad_mod
+    owner_name: christianlerche
   oomp_key: oomp_christianlerche_lerchetech_lerche_mma8452q_qfn16
+  oomp_key_full: oomp_footprint_christianlerche_lerchetech_lerche_mma8452q_qfn16
   oomp_key_simple: christianlerche_lerchetech_lerche_mma8452q_qfn16
   owner: ChristianLerche
   repo:

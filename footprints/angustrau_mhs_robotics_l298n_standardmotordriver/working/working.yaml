@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/emilytrau/MHS_Robotics.pretty
     oomp_bot: footprints/angustrau_mhs_robotics_l298n_standardmotordriver/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/angustrau_mhs_robotics_l298n_standardmotordriver/working
-    oomp_doc: footprints/footprints/angustrau/MHS_Robotics/L298N_StandardMotorDriver/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/angustrau/MHS_Robotics/L298N_StandardMotorDriver/working
     oomp_src_flat: footprints_flat/footprints_flat/angustrau_mhs_robotics_l298n_standardmotordriver/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/angustrau_mhs_robotics_l298n_standardmotordriver/working
-    oomp_src_folder: footprints_folder/footprints_folder/angustrau/MHS_Robotics/L298N_StandardMotorDriver/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/angustrau/MHS_Robotics/L298N_StandardMotorDriver/working
   name: MHS_Robotics.pretty
+  oomp:
+    footprint_name: l298n_standardmotordriver
+    library_name: mhs_robotics
+    md5: e15a3b8e767758b6ad884e85814f5471
+    md5_10: e15a3b8e76
+    md5_5: e15a3
+    md5_6: e15a3b
+    oomp_key: oomp_angustrau_mhs_robotics_l298n_standardmotordriver
+    oomp_key_extra: oomp_footprint_angustrau_mhs_robotics_l298n_standardmotordriver
+    oomp_key_full: oomp_footprint_angustrau_mhs_robotics_l298n_standardmotordriver_e15a3b
+    oomp_key_simple: angustrau_mhs_robotics_l298n_standardmotordriver
+    original_filename: MHS_Robotics.pretty/L298N_StandardMotorDriver.kicad_mod
+    owner_name: emilytrau
   oomp_key: oomp_angustrau_mhs_robotics_l298n_standardmotordriver
+  oomp_key_full: oomp_footprint_angustrau_mhs_robotics_l298n_standardmotordriver
   oomp_key_simple: angustrau_mhs_robotics_l298n_standardmotordriver
   owner: angustrau
   repo:

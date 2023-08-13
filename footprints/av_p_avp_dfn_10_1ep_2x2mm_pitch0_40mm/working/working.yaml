@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/av_p_avp_dfn_10_1ep_2x2mm_pitch0_40mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/av_p_avp_dfn_10_1ep_2x2mm_pitch0_40mm/working
-    oomp_doc: footprints/footprints/av-p/Avp/DFN-10-1EP_2x2mm_Pitch0.40mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/av-p/Avp/DFN-10-1EP_2x2mm_Pitch0.40mm/working
     oomp_src_flat: footprints_flat/footprints_flat/av_p_avp_dfn_10_1ep_2x2mm_pitch0_40mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/av_p_avp_dfn_10_1ep_2x2mm_pitch0_40mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/av-p/Avp/DFN-10-1EP_2x2mm_Pitch0.40mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/av-p/Avp/DFN-10-1EP_2x2mm_Pitch0.40mm/working
   name: Avp.pretty
+  oomp:
+    footprint_name: dfn_10_1ep_2x2mm_pitch0_40mm
+    library_name: avp
+    md5: dc7a395153003959839e56fcd7482d7a
+    md5_10: dc7a395153
+    md5_5: dc7a3
+    md5_6: dc7a39
+    oomp_key: oomp_av_p_avp_dfn_10_1ep_2x2mm_pitch0_40mm
+    oomp_key_extra: oomp_footprint_av_p_avp_dfn_10_1ep_2x2mm_pitch0_40mm
+    oomp_key_full: oomp_footprint_av_p_avp_dfn_10_1ep_2x2mm_pitch0_40mm_dc7a39
+    oomp_key_simple: av_p_avp_dfn_10_1ep_2x2mm_pitch0_40mm
+    original_filename: Avp.pretty/DFN-10-1EP_2x2mm_Pitch0.40mm.kicad_mod
+    owner_name: av_p
   oomp_key: oomp_av_p_avp_dfn_10_1ep_2x2mm_pitch0_40mm
+  oomp_key_full: oomp_footprint_av_p_avp_dfn_10_1ep_2x2mm_pitch0_40mm
   oomp_key_simple: av_p_avp_dfn_10_1ep_2x2mm_pitch0_40mm
   owner: av-p
   repo:

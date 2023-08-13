@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/esden_pkl_misc_max_7/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/esden_pkl_misc_max_7/working
-    oomp_doc: footprints/footprints/esden/pkl_misc/MAX-7/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/esden/pkl_misc/MAX-7/working
     oomp_src_flat: footprints_flat/footprints_flat/esden_pkl_misc_max_7/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/esden_pkl_misc_max_7/working
-    oomp_src_folder: footprints_folder/footprints_folder/esden/pkl_misc/MAX-7/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/esden/pkl_misc/MAX-7/working
   name: pretty-kicad-libs
+  oomp:
+    footprint_name: max_7
+    library_name: pkl_misc
+    md5: a7a4a852c17de14b8ddb8bf040cac789
+    md5_10: a7a4a852c1
+    md5_5: a7a4a
+    md5_6: a7a4a8
+    oomp_key: oomp_esden_pkl_misc_max_7
+    oomp_key_extra: oomp_footprint_esden_pkl_misc_max_7
+    oomp_key_full: oomp_footprint_esden_pkl_misc_max_7_a7a4a8
+    oomp_key_simple: esden_pkl_misc_max_7
+    original_filename: pretty-kicad-libs/pkl_misc.pretty/MAX-7.kicad_mod
+    owner_name: esden
   oomp_key: oomp_esden_pkl_misc_max_7
+  oomp_key_full: oomp_footprint_esden_pkl_misc_max_7
   oomp_key_simple: esden_pkl_misc_max_7
   owner: esden
   repo:

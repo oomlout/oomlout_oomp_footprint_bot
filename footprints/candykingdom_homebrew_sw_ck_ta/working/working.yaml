@@ -1,5 +1,8 @@
-- error: Expression does not have the correct type
-  file: homebrew.pretty/SW_CK_TA.kicad_mod
+- file: homebrew.pretty/SW_CK_TA.kicad_mod
+  footprint:
+    description: CK Switches Integrated LED Tactile Switch
+    libraryLink: SW_CK_TA
+    number_of_pads: 6
   footprint_library_directory: footprint_library_owner/candykingdom_homebrew.pretty
   footprint_library_directory_flat: footprints_flat/candykingdom_homebrew_sw_ck_ta/working
   github_path: http://github.com/candykingdom/homebrew.pretty/blob/master/SW_CK_TA.kicad_mod
@@ -9,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/candykingdom_homebrew_sw_ck_ta/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/candykingdom_homebrew_sw_ck_ta/working
-    oomp_doc: footprints/footprints/candykingdom/homebrew/SW_CK_TA/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/candykingdom/homebrew/SW_CK_TA/working
     oomp_src_flat: footprints_flat/footprints_flat/candykingdom_homebrew_sw_ck_ta/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/candykingdom_homebrew_sw_ck_ta/working
-    oomp_src_folder: footprints_folder/footprints_folder/candykingdom/homebrew/SW_CK_TA/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/candykingdom/homebrew/SW_CK_TA/working
   name: homebrew.pretty
+  oomp:
+    footprint_name: sw_ck_ta
+    library_name: homebrew
+    md5: aa18f4366907b4d2a0b1667fcabf4dde
+    md5_10: aa18f43669
+    md5_5: aa18f
+    md5_6: aa18f4
+    oomp_key: oomp_candykingdom_homebrew_sw_ck_ta
+    oomp_key_extra: oomp_footprint_candykingdom_homebrew_sw_ck_ta
+    oomp_key_full: oomp_footprint_candykingdom_homebrew_sw_ck_ta_aa18f4
+    oomp_key_simple: candykingdom_homebrew_sw_ck_ta
+    original_filename: homebrew.pretty/SW_CK_TA.kicad_mod
+    owner_name: candykingdom
   oomp_key: oomp_candykingdom_homebrew_sw_ck_ta
+  oomp_key_full: oomp_footprint_candykingdom_homebrew_sw_ck_ta
   oomp_key_simple: candykingdom_homebrew_sw_ck_ta
   owner: candykingdom
   repo:

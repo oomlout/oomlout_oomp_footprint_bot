@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/stanleyseow_svtmaker_r_smd_th_0805to1206_hs/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stanleyseow_svtmaker_r_smd_th_0805to1206_hs/working
-    oomp_doc: footprints/footprints/stanleyseow/SVTmaker/R_SMD_TH_0805to1206_HS/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/stanleyseow/SVTmaker/R_SMD_TH_0805to1206_HS/working
     oomp_src_flat: footprints_flat/footprints_flat/stanleyseow_svtmaker_r_smd_th_0805to1206_hs/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/stanleyseow_svtmaker_r_smd_th_0805to1206_hs/working
-    oomp_src_folder: footprints_folder/footprints_folder/stanleyseow/SVTmaker/R_SMD_TH_0805to1206_HS/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/stanleyseow/SVTmaker/R_SMD_TH_0805to1206_HS/working
   name: SVTmaker.pretty
+  oomp:
+    footprint_name: r_smd_th_0805to1206_hs
+    library_name: svtmaker
+    md5: 73e6d545092483df0f3ab3ed47856d4b
+    md5_10: 73e6d54509
+    md5_5: 73e6d
+    md5_6: 73e6d5
+    oomp_key: oomp_stanleyseow_svtmaker_r_smd_th_0805to1206_hs
+    oomp_key_extra: oomp_footprint_stanleyseow_svtmaker_r_smd_th_0805to1206_hs
+    oomp_key_full: oomp_footprint_stanleyseow_svtmaker_r_smd_th_0805to1206_hs_73e6d5
+    oomp_key_simple: stanleyseow_svtmaker_r_smd_th_0805to1206_hs
+    original_filename: SVTmaker.pretty/R_SMD_TH_0805to1206_HS.kicad_mod
+    owner_name: stanleyseow
   oomp_key: oomp_stanleyseow_svtmaker_r_smd_th_0805to1206_hs
+  oomp_key_full: oomp_footprint_stanleyseow_svtmaker_r_smd_th_0805to1206_hs
   oomp_key_simple: stanleyseow_svtmaker_r_smd_th_0805to1206_hs
   owner: stanleyseow
   repo:

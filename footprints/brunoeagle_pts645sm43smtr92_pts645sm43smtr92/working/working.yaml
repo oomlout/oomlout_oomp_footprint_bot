@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_pts645sm43smtr92_pts645sm43smtr92/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_pts645sm43smtr92_pts645sm43smtr92/working
-    oomp_doc: footprints/footprints/brunoeagle/PTS645SM43SMTR92.kicad_mod/PTS645SM43SMTR92/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/PTS645SM43SMTR92.kicad_mod/PTS645SM43SMTR92/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_pts645sm43smtr92_pts645sm43smtr92/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_pts645sm43smtr92_pts645sm43smtr92/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/PTS645SM43SMTR92.kicad_mod/PTS645SM43SMTR92/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/PTS645SM43SMTR92.kicad_mod/PTS645SM43SMTR92/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: pts645sm43smtr92
+    library_name: pts645sm43smtr92_kicad_mod
+    md5: 6358ae2506b050c13f76520d8ddcc80f
+    md5_10: 6358ae2506
+    md5_5: 6358a
+    md5_6: 6358ae
+    oomp_key: oomp_brunoeagle_pts645sm43smtr92_pts645sm43smtr92
+    oomp_key_extra: oomp_footprint_brunoeagle_pts645sm43smtr92_pts645sm43smtr92
+    oomp_key_full: oomp_footprint_brunoeagle_pts645sm43smtr92_pts645sm43smtr92_6358ae
+    oomp_key_simple: brunoeagle_pts645sm43smtr92_pts645sm43smtr92
+    original_filename: kicad-open-modules/PTS645SM43SMTR92.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_pts645sm43smtr92_pts645sm43smtr92
+  oomp_key_full: oomp_footprint_brunoeagle_pts645sm43smtr92_pts645sm43smtr92
   oomp_key_simple: brunoeagle_pts645sm43smtr92_pts645sm43smtr92
   owner: brunoeagle
   repo:

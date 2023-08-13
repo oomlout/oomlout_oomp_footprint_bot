@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/adamjvr/KiCAD-OnHand-Lib
     oomp_bot: footprints/adamjvr_onhand_components_eee_1va101xp/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/adamjvr_onhand_components_eee_1va101xp/working
-    oomp_doc: footprints/footprints/adamjvr/OnHand-Components/EEE-1VA101XP/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/adamjvr/OnHand-Components/EEE-1VA101XP/working
     oomp_src_flat: footprints_flat/footprints_flat/adamjvr_onhand_components_eee_1va101xp/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/adamjvr_onhand_components_eee_1va101xp/working
-    oomp_src_folder: footprints_folder/footprints_folder/adamjvr/OnHand-Components/EEE-1VA101XP/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/adamjvr/OnHand-Components/EEE-1VA101XP/working
   name: KiCAD-OnHand-Lib
+  oomp:
+    footprint_name: eee_1va101xp
+    library_name: onhand_components
+    md5: 03140f73a2fda7fec27a0fa2a38bf903
+    md5_10: 03140f73a2
+    md5_5: '03140'
+    md5_6: 03140f
+    oomp_key: oomp_adamjvr_onhand_components_eee_1va101xp
+    oomp_key_extra: oomp_footprint_adamjvr_onhand_components_eee_1va101xp
+    oomp_key_full: oomp_footprint_adamjvr_onhand_components_eee_1va101xp_03140f
+    oomp_key_simple: adamjvr_onhand_components_eee_1va101xp
+    original_filename: KiCAD-OnHand-Lib/OnHand-Components.pretty/EEE-1VA101XP.kicad_mod
+    owner_name: adamjvr
   oomp_key: oomp_adamjvr_onhand_components_eee_1va101xp
+  oomp_key_full: oomp_footprint_adamjvr_onhand_components_eee_1va101xp
   oomp_key_simple: adamjvr_onhand_components_eee_1va101xp
   owner: adamjvr
   repo:

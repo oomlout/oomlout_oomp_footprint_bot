@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/joanthespark_1w_grove_v0_1_ssop_20_ft231x/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/joanthespark_1w_grove_v0_1_ssop_20_ft231x/working
-    oomp_doc: footprints/footprints/JoanTheSpark/1w-grove-v0.1/SSOP-20_FT231X/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/JoanTheSpark/1w-grove-v0.1/SSOP-20_FT231X/working
     oomp_src_flat: footprints_flat/footprints_flat/joanthespark_1w_grove_v0_1_ssop_20_ft231x/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/joanthespark_1w_grove_v0_1_ssop_20_ft231x/working
-    oomp_src_folder: footprints_folder/footprints_folder/JoanTheSpark/1w-grove-v0.1/SSOP-20_FT231X/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/JoanTheSpark/1w-grove-v0.1/SSOP-20_FT231X/working
   name: KiCAD
+  oomp:
+    footprint_name: ssop_20_ft231x
+    library_name: 1w_grove_v0_1
+    md5: ca3038cf3588203e38a6539207cd56b2
+    md5_10: ca3038cf35
+    md5_5: ca303
+    md5_6: ca3038
+    oomp_key: oomp_joanthespark_1w_grove_v0_1_ssop_20_ft231x
+    oomp_key_extra: oomp_footprint_joanthespark_1w_grove_v0_1_ssop_20_ft231x
+    oomp_key_full: oomp_footprint_joanthespark_1w_grove_v0_1_ssop_20_ft231x_ca3038
+    oomp_key_simple: joanthespark_1w_grove_v0_1_ssop_20_ft231x
+    original_filename: KiCAD/6.0/projects/1w-grove-v0.1/1w-grove-v0.1.pretty/SSOP-20_FT231X.kicad_mod
+    owner_name: joanthespark
   oomp_key: oomp_joanthespark_1w_grove_v0_1_ssop_20_ft231x
+  oomp_key_full: oomp_footprint_joanthespark_1w_grove_v0_1_ssop_20_ft231x
   oomp_key_simple: joanthespark_1w_grove_v0_1_ssop_20_ft231x
   owner: JoanTheSpark
   repo:

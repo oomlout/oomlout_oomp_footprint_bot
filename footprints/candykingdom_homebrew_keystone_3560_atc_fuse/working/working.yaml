@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/candykingdom_homebrew_keystone_3560_atc_fuse/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/candykingdom_homebrew_keystone_3560_atc_fuse/working
-    oomp_doc: footprints/footprints/candykingdom/homebrew/KEYSTONE_3560_ATC_FUSE/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/candykingdom/homebrew/KEYSTONE_3560_ATC_FUSE/working
     oomp_src_flat: footprints_flat/footprints_flat/candykingdom_homebrew_keystone_3560_atc_fuse/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/candykingdom_homebrew_keystone_3560_atc_fuse/working
-    oomp_src_folder: footprints_folder/footprints_folder/candykingdom/homebrew/KEYSTONE_3560_ATC_FUSE/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/candykingdom/homebrew/KEYSTONE_3560_ATC_FUSE/working
   name: homebrew.pretty
+  oomp:
+    footprint_name: keystone_3560_atc_fuse
+    library_name: homebrew
+    md5: ede3319b6c85f8f3ba0e4c7f2facbfb6
+    md5_10: ede3319b6c
+    md5_5: ede33
+    md5_6: ede331
+    oomp_key: oomp_candykingdom_homebrew_keystone_3560_atc_fuse
+    oomp_key_extra: oomp_footprint_candykingdom_homebrew_keystone_3560_atc_fuse
+    oomp_key_full: oomp_footprint_candykingdom_homebrew_keystone_3560_atc_fuse_ede331
+    oomp_key_simple: candykingdom_homebrew_keystone_3560_atc_fuse
+    original_filename: homebrew.pretty/KEYSTONE_3560_ATC_FUSE.kicad_mod
+    owner_name: candykingdom
   oomp_key: oomp_candykingdom_homebrew_keystone_3560_atc_fuse
+  oomp_key_full: oomp_footprint_candykingdom_homebrew_keystone_3560_atc_fuse
   oomp_key_simple: candykingdom_homebrew_keystone_3560_atc_fuse
   owner: candykingdom
   repo:

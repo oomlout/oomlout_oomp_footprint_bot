@@ -11,17 +11,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_transformer_smd_pulse_pa3493nl/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_transformer_smd_pulse_pa3493nl/working
-    oomp_doc: footprints/footprints/kicad/Transformer_SMD/Pulse_PA3493NL/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Transformer_SMD/Pulse_PA3493NL/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_transformer_smd_pulse_pa3493nl/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_transformer_smd_pulse_pa3493nl/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Transformer_SMD/Pulse_PA3493NL/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Transformer_SMD/Pulse_PA3493NL/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: pulse_pa3493nl
+    library_name: transformer_smd
+    md5: 7a22a529ff1661d3c59706678f97d52d
+    md5_10: 7a22a529ff
+    md5_5: 7a22a
+    md5_6: 7a22a5
+    oomp_key: oomp_kicad_transformer_smd_pulse_pa3493nl
+    oomp_key_extra: oomp_footprint_kicad_transformer_smd_pulse_pa3493nl
+    oomp_key_full: oomp_footprint_kicad_transformer_smd_pulse_pa3493nl_7a22a5
+    oomp_key_simple: kicad_transformer_smd_pulse_pa3493nl
+    original_filename: libraries/kicad-footprints/Transformer_SMD.pretty/Pulse_PA3493NL.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_transformer_smd_pulse_pa3493nl
+  oomp_key_full: oomp_footprint_kicad_transformer_smd_pulse_pa3493nl
   oomp_key_simple: kicad_transformer_smd_pulse_pa3493nl
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

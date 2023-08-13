@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/peekpt_w_to_to220_5_5771/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/peekpt_w_to_to220_5_5771/working
-    oomp_doc: footprints/footprints/peekpt/w_to/to220-5_5771/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/peekpt/w_to/to220-5_5771/working
     oomp_src_flat: footprints_flat/footprints_flat/peekpt_w_to_to220_5_5771/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/peekpt_w_to_to220_5_5771/working
-    oomp_src_folder: footprints_folder/footprints_folder/peekpt/w_to/to220-5_5771/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/peekpt/w_to/to220-5_5771/working
   name: kicad_smisioto
+  oomp:
+    footprint_name: to220_5_5771
+    library_name: w_to
+    md5: 4ae0a9ca0f576b3c9fb2ce75e7ea4bf2
+    md5_10: 4ae0a9ca0f
+    md5_5: 4ae0a
+    md5_6: 4ae0a9
+    oomp_key: oomp_peekpt_w_to_to220_5_5771
+    oomp_key_extra: oomp_footprint_peekpt_w_to_to220_5_5771
+    oomp_key_full: oomp_footprint_peekpt_w_to_to220_5_5771_4ae0a9
+    oomp_key_simple: peekpt_w_to_to220_5_5771
+    original_filename: kicad_smisioto/modules/walter/w_to.pretty/to220-5_5771.kicad_mod
+    owner_name: peekpt
   oomp_key: oomp_peekpt_w_to_to220_5_5771
+  oomp_key_full: oomp_footprint_peekpt_w_to_to220_5_5771
   oomp_key_simple: peekpt_w_to_to220_5_5771
   owner: peekpt
   repo:

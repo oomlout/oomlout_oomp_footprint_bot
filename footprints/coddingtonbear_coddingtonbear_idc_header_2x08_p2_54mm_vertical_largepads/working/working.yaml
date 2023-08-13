@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/coddingtonbear_coddingtonbear_idc_header_2x08_p2_54mm_vertical_largepads/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/coddingtonbear_coddingtonbear_idc_header_2x08_p2_54mm_vertical_largepads/working
-    oomp_doc: footprints/footprints/coddingtonbear/coddingtonbear/IDC-Header_2x08_P2.54mm_Vertical_Largepads/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/coddingtonbear/coddingtonbear/IDC-Header_2x08_P2.54mm_Vertical_Largepads/working
     oomp_src_flat: footprints_flat/footprints_flat/coddingtonbear_coddingtonbear_idc_header_2x08_p2_54mm_vertical_largepads/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/coddingtonbear_coddingtonbear_idc_header_2x08_p2_54mm_vertical_largepads/working
-    oomp_src_folder: footprints_folder/footprints_folder/coddingtonbear/coddingtonbear/IDC-Header_2x08_P2.54mm_Vertical_Largepads/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/coddingtonbear/coddingtonbear/IDC-Header_2x08_P2.54mm_Vertical_Largepads/working
   name: coddingtonbear-kicad-lib
+  oomp:
+    footprint_name: idc_header_2x08_p2_54mm_vertical_largepads
+    library_name: coddingtonbear
+    md5: 0e1be3dffbd16bc389df728d96fd3add
+    md5_10: 0e1be3dffb
+    md5_5: 0e1be
+    md5_6: 0e1be3
+    oomp_key: oomp_coddingtonbear_coddingtonbear_idc_header_2x08_p2_54mm_vertical_largepads
+    oomp_key_extra: oomp_footprint_coddingtonbear_coddingtonbear_idc_header_2x08_p2_54mm_vertical_largepads
+    oomp_key_full: oomp_footprint_coddingtonbear_coddingtonbear_idc_header_2x08_p2_54mm_vertical_largepads_0e1be3
+    oomp_key_simple: coddingtonbear_coddingtonbear_idc_header_2x08_p2_54mm_vertical_largepads
+    original_filename: coddingtonbear-kicad-lib/coddingtonbear.pretty/IDC-Header_2x08_P2.54mm_Vertical_Largepads.kicad_mod
+    owner_name: coddingtonbear
   oomp_key: oomp_coddingtonbear_coddingtonbear_idc_header_2x08_p2_54mm_vertical_largepads
+  oomp_key_full: oomp_footprint_coddingtonbear_coddingtonbear_idc_header_2x08_p2_54mm_vertical_largepads
   oomp_key_simple: coddingtonbear_coddingtonbear_idc_header_2x08_p2_54mm_vertical_largepads
   owner: coddingtonbear
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/garrettsworkshop_stdpads_solderjumper_3/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/garrettsworkshop_stdpads_solderjumper_3/working
-    oomp_doc: footprints/footprints/garrettsworkshop/stdpads/SolderJumper-3/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/garrettsworkshop/stdpads/SolderJumper-3/working
     oomp_src_flat: footprints_flat/footprints_flat/garrettsworkshop_stdpads_solderjumper_3/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/garrettsworkshop_stdpads_solderjumper_3/working
-    oomp_src_folder: footprints_folder/footprints_folder/garrettsworkshop/stdpads/SolderJumper-3/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/garrettsworkshop/stdpads/SolderJumper-3/working
   name: stdpads.pretty
+  oomp:
+    footprint_name: solderjumper_3
+    library_name: stdpads
+    md5: d8be89752fb162534ac6f22eab3cd0c0
+    md5_10: d8be89752f
+    md5_5: d8be8
+    md5_6: d8be89
+    oomp_key: oomp_garrettsworkshop_stdpads_solderjumper_3
+    oomp_key_extra: oomp_footprint_garrettsworkshop_stdpads_solderjumper_3
+    oomp_key_full: oomp_footprint_garrettsworkshop_stdpads_solderjumper_3_d8be89
+    oomp_key_simple: garrettsworkshop_stdpads_solderjumper_3
+    original_filename: stdpads.pretty/SolderJumper-3.kicad_mod
+    owner_name: garrettsworkshop
   oomp_key: oomp_garrettsworkshop_stdpads_solderjumper_3
+  oomp_key_full: oomp_footprint_garrettsworkshop_stdpads_solderjumper_3
   oomp_key_simple: garrettsworkshop_stdpads_solderjumper_3
   owner: garrettsworkshop
   repo:

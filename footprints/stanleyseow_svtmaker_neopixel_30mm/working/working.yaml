@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/stanleyseow_svtmaker_neopixel_30mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stanleyseow_svtmaker_neopixel_30mm/working
-    oomp_doc: footprints/footprints/stanleyseow/SVTmaker/Neopixel-30mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/stanleyseow/SVTmaker/Neopixel-30mm/working
     oomp_src_flat: footprints_flat/footprints_flat/stanleyseow_svtmaker_neopixel_30mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/stanleyseow_svtmaker_neopixel_30mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/stanleyseow/SVTmaker/Neopixel-30mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/stanleyseow/SVTmaker/Neopixel-30mm/working
   name: SVTmaker.pretty
+  oomp:
+    footprint_name: neopixel_30mm
+    library_name: svtmaker
+    md5: 079a6dd98162565b9c18b05ffd6a55fe
+    md5_10: 079a6dd981
+    md5_5: 079a6
+    md5_6: 079a6d
+    oomp_key: oomp_stanleyseow_svtmaker_neopixel_30mm
+    oomp_key_extra: oomp_footprint_stanleyseow_svtmaker_neopixel_30mm
+    oomp_key_full: oomp_footprint_stanleyseow_svtmaker_neopixel_30mm_079a6d
+    oomp_key_simple: stanleyseow_svtmaker_neopixel_30mm
+    original_filename: SVTmaker.pretty/Neopixel-30mm.kicad_mod
+    owner_name: stanleyseow
   oomp_key: oomp_stanleyseow_svtmaker_neopixel_30mm
+  oomp_key_full: oomp_footprint_stanleyseow_svtmaker_neopixel_30mm
   oomp_key_simple: stanleyseow_svtmaker_neopixel_30mm
   owner: stanleyseow
   repo:

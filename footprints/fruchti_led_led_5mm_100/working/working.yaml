@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/fruchti_led_led_5mm_100/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/fruchti_led_led_5mm_100/working
-    oomp_doc: footprints/footprints/fruchti/led/LED_5mm_100/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/fruchti/led/LED_5mm_100/working
     oomp_src_flat: footprints_flat/footprints_flat/fruchti_led_led_5mm_100/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/fruchti_led_led_5mm_100/working
-    oomp_src_folder: footprints_folder/footprints_folder/fruchti/led/LED_5mm_100/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/fruchti/led/LED_5mm_100/working
   name: fruchtilib
+  oomp:
+    footprint_name: led_5mm_100
+    library_name: led
+    md5: b3845d9ce9c0d5f5a1b031ab6b089ab2
+    md5_10: b3845d9ce9
+    md5_5: b3845
+    md5_6: b3845d
+    oomp_key: oomp_fruchti_led_led_5mm_100
+    oomp_key_extra: oomp_footprint_fruchti_led_led_5mm_100
+    oomp_key_full: oomp_footprint_fruchti_led_led_5mm_100_b3845d
+    oomp_key_simple: fruchti_led_led_5mm_100
+    original_filename: fruchtilib/mod/led.pretty/LED_5mm_100.kicad_mod
+    owner_name: fruchti
   oomp_key: oomp_fruchti_led_led_5mm_100
+  oomp_key_full: oomp_footprint_fruchti_led_led_5mm_100
   oomp_key_simple: fruchti_led_led_5mm_100
   owner: fruchti
   repo:

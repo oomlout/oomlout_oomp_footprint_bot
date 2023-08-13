@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/digikey_rf_sma_receptical_vertical_consma001_smd_g_rf_sma_receptical_vertical_consma001_smd_g/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_rf_sma_receptical_vertical_consma001_smd_g_rf_sma_receptical_vertical_consma001_smd_g/working
-    oomp_doc: footprints/footprints/digikey/RF_SMA_Receptical_Vertical_CONSMA001-SMD-G.kicad_mod/RF_SMA_Receptical_Vertical_CONSMA001-SMD-G/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/digikey/RF_SMA_Receptical_Vertical_CONSMA001-SMD-G.kicad_mod/RF_SMA_Receptical_Vertical_CONSMA001-SMD-G/working
     oomp_src_flat: footprints_flat/footprints_flat/digikey_rf_sma_receptical_vertical_consma001_smd_g_rf_sma_receptical_vertical_consma001_smd_g/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/digikey_rf_sma_receptical_vertical_consma001_smd_g_rf_sma_receptical_vertical_consma001_smd_g/working
-    oomp_src_folder: footprints_folder/footprints_folder/digikey/RF_SMA_Receptical_Vertical_CONSMA001-SMD-G.kicad_mod/RF_SMA_Receptical_Vertical_CONSMA001-SMD-G/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/digikey/RF_SMA_Receptical_Vertical_CONSMA001-SMD-G.kicad_mod/RF_SMA_Receptical_Vertical_CONSMA001-SMD-G/working
   name: digikey-kicad-library
+  oomp:
+    footprint_name: rf_sma_receptical_vertical_consma001_smd_g
+    library_name: rf_sma_receptical_vertical_consma001_smd_g_kicad_mod
+    md5: dc940c531c328d1b46727f45d9a718ff
+    md5_10: dc940c531c
+    md5_5: dc940
+    md5_6: dc940c
+    oomp_key: oomp_digikey_rf_sma_receptical_vertical_consma001_smd_g_rf_sma_receptical_vertical_consma001_smd_g
+    oomp_key_extra: oomp_footprint_digikey_rf_sma_receptical_vertical_consma001_smd_g_rf_sma_receptical_vertical_consma001_smd_g
+    oomp_key_full: oomp_footprint_digikey_rf_sma_receptical_vertical_consma001_smd_g_rf_sma_receptical_vertical_consma001_smd_g_dc940c
+    oomp_key_simple: digikey_rf_sma_receptical_vertical_consma001_smd_g_rf_sma_receptical_vertical_consma001_smd_g
+    original_filename: digikey-kicad-library/src/Source_Footprints/RF_SMA_Receptical_Vertical_CONSMA001-SMD-G.kicad_mod
+    owner_name: digikey
   oomp_key: oomp_digikey_rf_sma_receptical_vertical_consma001_smd_g_rf_sma_receptical_vertical_consma001_smd_g
+  oomp_key_full: oomp_footprint_digikey_rf_sma_receptical_vertical_consma001_smd_g_rf_sma_receptical_vertical_consma001_smd_g
   oomp_key_simple: digikey_rf_sma_receptical_vertical_consma001_smd_g_rf_sma_receptical_vertical_consma001_smd_g
   owner: digikey
   repo:

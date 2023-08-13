@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/stanleyseow_svtmaker_mmdvm_fsilk_7mm_rev/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stanleyseow_svtmaker_mmdvm_fsilk_7mm_rev/working
-    oomp_doc: footprints/footprints/stanleyseow/SVTmaker/MMDVM_FSilk-7mm-rev/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/stanleyseow/SVTmaker/MMDVM_FSilk-7mm-rev/working
     oomp_src_flat: footprints_flat/footprints_flat/stanleyseow_svtmaker_mmdvm_fsilk_7mm_rev/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/stanleyseow_svtmaker_mmdvm_fsilk_7mm_rev/working
-    oomp_src_folder: footprints_folder/footprints_folder/stanleyseow/SVTmaker/MMDVM_FSilk-7mm-rev/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/stanleyseow/SVTmaker/MMDVM_FSilk-7mm-rev/working
   name: SVTmaker.pretty
+  oomp:
+    footprint_name: mmdvm_fsilk_7mm_rev
+    library_name: svtmaker
+    md5: 66a6d39255700b896ff3f5b12a217e06
+    md5_10: 66a6d39255
+    md5_5: 66a6d
+    md5_6: 66a6d3
+    oomp_key: oomp_stanleyseow_svtmaker_mmdvm_fsilk_7mm_rev
+    oomp_key_extra: oomp_footprint_stanleyseow_svtmaker_mmdvm_fsilk_7mm_rev
+    oomp_key_full: oomp_footprint_stanleyseow_svtmaker_mmdvm_fsilk_7mm_rev_66a6d3
+    oomp_key_simple: stanleyseow_svtmaker_mmdvm_fsilk_7mm_rev
+    original_filename: SVTmaker.pretty/MMDVM_FSilk-7mm-rev.kicad_mod
+    owner_name: stanleyseow
   oomp_key: oomp_stanleyseow_svtmaker_mmdvm_fsilk_7mm_rev
+  oomp_key_full: oomp_footprint_stanleyseow_svtmaker_mmdvm_fsilk_7mm_rev
   oomp_key_simple: stanleyseow_svtmaker_mmdvm_fsilk_7mm_rev
   owner: stanleyseow
   repo:

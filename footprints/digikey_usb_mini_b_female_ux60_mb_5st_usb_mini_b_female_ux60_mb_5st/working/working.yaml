@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/digikey_usb_mini_b_female_ux60_mb_5st_usb_mini_b_female_ux60_mb_5st/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_usb_mini_b_female_ux60_mb_5st_usb_mini_b_female_ux60_mb_5st/working
-    oomp_doc: footprints/footprints/digikey/USB_Mini_B_Female_UX60-MB-5ST.kicad_mod/USB_Mini_B_Female_UX60-MB-5ST/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/digikey/USB_Mini_B_Female_UX60-MB-5ST.kicad_mod/USB_Mini_B_Female_UX60-MB-5ST/working
     oomp_src_flat: footprints_flat/footprints_flat/digikey_usb_mini_b_female_ux60_mb_5st_usb_mini_b_female_ux60_mb_5st/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/digikey_usb_mini_b_female_ux60_mb_5st_usb_mini_b_female_ux60_mb_5st/working
-    oomp_src_folder: footprints_folder/footprints_folder/digikey/USB_Mini_B_Female_UX60-MB-5ST.kicad_mod/USB_Mini_B_Female_UX60-MB-5ST/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/digikey/USB_Mini_B_Female_UX60-MB-5ST.kicad_mod/USB_Mini_B_Female_UX60-MB-5ST/working
   name: digikey-kicad-library
+  oomp:
+    footprint_name: usb_mini_b_female_ux60_mb_5st
+    library_name: usb_mini_b_female_ux60_mb_5st_kicad_mod
+    md5: 40fd63c7b082a3b105362cdcc30813ce
+    md5_10: 40fd63c7b0
+    md5_5: 40fd6
+    md5_6: 40fd63
+    oomp_key: oomp_digikey_usb_mini_b_female_ux60_mb_5st_usb_mini_b_female_ux60_mb_5st
+    oomp_key_extra: oomp_footprint_digikey_usb_mini_b_female_ux60_mb_5st_usb_mini_b_female_ux60_mb_5st
+    oomp_key_full: oomp_footprint_digikey_usb_mini_b_female_ux60_mb_5st_usb_mini_b_female_ux60_mb_5st_40fd63
+    oomp_key_simple: digikey_usb_mini_b_female_ux60_mb_5st_usb_mini_b_female_ux60_mb_5st
+    original_filename: digikey-kicad-library/src/Source_Footprints/USB_Mini_B_Female_UX60-MB-5ST.kicad_mod
+    owner_name: digikey
   oomp_key: oomp_digikey_usb_mini_b_female_ux60_mb_5st_usb_mini_b_female_ux60_mb_5st
+  oomp_key_full: oomp_footprint_digikey_usb_mini_b_female_ux60_mb_5st_usb_mini_b_female_ux60_mb_5st
   oomp_key_simple: digikey_usb_mini_b_female_ux60_mb_5st_usb_mini_b_female_ux60_mb_5st
   owner: digikey
   repo:

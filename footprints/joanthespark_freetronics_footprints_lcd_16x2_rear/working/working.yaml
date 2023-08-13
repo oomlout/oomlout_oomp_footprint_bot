@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/joanthespark_freetronics_footprints_lcd_16x2_rear/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/joanthespark_freetronics_footprints_lcd_16x2_rear/working
-    oomp_doc: footprints/footprints/JoanTheSpark/freetronics_footprints/LCD_16X2_REAR/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/JoanTheSpark/freetronics_footprints/LCD_16X2_REAR/working
     oomp_src_flat: footprints_flat/footprints_flat/joanthespark_freetronics_footprints_lcd_16x2_rear/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/joanthespark_freetronics_footprints_lcd_16x2_rear/working
-    oomp_src_folder: footprints_folder/footprints_folder/JoanTheSpark/freetronics_footprints/LCD_16X2_REAR/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/JoanTheSpark/freetronics_footprints/LCD_16X2_REAR/working
   name: KiCAD
+  oomp:
+    footprint_name: lcd_16x2_rear
+    library_name: freetronics_footprints
+    md5: 6fc2d97e5015625d8b59e86b5e039bc8
+    md5_10: 6fc2d97e50
+    md5_5: 6fc2d
+    md5_6: 6fc2d9
+    oomp_key: oomp_joanthespark_freetronics_footprints_lcd_16x2_rear
+    oomp_key_extra: oomp_footprint_joanthespark_freetronics_footprints_lcd_16x2_rear
+    oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_lcd_16x2_rear_6fc2d9
+    oomp_key_simple: joanthespark_freetronics_footprints_lcd_16x2_rear
+    original_filename: KiCAD/mods/freetronics_footprints.pretty/LCD_16X2_REAR.kicad_mod
+    owner_name: joanthespark
   oomp_key: oomp_joanthespark_freetronics_footprints_lcd_16x2_rear
+  oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_lcd_16x2_rear
   oomp_key_simple: joanthespark_freetronics_footprints_lcd_16x2_rear
   owner: JoanTheSpark
   repo:

@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/adamgreig/agg-kicad
     oomp_bot: footprints/adamgreig_agg_qfn_16_ep_ti/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/adamgreig_agg_qfn_16_ep_ti/working
-    oomp_doc: footprints/footprints/adamgreig/agg/QFN-16-EP-TI/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/adamgreig/agg/QFN-16-EP-TI/working
     oomp_src_flat: footprints_flat/footprints_flat/adamgreig_agg_qfn_16_ep_ti/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/adamgreig_agg_qfn_16_ep_ti/working
-    oomp_src_folder: footprints_folder/footprints_folder/adamgreig/agg/QFN-16-EP-TI/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/adamgreig/agg/QFN-16-EP-TI/working
   name: agg-kicad
+  oomp:
+    footprint_name: qfn_16_ep_ti
+    library_name: agg
+    md5: 16da3d33a504bae06069bde8c7594b7a
+    md5_10: 16da3d33a5
+    md5_5: 16da3
+    md5_6: 16da3d
+    oomp_key: oomp_adamgreig_agg_qfn_16_ep_ti
+    oomp_key_extra: oomp_footprint_adamgreig_agg_qfn_16_ep_ti
+    oomp_key_full: oomp_footprint_adamgreig_agg_qfn_16_ep_ti_16da3d
+    oomp_key_simple: adamgreig_agg_qfn_16_ep_ti
+    original_filename: agg-kicad/agg.pretty/QFN-16-EP-TI.kicad_mod
+    owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_qfn_16_ep_ti
+  oomp_key_full: oomp_footprint_adamgreig_agg_qfn_16_ep_ti
   oomp_key_simple: adamgreig_agg_qfn_16_ep_ti
   owner: adamgreig
   repo:

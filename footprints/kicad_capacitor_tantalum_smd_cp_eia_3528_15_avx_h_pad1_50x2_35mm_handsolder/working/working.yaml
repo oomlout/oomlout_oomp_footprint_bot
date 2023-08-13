@@ -13,17 +13,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_capacitor_tantalum_smd_cp_eia_3528_15_avx_h_pad1_50x2_35mm_handsolder/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_capacitor_tantalum_smd_cp_eia_3528_15_avx_h_pad1_50x2_35mm_handsolder/working
-    oomp_doc: footprints/footprints/kicad/Capacitor_Tantalum_SMD/CP_EIA-3528-15_AVX-H_Pad1.50x2.35mm_HandSolder/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Capacitor_Tantalum_SMD/CP_EIA-3528-15_AVX-H_Pad1.50x2.35mm_HandSolder/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_capacitor_tantalum_smd_cp_eia_3528_15_avx_h_pad1_50x2_35mm_handsolder/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_capacitor_tantalum_smd_cp_eia_3528_15_avx_h_pad1_50x2_35mm_handsolder/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Capacitor_Tantalum_SMD/CP_EIA-3528-15_AVX-H_Pad1.50x2.35mm_HandSolder/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Capacitor_Tantalum_SMD/CP_EIA-3528-15_AVX-H_Pad1.50x2.35mm_HandSolder/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: cp_eia_3528_15_avx_h_pad1_50x2_35mm_handsolder
+    library_name: capacitor_tantalum_smd
+    md5: 9ca406dff1c72df42ecfad6d37e2ed4e
+    md5_10: 9ca406dff1
+    md5_5: 9ca40
+    md5_6: 9ca406
+    oomp_key: oomp_kicad_capacitor_tantalum_smd_cp_eia_3528_15_avx_h_pad1_50x2_35mm_handsolder
+    oomp_key_extra: oomp_footprint_kicad_capacitor_tantalum_smd_cp_eia_3528_15_avx_h_pad1_50x2_35mm_handsolder
+    oomp_key_full: oomp_footprint_kicad_capacitor_tantalum_smd_cp_eia_3528_15_avx_h_pad1_50x2_35mm_handsolder_9ca406
+    oomp_key_simple: kicad_capacitor_tantalum_smd_cp_eia_3528_15_avx_h_pad1_50x2_35mm_handsolder
+    original_filename: libraries/kicad-footprints/Capacitor_Tantalum_SMD.pretty/CP_EIA-3528-15_AVX-H_Pad1.50x2.35mm_HandSolder.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_capacitor_tantalum_smd_cp_eia_3528_15_avx_h_pad1_50x2_35mm_handsolder
+  oomp_key_full: oomp_footprint_kicad_capacitor_tantalum_smd_cp_eia_3528_15_avx_h_pad1_50x2_35mm_handsolder
   oomp_key_simple: kicad_capacitor_tantalum_smd_cp_eia_3528_15_avx_h_pad1_50x2_35mm_handsolder
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

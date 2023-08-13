@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/granskog_dgs_connectors_screw_terminal_rm3,5mm_7p/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/granskog_dgs_connectors_screw_terminal_rm3,5mm_7p/working
-    oomp_doc: footprints/footprints/granskog/DGS_Connectors/Screw_Terminal_RM3,5mm_7P/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/granskog/DGS_Connectors/Screw_Terminal_RM3,5mm_7P/working
     oomp_src_flat: footprints_flat/footprints_flat/granskog_dgs_connectors_screw_terminal_rm3,5mm_7p/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/granskog_dgs_connectors_screw_terminal_rm3,5mm_7p/working
-    oomp_src_folder: footprints_folder/footprints_folder/granskog/DGS_Connectors/Screw_Terminal_RM3,5mm_7P/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/granskog/DGS_Connectors/Screw_Terminal_RM3,5mm_7P/working
   name: DGS_Connectors.pretty
+  oomp:
+    footprint_name: screw_terminal_rm3,5mm_7p
+    library_name: dgs_connectors
+    md5: d3aedeb847911b437146d6dcdb035ee7
+    md5_10: d3aedeb847
+    md5_5: d3aed
+    md5_6: d3aede
+    oomp_key: oomp_granskog_dgs_connectors_screw_terminal_rm3,5mm_7p
+    oomp_key_extra: oomp_footprint_granskog_dgs_connectors_screw_terminal_rm3,5mm_7p
+    oomp_key_full: oomp_footprint_granskog_dgs_connectors_screw_terminal_rm3,5mm_7p_d3aede
+    oomp_key_simple: granskog_dgs_connectors_screw_terminal_rm3,5mm_7p
+    original_filename: DGS_Connectors.pretty/Screw_Terminal_RM3,5mm_7P.kicad_mod
+    owner_name: granskog
   oomp_key: oomp_granskog_dgs_connectors_screw_terminal_rm3,5mm_7p
+  oomp_key_full: oomp_footprint_granskog_dgs_connectors_screw_terminal_rm3,5mm_7p
   oomp_key_simple: granskog_dgs_connectors_screw_terminal_rm3,5mm_7p
   owner: granskog
   repo:

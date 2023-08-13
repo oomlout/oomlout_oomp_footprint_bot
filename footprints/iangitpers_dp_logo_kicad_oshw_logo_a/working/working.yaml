@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/Iangitpers/4a
     oomp_bot: footprints/iangitpers_dp_logo_kicad_oshw_logo_a/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/iangitpers_dp_logo_kicad_oshw_logo_a/working
-    oomp_doc: footprints/footprints/Iangitpers/DP_logo_kicad/oshw_logo_a/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Iangitpers/DP_logo_kicad/oshw_logo_a/working
     oomp_src_flat: footprints_flat/footprints_flat/iangitpers_dp_logo_kicad_oshw_logo_a/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/iangitpers_dp_logo_kicad_oshw_logo_a/working
-    oomp_src_folder: footprints_folder/footprints_folder/Iangitpers/DP_logo_kicad/oshw_logo_a/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Iangitpers/DP_logo_kicad/oshw_logo_a/working
   name: 4a
+  oomp:
+    footprint_name: oshw_logo_a
+    library_name: dp_logo_kicad
+    md5: f66d7d714c966cc42cbf0d177098ab09
+    md5_10: f66d7d714c
+    md5_5: f66d7
+    md5_6: f66d7d
+    oomp_key: oomp_iangitpers_dp_logo_kicad_oshw_logo_a
+    oomp_key_extra: oomp_footprint_iangitpers_dp_logo_kicad_oshw_logo_a
+    oomp_key_full: oomp_footprint_iangitpers_dp_logo_kicad_oshw_logo_a_f66d7d
+    oomp_key_simple: iangitpers_dp_logo_kicad_oshw_logo_a
+    original_filename: 4a/DP_logo_kicad.pretty/oshw_logo_a.kicad_mod
+    owner_name: iangitpers
   oomp_key: oomp_iangitpers_dp_logo_kicad_oshw_logo_a
+  oomp_key_full: oomp_footprint_iangitpers_dp_logo_kicad_oshw_logo_a
   oomp_key_simple: iangitpers_dp_logo_kicad_oshw_logo_a
   owner: Iangitpers
   repo:

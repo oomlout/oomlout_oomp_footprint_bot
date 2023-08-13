@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/ep092_library_toni_cpr5x10/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ep092_library_toni_cpr5x10/working
-    oomp_doc: footprints/footprints/ep092/library_toni/CPR5X10/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ep092/library_toni/CPR5X10/working
     oomp_src_flat: footprints_flat/footprints_flat/ep092_library_toni_cpr5x10/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ep092_library_toni_cpr5x10/working
-    oomp_src_folder: footprints_folder/footprints_folder/ep092/library_toni/CPR5X10/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ep092/library_toni/CPR5X10/working
   name: library_toni.pretty
+  oomp:
+    footprint_name: cpr5x10
+    library_name: library_toni
+    md5: 23c82ae79bb04ba7565435abd6f847b9
+    md5_10: 23c82ae79b
+    md5_5: 23c82
+    md5_6: 23c82a
+    oomp_key: oomp_ep092_library_toni_cpr5x10
+    oomp_key_extra: oomp_footprint_ep092_library_toni_cpr5x10
+    oomp_key_full: oomp_footprint_ep092_library_toni_cpr5x10_23c82a
+    oomp_key_simple: ep092_library_toni_cpr5x10
+    original_filename: library_toni.pretty/CPR5X10.kicad_mod
+    owner_name: ep092
   oomp_key: oomp_ep092_library_toni_cpr5x10
+  oomp_key_full: oomp_footprint_ep092_library_toni_cpr5x10
   oomp_key_simple: ep092_library_toni_cpr5x10
   owner: ep092
   repo:

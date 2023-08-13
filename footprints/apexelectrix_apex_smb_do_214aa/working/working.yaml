@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/apexelectrix/Apex.pretty
     oomp_bot: footprints/apexelectrix_apex_smb_do_214aa/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/apexelectrix_apex_smb_do_214aa/working
-    oomp_doc: footprints/footprints/apexelectrix/Apex/SMB_DO-214AA/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/apexelectrix/Apex/SMB_DO-214AA/working
     oomp_src_flat: footprints_flat/footprints_flat/apexelectrix_apex_smb_do_214aa/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/apexelectrix_apex_smb_do_214aa/working
-    oomp_src_folder: footprints_folder/footprints_folder/apexelectrix/Apex/SMB_DO-214AA/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/apexelectrix/Apex/SMB_DO-214AA/working
   name: Apex.pretty
+  oomp:
+    footprint_name: smb_do_214aa
+    library_name: apex
+    md5: 6183166d690c5b24e1374ca09751ec4d
+    md5_10: 6183166d69
+    md5_5: '61831'
+    md5_6: '618316'
+    oomp_key: oomp_apexelectrix_apex_smb_do_214aa
+    oomp_key_extra: oomp_footprint_apexelectrix_apex_smb_do_214aa
+    oomp_key_full: oomp_footprint_apexelectrix_apex_smb_do_214aa_618316
+    oomp_key_simple: apexelectrix_apex_smb_do_214aa
+    original_filename: Apex.pretty/SMB_DO-214AA.kicad_mod
+    owner_name: apexelectrix
   oomp_key: oomp_apexelectrix_apex_smb_do_214aa
+  oomp_key_full: oomp_footprint_apexelectrix_apex_smb_do_214aa
   oomp_key_simple: apexelectrix_apex_smb_do_214aa
   owner: apexelectrix
   repo:

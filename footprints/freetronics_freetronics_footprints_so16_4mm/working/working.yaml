@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/freetronics_freetronics_footprints_so16_4mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/freetronics_freetronics_footprints_so16_4mm/working
-    oomp_doc: footprints/footprints/freetronics/freetronics_footprints/SO16_4mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/freetronics/freetronics_footprints/SO16_4mm/working
     oomp_src_flat: footprints_flat/footprints_flat/freetronics_freetronics_footprints_so16_4mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/freetronics_freetronics_footprints_so16_4mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/freetronics/freetronics_footprints/SO16_4mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/freetronics/freetronics_footprints/SO16_4mm/working
   name: freetronics_kicad_library
+  oomp:
+    footprint_name: so16_4mm
+    library_name: freetronics_footprints
+    md5: 6d8cfbe5b7a8fb269d3237017068b46f
+    md5_10: 6d8cfbe5b7
+    md5_5: 6d8cf
+    md5_6: 6d8cfb
+    oomp_key: oomp_freetronics_freetronics_footprints_so16_4mm
+    oomp_key_extra: oomp_footprint_freetronics_freetronics_footprints_so16_4mm
+    oomp_key_full: oomp_footprint_freetronics_freetronics_footprints_so16_4mm_6d8cfb
+    oomp_key_simple: freetronics_freetronics_footprints_so16_4mm
+    original_filename: freetronics_kicad_library/freetronics_footprints.pretty/SO16_4mm.kicad_mod
+    owner_name: freetronics
   oomp_key: oomp_freetronics_freetronics_footprints_so16_4mm
+  oomp_key_full: oomp_footprint_freetronics_freetronics_footprints_so16_4mm
   oomp_key_simple: freetronics_freetronics_footprints_so16_4mm
   owner: freetronics
   repo:

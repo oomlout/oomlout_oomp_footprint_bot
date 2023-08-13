@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/fruchti_so_so16/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/fruchti_so_so16/working
-    oomp_doc: footprints/footprints/fruchti/so/SO16/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/fruchti/so/SO16/working
     oomp_src_flat: footprints_flat/footprints_flat/fruchti_so_so16/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/fruchti_so_so16/working
-    oomp_src_folder: footprints_folder/footprints_folder/fruchti/so/SO16/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/fruchti/so/SO16/working
   name: fruchtilib
+  oomp:
+    footprint_name: so16
+    library_name: so
+    md5: 9844b760cfa08140fcb1f1d24be8750a
+    md5_10: 9844b760cf
+    md5_5: 9844b
+    md5_6: 9844b7
+    oomp_key: oomp_fruchti_so_so16
+    oomp_key_extra: oomp_footprint_fruchti_so_so16
+    oomp_key_full: oomp_footprint_fruchti_so_so16_9844b7
+    oomp_key_simple: fruchti_so_so16
+    original_filename: fruchtilib/mod/so.pretty/SO16.kicad_mod
+    owner_name: fruchti
   oomp_key: oomp_fruchti_so_so16
+  oomp_key_full: oomp_footprint_fruchti_so_so16
   oomp_key_simple: fruchti_so_so16
   owner: fruchti
   repo:

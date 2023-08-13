@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/peekpt_w_conn_rf_lemo_epb00250ntn/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/peekpt_w_conn_rf_lemo_epb00250ntn/working
-    oomp_doc: footprints/footprints/peekpt/w_conn_rf/lemo_epb00250ntn/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/peekpt/w_conn_rf/lemo_epb00250ntn/working
     oomp_src_flat: footprints_flat/footprints_flat/peekpt_w_conn_rf_lemo_epb00250ntn/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/peekpt_w_conn_rf_lemo_epb00250ntn/working
-    oomp_src_folder: footprints_folder/footprints_folder/peekpt/w_conn_rf/lemo_epb00250ntn/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/peekpt/w_conn_rf/lemo_epb00250ntn/working
   name: kicad_smisioto
+  oomp:
+    footprint_name: lemo_epb00250ntn
+    library_name: w_conn_rf
+    md5: 05ab0d798f7dc8e7b4577e2da28549ef
+    md5_10: 05ab0d798f
+    md5_5: 05ab0
+    md5_6: 05ab0d
+    oomp_key: oomp_peekpt_w_conn_rf_lemo_epb00250ntn
+    oomp_key_extra: oomp_footprint_peekpt_w_conn_rf_lemo_epb00250ntn
+    oomp_key_full: oomp_footprint_peekpt_w_conn_rf_lemo_epb00250ntn_05ab0d
+    oomp_key_simple: peekpt_w_conn_rf_lemo_epb00250ntn
+    original_filename: kicad_smisioto/modules/walter/w_conn_rf.pretty/lemo_epb00250ntn.kicad_mod
+    owner_name: peekpt
   oomp_key: oomp_peekpt_w_conn_rf_lemo_epb00250ntn
+  oomp_key_full: oomp_footprint_peekpt_w_conn_rf_lemo_epb00250ntn
   oomp_key_simple: peekpt_w_conn_rf_lemo_epb00250ntn
   owner: peekpt
   repo:

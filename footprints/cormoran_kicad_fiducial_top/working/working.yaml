@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cormoran_kicad_fiducial_top/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cormoran_kicad_fiducial_top/working
-    oomp_doc: footprints/footprints/cormoran/kicad/FIDUCIAL_TOP/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cormoran/kicad/FIDUCIAL_TOP/working
     oomp_src_flat: footprints_flat/footprints_flat/cormoran_kicad_fiducial_top/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cormoran_kicad_fiducial_top/working
-    oomp_src_folder: footprints_folder/footprints_folder/cormoran/kicad/FIDUCIAL_TOP/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cormoran/kicad/FIDUCIAL_TOP/working
   name: kicad.pretty
+  oomp:
+    footprint_name: fiducial_top
+    library_name: kicad
+    md5: 3cd038afdf46fd23d540f7a2371d5b30
+    md5_10: 3cd038afdf
+    md5_5: 3cd03
+    md5_6: 3cd038
+    oomp_key: oomp_cormoran_kicad_fiducial_top
+    oomp_key_extra: oomp_footprint_cormoran_kicad_fiducial_top
+    oomp_key_full: oomp_footprint_cormoran_kicad_fiducial_top_3cd038
+    oomp_key_simple: cormoran_kicad_fiducial_top
+    original_filename: kicad.pretty/FIDUCIAL_TOP.kicad_mod
+    owner_name: cormoran
   oomp_key: oomp_cormoran_kicad_fiducial_top
+  oomp_key_full: oomp_footprint_cormoran_kicad_fiducial_top
   oomp_key_simple: cormoran_kicad_fiducial_top
   owner: cormoran
   repo:

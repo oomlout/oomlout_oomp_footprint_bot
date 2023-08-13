@@ -11,17 +11,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_battery_battery_cr1225/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_battery_battery_cr1225/working
-    oomp_doc: footprints/footprints/kicad/Battery/Battery_CR1225/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Battery/Battery_CR1225/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_battery_battery_cr1225/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_battery_battery_cr1225/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Battery/Battery_CR1225/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Battery/Battery_CR1225/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: battery_cr1225
+    library_name: battery
+    md5: 841205e9aceb51ca3561568af47f9007
+    md5_10: 841205e9ac
+    md5_5: '84120'
+    md5_6: '841205'
+    oomp_key: oomp_kicad_battery_battery_cr1225
+    oomp_key_extra: oomp_footprint_kicad_battery_battery_cr1225
+    oomp_key_full: oomp_footprint_kicad_battery_battery_cr1225_841205
+    oomp_key_simple: kicad_battery_battery_cr1225
+    original_filename: libraries/kicad-footprints/Battery.pretty/Battery_CR1225.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_battery_battery_cr1225
+  oomp_key_full: oomp_footprint_kicad_battery_battery_cr1225
   oomp_key_simple: kicad_battery_battery_cr1225
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

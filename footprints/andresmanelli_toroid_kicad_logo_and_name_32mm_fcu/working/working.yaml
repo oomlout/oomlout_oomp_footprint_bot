@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/andresmanelli/TOROID-KiCad.pretty
     oomp_bot: footprints/andresmanelli_toroid_kicad_logo_and_name_32mm_fcu/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/andresmanelli_toroid_kicad_logo_and_name_32mm_fcu/working
-    oomp_doc: footprints/footprints/andresmanelli/TOROID-KiCad/Logo_and_Name_32mm_FCu/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/andresmanelli/TOROID-KiCad/Logo_and_Name_32mm_FCu/working
     oomp_src_flat: footprints_flat/footprints_flat/andresmanelli_toroid_kicad_logo_and_name_32mm_fcu/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/andresmanelli_toroid_kicad_logo_and_name_32mm_fcu/working
-    oomp_src_folder: footprints_folder/footprints_folder/andresmanelli/TOROID-KiCad/Logo_and_Name_32mm_FCu/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/andresmanelli/TOROID-KiCad/Logo_and_Name_32mm_FCu/working
   name: TOROID-KiCad.pretty
+  oomp:
+    footprint_name: logo_and_name_32mm_fcu
+    library_name: toroid_kicad
+    md5: e087a7acda5f705345c178c1c73f20fd
+    md5_10: e087a7acda
+    md5_5: e087a
+    md5_6: e087a7
+    oomp_key: oomp_andresmanelli_toroid_kicad_logo_and_name_32mm_fcu
+    oomp_key_extra: oomp_footprint_andresmanelli_toroid_kicad_logo_and_name_32mm_fcu
+    oomp_key_full: oomp_footprint_andresmanelli_toroid_kicad_logo_and_name_32mm_fcu_e087a7
+    oomp_key_simple: andresmanelli_toroid_kicad_logo_and_name_32mm_fcu
+    original_filename: TOROID-KiCad.pretty/Logo_and_Name_32mm_FCu.kicad_mod
+    owner_name: andresmanelli
   oomp_key: oomp_andresmanelli_toroid_kicad_logo_and_name_32mm_fcu
+  oomp_key_full: oomp_footprint_andresmanelli_toroid_kicad_logo_and_name_32mm_fcu
   oomp_key_simple: andresmanelli_toroid_kicad_logo_and_name_32mm_fcu
   owner: andresmanelli
   repo:

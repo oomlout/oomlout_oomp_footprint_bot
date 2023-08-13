@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/madworm/Panelization.pretty
     oomp_bot: footprints/madworm_panelization_mouse_bite_5mm_slot/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/madworm_panelization_mouse_bite_5mm_slot/working
-    oomp_doc: footprints/footprints/madworm/Panelization/mouse-bite-5mm-slot/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/madworm/Panelization/mouse-bite-5mm-slot/working
     oomp_src_flat: footprints_flat/footprints_flat/madworm_panelization_mouse_bite_5mm_slot/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/madworm_panelization_mouse_bite_5mm_slot/working
-    oomp_src_folder: footprints_folder/footprints_folder/madworm/Panelization/mouse-bite-5mm-slot/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/madworm/Panelization/mouse-bite-5mm-slot/working
   name: Panelization.pretty
+  oomp:
+    footprint_name: mouse_bite_5mm_slot
+    library_name: panelization
+    md5: 3e72a6d4ec798b9bedf21a23f8f58b21
+    md5_10: 3e72a6d4ec
+    md5_5: 3e72a
+    md5_6: 3e72a6
+    oomp_key: oomp_madworm_panelization_mouse_bite_5mm_slot
+    oomp_key_extra: oomp_footprint_madworm_panelization_mouse_bite_5mm_slot
+    oomp_key_full: oomp_footprint_madworm_panelization_mouse_bite_5mm_slot_3e72a6
+    oomp_key_simple: madworm_panelization_mouse_bite_5mm_slot
+    original_filename: Panelization.pretty/mouse-bite-5mm-slot.kicad_mod
+    owner_name: madworm
   oomp_key: oomp_madworm_panelization_mouse_bite_5mm_slot
+  oomp_key_full: oomp_footprint_madworm_panelization_mouse_bite_5mm_slot
   oomp_key_simple: madworm_panelization_mouse_bite_5mm_slot
   owner: madworm
   repo:

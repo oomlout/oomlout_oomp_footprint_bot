@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/fruchti_dip_dip4_300/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/fruchti_dip_dip4_300/working
-    oomp_doc: footprints/footprints/fruchti/dip/DIP4_300/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/fruchti/dip/DIP4_300/working
     oomp_src_flat: footprints_flat/footprints_flat/fruchti_dip_dip4_300/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/fruchti_dip_dip4_300/working
-    oomp_src_folder: footprints_folder/footprints_folder/fruchti/dip/DIP4_300/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/fruchti/dip/DIP4_300/working
   name: fruchtilib
+  oomp:
+    footprint_name: dip4_300
+    library_name: dip
+    md5: 79495c50b94c541af044e3a7a57589bf
+    md5_10: 79495c50b9
+    md5_5: '79495'
+    md5_6: 79495c
+    oomp_key: oomp_fruchti_dip_dip4_300
+    oomp_key_extra: oomp_footprint_fruchti_dip_dip4_300
+    oomp_key_full: oomp_footprint_fruchti_dip_dip4_300_79495c
+    oomp_key_simple: fruchti_dip_dip4_300
+    original_filename: fruchtilib/mod/dip.pretty/DIP4_300.kicad_mod
+    owner_name: fruchti
   oomp_key: oomp_fruchti_dip_dip4_300
+  oomp_key_full: oomp_footprint_fruchti_dip_dip4_300
   oomp_key_simple: fruchti_dip_dip4_300
   owner: fruchti
   repo:

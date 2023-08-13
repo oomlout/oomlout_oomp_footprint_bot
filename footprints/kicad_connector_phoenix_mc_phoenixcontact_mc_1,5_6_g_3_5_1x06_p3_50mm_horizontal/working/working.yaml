@@ -12,17 +12,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_connector_phoenix_mc_phoenixcontact_mc_1,5_6_g_3_5_1x06_p3_50mm_horizontal/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_connector_phoenix_mc_phoenixcontact_mc_1,5_6_g_3_5_1x06_p3_50mm_horizontal/working
-    oomp_doc: footprints/footprints/kicad/Connector_Phoenix_MC/PhoenixContact_MC_1,5_6-G-3.5_1x06_P3.50mm_Horizontal/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Connector_Phoenix_MC/PhoenixContact_MC_1,5_6-G-3.5_1x06_P3.50mm_Horizontal/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_connector_phoenix_mc_phoenixcontact_mc_1,5_6_g_3_5_1x06_p3_50mm_horizontal/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_connector_phoenix_mc_phoenixcontact_mc_1,5_6_g_3_5_1x06_p3_50mm_horizontal/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Connector_Phoenix_MC/PhoenixContact_MC_1,5_6-G-3.5_1x06_P3.50mm_Horizontal/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Connector_Phoenix_MC/PhoenixContact_MC_1,5_6-G-3.5_1x06_P3.50mm_Horizontal/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: phoenixcontact_mc_1,5_6_g_3_5_1x06_p3_50mm_horizontal
+    library_name: connector_phoenix_mc
+    md5: a97231a8d12d7b03dd2608502acdd078
+    md5_10: a97231a8d1
+    md5_5: a9723
+    md5_6: a97231
+    oomp_key: oomp_kicad_connector_phoenix_mc_phoenixcontact_mc_1,5_6_g_3_5_1x06_p3_50mm_horizontal
+    oomp_key_extra: oomp_footprint_kicad_connector_phoenix_mc_phoenixcontact_mc_1,5_6_g_3_5_1x06_p3_50mm_horizontal
+    oomp_key_full: oomp_footprint_kicad_connector_phoenix_mc_phoenixcontact_mc_1,5_6_g_3_5_1x06_p3_50mm_horizontal_a97231
+    oomp_key_simple: kicad_connector_phoenix_mc_phoenixcontact_mc_1,5_6_g_3_5_1x06_p3_50mm_horizontal
+    original_filename: libraries/kicad-footprints/Connector_Phoenix_MC.pretty/PhoenixContact_MC_1,5_6-G-3.5_1x06_P3.50mm_Horizontal.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_connector_phoenix_mc_phoenixcontact_mc_1,5_6_g_3_5_1x06_p3_50mm_horizontal
+  oomp_key_full: oomp_footprint_kicad_connector_phoenix_mc_phoenixcontact_mc_1,5_6_g_3_5_1x06_p3_50mm_horizontal
   oomp_key_simple: kicad_connector_phoenix_mc_phoenixcontact_mc_1,5_6_g_3_5_1x06_p3_50mm_horizontal
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

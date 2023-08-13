@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/rascalmicro_rascalmicro_kicad_footprints_fgpmmopa6h/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/rascalmicro_rascalmicro_kicad_footprints_fgpmmopa6h/working
-    oomp_doc: footprints/footprints/rascalmicro/rascalmicro-kicad-footprints/FGPMMOPA6H/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/rascalmicro/rascalmicro-kicad-footprints/FGPMMOPA6H/working
     oomp_src_flat: footprints_flat/footprints_flat/rascalmicro_rascalmicro_kicad_footprints_fgpmmopa6h/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/rascalmicro_rascalmicro_kicad_footprints_fgpmmopa6h/working
-    oomp_src_folder: footprints_folder/footprints_folder/rascalmicro/rascalmicro-kicad-footprints/FGPMMOPA6H/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/rascalmicro/rascalmicro-kicad-footprints/FGPMMOPA6H/working
   name: rascalmicro-kicad-footprints.pretty
+  oomp:
+    footprint_name: fgpmmopa6h
+    library_name: rascalmicro_kicad_footprints
+    md5: ea545beea6ddbac5d9b7be2f5f15c68e
+    md5_10: ea545beea6
+    md5_5: ea545
+    md5_6: ea545b
+    oomp_key: oomp_rascalmicro_rascalmicro_kicad_footprints_fgpmmopa6h
+    oomp_key_extra: oomp_footprint_rascalmicro_rascalmicro_kicad_footprints_fgpmmopa6h
+    oomp_key_full: oomp_footprint_rascalmicro_rascalmicro_kicad_footprints_fgpmmopa6h_ea545b
+    oomp_key_simple: rascalmicro_rascalmicro_kicad_footprints_fgpmmopa6h
+    original_filename: rascalmicro-kicad-footprints.pretty/FGPMMOPA6H.kicad_mod
+    owner_name: rascalmicro
   oomp_key: oomp_rascalmicro_rascalmicro_kicad_footprints_fgpmmopa6h
+  oomp_key_full: oomp_footprint_rascalmicro_rascalmicro_kicad_footprints_fgpmmopa6h
   oomp_key_simple: rascalmicro_rascalmicro_kicad_footprints_fgpmmopa6h
   owner: rascalmicro
   repo:

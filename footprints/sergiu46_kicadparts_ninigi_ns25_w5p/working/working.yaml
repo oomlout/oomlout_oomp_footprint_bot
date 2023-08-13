@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/sergiu46_kicadparts_ninigi_ns25_w5p/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/sergiu46_kicadparts_ninigi_ns25_w5p/working
-    oomp_doc: footprints/footprints/sergiu46/KiCadParts/NINIGI_NS25-W5P/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/sergiu46/KiCadParts/NINIGI_NS25-W5P/working
     oomp_src_flat: footprints_flat/footprints_flat/sergiu46_kicadparts_ninigi_ns25_w5p/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/sergiu46_kicadparts_ninigi_ns25_w5p/working
-    oomp_src_folder: footprints_folder/footprints_folder/sergiu46/KiCadParts/NINIGI_NS25-W5P/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/sergiu46/KiCadParts/NINIGI_NS25-W5P/working
   name: KiCadParts.pretty
+  oomp:
+    footprint_name: ninigi_ns25_w5p
+    library_name: kicadparts
+    md5: 72ba515f50ce8449e6bedbf1132ca648
+    md5_10: 72ba515f50
+    md5_5: 72ba5
+    md5_6: 72ba51
+    oomp_key: oomp_sergiu46_kicadparts_ninigi_ns25_w5p
+    oomp_key_extra: oomp_footprint_sergiu46_kicadparts_ninigi_ns25_w5p
+    oomp_key_full: oomp_footprint_sergiu46_kicadparts_ninigi_ns25_w5p_72ba51
+    oomp_key_simple: sergiu46_kicadparts_ninigi_ns25_w5p
+    original_filename: KiCadParts.pretty/NINIGI_NS25-W5P.kicad_mod
+    owner_name: sergiu46
   oomp_key: oomp_sergiu46_kicadparts_ninigi_ns25_w5p
+  oomp_key_full: oomp_footprint_sergiu46_kicadparts_ninigi_ns25_w5p
   oomp_key_simple: sergiu46_kicadparts_ninigi_ns25_w5p
   owner: sergiu46
   repo:

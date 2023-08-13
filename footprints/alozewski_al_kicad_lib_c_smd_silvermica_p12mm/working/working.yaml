@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/alozewski/al-kicad-lib.pretty
     oomp_bot: footprints/alozewski_al_kicad_lib_c_smd_silvermica_p12mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/alozewski_al_kicad_lib_c_smd_silvermica_p12mm/working
-    oomp_doc: footprints/footprints/alozewski/al-kicad-lib/C_SMD_SilverMica_P12mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/alozewski/al-kicad-lib/C_SMD_SilverMica_P12mm/working
     oomp_src_flat: footprints_flat/footprints_flat/alozewski_al_kicad_lib_c_smd_silvermica_p12mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/alozewski_al_kicad_lib_c_smd_silvermica_p12mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/alozewski/al-kicad-lib/C_SMD_SilverMica_P12mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/alozewski/al-kicad-lib/C_SMD_SilverMica_P12mm/working
   name: al-kicad-lib.pretty
+  oomp:
+    footprint_name: c_smd_silvermica_p12mm
+    library_name: al_kicad_lib
+    md5: de553bcac01222fdedf5dc0deeef8400
+    md5_10: de553bcac0
+    md5_5: de553
+    md5_6: de553b
+    oomp_key: oomp_alozewski_al_kicad_lib_c_smd_silvermica_p12mm
+    oomp_key_extra: oomp_footprint_alozewski_al_kicad_lib_c_smd_silvermica_p12mm
+    oomp_key_full: oomp_footprint_alozewski_al_kicad_lib_c_smd_silvermica_p12mm_de553b
+    oomp_key_simple: alozewski_al_kicad_lib_c_smd_silvermica_p12mm
+    original_filename: al-kicad-lib.pretty/C_SMD_SilverMica_P12mm.kicad_mod
+    owner_name: alozewski
   oomp_key: oomp_alozewski_al_kicad_lib_c_smd_silvermica_p12mm
+  oomp_key_full: oomp_footprint_alozewski_al_kicad_lib_c_smd_silvermica_p12mm
   oomp_key_simple: alozewski_al_kicad_lib_c_smd_silvermica_p12mm
   owner: alozewski
   repo:

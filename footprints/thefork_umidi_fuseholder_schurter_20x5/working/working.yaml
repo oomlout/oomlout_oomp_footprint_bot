@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/thefork_umidi_fuseholder_schurter_20x5/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/thefork_umidi_fuseholder_schurter_20x5/working
-    oomp_doc: footprints/footprints/theFork/uMIDI/Fuseholder_Schurter_20x5/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/theFork/uMIDI/Fuseholder_Schurter_20x5/working
     oomp_src_flat: footprints_flat/footprints_flat/thefork_umidi_fuseholder_schurter_20x5/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/thefork_umidi_fuseholder_schurter_20x5/working
-    oomp_src_folder: footprints_folder/footprints_folder/theFork/uMIDI/Fuseholder_Schurter_20x5/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/theFork/uMIDI/Fuseholder_Schurter_20x5/working
   name: uMIDI.pretty
+  oomp:
+    footprint_name: fuseholder_schurter_20x5
+    library_name: umidi
+    md5: 95a0e23098d5e07829014f236e8a3fb4
+    md5_10: 95a0e23098
+    md5_5: 95a0e
+    md5_6: 95a0e2
+    oomp_key: oomp_thefork_umidi_fuseholder_schurter_20x5
+    oomp_key_extra: oomp_footprint_thefork_umidi_fuseholder_schurter_20x5
+    oomp_key_full: oomp_footprint_thefork_umidi_fuseholder_schurter_20x5_95a0e2
+    oomp_key_simple: thefork_umidi_fuseholder_schurter_20x5
+    original_filename: uMIDI.pretty/Fuseholder_Schurter_20x5.kicad_mod
+    owner_name: thefork
   oomp_key: oomp_thefork_umidi_fuseholder_schurter_20x5
+  oomp_key_full: oomp_footprint_thefork_umidi_fuseholder_schurter_20x5
   oomp_key_simple: thefork_umidi_fuseholder_schurter_20x5
   owner: theFork
   repo:

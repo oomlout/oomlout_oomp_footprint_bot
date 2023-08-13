@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/monostable_commonpartslibrary_rc1206fr_0710kl_resc3216x65/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/monostable_commonpartslibrary_rc1206fr_0710kl_resc3216x65/working
-    oomp_doc: footprints/footprints/monostable/CommonPartsLibrary/RC1206FR-0710KL_RESC3216X65/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/monostable/CommonPartsLibrary/RC1206FR-0710KL_RESC3216X65/working
     oomp_src_flat: footprints_flat/footprints_flat/monostable_commonpartslibrary_rc1206fr_0710kl_resc3216x65/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/monostable_commonpartslibrary_rc1206fr_0710kl_resc3216x65/working
-    oomp_src_folder: footprints_folder/footprints_folder/monostable/CommonPartsLibrary/RC1206FR-0710KL_RESC3216X65/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/monostable/CommonPartsLibrary/RC1206FR-0710KL_RESC3216X65/working
   name: CommonPartsLibrary.pretty
+  oomp:
+    footprint_name: rc1206fr_0710kl_resc3216x65
+    library_name: commonpartslibrary
+    md5: 6aca78069a81191cb4fcd95bc12339c4
+    md5_10: 6aca78069a
+    md5_5: 6aca7
+    md5_6: 6aca78
+    oomp_key: oomp_monostable_commonpartslibrary_rc1206fr_0710kl_resc3216x65
+    oomp_key_extra: oomp_footprint_monostable_commonpartslibrary_rc1206fr_0710kl_resc3216x65
+    oomp_key_full: oomp_footprint_monostable_commonpartslibrary_rc1206fr_0710kl_resc3216x65_6aca78
+    oomp_key_simple: monostable_commonpartslibrary_rc1206fr_0710kl_resc3216x65
+    original_filename: CommonPartsLibrary.pretty/RC1206FR-0710KL_RESC3216X65.kicad_mod
+    owner_name: monostable
   oomp_key: oomp_monostable_commonpartslibrary_rc1206fr_0710kl_resc3216x65
+  oomp_key_full: oomp_footprint_monostable_commonpartslibrary_rc1206fr_0710kl_resc3216x65
   oomp_key_simple: monostable_commonpartslibrary_rc1206fr_0710kl_resc3216x65
   owner: monostable
   repo:

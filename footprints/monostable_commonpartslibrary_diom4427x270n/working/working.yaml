@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/monostable_commonpartslibrary_diom4427x270n/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/monostable_commonpartslibrary_diom4427x270n/working
-    oomp_doc: footprints/footprints/monostable/CommonPartsLibrary/DIOM4427X270N/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/monostable/CommonPartsLibrary/DIOM4427X270N/working
     oomp_src_flat: footprints_flat/footprints_flat/monostable_commonpartslibrary_diom4427x270n/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/monostable_commonpartslibrary_diom4427x270n/working
-    oomp_src_folder: footprints_folder/footprints_folder/monostable/CommonPartsLibrary/DIOM4427X270N/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/monostable/CommonPartsLibrary/DIOM4427X270N/working
   name: CommonPartsLibrary.pretty
+  oomp:
+    footprint_name: diom4427x270n
+    library_name: commonpartslibrary
+    md5: a21ede30962e848aae07126d19e638f8
+    md5_10: a21ede3096
+    md5_5: a21ed
+    md5_6: a21ede
+    oomp_key: oomp_monostable_commonpartslibrary_diom4427x270n
+    oomp_key_extra: oomp_footprint_monostable_commonpartslibrary_diom4427x270n
+    oomp_key_full: oomp_footprint_monostable_commonpartslibrary_diom4427x270n_a21ede
+    oomp_key_simple: monostable_commonpartslibrary_diom4427x270n
+    original_filename: CommonPartsLibrary.pretty/DIOM4427X270N.kicad_mod
+    owner_name: monostable
   oomp_key: oomp_monostable_commonpartslibrary_diom4427x270n
+  oomp_key_full: oomp_footprint_monostable_commonpartslibrary_diom4427x270n
   oomp_key_simple: monostable_commonpartslibrary_diom4427x270n
   owner: monostable
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/tommueller_kicad_sdiy_pot_alpha_9mm_vertical/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/tommueller_kicad_sdiy_pot_alpha_9mm_vertical/working
-    oomp_doc: footprints/footprints/tommueller/KiCAD-SDIY/pot_alpha-9mm--vertical/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/tommueller/KiCAD-SDIY/pot_alpha-9mm--vertical/working
     oomp_src_flat: footprints_flat/footprints_flat/tommueller_kicad_sdiy_pot_alpha_9mm_vertical/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/tommueller_kicad_sdiy_pot_alpha_9mm_vertical/working
-    oomp_src_folder: footprints_folder/footprints_folder/tommueller/KiCAD-SDIY/pot_alpha-9mm--vertical/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/tommueller/KiCAD-SDIY/pot_alpha-9mm--vertical/working
   name: KiCAD-SDIY.pretty
+  oomp:
+    footprint_name: pot_alpha_9mm_vertical
+    library_name: kicad_sdiy
+    md5: fc44e51a324a63e232b558194e971a71
+    md5_10: fc44e51a32
+    md5_5: fc44e
+    md5_6: fc44e5
+    oomp_key: oomp_tommueller_kicad_sdiy_pot_alpha_9mm_vertical
+    oomp_key_extra: oomp_footprint_tommueller_kicad_sdiy_pot_alpha_9mm_vertical
+    oomp_key_full: oomp_footprint_tommueller_kicad_sdiy_pot_alpha_9mm_vertical_fc44e5
+    oomp_key_simple: tommueller_kicad_sdiy_pot_alpha_9mm_vertical
+    original_filename: KiCAD-SDIY.pretty/pot_alpha-9mm--vertical.kicad_mod
+    owner_name: tommueller
   oomp_key: oomp_tommueller_kicad_sdiy_pot_alpha_9mm_vertical
+  oomp_key_full: oomp_footprint_tommueller_kicad_sdiy_pot_alpha_9mm_vertical
   oomp_key_simple: tommueller_kicad_sdiy_pot_alpha_9mm_vertical
   owner: tommueller
   repo:

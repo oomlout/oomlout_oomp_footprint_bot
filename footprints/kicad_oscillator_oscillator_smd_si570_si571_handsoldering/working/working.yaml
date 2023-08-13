@@ -11,17 +11,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_oscillator_oscillator_smd_si570_si571_handsoldering/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_oscillator_oscillator_smd_si570_si571_handsoldering/working
-    oomp_doc: footprints/footprints/kicad/Oscillator/Oscillator_SMD_SI570_SI571_HandSoldering/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Oscillator/Oscillator_SMD_SI570_SI571_HandSoldering/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_oscillator_oscillator_smd_si570_si571_handsoldering/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_oscillator_oscillator_smd_si570_si571_handsoldering/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Oscillator/Oscillator_SMD_SI570_SI571_HandSoldering/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Oscillator/Oscillator_SMD_SI570_SI571_HandSoldering/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: oscillator_smd_si570_si571_handsoldering
+    library_name: oscillator
+    md5: 4e271eaf6e4b2631b836a557276ea45a
+    md5_10: 4e271eaf6e
+    md5_5: 4e271
+    md5_6: 4e271e
+    oomp_key: oomp_kicad_oscillator_oscillator_smd_si570_si571_handsoldering
+    oomp_key_extra: oomp_footprint_kicad_oscillator_oscillator_smd_si570_si571_handsoldering
+    oomp_key_full: oomp_footprint_kicad_oscillator_oscillator_smd_si570_si571_handsoldering_4e271e
+    oomp_key_simple: kicad_oscillator_oscillator_smd_si570_si571_handsoldering
+    original_filename: libraries/kicad-footprints/Oscillator.pretty/Oscillator_SMD_SI570_SI571_HandSoldering.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_oscillator_oscillator_smd_si570_si571_handsoldering
+  oomp_key_full: oomp_footprint_kicad_oscillator_oscillator_smd_si570_si571_handsoldering
   oomp_key_simple: kicad_oscillator_oscillator_smd_si570_si571_handsoldering
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

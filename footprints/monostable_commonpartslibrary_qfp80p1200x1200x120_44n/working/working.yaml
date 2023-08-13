@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/monostable_commonpartslibrary_qfp80p1200x1200x120_44n/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/monostable_commonpartslibrary_qfp80p1200x1200x120_44n/working
-    oomp_doc: footprints/footprints/monostable/CommonPartsLibrary/QFP80P1200X1200X120-44N/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/monostable/CommonPartsLibrary/QFP80P1200X1200X120-44N/working
     oomp_src_flat: footprints_flat/footprints_flat/monostable_commonpartslibrary_qfp80p1200x1200x120_44n/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/monostable_commonpartslibrary_qfp80p1200x1200x120_44n/working
-    oomp_src_folder: footprints_folder/footprints_folder/monostable/CommonPartsLibrary/QFP80P1200X1200X120-44N/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/monostable/CommonPartsLibrary/QFP80P1200X1200X120-44N/working
   name: CommonPartsLibrary.pretty
+  oomp:
+    footprint_name: qfp80p1200x1200x120_44n
+    library_name: commonpartslibrary
+    md5: 0ebef22f331271eb4c765fbd87da1db4
+    md5_10: 0ebef22f33
+    md5_5: 0ebef
+    md5_6: 0ebef2
+    oomp_key: oomp_monostable_commonpartslibrary_qfp80p1200x1200x120_44n
+    oomp_key_extra: oomp_footprint_monostable_commonpartslibrary_qfp80p1200x1200x120_44n
+    oomp_key_full: oomp_footprint_monostable_commonpartslibrary_qfp80p1200x1200x120_44n_0ebef2
+    oomp_key_simple: monostable_commonpartslibrary_qfp80p1200x1200x120_44n
+    original_filename: CommonPartsLibrary.pretty/QFP80P1200X1200X120-44N.kicad_mod
+    owner_name: monostable
   oomp_key: oomp_monostable_commonpartslibrary_qfp80p1200x1200x120_44n
+  oomp_key_full: oomp_footprint_monostable_commonpartslibrary_qfp80p1200x1200x120_44n
   oomp_key_simple: monostable_commonpartslibrary_qfp80p1200x1200x120_44n
   owner: monostable
   repo:

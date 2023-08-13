@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/alchy/spacestudio_components.pretty
     oomp_bot: footprints/alchy_spacestudio_components_thd_12_1222/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/alchy_spacestudio_components_thd_12_1222/working
-    oomp_doc: footprints/footprints/alchy/spacestudio_components/THD_12-1222/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/alchy/spacestudio_components/THD_12-1222/working
     oomp_src_flat: footprints_flat/footprints_flat/alchy_spacestudio_components_thd_12_1222/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/alchy_spacestudio_components_thd_12_1222/working
-    oomp_src_folder: footprints_folder/footprints_folder/alchy/spacestudio_components/THD_12-1222/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/alchy/spacestudio_components/THD_12-1222/working
   name: spacestudio_components.pretty
+  oomp:
+    footprint_name: thd_12_1222
+    library_name: spacestudio_components
+    md5: 9196c27d8e8573f1df91f7eb099147ff
+    md5_10: 9196c27d8e
+    md5_5: 9196c
+    md5_6: 9196c2
+    oomp_key: oomp_alchy_spacestudio_components_thd_12_1222
+    oomp_key_extra: oomp_footprint_alchy_spacestudio_components_thd_12_1222
+    oomp_key_full: oomp_footprint_alchy_spacestudio_components_thd_12_1222_9196c2
+    oomp_key_simple: alchy_spacestudio_components_thd_12_1222
+    original_filename: spacestudio_components.pretty/THD_12-1222.kicad_mod
+    owner_name: alchy
   oomp_key: oomp_alchy_spacestudio_components_thd_12_1222
+  oomp_key_full: oomp_footprint_alchy_spacestudio_components_thd_12_1222
   oomp_key_simple: alchy_spacestudio_components_thd_12_1222
   owner: alchy
   repo:

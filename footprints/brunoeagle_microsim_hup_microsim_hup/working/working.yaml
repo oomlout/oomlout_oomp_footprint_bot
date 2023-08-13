@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_microsim_hup_microsim_hup/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_microsim_hup_microsim_hup/working
-    oomp_doc: footprints/footprints/brunoeagle/MICROSIM_HUP.kicad_mod/MICROSIM_HUP/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/MICROSIM_HUP.kicad_mod/MICROSIM_HUP/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_microsim_hup_microsim_hup/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_microsim_hup_microsim_hup/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/MICROSIM_HUP.kicad_mod/MICROSIM_HUP/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/MICROSIM_HUP.kicad_mod/MICROSIM_HUP/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: microsim_hup
+    library_name: microsim_hup_kicad_mod
+    md5: cfec262a02d82d65ca1bb33dc83af83b
+    md5_10: cfec262a02
+    md5_5: cfec2
+    md5_6: cfec26
+    oomp_key: oomp_brunoeagle_microsim_hup_microsim_hup
+    oomp_key_extra: oomp_footprint_brunoeagle_microsim_hup_microsim_hup
+    oomp_key_full: oomp_footprint_brunoeagle_microsim_hup_microsim_hup_cfec26
+    oomp_key_simple: brunoeagle_microsim_hup_microsim_hup
+    original_filename: kicad-open-modules/MICROSIM_HUP.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_microsim_hup_microsim_hup
+  oomp_key_full: oomp_footprint_brunoeagle_microsim_hup_microsim_hup
   oomp_key_simple: brunoeagle_microsim_hup_microsim_hup
   owner: brunoeagle
   repo:

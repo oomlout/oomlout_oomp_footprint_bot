@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/KUT-KiCad/KUT_Device.pretty
     oomp_bot: footprints/kut_kicad_kut_device_lm2733_upconvertmodule/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kut_kicad_kut_device_lm2733_upconvertmodule/working
-    oomp_doc: footprints/footprints/KUT-KiCad/KUT_Device/LM2733_UpConvertModule/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/KUT-KiCad/KUT_Device/LM2733_UpConvertModule/working
     oomp_src_flat: footprints_flat/footprints_flat/kut_kicad_kut_device_lm2733_upconvertmodule/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kut_kicad_kut_device_lm2733_upconvertmodule/working
-    oomp_src_folder: footprints_folder/footprints_folder/KUT-KiCad/KUT_Device/LM2733_UpConvertModule/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/KUT-KiCad/KUT_Device/LM2733_UpConvertModule/working
   name: KUT_Device.pretty
+  oomp:
+    footprint_name: lm2733_upconvertmodule
+    library_name: kut_device
+    md5: 81cd4c3882425055748e2302767b20e1
+    md5_10: 81cd4c3882
+    md5_5: 81cd4
+    md5_6: 81cd4c
+    oomp_key: oomp_kut_kicad_kut_device_lm2733_upconvertmodule
+    oomp_key_extra: oomp_footprint_kut_kicad_kut_device_lm2733_upconvertmodule
+    oomp_key_full: oomp_footprint_kut_kicad_kut_device_lm2733_upconvertmodule_81cd4c
+    oomp_key_simple: kut_kicad_kut_device_lm2733_upconvertmodule
+    original_filename: KUT_Device.pretty/LM2733_UpConvertModule.kicad_mod
+    owner_name: kut_kicad
   oomp_key: oomp_kut_kicad_kut_device_lm2733_upconvertmodule
+  oomp_key_full: oomp_footprint_kut_kicad_kut_device_lm2733_upconvertmodule
   oomp_key_simple: kut_kicad_kut_device_lm2733_upconvertmodule
   owner: KUT-KiCad
   repo:

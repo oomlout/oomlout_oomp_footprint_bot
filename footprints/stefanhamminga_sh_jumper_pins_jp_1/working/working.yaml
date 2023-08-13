@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/stefanhamminga_sh_jumper_pins_jp_1/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stefanhamminga_sh_jumper_pins_jp_1/working
-    oomp_doc: footprints/footprints/StefanHamminga/SH_Jumper_Pins/JP-1/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/StefanHamminga/SH_Jumper_Pins/JP-1/working
     oomp_src_flat: footprints_flat/footprints_flat/stefanhamminga_sh_jumper_pins_jp_1/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/stefanhamminga_sh_jumper_pins_jp_1/working
-    oomp_src_folder: footprints_folder/footprints_folder/StefanHamminga/SH_Jumper_Pins/JP-1/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/StefanHamminga/SH_Jumper_Pins/JP-1/working
   name: SH_Jumper_Pins.pretty
+  oomp:
+    footprint_name: jp_1
+    library_name: sh_jumper_pins
+    md5: 3d3f96bf8653cb6c5b22206e3c7b3c87
+    md5_10: 3d3f96bf86
+    md5_5: 3d3f9
+    md5_6: 3d3f96
+    oomp_key: oomp_stefanhamminga_sh_jumper_pins_jp_1
+    oomp_key_extra: oomp_footprint_stefanhamminga_sh_jumper_pins_jp_1
+    oomp_key_full: oomp_footprint_stefanhamminga_sh_jumper_pins_jp_1_3d3f96
+    oomp_key_simple: stefanhamminga_sh_jumper_pins_jp_1
+    original_filename: SH_Jumper_Pins.pretty/JP-1.kicad_mod
+    owner_name: stefanhamminga
   oomp_key: oomp_stefanhamminga_sh_jumper_pins_jp_1
+  oomp_key_full: oomp_footprint_stefanhamminga_sh_jumper_pins_jp_1
   oomp_key_simple: stefanhamminga_sh_jumper_pins_jp_1
   owner: StefanHamminga
   repo:

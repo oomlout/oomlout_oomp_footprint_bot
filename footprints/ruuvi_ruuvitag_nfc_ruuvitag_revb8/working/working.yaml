@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/ruuvi_ruuvitag_nfc_ruuvitag_revb8/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ruuvi_ruuvitag_nfc_ruuvitag_revb8/working
-    oomp_doc: footprints/footprints/ruuvi/RuuviTag/NFC_RUUVITAG_REVB8/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ruuvi/RuuviTag/NFC_RUUVITAG_REVB8/working
     oomp_src_flat: footprints_flat/footprints_flat/ruuvi_ruuvitag_nfc_ruuvitag_revb8/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ruuvi_ruuvitag_nfc_ruuvitag_revb8/working
-    oomp_src_folder: footprints_folder/footprints_folder/ruuvi/RuuviTag/NFC_RUUVITAG_REVB8/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ruuvi/RuuviTag/NFC_RUUVITAG_REVB8/working
   name: kicad-library
+  oomp:
+    footprint_name: nfc_ruuvitag_revb8
+    library_name: ruuvitag
+    md5: de804ebb5f7308a04519773ff7874eb7
+    md5_10: de804ebb5f
+    md5_5: de804
+    md5_6: de804e
+    oomp_key: oomp_ruuvi_ruuvitag_nfc_ruuvitag_revb8
+    oomp_key_extra: oomp_footprint_ruuvi_ruuvitag_nfc_ruuvitag_revb8
+    oomp_key_full: oomp_footprint_ruuvi_ruuvitag_nfc_ruuvitag_revb8_de804e
+    oomp_key_simple: ruuvi_ruuvitag_nfc_ruuvitag_revb8
+    original_filename: kicad-library/RuuviTag.pretty/NFC_RUUVITAG_REVB8.kicad_mod
+    owner_name: ruuvi
   oomp_key: oomp_ruuvi_ruuvitag_nfc_ruuvitag_revb8
+  oomp_key_full: oomp_footprint_ruuvi_ruuvitag_nfc_ruuvitag_revb8
   oomp_key_simple: ruuvi_ruuvitag_nfc_ruuvitag_revb8
   owner: ruuvi
   repo:

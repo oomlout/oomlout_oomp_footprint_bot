@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/electroniccats_signalcommunications_signalcommunications_we_gdti_ep7/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/electroniccats_signalcommunications_signalcommunications_we_gdti_ep7/working
-    oomp_doc: footprints/footprints/ElectronicCats/SignalCommunications/SignalCommunications-WE-GDTI_EP7/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ElectronicCats/SignalCommunications/SignalCommunications-WE-GDTI_EP7/working
     oomp_src_flat: footprints_flat/footprints_flat/electroniccats_signalcommunications_signalcommunications_we_gdti_ep7/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/electroniccats_signalcommunications_signalcommunications_we_gdti_ep7/working
-    oomp_src_folder: footprints_folder/footprints_folder/ElectronicCats/SignalCommunications/SignalCommunications-WE-GDTI_EP7/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ElectronicCats/SignalCommunications/SignalCommunications-WE-GDTI_EP7/working
   name: ComponentLibrariesKicadWurthElektronik
+  oomp:
+    footprint_name: signalcommunications_we_gdti_ep7
+    library_name: signalcommunications
+    md5: b96c6d3b6b632fe4e4f5f1d1945de876
+    md5_10: b96c6d3b6b
+    md5_5: b96c6
+    md5_6: b96c6d
+    oomp_key: oomp_electroniccats_signalcommunications_signalcommunications_we_gdti_ep7
+    oomp_key_extra: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_gdti_ep7
+    oomp_key_full: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_gdti_ep7_b96c6d
+    oomp_key_simple: electroniccats_signalcommunications_signalcommunications_we_gdti_ep7
+    original_filename: ComponentLibrariesKicadWurthElektronik/SIGNAL-COMMUNICATIONS-rev18a/SignalCommunications.pretty/SignalCommunications-WE-GDTI_EP7.kicad_mod
+    owner_name: electroniccats
   oomp_key: oomp_electroniccats_signalcommunications_signalcommunications_we_gdti_ep7
+  oomp_key_full: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_gdti_ep7
   oomp_key_simple: electroniccats_signalcommunications_signalcommunications_we_gdti_ep7
   owner: ElectronicCats
   repo:

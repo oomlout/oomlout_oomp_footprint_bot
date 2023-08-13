@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/monostable_commonpartslibrary_oscsc500x320x105_4n/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/monostable_commonpartslibrary_oscsc500x320x105_4n/working
-    oomp_doc: footprints/footprints/monostable/CommonPartsLibrary/OSCSC500X320X105-4N/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/monostable/CommonPartsLibrary/OSCSC500X320X105-4N/working
     oomp_src_flat: footprints_flat/footprints_flat/monostable_commonpartslibrary_oscsc500x320x105_4n/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/monostable_commonpartslibrary_oscsc500x320x105_4n/working
-    oomp_src_folder: footprints_folder/footprints_folder/monostable/CommonPartsLibrary/OSCSC500X320X105-4N/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/monostable/CommonPartsLibrary/OSCSC500X320X105-4N/working
   name: CommonPartsLibrary.pretty
+  oomp:
+    footprint_name: oscsc500x320x105_4n
+    library_name: commonpartslibrary
+    md5: e0821a677295c4d68ddef0f6546ccd4e
+    md5_10: e0821a6772
+    md5_5: e0821
+    md5_6: e0821a
+    oomp_key: oomp_monostable_commonpartslibrary_oscsc500x320x105_4n
+    oomp_key_extra: oomp_footprint_monostable_commonpartslibrary_oscsc500x320x105_4n
+    oomp_key_full: oomp_footprint_monostable_commonpartslibrary_oscsc500x320x105_4n_e0821a
+    oomp_key_simple: monostable_commonpartslibrary_oscsc500x320x105_4n
+    original_filename: CommonPartsLibrary.pretty/OSCSC500X320X105-4N.kicad_mod
+    owner_name: monostable
   oomp_key: oomp_monostable_commonpartslibrary_oscsc500x320x105_4n
+  oomp_key_full: oomp_footprint_monostable_commonpartslibrary_oscsc500x320x105_4n
   oomp_key_simple: monostable_commonpartslibrary_oscsc500x320x105_4n
   owner: monostable
   repo:

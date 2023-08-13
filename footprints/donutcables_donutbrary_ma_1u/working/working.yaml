@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/donutcables_donutbrary_ma_1u/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/donutcables_donutbrary_ma_1u/working
-    oomp_doc: footprints/footprints/DonutCables/donutbrary/MA_1u/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/DonutCables/donutbrary/MA_1u/working
     oomp_src_flat: footprints_flat/footprints_flat/donutcables_donutbrary_ma_1u/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/donutcables_donutbrary_ma_1u/working
-    oomp_src_folder: footprints_folder/footprints_folder/DonutCables/donutbrary/MA_1u/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/DonutCables/donutbrary/MA_1u/working
   name: donutbrary.pretty
+  oomp:
+    footprint_name: ma_1u
+    library_name: donutbrary
+    md5: c1b9f9f0b3afa7694d1423cc1d6761c8
+    md5_10: c1b9f9f0b3
+    md5_5: c1b9f
+    md5_6: c1b9f9
+    oomp_key: oomp_donutcables_donutbrary_ma_1u
+    oomp_key_extra: oomp_footprint_donutcables_donutbrary_ma_1u
+    oomp_key_full: oomp_footprint_donutcables_donutbrary_ma_1u_c1b9f9
+    oomp_key_simple: donutcables_donutbrary_ma_1u
+    original_filename: donutbrary.pretty/MA_1u.kicad_mod
+    owner_name: donutcables
   oomp_key: oomp_donutcables_donutbrary_ma_1u
+  oomp_key_full: oomp_footprint_donutcables_donutbrary_ma_1u
   oomp_key_simple: donutcables_donutbrary_ma_1u
   owner: DonutCables
   repo:

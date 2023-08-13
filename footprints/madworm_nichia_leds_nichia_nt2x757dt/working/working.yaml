@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/madworm/Nichia-LEDs.pretty
     oomp_bot: footprints/madworm_nichia_leds_nichia_nt2x757dt/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/madworm_nichia_leds_nichia_nt2x757dt/working
-    oomp_doc: footprints/footprints/madworm/Nichia-LEDs/Nichia_NT2x757DT/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/madworm/Nichia-LEDs/Nichia_NT2x757DT/working
     oomp_src_flat: footprints_flat/footprints_flat/madworm_nichia_leds_nichia_nt2x757dt/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/madworm_nichia_leds_nichia_nt2x757dt/working
-    oomp_src_folder: footprints_folder/footprints_folder/madworm/Nichia-LEDs/Nichia_NT2x757DT/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/madworm/Nichia-LEDs/Nichia_NT2x757DT/working
   name: Nichia-LEDs.pretty
+  oomp:
+    footprint_name: nichia_nt2x757dt
+    library_name: nichia_leds
+    md5: 4fc7dcd3201da4cf61c86fa6d6173255
+    md5_10: 4fc7dcd320
+    md5_5: 4fc7d
+    md5_6: 4fc7dc
+    oomp_key: oomp_madworm_nichia_leds_nichia_nt2x757dt
+    oomp_key_extra: oomp_footprint_madworm_nichia_leds_nichia_nt2x757dt
+    oomp_key_full: oomp_footprint_madworm_nichia_leds_nichia_nt2x757dt_4fc7dc
+    oomp_key_simple: madworm_nichia_leds_nichia_nt2x757dt
+    original_filename: Nichia-LEDs.pretty/Nichia_NT2x757DT.kicad_mod
+    owner_name: madworm
   oomp_key: oomp_madworm_nichia_leds_nichia_nt2x757dt
+  oomp_key_full: oomp_footprint_madworm_nichia_leds_nichia_nt2x757dt
   oomp_key_simple: madworm_nichia_leds_nichia_nt2x757dt
   owner: madworm
   repo:

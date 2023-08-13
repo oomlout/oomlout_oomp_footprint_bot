@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/Iangitpers/4a
     oomp_bot: footprints/iangitpers_symbol_rohs_logo_40mm_silkscreen/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/iangitpers_symbol_rohs_logo_40mm_silkscreen/working
-    oomp_doc: footprints/footprints/Iangitpers/Symbol/RoHS-Logo_40mm_SilkScreen/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Iangitpers/Symbol/RoHS-Logo_40mm_SilkScreen/working
     oomp_src_flat: footprints_flat/footprints_flat/iangitpers_symbol_rohs_logo_40mm_silkscreen/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/iangitpers_symbol_rohs_logo_40mm_silkscreen/working
-    oomp_src_folder: footprints_folder/footprints_folder/Iangitpers/Symbol/RoHS-Logo_40mm_SilkScreen/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Iangitpers/Symbol/RoHS-Logo_40mm_SilkScreen/working
   name: 4a
+  oomp:
+    footprint_name: rohs_logo_40mm_silkscreen
+    library_name: symbol
+    md5: c5cd214245d88067248a14fc9cac3df1
+    md5_10: c5cd214245
+    md5_5: c5cd2
+    md5_6: c5cd21
+    oomp_key: oomp_iangitpers_symbol_rohs_logo_40mm_silkscreen
+    oomp_key_extra: oomp_footprint_iangitpers_symbol_rohs_logo_40mm_silkscreen
+    oomp_key_full: oomp_footprint_iangitpers_symbol_rohs_logo_40mm_silkscreen_c5cd21
+    oomp_key_simple: iangitpers_symbol_rohs_logo_40mm_silkscreen
+    original_filename: 4a/Symbol.pretty/RoHS-Logo_40mm_SilkScreen.kicad_mod
+    owner_name: iangitpers
   oomp_key: oomp_iangitpers_symbol_rohs_logo_40mm_silkscreen
+  oomp_key_full: oomp_footprint_iangitpers_symbol_rohs_logo_40mm_silkscreen
   oomp_key_simple: iangitpers_symbol_rohs_logo_40mm_silkscreen
   owner: Iangitpers
   repo:

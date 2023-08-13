@@ -1,5 +1,8 @@
-- error: Expression does not have the correct type
-  file: homebrew.pretty/SS-12D03-G5.kicad_mod
+- file: homebrew.pretty/SS-12D03-G5.kicad_mod
+  footprint:
+    description: SPDT switch, 0.3A, LCSC C698226
+    libraryLink: SS-12D03-G5
+    number_of_pads: 3
   footprint_library_directory: footprint_library_owner/candykingdom_homebrew.pretty
   footprint_library_directory_flat: footprints_flat/candykingdom_homebrew_ss_12d03_g5/working
   github_path: http://github.com/candykingdom/homebrew.pretty/blob/master/SS-12D03-G5.kicad_mod
@@ -9,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/candykingdom_homebrew_ss_12d03_g5/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/candykingdom_homebrew_ss_12d03_g5/working
-    oomp_doc: footprints/footprints/candykingdom/homebrew/SS-12D03-G5/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/candykingdom/homebrew/SS-12D03-G5/working
     oomp_src_flat: footprints_flat/footprints_flat/candykingdom_homebrew_ss_12d03_g5/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/candykingdom_homebrew_ss_12d03_g5/working
-    oomp_src_folder: footprints_folder/footprints_folder/candykingdom/homebrew/SS-12D03-G5/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/candykingdom/homebrew/SS-12D03-G5/working
   name: homebrew.pretty
+  oomp:
+    footprint_name: ss_12d03_g5
+    library_name: homebrew
+    md5: 56a3e9d60b9d76d38c53047ee328f6d8
+    md5_10: 56a3e9d60b
+    md5_5: 56a3e
+    md5_6: 56a3e9
+    oomp_key: oomp_candykingdom_homebrew_ss_12d03_g5
+    oomp_key_extra: oomp_footprint_candykingdom_homebrew_ss_12d03_g5
+    oomp_key_full: oomp_footprint_candykingdom_homebrew_ss_12d03_g5_56a3e9
+    oomp_key_simple: candykingdom_homebrew_ss_12d03_g5
+    original_filename: homebrew.pretty/SS-12D03-G5.kicad_mod
+    owner_name: candykingdom
   oomp_key: oomp_candykingdom_homebrew_ss_12d03_g5
+  oomp_key_full: oomp_footprint_candykingdom_homebrew_ss_12d03_g5
   oomp_key_simple: candykingdom_homebrew_ss_12d03_g5
   owner: candykingdom
   repo:

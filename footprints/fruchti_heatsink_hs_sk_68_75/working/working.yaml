@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/fruchti_heatsink_hs_sk_68_75/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/fruchti_heatsink_hs_sk_68_75/working
-    oomp_doc: footprints/footprints/fruchti/heatsink/HS_SK-68-75/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/fruchti/heatsink/HS_SK-68-75/working
     oomp_src_flat: footprints_flat/footprints_flat/fruchti_heatsink_hs_sk_68_75/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/fruchti_heatsink_hs_sk_68_75/working
-    oomp_src_folder: footprints_folder/footprints_folder/fruchti/heatsink/HS_SK-68-75/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/fruchti/heatsink/HS_SK-68-75/working
   name: fruchtilib
+  oomp:
+    footprint_name: hs_sk_68_75
+    library_name: heatsink
+    md5: 867dcd69f4494f2813cda37c11a66368
+    md5_10: 867dcd69f4
+    md5_5: 867dc
+    md5_6: 867dcd
+    oomp_key: oomp_fruchti_heatsink_hs_sk_68_75
+    oomp_key_extra: oomp_footprint_fruchti_heatsink_hs_sk_68_75
+    oomp_key_full: oomp_footprint_fruchti_heatsink_hs_sk_68_75_867dcd
+    oomp_key_simple: fruchti_heatsink_hs_sk_68_75
+    original_filename: fruchtilib/mod/heatsink.pretty/HS_SK-68-75.kicad_mod
+    owner_name: fruchti
   oomp_key: oomp_fruchti_heatsink_hs_sk_68_75
+  oomp_key_full: oomp_footprint_fruchti_heatsink_hs_sk_68_75
   oomp_key_simple: fruchti_heatsink_hs_sk_68_75
   owner: fruchti
   repo:

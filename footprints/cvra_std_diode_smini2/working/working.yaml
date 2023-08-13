@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cvra_std_diode_smini2/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cvra_std_diode_smini2/working
-    oomp_doc: footprints/footprints/cvra/_std/Diode_SMini2/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cvra/_std/Diode_SMini2/working
     oomp_src_flat: footprints_flat/footprints_flat/cvra_std_diode_smini2/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cvra_std_diode_smini2/working
-    oomp_src_folder: footprints_folder/footprints_folder/cvra/_std/Diode_SMini2/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cvra/_std/Diode_SMini2/working
   name: kicad-lib
+  oomp:
+    footprint_name: diode_smini2
+    library_name: _std
+    md5: 7a70df1b46d34b36e67a90a71c61e24e
+    md5_10: 7a70df1b46
+    md5_5: 7a70d
+    md5_6: 7a70df
+    oomp_key: oomp_cvra_std_diode_smini2
+    oomp_key_extra: oomp_footprint_cvra_std_diode_smini2
+    oomp_key_full: oomp_footprint_cvra_std_diode_smini2_7a70df
+    oomp_key_simple: cvra_std_diode_smini2
+    original_filename: kicad-lib/footprints/_std.pretty/Diode_SMini2.kicad_mod
+    owner_name: cvra
   oomp_key: oomp_cvra_std_diode_smini2
+  oomp_key_full: oomp_footprint_cvra_std_diode_smini2
   oomp_key_simple: cvra_std_diode_smini2
   owner: cvra
   repo:

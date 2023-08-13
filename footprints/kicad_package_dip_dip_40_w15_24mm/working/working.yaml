@@ -12,17 +12,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_package_dip_dip_40_w15_24mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_package_dip_dip_40_w15_24mm/working
-    oomp_doc: footprints/footprints/kicad/Package_DIP/DIP-40_W15.24mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Package_DIP/DIP-40_W15.24mm/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_package_dip_dip_40_w15_24mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_package_dip_dip_40_w15_24mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Package_DIP/DIP-40_W15.24mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Package_DIP/DIP-40_W15.24mm/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: dip_40_w15_24mm
+    library_name: package_dip
+    md5: 2c088168ec557f2247a6fe91c64dcdfe
+    md5_10: 2c088168ec
+    md5_5: 2c088
+    md5_6: 2c0881
+    oomp_key: oomp_kicad_package_dip_dip_40_w15_24mm
+    oomp_key_extra: oomp_footprint_kicad_package_dip_dip_40_w15_24mm
+    oomp_key_full: oomp_footprint_kicad_package_dip_dip_40_w15_24mm_2c0881
+    oomp_key_simple: kicad_package_dip_dip_40_w15_24mm
+    original_filename: libraries/kicad-footprints/Package_DIP.pretty/DIP-40_W15.24mm.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_package_dip_dip_40_w15_24mm
+  oomp_key_full: oomp_footprint_kicad_package_dip_dip_40_w15_24mm
   oomp_key_simple: kicad_package_dip_dip_40_w15_24mm
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

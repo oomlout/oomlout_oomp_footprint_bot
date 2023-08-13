@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/greatscottgadgets_gsg_modules_sky13374_397lf/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/greatscottgadgets_gsg_modules_sky13374_397lf/working
-    oomp_doc: footprints/footprints/greatscottgadgets/gsg-modules/SKY13374-397LF/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/greatscottgadgets/gsg-modules/SKY13374-397LF/working
     oomp_src_flat: footprints_flat/footprints_flat/greatscottgadgets_gsg_modules_sky13374_397lf/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/greatscottgadgets_gsg_modules_sky13374_397lf/working
-    oomp_src_folder: footprints_folder/footprints_folder/greatscottgadgets/gsg-modules/SKY13374-397LF/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/greatscottgadgets/gsg-modules/SKY13374-397LF/working
   name: gsg-kicad-lib
+  oomp:
+    footprint_name: sky13374_397lf
+    library_name: gsg_modules
+    md5: 7074d2cf61042bf31e38826627ba22ae
+    md5_10: 7074d2cf61
+    md5_5: 7074d
+    md5_6: 7074d2
+    oomp_key: oomp_greatscottgadgets_gsg_modules_sky13374_397lf
+    oomp_key_extra: oomp_footprint_greatscottgadgets_gsg_modules_sky13374_397lf
+    oomp_key_full: oomp_footprint_greatscottgadgets_gsg_modules_sky13374_397lf_7074d2
+    oomp_key_simple: greatscottgadgets_gsg_modules_sky13374_397lf
+    original_filename: gsg-kicad-lib/gsg-modules.pretty/SKY13374-397LF.kicad_mod
+    owner_name: greatscottgadgets
   oomp_key: oomp_greatscottgadgets_gsg_modules_sky13374_397lf
+  oomp_key_full: oomp_footprint_greatscottgadgets_gsg_modules_sky13374_397lf
   oomp_key_simple: greatscottgadgets_gsg_modules_sky13374_397lf
   owner: greatscottgadgets
   repo:

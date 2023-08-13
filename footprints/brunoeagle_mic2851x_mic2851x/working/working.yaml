@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_mic2851x_mic2851x/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_mic2851x_mic2851x/working
-    oomp_doc: footprints/footprints/brunoeagle/MIC2851x.kicad_mod/MIC2851x/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/MIC2851x.kicad_mod/MIC2851x/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_mic2851x_mic2851x/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_mic2851x_mic2851x/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/MIC2851x.kicad_mod/MIC2851x/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/MIC2851x.kicad_mod/MIC2851x/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: mic2851x
+    library_name: mic2851x_kicad_mod
+    md5: 0166a2f5f6f05288c997e385cd8efed0
+    md5_10: 0166a2f5f6
+    md5_5: 0166a
+    md5_6: 0166a2
+    oomp_key: oomp_brunoeagle_mic2851x_mic2851x
+    oomp_key_extra: oomp_footprint_brunoeagle_mic2851x_mic2851x
+    oomp_key_full: oomp_footprint_brunoeagle_mic2851x_mic2851x_0166a2
+    oomp_key_simple: brunoeagle_mic2851x_mic2851x
+    original_filename: kicad-open-modules/MIC2851x.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_mic2851x_mic2851x
+  oomp_key_full: oomp_footprint_brunoeagle_mic2851x_mic2851x
   oomp_key_simple: brunoeagle_mic2851x_mic2851x
   owner: brunoeagle
   repo:

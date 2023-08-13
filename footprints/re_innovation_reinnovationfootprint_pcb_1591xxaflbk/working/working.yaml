@@ -13,14 +13,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/re_innovation_reinnovationfootprint_pcb_1591xxaflbk/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/re_innovation_reinnovationfootprint_pcb_1591xxaflbk/working
-    oomp_doc: footprints/footprints/re-innovation/REInnovationFootprint/PCB_1591XXAFLBK/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/re-innovation/REInnovationFootprint/PCB_1591XXAFLBK/working
     oomp_src_flat: footprints_flat/footprints_flat/re_innovation_reinnovationfootprint_pcb_1591xxaflbk/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/re_innovation_reinnovationfootprint_pcb_1591xxaflbk/working
-    oomp_src_folder: footprints_folder/footprints_folder/re-innovation/REInnovationFootprint/PCB_1591XXAFLBK/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/re-innovation/REInnovationFootprint/PCB_1591XXAFLBK/working
   name: kicad_reinnovation
+  oomp:
+    footprint_name: pcb_1591xxaflbk
+    library_name: reinnovationfootprint
+    md5: 128237a3b9d47176311343fa5e30a0a2
+    md5_10: 128237a3b9
+    md5_5: '12823'
+    md5_6: '128237'
+    oomp_key: oomp_re_innovation_reinnovationfootprint_pcb_1591xxaflbk
+    oomp_key_extra: oomp_footprint_re_innovation_reinnovationfootprint_pcb_1591xxaflbk
+    oomp_key_full: oomp_footprint_re_innovation_reinnovationfootprint_pcb_1591xxaflbk_128237
+    oomp_key_simple: re_innovation_reinnovationfootprint_pcb_1591xxaflbk
+    original_filename: kicad_reinnovation/KiCAD PRETTY/REInnovationFootprint.pretty/PCB_1591XXAFLBK.kicad_mod
+    owner_name: re_innovation
   oomp_key: oomp_re_innovation_reinnovationfootprint_pcb_1591xxaflbk
+  oomp_key_full: oomp_footprint_re_innovation_reinnovationfootprint_pcb_1591xxaflbk
   oomp_key_simple: re_innovation_reinnovationfootprint_pcb_1591xxaflbk
   owner: re-innovation
   repo:

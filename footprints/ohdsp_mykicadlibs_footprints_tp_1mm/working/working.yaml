@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/ohdsp_mykicadlibs_footprints_tp_1mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ohdsp_mykicadlibs_footprints_tp_1mm/working
-    oomp_doc: footprints/footprints/ohdsp/MyKiCadLibs-Footprints/TP-1mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ohdsp/MyKiCadLibs-Footprints/TP-1mm/working
     oomp_src_flat: footprints_flat/footprints_flat/ohdsp_mykicadlibs_footprints_tp_1mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ohdsp_mykicadlibs_footprints_tp_1mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/ohdsp/MyKiCadLibs-Footprints/TP-1mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ohdsp/MyKiCadLibs-Footprints/TP-1mm/working
   name: KiCad-Libs
+  oomp:
+    footprint_name: tp_1mm
+    library_name: mykicadlibs_footprints
+    md5: 09407cfa6ddd5f22620db4a7cc6cbbc0
+    md5_10: 09407cfa6d
+    md5_5: 09407
+    md5_6: 09407c
+    oomp_key: oomp_ohdsp_mykicadlibs_footprints_tp_1mm
+    oomp_key_extra: oomp_footprint_ohdsp_mykicadlibs_footprints_tp_1mm
+    oomp_key_full: oomp_footprint_ohdsp_mykicadlibs_footprints_tp_1mm_09407c
+    oomp_key_simple: ohdsp_mykicadlibs_footprints_tp_1mm
+    original_filename: KiCad-Libs/MyKiCadLibs-Footprints.pretty/TP-1mm.kicad_mod
+    owner_name: ohdsp
   oomp_key: oomp_ohdsp_mykicadlibs_footprints_tp_1mm
+  oomp_key_full: oomp_footprint_ohdsp_mykicadlibs_footprints_tp_1mm
   oomp_key_simple: ohdsp_mykicadlibs_footprints_tp_1mm
   owner: ohdsp
   repo:

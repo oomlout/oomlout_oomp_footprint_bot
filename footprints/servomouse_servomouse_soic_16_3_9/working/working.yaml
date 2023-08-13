@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/servomouse_servomouse_soic_16_3_9/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/servomouse_servomouse_soic_16_3_9/working
-    oomp_doc: footprints/footprints/servomouse/servomouse/SOIC-16_3.9/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/servomouse/servomouse/SOIC-16_3.9/working
     oomp_src_flat: footprints_flat/footprints_flat/servomouse_servomouse_soic_16_3_9/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/servomouse_servomouse_soic_16_3_9/working
-    oomp_src_folder: footprints_folder/footprints_folder/servomouse/servomouse/SOIC-16_3.9/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/servomouse/servomouse/SOIC-16_3.9/working
   name: servomouse.pretty
+  oomp:
+    footprint_name: soic_16_3_9
+    library_name: servomouse
+    md5: 5c9ba4d87fcbd75706db3260c730bc9a
+    md5_10: 5c9ba4d87f
+    md5_5: 5c9ba
+    md5_6: 5c9ba4
+    oomp_key: oomp_servomouse_servomouse_soic_16_3_9
+    oomp_key_extra: oomp_footprint_servomouse_servomouse_soic_16_3_9
+    oomp_key_full: oomp_footprint_servomouse_servomouse_soic_16_3_9_5c9ba4
+    oomp_key_simple: servomouse_servomouse_soic_16_3_9
+    original_filename: servomouse.pretty/SOIC-16_3.9.kicad_mod
+    owner_name: servomouse
   oomp_key: oomp_servomouse_servomouse_soic_16_3_9
+  oomp_key_full: oomp_footprint_servomouse_servomouse_soic_16_3_9
   oomp_key_simple: servomouse_servomouse_soic_16_3_9
   owner: servomouse
   repo:

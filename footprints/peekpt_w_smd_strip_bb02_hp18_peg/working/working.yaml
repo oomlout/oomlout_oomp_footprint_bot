@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/peekpt_w_smd_strip_bb02_hp18_peg/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/peekpt_w_smd_strip_bb02_hp18_peg/working
-    oomp_doc: footprints/footprints/peekpt/w_smd_strip/bb02-hp18_peg/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/peekpt/w_smd_strip/bb02-hp18_peg/working
     oomp_src_flat: footprints_flat/footprints_flat/peekpt_w_smd_strip_bb02_hp18_peg/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/peekpt_w_smd_strip_bb02_hp18_peg/working
-    oomp_src_folder: footprints_folder/footprints_folder/peekpt/w_smd_strip/bb02-hp18_peg/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/peekpt/w_smd_strip/bb02-hp18_peg/working
   name: kicad_smisioto
+  oomp:
+    footprint_name: bb02_hp18_peg
+    library_name: w_smd_strip
+    md5: 33b12b4a64d6cddcbb5289b9e877a6b8
+    md5_10: 33b12b4a64
+    md5_5: 33b12
+    md5_6: 33b12b
+    oomp_key: oomp_peekpt_w_smd_strip_bb02_hp18_peg
+    oomp_key_extra: oomp_footprint_peekpt_w_smd_strip_bb02_hp18_peg
+    oomp_key_full: oomp_footprint_peekpt_w_smd_strip_bb02_hp18_peg_33b12b
+    oomp_key_simple: peekpt_w_smd_strip_bb02_hp18_peg
+    original_filename: kicad_smisioto/modules/walter/w_smd_strip.pretty/bb02-hp18_peg.kicad_mod
+    owner_name: peekpt
   oomp_key: oomp_peekpt_w_smd_strip_bb02_hp18_peg
+  oomp_key_full: oomp_footprint_peekpt_w_smd_strip_bb02_hp18_peg
   oomp_key_simple: peekpt_w_smd_strip_bb02_hp18_peg
   owner: peekpt
   repo:

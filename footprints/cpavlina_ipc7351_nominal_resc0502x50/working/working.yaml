@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cpavlina_ipc7351_nominal_resc0502x50/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cpavlina_ipc7351_nominal_resc0502x50/working
-    oomp_doc: footprints/footprints/cpavlina/IPC7351-Nominal/RESC0502X50/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cpavlina/IPC7351-Nominal/RESC0502X50/working
     oomp_src_flat: footprints_flat/footprints_flat/cpavlina_ipc7351_nominal_resc0502x50/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cpavlina_ipc7351_nominal_resc0502x50/working
-    oomp_src_folder: footprints_folder/footprints_folder/cpavlina/IPC7351-Nominal/RESC0502X50/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cpavlina/IPC7351-Nominal/RESC0502X50/working
   name: kicad-pcblib
+  oomp:
+    footprint_name: resc0502x50
+    library_name: ipc7351_nominal
+    md5: fe09d5f11fb538c0144e7fe21f4baf78
+    md5_10: fe09d5f11f
+    md5_5: fe09d
+    md5_6: fe09d5
+    oomp_key: oomp_cpavlina_ipc7351_nominal_resc0502x50
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_nominal_resc0502x50
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_resc0502x50_fe09d5
+    oomp_key_simple: cpavlina_ipc7351_nominal_resc0502x50
+    original_filename: kicad-pcblib/IPC7351-Nominal.pretty/RESC0502X50.kicad_mod
+    owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_nominal_resc0502x50
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_resc0502x50
   oomp_key_simple: cpavlina_ipc7351_nominal_resc0502x50
   owner: cpavlina
   repo:

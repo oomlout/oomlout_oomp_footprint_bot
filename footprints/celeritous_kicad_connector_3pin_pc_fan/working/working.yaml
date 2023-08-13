@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/celeritous_kicad_connector_3pin_pc_fan/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/celeritous_kicad_connector_3pin_pc_fan/working
-    oomp_doc: footprints/footprints/celeritous/KiCad/Connector_3Pin_PC_Fan/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/celeritous/KiCad/Connector_3Pin_PC_Fan/working
     oomp_src_flat: footprints_flat/footprints_flat/celeritous_kicad_connector_3pin_pc_fan/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/celeritous_kicad_connector_3pin_pc_fan/working
-    oomp_src_folder: footprints_folder/footprints_folder/celeritous/KiCad/Connector_3Pin_PC_Fan/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/celeritous/KiCad/Connector_3Pin_PC_Fan/working
   name: KiCad.pretty
+  oomp:
+    footprint_name: connector_3pin_pc_fan
+    library_name: kicad
+    md5: 413998fe54bc76f0b794048fe4ba71c4
+    md5_10: 413998fe54
+    md5_5: '41399'
+    md5_6: '413998'
+    oomp_key: oomp_celeritous_kicad_connector_3pin_pc_fan
+    oomp_key_extra: oomp_footprint_celeritous_kicad_connector_3pin_pc_fan
+    oomp_key_full: oomp_footprint_celeritous_kicad_connector_3pin_pc_fan_413998
+    oomp_key_simple: celeritous_kicad_connector_3pin_pc_fan
+    original_filename: KiCad.pretty/Connector_3Pin_PC_Fan.kicad_mod
+    owner_name: celeritous
   oomp_key: oomp_celeritous_kicad_connector_3pin_pc_fan
+  oomp_key_full: oomp_footprint_celeritous_kicad_connector_3pin_pc_fan
   oomp_key_simple: celeritous_kicad_connector_3pin_pc_fan
   owner: celeritous
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pelrun_w_smd_cap_c_tant_u/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pelrun_w_smd_cap_c_tant_u/working
-    oomp_doc: footprints/footprints/pelrun/w_smd_cap/c_tant_U/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/pelrun/w_smd_cap/c_tant_U/working
     oomp_src_flat: footprints_flat/footprints_flat/pelrun_w_smd_cap_c_tant_u/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pelrun_w_smd_cap_c_tant_u/working
-    oomp_src_folder: footprints_folder/footprints_folder/pelrun/w_smd_cap/c_tant_U/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/pelrun/w_smd_cap/c_tant_U/working
   name: libKiCad
+  oomp:
+    footprint_name: c_tant_u
+    library_name: w_smd_cap
+    md5: fd8f52943a2e8467cd7ba70ab4c1a494
+    md5_10: fd8f52943a
+    md5_5: fd8f5
+    md5_6: fd8f52
+    oomp_key: oomp_pelrun_w_smd_cap_c_tant_u
+    oomp_key_extra: oomp_footprint_pelrun_w_smd_cap_c_tant_u
+    oomp_key_full: oomp_footprint_pelrun_w_smd_cap_c_tant_u_fd8f52
+    oomp_key_simple: pelrun_w_smd_cap_c_tant_u
+    original_filename: libKiCad/footprint/w_smd_cap.pretty/c_tant_U.kicad_mod
+    owner_name: pelrun
   oomp_key: oomp_pelrun_w_smd_cap_c_tant_u
+  oomp_key_full: oomp_footprint_pelrun_w_smd_cap_c_tant_u
   oomp_key_simple: pelrun_w_smd_cap_c_tant_u
   owner: pelrun
   repo:

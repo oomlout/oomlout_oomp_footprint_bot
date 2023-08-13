@@ -11,17 +11,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_connector_jae_jae_sim_card_sf72s006/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_connector_jae_jae_sim_card_sf72s006/working
-    oomp_doc: footprints/footprints/kicad/Connector_JAE/JAE_SIM_Card_SF72S006/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Connector_JAE/JAE_SIM_Card_SF72S006/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_connector_jae_jae_sim_card_sf72s006/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_connector_jae_jae_sim_card_sf72s006/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Connector_JAE/JAE_SIM_Card_SF72S006/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Connector_JAE/JAE_SIM_Card_SF72S006/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: jae_sim_card_sf72s006
+    library_name: connector_jae
+    md5: 1f21b7d1fc78bb6d745f7133c942cea9
+    md5_10: 1f21b7d1fc
+    md5_5: 1f21b
+    md5_6: 1f21b7
+    oomp_key: oomp_kicad_connector_jae_jae_sim_card_sf72s006
+    oomp_key_extra: oomp_footprint_kicad_connector_jae_jae_sim_card_sf72s006
+    oomp_key_full: oomp_footprint_kicad_connector_jae_jae_sim_card_sf72s006_1f21b7
+    oomp_key_simple: kicad_connector_jae_jae_sim_card_sf72s006
+    original_filename: libraries/kicad-footprints/Connector_JAE.pretty/JAE_SIM_Card_SF72S006.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_connector_jae_jae_sim_card_sf72s006
+  oomp_key_full: oomp_footprint_kicad_connector_jae_jae_sim_card_sf72s006
   oomp_key_simple: kicad_connector_jae_jae_sim_card_sf72s006
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

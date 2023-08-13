@@ -14,14 +14,24 @@
     github_src_repo: https://github.com/AcheronProject/acheron_Components.pretty
     oomp_bot: footprints/acheronproject_acheron_components_crystal_smd_5032_4pin_5_0x3_2mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/acheronproject_acheron_components_crystal_smd_5032_4pin_5_0x3_2mm/working
-    oomp_doc: footprints/footprints/AcheronProject/acheron_Components/Crystal_SMD_5032-4Pin_5.0x3.2mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/AcheronProject/acheron_Components/Crystal_SMD_5032-4Pin_5.0x3.2mm/working
     oomp_src_flat: footprints_flat/footprints_flat/acheronproject_acheron_components_crystal_smd_5032_4pin_5_0x3_2mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/acheronproject_acheron_components_crystal_smd_5032_4pin_5_0x3_2mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/AcheronProject/acheron_Components/Crystal_SMD_5032-4Pin_5.0x3.2mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/AcheronProject/acheron_Components/Crystal_SMD_5032-4Pin_5.0x3.2mm/working
   name: acheron_Components.pretty
+  oomp:
+    footprint_name: crystal_smd_5032_4pin_5_0x3_2mm
+    library_name: acheron_components
+    md5: 94db35c570999ab90f7ce7d477987338
+    md5_10: 94db35c570
+    md5_5: 94db3
+    md5_6: 94db35
+    oomp_key: oomp_acheronproject_acheron_components_crystal_smd_5032_4pin_5_0x3_2mm
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_components_crystal_smd_5032_4pin_5_0x3_2mm
+    oomp_key_full: oomp_footprint_acheronproject_acheron_components_crystal_smd_5032_4pin_5_0x3_2mm_94db35
+    oomp_key_simple: acheronproject_acheron_components_crystal_smd_5032_4pin_5_0x3_2mm
+    original_filename: acheron_Components.pretty/Crystal_SMD_5032-4Pin_5.0x3.2mm.kicad_mod
+    owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_components_crystal_smd_5032_4pin_5_0x3_2mm
+  oomp_key_full: oomp_footprint_acheronproject_acheron_components_crystal_smd_5032_4pin_5_0x3_2mm
   oomp_key_simple: acheronproject_acheron_components_crystal_smd_5032_4pin_5_0x3_2mm
   owner: AcheronProject
   repo:

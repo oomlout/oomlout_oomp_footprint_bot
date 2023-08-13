@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/candykingdom_homebrew_stx_3120_3b/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/candykingdom_homebrew_stx_3120_3b/working
-    oomp_doc: footprints/footprints/candykingdom/homebrew/STX-3120-3B/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/candykingdom/homebrew/STX-3120-3B/working
     oomp_src_flat: footprints_flat/footprints_flat/candykingdom_homebrew_stx_3120_3b/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/candykingdom_homebrew_stx_3120_3b/working
-    oomp_src_folder: footprints_folder/footprints_folder/candykingdom/homebrew/STX-3120-3B/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/candykingdom/homebrew/STX-3120-3B/working
   name: homebrew.pretty
+  oomp:
+    footprint_name: stx_3120_3b
+    library_name: homebrew
+    md5: 709f3c0fa86e9cf2f8afe4dbd04bc687
+    md5_10: 709f3c0fa8
+    md5_5: 709f3
+    md5_6: 709f3c
+    oomp_key: oomp_candykingdom_homebrew_stx_3120_3b
+    oomp_key_extra: oomp_footprint_candykingdom_homebrew_stx_3120_3b
+    oomp_key_full: oomp_footprint_candykingdom_homebrew_stx_3120_3b_709f3c
+    oomp_key_simple: candykingdom_homebrew_stx_3120_3b
+    original_filename: homebrew.pretty/STX-3120-3B.kicad_mod
+    owner_name: candykingdom
   oomp_key: oomp_candykingdom_homebrew_stx_3120_3b
+  oomp_key_full: oomp_footprint_candykingdom_homebrew_stx_3120_3b
   oomp_key_simple: candykingdom_homebrew_stx_3120_3b
   owner: candykingdom
   repo:

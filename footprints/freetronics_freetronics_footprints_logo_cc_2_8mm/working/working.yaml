@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/freetronics_freetronics_footprints_logo_cc_2_8mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/freetronics_freetronics_footprints_logo_cc_2_8mm/working
-    oomp_doc: footprints/footprints/freetronics/freetronics_footprints/LOGO_CC_2.8mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/freetronics/freetronics_footprints/LOGO_CC_2.8mm/working
     oomp_src_flat: footprints_flat/footprints_flat/freetronics_freetronics_footprints_logo_cc_2_8mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/freetronics_freetronics_footprints_logo_cc_2_8mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/freetronics/freetronics_footprints/LOGO_CC_2.8mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/freetronics/freetronics_footprints/LOGO_CC_2.8mm/working
   name: freetronics_kicad_library
+  oomp:
+    footprint_name: logo_cc_2_8mm
+    library_name: freetronics_footprints
+    md5: 7652d73a7a84f089dfe6fab09a59cdec
+    md5_10: 7652d73a7a
+    md5_5: 7652d
+    md5_6: 7652d7
+    oomp_key: oomp_freetronics_freetronics_footprints_logo_cc_2_8mm
+    oomp_key_extra: oomp_footprint_freetronics_freetronics_footprints_logo_cc_2_8mm
+    oomp_key_full: oomp_footprint_freetronics_freetronics_footprints_logo_cc_2_8mm_7652d7
+    oomp_key_simple: freetronics_freetronics_footprints_logo_cc_2_8mm
+    original_filename: freetronics_kicad_library/freetronics_footprints.pretty/LOGO_CC_2.8mm.kicad_mod
+    owner_name: freetronics
   oomp_key: oomp_freetronics_freetronics_footprints_logo_cc_2_8mm
+  oomp_key_full: oomp_footprint_freetronics_freetronics_footprints_logo_cc_2_8mm
   oomp_key_simple: freetronics_freetronics_footprints_logo_cc_2_8mm
   owner: freetronics
   repo:

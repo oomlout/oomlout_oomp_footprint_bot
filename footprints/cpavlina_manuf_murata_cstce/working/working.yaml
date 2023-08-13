@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cpavlina_manuf_murata_cstce/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cpavlina_manuf_murata_cstce/working
-    oomp_doc: footprints/footprints/cpavlina/manuf/MURATA_CSTCE/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cpavlina/manuf/MURATA_CSTCE/working
     oomp_src_flat: footprints_flat/footprints_flat/cpavlina_manuf_murata_cstce/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cpavlina_manuf_murata_cstce/working
-    oomp_src_folder: footprints_folder/footprints_folder/cpavlina/manuf/MURATA_CSTCE/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cpavlina/manuf/MURATA_CSTCE/working
   name: kicad-pcblib
+  oomp:
+    footprint_name: murata_cstce
+    library_name: manuf
+    md5: a6915b88b4788896aa0a221d9aea610f
+    md5_10: a6915b88b4
+    md5_5: a6915
+    md5_6: a6915b
+    oomp_key: oomp_cpavlina_manuf_murata_cstce
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_murata_cstce
+    oomp_key_full: oomp_footprint_cpavlina_manuf_murata_cstce_a6915b
+    oomp_key_simple: cpavlina_manuf_murata_cstce
+    original_filename: kicad-pcblib/manuf.pretty/MURATA_CSTCE.kicad_mod
+    owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_murata_cstce
+  oomp_key_full: oomp_footprint_cpavlina_manuf_murata_cstce
   oomp_key_simple: cpavlina_manuf_murata_cstce
   owner: cpavlina
   repo:

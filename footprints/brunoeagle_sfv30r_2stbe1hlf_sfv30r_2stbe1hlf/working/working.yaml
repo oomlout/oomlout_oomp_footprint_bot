@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_sfv30r_2stbe1hlf_sfv30r_2stbe1hlf/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_sfv30r_2stbe1hlf_sfv30r_2stbe1hlf/working
-    oomp_doc: footprints/footprints/brunoeagle/SFV30R-2STBE1HLF.kicad_mod/SFV30R-2STBE1HLF/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/SFV30R-2STBE1HLF.kicad_mod/SFV30R-2STBE1HLF/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_sfv30r_2stbe1hlf_sfv30r_2stbe1hlf/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_sfv30r_2stbe1hlf_sfv30r_2stbe1hlf/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/SFV30R-2STBE1HLF.kicad_mod/SFV30R-2STBE1HLF/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/SFV30R-2STBE1HLF.kicad_mod/SFV30R-2STBE1HLF/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: sfv30r_2stbe1hlf
+    library_name: sfv30r_2stbe1hlf_kicad_mod
+    md5: b7ba8ee6e843a4a505ef532d95be49bd
+    md5_10: b7ba8ee6e8
+    md5_5: b7ba8
+    md5_6: b7ba8e
+    oomp_key: oomp_brunoeagle_sfv30r_2stbe1hlf_sfv30r_2stbe1hlf
+    oomp_key_extra: oomp_footprint_brunoeagle_sfv30r_2stbe1hlf_sfv30r_2stbe1hlf
+    oomp_key_full: oomp_footprint_brunoeagle_sfv30r_2stbe1hlf_sfv30r_2stbe1hlf_b7ba8e
+    oomp_key_simple: brunoeagle_sfv30r_2stbe1hlf_sfv30r_2stbe1hlf
+    original_filename: kicad-open-modules/SFV30R-2STBE1HLF.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_sfv30r_2stbe1hlf_sfv30r_2stbe1hlf
+  oomp_key_full: oomp_footprint_brunoeagle_sfv30r_2stbe1hlf_sfv30r_2stbe1hlf
   oomp_key_simple: brunoeagle_sfv30r_2stbe1hlf_sfv30r_2stbe1hlf
   owner: brunoeagle
   repo:

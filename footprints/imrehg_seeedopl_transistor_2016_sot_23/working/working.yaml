@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/imrehg_seeedopl_transistor_2016_sot_23/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/imrehg_seeedopl_transistor_2016_sot_23/working
-    oomp_doc: footprints/footprints/imrehg/SeeedOPL-Transistor-2016/SOT-23/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/imrehg/SeeedOPL-Transistor-2016/SOT-23/working
     oomp_src_flat: footprints_flat/footprints_flat/imrehg_seeedopl_transistor_2016_sot_23/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/imrehg_seeedopl_transistor_2016_sot_23/working
-    oomp_src_folder: footprints_folder/footprints_folder/imrehg/SeeedOPL-Transistor-2016/SOT-23/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/imrehg/SeeedOPL-Transistor-2016/SOT-23/working
   name: kicalopl
+  oomp:
+    footprint_name: sot_23
+    library_name: seeedopl_transistor_2016
+    md5: c89f19dc2e52958a6e7e7ee66322f00e
+    md5_10: c89f19dc2e
+    md5_5: c89f1
+    md5_6: c89f19
+    oomp_key: oomp_imrehg_seeedopl_transistor_2016_sot_23
+    oomp_key_extra: oomp_footprint_imrehg_seeedopl_transistor_2016_sot_23
+    oomp_key_full: oomp_footprint_imrehg_seeedopl_transistor_2016_sot_23_c89f19
+    oomp_key_simple: imrehg_seeedopl_transistor_2016_sot_23
+    original_filename: kicalopl/SeeedOPL-Transistor-2016.pretty/SOT-23.kicad_mod
+    owner_name: imrehg
   oomp_key: oomp_imrehg_seeedopl_transistor_2016_sot_23
+  oomp_key_full: oomp_footprint_imrehg_seeedopl_transistor_2016_sot_23
   oomp_key_simple: imrehg_seeedopl_transistor_2016_sot_23
   owner: imrehg
   repo:

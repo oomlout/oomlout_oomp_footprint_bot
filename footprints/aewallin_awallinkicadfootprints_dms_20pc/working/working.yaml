@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/aewallin/awallinKiCadFootprints.pretty
     oomp_bot: footprints/aewallin_awallinkicadfootprints_dms_20pc/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/aewallin_awallinkicadfootprints_dms_20pc/working
-    oomp_doc: footprints/footprints/aewallin/awallinKiCadFootprints/DMS-20PC/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/aewallin/awallinKiCadFootprints/DMS-20PC/working
     oomp_src_flat: footprints_flat/footprints_flat/aewallin_awallinkicadfootprints_dms_20pc/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/aewallin_awallinkicadfootprints_dms_20pc/working
-    oomp_src_folder: footprints_folder/footprints_folder/aewallin/awallinKiCadFootprints/DMS-20PC/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/aewallin/awallinKiCadFootprints/DMS-20PC/working
   name: awallinKiCadFootprints.pretty
+  oomp:
+    footprint_name: dms_20pc
+    library_name: awallinkicadfootprints
+    md5: 4c0481437710a4481a3c4c2fd3ee1f11
+    md5_10: 4c04814377
+    md5_5: 4c048
+    md5_6: 4c0481
+    oomp_key: oomp_aewallin_awallinkicadfootprints_dms_20pc
+    oomp_key_extra: oomp_footprint_aewallin_awallinkicadfootprints_dms_20pc
+    oomp_key_full: oomp_footprint_aewallin_awallinkicadfootprints_dms_20pc_4c0481
+    oomp_key_simple: aewallin_awallinkicadfootprints_dms_20pc
+    original_filename: awallinKiCadFootprints.pretty/DMS-20PC.kicad_mod
+    owner_name: aewallin
   oomp_key: oomp_aewallin_awallinkicadfootprints_dms_20pc
+  oomp_key_full: oomp_footprint_aewallin_awallinkicadfootprints_dms_20pc
   oomp_key_simple: aewallin_awallinkicadfootprints_dms_20pc
   owner: aewallin
   repo:

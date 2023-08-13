@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/adamjvr/KiCAD-OnHand-Lib
     oomp_bot: footprints/adamjvr_onhand_components_vnh5019atr_e/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/adamjvr_onhand_components_vnh5019atr_e/working
-    oomp_doc: footprints/footprints/adamjvr/OnHand-Components/VNH5019ATR-E/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/adamjvr/OnHand-Components/VNH5019ATR-E/working
     oomp_src_flat: footprints_flat/footprints_flat/adamjvr_onhand_components_vnh5019atr_e/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/adamjvr_onhand_components_vnh5019atr_e/working
-    oomp_src_folder: footprints_folder/footprints_folder/adamjvr/OnHand-Components/VNH5019ATR-E/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/adamjvr/OnHand-Components/VNH5019ATR-E/working
   name: KiCAD-OnHand-Lib
+  oomp:
+    footprint_name: vnh5019atr_e
+    library_name: onhand_components
+    md5: 03b7666baa23080ef93f790470f300b1
+    md5_10: 03b7666baa
+    md5_5: 03b76
+    md5_6: 03b766
+    oomp_key: oomp_adamjvr_onhand_components_vnh5019atr_e
+    oomp_key_extra: oomp_footprint_adamjvr_onhand_components_vnh5019atr_e
+    oomp_key_full: oomp_footprint_adamjvr_onhand_components_vnh5019atr_e_03b766
+    oomp_key_simple: adamjvr_onhand_components_vnh5019atr_e
+    original_filename: KiCAD-OnHand-Lib/OnHand-Components.pretty/VNH5019ATR-E.kicad_mod
+    owner_name: adamjvr
   oomp_key: oomp_adamjvr_onhand_components_vnh5019atr_e
+  oomp_key_full: oomp_footprint_adamjvr_onhand_components_vnh5019atr_e
   oomp_key_simple: adamjvr_onhand_components_vnh5019atr_e
   owner: adamjvr
   repo:

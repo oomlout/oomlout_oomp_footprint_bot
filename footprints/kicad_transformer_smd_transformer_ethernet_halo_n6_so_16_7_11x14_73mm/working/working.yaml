@@ -12,17 +12,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_transformer_smd_transformer_ethernet_halo_n6_so_16_7_11x14_73mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_transformer_smd_transformer_ethernet_halo_n6_so_16_7_11x14_73mm/working
-    oomp_doc: footprints/footprints/kicad/Transformer_SMD/Transformer_Ethernet_Halo_N6_SO-16_7.11x14.73mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Transformer_SMD/Transformer_Ethernet_Halo_N6_SO-16_7.11x14.73mm/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_transformer_smd_transformer_ethernet_halo_n6_so_16_7_11x14_73mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_transformer_smd_transformer_ethernet_halo_n6_so_16_7_11x14_73mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Transformer_SMD/Transformer_Ethernet_Halo_N6_SO-16_7.11x14.73mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Transformer_SMD/Transformer_Ethernet_Halo_N6_SO-16_7.11x14.73mm/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: transformer_ethernet_halo_n6_so_16_7_11x14_73mm
+    library_name: transformer_smd
+    md5: 63df2467c2739da37144dd9b3ed46166
+    md5_10: 63df2467c2
+    md5_5: 63df2
+    md5_6: 63df24
+    oomp_key: oomp_kicad_transformer_smd_transformer_ethernet_halo_n6_so_16_7_11x14_73mm
+    oomp_key_extra: oomp_footprint_kicad_transformer_smd_transformer_ethernet_halo_n6_so_16_7_11x14_73mm
+    oomp_key_full: oomp_footprint_kicad_transformer_smd_transformer_ethernet_halo_n6_so_16_7_11x14_73mm_63df24
+    oomp_key_simple: kicad_transformer_smd_transformer_ethernet_halo_n6_so_16_7_11x14_73mm
+    original_filename: libraries/kicad-footprints/Transformer_SMD.pretty/Transformer_Ethernet_Halo_N6_SO-16_7.11x14.73mm.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_transformer_smd_transformer_ethernet_halo_n6_so_16_7_11x14_73mm
+  oomp_key_full: oomp_footprint_kicad_transformer_smd_transformer_ethernet_halo_n6_so_16_7_11x14_73mm
   oomp_key_simple: kicad_transformer_smd_transformer_ethernet_halo_n6_so_16_7_11x14_73mm
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cpavlina_ipc7351_most_qfp50p1290x1290x120_64/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cpavlina_ipc7351_most_qfp50p1290x1290x120_64/working
-    oomp_doc: footprints/footprints/cpavlina/IPC7351-Most/QFP50P1290X1290X120-64/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cpavlina/IPC7351-Most/QFP50P1290X1290X120-64/working
     oomp_src_flat: footprints_flat/footprints_flat/cpavlina_ipc7351_most_qfp50p1290x1290x120_64/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cpavlina_ipc7351_most_qfp50p1290x1290x120_64/working
-    oomp_src_folder: footprints_folder/footprints_folder/cpavlina/IPC7351-Most/QFP50P1290X1290X120-64/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cpavlina/IPC7351-Most/QFP50P1290X1290X120-64/working
   name: kicad-pcblib
+  oomp:
+    footprint_name: qfp50p1290x1290x120_64
+    library_name: ipc7351_most
+    md5: 2cf1ad4abcd4a4d9f97072954cba68fc
+    md5_10: 2cf1ad4abc
+    md5_5: 2cf1a
+    md5_6: 2cf1ad
+    oomp_key: oomp_cpavlina_ipc7351_most_qfp50p1290x1290x120_64
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_most_qfp50p1290x1290x120_64
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_qfp50p1290x1290x120_64_2cf1ad
+    oomp_key_simple: cpavlina_ipc7351_most_qfp50p1290x1290x120_64
+    original_filename: kicad-pcblib/IPC7351-Most.pretty/QFP50P1290X1290X120-64.kicad_mod
+    owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_most_qfp50p1290x1290x120_64
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_qfp50p1290x1290x120_64
   oomp_key_simple: cpavlina_ipc7351_most_qfp50p1290x1290x120_64
   owner: cpavlina
   repo:

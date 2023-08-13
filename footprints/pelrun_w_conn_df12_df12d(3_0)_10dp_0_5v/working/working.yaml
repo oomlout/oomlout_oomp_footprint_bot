@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pelrun_w_conn_df12_df12d(3_0)_10dp_0_5v/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pelrun_w_conn_df12_df12d(3_0)_10dp_0_5v/working
-    oomp_doc: footprints/footprints/pelrun/w_conn_df12/df12d(3.0)-10dp-0.5v/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/pelrun/w_conn_df12/df12d(3.0)-10dp-0.5v/working
     oomp_src_flat: footprints_flat/footprints_flat/pelrun_w_conn_df12_df12d(3_0)_10dp_0_5v/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pelrun_w_conn_df12_df12d(3_0)_10dp_0_5v/working
-    oomp_src_folder: footprints_folder/footprints_folder/pelrun/w_conn_df12/df12d(3.0)-10dp-0.5v/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/pelrun/w_conn_df12/df12d(3.0)-10dp-0.5v/working
   name: libKiCad
+  oomp:
+    footprint_name: df12d(3_0)_10dp_0_5v
+    library_name: w_conn_df12
+    md5: 9e6571f546cdf3e17b6010e80acda744
+    md5_10: 9e6571f546
+    md5_5: 9e657
+    md5_6: 9e6571
+    oomp_key: oomp_pelrun_w_conn_df12_df12d(3_0)_10dp_0_5v
+    oomp_key_extra: oomp_footprint_pelrun_w_conn_df12_df12d(3_0)_10dp_0_5v
+    oomp_key_full: oomp_footprint_pelrun_w_conn_df12_df12d(3_0)_10dp_0_5v_9e6571
+    oomp_key_simple: pelrun_w_conn_df12_df12d(3_0)_10dp_0_5v
+    original_filename: libKiCad/footprint/w_conn_df12.pretty/df12d(3.0)-10dp-0.5v.kicad_mod
+    owner_name: pelrun
   oomp_key: oomp_pelrun_w_conn_df12_df12d(3_0)_10dp_0_5v
+  oomp_key_full: oomp_footprint_pelrun_w_conn_df12_df12d(3_0)_10dp_0_5v
   oomp_key_simple: pelrun_w_conn_df12_df12d(3_0)_10dp_0_5v
   owner: pelrun
   repo:

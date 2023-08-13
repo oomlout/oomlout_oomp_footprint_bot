@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/Iangitpers/4a
     oomp_bot: footprints/iangitpers_manuf_to_263_7_texas/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/iangitpers_manuf_to_263_7_texas/working
-    oomp_doc: footprints/footprints/Iangitpers/manuf/TO-263-7-TEXAS/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Iangitpers/manuf/TO-263-7-TEXAS/working
     oomp_src_flat: footprints_flat/footprints_flat/iangitpers_manuf_to_263_7_texas/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/iangitpers_manuf_to_263_7_texas/working
-    oomp_src_folder: footprints_folder/footprints_folder/Iangitpers/manuf/TO-263-7-TEXAS/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Iangitpers/manuf/TO-263-7-TEXAS/working
   name: 4a
+  oomp:
+    footprint_name: to_263_7_texas
+    library_name: manuf
+    md5: 30b5cca88e69c037a34dfdd2620b6239
+    md5_10: 30b5cca88e
+    md5_5: 30b5c
+    md5_6: 30b5cc
+    oomp_key: oomp_iangitpers_manuf_to_263_7_texas
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_to_263_7_texas
+    oomp_key_full: oomp_footprint_iangitpers_manuf_to_263_7_texas_30b5cc
+    oomp_key_simple: iangitpers_manuf_to_263_7_texas
+    original_filename: 4a/manuf.pretty/TO-263-7-TEXAS.kicad_mod
+    owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_to_263_7_texas
+  oomp_key_full: oomp_footprint_iangitpers_manuf_to_263_7_texas
   oomp_key_simple: iangitpers_manuf_to_263_7_texas
   owner: Iangitpers
   repo:

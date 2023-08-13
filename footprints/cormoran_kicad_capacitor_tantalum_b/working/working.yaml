@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cormoran_kicad_capacitor_tantalum_b/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cormoran_kicad_capacitor_tantalum_b/working
-    oomp_doc: footprints/footprints/cormoran/kicad/CAPACITOR_TANTALUM_B/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cormoran/kicad/CAPACITOR_TANTALUM_B/working
     oomp_src_flat: footprints_flat/footprints_flat/cormoran_kicad_capacitor_tantalum_b/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cormoran_kicad_capacitor_tantalum_b/working
-    oomp_src_folder: footprints_folder/footprints_folder/cormoran/kicad/CAPACITOR_TANTALUM_B/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cormoran/kicad/CAPACITOR_TANTALUM_B/working
   name: kicad.pretty
+  oomp:
+    footprint_name: capacitor_tantalum_b
+    library_name: kicad
+    md5: dec534c6a441a6a14d5cd783a235c182
+    md5_10: dec534c6a4
+    md5_5: dec53
+    md5_6: dec534
+    oomp_key: oomp_cormoran_kicad_capacitor_tantalum_b
+    oomp_key_extra: oomp_footprint_cormoran_kicad_capacitor_tantalum_b
+    oomp_key_full: oomp_footprint_cormoran_kicad_capacitor_tantalum_b_dec534
+    oomp_key_simple: cormoran_kicad_capacitor_tantalum_b
+    original_filename: kicad.pretty/CAPACITOR_TANTALUM_B.kicad_mod
+    owner_name: cormoran
   oomp_key: oomp_cormoran_kicad_capacitor_tantalum_b
+  oomp_key_full: oomp_footprint_cormoran_kicad_capacitor_tantalum_b
   oomp_key_simple: cormoran_kicad_capacitor_tantalum_b
   owner: cormoran
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/nppc_gy_521_gy_521/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nppc_gy_521_gy_521/working
-    oomp_doc: footprints/footprints/nppc/GY-521.kicad_mod/GY-521/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/nppc/GY-521.kicad_mod/GY-521/working
     oomp_src_flat: footprints_flat/footprints_flat/nppc_gy_521_gy_521/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nppc_gy_521_gy_521/working
-    oomp_src_folder: footprints_folder/footprints_folder/nppc/GY-521.kicad_mod/GY-521/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/nppc/GY-521.kicad_mod/GY-521/working
   name: KiCadCustomLibs
+  oomp:
+    footprint_name: gy_521
+    library_name: gy_521_kicad_mod
+    md5: 408b1ed17f531cfe902cbc81c9052bd2
+    md5_10: 408b1ed17f
+    md5_5: 408b1
+    md5_6: 408b1e
+    oomp_key: oomp_nppc_gy_521_gy_521
+    oomp_key_extra: oomp_footprint_nppc_gy_521_gy_521
+    oomp_key_full: oomp_footprint_nppc_gy_521_gy_521_408b1e
+    oomp_key_simple: nppc_gy_521_gy_521
+    original_filename: KiCadCustomLibs/GY-521.kicad_mod
+    owner_name: nppc
   oomp_key: oomp_nppc_gy_521_gy_521
+  oomp_key_full: oomp_footprint_nppc_gy_521_gy_521
   oomp_key_simple: nppc_gy_521_gy_521
   owner: nppc
   repo:

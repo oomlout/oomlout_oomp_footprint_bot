@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/fruchti_mech_hole_3mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/fruchti_mech_hole_3mm/working
-    oomp_doc: footprints/footprints/fruchti/mech/HOLE_3mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/fruchti/mech/HOLE_3mm/working
     oomp_src_flat: footprints_flat/footprints_flat/fruchti_mech_hole_3mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/fruchti_mech_hole_3mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/fruchti/mech/HOLE_3mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/fruchti/mech/HOLE_3mm/working
   name: fruchtilib
+  oomp:
+    footprint_name: hole_3mm
+    library_name: mech
+    md5: 3977e967cc6e3b8f87487c8cce313e01
+    md5_10: 3977e967cc
+    md5_5: 3977e
+    md5_6: 3977e9
+    oomp_key: oomp_fruchti_mech_hole_3mm
+    oomp_key_extra: oomp_footprint_fruchti_mech_hole_3mm
+    oomp_key_full: oomp_footprint_fruchti_mech_hole_3mm_3977e9
+    oomp_key_simple: fruchti_mech_hole_3mm
+    original_filename: fruchtilib/mod/mech.pretty/HOLE_3mm.kicad_mod
+    owner_name: fruchti
   oomp_key: oomp_fruchti_mech_hole_3mm
+  oomp_key_full: oomp_footprint_fruchti_mech_hole_3mm
   oomp_key_simple: fruchti_mech_hole_3mm
   owner: fruchti
   repo:

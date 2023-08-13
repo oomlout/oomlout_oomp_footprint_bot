@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/stanleyseow_svtmaker_conn_th_kf7_62_2p/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stanleyseow_svtmaker_conn_th_kf7_62_2p/working
-    oomp_doc: footprints/footprints/stanleyseow/SVTmaker/CONN-TH_KF7.62-2P/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/stanleyseow/SVTmaker/CONN-TH_KF7.62-2P/working
     oomp_src_flat: footprints_flat/footprints_flat/stanleyseow_svtmaker_conn_th_kf7_62_2p/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/stanleyseow_svtmaker_conn_th_kf7_62_2p/working
-    oomp_src_folder: footprints_folder/footprints_folder/stanleyseow/SVTmaker/CONN-TH_KF7.62-2P/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/stanleyseow/SVTmaker/CONN-TH_KF7.62-2P/working
   name: SVTmaker.pretty
+  oomp:
+    footprint_name: conn_th_kf7_62_2p
+    library_name: svtmaker
+    md5: 8ea8de98f6c1a0fb0be822b3a0f62351
+    md5_10: 8ea8de98f6
+    md5_5: 8ea8d
+    md5_6: 8ea8de
+    oomp_key: oomp_stanleyseow_svtmaker_conn_th_kf7_62_2p
+    oomp_key_extra: oomp_footprint_stanleyseow_svtmaker_conn_th_kf7_62_2p
+    oomp_key_full: oomp_footprint_stanleyseow_svtmaker_conn_th_kf7_62_2p_8ea8de
+    oomp_key_simple: stanleyseow_svtmaker_conn_th_kf7_62_2p
+    original_filename: SVTmaker.pretty/CONN-TH_KF7.62-2P.kicad_mod
+    owner_name: stanleyseow
   oomp_key: oomp_stanleyseow_svtmaker_conn_th_kf7_62_2p
+  oomp_key_full: oomp_footprint_stanleyseow_svtmaker_conn_th_kf7_62_2p
   oomp_key_simple: stanleyseow_svtmaker_conn_th_kf7_62_2p
   owner: stanleyseow
   repo:

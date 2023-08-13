@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/kubiX89/kiCAD.pretty
     oomp_bot: footprints/kubix89_kicad_conn_powerpole_45a/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kubix89_kicad_conn_powerpole_45a/working
-    oomp_doc: footprints/footprints/kubiX89/kiCAD/CONN_POWERPOLE_45A/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kubiX89/kiCAD/CONN_POWERPOLE_45A/working
     oomp_src_flat: footprints_flat/footprints_flat/kubix89_kicad_conn_powerpole_45a/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kubix89_kicad_conn_powerpole_45a/working
-    oomp_src_folder: footprints_folder/footprints_folder/kubiX89/kiCAD/CONN_POWERPOLE_45A/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kubiX89/kiCAD/CONN_POWERPOLE_45A/working
   name: kiCAD.pretty
+  oomp:
+    footprint_name: conn_powerpole_45a
+    library_name: kicad
+    md5: 32ffe4e5e05ed1bc4f59444d91b0bedd
+    md5_10: 32ffe4e5e0
+    md5_5: 32ffe
+    md5_6: 32ffe4
+    oomp_key: oomp_kubix89_kicad_conn_powerpole_45a
+    oomp_key_extra: oomp_footprint_kubix89_kicad_conn_powerpole_45a
+    oomp_key_full: oomp_footprint_kubix89_kicad_conn_powerpole_45a_32ffe4
+    oomp_key_simple: kubix89_kicad_conn_powerpole_45a
+    original_filename: kiCAD.pretty/CONN_POWERPOLE_45A.kicad_mod
+    owner_name: kubix89
   oomp_key: oomp_kubix89_kicad_conn_powerpole_45a
+  oomp_key_full: oomp_footprint_kubix89_kicad_conn_powerpole_45a
   oomp_key_simple: kubix89_kicad_conn_powerpole_45a
   owner: kubiX89
   repo:

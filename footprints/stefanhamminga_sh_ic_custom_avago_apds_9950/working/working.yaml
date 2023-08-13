@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/stefanhamminga_sh_ic_custom_avago_apds_9950/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stefanhamminga_sh_ic_custom_avago_apds_9950/working
-    oomp_doc: footprints/footprints/StefanHamminga/SH_IC_Custom/Avago_APDS-9950/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/StefanHamminga/SH_IC_Custom/Avago_APDS-9950/working
     oomp_src_flat: footprints_flat/footprints_flat/stefanhamminga_sh_ic_custom_avago_apds_9950/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/stefanhamminga_sh_ic_custom_avago_apds_9950/working
-    oomp_src_folder: footprints_folder/footprints_folder/StefanHamminga/SH_IC_Custom/Avago_APDS-9950/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/StefanHamminga/SH_IC_Custom/Avago_APDS-9950/working
   name: SH_IC_Custom.pretty
+  oomp:
+    footprint_name: avago_apds_9950
+    library_name: sh_ic_custom
+    md5: 50858d38270397eeff1f7e9c95ade38e
+    md5_10: 50858d3827
+    md5_5: '50858'
+    md5_6: 50858d
+    oomp_key: oomp_stefanhamminga_sh_ic_custom_avago_apds_9950
+    oomp_key_extra: oomp_footprint_stefanhamminga_sh_ic_custom_avago_apds_9950
+    oomp_key_full: oomp_footprint_stefanhamminga_sh_ic_custom_avago_apds_9950_50858d
+    oomp_key_simple: stefanhamminga_sh_ic_custom_avago_apds_9950
+    original_filename: SH_IC_Custom.pretty/Avago_APDS-9950.kicad_mod
+    owner_name: stefanhamminga
   oomp_key: oomp_stefanhamminga_sh_ic_custom_avago_apds_9950
+  oomp_key_full: oomp_footprint_stefanhamminga_sh_ic_custom_avago_apds_9950
   oomp_key_simple: stefanhamminga_sh_ic_custom_avago_apds_9950
   owner: StefanHamminga
   repo:

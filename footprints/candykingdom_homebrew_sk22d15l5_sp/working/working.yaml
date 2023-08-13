@@ -14,14 +14,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/candykingdom_homebrew_sk22d15l5_sp/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/candykingdom_homebrew_sk22d15l5_sp/working
-    oomp_doc: footprints/footprints/candykingdom/homebrew/SK22D15L5_SP/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/candykingdom/homebrew/SK22D15L5_SP/working
     oomp_src_flat: footprints_flat/footprints_flat/candykingdom_homebrew_sk22d15l5_sp/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/candykingdom_homebrew_sk22d15l5_sp/working
-    oomp_src_folder: footprints_folder/footprints_folder/candykingdom/homebrew/SK22D15L5_SP/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/candykingdom/homebrew/SK22D15L5_SP/working
   name: homebrew.pretty
+  oomp:
+    footprint_name: sk22d15l5_sp
+    library_name: homebrew
+    md5: e5da203a53f53faecc7e4a38f128e83d
+    md5_10: e5da203a53
+    md5_5: e5da2
+    md5_6: e5da20
+    oomp_key: oomp_candykingdom_homebrew_sk22d15l5_sp
+    oomp_key_extra: oomp_footprint_candykingdom_homebrew_sk22d15l5_sp
+    oomp_key_full: oomp_footprint_candykingdom_homebrew_sk22d15l5_sp_e5da20
+    oomp_key_simple: candykingdom_homebrew_sk22d15l5_sp
+    original_filename: homebrew.pretty/SK22D15L5_SP.kicad_mod
+    owner_name: candykingdom
   oomp_key: oomp_candykingdom_homebrew_sk22d15l5_sp
+  oomp_key_full: oomp_footprint_candykingdom_homebrew_sk22d15l5_sp
   oomp_key_simple: candykingdom_homebrew_sk22d15l5_sp
   owner: candykingdom
   repo:

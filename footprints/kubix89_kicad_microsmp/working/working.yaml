@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/kubiX89/kiCAD.pretty
     oomp_bot: footprints/kubix89_kicad_microsmp/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kubix89_kicad_microsmp/working
-    oomp_doc: footprints/footprints/kubiX89/kiCAD/MicroSMP/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kubiX89/kiCAD/MicroSMP/working
     oomp_src_flat: footprints_flat/footprints_flat/kubix89_kicad_microsmp/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kubix89_kicad_microsmp/working
-    oomp_src_folder: footprints_folder/footprints_folder/kubiX89/kiCAD/MicroSMP/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kubiX89/kiCAD/MicroSMP/working
   name: kiCAD.pretty
+  oomp:
+    footprint_name: microsmp
+    library_name: kicad
+    md5: 50ced12c8619e10083b9ee9a6ea257e3
+    md5_10: 50ced12c86
+    md5_5: 50ced
+    md5_6: 50ced1
+    oomp_key: oomp_kubix89_kicad_microsmp
+    oomp_key_extra: oomp_footprint_kubix89_kicad_microsmp
+    oomp_key_full: oomp_footprint_kubix89_kicad_microsmp_50ced1
+    oomp_key_simple: kubix89_kicad_microsmp
+    original_filename: kiCAD.pretty/MicroSMP.kicad_mod
+    owner_name: kubix89
   oomp_key: oomp_kubix89_kicad_microsmp
+  oomp_key_full: oomp_footprint_kubix89_kicad_microsmp
   oomp_key_simple: kubix89_kicad_microsmp
   owner: kubiX89
   repo:

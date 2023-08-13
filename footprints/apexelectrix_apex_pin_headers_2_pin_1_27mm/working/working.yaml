@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/apexelectrix/apex-pin-headers.pretty
     oomp_bot: footprints/apexelectrix_apex_pin_headers_2_pin_1_27mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/apexelectrix_apex_pin_headers_2_pin_1_27mm/working
-    oomp_doc: footprints/footprints/apexelectrix/apex-pin-headers/2-PIN-1.27mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/apexelectrix/apex-pin-headers/2-PIN-1.27mm/working
     oomp_src_flat: footprints_flat/footprints_flat/apexelectrix_apex_pin_headers_2_pin_1_27mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/apexelectrix_apex_pin_headers_2_pin_1_27mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/apexelectrix/apex-pin-headers/2-PIN-1.27mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/apexelectrix/apex-pin-headers/2-PIN-1.27mm/working
   name: apex-pin-headers.pretty
+  oomp:
+    footprint_name: 2_pin_1_27mm
+    library_name: apex_pin_headers
+    md5: e9ebb9655b1c279cdc24ab9c4c5a0868
+    md5_10: e9ebb9655b
+    md5_5: e9ebb
+    md5_6: e9ebb9
+    oomp_key: oomp_apexelectrix_apex_pin_headers_2_pin_1_27mm
+    oomp_key_extra: oomp_footprint_apexelectrix_apex_pin_headers_2_pin_1_27mm
+    oomp_key_full: oomp_footprint_apexelectrix_apex_pin_headers_2_pin_1_27mm_e9ebb9
+    oomp_key_simple: apexelectrix_apex_pin_headers_2_pin_1_27mm
+    original_filename: apex-pin-headers.pretty/2-PIN-1.27mm.kicad_mod
+    owner_name: apexelectrix
   oomp_key: oomp_apexelectrix_apex_pin_headers_2_pin_1_27mm
+  oomp_key_full: oomp_footprint_apexelectrix_apex_pin_headers_2_pin_1_27mm
   oomp_key_simple: apexelectrix_apex_pin_headers_2_pin_1_27mm
   owner: apexelectrix
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_dfn_4_dfn_4/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_dfn_4_dfn_4/working
-    oomp_doc: footprints/footprints/brunoeagle/DFN-4.kicad_mod/DFN-4/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/DFN-4.kicad_mod/DFN-4/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_dfn_4_dfn_4/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_dfn_4_dfn_4/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/DFN-4.kicad_mod/DFN-4/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/DFN-4.kicad_mod/DFN-4/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: dfn_4
+    library_name: dfn_4_kicad_mod
+    md5: af862dc31517b9d573affa2edab39ed6
+    md5_10: af862dc315
+    md5_5: af862
+    md5_6: af862d
+    oomp_key: oomp_brunoeagle_dfn_4_dfn_4
+    oomp_key_extra: oomp_footprint_brunoeagle_dfn_4_dfn_4
+    oomp_key_full: oomp_footprint_brunoeagle_dfn_4_dfn_4_af862d
+    oomp_key_simple: brunoeagle_dfn_4_dfn_4
+    original_filename: kicad-open-modules/DFN-4.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_dfn_4_dfn_4
+  oomp_key_full: oomp_footprint_brunoeagle_dfn_4_dfn_4
   oomp_key_simple: brunoeagle_dfn_4_dfn_4
   owner: brunoeagle
   repo:

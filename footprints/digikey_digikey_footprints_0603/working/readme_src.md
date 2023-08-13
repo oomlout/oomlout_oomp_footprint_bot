@@ -6,20 +6,22 @@ The original footprint can be found at:
 http://gitlab.com/digikey/digikey-kicad-library/blob/master/src/Source_Footprints/Zigbee_Module_MRF24J40MD.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
-* description: None  
-* libraryLink: 603  
-* number_of_pads: 2  
+* description:   
+* libraryLink:   
+* number_of_pads:   
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
+| error | expected string or bytes-like object, got 'int' |  
 | file | digikey-kicad-library/digikey-footprints.pretty/0603.kicad_mod |  
-| footprint | {'description': None, 'libraryLink': 603, 'number_of_pads': 2} |  
 | footprint_library_directory | footprint_library_owner/digikey_digikey-kicad-library |  
 | footprint_library_directory_flat | footprints_flat/digikey_digikey_footprints_0603/working |  
 | github_path | http://github.com/digikey/digikey-kicad-library/blob/master/digikey-footprints.pretty/0603.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/digikey/digikey-kicad-library/blob/master/src/Source_Footprints/Zigbee_Module_MRF24J40MD.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/digikey_digikey_footprints_0603/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_digikey_footprints_0603/working', 'oomp_doc': 'footprints/footprints/digikey/digikey-footprints/0603/working/', 'oomp_doc_github': 'https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/digikey/digikey-footprints/0603/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/digikey_digikey_footprints_0603/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/digikey_digikey_footprints_0603/working', 'oomp_src_folder': 'footprints_folder/footprints_folder/digikey/digikey-footprints/0603/working', 'oomp_src_folder_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/digikey/digikey-footprints/0603/working'} |  
+| links | {'github_src': 'http://gitlab.com/digikey/digikey-kicad-library/blob/master/src/Source_Footprints/Zigbee_Module_MRF24J40MD.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/digikey_digikey_footprints_0603/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_digikey_footprints_0603/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/digikey_digikey_footprints_0603/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/digikey_digikey_footprints_0603/working'} |  
 | name | digikey-kicad-library |  
+| oomp | {'footprint_name': '0603', 'library_name': 'digikey_footprints', 'md5': '8635cf7fa2acafefb4535d94efb185c5', 'md5_10': '8635cf7fa2', 'md5_5': '8635c', 'md5_6': '8635cf', 'oomp_key': 'oomp_digikey_digikey_footprints_0603', 'oomp_key_extra': 'oomp_footprint_digikey_digikey_footprints_0603', 'oomp_key_full': 'oomp_footprint_digikey_digikey_footprints_0603_8635cf', 'oomp_key_simple': 'digikey_digikey_footprints_0603', 'original_filename': 'digikey-kicad-library/digikey-footprints.pretty/0603.kicad_mod', 'owner_name': 'digikey'} |  
 | oomp_key | oomp_digikey_digikey_footprints_0603 |  
+| oomp_key_full | oomp_footprint_digikey_digikey_footprints_0603 |  
 | oomp_key_simple | digikey_digikey_footprints_0603 |  
 | owner | digikey |  
 | repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  

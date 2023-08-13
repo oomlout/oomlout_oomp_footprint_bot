@@ -13,14 +13,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/re_innovation_smd_packages_ceramic_filter/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/re_innovation_smd_packages_ceramic_filter/working
-    oomp_doc: footprints/footprints/re-innovation/SMD_Packages/Ceramic_Filter/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/re-innovation/SMD_Packages/Ceramic_Filter/working
     oomp_src_flat: footprints_flat/footprints_flat/re_innovation_smd_packages_ceramic_filter/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/re_innovation_smd_packages_ceramic_filter/working
-    oomp_src_folder: footprints_folder/footprints_folder/re-innovation/SMD_Packages/Ceramic_Filter/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/re-innovation/SMD_Packages/Ceramic_Filter/working
   name: kicad_reinnovation
+  oomp:
+    footprint_name: ceramic_filter
+    library_name: smd_packages
+    md5: ff522e9456e81775f871cc6980b9afc0
+    md5_10: ff522e9456
+    md5_5: ff522
+    md5_6: ff522e
+    oomp_key: oomp_re_innovation_smd_packages_ceramic_filter
+    oomp_key_extra: oomp_footprint_re_innovation_smd_packages_ceramic_filter
+    oomp_key_full: oomp_footprint_re_innovation_smd_packages_ceramic_filter_ff522e
+    oomp_key_simple: re_innovation_smd_packages_ceramic_filter
+    original_filename: kicad_reinnovation/KiCAD PRETTY/SMD_Packages.pretty/Ceramic_Filter.kicad_mod
+    owner_name: re_innovation
   oomp_key: oomp_re_innovation_smd_packages_ceramic_filter
+  oomp_key_full: oomp_footprint_re_innovation_smd_packages_ceramic_filter
   oomp_key_simple: re_innovation_smd_packages_ceramic_filter
   owner: re-innovation
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/stanleyseow_svtmaker_resistor_smd_thtuniversal_0805to1206_rm10_handsoldering/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stanleyseow_svtmaker_resistor_smd_thtuniversal_0805to1206_rm10_handsoldering/working
-    oomp_doc: footprints/footprints/stanleyseow/SVTmaker/Resistor_SMD+THTuniversal_0805to1206_RM10_HandSoldering/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/stanleyseow/SVTmaker/Resistor_SMD+THTuniversal_0805to1206_RM10_HandSoldering/working
     oomp_src_flat: footprints_flat/footprints_flat/stanleyseow_svtmaker_resistor_smd_thtuniversal_0805to1206_rm10_handsoldering/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/stanleyseow_svtmaker_resistor_smd_thtuniversal_0805to1206_rm10_handsoldering/working
-    oomp_src_folder: footprints_folder/footprints_folder/stanleyseow/SVTmaker/Resistor_SMD+THTuniversal_0805to1206_RM10_HandSoldering/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/stanleyseow/SVTmaker/Resistor_SMD+THTuniversal_0805to1206_RM10_HandSoldering/working
   name: SVTmaker.pretty
+  oomp:
+    footprint_name: resistor_smd_thtuniversal_0805to1206_rm10_handsoldering
+    library_name: svtmaker
+    md5: 375930d45d2c3df1bc972cecf2b1e223
+    md5_10: 375930d45d
+    md5_5: '37593'
+    md5_6: '375930'
+    oomp_key: oomp_stanleyseow_svtmaker_resistor_smd_thtuniversal_0805to1206_rm10_handsoldering
+    oomp_key_extra: oomp_footprint_stanleyseow_svtmaker_resistor_smd_thtuniversal_0805to1206_rm10_handsoldering
+    oomp_key_full: oomp_footprint_stanleyseow_svtmaker_resistor_smd_thtuniversal_0805to1206_rm10_handsoldering_375930
+    oomp_key_simple: stanleyseow_svtmaker_resistor_smd_thtuniversal_0805to1206_rm10_handsoldering
+    original_filename: SVTmaker.pretty/Resistor_SMD+THTuniversal_0805to1206_RM10_HandSoldering.kicad_mod
+    owner_name: stanleyseow
   oomp_key: oomp_stanleyseow_svtmaker_resistor_smd_thtuniversal_0805to1206_rm10_handsoldering
+  oomp_key_full: oomp_footprint_stanleyseow_svtmaker_resistor_smd_thtuniversal_0805to1206_rm10_handsoldering
   oomp_key_simple: stanleyseow_svtmaker_resistor_smd_thtuniversal_0805to1206_rm10_handsoldering
   owner: stanleyseow
   repo:

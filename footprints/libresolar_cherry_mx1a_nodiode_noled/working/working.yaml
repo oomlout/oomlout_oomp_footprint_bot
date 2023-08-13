@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/LibreSolar/kicad-footprints
     oomp_bot: footprints/libresolar_cherry_mx1a_nodiode_noled/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/libresolar_cherry_mx1a_nodiode_noled/working
-    oomp_doc: footprints/footprints/LibreSolar/Cherry-MX1A/NoDiode_NoLED/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/LibreSolar/Cherry-MX1A/NoDiode_NoLED/working
     oomp_src_flat: footprints_flat/footprints_flat/libresolar_cherry_mx1a_nodiode_noled/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/libresolar_cherry_mx1a_nodiode_noled/working
-    oomp_src_folder: footprints_folder/footprints_folder/LibreSolar/Cherry-MX1A/NoDiode_NoLED/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/LibreSolar/Cherry-MX1A/NoDiode_NoLED/working
   name: KiCad-footprints
+  oomp:
+    footprint_name: nodiode_noled
+    library_name: cherry_mx1a
+    md5: d43c93c68232fa7a285c5bbe27388693
+    md5_10: d43c93c682
+    md5_5: d43c9
+    md5_6: d43c93
+    oomp_key: oomp_libresolar_cherry_mx1a_nodiode_noled
+    oomp_key_extra: oomp_footprint_libresolar_cherry_mx1a_nodiode_noled
+    oomp_key_full: oomp_footprint_libresolar_cherry_mx1a_nodiode_noled_d43c93
+    oomp_key_simple: libresolar_cherry_mx1a_nodiode_noled
+    original_filename: KiCad-footprints/Cherry-MX1A.pretty/NoDiode_NoLED.kicad_mod
+    owner_name: libresolar
   oomp_key: oomp_libresolar_cherry_mx1a_nodiode_noled
+  oomp_key_full: oomp_footprint_libresolar_cherry_mx1a_nodiode_noled
   oomp_key_simple: libresolar_cherry_mx1a_nodiode_noled
   owner: LibreSolar
   repo:

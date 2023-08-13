@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/chriswags_esp_rs232_pin_header_straight_1x05/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/chriswags_esp_rs232_pin_header_straight_1x05/working
-    oomp_doc: footprints/footprints/chriswags/ESP-RS232/Pin_Header_Straight_1x05/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/chriswags/ESP-RS232/Pin_Header_Straight_1x05/working
     oomp_src_flat: footprints_flat/footprints_flat/chriswags_esp_rs232_pin_header_straight_1x05/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/chriswags_esp_rs232_pin_header_straight_1x05/working
-    oomp_src_folder: footprints_folder/footprints_folder/chriswags/ESP-RS232/Pin_Header_Straight_1x05/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/chriswags/ESP-RS232/Pin_Header_Straight_1x05/working
   name: KiCad
+  oomp:
+    footprint_name: pin_header_straight_1x05
+    library_name: esp_rs232
+    md5: d8bc50c5f13919fab168badcd6176c5b
+    md5_10: d8bc50c5f1
+    md5_5: d8bc5
+    md5_6: d8bc50
+    oomp_key: oomp_chriswags_esp_rs232_pin_header_straight_1x05
+    oomp_key_extra: oomp_footprint_chriswags_esp_rs232_pin_header_straight_1x05
+    oomp_key_full: oomp_footprint_chriswags_esp_rs232_pin_header_straight_1x05_d8bc50
+    oomp_key_simple: chriswags_esp_rs232_pin_header_straight_1x05
+    original_filename: KiCad/mods/ESP-RS232.pretty/Pin_Header_Straight_1x05.kicad_mod
+    owner_name: chriswags
   oomp_key: oomp_chriswags_esp_rs232_pin_header_straight_1x05
+  oomp_key_full: oomp_footprint_chriswags_esp_rs232_pin_header_straight_1x05
   oomp_key_simple: chriswags_esp_rs232_pin_header_straight_1x05
   owner: chriswags
   repo:

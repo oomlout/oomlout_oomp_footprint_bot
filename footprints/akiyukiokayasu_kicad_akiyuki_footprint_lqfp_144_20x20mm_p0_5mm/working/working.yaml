@@ -14,14 +14,24 @@
     github_src_repo: https://github.com/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty
     oomp_bot: footprints/akiyukiokayasu_kicad_akiyuki_footprint_lqfp_144_20x20mm_p0_5mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/akiyukiokayasu_kicad_akiyuki_footprint_lqfp_144_20x20mm_p0_5mm/working
-    oomp_doc: footprints/footprints/AkiyukiOkayasu/Kicad_Akiyuki_Footprint/LQFP-144_20x20mm_P0.5mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/AkiyukiOkayasu/Kicad_Akiyuki_Footprint/LQFP-144_20x20mm_P0.5mm/working
     oomp_src_flat: footprints_flat/footprints_flat/akiyukiokayasu_kicad_akiyuki_footprint_lqfp_144_20x20mm_p0_5mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/akiyukiokayasu_kicad_akiyuki_footprint_lqfp_144_20x20mm_p0_5mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/AkiyukiOkayasu/Kicad_Akiyuki_Footprint/LQFP-144_20x20mm_P0.5mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/AkiyukiOkayasu/Kicad_Akiyuki_Footprint/LQFP-144_20x20mm_P0.5mm/working
   name: Kicad_Akiyuki_Footprint.pretty
+  oomp:
+    footprint_name: lqfp_144_20x20mm_p0_5mm
+    library_name: kicad_akiyuki_footprint
+    md5: 037476c292a109048e95b6e37aa7ab63
+    md5_10: 037476c292
+    md5_5: '03747'
+    md5_6: '037476'
+    oomp_key: oomp_akiyukiokayasu_kicad_akiyuki_footprint_lqfp_144_20x20mm_p0_5mm
+    oomp_key_extra: oomp_footprint_akiyukiokayasu_kicad_akiyuki_footprint_lqfp_144_20x20mm_p0_5mm
+    oomp_key_full: oomp_footprint_akiyukiokayasu_kicad_akiyuki_footprint_lqfp_144_20x20mm_p0_5mm_037476
+    oomp_key_simple: akiyukiokayasu_kicad_akiyuki_footprint_lqfp_144_20x20mm_p0_5mm
+    original_filename: Kicad_Akiyuki_Footprint.pretty/LQFP-144_20x20mm_P0.5mm.kicad_mod
+    owner_name: akiyukiokayasu
   oomp_key: oomp_akiyukiokayasu_kicad_akiyuki_footprint_lqfp_144_20x20mm_p0_5mm
+  oomp_key_full: oomp_footprint_akiyukiokayasu_kicad_akiyuki_footprint_lqfp_144_20x20mm_p0_5mm
   oomp_key_simple: akiyukiokayasu_kicad_akiyuki_footprint_lqfp_144_20x20mm_p0_5mm
   owner: AkiyukiOkayasu
   repo:

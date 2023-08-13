@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/peekpt_w_conn_pc_conn_hdd_15_24_4449/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/peekpt_w_conn_pc_conn_hdd_15_24_4449/working
-    oomp_doc: footprints/footprints/peekpt/w_conn_pc/conn_hdd_15-24-4449/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/peekpt/w_conn_pc/conn_hdd_15-24-4449/working
     oomp_src_flat: footprints_flat/footprints_flat/peekpt_w_conn_pc_conn_hdd_15_24_4449/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/peekpt_w_conn_pc_conn_hdd_15_24_4449/working
-    oomp_src_folder: footprints_folder/footprints_folder/peekpt/w_conn_pc/conn_hdd_15-24-4449/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/peekpt/w_conn_pc/conn_hdd_15-24-4449/working
   name: kicad_smisioto
+  oomp:
+    footprint_name: conn_hdd_15_24_4449
+    library_name: w_conn_pc
+    md5: aa3a0958fa0adffc6e98390aa92a01ff
+    md5_10: aa3a0958fa
+    md5_5: aa3a0
+    md5_6: aa3a09
+    oomp_key: oomp_peekpt_w_conn_pc_conn_hdd_15_24_4449
+    oomp_key_extra: oomp_footprint_peekpt_w_conn_pc_conn_hdd_15_24_4449
+    oomp_key_full: oomp_footprint_peekpt_w_conn_pc_conn_hdd_15_24_4449_aa3a09
+    oomp_key_simple: peekpt_w_conn_pc_conn_hdd_15_24_4449
+    original_filename: kicad_smisioto/modules/walter/w_conn_pc.pretty/conn_hdd_15-24-4449.kicad_mod
+    owner_name: peekpt
   oomp_key: oomp_peekpt_w_conn_pc_conn_hdd_15_24_4449
+  oomp_key_full: oomp_footprint_peekpt_w_conn_pc_conn_hdd_15_24_4449
   oomp_key_simple: peekpt_w_conn_pc_conn_hdd_15_24_4449
   owner: peekpt
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/audrentis_mx_plate_footprints_1_75u/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/audrentis_mx_plate_footprints_1_75u/working
-    oomp_doc: footprints/footprints/audrentis/MX_Plate_Footprints/1.75u/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/audrentis/MX_Plate_Footprints/1.75u/working
     oomp_src_flat: footprints_flat/footprints_flat/audrentis_mx_plate_footprints_1_75u/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/audrentis_mx_plate_footprints_1_75u/working
-    oomp_src_folder: footprints_folder/footprints_folder/audrentis/MX_Plate_Footprints/1.75u/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/audrentis/MX_Plate_Footprints/1.75u/working
   name: MX_Plate_Footprints.pretty
+  oomp:
+    footprint_name: 1_75u
+    library_name: mx_plate_footprints
+    md5: c7f1a85ed421edeb6680227942099fe3
+    md5_10: c7f1a85ed4
+    md5_5: c7f1a
+    md5_6: c7f1a8
+    oomp_key: oomp_audrentis_mx_plate_footprints_1_75u
+    oomp_key_extra: oomp_footprint_audrentis_mx_plate_footprints_1_75u
+    oomp_key_full: oomp_footprint_audrentis_mx_plate_footprints_1_75u_c7f1a8
+    oomp_key_simple: audrentis_mx_plate_footprints_1_75u
+    original_filename: MX_Plate_Footprints.pretty/1.75u.kicad_mod
+    owner_name: audrentis
   oomp_key: oomp_audrentis_mx_plate_footprints_1_75u
+  oomp_key_full: oomp_footprint_audrentis_mx_plate_footprints_1_75u
   oomp_key_simple: audrentis_mx_plate_footprints_1_75u
   owner: audrentis
   repo:

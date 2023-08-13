@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/AcheronProject/acheron_Connectors.pretty
     oomp_bot: footprints/acheronproject_acheron_connectors_811_22_004_30_000101_tht/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/acheronproject_acheron_connectors_811_22_004_30_000101_tht/working
-    oomp_doc: footprints/footprints/AcheronProject/acheron_Connectors/811-22-004-30-000101_THT/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/AcheronProject/acheron_Connectors/811-22-004-30-000101_THT/working
     oomp_src_flat: footprints_flat/footprints_flat/acheronproject_acheron_connectors_811_22_004_30_000101_tht/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/acheronproject_acheron_connectors_811_22_004_30_000101_tht/working
-    oomp_src_folder: footprints_folder/footprints_folder/AcheronProject/acheron_Connectors/811-22-004-30-000101_THT/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/AcheronProject/acheron_Connectors/811-22-004-30-000101_THT/working
   name: acheron_Connectors.pretty
+  oomp:
+    footprint_name: 811_22_004_30_000101_tht
+    library_name: acheron_connectors
+    md5: 4c09f52e58428e57d21939306b0225d0
+    md5_10: 4c09f52e58
+    md5_5: 4c09f
+    md5_6: 4c09f5
+    oomp_key: oomp_acheronproject_acheron_connectors_811_22_004_30_000101_tht
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_connectors_811_22_004_30_000101_tht
+    oomp_key_full: oomp_footprint_acheronproject_acheron_connectors_811_22_004_30_000101_tht_4c09f5
+    oomp_key_simple: acheronproject_acheron_connectors_811_22_004_30_000101_tht
+    original_filename: acheron_Connectors.pretty/811-22-004-30-000101_THT.kicad_mod
+    owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_connectors_811_22_004_30_000101_tht
+  oomp_key_full: oomp_footprint_acheronproject_acheron_connectors_811_22_004_30_000101_tht
   oomp_key_simple: acheronproject_acheron_connectors_811_22_004_30_000101_tht
   owner: AcheronProject
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/peekpt_w_vacuum_socket_gzc7_y/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/peekpt_w_vacuum_socket_gzc7_y/working
-    oomp_doc: footprints/footprints/peekpt/w_vacuum/socket_gzc7-y/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/peekpt/w_vacuum/socket_gzc7-y/working
     oomp_src_flat: footprints_flat/footprints_flat/peekpt_w_vacuum_socket_gzc7_y/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/peekpt_w_vacuum_socket_gzc7_y/working
-    oomp_src_folder: footprints_folder/footprints_folder/peekpt/w_vacuum/socket_gzc7-y/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/peekpt/w_vacuum/socket_gzc7-y/working
   name: kicad_smisioto
+  oomp:
+    footprint_name: socket_gzc7_y
+    library_name: w_vacuum
+    md5: 781263f12525a67579c71d7191c82a4f
+    md5_10: 781263f125
+    md5_5: '78126'
+    md5_6: '781263'
+    oomp_key: oomp_peekpt_w_vacuum_socket_gzc7_y
+    oomp_key_extra: oomp_footprint_peekpt_w_vacuum_socket_gzc7_y
+    oomp_key_full: oomp_footprint_peekpt_w_vacuum_socket_gzc7_y_781263
+    oomp_key_simple: peekpt_w_vacuum_socket_gzc7_y
+    original_filename: kicad_smisioto/modules/walter/w_vacuum.pretty/socket_gzc7-y.kicad_mod
+    owner_name: peekpt
   oomp_key: oomp_peekpt_w_vacuum_socket_gzc7_y
+  oomp_key_full: oomp_footprint_peekpt_w_vacuum_socket_gzc7_y
   oomp_key_simple: peekpt_w_vacuum_socket_gzc7_y
   owner: peekpt
   repo:

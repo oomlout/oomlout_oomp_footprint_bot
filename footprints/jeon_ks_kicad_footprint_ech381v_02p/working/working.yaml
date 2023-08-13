@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/jeon_ks_kicad_footprint_ech381v_02p/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/jeon_ks_kicad_footprint_ech381v_02p/working
-    oomp_doc: footprints/footprints/JEON-KS/Kicad_Footprint/ECH381V-02P/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/JEON-KS/Kicad_Footprint/ECH381V-02P/working
     oomp_src_flat: footprints_flat/footprints_flat/jeon_ks_kicad_footprint_ech381v_02p/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/jeon_ks_kicad_footprint_ech381v_02p/working
-    oomp_src_folder: footprints_folder/footprints_folder/JEON-KS/Kicad_Footprint/ECH381V-02P/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/JEON-KS/Kicad_Footprint/ECH381V-02P/working
   name: Kicad_Footprint.pretty
+  oomp:
+    footprint_name: ech381v_02p
+    library_name: kicad_footprint
+    md5: e81b1735b6f91eed34f2996e43d7ad5b
+    md5_10: e81b1735b6
+    md5_5: e81b1
+    md5_6: e81b17
+    oomp_key: oomp_jeon_ks_kicad_footprint_ech381v_02p
+    oomp_key_extra: oomp_footprint_jeon_ks_kicad_footprint_ech381v_02p
+    oomp_key_full: oomp_footprint_jeon_ks_kicad_footprint_ech381v_02p_e81b17
+    oomp_key_simple: jeon_ks_kicad_footprint_ech381v_02p
+    original_filename: Kicad_Footprint.pretty/ECH381V-02P.kicad_mod
+    owner_name: jeon_ks
   oomp_key: oomp_jeon_ks_kicad_footprint_ech381v_02p
+  oomp_key_full: oomp_footprint_jeon_ks_kicad_footprint_ech381v_02p
   oomp_key_simple: jeon_ks_kicad_footprint_ech381v_02p
   owner: JEON-KS
   repo:

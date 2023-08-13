@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/sherifeid_robolib_tssop_14_4_4x5mm_pitch0_65mm_ep/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/sherifeid_robolib_tssop_14_4_4x5mm_pitch0_65mm_ep/working
-    oomp_doc: footprints/footprints/sherifeid/RoboLib/TSSOP-14_4.4x5mm_Pitch0.65mm_EP/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/sherifeid/RoboLib/TSSOP-14_4.4x5mm_Pitch0.65mm_EP/working
     oomp_src_flat: footprints_flat/footprints_flat/sherifeid_robolib_tssop_14_4_4x5mm_pitch0_65mm_ep/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/sherifeid_robolib_tssop_14_4_4x5mm_pitch0_65mm_ep/working
-    oomp_src_folder: footprints_folder/footprints_folder/sherifeid/RoboLib/TSSOP-14_4.4x5mm_Pitch0.65mm_EP/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/sherifeid/RoboLib/TSSOP-14_4.4x5mm_Pitch0.65mm_EP/working
   name: RoboLib.pretty
+  oomp:
+    footprint_name: tssop_14_4_4x5mm_pitch0_65mm_ep
+    library_name: robolib
+    md5: 6e135726deb62473ebb3937e3b32d35a
+    md5_10: 6e135726de
+    md5_5: 6e135
+    md5_6: 6e1357
+    oomp_key: oomp_sherifeid_robolib_tssop_14_4_4x5mm_pitch0_65mm_ep
+    oomp_key_extra: oomp_footprint_sherifeid_robolib_tssop_14_4_4x5mm_pitch0_65mm_ep
+    oomp_key_full: oomp_footprint_sherifeid_robolib_tssop_14_4_4x5mm_pitch0_65mm_ep_6e1357
+    oomp_key_simple: sherifeid_robolib_tssop_14_4_4x5mm_pitch0_65mm_ep
+    original_filename: RoboLib.pretty/TSSOP-14_4.4x5mm_Pitch0.65mm_EP.kicad_mod
+    owner_name: sherifeid
   oomp_key: oomp_sherifeid_robolib_tssop_14_4_4x5mm_pitch0_65mm_ep
+  oomp_key_full: oomp_footprint_sherifeid_robolib_tssop_14_4_4x5mm_pitch0_65mm_ep
   oomp_key_simple: sherifeid_robolib_tssop_14_4_4x5mm_pitch0_65mm_ep
   owner: sherifeid
   repo:

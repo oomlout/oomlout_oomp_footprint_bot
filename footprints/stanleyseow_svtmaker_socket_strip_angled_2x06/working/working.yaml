@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/stanleyseow_svtmaker_socket_strip_angled_2x06/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stanleyseow_svtmaker_socket_strip_angled_2x06/working
-    oomp_doc: footprints/footprints/stanleyseow/SVTmaker/Socket_Strip_Angled_2x06/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/stanleyseow/SVTmaker/Socket_Strip_Angled_2x06/working
     oomp_src_flat: footprints_flat/footprints_flat/stanleyseow_svtmaker_socket_strip_angled_2x06/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/stanleyseow_svtmaker_socket_strip_angled_2x06/working
-    oomp_src_folder: footprints_folder/footprints_folder/stanleyseow/SVTmaker/Socket_Strip_Angled_2x06/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/stanleyseow/SVTmaker/Socket_Strip_Angled_2x06/working
   name: SVTmaker.pretty
+  oomp:
+    footprint_name: socket_strip_angled_2x06
+    library_name: svtmaker
+    md5: 24a68bf892aa60cb167cf5168b1a39dd
+    md5_10: 24a68bf892
+    md5_5: 24a68
+    md5_6: 24a68b
+    oomp_key: oomp_stanleyseow_svtmaker_socket_strip_angled_2x06
+    oomp_key_extra: oomp_footprint_stanleyseow_svtmaker_socket_strip_angled_2x06
+    oomp_key_full: oomp_footprint_stanleyseow_svtmaker_socket_strip_angled_2x06_24a68b
+    oomp_key_simple: stanleyseow_svtmaker_socket_strip_angled_2x06
+    original_filename: SVTmaker.pretty/Socket_Strip_Angled_2x06.kicad_mod
+    owner_name: stanleyseow
   oomp_key: oomp_stanleyseow_svtmaker_socket_strip_angled_2x06
+  oomp_key_full: oomp_footprint_stanleyseow_svtmaker_socket_strip_angled_2x06
   oomp_key_simple: stanleyseow_svtmaker_socket_strip_angled_2x06
   owner: stanleyseow
   repo:

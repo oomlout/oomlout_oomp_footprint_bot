@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/kubiX89/kiCAD.pretty
     oomp_bot: footprints/kubix89_kicad_sip5/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kubix89_kicad_sip5/working
-    oomp_doc: footprints/footprints/kubiX89/kiCAD/SIP5/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kubiX89/kiCAD/SIP5/working
     oomp_src_flat: footprints_flat/footprints_flat/kubix89_kicad_sip5/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kubix89_kicad_sip5/working
-    oomp_src_folder: footprints_folder/footprints_folder/kubiX89/kiCAD/SIP5/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kubiX89/kiCAD/SIP5/working
   name: kiCAD.pretty
+  oomp:
+    footprint_name: sip5
+    library_name: kicad
+    md5: 4c8bea69ac6238e41a09d85b41ff0339
+    md5_10: 4c8bea69ac
+    md5_5: 4c8be
+    md5_6: 4c8bea
+    oomp_key: oomp_kubix89_kicad_sip5
+    oomp_key_extra: oomp_footprint_kubix89_kicad_sip5
+    oomp_key_full: oomp_footprint_kubix89_kicad_sip5_4c8bea
+    oomp_key_simple: kubix89_kicad_sip5
+    original_filename: kiCAD.pretty/SIP5.kicad_mod
+    owner_name: kubix89
   oomp_key: oomp_kubix89_kicad_sip5
+  oomp_key_full: oomp_footprint_kubix89_kicad_sip5
   oomp_key_simple: kubix89_kicad_sip5
   owner: kubiX89
   repo:

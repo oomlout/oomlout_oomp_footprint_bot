@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_13r334c_13r334c/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_13r334c_13r334c/working
-    oomp_doc: footprints/footprints/brunoeagle/13R334C.kicad_mod/13R334C/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/13R334C.kicad_mod/13R334C/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_13r334c_13r334c/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_13r334c_13r334c/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/13R334C.kicad_mod/13R334C/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/13R334C.kicad_mod/13R334C/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: 13r334c
+    library_name: 13r334c_kicad_mod
+    md5: 0292996a921af713168b7430a76c5883
+    md5_10: 0292996a92
+    md5_5: 02929
+    md5_6: 029299
+    oomp_key: oomp_brunoeagle_13r334c_13r334c
+    oomp_key_extra: oomp_footprint_brunoeagle_13r334c_13r334c
+    oomp_key_full: oomp_footprint_brunoeagle_13r334c_13r334c_029299
+    oomp_key_simple: brunoeagle_13r334c_13r334c
+    original_filename: kicad-open-modules/13R334C.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_13r334c_13r334c
+  oomp_key_full: oomp_footprint_brunoeagle_13r334c_13r334c
   oomp_key_simple: brunoeagle_13r334c_13r334c
   owner: brunoeagle
   repo:

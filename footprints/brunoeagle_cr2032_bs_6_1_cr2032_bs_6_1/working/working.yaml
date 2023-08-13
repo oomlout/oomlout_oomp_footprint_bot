@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_cr2032_bs_6_1_cr2032_bs_6_1/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_cr2032_bs_6_1_cr2032_bs_6_1/working
-    oomp_doc: footprints/footprints/brunoeagle/CR2032-BS-6-1.kicad_mod/CR2032-BS-6-1/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/CR2032-BS-6-1.kicad_mod/CR2032-BS-6-1/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_cr2032_bs_6_1_cr2032_bs_6_1/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_cr2032_bs_6_1_cr2032_bs_6_1/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/CR2032-BS-6-1.kicad_mod/CR2032-BS-6-1/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/CR2032-BS-6-1.kicad_mod/CR2032-BS-6-1/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: cr2032_bs_6_1
+    library_name: cr2032_bs_6_1_kicad_mod
+    md5: 2f6a9e02e84088ee86e77c1fc6404b2d
+    md5_10: 2f6a9e02e8
+    md5_5: 2f6a9
+    md5_6: 2f6a9e
+    oomp_key: oomp_brunoeagle_cr2032_bs_6_1_cr2032_bs_6_1
+    oomp_key_extra: oomp_footprint_brunoeagle_cr2032_bs_6_1_cr2032_bs_6_1
+    oomp_key_full: oomp_footprint_brunoeagle_cr2032_bs_6_1_cr2032_bs_6_1_2f6a9e
+    oomp_key_simple: brunoeagle_cr2032_bs_6_1_cr2032_bs_6_1
+    original_filename: kicad-open-modules/CR2032-BS-6-1.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_cr2032_bs_6_1_cr2032_bs_6_1
+  oomp_key_full: oomp_footprint_brunoeagle_cr2032_bs_6_1_cr2032_bs_6_1
   oomp_key_simple: brunoeagle_cr2032_bs_6_1_cr2032_bs_6_1
   owner: brunoeagle
   repo:

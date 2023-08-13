@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/fruchti_to_to92/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/fruchti_to_to92/working
-    oomp_doc: footprints/footprints/fruchti/to/TO92/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/fruchti/to/TO92/working
     oomp_src_flat: footprints_flat/footprints_flat/fruchti_to_to92/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/fruchti_to_to92/working
-    oomp_src_folder: footprints_folder/footprints_folder/fruchti/to/TO92/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/fruchti/to/TO92/working
   name: fruchtilib
+  oomp:
+    footprint_name: to92
+    library_name: to
+    md5: c120d078d05659f53a7e5e1ef6b03c75
+    md5_10: c120d078d0
+    md5_5: c120d
+    md5_6: c120d0
+    oomp_key: oomp_fruchti_to_to92
+    oomp_key_extra: oomp_footprint_fruchti_to_to92
+    oomp_key_full: oomp_footprint_fruchti_to_to92_c120d0
+    oomp_key_simple: fruchti_to_to92
+    original_filename: fruchtilib/mod/to.pretty/TO92.kicad_mod
+    owner_name: fruchti
   oomp_key: oomp_fruchti_to_to92
+  oomp_key_full: oomp_footprint_fruchti_to_to92
   oomp_key_simple: fruchti_to_to92
   owner: fruchti
   repo:

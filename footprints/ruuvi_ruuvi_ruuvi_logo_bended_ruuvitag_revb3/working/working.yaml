@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/ruuvi_ruuvi_ruuvi_logo_bended_ruuvitag_revb3/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ruuvi_ruuvi_ruuvi_logo_bended_ruuvitag_revb3/working
-    oomp_doc: footprints/footprints/ruuvi/Ruuvi/RUUVI_LOGO_BENDED_RUUVITAG_REVB3/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ruuvi/Ruuvi/RUUVI_LOGO_BENDED_RUUVITAG_REVB3/working
     oomp_src_flat: footprints_flat/footprints_flat/ruuvi_ruuvi_ruuvi_logo_bended_ruuvitag_revb3/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ruuvi_ruuvi_ruuvi_logo_bended_ruuvitag_revb3/working
-    oomp_src_folder: footprints_folder/footprints_folder/ruuvi/Ruuvi/RUUVI_LOGO_BENDED_RUUVITAG_REVB3/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ruuvi/Ruuvi/RUUVI_LOGO_BENDED_RUUVITAG_REVB3/working
   name: kicad-library
+  oomp:
+    footprint_name: ruuvi_logo_bended_ruuvitag_revb3
+    library_name: ruuvi
+    md5: b9481d65522384785658b77a6199c892
+    md5_10: b9481d6552
+    md5_5: b9481
+    md5_6: b9481d
+    oomp_key: oomp_ruuvi_ruuvi_ruuvi_logo_bended_ruuvitag_revb3
+    oomp_key_extra: oomp_footprint_ruuvi_ruuvi_ruuvi_logo_bended_ruuvitag_revb3
+    oomp_key_full: oomp_footprint_ruuvi_ruuvi_ruuvi_logo_bended_ruuvitag_revb3_b9481d
+    oomp_key_simple: ruuvi_ruuvi_ruuvi_logo_bended_ruuvitag_revb3
+    original_filename: kicad-library/Ruuvi.pretty/RUUVI_LOGO_BENDED_RUUVITAG_REVB3.kicad_mod
+    owner_name: ruuvi
   oomp_key: oomp_ruuvi_ruuvi_ruuvi_logo_bended_ruuvitag_revb3
+  oomp_key_full: oomp_footprint_ruuvi_ruuvi_ruuvi_logo_bended_ruuvitag_revb3
   oomp_key_simple: ruuvi_ruuvi_ruuvi_logo_bended_ruuvitag_revb3
   owner: ruuvi
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/mmmspatz_mspatz_rflab_kicad_footprints_fuse_littelfuse_452_454/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/mmmspatz_mspatz_rflab_kicad_footprints_fuse_littelfuse_452_454/working
-    oomp_doc: footprints/footprints/mmmspatz/mspatz_RFlab_Kicad_footprints/FUSE_Littelfuse_452_454/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/mmmspatz/mspatz_RFlab_Kicad_footprints/FUSE_Littelfuse_452_454/working
     oomp_src_flat: footprints_flat/footprints_flat/mmmspatz_mspatz_rflab_kicad_footprints_fuse_littelfuse_452_454/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/mmmspatz_mspatz_rflab_kicad_footprints_fuse_littelfuse_452_454/working
-    oomp_src_folder: footprints_folder/footprints_folder/mmmspatz/mspatz_RFlab_Kicad_footprints/FUSE_Littelfuse_452_454/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/mmmspatz/mspatz_RFlab_Kicad_footprints/FUSE_Littelfuse_452_454/working
   name: mspatz_RFlab_Kicad_footprints.pretty
+  oomp:
+    footprint_name: fuse_littelfuse_452_454
+    library_name: mspatz_rflab_kicad_footprints
+    md5: 8b096f8cd98b1d69605c92913d6f2893
+    md5_10: 8b096f8cd9
+    md5_5: 8b096
+    md5_6: 8b096f
+    oomp_key: oomp_mmmspatz_mspatz_rflab_kicad_footprints_fuse_littelfuse_452_454
+    oomp_key_extra: oomp_footprint_mmmspatz_mspatz_rflab_kicad_footprints_fuse_littelfuse_452_454
+    oomp_key_full: oomp_footprint_mmmspatz_mspatz_rflab_kicad_footprints_fuse_littelfuse_452_454_8b096f
+    oomp_key_simple: mmmspatz_mspatz_rflab_kicad_footprints_fuse_littelfuse_452_454
+    original_filename: mspatz_RFlab_Kicad_footprints.pretty/FUSE_Littelfuse_452_454.kicad_mod
+    owner_name: mmmspatz
   oomp_key: oomp_mmmspatz_mspatz_rflab_kicad_footprints_fuse_littelfuse_452_454
+  oomp_key_full: oomp_footprint_mmmspatz_mspatz_rflab_kicad_footprints_fuse_littelfuse_452_454
   oomp_key_simple: mmmspatz_mspatz_rflab_kicad_footprints_fuse_littelfuse_452_454
   owner: mmmspatz
   repo:

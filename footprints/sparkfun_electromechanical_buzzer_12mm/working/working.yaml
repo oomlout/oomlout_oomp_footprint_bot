@@ -1,24 +1,34 @@
-- file: SparkFun-KiCad-Libraries/Footprints/Electromechanical.pretty/BUZZER-12MM.kicad_mod
+- file: SparkFun-KiCad-Libraries/Pre_v7/Footprints/Electromechanical.pretty/BUZZER-12MM.kicad_mod
   footprint:
     description: 12MM BUZZER - PTH
     libraryLink: BUZZER-12MM
     number_of_pads: 2
   footprint_library_directory: footprint_library_owner/sparkfun_SparkFun-KiCad-Libraries
   footprint_library_directory_flat: footprints_flat/sparkfun_electromechanical_buzzer_12mm/working
-  github_path: http://github.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Footprints/Electromechanical.pretty/BUZZER-12MM.kicad_mod
+  github_path: http://github.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Pre_v7/Footprints/Electromechanical.pretty/BUZZER-12MM.kicad_mod
   links:
-    github_src: http://gitlab.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Tools/SparkFun-Eagle-Libraries_Conversion/Export.pretty/DFN-6-3X3.kicad_mod
+    github_src: http://gitlab.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Pre_v7/Tools/SparkFun-Eagle-Libraries_Conversion/Export.pretty/DFN-6-3X3.kicad_mod
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/sparkfun_electromechanical_buzzer_12mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/sparkfun_electromechanical_buzzer_12mm/working
-    oomp_doc: footprints/footprints/sparkfun/Electromechanical/BUZZER-12MM/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/sparkfun/Electromechanical/BUZZER-12MM/working
     oomp_src_flat: footprints_flat/footprints_flat/sparkfun_electromechanical_buzzer_12mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/sparkfun_electromechanical_buzzer_12mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/sparkfun/Electromechanical/BUZZER-12MM/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/sparkfun/Electromechanical/BUZZER-12MM/working
   name: SparkFun-KiCad-Libraries
+  oomp:
+    footprint_name: buzzer_12mm
+    library_name: electromechanical
+    md5: 927cd1dcd833b3c7962ece592f95f355
+    md5_10: 927cd1dcd8
+    md5_5: 927cd
+    md5_6: 927cd1
+    oomp_key: oomp_sparkfun_electromechanical_buzzer_12mm
+    oomp_key_extra: oomp_footprint_sparkfun_electromechanical_buzzer_12mm
+    oomp_key_full: oomp_footprint_sparkfun_electromechanical_buzzer_12mm_927cd1
+    oomp_key_simple: sparkfun_electromechanical_buzzer_12mm
+    original_filename: SparkFun-KiCad-Libraries/Pre_v7/Footprints/Electromechanical.pretty/BUZZER-12MM.kicad_mod
+    owner_name: sparkfun
   oomp_key: oomp_sparkfun_electromechanical_buzzer_12mm
+  oomp_key_full: oomp_footprint_sparkfun_electromechanical_buzzer_12mm
   oomp_key_simple: sparkfun_electromechanical_buzzer_12mm
   owner: sparkfun
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/joem_jwm_kicad_footprints_misc_switch_toggle_mountain_switch_10tf230_horizontal/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/joem_jwm_kicad_footprints_misc_switch_toggle_mountain_switch_10tf230_horizontal/working
-    oomp_doc: footprints/footprints/joem/jwm_kicad_footprints_misc/Switch_Toggle_Mountain-Switch_10TF230_Horizontal/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/joem/jwm_kicad_footprints_misc/Switch_Toggle_Mountain-Switch_10TF230_Horizontal/working
     oomp_src_flat: footprints_flat/footprints_flat/joem_jwm_kicad_footprints_misc_switch_toggle_mountain_switch_10tf230_horizontal/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/joem_jwm_kicad_footprints_misc_switch_toggle_mountain_switch_10tf230_horizontal/working
-    oomp_src_folder: footprints_folder/footprints_folder/joem/jwm_kicad_footprints_misc/Switch_Toggle_Mountain-Switch_10TF230_Horizontal/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/joem/jwm_kicad_footprints_misc/Switch_Toggle_Mountain-Switch_10TF230_Horizontal/working
   name: jwm_kicad_footprints_misc.pretty
+  oomp:
+    footprint_name: switch_toggle_mountain_switch_10tf230_horizontal
+    library_name: jwm_kicad_footprints_misc
+    md5: 1e107122fe9a5c33187a84c61f0ff030
+    md5_10: 1e107122fe
+    md5_5: 1e107
+    md5_6: 1e1071
+    oomp_key: oomp_joem_jwm_kicad_footprints_misc_switch_toggle_mountain_switch_10tf230_horizontal
+    oomp_key_extra: oomp_footprint_joem_jwm_kicad_footprints_misc_switch_toggle_mountain_switch_10tf230_horizontal
+    oomp_key_full: oomp_footprint_joem_jwm_kicad_footprints_misc_switch_toggle_mountain_switch_10tf230_horizontal_1e1071
+    oomp_key_simple: joem_jwm_kicad_footprints_misc_switch_toggle_mountain_switch_10tf230_horizontal
+    original_filename: jwm_kicad_footprints_misc.pretty/Switch_Toggle_Mountain-Switch_10TF230_Horizontal.kicad_mod
+    owner_name: joem
   oomp_key: oomp_joem_jwm_kicad_footprints_misc_switch_toggle_mountain_switch_10tf230_horizontal
+  oomp_key_full: oomp_footprint_joem_jwm_kicad_footprints_misc_switch_toggle_mountain_switch_10tf230_horizontal
   oomp_key_simple: joem_jwm_kicad_footprints_misc_switch_toggle_mountain_switch_10tf230_horizontal
   owner: joem
   repo:

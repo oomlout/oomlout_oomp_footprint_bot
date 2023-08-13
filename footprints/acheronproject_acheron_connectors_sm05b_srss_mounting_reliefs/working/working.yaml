@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/AcheronProject/acheron_Connectors.pretty
     oomp_bot: footprints/acheronproject_acheron_connectors_sm05b_srss_mounting_reliefs/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/acheronproject_acheron_connectors_sm05b_srss_mounting_reliefs/working
-    oomp_doc: footprints/footprints/AcheronProject/acheron_Connectors/SM05B-SRSS_mounting-reliefs/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/AcheronProject/acheron_Connectors/SM05B-SRSS_mounting-reliefs/working
     oomp_src_flat: footprints_flat/footprints_flat/acheronproject_acheron_connectors_sm05b_srss_mounting_reliefs/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/acheronproject_acheron_connectors_sm05b_srss_mounting_reliefs/working
-    oomp_src_folder: footprints_folder/footprints_folder/AcheronProject/acheron_Connectors/SM05B-SRSS_mounting-reliefs/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/AcheronProject/acheron_Connectors/SM05B-SRSS_mounting-reliefs/working
   name: acheron_Connectors.pretty
+  oomp:
+    footprint_name: sm05b_srss_mounting_reliefs
+    library_name: acheron_connectors
+    md5: 143c63670e805132304ab45dbe7234e6
+    md5_10: 143c63670e
+    md5_5: 143c6
+    md5_6: 143c63
+    oomp_key: oomp_acheronproject_acheron_connectors_sm05b_srss_mounting_reliefs
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_connectors_sm05b_srss_mounting_reliefs
+    oomp_key_full: oomp_footprint_acheronproject_acheron_connectors_sm05b_srss_mounting_reliefs_143c63
+    oomp_key_simple: acheronproject_acheron_connectors_sm05b_srss_mounting_reliefs
+    original_filename: acheron_Connectors.pretty/SM05B-SRSS_mounting-reliefs.kicad_mod
+    owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_connectors_sm05b_srss_mounting_reliefs
+  oomp_key_full: oomp_footprint_acheronproject_acheron_connectors_sm05b_srss_mounting_reliefs
   oomp_key_simple: acheronproject_acheron_connectors_sm05b_srss_mounting_reliefs
   owner: AcheronProject
   repo:

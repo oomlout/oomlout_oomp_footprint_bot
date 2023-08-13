@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/hairymnstr_nathan_tht_dc_jack_swc_rapc712x/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/hairymnstr_nathan_tht_dc_jack_swc_rapc712x/working
-    oomp_doc: footprints/footprints/hairymnstr/Nathan_THT/DC_JACK_SWC_RAPC712X/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/hairymnstr/Nathan_THT/DC_JACK_SWC_RAPC712X/working
     oomp_src_flat: footprints_flat/footprints_flat/hairymnstr_nathan_tht_dc_jack_swc_rapc712x/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/hairymnstr_nathan_tht_dc_jack_swc_rapc712x/working
-    oomp_src_folder: footprints_folder/footprints_folder/hairymnstr/Nathan_THT/DC_JACK_SWC_RAPC712X/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/hairymnstr/Nathan_THT/DC_JACK_SWC_RAPC712X/working
   name: Nathan_THT.pretty
+  oomp:
+    footprint_name: dc_jack_swc_rapc712x
+    library_name: nathan_tht
+    md5: 71812ecdf657ae28f14c22c417a74515
+    md5_10: 71812ecdf6
+    md5_5: '71812'
+    md5_6: 71812e
+    oomp_key: oomp_hairymnstr_nathan_tht_dc_jack_swc_rapc712x
+    oomp_key_extra: oomp_footprint_hairymnstr_nathan_tht_dc_jack_swc_rapc712x
+    oomp_key_full: oomp_footprint_hairymnstr_nathan_tht_dc_jack_swc_rapc712x_71812e
+    oomp_key_simple: hairymnstr_nathan_tht_dc_jack_swc_rapc712x
+    original_filename: Nathan_THT.pretty/DC_JACK_SWC_RAPC712X.kicad_mod
+    owner_name: hairymnstr
   oomp_key: oomp_hairymnstr_nathan_tht_dc_jack_swc_rapc712x
+  oomp_key_full: oomp_footprint_hairymnstr_nathan_tht_dc_jack_swc_rapc712x
   oomp_key_simple: hairymnstr_nathan_tht_dc_jack_swc_rapc712x
   owner: hairymnstr
   repo:

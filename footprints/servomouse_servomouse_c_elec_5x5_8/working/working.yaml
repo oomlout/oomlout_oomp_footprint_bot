@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/servomouse_servomouse_c_elec_5x5_8/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/servomouse_servomouse_c_elec_5x5_8/working
-    oomp_doc: footprints/footprints/servomouse/servomouse/C_Elec_5x5.8/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/servomouse/servomouse/C_Elec_5x5.8/working
     oomp_src_flat: footprints_flat/footprints_flat/servomouse_servomouse_c_elec_5x5_8/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/servomouse_servomouse_c_elec_5x5_8/working
-    oomp_src_folder: footprints_folder/footprints_folder/servomouse/servomouse/C_Elec_5x5.8/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/servomouse/servomouse/C_Elec_5x5.8/working
   name: servomouse.pretty
+  oomp:
+    footprint_name: c_elec_5x5_8
+    library_name: servomouse
+    md5: 2ad5a0306d88fbeb48fd6936df619766
+    md5_10: 2ad5a0306d
+    md5_5: 2ad5a
+    md5_6: 2ad5a0
+    oomp_key: oomp_servomouse_servomouse_c_elec_5x5_8
+    oomp_key_extra: oomp_footprint_servomouse_servomouse_c_elec_5x5_8
+    oomp_key_full: oomp_footprint_servomouse_servomouse_c_elec_5x5_8_2ad5a0
+    oomp_key_simple: servomouse_servomouse_c_elec_5x5_8
+    original_filename: servomouse.pretty/C_Elec_5x5.8.kicad_mod
+    owner_name: servomouse
   oomp_key: oomp_servomouse_servomouse_c_elec_5x5_8
+  oomp_key_full: oomp_footprint_servomouse_servomouse_c_elec_5x5_8
   oomp_key_simple: servomouse_servomouse_c_elec_5x5_8
   owner: servomouse
   repo:

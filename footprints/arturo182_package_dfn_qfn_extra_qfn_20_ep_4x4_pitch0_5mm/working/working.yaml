@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/arturo182/kicad-modules
     oomp_bot: footprints/arturo182_package_dfn_qfn_extra_qfn_20_ep_4x4_pitch0_5mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/arturo182_package_dfn_qfn_extra_qfn_20_ep_4x4_pitch0_5mm/working
-    oomp_doc: footprints/footprints/arturo182/Package_DFN_QFN_Extra/QFN-20_EP_4x4_Pitch0.5mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/arturo182/Package_DFN_QFN_Extra/QFN-20_EP_4x4_Pitch0.5mm/working
     oomp_src_flat: footprints_flat/footprints_flat/arturo182_package_dfn_qfn_extra_qfn_20_ep_4x4_pitch0_5mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/arturo182_package_dfn_qfn_extra_qfn_20_ep_4x4_pitch0_5mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/arturo182/Package_DFN_QFN_Extra/QFN-20_EP_4x4_Pitch0.5mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/arturo182/Package_DFN_QFN_Extra/QFN-20_EP_4x4_Pitch0.5mm/working
   name: kicad-modules
+  oomp:
+    footprint_name: qfn_20_ep_4x4_pitch0_5mm
+    library_name: package_dfn_qfn_extra
+    md5: fcf51be7b2b156945be25a626fce3267
+    md5_10: fcf51be7b2
+    md5_5: fcf51
+    md5_6: fcf51b
+    oomp_key: oomp_arturo182_package_dfn_qfn_extra_qfn_20_ep_4x4_pitch0_5mm
+    oomp_key_extra: oomp_footprint_arturo182_package_dfn_qfn_extra_qfn_20_ep_4x4_pitch0_5mm
+    oomp_key_full: oomp_footprint_arturo182_package_dfn_qfn_extra_qfn_20_ep_4x4_pitch0_5mm_fcf51b
+    oomp_key_simple: arturo182_package_dfn_qfn_extra_qfn_20_ep_4x4_pitch0_5mm
+    original_filename: kicad-modules/Package_DFN_QFN_Extra.pretty/QFN-20_EP_4x4_Pitch0.5mm.kicad_mod
+    owner_name: arturo182
   oomp_key: oomp_arturo182_package_dfn_qfn_extra_qfn_20_ep_4x4_pitch0_5mm
+  oomp_key_full: oomp_footprint_arturo182_package_dfn_qfn_extra_qfn_20_ep_4x4_pitch0_5mm
   oomp_key_simple: arturo182_package_dfn_qfn_extra_qfn_20_ep_4x4_pitch0_5mm
   owner: arturo182
   repo:

@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/madworm/Potentiometers.pretty
     oomp_bot: footprints/madworm_potentiometers_vishay_534_pot/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/madworm_potentiometers_vishay_534_pot/working
-    oomp_doc: footprints/footprints/madworm/Potentiometers/VISHAY_534_pot/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/madworm/Potentiometers/VISHAY_534_pot/working
     oomp_src_flat: footprints_flat/footprints_flat/madworm_potentiometers_vishay_534_pot/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/madworm_potentiometers_vishay_534_pot/working
-    oomp_src_folder: footprints_folder/footprints_folder/madworm/Potentiometers/VISHAY_534_pot/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/madworm/Potentiometers/VISHAY_534_pot/working
   name: Potentiometers.pretty
+  oomp:
+    footprint_name: vishay_534_pot
+    library_name: potentiometers
+    md5: 9f816cb9398daec60785a6a494584c21
+    md5_10: 9f816cb939
+    md5_5: 9f816
+    md5_6: 9f816c
+    oomp_key: oomp_madworm_potentiometers_vishay_534_pot
+    oomp_key_extra: oomp_footprint_madworm_potentiometers_vishay_534_pot
+    oomp_key_full: oomp_footprint_madworm_potentiometers_vishay_534_pot_9f816c
+    oomp_key_simple: madworm_potentiometers_vishay_534_pot
+    original_filename: Potentiometers.pretty/VISHAY_534_pot.kicad_mod
+    owner_name: madworm
   oomp_key: oomp_madworm_potentiometers_vishay_534_pot
+  oomp_key_full: oomp_footprint_madworm_potentiometers_vishay_534_pot
   oomp_key_simple: madworm_potentiometers_vishay_534_pot
   owner: madworm
   repo:

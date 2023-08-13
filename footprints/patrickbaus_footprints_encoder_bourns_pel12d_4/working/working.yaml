@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/patrickbaus_footprints_encoder_bourns_pel12d_4/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/patrickbaus_footprints_encoder_bourns_pel12d_4/working
-    oomp_doc: footprints/footprints/PatrickBaus/footprints/Encoder_Bourns_PEL12D-4/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/PatrickBaus/footprints/Encoder_Bourns_PEL12D-4/working
     oomp_src_flat: footprints_flat/footprints_flat/patrickbaus_footprints_encoder_bourns_pel12d_4/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/patrickbaus_footprints_encoder_bourns_pel12d_4/working
-    oomp_src_folder: footprints_folder/footprints_folder/PatrickBaus/footprints/Encoder_Bourns_PEL12D-4/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/PatrickBaus/footprints/Encoder_Bourns_PEL12D-4/working
   name: footprints.pretty
+  oomp:
+    footprint_name: encoder_bourns_pel12d_4
+    library_name: footprints
+    md5: 12913950a7223a435a1b593943f68e85
+    md5_10: 12913950a7
+    md5_5: '12913'
+    md5_6: '129139'
+    oomp_key: oomp_patrickbaus_footprints_encoder_bourns_pel12d_4
+    oomp_key_extra: oomp_footprint_patrickbaus_footprints_encoder_bourns_pel12d_4
+    oomp_key_full: oomp_footprint_patrickbaus_footprints_encoder_bourns_pel12d_4_129139
+    oomp_key_simple: patrickbaus_footprints_encoder_bourns_pel12d_4
+    original_filename: footprints.pretty/Encoder_Bourns_PEL12D-4.kicad_mod
+    owner_name: patrickbaus
   oomp_key: oomp_patrickbaus_footprints_encoder_bourns_pel12d_4
+  oomp_key_full: oomp_footprint_patrickbaus_footprints_encoder_bourns_pel12d_4
   oomp_key_simple: patrickbaus_footprints_encoder_bourns_pel12d_4
   owner: PatrickBaus
   repo:

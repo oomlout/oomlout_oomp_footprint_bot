@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/candykingdom_homebrew_cts520/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/candykingdom_homebrew_cts520/working
-    oomp_doc: footprints/footprints/candykingdom/homebrew/CTS520/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/candykingdom/homebrew/CTS520/working
     oomp_src_flat: footprints_flat/footprints_flat/candykingdom_homebrew_cts520/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/candykingdom_homebrew_cts520/working
-    oomp_src_folder: footprints_folder/footprints_folder/candykingdom/homebrew/CTS520/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/candykingdom/homebrew/CTS520/working
   name: homebrew.pretty
+  oomp:
+    footprint_name: cts520
+    library_name: homebrew
+    md5: 0dfe9380892106a20cdbdf6fb671c77c
+    md5_10: 0dfe938089
+    md5_5: 0dfe9
+    md5_6: 0dfe93
+    oomp_key: oomp_candykingdom_homebrew_cts520
+    oomp_key_extra: oomp_footprint_candykingdom_homebrew_cts520
+    oomp_key_full: oomp_footprint_candykingdom_homebrew_cts520_0dfe93
+    oomp_key_simple: candykingdom_homebrew_cts520
+    original_filename: homebrew.pretty/CTS520.kicad_mod
+    owner_name: candykingdom
   oomp_key: oomp_candykingdom_homebrew_cts520
+  oomp_key_full: oomp_footprint_candykingdom_homebrew_cts520
   oomp_key_simple: candykingdom_homebrew_cts520
   owner: candykingdom
   repo:

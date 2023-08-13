@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/nppc_boot_pin_boot_pin/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nppc_boot_pin_boot_pin/working
-    oomp_doc: footprints/footprints/nppc/Boot_Pin.kicad_mod/Boot_Pin/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/nppc/Boot_Pin.kicad_mod/Boot_Pin/working
     oomp_src_flat: footprints_flat/footprints_flat/nppc_boot_pin_boot_pin/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nppc_boot_pin_boot_pin/working
-    oomp_src_folder: footprints_folder/footprints_folder/nppc/Boot_Pin.kicad_mod/Boot_Pin/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/nppc/Boot_Pin.kicad_mod/Boot_Pin/working
   name: KiCadCustomLibs
+  oomp:
+    footprint_name: boot_pin
+    library_name: boot_pin_kicad_mod
+    md5: 905eefef6f6121bf4267b643bf1a7917
+    md5_10: 905eefef6f
+    md5_5: 905ee
+    md5_6: 905eef
+    oomp_key: oomp_nppc_boot_pin_boot_pin
+    oomp_key_extra: oomp_footprint_nppc_boot_pin_boot_pin
+    oomp_key_full: oomp_footprint_nppc_boot_pin_boot_pin_905eef
+    oomp_key_simple: nppc_boot_pin_boot_pin
+    original_filename: KiCadCustomLibs/Boot_Pin.kicad_mod
+    owner_name: nppc
   oomp_key: oomp_nppc_boot_pin_boot_pin
+  oomp_key_full: oomp_footprint_nppc_boot_pin_boot_pin
   oomp_key_simple: nppc_boot_pin_boot_pin
   owner: nppc
   repo:

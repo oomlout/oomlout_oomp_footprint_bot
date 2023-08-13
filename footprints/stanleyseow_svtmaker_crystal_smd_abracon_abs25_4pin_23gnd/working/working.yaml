@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/stanleyseow_svtmaker_crystal_smd_abracon_abs25_4pin_23gnd/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stanleyseow_svtmaker_crystal_smd_abracon_abs25_4pin_23gnd/working
-    oomp_doc: footprints/footprints/stanleyseow/SVTmaker/Crystal_SMD_Abracon_ABS25-4Pin_23GND/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/stanleyseow/SVTmaker/Crystal_SMD_Abracon_ABS25-4Pin_23GND/working
     oomp_src_flat: footprints_flat/footprints_flat/stanleyseow_svtmaker_crystal_smd_abracon_abs25_4pin_23gnd/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/stanleyseow_svtmaker_crystal_smd_abracon_abs25_4pin_23gnd/working
-    oomp_src_folder: footprints_folder/footprints_folder/stanleyseow/SVTmaker/Crystal_SMD_Abracon_ABS25-4Pin_23GND/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/stanleyseow/SVTmaker/Crystal_SMD_Abracon_ABS25-4Pin_23GND/working
   name: SVTmaker.pretty
+  oomp:
+    footprint_name: crystal_smd_abracon_abs25_4pin_23gnd
+    library_name: svtmaker
+    md5: 34cbe8427867abf404c235a65201cc38
+    md5_10: 34cbe84278
+    md5_5: 34cbe
+    md5_6: 34cbe8
+    oomp_key: oomp_stanleyseow_svtmaker_crystal_smd_abracon_abs25_4pin_23gnd
+    oomp_key_extra: oomp_footprint_stanleyseow_svtmaker_crystal_smd_abracon_abs25_4pin_23gnd
+    oomp_key_full: oomp_footprint_stanleyseow_svtmaker_crystal_smd_abracon_abs25_4pin_23gnd_34cbe8
+    oomp_key_simple: stanleyseow_svtmaker_crystal_smd_abracon_abs25_4pin_23gnd
+    original_filename: SVTmaker.pretty/Crystal_SMD_Abracon_ABS25-4Pin_23GND.kicad_mod
+    owner_name: stanleyseow
   oomp_key: oomp_stanleyseow_svtmaker_crystal_smd_abracon_abs25_4pin_23gnd
+  oomp_key_full: oomp_footprint_stanleyseow_svtmaker_crystal_smd_abracon_abs25_4pin_23gnd
   oomp_key_simple: stanleyseow_svtmaker_crystal_smd_abracon_abs25_4pin_23gnd
   owner: stanleyseow
   repo:

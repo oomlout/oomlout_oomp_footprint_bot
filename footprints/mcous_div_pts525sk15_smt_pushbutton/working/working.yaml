@@ -7,23 +7,136 @@
   footprint_library_directory_flat: footprints_flat/mcous_div_pts525sk15_smt_pushbutton/working
   github_path: http://github.com/mcous/kicad-lib/blob/master/footprints/_div.pretty/_PTS525SK15-SMT-Pushbutton.kicad_mod
   links:
-    github_src: http://gitlab.com/mcous/kicad-lib/blob/master/footprints/_switches.pretty/CFPA-1FB4-A2T.kicad_mod
-    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
+    github_owner: mcous
+    github_repo_name: kicad-lib
+    github_src: http://github.com/mcous/kicad-lib/blob/master/footprints/_switches.pretty/CFPA-1FB4-A2T.kicad_mod
+    github_src_repo: https://github.com/mcous/kicad-lib
     oomp_bot: footprints/mcous_div_pts525sk15_smt_pushbutton/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/mcous_div_pts525sk15_smt_pushbutton/working
-    oomp_doc: footprints/footprints/mcous/_div/_PTS525SK15-SMT-Pushbutton/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/mcous/_div/_PTS525SK15-SMT-Pushbutton/working
     oomp_src_flat: footprints_flat/footprints_flat/mcous_div_pts525sk15_smt_pushbutton/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/mcous_div_pts525sk15_smt_pushbutton/working
-    oomp_src_folder: footprints_folder/footprints_folder/mcous/_div/_PTS525SK15-SMT-Pushbutton/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/mcous/_div/_PTS525SK15-SMT-Pushbutton/working
   name: kicad-lib
+  oomp:
+    footprint_name: _pts525sk15_smt_pushbutton
+    library_name: _div
+    md5: 85e16d63b72c8ad9942094f4e0c38ab5
+    md5_10: 85e16d63b7
+    md5_5: 85e16
+    md5_6: 85e16d
+    oomp_key: oomp_mcous_div_pts525sk15_smt_pushbutton
+    oomp_key_extra: oomp_footprint_mcous_div_pts525sk15_smt_pushbutton
+    oomp_key_full: oomp_footprint_mcous_div_pts525sk15_smt_pushbutton_85e16d
+    oomp_key_simple: mcous_div_pts525sk15_smt_pushbutton
+    original_filename: kicad-lib/footprints/_div.pretty/_PTS525SK15-SMT-Pushbutton.kicad_mod
+    owner_name: mcous
   oomp_key: oomp_mcous_div_pts525sk15_smt_pushbutton
+  oomp_key_full: oomp_footprint_mcous_div_pts525sk15_smt_pushbutton
   oomp_key_simple: mcous_div_pts525sk15_smt_pushbutton
   owner: mcous
   repo:
-    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
-    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
-      Authenticated requests get a higher rate limit. Check out the documentation
-      for more details.)'
+    allow_forking: true
+    archive_url: https://api.github.com/repos/mcous/kicad-lib/{archive_format}{/ref}
+    archived: false
+    assignees_url: https://api.github.com/repos/mcous/kicad-lib/assignees{/user}
+    blobs_url: https://api.github.com/repos/mcous/kicad-lib/git/blobs{/sha}
+    branches_url: https://api.github.com/repos/mcous/kicad-lib/branches{/branch}
+    clone_url: https://github.com/mcous/kicad-lib.git
+    collaborators_url: https://api.github.com/repos/mcous/kicad-lib/collaborators{/collaborator}
+    comments_url: https://api.github.com/repos/mcous/kicad-lib/comments{/number}
+    commits_url: https://api.github.com/repos/mcous/kicad-lib/commits{/sha}
+    compare_url: https://api.github.com/repos/mcous/kicad-lib/compare/{base}...{head}
+    contents_url: https://api.github.com/repos/mcous/kicad-lib/contents/{+path}
+    contributors_url: https://api.github.com/repos/mcous/kicad-lib/contributors
+    created_at: '2013-05-04T20:31:34Z'
+    default_branch: master
+    deployments_url: https://api.github.com/repos/mcous/kicad-lib/deployments
+    description: Repository for my KiCad components and footprints
+    disabled: false
+    downloads_url: https://api.github.com/repos/mcous/kicad-lib/downloads
+    events_url: https://api.github.com/repos/mcous/kicad-lib/events
+    fork: false
+    forks: 42
+    forks_count: 42
+    forks_url: https://api.github.com/repos/mcous/kicad-lib/forks
+    full_name: mcous/kicad-lib
+    git_commits_url: https://api.github.com/repos/mcous/kicad-lib/git/commits{/sha}
+    git_refs_url: https://api.github.com/repos/mcous/kicad-lib/git/refs{/sha}
+    git_tags_url: https://api.github.com/repos/mcous/kicad-lib/git/tags{/sha}
+    git_url: git://github.com/mcous/kicad-lib.git
+    has_discussions: false
+    has_downloads: true
+    has_issues: true
+    has_pages: false
+    has_projects: true
+    has_wiki: true
+    homepage: ''
+    hooks_url: https://api.github.com/repos/mcous/kicad-lib/hooks
+    html_url: https://github.com/mcous/kicad-lib
+    id: 9859888
+    is_template: false
+    issue_comment_url: https://api.github.com/repos/mcous/kicad-lib/issues/comments{/number}
+    issue_events_url: https://api.github.com/repos/mcous/kicad-lib/issues/events{/number}
+    issues_url: https://api.github.com/repos/mcous/kicad-lib/issues{/number}
+    keys_url: https://api.github.com/repos/mcous/kicad-lib/keys{/key_id}
+    labels_url: https://api.github.com/repos/mcous/kicad-lib/labels{/name}
+    language: Shell
+    languages_url: https://api.github.com/repos/mcous/kicad-lib/languages
+    license:
+      key: other
+      name: Other
+      node_id: MDc6TGljZW5zZTA=
+      spdx_id: NOASSERTION
+      url: null
+    merges_url: https://api.github.com/repos/mcous/kicad-lib/merges
+    milestones_url: https://api.github.com/repos/mcous/kicad-lib/milestones{/number}
+    mirror_url: null
+    name: kicad-lib
+    network_count: 42
+    node_id: MDEwOlJlcG9zaXRvcnk5ODU5ODg4
+    notifications_url: https://api.github.com/repos/mcous/kicad-lib/notifications{?since,all,participating}
+    open_issues: 3
+    open_issues_count: 3
+    owner:
+      avatar_url: https://avatars.githubusercontent.com/u/2963448?v=4
+      events_url: https://api.github.com/users/mcous/events{/privacy}
+      followers_url: https://api.github.com/users/mcous/followers
+      following_url: https://api.github.com/users/mcous/following{/other_user}
+      gists_url: https://api.github.com/users/mcous/gists{/gist_id}
+      gravatar_id: ''
+      html_url: https://github.com/mcous
+      id: 2963448
+      login: mcous
+      node_id: MDQ6VXNlcjI5NjM0NDg=
+      organizations_url: https://api.github.com/users/mcous/orgs
+      received_events_url: https://api.github.com/users/mcous/received_events
+      repos_url: https://api.github.com/users/mcous/repos
+      site_admin: false
+      starred_url: https://api.github.com/users/mcous/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/mcous/subscriptions
+      type: User
+      url: https://api.github.com/users/mcous
+    private: false
+    pulls_url: https://api.github.com/repos/mcous/kicad-lib/pulls{/number}
+    pushed_at: '2021-11-09T02:09:31Z'
+    releases_url: https://api.github.com/repos/mcous/kicad-lib/releases{/id}
+    size: 285
+    ssh_url: git@github.com:mcous/kicad-lib.git
+    stargazers_count: 40
+    stargazers_url: https://api.github.com/repos/mcous/kicad-lib/stargazers
+    statuses_url: https://api.github.com/repos/mcous/kicad-lib/statuses/{sha}
+    subscribers_count: 10
+    subscribers_url: https://api.github.com/repos/mcous/kicad-lib/subscribers
+    subscription_url: https://api.github.com/repos/mcous/kicad-lib/subscription
+    svn_url: https://github.com/mcous/kicad-lib
+    tags_url: https://api.github.com/repos/mcous/kicad-lib/tags
+    teams_url: https://api.github.com/repos/mcous/kicad-lib/teams
+    temp_clone_token: null
+    topics: []
+    trees_url: https://api.github.com/repos/mcous/kicad-lib/git/trees{/sha}
+    updated_at: '2023-02-07T18:09:39Z'
+    url: https://api.github.com/repos/mcous/kicad-lib
+    visibility: public
+    watchers: 40
+    watchers_count: 40
+    web_commit_signoff_required: false
   url: http://github.com/mcous/kicad-lib

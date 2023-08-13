@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/s_light_conn_rj45_magjack_poep_conn_rj45_magjack_poep/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/s_light_conn_rj45_magjack_poep_conn_rj45_magjack_poep/working
-    oomp_doc: footprints/footprints/s-light/CONN_RJ45_MagJack_POEp/CONN_RJ45_MagJack_POEp/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/s-light/CONN_RJ45_MagJack_POEp/CONN_RJ45_MagJack_POEp/working
     oomp_src_flat: footprints_flat/footprints_flat/s_light_conn_rj45_magjack_poep_conn_rj45_magjack_poep/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/s_light_conn_rj45_magjack_poep_conn_rj45_magjack_poep/working
-    oomp_src_folder: footprints_folder/footprints_folder/s-light/CONN_RJ45_MagJack_POEp/CONN_RJ45_MagJack_POEp/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/s-light/CONN_RJ45_MagJack_POEp/CONN_RJ45_MagJack_POEp/working
   name: CONN_RJ45_MagJack_POEp.pretty
+  oomp:
+    footprint_name: conn_rj45_magjack_poep
+    library_name: conn_rj45_magjack_poep
+    md5: 5cec0d00450e899b8295725fd011a280
+    md5_10: 5cec0d0045
+    md5_5: 5cec0
+    md5_6: 5cec0d
+    oomp_key: oomp_s_light_conn_rj45_magjack_poep_conn_rj45_magjack_poep
+    oomp_key_extra: oomp_footprint_s_light_conn_rj45_magjack_poep_conn_rj45_magjack_poep
+    oomp_key_full: oomp_footprint_s_light_conn_rj45_magjack_poep_conn_rj45_magjack_poep_5cec0d
+    oomp_key_simple: s_light_conn_rj45_magjack_poep_conn_rj45_magjack_poep
+    original_filename: CONN_RJ45_MagJack_POEp.pretty/CONN_RJ45_MagJack_POEp.kicad_mod
+    owner_name: s_light
   oomp_key: oomp_s_light_conn_rj45_magjack_poep_conn_rj45_magjack_poep
+  oomp_key_full: oomp_footprint_s_light_conn_rj45_magjack_poep_conn_rj45_magjack_poep
   oomp_key_simple: s_light_conn_rj45_magjack_poep_conn_rj45_magjack_poep
   owner: s-light
   repo:

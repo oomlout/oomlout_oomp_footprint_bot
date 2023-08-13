@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/fruchti_display_hmc16223_r/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/fruchti_display_hmc16223_r/working
-    oomp_doc: footprints/footprints/fruchti/display/HMC16223_R/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/fruchti/display/HMC16223_R/working
     oomp_src_flat: footprints_flat/footprints_flat/fruchti_display_hmc16223_r/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/fruchti_display_hmc16223_r/working
-    oomp_src_folder: footprints_folder/footprints_folder/fruchti/display/HMC16223_R/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/fruchti/display/HMC16223_R/working
   name: fruchtilib
+  oomp:
+    footprint_name: hmc16223_r
+    library_name: display
+    md5: 78eeebbbf7b43aa318f4fd8666030e83
+    md5_10: 78eeebbbf7
+    md5_5: 78eee
+    md5_6: 78eeeb
+    oomp_key: oomp_fruchti_display_hmc16223_r
+    oomp_key_extra: oomp_footprint_fruchti_display_hmc16223_r
+    oomp_key_full: oomp_footprint_fruchti_display_hmc16223_r_78eeeb
+    oomp_key_simple: fruchti_display_hmc16223_r
+    original_filename: fruchtilib/mod/display.pretty/HMC16223_R.kicad_mod
+    owner_name: fruchti
   oomp_key: oomp_fruchti_display_hmc16223_r
+  oomp_key_full: oomp_footprint_fruchti_display_hmc16223_r
   oomp_key_simple: fruchti_display_hmc16223_r
   owner: fruchti
   repo:

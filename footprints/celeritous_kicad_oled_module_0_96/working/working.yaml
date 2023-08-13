@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/celeritous_kicad_oled_module_0_96/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/celeritous_kicad_oled_module_0_96/working
-    oomp_doc: footprints/footprints/celeritous/KiCad/OLED_MODULE_0.96/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/celeritous/KiCad/OLED_MODULE_0.96/working
     oomp_src_flat: footprints_flat/footprints_flat/celeritous_kicad_oled_module_0_96/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/celeritous_kicad_oled_module_0_96/working
-    oomp_src_folder: footprints_folder/footprints_folder/celeritous/KiCad/OLED_MODULE_0.96/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/celeritous/KiCad/OLED_MODULE_0.96/working
   name: KiCad.pretty
+  oomp:
+    footprint_name: oled_module_0_96
+    library_name: kicad
+    md5: f11426298782df6d4122414dd7f57255
+    md5_10: f114262987
+    md5_5: f1142
+    md5_6: f11426
+    oomp_key: oomp_celeritous_kicad_oled_module_0_96
+    oomp_key_extra: oomp_footprint_celeritous_kicad_oled_module_0_96
+    oomp_key_full: oomp_footprint_celeritous_kicad_oled_module_0_96_f11426
+    oomp_key_simple: celeritous_kicad_oled_module_0_96
+    original_filename: KiCad.pretty/OLED_MODULE_0.96.kicad_mod
+    owner_name: celeritous
   oomp_key: oomp_celeritous_kicad_oled_module_0_96
+  oomp_key_full: oomp_footprint_celeritous_kicad_oled_module_0_96
   oomp_key_simple: celeritous_kicad_oled_module_0_96
   owner: celeritous
   repo:

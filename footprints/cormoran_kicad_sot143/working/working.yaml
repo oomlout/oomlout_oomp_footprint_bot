@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cormoran_kicad_sot143/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cormoran_kicad_sot143/working
-    oomp_doc: footprints/footprints/cormoran/kicad/SOT143/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cormoran/kicad/SOT143/working
     oomp_src_flat: footprints_flat/footprints_flat/cormoran_kicad_sot143/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cormoran_kicad_sot143/working
-    oomp_src_folder: footprints_folder/footprints_folder/cormoran/kicad/SOT143/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cormoran/kicad/SOT143/working
   name: kicad.pretty
+  oomp:
+    footprint_name: sot143
+    library_name: kicad
+    md5: 7c5162ad153c29767640025ced8aa6d1
+    md5_10: 7c5162ad15
+    md5_5: 7c516
+    md5_6: 7c5162
+    oomp_key: oomp_cormoran_kicad_sot143
+    oomp_key_extra: oomp_footprint_cormoran_kicad_sot143
+    oomp_key_full: oomp_footprint_cormoran_kicad_sot143_7c5162
+    oomp_key_simple: cormoran_kicad_sot143
+    original_filename: kicad.pretty/SOT143.kicad_mod
+    owner_name: cormoran
   oomp_key: oomp_cormoran_kicad_sot143
+  oomp_key_full: oomp_footprint_cormoran_kicad_sot143
   oomp_key_simple: cormoran_kicad_sot143
   owner: cormoran
   repo:

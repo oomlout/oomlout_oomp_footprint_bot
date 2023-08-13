@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/hiroieee_kicad_lib_jdn1102f_tr/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/hiroieee_kicad_lib_jdn1102f_tr/working
-    oomp_doc: footprints/footprints/hiroieee/kicad-lib/JDN1102F-TR/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/hiroieee/kicad-lib/JDN1102F-TR/working
     oomp_src_flat: footprints_flat/footprints_flat/hiroieee_kicad_lib_jdn1102f_tr/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/hiroieee_kicad_lib_jdn1102f_tr/working
-    oomp_src_folder: footprints_folder/footprints_folder/hiroieee/kicad-lib/JDN1102F-TR/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/hiroieee/kicad-lib/JDN1102F-TR/working
   name: kicad-lib.pretty
+  oomp:
+    footprint_name: jdn1102f_tr
+    library_name: kicad_lib
+    md5: 21c9876ffb8746284d9fe006abdad87b
+    md5_10: 21c9876ffb
+    md5_5: 21c98
+    md5_6: 21c987
+    oomp_key: oomp_hiroieee_kicad_lib_jdn1102f_tr
+    oomp_key_extra: oomp_footprint_hiroieee_kicad_lib_jdn1102f_tr
+    oomp_key_full: oomp_footprint_hiroieee_kicad_lib_jdn1102f_tr_21c987
+    oomp_key_simple: hiroieee_kicad_lib_jdn1102f_tr
+    original_filename: kicad-lib.pretty/JDN1102F-TR.kicad_mod
+    owner_name: hiroieee
   oomp_key: oomp_hiroieee_kicad_lib_jdn1102f_tr
+  oomp_key_full: oomp_footprint_hiroieee_kicad_lib_jdn1102f_tr
   oomp_key_simple: hiroieee_kicad_lib_jdn1102f_tr
   owner: hiroieee
   repo:

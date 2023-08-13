@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/digikey_ssop_20_w5_3mm_ssop_20_w5_3mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_ssop_20_w5_3mm_ssop_20_w5_3mm/working
-    oomp_doc: footprints/footprints/digikey/SSOP-20_W5.3mm.kicad_mod/SSOP-20_W5.3mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/digikey/SSOP-20_W5.3mm.kicad_mod/SSOP-20_W5.3mm/working
     oomp_src_flat: footprints_flat/footprints_flat/digikey_ssop_20_w5_3mm_ssop_20_w5_3mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/digikey_ssop_20_w5_3mm_ssop_20_w5_3mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/digikey/SSOP-20_W5.3mm.kicad_mod/SSOP-20_W5.3mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/digikey/SSOP-20_W5.3mm.kicad_mod/SSOP-20_W5.3mm/working
   name: digikey-kicad-library
+  oomp:
+    footprint_name: ssop_20_w5_3mm
+    library_name: ssop_20_w5_3mm_kicad_mod
+    md5: e8716db42f856f6ef9ed759e77202613
+    md5_10: e8716db42f
+    md5_5: e8716
+    md5_6: e8716d
+    oomp_key: oomp_digikey_ssop_20_w5_3mm_ssop_20_w5_3mm
+    oomp_key_extra: oomp_footprint_digikey_ssop_20_w5_3mm_ssop_20_w5_3mm
+    oomp_key_full: oomp_footprint_digikey_ssop_20_w5_3mm_ssop_20_w5_3mm_e8716d
+    oomp_key_simple: digikey_ssop_20_w5_3mm_ssop_20_w5_3mm
+    original_filename: digikey-kicad-library/src/Source_Footprints/SSOP-20_W5.3mm.kicad_mod
+    owner_name: digikey
   oomp_key: oomp_digikey_ssop_20_w5_3mm_ssop_20_w5_3mm
+  oomp_key_full: oomp_footprint_digikey_ssop_20_w5_3mm_ssop_20_w5_3mm
   oomp_key_simple: digikey_ssop_20_w5_3mm_ssop_20_w5_3mm
   owner: digikey
   repo:

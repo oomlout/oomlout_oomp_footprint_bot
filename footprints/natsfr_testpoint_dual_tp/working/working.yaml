@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/natsfr_testpoint_dual_tp/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/natsfr_testpoint_dual_tp/working
-    oomp_doc: footprints/footprints/natsfr/Testpoint/dual_TP/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/natsfr/Testpoint/dual_TP/working
     oomp_src_flat: footprints_flat/footprints_flat/natsfr_testpoint_dual_tp/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/natsfr_testpoint_dual_tp/working
-    oomp_src_folder: footprints_folder/footprints_folder/natsfr/Testpoint/dual_TP/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/natsfr/Testpoint/dual_TP/working
   name: kicad-components
+  oomp:
+    footprint_name: dual_tp
+    library_name: testpoint
+    md5: ce651e077e57a54d26defe1a3e07befb
+    md5_10: ce651e077e
+    md5_5: ce651
+    md5_6: ce651e
+    oomp_key: oomp_natsfr_testpoint_dual_tp
+    oomp_key_extra: oomp_footprint_natsfr_testpoint_dual_tp
+    oomp_key_full: oomp_footprint_natsfr_testpoint_dual_tp_ce651e
+    oomp_key_simple: natsfr_testpoint_dual_tp
+    original_filename: kicad-components/Pretty_Footprints/Testpoint.pretty/dual_TP.kicad_mod
+    owner_name: natsfr
   oomp_key: oomp_natsfr_testpoint_dual_tp
+  oomp_key_full: oomp_footprint_natsfr_testpoint_dual_tp
   oomp_key_simple: natsfr_testpoint_dual_tp
   owner: natsfr
   repo:

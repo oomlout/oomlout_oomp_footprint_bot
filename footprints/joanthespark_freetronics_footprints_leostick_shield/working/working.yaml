@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/joanthespark_freetronics_footprints_leostick_shield/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/joanthespark_freetronics_footprints_leostick_shield/working
-    oomp_doc: footprints/footprints/JoanTheSpark/freetronics_footprints/LEOSTICK_SHIELD/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/JoanTheSpark/freetronics_footprints/LEOSTICK_SHIELD/working
     oomp_src_flat: footprints_flat/footprints_flat/joanthespark_freetronics_footprints_leostick_shield/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/joanthespark_freetronics_footprints_leostick_shield/working
-    oomp_src_folder: footprints_folder/footprints_folder/JoanTheSpark/freetronics_footprints/LEOSTICK_SHIELD/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/JoanTheSpark/freetronics_footprints/LEOSTICK_SHIELD/working
   name: KiCAD
+  oomp:
+    footprint_name: leostick_shield
+    library_name: freetronics_footprints
+    md5: 665defd9418bb0274f4430ab84bcb927
+    md5_10: 665defd941
+    md5_5: 665de
+    md5_6: 665def
+    oomp_key: oomp_joanthespark_freetronics_footprints_leostick_shield
+    oomp_key_extra: oomp_footprint_joanthespark_freetronics_footprints_leostick_shield
+    oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_leostick_shield_665def
+    oomp_key_simple: joanthespark_freetronics_footprints_leostick_shield
+    original_filename: KiCAD/mods/freetronics_footprints.pretty/LEOSTICK_SHIELD.kicad_mod
+    owner_name: joanthespark
   oomp_key: oomp_joanthespark_freetronics_footprints_leostick_shield
+  oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_leostick_shield
   oomp_key_simple: joanthespark_freetronics_footprints_leostick_shield
   owner: JoanTheSpark
   repo:

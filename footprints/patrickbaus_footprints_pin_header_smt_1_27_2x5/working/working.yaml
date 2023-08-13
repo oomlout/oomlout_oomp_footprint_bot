@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/patrickbaus_footprints_pin_header_smt_1_27_2x5/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/patrickbaus_footprints_pin_header_smt_1_27_2x5/working
-    oomp_doc: footprints/footprints/PatrickBaus/footprints/Pin_Header_SMT_1.27_2x5/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/PatrickBaus/footprints/Pin_Header_SMT_1.27_2x5/working
     oomp_src_flat: footprints_flat/footprints_flat/patrickbaus_footprints_pin_header_smt_1_27_2x5/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/patrickbaus_footprints_pin_header_smt_1_27_2x5/working
-    oomp_src_folder: footprints_folder/footprints_folder/PatrickBaus/footprints/Pin_Header_SMT_1.27_2x5/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/PatrickBaus/footprints/Pin_Header_SMT_1.27_2x5/working
   name: footprints.pretty
+  oomp:
+    footprint_name: pin_header_smt_1_27_2x5
+    library_name: footprints
+    md5: 4aef124b5ff994e5d957c634e39247d1
+    md5_10: 4aef124b5f
+    md5_5: 4aef1
+    md5_6: 4aef12
+    oomp_key: oomp_patrickbaus_footprints_pin_header_smt_1_27_2x5
+    oomp_key_extra: oomp_footprint_patrickbaus_footprints_pin_header_smt_1_27_2x5
+    oomp_key_full: oomp_footprint_patrickbaus_footprints_pin_header_smt_1_27_2x5_4aef12
+    oomp_key_simple: patrickbaus_footprints_pin_header_smt_1_27_2x5
+    original_filename: footprints.pretty/Pin_Header_SMT_1.27_2x5.kicad_mod
+    owner_name: patrickbaus
   oomp_key: oomp_patrickbaus_footprints_pin_header_smt_1_27_2x5
+  oomp_key_full: oomp_footprint_patrickbaus_footprints_pin_header_smt_1_27_2x5
   oomp_key_simple: patrickbaus_footprints_pin_header_smt_1_27_2x5
   owner: PatrickBaus
   repo:

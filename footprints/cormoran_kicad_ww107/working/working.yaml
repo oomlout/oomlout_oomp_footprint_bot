@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cormoran_kicad_ww107/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cormoran_kicad_ww107/working
-    oomp_doc: footprints/footprints/cormoran/kicad/WW107/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cormoran/kicad/WW107/working
     oomp_src_flat: footprints_flat/footprints_flat/cormoran_kicad_ww107/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cormoran_kicad_ww107/working
-    oomp_src_folder: footprints_folder/footprints_folder/cormoran/kicad/WW107/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cormoran/kicad/WW107/working
   name: kicad.pretty
+  oomp:
+    footprint_name: ww107
+    library_name: kicad
+    md5: a6d6f200b60651c58e3522b7d718ffbd
+    md5_10: a6d6f200b6
+    md5_5: a6d6f
+    md5_6: a6d6f2
+    oomp_key: oomp_cormoran_kicad_ww107
+    oomp_key_extra: oomp_footprint_cormoran_kicad_ww107
+    oomp_key_full: oomp_footprint_cormoran_kicad_ww107_a6d6f2
+    oomp_key_simple: cormoran_kicad_ww107
+    original_filename: kicad.pretty/WW107.kicad_mod
+    owner_name: cormoran
   oomp_key: oomp_cormoran_kicad_ww107
+  oomp_key_full: oomp_footprint_cormoran_kicad_ww107
   oomp_key_simple: cormoran_kicad_ww107
   owner: cormoran
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/garrettsworkshop_stdpads_keystone_3008_2450/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/garrettsworkshop_stdpads_keystone_3008_2450/working
-    oomp_doc: footprints/footprints/garrettsworkshop/stdpads/Keystone_3008_2450/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/garrettsworkshop/stdpads/Keystone_3008_2450/working
     oomp_src_flat: footprints_flat/footprints_flat/garrettsworkshop_stdpads_keystone_3008_2450/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/garrettsworkshop_stdpads_keystone_3008_2450/working
-    oomp_src_folder: footprints_folder/footprints_folder/garrettsworkshop/stdpads/Keystone_3008_2450/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/garrettsworkshop/stdpads/Keystone_3008_2450/working
   name: stdpads.pretty
+  oomp:
+    footprint_name: keystone_3008_2450
+    library_name: stdpads
+    md5: c0ea380127a874f987f049dc3165a93d
+    md5_10: c0ea380127
+    md5_5: c0ea3
+    md5_6: c0ea38
+    oomp_key: oomp_garrettsworkshop_stdpads_keystone_3008_2450
+    oomp_key_extra: oomp_footprint_garrettsworkshop_stdpads_keystone_3008_2450
+    oomp_key_full: oomp_footprint_garrettsworkshop_stdpads_keystone_3008_2450_c0ea38
+    oomp_key_simple: garrettsworkshop_stdpads_keystone_3008_2450
+    original_filename: stdpads.pretty/Keystone_3008_2450.kicad_mod
+    owner_name: garrettsworkshop
   oomp_key: oomp_garrettsworkshop_stdpads_keystone_3008_2450
+  oomp_key_full: oomp_footprint_garrettsworkshop_stdpads_keystone_3008_2450
   oomp_key_simple: garrettsworkshop_stdpads_keystone_3008_2450
   owner: garrettsworkshop
   repo:

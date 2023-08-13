@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/fruchti_umax_umax10/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/fruchti_umax_umax10/working
-    oomp_doc: footprints/footprints/fruchti/umax/uMAX10/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/fruchti/umax/uMAX10/working
     oomp_src_flat: footprints_flat/footprints_flat/fruchti_umax_umax10/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/fruchti_umax_umax10/working
-    oomp_src_folder: footprints_folder/footprints_folder/fruchti/umax/uMAX10/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/fruchti/umax/uMAX10/working
   name: fruchtilib
+  oomp:
+    footprint_name: umax10
+    library_name: umax
+    md5: 15a1d4b35f7488d9e5b06b1e4ddbb86a
+    md5_10: 15a1d4b35f
+    md5_5: 15a1d
+    md5_6: 15a1d4
+    oomp_key: oomp_fruchti_umax_umax10
+    oomp_key_extra: oomp_footprint_fruchti_umax_umax10
+    oomp_key_full: oomp_footprint_fruchti_umax_umax10_15a1d4
+    oomp_key_simple: fruchti_umax_umax10
+    original_filename: fruchtilib/mod/umax.pretty/uMAX10.kicad_mod
+    owner_name: fruchti
   oomp_key: oomp_fruchti_umax_umax10
+  oomp_key_full: oomp_footprint_fruchti_umax_umax10
   oomp_key_simple: fruchti_umax_umax10
   owner: fruchti
   repo:

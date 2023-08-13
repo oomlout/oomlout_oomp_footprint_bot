@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/suf_kicad_suf_capacitor_c_axial_l32mm_d20mm_p37_5mm_horizontal/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/suf_kicad_suf_capacitor_c_axial_l32mm_d20mm_p37_5mm_horizontal/working
-    oomp_doc: footprints/footprints/suf-KiCAD/suf_capacitor/C_Axial_L32mm_D20mm_P37.5mm_Horizontal/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/suf-KiCAD/suf_capacitor/C_Axial_L32mm_D20mm_P37.5mm_Horizontal/working
     oomp_src_flat: footprints_flat/footprints_flat/suf_kicad_suf_capacitor_c_axial_l32mm_d20mm_p37_5mm_horizontal/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/suf_kicad_suf_capacitor_c_axial_l32mm_d20mm_p37_5mm_horizontal/working
-    oomp_src_folder: footprints_folder/footprints_folder/suf-KiCAD/suf_capacitor/C_Axial_L32mm_D20mm_P37.5mm_Horizontal/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/suf-KiCAD/suf_capacitor/C_Axial_L32mm_D20mm_P37.5mm_Horizontal/working
   name: suf_capacitor.pretty
+  oomp:
+    footprint_name: c_axial_l32mm_d20mm_p37_5mm_horizontal
+    library_name: suf_capacitor
+    md5: a603db08d6037dbfdc1deddedbc350b6
+    md5_10: a603db08d6
+    md5_5: a603d
+    md5_6: a603db
+    oomp_key: oomp_suf_kicad_suf_capacitor_c_axial_l32mm_d20mm_p37_5mm_horizontal
+    oomp_key_extra: oomp_footprint_suf_kicad_suf_capacitor_c_axial_l32mm_d20mm_p37_5mm_horizontal
+    oomp_key_full: oomp_footprint_suf_kicad_suf_capacitor_c_axial_l32mm_d20mm_p37_5mm_horizontal_a603db
+    oomp_key_simple: suf_kicad_suf_capacitor_c_axial_l32mm_d20mm_p37_5mm_horizontal
+    original_filename: suf_capacitor.pretty/C_Axial_L32mm_D20mm_P37.5mm_Horizontal.kicad_mod
+    owner_name: suf_kicad
   oomp_key: oomp_suf_kicad_suf_capacitor_c_axial_l32mm_d20mm_p37_5mm_horizontal
+  oomp_key_full: oomp_footprint_suf_kicad_suf_capacitor_c_axial_l32mm_d20mm_p37_5mm_horizontal
   oomp_key_simple: suf_kicad_suf_capacitor_c_axial_l32mm_d20mm_p37_5mm_horizontal
   owner: suf-KiCAD
   repo:

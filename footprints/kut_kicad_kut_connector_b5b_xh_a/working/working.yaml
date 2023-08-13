@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/KUT-KiCad/KUT_Connector.pretty
     oomp_bot: footprints/kut_kicad_kut_connector_b5b_xh_a/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kut_kicad_kut_connector_b5b_xh_a/working
-    oomp_doc: footprints/footprints/KUT-KiCad/KUT_Connector/B5B-XH-A/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/KUT-KiCad/KUT_Connector/B5B-XH-A/working
     oomp_src_flat: footprints_flat/footprints_flat/kut_kicad_kut_connector_b5b_xh_a/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kut_kicad_kut_connector_b5b_xh_a/working
-    oomp_src_folder: footprints_folder/footprints_folder/KUT-KiCad/KUT_Connector/B5B-XH-A/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/KUT-KiCad/KUT_Connector/B5B-XH-A/working
   name: KUT_Connector.pretty
+  oomp:
+    footprint_name: b5b_xh_a
+    library_name: kut_connector
+    md5: 48d28bba7e4f76902a13db27c6f33b92
+    md5_10: 48d28bba7e
+    md5_5: 48d28
+    md5_6: 48d28b
+    oomp_key: oomp_kut_kicad_kut_connector_b5b_xh_a
+    oomp_key_extra: oomp_footprint_kut_kicad_kut_connector_b5b_xh_a
+    oomp_key_full: oomp_footprint_kut_kicad_kut_connector_b5b_xh_a_48d28b
+    oomp_key_simple: kut_kicad_kut_connector_b5b_xh_a
+    original_filename: KUT_Connector.pretty/B5B-XH-A.kicad_mod
+    owner_name: kut_kicad
   oomp_key: oomp_kut_kicad_kut_connector_b5b_xh_a
+  oomp_key_full: oomp_footprint_kut_kicad_kut_connector_b5b_xh_a
   oomp_key_simple: kut_kicad_kut_connector_b5b_xh_a
   owner: KUT-KiCad
   repo:

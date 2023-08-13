@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_qfn_48_qfn_48/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_qfn_48_qfn_48/working
-    oomp_doc: footprints/footprints/brunoeagle/QFN-48.kicad_mod/QFN-48/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/QFN-48.kicad_mod/QFN-48/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_qfn_48_qfn_48/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_qfn_48_qfn_48/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/QFN-48.kicad_mod/QFN-48/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/QFN-48.kicad_mod/QFN-48/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: qfn_48
+    library_name: qfn_48_kicad_mod
+    md5: 7ada0f4ce23d85911a5c232b4fa59a85
+    md5_10: 7ada0f4ce2
+    md5_5: 7ada0
+    md5_6: 7ada0f
+    oomp_key: oomp_brunoeagle_qfn_48_qfn_48
+    oomp_key_extra: oomp_footprint_brunoeagle_qfn_48_qfn_48
+    oomp_key_full: oomp_footprint_brunoeagle_qfn_48_qfn_48_7ada0f
+    oomp_key_simple: brunoeagle_qfn_48_qfn_48
+    original_filename: kicad-open-modules/QFN-48.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_qfn_48_qfn_48
+  oomp_key_full: oomp_footprint_brunoeagle_qfn_48_qfn_48
   oomp_key_simple: brunoeagle_qfn_48_qfn_48
   owner: brunoeagle
   repo:

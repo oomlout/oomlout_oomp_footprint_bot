@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pcsmithy_neopixel_fp_ws2812b/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pcsmithy_neopixel_fp_ws2812b/working
-    oomp_doc: footprints/footprints/PCSmithy/NeoPixel_FP/WS2812B/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/PCSmithy/NeoPixel_FP/WS2812B/working
     oomp_src_flat: footprints_flat/footprints_flat/pcsmithy_neopixel_fp_ws2812b/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pcsmithy_neopixel_fp_ws2812b/working
-    oomp_src_folder: footprints_folder/footprints_folder/PCSmithy/NeoPixel_FP/WS2812B/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/PCSmithy/NeoPixel_FP/WS2812B/working
   name: NeoPixel_FP.pretty
+  oomp:
+    footprint_name: ws2812b
+    library_name: neopixel_fp
+    md5: 8a64d27ebee580757ccb701b461874bf
+    md5_10: 8a64d27ebe
+    md5_5: 8a64d
+    md5_6: 8a64d2
+    oomp_key: oomp_pcsmithy_neopixel_fp_ws2812b
+    oomp_key_extra: oomp_footprint_pcsmithy_neopixel_fp_ws2812b
+    oomp_key_full: oomp_footprint_pcsmithy_neopixel_fp_ws2812b_8a64d2
+    oomp_key_simple: pcsmithy_neopixel_fp_ws2812b
+    original_filename: NeoPixel_FP.pretty/WS2812B.kicad_mod
+    owner_name: pcsmithy
   oomp_key: oomp_pcsmithy_neopixel_fp_ws2812b
+  oomp_key_full: oomp_footprint_pcsmithy_neopixel_fp_ws2812b
   oomp_key_simple: pcsmithy_neopixel_fp_ws2812b
   owner: PCSmithy
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/natsfr_mounting_holes_2_7mm_np_alignstencil/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/natsfr_mounting_holes_2_7mm_np_alignstencil/working
-    oomp_doc: footprints/footprints/natsfr/Mounting_Holes/2.7mm_np_alignstencil/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/natsfr/Mounting_Holes/2.7mm_np_alignstencil/working
     oomp_src_flat: footprints_flat/footprints_flat/natsfr_mounting_holes_2_7mm_np_alignstencil/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/natsfr_mounting_holes_2_7mm_np_alignstencil/working
-    oomp_src_folder: footprints_folder/footprints_folder/natsfr/Mounting_Holes/2.7mm_np_alignstencil/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/natsfr/Mounting_Holes/2.7mm_np_alignstencil/working
   name: kicad-components
+  oomp:
+    footprint_name: 2_7mm_np_alignstencil
+    library_name: mounting_holes
+    md5: a5b5903e593422c5a188f77b1f534d30
+    md5_10: a5b5903e59
+    md5_5: a5b59
+    md5_6: a5b590
+    oomp_key: oomp_natsfr_mounting_holes_2_7mm_np_alignstencil
+    oomp_key_extra: oomp_footprint_natsfr_mounting_holes_2_7mm_np_alignstencil
+    oomp_key_full: oomp_footprint_natsfr_mounting_holes_2_7mm_np_alignstencil_a5b590
+    oomp_key_simple: natsfr_mounting_holes_2_7mm_np_alignstencil
+    original_filename: kicad-components/Pretty_Footprints/Mounting_Holes.pretty/2.7mm_np_alignstencil.kicad_mod
+    owner_name: natsfr
   oomp_key: oomp_natsfr_mounting_holes_2_7mm_np_alignstencil
+  oomp_key_full: oomp_footprint_natsfr_mounting_holes_2_7mm_np_alignstencil
   oomp_key_simple: natsfr_mounting_holes_2_7mm_np_alignstencil
   owner: natsfr
   repo:

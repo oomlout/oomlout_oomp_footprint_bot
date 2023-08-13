@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/ohdsp_mykicadlibs_footprints_ic_lfcsp40/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ohdsp_mykicadlibs_footprints_ic_lfcsp40/working
-    oomp_doc: footprints/footprints/ohdsp/MyKiCadLibs-Footprints/IC-LFCSP40/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ohdsp/MyKiCadLibs-Footprints/IC-LFCSP40/working
     oomp_src_flat: footprints_flat/footprints_flat/ohdsp_mykicadlibs_footprints_ic_lfcsp40/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ohdsp_mykicadlibs_footprints_ic_lfcsp40/working
-    oomp_src_folder: footprints_folder/footprints_folder/ohdsp/MyKiCadLibs-Footprints/IC-LFCSP40/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ohdsp/MyKiCadLibs-Footprints/IC-LFCSP40/working
   name: KiCad-Libs
+  oomp:
+    footprint_name: ic_lfcsp40
+    library_name: mykicadlibs_footprints
+    md5: 060b695c9d0abcad7797aee2bd77c124
+    md5_10: 060b695c9d
+    md5_5: 060b6
+    md5_6: 060b69
+    oomp_key: oomp_ohdsp_mykicadlibs_footprints_ic_lfcsp40
+    oomp_key_extra: oomp_footprint_ohdsp_mykicadlibs_footprints_ic_lfcsp40
+    oomp_key_full: oomp_footprint_ohdsp_mykicadlibs_footprints_ic_lfcsp40_060b69
+    oomp_key_simple: ohdsp_mykicadlibs_footprints_ic_lfcsp40
+    original_filename: KiCad-Libs/MyKiCadLibs-Footprints.pretty/IC-LFCSP40.kicad_mod
+    owner_name: ohdsp
   oomp_key: oomp_ohdsp_mykicadlibs_footprints_ic_lfcsp40
+  oomp_key_full: oomp_footprint_ohdsp_mykicadlibs_footprints_ic_lfcsp40
   oomp_key_simple: ohdsp_mykicadlibs_footprints_ic_lfcsp40
   owner: ohdsp
   repo:

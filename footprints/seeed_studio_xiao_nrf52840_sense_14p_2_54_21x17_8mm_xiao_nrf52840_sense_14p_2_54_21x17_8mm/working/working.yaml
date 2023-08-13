@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/seeed_studio_xiao_nrf52840_sense_14p_2_54_21x17_8mm_xiao_nrf52840_sense_14p_2_54_21x17_8mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/seeed_studio_xiao_nrf52840_sense_14p_2_54_21x17_8mm_xiao_nrf52840_sense_14p_2_54_21x17_8mm/working
-    oomp_doc: footprints/footprints/Seeed-Studio/XIAO-nRF52840-Sense-14P-2.54-21X17.8MM.kicad_mod/XIAO-nRF52840-Sense-14P-2.54-21X17.8MM/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Seeed-Studio/XIAO-nRF52840-Sense-14P-2.54-21X17.8MM.kicad_mod/XIAO-nRF52840-Sense-14P-2.54-21X17.8MM/working
     oomp_src_flat: footprints_flat/footprints_flat/seeed_studio_xiao_nrf52840_sense_14p_2_54_21x17_8mm_xiao_nrf52840_sense_14p_2_54_21x17_8mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/seeed_studio_xiao_nrf52840_sense_14p_2_54_21x17_8mm_xiao_nrf52840_sense_14p_2_54_21x17_8mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/Seeed-Studio/XIAO-nRF52840-Sense-14P-2.54-21X17.8MM.kicad_mod/XIAO-nRF52840-Sense-14P-2.54-21X17.8MM/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Seeed-Studio/XIAO-nRF52840-Sense-14P-2.54-21X17.8MM.kicad_mod/XIAO-nRF52840-Sense-14P-2.54-21X17.8MM/working
   name: OPL_Kicad_Library
+  oomp:
+    footprint_name: xiao_nrf52840_sense_14p_2_54_21x17_8mm
+    library_name: xiao_nrf52840_sense_14p_2_54_21x17_8mm_kicad_mod
+    md5: 8cfe1abed0fdcb03ba4e4694d177d63e
+    md5_10: 8cfe1abed0
+    md5_5: 8cfe1
+    md5_6: 8cfe1a
+    oomp_key: oomp_seeed_studio_xiao_nrf52840_sense_14p_2_54_21x17_8mm_xiao_nrf52840_sense_14p_2_54_21x17_8mm
+    oomp_key_extra: oomp_footprint_seeed_studio_xiao_nrf52840_sense_14p_2_54_21x17_8mm_xiao_nrf52840_sense_14p_2_54_21x17_8mm
+    oomp_key_full: oomp_footprint_seeed_studio_xiao_nrf52840_sense_14p_2_54_21x17_8mm_xiao_nrf52840_sense_14p_2_54_21x17_8mm_8cfe1a
+    oomp_key_simple: seeed_studio_xiao_nrf52840_sense_14p_2_54_21x17_8mm_xiao_nrf52840_sense_14p_2_54_21x17_8mm
+    original_filename: OPL_Kicad_Library/Seeed Studio XIAO Series Library/XIAO-nRF52840-Sense-14P-2.54-21X17.8MM.kicad_mod
+    owner_name: seeed_studio
   oomp_key: oomp_seeed_studio_xiao_nrf52840_sense_14p_2_54_21x17_8mm_xiao_nrf52840_sense_14p_2_54_21x17_8mm
+  oomp_key_full: oomp_footprint_seeed_studio_xiao_nrf52840_sense_14p_2_54_21x17_8mm_xiao_nrf52840_sense_14p_2_54_21x17_8mm
   oomp_key_simple: seeed_studio_xiao_nrf52840_sense_14p_2_54_21x17_8mm_xiao_nrf52840_sense_14p_2_54_21x17_8mm
   owner: Seeed-Studio
   repo:

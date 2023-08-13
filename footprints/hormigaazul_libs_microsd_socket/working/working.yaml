@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/hormigaazul_libs_microsd_socket/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/hormigaazul_libs_microsd_socket/working
-    oomp_doc: footprints/footprints/hormigaAzul/libs/microsd_socket/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/hormigaAzul/libs/microsd_socket/working
     oomp_src_flat: footprints_flat/footprints_flat/hormigaazul_libs_microsd_socket/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/hormigaazul_libs_microsd_socket/working
-    oomp_src_folder: footprints_folder/footprints_folder/hormigaAzul/libs/microsd_socket/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/hormigaAzul/libs/microsd_socket/working
   name: libs.pretty
+  oomp:
+    footprint_name: microsd_socket
+    library_name: libs
+    md5: dc514cacaa74105759e44973690b8b8f
+    md5_10: dc514cacaa
+    md5_5: dc514
+    md5_6: dc514c
+    oomp_key: oomp_hormigaazul_libs_microsd_socket
+    oomp_key_extra: oomp_footprint_hormigaazul_libs_microsd_socket
+    oomp_key_full: oomp_footprint_hormigaazul_libs_microsd_socket_dc514c
+    oomp_key_simple: hormigaazul_libs_microsd_socket
+    original_filename: libs.pretty/microsd_socket.kicad_mod
+    owner_name: hormigaazul
   oomp_key: oomp_hormigaazul_libs_microsd_socket
+  oomp_key_full: oomp_footprint_hormigaazul_libs_microsd_socket
   oomp_key_simple: hormigaazul_libs_microsd_socket
   owner: hormigaAzul
   repo:

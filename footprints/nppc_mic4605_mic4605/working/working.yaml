@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/nppc_mic4605_mic4605/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nppc_mic4605_mic4605/working
-    oomp_doc: footprints/footprints/nppc/MIC4605.kicad_mod/MIC4605/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/nppc/MIC4605.kicad_mod/MIC4605/working
     oomp_src_flat: footprints_flat/footprints_flat/nppc_mic4605_mic4605/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nppc_mic4605_mic4605/working
-    oomp_src_folder: footprints_folder/footprints_folder/nppc/MIC4605.kicad_mod/MIC4605/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/nppc/MIC4605.kicad_mod/MIC4605/working
   name: KiCadCustomLibs
+  oomp:
+    footprint_name: mic4605
+    library_name: mic4605_kicad_mod
+    md5: a367d3e4e31b44b632bc6cfbed0a58a7
+    md5_10: a367d3e4e3
+    md5_5: a367d
+    md5_6: a367d3
+    oomp_key: oomp_nppc_mic4605_mic4605
+    oomp_key_extra: oomp_footprint_nppc_mic4605_mic4605
+    oomp_key_full: oomp_footprint_nppc_mic4605_mic4605_a367d3
+    oomp_key_simple: nppc_mic4605_mic4605
+    original_filename: KiCadCustomLibs/MIC4605.kicad_mod
+    owner_name: nppc
   oomp_key: oomp_nppc_mic4605_mic4605
+  oomp_key_full: oomp_footprint_nppc_mic4605_mic4605
   oomp_key_simple: nppc_mic4605_mic4605
   owner: nppc
   repo:

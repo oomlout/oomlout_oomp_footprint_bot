@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/nxmq_animegirlsare_megumin/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nxmq_animegirlsare_megumin/working
-    oomp_doc: footprints/footprints/nxmq/animegirlsare/megumin/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/nxmq/animegirlsare/megumin/working
     oomp_src_flat: footprints_flat/footprints_flat/nxmq_animegirlsare_megumin/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nxmq_animegirlsare_megumin/working
-    oomp_src_folder: footprints_folder/footprints_folder/nxmq/animegirlsare/megumin/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/nxmq/animegirlsare/megumin/working
   name: animegirlsare.pretty
+  oomp:
+    footprint_name: megumin
+    library_name: animegirlsare
+    md5: 9cc0f74015c62dacacc6473fc17421a7
+    md5_10: 9cc0f74015
+    md5_5: 9cc0f
+    md5_6: 9cc0f7
+    oomp_key: oomp_nxmq_animegirlsare_megumin
+    oomp_key_extra: oomp_footprint_nxmq_animegirlsare_megumin
+    oomp_key_full: oomp_footprint_nxmq_animegirlsare_megumin_9cc0f7
+    oomp_key_simple: nxmq_animegirlsare_megumin
+    original_filename: animegirlsare.pretty/megumin.kicad_mod
+    owner_name: nxmq
   oomp_key: oomp_nxmq_animegirlsare_megumin
+  oomp_key_full: oomp_footprint_nxmq_animegirlsare_megumin
   oomp_key_simple: nxmq_animegirlsare_megumin
   owner: nxmq
   repo:

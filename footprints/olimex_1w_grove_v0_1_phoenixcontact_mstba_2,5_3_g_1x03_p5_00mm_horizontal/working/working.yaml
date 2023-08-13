@@ -13,14 +13,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/olimex_1w_grove_v0_1_phoenixcontact_mstba_2,5_3_g_1x03_p5_00mm_horizontal/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/olimex_1w_grove_v0_1_phoenixcontact_mstba_2,5_3_g_1x03_p5_00mm_horizontal/working
-    oomp_doc: footprints/footprints/OLIMEX/1w-grove-v0.1/PhoenixContact_MSTBA_2,5_3-G_1x03_P5.00mm_Horizontal/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/OLIMEX/1w-grove-v0.1/PhoenixContact_MSTBA_2,5_3-G_1x03_P5.00mm_Horizontal/working
     oomp_src_flat: footprints_flat/footprints_flat/olimex_1w_grove_v0_1_phoenixcontact_mstba_2,5_3_g_1x03_p5_00mm_horizontal/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/olimex_1w_grove_v0_1_phoenixcontact_mstba_2,5_3_g_1x03_p5_00mm_horizontal/working
-    oomp_src_folder: footprints_folder/footprints_folder/OLIMEX/1w-grove-v0.1/PhoenixContact_MSTBA_2,5_3-G_1x03_P5.00mm_Horizontal/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/OLIMEX/1w-grove-v0.1/PhoenixContact_MSTBA_2,5_3-G_1x03_P5.00mm_Horizontal/working
   name: KiCAD
+  oomp:
+    footprint_name: phoenixcontact_mstba_2,5_3_g_1x03_p5_00mm_horizontal
+    library_name: 1w_grove_v0_1
+    md5: f71142052e76aca5688f5224166af64e
+    md5_10: f71142052e
+    md5_5: f7114
+    md5_6: f71142
+    oomp_key: oomp_olimex_1w_grove_v0_1_phoenixcontact_mstba_2,5_3_g_1x03_p5_00mm_horizontal
+    oomp_key_extra: oomp_footprint_olimex_1w_grove_v0_1_phoenixcontact_mstba_2,5_3_g_1x03_p5_00mm_horizontal
+    oomp_key_full: oomp_footprint_olimex_1w_grove_v0_1_phoenixcontact_mstba_2,5_3_g_1x03_p5_00mm_horizontal_f71142
+    oomp_key_simple: olimex_1w_grove_v0_1_phoenixcontact_mstba_2,5_3_g_1x03_p5_00mm_horizontal
+    original_filename: KiCAD/6.0/projects/1w-grove-v0.1/1w-grove-v0.1.pretty/PhoenixContact_MSTBA_2,5_3-G_1x03_P5.00mm_Horizontal.kicad_mod
+    owner_name: olimex
   oomp_key: oomp_olimex_1w_grove_v0_1_phoenixcontact_mstba_2,5_3_g_1x03_p5_00mm_horizontal
+  oomp_key_full: oomp_footprint_olimex_1w_grove_v0_1_phoenixcontact_mstba_2,5_3_g_1x03_p5_00mm_horizontal
   oomp_key_simple: olimex_1w_grove_v0_1_phoenixcontact_mstba_2,5_3_g_1x03_p5_00mm_horizontal
   owner: OLIMEX
   repo:

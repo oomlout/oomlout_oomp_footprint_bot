@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/olimex_freetronics_footprints_1812_cap/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/olimex_freetronics_footprints_1812_cap/working
-    oomp_doc: footprints/footprints/OLIMEX/freetronics_footprints/1812_CAP/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/OLIMEX/freetronics_footprints/1812_CAP/working
     oomp_src_flat: footprints_flat/footprints_flat/olimex_freetronics_footprints_1812_cap/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/olimex_freetronics_footprints_1812_cap/working
-    oomp_src_folder: footprints_folder/footprints_folder/OLIMEX/freetronics_footprints/1812_CAP/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/OLIMEX/freetronics_footprints/1812_CAP/working
   name: KiCAD
+  oomp:
+    footprint_name: 1812_cap
+    library_name: freetronics_footprints
+    md5: 747e0dad0d701bfe2b83013102d3f6cd
+    md5_10: 747e0dad0d
+    md5_5: 747e0
+    md5_6: 747e0d
+    oomp_key: oomp_olimex_freetronics_footprints_1812_cap
+    oomp_key_extra: oomp_footprint_olimex_freetronics_footprints_1812_cap
+    oomp_key_full: oomp_footprint_olimex_freetronics_footprints_1812_cap_747e0d
+    oomp_key_simple: olimex_freetronics_footprints_1812_cap
+    original_filename: KiCAD/mods/freetronics_footprints.pretty/1812_CAP.kicad_mod
+    owner_name: olimex
   oomp_key: oomp_olimex_freetronics_footprints_1812_cap
+  oomp_key_full: oomp_footprint_olimex_freetronics_footprints_1812_cap
   oomp_key_simple: olimex_freetronics_footprints_1812_cap
   owner: OLIMEX
   repo:

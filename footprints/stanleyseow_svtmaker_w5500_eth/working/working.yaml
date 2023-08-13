@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/stanleyseow_svtmaker_w5500_eth/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stanleyseow_svtmaker_w5500_eth/working
-    oomp_doc: footprints/footprints/stanleyseow/SVTmaker/W5500_Eth/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/stanleyseow/SVTmaker/W5500_Eth/working
     oomp_src_flat: footprints_flat/footprints_flat/stanleyseow_svtmaker_w5500_eth/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/stanleyseow_svtmaker_w5500_eth/working
-    oomp_src_folder: footprints_folder/footprints_folder/stanleyseow/SVTmaker/W5500_Eth/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/stanleyseow/SVTmaker/W5500_Eth/working
   name: SVTmaker.pretty
+  oomp:
+    footprint_name: w5500_eth
+    library_name: svtmaker
+    md5: 889685a5fdd54011a3f9a0f8a2631587
+    md5_10: 889685a5fd
+    md5_5: '88968'
+    md5_6: '889685'
+    oomp_key: oomp_stanleyseow_svtmaker_w5500_eth
+    oomp_key_extra: oomp_footprint_stanleyseow_svtmaker_w5500_eth
+    oomp_key_full: oomp_footprint_stanleyseow_svtmaker_w5500_eth_889685
+    oomp_key_simple: stanleyseow_svtmaker_w5500_eth
+    original_filename: SVTmaker.pretty/W5500_Eth.kicad_mod
+    owner_name: stanleyseow
   oomp_key: oomp_stanleyseow_svtmaker_w5500_eth
+  oomp_key_full: oomp_footprint_stanleyseow_svtmaker_w5500_eth
   oomp_key_simple: stanleyseow_svtmaker_w5500_eth
   owner: stanleyseow
   repo:

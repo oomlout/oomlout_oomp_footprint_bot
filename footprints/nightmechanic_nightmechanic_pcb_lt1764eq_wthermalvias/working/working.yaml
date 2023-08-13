@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/nightmechanic_nightmechanic_pcb_lt1764eq_wthermalvias/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nightmechanic_nightmechanic_pcb_lt1764eq_wthermalvias/working
-    oomp_doc: footprints/footprints/nightmechanic/nightmechanic_pcb/LT1764EQ_wThermalVias/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/nightmechanic/nightmechanic_pcb/LT1764EQ_wThermalVias/working
     oomp_src_flat: footprints_flat/footprints_flat/nightmechanic_nightmechanic_pcb_lt1764eq_wthermalvias/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nightmechanic_nightmechanic_pcb_lt1764eq_wthermalvias/working
-    oomp_src_folder: footprints_folder/footprints_folder/nightmechanic/nightmechanic_pcb/LT1764EQ_wThermalVias/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/nightmechanic/nightmechanic_pcb/LT1764EQ_wThermalVias/working
   name: nightmechanic_pcb.pretty
+  oomp:
+    footprint_name: lt1764eq_wthermalvias
+    library_name: nightmechanic_pcb
+    md5: d646a9eff1e4eaddcb05397900fdaaa1
+    md5_10: d646a9eff1
+    md5_5: d646a
+    md5_6: d646a9
+    oomp_key: oomp_nightmechanic_nightmechanic_pcb_lt1764eq_wthermalvias
+    oomp_key_extra: oomp_footprint_nightmechanic_nightmechanic_pcb_lt1764eq_wthermalvias
+    oomp_key_full: oomp_footprint_nightmechanic_nightmechanic_pcb_lt1764eq_wthermalvias_d646a9
+    oomp_key_simple: nightmechanic_nightmechanic_pcb_lt1764eq_wthermalvias
+    original_filename: nightmechanic_pcb.pretty/LT1764EQ_wThermalVias.kicad_mod
+    owner_name: nightmechanic
   oomp_key: oomp_nightmechanic_nightmechanic_pcb_lt1764eq_wthermalvias
+  oomp_key_full: oomp_footprint_nightmechanic_nightmechanic_pcb_lt1764eq_wthermalvias
   oomp_key_simple: nightmechanic_nightmechanic_pcb_lt1764eq_wthermalvias
   owner: nightmechanic
   repo:

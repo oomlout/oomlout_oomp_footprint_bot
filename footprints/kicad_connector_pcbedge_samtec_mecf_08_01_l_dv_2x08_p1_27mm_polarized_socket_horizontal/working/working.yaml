@@ -11,17 +11,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_connector_pcbedge_samtec_mecf_08_01_l_dv_2x08_p1_27mm_polarized_socket_horizontal/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_connector_pcbedge_samtec_mecf_08_01_l_dv_2x08_p1_27mm_polarized_socket_horizontal/working
-    oomp_doc: footprints/footprints/kicad/Connector_PCBEdge/Samtec_MECF-08-01-L-DV_2x08_P1.27mm_Polarized_Socket_Horizontal/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Connector_PCBEdge/Samtec_MECF-08-01-L-DV_2x08_P1.27mm_Polarized_Socket_Horizontal/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_connector_pcbedge_samtec_mecf_08_01_l_dv_2x08_p1_27mm_polarized_socket_horizontal/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_connector_pcbedge_samtec_mecf_08_01_l_dv_2x08_p1_27mm_polarized_socket_horizontal/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Connector_PCBEdge/Samtec_MECF-08-01-L-DV_2x08_P1.27mm_Polarized_Socket_Horizontal/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Connector_PCBEdge/Samtec_MECF-08-01-L-DV_2x08_P1.27mm_Polarized_Socket_Horizontal/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: samtec_mecf_08_01_l_dv_2x08_p1_27mm_polarized_socket_horizontal
+    library_name: connector_pcbedge
+    md5: d13421f31f34e6d4c4376001a2fea7f3
+    md5_10: d13421f31f
+    md5_5: d1342
+    md5_6: d13421
+    oomp_key: oomp_kicad_connector_pcbedge_samtec_mecf_08_01_l_dv_2x08_p1_27mm_polarized_socket_horizontal
+    oomp_key_extra: oomp_footprint_kicad_connector_pcbedge_samtec_mecf_08_01_l_dv_2x08_p1_27mm_polarized_socket_horizontal
+    oomp_key_full: oomp_footprint_kicad_connector_pcbedge_samtec_mecf_08_01_l_dv_2x08_p1_27mm_polarized_socket_horizontal_d13421
+    oomp_key_simple: kicad_connector_pcbedge_samtec_mecf_08_01_l_dv_2x08_p1_27mm_polarized_socket_horizontal
+    original_filename: libraries/kicad-footprints/Connector_PCBEdge.pretty/Samtec_MECF-08-01-L-DV_2x08_P1.27mm_Polarized_Socket_Horizontal.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_connector_pcbedge_samtec_mecf_08_01_l_dv_2x08_p1_27mm_polarized_socket_horizontal
+  oomp_key_full: oomp_footprint_kicad_connector_pcbedge_samtec_mecf_08_01_l_dv_2x08_p1_27mm_polarized_socket_horizontal
   oomp_key_simple: kicad_connector_pcbedge_samtec_mecf_08_01_l_dv_2x08_p1_27mm_polarized_socket_horizontal
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

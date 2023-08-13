@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cpavlina_ipc7351_nominal_cqfp127p1727x1727x492_36/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cpavlina_ipc7351_nominal_cqfp127p1727x1727x492_36/working
-    oomp_doc: footprints/footprints/cpavlina/IPC7351-Nominal/CQFP127P1727X1727X492-36/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cpavlina/IPC7351-Nominal/CQFP127P1727X1727X492-36/working
     oomp_src_flat: footprints_flat/footprints_flat/cpavlina_ipc7351_nominal_cqfp127p1727x1727x492_36/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cpavlina_ipc7351_nominal_cqfp127p1727x1727x492_36/working
-    oomp_src_folder: footprints_folder/footprints_folder/cpavlina/IPC7351-Nominal/CQFP127P1727X1727X492-36/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cpavlina/IPC7351-Nominal/CQFP127P1727X1727X492-36/working
   name: kicad-pcblib
+  oomp:
+    footprint_name: cqfp127p1727x1727x492_36
+    library_name: ipc7351_nominal
+    md5: fd047be085c21daf70815adffb06b564
+    md5_10: fd047be085
+    md5_5: fd047
+    md5_6: fd047b
+    oomp_key: oomp_cpavlina_ipc7351_nominal_cqfp127p1727x1727x492_36
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_nominal_cqfp127p1727x1727x492_36
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_cqfp127p1727x1727x492_36_fd047b
+    oomp_key_simple: cpavlina_ipc7351_nominal_cqfp127p1727x1727x492_36
+    original_filename: kicad-pcblib/IPC7351-Nominal.pretty/CQFP127P1727X1727X492-36.kicad_mod
+    owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_nominal_cqfp127p1727x1727x492_36
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_cqfp127p1727x1727x492_36
   oomp_key_simple: cpavlina_ipc7351_nominal_cqfp127p1727x1727x492_36
   owner: cpavlina
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/granskog_dgs_connectors_binding_post_4mm_wire_connection/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/granskog_dgs_connectors_binding_post_4mm_wire_connection/working
-    oomp_doc: footprints/footprints/granskog/DGS_Connectors/Binding_Post_4mm_Wire_Connection/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/granskog/DGS_Connectors/Binding_Post_4mm_Wire_Connection/working
     oomp_src_flat: footprints_flat/footprints_flat/granskog_dgs_connectors_binding_post_4mm_wire_connection/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/granskog_dgs_connectors_binding_post_4mm_wire_connection/working
-    oomp_src_folder: footprints_folder/footprints_folder/granskog/DGS_Connectors/Binding_Post_4mm_Wire_Connection/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/granskog/DGS_Connectors/Binding_Post_4mm_Wire_Connection/working
   name: DGS_Connectors.pretty
+  oomp:
+    footprint_name: binding_post_4mm_wire_connection
+    library_name: dgs_connectors
+    md5: a4986e418cc9f58b0f153f04c39c5487
+    md5_10: a4986e418c
+    md5_5: a4986
+    md5_6: a4986e
+    oomp_key: oomp_granskog_dgs_connectors_binding_post_4mm_wire_connection
+    oomp_key_extra: oomp_footprint_granskog_dgs_connectors_binding_post_4mm_wire_connection
+    oomp_key_full: oomp_footprint_granskog_dgs_connectors_binding_post_4mm_wire_connection_a4986e
+    oomp_key_simple: granskog_dgs_connectors_binding_post_4mm_wire_connection
+    original_filename: DGS_Connectors.pretty/Binding_Post_4mm_Wire_Connection.kicad_mod
+    owner_name: granskog
   oomp_key: oomp_granskog_dgs_connectors_binding_post_4mm_wire_connection
+  oomp_key_full: oomp_footprint_granskog_dgs_connectors_binding_post_4mm_wire_connection
   oomp_key_simple: granskog_dgs_connectors_binding_post_4mm_wire_connection
   owner: granskog
   repo:

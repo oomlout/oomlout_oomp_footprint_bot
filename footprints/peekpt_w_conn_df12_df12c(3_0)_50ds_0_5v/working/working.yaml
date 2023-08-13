@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/peekpt_w_conn_df12_df12c(3_0)_50ds_0_5v/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/peekpt_w_conn_df12_df12c(3_0)_50ds_0_5v/working
-    oomp_doc: footprints/footprints/peekpt/w_conn_df12/df12c(3.0)-50ds-0.5v/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/peekpt/w_conn_df12/df12c(3.0)-50ds-0.5v/working
     oomp_src_flat: footprints_flat/footprints_flat/peekpt_w_conn_df12_df12c(3_0)_50ds_0_5v/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/peekpt_w_conn_df12_df12c(3_0)_50ds_0_5v/working
-    oomp_src_folder: footprints_folder/footprints_folder/peekpt/w_conn_df12/df12c(3.0)-50ds-0.5v/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/peekpt/w_conn_df12/df12c(3.0)-50ds-0.5v/working
   name: kicad_smisioto
+  oomp:
+    footprint_name: df12c(3_0)_50ds_0_5v
+    library_name: w_conn_df12
+    md5: a546640b03394c12e4a11dc7e4f3e39c
+    md5_10: a546640b03
+    md5_5: a5466
+    md5_6: a54664
+    oomp_key: oomp_peekpt_w_conn_df12_df12c(3_0)_50ds_0_5v
+    oomp_key_extra: oomp_footprint_peekpt_w_conn_df12_df12c(3_0)_50ds_0_5v
+    oomp_key_full: oomp_footprint_peekpt_w_conn_df12_df12c(3_0)_50ds_0_5v_a54664
+    oomp_key_simple: peekpt_w_conn_df12_df12c(3_0)_50ds_0_5v
+    original_filename: kicad_smisioto/modules/walter/w_conn_df12.pretty/df12c(3.0)-50ds-0.5v.kicad_mod
+    owner_name: peekpt
   oomp_key: oomp_peekpt_w_conn_df12_df12c(3_0)_50ds_0_5v
+  oomp_key_full: oomp_footprint_peekpt_w_conn_df12_df12c(3_0)_50ds_0_5v
   oomp_key_simple: peekpt_w_conn_df12_df12c(3_0)_50ds_0_5v
   owner: peekpt
   repo:

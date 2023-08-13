@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/av_p_avp_c_0201/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/av_p_avp_c_0201/working
-    oomp_doc: footprints/footprints/av-p/Avp/C_0201/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/av-p/Avp/C_0201/working
     oomp_src_flat: footprints_flat/footprints_flat/av_p_avp_c_0201/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/av_p_avp_c_0201/working
-    oomp_src_folder: footprints_folder/footprints_folder/av-p/Avp/C_0201/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/av-p/Avp/C_0201/working
   name: Avp.pretty
+  oomp:
+    footprint_name: c_0201
+    library_name: avp
+    md5: 7e00356562d50b2209b662cfe479beeb
+    md5_10: 7e00356562
+    md5_5: 7e003
+    md5_6: 7e0035
+    oomp_key: oomp_av_p_avp_c_0201
+    oomp_key_extra: oomp_footprint_av_p_avp_c_0201
+    oomp_key_full: oomp_footprint_av_p_avp_c_0201_7e0035
+    oomp_key_simple: av_p_avp_c_0201
+    original_filename: Avp.pretty/C_0201.kicad_mod
+    owner_name: av_p
   oomp_key: oomp_av_p_avp_c_0201
+  oomp_key_full: oomp_footprint_av_p_avp_c_0201
   oomp_key_simple: av_p_avp_c_0201
   owner: av-p
   repo:

@@ -11,17 +11,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_package_to_sot_tht_to_92_2_wide/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_package_to_sot_tht_to_92_2_wide/working
-    oomp_doc: footprints/footprints/kicad/Package_TO_SOT_THT/TO-92-2_Wide/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Package_TO_SOT_THT/TO-92-2_Wide/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_package_to_sot_tht_to_92_2_wide/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_package_to_sot_tht_to_92_2_wide/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Package_TO_SOT_THT/TO-92-2_Wide/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Package_TO_SOT_THT/TO-92-2_Wide/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: to_92_2_wide
+    library_name: package_to_sot_tht
+    md5: 85d502bd4fe4519d82ac378a98816e5a
+    md5_10: 85d502bd4f
+    md5_5: 85d50
+    md5_6: 85d502
+    oomp_key: oomp_kicad_package_to_sot_tht_to_92_2_wide
+    oomp_key_extra: oomp_footprint_kicad_package_to_sot_tht_to_92_2_wide
+    oomp_key_full: oomp_footprint_kicad_package_to_sot_tht_to_92_2_wide_85d502
+    oomp_key_simple: kicad_package_to_sot_tht_to_92_2_wide
+    original_filename: libraries/kicad-footprints/Package_TO_SOT_THT.pretty/TO-92-2_Wide.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_package_to_sot_tht_to_92_2_wide
+  oomp_key_full: oomp_footprint_kicad_package_to_sot_tht_to_92_2_wide
   oomp_key_simple: kicad_package_to_sot_tht_to_92_2_wide
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

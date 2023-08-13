@@ -12,17 +12,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_connector_ffc_fpc_te_84953_9_1x09_1mp_p1_0mm_horizontal/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_connector_ffc_fpc_te_84953_9_1x09_1mp_p1_0mm_horizontal/working
-    oomp_doc: footprints/footprints/kicad/Connector_FFC-FPC/TE_84953-9_1x09-1MP_P1.0mm_Horizontal/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Connector_FFC-FPC/TE_84953-9_1x09-1MP_P1.0mm_Horizontal/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_connector_ffc_fpc_te_84953_9_1x09_1mp_p1_0mm_horizontal/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_connector_ffc_fpc_te_84953_9_1x09_1mp_p1_0mm_horizontal/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Connector_FFC-FPC/TE_84953-9_1x09-1MP_P1.0mm_Horizontal/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Connector_FFC-FPC/TE_84953-9_1x09-1MP_P1.0mm_Horizontal/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: te_84953_9_1x09_1mp_p1_0mm_horizontal
+    library_name: connector_ffc_fpc
+    md5: 45acfe4b6d51b9f6a50e0c0aa9ebf671
+    md5_10: 45acfe4b6d
+    md5_5: 45acf
+    md5_6: 45acfe
+    oomp_key: oomp_kicad_connector_ffc_fpc_te_84953_9_1x09_1mp_p1_0mm_horizontal
+    oomp_key_extra: oomp_footprint_kicad_connector_ffc_fpc_te_84953_9_1x09_1mp_p1_0mm_horizontal
+    oomp_key_full: oomp_footprint_kicad_connector_ffc_fpc_te_84953_9_1x09_1mp_p1_0mm_horizontal_45acfe
+    oomp_key_simple: kicad_connector_ffc_fpc_te_84953_9_1x09_1mp_p1_0mm_horizontal
+    original_filename: libraries/kicad-footprints/Connector_FFC-FPC.pretty/TE_84953-9_1x09-1MP_P1.0mm_Horizontal.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_connector_ffc_fpc_te_84953_9_1x09_1mp_p1_0mm_horizontal
+  oomp_key_full: oomp_footprint_kicad_connector_ffc_fpc_te_84953_9_1x09_1mp_p1_0mm_horizontal
   oomp_key_simple: kicad_connector_ffc_fpc_te_84953_9_1x09_1mp_p1_0mm_horizontal
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

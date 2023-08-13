@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/christianlerche_lerchetech_lerche_usb_micro_molex_47590_0001/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/christianlerche_lerchetech_lerche_usb_micro_molex_47590_0001/working
-    oomp_doc: footprints/footprints/ChristianLerche/LercheTech/Lerche_USB_Micro_Molex_47590-0001/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ChristianLerche/LercheTech/Lerche_USB_Micro_Molex_47590-0001/working
     oomp_src_flat: footprints_flat/footprints_flat/christianlerche_lerchetech_lerche_usb_micro_molex_47590_0001/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/christianlerche_lerchetech_lerche_usb_micro_molex_47590_0001/working
-    oomp_src_folder: footprints_folder/footprints_folder/ChristianLerche/LercheTech/Lerche_USB_Micro_Molex_47590-0001/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ChristianLerche/LercheTech/Lerche_USB_Micro_Molex_47590-0001/working
   name: LercheTech_KiCAD
+  oomp:
+    footprint_name: lerche_usb_micro_molex_47590_0001
+    library_name: lerchetech
+    md5: 2fc8832235e6d521b94db403694d4ccf
+    md5_10: 2fc8832235
+    md5_5: 2fc88
+    md5_6: 2fc883
+    oomp_key: oomp_christianlerche_lerchetech_lerche_usb_micro_molex_47590_0001
+    oomp_key_extra: oomp_footprint_christianlerche_lerchetech_lerche_usb_micro_molex_47590_0001
+    oomp_key_full: oomp_footprint_christianlerche_lerchetech_lerche_usb_micro_molex_47590_0001_2fc883
+    oomp_key_simple: christianlerche_lerchetech_lerche_usb_micro_molex_47590_0001
+    original_filename: LercheTech_KiCAD/LercheTech.pretty/Lerche_USB_Micro_Molex_47590-0001.kicad_mod
+    owner_name: christianlerche
   oomp_key: oomp_christianlerche_lerchetech_lerche_usb_micro_molex_47590_0001
+  oomp_key_full: oomp_footprint_christianlerche_lerchetech_lerche_usb_micro_molex_47590_0001
   oomp_key_simple: christianlerche_lerchetech_lerche_usb_micro_molex_47590_0001
   owner: ChristianLerche
   repo:

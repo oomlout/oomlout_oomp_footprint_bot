@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_dsg_dsg/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_dsg_dsg/working
-    oomp_doc: footprints/footprints/brunoeagle/DSG.kicad_mod/DSG/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/DSG.kicad_mod/DSG/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_dsg_dsg/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_dsg_dsg/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/DSG.kicad_mod/DSG/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/DSG.kicad_mod/DSG/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: dsg
+    library_name: dsg_kicad_mod
+    md5: 4e8b49fc9d0e065e062d8f7ba8c657e4
+    md5_10: 4e8b49fc9d
+    md5_5: 4e8b4
+    md5_6: 4e8b49
+    oomp_key: oomp_brunoeagle_dsg_dsg
+    oomp_key_extra: oomp_footprint_brunoeagle_dsg_dsg
+    oomp_key_full: oomp_footprint_brunoeagle_dsg_dsg_4e8b49
+    oomp_key_simple: brunoeagle_dsg_dsg
+    original_filename: kicad-open-modules/DSG.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_dsg_dsg
+  oomp_key_full: oomp_footprint_brunoeagle_dsg_dsg
   oomp_key_simple: brunoeagle_dsg_dsg
   owner: brunoeagle
   repo:

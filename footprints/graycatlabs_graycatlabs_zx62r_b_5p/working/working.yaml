@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/graycatlabs_graycatlabs_zx62r_b_5p/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/graycatlabs_graycatlabs_zx62r_b_5p/working
-    oomp_doc: footprints/footprints/graycatlabs/GrayCatLabs/ZX62R-B-5P/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/graycatlabs/GrayCatLabs/ZX62R-B-5P/working
     oomp_src_flat: footprints_flat/footprints_flat/graycatlabs_graycatlabs_zx62r_b_5p/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/graycatlabs_graycatlabs_zx62r_b_5p/working
-    oomp_src_folder: footprints_folder/footprints_folder/graycatlabs/GrayCatLabs/ZX62R-B-5P/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/graycatlabs/GrayCatLabs/ZX62R-B-5P/working
   name: GrayCatLabs.pretty
+  oomp:
+    footprint_name: zx62r_b_5p
+    library_name: graycatlabs
+    md5: 1ceede0145fa95fed2df53473cd231f1
+    md5_10: 1ceede0145
+    md5_5: 1ceed
+    md5_6: 1ceede
+    oomp_key: oomp_graycatlabs_graycatlabs_zx62r_b_5p
+    oomp_key_extra: oomp_footprint_graycatlabs_graycatlabs_zx62r_b_5p
+    oomp_key_full: oomp_footprint_graycatlabs_graycatlabs_zx62r_b_5p_1ceede
+    oomp_key_simple: graycatlabs_graycatlabs_zx62r_b_5p
+    original_filename: GrayCatLabs.pretty/ZX62R-B-5P.kicad_mod
+    owner_name: graycatlabs
   oomp_key: oomp_graycatlabs_graycatlabs_zx62r_b_5p
+  oomp_key_full: oomp_footprint_graycatlabs_graycatlabs_zx62r_b_5p
   oomp_key_simple: graycatlabs_graycatlabs_zx62r_b_5p
   owner: graycatlabs
   repo:

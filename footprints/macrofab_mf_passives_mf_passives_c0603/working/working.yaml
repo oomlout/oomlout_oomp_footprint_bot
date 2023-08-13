@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/MacroFab/EDALibraries
     oomp_bot: footprints/macrofab_mf_passives_mf_passives_c0603/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/macrofab_mf_passives_mf_passives_c0603/working
-    oomp_doc: footprints/footprints/MacroFab/MF_Passives/MF_Passives-C0603/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/MacroFab/MF_Passives/MF_Passives-C0603/working
     oomp_src_flat: footprints_flat/footprints_flat/macrofab_mf_passives_mf_passives_c0603/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/macrofab_mf_passives_mf_passives_c0603/working
-    oomp_src_folder: footprints_folder/footprints_folder/MacroFab/MF_Passives/MF_Passives-C0603/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/MacroFab/MF_Passives/MF_Passives-C0603/working
   name: EDALibraries
+  oomp:
+    footprint_name: mf_passives_c0603
+    library_name: mf_passives
+    md5: 3f373e70ab3a556a4104a3c7fba161ba
+    md5_10: 3f373e70ab
+    md5_5: 3f373
+    md5_6: 3f373e
+    oomp_key: oomp_macrofab_mf_passives_mf_passives_c0603
+    oomp_key_extra: oomp_footprint_macrofab_mf_passives_mf_passives_c0603
+    oomp_key_full: oomp_footprint_macrofab_mf_passives_mf_passives_c0603_3f373e
+    oomp_key_simple: macrofab_mf_passives_mf_passives_c0603
+    original_filename: EDALibraries/KiCad/Footprints/MF_Passives.pretty/MF_Passives-C0603.kicad_mod
+    owner_name: macrofab
   oomp_key: oomp_macrofab_mf_passives_mf_passives_c0603
+  oomp_key_full: oomp_footprint_macrofab_mf_passives_mf_passives_c0603
   oomp_key_simple: macrofab_mf_passives_mf_passives_c0603
   owner: MacroFab
   repo:

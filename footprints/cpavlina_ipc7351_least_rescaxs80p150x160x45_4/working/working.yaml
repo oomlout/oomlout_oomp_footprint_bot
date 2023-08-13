@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cpavlina_ipc7351_least_rescaxs80p150x160x45_4/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cpavlina_ipc7351_least_rescaxs80p150x160x45_4/working
-    oomp_doc: footprints/footprints/cpavlina/IPC7351-Least/RESCAXS80P150X160X45-4/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cpavlina/IPC7351-Least/RESCAXS80P150X160X45-4/working
     oomp_src_flat: footprints_flat/footprints_flat/cpavlina_ipc7351_least_rescaxs80p150x160x45_4/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cpavlina_ipc7351_least_rescaxs80p150x160x45_4/working
-    oomp_src_folder: footprints_folder/footprints_folder/cpavlina/IPC7351-Least/RESCAXS80P150X160X45-4/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cpavlina/IPC7351-Least/RESCAXS80P150X160X45-4/working
   name: kicad-pcblib
+  oomp:
+    footprint_name: rescaxs80p150x160x45_4
+    library_name: ipc7351_least
+    md5: c0c31bd65562bcee893ee9d5d9da0586
+    md5_10: c0c31bd655
+    md5_5: c0c31
+    md5_6: c0c31b
+    oomp_key: oomp_cpavlina_ipc7351_least_rescaxs80p150x160x45_4
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_least_rescaxs80p150x160x45_4
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_rescaxs80p150x160x45_4_c0c31b
+    oomp_key_simple: cpavlina_ipc7351_least_rescaxs80p150x160x45_4
+    original_filename: kicad-pcblib/IPC7351-Least.pretty/RESCAXS80P150X160X45-4.kicad_mod
+    owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_least_rescaxs80p150x160x45_4
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_rescaxs80p150x160x45_4
   oomp_key_simple: cpavlina_ipc7351_least_rescaxs80p150x160x45_4
   owner: cpavlina
   repo:

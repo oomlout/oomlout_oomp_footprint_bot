@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/hairymnstr_nathan_tht_conn_molex_kk_ra_22_05_7058/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/hairymnstr_nathan_tht_conn_molex_kk_ra_22_05_7058/working
-    oomp_doc: footprints/footprints/hairymnstr/Nathan_THT_Conn/MOLEX_KK_RA_22_05_7058/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/hairymnstr/Nathan_THT_Conn/MOLEX_KK_RA_22_05_7058/working
     oomp_src_flat: footprints_flat/footprints_flat/hairymnstr_nathan_tht_conn_molex_kk_ra_22_05_7058/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/hairymnstr_nathan_tht_conn_molex_kk_ra_22_05_7058/working
-    oomp_src_folder: footprints_folder/footprints_folder/hairymnstr/Nathan_THT_Conn/MOLEX_KK_RA_22_05_7058/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/hairymnstr/Nathan_THT_Conn/MOLEX_KK_RA_22_05_7058/working
   name: Nathan_THT_Conn.pretty
+  oomp:
+    footprint_name: molex_kk_ra_22_05_7058
+    library_name: nathan_tht_conn
+    md5: 5f76dd293bd94edd6a7bb4a8766c379a
+    md5_10: 5f76dd293b
+    md5_5: 5f76d
+    md5_6: 5f76dd
+    oomp_key: oomp_hairymnstr_nathan_tht_conn_molex_kk_ra_22_05_7058
+    oomp_key_extra: oomp_footprint_hairymnstr_nathan_tht_conn_molex_kk_ra_22_05_7058
+    oomp_key_full: oomp_footprint_hairymnstr_nathan_tht_conn_molex_kk_ra_22_05_7058_5f76dd
+    oomp_key_simple: hairymnstr_nathan_tht_conn_molex_kk_ra_22_05_7058
+    original_filename: Nathan_THT_Conn.pretty/MOLEX_KK_RA_22_05_7058.kicad_mod
+    owner_name: hairymnstr
   oomp_key: oomp_hairymnstr_nathan_tht_conn_molex_kk_ra_22_05_7058
+  oomp_key_full: oomp_footprint_hairymnstr_nathan_tht_conn_molex_kk_ra_22_05_7058
   oomp_key_simple: hairymnstr_nathan_tht_conn_molex_kk_ra_22_05_7058
   owner: hairymnstr
   repo:

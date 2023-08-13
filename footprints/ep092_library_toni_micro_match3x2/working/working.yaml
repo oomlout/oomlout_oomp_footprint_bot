@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/ep092_library_toni_micro_match3x2/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ep092_library_toni_micro_match3x2/working
-    oomp_doc: footprints/footprints/ep092/library_toni/micro_match3x2/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ep092/library_toni/micro_match3x2/working
     oomp_src_flat: footprints_flat/footprints_flat/ep092_library_toni_micro_match3x2/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ep092_library_toni_micro_match3x2/working
-    oomp_src_folder: footprints_folder/footprints_folder/ep092/library_toni/micro_match3x2/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ep092/library_toni/micro_match3x2/working
   name: library_toni.pretty
+  oomp:
+    footprint_name: micro_match3x2
+    library_name: library_toni
+    md5: e898acfba2b9aa6fba73334ff71d7c51
+    md5_10: e898acfba2
+    md5_5: e898a
+    md5_6: e898ac
+    oomp_key: oomp_ep092_library_toni_micro_match3x2
+    oomp_key_extra: oomp_footprint_ep092_library_toni_micro_match3x2
+    oomp_key_full: oomp_footprint_ep092_library_toni_micro_match3x2_e898ac
+    oomp_key_simple: ep092_library_toni_micro_match3x2
+    original_filename: library_toni.pretty/micro_match3x2.kicad_mod
+    owner_name: ep092
   oomp_key: oomp_ep092_library_toni_micro_match3x2
+  oomp_key_full: oomp_footprint_ep092_library_toni_micro_match3x2
   oomp_key_simple: ep092_library_toni_micro_match3x2
   owner: ep092
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/stefanhamminga_sh_sod_son_sot_son_6_0_5mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stefanhamminga_sh_sod_son_sot_son_6_0_5mm/working
-    oomp_doc: footprints/footprints/StefanHamminga/SH_SOD_SON_SOT/SON-6_0.5mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/StefanHamminga/SH_SOD_SON_SOT/SON-6_0.5mm/working
     oomp_src_flat: footprints_flat/footprints_flat/stefanhamminga_sh_sod_son_sot_son_6_0_5mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/stefanhamminga_sh_sod_son_sot_son_6_0_5mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/StefanHamminga/SH_SOD_SON_SOT/SON-6_0.5mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/StefanHamminga/SH_SOD_SON_SOT/SON-6_0.5mm/working
   name: SH_SOD_SON_SOT.pretty
+  oomp:
+    footprint_name: son_6_0_5mm
+    library_name: sh_sod_son_sot
+    md5: 9b7532d411f5101649ab1a5a38a8d6c7
+    md5_10: 9b7532d411
+    md5_5: 9b753
+    md5_6: 9b7532
+    oomp_key: oomp_stefanhamminga_sh_sod_son_sot_son_6_0_5mm
+    oomp_key_extra: oomp_footprint_stefanhamminga_sh_sod_son_sot_son_6_0_5mm
+    oomp_key_full: oomp_footprint_stefanhamminga_sh_sod_son_sot_son_6_0_5mm_9b7532
+    oomp_key_simple: stefanhamminga_sh_sod_son_sot_son_6_0_5mm
+    original_filename: SH_SOD_SON_SOT.pretty/SON-6_0.5mm.kicad_mod
+    owner_name: stefanhamminga
   oomp_key: oomp_stefanhamminga_sh_sod_son_sot_son_6_0_5mm
+  oomp_key_full: oomp_footprint_stefanhamminga_sh_sod_son_sot_son_6_0_5mm
   oomp_key_simple: stefanhamminga_sh_sod_son_sot_son_6_0_5mm
   owner: StefanHamminga
   repo:

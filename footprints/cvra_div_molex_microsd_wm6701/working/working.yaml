@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cvra_div_molex_microsd_wm6701/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cvra_div_molex_microsd_wm6701/working
-    oomp_doc: footprints/footprints/cvra/_div/_Molex-microSD-WM6701/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cvra/_div/_Molex-microSD-WM6701/working
     oomp_src_flat: footprints_flat/footprints_flat/cvra_div_molex_microsd_wm6701/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cvra_div_molex_microsd_wm6701/working
-    oomp_src_folder: footprints_folder/footprints_folder/cvra/_div/_Molex-microSD-WM6701/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cvra/_div/_Molex-microSD-WM6701/working
   name: kicad-lib
+  oomp:
+    footprint_name: _molex_microsd_wm6701
+    library_name: _div
+    md5: 3f10226002a54a9c4ea30e5c2efb3a0f
+    md5_10: 3f10226002
+    md5_5: 3f102
+    md5_6: 3f1022
+    oomp_key: oomp_cvra_div_molex_microsd_wm6701
+    oomp_key_extra: oomp_footprint_cvra_div_molex_microsd_wm6701
+    oomp_key_full: oomp_footprint_cvra_div_molex_microsd_wm6701_3f1022
+    oomp_key_simple: cvra_div_molex_microsd_wm6701
+    original_filename: kicad-lib/footprints/_div.pretty/_Molex-microSD-WM6701.kicad_mod
+    owner_name: cvra
   oomp_key: oomp_cvra_div_molex_microsd_wm6701
+  oomp_key_full: oomp_footprint_cvra_div_molex_microsd_wm6701
   oomp_key_simple: cvra_div_molex_microsd_wm6701
   owner: cvra
   repo:

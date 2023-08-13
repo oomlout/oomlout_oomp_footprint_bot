@@ -12,17 +12,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_transformer_tht_transformer_toroid_horizontal_d12_5mm_amidon_t44/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_transformer_tht_transformer_toroid_horizontal_d12_5mm_amidon_t44/working
-    oomp_doc: footprints/footprints/kicad/Transformer_THT/Transformer_Toroid_Horizontal_D12.5mm_Amidon-T44/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Transformer_THT/Transformer_Toroid_Horizontal_D12.5mm_Amidon-T44/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_transformer_tht_transformer_toroid_horizontal_d12_5mm_amidon_t44/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_transformer_tht_transformer_toroid_horizontal_d12_5mm_amidon_t44/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Transformer_THT/Transformer_Toroid_Horizontal_D12.5mm_Amidon-T44/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Transformer_THT/Transformer_Toroid_Horizontal_D12.5mm_Amidon-T44/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: transformer_toroid_horizontal_d12_5mm_amidon_t44
+    library_name: transformer_tht
+    md5: 9ee7a26a363f6db7b5a216960942beba
+    md5_10: 9ee7a26a36
+    md5_5: 9ee7a
+    md5_6: 9ee7a2
+    oomp_key: oomp_kicad_transformer_tht_transformer_toroid_horizontal_d12_5mm_amidon_t44
+    oomp_key_extra: oomp_footprint_kicad_transformer_tht_transformer_toroid_horizontal_d12_5mm_amidon_t44
+    oomp_key_full: oomp_footprint_kicad_transformer_tht_transformer_toroid_horizontal_d12_5mm_amidon_t44_9ee7a2
+    oomp_key_simple: kicad_transformer_tht_transformer_toroid_horizontal_d12_5mm_amidon_t44
+    original_filename: libraries/kicad-footprints/Transformer_THT.pretty/Transformer_Toroid_Horizontal_D12.5mm_Amidon-T44.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_transformer_tht_transformer_toroid_horizontal_d12_5mm_amidon_t44
+  oomp_key_full: oomp_footprint_kicad_transformer_tht_transformer_toroid_horizontal_d12_5mm_amidon_t44
   oomp_key_simple: kicad_transformer_tht_transformer_toroid_horizontal_d12_5mm_amidon_t44
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

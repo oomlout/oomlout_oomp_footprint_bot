@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/digikey_headerpin_2x2_p4_2_drill1_4mm_headerpin_2x2_p4_2_drill1_4mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_headerpin_2x2_p4_2_drill1_4mm_headerpin_2x2_p4_2_drill1_4mm/working
-    oomp_doc: footprints/footprints/digikey/HeaderPin_2x2_P4.2_Drill1.4mm.kicad_mod/HeaderPin_2x2_P4.2_Drill1.4mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/digikey/HeaderPin_2x2_P4.2_Drill1.4mm.kicad_mod/HeaderPin_2x2_P4.2_Drill1.4mm/working
     oomp_src_flat: footprints_flat/footprints_flat/digikey_headerpin_2x2_p4_2_drill1_4mm_headerpin_2x2_p4_2_drill1_4mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/digikey_headerpin_2x2_p4_2_drill1_4mm_headerpin_2x2_p4_2_drill1_4mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/digikey/HeaderPin_2x2_P4.2_Drill1.4mm.kicad_mod/HeaderPin_2x2_P4.2_Drill1.4mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/digikey/HeaderPin_2x2_P4.2_Drill1.4mm.kicad_mod/HeaderPin_2x2_P4.2_Drill1.4mm/working
   name: digikey-kicad-library
+  oomp:
+    footprint_name: headerpin_2x2_p4_2_drill1_4mm
+    library_name: headerpin_2x2_p4_2_drill1_4mm_kicad_mod
+    md5: 04ee27314a0a204c90315e33b066df28
+    md5_10: 04ee27314a
+    md5_5: 04ee2
+    md5_6: 04ee27
+    oomp_key: oomp_digikey_headerpin_2x2_p4_2_drill1_4mm_headerpin_2x2_p4_2_drill1_4mm
+    oomp_key_extra: oomp_footprint_digikey_headerpin_2x2_p4_2_drill1_4mm_headerpin_2x2_p4_2_drill1_4mm
+    oomp_key_full: oomp_footprint_digikey_headerpin_2x2_p4_2_drill1_4mm_headerpin_2x2_p4_2_drill1_4mm_04ee27
+    oomp_key_simple: digikey_headerpin_2x2_p4_2_drill1_4mm_headerpin_2x2_p4_2_drill1_4mm
+    original_filename: digikey-kicad-library/src/Source_Footprints/HeaderPin_2x2_P4.2_Drill1.4mm.kicad_mod
+    owner_name: digikey
   oomp_key: oomp_digikey_headerpin_2x2_p4_2_drill1_4mm_headerpin_2x2_p4_2_drill1_4mm
+  oomp_key_full: oomp_footprint_digikey_headerpin_2x2_p4_2_drill1_4mm_headerpin_2x2_p4_2_drill1_4mm
   oomp_key_simple: digikey_headerpin_2x2_p4_2_drill1_4mm_headerpin_2x2_p4_2_drill1_4mm
   owner: digikey
   repo:

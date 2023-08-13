@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/shelaf_dygma_raise_fp_fiducial_0_5mm_dia_1mm_outer/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/shelaf_dygma_raise_fp_fiducial_0_5mm_dia_1mm_outer/working
-    oomp_doc: footprints/footprints/shelaf-dygma/raise_fp/Fiducial_0.5mm_Dia_1mm_Outer/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/shelaf-dygma/raise_fp/Fiducial_0.5mm_Dia_1mm_Outer/working
     oomp_src_flat: footprints_flat/footprints_flat/shelaf_dygma_raise_fp_fiducial_0_5mm_dia_1mm_outer/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/shelaf_dygma_raise_fp_fiducial_0_5mm_dia_1mm_outer/working
-    oomp_src_folder: footprints_folder/footprints_folder/shelaf-dygma/raise_fp/Fiducial_0.5mm_Dia_1mm_Outer/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/shelaf-dygma/raise_fp/Fiducial_0.5mm_Dia_1mm_Outer/working
   name: raise_fp.pretty
+  oomp:
+    footprint_name: fiducial_0_5mm_dia_1mm_outer
+    library_name: raise_fp
+    md5: b3f5c04e1a014ce4ffaff52e144e5c15
+    md5_10: b3f5c04e1a
+    md5_5: b3f5c
+    md5_6: b3f5c0
+    oomp_key: oomp_shelaf_dygma_raise_fp_fiducial_0_5mm_dia_1mm_outer
+    oomp_key_extra: oomp_footprint_shelaf_dygma_raise_fp_fiducial_0_5mm_dia_1mm_outer
+    oomp_key_full: oomp_footprint_shelaf_dygma_raise_fp_fiducial_0_5mm_dia_1mm_outer_b3f5c0
+    oomp_key_simple: shelaf_dygma_raise_fp_fiducial_0_5mm_dia_1mm_outer
+    original_filename: raise_fp.pretty/Fiducial_0.5mm_Dia_1mm_Outer.kicad_mod
+    owner_name: shelaf_dygma
   oomp_key: oomp_shelaf_dygma_raise_fp_fiducial_0_5mm_dia_1mm_outer
+  oomp_key_full: oomp_footprint_shelaf_dygma_raise_fp_fiducial_0_5mm_dia_1mm_outer
   oomp_key_simple: shelaf_dygma_raise_fp_fiducial_0_5mm_dia_1mm_outer
   owner: shelaf-dygma
   repo:

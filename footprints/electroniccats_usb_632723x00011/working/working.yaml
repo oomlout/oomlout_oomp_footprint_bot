@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/electroniccats_usb_632723x00011/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/electroniccats_usb_632723x00011/working
-    oomp_doc: footprints/footprints/ElectronicCats/USB/632723X00011/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ElectronicCats/USB/632723X00011/working
     oomp_src_flat: footprints_flat/footprints_flat/electroniccats_usb_632723x00011/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/electroniccats_usb_632723x00011/working
-    oomp_src_folder: footprints_folder/footprints_folder/ElectronicCats/USB/632723X00011/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ElectronicCats/USB/632723X00011/working
   name: ComponentLibrariesKicadWurthElektronik
+  oomp:
+    footprint_name: 632723x00011
+    library_name: usb
+    md5: 071043d908eab197bcfb8f45ea66f490
+    md5_10: 071043d908
+    md5_5: '07104'
+    md5_6: '071043'
+    oomp_key: oomp_electroniccats_usb_632723x00011
+    oomp_key_extra: oomp_footprint_electroniccats_usb_632723x00011
+    oomp_key_full: oomp_footprint_electroniccats_usb_632723x00011_071043
+    oomp_key_simple: electroniccats_usb_632723x00011
+    original_filename: ComponentLibrariesKicadWurthElektronik/INPUT_OUTPUT_CONNECTORS-rev17b/USB.pretty/632723X00011.kicad_mod
+    owner_name: electroniccats
   oomp_key: oomp_electroniccats_usb_632723x00011
+  oomp_key_full: oomp_footprint_electroniccats_usb_632723x00011
   oomp_key_simple: electroniccats_usb_632723x00011
   owner: ElectronicCats
   repo:

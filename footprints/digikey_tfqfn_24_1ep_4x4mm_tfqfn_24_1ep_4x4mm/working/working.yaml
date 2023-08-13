@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/digikey_tfqfn_24_1ep_4x4mm_tfqfn_24_1ep_4x4mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_tfqfn_24_1ep_4x4mm_tfqfn_24_1ep_4x4mm/working
-    oomp_doc: footprints/footprints/digikey/TFQFN-24-1EP_4x4mm.kicad_mod/TFQFN-24-1EP_4x4mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/digikey/TFQFN-24-1EP_4x4mm.kicad_mod/TFQFN-24-1EP_4x4mm/working
     oomp_src_flat: footprints_flat/footprints_flat/digikey_tfqfn_24_1ep_4x4mm_tfqfn_24_1ep_4x4mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/digikey_tfqfn_24_1ep_4x4mm_tfqfn_24_1ep_4x4mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/digikey/TFQFN-24-1EP_4x4mm.kicad_mod/TFQFN-24-1EP_4x4mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/digikey/TFQFN-24-1EP_4x4mm.kicad_mod/TFQFN-24-1EP_4x4mm/working
   name: digikey-kicad-library
+  oomp:
+    footprint_name: tfqfn_24_1ep_4x4mm
+    library_name: tfqfn_24_1ep_4x4mm_kicad_mod
+    md5: 0f46f8366fc1d96e9c4c3936af351e76
+    md5_10: 0f46f8366f
+    md5_5: 0f46f
+    md5_6: 0f46f8
+    oomp_key: oomp_digikey_tfqfn_24_1ep_4x4mm_tfqfn_24_1ep_4x4mm
+    oomp_key_extra: oomp_footprint_digikey_tfqfn_24_1ep_4x4mm_tfqfn_24_1ep_4x4mm
+    oomp_key_full: oomp_footprint_digikey_tfqfn_24_1ep_4x4mm_tfqfn_24_1ep_4x4mm_0f46f8
+    oomp_key_simple: digikey_tfqfn_24_1ep_4x4mm_tfqfn_24_1ep_4x4mm
+    original_filename: digikey-kicad-library/src/Source_Footprints/TFQFN-24-1EP_4x4mm.kicad_mod
+    owner_name: digikey
   oomp_key: oomp_digikey_tfqfn_24_1ep_4x4mm_tfqfn_24_1ep_4x4mm
+  oomp_key_full: oomp_footprint_digikey_tfqfn_24_1ep_4x4mm_tfqfn_24_1ep_4x4mm
   oomp_key_simple: digikey_tfqfn_24_1ep_4x4mm_tfqfn_24_1ep_4x4mm
   owner: digikey
   repo:

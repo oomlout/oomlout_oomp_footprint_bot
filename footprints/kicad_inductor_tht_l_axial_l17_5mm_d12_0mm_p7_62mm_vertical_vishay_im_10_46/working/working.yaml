@@ -12,17 +12,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_inductor_tht_l_axial_l17_5mm_d12_0mm_p7_62mm_vertical_vishay_im_10_46/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_inductor_tht_l_axial_l17_5mm_d12_0mm_p7_62mm_vertical_vishay_im_10_46/working
-    oomp_doc: footprints/footprints/kicad/Inductor_THT/L_Axial_L17.5mm_D12.0mm_P7.62mm_Vertical_Vishay_IM-10-46/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Inductor_THT/L_Axial_L17.5mm_D12.0mm_P7.62mm_Vertical_Vishay_IM-10-46/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_inductor_tht_l_axial_l17_5mm_d12_0mm_p7_62mm_vertical_vishay_im_10_46/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_inductor_tht_l_axial_l17_5mm_d12_0mm_p7_62mm_vertical_vishay_im_10_46/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Inductor_THT/L_Axial_L17.5mm_D12.0mm_P7.62mm_Vertical_Vishay_IM-10-46/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Inductor_THT/L_Axial_L17.5mm_D12.0mm_P7.62mm_Vertical_Vishay_IM-10-46/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: l_axial_l17_5mm_d12_0mm_p7_62mm_vertical_vishay_im_10_46
+    library_name: inductor_tht
+    md5: 65ddfff40aae132271f6be38f771b347
+    md5_10: 65ddfff40a
+    md5_5: 65ddf
+    md5_6: 65ddff
+    oomp_key: oomp_kicad_inductor_tht_l_axial_l17_5mm_d12_0mm_p7_62mm_vertical_vishay_im_10_46
+    oomp_key_extra: oomp_footprint_kicad_inductor_tht_l_axial_l17_5mm_d12_0mm_p7_62mm_vertical_vishay_im_10_46
+    oomp_key_full: oomp_footprint_kicad_inductor_tht_l_axial_l17_5mm_d12_0mm_p7_62mm_vertical_vishay_im_10_46_65ddff
+    oomp_key_simple: kicad_inductor_tht_l_axial_l17_5mm_d12_0mm_p7_62mm_vertical_vishay_im_10_46
+    original_filename: libraries/kicad-footprints/Inductor_THT.pretty/L_Axial_L17.5mm_D12.0mm_P7.62mm_Vertical_Vishay_IM-10-46.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_inductor_tht_l_axial_l17_5mm_d12_0mm_p7_62mm_vertical_vishay_im_10_46
+  oomp_key_full: oomp_footprint_kicad_inductor_tht_l_axial_l17_5mm_d12_0mm_p7_62mm_vertical_vishay_im_10_46
   oomp_key_simple: kicad_inductor_tht_l_axial_l17_5mm_d12_0mm_p7_62mm_vertical_vishay_im_10_46
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

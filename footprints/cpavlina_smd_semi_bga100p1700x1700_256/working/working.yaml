@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cpavlina_smd_semi_bga100p1700x1700_256/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cpavlina_smd_semi_bga100p1700x1700_256/working
-    oomp_doc: footprints/footprints/cpavlina/smd-semi/BGA100P1700X1700-256/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cpavlina/smd-semi/BGA100P1700X1700-256/working
     oomp_src_flat: footprints_flat/footprints_flat/cpavlina_smd_semi_bga100p1700x1700_256/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cpavlina_smd_semi_bga100p1700x1700_256/working
-    oomp_src_folder: footprints_folder/footprints_folder/cpavlina/smd-semi/BGA100P1700X1700-256/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cpavlina/smd-semi/BGA100P1700X1700-256/working
   name: kicad-pcblib
+  oomp:
+    footprint_name: bga100p1700x1700_256
+    library_name: smd_semi
+    md5: 5130d48de2824a78fe46187fc2bb598b
+    md5_10: 5130d48de2
+    md5_5: 5130d
+    md5_6: 5130d4
+    oomp_key: oomp_cpavlina_smd_semi_bga100p1700x1700_256
+    oomp_key_extra: oomp_footprint_cpavlina_smd_semi_bga100p1700x1700_256
+    oomp_key_full: oomp_footprint_cpavlina_smd_semi_bga100p1700x1700_256_5130d4
+    oomp_key_simple: cpavlina_smd_semi_bga100p1700x1700_256
+    original_filename: kicad-pcblib/smd-semi.pretty/BGA100P1700X1700-256.kicad_mod
+    owner_name: cpavlina
   oomp_key: oomp_cpavlina_smd_semi_bga100p1700x1700_256
+  oomp_key_full: oomp_footprint_cpavlina_smd_semi_bga100p1700x1700_256
   oomp_key_simple: cpavlina_smd_semi_bga100p1700x1700_256
   owner: cpavlina
   repo:

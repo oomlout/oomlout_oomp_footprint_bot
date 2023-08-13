@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/rocketscream_rocketscreamkicadlibrary_sot_23_5/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/rocketscream_rocketscreamkicadlibrary_sot_23_5/working
-    oomp_doc: footprints/footprints/rocketscream/RocketScreamKicadLibrary/SOT-23-5/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/rocketscream/RocketScreamKicadLibrary/SOT-23-5/working
     oomp_src_flat: footprints_flat/footprints_flat/rocketscream_rocketscreamkicadlibrary_sot_23_5/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/rocketscream_rocketscreamkicadlibrary_sot_23_5/working
-    oomp_src_folder: footprints_folder/footprints_folder/rocketscream/RocketScreamKicadLibrary/SOT-23-5/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/rocketscream/RocketScreamKicadLibrary/SOT-23-5/working
   name: RocketScreamKicadLibrary
+  oomp:
+    footprint_name: sot_23_5
+    library_name: rocketscreamkicadlibrary
+    md5: bc406be1f9e4e42c3133b95a6332a86a
+    md5_10: bc406be1f9
+    md5_5: bc406
+    md5_6: bc406b
+    oomp_key: oomp_rocketscream_rocketscreamkicadlibrary_sot_23_5
+    oomp_key_extra: oomp_footprint_rocketscream_rocketscreamkicadlibrary_sot_23_5
+    oomp_key_full: oomp_footprint_rocketscream_rocketscreamkicadlibrary_sot_23_5_bc406b
+    oomp_key_simple: rocketscream_rocketscreamkicadlibrary_sot_23_5
+    original_filename: RocketScreamKicadLibrary/RocketScreamKicadLibrary.pretty/SOT-23-5.kicad_mod
+    owner_name: rocketscream
   oomp_key: oomp_rocketscream_rocketscreamkicadlibrary_sot_23_5
+  oomp_key_full: oomp_footprint_rocketscream_rocketscreamkicadlibrary_sot_23_5
   oomp_key_simple: rocketscream_rocketscreamkicadlibrary_sot_23_5
   owner: rocketscream
   repo:

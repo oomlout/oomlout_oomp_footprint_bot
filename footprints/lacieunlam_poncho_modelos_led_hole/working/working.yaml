@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/LacieUnlam/Poncho_Modelos.pretty
     oomp_bot: footprints/lacieunlam_poncho_modelos_led_hole/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/lacieunlam_poncho_modelos_led_hole/working
-    oomp_doc: footprints/footprints/LacieUnlam/Poncho_Modelos/Led_Hole/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/LacieUnlam/Poncho_Modelos/Led_Hole/working
     oomp_src_flat: footprints_flat/footprints_flat/lacieunlam_poncho_modelos_led_hole/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/lacieunlam_poncho_modelos_led_hole/working
-    oomp_src_folder: footprints_folder/footprints_folder/LacieUnlam/Poncho_Modelos/Led_Hole/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/LacieUnlam/Poncho_Modelos/Led_Hole/working
   name: Poncho_Modelos.pretty
+  oomp:
+    footprint_name: led_hole
+    library_name: poncho_modelos
+    md5: dc9f829985487ad46267b53d184a26bb
+    md5_10: dc9f829985
+    md5_5: dc9f8
+    md5_6: dc9f82
+    oomp_key: oomp_lacieunlam_poncho_modelos_led_hole
+    oomp_key_extra: oomp_footprint_lacieunlam_poncho_modelos_led_hole
+    oomp_key_full: oomp_footprint_lacieunlam_poncho_modelos_led_hole_dc9f82
+    oomp_key_simple: lacieunlam_poncho_modelos_led_hole
+    original_filename: Poncho_Modelos.pretty/Led_Hole.kicad_mod
+    owner_name: lacieunlam
   oomp_key: oomp_lacieunlam_poncho_modelos_led_hole
+  oomp_key_full: oomp_footprint_lacieunlam_poncho_modelos_led_hole
   oomp_key_simple: lacieunlam_poncho_modelos_led_hole
   owner: LacieUnlam
   repo:

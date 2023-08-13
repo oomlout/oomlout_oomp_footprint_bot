@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/rudiloos_kilibs_soic_20/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/rudiloos_kilibs_soic_20/working
-    oomp_doc: footprints/footprints/rudiloos/kilibs/SOIC-20/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/rudiloos/kilibs/SOIC-20/working
     oomp_src_flat: footprints_flat/footprints_flat/rudiloos_kilibs_soic_20/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/rudiloos_kilibs_soic_20/working
-    oomp_src_folder: footprints_folder/footprints_folder/rudiloos/kilibs/SOIC-20/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/rudiloos/kilibs/SOIC-20/working
   name: kilibs.pretty
+  oomp:
+    footprint_name: soic_20
+    library_name: kilibs
+    md5: 8120b3d1a44e1195d21c333b280cd22c
+    md5_10: 8120b3d1a4
+    md5_5: 8120b
+    md5_6: 8120b3
+    oomp_key: oomp_rudiloos_kilibs_soic_20
+    oomp_key_extra: oomp_footprint_rudiloos_kilibs_soic_20
+    oomp_key_full: oomp_footprint_rudiloos_kilibs_soic_20_8120b3
+    oomp_key_simple: rudiloos_kilibs_soic_20
+    original_filename: kilibs.pretty/SOIC-20.kicad_mod
+    owner_name: rudiloos
   oomp_key: oomp_rudiloos_kilibs_soic_20
+  oomp_key_full: oomp_footprint_rudiloos_kilibs_soic_20
   oomp_key_simple: rudiloos_kilibs_soic_20
   owner: rudiloos
   repo:

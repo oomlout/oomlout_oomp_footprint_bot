@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/monostable_commonpartslibrary_erj_6enf1002v_resc2012x70/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/monostable_commonpartslibrary_erj_6enf1002v_resc2012x70/working
-    oomp_doc: footprints/footprints/monostable/CommonPartsLibrary/ERJ-6ENF1002V_RESC2012X70/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/monostable/CommonPartsLibrary/ERJ-6ENF1002V_RESC2012X70/working
     oomp_src_flat: footprints_flat/footprints_flat/monostable_commonpartslibrary_erj_6enf1002v_resc2012x70/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/monostable_commonpartslibrary_erj_6enf1002v_resc2012x70/working
-    oomp_src_folder: footprints_folder/footprints_folder/monostable/CommonPartsLibrary/ERJ-6ENF1002V_RESC2012X70/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/monostable/CommonPartsLibrary/ERJ-6ENF1002V_RESC2012X70/working
   name: CommonPartsLibrary.pretty
+  oomp:
+    footprint_name: erj_6enf1002v_resc2012x70
+    library_name: commonpartslibrary
+    md5: 04fd9a5fbfbf4052bf5c55c94db6da92
+    md5_10: 04fd9a5fbf
+    md5_5: 04fd9
+    md5_6: 04fd9a
+    oomp_key: oomp_monostable_commonpartslibrary_erj_6enf1002v_resc2012x70
+    oomp_key_extra: oomp_footprint_monostable_commonpartslibrary_erj_6enf1002v_resc2012x70
+    oomp_key_full: oomp_footprint_monostable_commonpartslibrary_erj_6enf1002v_resc2012x70_04fd9a
+    oomp_key_simple: monostable_commonpartslibrary_erj_6enf1002v_resc2012x70
+    original_filename: CommonPartsLibrary.pretty/ERJ-6ENF1002V_RESC2012X70.kicad_mod
+    owner_name: monostable
   oomp_key: oomp_monostable_commonpartslibrary_erj_6enf1002v_resc2012x70
+  oomp_key_full: oomp_footprint_monostable_commonpartslibrary_erj_6enf1002v_resc2012x70
   oomp_key_simple: monostable_commonpartslibrary_erj_6enf1002v_resc2012x70
   owner: monostable
   repo:

@@ -11,17 +11,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_package_dip_powerintegrations_edip_12b/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_package_dip_powerintegrations_edip_12b/working
-    oomp_doc: footprints/footprints/kicad/Package_DIP/PowerIntegrations_eDIP-12B/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Package_DIP/PowerIntegrations_eDIP-12B/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_package_dip_powerintegrations_edip_12b/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_package_dip_powerintegrations_edip_12b/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Package_DIP/PowerIntegrations_eDIP-12B/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Package_DIP/PowerIntegrations_eDIP-12B/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: powerintegrations_edip_12b
+    library_name: package_dip
+    md5: 71a763fb37ed53c672e455abdbc23f0a
+    md5_10: 71a763fb37
+    md5_5: 71a76
+    md5_6: 71a763
+    oomp_key: oomp_kicad_package_dip_powerintegrations_edip_12b
+    oomp_key_extra: oomp_footprint_kicad_package_dip_powerintegrations_edip_12b
+    oomp_key_full: oomp_footprint_kicad_package_dip_powerintegrations_edip_12b_71a763
+    oomp_key_simple: kicad_package_dip_powerintegrations_edip_12b
+    original_filename: libraries/kicad-footprints/Package_DIP.pretty/PowerIntegrations_eDIP-12B.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_package_dip_powerintegrations_edip_12b
+  oomp_key_full: oomp_footprint_kicad_package_dip_powerintegrations_edip_12b
   oomp_key_simple: kicad_package_dip_powerintegrations_edip_12b
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

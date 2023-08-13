@@ -13,14 +13,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/bsakatu_kicad_parts_bsakatu_c_1206_3216metric_pad1_42x1_75mm_handsolder_reversible/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/bsakatu_kicad_parts_bsakatu_c_1206_3216metric_pad1_42x1_75mm_handsolder_reversible/working
-    oomp_doc: footprints/footprints/bsakatu/kicad_parts_bsakatu/C_1206_3216Metric_Pad1.42x1.75mm_HandSolder_Reversible/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/bsakatu/kicad_parts_bsakatu/C_1206_3216Metric_Pad1.42x1.75mm_HandSolder_Reversible/working
     oomp_src_flat: footprints_flat/footprints_flat/bsakatu_kicad_parts_bsakatu_c_1206_3216metric_pad1_42x1_75mm_handsolder_reversible/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/bsakatu_kicad_parts_bsakatu_c_1206_3216metric_pad1_42x1_75mm_handsolder_reversible/working
-    oomp_src_folder: footprints_folder/footprints_folder/bsakatu/kicad_parts_bsakatu/C_1206_3216Metric_Pad1.42x1.75mm_HandSolder_Reversible/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/bsakatu/kicad_parts_bsakatu/C_1206_3216Metric_Pad1.42x1.75mm_HandSolder_Reversible/working
   name: kicad_parts_bsakatu.pretty
+  oomp:
+    footprint_name: c_1206_3216metric_pad1_42x1_75mm_handsolder_reversible
+    library_name: kicad_parts_bsakatu
+    md5: 9d6626d446f49cb12ab51fe81ac993d1
+    md5_10: 9d6626d446
+    md5_5: 9d662
+    md5_6: 9d6626
+    oomp_key: oomp_bsakatu_kicad_parts_bsakatu_c_1206_3216metric_pad1_42x1_75mm_handsolder_reversible
+    oomp_key_extra: oomp_footprint_bsakatu_kicad_parts_bsakatu_c_1206_3216metric_pad1_42x1_75mm_handsolder_reversible
+    oomp_key_full: oomp_footprint_bsakatu_kicad_parts_bsakatu_c_1206_3216metric_pad1_42x1_75mm_handsolder_reversible_9d6626
+    oomp_key_simple: bsakatu_kicad_parts_bsakatu_c_1206_3216metric_pad1_42x1_75mm_handsolder_reversible
+    original_filename: kicad_parts_bsakatu.pretty/C_1206_3216Metric_Pad1.42x1.75mm_HandSolder_Reversible.kicad_mod
+    owner_name: bsakatu
   oomp_key: oomp_bsakatu_kicad_parts_bsakatu_c_1206_3216metric_pad1_42x1_75mm_handsolder_reversible
+  oomp_key_full: oomp_footprint_bsakatu_kicad_parts_bsakatu_c_1206_3216metric_pad1_42x1_75mm_handsolder_reversible
   oomp_key_simple: bsakatu_kicad_parts_bsakatu_c_1206_3216metric_pad1_42x1_75mm_handsolder_reversible
   owner: bsakatu
   repo:

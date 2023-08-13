@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/monostable_commonpartslibrary_led_g502dc/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/monostable_commonpartslibrary_led_g502dc/working
-    oomp_doc: footprints/footprints/monostable/CommonPartsLibrary/LED_G502DC/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/monostable/CommonPartsLibrary/LED_G502DC/working
     oomp_src_flat: footprints_flat/footprints_flat/monostable_commonpartslibrary_led_g502dc/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/monostable_commonpartslibrary_led_g502dc/working
-    oomp_src_folder: footprints_folder/footprints_folder/monostable/CommonPartsLibrary/LED_G502DC/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/monostable/CommonPartsLibrary/LED_G502DC/working
   name: CommonPartsLibrary.pretty
+  oomp:
+    footprint_name: led_g502dc
+    library_name: commonpartslibrary
+    md5: f3a66492a6edde011e398756b734973a
+    md5_10: f3a66492a6
+    md5_5: f3a66
+    md5_6: f3a664
+    oomp_key: oomp_monostable_commonpartslibrary_led_g502dc
+    oomp_key_extra: oomp_footprint_monostable_commonpartslibrary_led_g502dc
+    oomp_key_full: oomp_footprint_monostable_commonpartslibrary_led_g502dc_f3a664
+    oomp_key_simple: monostable_commonpartslibrary_led_g502dc
+    original_filename: CommonPartsLibrary.pretty/LED_G502DC.kicad_mod
+    owner_name: monostable
   oomp_key: oomp_monostable_commonpartslibrary_led_g502dc
+  oomp_key_full: oomp_footprint_monostable_commonpartslibrary_led_g502dc
   oomp_key_simple: monostable_commonpartslibrary_led_g502dc
   owner: monostable
   repo:

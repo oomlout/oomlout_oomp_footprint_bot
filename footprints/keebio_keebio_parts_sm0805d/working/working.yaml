@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/keebio_keebio_parts_sm0805d/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/keebio_keebio_parts_sm0805d/working
-    oomp_doc: footprints/footprints/keebio/Keebio-Parts/SM0805D/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/keebio/Keebio-Parts/SM0805D/working
     oomp_src_flat: footprints_flat/footprints_flat/keebio_keebio_parts_sm0805d/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/keebio_keebio_parts_sm0805d/working
-    oomp_src_folder: footprints_folder/footprints_folder/keebio/Keebio-Parts/SM0805D/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/keebio/Keebio-Parts/SM0805D/working
   name: Keebio-Parts.pretty
+  oomp:
+    footprint_name: sm0805d
+    library_name: keebio_parts
+    md5: 4657011ae9b6e61e63cfd7c7d9fc6227
+    md5_10: 4657011ae9
+    md5_5: '46570'
+    md5_6: '465701'
+    oomp_key: oomp_keebio_keebio_parts_sm0805d
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_sm0805d
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_sm0805d_465701
+    oomp_key_simple: keebio_keebio_parts_sm0805d
+    original_filename: Keebio-Parts.pretty/SM0805D.kicad_mod
+    owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_sm0805d
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_sm0805d
   oomp_key_simple: keebio_keebio_parts_sm0805d
   owner: keebio
   repo:

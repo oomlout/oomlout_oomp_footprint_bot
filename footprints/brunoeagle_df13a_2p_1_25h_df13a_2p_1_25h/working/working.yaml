@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_df13a_2p_1_25h_df13a_2p_1_25h/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_df13a_2p_1_25h_df13a_2p_1_25h/working
-    oomp_doc: footprints/footprints/brunoeagle/DF13A-2P-1.25H.kicad_mod/DF13A-2P-1.25H/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/DF13A-2P-1.25H.kicad_mod/DF13A-2P-1.25H/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_df13a_2p_1_25h_df13a_2p_1_25h/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_df13a_2p_1_25h_df13a_2p_1_25h/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/DF13A-2P-1.25H.kicad_mod/DF13A-2P-1.25H/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/DF13A-2P-1.25H.kicad_mod/DF13A-2P-1.25H/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: df13a_2p_1_25h
+    library_name: df13a_2p_1_25h_kicad_mod
+    md5: acc1c3d67dd0f9b2d7cfc7b222d2f464
+    md5_10: acc1c3d67d
+    md5_5: acc1c
+    md5_6: acc1c3
+    oomp_key: oomp_brunoeagle_df13a_2p_1_25h_df13a_2p_1_25h
+    oomp_key_extra: oomp_footprint_brunoeagle_df13a_2p_1_25h_df13a_2p_1_25h
+    oomp_key_full: oomp_footprint_brunoeagle_df13a_2p_1_25h_df13a_2p_1_25h_acc1c3
+    oomp_key_simple: brunoeagle_df13a_2p_1_25h_df13a_2p_1_25h
+    original_filename: kicad-open-modules/DF13A-2P-1.25H.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_df13a_2p_1_25h_df13a_2p_1_25h
+  oomp_key_full: oomp_footprint_brunoeagle_df13a_2p_1_25h_df13a_2p_1_25h
   oomp_key_simple: brunoeagle_df13a_2p_1_25h_df13a_2p_1_25h
   owner: brunoeagle
   repo:

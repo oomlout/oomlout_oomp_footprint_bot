@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/ruuvi_ruuvitag_sky66113_11/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ruuvi_ruuvitag_sky66113_11/working
-    oomp_doc: footprints/footprints/ruuvi/RuuviTag/SKY66113-11/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ruuvi/RuuviTag/SKY66113-11/working
     oomp_src_flat: footprints_flat/footprints_flat/ruuvi_ruuvitag_sky66113_11/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ruuvi_ruuvitag_sky66113_11/working
-    oomp_src_folder: footprints_folder/footprints_folder/ruuvi/RuuviTag/SKY66113-11/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ruuvi/RuuviTag/SKY66113-11/working
   name: kicad-library
+  oomp:
+    footprint_name: sky66113_11
+    library_name: ruuvitag
+    md5: 360dd5f368a2f0323d2dfd0573e264c3
+    md5_10: 360dd5f368
+    md5_5: 360dd
+    md5_6: 360dd5
+    oomp_key: oomp_ruuvi_ruuvitag_sky66113_11
+    oomp_key_extra: oomp_footprint_ruuvi_ruuvitag_sky66113_11
+    oomp_key_full: oomp_footprint_ruuvi_ruuvitag_sky66113_11_360dd5
+    oomp_key_simple: ruuvi_ruuvitag_sky66113_11
+    original_filename: kicad-library/RuuviTag.pretty/SKY66113-11.kicad_mod
+    owner_name: ruuvi
   oomp_key: oomp_ruuvi_ruuvitag_sky66113_11
+  oomp_key_full: oomp_footprint_ruuvi_ruuvitag_sky66113_11
   oomp_key_simple: ruuvi_ruuvitag_sky66113_11
   owner: ruuvi
   repo:

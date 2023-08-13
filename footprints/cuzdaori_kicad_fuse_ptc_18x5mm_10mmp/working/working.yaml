@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cuzdaori_kicad_fuse_ptc_18x5mm_10mmp/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cuzdaori_kicad_fuse_ptc_18x5mm_10mmp/working
-    oomp_doc: footprints/footprints/cuzdaori/KiCad/FUSE_PTC_18X5MM_10MMP/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cuzdaori/KiCad/FUSE_PTC_18X5MM_10MMP/working
     oomp_src_flat: footprints_flat/footprints_flat/cuzdaori_kicad_fuse_ptc_18x5mm_10mmp/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cuzdaori_kicad_fuse_ptc_18x5mm_10mmp/working
-    oomp_src_folder: footprints_folder/footprints_folder/cuzdaori/KiCad/FUSE_PTC_18X5MM_10MMP/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cuzdaori/KiCad/FUSE_PTC_18X5MM_10MMP/working
   name: KiCad.pretty
+  oomp:
+    footprint_name: fuse_ptc_18x5mm_10mmp
+    library_name: kicad
+    md5: 65414079669eea179056bae94a175327
+    md5_10: '6541407966'
+    md5_5: '65414'
+    md5_6: '654140'
+    oomp_key: oomp_cuzdaori_kicad_fuse_ptc_18x5mm_10mmp
+    oomp_key_extra: oomp_footprint_cuzdaori_kicad_fuse_ptc_18x5mm_10mmp
+    oomp_key_full: oomp_footprint_cuzdaori_kicad_fuse_ptc_18x5mm_10mmp_654140
+    oomp_key_simple: cuzdaori_kicad_fuse_ptc_18x5mm_10mmp
+    original_filename: KiCad.pretty/FUSE_PTC_18X5MM_10MMP.kicad_mod
+    owner_name: cuzdaori
   oomp_key: oomp_cuzdaori_kicad_fuse_ptc_18x5mm_10mmp
+  oomp_key_full: oomp_footprint_cuzdaori_kicad_fuse_ptc_18x5mm_10mmp
   oomp_key_simple: cuzdaori_kicad_fuse_ptc_18x5mm_10mmp
   owner: cuzdaori
   repo:

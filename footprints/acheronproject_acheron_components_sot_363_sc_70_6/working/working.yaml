@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/AcheronProject/acheron_Components.pretty
     oomp_bot: footprints/acheronproject_acheron_components_sot_363_sc_70_6/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/acheronproject_acheron_components_sot_363_sc_70_6/working
-    oomp_doc: footprints/footprints/AcheronProject/acheron_Components/SOT-363_SC-70-6/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/AcheronProject/acheron_Components/SOT-363_SC-70-6/working
     oomp_src_flat: footprints_flat/footprints_flat/acheronproject_acheron_components_sot_363_sc_70_6/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/acheronproject_acheron_components_sot_363_sc_70_6/working
-    oomp_src_folder: footprints_folder/footprints_folder/AcheronProject/acheron_Components/SOT-363_SC-70-6/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/AcheronProject/acheron_Components/SOT-363_SC-70-6/working
   name: acheron_Components.pretty
+  oomp:
+    footprint_name: sot_363_sc_70_6
+    library_name: acheron_components
+    md5: 61913c8a4b13f137fb9bf5df04535008
+    md5_10: 61913c8a4b
+    md5_5: '61913'
+    md5_6: 61913c
+    oomp_key: oomp_acheronproject_acheron_components_sot_363_sc_70_6
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_components_sot_363_sc_70_6
+    oomp_key_full: oomp_footprint_acheronproject_acheron_components_sot_363_sc_70_6_61913c
+    oomp_key_simple: acheronproject_acheron_components_sot_363_sc_70_6
+    original_filename: acheron_Components.pretty/SOT-363_SC-70-6.kicad_mod
+    owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_components_sot_363_sc_70_6
+  oomp_key_full: oomp_footprint_acheronproject_acheron_components_sot_363_sc_70_6
   oomp_key_simple: acheronproject_acheron_components_sot_363_sc_70_6
   owner: AcheronProject
   repo:

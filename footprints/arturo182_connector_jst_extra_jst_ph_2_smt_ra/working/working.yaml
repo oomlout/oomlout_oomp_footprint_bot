@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/arturo182/kicad-modules
     oomp_bot: footprints/arturo182_connector_jst_extra_jst_ph_2_smt_ra/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/arturo182_connector_jst_extra_jst_ph_2_smt_ra/working
-    oomp_doc: footprints/footprints/arturo182/Connector_JST_Extra/JST-PH-2-SMT-RA/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/arturo182/Connector_JST_Extra/JST-PH-2-SMT-RA/working
     oomp_src_flat: footprints_flat/footprints_flat/arturo182_connector_jst_extra_jst_ph_2_smt_ra/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/arturo182_connector_jst_extra_jst_ph_2_smt_ra/working
-    oomp_src_folder: footprints_folder/footprints_folder/arturo182/Connector_JST_Extra/JST-PH-2-SMT-RA/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/arturo182/Connector_JST_Extra/JST-PH-2-SMT-RA/working
   name: kicad-modules
+  oomp:
+    footprint_name: jst_ph_2_smt_ra
+    library_name: connector_jst_extra
+    md5: d90a22c5beed04275dd73df69e969f29
+    md5_10: d90a22c5be
+    md5_5: d90a2
+    md5_6: d90a22
+    oomp_key: oomp_arturo182_connector_jst_extra_jst_ph_2_smt_ra
+    oomp_key_extra: oomp_footprint_arturo182_connector_jst_extra_jst_ph_2_smt_ra
+    oomp_key_full: oomp_footprint_arturo182_connector_jst_extra_jst_ph_2_smt_ra_d90a22
+    oomp_key_simple: arturo182_connector_jst_extra_jst_ph_2_smt_ra
+    original_filename: kicad-modules/Connector_JST_Extra.pretty/JST-PH-2-SMT-RA.kicad_mod
+    owner_name: arturo182
   oomp_key: oomp_arturo182_connector_jst_extra_jst_ph_2_smt_ra
+  oomp_key_full: oomp_footprint_arturo182_connector_jst_extra_jst_ph_2_smt_ra
   oomp_key_simple: arturo182_connector_jst_extra_jst_ph_2_smt_ra
   owner: arturo182
   repo:

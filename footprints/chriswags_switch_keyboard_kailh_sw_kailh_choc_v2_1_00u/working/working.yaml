@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/chriswags_switch_keyboard_kailh_sw_kailh_choc_v2_1_00u/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/chriswags_switch_keyboard_kailh_sw_kailh_choc_v2_1_00u/working
-    oomp_doc: footprints/footprints/chriswags/Switch_Keyboard_Kailh/SW_Kailh_Choc_V2_1.00u/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/chriswags/Switch_Keyboard_Kailh/SW_Kailh_Choc_V2_1.00u/working
     oomp_src_flat: footprints_flat/footprints_flat/chriswags_switch_keyboard_kailh_sw_kailh_choc_v2_1_00u/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/chriswags_switch_keyboard_kailh_sw_kailh_choc_v2_1_00u/working
-    oomp_src_folder: footprints_folder/footprints_folder/chriswags/Switch_Keyboard_Kailh/SW_Kailh_Choc_V2_1.00u/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/chriswags/Switch_Keyboard_Kailh/SW_Kailh_Choc_V2_1.00u/working
   name: KiCad
+  oomp:
+    footprint_name: sw_kailh_choc_v2_1_00u
+    library_name: switch_keyboard_kailh
+    md5: 386505873639ee5b0ff2a91d6ecda2be
+    md5_10: '3865058736'
+    md5_5: '38650'
+    md5_6: '386505'
+    oomp_key: oomp_chriswags_switch_keyboard_kailh_sw_kailh_choc_v2_1_00u
+    oomp_key_extra: oomp_footprint_chriswags_switch_keyboard_kailh_sw_kailh_choc_v2_1_00u
+    oomp_key_full: oomp_footprint_chriswags_switch_keyboard_kailh_sw_kailh_choc_v2_1_00u_386505
+    oomp_key_simple: chriswags_switch_keyboard_kailh_sw_kailh_choc_v2_1_00u
+    original_filename: KiCad/6.0/3rdparty/footprints/com_github_perigoso_keyswitch-kicad-library/Switch_Keyboard_Kailh.pretty/SW_Kailh_Choc_V2_1.00u.kicad_mod
+    owner_name: chriswags
   oomp_key: oomp_chriswags_switch_keyboard_kailh_sw_kailh_choc_v2_1_00u
+  oomp_key_full: oomp_footprint_chriswags_switch_keyboard_kailh_sw_kailh_choc_v2_1_00u
   oomp_key_simple: chriswags_switch_keyboard_kailh_sw_kailh_choc_v2_1_00u
   owner: chriswags
   repo:

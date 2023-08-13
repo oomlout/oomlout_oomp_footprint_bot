@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/adamgreig/agg-kicad
     oomp_bot: footprints/adamgreig_agg_bga_64_05p_st/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/adamgreig_agg_bga_64_05p_st/working
-    oomp_doc: footprints/footprints/adamgreig/agg/BGA-64-05P-ST/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/adamgreig/agg/BGA-64-05P-ST/working
     oomp_src_flat: footprints_flat/footprints_flat/adamgreig_agg_bga_64_05p_st/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/adamgreig_agg_bga_64_05p_st/working
-    oomp_src_folder: footprints_folder/footprints_folder/adamgreig/agg/BGA-64-05P-ST/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/adamgreig/agg/BGA-64-05P-ST/working
   name: agg-kicad
+  oomp:
+    footprint_name: bga_64_05p_st
+    library_name: agg
+    md5: b95d21487dc74cdc859b61296324eec6
+    md5_10: b95d21487d
+    md5_5: b95d2
+    md5_6: b95d21
+    oomp_key: oomp_adamgreig_agg_bga_64_05p_st
+    oomp_key_extra: oomp_footprint_adamgreig_agg_bga_64_05p_st
+    oomp_key_full: oomp_footprint_adamgreig_agg_bga_64_05p_st_b95d21
+    oomp_key_simple: adamgreig_agg_bga_64_05p_st
+    original_filename: agg-kicad/agg.pretty/BGA-64-05P-ST.kicad_mod
+    owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_bga_64_05p_st
+  oomp_key_full: oomp_footprint_adamgreig_agg_bga_64_05p_st
   oomp_key_simple: adamgreig_agg_bga_64_05p_st
   owner: adamgreig
   repo:

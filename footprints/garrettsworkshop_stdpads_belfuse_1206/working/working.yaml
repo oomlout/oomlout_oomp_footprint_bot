@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/garrettsworkshop_stdpads_belfuse_1206/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/garrettsworkshop_stdpads_belfuse_1206/working
-    oomp_doc: footprints/footprints/garrettsworkshop/stdpads/BelFuse_1206/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/garrettsworkshop/stdpads/BelFuse_1206/working
     oomp_src_flat: footprints_flat/footprints_flat/garrettsworkshop_stdpads_belfuse_1206/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/garrettsworkshop_stdpads_belfuse_1206/working
-    oomp_src_folder: footprints_folder/footprints_folder/garrettsworkshop/stdpads/BelFuse_1206/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/garrettsworkshop/stdpads/BelFuse_1206/working
   name: stdpads.pretty
+  oomp:
+    footprint_name: belfuse_1206
+    library_name: stdpads
+    md5: fa8b7c5ebf7b7307794c77afb53bd99f
+    md5_10: fa8b7c5ebf
+    md5_5: fa8b7
+    md5_6: fa8b7c
+    oomp_key: oomp_garrettsworkshop_stdpads_belfuse_1206
+    oomp_key_extra: oomp_footprint_garrettsworkshop_stdpads_belfuse_1206
+    oomp_key_full: oomp_footprint_garrettsworkshop_stdpads_belfuse_1206_fa8b7c
+    oomp_key_simple: garrettsworkshop_stdpads_belfuse_1206
+    original_filename: stdpads.pretty/BelFuse_1206.kicad_mod
+    owner_name: garrettsworkshop
   oomp_key: oomp_garrettsworkshop_stdpads_belfuse_1206
+  oomp_key_full: oomp_footprint_garrettsworkshop_stdpads_belfuse_1206
   oomp_key_simple: garrettsworkshop_stdpads_belfuse_1206
   owner: garrettsworkshop
   repo:

@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/nppc_c_rect_l16_5mm_w6_0mm_p15_00mm_mkt_c_rect_l16_5mm_w6_0mm_p15_00mm_mkt/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nppc_c_rect_l16_5mm_w6_0mm_p15_00mm_mkt_c_rect_l16_5mm_w6_0mm_p15_00mm_mkt/working
-    oomp_doc: footprints/footprints/nppc/C_Rect_L16.5mm_W6.0mm_P15.00mm_MKT.kicad_mod/C_Rect_L16.5mm_W6.0mm_P15.00mm_MKT/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/nppc/C_Rect_L16.5mm_W6.0mm_P15.00mm_MKT.kicad_mod/C_Rect_L16.5mm_W6.0mm_P15.00mm_MKT/working
     oomp_src_flat: footprints_flat/footprints_flat/nppc_c_rect_l16_5mm_w6_0mm_p15_00mm_mkt_c_rect_l16_5mm_w6_0mm_p15_00mm_mkt/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nppc_c_rect_l16_5mm_w6_0mm_p15_00mm_mkt_c_rect_l16_5mm_w6_0mm_p15_00mm_mkt/working
-    oomp_src_folder: footprints_folder/footprints_folder/nppc/C_Rect_L16.5mm_W6.0mm_P15.00mm_MKT.kicad_mod/C_Rect_L16.5mm_W6.0mm_P15.00mm_MKT/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/nppc/C_Rect_L16.5mm_W6.0mm_P15.00mm_MKT.kicad_mod/C_Rect_L16.5mm_W6.0mm_P15.00mm_MKT/working
   name: KiCadCustomLibs
+  oomp:
+    footprint_name: c_rect_l16_5mm_w6_0mm_p15_00mm_mkt
+    library_name: c_rect_l16_5mm_w6_0mm_p15_00mm_mkt_kicad_mod
+    md5: 2b42a35221a222773955ffd271e3f159
+    md5_10: 2b42a35221
+    md5_5: 2b42a
+    md5_6: 2b42a3
+    oomp_key: oomp_nppc_c_rect_l16_5mm_w6_0mm_p15_00mm_mkt_c_rect_l16_5mm_w6_0mm_p15_00mm_mkt
+    oomp_key_extra: oomp_footprint_nppc_c_rect_l16_5mm_w6_0mm_p15_00mm_mkt_c_rect_l16_5mm_w6_0mm_p15_00mm_mkt
+    oomp_key_full: oomp_footprint_nppc_c_rect_l16_5mm_w6_0mm_p15_00mm_mkt_c_rect_l16_5mm_w6_0mm_p15_00mm_mkt_2b42a3
+    oomp_key_simple: nppc_c_rect_l16_5mm_w6_0mm_p15_00mm_mkt_c_rect_l16_5mm_w6_0mm_p15_00mm_mkt
+    original_filename: KiCadCustomLibs/C_Rect_L16.5mm_W6.0mm_P15.00mm_MKT.kicad_mod
+    owner_name: nppc
   oomp_key: oomp_nppc_c_rect_l16_5mm_w6_0mm_p15_00mm_mkt_c_rect_l16_5mm_w6_0mm_p15_00mm_mkt
+  oomp_key_full: oomp_footprint_nppc_c_rect_l16_5mm_w6_0mm_p15_00mm_mkt_c_rect_l16_5mm_w6_0mm_p15_00mm_mkt
   oomp_key_simple: nppc_c_rect_l16_5mm_w6_0mm_p15_00mm_mkt_c_rect_l16_5mm_w6_0mm_p15_00mm_mkt
   owner: nppc
   repo:

@@ -14,14 +14,24 @@
     github_src_repo: https://github.com/leptun/leptunKicadLib.pretty
     oomp_bot: footprints/leptun_leptunkicadlib_aoz1212ai/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/leptun_leptunkicadlib_aoz1212ai/working
-    oomp_doc: footprints/footprints/leptun/leptunKicadLib/AOZ1212AI/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/leptun/leptunKicadLib/AOZ1212AI/working
     oomp_src_flat: footprints_flat/footprints_flat/leptun_leptunkicadlib_aoz1212ai/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/leptun_leptunkicadlib_aoz1212ai/working
-    oomp_src_folder: footprints_folder/footprints_folder/leptun/leptunKicadLib/AOZ1212AI/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/leptun/leptunKicadLib/AOZ1212AI/working
   name: leptunKicadLib.pretty
+  oomp:
+    footprint_name: aoz1212ai
+    library_name: leptunkicadlib
+    md5: 14b2a37861f9f308f2cb3269038e71bc
+    md5_10: 14b2a37861
+    md5_5: 14b2a
+    md5_6: 14b2a3
+    oomp_key: oomp_leptun_leptunkicadlib_aoz1212ai
+    oomp_key_extra: oomp_footprint_leptun_leptunkicadlib_aoz1212ai
+    oomp_key_full: oomp_footprint_leptun_leptunkicadlib_aoz1212ai_14b2a3
+    oomp_key_simple: leptun_leptunkicadlib_aoz1212ai
+    original_filename: leptunKicadLib.pretty/AOZ1212AI.kicad_mod
+    owner_name: leptun
   oomp_key: oomp_leptun_leptunkicadlib_aoz1212ai
+  oomp_key_full: oomp_footprint_leptun_leptunkicadlib_aoz1212ai
   oomp_key_simple: leptun_leptunkicadlib_aoz1212ai
   owner: leptun
   repo:

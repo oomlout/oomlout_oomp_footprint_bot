@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/andresmanelli/TOROID-KiCad.pretty
     oomp_bot: footprints/andresmanelli_toroid_kicad_logo_jeebo_18mm_fsilk/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/andresmanelli_toroid_kicad_logo_jeebo_18mm_fsilk/working
-    oomp_doc: footprints/footprints/andresmanelli/TOROID-KiCad/Logo_Jeebo_18mm_FSilk/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/andresmanelli/TOROID-KiCad/Logo_Jeebo_18mm_FSilk/working
     oomp_src_flat: footprints_flat/footprints_flat/andresmanelli_toroid_kicad_logo_jeebo_18mm_fsilk/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/andresmanelli_toroid_kicad_logo_jeebo_18mm_fsilk/working
-    oomp_src_folder: footprints_folder/footprints_folder/andresmanelli/TOROID-KiCad/Logo_Jeebo_18mm_FSilk/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/andresmanelli/TOROID-KiCad/Logo_Jeebo_18mm_FSilk/working
   name: TOROID-KiCad.pretty
+  oomp:
+    footprint_name: logo_jeebo_18mm_fsilk
+    library_name: toroid_kicad
+    md5: 5a3d1d10e986031244d606ff34874763
+    md5_10: 5a3d1d10e9
+    md5_5: 5a3d1
+    md5_6: 5a3d1d
+    oomp_key: oomp_andresmanelli_toroid_kicad_logo_jeebo_18mm_fsilk
+    oomp_key_extra: oomp_footprint_andresmanelli_toroid_kicad_logo_jeebo_18mm_fsilk
+    oomp_key_full: oomp_footprint_andresmanelli_toroid_kicad_logo_jeebo_18mm_fsilk_5a3d1d
+    oomp_key_simple: andresmanelli_toroid_kicad_logo_jeebo_18mm_fsilk
+    original_filename: TOROID-KiCad.pretty/Logo_Jeebo_18mm_FSilk.kicad_mod
+    owner_name: andresmanelli
   oomp_key: oomp_andresmanelli_toroid_kicad_logo_jeebo_18mm_fsilk
+  oomp_key_full: oomp_footprint_andresmanelli_toroid_kicad_logo_jeebo_18mm_fsilk
   oomp_key_simple: andresmanelli_toroid_kicad_logo_jeebo_18mm_fsilk
   owner: andresmanelli
   repo:

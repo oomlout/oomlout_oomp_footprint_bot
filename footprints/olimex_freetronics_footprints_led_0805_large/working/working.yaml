@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/olimex_freetronics_footprints_led_0805_large/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/olimex_freetronics_footprints_led_0805_large/working
-    oomp_doc: footprints/footprints/OLIMEX/freetronics_footprints/LED-0805-LARGE/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/OLIMEX/freetronics_footprints/LED-0805-LARGE/working
     oomp_src_flat: footprints_flat/footprints_flat/olimex_freetronics_footprints_led_0805_large/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/olimex_freetronics_footprints_led_0805_large/working
-    oomp_src_folder: footprints_folder/footprints_folder/OLIMEX/freetronics_footprints/LED-0805-LARGE/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/OLIMEX/freetronics_footprints/LED-0805-LARGE/working
   name: KiCAD
+  oomp:
+    footprint_name: led_0805_large
+    library_name: freetronics_footprints
+    md5: 7880f6c374ac2b0bab83b634aa04b5a7
+    md5_10: 7880f6c374
+    md5_5: 7880f
+    md5_6: 7880f6
+    oomp_key: oomp_olimex_freetronics_footprints_led_0805_large
+    oomp_key_extra: oomp_footprint_olimex_freetronics_footprints_led_0805_large
+    oomp_key_full: oomp_footprint_olimex_freetronics_footprints_led_0805_large_7880f6
+    oomp_key_simple: olimex_freetronics_footprints_led_0805_large
+    original_filename: KiCAD/mods/freetronics_footprints.pretty/LED-0805-LARGE.kicad_mod
+    owner_name: olimex
   oomp_key: oomp_olimex_freetronics_footprints_led_0805_large
+  oomp_key_full: oomp_footprint_olimex_freetronics_footprints_led_0805_large
   oomp_key_simple: olimex_freetronics_footprints_led_0805_large
   owner: OLIMEX
   repo:

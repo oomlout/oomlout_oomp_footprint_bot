@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/peekpt_w_logo_logo_silk_ur_c_us_10x4mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/peekpt_w_logo_logo_silk_ur_c_us_10x4mm/working
-    oomp_doc: footprints/footprints/peekpt/w_logo/Logo_silk_UR-C-US_10x4mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/peekpt/w_logo/Logo_silk_UR-C-US_10x4mm/working
     oomp_src_flat: footprints_flat/footprints_flat/peekpt_w_logo_logo_silk_ur_c_us_10x4mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/peekpt_w_logo_logo_silk_ur_c_us_10x4mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/peekpt/w_logo/Logo_silk_UR-C-US_10x4mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/peekpt/w_logo/Logo_silk_UR-C-US_10x4mm/working
   name: kicad_smisioto
+  oomp:
+    footprint_name: logo_silk_ur_c_us_10x4mm
+    library_name: w_logo
+    md5: a6057bd3aba5b55881d7339b63ad38cf
+    md5_10: a6057bd3ab
+    md5_5: a6057
+    md5_6: a6057b
+    oomp_key: oomp_peekpt_w_logo_logo_silk_ur_c_us_10x4mm
+    oomp_key_extra: oomp_footprint_peekpt_w_logo_logo_silk_ur_c_us_10x4mm
+    oomp_key_full: oomp_footprint_peekpt_w_logo_logo_silk_ur_c_us_10x4mm_a6057b
+    oomp_key_simple: peekpt_w_logo_logo_silk_ur_c_us_10x4mm
+    original_filename: kicad_smisioto/modules/walter/w_logo.pretty/Logo_silk_UR-C-US_10x4mm.kicad_mod
+    owner_name: peekpt
   oomp_key: oomp_peekpt_w_logo_logo_silk_ur_c_us_10x4mm
+  oomp_key_full: oomp_footprint_peekpt_w_logo_logo_silk_ur_c_us_10x4mm
   oomp_key_simple: peekpt_w_logo_logo_silk_ur_c_us_10x4mm
   owner: peekpt
   repo:

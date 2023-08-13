@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/greatscottgadgets_gsg_modules_resistor_axial_1_7x3_3mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/greatscottgadgets_gsg_modules_resistor_axial_1_7x3_3mm/working
-    oomp_doc: footprints/footprints/greatscottgadgets/gsg-modules/RESISTOR-AXIAL-1.7x3.3mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/greatscottgadgets/gsg-modules/RESISTOR-AXIAL-1.7x3.3mm/working
     oomp_src_flat: footprints_flat/footprints_flat/greatscottgadgets_gsg_modules_resistor_axial_1_7x3_3mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/greatscottgadgets_gsg_modules_resistor_axial_1_7x3_3mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/greatscottgadgets/gsg-modules/RESISTOR-AXIAL-1.7x3.3mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/greatscottgadgets/gsg-modules/RESISTOR-AXIAL-1.7x3.3mm/working
   name: gsg-kicad-lib
+  oomp:
+    footprint_name: resistor_axial_1_7x3_3mm
+    library_name: gsg_modules
+    md5: af6678b4f670935fa78c1993ae9abcb0
+    md5_10: af6678b4f6
+    md5_5: af667
+    md5_6: af6678
+    oomp_key: oomp_greatscottgadgets_gsg_modules_resistor_axial_1_7x3_3mm
+    oomp_key_extra: oomp_footprint_greatscottgadgets_gsg_modules_resistor_axial_1_7x3_3mm
+    oomp_key_full: oomp_footprint_greatscottgadgets_gsg_modules_resistor_axial_1_7x3_3mm_af6678
+    oomp_key_simple: greatscottgadgets_gsg_modules_resistor_axial_1_7x3_3mm
+    original_filename: gsg-kicad-lib/gsg-modules.pretty/RESISTOR-AXIAL-1.7x3.3mm.kicad_mod
+    owner_name: greatscottgadgets
   oomp_key: oomp_greatscottgadgets_gsg_modules_resistor_axial_1_7x3_3mm
+  oomp_key_full: oomp_footprint_greatscottgadgets_gsg_modules_resistor_axial_1_7x3_3mm
   oomp_key_simple: greatscottgadgets_gsg_modules_resistor_axial_1_7x3_3mm
   owner: greatscottgadgets
   repo:

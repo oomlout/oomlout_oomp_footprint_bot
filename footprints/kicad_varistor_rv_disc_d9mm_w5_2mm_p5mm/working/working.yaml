@@ -11,17 +11,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_varistor_rv_disc_d9mm_w5_2mm_p5mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_varistor_rv_disc_d9mm_w5_2mm_p5mm/working
-    oomp_doc: footprints/footprints/kicad/Varistor/RV_Disc_D9mm_W5.2mm_P5mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Varistor/RV_Disc_D9mm_W5.2mm_P5mm/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_varistor_rv_disc_d9mm_w5_2mm_p5mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_varistor_rv_disc_d9mm_w5_2mm_p5mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Varistor/RV_Disc_D9mm_W5.2mm_P5mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Varistor/RV_Disc_D9mm_W5.2mm_P5mm/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: rv_disc_d9mm_w5_2mm_p5mm
+    library_name: varistor
+    md5: 0b07c65fd855432873677343f8c3d3ee
+    md5_10: 0b07c65fd8
+    md5_5: 0b07c
+    md5_6: 0b07c6
+    oomp_key: oomp_kicad_varistor_rv_disc_d9mm_w5_2mm_p5mm
+    oomp_key_extra: oomp_footprint_kicad_varistor_rv_disc_d9mm_w5_2mm_p5mm
+    oomp_key_full: oomp_footprint_kicad_varistor_rv_disc_d9mm_w5_2mm_p5mm_0b07c6
+    oomp_key_simple: kicad_varistor_rv_disc_d9mm_w5_2mm_p5mm
+    original_filename: libraries/kicad-footprints/Varistor.pretty/RV_Disc_D9mm_W5.2mm_P5mm.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_varistor_rv_disc_d9mm_w5_2mm_p5mm
+  oomp_key_full: oomp_footprint_kicad_varistor_rv_disc_d9mm_w5_2mm_p5mm
   oomp_key_simple: kicad_varistor_rv_disc_d9mm_w5_2mm_p5mm
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

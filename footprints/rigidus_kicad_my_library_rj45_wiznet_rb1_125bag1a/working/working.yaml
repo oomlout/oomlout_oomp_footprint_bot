@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/rigidus_kicad_my_library_rj45_wiznet_rb1_125bag1a/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/rigidus_kicad_my_library_rj45_wiznet_rb1_125bag1a/working
-    oomp_doc: footprints/footprints/rigidus/kicad_my_library/rj45-wiznet-rb1-125bag1a/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/rigidus/kicad_my_library/rj45-wiznet-rb1-125bag1a/working
     oomp_src_flat: footprints_flat/footprints_flat/rigidus_kicad_my_library_rj45_wiznet_rb1_125bag1a/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/rigidus_kicad_my_library_rj45_wiznet_rb1_125bag1a/working
-    oomp_src_folder: footprints_folder/footprints_folder/rigidus/kicad_my_library/rj45-wiznet-rb1-125bag1a/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/rigidus/kicad_my_library/rj45-wiznet-rb1-125bag1a/working
   name: kicad_my_library.pretty
+  oomp:
+    footprint_name: rj45_wiznet_rb1_125bag1a
+    library_name: kicad_my_library
+    md5: 1d24532e4b35f280a160ff93fc4f19c9
+    md5_10: 1d24532e4b
+    md5_5: 1d245
+    md5_6: 1d2453
+    oomp_key: oomp_rigidus_kicad_my_library_rj45_wiznet_rb1_125bag1a
+    oomp_key_extra: oomp_footprint_rigidus_kicad_my_library_rj45_wiznet_rb1_125bag1a
+    oomp_key_full: oomp_footprint_rigidus_kicad_my_library_rj45_wiznet_rb1_125bag1a_1d2453
+    oomp_key_simple: rigidus_kicad_my_library_rj45_wiznet_rb1_125bag1a
+    original_filename: kicad_my_library.pretty/rj45-wiznet-rb1-125bag1a.kicad_mod
+    owner_name: rigidus
   oomp_key: oomp_rigidus_kicad_my_library_rj45_wiznet_rb1_125bag1a
+  oomp_key_full: oomp_footprint_rigidus_kicad_my_library_rj45_wiznet_rb1_125bag1a
   oomp_key_simple: rigidus_kicad_my_library_rj45_wiznet_rb1_125bag1a
   owner: rigidus
   repo:

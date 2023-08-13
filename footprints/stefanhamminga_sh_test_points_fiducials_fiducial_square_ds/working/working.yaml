@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/stefanhamminga_sh_test_points_fiducials_fiducial_square_ds/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stefanhamminga_sh_test_points_fiducials_fiducial_square_ds/working
-    oomp_doc: footprints/footprints/StefanHamminga/SH_Test_Points_Fiducials/Fiducial_Square_DS/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/StefanHamminga/SH_Test_Points_Fiducials/Fiducial_Square_DS/working
     oomp_src_flat: footprints_flat/footprints_flat/stefanhamminga_sh_test_points_fiducials_fiducial_square_ds/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/stefanhamminga_sh_test_points_fiducials_fiducial_square_ds/working
-    oomp_src_folder: footprints_folder/footprints_folder/StefanHamminga/SH_Test_Points_Fiducials/Fiducial_Square_DS/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/StefanHamminga/SH_Test_Points_Fiducials/Fiducial_Square_DS/working
   name: SH_Test_Points_Fiducials.pretty
+  oomp:
+    footprint_name: fiducial_square_ds
+    library_name: sh_test_points_fiducials
+    md5: e497f9aa70e655abff485bac904b8fea
+    md5_10: e497f9aa70
+    md5_5: e497f
+    md5_6: e497f9
+    oomp_key: oomp_stefanhamminga_sh_test_points_fiducials_fiducial_square_ds
+    oomp_key_extra: oomp_footprint_stefanhamminga_sh_test_points_fiducials_fiducial_square_ds
+    oomp_key_full: oomp_footprint_stefanhamminga_sh_test_points_fiducials_fiducial_square_ds_e497f9
+    oomp_key_simple: stefanhamminga_sh_test_points_fiducials_fiducial_square_ds
+    original_filename: SH_Test_Points_Fiducials.pretty/Fiducial_Square_DS.kicad_mod
+    owner_name: stefanhamminga
   oomp_key: oomp_stefanhamminga_sh_test_points_fiducials_fiducial_square_ds
+  oomp_key_full: oomp_footprint_stefanhamminga_sh_test_points_fiducials_fiducial_square_ds
   oomp_key_simple: stefanhamminga_sh_test_points_fiducials_fiducial_square_ds
   owner: StefanHamminga
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/peekpt_w_crystal_resonator_awscr/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/peekpt_w_crystal_resonator_awscr/working
-    oomp_doc: footprints/footprints/peekpt/w_crystal/resonator_awscr/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/peekpt/w_crystal/resonator_awscr/working
     oomp_src_flat: footprints_flat/footprints_flat/peekpt_w_crystal_resonator_awscr/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/peekpt_w_crystal_resonator_awscr/working
-    oomp_src_folder: footprints_folder/footprints_folder/peekpt/w_crystal/resonator_awscr/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/peekpt/w_crystal/resonator_awscr/working
   name: kicad_smisioto
+  oomp:
+    footprint_name: resonator_awscr
+    library_name: w_crystal
+    md5: 0a01fffe9863915cf7495424632ba452
+    md5_10: 0a01fffe98
+    md5_5: 0a01f
+    md5_6: 0a01ff
+    oomp_key: oomp_peekpt_w_crystal_resonator_awscr
+    oomp_key_extra: oomp_footprint_peekpt_w_crystal_resonator_awscr
+    oomp_key_full: oomp_footprint_peekpt_w_crystal_resonator_awscr_0a01ff
+    oomp_key_simple: peekpt_w_crystal_resonator_awscr
+    original_filename: kicad_smisioto/modules/walter/w_crystal.pretty/resonator_awscr.kicad_mod
+    owner_name: peekpt
   oomp_key: oomp_peekpt_w_crystal_resonator_awscr
+  oomp_key_full: oomp_footprint_peekpt_w_crystal_resonator_awscr
   oomp_key_simple: peekpt_w_crystal_resonator_awscr
   owner: peekpt
   repo:

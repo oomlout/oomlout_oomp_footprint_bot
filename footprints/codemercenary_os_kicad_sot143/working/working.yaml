@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/codemercenary_os_kicad_sot143/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/codemercenary_os_kicad_sot143/working
-    oomp_doc: footprints/footprints/codemercenary-os/kicad/SOT143/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/codemercenary-os/kicad/SOT143/working
     oomp_src_flat: footprints_flat/footprints_flat/codemercenary_os_kicad_sot143/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/codemercenary_os_kicad_sot143/working
-    oomp_src_folder: footprints_folder/footprints_folder/codemercenary-os/kicad/SOT143/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/codemercenary-os/kicad/SOT143/working
   name: kicad.pretty
+  oomp:
+    footprint_name: sot143
+    library_name: kicad
+    md5: 6b0e030afa73d4788ea89af34ebe217f
+    md5_10: 6b0e030afa
+    md5_5: 6b0e0
+    md5_6: 6b0e03
+    oomp_key: oomp_codemercenary_os_kicad_sot143
+    oomp_key_extra: oomp_footprint_codemercenary_os_kicad_sot143
+    oomp_key_full: oomp_footprint_codemercenary_os_kicad_sot143_6b0e03
+    oomp_key_simple: codemercenary_os_kicad_sot143
+    original_filename: kicad.pretty/SOT143.kicad_mod
+    owner_name: codemercenary_os
   oomp_key: oomp_codemercenary_os_kicad_sot143
+  oomp_key_full: oomp_footprint_codemercenary_os_kicad_sot143
   oomp_key_simple: codemercenary_os_kicad_sot143
   owner: codemercenary-os
   repo:

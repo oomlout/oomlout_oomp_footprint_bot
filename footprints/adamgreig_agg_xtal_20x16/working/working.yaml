@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/adamgreig/agg-kicad
     oomp_bot: footprints/adamgreig_agg_xtal_20x16/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/adamgreig_agg_xtal_20x16/working
-    oomp_doc: footprints/footprints/adamgreig/agg/XTAL-20x16/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/adamgreig/agg/XTAL-20x16/working
     oomp_src_flat: footprints_flat/footprints_flat/adamgreig_agg_xtal_20x16/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/adamgreig_agg_xtal_20x16/working
-    oomp_src_folder: footprints_folder/footprints_folder/adamgreig/agg/XTAL-20x16/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/adamgreig/agg/XTAL-20x16/working
   name: agg-kicad
+  oomp:
+    footprint_name: xtal_20x16
+    library_name: agg
+    md5: 3db4daa2bf60eca81ab6137229e861d3
+    md5_10: 3db4daa2bf
+    md5_5: 3db4d
+    md5_6: 3db4da
+    oomp_key: oomp_adamgreig_agg_xtal_20x16
+    oomp_key_extra: oomp_footprint_adamgreig_agg_xtal_20x16
+    oomp_key_full: oomp_footprint_adamgreig_agg_xtal_20x16_3db4da
+    oomp_key_simple: adamgreig_agg_xtal_20x16
+    original_filename: agg-kicad/agg.pretty/XTAL-20x16.kicad_mod
+    owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_xtal_20x16
+  oomp_key_full: oomp_footprint_adamgreig_agg_xtal_20x16
   oomp_key_simple: adamgreig_agg_xtal_20x16
   owner: adamgreig
   repo:

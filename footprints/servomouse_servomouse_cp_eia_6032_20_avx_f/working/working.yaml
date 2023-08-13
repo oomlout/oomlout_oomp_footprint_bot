@@ -13,14 +13,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/servomouse_servomouse_cp_eia_6032_20_avx_f/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/servomouse_servomouse_cp_eia_6032_20_avx_f/working
-    oomp_doc: footprints/footprints/servomouse/servomouse/CP_EIA-6032-20_AVX-F/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/servomouse/servomouse/CP_EIA-6032-20_AVX-F/working
     oomp_src_flat: footprints_flat/footprints_flat/servomouse_servomouse_cp_eia_6032_20_avx_f/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/servomouse_servomouse_cp_eia_6032_20_avx_f/working
-    oomp_src_folder: footprints_folder/footprints_folder/servomouse/servomouse/CP_EIA-6032-20_AVX-F/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/servomouse/servomouse/CP_EIA-6032-20_AVX-F/working
   name: servomouse.pretty
+  oomp:
+    footprint_name: cp_eia_6032_20_avx_f
+    library_name: servomouse
+    md5: ec7c71b35e436d2b0730db2df1eb6342
+    md5_10: ec7c71b35e
+    md5_5: ec7c7
+    md5_6: ec7c71
+    oomp_key: oomp_servomouse_servomouse_cp_eia_6032_20_avx_f
+    oomp_key_extra: oomp_footprint_servomouse_servomouse_cp_eia_6032_20_avx_f
+    oomp_key_full: oomp_footprint_servomouse_servomouse_cp_eia_6032_20_avx_f_ec7c71
+    oomp_key_simple: servomouse_servomouse_cp_eia_6032_20_avx_f
+    original_filename: servomouse.pretty/CP_EIA-6032-20_AVX-F.kicad_mod
+    owner_name: servomouse
   oomp_key: oomp_servomouse_servomouse_cp_eia_6032_20_avx_f
+  oomp_key_full: oomp_footprint_servomouse_servomouse_cp_eia_6032_20_avx_f
   oomp_key_simple: servomouse_servomouse_cp_eia_6032_20_avx_f
   owner: servomouse
   repo:

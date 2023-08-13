@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/stanleyseow_svtmaker_led_5730_thermalpad/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stanleyseow_svtmaker_led_5730_thermalpad/working
-    oomp_doc: footprints/footprints/stanleyseow/SVTmaker/LED_5730_ThermalPad/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/stanleyseow/SVTmaker/LED_5730_ThermalPad/working
     oomp_src_flat: footprints_flat/footprints_flat/stanleyseow_svtmaker_led_5730_thermalpad/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/stanleyseow_svtmaker_led_5730_thermalpad/working
-    oomp_src_folder: footprints_folder/footprints_folder/stanleyseow/SVTmaker/LED_5730_ThermalPad/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/stanleyseow/SVTmaker/LED_5730_ThermalPad/working
   name: SVTmaker.pretty
+  oomp:
+    footprint_name: led_5730_thermalpad
+    library_name: svtmaker
+    md5: 2fc0dc07f71a288b83c311900b971f70
+    md5_10: 2fc0dc07f7
+    md5_5: 2fc0d
+    md5_6: 2fc0dc
+    oomp_key: oomp_stanleyseow_svtmaker_led_5730_thermalpad
+    oomp_key_extra: oomp_footprint_stanleyseow_svtmaker_led_5730_thermalpad
+    oomp_key_full: oomp_footprint_stanleyseow_svtmaker_led_5730_thermalpad_2fc0dc
+    oomp_key_simple: stanleyseow_svtmaker_led_5730_thermalpad
+    original_filename: SVTmaker.pretty/LED_5730_ThermalPad.kicad_mod
+    owner_name: stanleyseow
   oomp_key: oomp_stanleyseow_svtmaker_led_5730_thermalpad
+  oomp_key_full: oomp_footprint_stanleyseow_svtmaker_led_5730_thermalpad
   oomp_key_simple: stanleyseow_svtmaker_led_5730_thermalpad
   owner: stanleyseow
   repo:

@@ -1,8 +1,5 @@
-- file: ComponentLibrariesKicadWurthElektronik/EAGLE-BOARD-TO-BOARD_CONNECTORS-rev16c/Sockets.pretty/613013143121.kicad_mod
-  footprint:
-    description: WR-PHD 2.54mm Angeld Socket Header, 13 Pins
-    libraryLink: 613013143121
-    number_of_pads: 13
+- error: expected string or bytes-like object, got 'int'
+  file: ComponentLibrariesKicadWurthElektronik/EAGLE-BOARD-TO-BOARD_CONNECTORS-rev16c/Sockets.pretty/613013143121.kicad_mod
   footprint_library_directory: footprint_library_owner/ElectronicCats_ComponentLibrariesKicadWurthElektronik
   footprint_library_directory_flat: footprints_flat/electroniccats_sockets_613013143121/working
   github_path: http://github.com/ElectronicCats/ComponentLibrariesKicadWurthElektronik/blob/master/EAGLE-BOARD-TO-BOARD_CONNECTORS-rev16c/Sockets.pretty/613013143121.kicad_mod
@@ -12,14 +9,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/electroniccats_sockets_613013143121/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/electroniccats_sockets_613013143121/working
-    oomp_doc: footprints/footprints/ElectronicCats/Sockets/613013143121/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ElectronicCats/Sockets/613013143121/working
     oomp_src_flat: footprints_flat/footprints_flat/electroniccats_sockets_613013143121/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/electroniccats_sockets_613013143121/working
-    oomp_src_folder: footprints_folder/footprints_folder/ElectronicCats/Sockets/613013143121/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ElectronicCats/Sockets/613013143121/working
   name: ComponentLibrariesKicadWurthElektronik
+  oomp:
+    footprint_name: '613013143121'
+    library_name: sockets
+    md5: e009b8864fdbb16463e1c76153c84fbe
+    md5_10: e009b8864f
+    md5_5: e009b
+    md5_6: e009b8
+    oomp_key: oomp_electroniccats_sockets_613013143121
+    oomp_key_extra: oomp_footprint_electroniccats_sockets_613013143121
+    oomp_key_full: oomp_footprint_electroniccats_sockets_613013143121_e009b8
+    oomp_key_simple: electroniccats_sockets_613013143121
+    original_filename: ComponentLibrariesKicadWurthElektronik/EAGLE-BOARD-TO-BOARD_CONNECTORS-rev16c/Sockets.pretty/613013143121.kicad_mod
+    owner_name: electroniccats
   oomp_key: oomp_electroniccats_sockets_613013143121
+  oomp_key_full: oomp_footprint_electroniccats_sockets_613013143121
   oomp_key_simple: electroniccats_sockets_613013143121
   owner: ElectronicCats
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cvra_logo_cvra_logo_small_copper/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cvra_logo_cvra_logo_small_copper/working
-    oomp_doc: footprints/footprints/cvra/_logo/CVRA-logo-small-copper/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cvra/_logo/CVRA-logo-small-copper/working
     oomp_src_flat: footprints_flat/footprints_flat/cvra_logo_cvra_logo_small_copper/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cvra_logo_cvra_logo_small_copper/working
-    oomp_src_folder: footprints_folder/footprints_folder/cvra/_logo/CVRA-logo-small-copper/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cvra/_logo/CVRA-logo-small-copper/working
   name: kicad-lib
+  oomp:
+    footprint_name: cvra_logo_small_copper
+    library_name: _logo
+    md5: 392686f123061315cd9b834541b0f6bc
+    md5_10: 392686f123
+    md5_5: '39268'
+    md5_6: '392686'
+    oomp_key: oomp_cvra_logo_cvra_logo_small_copper
+    oomp_key_extra: oomp_footprint_cvra_logo_cvra_logo_small_copper
+    oomp_key_full: oomp_footprint_cvra_logo_cvra_logo_small_copper_392686
+    oomp_key_simple: cvra_logo_cvra_logo_small_copper
+    original_filename: kicad-lib/footprints/_logo.pretty/CVRA-logo-small-copper.kicad_mod
+    owner_name: cvra
   oomp_key: oomp_cvra_logo_cvra_logo_small_copper
+  oomp_key_full: oomp_footprint_cvra_logo_cvra_logo_small_copper
   oomp_key_simple: cvra_logo_cvra_logo_small_copper
   owner: cvra
   repo:

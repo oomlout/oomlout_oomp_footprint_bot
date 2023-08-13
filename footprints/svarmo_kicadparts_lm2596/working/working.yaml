@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/svarmo_kicadparts_lm2596/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/svarmo_kicadparts_lm2596/working
-    oomp_doc: footprints/footprints/svarmo/kicadParts/LM2596/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/svarmo/kicadParts/LM2596/working
     oomp_src_flat: footprints_flat/footprints_flat/svarmo_kicadparts_lm2596/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/svarmo_kicadparts_lm2596/working
-    oomp_src_folder: footprints_folder/footprints_folder/svarmo/kicadParts/LM2596/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/svarmo/kicadParts/LM2596/working
   name: kicadParts.pretty
+  oomp:
+    footprint_name: lm2596
+    library_name: kicadparts
+    md5: dd574a3ddf19eda1e094b80a0e0ff31b
+    md5_10: dd574a3ddf
+    md5_5: dd574
+    md5_6: dd574a
+    oomp_key: oomp_svarmo_kicadparts_lm2596
+    oomp_key_extra: oomp_footprint_svarmo_kicadparts_lm2596
+    oomp_key_full: oomp_footprint_svarmo_kicadparts_lm2596_dd574a
+    oomp_key_simple: svarmo_kicadparts_lm2596
+    original_filename: kicadParts.pretty/LM2596.kicad_mod
+    owner_name: svarmo
   oomp_key: oomp_svarmo_kicadparts_lm2596
+  oomp_key_full: oomp_footprint_svarmo_kicadparts_lm2596
   oomp_key_simple: svarmo_kicadparts_lm2596
   owner: svarmo
   repo:

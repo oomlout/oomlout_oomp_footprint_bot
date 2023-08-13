@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/joanthespark_footprints_creative_commons_nc_mask/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/joanthespark_footprints_creative_commons_nc_mask/working
-    oomp_doc: footprints/footprints/JoanTheSpark/footprints/Creative_Commons_NC_Mask/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/JoanTheSpark/footprints/Creative_Commons_NC_Mask/working
     oomp_src_flat: footprints_flat/footprints_flat/joanthespark_footprints_creative_commons_nc_mask/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/joanthespark_footprints_creative_commons_nc_mask/working
-    oomp_src_folder: footprints_folder/footprints_folder/JoanTheSpark/footprints/Creative_Commons_NC_Mask/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/JoanTheSpark/footprints/Creative_Commons_NC_Mask/working
   name: KiCAD
+  oomp:
+    footprint_name: creative_commons_nc_mask
+    library_name: footprints
+    md5: b7d3d073f20405c2067dae0ad6bcc449
+    md5_10: b7d3d073f2
+    md5_5: b7d3d
+    md5_6: b7d3d0
+    oomp_key: oomp_joanthespark_footprints_creative_commons_nc_mask
+    oomp_key_extra: oomp_footprint_joanthespark_footprints_creative_commons_nc_mask
+    oomp_key_full: oomp_footprint_joanthespark_footprints_creative_commons_nc_mask_b7d3d0
+    oomp_key_simple: joanthespark_footprints_creative_commons_nc_mask
+    original_filename: KiCAD/demos/stickhub/footprints.pretty/Creative_Commons_NC_Mask.kicad_mod
+    owner_name: joanthespark
   oomp_key: oomp_joanthespark_footprints_creative_commons_nc_mask
+  oomp_key_full: oomp_footprint_joanthespark_footprints_creative_commons_nc_mask
   oomp_key_simple: joanthespark_footprints_creative_commons_nc_mask
   owner: JoanTheSpark
   repo:

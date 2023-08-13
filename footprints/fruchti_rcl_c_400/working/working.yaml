@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/fruchti_rcl_c_400/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/fruchti_rcl_c_400/working
-    oomp_doc: footprints/footprints/fruchti/rcl/C_400/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/fruchti/rcl/C_400/working
     oomp_src_flat: footprints_flat/footprints_flat/fruchti_rcl_c_400/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/fruchti_rcl_c_400/working
-    oomp_src_folder: footprints_folder/footprints_folder/fruchti/rcl/C_400/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/fruchti/rcl/C_400/working
   name: fruchtilib
+  oomp:
+    footprint_name: c_400
+    library_name: rcl
+    md5: b5ab123a0be54fb66a97323bf737411d
+    md5_10: b5ab123a0b
+    md5_5: b5ab1
+    md5_6: b5ab12
+    oomp_key: oomp_fruchti_rcl_c_400
+    oomp_key_extra: oomp_footprint_fruchti_rcl_c_400
+    oomp_key_full: oomp_footprint_fruchti_rcl_c_400_b5ab12
+    oomp_key_simple: fruchti_rcl_c_400
+    original_filename: fruchtilib/mod/rcl.pretty/C_400.kicad_mod
+    owner_name: fruchti
   oomp_key: oomp_fruchti_rcl_c_400
+  oomp_key_full: oomp_footprint_fruchti_rcl_c_400
   oomp_key_simple: fruchti_rcl_c_400
   owner: fruchti
   repo:

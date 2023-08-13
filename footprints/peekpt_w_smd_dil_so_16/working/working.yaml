@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/peekpt_w_smd_dil_so_16/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/peekpt_w_smd_dil_so_16/working
-    oomp_doc: footprints/footprints/peekpt/w_smd_dil/so-16/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/peekpt/w_smd_dil/so-16/working
     oomp_src_flat: footprints_flat/footprints_flat/peekpt_w_smd_dil_so_16/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/peekpt_w_smd_dil_so_16/working
-    oomp_src_folder: footprints_folder/footprints_folder/peekpt/w_smd_dil/so-16/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/peekpt/w_smd_dil/so-16/working
   name: kicad_smisioto
+  oomp:
+    footprint_name: so_16
+    library_name: w_smd_dil
+    md5: fa28210d282c6c1702f05d4eca501cff
+    md5_10: fa28210d28
+    md5_5: fa282
+    md5_6: fa2821
+    oomp_key: oomp_peekpt_w_smd_dil_so_16
+    oomp_key_extra: oomp_footprint_peekpt_w_smd_dil_so_16
+    oomp_key_full: oomp_footprint_peekpt_w_smd_dil_so_16_fa2821
+    oomp_key_simple: peekpt_w_smd_dil_so_16
+    original_filename: kicad_smisioto/modules/walter/w_smd_dil.pretty/so-16.kicad_mod
+    owner_name: peekpt
   oomp_key: oomp_peekpt_w_smd_dil_so_16
+  oomp_key_full: oomp_footprint_peekpt_w_smd_dil_so_16
   oomp_key_simple: peekpt_w_smd_dil_so_16
   owner: peekpt
   repo:

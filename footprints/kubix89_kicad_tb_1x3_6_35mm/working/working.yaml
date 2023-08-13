@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/kubiX89/kiCAD.pretty
     oomp_bot: footprints/kubix89_kicad_tb_1x3_6_35mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kubix89_kicad_tb_1x3_6_35mm/working
-    oomp_doc: footprints/footprints/kubiX89/kiCAD/TB_1x3_6.35mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kubiX89/kiCAD/TB_1x3_6.35mm/working
     oomp_src_flat: footprints_flat/footprints_flat/kubix89_kicad_tb_1x3_6_35mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kubix89_kicad_tb_1x3_6_35mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/kubiX89/kiCAD/TB_1x3_6.35mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kubiX89/kiCAD/TB_1x3_6.35mm/working
   name: kiCAD.pretty
+  oomp:
+    footprint_name: tb_1x3_6_35mm
+    library_name: kicad
+    md5: eab569797dea5aec675795f190bba671
+    md5_10: eab569797d
+    md5_5: eab56
+    md5_6: eab569
+    oomp_key: oomp_kubix89_kicad_tb_1x3_6_35mm
+    oomp_key_extra: oomp_footprint_kubix89_kicad_tb_1x3_6_35mm
+    oomp_key_full: oomp_footprint_kubix89_kicad_tb_1x3_6_35mm_eab569
+    oomp_key_simple: kubix89_kicad_tb_1x3_6_35mm
+    original_filename: kiCAD.pretty/TB_1x3_6.35mm.kicad_mod
+    owner_name: kubix89
   oomp_key: oomp_kubix89_kicad_tb_1x3_6_35mm
+  oomp_key_full: oomp_footprint_kubix89_kicad_tb_1x3_6_35mm
   oomp_key_simple: kubix89_kicad_tb_1x3_6_35mm
   owner: kubiX89
   repo:

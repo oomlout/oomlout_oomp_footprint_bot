@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pelrun_w_conn_d_sub_db_68f/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pelrun_w_conn_d_sub_db_68f/working
-    oomp_doc: footprints/footprints/pelrun/w_conn_d-sub/DB_68F/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/pelrun/w_conn_d-sub/DB_68F/working
     oomp_src_flat: footprints_flat/footprints_flat/pelrun_w_conn_d_sub_db_68f/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pelrun_w_conn_d_sub_db_68f/working
-    oomp_src_folder: footprints_folder/footprints_folder/pelrun/w_conn_d-sub/DB_68F/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/pelrun/w_conn_d-sub/DB_68F/working
   name: libKiCad
+  oomp:
+    footprint_name: db_68f
+    library_name: w_conn_d_sub
+    md5: 7e83156a305a8b3bacbba823d26a6417
+    md5_10: 7e83156a30
+    md5_5: 7e831
+    md5_6: 7e8315
+    oomp_key: oomp_pelrun_w_conn_d_sub_db_68f
+    oomp_key_extra: oomp_footprint_pelrun_w_conn_d_sub_db_68f
+    oomp_key_full: oomp_footprint_pelrun_w_conn_d_sub_db_68f_7e8315
+    oomp_key_simple: pelrun_w_conn_d_sub_db_68f
+    original_filename: libKiCad/footprint/w_conn_d-sub.pretty/DB_68F.kicad_mod
+    owner_name: pelrun
   oomp_key: oomp_pelrun_w_conn_d_sub_db_68f
+  oomp_key_full: oomp_footprint_pelrun_w_conn_d_sub_db_68f
   oomp_key_simple: pelrun_w_conn_d_sub_db_68f
   owner: pelrun
   repo:

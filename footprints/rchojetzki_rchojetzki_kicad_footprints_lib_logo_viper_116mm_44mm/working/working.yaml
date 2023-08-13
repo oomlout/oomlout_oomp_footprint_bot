@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/rchojetzki_rchojetzki_kicad_footprints_lib_logo_viper_116mm_44mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/rchojetzki_rchojetzki_kicad_footprints_lib_logo_viper_116mm_44mm/working
-    oomp_doc: footprints/footprints/rchojetzki/rchojetzki-kicad-footprints-lib/LOGO_Viper_116mm_44mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/rchojetzki/rchojetzki-kicad-footprints-lib/LOGO_Viper_116mm_44mm/working
     oomp_src_flat: footprints_flat/footprints_flat/rchojetzki_rchojetzki_kicad_footprints_lib_logo_viper_116mm_44mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/rchojetzki_rchojetzki_kicad_footprints_lib_logo_viper_116mm_44mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/rchojetzki/rchojetzki-kicad-footprints-lib/LOGO_Viper_116mm_44mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/rchojetzki/rchojetzki-kicad-footprints-lib/LOGO_Viper_116mm_44mm/working
   name: rchojetzki-kicad-footprints-lib.pretty
+  oomp:
+    footprint_name: logo_viper_116mm_44mm
+    library_name: rchojetzki_kicad_footprints_lib
+    md5: b5f8ae4c6309d7985b4e9bd7f86cd075
+    md5_10: b5f8ae4c63
+    md5_5: b5f8a
+    md5_6: b5f8ae
+    oomp_key: oomp_rchojetzki_rchojetzki_kicad_footprints_lib_logo_viper_116mm_44mm
+    oomp_key_extra: oomp_footprint_rchojetzki_rchojetzki_kicad_footprints_lib_logo_viper_116mm_44mm
+    oomp_key_full: oomp_footprint_rchojetzki_rchojetzki_kicad_footprints_lib_logo_viper_116mm_44mm_b5f8ae
+    oomp_key_simple: rchojetzki_rchojetzki_kicad_footprints_lib_logo_viper_116mm_44mm
+    original_filename: rchojetzki-kicad-footprints-lib.pretty/LOGO_Viper_116mm_44mm.kicad_mod
+    owner_name: rchojetzki
   oomp_key: oomp_rchojetzki_rchojetzki_kicad_footprints_lib_logo_viper_116mm_44mm
+  oomp_key_full: oomp_footprint_rchojetzki_rchojetzki_kicad_footprints_lib_logo_viper_116mm_44mm
   oomp_key_simple: rchojetzki_rchojetzki_kicad_footprints_lib_logo_viper_116mm_44mm
   owner: rchojetzki
   repo:

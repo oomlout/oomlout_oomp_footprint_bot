@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/digikey_digikey_footprints_cellular_modem_nl_sw_lte_gels3_c/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_digikey_footprints_cellular_modem_nl_sw_lte_gels3_c/working
-    oomp_doc: footprints/footprints/digikey/digikey-footprints/Cellular_Modem_NL-SW-LTE-GELS3-C/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/digikey/digikey-footprints/Cellular_Modem_NL-SW-LTE-GELS3-C/working
     oomp_src_flat: footprints_flat/footprints_flat/digikey_digikey_footprints_cellular_modem_nl_sw_lte_gels3_c/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/digikey_digikey_footprints_cellular_modem_nl_sw_lte_gels3_c/working
-    oomp_src_folder: footprints_folder/footprints_folder/digikey/digikey-footprints/Cellular_Modem_NL-SW-LTE-GELS3-C/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/digikey/digikey-footprints/Cellular_Modem_NL-SW-LTE-GELS3-C/working
   name: digikey-kicad-library
+  oomp:
+    footprint_name: cellular_modem_nl_sw_lte_gels3_c
+    library_name: digikey_footprints
+    md5: 426a4c55aaaea7043058433741c4fe1c
+    md5_10: 426a4c55aa
+    md5_5: 426a4
+    md5_6: 426a4c
+    oomp_key: oomp_digikey_digikey_footprints_cellular_modem_nl_sw_lte_gels3_c
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_cellular_modem_nl_sw_lte_gels3_c
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_cellular_modem_nl_sw_lte_gels3_c_426a4c
+    oomp_key_simple: digikey_digikey_footprints_cellular_modem_nl_sw_lte_gels3_c
+    original_filename: digikey-kicad-library/digikey-footprints.pretty/Cellular_Modem_NL-SW-LTE-GELS3-C.kicad_mod
+    owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_cellular_modem_nl_sw_lte_gels3_c
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_cellular_modem_nl_sw_lte_gels3_c
   oomp_key_simple: digikey_digikey_footprints_cellular_modem_nl_sw_lte_gels3_c
   owner: digikey
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/espressif_espressif_esp32_s3_mini_1u/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/espressif_espressif_esp32_s3_mini_1u/working
-    oomp_doc: footprints/footprints/espressif/Espressif/ESP32-S3-MINI-1U/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/espressif/Espressif/ESP32-S3-MINI-1U/working
     oomp_src_flat: footprints_flat/footprints_flat/espressif_espressif_esp32_s3_mini_1u/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/espressif_espressif_esp32_s3_mini_1u/working
-    oomp_src_folder: footprints_folder/footprints_folder/espressif/Espressif/ESP32-S3-MINI-1U/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/espressif/Espressif/ESP32-S3-MINI-1U/working
   name: kicad-libraries
+  oomp:
+    footprint_name: esp32_s3_mini_1u
+    library_name: espressif
+    md5: 4e05d346238684c81382191fcbb0efe5
+    md5_10: 4e05d34623
+    md5_5: 4e05d
+    md5_6: 4e05d3
+    oomp_key: oomp_espressif_espressif_esp32_s3_mini_1u
+    oomp_key_extra: oomp_footprint_espressif_espressif_esp32_s3_mini_1u
+    oomp_key_full: oomp_footprint_espressif_espressif_esp32_s3_mini_1u_4e05d3
+    oomp_key_simple: espressif_espressif_esp32_s3_mini_1u
+    original_filename: kicad-libraries/footprints/Espressif.pretty/ESP32-S3-MINI-1U.kicad_mod
+    owner_name: espressif
   oomp_key: oomp_espressif_espressif_esp32_s3_mini_1u
+  oomp_key_full: oomp_footprint_espressif_espressif_esp32_s3_mini_1u
   oomp_key_simple: espressif_espressif_esp32_s3_mini_1u
   owner: espressif
   repo:

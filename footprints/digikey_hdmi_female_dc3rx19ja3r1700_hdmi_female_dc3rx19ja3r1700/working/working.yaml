@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/digikey_hdmi_female_dc3rx19ja3r1700_hdmi_female_dc3rx19ja3r1700/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_hdmi_female_dc3rx19ja3r1700_hdmi_female_dc3rx19ja3r1700/working
-    oomp_doc: footprints/footprints/digikey/HDMI_Female_DC3RX19JA3R1700.kicad_mod/HDMI_Female_DC3RX19JA3R1700/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/digikey/HDMI_Female_DC3RX19JA3R1700.kicad_mod/HDMI_Female_DC3RX19JA3R1700/working
     oomp_src_flat: footprints_flat/footprints_flat/digikey_hdmi_female_dc3rx19ja3r1700_hdmi_female_dc3rx19ja3r1700/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/digikey_hdmi_female_dc3rx19ja3r1700_hdmi_female_dc3rx19ja3r1700/working
-    oomp_src_folder: footprints_folder/footprints_folder/digikey/HDMI_Female_DC3RX19JA3R1700.kicad_mod/HDMI_Female_DC3RX19JA3R1700/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/digikey/HDMI_Female_DC3RX19JA3R1700.kicad_mod/HDMI_Female_DC3RX19JA3R1700/working
   name: digikey-kicad-library
+  oomp:
+    footprint_name: hdmi_female_dc3rx19ja3r1700
+    library_name: hdmi_female_dc3rx19ja3r1700_kicad_mod
+    md5: 03ef2ab6ff1567d803c5738a42a3d653
+    md5_10: 03ef2ab6ff
+    md5_5: 03ef2
+    md5_6: 03ef2a
+    oomp_key: oomp_digikey_hdmi_female_dc3rx19ja3r1700_hdmi_female_dc3rx19ja3r1700
+    oomp_key_extra: oomp_footprint_digikey_hdmi_female_dc3rx19ja3r1700_hdmi_female_dc3rx19ja3r1700
+    oomp_key_full: oomp_footprint_digikey_hdmi_female_dc3rx19ja3r1700_hdmi_female_dc3rx19ja3r1700_03ef2a
+    oomp_key_simple: digikey_hdmi_female_dc3rx19ja3r1700_hdmi_female_dc3rx19ja3r1700
+    original_filename: digikey-kicad-library/src/Source_Footprints/HDMI_Female_DC3RX19JA3R1700.kicad_mod
+    owner_name: digikey
   oomp_key: oomp_digikey_hdmi_female_dc3rx19ja3r1700_hdmi_female_dc3rx19ja3r1700
+  oomp_key_full: oomp_footprint_digikey_hdmi_female_dc3rx19ja3r1700_hdmi_female_dc3rx19ja3r1700
   oomp_key_simple: digikey_hdmi_female_dc3rx19ja3r1700_hdmi_female_dc3rx19ja3r1700
   owner: digikey
   repo:

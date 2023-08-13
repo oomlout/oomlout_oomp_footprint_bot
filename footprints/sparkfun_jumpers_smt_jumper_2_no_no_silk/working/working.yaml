@@ -1,24 +1,34 @@
-- file: SparkFun-KiCad-Libraries/Footprints/Jumpers.pretty/SMT-JUMPER_2_NO_NO-SILK.kicad_mod
+- file: SparkFun-KiCad-Libraries/Pre_v7/Footprints/Jumpers.pretty/SMT-JUMPER_2_NO_NO-SILK.kicad_mod
   footprint:
     description: null
     libraryLink: SMT-JUMPER_2_NO_NO-SILK
     number_of_pads: 2
   footprint_library_directory: footprint_library_owner/sparkfun_SparkFun-KiCad-Libraries
   footprint_library_directory_flat: footprints_flat/sparkfun_jumpers_smt_jumper_2_no_no_silk/working
-  github_path: http://github.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Footprints/Jumpers.pretty/SMT-JUMPER_2_NO_NO-SILK.kicad_mod
+  github_path: http://github.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Pre_v7/Footprints/Jumpers.pretty/SMT-JUMPER_2_NO_NO-SILK.kicad_mod
   links:
-    github_src: http://gitlab.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Tools/SparkFun-Eagle-Libraries_Conversion/Export.pretty/DFN-6-3X3.kicad_mod
+    github_src: http://gitlab.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Pre_v7/Tools/SparkFun-Eagle-Libraries_Conversion/Export.pretty/DFN-6-3X3.kicad_mod
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/sparkfun_jumpers_smt_jumper_2_no_no_silk/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/sparkfun_jumpers_smt_jumper_2_no_no_silk/working
-    oomp_doc: footprints/footprints/sparkfun/Jumpers/SMT-JUMPER_2_NO_NO-SILK/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/sparkfun/Jumpers/SMT-JUMPER_2_NO_NO-SILK/working
     oomp_src_flat: footprints_flat/footprints_flat/sparkfun_jumpers_smt_jumper_2_no_no_silk/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/sparkfun_jumpers_smt_jumper_2_no_no_silk/working
-    oomp_src_folder: footprints_folder/footprints_folder/sparkfun/Jumpers/SMT-JUMPER_2_NO_NO-SILK/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/sparkfun/Jumpers/SMT-JUMPER_2_NO_NO-SILK/working
   name: SparkFun-KiCad-Libraries
+  oomp:
+    footprint_name: smt_jumper_2_no_no_silk
+    library_name: jumpers
+    md5: 3f9cc5efddd1982a3b383bfbd08c603a
+    md5_10: 3f9cc5efdd
+    md5_5: 3f9cc
+    md5_6: 3f9cc5
+    oomp_key: oomp_sparkfun_jumpers_smt_jumper_2_no_no_silk
+    oomp_key_extra: oomp_footprint_sparkfun_jumpers_smt_jumper_2_no_no_silk
+    oomp_key_full: oomp_footprint_sparkfun_jumpers_smt_jumper_2_no_no_silk_3f9cc5
+    oomp_key_simple: sparkfun_jumpers_smt_jumper_2_no_no_silk
+    original_filename: SparkFun-KiCad-Libraries/Pre_v7/Footprints/Jumpers.pretty/SMT-JUMPER_2_NO_NO-SILK.kicad_mod
+    owner_name: sparkfun
   oomp_key: oomp_sparkfun_jumpers_smt_jumper_2_no_no_silk
+  oomp_key_full: oomp_footprint_sparkfun_jumpers_smt_jumper_2_no_no_silk
   oomp_key_simple: sparkfun_jumpers_smt_jumper_2_no_no_silk
   owner: sparkfun
   repo:

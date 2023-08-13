@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/svarmo_kicadparts_relay_srd_5vdc_sl_c/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/svarmo_kicadparts_relay_srd_5vdc_sl_c/working
-    oomp_doc: footprints/footprints/svarmo/kicadParts/Relay_srd-5vdc-sl-c/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/svarmo/kicadParts/Relay_srd-5vdc-sl-c/working
     oomp_src_flat: footprints_flat/footprints_flat/svarmo_kicadparts_relay_srd_5vdc_sl_c/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/svarmo_kicadparts_relay_srd_5vdc_sl_c/working
-    oomp_src_folder: footprints_folder/footprints_folder/svarmo/kicadParts/Relay_srd-5vdc-sl-c/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/svarmo/kicadParts/Relay_srd-5vdc-sl-c/working
   name: kicadParts.pretty
+  oomp:
+    footprint_name: relay_srd_5vdc_sl_c
+    library_name: kicadparts
+    md5: 9d01f89807b8f602e38bd011976f49a5
+    md5_10: 9d01f89807
+    md5_5: 9d01f
+    md5_6: 9d01f8
+    oomp_key: oomp_svarmo_kicadparts_relay_srd_5vdc_sl_c
+    oomp_key_extra: oomp_footprint_svarmo_kicadparts_relay_srd_5vdc_sl_c
+    oomp_key_full: oomp_footprint_svarmo_kicadparts_relay_srd_5vdc_sl_c_9d01f8
+    oomp_key_simple: svarmo_kicadparts_relay_srd_5vdc_sl_c
+    original_filename: kicadParts.pretty/Relay_srd-5vdc-sl-c.kicad_mod
+    owner_name: svarmo
   oomp_key: oomp_svarmo_kicadparts_relay_srd_5vdc_sl_c
+  oomp_key_full: oomp_footprint_svarmo_kicadparts_relay_srd_5vdc_sl_c
   oomp_key_simple: svarmo_kicadparts_relay_srd_5vdc_sl_c
   owner: svarmo
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/jakobkg_footprints_encoder_bourns_pel12d_2/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/jakobkg_footprints_encoder_bourns_pel12d_2/working
-    oomp_doc: footprints/footprints/jakobkg/footprints/Encoder_Bourns_PEL12D-2/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/jakobkg/footprints/Encoder_Bourns_PEL12D-2/working
     oomp_src_flat: footprints_flat/footprints_flat/jakobkg_footprints_encoder_bourns_pel12d_2/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/jakobkg_footprints_encoder_bourns_pel12d_2/working
-    oomp_src_folder: footprints_folder/footprints_folder/jakobkg/footprints/Encoder_Bourns_PEL12D-2/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/jakobkg/footprints/Encoder_Bourns_PEL12D-2/working
   name: footprints.pretty
+  oomp:
+    footprint_name: encoder_bourns_pel12d_2
+    library_name: footprints
+    md5: cab0c5d13ed0979f67235537ab264e7c
+    md5_10: cab0c5d13e
+    md5_5: cab0c
+    md5_6: cab0c5
+    oomp_key: oomp_jakobkg_footprints_encoder_bourns_pel12d_2
+    oomp_key_extra: oomp_footprint_jakobkg_footprints_encoder_bourns_pel12d_2
+    oomp_key_full: oomp_footprint_jakobkg_footprints_encoder_bourns_pel12d_2_cab0c5
+    oomp_key_simple: jakobkg_footprints_encoder_bourns_pel12d_2
+    original_filename: footprints.pretty/Encoder_Bourns_PEL12D-2.kicad_mod
+    owner_name: jakobkg
   oomp_key: oomp_jakobkg_footprints_encoder_bourns_pel12d_2
+  oomp_key_full: oomp_footprint_jakobkg_footprints_encoder_bourns_pel12d_2
   oomp_key_simple: jakobkg_footprints_encoder_bourns_pel12d_2
   owner: jakobkg
   repo:

@@ -6,20 +6,22 @@ The original footprint can be found at:
 http://gitlab.com/natsfr/kicad-components/blob/master/Pretty_Footprints/Xtal_SMD.pretty/XTAL_5.0x3.2mm.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
-* description:   
-* libraryLink:   
-* number_of_pads:   
+* description: None  
+* libraryLink: Axicom_IMxxJ  
+* number_of_pads: 8  
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| error | Expression does not have the correct type |  
 | file | kicad-components/Pretty_Footprints/Relay.pretty/Axicom_IMxxJ.kicad_mod |  
+| footprint | {'description': None, 'libraryLink': 'Axicom_IMxxJ', 'number_of_pads': 8} |  
 | footprint_library_directory | footprint_library_owner/natsfr_kicad-components |  
 | footprint_library_directory_flat | footprints_flat/natsfr_relay_axicom_imxxj/working |  
 | github_path | http://github.com/natsfr/kicad-components/blob/master/Pretty_Footprints/Relay.pretty/Axicom_IMxxJ.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/natsfr/kicad-components/blob/master/Pretty_Footprints/Xtal_SMD.pretty/XTAL_5.0x3.2mm.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/natsfr_relay_axicom_imxxj/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/natsfr_relay_axicom_imxxj/working', 'oomp_doc': 'footprints/footprints/natsfr/Relay/Axicom_IMxxJ/working/', 'oomp_doc_github': 'https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/natsfr/Relay/Axicom_IMxxJ/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/natsfr_relay_axicom_imxxj/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/natsfr_relay_axicom_imxxj/working', 'oomp_src_folder': 'footprints_folder/footprints_folder/natsfr/Relay/Axicom_IMxxJ/working', 'oomp_src_folder_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/natsfr/Relay/Axicom_IMxxJ/working'} |  
+| links | {'github_src': 'http://gitlab.com/natsfr/kicad-components/blob/master/Pretty_Footprints/Xtal_SMD.pretty/XTAL_5.0x3.2mm.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/natsfr_relay_axicom_imxxj/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/natsfr_relay_axicom_imxxj/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/natsfr_relay_axicom_imxxj/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/natsfr_relay_axicom_imxxj/working'} |  
 | name | kicad-components |  
+| oomp | {'footprint_name': 'axicom_imxxj', 'library_name': 'relay', 'md5': '1af0353e46d8c527c8c71d618fe2f448', 'md5_10': '1af0353e46', 'md5_5': '1af03', 'md5_6': '1af035', 'oomp_key': 'oomp_natsfr_relay_axicom_imxxj', 'oomp_key_extra': 'oomp_footprint_natsfr_relay_axicom_imxxj', 'oomp_key_full': 'oomp_footprint_natsfr_relay_axicom_imxxj_1af035', 'oomp_key_simple': 'natsfr_relay_axicom_imxxj', 'original_filename': 'kicad-components/Pretty_Footprints/Relay.pretty/Axicom_IMxxJ.kicad_mod', 'owner_name': 'natsfr'} |  
 | oomp_key | oomp_natsfr_relay_axicom_imxxj |  
+| oomp_key_full | oomp_footprint_natsfr_relay_axicom_imxxj |  
 | oomp_key_simple | natsfr_relay_axicom_imxxj |  
 | owner | natsfr |  
 | repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/joanthespark_footprints_plcc68/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/joanthespark_footprints_plcc68/working
-    oomp_doc: footprints/footprints/JoanTheSpark/footprints/PLCC68/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/JoanTheSpark/footprints/PLCC68/working
     oomp_src_flat: footprints_flat/footprints_flat/joanthespark_footprints_plcc68/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/joanthespark_footprints_plcc68/working
-    oomp_src_folder: footprints_folder/footprints_folder/JoanTheSpark/footprints/PLCC68/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/JoanTheSpark/footprints/PLCC68/working
   name: KiCAD
+  oomp:
+    footprint_name: plcc68
+    library_name: footprints
+    md5: 4491da1241a1d53b7123bdbd9b5dcdb9
+    md5_10: 4491da1241
+    md5_5: 4491d
+    md5_6: 4491da
+    oomp_key: oomp_joanthespark_footprints_plcc68
+    oomp_key_extra: oomp_footprint_joanthespark_footprints_plcc68
+    oomp_key_full: oomp_footprint_joanthespark_footprints_plcc68_4491da
+    oomp_key_simple: joanthespark_footprints_plcc68
+    original_filename: KiCAD/demos/video/libs/footprints.pretty/PLCC68.kicad_mod
+    owner_name: joanthespark
   oomp_key: oomp_joanthespark_footprints_plcc68
+  oomp_key_full: oomp_footprint_joanthespark_footprints_plcc68
   oomp_key_simple: joanthespark_footprints_plcc68
   owner: JoanTheSpark
   repo:

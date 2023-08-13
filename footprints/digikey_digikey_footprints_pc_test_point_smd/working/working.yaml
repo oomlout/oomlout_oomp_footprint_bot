@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/digikey_digikey_footprints_pc_test_point_smd/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_digikey_footprints_pc_test_point_smd/working
-    oomp_doc: footprints/footprints/digikey/digikey-footprints/PC_TEST_POINT_SMD/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/digikey/digikey-footprints/PC_TEST_POINT_SMD/working
     oomp_src_flat: footprints_flat/footprints_flat/digikey_digikey_footprints_pc_test_point_smd/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/digikey_digikey_footprints_pc_test_point_smd/working
-    oomp_src_folder: footprints_folder/footprints_folder/digikey/digikey-footprints/PC_TEST_POINT_SMD/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/digikey/digikey-footprints/PC_TEST_POINT_SMD/working
   name: digikey-kicad-library
+  oomp:
+    footprint_name: pc_test_point_smd
+    library_name: digikey_footprints
+    md5: 7e7f3d9cdc350f03b180579551bfdc6a
+    md5_10: 7e7f3d9cdc
+    md5_5: 7e7f3
+    md5_6: 7e7f3d
+    oomp_key: oomp_digikey_digikey_footprints_pc_test_point_smd
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_pc_test_point_smd
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_pc_test_point_smd_7e7f3d
+    oomp_key_simple: digikey_digikey_footprints_pc_test_point_smd
+    original_filename: digikey-kicad-library/digikey-footprints.pretty/PC_TEST_POINT_SMD.kicad_mod
+    owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_pc_test_point_smd
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_pc_test_point_smd
   oomp_key_simple: digikey_digikey_footprints_pc_test_point_smd
   owner: digikey
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/greatscottgadgets_gsg_modules_testpoint_toorcamp_2018_edge/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/greatscottgadgets_gsg_modules_testpoint_toorcamp_2018_edge/working
-    oomp_doc: footprints/footprints/greatscottgadgets/gsg-modules/TESTPOINT-TOORCAMP-2018-EDGE/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/greatscottgadgets/gsg-modules/TESTPOINT-TOORCAMP-2018-EDGE/working
     oomp_src_flat: footprints_flat/footprints_flat/greatscottgadgets_gsg_modules_testpoint_toorcamp_2018_edge/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/greatscottgadgets_gsg_modules_testpoint_toorcamp_2018_edge/working
-    oomp_src_folder: footprints_folder/footprints_folder/greatscottgadgets/gsg-modules/TESTPOINT-TOORCAMP-2018-EDGE/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/greatscottgadgets/gsg-modules/TESTPOINT-TOORCAMP-2018-EDGE/working
   name: gsg-kicad-lib
+  oomp:
+    footprint_name: testpoint_toorcamp_2018_edge
+    library_name: gsg_modules
+    md5: 7bbb719ec15d462735684fc54e138ffc
+    md5_10: 7bbb719ec1
+    md5_5: 7bbb7
+    md5_6: 7bbb71
+    oomp_key: oomp_greatscottgadgets_gsg_modules_testpoint_toorcamp_2018_edge
+    oomp_key_extra: oomp_footprint_greatscottgadgets_gsg_modules_testpoint_toorcamp_2018_edge
+    oomp_key_full: oomp_footprint_greatscottgadgets_gsg_modules_testpoint_toorcamp_2018_edge_7bbb71
+    oomp_key_simple: greatscottgadgets_gsg_modules_testpoint_toorcamp_2018_edge
+    original_filename: gsg-kicad-lib/gsg-modules.pretty/TESTPOINT-TOORCAMP-2018-EDGE.kicad_mod
+    owner_name: greatscottgadgets
   oomp_key: oomp_greatscottgadgets_gsg_modules_testpoint_toorcamp_2018_edge
+  oomp_key_full: oomp_footprint_greatscottgadgets_gsg_modules_testpoint_toorcamp_2018_edge
   oomp_key_simple: greatscottgadgets_gsg_modules_testpoint_toorcamp_2018_edge
   owner: greatscottgadgets
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/axello_esp_rs232_pin_header_angled_1x12/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/axello_esp_rs232_pin_header_angled_1x12/working
-    oomp_doc: footprints/footprints/axello/ESP-RS232/Pin_Header_Angled_1x12/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/axello/ESP-RS232/Pin_Header_Angled_1x12/working
     oomp_src_flat: footprints_flat/footprints_flat/axello_esp_rs232_pin_header_angled_1x12/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/axello_esp_rs232_pin_header_angled_1x12/working
-    oomp_src_folder: footprints_folder/footprints_folder/axello/ESP-RS232/Pin_Header_Angled_1x12/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/axello/ESP-RS232/Pin_Header_Angled_1x12/working
   name: kicad
+  oomp:
+    footprint_name: pin_header_angled_1x12
+    library_name: esp_rs232
+    md5: d8d0220e90915f90e50c073af60cc275
+    md5_10: d8d0220e90
+    md5_5: d8d02
+    md5_6: d8d022
+    oomp_key: oomp_axello_esp_rs232_pin_header_angled_1x12
+    oomp_key_extra: oomp_footprint_axello_esp_rs232_pin_header_angled_1x12
+    oomp_key_full: oomp_footprint_axello_esp_rs232_pin_header_angled_1x12_d8d022
+    oomp_key_simple: axello_esp_rs232_pin_header_angled_1x12
+    original_filename: kicad/mods/ESP-RS232.pretty/Pin_Header_Angled_1x12.kicad_mod
+    owner_name: axello
   oomp_key: oomp_axello_esp_rs232_pin_header_angled_1x12
+  oomp_key_full: oomp_footprint_axello_esp_rs232_pin_header_angled_1x12
   oomp_key_simple: axello_esp_rs232_pin_header_angled_1x12
   owner: axello
   repo:

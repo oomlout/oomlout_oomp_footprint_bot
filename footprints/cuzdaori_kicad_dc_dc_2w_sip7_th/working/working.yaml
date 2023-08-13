@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cuzdaori_kicad_dc_dc_2w_sip7_th/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cuzdaori_kicad_dc_dc_2w_sip7_th/working
-    oomp_doc: footprints/footprints/cuzdaori/KiCad/DC_DC_2W_SIP7_TH/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cuzdaori/KiCad/DC_DC_2W_SIP7_TH/working
     oomp_src_flat: footprints_flat/footprints_flat/cuzdaori_kicad_dc_dc_2w_sip7_th/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cuzdaori_kicad_dc_dc_2w_sip7_th/working
-    oomp_src_folder: footprints_folder/footprints_folder/cuzdaori/KiCad/DC_DC_2W_SIP7_TH/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cuzdaori/KiCad/DC_DC_2W_SIP7_TH/working
   name: KiCad.pretty
+  oomp:
+    footprint_name: dc_dc_2w_sip7_th
+    library_name: kicad
+    md5: 57cbb24e046511a1c26038ebf0a50c96
+    md5_10: 57cbb24e04
+    md5_5: 57cbb
+    md5_6: 57cbb2
+    oomp_key: oomp_cuzdaori_kicad_dc_dc_2w_sip7_th
+    oomp_key_extra: oomp_footprint_cuzdaori_kicad_dc_dc_2w_sip7_th
+    oomp_key_full: oomp_footprint_cuzdaori_kicad_dc_dc_2w_sip7_th_57cbb2
+    oomp_key_simple: cuzdaori_kicad_dc_dc_2w_sip7_th
+    original_filename: KiCad.pretty/DC_DC_2W_SIP7_TH.kicad_mod
+    owner_name: cuzdaori
   oomp_key: oomp_cuzdaori_kicad_dc_dc_2w_sip7_th
+  oomp_key_full: oomp_footprint_cuzdaori_kicad_dc_dc_2w_sip7_th
   oomp_key_simple: cuzdaori_kicad_dc_dc_2w_sip7_th
   owner: cuzdaori
   repo:

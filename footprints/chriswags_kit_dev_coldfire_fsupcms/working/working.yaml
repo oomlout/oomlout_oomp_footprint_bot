@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/chriswags_kit_dev_coldfire_fsupcms/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/chriswags_kit_dev_coldfire_fsupcms/working
-    oomp_doc: footprints/footprints/chriswags/kit-dev-coldfire/FSUPCMS/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/chriswags/kit-dev-coldfire/FSUPCMS/working
     oomp_src_flat: footprints_flat/footprints_flat/chriswags_kit_dev_coldfire_fsupcms/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/chriswags_kit_dev_coldfire_fsupcms/working
-    oomp_src_folder: footprints_folder/footprints_folder/chriswags/kit-dev-coldfire/FSUPCMS/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/chriswags/kit-dev-coldfire/FSUPCMS/working
   name: KiCad
+  oomp:
+    footprint_name: fsupcms
+    library_name: kit_dev_coldfire
+    md5: 3ad12e5809d1c63dbe8d52e6e464d292
+    md5_10: 3ad12e5809
+    md5_5: 3ad12
+    md5_6: 3ad12e
+    oomp_key: oomp_chriswags_kit_dev_coldfire_fsupcms
+    oomp_key_extra: oomp_footprint_chriswags_kit_dev_coldfire_fsupcms
+    oomp_key_full: oomp_footprint_chriswags_kit_dev_coldfire_fsupcms_3ad12e
+    oomp_key_simple: chriswags_kit_dev_coldfire_fsupcms
+    original_filename: KiCad/demos/kit-dev-coldfire-xilinx_5213/kit-dev-coldfire.pretty/FSUPCMS.kicad_mod
+    owner_name: chriswags
   oomp_key: oomp_chriswags_kit_dev_coldfire_fsupcms
+  oomp_key_full: oomp_footprint_chriswags_kit_dev_coldfire_fsupcms
   oomp_key_simple: chriswags_kit_dev_coldfire_fsupcms
   owner: chriswags
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/panicjp_kicad_mod_cosel_zus25/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/panicjp_kicad_mod_cosel_zus25/working
-    oomp_doc: footprints/footprints/panicjp/KiCad_Mod/COSEL_ZUS25/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/panicjp/KiCad_Mod/COSEL_ZUS25/working
     oomp_src_flat: footprints_flat/footprints_flat/panicjp_kicad_mod_cosel_zus25/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/panicjp_kicad_mod_cosel_zus25/working
-    oomp_src_folder: footprints_folder/footprints_folder/panicjp/KiCad_Mod/COSEL_ZUS25/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/panicjp/KiCad_Mod/COSEL_ZUS25/working
   name: KiCad_Mod.pretty
+  oomp:
+    footprint_name: cosel_zus25
+    library_name: kicad_mod
+    md5: 4533593c082471de8f0e6e9ddae8f81b
+    md5_10: 4533593c08
+    md5_5: '45335'
+    md5_6: '453359'
+    oomp_key: oomp_panicjp_kicad_mod_cosel_zus25
+    oomp_key_extra: oomp_footprint_panicjp_kicad_mod_cosel_zus25
+    oomp_key_full: oomp_footprint_panicjp_kicad_mod_cosel_zus25_453359
+    oomp_key_simple: panicjp_kicad_mod_cosel_zus25
+    original_filename: KiCad_Mod.pretty/COSEL_ZUS25.kicad_mod
+    owner_name: panicjp
   oomp_key: oomp_panicjp_kicad_mod_cosel_zus25
+  oomp_key_full: oomp_footprint_panicjp_kicad_mod_cosel_zus25
   oomp_key_simple: panicjp_kicad_mod_cosel_zus25
   owner: panicjp
   repo:

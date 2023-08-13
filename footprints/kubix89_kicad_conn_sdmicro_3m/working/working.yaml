@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/kubiX89/kiCAD.pretty
     oomp_bot: footprints/kubix89_kicad_conn_sdmicro_3m/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kubix89_kicad_conn_sdmicro_3m/working
-    oomp_doc: footprints/footprints/kubiX89/kiCAD/CONN_SDMICRO_3M/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kubiX89/kiCAD/CONN_SDMICRO_3M/working
     oomp_src_flat: footprints_flat/footprints_flat/kubix89_kicad_conn_sdmicro_3m/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kubix89_kicad_conn_sdmicro_3m/working
-    oomp_src_folder: footprints_folder/footprints_folder/kubiX89/kiCAD/CONN_SDMICRO_3M/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kubiX89/kiCAD/CONN_SDMICRO_3M/working
   name: kiCAD.pretty
+  oomp:
+    footprint_name: conn_sdmicro_3m
+    library_name: kicad
+    md5: 95ea2359df20baf9d9cd0ab93088875d
+    md5_10: 95ea2359df
+    md5_5: 95ea2
+    md5_6: 95ea23
+    oomp_key: oomp_kubix89_kicad_conn_sdmicro_3m
+    oomp_key_extra: oomp_footprint_kubix89_kicad_conn_sdmicro_3m
+    oomp_key_full: oomp_footprint_kubix89_kicad_conn_sdmicro_3m_95ea23
+    oomp_key_simple: kubix89_kicad_conn_sdmicro_3m
+    original_filename: kiCAD.pretty/CONN_SDMICRO_3M.kicad_mod
+    owner_name: kubix89
   oomp_key: oomp_kubix89_kicad_conn_sdmicro_3m
+  oomp_key_full: oomp_footprint_kubix89_kicad_conn_sdmicro_3m
   oomp_key_simple: kubix89_kicad_conn_sdmicro_3m
   owner: kubiX89
   repo:

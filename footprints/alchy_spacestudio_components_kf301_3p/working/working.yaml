@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/alchy/spacestudio_components.pretty
     oomp_bot: footprints/alchy_spacestudio_components_kf301_3p/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/alchy_spacestudio_components_kf301_3p/working
-    oomp_doc: footprints/footprints/alchy/spacestudio_components/KF301-3P/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/alchy/spacestudio_components/KF301-3P/working
     oomp_src_flat: footprints_flat/footprints_flat/alchy_spacestudio_components_kf301_3p/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/alchy_spacestudio_components_kf301_3p/working
-    oomp_src_folder: footprints_folder/footprints_folder/alchy/spacestudio_components/KF301-3P/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/alchy/spacestudio_components/KF301-3P/working
   name: spacestudio_components.pretty
+  oomp:
+    footprint_name: kf301_3p
+    library_name: spacestudio_components
+    md5: 1ebbbcd632f9f0873e5607817bbd148a
+    md5_10: 1ebbbcd632
+    md5_5: 1ebbb
+    md5_6: 1ebbbc
+    oomp_key: oomp_alchy_spacestudio_components_kf301_3p
+    oomp_key_extra: oomp_footprint_alchy_spacestudio_components_kf301_3p
+    oomp_key_full: oomp_footprint_alchy_spacestudio_components_kf301_3p_1ebbbc
+    oomp_key_simple: alchy_spacestudio_components_kf301_3p
+    original_filename: spacestudio_components.pretty/KF301-3P.kicad_mod
+    owner_name: alchy
   oomp_key: oomp_alchy_spacestudio_components_kf301_3p
+  oomp_key_full: oomp_footprint_alchy_spacestudio_components_kf301_3p
   oomp_key_simple: alchy_spacestudio_components_kf301_3p
   owner: alchy
   repo:

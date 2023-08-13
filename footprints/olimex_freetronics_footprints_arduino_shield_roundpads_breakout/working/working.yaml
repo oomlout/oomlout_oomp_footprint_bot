@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/olimex_freetronics_footprints_arduino_shield_roundpads_breakout/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/olimex_freetronics_footprints_arduino_shield_roundpads_breakout/working
-    oomp_doc: footprints/footprints/OLIMEX/freetronics_footprints/ARDUINO_SHIELD_ROUNDPADS_BREAKOUT/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/OLIMEX/freetronics_footprints/ARDUINO_SHIELD_ROUNDPADS_BREAKOUT/working
     oomp_src_flat: footprints_flat/footprints_flat/olimex_freetronics_footprints_arduino_shield_roundpads_breakout/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/olimex_freetronics_footprints_arduino_shield_roundpads_breakout/working
-    oomp_src_folder: footprints_folder/footprints_folder/OLIMEX/freetronics_footprints/ARDUINO_SHIELD_ROUNDPADS_BREAKOUT/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/OLIMEX/freetronics_footprints/ARDUINO_SHIELD_ROUNDPADS_BREAKOUT/working
   name: KiCAD
+  oomp:
+    footprint_name: arduino_shield_roundpads_breakout
+    library_name: freetronics_footprints
+    md5: 1637b25593cf52263f2146a887934a74
+    md5_10: 1637b25593
+    md5_5: 1637b
+    md5_6: 1637b2
+    oomp_key: oomp_olimex_freetronics_footprints_arduino_shield_roundpads_breakout
+    oomp_key_extra: oomp_footprint_olimex_freetronics_footprints_arduino_shield_roundpads_breakout
+    oomp_key_full: oomp_footprint_olimex_freetronics_footprints_arduino_shield_roundpads_breakout_1637b2
+    oomp_key_simple: olimex_freetronics_footprints_arduino_shield_roundpads_breakout
+    original_filename: KiCAD/mods/freetronics_footprints.pretty/ARDUINO_SHIELD_ROUNDPADS_BREAKOUT.kicad_mod
+    owner_name: olimex
   oomp_key: oomp_olimex_freetronics_footprints_arduino_shield_roundpads_breakout
+  oomp_key_full: oomp_footprint_olimex_freetronics_footprints_arduino_shield_roundpads_breakout
   oomp_key_simple: olimex_freetronics_footprints_arduino_shield_roundpads_breakout
   owner: OLIMEX
   repo:

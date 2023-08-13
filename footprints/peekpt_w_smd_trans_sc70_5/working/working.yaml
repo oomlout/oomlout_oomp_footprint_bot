@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/peekpt_w_smd_trans_sc70_5/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/peekpt_w_smd_trans_sc70_5/working
-    oomp_doc: footprints/footprints/peekpt/w_smd_trans/sc70-5/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/peekpt/w_smd_trans/sc70-5/working
     oomp_src_flat: footprints_flat/footprints_flat/peekpt_w_smd_trans_sc70_5/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/peekpt_w_smd_trans_sc70_5/working
-    oomp_src_folder: footprints_folder/footprints_folder/peekpt/w_smd_trans/sc70-5/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/peekpt/w_smd_trans/sc70-5/working
   name: kicad_smisioto
+  oomp:
+    footprint_name: sc70_5
+    library_name: w_smd_trans
+    md5: f75cf550668aaadc4a8567a9ec818cff
+    md5_10: f75cf55066
+    md5_5: f75cf
+    md5_6: f75cf5
+    oomp_key: oomp_peekpt_w_smd_trans_sc70_5
+    oomp_key_extra: oomp_footprint_peekpt_w_smd_trans_sc70_5
+    oomp_key_full: oomp_footprint_peekpt_w_smd_trans_sc70_5_f75cf5
+    oomp_key_simple: peekpt_w_smd_trans_sc70_5
+    original_filename: kicad_smisioto/modules/walter/w_smd_trans.pretty/sc70-5.kicad_mod
+    owner_name: peekpt
   oomp_key: oomp_peekpt_w_smd_trans_sc70_5
+  oomp_key_full: oomp_footprint_peekpt_w_smd_trans_sc70_5
   oomp_key_simple: peekpt_w_smd_trans_sc70_5
   owner: peekpt
   repo:

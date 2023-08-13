@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/hiroieee_kicad_lib_nfsa172t/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/hiroieee_kicad_lib_nfsa172t/working
-    oomp_doc: footprints/footprints/hiroieee/kicad-lib/NFSA172T/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/hiroieee/kicad-lib/NFSA172T/working
     oomp_src_flat: footprints_flat/footprints_flat/hiroieee_kicad_lib_nfsa172t/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/hiroieee_kicad_lib_nfsa172t/working
-    oomp_src_folder: footprints_folder/footprints_folder/hiroieee/kicad-lib/NFSA172T/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/hiroieee/kicad-lib/NFSA172T/working
   name: kicad-lib.pretty
+  oomp:
+    footprint_name: nfsa172t
+    library_name: kicad_lib
+    md5: 74c4154ba27070dafc0c9fa32ffe3c84
+    md5_10: 74c4154ba2
+    md5_5: 74c41
+    md5_6: 74c415
+    oomp_key: oomp_hiroieee_kicad_lib_nfsa172t
+    oomp_key_extra: oomp_footprint_hiroieee_kicad_lib_nfsa172t
+    oomp_key_full: oomp_footprint_hiroieee_kicad_lib_nfsa172t_74c415
+    oomp_key_simple: hiroieee_kicad_lib_nfsa172t
+    original_filename: kicad-lib.pretty/NFSA172T.kicad_mod
+    owner_name: hiroieee
   oomp_key: oomp_hiroieee_kicad_lib_nfsa172t
+  oomp_key_full: oomp_footprint_hiroieee_kicad_lib_nfsa172t
   oomp_key_simple: hiroieee_kicad_lib_nfsa172t
   owner: hiroieee
   repo:

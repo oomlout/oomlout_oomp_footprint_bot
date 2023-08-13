@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/suf_kicad_suf_sob_dp10080/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/suf_kicad_suf_sob_dp10080/working
-    oomp_doc: footprints/footprints/suf-KiCAD/suf_sob/DP10080/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/suf-KiCAD/suf_sob/DP10080/working
     oomp_src_flat: footprints_flat/footprints_flat/suf_kicad_suf_sob_dp10080/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/suf_kicad_suf_sob_dp10080/working
-    oomp_src_folder: footprints_folder/footprints_folder/suf-KiCAD/suf_sob/DP10080/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/suf-KiCAD/suf_sob/DP10080/working
   name: suf_sob.pretty
+  oomp:
+    footprint_name: dp10080
+    library_name: suf_sob
+    md5: f7efe007016a1b56eb8e08182543d998
+    md5_10: f7efe00701
+    md5_5: f7efe
+    md5_6: f7efe0
+    oomp_key: oomp_suf_kicad_suf_sob_dp10080
+    oomp_key_extra: oomp_footprint_suf_kicad_suf_sob_dp10080
+    oomp_key_full: oomp_footprint_suf_kicad_suf_sob_dp10080_f7efe0
+    oomp_key_simple: suf_kicad_suf_sob_dp10080
+    original_filename: suf_sob.pretty/DP10080.kicad_mod
+    owner_name: suf_kicad
   oomp_key: oomp_suf_kicad_suf_sob_dp10080
+  oomp_key_full: oomp_footprint_suf_kicad_suf_sob_dp10080
   oomp_key_simple: suf_kicad_suf_sob_dp10080
   owner: suf-KiCAD
   repo:

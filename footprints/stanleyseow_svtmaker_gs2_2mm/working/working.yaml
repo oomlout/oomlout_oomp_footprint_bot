@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/stanleyseow_svtmaker_gs2_2mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stanleyseow_svtmaker_gs2_2mm/working
-    oomp_doc: footprints/footprints/stanleyseow/SVTmaker/GS2-2mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/stanleyseow/SVTmaker/GS2-2mm/working
     oomp_src_flat: footprints_flat/footprints_flat/stanleyseow_svtmaker_gs2_2mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/stanleyseow_svtmaker_gs2_2mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/stanleyseow/SVTmaker/GS2-2mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/stanleyseow/SVTmaker/GS2-2mm/working
   name: SVTmaker.pretty
+  oomp:
+    footprint_name: gs2_2mm
+    library_name: svtmaker
+    md5: 6504c0e9bc4ac0a19c1b87f6e3d8facf
+    md5_10: 6504c0e9bc
+    md5_5: 6504c
+    md5_6: 6504c0
+    oomp_key: oomp_stanleyseow_svtmaker_gs2_2mm
+    oomp_key_extra: oomp_footprint_stanleyseow_svtmaker_gs2_2mm
+    oomp_key_full: oomp_footprint_stanleyseow_svtmaker_gs2_2mm_6504c0
+    oomp_key_simple: stanleyseow_svtmaker_gs2_2mm
+    original_filename: SVTmaker.pretty/GS2-2mm.kicad_mod
+    owner_name: stanleyseow
   oomp_key: oomp_stanleyseow_svtmaker_gs2_2mm
+  oomp_key_full: oomp_footprint_stanleyseow_svtmaker_gs2_2mm
   oomp_key_simple: stanleyseow_svtmaker_gs2_2mm
   owner: stanleyseow
   repo:

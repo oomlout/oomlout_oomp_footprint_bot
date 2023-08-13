@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/celeritous_kicad_inductor_10mm_slotten_variable/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/celeritous_kicad_inductor_10mm_slotten_variable/working
-    oomp_doc: footprints/footprints/celeritous/KiCad/Inductor_10mm_SlotTen_Variable/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/celeritous/KiCad/Inductor_10mm_SlotTen_Variable/working
     oomp_src_flat: footprints_flat/footprints_flat/celeritous_kicad_inductor_10mm_slotten_variable/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/celeritous_kicad_inductor_10mm_slotten_variable/working
-    oomp_src_folder: footprints_folder/footprints_folder/celeritous/KiCad/Inductor_10mm_SlotTen_Variable/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/celeritous/KiCad/Inductor_10mm_SlotTen_Variable/working
   name: KiCad.pretty
+  oomp:
+    footprint_name: inductor_10mm_slotten_variable
+    library_name: kicad
+    md5: 830c7d76f2ad70abe9f760dd0f8ce14e
+    md5_10: 830c7d76f2
+    md5_5: 830c7
+    md5_6: 830c7d
+    oomp_key: oomp_celeritous_kicad_inductor_10mm_slotten_variable
+    oomp_key_extra: oomp_footprint_celeritous_kicad_inductor_10mm_slotten_variable
+    oomp_key_full: oomp_footprint_celeritous_kicad_inductor_10mm_slotten_variable_830c7d
+    oomp_key_simple: celeritous_kicad_inductor_10mm_slotten_variable
+    original_filename: KiCad.pretty/Inductor_10mm_SlotTen_Variable.kicad_mod
+    owner_name: celeritous
   oomp_key: oomp_celeritous_kicad_inductor_10mm_slotten_variable
+  oomp_key_full: oomp_footprint_celeritous_kicad_inductor_10mm_slotten_variable
   oomp_key_simple: celeritous_kicad_inductor_10mm_slotten_variable
   owner: celeritous
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/f6itu_coax_2mm_coax_2mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/f6itu_coax_2mm_coax_2mm/working
-    oomp_doc: footprints/footprints/F6ITU/Coax_2mm/coax_2mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/F6ITU/Coax_2mm/coax_2mm/working
     oomp_src_flat: footprints_flat/footprints_flat/f6itu_coax_2mm_coax_2mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/f6itu_coax_2mm_coax_2mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/F6ITU/Coax_2mm/coax_2mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/F6ITU/Coax_2mm/coax_2mm/working
   name: Kicad_Modules
+  oomp:
+    footprint_name: coax_2mm
+    library_name: coax_2mm
+    md5: 3ed23a177be0c860064c08702740b39e
+    md5_10: 3ed23a177b
+    md5_5: 3ed23
+    md5_6: 3ed23a
+    oomp_key: oomp_f6itu_coax_2mm_coax_2mm
+    oomp_key_extra: oomp_footprint_f6itu_coax_2mm_coax_2mm
+    oomp_key_full: oomp_footprint_f6itu_coax_2mm_coax_2mm_3ed23a
+    oomp_key_simple: f6itu_coax_2mm_coax_2mm
+    original_filename: Kicad_Modules/Coax_2mm.pretty/coax_2mm.kicad_mod
+    owner_name: f6itu
   oomp_key: oomp_f6itu_coax_2mm_coax_2mm
+  oomp_key_full: oomp_footprint_f6itu_coax_2mm_coax_2mm
   oomp_key_simple: f6itu_coax_2mm_coax_2mm
   owner: F6ITU
   repo:

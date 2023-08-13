@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/electroniccats_signalcommunications_signalcommunications_we_fami_8010_744750230068/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/electroniccats_signalcommunications_signalcommunications_we_fami_8010_744750230068/working
-    oomp_doc: footprints/footprints/ElectronicCats/SignalCommunications/SignalCommunications-WE-FAMI_8010_744750230068/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ElectronicCats/SignalCommunications/SignalCommunications-WE-FAMI_8010_744750230068/working
     oomp_src_flat: footprints_flat/footprints_flat/electroniccats_signalcommunications_signalcommunications_we_fami_8010_744750230068/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/electroniccats_signalcommunications_signalcommunications_we_fami_8010_744750230068/working
-    oomp_src_folder: footprints_folder/footprints_folder/ElectronicCats/SignalCommunications/SignalCommunications-WE-FAMI_8010_744750230068/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ElectronicCats/SignalCommunications/SignalCommunications-WE-FAMI_8010_744750230068/working
   name: ComponentLibrariesKicadWurthElektronik
+  oomp:
+    footprint_name: signalcommunications_we_fami_8010_744750230068
+    library_name: signalcommunications
+    md5: b0f11f682f40ae2469e6f9d65531e0d1
+    md5_10: b0f11f682f
+    md5_5: b0f11
+    md5_6: b0f11f
+    oomp_key: oomp_electroniccats_signalcommunications_signalcommunications_we_fami_8010_744750230068
+    oomp_key_extra: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_fami_8010_744750230068
+    oomp_key_full: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_fami_8010_744750230068_b0f11f
+    oomp_key_simple: electroniccats_signalcommunications_signalcommunications_we_fami_8010_744750230068
+    original_filename: ComponentLibrariesKicadWurthElektronik/SIGNAL-COMMUNICATIONS-rev18a/SignalCommunications.pretty/SignalCommunications-WE-FAMI_8010_744750230068.kicad_mod
+    owner_name: electroniccats
   oomp_key: oomp_electroniccats_signalcommunications_signalcommunications_we_fami_8010_744750230068
+  oomp_key_full: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_fami_8010_744750230068
   oomp_key_simple: electroniccats_signalcommunications_signalcommunications_we_fami_8010_744750230068
   owner: ElectronicCats
   repo:

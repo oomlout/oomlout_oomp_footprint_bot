@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/servomouse_servomouse_soic_28w/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/servomouse_servomouse_soic_28w/working
-    oomp_doc: footprints/footprints/servomouse/servomouse/SOIC-28W/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/servomouse/servomouse/SOIC-28W/working
     oomp_src_flat: footprints_flat/footprints_flat/servomouse_servomouse_soic_28w/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/servomouse_servomouse_soic_28w/working
-    oomp_src_folder: footprints_folder/footprints_folder/servomouse/servomouse/SOIC-28W/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/servomouse/servomouse/SOIC-28W/working
   name: servomouse.pretty
+  oomp:
+    footprint_name: soic_28w
+    library_name: servomouse
+    md5: 23aa13b46a9fe7302fca4dab91dfc02a
+    md5_10: 23aa13b46a
+    md5_5: 23aa1
+    md5_6: 23aa13
+    oomp_key: oomp_servomouse_servomouse_soic_28w
+    oomp_key_extra: oomp_footprint_servomouse_servomouse_soic_28w
+    oomp_key_full: oomp_footprint_servomouse_servomouse_soic_28w_23aa13
+    oomp_key_simple: servomouse_servomouse_soic_28w
+    original_filename: servomouse.pretty/SOIC-28W.kicad_mod
+    owner_name: servomouse
   oomp_key: oomp_servomouse_servomouse_soic_28w
+  oomp_key_full: oomp_footprint_servomouse_servomouse_soic_28w
   oomp_key_simple: servomouse_servomouse_soic_28w
   owner: servomouse
   repo:

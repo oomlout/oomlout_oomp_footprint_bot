@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/kubiX89/kiCAD.pretty
     oomp_bot: footprints/kubix89_kicad_qsop16/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kubix89_kicad_qsop16/working
-    oomp_doc: footprints/footprints/kubiX89/kiCAD/QSOP16/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kubiX89/kiCAD/QSOP16/working
     oomp_src_flat: footprints_flat/footprints_flat/kubix89_kicad_qsop16/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kubix89_kicad_qsop16/working
-    oomp_src_folder: footprints_folder/footprints_folder/kubiX89/kiCAD/QSOP16/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kubiX89/kiCAD/QSOP16/working
   name: kiCAD.pretty
+  oomp:
+    footprint_name: qsop16
+    library_name: kicad
+    md5: 6b6084eb07bc6199344abaf1aee4e47f
+    md5_10: 6b6084eb07
+    md5_5: 6b608
+    md5_6: 6b6084
+    oomp_key: oomp_kubix89_kicad_qsop16
+    oomp_key_extra: oomp_footprint_kubix89_kicad_qsop16
+    oomp_key_full: oomp_footprint_kubix89_kicad_qsop16_6b6084
+    oomp_key_simple: kubix89_kicad_qsop16
+    original_filename: kiCAD.pretty/QSOP16.kicad_mod
+    owner_name: kubix89
   oomp_key: oomp_kubix89_kicad_qsop16
+  oomp_key_full: oomp_footprint_kubix89_kicad_qsop16
   oomp_key_simple: kubix89_kicad_qsop16
   owner: kubiX89
   repo:

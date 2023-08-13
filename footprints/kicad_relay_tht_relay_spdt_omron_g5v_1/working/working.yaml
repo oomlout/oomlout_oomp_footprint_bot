@@ -11,17 +11,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_relay_tht_relay_spdt_omron_g5v_1/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_relay_tht_relay_spdt_omron_g5v_1/working
-    oomp_doc: footprints/footprints/kicad/Relay_THT/Relay_SPDT_Omron_G5V-1/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Relay_THT/Relay_SPDT_Omron_G5V-1/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_relay_tht_relay_spdt_omron_g5v_1/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_relay_tht_relay_spdt_omron_g5v_1/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Relay_THT/Relay_SPDT_Omron_G5V-1/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Relay_THT/Relay_SPDT_Omron_G5V-1/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: relay_spdt_omron_g5v_1
+    library_name: relay_tht
+    md5: 663ea7a5c04a92e045e6295681fe71fa
+    md5_10: 663ea7a5c0
+    md5_5: 663ea
+    md5_6: 663ea7
+    oomp_key: oomp_kicad_relay_tht_relay_spdt_omron_g5v_1
+    oomp_key_extra: oomp_footprint_kicad_relay_tht_relay_spdt_omron_g5v_1
+    oomp_key_full: oomp_footprint_kicad_relay_tht_relay_spdt_omron_g5v_1_663ea7
+    oomp_key_simple: kicad_relay_tht_relay_spdt_omron_g5v_1
+    original_filename: libraries/kicad-footprints/Relay_THT.pretty/Relay_SPDT_Omron_G5V-1.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_relay_tht_relay_spdt_omron_g5v_1
+  oomp_key_full: oomp_footprint_kicad_relay_tht_relay_spdt_omron_g5v_1
   oomp_key_simple: kicad_relay_tht_relay_spdt_omron_g5v_1
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

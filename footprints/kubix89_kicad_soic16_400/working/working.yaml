@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/kubiX89/kiCAD.pretty
     oomp_bot: footprints/kubix89_kicad_soic16_400/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kubix89_kicad_soic16_400/working
-    oomp_doc: footprints/footprints/kubiX89/kiCAD/SOIC16_400/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kubiX89/kiCAD/SOIC16_400/working
     oomp_src_flat: footprints_flat/footprints_flat/kubix89_kicad_soic16_400/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kubix89_kicad_soic16_400/working
-    oomp_src_folder: footprints_folder/footprints_folder/kubiX89/kiCAD/SOIC16_400/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kubiX89/kiCAD/SOIC16_400/working
   name: kiCAD.pretty
+  oomp:
+    footprint_name: soic16_400
+    library_name: kicad
+    md5: e747a09e28e982d45a6f88514e711745
+    md5_10: e747a09e28
+    md5_5: e747a
+    md5_6: e747a0
+    oomp_key: oomp_kubix89_kicad_soic16_400
+    oomp_key_extra: oomp_footprint_kubix89_kicad_soic16_400
+    oomp_key_full: oomp_footprint_kubix89_kicad_soic16_400_e747a0
+    oomp_key_simple: kubix89_kicad_soic16_400
+    original_filename: kiCAD.pretty/SOIC16_400.kicad_mod
+    owner_name: kubix89
   oomp_key: oomp_kubix89_kicad_soic16_400
+  oomp_key_full: oomp_footprint_kubix89_kicad_soic16_400
   oomp_key_simple: kubix89_kicad_soic16_400
   owner: kubiX89
   repo:

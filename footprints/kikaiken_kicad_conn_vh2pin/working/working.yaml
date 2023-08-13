@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/kikaiken/kicad_conn.pretty
     oomp_bot: footprints/kikaiken_kicad_conn_vh2pin/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kikaiken_kicad_conn_vh2pin/working
-    oomp_doc: footprints/footprints/kikaiken/kicad_conn/VH2pin/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kikaiken/kicad_conn/VH2pin/working
     oomp_src_flat: footprints_flat/footprints_flat/kikaiken_kicad_conn_vh2pin/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kikaiken_kicad_conn_vh2pin/working
-    oomp_src_folder: footprints_folder/footprints_folder/kikaiken/kicad_conn/VH2pin/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kikaiken/kicad_conn/VH2pin/working
   name: kicad_conn.pretty
+  oomp:
+    footprint_name: vh2pin
+    library_name: kicad_conn
+    md5: be43b0b711446c0c95d92dd2ec5316b2
+    md5_10: be43b0b711
+    md5_5: be43b
+    md5_6: be43b0
+    oomp_key: oomp_kikaiken_kicad_conn_vh2pin
+    oomp_key_extra: oomp_footprint_kikaiken_kicad_conn_vh2pin
+    oomp_key_full: oomp_footprint_kikaiken_kicad_conn_vh2pin_be43b0
+    oomp_key_simple: kikaiken_kicad_conn_vh2pin
+    original_filename: kicad_conn.pretty/VH2pin.kicad_mod
+    owner_name: kikaiken
   oomp_key: oomp_kikaiken_kicad_conn_vh2pin
+  oomp_key_full: oomp_footprint_kikaiken_kicad_conn_vh2pin
   oomp_key_simple: kikaiken_kicad_conn_vh2pin
   owner: kikaiken
   repo:

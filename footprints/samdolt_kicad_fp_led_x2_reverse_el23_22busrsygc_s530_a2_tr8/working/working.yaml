@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/samdolt_kicad_fp_led_x2_reverse_el23_22busrsygc_s530_a2_tr8/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/samdolt_kicad_fp_led_x2_reverse_el23_22busrsygc_s530_a2_tr8/working
-    oomp_doc: footprints/footprints/samdolt/kicad-fp/LED_x2_Reverse_EL23-22BUSRSYGC-S530-A2-TR8/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/samdolt/kicad-fp/LED_x2_Reverse_EL23-22BUSRSYGC-S530-A2-TR8/working
     oomp_src_flat: footprints_flat/footprints_flat/samdolt_kicad_fp_led_x2_reverse_el23_22busrsygc_s530_a2_tr8/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/samdolt_kicad_fp_led_x2_reverse_el23_22busrsygc_s530_a2_tr8/working
-    oomp_src_folder: footprints_folder/footprints_folder/samdolt/kicad-fp/LED_x2_Reverse_EL23-22BUSRSYGC-S530-A2-TR8/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/samdolt/kicad-fp/LED_x2_Reverse_EL23-22BUSRSYGC-S530-A2-TR8/working
   name: kicad-fp.pretty
+  oomp:
+    footprint_name: led_x2_reverse_el23_22busrsygc_s530_a2_tr8
+    library_name: kicad_fp
+    md5: f7f96fe74df206cfa26ea9299ee2b10a
+    md5_10: f7f96fe74d
+    md5_5: f7f96
+    md5_6: f7f96f
+    oomp_key: oomp_samdolt_kicad_fp_led_x2_reverse_el23_22busrsygc_s530_a2_tr8
+    oomp_key_extra: oomp_footprint_samdolt_kicad_fp_led_x2_reverse_el23_22busrsygc_s530_a2_tr8
+    oomp_key_full: oomp_footprint_samdolt_kicad_fp_led_x2_reverse_el23_22busrsygc_s530_a2_tr8_f7f96f
+    oomp_key_simple: samdolt_kicad_fp_led_x2_reverse_el23_22busrsygc_s530_a2_tr8
+    original_filename: kicad-fp.pretty/LED_x2_Reverse_EL23-22BUSRSYGC-S530-A2-TR8.kicad_mod
+    owner_name: samdolt
   oomp_key: oomp_samdolt_kicad_fp_led_x2_reverse_el23_22busrsygc_s530_a2_tr8
+  oomp_key_full: oomp_footprint_samdolt_kicad_fp_led_x2_reverse_el23_22busrsygc_s530_a2_tr8
   oomp_key_simple: samdolt_kicad_fp_led_x2_reverse_el23_22busrsygc_s530_a2_tr8
   owner: samdolt
   repo:

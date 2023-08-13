@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/kikaiken/kicad_smd.pretty
     oomp_bot: footprints/kikaiken_kicad_smd_sot_23/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kikaiken_kicad_smd_sot_23/working
-    oomp_doc: footprints/footprints/kikaiken/kicad_smd/SOT-23/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kikaiken/kicad_smd/SOT-23/working
     oomp_src_flat: footprints_flat/footprints_flat/kikaiken_kicad_smd_sot_23/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kikaiken_kicad_smd_sot_23/working
-    oomp_src_folder: footprints_folder/footprints_folder/kikaiken/kicad_smd/SOT-23/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kikaiken/kicad_smd/SOT-23/working
   name: kicad_smd.pretty
+  oomp:
+    footprint_name: sot_23
+    library_name: kicad_smd
+    md5: 2e3fcec8ff4717a90299c08fb460c18b
+    md5_10: 2e3fcec8ff
+    md5_5: 2e3fc
+    md5_6: 2e3fce
+    oomp_key: oomp_kikaiken_kicad_smd_sot_23
+    oomp_key_extra: oomp_footprint_kikaiken_kicad_smd_sot_23
+    oomp_key_full: oomp_footprint_kikaiken_kicad_smd_sot_23_2e3fce
+    oomp_key_simple: kikaiken_kicad_smd_sot_23
+    original_filename: kicad_smd.pretty/SOT-23.kicad_mod
+    owner_name: kikaiken
   oomp_key: oomp_kikaiken_kicad_smd_sot_23
+  oomp_key_full: oomp_footprint_kikaiken_kicad_smd_sot_23
   oomp_key_simple: kikaiken_kicad_smd_sot_23
   owner: kikaiken
   repo:

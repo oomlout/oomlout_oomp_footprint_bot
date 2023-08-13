@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/graycatlabs_graycatlabs_mh_m4/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/graycatlabs_graycatlabs_mh_m4/working
-    oomp_doc: footprints/footprints/graycatlabs/GrayCatLabs/MH-M4/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/graycatlabs/GrayCatLabs/MH-M4/working
     oomp_src_flat: footprints_flat/footprints_flat/graycatlabs_graycatlabs_mh_m4/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/graycatlabs_graycatlabs_mh_m4/working
-    oomp_src_folder: footprints_folder/footprints_folder/graycatlabs/GrayCatLabs/MH-M4/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/graycatlabs/GrayCatLabs/MH-M4/working
   name: GrayCatLabs.pretty
+  oomp:
+    footprint_name: mh_m4
+    library_name: graycatlabs
+    md5: 1447562cd4b9fff8d17f12a572c35c21
+    md5_10: 1447562cd4
+    md5_5: '14475'
+    md5_6: '144756'
+    oomp_key: oomp_graycatlabs_graycatlabs_mh_m4
+    oomp_key_extra: oomp_footprint_graycatlabs_graycatlabs_mh_m4
+    oomp_key_full: oomp_footprint_graycatlabs_graycatlabs_mh_m4_144756
+    oomp_key_simple: graycatlabs_graycatlabs_mh_m4
+    original_filename: GrayCatLabs.pretty/MH-M4.kicad_mod
+    owner_name: graycatlabs
   oomp_key: oomp_graycatlabs_graycatlabs_mh_m4
+  oomp_key_full: oomp_footprint_graycatlabs_graycatlabs_mh_m4
   oomp_key_simple: graycatlabs_graycatlabs_mh_m4
   owner: graycatlabs
   repo:

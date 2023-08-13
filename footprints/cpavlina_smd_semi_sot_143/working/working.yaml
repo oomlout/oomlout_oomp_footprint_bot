@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cpavlina_smd_semi_sot_143/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cpavlina_smd_semi_sot_143/working
-    oomp_doc: footprints/footprints/cpavlina/smd-semi/SOT-143/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cpavlina/smd-semi/SOT-143/working
     oomp_src_flat: footprints_flat/footprints_flat/cpavlina_smd_semi_sot_143/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cpavlina_smd_semi_sot_143/working
-    oomp_src_folder: footprints_folder/footprints_folder/cpavlina/smd-semi/SOT-143/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cpavlina/smd-semi/SOT-143/working
   name: kicad-pcblib
+  oomp:
+    footprint_name: sot_143
+    library_name: smd_semi
+    md5: 226da9144f095416bacdcfc0a213d9a3
+    md5_10: 226da9144f
+    md5_5: 226da
+    md5_6: 226da9
+    oomp_key: oomp_cpavlina_smd_semi_sot_143
+    oomp_key_extra: oomp_footprint_cpavlina_smd_semi_sot_143
+    oomp_key_full: oomp_footprint_cpavlina_smd_semi_sot_143_226da9
+    oomp_key_simple: cpavlina_smd_semi_sot_143
+    original_filename: kicad-pcblib/smd-semi.pretty/SOT-143.kicad_mod
+    owner_name: cpavlina
   oomp_key: oomp_cpavlina_smd_semi_sot_143
+  oomp_key_full: oomp_footprint_cpavlina_smd_semi_sot_143
   oomp_key_simple: cpavlina_smd_semi_sot_143
   owner: cpavlina
   repo:

@@ -11,17 +11,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_symbol_symbol_highvoltage_type2_coppertop_verysmall/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_symbol_symbol_highvoltage_type2_coppertop_verysmall/working
-    oomp_doc: footprints/footprints/kicad/Symbol/Symbol_HighVoltage_Type2_CopperTop_VerySmall/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Symbol/Symbol_HighVoltage_Type2_CopperTop_VerySmall/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_symbol_symbol_highvoltage_type2_coppertop_verysmall/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_symbol_symbol_highvoltage_type2_coppertop_verysmall/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Symbol/Symbol_HighVoltage_Type2_CopperTop_VerySmall/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Symbol/Symbol_HighVoltage_Type2_CopperTop_VerySmall/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: symbol_highvoltage_type2_coppertop_verysmall
+    library_name: symbol
+    md5: ab32cefa00a822799037a6c5ee9e17bc
+    md5_10: ab32cefa00
+    md5_5: ab32c
+    md5_6: ab32ce
+    oomp_key: oomp_kicad_symbol_symbol_highvoltage_type2_coppertop_verysmall
+    oomp_key_extra: oomp_footprint_kicad_symbol_symbol_highvoltage_type2_coppertop_verysmall
+    oomp_key_full: oomp_footprint_kicad_symbol_symbol_highvoltage_type2_coppertop_verysmall_ab32ce
+    oomp_key_simple: kicad_symbol_symbol_highvoltage_type2_coppertop_verysmall
+    original_filename: libraries/kicad-footprints/Symbol.pretty/Symbol_HighVoltage_Type2_CopperTop_VerySmall.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_symbol_symbol_highvoltage_type2_coppertop_verysmall
+  oomp_key_full: oomp_footprint_kicad_symbol_symbol_highvoltage_type2_coppertop_verysmall
   oomp_key_simple: kicad_symbol_symbol_highvoltage_type2_coppertop_verysmall
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

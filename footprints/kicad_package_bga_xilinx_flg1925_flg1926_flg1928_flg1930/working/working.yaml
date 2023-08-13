@@ -12,17 +12,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_package_bga_xilinx_flg1925_flg1926_flg1928_flg1930/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_package_bga_xilinx_flg1925_flg1926_flg1928_flg1930/working
-    oomp_doc: footprints/footprints/kicad/Package_BGA/Xilinx_FLG1925_FLG1926_FLG1928_FLG1930/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Package_BGA/Xilinx_FLG1925_FLG1926_FLG1928_FLG1930/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_package_bga_xilinx_flg1925_flg1926_flg1928_flg1930/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_package_bga_xilinx_flg1925_flg1926_flg1928_flg1930/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Package_BGA/Xilinx_FLG1925_FLG1926_FLG1928_FLG1930/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Package_BGA/Xilinx_FLG1925_FLG1926_FLG1928_FLG1930/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: xilinx_flg1925_flg1926_flg1928_flg1930
+    library_name: package_bga
+    md5: 5b3d3dec6db3ae1979802d12c0cff8e6
+    md5_10: 5b3d3dec6d
+    md5_5: 5b3d3
+    md5_6: 5b3d3d
+    oomp_key: oomp_kicad_package_bga_xilinx_flg1925_flg1926_flg1928_flg1930
+    oomp_key_extra: oomp_footprint_kicad_package_bga_xilinx_flg1925_flg1926_flg1928_flg1930
+    oomp_key_full: oomp_footprint_kicad_package_bga_xilinx_flg1925_flg1926_flg1928_flg1930_5b3d3d
+    oomp_key_simple: kicad_package_bga_xilinx_flg1925_flg1926_flg1928_flg1930
+    original_filename: libraries/kicad-footprints/Package_BGA.pretty/Xilinx_FLG1925_FLG1926_FLG1928_FLG1930.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_package_bga_xilinx_flg1925_flg1926_flg1928_flg1930
+  oomp_key_full: oomp_footprint_kicad_package_bga_xilinx_flg1925_flg1926_flg1928_flg1930
   oomp_key_simple: kicad_package_bga_xilinx_flg1925_flg1926_flg1928_flg1930
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

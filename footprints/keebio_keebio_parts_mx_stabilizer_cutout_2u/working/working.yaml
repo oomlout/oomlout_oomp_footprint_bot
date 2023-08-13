@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/keebio_keebio_parts_mx_stabilizer_cutout_2u/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/keebio_keebio_parts_mx_stabilizer_cutout_2u/working
-    oomp_doc: footprints/footprints/keebio/Keebio-Parts/MX_Stabilizer_Cutout-2u/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/keebio/Keebio-Parts/MX_Stabilizer_Cutout-2u/working
     oomp_src_flat: footprints_flat/footprints_flat/keebio_keebio_parts_mx_stabilizer_cutout_2u/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/keebio_keebio_parts_mx_stabilizer_cutout_2u/working
-    oomp_src_folder: footprints_folder/footprints_folder/keebio/Keebio-Parts/MX_Stabilizer_Cutout-2u/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/keebio/Keebio-Parts/MX_Stabilizer_Cutout-2u/working
   name: Keebio-Parts.pretty
+  oomp:
+    footprint_name: mx_stabilizer_cutout_2u
+    library_name: keebio_parts
+    md5: 59f11a2cc716de6060ff2cbc2397bc35
+    md5_10: 59f11a2cc7
+    md5_5: 59f11
+    md5_6: 59f11a
+    oomp_key: oomp_keebio_keebio_parts_mx_stabilizer_cutout_2u
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_mx_stabilizer_cutout_2u
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_mx_stabilizer_cutout_2u_59f11a
+    oomp_key_simple: keebio_keebio_parts_mx_stabilizer_cutout_2u
+    original_filename: Keebio-Parts.pretty/MX_Stabilizer_Cutout-2u.kicad_mod
+    owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_mx_stabilizer_cutout_2u
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_mx_stabilizer_cutout_2u
   oomp_key_simple: keebio_keebio_parts_mx_stabilizer_cutout_2u
   owner: keebio
   repo:

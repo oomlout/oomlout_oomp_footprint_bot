@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/electroniccats_signalcommunications_signalcommunications_vartvsp_sma_do_214ac_uni/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/electroniccats_signalcommunications_signalcommunications_vartvsp_sma_do_214ac_uni/working
-    oomp_doc: footprints/footprints/ElectronicCats/SignalCommunications/SignalCommunications-VARTVSP_SMA_DO-214AC_UNI/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ElectronicCats/SignalCommunications/SignalCommunications-VARTVSP_SMA_DO-214AC_UNI/working
     oomp_src_flat: footprints_flat/footprints_flat/electroniccats_signalcommunications_signalcommunications_vartvsp_sma_do_214ac_uni/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/electroniccats_signalcommunications_signalcommunications_vartvsp_sma_do_214ac_uni/working
-    oomp_src_folder: footprints_folder/footprints_folder/ElectronicCats/SignalCommunications/SignalCommunications-VARTVSP_SMA_DO-214AC_UNI/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ElectronicCats/SignalCommunications/SignalCommunications-VARTVSP_SMA_DO-214AC_UNI/working
   name: ComponentLibrariesKicadWurthElektronik
+  oomp:
+    footprint_name: signalcommunications_vartvsp_sma_do_214ac_uni
+    library_name: signalcommunications
+    md5: 81b9f777cf58ddd6dc61a3b346b99ebf
+    md5_10: 81b9f777cf
+    md5_5: 81b9f
+    md5_6: 81b9f7
+    oomp_key: oomp_electroniccats_signalcommunications_signalcommunications_vartvsp_sma_do_214ac_uni
+    oomp_key_extra: oomp_footprint_electroniccats_signalcommunications_signalcommunications_vartvsp_sma_do_214ac_uni
+    oomp_key_full: oomp_footprint_electroniccats_signalcommunications_signalcommunications_vartvsp_sma_do_214ac_uni_81b9f7
+    oomp_key_simple: electroniccats_signalcommunications_signalcommunications_vartvsp_sma_do_214ac_uni
+    original_filename: ComponentLibrariesKicadWurthElektronik/SIGNAL-COMMUNICATIONS-rev18a/SignalCommunications.pretty/SignalCommunications-VARTVSP_SMA_DO-214AC_UNI.kicad_mod
+    owner_name: electroniccats
   oomp_key: oomp_electroniccats_signalcommunications_signalcommunications_vartvsp_sma_do_214ac_uni
+  oomp_key_full: oomp_footprint_electroniccats_signalcommunications_signalcommunications_vartvsp_sma_do_214ac_uni
   oomp_key_simple: electroniccats_signalcommunications_signalcommunications_vartvsp_sma_do_214ac_uni
   owner: ElectronicCats
   repo:

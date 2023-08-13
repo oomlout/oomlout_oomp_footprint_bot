@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/codemercenary_os_kicad_batt_9v_th/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/codemercenary_os_kicad_batt_9v_th/working
-    oomp_doc: footprints/footprints/codemercenary-os/kicad/BATT_9V_TH/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/codemercenary-os/kicad/BATT_9V_TH/working
     oomp_src_flat: footprints_flat/footprints_flat/codemercenary_os_kicad_batt_9v_th/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/codemercenary_os_kicad_batt_9v_th/working
-    oomp_src_folder: footprints_folder/footprints_folder/codemercenary-os/kicad/BATT_9V_TH/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/codemercenary-os/kicad/BATT_9V_TH/working
   name: kicad.pretty
+  oomp:
+    footprint_name: batt_9v_th
+    library_name: kicad
+    md5: fed0dd482eb25ab7ddef7fe05cc8e2a4
+    md5_10: fed0dd482e
+    md5_5: fed0d
+    md5_6: fed0dd
+    oomp_key: oomp_codemercenary_os_kicad_batt_9v_th
+    oomp_key_extra: oomp_footprint_codemercenary_os_kicad_batt_9v_th
+    oomp_key_full: oomp_footprint_codemercenary_os_kicad_batt_9v_th_fed0dd
+    oomp_key_simple: codemercenary_os_kicad_batt_9v_th
+    original_filename: kicad.pretty/BATT_9V_TH.kicad_mod
+    owner_name: codemercenary_os
   oomp_key: oomp_codemercenary_os_kicad_batt_9v_th
+  oomp_key_full: oomp_footprint_codemercenary_os_kicad_batt_9v_th
   oomp_key_simple: codemercenary_os_kicad_batt_9v_th
   owner: codemercenary-os
   repo:

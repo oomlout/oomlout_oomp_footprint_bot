@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/newam_newam_poe_addon/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/newam_newam_poe_addon/working
-    oomp_doc: footprints/footprints/newAM/newam/poe-addon/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/newAM/newam/poe-addon/working
     oomp_src_flat: footprints_flat/footprints_flat/newam_newam_poe_addon/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/newam_newam_poe_addon/working
-    oomp_src_folder: footprints_folder/footprints_folder/newAM/newam/poe-addon/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/newAM/newam/poe-addon/working
   name: newam.pretty
+  oomp:
+    footprint_name: poe_addon
+    library_name: newam
+    md5: bf6e3669bb81e6d9b8ed57e72ea83cd7
+    md5_10: bf6e3669bb
+    md5_5: bf6e3
+    md5_6: bf6e36
+    oomp_key: oomp_newam_newam_poe_addon
+    oomp_key_extra: oomp_footprint_newam_newam_poe_addon
+    oomp_key_full: oomp_footprint_newam_newam_poe_addon_bf6e36
+    oomp_key_simple: newam_newam_poe_addon
+    original_filename: newam.pretty/poe-addon.kicad_mod
+    owner_name: newam
   oomp_key: oomp_newam_newam_poe_addon
+  oomp_key_full: oomp_footprint_newam_newam_poe_addon
   oomp_key_simple: newam_newam_poe_addon
   owner: newAM
   repo:

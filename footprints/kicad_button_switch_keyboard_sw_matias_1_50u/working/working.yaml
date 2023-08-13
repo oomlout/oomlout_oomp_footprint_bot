@@ -11,17 +11,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_button_switch_keyboard_sw_matias_1_50u/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_button_switch_keyboard_sw_matias_1_50u/working
-    oomp_doc: footprints/footprints/kicad/Button_Switch_Keyboard/SW_Matias_1.50u/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Button_Switch_Keyboard/SW_Matias_1.50u/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_button_switch_keyboard_sw_matias_1_50u/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_button_switch_keyboard_sw_matias_1_50u/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Button_Switch_Keyboard/SW_Matias_1.50u/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Button_Switch_Keyboard/SW_Matias_1.50u/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: sw_matias_1_50u
+    library_name: button_switch_keyboard
+    md5: 11fec1e269cf739fe56d33a4d28c1ef0
+    md5_10: 11fec1e269
+    md5_5: 11fec
+    md5_6: 11fec1
+    oomp_key: oomp_kicad_button_switch_keyboard_sw_matias_1_50u
+    oomp_key_extra: oomp_footprint_kicad_button_switch_keyboard_sw_matias_1_50u
+    oomp_key_full: oomp_footprint_kicad_button_switch_keyboard_sw_matias_1_50u_11fec1
+    oomp_key_simple: kicad_button_switch_keyboard_sw_matias_1_50u
+    original_filename: libraries/kicad-footprints/Button_Switch_Keyboard.pretty/SW_Matias_1.50u.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_button_switch_keyboard_sw_matias_1_50u
+  oomp_key_full: oomp_footprint_kicad_button_switch_keyboard_sw_matias_1_50u
   oomp_key_simple: kicad_button_switch_keyboard_sw_matias_1_50u
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

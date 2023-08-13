@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/celeritous_kicad_conn_dc_coax_ra_locking/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/celeritous_kicad_conn_dc_coax_ra_locking/working
-    oomp_doc: footprints/footprints/celeritous/KiCad/CONN_DC_COAX_RA_LOCKING/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/celeritous/KiCad/CONN_DC_COAX_RA_LOCKING/working
     oomp_src_flat: footprints_flat/footprints_flat/celeritous_kicad_conn_dc_coax_ra_locking/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/celeritous_kicad_conn_dc_coax_ra_locking/working
-    oomp_src_folder: footprints_folder/footprints_folder/celeritous/KiCad/CONN_DC_COAX_RA_LOCKING/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/celeritous/KiCad/CONN_DC_COAX_RA_LOCKING/working
   name: KiCad.pretty
+  oomp:
+    footprint_name: conn_dc_coax_ra_locking
+    library_name: kicad
+    md5: d484314d70418fcf27183b5d1383090c
+    md5_10: d484314d70
+    md5_5: d4843
+    md5_6: d48431
+    oomp_key: oomp_celeritous_kicad_conn_dc_coax_ra_locking
+    oomp_key_extra: oomp_footprint_celeritous_kicad_conn_dc_coax_ra_locking
+    oomp_key_full: oomp_footprint_celeritous_kicad_conn_dc_coax_ra_locking_d48431
+    oomp_key_simple: celeritous_kicad_conn_dc_coax_ra_locking
+    original_filename: KiCad.pretty/CONN_DC_COAX_RA_LOCKING.kicad_mod
+    owner_name: celeritous
   oomp_key: oomp_celeritous_kicad_conn_dc_coax_ra_locking
+  oomp_key_full: oomp_footprint_celeritous_kicad_conn_dc_coax_ra_locking
   oomp_key_simple: celeritous_kicad_conn_dc_coax_ra_locking
   owner: celeritous
   repo:

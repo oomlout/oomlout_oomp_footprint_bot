@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/hairymnstr_nathan_smt_passive_sm0805/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/hairymnstr_nathan_smt_passive_sm0805/working
-    oomp_doc: footprints/footprints/hairymnstr/Nathan_SMT_Passive/SM0805/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/hairymnstr/Nathan_SMT_Passive/SM0805/working
     oomp_src_flat: footprints_flat/footprints_flat/hairymnstr_nathan_smt_passive_sm0805/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/hairymnstr_nathan_smt_passive_sm0805/working
-    oomp_src_folder: footprints_folder/footprints_folder/hairymnstr/Nathan_SMT_Passive/SM0805/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/hairymnstr/Nathan_SMT_Passive/SM0805/working
   name: Nathan_SMT_Passive.pretty
+  oomp:
+    footprint_name: sm0805
+    library_name: nathan_smt_passive
+    md5: 048ed4d518dc9754a81e02930a517cdf
+    md5_10: 048ed4d518
+    md5_5: 048ed
+    md5_6: 048ed4
+    oomp_key: oomp_hairymnstr_nathan_smt_passive_sm0805
+    oomp_key_extra: oomp_footprint_hairymnstr_nathan_smt_passive_sm0805
+    oomp_key_full: oomp_footprint_hairymnstr_nathan_smt_passive_sm0805_048ed4
+    oomp_key_simple: hairymnstr_nathan_smt_passive_sm0805
+    original_filename: Nathan_SMT_Passive.pretty/SM0805.kicad_mod
+    owner_name: hairymnstr
   oomp_key: oomp_hairymnstr_nathan_smt_passive_sm0805
+  oomp_key_full: oomp_footprint_hairymnstr_nathan_smt_passive_sm0805
   oomp_key_simple: hairymnstr_nathan_smt_passive_sm0805
   owner: hairymnstr
   repo:

@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/aaronw2/Torex_Semi.pretty
     oomp_bot: footprints/aaronw2_torex_semi_cl_2025_02/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/aaronw2_torex_semi_cl_2025_02/working
-    oomp_doc: footprints/footprints/aaronw2/Torex_Semi/CL-2025-02/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/aaronw2/Torex_Semi/CL-2025-02/working
     oomp_src_flat: footprints_flat/footprints_flat/aaronw2_torex_semi_cl_2025_02/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/aaronw2_torex_semi_cl_2025_02/working
-    oomp_src_folder: footprints_folder/footprints_folder/aaronw2/Torex_Semi/CL-2025-02/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/aaronw2/Torex_Semi/CL-2025-02/working
   name: Torex_Semi.pretty
+  oomp:
+    footprint_name: cl_2025_02
+    library_name: torex_semi
+    md5: b7419ce64d4829fedb21605cb5e62749
+    md5_10: b7419ce64d
+    md5_5: b7419
+    md5_6: b7419c
+    oomp_key: oomp_aaronw2_torex_semi_cl_2025_02
+    oomp_key_extra: oomp_footprint_aaronw2_torex_semi_cl_2025_02
+    oomp_key_full: oomp_footprint_aaronw2_torex_semi_cl_2025_02_b7419c
+    oomp_key_simple: aaronw2_torex_semi_cl_2025_02
+    original_filename: Torex_Semi.pretty/CL-2025-02.kicad_mod
+    owner_name: aaronw2
   oomp_key: oomp_aaronw2_torex_semi_cl_2025_02
+  oomp_key_full: oomp_footprint_aaronw2_torex_semi_cl_2025_02
   oomp_key_simple: aaronw2_torex_semi_cl_2025_02
   owner: aaronw2
   repo:

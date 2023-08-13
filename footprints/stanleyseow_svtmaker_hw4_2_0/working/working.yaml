@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/stanleyseow_svtmaker_hw4_2_0/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stanleyseow_svtmaker_hw4_2_0/working
-    oomp_doc: footprints/footprints/stanleyseow/SVTmaker/HW4-2.0/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/stanleyseow/SVTmaker/HW4-2.0/working
     oomp_src_flat: footprints_flat/footprints_flat/stanleyseow_svtmaker_hw4_2_0/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/stanleyseow_svtmaker_hw4_2_0/working
-    oomp_src_folder: footprints_folder/footprints_folder/stanleyseow/SVTmaker/HW4-2.0/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/stanleyseow/SVTmaker/HW4-2.0/working
   name: SVTmaker.pretty
+  oomp:
+    footprint_name: hw4_2_0
+    library_name: svtmaker
+    md5: 8195fc7f24ab8ae34dd5d8fa7952288c
+    md5_10: 8195fc7f24
+    md5_5: 8195f
+    md5_6: 8195fc
+    oomp_key: oomp_stanleyseow_svtmaker_hw4_2_0
+    oomp_key_extra: oomp_footprint_stanleyseow_svtmaker_hw4_2_0
+    oomp_key_full: oomp_footprint_stanleyseow_svtmaker_hw4_2_0_8195fc
+    oomp_key_simple: stanleyseow_svtmaker_hw4_2_0
+    original_filename: SVTmaker.pretty/HW4-2.0.kicad_mod
+    owner_name: stanleyseow
   oomp_key: oomp_stanleyseow_svtmaker_hw4_2_0
+  oomp_key_full: oomp_footprint_stanleyseow_svtmaker_hw4_2_0
   oomp_key_simple: stanleyseow_svtmaker_hw4_2_0
   owner: stanleyseow
   repo:

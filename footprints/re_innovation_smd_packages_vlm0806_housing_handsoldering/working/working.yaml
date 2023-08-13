@@ -13,14 +13,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/re_innovation_smd_packages_vlm0806_housing_handsoldering/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/re_innovation_smd_packages_vlm0806_housing_handsoldering/working
-    oomp_doc: footprints/footprints/re-innovation/SMD_Packages/VLM0806_Housing_Handsoldering/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/re-innovation/SMD_Packages/VLM0806_Housing_Handsoldering/working
     oomp_src_flat: footprints_flat/footprints_flat/re_innovation_smd_packages_vlm0806_housing_handsoldering/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/re_innovation_smd_packages_vlm0806_housing_handsoldering/working
-    oomp_src_folder: footprints_folder/footprints_folder/re-innovation/SMD_Packages/VLM0806_Housing_Handsoldering/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/re-innovation/SMD_Packages/VLM0806_Housing_Handsoldering/working
   name: kicad_reinnovation
+  oomp:
+    footprint_name: vlm0806_housing_handsoldering
+    library_name: smd_packages
+    md5: 0aa15d49e56393a16d76d803520faf14
+    md5_10: 0aa15d49e5
+    md5_5: 0aa15
+    md5_6: 0aa15d
+    oomp_key: oomp_re_innovation_smd_packages_vlm0806_housing_handsoldering
+    oomp_key_extra: oomp_footprint_re_innovation_smd_packages_vlm0806_housing_handsoldering
+    oomp_key_full: oomp_footprint_re_innovation_smd_packages_vlm0806_housing_handsoldering_0aa15d
+    oomp_key_simple: re_innovation_smd_packages_vlm0806_housing_handsoldering
+    original_filename: kicad_reinnovation/KiCAD PRETTY/SMD_Packages.pretty/VLM0806_Housing_Handsoldering.kicad_mod
+    owner_name: re_innovation
   oomp_key: oomp_re_innovation_smd_packages_vlm0806_housing_handsoldering
+  oomp_key_full: oomp_footprint_re_innovation_smd_packages_vlm0806_housing_handsoldering
   oomp_key_simple: re_innovation_smd_packages_vlm0806_housing_handsoldering
   owner: re-innovation
   repo:

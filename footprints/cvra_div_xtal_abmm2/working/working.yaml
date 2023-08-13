@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cvra_div_xtal_abmm2/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cvra_div_xtal_abmm2/working
-    oomp_doc: footprints/footprints/cvra/_div/XTAL_ABMM2/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cvra/_div/XTAL_ABMM2/working
     oomp_src_flat: footprints_flat/footprints_flat/cvra_div_xtal_abmm2/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cvra_div_xtal_abmm2/working
-    oomp_src_folder: footprints_folder/footprints_folder/cvra/_div/XTAL_ABMM2/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cvra/_div/XTAL_ABMM2/working
   name: kicad-lib
+  oomp:
+    footprint_name: xtal_abmm2
+    library_name: _div
+    md5: 748a5868932995ed6a0847b74cfd0253
+    md5_10: 748a586893
+    md5_5: 748a5
+    md5_6: 748a58
+    oomp_key: oomp_cvra_div_xtal_abmm2
+    oomp_key_extra: oomp_footprint_cvra_div_xtal_abmm2
+    oomp_key_full: oomp_footprint_cvra_div_xtal_abmm2_748a58
+    oomp_key_simple: cvra_div_xtal_abmm2
+    original_filename: kicad-lib/footprints/_div.pretty/XTAL_ABMM2.kicad_mod
+    owner_name: cvra
   oomp_key: oomp_cvra_div_xtal_abmm2
+  oomp_key_full: oomp_footprint_cvra_div_xtal_abmm2
   oomp_key_simple: cvra_div_xtal_abmm2
   owner: cvra
   repo:

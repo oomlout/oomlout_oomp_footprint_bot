@@ -11,17 +11,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_calibration_scale_gauge_10mm_type4_silkscreentop/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_calibration_scale_gauge_10mm_type4_silkscreentop/working
-    oomp_doc: footprints/footprints/kicad/Calibration_Scale/Gauge_10mm_Type4_SilkScreenTop/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Calibration_Scale/Gauge_10mm_Type4_SilkScreenTop/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_calibration_scale_gauge_10mm_type4_silkscreentop/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_calibration_scale_gauge_10mm_type4_silkscreentop/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Calibration_Scale/Gauge_10mm_Type4_SilkScreenTop/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Calibration_Scale/Gauge_10mm_Type4_SilkScreenTop/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: gauge_10mm_type4_silkscreentop
+    library_name: calibration_scale
+    md5: 7e9b312f5e3c9ff8563d67d27626d54a
+    md5_10: 7e9b312f5e
+    md5_5: 7e9b3
+    md5_6: 7e9b31
+    oomp_key: oomp_kicad_calibration_scale_gauge_10mm_type4_silkscreentop
+    oomp_key_extra: oomp_footprint_kicad_calibration_scale_gauge_10mm_type4_silkscreentop
+    oomp_key_full: oomp_footprint_kicad_calibration_scale_gauge_10mm_type4_silkscreentop_7e9b31
+    oomp_key_simple: kicad_calibration_scale_gauge_10mm_type4_silkscreentop
+    original_filename: libraries/kicad-footprints/Calibration_Scale.pretty/Gauge_10mm_Type4_SilkScreenTop.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_calibration_scale_gauge_10mm_type4_silkscreentop
+  oomp_key_full: oomp_footprint_kicad_calibration_scale_gauge_10mm_type4_silkscreentop
   oomp_key_simple: kicad_calibration_scale_gauge_10mm_type4_silkscreentop
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

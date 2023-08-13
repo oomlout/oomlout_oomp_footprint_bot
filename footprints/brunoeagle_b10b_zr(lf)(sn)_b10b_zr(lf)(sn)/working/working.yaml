@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_b10b_zr(lf)(sn)_b10b_zr(lf)(sn)/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_b10b_zr(lf)(sn)_b10b_zr(lf)(sn)/working
-    oomp_doc: footprints/footprints/brunoeagle/B10B-ZR(LF)(SN).kicad_mod/B10B-ZR(LF)(SN)/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/B10B-ZR(LF)(SN).kicad_mod/B10B-ZR(LF)(SN)/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_b10b_zr(lf)(sn)_b10b_zr(lf)(sn)/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_b10b_zr(lf)(sn)_b10b_zr(lf)(sn)/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/B10B-ZR(LF)(SN).kicad_mod/B10B-ZR(LF)(SN)/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/B10B-ZR(LF)(SN).kicad_mod/B10B-ZR(LF)(SN)/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: b10b_zr(lf)(sn)
+    library_name: b10b_zr(lf)(sn)_kicad_mod
+    md5: dfb97b560e04413d40b09f011ed465ed
+    md5_10: dfb97b560e
+    md5_5: dfb97
+    md5_6: dfb97b
+    oomp_key: oomp_brunoeagle_b10b_zr(lf)(sn)_b10b_zr(lf)(sn)
+    oomp_key_extra: oomp_footprint_brunoeagle_b10b_zr(lf)(sn)_b10b_zr(lf)(sn)
+    oomp_key_full: oomp_footprint_brunoeagle_b10b_zr(lf)(sn)_b10b_zr(lf)(sn)_dfb97b
+    oomp_key_simple: brunoeagle_b10b_zr(lf)(sn)_b10b_zr(lf)(sn)
+    original_filename: kicad-open-modules/B10B-ZR(LF)(SN).kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_b10b_zr(lf)(sn)_b10b_zr(lf)(sn)
+  oomp_key_full: oomp_footprint_brunoeagle_b10b_zr(lf)(sn)_b10b_zr(lf)(sn)
   oomp_key_simple: brunoeagle_b10b_zr(lf)(sn)_b10b_zr(lf)(sn)
   owner: brunoeagle
   repo:

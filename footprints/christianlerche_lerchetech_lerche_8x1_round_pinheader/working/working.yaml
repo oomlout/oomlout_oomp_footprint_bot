@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/christianlerche_lerchetech_lerche_8x1_round_pinheader/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/christianlerche_lerchetech_lerche_8x1_round_pinheader/working
-    oomp_doc: footprints/footprints/ChristianLerche/LercheTech/Lerche_8x1_Round_Pinheader/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ChristianLerche/LercheTech/Lerche_8x1_Round_Pinheader/working
     oomp_src_flat: footprints_flat/footprints_flat/christianlerche_lerchetech_lerche_8x1_round_pinheader/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/christianlerche_lerchetech_lerche_8x1_round_pinheader/working
-    oomp_src_folder: footprints_folder/footprints_folder/ChristianLerche/LercheTech/Lerche_8x1_Round_Pinheader/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ChristianLerche/LercheTech/Lerche_8x1_Round_Pinheader/working
   name: LercheTech_KiCAD
+  oomp:
+    footprint_name: lerche_8x1_round_pinheader
+    library_name: lerchetech
+    md5: 62771d285f338871b34c2ece82956c0a
+    md5_10: 62771d285f
+    md5_5: '62771'
+    md5_6: 62771d
+    oomp_key: oomp_christianlerche_lerchetech_lerche_8x1_round_pinheader
+    oomp_key_extra: oomp_footprint_christianlerche_lerchetech_lerche_8x1_round_pinheader
+    oomp_key_full: oomp_footprint_christianlerche_lerchetech_lerche_8x1_round_pinheader_62771d
+    oomp_key_simple: christianlerche_lerchetech_lerche_8x1_round_pinheader
+    original_filename: LercheTech_KiCAD/LercheTech.pretty/Lerche_8x1_Round_Pinheader.kicad_mod
+    owner_name: christianlerche
   oomp_key: oomp_christianlerche_lerchetech_lerche_8x1_round_pinheader
+  oomp_key_full: oomp_footprint_christianlerche_lerchetech_lerche_8x1_round_pinheader
   oomp_key_simple: christianlerche_lerchetech_lerche_8x1_round_pinheader
   owner: ChristianLerche
   repo:

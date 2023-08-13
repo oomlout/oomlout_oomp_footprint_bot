@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/apexelectrix/Apex.pretty
     oomp_bot: footprints/apexelectrix_apex_sod128/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/apexelectrix_apex_sod128/working
-    oomp_doc: footprints/footprints/apexelectrix/Apex/SOD128/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/apexelectrix/Apex/SOD128/working
     oomp_src_flat: footprints_flat/footprints_flat/apexelectrix_apex_sod128/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/apexelectrix_apex_sod128/working
-    oomp_src_folder: footprints_folder/footprints_folder/apexelectrix/Apex/SOD128/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/apexelectrix/Apex/SOD128/working
   name: Apex.pretty
+  oomp:
+    footprint_name: sod128
+    library_name: apex
+    md5: 221c5a7aefe0f6f278173ce5dc22bcee
+    md5_10: 221c5a7aef
+    md5_5: 221c5
+    md5_6: 221c5a
+    oomp_key: oomp_apexelectrix_apex_sod128
+    oomp_key_extra: oomp_footprint_apexelectrix_apex_sod128
+    oomp_key_full: oomp_footprint_apexelectrix_apex_sod128_221c5a
+    oomp_key_simple: apexelectrix_apex_sod128
+    original_filename: Apex.pretty/SOD128.kicad_mod
+    owner_name: apexelectrix
   oomp_key: oomp_apexelectrix_apex_sod128
+  oomp_key_full: oomp_footprint_apexelectrix_apex_sod128
   oomp_key_simple: apexelectrix_apex_sod128
   owner: apexelectrix
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/digikey_digikey_footprints_vfqfn_64_1ep_9x9mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_digikey_footprints_vfqfn_64_1ep_9x9mm/working
-    oomp_doc: footprints/footprints/digikey/digikey-footprints/VFQFN-64-1EP_9x9mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/digikey/digikey-footprints/VFQFN-64-1EP_9x9mm/working
     oomp_src_flat: footprints_flat/footprints_flat/digikey_digikey_footprints_vfqfn_64_1ep_9x9mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/digikey_digikey_footprints_vfqfn_64_1ep_9x9mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/digikey/digikey-footprints/VFQFN-64-1EP_9x9mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/digikey/digikey-footprints/VFQFN-64-1EP_9x9mm/working
   name: digikey-kicad-library
+  oomp:
+    footprint_name: vfqfn_64_1ep_9x9mm
+    library_name: digikey_footprints
+    md5: f4b17d54fe22f8fde9b0983ce16b3163
+    md5_10: f4b17d54fe
+    md5_5: f4b17
+    md5_6: f4b17d
+    oomp_key: oomp_digikey_digikey_footprints_vfqfn_64_1ep_9x9mm
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_vfqfn_64_1ep_9x9mm
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_vfqfn_64_1ep_9x9mm_f4b17d
+    oomp_key_simple: digikey_digikey_footprints_vfqfn_64_1ep_9x9mm
+    original_filename: digikey-kicad-library/digikey-footprints.pretty/VFQFN-64-1EP_9x9mm.kicad_mod
+    owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_vfqfn_64_1ep_9x9mm
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_vfqfn_64_1ep_9x9mm
   oomp_key_simple: digikey_digikey_footprints_vfqfn_64_1ep_9x9mm
   owner: digikey
   repo:

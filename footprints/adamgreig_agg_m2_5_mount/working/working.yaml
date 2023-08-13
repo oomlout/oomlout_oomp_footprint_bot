@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/adamgreig/agg-kicad
     oomp_bot: footprints/adamgreig_agg_m2_5_mount/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/adamgreig_agg_m2_5_mount/working
-    oomp_doc: footprints/footprints/adamgreig/agg/M2.5_MOUNT/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/adamgreig/agg/M2.5_MOUNT/working
     oomp_src_flat: footprints_flat/footprints_flat/adamgreig_agg_m2_5_mount/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/adamgreig_agg_m2_5_mount/working
-    oomp_src_folder: footprints_folder/footprints_folder/adamgreig/agg/M2.5_MOUNT/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/adamgreig/agg/M2.5_MOUNT/working
   name: agg-kicad
+  oomp:
+    footprint_name: m2_5_mount
+    library_name: agg
+    md5: 2805836835cfdebc34c9e029c3a3081c
+    md5_10: '2805836835'
+    md5_5: '28058'
+    md5_6: '280583'
+    oomp_key: oomp_adamgreig_agg_m2_5_mount
+    oomp_key_extra: oomp_footprint_adamgreig_agg_m2_5_mount
+    oomp_key_full: oomp_footprint_adamgreig_agg_m2_5_mount_280583
+    oomp_key_simple: adamgreig_agg_m2_5_mount
+    original_filename: agg-kicad/agg.pretty/M2.5_MOUNT.kicad_mod
+    owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_m2_5_mount
+  oomp_key_full: oomp_footprint_adamgreig_agg_m2_5_mount
   oomp_key_simple: adamgreig_agg_m2_5_mount
   owner: adamgreig
   repo:

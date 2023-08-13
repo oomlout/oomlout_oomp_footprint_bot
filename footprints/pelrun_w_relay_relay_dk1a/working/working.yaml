@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pelrun_w_relay_relay_dk1a/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pelrun_w_relay_relay_dk1a/working
-    oomp_doc: footprints/footprints/pelrun/w_relay/relay_DK1a/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/pelrun/w_relay/relay_DK1a/working
     oomp_src_flat: footprints_flat/footprints_flat/pelrun_w_relay_relay_dk1a/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pelrun_w_relay_relay_dk1a/working
-    oomp_src_folder: footprints_folder/footprints_folder/pelrun/w_relay/relay_DK1a/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/pelrun/w_relay/relay_DK1a/working
   name: libKiCad
+  oomp:
+    footprint_name: relay_dk1a
+    library_name: w_relay
+    md5: 37a96f72aa253a762497311fc12f43c6
+    md5_10: 37a96f72aa
+    md5_5: 37a96
+    md5_6: 37a96f
+    oomp_key: oomp_pelrun_w_relay_relay_dk1a
+    oomp_key_extra: oomp_footprint_pelrun_w_relay_relay_dk1a
+    oomp_key_full: oomp_footprint_pelrun_w_relay_relay_dk1a_37a96f
+    oomp_key_simple: pelrun_w_relay_relay_dk1a
+    original_filename: libKiCad/footprint/w_relay.pretty/relay_DK1a.kicad_mod
+    owner_name: pelrun
   oomp_key: oomp_pelrun_w_relay_relay_dk1a
+  oomp_key_full: oomp_footprint_pelrun_w_relay_relay_dk1a
   oomp_key_simple: pelrun_w_relay_relay_dk1a
   owner: pelrun
   repo:

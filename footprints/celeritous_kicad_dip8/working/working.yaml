@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/celeritous_kicad_dip8/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/celeritous_kicad_dip8/working
-    oomp_doc: footprints/footprints/celeritous/KiCad/DIP8/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/celeritous/KiCad/DIP8/working
     oomp_src_flat: footprints_flat/footprints_flat/celeritous_kicad_dip8/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/celeritous_kicad_dip8/working
-    oomp_src_folder: footprints_folder/footprints_folder/celeritous/KiCad/DIP8/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/celeritous/KiCad/DIP8/working
   name: KiCad.pretty
+  oomp:
+    footprint_name: dip8
+    library_name: kicad
+    md5: c2d9d17ec3b53b684e7a4c2cd8e3bce2
+    md5_10: c2d9d17ec3
+    md5_5: c2d9d
+    md5_6: c2d9d1
+    oomp_key: oomp_celeritous_kicad_dip8
+    oomp_key_extra: oomp_footprint_celeritous_kicad_dip8
+    oomp_key_full: oomp_footprint_celeritous_kicad_dip8_c2d9d1
+    oomp_key_simple: celeritous_kicad_dip8
+    original_filename: KiCad.pretty/DIP8.kicad_mod
+    owner_name: celeritous
   oomp_key: oomp_celeritous_kicad_dip8
+  oomp_key_full: oomp_footprint_celeritous_kicad_dip8
   oomp_key_simple: celeritous_kicad_dip8
   owner: celeritous
   repo:

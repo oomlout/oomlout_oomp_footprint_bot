@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/fruchti_conn_pinhead_1_23/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/fruchti_conn_pinhead_1_23/working
-    oomp_doc: footprints/footprints/fruchti/conn/PINHEAD_1_23/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/fruchti/conn/PINHEAD_1_23/working
     oomp_src_flat: footprints_flat/footprints_flat/fruchti_conn_pinhead_1_23/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/fruchti_conn_pinhead_1_23/working
-    oomp_src_folder: footprints_folder/footprints_folder/fruchti/conn/PINHEAD_1_23/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/fruchti/conn/PINHEAD_1_23/working
   name: fruchtilib
+  oomp:
+    footprint_name: pinhead_1_23
+    library_name: conn
+    md5: db2dda07d1cd071b3b3a6436e13a356b
+    md5_10: db2dda07d1
+    md5_5: db2dd
+    md5_6: db2dda
+    oomp_key: oomp_fruchti_conn_pinhead_1_23
+    oomp_key_extra: oomp_footprint_fruchti_conn_pinhead_1_23
+    oomp_key_full: oomp_footprint_fruchti_conn_pinhead_1_23_db2dda
+    oomp_key_simple: fruchti_conn_pinhead_1_23
+    original_filename: fruchtilib/mod/conn.pretty/PINHEAD_1_23.kicad_mod
+    owner_name: fruchti
   oomp_key: oomp_fruchti_conn_pinhead_1_23
+  oomp_key_full: oomp_footprint_fruchti_conn_pinhead_1_23
   oomp_key_simple: fruchti_conn_pinhead_1_23
   owner: fruchti
   repo:

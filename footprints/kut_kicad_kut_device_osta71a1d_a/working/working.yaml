@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/KUT-KiCad/KUT_Device.pretty
     oomp_bot: footprints/kut_kicad_kut_device_osta71a1d_a/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kut_kicad_kut_device_osta71a1d_a/working
-    oomp_doc: footprints/footprints/KUT-KiCad/KUT_Device/OSTA71A1D-A/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/KUT-KiCad/KUT_Device/OSTA71A1D-A/working
     oomp_src_flat: footprints_flat/footprints_flat/kut_kicad_kut_device_osta71a1d_a/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kut_kicad_kut_device_osta71a1d_a/working
-    oomp_src_folder: footprints_folder/footprints_folder/KUT-KiCad/KUT_Device/OSTA71A1D-A/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/KUT-KiCad/KUT_Device/OSTA71A1D-A/working
   name: KUT_Device.pretty
+  oomp:
+    footprint_name: osta71a1d_a
+    library_name: kut_device
+    md5: db75eefa739b5705987b2daa35597b05
+    md5_10: db75eefa73
+    md5_5: db75e
+    md5_6: db75ee
+    oomp_key: oomp_kut_kicad_kut_device_osta71a1d_a
+    oomp_key_extra: oomp_footprint_kut_kicad_kut_device_osta71a1d_a
+    oomp_key_full: oomp_footprint_kut_kicad_kut_device_osta71a1d_a_db75ee
+    oomp_key_simple: kut_kicad_kut_device_osta71a1d_a
+    original_filename: KUT_Device.pretty/OSTA71A1D-A.kicad_mod
+    owner_name: kut_kicad
   oomp_key: oomp_kut_kicad_kut_device_osta71a1d_a
+  oomp_key_full: oomp_footprint_kut_kicad_kut_device_osta71a1d_a
   oomp_key_simple: kut_kicad_kut_device_osta71a1d_a
   owner: KUT-KiCad
   repo:

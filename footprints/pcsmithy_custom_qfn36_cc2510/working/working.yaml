@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pcsmithy_custom_qfn36_cc2510/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pcsmithy_custom_qfn36_cc2510/working
-    oomp_doc: footprints/footprints/PCSmithy/custom/QFN36_CC2510/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/PCSmithy/custom/QFN36_CC2510/working
     oomp_src_flat: footprints_flat/footprints_flat/pcsmithy_custom_qfn36_cc2510/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pcsmithy_custom_qfn36_cc2510/working
-    oomp_src_folder: footprints_folder/footprints_folder/PCSmithy/custom/QFN36_CC2510/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/PCSmithy/custom/QFN36_CC2510/working
   name: custom.pretty
+  oomp:
+    footprint_name: qfn36_cc2510
+    library_name: custom
+    md5: 60d7e088f72a021efe3f6abe2989b363
+    md5_10: 60d7e088f7
+    md5_5: 60d7e
+    md5_6: 60d7e0
+    oomp_key: oomp_pcsmithy_custom_qfn36_cc2510
+    oomp_key_extra: oomp_footprint_pcsmithy_custom_qfn36_cc2510
+    oomp_key_full: oomp_footprint_pcsmithy_custom_qfn36_cc2510_60d7e0
+    oomp_key_simple: pcsmithy_custom_qfn36_cc2510
+    original_filename: custom.pretty/QFN36_CC2510.kicad_mod
+    owner_name: pcsmithy
   oomp_key: oomp_pcsmithy_custom_qfn36_cc2510
+  oomp_key_full: oomp_footprint_pcsmithy_custom_qfn36_cc2510
   oomp_key_simple: pcsmithy_custom_qfn36_cc2510
   owner: PCSmithy
   repo:

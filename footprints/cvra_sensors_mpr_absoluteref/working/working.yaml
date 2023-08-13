@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cvra_sensors_mpr_absoluteref/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cvra_sensors_mpr_absoluteref/working
-    oomp_doc: footprints/footprints/cvra/_sensors/MPR-AbsoluteRef/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cvra/_sensors/MPR-AbsoluteRef/working
     oomp_src_flat: footprints_flat/footprints_flat/cvra_sensors_mpr_absoluteref/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cvra_sensors_mpr_absoluteref/working
-    oomp_src_folder: footprints_folder/footprints_folder/cvra/_sensors/MPR-AbsoluteRef/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cvra/_sensors/MPR-AbsoluteRef/working
   name: kicad-lib
+  oomp:
+    footprint_name: mpr_absoluteref
+    library_name: _sensors
+    md5: 8cc574d11149c3d6c11207daccc54e8d
+    md5_10: 8cc574d111
+    md5_5: 8cc57
+    md5_6: 8cc574
+    oomp_key: oomp_cvra_sensors_mpr_absoluteref
+    oomp_key_extra: oomp_footprint_cvra_sensors_mpr_absoluteref
+    oomp_key_full: oomp_footprint_cvra_sensors_mpr_absoluteref_8cc574
+    oomp_key_simple: cvra_sensors_mpr_absoluteref
+    original_filename: kicad-lib/footprints/_sensors.pretty/MPR-AbsoluteRef.kicad_mod
+    owner_name: cvra
   oomp_key: oomp_cvra_sensors_mpr_absoluteref
+  oomp_key_full: oomp_footprint_cvra_sensors_mpr_absoluteref
   oomp_key_simple: cvra_sensors_mpr_absoluteref
   owner: cvra
   repo:

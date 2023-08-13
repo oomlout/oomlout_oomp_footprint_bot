@@ -8,14 +8,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/av_p_avp_icsp_avp_th/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/av_p_avp_icsp_avp_th/working
-    oomp_doc: footprints/footprints/av-p/Avp/ICSP_AVP_TH/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/av-p/Avp/ICSP_AVP_TH/working
     oomp_src_flat: footprints_flat/footprints_flat/av_p_avp_icsp_avp_th/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/av_p_avp_icsp_avp_th/working
-    oomp_src_folder: footprints_folder/footprints_folder/av-p/Avp/ICSP_AVP_TH/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/av-p/Avp/ICSP_AVP_TH/working
   name: Avp.pretty
+  oomp:
+    footprint_name: icsp_avp_th
+    library_name: avp
+    md5: 2e41afecb4e21ed1f967aa8f111197f1
+    md5_10: 2e41afecb4
+    md5_5: 2e41a
+    md5_6: 2e41af
+    oomp_key: oomp_av_p_avp_icsp_avp_th
+    oomp_key_extra: oomp_footprint_av_p_avp_icsp_avp_th
+    oomp_key_full: oomp_footprint_av_p_avp_icsp_avp_th_2e41af
+    oomp_key_simple: av_p_avp_icsp_avp_th
+    original_filename: Avp.pretty/ICSP_AVP_TH.kicad_mod
+    owner_name: av_p
   oomp_key: oomp_av_p_avp_icsp_avp_th
+  oomp_key_full: oomp_footprint_av_p_avp_icsp_avp_th
   oomp_key_simple: av_p_avp_icsp_avp_th
   owner: av-p
   repo:

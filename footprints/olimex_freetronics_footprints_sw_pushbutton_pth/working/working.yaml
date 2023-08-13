@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/olimex_freetronics_footprints_sw_pushbutton_pth/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/olimex_freetronics_footprints_sw_pushbutton_pth/working
-    oomp_doc: footprints/footprints/OLIMEX/freetronics_footprints/SW_PUSHBUTTON_PTH/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/OLIMEX/freetronics_footprints/SW_PUSHBUTTON_PTH/working
     oomp_src_flat: footprints_flat/footprints_flat/olimex_freetronics_footprints_sw_pushbutton_pth/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/olimex_freetronics_footprints_sw_pushbutton_pth/working
-    oomp_src_folder: footprints_folder/footprints_folder/OLIMEX/freetronics_footprints/SW_PUSHBUTTON_PTH/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/OLIMEX/freetronics_footprints/SW_PUSHBUTTON_PTH/working
   name: KiCAD
+  oomp:
+    footprint_name: sw_pushbutton_pth
+    library_name: freetronics_footprints
+    md5: 21c0c121dce28f4705b615ae1bdf65d3
+    md5_10: 21c0c121dc
+    md5_5: 21c0c
+    md5_6: 21c0c1
+    oomp_key: oomp_olimex_freetronics_footprints_sw_pushbutton_pth
+    oomp_key_extra: oomp_footprint_olimex_freetronics_footprints_sw_pushbutton_pth
+    oomp_key_full: oomp_footprint_olimex_freetronics_footprints_sw_pushbutton_pth_21c0c1
+    oomp_key_simple: olimex_freetronics_footprints_sw_pushbutton_pth
+    original_filename: KiCAD/mods/freetronics_footprints.pretty/SW_PUSHBUTTON_PTH.kicad_mod
+    owner_name: olimex
   oomp_key: oomp_olimex_freetronics_footprints_sw_pushbutton_pth
+  oomp_key_full: oomp_footprint_olimex_freetronics_footprints_sw_pushbutton_pth
   oomp_key_simple: olimex_freetronics_footprints_sw_pushbutton_pth
   owner: OLIMEX
   repo:

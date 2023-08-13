@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/peekpt_w_conn_pc_rj45_tyco_2_406549_7/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/peekpt_w_conn_pc_rj45_tyco_2_406549_7/working
-    oomp_doc: footprints/footprints/peekpt/w_conn_pc/rj45-tyco-2-406549-7/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/peekpt/w_conn_pc/rj45-tyco-2-406549-7/working
     oomp_src_flat: footprints_flat/footprints_flat/peekpt_w_conn_pc_rj45_tyco_2_406549_7/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/peekpt_w_conn_pc_rj45_tyco_2_406549_7/working
-    oomp_src_folder: footprints_folder/footprints_folder/peekpt/w_conn_pc/rj45-tyco-2-406549-7/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/peekpt/w_conn_pc/rj45-tyco-2-406549-7/working
   name: kicad_smisioto
+  oomp:
+    footprint_name: rj45_tyco_2_406549_7
+    library_name: w_conn_pc
+    md5: 30ec11d1a809a0c1700493f88340733f
+    md5_10: 30ec11d1a8
+    md5_5: 30ec1
+    md5_6: 30ec11
+    oomp_key: oomp_peekpt_w_conn_pc_rj45_tyco_2_406549_7
+    oomp_key_extra: oomp_footprint_peekpt_w_conn_pc_rj45_tyco_2_406549_7
+    oomp_key_full: oomp_footprint_peekpt_w_conn_pc_rj45_tyco_2_406549_7_30ec11
+    oomp_key_simple: peekpt_w_conn_pc_rj45_tyco_2_406549_7
+    original_filename: kicad_smisioto/modules/walter/w_conn_pc.pretty/rj45-tyco-2-406549-7.kicad_mod
+    owner_name: peekpt
   oomp_key: oomp_peekpt_w_conn_pc_rj45_tyco_2_406549_7
+  oomp_key_full: oomp_footprint_peekpt_w_conn_pc_rj45_tyco_2_406549_7
   oomp_key_simple: peekpt_w_conn_pc_rj45_tyco_2_406549_7
   owner: peekpt
   repo:

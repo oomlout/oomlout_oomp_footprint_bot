@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/peekpt_w_smd_cap_c_tant_v/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/peekpt_w_smd_cap_c_tant_v/working
-    oomp_doc: footprints/footprints/peekpt/w_smd_cap/c_tant_V/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/peekpt/w_smd_cap/c_tant_V/working
     oomp_src_flat: footprints_flat/footprints_flat/peekpt_w_smd_cap_c_tant_v/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/peekpt_w_smd_cap_c_tant_v/working
-    oomp_src_folder: footprints_folder/footprints_folder/peekpt/w_smd_cap/c_tant_V/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/peekpt/w_smd_cap/c_tant_V/working
   name: kicad_smisioto
+  oomp:
+    footprint_name: c_tant_v
+    library_name: w_smd_cap
+    md5: a6013637d82fa69cb3ef90236cd233dd
+    md5_10: a6013637d8
+    md5_5: a6013
+    md5_6: a60136
+    oomp_key: oomp_peekpt_w_smd_cap_c_tant_v
+    oomp_key_extra: oomp_footprint_peekpt_w_smd_cap_c_tant_v
+    oomp_key_full: oomp_footprint_peekpt_w_smd_cap_c_tant_v_a60136
+    oomp_key_simple: peekpt_w_smd_cap_c_tant_v
+    original_filename: kicad_smisioto/modules/walter/w_smd_cap.pretty/c_tant_V.kicad_mod
+    owner_name: peekpt
   oomp_key: oomp_peekpt_w_smd_cap_c_tant_v
+  oomp_key_full: oomp_footprint_peekpt_w_smd_cap_c_tant_v
   oomp_key_simple: peekpt_w_smd_cap_c_tant_v
   owner: peekpt
   repo:

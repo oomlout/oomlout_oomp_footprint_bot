@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/olimex_freetronics_footprints_led_rgb_8mm_com_k_full/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/olimex_freetronics_footprints_led_rgb_8mm_com_k_full/working
-    oomp_doc: footprints/footprints/OLIMEX/freetronics_footprints/LED-RGB-8MM-COM-K-FULL/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/OLIMEX/freetronics_footprints/LED-RGB-8MM-COM-K-FULL/working
     oomp_src_flat: footprints_flat/footprints_flat/olimex_freetronics_footprints_led_rgb_8mm_com_k_full/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/olimex_freetronics_footprints_led_rgb_8mm_com_k_full/working
-    oomp_src_folder: footprints_folder/footprints_folder/OLIMEX/freetronics_footprints/LED-RGB-8MM-COM-K-FULL/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/OLIMEX/freetronics_footprints/LED-RGB-8MM-COM-K-FULL/working
   name: KiCAD
+  oomp:
+    footprint_name: led_rgb_8mm_com_k_full
+    library_name: freetronics_footprints
+    md5: 789762c50ef705ec34cd74098bdc5ffd
+    md5_10: 789762c50e
+    md5_5: '78976'
+    md5_6: '789762'
+    oomp_key: oomp_olimex_freetronics_footprints_led_rgb_8mm_com_k_full
+    oomp_key_extra: oomp_footprint_olimex_freetronics_footprints_led_rgb_8mm_com_k_full
+    oomp_key_full: oomp_footprint_olimex_freetronics_footprints_led_rgb_8mm_com_k_full_789762
+    oomp_key_simple: olimex_freetronics_footprints_led_rgb_8mm_com_k_full
+    original_filename: KiCAD/mods/freetronics_footprints.pretty/LED-RGB-8MM-COM-K-FULL.kicad_mod
+    owner_name: olimex
   oomp_key: oomp_olimex_freetronics_footprints_led_rgb_8mm_com_k_full
+  oomp_key_full: oomp_footprint_olimex_freetronics_footprints_led_rgb_8mm_com_k_full
   oomp_key_simple: olimex_freetronics_footprints_led_rgb_8mm_com_k_full
   owner: OLIMEX
   repo:

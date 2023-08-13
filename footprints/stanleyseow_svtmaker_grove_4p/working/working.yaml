@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/stanleyseow_svtmaker_grove_4p/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stanleyseow_svtmaker_grove_4p/working
-    oomp_doc: footprints/footprints/stanleyseow/SVTmaker/Grove-4P/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/stanleyseow/SVTmaker/Grove-4P/working
     oomp_src_flat: footprints_flat/footprints_flat/stanleyseow_svtmaker_grove_4p/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/stanleyseow_svtmaker_grove_4p/working
-    oomp_src_folder: footprints_folder/footprints_folder/stanleyseow/SVTmaker/Grove-4P/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/stanleyseow/SVTmaker/Grove-4P/working
   name: SVTmaker.pretty
+  oomp:
+    footprint_name: grove_4p
+    library_name: svtmaker
+    md5: f0ad1c8ec79af4781eee54675075bfe9
+    md5_10: f0ad1c8ec7
+    md5_5: f0ad1
+    md5_6: f0ad1c
+    oomp_key: oomp_stanleyseow_svtmaker_grove_4p
+    oomp_key_extra: oomp_footprint_stanleyseow_svtmaker_grove_4p
+    oomp_key_full: oomp_footprint_stanleyseow_svtmaker_grove_4p_f0ad1c
+    oomp_key_simple: stanleyseow_svtmaker_grove_4p
+    original_filename: SVTmaker.pretty/Grove-4P.kicad_mod
+    owner_name: stanleyseow
   oomp_key: oomp_stanleyseow_svtmaker_grove_4p
+  oomp_key_full: oomp_footprint_stanleyseow_svtmaker_grove_4p
   oomp_key_simple: stanleyseow_svtmaker_grove_4p
   owner: stanleyseow
   repo:

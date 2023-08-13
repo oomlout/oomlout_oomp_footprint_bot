@@ -14,19 +14,26 @@
     oomp_bot: "footprints/ohdsp_mykicadlibs_footprints_ic_to\u2212247_to_220/working"
     oomp_bot_github: "https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ohdsp_mykicadlibs_footprints_ic_to\u2212\
       247_to_220/working"
-    oomp_doc: "footprints/footprints/ohdsp/MyKiCadLibs-Footprints/IC-TO\u2212247-TO-220/working/"
-    oomp_doc_github: "https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ohdsp/MyKiCadLibs-Footprints/IC-TO\u2212\
-      247-TO-220/working"
     oomp_src_flat: "footprints_flat/footprints_flat/ohdsp_mykicadlibs_footprints_ic_to\u2212\
       247_to_220/working"
     oomp_src_flat_github: "https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ohdsp_mykicadlibs_footprints_ic_to\u2212\
       247_to_220/working"
-    oomp_src_folder: "footprints_folder/footprints_folder/ohdsp/MyKiCadLibs-Footprints/IC-TO\u2212\
-      247-TO-220/working"
-    oomp_src_folder_github: "https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ohdsp/MyKiCadLibs-Footprints/IC-TO\u2212\
-      247-TO-220/working"
   name: KiCad-Libs
+  oomp:
+    footprint_name: "ic_to\u2212247_to_220"
+    library_name: mykicadlibs_footprints
+    md5: 473da8e3f07da796035ab2f22d03ebbc
+    md5_10: 473da8e3f0
+    md5_5: 473da
+    md5_6: 473da8
+    oomp_key: "oomp_ohdsp_mykicadlibs_footprints_ic_to\u2212247_to_220"
+    oomp_key_extra: "oomp_footprint_ohdsp_mykicadlibs_footprints_ic_to\u2212247_to_220"
+    oomp_key_full: "oomp_footprint_ohdsp_mykicadlibs_footprints_ic_to\u2212247_to_220_473da8"
+    oomp_key_simple: "ohdsp_mykicadlibs_footprints_ic_to\u2212247_to_220"
+    original_filename: "KiCad-Libs/MyKiCadLibs-Footprints.pretty/IC-TO\u2212247-TO-220.kicad_mod"
+    owner_name: ohdsp
   oomp_key: "oomp_ohdsp_mykicadlibs_footprints_ic_to\u2212247_to_220"
+  oomp_key_full: "oomp_footprint_ohdsp_mykicadlibs_footprints_ic_to\u2212247_to_220"
   oomp_key_simple: "ohdsp_mykicadlibs_footprints_ic_to\u2212247_to_220"
   owner: ohdsp
   repo:

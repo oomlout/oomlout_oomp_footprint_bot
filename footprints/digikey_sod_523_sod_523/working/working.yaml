@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/digikey_sod_523_sod_523/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_sod_523_sod_523/working
-    oomp_doc: footprints/footprints/digikey/SOD-523.kicad_mod/SOD-523/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/digikey/SOD-523.kicad_mod/SOD-523/working
     oomp_src_flat: footprints_flat/footprints_flat/digikey_sod_523_sod_523/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/digikey_sod_523_sod_523/working
-    oomp_src_folder: footprints_folder/footprints_folder/digikey/SOD-523.kicad_mod/SOD-523/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/digikey/SOD-523.kicad_mod/SOD-523/working
   name: digikey-kicad-library
+  oomp:
+    footprint_name: sod_523
+    library_name: sod_523_kicad_mod
+    md5: 41c6baeb9374a1119db3a9306ca12ece
+    md5_10: 41c6baeb93
+    md5_5: 41c6b
+    md5_6: 41c6ba
+    oomp_key: oomp_digikey_sod_523_sod_523
+    oomp_key_extra: oomp_footprint_digikey_sod_523_sod_523
+    oomp_key_full: oomp_footprint_digikey_sod_523_sod_523_41c6ba
+    oomp_key_simple: digikey_sod_523_sod_523
+    original_filename: digikey-kicad-library/src/Source_Footprints/SOD-523.kicad_mod
+    owner_name: digikey
   oomp_key: oomp_digikey_sod_523_sod_523
+  oomp_key_full: oomp_footprint_digikey_sod_523_sod_523
   oomp_key_simple: digikey_sod_523_sod_523
   owner: digikey
   repo:

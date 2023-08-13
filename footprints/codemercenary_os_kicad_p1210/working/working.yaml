@@ -8,14 +8,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/codemercenary_os_kicad_p1210/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/codemercenary_os_kicad_p1210/working
-    oomp_doc: footprints/footprints/codemercenary-os/kicad/P1210/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/codemercenary-os/kicad/P1210/working
     oomp_src_flat: footprints_flat/footprints_flat/codemercenary_os_kicad_p1210/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/codemercenary_os_kicad_p1210/working
-    oomp_src_folder: footprints_folder/footprints_folder/codemercenary-os/kicad/P1210/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/codemercenary-os/kicad/P1210/working
   name: kicad.pretty
+  oomp:
+    footprint_name: p1210
+    library_name: kicad
+    md5: d9279155903b570c233d30f55feab7a1
+    md5_10: d927915590
+    md5_5: d9279
+    md5_6: d92791
+    oomp_key: oomp_codemercenary_os_kicad_p1210
+    oomp_key_extra: oomp_footprint_codemercenary_os_kicad_p1210
+    oomp_key_full: oomp_footprint_codemercenary_os_kicad_p1210_d92791
+    oomp_key_simple: codemercenary_os_kicad_p1210
+    original_filename: kicad.pretty/P1210.kicad_mod
+    owner_name: codemercenary_os
   oomp_key: oomp_codemercenary_os_kicad_p1210
+  oomp_key_full: oomp_footprint_codemercenary_os_kicad_p1210
   oomp_key_simple: codemercenary_os_kicad_p1210
   owner: codemercenary-os
   repo:

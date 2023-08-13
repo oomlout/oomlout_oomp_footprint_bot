@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/candykingdom_homebrew_hole_5mm_#8/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/candykingdom_homebrew_hole_5mm_#8/working
-    oomp_doc: footprints/footprints/candykingdom/homebrew/HOLE_5MM_#8/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/candykingdom/homebrew/HOLE_5MM_#8/working
     oomp_src_flat: footprints_flat/footprints_flat/candykingdom_homebrew_hole_5mm_#8/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/candykingdom_homebrew_hole_5mm_#8/working
-    oomp_src_folder: footprints_folder/footprints_folder/candykingdom/homebrew/HOLE_5MM_#8/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/candykingdom/homebrew/HOLE_5MM_#8/working
   name: homebrew.pretty
+  oomp:
+    footprint_name: hole_5mm_#8
+    library_name: homebrew
+    md5: a0887b9227435cfd67c5b73a1a09b3c8
+    md5_10: a0887b9227
+    md5_5: a0887
+    md5_6: a0887b
+    oomp_key: oomp_candykingdom_homebrew_hole_5mm_#8
+    oomp_key_extra: oomp_footprint_candykingdom_homebrew_hole_5mm_#8
+    oomp_key_full: oomp_footprint_candykingdom_homebrew_hole_5mm_#8_a0887b
+    oomp_key_simple: candykingdom_homebrew_hole_5mm_#8
+    original_filename: homebrew.pretty/HOLE_5MM_#8.kicad_mod
+    owner_name: candykingdom
   oomp_key: oomp_candykingdom_homebrew_hole_5mm_#8
+  oomp_key_full: oomp_footprint_candykingdom_homebrew_hole_5mm_#8
   oomp_key_simple: candykingdom_homebrew_hole_5mm_#8
   owner: candykingdom
   repo:

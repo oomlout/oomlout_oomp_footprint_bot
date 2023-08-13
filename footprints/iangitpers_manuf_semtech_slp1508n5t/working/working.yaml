@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/Iangitpers/4a
     oomp_bot: footprints/iangitpers_manuf_semtech_slp1508n5t/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/iangitpers_manuf_semtech_slp1508n5t/working
-    oomp_doc: footprints/footprints/Iangitpers/manuf/SEMTECH-SLP1508N5T/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Iangitpers/manuf/SEMTECH-SLP1508N5T/working
     oomp_src_flat: footprints_flat/footprints_flat/iangitpers_manuf_semtech_slp1508n5t/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/iangitpers_manuf_semtech_slp1508n5t/working
-    oomp_src_folder: footprints_folder/footprints_folder/Iangitpers/manuf/SEMTECH-SLP1508N5T/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Iangitpers/manuf/SEMTECH-SLP1508N5T/working
   name: 4a
+  oomp:
+    footprint_name: semtech_slp1508n5t
+    library_name: manuf
+    md5: d15462b601b92f141db6b2bd2b099e5d
+    md5_10: d15462b601
+    md5_5: d1546
+    md5_6: d15462
+    oomp_key: oomp_iangitpers_manuf_semtech_slp1508n5t
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_semtech_slp1508n5t
+    oomp_key_full: oomp_footprint_iangitpers_manuf_semtech_slp1508n5t_d15462
+    oomp_key_simple: iangitpers_manuf_semtech_slp1508n5t
+    original_filename: 4a/manuf.pretty/SEMTECH-SLP1508N5T.kicad_mod
+    owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_semtech_slp1508n5t
+  oomp_key_full: oomp_footprint_iangitpers_manuf_semtech_slp1508n5t
   oomp_key_simple: iangitpers_manuf_semtech_slp1508n5t
   owner: Iangitpers
   repo:

@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/Iangitpers/4a
     oomp_bot: footprints/iangitpers_manuf_xilinx_csg324/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/iangitpers_manuf_xilinx_csg324/working
-    oomp_doc: footprints/footprints/Iangitpers/manuf/XILINX-CSG324/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Iangitpers/manuf/XILINX-CSG324/working
     oomp_src_flat: footprints_flat/footprints_flat/iangitpers_manuf_xilinx_csg324/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/iangitpers_manuf_xilinx_csg324/working
-    oomp_src_folder: footprints_folder/footprints_folder/Iangitpers/manuf/XILINX-CSG324/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Iangitpers/manuf/XILINX-CSG324/working
   name: 4a
+  oomp:
+    footprint_name: xilinx_csg324
+    library_name: manuf
+    md5: 335ed714ceda5f92b08152625062f10c
+    md5_10: 335ed714ce
+    md5_5: 335ed
+    md5_6: 335ed7
+    oomp_key: oomp_iangitpers_manuf_xilinx_csg324
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_xilinx_csg324
+    oomp_key_full: oomp_footprint_iangitpers_manuf_xilinx_csg324_335ed7
+    oomp_key_simple: iangitpers_manuf_xilinx_csg324
+    original_filename: 4a/manuf.pretty/XILINX-CSG324.kicad_mod
+    owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_xilinx_csg324
+  oomp_key_full: oomp_footprint_iangitpers_manuf_xilinx_csg324
   oomp_key_simple: iangitpers_manuf_xilinx_csg324
   owner: Iangitpers
   repo:

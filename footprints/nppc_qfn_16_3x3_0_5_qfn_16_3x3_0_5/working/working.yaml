@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/nppc_qfn_16_3x3_0_5_qfn_16_3x3_0_5/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nppc_qfn_16_3x3_0_5_qfn_16_3x3_0_5/working
-    oomp_doc: footprints/footprints/nppc/QFN-16_3x3_0.5.kicad_mod/QFN-16_3x3_0.5/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/nppc/QFN-16_3x3_0.5.kicad_mod/QFN-16_3x3_0.5/working
     oomp_src_flat: footprints_flat/footprints_flat/nppc_qfn_16_3x3_0_5_qfn_16_3x3_0_5/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nppc_qfn_16_3x3_0_5_qfn_16_3x3_0_5/working
-    oomp_src_folder: footprints_folder/footprints_folder/nppc/QFN-16_3x3_0.5.kicad_mod/QFN-16_3x3_0.5/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/nppc/QFN-16_3x3_0.5.kicad_mod/QFN-16_3x3_0.5/working
   name: KiCadCustomLibs
+  oomp:
+    footprint_name: qfn_16_3x3_0_5
+    library_name: qfn_16_3x3_0_5_kicad_mod
+    md5: 97b21807c61d492359da5349d572296b
+    md5_10: 97b21807c6
+    md5_5: 97b21
+    md5_6: 97b218
+    oomp_key: oomp_nppc_qfn_16_3x3_0_5_qfn_16_3x3_0_5
+    oomp_key_extra: oomp_footprint_nppc_qfn_16_3x3_0_5_qfn_16_3x3_0_5
+    oomp_key_full: oomp_footprint_nppc_qfn_16_3x3_0_5_qfn_16_3x3_0_5_97b218
+    oomp_key_simple: nppc_qfn_16_3x3_0_5_qfn_16_3x3_0_5
+    original_filename: KiCadCustomLibs/QFN-16_3x3_0.5.kicad_mod
+    owner_name: nppc
   oomp_key: oomp_nppc_qfn_16_3x3_0_5_qfn_16_3x3_0_5
+  oomp_key_full: oomp_footprint_nppc_qfn_16_3x3_0_5_qfn_16_3x3_0_5
   oomp_key_simple: nppc_qfn_16_3x3_0_5_qfn_16_3x3_0_5
   owner: nppc
   repo:

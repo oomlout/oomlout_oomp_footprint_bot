@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/dchwebb_custom_footprints_1mm_test_point/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/dchwebb_custom_footprints_1mm_test_point/working
-    oomp_doc: footprints/footprints/dchwebb/Custom_Footprints/1mm_Test_Point/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/dchwebb/Custom_Footprints/1mm_Test_Point/working
     oomp_src_flat: footprints_flat/footprints_flat/dchwebb_custom_footprints_1mm_test_point/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/dchwebb_custom_footprints_1mm_test_point/working
-    oomp_src_folder: footprints_folder/footprints_folder/dchwebb/Custom_Footprints/1mm_Test_Point/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/dchwebb/Custom_Footprints/1mm_Test_Point/working
   name: Custom_Footprints.pretty
+  oomp:
+    footprint_name: 1mm_test_point
+    library_name: custom_footprints
+    md5: 26094ce170fd47d844c9bb1a61a7e9d4
+    md5_10: 26094ce170
+    md5_5: '26094'
+    md5_6: 26094c
+    oomp_key: oomp_dchwebb_custom_footprints_1mm_test_point
+    oomp_key_extra: oomp_footprint_dchwebb_custom_footprints_1mm_test_point
+    oomp_key_full: oomp_footprint_dchwebb_custom_footprints_1mm_test_point_26094c
+    oomp_key_simple: dchwebb_custom_footprints_1mm_test_point
+    original_filename: Custom_Footprints.pretty/1mm_Test_Point.kicad_mod
+    owner_name: dchwebb
   oomp_key: oomp_dchwebb_custom_footprints_1mm_test_point
+  oomp_key_full: oomp_footprint_dchwebb_custom_footprints_1mm_test_point
   oomp_key_simple: dchwebb_custom_footprints_1mm_test_point
   owner: dchwebb
   repo:

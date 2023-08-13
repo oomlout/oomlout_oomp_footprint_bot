@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/freetronics_freetronics_footprints_res_cay16/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/freetronics_freetronics_footprints_res_cay16/working
-    oomp_doc: footprints/footprints/freetronics/freetronics_footprints/RES_CAY16/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/freetronics/freetronics_footprints/RES_CAY16/working
     oomp_src_flat: footprints_flat/footprints_flat/freetronics_freetronics_footprints_res_cay16/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/freetronics_freetronics_footprints_res_cay16/working
-    oomp_src_folder: footprints_folder/footprints_folder/freetronics/freetronics_footprints/RES_CAY16/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/freetronics/freetronics_footprints/RES_CAY16/working
   name: freetronics_kicad_library
+  oomp:
+    footprint_name: res_cay16
+    library_name: freetronics_footprints
+    md5: c7a43cd6cc1f29866585375c4ae5fbed
+    md5_10: c7a43cd6cc
+    md5_5: c7a43
+    md5_6: c7a43c
+    oomp_key: oomp_freetronics_freetronics_footprints_res_cay16
+    oomp_key_extra: oomp_footprint_freetronics_freetronics_footprints_res_cay16
+    oomp_key_full: oomp_footprint_freetronics_freetronics_footprints_res_cay16_c7a43c
+    oomp_key_simple: freetronics_freetronics_footprints_res_cay16
+    original_filename: freetronics_kicad_library/freetronics_footprints.pretty/RES_CAY16.kicad_mod
+    owner_name: freetronics
   oomp_key: oomp_freetronics_freetronics_footprints_res_cay16
+  oomp_key_full: oomp_footprint_freetronics_freetronics_footprints_res_cay16
   oomp_key_simple: freetronics_freetronics_footprints_res_cay16
   owner: freetronics
   repo:

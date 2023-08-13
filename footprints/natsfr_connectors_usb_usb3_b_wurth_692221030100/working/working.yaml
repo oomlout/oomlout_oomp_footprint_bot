@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/natsfr_connectors_usb_usb3_b_wurth_692221030100/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/natsfr_connectors_usb_usb3_b_wurth_692221030100/working
-    oomp_doc: footprints/footprints/natsfr/Connectors_USB/USB3-B-wurth-692221030100/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/natsfr/Connectors_USB/USB3-B-wurth-692221030100/working
     oomp_src_flat: footprints_flat/footprints_flat/natsfr_connectors_usb_usb3_b_wurth_692221030100/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/natsfr_connectors_usb_usb3_b_wurth_692221030100/working
-    oomp_src_folder: footprints_folder/footprints_folder/natsfr/Connectors_USB/USB3-B-wurth-692221030100/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/natsfr/Connectors_USB/USB3-B-wurth-692221030100/working
   name: kicad-components
+  oomp:
+    footprint_name: usb3_b_wurth_692221030100
+    library_name: connectors_usb
+    md5: 0ac7d98e597f1d29ed9a964a9c3936d9
+    md5_10: 0ac7d98e59
+    md5_5: 0ac7d
+    md5_6: 0ac7d9
+    oomp_key: oomp_natsfr_connectors_usb_usb3_b_wurth_692221030100
+    oomp_key_extra: oomp_footprint_natsfr_connectors_usb_usb3_b_wurth_692221030100
+    oomp_key_full: oomp_footprint_natsfr_connectors_usb_usb3_b_wurth_692221030100_0ac7d9
+    oomp_key_simple: natsfr_connectors_usb_usb3_b_wurth_692221030100
+    original_filename: kicad-components/Pretty_Footprints/Connectors_USB.pretty/USB3-B-wurth-692221030100.kicad_mod
+    owner_name: natsfr
   oomp_key: oomp_natsfr_connectors_usb_usb3_b_wurth_692221030100
+  oomp_key_full: oomp_footprint_natsfr_connectors_usb_usb3_b_wurth_692221030100
   oomp_key_simple: natsfr_connectors_usb_usb3_b_wurth_692221030100
   owner: natsfr
   repo:

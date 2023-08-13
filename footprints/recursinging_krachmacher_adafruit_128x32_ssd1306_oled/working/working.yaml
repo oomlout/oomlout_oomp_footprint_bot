@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/recursinging_krachmacher_adafruit_128x32_ssd1306_oled/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/recursinging_krachmacher_adafruit_128x32_ssd1306_oled/working
-    oomp_doc: footprints/footprints/recursinging/krachmacher/AdaFruit_128x32_SSD1306_OLED/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/recursinging/krachmacher/AdaFruit_128x32_SSD1306_OLED/working
     oomp_src_flat: footprints_flat/footprints_flat/recursinging_krachmacher_adafruit_128x32_ssd1306_oled/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/recursinging_krachmacher_adafruit_128x32_ssd1306_oled/working
-    oomp_src_folder: footprints_folder/footprints_folder/recursinging/krachmacher/AdaFruit_128x32_SSD1306_OLED/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/recursinging/krachmacher/AdaFruit_128x32_SSD1306_OLED/working
   name: kxmx
+  oomp:
+    footprint_name: adafruit_128x32_ssd1306_oled
+    library_name: krachmacher
+    md5: 89b5d2b35cab3eb18f857d3968c038ad
+    md5_10: 89b5d2b35c
+    md5_5: 89b5d
+    md5_6: 89b5d2
+    oomp_key: oomp_recursinging_krachmacher_adafruit_128x32_ssd1306_oled
+    oomp_key_extra: oomp_footprint_recursinging_krachmacher_adafruit_128x32_ssd1306_oled
+    oomp_key_full: oomp_footprint_recursinging_krachmacher_adafruit_128x32_ssd1306_oled_89b5d2
+    oomp_key_simple: recursinging_krachmacher_adafruit_128x32_ssd1306_oled
+    original_filename: kxmx/kxmx_erack/kicad/kicad/libraries/krachmacher.pretty/AdaFruit_128x32_SSD1306_OLED.kicad_mod
+    owner_name: recursinging
   oomp_key: oomp_recursinging_krachmacher_adafruit_128x32_ssd1306_oled
+  oomp_key_full: oomp_footprint_recursinging_krachmacher_adafruit_128x32_ssd1306_oled
   oomp_key_simple: recursinging_krachmacher_adafruit_128x32_ssd1306_oled
   owner: recursinging
   repo:

@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/alchy/spacestudio_components.pretty
     oomp_bot: footprints/alchy_spacestudio_components_2n3906/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/alchy_spacestudio_components_2n3906/working
-    oomp_doc: footprints/footprints/alchy/spacestudio_components/2n3906/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/alchy/spacestudio_components/2n3906/working
     oomp_src_flat: footprints_flat/footprints_flat/alchy_spacestudio_components_2n3906/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/alchy_spacestudio_components_2n3906/working
-    oomp_src_folder: footprints_folder/footprints_folder/alchy/spacestudio_components/2n3906/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/alchy/spacestudio_components/2n3906/working
   name: spacestudio_components.pretty
+  oomp:
+    footprint_name: 2n3906
+    library_name: spacestudio_components
+    md5: a96eda25b2631cb69315a947450eec6e
+    md5_10: a96eda25b2
+    md5_5: a96ed
+    md5_6: a96eda
+    oomp_key: oomp_alchy_spacestudio_components_2n3906
+    oomp_key_extra: oomp_footprint_alchy_spacestudio_components_2n3906
+    oomp_key_full: oomp_footprint_alchy_spacestudio_components_2n3906_a96eda
+    oomp_key_simple: alchy_spacestudio_components_2n3906
+    original_filename: spacestudio_components.pretty/2n3906.kicad_mod
+    owner_name: alchy
   oomp_key: oomp_alchy_spacestudio_components_2n3906
+  oomp_key_full: oomp_footprint_alchy_spacestudio_components_2n3906
   oomp_key_simple: alchy_spacestudio_components_2n3906
   owner: alchy
   repo:

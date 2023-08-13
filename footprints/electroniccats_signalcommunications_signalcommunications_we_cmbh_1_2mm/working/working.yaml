@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/electroniccats_signalcommunications_signalcommunications_we_cmbh_1_2mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/electroniccats_signalcommunications_signalcommunications_we_cmbh_1_2mm/working
-    oomp_doc: footprints/footprints/ElectronicCats/SignalCommunications/SignalCommunications-WE-CMBH_1.2MM/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ElectronicCats/SignalCommunications/SignalCommunications-WE-CMBH_1.2MM/working
     oomp_src_flat: footprints_flat/footprints_flat/electroniccats_signalcommunications_signalcommunications_we_cmbh_1_2mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/electroniccats_signalcommunications_signalcommunications_we_cmbh_1_2mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/ElectronicCats/SignalCommunications/SignalCommunications-WE-CMBH_1.2MM/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ElectronicCats/SignalCommunications/SignalCommunications-WE-CMBH_1.2MM/working
   name: ComponentLibrariesKicadWurthElektronik
+  oomp:
+    footprint_name: signalcommunications_we_cmbh_1_2mm
+    library_name: signalcommunications
+    md5: aeb498b394c9abf0b0356630c74e141e
+    md5_10: aeb498b394
+    md5_5: aeb49
+    md5_6: aeb498
+    oomp_key: oomp_electroniccats_signalcommunications_signalcommunications_we_cmbh_1_2mm
+    oomp_key_extra: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_cmbh_1_2mm
+    oomp_key_full: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_cmbh_1_2mm_aeb498
+    oomp_key_simple: electroniccats_signalcommunications_signalcommunications_we_cmbh_1_2mm
+    original_filename: ComponentLibrariesKicadWurthElektronik/SIGNAL-COMMUNICATIONS-rev18a/SignalCommunications.pretty/SignalCommunications-WE-CMBH_1.2MM.kicad_mod
+    owner_name: electroniccats
   oomp_key: oomp_electroniccats_signalcommunications_signalcommunications_we_cmbh_1_2mm
+  oomp_key_full: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_cmbh_1_2mm
   oomp_key_simple: electroniccats_signalcommunications_signalcommunications_we_cmbh_1_2mm
   owner: ElectronicCats
   repo:

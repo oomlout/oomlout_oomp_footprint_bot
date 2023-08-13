@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/electroniccats_signalcommunications_signalcommunications_we_secf_2140/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/electroniccats_signalcommunications_signalcommunications_we_secf_2140/working
-    oomp_doc: footprints/footprints/ElectronicCats/SignalCommunications/SignalCommunications-WE-SECF_2140/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ElectronicCats/SignalCommunications/SignalCommunications-WE-SECF_2140/working
     oomp_src_flat: footprints_flat/footprints_flat/electroniccats_signalcommunications_signalcommunications_we_secf_2140/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/electroniccats_signalcommunications_signalcommunications_we_secf_2140/working
-    oomp_src_folder: footprints_folder/footprints_folder/ElectronicCats/SignalCommunications/SignalCommunications-WE-SECF_2140/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ElectronicCats/SignalCommunications/SignalCommunications-WE-SECF_2140/working
   name: ComponentLibrariesKicadWurthElektronik
+  oomp:
+    footprint_name: signalcommunications_we_secf_2140
+    library_name: signalcommunications
+    md5: 3b2464271b9340ce9d05b107fcc4abfd
+    md5_10: 3b2464271b
+    md5_5: 3b246
+    md5_6: 3b2464
+    oomp_key: oomp_electroniccats_signalcommunications_signalcommunications_we_secf_2140
+    oomp_key_extra: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_secf_2140
+    oomp_key_full: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_secf_2140_3b2464
+    oomp_key_simple: electroniccats_signalcommunications_signalcommunications_we_secf_2140
+    original_filename: ComponentLibrariesKicadWurthElektronik/SIGNAL-COMMUNICATIONS-rev18a/SignalCommunications.pretty/SignalCommunications-WE-SECF_2140.kicad_mod
+    owner_name: electroniccats
   oomp_key: oomp_electroniccats_signalcommunications_signalcommunications_we_secf_2140
+  oomp_key_full: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_secf_2140
   oomp_key_simple: electroniccats_signalcommunications_signalcommunications_we_secf_2140
   owner: ElectronicCats
   repo:

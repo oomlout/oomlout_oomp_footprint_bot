@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/stanleyseow_svtmaker_omron_g5le/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stanleyseow_svtmaker_omron_g5le/working
-    oomp_doc: footprints/footprints/stanleyseow/SVTmaker/Omron_G5LE/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/stanleyseow/SVTmaker/Omron_G5LE/working
     oomp_src_flat: footprints_flat/footprints_flat/stanleyseow_svtmaker_omron_g5le/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/stanleyseow_svtmaker_omron_g5le/working
-    oomp_src_folder: footprints_folder/footprints_folder/stanleyseow/SVTmaker/Omron_G5LE/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/stanleyseow/SVTmaker/Omron_G5LE/working
   name: SVTmaker.pretty
+  oomp:
+    footprint_name: omron_g5le
+    library_name: svtmaker
+    md5: ff3f755c772477a6783c14a24c6bbd98
+    md5_10: ff3f755c77
+    md5_5: ff3f7
+    md5_6: ff3f75
+    oomp_key: oomp_stanleyseow_svtmaker_omron_g5le
+    oomp_key_extra: oomp_footprint_stanleyseow_svtmaker_omron_g5le
+    oomp_key_full: oomp_footprint_stanleyseow_svtmaker_omron_g5le_ff3f75
+    oomp_key_simple: stanleyseow_svtmaker_omron_g5le
+    original_filename: SVTmaker.pretty/Omron_G5LE.kicad_mod
+    owner_name: stanleyseow
   oomp_key: oomp_stanleyseow_svtmaker_omron_g5le
+  oomp_key_full: oomp_footprint_stanleyseow_svtmaker_omron_g5le
   oomp_key_simple: stanleyseow_svtmaker_omron_g5le
   owner: stanleyseow
   repo:

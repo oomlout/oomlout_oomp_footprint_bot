@@ -12,17 +12,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_connector_molex_molex_clik_mate_502386_1570_1x15_1mp_p1_25mm_horizontal/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_connector_molex_molex_clik_mate_502386_1570_1x15_1mp_p1_25mm_horizontal/working
-    oomp_doc: footprints/footprints/kicad/Connector_Molex/Molex_CLIK-Mate_502386-1570_1x15-1MP_P1.25mm_Horizontal/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Connector_Molex/Molex_CLIK-Mate_502386-1570_1x15-1MP_P1.25mm_Horizontal/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_connector_molex_molex_clik_mate_502386_1570_1x15_1mp_p1_25mm_horizontal/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_connector_molex_molex_clik_mate_502386_1570_1x15_1mp_p1_25mm_horizontal/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Connector_Molex/Molex_CLIK-Mate_502386-1570_1x15-1MP_P1.25mm_Horizontal/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Connector_Molex/Molex_CLIK-Mate_502386-1570_1x15-1MP_P1.25mm_Horizontal/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: molex_clik_mate_502386_1570_1x15_1mp_p1_25mm_horizontal
+    library_name: connector_molex
+    md5: 091739504d1f18d5b5a978d82a07f37f
+    md5_10: 091739504d
+    md5_5: 09173
+    md5_6: 091739
+    oomp_key: oomp_kicad_connector_molex_molex_clik_mate_502386_1570_1x15_1mp_p1_25mm_horizontal
+    oomp_key_extra: oomp_footprint_kicad_connector_molex_molex_clik_mate_502386_1570_1x15_1mp_p1_25mm_horizontal
+    oomp_key_full: oomp_footprint_kicad_connector_molex_molex_clik_mate_502386_1570_1x15_1mp_p1_25mm_horizontal_091739
+    oomp_key_simple: kicad_connector_molex_molex_clik_mate_502386_1570_1x15_1mp_p1_25mm_horizontal
+    original_filename: libraries/kicad-footprints/Connector_Molex.pretty/Molex_CLIK-Mate_502386-1570_1x15-1MP_P1.25mm_Horizontal.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_connector_molex_molex_clik_mate_502386_1570_1x15_1mp_p1_25mm_horizontal
+  oomp_key_full: oomp_footprint_kicad_connector_molex_molex_clik_mate_502386_1570_1x15_1mp_p1_25mm_horizontal
   oomp_key_simple: kicad_connector_molex_molex_clik_mate_502386_1570_1x15_1mp_p1_25mm_horizontal
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

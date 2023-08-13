@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/stormboard_keyboard_cherry_pcb_200v/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stormboard_keyboard_cherry_pcb_200v/working
-    oomp_doc: footprints/footprints/stormboard/Keyboard/CHERRY_PCB_200V/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/stormboard/Keyboard/CHERRY_PCB_200V/working
     oomp_src_flat: footprints_flat/footprints_flat/stormboard_keyboard_cherry_pcb_200v/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/stormboard_keyboard_cherry_pcb_200v/working
-    oomp_src_folder: footprints_folder/footprints_folder/stormboard/Keyboard/CHERRY_PCB_200V/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/stormboard/Keyboard/CHERRY_PCB_200V/working
   name: Keyboard.pretty
+  oomp:
+    footprint_name: cherry_pcb_200v
+    library_name: keyboard
+    md5: 1c3ffde4bef280c24e0b8ad7783b04d1
+    md5_10: 1c3ffde4be
+    md5_5: 1c3ff
+    md5_6: 1c3ffd
+    oomp_key: oomp_stormboard_keyboard_cherry_pcb_200v
+    oomp_key_extra: oomp_footprint_stormboard_keyboard_cherry_pcb_200v
+    oomp_key_full: oomp_footprint_stormboard_keyboard_cherry_pcb_200v_1c3ffd
+    oomp_key_simple: stormboard_keyboard_cherry_pcb_200v
+    original_filename: Keyboard.pretty/CHERRY_PCB_200V.kicad_mod
+    owner_name: stormboard
   oomp_key: oomp_stormboard_keyboard_cherry_pcb_200v
+  oomp_key_full: oomp_footprint_stormboard_keyboard_cherry_pcb_200v
   oomp_key_simple: stormboard_keyboard_cherry_pcb_200v
   owner: stormboard
   repo:

@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/aewallin/awallinKiCadFootprints.pretty
     oomp_bot: footprints/aewallin_awallinkicadfootprints_bnc_4pin/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/aewallin_awallinkicadfootprints_bnc_4pin/working
-    oomp_doc: footprints/footprints/aewallin/awallinKiCadFootprints/BNC_4PIN/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/aewallin/awallinKiCadFootprints/BNC_4PIN/working
     oomp_src_flat: footprints_flat/footprints_flat/aewallin_awallinkicadfootprints_bnc_4pin/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/aewallin_awallinkicadfootprints_bnc_4pin/working
-    oomp_src_folder: footprints_folder/footprints_folder/aewallin/awallinKiCadFootprints/BNC_4PIN/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/aewallin/awallinKiCadFootprints/BNC_4PIN/working
   name: awallinKiCadFootprints.pretty
+  oomp:
+    footprint_name: bnc_4pin
+    library_name: awallinkicadfootprints
+    md5: 9265af976a7448b1e380032215c01311
+    md5_10: 9265af976a
+    md5_5: 9265a
+    md5_6: 9265af
+    oomp_key: oomp_aewallin_awallinkicadfootprints_bnc_4pin
+    oomp_key_extra: oomp_footprint_aewallin_awallinkicadfootprints_bnc_4pin
+    oomp_key_full: oomp_footprint_aewallin_awallinkicadfootprints_bnc_4pin_9265af
+    oomp_key_simple: aewallin_awallinkicadfootprints_bnc_4pin
+    original_filename: awallinKiCadFootprints.pretty/BNC_4PIN.kicad_mod
+    owner_name: aewallin
   oomp_key: oomp_aewallin_awallinkicadfootprints_bnc_4pin
+  oomp_key_full: oomp_footprint_aewallin_awallinkicadfootprints_bnc_4pin
   oomp_key_simple: aewallin_awallinkicadfootprints_bnc_4pin
   owner: aewallin
   repo:

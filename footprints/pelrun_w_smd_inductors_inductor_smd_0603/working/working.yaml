@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pelrun_w_smd_inductors_inductor_smd_0603/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pelrun_w_smd_inductors_inductor_smd_0603/working
-    oomp_doc: footprints/footprints/pelrun/w_smd_inductors/inductor_smd_0603/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/pelrun/w_smd_inductors/inductor_smd_0603/working
     oomp_src_flat: footprints_flat/footprints_flat/pelrun_w_smd_inductors_inductor_smd_0603/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pelrun_w_smd_inductors_inductor_smd_0603/working
-    oomp_src_folder: footprints_folder/footprints_folder/pelrun/w_smd_inductors/inductor_smd_0603/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/pelrun/w_smd_inductors/inductor_smd_0603/working
   name: libKiCad
+  oomp:
+    footprint_name: inductor_smd_0603
+    library_name: w_smd_inductors
+    md5: f39c307c4d51e4ba2778ce606024b4ee
+    md5_10: f39c307c4d
+    md5_5: f39c3
+    md5_6: f39c30
+    oomp_key: oomp_pelrun_w_smd_inductors_inductor_smd_0603
+    oomp_key_extra: oomp_footprint_pelrun_w_smd_inductors_inductor_smd_0603
+    oomp_key_full: oomp_footprint_pelrun_w_smd_inductors_inductor_smd_0603_f39c30
+    oomp_key_simple: pelrun_w_smd_inductors_inductor_smd_0603
+    original_filename: libKiCad/footprint/w_smd_inductors.pretty/inductor_smd_0603.kicad_mod
+    owner_name: pelrun
   oomp_key: oomp_pelrun_w_smd_inductors_inductor_smd_0603
+  oomp_key_full: oomp_footprint_pelrun_w_smd_inductors_inductor_smd_0603
   oomp_key_simple: pelrun_w_smd_inductors_inductor_smd_0603
   owner: pelrun
   repo:

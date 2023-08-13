@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_trimpot_2_trimpot_2/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_trimpot_2_trimpot_2/working
-    oomp_doc: footprints/footprints/brunoeagle/TRIMPOT_2.kicad_mod/TRIMPOT_2/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/TRIMPOT_2.kicad_mod/TRIMPOT_2/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_trimpot_2_trimpot_2/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_trimpot_2_trimpot_2/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/TRIMPOT_2.kicad_mod/TRIMPOT_2/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/TRIMPOT_2.kicad_mod/TRIMPOT_2/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: trimpot_2
+    library_name: trimpot_2_kicad_mod
+    md5: 6bf2cbe8eed39cdd5be34f951dc1199b
+    md5_10: 6bf2cbe8ee
+    md5_5: 6bf2c
+    md5_6: 6bf2cb
+    oomp_key: oomp_brunoeagle_trimpot_2_trimpot_2
+    oomp_key_extra: oomp_footprint_brunoeagle_trimpot_2_trimpot_2
+    oomp_key_full: oomp_footprint_brunoeagle_trimpot_2_trimpot_2_6bf2cb
+    oomp_key_simple: brunoeagle_trimpot_2_trimpot_2
+    original_filename: kicad-open-modules/TRIMPOT_2.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_trimpot_2_trimpot_2
+  oomp_key_full: oomp_footprint_brunoeagle_trimpot_2_trimpot_2
   oomp_key_simple: brunoeagle_trimpot_2_trimpot_2
   owner: brunoeagle
   repo:

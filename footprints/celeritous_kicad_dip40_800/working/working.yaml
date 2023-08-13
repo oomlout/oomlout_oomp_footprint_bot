@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/celeritous_kicad_dip40_800/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/celeritous_kicad_dip40_800/working
-    oomp_doc: footprints/footprints/celeritous/KiCad/DIP40_800/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/celeritous/KiCad/DIP40_800/working
     oomp_src_flat: footprints_flat/footprints_flat/celeritous_kicad_dip40_800/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/celeritous_kicad_dip40_800/working
-    oomp_src_folder: footprints_folder/footprints_folder/celeritous/KiCad/DIP40_800/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/celeritous/KiCad/DIP40_800/working
   name: KiCad.pretty
+  oomp:
+    footprint_name: dip40_800
+    library_name: kicad
+    md5: 71c969ee4c08b5de6e547d6804d2f7e0
+    md5_10: 71c969ee4c
+    md5_5: 71c96
+    md5_6: 71c969
+    oomp_key: oomp_celeritous_kicad_dip40_800
+    oomp_key_extra: oomp_footprint_celeritous_kicad_dip40_800
+    oomp_key_full: oomp_footprint_celeritous_kicad_dip40_800_71c969
+    oomp_key_simple: celeritous_kicad_dip40_800
+    original_filename: KiCad.pretty/DIP40_800.kicad_mod
+    owner_name: celeritous
   oomp_key: oomp_celeritous_kicad_dip40_800
+  oomp_key_full: oomp_footprint_celeritous_kicad_dip40_800
   oomp_key_simple: celeritous_kicad_dip40_800
   owner: celeritous
   repo:

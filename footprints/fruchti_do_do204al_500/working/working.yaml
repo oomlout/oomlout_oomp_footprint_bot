@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/fruchti_do_do204al_500/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/fruchti_do_do204al_500/working
-    oomp_doc: footprints/footprints/fruchti/do/DO204AL_500/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/fruchti/do/DO204AL_500/working
     oomp_src_flat: footprints_flat/footprints_flat/fruchti_do_do204al_500/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/fruchti_do_do204al_500/working
-    oomp_src_folder: footprints_folder/footprints_folder/fruchti/do/DO204AL_500/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/fruchti/do/DO204AL_500/working
   name: fruchtilib
+  oomp:
+    footprint_name: do204al_500
+    library_name: do
+    md5: f8d46e7de81508cf0914ae150b33549f
+    md5_10: f8d46e7de8
+    md5_5: f8d46
+    md5_6: f8d46e
+    oomp_key: oomp_fruchti_do_do204al_500
+    oomp_key_extra: oomp_footprint_fruchti_do_do204al_500
+    oomp_key_full: oomp_footprint_fruchti_do_do204al_500_f8d46e
+    oomp_key_simple: fruchti_do_do204al_500
+    original_filename: fruchtilib/mod/do.pretty/DO204AL_500.kicad_mod
+    owner_name: fruchti
   oomp_key: oomp_fruchti_do_do204al_500
+  oomp_key_full: oomp_footprint_fruchti_do_do204al_500
   oomp_key_simple: fruchti_do_do204al_500
   owner: fruchti
   repo:

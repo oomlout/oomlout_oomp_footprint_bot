@@ -11,17 +11,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_potentiometer_smd_potentiometer_acp_ca14_vsmd_vertical_hole/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_potentiometer_smd_potentiometer_acp_ca14_vsmd_vertical_hole/working
-    oomp_doc: footprints/footprints/kicad/Potentiometer_SMD/Potentiometer_ACP_CA14-VSMD_Vertical_Hole/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Potentiometer_SMD/Potentiometer_ACP_CA14-VSMD_Vertical_Hole/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_potentiometer_smd_potentiometer_acp_ca14_vsmd_vertical_hole/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_potentiometer_smd_potentiometer_acp_ca14_vsmd_vertical_hole/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Potentiometer_SMD/Potentiometer_ACP_CA14-VSMD_Vertical_Hole/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Potentiometer_SMD/Potentiometer_ACP_CA14-VSMD_Vertical_Hole/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: potentiometer_acp_ca14_vsmd_vertical_hole
+    library_name: potentiometer_smd
+    md5: 6e8e73635c8387cf2ded83b5b3839e1a
+    md5_10: 6e8e73635c
+    md5_5: 6e8e7
+    md5_6: 6e8e73
+    oomp_key: oomp_kicad_potentiometer_smd_potentiometer_acp_ca14_vsmd_vertical_hole
+    oomp_key_extra: oomp_footprint_kicad_potentiometer_smd_potentiometer_acp_ca14_vsmd_vertical_hole
+    oomp_key_full: oomp_footprint_kicad_potentiometer_smd_potentiometer_acp_ca14_vsmd_vertical_hole_6e8e73
+    oomp_key_simple: kicad_potentiometer_smd_potentiometer_acp_ca14_vsmd_vertical_hole
+    original_filename: libraries/kicad-footprints/Potentiometer_SMD.pretty/Potentiometer_ACP_CA14-VSMD_Vertical_Hole.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_potentiometer_smd_potentiometer_acp_ca14_vsmd_vertical_hole
+  oomp_key_full: oomp_footprint_kicad_potentiometer_smd_potentiometer_acp_ca14_vsmd_vertical_hole
   oomp_key_simple: kicad_potentiometer_smd_potentiometer_acp_ca14_vsmd_vertical_hole
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

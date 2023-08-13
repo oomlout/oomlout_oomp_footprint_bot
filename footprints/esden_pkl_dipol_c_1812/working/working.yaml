@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/esden_pkl_dipol_c_1812/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/esden_pkl_dipol_c_1812/working
-    oomp_doc: footprints/footprints/esden/pkl_dipol/C_1812/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/esden/pkl_dipol/C_1812/working
     oomp_src_flat: footprints_flat/footprints_flat/esden_pkl_dipol_c_1812/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/esden_pkl_dipol_c_1812/working
-    oomp_src_folder: footprints_folder/footprints_folder/esden/pkl_dipol/C_1812/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/esden/pkl_dipol/C_1812/working
   name: pretty-kicad-libs
+  oomp:
+    footprint_name: c_1812
+    library_name: pkl_dipol
+    md5: 734f0aabb8b09f04e4b8488051cb8109
+    md5_10: 734f0aabb8
+    md5_5: 734f0
+    md5_6: 734f0a
+    oomp_key: oomp_esden_pkl_dipol_c_1812
+    oomp_key_extra: oomp_footprint_esden_pkl_dipol_c_1812
+    oomp_key_full: oomp_footprint_esden_pkl_dipol_c_1812_734f0a
+    oomp_key_simple: esden_pkl_dipol_c_1812
+    original_filename: pretty-kicad-libs/pkl_dipol.pretty/C_1812.kicad_mod
+    owner_name: esden
   oomp_key: oomp_esden_pkl_dipol_c_1812
+  oomp_key_full: oomp_footprint_esden_pkl_dipol_c_1812
   oomp_key_simple: esden_pkl_dipol_c_1812
   owner: esden
   repo:

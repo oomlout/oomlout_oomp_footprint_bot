@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/nppc_d_sod_128(cfp5)_d_sod_128(cfp5)/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nppc_d_sod_128(cfp5)_d_sod_128(cfp5)/working
-    oomp_doc: footprints/footprints/nppc/D_SOD-128(CFP5).kicad_mod/D_SOD-128(CFP5)/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/nppc/D_SOD-128(CFP5).kicad_mod/D_SOD-128(CFP5)/working
     oomp_src_flat: footprints_flat/footprints_flat/nppc_d_sod_128(cfp5)_d_sod_128(cfp5)/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nppc_d_sod_128(cfp5)_d_sod_128(cfp5)/working
-    oomp_src_folder: footprints_folder/footprints_folder/nppc/D_SOD-128(CFP5).kicad_mod/D_SOD-128(CFP5)/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/nppc/D_SOD-128(CFP5).kicad_mod/D_SOD-128(CFP5)/working
   name: KiCadCustomLibs
+  oomp:
+    footprint_name: d_sod_128(cfp5)
+    library_name: d_sod_128(cfp5)_kicad_mod
+    md5: 28adb2e6f0da2d3895f62f3e8ad46754
+    md5_10: 28adb2e6f0
+    md5_5: 28adb
+    md5_6: 28adb2
+    oomp_key: oomp_nppc_d_sod_128(cfp5)_d_sod_128(cfp5)
+    oomp_key_extra: oomp_footprint_nppc_d_sod_128(cfp5)_d_sod_128(cfp5)
+    oomp_key_full: oomp_footprint_nppc_d_sod_128(cfp5)_d_sod_128(cfp5)_28adb2
+    oomp_key_simple: nppc_d_sod_128(cfp5)_d_sod_128(cfp5)
+    original_filename: KiCadCustomLibs/D_SOD-128(CFP5).kicad_mod
+    owner_name: nppc
   oomp_key: oomp_nppc_d_sod_128(cfp5)_d_sod_128(cfp5)
+  oomp_key_full: oomp_footprint_nppc_d_sod_128(cfp5)_d_sod_128(cfp5)
   oomp_key_simple: nppc_d_sod_128(cfp5)_d_sod_128(cfp5)
   owner: nppc
   repo:

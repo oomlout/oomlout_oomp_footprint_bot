@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/adamjvr/KiCAD-OnHand-Lib
     oomp_bot: footprints/adamjvr_onhand_components_tps62163dsg/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/adamjvr_onhand_components_tps62163dsg/working
-    oomp_doc: footprints/footprints/adamjvr/OnHand-Components/TPS62163DSG/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/adamjvr/OnHand-Components/TPS62163DSG/working
     oomp_src_flat: footprints_flat/footprints_flat/adamjvr_onhand_components_tps62163dsg/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/adamjvr_onhand_components_tps62163dsg/working
-    oomp_src_folder: footprints_folder/footprints_folder/adamjvr/OnHand-Components/TPS62163DSG/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/adamjvr/OnHand-Components/TPS62163DSG/working
   name: KiCAD-OnHand-Lib
+  oomp:
+    footprint_name: tps62163dsg
+    library_name: onhand_components
+    md5: 4a949d376ca8831c11d7fec1bf42b734
+    md5_10: 4a949d376c
+    md5_5: 4a949
+    md5_6: 4a949d
+    oomp_key: oomp_adamjvr_onhand_components_tps62163dsg
+    oomp_key_extra: oomp_footprint_adamjvr_onhand_components_tps62163dsg
+    oomp_key_full: oomp_footprint_adamjvr_onhand_components_tps62163dsg_4a949d
+    oomp_key_simple: adamjvr_onhand_components_tps62163dsg
+    original_filename: KiCAD-OnHand-Lib/OnHand-Components.pretty/TPS62163DSG.kicad_mod
+    owner_name: adamjvr
   oomp_key: oomp_adamjvr_onhand_components_tps62163dsg
+  oomp_key_full: oomp_footprint_adamjvr_onhand_components_tps62163dsg
   oomp_key_simple: adamjvr_onhand_components_tps62163dsg
   owner: adamjvr
   repo:

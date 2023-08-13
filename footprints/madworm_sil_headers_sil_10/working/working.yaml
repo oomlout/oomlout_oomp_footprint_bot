@@ -7,23 +7,131 @@
   footprint_library_directory_flat: footprints_flat/madworm_sil_headers_sil_10/working
   github_path: http://github.com/madworm/SIL-Headers.pretty/blob/master/SIL-10.kicad_mod
   links:
-    github_src: http://gitlab.com/madworm/SIL-Headers.pretty/blob/master/SIL-9.kicad_mod
-    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
+    github_owner: madworm
+    github_repo_name: SIL-Headers.pretty
+    github_src: http://github.com/madworm/SIL-Headers.pretty/blob/master/SIL-9.kicad_mod
+    github_src_repo: https://github.com/madworm/SIL-Headers.pretty
     oomp_bot: footprints/madworm_sil_headers_sil_10/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/madworm_sil_headers_sil_10/working
-    oomp_doc: footprints/footprints/madworm/SIL-Headers/SIL-10/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/madworm/SIL-Headers/SIL-10/working
     oomp_src_flat: footprints_flat/footprints_flat/madworm_sil_headers_sil_10/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/madworm_sil_headers_sil_10/working
-    oomp_src_folder: footprints_folder/footprints_folder/madworm/SIL-Headers/SIL-10/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/madworm/SIL-Headers/SIL-10/working
   name: SIL-Headers.pretty
+  oomp:
+    footprint_name: sil_10
+    library_name: sil_headers
+    md5: 80ee436ed26b3a7aba6c9692eb0581d5
+    md5_10: 80ee436ed2
+    md5_5: 80ee4
+    md5_6: 80ee43
+    oomp_key: oomp_madworm_sil_headers_sil_10
+    oomp_key_extra: oomp_footprint_madworm_sil_headers_sil_10
+    oomp_key_full: oomp_footprint_madworm_sil_headers_sil_10_80ee43
+    oomp_key_simple: madworm_sil_headers_sil_10
+    original_filename: SIL-Headers.pretty/SIL-10.kicad_mod
+    owner_name: madworm
   oomp_key: oomp_madworm_sil_headers_sil_10
+  oomp_key_full: oomp_footprint_madworm_sil_headers_sil_10
   oomp_key_simple: madworm_sil_headers_sil_10
   owner: madworm
   repo:
-    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
-    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
-      Authenticated requests get a higher rate limit. Check out the documentation
-      for more details.)'
+    allow_forking: true
+    archive_url: https://api.github.com/repos/madworm/SIL-Headers.pretty/{archive_format}{/ref}
+    archived: false
+    assignees_url: https://api.github.com/repos/madworm/SIL-Headers.pretty/assignees{/user}
+    blobs_url: https://api.github.com/repos/madworm/SIL-Headers.pretty/git/blobs{/sha}
+    branches_url: https://api.github.com/repos/madworm/SIL-Headers.pretty/branches{/branch}
+    clone_url: https://github.com/madworm/SIL-Headers.pretty.git
+    collaborators_url: https://api.github.com/repos/madworm/SIL-Headers.pretty/collaborators{/collaborator}
+    comments_url: https://api.github.com/repos/madworm/SIL-Headers.pretty/comments{/number}
+    commits_url: https://api.github.com/repos/madworm/SIL-Headers.pretty/commits{/sha}
+    compare_url: https://api.github.com/repos/madworm/SIL-Headers.pretty/compare/{base}...{head}
+    contents_url: https://api.github.com/repos/madworm/SIL-Headers.pretty/contents/{+path}
+    contributors_url: https://api.github.com/repos/madworm/SIL-Headers.pretty/contributors
+    created_at: '2015-02-03T15:29:09Z'
+    default_branch: master
+    deployments_url: https://api.github.com/repos/madworm/SIL-Headers.pretty/deployments
+    description: 'LAYOUT FILES: KiCad footprints for SIL headers'
+    disabled: false
+    downloads_url: https://api.github.com/repos/madworm/SIL-Headers.pretty/downloads
+    events_url: https://api.github.com/repos/madworm/SIL-Headers.pretty/events
+    fork: false
+    forks: 0
+    forks_count: 0
+    forks_url: https://api.github.com/repos/madworm/SIL-Headers.pretty/forks
+    full_name: madworm/SIL-Headers.pretty
+    git_commits_url: https://api.github.com/repos/madworm/SIL-Headers.pretty/git/commits{/sha}
+    git_refs_url: https://api.github.com/repos/madworm/SIL-Headers.pretty/git/refs{/sha}
+    git_tags_url: https://api.github.com/repos/madworm/SIL-Headers.pretty/git/tags{/sha}
+    git_url: git://github.com/madworm/SIL-Headers.pretty.git
+    has_discussions: false
+    has_downloads: true
+    has_issues: true
+    has_pages: false
+    has_projects: true
+    has_wiki: true
+    homepage: null
+    hooks_url: https://api.github.com/repos/madworm/SIL-Headers.pretty/hooks
+    html_url: https://github.com/madworm/SIL-Headers.pretty
+    id: 30249578
+    is_template: false
+    issue_comment_url: https://api.github.com/repos/madworm/SIL-Headers.pretty/issues/comments{/number}
+    issue_events_url: https://api.github.com/repos/madworm/SIL-Headers.pretty/issues/events{/number}
+    issues_url: https://api.github.com/repos/madworm/SIL-Headers.pretty/issues{/number}
+    keys_url: https://api.github.com/repos/madworm/SIL-Headers.pretty/keys{/key_id}
+    labels_url: https://api.github.com/repos/madworm/SIL-Headers.pretty/labels{/name}
+    language: Shell
+    languages_url: https://api.github.com/repos/madworm/SIL-Headers.pretty/languages
+    license: null
+    merges_url: https://api.github.com/repos/madworm/SIL-Headers.pretty/merges
+    milestones_url: https://api.github.com/repos/madworm/SIL-Headers.pretty/milestones{/number}
+    mirror_url: null
+    name: SIL-Headers.pretty
+    network_count: 0
+    node_id: MDEwOlJlcG9zaXRvcnkzMDI0OTU3OA==
+    notifications_url: https://api.github.com/repos/madworm/SIL-Headers.pretty/notifications{?since,all,participating}
+    open_issues: 0
+    open_issues_count: 0
+    owner:
+      avatar_url: https://avatars.githubusercontent.com/u/343894?v=4
+      events_url: https://api.github.com/users/madworm/events{/privacy}
+      followers_url: https://api.github.com/users/madworm/followers
+      following_url: https://api.github.com/users/madworm/following{/other_user}
+      gists_url: https://api.github.com/users/madworm/gists{/gist_id}
+      gravatar_id: ''
+      html_url: https://github.com/madworm
+      id: 343894
+      login: madworm
+      node_id: MDQ6VXNlcjM0Mzg5NA==
+      organizations_url: https://api.github.com/users/madworm/orgs
+      received_events_url: https://api.github.com/users/madworm/received_events
+      repos_url: https://api.github.com/users/madworm/repos
+      site_admin: false
+      starred_url: https://api.github.com/users/madworm/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/madworm/subscriptions
+      type: User
+      url: https://api.github.com/users/madworm
+    private: false
+    pulls_url: https://api.github.com/repos/madworm/SIL-Headers.pretty/pulls{/number}
+    pushed_at: '2015-05-31T11:05:17Z'
+    releases_url: https://api.github.com/repos/madworm/SIL-Headers.pretty/releases{/id}
+    size: 152
+    ssh_url: git@github.com:madworm/SIL-Headers.pretty.git
+    stargazers_count: 0
+    stargazers_url: https://api.github.com/repos/madworm/SIL-Headers.pretty/stargazers
+    statuses_url: https://api.github.com/repos/madworm/SIL-Headers.pretty/statuses/{sha}
+    subscribers_count: 2
+    subscribers_url: https://api.github.com/repos/madworm/SIL-Headers.pretty/subscribers
+    subscription_url: https://api.github.com/repos/madworm/SIL-Headers.pretty/subscription
+    svn_url: https://github.com/madworm/SIL-Headers.pretty
+    tags_url: https://api.github.com/repos/madworm/SIL-Headers.pretty/tags
+    teams_url: https://api.github.com/repos/madworm/SIL-Headers.pretty/teams
+    temp_clone_token: null
+    topics: []
+    trees_url: https://api.github.com/repos/madworm/SIL-Headers.pretty/git/trees{/sha}
+    updated_at: '2023-07-25T13:54:50Z'
+    url: https://api.github.com/repos/madworm/SIL-Headers.pretty
+    visibility: public
+    watchers: 0
+    watchers_count: 0
+    web_commit_signoff_required: false
   url: http://github.com/madworm/SIL-Headers.pretty

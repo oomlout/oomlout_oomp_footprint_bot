@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/axello_freetronics_footprints_arduino_shield_roundpads/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/axello_freetronics_footprints_arduino_shield_roundpads/working
-    oomp_doc: footprints/footprints/axello/freetronics_footprints/ARDUINO_SHIELD_ROUNDPADS/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/axello/freetronics_footprints/ARDUINO_SHIELD_ROUNDPADS/working
     oomp_src_flat: footprints_flat/footprints_flat/axello_freetronics_footprints_arduino_shield_roundpads/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/axello_freetronics_footprints_arduino_shield_roundpads/working
-    oomp_src_folder: footprints_folder/footprints_folder/axello/freetronics_footprints/ARDUINO_SHIELD_ROUNDPADS/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/axello/freetronics_footprints/ARDUINO_SHIELD_ROUNDPADS/working
   name: kicad
+  oomp:
+    footprint_name: arduino_shield_roundpads
+    library_name: freetronics_footprints
+    md5: 5caf6049362112ea514bc4122c9e3efa
+    md5_10: 5caf604936
+    md5_5: 5caf6
+    md5_6: 5caf60
+    oomp_key: oomp_axello_freetronics_footprints_arduino_shield_roundpads
+    oomp_key_extra: oomp_footprint_axello_freetronics_footprints_arduino_shield_roundpads
+    oomp_key_full: oomp_footprint_axello_freetronics_footprints_arduino_shield_roundpads_5caf60
+    oomp_key_simple: axello_freetronics_footprints_arduino_shield_roundpads
+    original_filename: kicad/mods/freetronics_footprints.pretty/ARDUINO_SHIELD_ROUNDPADS.kicad_mod
+    owner_name: axello
   oomp_key: oomp_axello_freetronics_footprints_arduino_shield_roundpads
+  oomp_key_full: oomp_footprint_axello_freetronics_footprints_arduino_shield_roundpads
   oomp_key_simple: axello_freetronics_footprints_arduino_shield_roundpads
   owner: axello
   repo:

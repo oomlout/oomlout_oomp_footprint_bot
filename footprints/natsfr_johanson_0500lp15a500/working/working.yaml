@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/natsfr_johanson_0500lp15a500/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/natsfr_johanson_0500lp15a500/working
-    oomp_doc: footprints/footprints/natsfr/Johanson/0500LP15A500/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/natsfr/Johanson/0500LP15A500/working
     oomp_src_flat: footprints_flat/footprints_flat/natsfr_johanson_0500lp15a500/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/natsfr_johanson_0500lp15a500/working
-    oomp_src_folder: footprints_folder/footprints_folder/natsfr/Johanson/0500LP15A500/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/natsfr/Johanson/0500LP15A500/working
   name: kicad-components
+  oomp:
+    footprint_name: 0500lp15a500
+    library_name: johanson
+    md5: 6cb5522fa74deebb6c652bf805d96a86
+    md5_10: 6cb5522fa7
+    md5_5: 6cb55
+    md5_6: 6cb552
+    oomp_key: oomp_natsfr_johanson_0500lp15a500
+    oomp_key_extra: oomp_footprint_natsfr_johanson_0500lp15a500
+    oomp_key_full: oomp_footprint_natsfr_johanson_0500lp15a500_6cb552
+    oomp_key_simple: natsfr_johanson_0500lp15a500
+    original_filename: kicad-components/Pretty_Footprints/Johanson.pretty/0500LP15A500.kicad_mod
+    owner_name: natsfr
   oomp_key: oomp_natsfr_johanson_0500lp15a500
+  oomp_key_full: oomp_footprint_natsfr_johanson_0500lp15a500
   oomp_key_simple: natsfr_johanson_0500lp15a500
   owner: natsfr
   repo:

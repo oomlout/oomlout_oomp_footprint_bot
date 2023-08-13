@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_sbr12m120p5_13_sbr12m120p5_13/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_sbr12m120p5_13_sbr12m120p5_13/working
-    oomp_doc: footprints/footprints/brunoeagle/SBR12M120P5-13.kicad_mod/SBR12M120P5-13/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/SBR12M120P5-13.kicad_mod/SBR12M120P5-13/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_sbr12m120p5_13_sbr12m120p5_13/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_sbr12m120p5_13_sbr12m120p5_13/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/SBR12M120P5-13.kicad_mod/SBR12M120P5-13/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/SBR12M120P5-13.kicad_mod/SBR12M120P5-13/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: sbr12m120p5_13
+    library_name: sbr12m120p5_13_kicad_mod
+    md5: 1abb3db3afb26b11fe9f89f541cc2c5b
+    md5_10: 1abb3db3af
+    md5_5: 1abb3
+    md5_6: 1abb3d
+    oomp_key: oomp_brunoeagle_sbr12m120p5_13_sbr12m120p5_13
+    oomp_key_extra: oomp_footprint_brunoeagle_sbr12m120p5_13_sbr12m120p5_13
+    oomp_key_full: oomp_footprint_brunoeagle_sbr12m120p5_13_sbr12m120p5_13_1abb3d
+    oomp_key_simple: brunoeagle_sbr12m120p5_13_sbr12m120p5_13
+    original_filename: kicad-open-modules/SBR12M120P5-13.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_sbr12m120p5_13_sbr12m120p5_13
+  oomp_key_full: oomp_footprint_brunoeagle_sbr12m120p5_13_sbr12m120p5_13
   oomp_key_simple: brunoeagle_sbr12m120p5_13_sbr12m120p5_13
   owner: brunoeagle
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/septillion_git_septillion_device_r1_small/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/septillion_git_septillion_device_r1_small/working
-    oomp_doc: footprints/footprints/septillion-git/septillion_device/R1-small/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/septillion-git/septillion_device/R1-small/working
     oomp_src_flat: footprints_flat/footprints_flat/septillion_git_septillion_device_r1_small/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/septillion_git_septillion_device_r1_small/working
-    oomp_src_folder: footprints_folder/footprints_folder/septillion-git/septillion_device/R1-small/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/septillion-git/septillion_device/R1-small/working
   name: septillion_device.pretty
+  oomp:
+    footprint_name: r1_small
+    library_name: septillion_device
+    md5: 18b3d6c14afb37adf348858cce7a53b0
+    md5_10: 18b3d6c14a
+    md5_5: 18b3d
+    md5_6: 18b3d6
+    oomp_key: oomp_septillion_git_septillion_device_r1_small
+    oomp_key_extra: oomp_footprint_septillion_git_septillion_device_r1_small
+    oomp_key_full: oomp_footprint_septillion_git_septillion_device_r1_small_18b3d6
+    oomp_key_simple: septillion_git_septillion_device_r1_small
+    original_filename: septillion_device.pretty/R1-small.kicad_mod
+    owner_name: septillion_git
   oomp_key: oomp_septillion_git_septillion_device_r1_small
+  oomp_key_full: oomp_footprint_septillion_git_septillion_device_r1_small
   oomp_key_simple: septillion_git_septillion_device_r1_small
   owner: septillion-git
   repo:

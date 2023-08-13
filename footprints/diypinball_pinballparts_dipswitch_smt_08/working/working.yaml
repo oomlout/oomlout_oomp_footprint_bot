@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/diypinball_pinballparts_dipswitch_smt_08/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/diypinball_pinballparts_dipswitch_smt_08/working
-    oomp_doc: footprints/footprints/diypinball/PinballParts/DIPSWITCH-SMT-08/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/diypinball/PinballParts/DIPSWITCH-SMT-08/working
     oomp_src_flat: footprints_flat/footprints_flat/diypinball_pinballparts_dipswitch_smt_08/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/diypinball_pinballparts_dipswitch_smt_08/working
-    oomp_src_folder: footprints_folder/footprints_folder/diypinball/PinballParts/DIPSWITCH-SMT-08/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/diypinball/PinballParts/DIPSWITCH-SMT-08/working
   name: PinballParts.pretty
+  oomp:
+    footprint_name: dipswitch_smt_08
+    library_name: pinballparts
+    md5: 7a554fa92ee1ee10d9ce42378d5bd2c0
+    md5_10: 7a554fa92e
+    md5_5: 7a554
+    md5_6: 7a554f
+    oomp_key: oomp_diypinball_pinballparts_dipswitch_smt_08
+    oomp_key_extra: oomp_footprint_diypinball_pinballparts_dipswitch_smt_08
+    oomp_key_full: oomp_footprint_diypinball_pinballparts_dipswitch_smt_08_7a554f
+    oomp_key_simple: diypinball_pinballparts_dipswitch_smt_08
+    original_filename: PinballParts.pretty/DIPSWITCH-SMT-08.kicad_mod
+    owner_name: diypinball
   oomp_key: oomp_diypinball_pinballparts_dipswitch_smt_08
+  oomp_key_full: oomp_footprint_diypinball_pinballparts_dipswitch_smt_08
   oomp_key_simple: diypinball_pinballparts_dipswitch_smt_08
   owner: diypinball
   repo:

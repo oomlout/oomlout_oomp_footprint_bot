@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/gigahawk_gigahawk_adafruit_feather/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/gigahawk_gigahawk_adafruit_feather/working
-    oomp_doc: footprints/footprints/Gigahawk/Gigahawk/Adafruit_Feather/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Gigahawk/Gigahawk/Adafruit_Feather/working
     oomp_src_flat: footprints_flat/footprints_flat/gigahawk_gigahawk_adafruit_feather/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/gigahawk_gigahawk_adafruit_feather/working
-    oomp_src_folder: footprints_folder/footprints_folder/Gigahawk/Gigahawk/Adafruit_Feather/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Gigahawk/Gigahawk/Adafruit_Feather/working
   name: Gigahawk.pretty
+  oomp:
+    footprint_name: adafruit_feather
+    library_name: gigahawk
+    md5: b5794cb5d25a70af47eda7cedd1376b7
+    md5_10: b5794cb5d2
+    md5_5: b5794
+    md5_6: b5794c
+    oomp_key: oomp_gigahawk_gigahawk_adafruit_feather
+    oomp_key_extra: oomp_footprint_gigahawk_gigahawk_adafruit_feather
+    oomp_key_full: oomp_footprint_gigahawk_gigahawk_adafruit_feather_b5794c
+    oomp_key_simple: gigahawk_gigahawk_adafruit_feather
+    original_filename: Gigahawk.pretty/Adafruit_Feather.kicad_mod
+    owner_name: gigahawk
   oomp_key: oomp_gigahawk_gigahawk_adafruit_feather
+  oomp_key_full: oomp_footprint_gigahawk_gigahawk_adafruit_feather
   oomp_key_simple: gigahawk_gigahawk_adafruit_feather
   owner: Gigahawk
   repo:

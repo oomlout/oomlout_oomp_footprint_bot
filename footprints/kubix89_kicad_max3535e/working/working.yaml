@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/kubiX89/kiCAD.pretty
     oomp_bot: footprints/kubix89_kicad_max3535e/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kubix89_kicad_max3535e/working
-    oomp_doc: footprints/footprints/kubiX89/kiCAD/MAX3535E/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kubiX89/kiCAD/MAX3535E/working
     oomp_src_flat: footprints_flat/footprints_flat/kubix89_kicad_max3535e/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kubix89_kicad_max3535e/working
-    oomp_src_folder: footprints_folder/footprints_folder/kubiX89/kiCAD/MAX3535E/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kubiX89/kiCAD/MAX3535E/working
   name: kiCAD.pretty
+  oomp:
+    footprint_name: max3535e
+    library_name: kicad
+    md5: 7ed52a92259347c2e1af3b9455d94a0e
+    md5_10: 7ed52a9225
+    md5_5: 7ed52
+    md5_6: 7ed52a
+    oomp_key: oomp_kubix89_kicad_max3535e
+    oomp_key_extra: oomp_footprint_kubix89_kicad_max3535e
+    oomp_key_full: oomp_footprint_kubix89_kicad_max3535e_7ed52a
+    oomp_key_simple: kubix89_kicad_max3535e
+    original_filename: kiCAD.pretty/MAX3535E.kicad_mod
+    owner_name: kubix89
   oomp_key: oomp_kubix89_kicad_max3535e
+  oomp_key_full: oomp_footprint_kubix89_kicad_max3535e
   oomp_key_simple: kubix89_kicad_max3535e
   owner: kubiX89
   repo:

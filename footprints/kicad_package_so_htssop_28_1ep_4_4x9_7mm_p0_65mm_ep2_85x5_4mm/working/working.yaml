@@ -12,17 +12,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_package_so_htssop_28_1ep_4_4x9_7mm_p0_65mm_ep2_85x5_4mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_package_so_htssop_28_1ep_4_4x9_7mm_p0_65mm_ep2_85x5_4mm/working
-    oomp_doc: footprints/footprints/kicad/Package_SO/HTSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.85x5.4mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Package_SO/HTSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.85x5.4mm/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_package_so_htssop_28_1ep_4_4x9_7mm_p0_65mm_ep2_85x5_4mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_package_so_htssop_28_1ep_4_4x9_7mm_p0_65mm_ep2_85x5_4mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Package_SO/HTSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.85x5.4mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Package_SO/HTSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.85x5.4mm/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: htssop_28_1ep_4_4x9_7mm_p0_65mm_ep2_85x5_4mm
+    library_name: package_so
+    md5: 54fa527917350756b7cf8835f2409c5a
+    md5_10: 54fa527917
+    md5_5: 54fa5
+    md5_6: 54fa52
+    oomp_key: oomp_kicad_package_so_htssop_28_1ep_4_4x9_7mm_p0_65mm_ep2_85x5_4mm
+    oomp_key_extra: oomp_footprint_kicad_package_so_htssop_28_1ep_4_4x9_7mm_p0_65mm_ep2_85x5_4mm
+    oomp_key_full: oomp_footprint_kicad_package_so_htssop_28_1ep_4_4x9_7mm_p0_65mm_ep2_85x5_4mm_54fa52
+    oomp_key_simple: kicad_package_so_htssop_28_1ep_4_4x9_7mm_p0_65mm_ep2_85x5_4mm
+    original_filename: libraries/kicad-footprints/Package_SO.pretty/HTSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.85x5.4mm.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_package_so_htssop_28_1ep_4_4x9_7mm_p0_65mm_ep2_85x5_4mm
+  oomp_key_full: oomp_footprint_kicad_package_so_htssop_28_1ep_4_4x9_7mm_p0_65mm_ep2_85x5_4mm
   oomp_key_simple: kicad_package_so_htssop_28_1ep_4_4x9_7mm_p0_65mm_ep2_85x5_4mm
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

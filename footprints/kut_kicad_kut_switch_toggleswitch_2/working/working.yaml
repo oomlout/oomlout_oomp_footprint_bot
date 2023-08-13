@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/KUT-KiCad/KUT_Switch.pretty
     oomp_bot: footprints/kut_kicad_kut_switch_toggleswitch_2/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kut_kicad_kut_switch_toggleswitch_2/working
-    oomp_doc: footprints/footprints/KUT-KiCad/KUT_Switch/ToggleSwitch_2/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/KUT-KiCad/KUT_Switch/ToggleSwitch_2/working
     oomp_src_flat: footprints_flat/footprints_flat/kut_kicad_kut_switch_toggleswitch_2/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kut_kicad_kut_switch_toggleswitch_2/working
-    oomp_src_folder: footprints_folder/footprints_folder/KUT-KiCad/KUT_Switch/ToggleSwitch_2/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/KUT-KiCad/KUT_Switch/ToggleSwitch_2/working
   name: KUT_Switch.pretty
+  oomp:
+    footprint_name: toggleswitch_2
+    library_name: kut_switch
+    md5: e3ef15fe9baf76b36f05a39b8f748822
+    md5_10: e3ef15fe9b
+    md5_5: e3ef1
+    md5_6: e3ef15
+    oomp_key: oomp_kut_kicad_kut_switch_toggleswitch_2
+    oomp_key_extra: oomp_footprint_kut_kicad_kut_switch_toggleswitch_2
+    oomp_key_full: oomp_footprint_kut_kicad_kut_switch_toggleswitch_2_e3ef15
+    oomp_key_simple: kut_kicad_kut_switch_toggleswitch_2
+    original_filename: KUT_Switch.pretty/ToggleSwitch_2.kicad_mod
+    owner_name: kut_kicad
   oomp_key: oomp_kut_kicad_kut_switch_toggleswitch_2
+  oomp_key_full: oomp_footprint_kut_kicad_kut_switch_toggleswitch_2
   oomp_key_simple: kut_kicad_kut_switch_toggleswitch_2
   owner: KUT-KiCad
   repo:

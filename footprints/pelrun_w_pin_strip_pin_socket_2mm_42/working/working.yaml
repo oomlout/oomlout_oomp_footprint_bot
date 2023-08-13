@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pelrun_w_pin_strip_pin_socket_2mm_42/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pelrun_w_pin_strip_pin_socket_2mm_42/working
-    oomp_doc: footprints/footprints/pelrun/w_pin_strip/pin_socket_2mm_42/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/pelrun/w_pin_strip/pin_socket_2mm_42/working
     oomp_src_flat: footprints_flat/footprints_flat/pelrun_w_pin_strip_pin_socket_2mm_42/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pelrun_w_pin_strip_pin_socket_2mm_42/working
-    oomp_src_folder: footprints_folder/footprints_folder/pelrun/w_pin_strip/pin_socket_2mm_42/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/pelrun/w_pin_strip/pin_socket_2mm_42/working
   name: libKiCad
+  oomp:
+    footprint_name: pin_socket_2mm_42
+    library_name: w_pin_strip
+    md5: 3e166eea25e2980678a22e21a057be1b
+    md5_10: 3e166eea25
+    md5_5: 3e166
+    md5_6: 3e166e
+    oomp_key: oomp_pelrun_w_pin_strip_pin_socket_2mm_42
+    oomp_key_extra: oomp_footprint_pelrun_w_pin_strip_pin_socket_2mm_42
+    oomp_key_full: oomp_footprint_pelrun_w_pin_strip_pin_socket_2mm_42_3e166e
+    oomp_key_simple: pelrun_w_pin_strip_pin_socket_2mm_42
+    original_filename: libKiCad/footprint/w_pin_strip.pretty/pin_socket_2mm_42.kicad_mod
+    owner_name: pelrun
   oomp_key: oomp_pelrun_w_pin_strip_pin_socket_2mm_42
+  oomp_key_full: oomp_footprint_pelrun_w_pin_strip_pin_socket_2mm_42
   oomp_key_simple: pelrun_w_pin_strip_pin_socket_2mm_42
   owner: pelrun
   repo:

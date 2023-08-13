@@ -11,17 +11,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_button_switch_tht_sw_push_2p2t_toggle_ck_pva2xxh4xxxxxxv2/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_button_switch_tht_sw_push_2p2t_toggle_ck_pva2xxh4xxxxxxv2/working
-    oomp_doc: footprints/footprints/kicad/Button_Switch_THT/SW_Push_2P2T_Toggle_CK_PVA2xxH4xxxxxxV2/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Button_Switch_THT/SW_Push_2P2T_Toggle_CK_PVA2xxH4xxxxxxV2/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_button_switch_tht_sw_push_2p2t_toggle_ck_pva2xxh4xxxxxxv2/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_button_switch_tht_sw_push_2p2t_toggle_ck_pva2xxh4xxxxxxv2/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Button_Switch_THT/SW_Push_2P2T_Toggle_CK_PVA2xxH4xxxxxxV2/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Button_Switch_THT/SW_Push_2P2T_Toggle_CK_PVA2xxH4xxxxxxV2/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: sw_push_2p2t_toggle_ck_pva2xxh4xxxxxxv2
+    library_name: button_switch_tht
+    md5: 566dd5546aeea00fccc109b851e8eef9
+    md5_10: 566dd5546a
+    md5_5: 566dd
+    md5_6: 566dd5
+    oomp_key: oomp_kicad_button_switch_tht_sw_push_2p2t_toggle_ck_pva2xxh4xxxxxxv2
+    oomp_key_extra: oomp_footprint_kicad_button_switch_tht_sw_push_2p2t_toggle_ck_pva2xxh4xxxxxxv2
+    oomp_key_full: oomp_footprint_kicad_button_switch_tht_sw_push_2p2t_toggle_ck_pva2xxh4xxxxxxv2_566dd5
+    oomp_key_simple: kicad_button_switch_tht_sw_push_2p2t_toggle_ck_pva2xxh4xxxxxxv2
+    original_filename: libraries/kicad-footprints/Button_Switch_THT.pretty/SW_Push_2P2T_Toggle_CK_PVA2xxH4xxxxxxV2.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_button_switch_tht_sw_push_2p2t_toggle_ck_pva2xxh4xxxxxxv2
+  oomp_key_full: oomp_footprint_kicad_button_switch_tht_sw_push_2p2t_toggle_ck_pva2xxh4xxxxxxv2
   oomp_key_simple: kicad_button_switch_tht_sw_push_2p2t_toggle_ck_pva2xxh4xxxxxxv2
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/ossiconelabs_ossicone_labs_footprints_atmel_isp_6pin/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ossiconelabs_ossicone_labs_footprints_atmel_isp_6pin/working
-    oomp_doc: footprints/footprints/OssiconeLabs/Ossicone_Labs_Footprints/Atmel_ISP_6PIN/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/OssiconeLabs/Ossicone_Labs_Footprints/Atmel_ISP_6PIN/working
     oomp_src_flat: footprints_flat/footprints_flat/ossiconelabs_ossicone_labs_footprints_atmel_isp_6pin/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ossiconelabs_ossicone_labs_footprints_atmel_isp_6pin/working
-    oomp_src_folder: footprints_folder/footprints_folder/OssiconeLabs/Ossicone_Labs_Footprints/Atmel_ISP_6PIN/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/OssiconeLabs/Ossicone_Labs_Footprints/Atmel_ISP_6PIN/working
   name: Ossicone_Labs_Footprints.pretty
+  oomp:
+    footprint_name: atmel_isp_6pin
+    library_name: ossicone_labs_footprints
+    md5: 0102d645055274169ba8e0d6267840c0
+    md5_10: 0102d64505
+    md5_5: 0102d
+    md5_6: 0102d6
+    oomp_key: oomp_ossiconelabs_ossicone_labs_footprints_atmel_isp_6pin
+    oomp_key_extra: oomp_footprint_ossiconelabs_ossicone_labs_footprints_atmel_isp_6pin
+    oomp_key_full: oomp_footprint_ossiconelabs_ossicone_labs_footprints_atmel_isp_6pin_0102d6
+    oomp_key_simple: ossiconelabs_ossicone_labs_footprints_atmel_isp_6pin
+    original_filename: Ossicone_Labs_Footprints.pretty/Atmel_ISP_6PIN.kicad_mod
+    owner_name: ossiconelabs
   oomp_key: oomp_ossiconelabs_ossicone_labs_footprints_atmel_isp_6pin
+  oomp_key_full: oomp_footprint_ossiconelabs_ossicone_labs_footprints_atmel_isp_6pin
   oomp_key_simple: ossiconelabs_ossicone_labs_footprints_atmel_isp_6pin
   owner: OssiconeLabs
   repo:

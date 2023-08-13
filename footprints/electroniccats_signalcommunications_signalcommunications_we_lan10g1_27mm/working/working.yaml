@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/electroniccats_signalcommunications_signalcommunications_we_lan10g1_27mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/electroniccats_signalcommunications_signalcommunications_we_lan10g1_27mm/working
-    oomp_doc: footprints/footprints/ElectronicCats/SignalCommunications/SignalCommunications-WE-LAN10G1.27MM/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ElectronicCats/SignalCommunications/SignalCommunications-WE-LAN10G1.27MM/working
     oomp_src_flat: footprints_flat/footprints_flat/electroniccats_signalcommunications_signalcommunications_we_lan10g1_27mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/electroniccats_signalcommunications_signalcommunications_we_lan10g1_27mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/ElectronicCats/SignalCommunications/SignalCommunications-WE-LAN10G1.27MM/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ElectronicCats/SignalCommunications/SignalCommunications-WE-LAN10G1.27MM/working
   name: ComponentLibrariesKicadWurthElektronik
+  oomp:
+    footprint_name: signalcommunications_we_lan10g1_27mm
+    library_name: signalcommunications
+    md5: aee031ec5213de007411ede3ef0d94b9
+    md5_10: aee031ec52
+    md5_5: aee03
+    md5_6: aee031
+    oomp_key: oomp_electroniccats_signalcommunications_signalcommunications_we_lan10g1_27mm
+    oomp_key_extra: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_lan10g1_27mm
+    oomp_key_full: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_lan10g1_27mm_aee031
+    oomp_key_simple: electroniccats_signalcommunications_signalcommunications_we_lan10g1_27mm
+    original_filename: ComponentLibrariesKicadWurthElektronik/SIGNAL-COMMUNICATIONS-rev18a/SignalCommunications.pretty/SignalCommunications-WE-LAN10G1.27MM.kicad_mod
+    owner_name: electroniccats
   oomp_key: oomp_electroniccats_signalcommunications_signalcommunications_we_lan10g1_27mm
+  oomp_key_full: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_lan10g1_27mm
   oomp_key_simple: electroniccats_signalcommunications_signalcommunications_we_lan10g1_27mm
   owner: ElectronicCats
   repo:

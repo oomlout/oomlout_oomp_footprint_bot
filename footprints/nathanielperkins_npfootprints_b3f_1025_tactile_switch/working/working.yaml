@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/nathanielperkins_npfootprints_b3f_1025_tactile_switch/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nathanielperkins_npfootprints_b3f_1025_tactile_switch/working
-    oomp_doc: footprints/footprints/NathanielPerkins/NPFootprints/B3F-1025_Tactile_Switch/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/NathanielPerkins/NPFootprints/B3F-1025_Tactile_Switch/working
     oomp_src_flat: footprints_flat/footprints_flat/nathanielperkins_npfootprints_b3f_1025_tactile_switch/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nathanielperkins_npfootprints_b3f_1025_tactile_switch/working
-    oomp_src_folder: footprints_folder/footprints_folder/NathanielPerkins/NPFootprints/B3F-1025_Tactile_Switch/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/NathanielPerkins/NPFootprints/B3F-1025_Tactile_Switch/working
   name: NPFootprints.pretty
+  oomp:
+    footprint_name: b3f_1025_tactile_switch
+    library_name: npfootprints
+    md5: 7c6e0f9a76deafda1277f23054c32241
+    md5_10: 7c6e0f9a76
+    md5_5: 7c6e0
+    md5_6: 7c6e0f
+    oomp_key: oomp_nathanielperkins_npfootprints_b3f_1025_tactile_switch
+    oomp_key_extra: oomp_footprint_nathanielperkins_npfootprints_b3f_1025_tactile_switch
+    oomp_key_full: oomp_footprint_nathanielperkins_npfootprints_b3f_1025_tactile_switch_7c6e0f
+    oomp_key_simple: nathanielperkins_npfootprints_b3f_1025_tactile_switch
+    original_filename: NPFootprints.pretty/B3F-1025_Tactile_Switch.kicad_mod
+    owner_name: nathanielperkins
   oomp_key: oomp_nathanielperkins_npfootprints_b3f_1025_tactile_switch
+  oomp_key_full: oomp_footprint_nathanielperkins_npfootprints_b3f_1025_tactile_switch
   oomp_key_simple: nathanielperkins_npfootprints_b3f_1025_tactile_switch
   owner: NathanielPerkins
   repo:

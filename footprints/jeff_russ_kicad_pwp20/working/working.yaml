@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/jeff_russ_kicad_pwp20/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/jeff_russ_kicad_pwp20/working
-    oomp_doc: footprints/footprints/Jeff-Russ/Kicad/PWP20/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Jeff-Russ/Kicad/PWP20/working
     oomp_src_flat: footprints_flat/footprints_flat/jeff_russ_kicad_pwp20/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/jeff_russ_kicad_pwp20/working
-    oomp_src_folder: footprints_folder/footprints_folder/Jeff-Russ/Kicad/PWP20/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Jeff-Russ/Kicad/PWP20/working
   name: Kicad.pretty
+  oomp:
+    footprint_name: pwp20
+    library_name: kicad
+    md5: f5cef09feb7ee46d463665c092f5bf98
+    md5_10: f5cef09feb
+    md5_5: f5cef
+    md5_6: f5cef0
+    oomp_key: oomp_jeff_russ_kicad_pwp20
+    oomp_key_extra: oomp_footprint_jeff_russ_kicad_pwp20
+    oomp_key_full: oomp_footprint_jeff_russ_kicad_pwp20_f5cef0
+    oomp_key_simple: jeff_russ_kicad_pwp20
+    original_filename: Kicad.pretty/PWP20.kicad_mod
+    owner_name: jeff_russ
   oomp_key: oomp_jeff_russ_kicad_pwp20
+  oomp_key_full: oomp_footprint_jeff_russ_kicad_pwp20
   oomp_key_simple: jeff_russ_kicad_pwp20
   owner: Jeff-Russ
   repo:

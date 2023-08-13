@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cmos_droner_kicad_sdiy_jack_pj301m/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cmos_droner_kicad_sdiy_jack_pj301m/working
-    oomp_doc: footprints/footprints/cmos-droner/KiCAD-SDIY/jack-PJ301M/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cmos-droner/KiCAD-SDIY/jack-PJ301M/working
     oomp_src_flat: footprints_flat/footprints_flat/cmos_droner_kicad_sdiy_jack_pj301m/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cmos_droner_kicad_sdiy_jack_pj301m/working
-    oomp_src_folder: footprints_folder/footprints_folder/cmos-droner/KiCAD-SDIY/jack-PJ301M/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cmos-droner/KiCAD-SDIY/jack-PJ301M/working
   name: KiCAD-SDIY.pretty
+  oomp:
+    footprint_name: jack_pj301m
+    library_name: kicad_sdiy
+    md5: 5b323f6dab29f7370d3aac61b9cef770
+    md5_10: 5b323f6dab
+    md5_5: 5b323
+    md5_6: 5b323f
+    oomp_key: oomp_cmos_droner_kicad_sdiy_jack_pj301m
+    oomp_key_extra: oomp_footprint_cmos_droner_kicad_sdiy_jack_pj301m
+    oomp_key_full: oomp_footprint_cmos_droner_kicad_sdiy_jack_pj301m_5b323f
+    oomp_key_simple: cmos_droner_kicad_sdiy_jack_pj301m
+    original_filename: KiCAD-SDIY.pretty/jack-PJ301M.kicad_mod
+    owner_name: cmos_droner
   oomp_key: oomp_cmos_droner_kicad_sdiy_jack_pj301m
+  oomp_key_full: oomp_footprint_cmos_droner_kicad_sdiy_jack_pj301m
   oomp_key_simple: cmos_droner_kicad_sdiy_jack_pj301m
   owner: cmos-droner
   repo:

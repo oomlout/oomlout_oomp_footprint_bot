@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_evq11_evq11/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_evq11_evq11/working
-    oomp_doc: footprints/footprints/brunoeagle/EVQ11.kicad_mod/EVQ11/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/EVQ11.kicad_mod/EVQ11/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_evq11_evq11/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_evq11_evq11/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/EVQ11.kicad_mod/EVQ11/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/EVQ11.kicad_mod/EVQ11/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: evq11
+    library_name: evq11_kicad_mod
+    md5: 292dbfc599386aed529485d07e4947a0
+    md5_10: 292dbfc599
+    md5_5: 292db
+    md5_6: 292dbf
+    oomp_key: oomp_brunoeagle_evq11_evq11
+    oomp_key_extra: oomp_footprint_brunoeagle_evq11_evq11
+    oomp_key_full: oomp_footprint_brunoeagle_evq11_evq11_292dbf
+    oomp_key_simple: brunoeagle_evq11_evq11
+    original_filename: kicad-open-modules/EVQ11.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_evq11_evq11
+  oomp_key_full: oomp_footprint_brunoeagle_evq11_evq11
   oomp_key_simple: brunoeagle_evq11_evq11
   owner: brunoeagle
   repo:

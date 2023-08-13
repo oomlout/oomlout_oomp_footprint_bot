@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/monostable_commonpartslibrary_rescaxe80p320x160_8n/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/monostable_commonpartslibrary_rescaxe80p320x160_8n/working
-    oomp_doc: footprints/footprints/monostable/CommonPartsLibrary/RESCAXE80P320X160-8N/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/monostable/CommonPartsLibrary/RESCAXE80P320X160-8N/working
     oomp_src_flat: footprints_flat/footprints_flat/monostable_commonpartslibrary_rescaxe80p320x160_8n/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/monostable_commonpartslibrary_rescaxe80p320x160_8n/working
-    oomp_src_folder: footprints_folder/footprints_folder/monostable/CommonPartsLibrary/RESCAXE80P320X160-8N/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/monostable/CommonPartsLibrary/RESCAXE80P320X160-8N/working
   name: CommonPartsLibrary.pretty
+  oomp:
+    footprint_name: rescaxe80p320x160_8n
+    library_name: commonpartslibrary
+    md5: 7106c561e4af3773daa025ad6fb438aa
+    md5_10: 7106c561e4
+    md5_5: 7106c
+    md5_6: 7106c5
+    oomp_key: oomp_monostable_commonpartslibrary_rescaxe80p320x160_8n
+    oomp_key_extra: oomp_footprint_monostable_commonpartslibrary_rescaxe80p320x160_8n
+    oomp_key_full: oomp_footprint_monostable_commonpartslibrary_rescaxe80p320x160_8n_7106c5
+    oomp_key_simple: monostable_commonpartslibrary_rescaxe80p320x160_8n
+    original_filename: CommonPartsLibrary.pretty/RESCAXE80P320X160-8N.kicad_mod
+    owner_name: monostable
   oomp_key: oomp_monostable_commonpartslibrary_rescaxe80p320x160_8n
+  oomp_key_full: oomp_footprint_monostable_commonpartslibrary_rescaxe80p320x160_8n
   oomp_key_simple: monostable_commonpartslibrary_rescaxe80p320x160_8n
   owner: monostable
   repo:

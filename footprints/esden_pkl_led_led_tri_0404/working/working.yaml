@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/esden_pkl_led_led_tri_0404/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/esden_pkl_led_led_tri_0404/working
-    oomp_doc: footprints/footprints/esden/pkl_led/LED_TRI_0404/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/esden/pkl_led/LED_TRI_0404/working
     oomp_src_flat: footprints_flat/footprints_flat/esden_pkl_led_led_tri_0404/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/esden_pkl_led_led_tri_0404/working
-    oomp_src_folder: footprints_folder/footprints_folder/esden/pkl_led/LED_TRI_0404/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/esden/pkl_led/LED_TRI_0404/working
   name: pretty-kicad-libs
+  oomp:
+    footprint_name: led_tri_0404
+    library_name: pkl_led
+    md5: 6f1190e617aaf3422d0658d22e59363b
+    md5_10: 6f1190e617
+    md5_5: 6f119
+    md5_6: 6f1190
+    oomp_key: oomp_esden_pkl_led_led_tri_0404
+    oomp_key_extra: oomp_footprint_esden_pkl_led_led_tri_0404
+    oomp_key_full: oomp_footprint_esden_pkl_led_led_tri_0404_6f1190
+    oomp_key_simple: esden_pkl_led_led_tri_0404
+    original_filename: pretty-kicad-libs/pkl_led.pretty/LED_TRI_0404.kicad_mod
+    owner_name: esden
   oomp_key: oomp_esden_pkl_led_led_tri_0404
+  oomp_key_full: oomp_footprint_esden_pkl_led_led_tri_0404
   oomp_key_simple: esden_pkl_led_led_tri_0404
   owner: esden
   repo:

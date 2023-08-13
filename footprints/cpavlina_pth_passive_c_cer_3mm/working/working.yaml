@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cpavlina_pth_passive_c_cer_3mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cpavlina_pth_passive_c_cer_3mm/working
-    oomp_doc: footprints/footprints/cpavlina/pth-passive/C-CER-3mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cpavlina/pth-passive/C-CER-3mm/working
     oomp_src_flat: footprints_flat/footprints_flat/cpavlina_pth_passive_c_cer_3mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cpavlina_pth_passive_c_cer_3mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/cpavlina/pth-passive/C-CER-3mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cpavlina/pth-passive/C-CER-3mm/working
   name: kicad-pcblib
+  oomp:
+    footprint_name: c_cer_3mm
+    library_name: pth_passive
+    md5: 4e06d5364c4ca5dd0d677365bdc30731
+    md5_10: 4e06d5364c
+    md5_5: 4e06d
+    md5_6: 4e06d5
+    oomp_key: oomp_cpavlina_pth_passive_c_cer_3mm
+    oomp_key_extra: oomp_footprint_cpavlina_pth_passive_c_cer_3mm
+    oomp_key_full: oomp_footprint_cpavlina_pth_passive_c_cer_3mm_4e06d5
+    oomp_key_simple: cpavlina_pth_passive_c_cer_3mm
+    original_filename: kicad-pcblib/pth-passive.pretty/C-CER-3mm.kicad_mod
+    owner_name: cpavlina
   oomp_key: oomp_cpavlina_pth_passive_c_cer_3mm
+  oomp_key_full: oomp_footprint_cpavlina_pth_passive_c_cer_3mm
   oomp_key_simple: cpavlina_pth_passive_c_cer_3mm
   owner: cpavlina
   repo:

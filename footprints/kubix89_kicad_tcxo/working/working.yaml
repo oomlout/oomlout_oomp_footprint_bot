@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/kubiX89/kiCAD.pretty
     oomp_bot: footprints/kubix89_kicad_tcxo/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kubix89_kicad_tcxo/working
-    oomp_doc: footprints/footprints/kubiX89/kiCAD/TCXO/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kubiX89/kiCAD/TCXO/working
     oomp_src_flat: footprints_flat/footprints_flat/kubix89_kicad_tcxo/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kubix89_kicad_tcxo/working
-    oomp_src_folder: footprints_folder/footprints_folder/kubiX89/kiCAD/TCXO/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kubiX89/kiCAD/TCXO/working
   name: kiCAD.pretty
+  oomp:
+    footprint_name: tcxo
+    library_name: kicad
+    md5: 2574467cb3bfe5c4afe205d0e363a5d6
+    md5_10: 2574467cb3
+    md5_5: '25744'
+    md5_6: '257446'
+    oomp_key: oomp_kubix89_kicad_tcxo
+    oomp_key_extra: oomp_footprint_kubix89_kicad_tcxo
+    oomp_key_full: oomp_footprint_kubix89_kicad_tcxo_257446
+    oomp_key_simple: kubix89_kicad_tcxo
+    original_filename: kiCAD.pretty/TCXO.kicad_mod
+    owner_name: kubix89
   oomp_key: oomp_kubix89_kicad_tcxo
+  oomp_key_full: oomp_footprint_kubix89_kicad_tcxo
   oomp_key_simple: kubix89_kicad_tcxo
   owner: kubiX89
   repo:

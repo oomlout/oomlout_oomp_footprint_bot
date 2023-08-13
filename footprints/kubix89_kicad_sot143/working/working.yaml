@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/kubiX89/kiCAD.pretty
     oomp_bot: footprints/kubix89_kicad_sot143/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kubix89_kicad_sot143/working
-    oomp_doc: footprints/footprints/kubiX89/kiCAD/SOT143/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kubiX89/kiCAD/SOT143/working
     oomp_src_flat: footprints_flat/footprints_flat/kubix89_kicad_sot143/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kubix89_kicad_sot143/working
-    oomp_src_folder: footprints_folder/footprints_folder/kubiX89/kiCAD/SOT143/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kubiX89/kiCAD/SOT143/working
   name: kiCAD.pretty
+  oomp:
+    footprint_name: sot143
+    library_name: kicad
+    md5: ec566b3acf8d4e2fb97cea608e1bf732
+    md5_10: ec566b3acf
+    md5_5: ec566
+    md5_6: ec566b
+    oomp_key: oomp_kubix89_kicad_sot143
+    oomp_key_extra: oomp_footprint_kubix89_kicad_sot143
+    oomp_key_full: oomp_footprint_kubix89_kicad_sot143_ec566b
+    oomp_key_simple: kubix89_kicad_sot143
+    original_filename: kiCAD.pretty/SOT143.kicad_mod
+    owner_name: kubix89
   oomp_key: oomp_kubix89_kicad_sot143
+  oomp_key_full: oomp_footprint_kubix89_kicad_sot143
   oomp_key_simple: kubix89_kicad_sot143
   owner: kubiX89
   repo:

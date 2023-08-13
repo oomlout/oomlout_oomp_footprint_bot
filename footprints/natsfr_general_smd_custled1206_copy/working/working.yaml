@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/natsfr_general_smd_custled1206_copy/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/natsfr_general_smd_custled1206_copy/working
-    oomp_doc: footprints/footprints/natsfr/General_SMD/CUSTLED1206_copy/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/natsfr/General_SMD/CUSTLED1206_copy/working
     oomp_src_flat: footprints_flat/footprints_flat/natsfr_general_smd_custled1206_copy/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/natsfr_general_smd_custled1206_copy/working
-    oomp_src_folder: footprints_folder/footprints_folder/natsfr/General_SMD/CUSTLED1206_copy/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/natsfr/General_SMD/CUSTLED1206_copy/working
   name: kicad-components
+  oomp:
+    footprint_name: custled1206_copy
+    library_name: general_smd
+    md5: 39575cb85c0065b5a4aa358aa90b158c
+    md5_10: 39575cb85c
+    md5_5: '39575'
+    md5_6: 39575c
+    oomp_key: oomp_natsfr_general_smd_custled1206_copy
+    oomp_key_extra: oomp_footprint_natsfr_general_smd_custled1206_copy
+    oomp_key_full: oomp_footprint_natsfr_general_smd_custled1206_copy_39575c
+    oomp_key_simple: natsfr_general_smd_custled1206_copy
+    original_filename: kicad-components/Pretty_Footprints/General_SMD.pretty/CUSTLED1206_copy.kicad_mod
+    owner_name: natsfr
   oomp_key: oomp_natsfr_general_smd_custled1206_copy
+  oomp_key_full: oomp_footprint_natsfr_general_smd_custled1206_copy
   oomp_key_simple: natsfr_general_smd_custled1206_copy
   owner: natsfr
   repo:

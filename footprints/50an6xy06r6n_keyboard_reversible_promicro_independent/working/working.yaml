@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/50an6xy06r6n/keyboard_reversible.pretty
     oomp_bot: footprints/50an6xy06r6n_keyboard_reversible_promicro_independent/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/50an6xy06r6n_keyboard_reversible_promicro_independent/working
-    oomp_doc: footprints/footprints/50an6xy06r6n/keyboard_reversible/ProMicro_independent/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/50an6xy06r6n/keyboard_reversible/ProMicro_independent/working
     oomp_src_flat: footprints_flat/footprints_flat/50an6xy06r6n_keyboard_reversible_promicro_independent/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/50an6xy06r6n_keyboard_reversible_promicro_independent/working
-    oomp_src_folder: footprints_folder/footprints_folder/50an6xy06r6n/keyboard_reversible/ProMicro_independent/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/50an6xy06r6n/keyboard_reversible/ProMicro_independent/working
   name: keyboard_reversible.pretty
+  oomp:
+    footprint_name: promicro_independent
+    library_name: keyboard_reversible
+    md5: f55d883040e7df07c705f283fae05178
+    md5_10: f55d883040
+    md5_5: f55d8
+    md5_6: f55d88
+    oomp_key: oomp_50an6xy06r6n_keyboard_reversible_promicro_independent
+    oomp_key_extra: oomp_footprint_50an6xy06r6n_keyboard_reversible_promicro_independent
+    oomp_key_full: oomp_footprint_50an6xy06r6n_keyboard_reversible_promicro_independent_f55d88
+    oomp_key_simple: 50an6xy06r6n_keyboard_reversible_promicro_independent
+    original_filename: keyboard_reversible.pretty/ProMicro_independent.kicad_mod
+    owner_name: 50an6xy06r6n
   oomp_key: oomp_50an6xy06r6n_keyboard_reversible_promicro_independent
+  oomp_key_full: oomp_footprint_50an6xy06r6n_keyboard_reversible_promicro_independent
   oomp_key_simple: 50an6xy06r6n_keyboard_reversible_promicro_independent
   owner: 50an6xy06r6n
   repo:
@@ -111,7 +121,7 @@
     releases_url: https://api.github.com/repos/50an6xy06r6n/keyboard_reversible.pretty/releases{/id}
     size: 32
     ssh_url: git@github.com:50an6xy06r6n/keyboard_reversible.pretty.git
-    stargazers_count: 37
+    stargazers_count: 39
     stargazers_url: https://api.github.com/repos/50an6xy06r6n/keyboard_reversible.pretty/stargazers
     statuses_url: https://api.github.com/repos/50an6xy06r6n/keyboard_reversible.pretty/statuses/{sha}
     subscribers_count: 1
@@ -123,10 +133,10 @@
     temp_clone_token: null
     topics: []
     trees_url: https://api.github.com/repos/50an6xy06r6n/keyboard_reversible.pretty/git/trees{/sha}
-    updated_at: '2023-06-08T19:55:43Z'
+    updated_at: '2023-08-10T10:08:16Z'
     url: https://api.github.com/repos/50an6xy06r6n/keyboard_reversible.pretty
     visibility: public
-    watchers: 37
-    watchers_count: 37
+    watchers: 39
+    watchers_count: 39
     web_commit_signoff_required: false
   url: http://github.com/50an6xy06r6n/keyboard_reversible.pretty

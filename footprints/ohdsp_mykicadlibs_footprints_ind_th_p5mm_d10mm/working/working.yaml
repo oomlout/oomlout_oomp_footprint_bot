@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/ohdsp_mykicadlibs_footprints_ind_th_p5mm_d10mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ohdsp_mykicadlibs_footprints_ind_th_p5mm_d10mm/working
-    oomp_doc: footprints/footprints/ohdsp/MyKiCadLibs-Footprints/IND-TH-P5mm-D10mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ohdsp/MyKiCadLibs-Footprints/IND-TH-P5mm-D10mm/working
     oomp_src_flat: footprints_flat/footprints_flat/ohdsp_mykicadlibs_footprints_ind_th_p5mm_d10mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ohdsp_mykicadlibs_footprints_ind_th_p5mm_d10mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/ohdsp/MyKiCadLibs-Footprints/IND-TH-P5mm-D10mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ohdsp/MyKiCadLibs-Footprints/IND-TH-P5mm-D10mm/working
   name: KiCad-Libs
+  oomp:
+    footprint_name: ind_th_p5mm_d10mm
+    library_name: mykicadlibs_footprints
+    md5: 5c21758b70487f96a9502d954c06d1de
+    md5_10: 5c21758b70
+    md5_5: 5c217
+    md5_6: 5c2175
+    oomp_key: oomp_ohdsp_mykicadlibs_footprints_ind_th_p5mm_d10mm
+    oomp_key_extra: oomp_footprint_ohdsp_mykicadlibs_footprints_ind_th_p5mm_d10mm
+    oomp_key_full: oomp_footprint_ohdsp_mykicadlibs_footprints_ind_th_p5mm_d10mm_5c2175
+    oomp_key_simple: ohdsp_mykicadlibs_footprints_ind_th_p5mm_d10mm
+    original_filename: KiCad-Libs/MyKiCadLibs-Footprints.pretty/IND-TH-P5mm-D10mm.kicad_mod
+    owner_name: ohdsp
   oomp_key: oomp_ohdsp_mykicadlibs_footprints_ind_th_p5mm_d10mm
+  oomp_key_full: oomp_footprint_ohdsp_mykicadlibs_footprints_ind_th_p5mm_d10mm
   oomp_key_simple: ohdsp_mykicadlibs_footprints_ind_th_p5mm_d10mm
   owner: ohdsp
   repo:

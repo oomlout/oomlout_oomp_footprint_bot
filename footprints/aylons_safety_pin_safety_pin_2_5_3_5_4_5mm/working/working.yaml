@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/aylons_safety_pin_safety_pin_2_5_3_5_4_5mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/aylons_safety_pin_safety_pin_2_5_3_5_4_5mm/working
-    oomp_doc: footprints/footprints/aylons/safety_pin/safety_pin_2.5_3.5_4.5mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/aylons/safety_pin/safety_pin_2.5_3.5_4.5mm/working
     oomp_src_flat: footprints_flat/footprints_flat/aylons_safety_pin_safety_pin_2_5_3_5_4_5mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/aylons_safety_pin_safety_pin_2_5_3_5_4_5mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/aylons/safety_pin/safety_pin_2.5_3.5_4.5mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/aylons/safety_pin/safety_pin_2.5_3.5_4.5mm/working
   name: safety_pin.pretty
+  oomp:
+    footprint_name: safety_pin_2_5_3_5_4_5mm
+    library_name: safety_pin
+    md5: cfd1227226f7f0541ff6bb4a4781bfd2
+    md5_10: cfd1227226
+    md5_5: cfd12
+    md5_6: cfd122
+    oomp_key: oomp_aylons_safety_pin_safety_pin_2_5_3_5_4_5mm
+    oomp_key_extra: oomp_footprint_aylons_safety_pin_safety_pin_2_5_3_5_4_5mm
+    oomp_key_full: oomp_footprint_aylons_safety_pin_safety_pin_2_5_3_5_4_5mm_cfd122
+    oomp_key_simple: aylons_safety_pin_safety_pin_2_5_3_5_4_5mm
+    original_filename: safety_pin.pretty/safety_pin_2.5_3.5_4.5mm.kicad_mod
+    owner_name: aylons
   oomp_key: oomp_aylons_safety_pin_safety_pin_2_5_3_5_4_5mm
+  oomp_key_full: oomp_footprint_aylons_safety_pin_safety_pin_2_5_3_5_4_5mm
   oomp_key_simple: aylons_safety_pin_safety_pin_2_5_3_5_4_5mm
   owner: aylons
   repo:

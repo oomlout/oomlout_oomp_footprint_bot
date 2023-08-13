@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/digikey_dip_16_w7_62mm_dip_16_w7_62mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_dip_16_w7_62mm_dip_16_w7_62mm/working
-    oomp_doc: footprints/footprints/digikey/DIP-16_W7.62mm.kicad_mod/DIP-16_W7.62mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/digikey/DIP-16_W7.62mm.kicad_mod/DIP-16_W7.62mm/working
     oomp_src_flat: footprints_flat/footprints_flat/digikey_dip_16_w7_62mm_dip_16_w7_62mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/digikey_dip_16_w7_62mm_dip_16_w7_62mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/digikey/DIP-16_W7.62mm.kicad_mod/DIP-16_W7.62mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/digikey/DIP-16_W7.62mm.kicad_mod/DIP-16_W7.62mm/working
   name: digikey-kicad-library
+  oomp:
+    footprint_name: dip_16_w7_62mm
+    library_name: dip_16_w7_62mm_kicad_mod
+    md5: f163ea049dde6a07920db434330950bc
+    md5_10: f163ea049d
+    md5_5: f163e
+    md5_6: f163ea
+    oomp_key: oomp_digikey_dip_16_w7_62mm_dip_16_w7_62mm
+    oomp_key_extra: oomp_footprint_digikey_dip_16_w7_62mm_dip_16_w7_62mm
+    oomp_key_full: oomp_footprint_digikey_dip_16_w7_62mm_dip_16_w7_62mm_f163ea
+    oomp_key_simple: digikey_dip_16_w7_62mm_dip_16_w7_62mm
+    original_filename: digikey-kicad-library/src/Source_Footprints/DIP-16_W7.62mm.kicad_mod
+    owner_name: digikey
   oomp_key: oomp_digikey_dip_16_w7_62mm_dip_16_w7_62mm
+  oomp_key_full: oomp_footprint_digikey_dip_16_w7_62mm_dip_16_w7_62mm
   oomp_key_simple: digikey_dip_16_w7_62mm_dip_16_w7_62mm
   owner: digikey
   repo:

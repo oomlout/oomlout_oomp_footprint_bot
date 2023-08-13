@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/axello_footprints_1608_c/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/axello_footprints_1608_c/working
-    oomp_doc: footprints/footprints/axello/footprints/1608_C/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/axello/footprints/1608_C/working
     oomp_src_flat: footprints_flat/footprints_flat/axello_footprints_1608_c/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/axello_footprints_1608_c/working
-    oomp_src_folder: footprints_folder/footprints_folder/axello/footprints/1608_C/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/axello/footprints/1608_C/working
   name: kicad
+  oomp:
+    footprint_name: 1608_c
+    library_name: footprints
+    md5: 6a31074870179c5a99f0629a867c4a8b
+    md5_10: 6a31074870
+    md5_5: 6a310
+    md5_6: 6a3107
+    oomp_key: oomp_axello_footprints_1608_c
+    oomp_key_extra: oomp_footprint_axello_footprints_1608_c
+    oomp_key_full: oomp_footprint_axello_footprints_1608_c_6a3107
+    oomp_key_simple: axello_footprints_1608_c
+    original_filename: kicad/demos/stickhub/footprints.pretty/1608_C.kicad_mod
+    owner_name: axello
   oomp_key: oomp_axello_footprints_1608_c
+  oomp_key_full: oomp_footprint_axello_footprints_1608_c
   oomp_key_simple: axello_footprints_1608_c
   owner: axello
   repo:

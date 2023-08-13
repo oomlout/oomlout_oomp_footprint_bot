@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/aewallin/awallinKiCadFootprints.pretty
     oomp_bot: footprints/aewallin_awallinkicadfootprints_mikes_tiimalasi/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/aewallin_awallinkicadfootprints_mikes_tiimalasi/working
-    oomp_doc: footprints/footprints/aewallin/awallinKiCadFootprints/mikes_tiimalasi/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/aewallin/awallinKiCadFootprints/mikes_tiimalasi/working
     oomp_src_flat: footprints_flat/footprints_flat/aewallin_awallinkicadfootprints_mikes_tiimalasi/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/aewallin_awallinkicadfootprints_mikes_tiimalasi/working
-    oomp_src_folder: footprints_folder/footprints_folder/aewallin/awallinKiCadFootprints/mikes_tiimalasi/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/aewallin/awallinKiCadFootprints/mikes_tiimalasi/working
   name: awallinKiCadFootprints.pretty
+  oomp:
+    footprint_name: mikes_tiimalasi
+    library_name: awallinkicadfootprints
+    md5: 1461732380811bcf66854258c76197c3
+    md5_10: '1461732380'
+    md5_5: '14617'
+    md5_6: '146173'
+    oomp_key: oomp_aewallin_awallinkicadfootprints_mikes_tiimalasi
+    oomp_key_extra: oomp_footprint_aewallin_awallinkicadfootprints_mikes_tiimalasi
+    oomp_key_full: oomp_footprint_aewallin_awallinkicadfootprints_mikes_tiimalasi_146173
+    oomp_key_simple: aewallin_awallinkicadfootprints_mikes_tiimalasi
+    original_filename: awallinKiCadFootprints.pretty/mikes_tiimalasi.kicad_mod
+    owner_name: aewallin
   oomp_key: oomp_aewallin_awallinkicadfootprints_mikes_tiimalasi
+  oomp_key_full: oomp_footprint_aewallin_awallinkicadfootprints_mikes_tiimalasi
   oomp_key_simple: aewallin_awallinkicadfootprints_mikes_tiimalasi
   owner: aewallin
   repo:

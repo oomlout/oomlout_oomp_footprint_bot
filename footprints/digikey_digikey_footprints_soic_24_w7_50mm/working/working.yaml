@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/digikey_digikey_footprints_soic_24_w7_50mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_digikey_footprints_soic_24_w7_50mm/working
-    oomp_doc: footprints/footprints/digikey/digikey-footprints/SOIC-24_W7.50mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/digikey/digikey-footprints/SOIC-24_W7.50mm/working
     oomp_src_flat: footprints_flat/footprints_flat/digikey_digikey_footprints_soic_24_w7_50mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/digikey_digikey_footprints_soic_24_w7_50mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/digikey/digikey-footprints/SOIC-24_W7.50mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/digikey/digikey-footprints/SOIC-24_W7.50mm/working
   name: digikey-kicad-library
+  oomp:
+    footprint_name: soic_24_w7_50mm
+    library_name: digikey_footprints
+    md5: 3a2465be0022ace8255cf78c304267ca
+    md5_10: 3a2465be00
+    md5_5: 3a246
+    md5_6: 3a2465
+    oomp_key: oomp_digikey_digikey_footprints_soic_24_w7_50mm
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_soic_24_w7_50mm
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_soic_24_w7_50mm_3a2465
+    oomp_key_simple: digikey_digikey_footprints_soic_24_w7_50mm
+    original_filename: digikey-kicad-library/digikey-footprints.pretty/SOIC-24_W7.50mm.kicad_mod
+    owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_soic_24_w7_50mm
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_soic_24_w7_50mm
   oomp_key_simple: digikey_digikey_footprints_soic_24_w7_50mm
   owner: digikey
   repo:

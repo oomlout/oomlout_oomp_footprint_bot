@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/shelaf_dygma_raise_fp_3528_4p_rev/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/shelaf_dygma_raise_fp_3528_4p_rev/working
-    oomp_doc: footprints/footprints/shelaf-dygma/raise_fp/3528-4p-rev/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/shelaf-dygma/raise_fp/3528-4p-rev/working
     oomp_src_flat: footprints_flat/footprints_flat/shelaf_dygma_raise_fp_3528_4p_rev/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/shelaf_dygma_raise_fp_3528_4p_rev/working
-    oomp_src_folder: footprints_folder/footprints_folder/shelaf-dygma/raise_fp/3528-4p-rev/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/shelaf-dygma/raise_fp/3528-4p-rev/working
   name: raise_fp.pretty
+  oomp:
+    footprint_name: 3528_4p_rev
+    library_name: raise_fp
+    md5: f37a98acb569b16574866e1b96c7df05
+    md5_10: f37a98acb5
+    md5_5: f37a9
+    md5_6: f37a98
+    oomp_key: oomp_shelaf_dygma_raise_fp_3528_4p_rev
+    oomp_key_extra: oomp_footprint_shelaf_dygma_raise_fp_3528_4p_rev
+    oomp_key_full: oomp_footprint_shelaf_dygma_raise_fp_3528_4p_rev_f37a98
+    oomp_key_simple: shelaf_dygma_raise_fp_3528_4p_rev
+    original_filename: raise_fp.pretty/3528-4p-rev.kicad_mod
+    owner_name: shelaf_dygma
   oomp_key: oomp_shelaf_dygma_raise_fp_3528_4p_rev
+  oomp_key_full: oomp_footprint_shelaf_dygma_raise_fp_3528_4p_rev
   oomp_key_simple: shelaf_dygma_raise_fp_3528_4p_rev
   owner: shelaf-dygma
   repo:

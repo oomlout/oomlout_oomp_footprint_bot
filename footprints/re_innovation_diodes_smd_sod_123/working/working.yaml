@@ -13,14 +13,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/re_innovation_diodes_smd_sod_123/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/re_innovation_diodes_smd_sod_123/working
-    oomp_doc: footprints/footprints/re-innovation/Diodes_SMD/SOD-123/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/re-innovation/Diodes_SMD/SOD-123/working
     oomp_src_flat: footprints_flat/footprints_flat/re_innovation_diodes_smd_sod_123/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/re_innovation_diodes_smd_sod_123/working
-    oomp_src_folder: footprints_folder/footprints_folder/re-innovation/Diodes_SMD/SOD-123/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/re-innovation/Diodes_SMD/SOD-123/working
   name: kicad_reinnovation
+  oomp:
+    footprint_name: sod_123
+    library_name: diodes_smd
+    md5: 996980a16dc0ae9fd686761771cdbccd
+    md5_10: 996980a16d
+    md5_5: '99698'
+    md5_6: '996980'
+    oomp_key: oomp_re_innovation_diodes_smd_sod_123
+    oomp_key_extra: oomp_footprint_re_innovation_diodes_smd_sod_123
+    oomp_key_full: oomp_footprint_re_innovation_diodes_smd_sod_123_996980
+    oomp_key_simple: re_innovation_diodes_smd_sod_123
+    original_filename: kicad_reinnovation/KiCAD PRETTY/Diodes_SMD.pretty/SOD-123.kicad_mod
+    owner_name: re_innovation
   oomp_key: oomp_re_innovation_diodes_smd_sod_123
+  oomp_key_full: oomp_footprint_re_innovation_diodes_smd_sod_123
   oomp_key_simple: re_innovation_diodes_smd_sod_123
   owner: re-innovation
   repo:

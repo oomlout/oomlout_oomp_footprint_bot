@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/ohdsp_mykicadlibs_footprints_fid_2mm_4mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ohdsp_mykicadlibs_footprints_fid_2mm_4mm/working
-    oomp_doc: footprints/footprints/ohdsp/MyKiCadLibs-Footprints/FID-2MM-4MM/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ohdsp/MyKiCadLibs-Footprints/FID-2MM-4MM/working
     oomp_src_flat: footprints_flat/footprints_flat/ohdsp_mykicadlibs_footprints_fid_2mm_4mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ohdsp_mykicadlibs_footprints_fid_2mm_4mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/ohdsp/MyKiCadLibs-Footprints/FID-2MM-4MM/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ohdsp/MyKiCadLibs-Footprints/FID-2MM-4MM/working
   name: KiCad-Libs
+  oomp:
+    footprint_name: fid_2mm_4mm
+    library_name: mykicadlibs_footprints
+    md5: 3f1cea88b28bafb62f5218c090e88e32
+    md5_10: 3f1cea88b2
+    md5_5: 3f1ce
+    md5_6: 3f1cea
+    oomp_key: oomp_ohdsp_mykicadlibs_footprints_fid_2mm_4mm
+    oomp_key_extra: oomp_footprint_ohdsp_mykicadlibs_footprints_fid_2mm_4mm
+    oomp_key_full: oomp_footprint_ohdsp_mykicadlibs_footprints_fid_2mm_4mm_3f1cea
+    oomp_key_simple: ohdsp_mykicadlibs_footprints_fid_2mm_4mm
+    original_filename: KiCad-Libs/MyKiCadLibs-Footprints.pretty/FID-2MM-4MM.kicad_mod
+    owner_name: ohdsp
   oomp_key: oomp_ohdsp_mykicadlibs_footprints_fid_2mm_4mm
+  oomp_key_full: oomp_footprint_ohdsp_mykicadlibs_footprints_fid_2mm_4mm
   oomp_key_simple: ohdsp_mykicadlibs_footprints_fid_2mm_4mm
   owner: ohdsp
   repo:

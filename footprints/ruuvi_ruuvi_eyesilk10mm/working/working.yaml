@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/ruuvi_ruuvi_eyesilk10mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ruuvi_ruuvi_eyesilk10mm/working
-    oomp_doc: footprints/footprints/ruuvi/Ruuvi/EYESILK10MM/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ruuvi/Ruuvi/EYESILK10MM/working
     oomp_src_flat: footprints_flat/footprints_flat/ruuvi_ruuvi_eyesilk10mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ruuvi_ruuvi_eyesilk10mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/ruuvi/Ruuvi/EYESILK10MM/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ruuvi/Ruuvi/EYESILK10MM/working
   name: kicad-library
+  oomp:
+    footprint_name: eyesilk10mm
+    library_name: ruuvi
+    md5: 6fdbf572b7c0370a7577f0dfb487a0b4
+    md5_10: 6fdbf572b7
+    md5_5: 6fdbf
+    md5_6: 6fdbf5
+    oomp_key: oomp_ruuvi_ruuvi_eyesilk10mm
+    oomp_key_extra: oomp_footprint_ruuvi_ruuvi_eyesilk10mm
+    oomp_key_full: oomp_footprint_ruuvi_ruuvi_eyesilk10mm_6fdbf5
+    oomp_key_simple: ruuvi_ruuvi_eyesilk10mm
+    original_filename: kicad-library/Ruuvi.pretty/EYESILK10MM.kicad_mod
+    owner_name: ruuvi
   oomp_key: oomp_ruuvi_ruuvi_eyesilk10mm
+  oomp_key_full: oomp_footprint_ruuvi_ruuvi_eyesilk10mm
   oomp_key_simple: ruuvi_ruuvi_eyesilk10mm
   owner: ruuvi
   repo:

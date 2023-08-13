@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/monostable_commonpartslibrary_hsmd_c190_ledm1608x80/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/monostable_commonpartslibrary_hsmd_c190_ledm1608x80/working
-    oomp_doc: footprints/footprints/monostable/CommonPartsLibrary/HSMD-C190_LEDM1608X80/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/monostable/CommonPartsLibrary/HSMD-C190_LEDM1608X80/working
     oomp_src_flat: footprints_flat/footprints_flat/monostable_commonpartslibrary_hsmd_c190_ledm1608x80/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/monostable_commonpartslibrary_hsmd_c190_ledm1608x80/working
-    oomp_src_folder: footprints_folder/footprints_folder/monostable/CommonPartsLibrary/HSMD-C190_LEDM1608X80/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/monostable/CommonPartsLibrary/HSMD-C190_LEDM1608X80/working
   name: CommonPartsLibrary.pretty
+  oomp:
+    footprint_name: hsmd_c190_ledm1608x80
+    library_name: commonpartslibrary
+    md5: 565301c729bcca58fa7bd48afb4b1c9a
+    md5_10: 565301c729
+    md5_5: '56530'
+    md5_6: '565301'
+    oomp_key: oomp_monostable_commonpartslibrary_hsmd_c190_ledm1608x80
+    oomp_key_extra: oomp_footprint_monostable_commonpartslibrary_hsmd_c190_ledm1608x80
+    oomp_key_full: oomp_footprint_monostable_commonpartslibrary_hsmd_c190_ledm1608x80_565301
+    oomp_key_simple: monostable_commonpartslibrary_hsmd_c190_ledm1608x80
+    original_filename: CommonPartsLibrary.pretty/HSMD-C190_LEDM1608X80.kicad_mod
+    owner_name: monostable
   oomp_key: oomp_monostable_commonpartslibrary_hsmd_c190_ledm1608x80
+  oomp_key_full: oomp_footprint_monostable_commonpartslibrary_hsmd_c190_ledm1608x80
   oomp_key_simple: monostable_commonpartslibrary_hsmd_c190_ledm1608x80
   owner: monostable
   repo:

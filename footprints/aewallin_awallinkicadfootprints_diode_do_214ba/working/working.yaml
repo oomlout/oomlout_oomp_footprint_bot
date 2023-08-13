@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/aewallin/awallinKiCadFootprints.pretty
     oomp_bot: footprints/aewallin_awallinkicadfootprints_diode_do_214ba/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/aewallin_awallinkicadfootprints_diode_do_214ba/working
-    oomp_doc: footprints/footprints/aewallin/awallinKiCadFootprints/DIODE_DO-214BA/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/aewallin/awallinKiCadFootprints/DIODE_DO-214BA/working
     oomp_src_flat: footprints_flat/footprints_flat/aewallin_awallinkicadfootprints_diode_do_214ba/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/aewallin_awallinkicadfootprints_diode_do_214ba/working
-    oomp_src_folder: footprints_folder/footprints_folder/aewallin/awallinKiCadFootprints/DIODE_DO-214BA/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/aewallin/awallinKiCadFootprints/DIODE_DO-214BA/working
   name: awallinKiCadFootprints.pretty
+  oomp:
+    footprint_name: diode_do_214ba
+    library_name: awallinkicadfootprints
+    md5: 5c644795e6a049e0f93d85254bede1a7
+    md5_10: 5c644795e6
+    md5_5: 5c644
+    md5_6: 5c6447
+    oomp_key: oomp_aewallin_awallinkicadfootprints_diode_do_214ba
+    oomp_key_extra: oomp_footprint_aewallin_awallinkicadfootprints_diode_do_214ba
+    oomp_key_full: oomp_footprint_aewallin_awallinkicadfootprints_diode_do_214ba_5c6447
+    oomp_key_simple: aewallin_awallinkicadfootprints_diode_do_214ba
+    original_filename: awallinKiCadFootprints.pretty/DIODE_DO-214BA.kicad_mod
+    owner_name: aewallin
   oomp_key: oomp_aewallin_awallinkicadfootprints_diode_do_214ba
+  oomp_key_full: oomp_footprint_aewallin_awallinkicadfootprints_diode_do_214ba
   oomp_key_simple: aewallin_awallinkicadfootprints_diode_do_214ba
   owner: aewallin
   repo:

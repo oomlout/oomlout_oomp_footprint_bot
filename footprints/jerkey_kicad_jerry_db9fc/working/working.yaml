@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/jerkey_kicad_jerry_db9fc/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/jerkey_kicad_jerry_db9fc/working
-    oomp_doc: footprints/footprints/jerkey/kicad-jerry/DB9FC/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/jerkey/kicad-jerry/DB9FC/working
     oomp_src_flat: footprints_flat/footprints_flat/jerkey_kicad_jerry_db9fc/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/jerkey_kicad_jerry_db9fc/working
-    oomp_src_folder: footprints_folder/footprints_folder/jerkey/kicad-jerry/DB9FC/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/jerkey/kicad-jerry/DB9FC/working
   name: kicad-jerry.pretty
+  oomp:
+    footprint_name: db9fc
+    library_name: kicad_jerry
+    md5: 3be6246bfb8fe3370ece73ec221a2d76
+    md5_10: 3be6246bfb
+    md5_5: 3be62
+    md5_6: 3be624
+    oomp_key: oomp_jerkey_kicad_jerry_db9fc
+    oomp_key_extra: oomp_footprint_jerkey_kicad_jerry_db9fc
+    oomp_key_full: oomp_footprint_jerkey_kicad_jerry_db9fc_3be624
+    oomp_key_simple: jerkey_kicad_jerry_db9fc
+    original_filename: kicad-jerry.pretty/DB9FC.kicad_mod
+    owner_name: jerkey
   oomp_key: oomp_jerkey_kicad_jerry_db9fc
+  oomp_key_full: oomp_footprint_jerkey_kicad_jerry_db9fc
   oomp_key_simple: jerkey_kicad_jerry_db9fc
   owner: jerkey
   repo:

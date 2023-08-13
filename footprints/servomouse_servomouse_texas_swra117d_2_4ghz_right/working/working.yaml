@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/servomouse_servomouse_texas_swra117d_2_4ghz_right/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/servomouse_servomouse_texas_swra117d_2_4ghz_right/working
-    oomp_doc: footprints/footprints/servomouse/servomouse/Texas_SWRA117D_2.4GHz_Right/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/servomouse/servomouse/Texas_SWRA117D_2.4GHz_Right/working
     oomp_src_flat: footprints_flat/footprints_flat/servomouse_servomouse_texas_swra117d_2_4ghz_right/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/servomouse_servomouse_texas_swra117d_2_4ghz_right/working
-    oomp_src_folder: footprints_folder/footprints_folder/servomouse/servomouse/Texas_SWRA117D_2.4GHz_Right/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/servomouse/servomouse/Texas_SWRA117D_2.4GHz_Right/working
   name: servomouse.pretty
+  oomp:
+    footprint_name: texas_swra117d_2_4ghz_right
+    library_name: servomouse
+    md5: 053139c7d509bfa2b533644c0c54a75e
+    md5_10: 053139c7d5
+    md5_5: '05313'
+    md5_6: 053139
+    oomp_key: oomp_servomouse_servomouse_texas_swra117d_2_4ghz_right
+    oomp_key_extra: oomp_footprint_servomouse_servomouse_texas_swra117d_2_4ghz_right
+    oomp_key_full: oomp_footprint_servomouse_servomouse_texas_swra117d_2_4ghz_right_053139
+    oomp_key_simple: servomouse_servomouse_texas_swra117d_2_4ghz_right
+    original_filename: servomouse.pretty/Texas_SWRA117D_2.4GHz_Right.kicad_mod
+    owner_name: servomouse
   oomp_key: oomp_servomouse_servomouse_texas_swra117d_2_4ghz_right
+  oomp_key_full: oomp_footprint_servomouse_servomouse_texas_swra117d_2_4ghz_right
   oomp_key_simple: servomouse_servomouse_texas_swra117d_2_4ghz_right
   owner: servomouse
   repo:

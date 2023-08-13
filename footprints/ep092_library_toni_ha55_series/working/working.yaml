@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/ep092_library_toni_ha55_series/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ep092_library_toni_ha55_series/working
-    oomp_doc: footprints/footprints/ep092/library_toni/HA55_SERIES/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ep092/library_toni/HA55_SERIES/working
     oomp_src_flat: footprints_flat/footprints_flat/ep092_library_toni_ha55_series/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ep092_library_toni_ha55_series/working
-    oomp_src_folder: footprints_folder/footprints_folder/ep092/library_toni/HA55_SERIES/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ep092/library_toni/HA55_SERIES/working
   name: library_toni.pretty
+  oomp:
+    footprint_name: ha55_series
+    library_name: library_toni
+    md5: cccd12a00ab3e85481da9cdc256b1062
+    md5_10: cccd12a00a
+    md5_5: cccd1
+    md5_6: cccd12
+    oomp_key: oomp_ep092_library_toni_ha55_series
+    oomp_key_extra: oomp_footprint_ep092_library_toni_ha55_series
+    oomp_key_full: oomp_footprint_ep092_library_toni_ha55_series_cccd12
+    oomp_key_simple: ep092_library_toni_ha55_series
+    original_filename: library_toni.pretty/HA55_SERIES.kicad_mod
+    owner_name: ep092
   oomp_key: oomp_ep092_library_toni_ha55_series
+  oomp_key_full: oomp_footprint_ep092_library_toni_ha55_series
   oomp_key_simple: ep092_library_toni_ha55_series
   owner: ep092
   repo:

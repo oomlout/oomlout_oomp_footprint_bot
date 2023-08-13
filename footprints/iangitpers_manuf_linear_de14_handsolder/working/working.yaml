@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/Iangitpers/4a
     oomp_bot: footprints/iangitpers_manuf_linear_de14_handsolder/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/iangitpers_manuf_linear_de14_handsolder/working
-    oomp_doc: footprints/footprints/Iangitpers/manuf/LINEAR-DE14-HANDSOLDER/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Iangitpers/manuf/LINEAR-DE14-HANDSOLDER/working
     oomp_src_flat: footprints_flat/footprints_flat/iangitpers_manuf_linear_de14_handsolder/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/iangitpers_manuf_linear_de14_handsolder/working
-    oomp_src_folder: footprints_folder/footprints_folder/Iangitpers/manuf/LINEAR-DE14-HANDSOLDER/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Iangitpers/manuf/LINEAR-DE14-HANDSOLDER/working
   name: 4a
+  oomp:
+    footprint_name: linear_de14_handsolder
+    library_name: manuf
+    md5: 634eb12e9b31835b2566509a5614ad5a
+    md5_10: 634eb12e9b
+    md5_5: 634eb
+    md5_6: 634eb1
+    oomp_key: oomp_iangitpers_manuf_linear_de14_handsolder
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_linear_de14_handsolder
+    oomp_key_full: oomp_footprint_iangitpers_manuf_linear_de14_handsolder_634eb1
+    oomp_key_simple: iangitpers_manuf_linear_de14_handsolder
+    original_filename: 4a/manuf.pretty/LINEAR-DE14-HANDSOLDER.kicad_mod
+    owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_linear_de14_handsolder
+  oomp_key_full: oomp_footprint_iangitpers_manuf_linear_de14_handsolder
   oomp_key_simple: iangitpers_manuf_linear_de14_handsolder
   owner: Iangitpers
   repo:

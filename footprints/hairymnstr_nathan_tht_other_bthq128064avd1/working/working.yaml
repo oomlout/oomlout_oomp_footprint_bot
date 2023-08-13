@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/hairymnstr_nathan_tht_other_bthq128064avd1/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/hairymnstr_nathan_tht_other_bthq128064avd1/working
-    oomp_doc: footprints/footprints/hairymnstr/Nathan_THT_Other/BTHQ128064AVD1/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/hairymnstr/Nathan_THT_Other/BTHQ128064AVD1/working
     oomp_src_flat: footprints_flat/footprints_flat/hairymnstr_nathan_tht_other_bthq128064avd1/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/hairymnstr_nathan_tht_other_bthq128064avd1/working
-    oomp_src_folder: footprints_folder/footprints_folder/hairymnstr/Nathan_THT_Other/BTHQ128064AVD1/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/hairymnstr/Nathan_THT_Other/BTHQ128064AVD1/working
   name: Nathan_THT_Other.pretty
+  oomp:
+    footprint_name: bthq128064avd1
+    library_name: nathan_tht_other
+    md5: 5430774fc0fe0e9c1796b4e09beab132
+    md5_10: 5430774fc0
+    md5_5: '54307'
+    md5_6: '543077'
+    oomp_key: oomp_hairymnstr_nathan_tht_other_bthq128064avd1
+    oomp_key_extra: oomp_footprint_hairymnstr_nathan_tht_other_bthq128064avd1
+    oomp_key_full: oomp_footprint_hairymnstr_nathan_tht_other_bthq128064avd1_543077
+    oomp_key_simple: hairymnstr_nathan_tht_other_bthq128064avd1
+    original_filename: Nathan_THT_Other.pretty/BTHQ128064AVD1.kicad_mod
+    owner_name: hairymnstr
   oomp_key: oomp_hairymnstr_nathan_tht_other_bthq128064avd1
+  oomp_key_full: oomp_footprint_hairymnstr_nathan_tht_other_bthq128064avd1
   oomp_key_simple: hairymnstr_nathan_tht_other_bthq128064avd1
   owner: hairymnstr
   repo:

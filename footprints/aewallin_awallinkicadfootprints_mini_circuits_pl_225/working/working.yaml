@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/aewallin/awallinKiCadFootprints.pretty
     oomp_bot: footprints/aewallin_awallinkicadfootprints_mini_circuits_pl_225/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/aewallin_awallinkicadfootprints_mini_circuits_pl_225/working
-    oomp_doc: footprints/footprints/aewallin/awallinKiCadFootprints/Mini-Circuits_PL-225/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/aewallin/awallinKiCadFootprints/Mini-Circuits_PL-225/working
     oomp_src_flat: footprints_flat/footprints_flat/aewallin_awallinkicadfootprints_mini_circuits_pl_225/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/aewallin_awallinkicadfootprints_mini_circuits_pl_225/working
-    oomp_src_folder: footprints_folder/footprints_folder/aewallin/awallinKiCadFootprints/Mini-Circuits_PL-225/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/aewallin/awallinKiCadFootprints/Mini-Circuits_PL-225/working
   name: awallinKiCadFootprints.pretty
+  oomp:
+    footprint_name: mini_circuits_pl_225
+    library_name: awallinkicadfootprints
+    md5: 3809d3721d6a5dd29260414fe10b1cc8
+    md5_10: 3809d3721d
+    md5_5: 3809d
+    md5_6: 3809d3
+    oomp_key: oomp_aewallin_awallinkicadfootprints_mini_circuits_pl_225
+    oomp_key_extra: oomp_footprint_aewallin_awallinkicadfootprints_mini_circuits_pl_225
+    oomp_key_full: oomp_footprint_aewallin_awallinkicadfootprints_mini_circuits_pl_225_3809d3
+    oomp_key_simple: aewallin_awallinkicadfootprints_mini_circuits_pl_225
+    original_filename: awallinKiCadFootprints.pretty/Mini-Circuits_PL-225.kicad_mod
+    owner_name: aewallin
   oomp_key: oomp_aewallin_awallinkicadfootprints_mini_circuits_pl_225
+  oomp_key_full: oomp_footprint_aewallin_awallinkicadfootprints_mini_circuits_pl_225
   oomp_key_simple: aewallin_awallinkicadfootprints_mini_circuits_pl_225
   owner: aewallin
   repo:

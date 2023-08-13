@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/stefanhamminga_sh_ic_custom_adesto_8ma1_udfn_6x5mm_te/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stefanhamminga_sh_ic_custom_adesto_8ma1_udfn_6x5mm_te/working
-    oomp_doc: footprints/footprints/StefanHamminga/SH_IC_Custom/Adesto_8MA1_UDFN_6x5mm_TE/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/StefanHamminga/SH_IC_Custom/Adesto_8MA1_UDFN_6x5mm_TE/working
     oomp_src_flat: footprints_flat/footprints_flat/stefanhamminga_sh_ic_custom_adesto_8ma1_udfn_6x5mm_te/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/stefanhamminga_sh_ic_custom_adesto_8ma1_udfn_6x5mm_te/working
-    oomp_src_folder: footprints_folder/footprints_folder/StefanHamminga/SH_IC_Custom/Adesto_8MA1_UDFN_6x5mm_TE/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/StefanHamminga/SH_IC_Custom/Adesto_8MA1_UDFN_6x5mm_TE/working
   name: SH_IC_Custom.pretty
+  oomp:
+    footprint_name: adesto_8ma1_udfn_6x5mm_te
+    library_name: sh_ic_custom
+    md5: 47c05f677fc274454845a15810e94fcb
+    md5_10: 47c05f677f
+    md5_5: 47c05
+    md5_6: 47c05f
+    oomp_key: oomp_stefanhamminga_sh_ic_custom_adesto_8ma1_udfn_6x5mm_te
+    oomp_key_extra: oomp_footprint_stefanhamminga_sh_ic_custom_adesto_8ma1_udfn_6x5mm_te
+    oomp_key_full: oomp_footprint_stefanhamminga_sh_ic_custom_adesto_8ma1_udfn_6x5mm_te_47c05f
+    oomp_key_simple: stefanhamminga_sh_ic_custom_adesto_8ma1_udfn_6x5mm_te
+    original_filename: SH_IC_Custom.pretty/Adesto_8MA1_UDFN_6x5mm_TE.kicad_mod
+    owner_name: stefanhamminga
   oomp_key: oomp_stefanhamminga_sh_ic_custom_adesto_8ma1_udfn_6x5mm_te
+  oomp_key_full: oomp_footprint_stefanhamminga_sh_ic_custom_adesto_8ma1_udfn_6x5mm_te
   oomp_key_simple: stefanhamminga_sh_ic_custom_adesto_8ma1_udfn_6x5mm_te
   owner: StefanHamminga
   repo:

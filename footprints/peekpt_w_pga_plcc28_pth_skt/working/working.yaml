@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/peekpt_w_pga_plcc28_pth_skt/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/peekpt_w_pga_plcc28_pth_skt/working
-    oomp_doc: footprints/footprints/peekpt/w_pga/plcc28_pth-skt/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/peekpt/w_pga/plcc28_pth-skt/working
     oomp_src_flat: footprints_flat/footprints_flat/peekpt_w_pga_plcc28_pth_skt/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/peekpt_w_pga_plcc28_pth_skt/working
-    oomp_src_folder: footprints_folder/footprints_folder/peekpt/w_pga/plcc28_pth-skt/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/peekpt/w_pga/plcc28_pth-skt/working
   name: kicad_smisioto
+  oomp:
+    footprint_name: plcc28_pth_skt
+    library_name: w_pga
+    md5: 24aa9427b51da0396044de2ffa1a5c70
+    md5_10: 24aa9427b5
+    md5_5: 24aa9
+    md5_6: 24aa94
+    oomp_key: oomp_peekpt_w_pga_plcc28_pth_skt
+    oomp_key_extra: oomp_footprint_peekpt_w_pga_plcc28_pth_skt
+    oomp_key_full: oomp_footprint_peekpt_w_pga_plcc28_pth_skt_24aa94
+    oomp_key_simple: peekpt_w_pga_plcc28_pth_skt
+    original_filename: kicad_smisioto/modules/walter/w_pga.pretty/w_pth_plcc.pretty/plcc28_pth-skt.kicad_mod
+    owner_name: peekpt
   oomp_key: oomp_peekpt_w_pga_plcc28_pth_skt
+  oomp_key_full: oomp_footprint_peekpt_w_pga_plcc28_pth_skt
   oomp_key_simple: peekpt_w_pga_plcc28_pth_skt
   owner: peekpt
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_indutor_33uh_indutor_33uh/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_indutor_33uh_indutor_33uh/working
-    oomp_doc: footprints/footprints/brunoeagle/INDUTOR_33UH.kicad_mod/INDUTOR_33UH/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/INDUTOR_33UH.kicad_mod/INDUTOR_33UH/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_indutor_33uh_indutor_33uh/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_indutor_33uh_indutor_33uh/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/INDUTOR_33UH.kicad_mod/INDUTOR_33UH/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/INDUTOR_33UH.kicad_mod/INDUTOR_33UH/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: indutor_33uh
+    library_name: indutor_33uh_kicad_mod
+    md5: 9d2a92f9b50810b4bedb6a0d6bbb21a7
+    md5_10: 9d2a92f9b5
+    md5_5: 9d2a9
+    md5_6: 9d2a92
+    oomp_key: oomp_brunoeagle_indutor_33uh_indutor_33uh
+    oomp_key_extra: oomp_footprint_brunoeagle_indutor_33uh_indutor_33uh
+    oomp_key_full: oomp_footprint_brunoeagle_indutor_33uh_indutor_33uh_9d2a92
+    oomp_key_simple: brunoeagle_indutor_33uh_indutor_33uh
+    original_filename: kicad-open-modules/INDUTOR_33UH.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_indutor_33uh_indutor_33uh
+  oomp_key_full: oomp_footprint_brunoeagle_indutor_33uh_indutor_33uh
   oomp_key_simple: brunoeagle_indutor_33uh_indutor_33uh
   owner: brunoeagle
   repo:

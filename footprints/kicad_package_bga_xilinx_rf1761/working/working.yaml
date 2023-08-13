@@ -12,17 +12,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_package_bga_xilinx_rf1761/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_package_bga_xilinx_rf1761/working
-    oomp_doc: footprints/footprints/kicad/Package_BGA/Xilinx_RF1761/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Package_BGA/Xilinx_RF1761/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_package_bga_xilinx_rf1761/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_package_bga_xilinx_rf1761/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Package_BGA/Xilinx_RF1761/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Package_BGA/Xilinx_RF1761/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: xilinx_rf1761
+    library_name: package_bga
+    md5: b354570c1ef659fffc5d4e42dd4b145f
+    md5_10: b354570c1e
+    md5_5: b3545
+    md5_6: b35457
+    oomp_key: oomp_kicad_package_bga_xilinx_rf1761
+    oomp_key_extra: oomp_footprint_kicad_package_bga_xilinx_rf1761
+    oomp_key_full: oomp_footprint_kicad_package_bga_xilinx_rf1761_b35457
+    oomp_key_simple: kicad_package_bga_xilinx_rf1761
+    original_filename: libraries/kicad-footprints/Package_BGA.pretty/Xilinx_RF1761.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_package_bga_xilinx_rf1761
+  oomp_key_full: oomp_footprint_kicad_package_bga_xilinx_rf1761
   oomp_key_simple: kicad_package_bga_xilinx_rf1761
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

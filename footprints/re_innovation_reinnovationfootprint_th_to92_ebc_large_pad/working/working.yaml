@@ -13,14 +13,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/re_innovation_reinnovationfootprint_th_to92_ebc_large_pad/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/re_innovation_reinnovationfootprint_th_to92_ebc_large_pad/working
-    oomp_doc: footprints/footprints/re-innovation/REInnovationFootprint/TH_TO92-EBC_large_pad/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/re-innovation/REInnovationFootprint/TH_TO92-EBC_large_pad/working
     oomp_src_flat: footprints_flat/footprints_flat/re_innovation_reinnovationfootprint_th_to92_ebc_large_pad/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/re_innovation_reinnovationfootprint_th_to92_ebc_large_pad/working
-    oomp_src_folder: footprints_folder/footprints_folder/re-innovation/REInnovationFootprint/TH_TO92-EBC_large_pad/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/re-innovation/REInnovationFootprint/TH_TO92-EBC_large_pad/working
   name: kicad_reinnovation
+  oomp:
+    footprint_name: th_to92_ebc_large_pad
+    library_name: reinnovationfootprint
+    md5: d304854afb2a4da8834e24ecabf421de
+    md5_10: d304854afb
+    md5_5: d3048
+    md5_6: d30485
+    oomp_key: oomp_re_innovation_reinnovationfootprint_th_to92_ebc_large_pad
+    oomp_key_extra: oomp_footprint_re_innovation_reinnovationfootprint_th_to92_ebc_large_pad
+    oomp_key_full: oomp_footprint_re_innovation_reinnovationfootprint_th_to92_ebc_large_pad_d30485
+    oomp_key_simple: re_innovation_reinnovationfootprint_th_to92_ebc_large_pad
+    original_filename: kicad_reinnovation/KiCAD PRETTY/REInnovationFootprint.pretty/TH_TO92-EBC_large_pad.kicad_mod
+    owner_name: re_innovation
   oomp_key: oomp_re_innovation_reinnovationfootprint_th_to92_ebc_large_pad
+  oomp_key_full: oomp_footprint_re_innovation_reinnovationfootprint_th_to92_ebc_large_pad
   oomp_key_simple: re_innovation_reinnovationfootprint_th_to92_ebc_large_pad
   owner: re-innovation
   repo:

@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/kiu/kiu-footprint.pretty
     oomp_bot: footprints/kiu_kiu_footprint_sds011/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kiu_kiu_footprint_sds011/working
-    oomp_doc: footprints/footprints/kiu/kiu-footprint/SDS011/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kiu/kiu-footprint/SDS011/working
     oomp_src_flat: footprints_flat/footprints_flat/kiu_kiu_footprint_sds011/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kiu_kiu_footprint_sds011/working
-    oomp_src_folder: footprints_folder/footprints_folder/kiu/kiu-footprint/SDS011/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kiu/kiu-footprint/SDS011/working
   name: kiu-footprint.pretty
+  oomp:
+    footprint_name: sds011
+    library_name: kiu_footprint
+    md5: 5e999358b12b93d1031495542c34199a
+    md5_10: 5e999358b1
+    md5_5: 5e999
+    md5_6: 5e9993
+    oomp_key: oomp_kiu_kiu_footprint_sds011
+    oomp_key_extra: oomp_footprint_kiu_kiu_footprint_sds011
+    oomp_key_full: oomp_footprint_kiu_kiu_footprint_sds011_5e9993
+    oomp_key_simple: kiu_kiu_footprint_sds011
+    original_filename: kiu-footprint.pretty/SDS011.kicad_mod
+    owner_name: kiu
   oomp_key: oomp_kiu_kiu_footprint_sds011
+  oomp_key_full: oomp_footprint_kiu_kiu_footprint_sds011
   oomp_key_simple: kiu_kiu_footprint_sds011
   owner: kiu
   repo:

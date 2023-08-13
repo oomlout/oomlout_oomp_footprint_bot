@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/hairymnstr_nathan_tht_other_jumper_friction/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/hairymnstr_nathan_tht_other_jumper_friction/working
-    oomp_doc: footprints/footprints/hairymnstr/Nathan_THT_Other/JUMPER_FRICTION/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/hairymnstr/Nathan_THT_Other/JUMPER_FRICTION/working
     oomp_src_flat: footprints_flat/footprints_flat/hairymnstr_nathan_tht_other_jumper_friction/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/hairymnstr_nathan_tht_other_jumper_friction/working
-    oomp_src_folder: footprints_folder/footprints_folder/hairymnstr/Nathan_THT_Other/JUMPER_FRICTION/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/hairymnstr/Nathan_THT_Other/JUMPER_FRICTION/working
   name: Nathan_THT_Other.pretty
+  oomp:
+    footprint_name: jumper_friction
+    library_name: nathan_tht_other
+    md5: 8b036bc453e370b674f648dacfa1597f
+    md5_10: 8b036bc453
+    md5_5: 8b036
+    md5_6: 8b036b
+    oomp_key: oomp_hairymnstr_nathan_tht_other_jumper_friction
+    oomp_key_extra: oomp_footprint_hairymnstr_nathan_tht_other_jumper_friction
+    oomp_key_full: oomp_footprint_hairymnstr_nathan_tht_other_jumper_friction_8b036b
+    oomp_key_simple: hairymnstr_nathan_tht_other_jumper_friction
+    original_filename: Nathan_THT_Other.pretty/JUMPER_FRICTION.kicad_mod
+    owner_name: hairymnstr
   oomp_key: oomp_hairymnstr_nathan_tht_other_jumper_friction
+  oomp_key_full: oomp_footprint_hairymnstr_nathan_tht_other_jumper_friction
   oomp_key_simple: hairymnstr_nathan_tht_other_jumper_friction
   owner: hairymnstr
   repo:

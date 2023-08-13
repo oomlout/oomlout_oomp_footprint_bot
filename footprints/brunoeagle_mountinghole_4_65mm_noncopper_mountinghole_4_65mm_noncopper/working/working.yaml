@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_mountinghole_4_65mm_noncopper_mountinghole_4_65mm_noncopper/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_mountinghole_4_65mm_noncopper_mountinghole_4_65mm_noncopper/working
-    oomp_doc: footprints/footprints/brunoeagle/MountingHole_4.65mm_NonCopper.kicad_mod/MountingHole_4.65mm_NonCopper/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/MountingHole_4.65mm_NonCopper.kicad_mod/MountingHole_4.65mm_NonCopper/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_mountinghole_4_65mm_noncopper_mountinghole_4_65mm_noncopper/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_mountinghole_4_65mm_noncopper_mountinghole_4_65mm_noncopper/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/MountingHole_4.65mm_NonCopper.kicad_mod/MountingHole_4.65mm_NonCopper/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/MountingHole_4.65mm_NonCopper.kicad_mod/MountingHole_4.65mm_NonCopper/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: mountinghole_4_65mm_noncopper
+    library_name: mountinghole_4_65mm_noncopper_kicad_mod
+    md5: 043b5d431d64e9182e800277c416b71c
+    md5_10: 043b5d431d
+    md5_5: 043b5
+    md5_6: 043b5d
+    oomp_key: oomp_brunoeagle_mountinghole_4_65mm_noncopper_mountinghole_4_65mm_noncopper
+    oomp_key_extra: oomp_footprint_brunoeagle_mountinghole_4_65mm_noncopper_mountinghole_4_65mm_noncopper
+    oomp_key_full: oomp_footprint_brunoeagle_mountinghole_4_65mm_noncopper_mountinghole_4_65mm_noncopper_043b5d
+    oomp_key_simple: brunoeagle_mountinghole_4_65mm_noncopper_mountinghole_4_65mm_noncopper
+    original_filename: kicad-open-modules/MountingHole_4.65mm_NonCopper.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_mountinghole_4_65mm_noncopper_mountinghole_4_65mm_noncopper
+  oomp_key_full: oomp_footprint_brunoeagle_mountinghole_4_65mm_noncopper_mountinghole_4_65mm_noncopper
   oomp_key_simple: brunoeagle_mountinghole_4_65mm_noncopper_mountinghole_4_65mm_noncopper
   owner: brunoeagle
   repo:

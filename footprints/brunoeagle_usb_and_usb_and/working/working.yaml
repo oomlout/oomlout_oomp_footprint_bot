@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_usb_and_usb_and/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_usb_and_usb_and/working
-    oomp_doc: footprints/footprints/brunoeagle/USB-AND.kicad_mod/USB-AND/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/USB-AND.kicad_mod/USB-AND/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_usb_and_usb_and/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_usb_and_usb_and/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/USB-AND.kicad_mod/USB-AND/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/USB-AND.kicad_mod/USB-AND/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: usb_and
+    library_name: usb_and_kicad_mod
+    md5: f9ee2f7878fb8a1c861eeff11d12687f
+    md5_10: f9ee2f7878
+    md5_5: f9ee2
+    md5_6: f9ee2f
+    oomp_key: oomp_brunoeagle_usb_and_usb_and
+    oomp_key_extra: oomp_footprint_brunoeagle_usb_and_usb_and
+    oomp_key_full: oomp_footprint_brunoeagle_usb_and_usb_and_f9ee2f
+    oomp_key_simple: brunoeagle_usb_and_usb_and
+    original_filename: kicad-open-modules/USB-AND.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_usb_and_usb_and
+  oomp_key_full: oomp_footprint_brunoeagle_usb_and_usb_and
   oomp_key_simple: brunoeagle_usb_and_usb_and
   owner: brunoeagle
   repo:

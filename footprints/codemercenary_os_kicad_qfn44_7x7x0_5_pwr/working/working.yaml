@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/codemercenary_os_kicad_qfn44_7x7x0_5_pwr/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/codemercenary_os_kicad_qfn44_7x7x0_5_pwr/working
-    oomp_doc: footprints/footprints/codemercenary-os/kicad/QFN44_7X7X0.5_PWR/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/codemercenary-os/kicad/QFN44_7X7X0.5_PWR/working
     oomp_src_flat: footprints_flat/footprints_flat/codemercenary_os_kicad_qfn44_7x7x0_5_pwr/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/codemercenary_os_kicad_qfn44_7x7x0_5_pwr/working
-    oomp_src_folder: footprints_folder/footprints_folder/codemercenary-os/kicad/QFN44_7X7X0.5_PWR/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/codemercenary-os/kicad/QFN44_7X7X0.5_PWR/working
   name: kicad.pretty
+  oomp:
+    footprint_name: qfn44_7x7x0_5_pwr
+    library_name: kicad
+    md5: 20c20b6a5a2da744cb90c37e9f67390f
+    md5_10: 20c20b6a5a
+    md5_5: 20c20
+    md5_6: 20c20b
+    oomp_key: oomp_codemercenary_os_kicad_qfn44_7x7x0_5_pwr
+    oomp_key_extra: oomp_footprint_codemercenary_os_kicad_qfn44_7x7x0_5_pwr
+    oomp_key_full: oomp_footprint_codemercenary_os_kicad_qfn44_7x7x0_5_pwr_20c20b
+    oomp_key_simple: codemercenary_os_kicad_qfn44_7x7x0_5_pwr
+    original_filename: kicad.pretty/QFN44_7X7X0.5_PWR.kicad_mod
+    owner_name: codemercenary_os
   oomp_key: oomp_codemercenary_os_kicad_qfn44_7x7x0_5_pwr
+  oomp_key_full: oomp_footprint_codemercenary_os_kicad_qfn44_7x7x0_5_pwr
   oomp_key_simple: codemercenary_os_kicad_qfn44_7x7x0_5_pwr
   owner: codemercenary-os
   repo:

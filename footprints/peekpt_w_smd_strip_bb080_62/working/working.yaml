@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/peekpt_w_smd_strip_bb080_62/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/peekpt_w_smd_strip_bb080_62/working
-    oomp_doc: footprints/footprints/peekpt/w_smd_strip/bb080_62/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/peekpt/w_smd_strip/bb080_62/working
     oomp_src_flat: footprints_flat/footprints_flat/peekpt_w_smd_strip_bb080_62/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/peekpt_w_smd_strip_bb080_62/working
-    oomp_src_folder: footprints_folder/footprints_folder/peekpt/w_smd_strip/bb080_62/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/peekpt/w_smd_strip/bb080_62/working
   name: kicad_smisioto
+  oomp:
+    footprint_name: bb080_62
+    library_name: w_smd_strip
+    md5: 6076ebeb50ae8f50cfdcd028966d3a5c
+    md5_10: 6076ebeb50
+    md5_5: 6076e
+    md5_6: 6076eb
+    oomp_key: oomp_peekpt_w_smd_strip_bb080_62
+    oomp_key_extra: oomp_footprint_peekpt_w_smd_strip_bb080_62
+    oomp_key_full: oomp_footprint_peekpt_w_smd_strip_bb080_62_6076eb
+    oomp_key_simple: peekpt_w_smd_strip_bb080_62
+    original_filename: kicad_smisioto/modules/walter/w_smd_strip.pretty/bb080_62.kicad_mod
+    owner_name: peekpt
   oomp_key: oomp_peekpt_w_smd_strip_bb080_62
+  oomp_key_full: oomp_footprint_peekpt_w_smd_strip_bb080_62
   oomp_key_simple: peekpt_w_smd_strip_bb080_62
   owner: peekpt
   repo:

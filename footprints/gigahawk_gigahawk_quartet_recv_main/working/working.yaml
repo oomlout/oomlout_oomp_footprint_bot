@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/gigahawk_gigahawk_quartet_recv_main/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/gigahawk_gigahawk_quartet_recv_main/working
-    oomp_doc: footprints/footprints/Gigahawk/Gigahawk/QUARTET_RECV_MAIN/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Gigahawk/Gigahawk/QUARTET_RECV_MAIN/working
     oomp_src_flat: footprints_flat/footprints_flat/gigahawk_gigahawk_quartet_recv_main/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/gigahawk_gigahawk_quartet_recv_main/working
-    oomp_src_folder: footprints_folder/footprints_folder/Gigahawk/Gigahawk/QUARTET_RECV_MAIN/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Gigahawk/Gigahawk/QUARTET_RECV_MAIN/working
   name: Gigahawk.pretty
+  oomp:
+    footprint_name: quartet_recv_main
+    library_name: gigahawk
+    md5: 5606a3a1ce36fd49db88ed6e87e9fe46
+    md5_10: 5606a3a1ce
+    md5_5: 5606a
+    md5_6: 5606a3
+    oomp_key: oomp_gigahawk_gigahawk_quartet_recv_main
+    oomp_key_extra: oomp_footprint_gigahawk_gigahawk_quartet_recv_main
+    oomp_key_full: oomp_footprint_gigahawk_gigahawk_quartet_recv_main_5606a3
+    oomp_key_simple: gigahawk_gigahawk_quartet_recv_main
+    original_filename: Gigahawk.pretty/QUARTET_RECV_MAIN.kicad_mod
+    owner_name: gigahawk
   oomp_key: oomp_gigahawk_gigahawk_quartet_recv_main
+  oomp_key_full: oomp_footprint_gigahawk_gigahawk_quartet_recv_main
   oomp_key_simple: gigahawk_gigahawk_quartet_recv_main
   owner: Gigahawk
   repo:

@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/adamjvr/KiCAD-OnHand-Lib
     oomp_bot: footprints/adamjvr_onhand_components_mkl05z16vfk4/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/adamjvr_onhand_components_mkl05z16vfk4/working
-    oomp_doc: footprints/footprints/adamjvr/OnHand-Components/MKL05Z16VFK4/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/adamjvr/OnHand-Components/MKL05Z16VFK4/working
     oomp_src_flat: footprints_flat/footprints_flat/adamjvr_onhand_components_mkl05z16vfk4/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/adamjvr_onhand_components_mkl05z16vfk4/working
-    oomp_src_folder: footprints_folder/footprints_folder/adamjvr/OnHand-Components/MKL05Z16VFK4/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/adamjvr/OnHand-Components/MKL05Z16VFK4/working
   name: KiCAD-OnHand-Lib
+  oomp:
+    footprint_name: mkl05z16vfk4
+    library_name: onhand_components
+    md5: d74265239038736b49a2218c6ca054cd
+    md5_10: d742652390
+    md5_5: d7426
+    md5_6: d74265
+    oomp_key: oomp_adamjvr_onhand_components_mkl05z16vfk4
+    oomp_key_extra: oomp_footprint_adamjvr_onhand_components_mkl05z16vfk4
+    oomp_key_full: oomp_footprint_adamjvr_onhand_components_mkl05z16vfk4_d74265
+    oomp_key_simple: adamjvr_onhand_components_mkl05z16vfk4
+    original_filename: KiCAD-OnHand-Lib/OnHand-Components.pretty/MKL05Z16VFK4.kicad_mod
+    owner_name: adamjvr
   oomp_key: oomp_adamjvr_onhand_components_mkl05z16vfk4
+  oomp_key_full: oomp_footprint_adamjvr_onhand_components_mkl05z16vfk4
   oomp_key_simple: adamjvr_onhand_components_mkl05z16vfk4
   owner: adamjvr
   repo:

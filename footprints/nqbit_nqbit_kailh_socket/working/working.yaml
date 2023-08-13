@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/nqbit_nqbit_kailh_socket/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nqbit_nqbit_kailh_socket/working
-    oomp_doc: footprints/footprints/nqbit/NQBit/kailh_socket/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/nqbit/NQBit/kailh_socket/working
     oomp_src_flat: footprints_flat/footprints_flat/nqbit_nqbit_kailh_socket/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nqbit_nqbit_kailh_socket/working
-    oomp_src_folder: footprints_folder/footprints_folder/nqbit/NQBit/kailh_socket/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/nqbit/NQBit/kailh_socket/working
   name: NQBit.pretty
+  oomp:
+    footprint_name: kailh_socket
+    library_name: nqbit
+    md5: 710d3713948ecb3cb26ca470a0e22db5
+    md5_10: 710d371394
+    md5_5: 710d3
+    md5_6: 710d37
+    oomp_key: oomp_nqbit_nqbit_kailh_socket
+    oomp_key_extra: oomp_footprint_nqbit_nqbit_kailh_socket
+    oomp_key_full: oomp_footprint_nqbit_nqbit_kailh_socket_710d37
+    oomp_key_simple: nqbit_nqbit_kailh_socket
+    original_filename: NQBit.pretty/kailh_socket.kicad_mod
+    owner_name: nqbit
   oomp_key: oomp_nqbit_nqbit_kailh_socket
+  oomp_key_full: oomp_footprint_nqbit_nqbit_kailh_socket
   oomp_key_simple: nqbit_nqbit_kailh_socket
   owner: nqbit
   repo:

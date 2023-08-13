@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_sim8051_6_0_14_01_a_sim8051_6_0_14_01_a/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_sim8051_6_0_14_01_a_sim8051_6_0_14_01_a/working
-    oomp_doc: footprints/footprints/brunoeagle/SIM8051-6-0-14-01-A.kicad_mod/SIM8051-6-0-14-01-A/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/SIM8051-6-0-14-01-A.kicad_mod/SIM8051-6-0-14-01-A/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_sim8051_6_0_14_01_a_sim8051_6_0_14_01_a/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_sim8051_6_0_14_01_a_sim8051_6_0_14_01_a/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/SIM8051-6-0-14-01-A.kicad_mod/SIM8051-6-0-14-01-A/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/SIM8051-6-0-14-01-A.kicad_mod/SIM8051-6-0-14-01-A/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: sim8051_6_0_14_01_a
+    library_name: sim8051_6_0_14_01_a_kicad_mod
+    md5: 4d3916c053a3521e60097c3d55f72f0e
+    md5_10: 4d3916c053
+    md5_5: 4d391
+    md5_6: 4d3916
+    oomp_key: oomp_brunoeagle_sim8051_6_0_14_01_a_sim8051_6_0_14_01_a
+    oomp_key_extra: oomp_footprint_brunoeagle_sim8051_6_0_14_01_a_sim8051_6_0_14_01_a
+    oomp_key_full: oomp_footprint_brunoeagle_sim8051_6_0_14_01_a_sim8051_6_0_14_01_a_4d3916
+    oomp_key_simple: brunoeagle_sim8051_6_0_14_01_a_sim8051_6_0_14_01_a
+    original_filename: kicad-open-modules/SIM8051-6-0-14-01-A.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_sim8051_6_0_14_01_a_sim8051_6_0_14_01_a
+  oomp_key_full: oomp_footprint_brunoeagle_sim8051_6_0_14_01_a_sim8051_6_0_14_01_a
   oomp_key_simple: brunoeagle_sim8051_6_0_14_01_a_sim8051_6_0_14_01_a
   owner: brunoeagle
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/sherifeid_robolib_pts525sm15smtr2/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/sherifeid_robolib_pts525sm15smtr2/working
-    oomp_doc: footprints/footprints/sherifeid/RoboLib/PTS525SM15SMTR2/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/sherifeid/RoboLib/PTS525SM15SMTR2/working
     oomp_src_flat: footprints_flat/footprints_flat/sherifeid_robolib_pts525sm15smtr2/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/sherifeid_robolib_pts525sm15smtr2/working
-    oomp_src_folder: footprints_folder/footprints_folder/sherifeid/RoboLib/PTS525SM15SMTR2/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/sherifeid/RoboLib/PTS525SM15SMTR2/working
   name: RoboLib.pretty
+  oomp:
+    footprint_name: pts525sm15smtr2
+    library_name: robolib
+    md5: 1d6f4fb094c448a70e69fd2f8e46334b
+    md5_10: 1d6f4fb094
+    md5_5: 1d6f4
+    md5_6: 1d6f4f
+    oomp_key: oomp_sherifeid_robolib_pts525sm15smtr2
+    oomp_key_extra: oomp_footprint_sherifeid_robolib_pts525sm15smtr2
+    oomp_key_full: oomp_footprint_sherifeid_robolib_pts525sm15smtr2_1d6f4f
+    oomp_key_simple: sherifeid_robolib_pts525sm15smtr2
+    original_filename: RoboLib.pretty/PTS525SM15SMTR2.kicad_mod
+    owner_name: sherifeid
   oomp_key: oomp_sherifeid_robolib_pts525sm15smtr2
+  oomp_key_full: oomp_footprint_sherifeid_robolib_pts525sm15smtr2
   oomp_key_simple: sherifeid_robolib_pts525sm15smtr2
   owner: sherifeid
   repo:

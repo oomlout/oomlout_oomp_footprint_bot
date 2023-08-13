@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cpavlina_manuf_analog_lfcsp_vq_56/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cpavlina_manuf_analog_lfcsp_vq_56/working
-    oomp_doc: footprints/footprints/cpavlina/manuf/ANALOG-LFCSP-VQ-56/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cpavlina/manuf/ANALOG-LFCSP-VQ-56/working
     oomp_src_flat: footprints_flat/footprints_flat/cpavlina_manuf_analog_lfcsp_vq_56/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cpavlina_manuf_analog_lfcsp_vq_56/working
-    oomp_src_folder: footprints_folder/footprints_folder/cpavlina/manuf/ANALOG-LFCSP-VQ-56/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cpavlina/manuf/ANALOG-LFCSP-VQ-56/working
   name: kicad-pcblib
+  oomp:
+    footprint_name: analog_lfcsp_vq_56
+    library_name: manuf
+    md5: 4912de2df84e9f683ca53473211ab144
+    md5_10: 4912de2df8
+    md5_5: 4912d
+    md5_6: 4912de
+    oomp_key: oomp_cpavlina_manuf_analog_lfcsp_vq_56
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_analog_lfcsp_vq_56
+    oomp_key_full: oomp_footprint_cpavlina_manuf_analog_lfcsp_vq_56_4912de
+    oomp_key_simple: cpavlina_manuf_analog_lfcsp_vq_56
+    original_filename: kicad-pcblib/manuf.pretty/ANALOG-LFCSP-VQ-56.kicad_mod
+    owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_analog_lfcsp_vq_56
+  oomp_key_full: oomp_footprint_cpavlina_manuf_analog_lfcsp_vq_56
   oomp_key_simple: cpavlina_manuf_analog_lfcsp_vq_56
   owner: cpavlina
   repo:

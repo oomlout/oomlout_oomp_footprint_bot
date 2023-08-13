@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/fruchti_conn_micromatch_2_8_f_l_tht/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/fruchti_conn_micromatch_2_8_f_l_tht/working
-    oomp_doc: footprints/footprints/fruchti/conn/MICROMATCH_2_8_F_L_THT/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/fruchti/conn/MICROMATCH_2_8_F_L_THT/working
     oomp_src_flat: footprints_flat/footprints_flat/fruchti_conn_micromatch_2_8_f_l_tht/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/fruchti_conn_micromatch_2_8_f_l_tht/working
-    oomp_src_folder: footprints_folder/footprints_folder/fruchti/conn/MICROMATCH_2_8_F_L_THT/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/fruchti/conn/MICROMATCH_2_8_F_L_THT/working
   name: fruchtilib
+  oomp:
+    footprint_name: micromatch_2_8_f_l_tht
+    library_name: conn
+    md5: 6734c4a21c02168d49dd787c2f524b18
+    md5_10: 6734c4a21c
+    md5_5: 6734c
+    md5_6: 6734c4
+    oomp_key: oomp_fruchti_conn_micromatch_2_8_f_l_tht
+    oomp_key_extra: oomp_footprint_fruchti_conn_micromatch_2_8_f_l_tht
+    oomp_key_full: oomp_footprint_fruchti_conn_micromatch_2_8_f_l_tht_6734c4
+    oomp_key_simple: fruchti_conn_micromatch_2_8_f_l_tht
+    original_filename: fruchtilib/mod/conn.pretty/MICROMATCH_2_8_F_L_THT.kicad_mod
+    owner_name: fruchti
   oomp_key: oomp_fruchti_conn_micromatch_2_8_f_l_tht
+  oomp_key_full: oomp_footprint_fruchti_conn_micromatch_2_8_f_l_tht
   oomp_key_simple: fruchti_conn_micromatch_2_8_f_l_tht
   owner: fruchti
   repo:

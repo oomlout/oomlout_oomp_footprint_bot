@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_uj2_mibh_4_smt_tr_uj2_mibh_4_smt_tr/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_uj2_mibh_4_smt_tr_uj2_mibh_4_smt_tr/working
-    oomp_doc: footprints/footprints/brunoeagle/UJ2-MIBH-4-SMT-TR.kicad_mod/UJ2-MIBH-4-SMT-TR/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/UJ2-MIBH-4-SMT-TR.kicad_mod/UJ2-MIBH-4-SMT-TR/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_uj2_mibh_4_smt_tr_uj2_mibh_4_smt_tr/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_uj2_mibh_4_smt_tr_uj2_mibh_4_smt_tr/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/UJ2-MIBH-4-SMT-TR.kicad_mod/UJ2-MIBH-4-SMT-TR/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/UJ2-MIBH-4-SMT-TR.kicad_mod/UJ2-MIBH-4-SMT-TR/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: uj2_mibh_4_smt_tr
+    library_name: uj2_mibh_4_smt_tr_kicad_mod
+    md5: 594bb89f8f21d82e14bd086caaefc46c
+    md5_10: 594bb89f8f
+    md5_5: 594bb
+    md5_6: 594bb8
+    oomp_key: oomp_brunoeagle_uj2_mibh_4_smt_tr_uj2_mibh_4_smt_tr
+    oomp_key_extra: oomp_footprint_brunoeagle_uj2_mibh_4_smt_tr_uj2_mibh_4_smt_tr
+    oomp_key_full: oomp_footprint_brunoeagle_uj2_mibh_4_smt_tr_uj2_mibh_4_smt_tr_594bb8
+    oomp_key_simple: brunoeagle_uj2_mibh_4_smt_tr_uj2_mibh_4_smt_tr
+    original_filename: kicad-open-modules/UJ2-MIBH-4-SMT-TR.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_uj2_mibh_4_smt_tr_uj2_mibh_4_smt_tr
+  oomp_key_full: oomp_footprint_brunoeagle_uj2_mibh_4_smt_tr_uj2_mibh_4_smt_tr
   oomp_key_simple: brunoeagle_uj2_mibh_4_smt_tr_uj2_mibh_4_smt_tr
   owner: brunoeagle
   repo:

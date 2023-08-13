@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/dqmcdonald_dqm_kicad_new_sot_23_j201_jfet/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/dqmcdonald_dqm_kicad_new_sot_23_j201_jfet/working
-    oomp_doc: footprints/footprints/dqmcdonald/DQM_kicad_new/SOT-23_J201_JFET/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/dqmcdonald/DQM_kicad_new/SOT-23_J201_JFET/working
     oomp_src_flat: footprints_flat/footprints_flat/dqmcdonald_dqm_kicad_new_sot_23_j201_jfet/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/dqmcdonald_dqm_kicad_new_sot_23_j201_jfet/working
-    oomp_src_folder: footprints_folder/footprints_folder/dqmcdonald/DQM_kicad_new/SOT-23_J201_JFET/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/dqmcdonald/DQM_kicad_new/SOT-23_J201_JFET/working
   name: DQM_kicad_new.pretty
+  oomp:
+    footprint_name: sot_23_j201_jfet
+    library_name: dqm_kicad_new
+    md5: 4fe8e9a6697721d65699aca5c6b1bf45
+    md5_10: 4fe8e9a669
+    md5_5: 4fe8e
+    md5_6: 4fe8e9
+    oomp_key: oomp_dqmcdonald_dqm_kicad_new_sot_23_j201_jfet
+    oomp_key_extra: oomp_footprint_dqmcdonald_dqm_kicad_new_sot_23_j201_jfet
+    oomp_key_full: oomp_footprint_dqmcdonald_dqm_kicad_new_sot_23_j201_jfet_4fe8e9
+    oomp_key_simple: dqmcdonald_dqm_kicad_new_sot_23_j201_jfet
+    original_filename: DQM_kicad_new.pretty/SOT-23_J201_JFET.kicad_mod
+    owner_name: dqmcdonald
   oomp_key: oomp_dqmcdonald_dqm_kicad_new_sot_23_j201_jfet
+  oomp_key_full: oomp_footprint_dqmcdonald_dqm_kicad_new_sot_23_j201_jfet
   oomp_key_simple: dqmcdonald_dqm_kicad_new_sot_23_j201_jfet
   owner: dqmcdonald
   repo:

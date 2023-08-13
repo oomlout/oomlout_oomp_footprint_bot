@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/rodibot_rodi_usb_micro_b_through_hole/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/rodibot_rodi_usb_micro_b_through_hole/working
-    oomp_doc: footprints/footprints/rodibot/RoDI/USB_Micro-B_Through_hole/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/rodibot/RoDI/USB_Micro-B_Through_hole/working
     oomp_src_flat: footprints_flat/footprints_flat/rodibot_rodi_usb_micro_b_through_hole/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/rodibot_rodi_usb_micro_b_through_hole/working
-    oomp_src_folder: footprints_folder/footprints_folder/rodibot/RoDI/USB_Micro-B_Through_hole/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/rodibot/RoDI/USB_Micro-B_Through_hole/working
   name: RoDI.pretty
+  oomp:
+    footprint_name: usb_micro_b_through_hole
+    library_name: rodi
+    md5: 08943cc251a4959c2dae959242de87da
+    md5_10: 08943cc251
+    md5_5: 08943
+    md5_6: 08943c
+    oomp_key: oomp_rodibot_rodi_usb_micro_b_through_hole
+    oomp_key_extra: oomp_footprint_rodibot_rodi_usb_micro_b_through_hole
+    oomp_key_full: oomp_footprint_rodibot_rodi_usb_micro_b_through_hole_08943c
+    oomp_key_simple: rodibot_rodi_usb_micro_b_through_hole
+    original_filename: RoDI.pretty/USB_Micro-B_Through_hole.kicad_mod
+    owner_name: rodibot
   oomp_key: oomp_rodibot_rodi_usb_micro_b_through_hole
+  oomp_key_full: oomp_footprint_rodibot_rodi_usb_micro_b_through_hole
   oomp_key_simple: rodibot_rodi_usb_micro_b_through_hole
   owner: rodibot
   repo:

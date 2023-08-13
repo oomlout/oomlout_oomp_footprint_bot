@@ -11,17 +11,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_rf_antenna_coilcraft_ma5532_ae_rfid/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_rf_antenna_coilcraft_ma5532_ae_rfid/working
-    oomp_doc: footprints/footprints/kicad/RF_Antenna/Coilcraft_MA5532-AE_RFID/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/RF_Antenna/Coilcraft_MA5532-AE_RFID/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_rf_antenna_coilcraft_ma5532_ae_rfid/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_rf_antenna_coilcraft_ma5532_ae_rfid/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/RF_Antenna/Coilcraft_MA5532-AE_RFID/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/RF_Antenna/Coilcraft_MA5532-AE_RFID/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: coilcraft_ma5532_ae_rfid
+    library_name: rf_antenna
+    md5: c7e5fb79b177fd20b4979c575ac842b6
+    md5_10: c7e5fb79b1
+    md5_5: c7e5f
+    md5_6: c7e5fb
+    oomp_key: oomp_kicad_rf_antenna_coilcraft_ma5532_ae_rfid
+    oomp_key_extra: oomp_footprint_kicad_rf_antenna_coilcraft_ma5532_ae_rfid
+    oomp_key_full: oomp_footprint_kicad_rf_antenna_coilcraft_ma5532_ae_rfid_c7e5fb
+    oomp_key_simple: kicad_rf_antenna_coilcraft_ma5532_ae_rfid
+    original_filename: libraries/kicad-footprints/RF_Antenna.pretty/Coilcraft_MA5532-AE_RFID.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_rf_antenna_coilcraft_ma5532_ae_rfid
+  oomp_key_full: oomp_footprint_kicad_rf_antenna_coilcraft_ma5532_ae_rfid
   oomp_key_simple: kicad_rf_antenna_coilcraft_ma5532_ae_rfid
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

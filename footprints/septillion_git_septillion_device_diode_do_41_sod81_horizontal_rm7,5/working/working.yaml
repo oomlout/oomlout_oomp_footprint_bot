@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/septillion_git_septillion_device_diode_do_41_sod81_horizontal_rm7,5/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/septillion_git_septillion_device_diode_do_41_sod81_horizontal_rm7,5/working
-    oomp_doc: footprints/footprints/septillion-git/septillion_device/Diode_DO-41_SOD81_Horizontal_RM7,5/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/septillion-git/septillion_device/Diode_DO-41_SOD81_Horizontal_RM7,5/working
     oomp_src_flat: footprints_flat/footprints_flat/septillion_git_septillion_device_diode_do_41_sod81_horizontal_rm7,5/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/septillion_git_septillion_device_diode_do_41_sod81_horizontal_rm7,5/working
-    oomp_src_folder: footprints_folder/footprints_folder/septillion-git/septillion_device/Diode_DO-41_SOD81_Horizontal_RM7,5/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/septillion-git/septillion_device/Diode_DO-41_SOD81_Horizontal_RM7,5/working
   name: septillion_device.pretty
+  oomp:
+    footprint_name: diode_do_41_sod81_horizontal_rm7,5
+    library_name: septillion_device
+    md5: 815a3ee6efaefceefc205eec690dd492
+    md5_10: 815a3ee6ef
+    md5_5: 815a3
+    md5_6: 815a3e
+    oomp_key: oomp_septillion_git_septillion_device_diode_do_41_sod81_horizontal_rm7,5
+    oomp_key_extra: oomp_footprint_septillion_git_septillion_device_diode_do_41_sod81_horizontal_rm7,5
+    oomp_key_full: oomp_footprint_septillion_git_septillion_device_diode_do_41_sod81_horizontal_rm7,5_815a3e
+    oomp_key_simple: septillion_git_septillion_device_diode_do_41_sod81_horizontal_rm7,5
+    original_filename: septillion_device.pretty/Diode_DO-41_SOD81_Horizontal_RM7,5.kicad_mod
+    owner_name: septillion_git
   oomp_key: oomp_septillion_git_septillion_device_diode_do_41_sod81_horizontal_rm7,5
+  oomp_key_full: oomp_footprint_septillion_git_septillion_device_diode_do_41_sod81_horizontal_rm7,5
   oomp_key_simple: septillion_git_septillion_device_diode_do_41_sod81_horizontal_rm7,5
   owner: septillion-git
   repo:

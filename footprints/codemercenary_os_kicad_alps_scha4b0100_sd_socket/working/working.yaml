@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/codemercenary_os_kicad_alps_scha4b0100_sd_socket/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/codemercenary_os_kicad_alps_scha4b0100_sd_socket/working
-    oomp_doc: footprints/footprints/codemercenary-os/kicad/ALPS_SCHA4B0100_SD_SOCKET/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/codemercenary-os/kicad/ALPS_SCHA4B0100_SD_SOCKET/working
     oomp_src_flat: footprints_flat/footprints_flat/codemercenary_os_kicad_alps_scha4b0100_sd_socket/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/codemercenary_os_kicad_alps_scha4b0100_sd_socket/working
-    oomp_src_folder: footprints_folder/footprints_folder/codemercenary-os/kicad/ALPS_SCHA4B0100_SD_SOCKET/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/codemercenary-os/kicad/ALPS_SCHA4B0100_SD_SOCKET/working
   name: kicad.pretty
+  oomp:
+    footprint_name: alps_scha4b0100_sd_socket
+    library_name: kicad
+    md5: c2669454beeb65174d37e678c870fb57
+    md5_10: c2669454be
+    md5_5: c2669
+    md5_6: c26694
+    oomp_key: oomp_codemercenary_os_kicad_alps_scha4b0100_sd_socket
+    oomp_key_extra: oomp_footprint_codemercenary_os_kicad_alps_scha4b0100_sd_socket
+    oomp_key_full: oomp_footprint_codemercenary_os_kicad_alps_scha4b0100_sd_socket_c26694
+    oomp_key_simple: codemercenary_os_kicad_alps_scha4b0100_sd_socket
+    original_filename: kicad.pretty/ALPS_SCHA4B0100_SD_SOCKET.kicad_mod
+    owner_name: codemercenary_os
   oomp_key: oomp_codemercenary_os_kicad_alps_scha4b0100_sd_socket
+  oomp_key_full: oomp_footprint_codemercenary_os_kicad_alps_scha4b0100_sd_socket
   oomp_key_simple: codemercenary_os_kicad_alps_scha4b0100_sd_socket
   owner: codemercenary-os
   repo:

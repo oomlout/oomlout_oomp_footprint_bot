@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/Iangitpers/4a
     oomp_bot: footprints/iangitpers_mountinghole_mountinghole_8_4mm_m8_pad_topbottom/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/iangitpers_mountinghole_mountinghole_8_4mm_m8_pad_topbottom/working
-    oomp_doc: footprints/footprints/Iangitpers/MountingHole/MountingHole_8.4mm_M8_Pad_TopBottom/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Iangitpers/MountingHole/MountingHole_8.4mm_M8_Pad_TopBottom/working
     oomp_src_flat: footprints_flat/footprints_flat/iangitpers_mountinghole_mountinghole_8_4mm_m8_pad_topbottom/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/iangitpers_mountinghole_mountinghole_8_4mm_m8_pad_topbottom/working
-    oomp_src_folder: footprints_folder/footprints_folder/Iangitpers/MountingHole/MountingHole_8.4mm_M8_Pad_TopBottom/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Iangitpers/MountingHole/MountingHole_8.4mm_M8_Pad_TopBottom/working
   name: 4a
+  oomp:
+    footprint_name: mountinghole_8_4mm_m8_pad_topbottom
+    library_name: mountinghole
+    md5: 2748e9a3c835c6329198c25994db6ef2
+    md5_10: 2748e9a3c8
+    md5_5: 2748e
+    md5_6: 2748e9
+    oomp_key: oomp_iangitpers_mountinghole_mountinghole_8_4mm_m8_pad_topbottom
+    oomp_key_extra: oomp_footprint_iangitpers_mountinghole_mountinghole_8_4mm_m8_pad_topbottom
+    oomp_key_full: oomp_footprint_iangitpers_mountinghole_mountinghole_8_4mm_m8_pad_topbottom_2748e9
+    oomp_key_simple: iangitpers_mountinghole_mountinghole_8_4mm_m8_pad_topbottom
+    original_filename: 4a/MountingHole.pretty/MountingHole_8.4mm_M8_Pad_TopBottom.kicad_mod
+    owner_name: iangitpers
   oomp_key: oomp_iangitpers_mountinghole_mountinghole_8_4mm_m8_pad_topbottom
+  oomp_key_full: oomp_footprint_iangitpers_mountinghole_mountinghole_8_4mm_m8_pad_topbottom
   oomp_key_simple: iangitpers_mountinghole_mountinghole_8_4mm_m8_pad_topbottom
   owner: Iangitpers
   repo:

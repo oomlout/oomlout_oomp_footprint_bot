@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/apexelectrix/apex-smd-wire-pads.pretty
     oomp_bot: footprints/apexelectrix_apex_smd_wire_pads_wire_pad_22ga/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/apexelectrix_apex_smd_wire_pads_wire_pad_22ga/working
-    oomp_doc: footprints/footprints/apexelectrix/apex-smd-wire-pads/wire-pad-22ga/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/apexelectrix/apex-smd-wire-pads/wire-pad-22ga/working
     oomp_src_flat: footprints_flat/footprints_flat/apexelectrix_apex_smd_wire_pads_wire_pad_22ga/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/apexelectrix_apex_smd_wire_pads_wire_pad_22ga/working
-    oomp_src_folder: footprints_folder/footprints_folder/apexelectrix/apex-smd-wire-pads/wire-pad-22ga/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/apexelectrix/apex-smd-wire-pads/wire-pad-22ga/working
   name: apex-smd-wire-pads.pretty
+  oomp:
+    footprint_name: wire_pad_22ga
+    library_name: apex_smd_wire_pads
+    md5: b0627d842ccb16af39aae553fcf354b6
+    md5_10: b0627d842c
+    md5_5: b0627
+    md5_6: b0627d
+    oomp_key: oomp_apexelectrix_apex_smd_wire_pads_wire_pad_22ga
+    oomp_key_extra: oomp_footprint_apexelectrix_apex_smd_wire_pads_wire_pad_22ga
+    oomp_key_full: oomp_footprint_apexelectrix_apex_smd_wire_pads_wire_pad_22ga_b0627d
+    oomp_key_simple: apexelectrix_apex_smd_wire_pads_wire_pad_22ga
+    original_filename: apex-smd-wire-pads.pretty/wire-pad-22ga.kicad_mod
+    owner_name: apexelectrix
   oomp_key: oomp_apexelectrix_apex_smd_wire_pads_wire_pad_22ga
+  oomp_key_full: oomp_footprint_apexelectrix_apex_smd_wire_pads_wire_pad_22ga
   oomp_key_simple: apexelectrix_apex_smd_wire_pads_wire_pad_22ga
   owner: apexelectrix
   repo:

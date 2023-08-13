@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/kubiX89/kiCAD.pretty
     oomp_bot: footprints/kubix89_kicad_module_plf3pc/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kubix89_kicad_module_plf3pc/working
-    oomp_doc: footprints/footprints/kubiX89/kiCAD/MODULE_PLF3PC/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kubiX89/kiCAD/MODULE_PLF3PC/working
     oomp_src_flat: footprints_flat/footprints_flat/kubix89_kicad_module_plf3pc/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kubix89_kicad_module_plf3pc/working
-    oomp_src_folder: footprints_folder/footprints_folder/kubiX89/kiCAD/MODULE_PLF3PC/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kubiX89/kiCAD/MODULE_PLF3PC/working
   name: kiCAD.pretty
+  oomp:
+    footprint_name: module_plf3pc
+    library_name: kicad
+    md5: ce886538370931e126cf156fcf218f48
+    md5_10: ce88653837
+    md5_5: ce886
+    md5_6: ce8865
+    oomp_key: oomp_kubix89_kicad_module_plf3pc
+    oomp_key_extra: oomp_footprint_kubix89_kicad_module_plf3pc
+    oomp_key_full: oomp_footprint_kubix89_kicad_module_plf3pc_ce8865
+    oomp_key_simple: kubix89_kicad_module_plf3pc
+    original_filename: kiCAD.pretty/MODULE_PLF3PC.kicad_mod
+    owner_name: kubix89
   oomp_key: oomp_kubix89_kicad_module_plf3pc
+  oomp_key_full: oomp_footprint_kubix89_kicad_module_plf3pc
   oomp_key_simple: kubix89_kicad_module_plf3pc
   owner: kubiX89
   repo:

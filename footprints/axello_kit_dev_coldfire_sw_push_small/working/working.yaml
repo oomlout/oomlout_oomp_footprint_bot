@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/axello_kit_dev_coldfire_sw_push_small/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/axello_kit_dev_coldfire_sw_push_small/working
-    oomp_doc: footprints/footprints/axello/kit-dev-coldfire/SW_PUSH_SMALL/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/axello/kit-dev-coldfire/SW_PUSH_SMALL/working
     oomp_src_flat: footprints_flat/footprints_flat/axello_kit_dev_coldfire_sw_push_small/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/axello_kit_dev_coldfire_sw_push_small/working
-    oomp_src_folder: footprints_folder/footprints_folder/axello/kit-dev-coldfire/SW_PUSH_SMALL/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/axello/kit-dev-coldfire/SW_PUSH_SMALL/working
   name: kicad
+  oomp:
+    footprint_name: sw_push_small
+    library_name: kit_dev_coldfire
+    md5: 4a1e032012345454fcd01b9713d3b85e
+    md5_10: 4a1e032012
+    md5_5: 4a1e0
+    md5_6: 4a1e03
+    oomp_key: oomp_axello_kit_dev_coldfire_sw_push_small
+    oomp_key_extra: oomp_footprint_axello_kit_dev_coldfire_sw_push_small
+    oomp_key_full: oomp_footprint_axello_kit_dev_coldfire_sw_push_small_4a1e03
+    oomp_key_simple: axello_kit_dev_coldfire_sw_push_small
+    original_filename: kicad/demos/kit-dev-coldfire-xilinx_5213/kit-dev-coldfire.pretty/SW_PUSH_SMALL.kicad_mod
+    owner_name: axello
   oomp_key: oomp_axello_kit_dev_coldfire_sw_push_small
+  oomp_key_full: oomp_footprint_axello_kit_dev_coldfire_sw_push_small
   oomp_key_simple: axello_kit_dev_coldfire_sw_push_small
   owner: axello
   repo:

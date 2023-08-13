@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/Iangitpers/4a
     oomp_bot: footprints/iangitpers_manuf_conn_te_1814400/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/iangitpers_manuf_conn_te_1814400/working
-    oomp_doc: footprints/footprints/Iangitpers/manuf/CONN-TE-1814400/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Iangitpers/manuf/CONN-TE-1814400/working
     oomp_src_flat: footprints_flat/footprints_flat/iangitpers_manuf_conn_te_1814400/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/iangitpers_manuf_conn_te_1814400/working
-    oomp_src_folder: footprints_folder/footprints_folder/Iangitpers/manuf/CONN-TE-1814400/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Iangitpers/manuf/CONN-TE-1814400/working
   name: 4a
+  oomp:
+    footprint_name: conn_te_1814400
+    library_name: manuf
+    md5: 1e122e75a5180528a779c50add8df7f7
+    md5_10: 1e122e75a5
+    md5_5: 1e122
+    md5_6: 1e122e
+    oomp_key: oomp_iangitpers_manuf_conn_te_1814400
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_conn_te_1814400
+    oomp_key_full: oomp_footprint_iangitpers_manuf_conn_te_1814400_1e122e
+    oomp_key_simple: iangitpers_manuf_conn_te_1814400
+    original_filename: 4a/manuf.pretty/CONN-TE-1814400.kicad_mod
+    owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_conn_te_1814400
+  oomp_key_full: oomp_footprint_iangitpers_manuf_conn_te_1814400
   oomp_key_simple: iangitpers_manuf_conn_te_1814400
   owner: Iangitpers
   repo:

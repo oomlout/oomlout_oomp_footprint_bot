@@ -13,17 +13,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_crystal_resonator_2pin_w10_0mm_h5_0mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_crystal_resonator_2pin_w10_0mm_h5_0mm/working
-    oomp_doc: footprints/footprints/kicad/Crystal/Resonator-2Pin_W10.0mm_H5.0mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Crystal/Resonator-2Pin_W10.0mm_H5.0mm/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_crystal_resonator_2pin_w10_0mm_h5_0mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_crystal_resonator_2pin_w10_0mm_h5_0mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Crystal/Resonator-2Pin_W10.0mm_H5.0mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Crystal/Resonator-2Pin_W10.0mm_H5.0mm/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: resonator_2pin_w10_0mm_h5_0mm
+    library_name: crystal
+    md5: 6d4926e0f8d22dfa9ad3510104bfdf2e
+    md5_10: 6d4926e0f8
+    md5_5: 6d492
+    md5_6: 6d4926
+    oomp_key: oomp_kicad_crystal_resonator_2pin_w10_0mm_h5_0mm
+    oomp_key_extra: oomp_footprint_kicad_crystal_resonator_2pin_w10_0mm_h5_0mm
+    oomp_key_full: oomp_footprint_kicad_crystal_resonator_2pin_w10_0mm_h5_0mm_6d4926
+    oomp_key_simple: kicad_crystal_resonator_2pin_w10_0mm_h5_0mm
+    original_filename: libraries/kicad-footprints/Crystal.pretty/Resonator-2Pin_W10.0mm_H5.0mm.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_crystal_resonator_2pin_w10_0mm_h5_0mm
+  oomp_key_full: oomp_footprint_kicad_crystal_resonator_2pin_w10_0mm_h5_0mm
   oomp_key_simple: kicad_crystal_resonator_2pin_w10_0mm_h5_0mm
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

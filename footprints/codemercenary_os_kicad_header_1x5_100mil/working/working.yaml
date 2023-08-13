@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/codemercenary_os_kicad_header_1x5_100mil/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/codemercenary_os_kicad_header_1x5_100mil/working
-    oomp_doc: footprints/footprints/codemercenary-os/kicad/HEADER_1X5_100MIL/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/codemercenary-os/kicad/HEADER_1X5_100MIL/working
     oomp_src_flat: footprints_flat/footprints_flat/codemercenary_os_kicad_header_1x5_100mil/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/codemercenary_os_kicad_header_1x5_100mil/working
-    oomp_src_folder: footprints_folder/footprints_folder/codemercenary-os/kicad/HEADER_1X5_100MIL/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/codemercenary-os/kicad/HEADER_1X5_100MIL/working
   name: kicad.pretty
+  oomp:
+    footprint_name: header_1x5_100mil
+    library_name: kicad
+    md5: bf65ca4ae4daaa75da281b9d0ab16a12
+    md5_10: bf65ca4ae4
+    md5_5: bf65c
+    md5_6: bf65ca
+    oomp_key: oomp_codemercenary_os_kicad_header_1x5_100mil
+    oomp_key_extra: oomp_footprint_codemercenary_os_kicad_header_1x5_100mil
+    oomp_key_full: oomp_footprint_codemercenary_os_kicad_header_1x5_100mil_bf65ca
+    oomp_key_simple: codemercenary_os_kicad_header_1x5_100mil
+    original_filename: kicad.pretty/HEADER_1X5_100MIL.kicad_mod
+    owner_name: codemercenary_os
   oomp_key: oomp_codemercenary_os_kicad_header_1x5_100mil
+  oomp_key_full: oomp_footprint_codemercenary_os_kicad_header_1x5_100mil
   oomp_key_simple: codemercenary_os_kicad_header_1x5_100mil
   owner: codemercenary-os
   repo:

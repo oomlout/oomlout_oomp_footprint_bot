@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/digikey_digikey_footprints_tssop_16_1ep_w4_40mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_digikey_footprints_tssop_16_1ep_w4_40mm/working
-    oomp_doc: footprints/footprints/digikey/digikey-footprints/TSSOP-16-1EP_W4.40mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/digikey/digikey-footprints/TSSOP-16-1EP_W4.40mm/working
     oomp_src_flat: footprints_flat/footprints_flat/digikey_digikey_footprints_tssop_16_1ep_w4_40mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/digikey_digikey_footprints_tssop_16_1ep_w4_40mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/digikey/digikey-footprints/TSSOP-16-1EP_W4.40mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/digikey/digikey-footprints/TSSOP-16-1EP_W4.40mm/working
   name: digikey-kicad-library
+  oomp:
+    footprint_name: tssop_16_1ep_w4_40mm
+    library_name: digikey_footprints
+    md5: 7f458b264998a47cfcc7f40cca15da6c
+    md5_10: 7f458b2649
+    md5_5: 7f458
+    md5_6: 7f458b
+    oomp_key: oomp_digikey_digikey_footprints_tssop_16_1ep_w4_40mm
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_tssop_16_1ep_w4_40mm
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_tssop_16_1ep_w4_40mm_7f458b
+    oomp_key_simple: digikey_digikey_footprints_tssop_16_1ep_w4_40mm
+    original_filename: digikey-kicad-library/digikey-footprints.pretty/TSSOP-16-1EP_W4.40mm.kicad_mod
+    owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_tssop_16_1ep_w4_40mm
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_tssop_16_1ep_w4_40mm
   oomp_key_simple: digikey_digikey_footprints_tssop_16_1ep_w4_40mm
   owner: digikey
   repo:

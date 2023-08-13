@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/kubiX89/kiCAD.pretty
     oomp_bot: footprints/kubix89_kicad_relay_g6b_1114/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kubix89_kicad_relay_g6b_1114/working
-    oomp_doc: footprints/footprints/kubiX89/kiCAD/RELAY_G6B_1114/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kubiX89/kiCAD/RELAY_G6B_1114/working
     oomp_src_flat: footprints_flat/footprints_flat/kubix89_kicad_relay_g6b_1114/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kubix89_kicad_relay_g6b_1114/working
-    oomp_src_folder: footprints_folder/footprints_folder/kubiX89/kiCAD/RELAY_G6B_1114/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kubiX89/kiCAD/RELAY_G6B_1114/working
   name: kiCAD.pretty
+  oomp:
+    footprint_name: relay_g6b_1114
+    library_name: kicad
+    md5: 05636c6ff4651f31a5ffaee0f6813103
+    md5_10: 05636c6ff4
+    md5_5: '05636'
+    md5_6: 05636c
+    oomp_key: oomp_kubix89_kicad_relay_g6b_1114
+    oomp_key_extra: oomp_footprint_kubix89_kicad_relay_g6b_1114
+    oomp_key_full: oomp_footprint_kubix89_kicad_relay_g6b_1114_05636c
+    oomp_key_simple: kubix89_kicad_relay_g6b_1114
+    original_filename: kiCAD.pretty/RELAY_G6B_1114.kicad_mod
+    owner_name: kubix89
   oomp_key: oomp_kubix89_kicad_relay_g6b_1114
+  oomp_key_full: oomp_footprint_kubix89_kicad_relay_g6b_1114
   oomp_key_simple: kubix89_kicad_relay_g6b_1114
   owner: kubiX89
   repo:

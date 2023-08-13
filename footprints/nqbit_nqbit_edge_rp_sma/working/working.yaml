@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/nqbit_nqbit_edge_rp_sma/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nqbit_nqbit_edge_rp_sma/working
-    oomp_doc: footprints/footprints/nqbit/NQBit/EDGE_RP_SMA/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/nqbit/NQBit/EDGE_RP_SMA/working
     oomp_src_flat: footprints_flat/footprints_flat/nqbit_nqbit_edge_rp_sma/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nqbit_nqbit_edge_rp_sma/working
-    oomp_src_folder: footprints_folder/footprints_folder/nqbit/NQBit/EDGE_RP_SMA/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/nqbit/NQBit/EDGE_RP_SMA/working
   name: NQBit.pretty
+  oomp:
+    footprint_name: edge_rp_sma
+    library_name: nqbit
+    md5: 3bbed9b25967a9b8c13c27206c6c3a8e
+    md5_10: 3bbed9b259
+    md5_5: 3bbed
+    md5_6: 3bbed9
+    oomp_key: oomp_nqbit_nqbit_edge_rp_sma
+    oomp_key_extra: oomp_footprint_nqbit_nqbit_edge_rp_sma
+    oomp_key_full: oomp_footprint_nqbit_nqbit_edge_rp_sma_3bbed9
+    oomp_key_simple: nqbit_nqbit_edge_rp_sma
+    original_filename: NQBit.pretty/EDGE_RP_SMA.kicad_mod
+    owner_name: nqbit
   oomp_key: oomp_nqbit_nqbit_edge_rp_sma
+  oomp_key_full: oomp_footprint_nqbit_nqbit_edge_rp_sma
   oomp_key_simple: nqbit_nqbit_edge_rp_sma
   owner: nqbit
   repo:

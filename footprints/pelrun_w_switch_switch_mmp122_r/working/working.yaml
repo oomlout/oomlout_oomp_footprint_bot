@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pelrun_w_switch_switch_mmp122_r/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pelrun_w_switch_switch_mmp122_r/working
-    oomp_doc: footprints/footprints/pelrun/w_switch/switch_mmp122-r/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/pelrun/w_switch/switch_mmp122-r/working
     oomp_src_flat: footprints_flat/footprints_flat/pelrun_w_switch_switch_mmp122_r/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pelrun_w_switch_switch_mmp122_r/working
-    oomp_src_folder: footprints_folder/footprints_folder/pelrun/w_switch/switch_mmp122-r/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/pelrun/w_switch/switch_mmp122-r/working
   name: libKiCad
+  oomp:
+    footprint_name: switch_mmp122_r
+    library_name: w_switch
+    md5: a00b11e252814d8eb207f1cff95650c8
+    md5_10: a00b11e252
+    md5_5: a00b1
+    md5_6: a00b11
+    oomp_key: oomp_pelrun_w_switch_switch_mmp122_r
+    oomp_key_extra: oomp_footprint_pelrun_w_switch_switch_mmp122_r
+    oomp_key_full: oomp_footprint_pelrun_w_switch_switch_mmp122_r_a00b11
+    oomp_key_simple: pelrun_w_switch_switch_mmp122_r
+    original_filename: libKiCad/footprint/w_switch.pretty/switch_mmp122-r.kicad_mod
+    owner_name: pelrun
   oomp_key: oomp_pelrun_w_switch_switch_mmp122_r
+  oomp_key_full: oomp_footprint_pelrun_w_switch_switch_mmp122_r
   oomp_key_simple: pelrun_w_switch_switch_mmp122_r
   owner: pelrun
   repo:

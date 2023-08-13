@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/natsfr_wurth_we_cair_3168_6_86x3_05x3_18/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/natsfr_wurth_we_cair_3168_6_86x3_05x3_18/working
-    oomp_doc: footprints/footprints/natsfr/Wurth/WE-CAIR_3168_6.86x3.05x3.18/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/natsfr/Wurth/WE-CAIR_3168_6.86x3.05x3.18/working
     oomp_src_flat: footprints_flat/footprints_flat/natsfr_wurth_we_cair_3168_6_86x3_05x3_18/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/natsfr_wurth_we_cair_3168_6_86x3_05x3_18/working
-    oomp_src_folder: footprints_folder/footprints_folder/natsfr/Wurth/WE-CAIR_3168_6.86x3.05x3.18/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/natsfr/Wurth/WE-CAIR_3168_6.86x3.05x3.18/working
   name: kicad-components
+  oomp:
+    footprint_name: we_cair_3168_6_86x3_05x3_18
+    library_name: wurth
+    md5: 880beb240937b6a429bb0d87f5e74b77
+    md5_10: 880beb2409
+    md5_5: 880be
+    md5_6: 880beb
+    oomp_key: oomp_natsfr_wurth_we_cair_3168_6_86x3_05x3_18
+    oomp_key_extra: oomp_footprint_natsfr_wurth_we_cair_3168_6_86x3_05x3_18
+    oomp_key_full: oomp_footprint_natsfr_wurth_we_cair_3168_6_86x3_05x3_18_880beb
+    oomp_key_simple: natsfr_wurth_we_cair_3168_6_86x3_05x3_18
+    original_filename: kicad-components/Pretty_Footprints/Wurth.pretty/WE-CAIR_3168_6.86x3.05x3.18.kicad_mod
+    owner_name: natsfr
   oomp_key: oomp_natsfr_wurth_we_cair_3168_6_86x3_05x3_18
+  oomp_key_full: oomp_footprint_natsfr_wurth_we_cair_3168_6_86x3_05x3_18
   oomp_key_simple: natsfr_wurth_we_cair_3168_6_86x3_05x3_18
   owner: natsfr
   repo:

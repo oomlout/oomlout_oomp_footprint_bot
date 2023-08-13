@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/arturo182/kicad-modules
     oomp_bot: footprints/arturo182_connector_usb_extra_usb_c_receptacle_xkb_u263_24xn_4bqc11/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/arturo182_connector_usb_extra_usb_c_receptacle_xkb_u263_24xn_4bqc11/working
-    oomp_doc: footprints/footprints/arturo182/Connector_USB_Extra/USB_C_Receptacle_XKB_U263-24XN-4BQC11/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/arturo182/Connector_USB_Extra/USB_C_Receptacle_XKB_U263-24XN-4BQC11/working
     oomp_src_flat: footprints_flat/footprints_flat/arturo182_connector_usb_extra_usb_c_receptacle_xkb_u263_24xn_4bqc11/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/arturo182_connector_usb_extra_usb_c_receptacle_xkb_u263_24xn_4bqc11/working
-    oomp_src_folder: footprints_folder/footprints_folder/arturo182/Connector_USB_Extra/USB_C_Receptacle_XKB_U263-24XN-4BQC11/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/arturo182/Connector_USB_Extra/USB_C_Receptacle_XKB_U263-24XN-4BQC11/working
   name: kicad-modules
+  oomp:
+    footprint_name: usb_c_receptacle_xkb_u263_24xn_4bqc11
+    library_name: connector_usb_extra
+    md5: cf308594e8df000e842ff41c54ef4d9e
+    md5_10: cf308594e8
+    md5_5: cf308
+    md5_6: cf3085
+    oomp_key: oomp_arturo182_connector_usb_extra_usb_c_receptacle_xkb_u263_24xn_4bqc11
+    oomp_key_extra: oomp_footprint_arturo182_connector_usb_extra_usb_c_receptacle_xkb_u263_24xn_4bqc11
+    oomp_key_full: oomp_footprint_arturo182_connector_usb_extra_usb_c_receptacle_xkb_u263_24xn_4bqc11_cf3085
+    oomp_key_simple: arturo182_connector_usb_extra_usb_c_receptacle_xkb_u263_24xn_4bqc11
+    original_filename: kicad-modules/Connector_USB_Extra.pretty/USB_C_Receptacle_XKB_U263-24XN-4BQC11.kicad_mod
+    owner_name: arturo182
   oomp_key: oomp_arturo182_connector_usb_extra_usb_c_receptacle_xkb_u263_24xn_4bqc11
+  oomp_key_full: oomp_footprint_arturo182_connector_usb_extra_usb_c_receptacle_xkb_u263_24xn_4bqc11
   oomp_key_simple: arturo182_connector_usb_extra_usb_c_receptacle_xkb_u263_24xn_4bqc11
   owner: arturo182
   repo:

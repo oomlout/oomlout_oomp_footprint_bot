@@ -11,17 +11,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_fuse_fuseholder_blade_ato_littelfuse_pudenz_2_pin/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_fuse_fuseholder_blade_ato_littelfuse_pudenz_2_pin/working
-    oomp_doc: footprints/footprints/kicad/Fuse/Fuseholder_Blade_ATO_Littelfuse_Pudenz_2_Pin/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Fuse/Fuseholder_Blade_ATO_Littelfuse_Pudenz_2_Pin/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_fuse_fuseholder_blade_ato_littelfuse_pudenz_2_pin/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_fuse_fuseholder_blade_ato_littelfuse_pudenz_2_pin/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Fuse/Fuseholder_Blade_ATO_Littelfuse_Pudenz_2_Pin/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Fuse/Fuseholder_Blade_ATO_Littelfuse_Pudenz_2_Pin/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: fuseholder_blade_ato_littelfuse_pudenz_2_pin
+    library_name: fuse
+    md5: 4aa6b65c6145df79c7d6e14c05e7d65f
+    md5_10: 4aa6b65c61
+    md5_5: 4aa6b
+    md5_6: 4aa6b6
+    oomp_key: oomp_kicad_fuse_fuseholder_blade_ato_littelfuse_pudenz_2_pin
+    oomp_key_extra: oomp_footprint_kicad_fuse_fuseholder_blade_ato_littelfuse_pudenz_2_pin
+    oomp_key_full: oomp_footprint_kicad_fuse_fuseholder_blade_ato_littelfuse_pudenz_2_pin_4aa6b6
+    oomp_key_simple: kicad_fuse_fuseholder_blade_ato_littelfuse_pudenz_2_pin
+    original_filename: libraries/kicad-footprints/Fuse.pretty/Fuseholder_Blade_ATO_Littelfuse_Pudenz_2_Pin.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_fuse_fuseholder_blade_ato_littelfuse_pudenz_2_pin
+  oomp_key_full: oomp_footprint_kicad_fuse_fuseholder_blade_ato_littelfuse_pudenz_2_pin
   oomp_key_simple: kicad_fuse_fuseholder_blade_ato_littelfuse_pudenz_2_pin
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

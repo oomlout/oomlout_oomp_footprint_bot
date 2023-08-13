@@ -1,8 +1,5 @@
-- file: ComponentLibrariesKicadWurthElektronik/EAGLE-FPC_CONNECTOR_AND_FFC_CAB-rev16b/ConnectorZIF.pretty/68713014522.kicad_mod
-  footprint:
-    description: <b>WE-FPC 0.5mm SMT ZIF Horizontal Bottom Contact, 30 Pins
-    libraryLink: 68713014522
-    number_of_pads: 32
+- error: expected string or bytes-like object, got 'int'
+  file: ComponentLibrariesKicadWurthElektronik/EAGLE-FPC_CONNECTOR_AND_FFC_CAB-rev16b/ConnectorZIF.pretty/68713014522.kicad_mod
   footprint_library_directory: footprint_library_owner/ElectronicCats_ComponentLibrariesKicadWurthElektronik
   footprint_library_directory_flat: footprints_flat/electroniccats_connectorzif_68713014522/working
   github_path: http://github.com/ElectronicCats/ComponentLibrariesKicadWurthElektronik/blob/master/EAGLE-FPC_CONNECTOR_AND_FFC_CAB-rev16b/ConnectorZIF.pretty/68713014522.kicad_mod
@@ -12,14 +9,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/electroniccats_connectorzif_68713014522/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/electroniccats_connectorzif_68713014522/working
-    oomp_doc: footprints/footprints/ElectronicCats/ConnectorZIF/68713014522/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ElectronicCats/ConnectorZIF/68713014522/working
     oomp_src_flat: footprints_flat/footprints_flat/electroniccats_connectorzif_68713014522/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/electroniccats_connectorzif_68713014522/working
-    oomp_src_folder: footprints_folder/footprints_folder/ElectronicCats/ConnectorZIF/68713014522/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ElectronicCats/ConnectorZIF/68713014522/working
   name: ComponentLibrariesKicadWurthElektronik
+  oomp:
+    footprint_name: '68713014522'
+    library_name: connectorzif
+    md5: 7b671c0046f064270c4e065626e94c21
+    md5_10: 7b671c0046
+    md5_5: 7b671
+    md5_6: 7b671c
+    oomp_key: oomp_electroniccats_connectorzif_68713014522
+    oomp_key_extra: oomp_footprint_electroniccats_connectorzif_68713014522
+    oomp_key_full: oomp_footprint_electroniccats_connectorzif_68713014522_7b671c
+    oomp_key_simple: electroniccats_connectorzif_68713014522
+    original_filename: ComponentLibrariesKicadWurthElektronik/EAGLE-FPC_CONNECTOR_AND_FFC_CAB-rev16b/ConnectorZIF.pretty/68713014522.kicad_mod
+    owner_name: electroniccats
   oomp_key: oomp_electroniccats_connectorzif_68713014522
+  oomp_key_full: oomp_footprint_electroniccats_connectorzif_68713014522
   oomp_key_simple: electroniccats_connectorzif_68713014522
   owner: ElectronicCats
   repo:

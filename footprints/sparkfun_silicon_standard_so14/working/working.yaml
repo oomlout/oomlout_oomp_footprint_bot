@@ -1,24 +1,34 @@
-- file: SparkFun-KiCad-Libraries/Footprints/Silicon-Standard.pretty/SO14.kicad_mod
+- file: SparkFun-KiCad-Libraries/Pre_v7/Footprints/Silicon-Standard.pretty/SO14.kicad_mod
   footprint:
     description: SOIC, 0.15 INCH WIDTH
     libraryLink: SO14
     number_of_pads: 14
   footprint_library_directory: footprint_library_owner/sparkfun_SparkFun-KiCad-Libraries
   footprint_library_directory_flat: footprints_flat/sparkfun_silicon_standard_so14/working
-  github_path: http://github.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Footprints/Silicon-Standard.pretty/SO14.kicad_mod
+  github_path: http://github.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Pre_v7/Footprints/Silicon-Standard.pretty/SO14.kicad_mod
   links:
-    github_src: http://gitlab.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Tools/SparkFun-Eagle-Libraries_Conversion/Export.pretty/DFN-6-3X3.kicad_mod
+    github_src: http://gitlab.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Pre_v7/Tools/SparkFun-Eagle-Libraries_Conversion/Export.pretty/DFN-6-3X3.kicad_mod
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/sparkfun_silicon_standard_so14/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/sparkfun_silicon_standard_so14/working
-    oomp_doc: footprints/footprints/sparkfun/Silicon-Standard/SO14/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/sparkfun/Silicon-Standard/SO14/working
     oomp_src_flat: footprints_flat/footprints_flat/sparkfun_silicon_standard_so14/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/sparkfun_silicon_standard_so14/working
-    oomp_src_folder: footprints_folder/footprints_folder/sparkfun/Silicon-Standard/SO14/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/sparkfun/Silicon-Standard/SO14/working
   name: SparkFun-KiCad-Libraries
+  oomp:
+    footprint_name: so14
+    library_name: silicon_standard
+    md5: ce3baa6f115cdbc78eb750696e9cc2db
+    md5_10: ce3baa6f11
+    md5_5: ce3ba
+    md5_6: ce3baa
+    oomp_key: oomp_sparkfun_silicon_standard_so14
+    oomp_key_extra: oomp_footprint_sparkfun_silicon_standard_so14
+    oomp_key_full: oomp_footprint_sparkfun_silicon_standard_so14_ce3baa
+    oomp_key_simple: sparkfun_silicon_standard_so14
+    original_filename: SparkFun-KiCad-Libraries/Pre_v7/Footprints/Silicon-Standard.pretty/SO14.kicad_mod
+    owner_name: sparkfun
   oomp_key: oomp_sparkfun_silicon_standard_so14
+  oomp_key_full: oomp_footprint_sparkfun_silicon_standard_so14
   oomp_key_simple: sparkfun_silicon_standard_so14
   owner: sparkfun
   repo:

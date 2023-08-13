@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/codemercenary_os_kicad_p0402/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/codemercenary_os_kicad_p0402/working
-    oomp_doc: footprints/footprints/codemercenary-os/kicad/P0402/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/codemercenary-os/kicad/P0402/working
     oomp_src_flat: footprints_flat/footprints_flat/codemercenary_os_kicad_p0402/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/codemercenary_os_kicad_p0402/working
-    oomp_src_folder: footprints_folder/footprints_folder/codemercenary-os/kicad/P0402/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/codemercenary-os/kicad/P0402/working
   name: kicad.pretty
+  oomp:
+    footprint_name: p0402
+    library_name: kicad
+    md5: 2bea16ee61361d32d67ee0d30373d34b
+    md5_10: 2bea16ee61
+    md5_5: 2bea1
+    md5_6: 2bea16
+    oomp_key: oomp_codemercenary_os_kicad_p0402
+    oomp_key_extra: oomp_footprint_codemercenary_os_kicad_p0402
+    oomp_key_full: oomp_footprint_codemercenary_os_kicad_p0402_2bea16
+    oomp_key_simple: codemercenary_os_kicad_p0402
+    original_filename: kicad.pretty/P0402.kicad_mod
+    owner_name: codemercenary_os
   oomp_key: oomp_codemercenary_os_kicad_p0402
+  oomp_key_full: oomp_footprint_codemercenary_os_kicad_p0402
   oomp_key_simple: codemercenary_os_kicad_p0402
   owner: codemercenary-os
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/fruchti_tssop_tssop16/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/fruchti_tssop_tssop16/working
-    oomp_doc: footprints/footprints/fruchti/tssop/TSSOP16/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/fruchti/tssop/TSSOP16/working
     oomp_src_flat: footprints_flat/footprints_flat/fruchti_tssop_tssop16/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/fruchti_tssop_tssop16/working
-    oomp_src_folder: footprints_folder/footprints_folder/fruchti/tssop/TSSOP16/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/fruchti/tssop/TSSOP16/working
   name: fruchtilib
+  oomp:
+    footprint_name: tssop16
+    library_name: tssop
+    md5: 1c90cf8fd388740d259005acd1a5fd97
+    md5_10: 1c90cf8fd3
+    md5_5: 1c90c
+    md5_6: 1c90cf
+    oomp_key: oomp_fruchti_tssop_tssop16
+    oomp_key_extra: oomp_footprint_fruchti_tssop_tssop16
+    oomp_key_full: oomp_footprint_fruchti_tssop_tssop16_1c90cf
+    oomp_key_simple: fruchti_tssop_tssop16
+    original_filename: fruchtilib/mod/tssop.pretty/TSSOP16.kicad_mod
+    owner_name: fruchti
   oomp_key: oomp_fruchti_tssop_tssop16
+  oomp_key_full: oomp_footprint_fruchti_tssop_tssop16
   oomp_key_simple: fruchti_tssop_tssop16
   owner: fruchti
   repo:

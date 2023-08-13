@@ -12,17 +12,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_inductor_tht_l_radial_d50_8mm_p35_81mm_vishay_ihb_6/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_inductor_tht_l_radial_d50_8mm_p35_81mm_vishay_ihb_6/working
-    oomp_doc: footprints/footprints/kicad/Inductor_THT/L_Radial_D50.8mm_P35.81mm_Vishay_IHB-6/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Inductor_THT/L_Radial_D50.8mm_P35.81mm_Vishay_IHB-6/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_inductor_tht_l_radial_d50_8mm_p35_81mm_vishay_ihb_6/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_inductor_tht_l_radial_d50_8mm_p35_81mm_vishay_ihb_6/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Inductor_THT/L_Radial_D50.8mm_P35.81mm_Vishay_IHB-6/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Inductor_THT/L_Radial_D50.8mm_P35.81mm_Vishay_IHB-6/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: l_radial_d50_8mm_p35_81mm_vishay_ihb_6
+    library_name: inductor_tht
+    md5: cf59c8c2f03f6afa29ca0e1d288596e8
+    md5_10: cf59c8c2f0
+    md5_5: cf59c
+    md5_6: cf59c8
+    oomp_key: oomp_kicad_inductor_tht_l_radial_d50_8mm_p35_81mm_vishay_ihb_6
+    oomp_key_extra: oomp_footprint_kicad_inductor_tht_l_radial_d50_8mm_p35_81mm_vishay_ihb_6
+    oomp_key_full: oomp_footprint_kicad_inductor_tht_l_radial_d50_8mm_p35_81mm_vishay_ihb_6_cf59c8
+    oomp_key_simple: kicad_inductor_tht_l_radial_d50_8mm_p35_81mm_vishay_ihb_6
+    original_filename: libraries/kicad-footprints/Inductor_THT.pretty/L_Radial_D50.8mm_P35.81mm_Vishay_IHB-6.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_inductor_tht_l_radial_d50_8mm_p35_81mm_vishay_ihb_6
+  oomp_key_full: oomp_footprint_kicad_inductor_tht_l_radial_d50_8mm_p35_81mm_vishay_ihb_6
   oomp_key_simple: kicad_inductor_tht_l_radial_d50_8mm_p35_81mm_vishay_ihb_6
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

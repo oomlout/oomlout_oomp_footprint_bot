@@ -11,16 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pcsmithy_mcx_mcx_conn/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pcsmithy_mcx_mcx_conn/working
-    oomp_doc: footprints/footprints/PCSmithy/MCX/MCX Conn/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/PCSmithy/MCX/MCX
-      Conn/working
     oomp_src_flat: footprints_flat/footprints_flat/pcsmithy_mcx_mcx_conn/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pcsmithy_mcx_mcx_conn/working
-    oomp_src_folder: footprints_folder/footprints_folder/PCSmithy/MCX/MCX Conn/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/PCSmithy/MCX/MCX
-      Conn/working
   name: MCX.pretty
+  oomp:
+    footprint_name: mcx_conn
+    library_name: mcx
+    md5: 4cbe7215c537833b6f6a3c35d5f91601
+    md5_10: 4cbe7215c5
+    md5_5: 4cbe7
+    md5_6: 4cbe72
+    oomp_key: oomp_pcsmithy_mcx_mcx_conn
+    oomp_key_extra: oomp_footprint_pcsmithy_mcx_mcx_conn
+    oomp_key_full: oomp_footprint_pcsmithy_mcx_mcx_conn_4cbe72
+    oomp_key_simple: pcsmithy_mcx_mcx_conn
+    original_filename: MCX.pretty/MCX Conn.kicad_mod
+    owner_name: pcsmithy
   oomp_key: oomp_pcsmithy_mcx_mcx_conn
+  oomp_key_full: oomp_footprint_pcsmithy_mcx_mcx_conn
   oomp_key_simple: pcsmithy_mcx_mcx_conn
   owner: PCSmithy
   repo:

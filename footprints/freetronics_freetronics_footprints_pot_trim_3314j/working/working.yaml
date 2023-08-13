@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/freetronics_freetronics_footprints_pot_trim_3314j/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/freetronics_freetronics_footprints_pot_trim_3314j/working
-    oomp_doc: footprints/footprints/freetronics/freetronics_footprints/POT_TRIM_3314J/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/freetronics/freetronics_footprints/POT_TRIM_3314J/working
     oomp_src_flat: footprints_flat/footprints_flat/freetronics_freetronics_footprints_pot_trim_3314j/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/freetronics_freetronics_footprints_pot_trim_3314j/working
-    oomp_src_folder: footprints_folder/footprints_folder/freetronics/freetronics_footprints/POT_TRIM_3314J/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/freetronics/freetronics_footprints/POT_TRIM_3314J/working
   name: freetronics_kicad_library
+  oomp:
+    footprint_name: pot_trim_3314j
+    library_name: freetronics_footprints
+    md5: 35b126e174d5b58ae46cccd2bae3d92a
+    md5_10: 35b126e174
+    md5_5: 35b12
+    md5_6: 35b126
+    oomp_key: oomp_freetronics_freetronics_footprints_pot_trim_3314j
+    oomp_key_extra: oomp_footprint_freetronics_freetronics_footprints_pot_trim_3314j
+    oomp_key_full: oomp_footprint_freetronics_freetronics_footprints_pot_trim_3314j_35b126
+    oomp_key_simple: freetronics_freetronics_footprints_pot_trim_3314j
+    original_filename: freetronics_kicad_library/freetronics_footprints.pretty/POT_TRIM_3314J.kicad_mod
+    owner_name: freetronics
   oomp_key: oomp_freetronics_freetronics_footprints_pot_trim_3314j
+  oomp_key_full: oomp_footprint_freetronics_freetronics_footprints_pot_trim_3314j
   oomp_key_simple: freetronics_freetronics_footprints_pot_trim_3314j
   owner: freetronics
   repo:

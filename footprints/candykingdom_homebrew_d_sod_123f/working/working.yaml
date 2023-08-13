@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/candykingdom_homebrew_d_sod_123f/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/candykingdom_homebrew_d_sod_123f/working
-    oomp_doc: footprints/footprints/candykingdom/homebrew/D_SOD-123F/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/candykingdom/homebrew/D_SOD-123F/working
     oomp_src_flat: footprints_flat/footprints_flat/candykingdom_homebrew_d_sod_123f/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/candykingdom_homebrew_d_sod_123f/working
-    oomp_src_folder: footprints_folder/footprints_folder/candykingdom/homebrew/D_SOD-123F/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/candykingdom/homebrew/D_SOD-123F/working
   name: homebrew.pretty
+  oomp:
+    footprint_name: d_sod_123f
+    library_name: homebrew
+    md5: f3d93511d98f89d7d55e9a3dc7347d57
+    md5_10: f3d93511d9
+    md5_5: f3d93
+    md5_6: f3d935
+    oomp_key: oomp_candykingdom_homebrew_d_sod_123f
+    oomp_key_extra: oomp_footprint_candykingdom_homebrew_d_sod_123f
+    oomp_key_full: oomp_footprint_candykingdom_homebrew_d_sod_123f_f3d935
+    oomp_key_simple: candykingdom_homebrew_d_sod_123f
+    original_filename: homebrew.pretty/D_SOD-123F.kicad_mod
+    owner_name: candykingdom
   oomp_key: oomp_candykingdom_homebrew_d_sod_123f
+  oomp_key_full: oomp_footprint_candykingdom_homebrew_d_sod_123f
   oomp_key_simple: candykingdom_homebrew_d_sod_123f
   owner: candykingdom
   repo:

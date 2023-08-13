@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/digikey_lssop_24_w5_6mm_lssop_24_w5_6mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_lssop_24_w5_6mm_lssop_24_w5_6mm/working
-    oomp_doc: footprints/footprints/digikey/LSSOP-24_W5.6mm.kicad_mod/LSSOP-24_W5.6mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/digikey/LSSOP-24_W5.6mm.kicad_mod/LSSOP-24_W5.6mm/working
     oomp_src_flat: footprints_flat/footprints_flat/digikey_lssop_24_w5_6mm_lssop_24_w5_6mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/digikey_lssop_24_w5_6mm_lssop_24_w5_6mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/digikey/LSSOP-24_W5.6mm.kicad_mod/LSSOP-24_W5.6mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/digikey/LSSOP-24_W5.6mm.kicad_mod/LSSOP-24_W5.6mm/working
   name: digikey-kicad-library
+  oomp:
+    footprint_name: lssop_24_w5_6mm
+    library_name: lssop_24_w5_6mm_kicad_mod
+    md5: e8d671e05a520fe21827af054396b382
+    md5_10: e8d671e05a
+    md5_5: e8d67
+    md5_6: e8d671
+    oomp_key: oomp_digikey_lssop_24_w5_6mm_lssop_24_w5_6mm
+    oomp_key_extra: oomp_footprint_digikey_lssop_24_w5_6mm_lssop_24_w5_6mm
+    oomp_key_full: oomp_footprint_digikey_lssop_24_w5_6mm_lssop_24_w5_6mm_e8d671
+    oomp_key_simple: digikey_lssop_24_w5_6mm_lssop_24_w5_6mm
+    original_filename: digikey-kicad-library/src/Source_Footprints/LSSOP-24_W5.6mm.kicad_mod
+    owner_name: digikey
   oomp_key: oomp_digikey_lssop_24_w5_6mm_lssop_24_w5_6mm
+  oomp_key_full: oomp_footprint_digikey_lssop_24_w5_6mm_lssop_24_w5_6mm
   oomp_key_simple: digikey_lssop_24_w5_6mm_lssop_24_w5_6mm
   owner: digikey
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pelrun_w_smd_trans_d2_pak/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pelrun_w_smd_trans_d2_pak/working
-    oomp_doc: footprints/footprints/pelrun/w_smd_trans/d2-pak/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/pelrun/w_smd_trans/d2-pak/working
     oomp_src_flat: footprints_flat/footprints_flat/pelrun_w_smd_trans_d2_pak/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pelrun_w_smd_trans_d2_pak/working
-    oomp_src_folder: footprints_folder/footprints_folder/pelrun/w_smd_trans/d2-pak/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/pelrun/w_smd_trans/d2-pak/working
   name: libKiCad
+  oomp:
+    footprint_name: d2_pak
+    library_name: w_smd_trans
+    md5: 1b95df63ff71ff732e4e77ee466a75b3
+    md5_10: 1b95df63ff
+    md5_5: 1b95d
+    md5_6: 1b95df
+    oomp_key: oomp_pelrun_w_smd_trans_d2_pak
+    oomp_key_extra: oomp_footprint_pelrun_w_smd_trans_d2_pak
+    oomp_key_full: oomp_footprint_pelrun_w_smd_trans_d2_pak_1b95df
+    oomp_key_simple: pelrun_w_smd_trans_d2_pak
+    original_filename: libKiCad/footprint/w_smd_trans.pretty/d2-pak.kicad_mod
+    owner_name: pelrun
   oomp_key: oomp_pelrun_w_smd_trans_d2_pak
+  oomp_key_full: oomp_footprint_pelrun_w_smd_trans_d2_pak
   oomp_key_simple: pelrun_w_smd_trans_d2_pak
   owner: pelrun
   repo:

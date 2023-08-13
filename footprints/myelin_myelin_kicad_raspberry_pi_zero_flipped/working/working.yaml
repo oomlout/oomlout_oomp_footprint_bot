@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/myelin_myelin_kicad_raspberry_pi_zero_flipped/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/myelin_myelin_kicad_raspberry_pi_zero_flipped/working
-    oomp_doc: footprints/footprints/myelin/myelin-kicad/raspberry_pi_zero_flipped/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/myelin/myelin-kicad/raspberry_pi_zero_flipped/working
     oomp_src_flat: footprints_flat/footprints_flat/myelin_myelin_kicad_raspberry_pi_zero_flipped/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/myelin_myelin_kicad_raspberry_pi_zero_flipped/working
-    oomp_src_folder: footprints_folder/footprints_folder/myelin/myelin-kicad/raspberry_pi_zero_flipped/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/myelin/myelin-kicad/raspberry_pi_zero_flipped/working
   name: myelin-kicad.pretty
+  oomp:
+    footprint_name: raspberry_pi_zero_flipped
+    library_name: myelin_kicad
+    md5: f396bee1f392ce7ef25693f072c38a55
+    md5_10: f396bee1f3
+    md5_5: f396b
+    md5_6: f396be
+    oomp_key: oomp_myelin_myelin_kicad_raspberry_pi_zero_flipped
+    oomp_key_extra: oomp_footprint_myelin_myelin_kicad_raspberry_pi_zero_flipped
+    oomp_key_full: oomp_footprint_myelin_myelin_kicad_raspberry_pi_zero_flipped_f396be
+    oomp_key_simple: myelin_myelin_kicad_raspberry_pi_zero_flipped
+    original_filename: myelin-kicad.pretty/raspberry_pi_zero_flipped.kicad_mod
+    owner_name: myelin
   oomp_key: oomp_myelin_myelin_kicad_raspberry_pi_zero_flipped
+  oomp_key_full: oomp_footprint_myelin_myelin_kicad_raspberry_pi_zero_flipped
   oomp_key_simple: myelin_myelin_kicad_raspberry_pi_zero_flipped
   owner: myelin
   repo:

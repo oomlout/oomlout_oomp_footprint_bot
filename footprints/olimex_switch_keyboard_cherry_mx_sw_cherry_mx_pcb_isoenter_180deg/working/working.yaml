@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/olimex_switch_keyboard_cherry_mx_sw_cherry_mx_pcb_isoenter_180deg/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/olimex_switch_keyboard_cherry_mx_sw_cherry_mx_pcb_isoenter_180deg/working
-    oomp_doc: footprints/footprints/OLIMEX/Switch_Keyboard_Cherry_MX/SW_Cherry_MX_PCB_ISOEnter_180deg/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/OLIMEX/Switch_Keyboard_Cherry_MX/SW_Cherry_MX_PCB_ISOEnter_180deg/working
     oomp_src_flat: footprints_flat/footprints_flat/olimex_switch_keyboard_cherry_mx_sw_cherry_mx_pcb_isoenter_180deg/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/olimex_switch_keyboard_cherry_mx_sw_cherry_mx_pcb_isoenter_180deg/working
-    oomp_src_folder: footprints_folder/footprints_folder/OLIMEX/Switch_Keyboard_Cherry_MX/SW_Cherry_MX_PCB_ISOEnter_180deg/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/OLIMEX/Switch_Keyboard_Cherry_MX/SW_Cherry_MX_PCB_ISOEnter_180deg/working
   name: KiCAD
+  oomp:
+    footprint_name: sw_cherry_mx_pcb_isoenter_180deg
+    library_name: switch_keyboard_cherry_mx
+    md5: 6b09673dc1b9cdffc81f08e325ba730f
+    md5_10: 6b09673dc1
+    md5_5: 6b096
+    md5_6: 6b0967
+    oomp_key: oomp_olimex_switch_keyboard_cherry_mx_sw_cherry_mx_pcb_isoenter_180deg
+    oomp_key_extra: oomp_footprint_olimex_switch_keyboard_cherry_mx_sw_cherry_mx_pcb_isoenter_180deg
+    oomp_key_full: oomp_footprint_olimex_switch_keyboard_cherry_mx_sw_cherry_mx_pcb_isoenter_180deg_6b0967
+    oomp_key_simple: olimex_switch_keyboard_cherry_mx_sw_cherry_mx_pcb_isoenter_180deg
+    original_filename: KiCAD/6.0/3rdparty/footprints/com_github_perigoso_keyswitch-kicad-library/Switch_Keyboard_Cherry_MX.pretty/SW_Cherry_MX_PCB_ISOEnter_180deg.kicad_mod
+    owner_name: olimex
   oomp_key: oomp_olimex_switch_keyboard_cherry_mx_sw_cherry_mx_pcb_isoenter_180deg
+  oomp_key_full: oomp_footprint_olimex_switch_keyboard_cherry_mx_sw_cherry_mx_pcb_isoenter_180deg
   oomp_key_simple: olimex_switch_keyboard_cherry_mx_sw_cherry_mx_pcb_isoenter_180deg
   owner: OLIMEX
   repo:

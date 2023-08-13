@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/candykingdom_homebrew_batteryholder_keystone_3042_1x24_5mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/candykingdom_homebrew_batteryholder_keystone_3042_1x24_5mm/working
-    oomp_doc: footprints/footprints/candykingdom/homebrew/BatteryHolder_Keystone_3042_1x24_5mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/candykingdom/homebrew/BatteryHolder_Keystone_3042_1x24_5mm/working
     oomp_src_flat: footprints_flat/footprints_flat/candykingdom_homebrew_batteryholder_keystone_3042_1x24_5mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/candykingdom_homebrew_batteryholder_keystone_3042_1x24_5mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/candykingdom/homebrew/BatteryHolder_Keystone_3042_1x24_5mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/candykingdom/homebrew/BatteryHolder_Keystone_3042_1x24_5mm/working
   name: homebrew.pretty
+  oomp:
+    footprint_name: batteryholder_keystone_3042_1x24_5mm
+    library_name: homebrew
+    md5: 1e409707959f02606430e53e58e0b6bc
+    md5_10: 1e40970795
+    md5_5: 1e409
+    md5_6: 1e4097
+    oomp_key: oomp_candykingdom_homebrew_batteryholder_keystone_3042_1x24_5mm
+    oomp_key_extra: oomp_footprint_candykingdom_homebrew_batteryholder_keystone_3042_1x24_5mm
+    oomp_key_full: oomp_footprint_candykingdom_homebrew_batteryholder_keystone_3042_1x24_5mm_1e4097
+    oomp_key_simple: candykingdom_homebrew_batteryholder_keystone_3042_1x24_5mm
+    original_filename: homebrew.pretty/BatteryHolder_Keystone_3042_1x24_5mm.kicad_mod
+    owner_name: candykingdom
   oomp_key: oomp_candykingdom_homebrew_batteryholder_keystone_3042_1x24_5mm
+  oomp_key_full: oomp_footprint_candykingdom_homebrew_batteryholder_keystone_3042_1x24_5mm
   oomp_key_simple: candykingdom_homebrew_batteryholder_keystone_3042_1x24_5mm
   owner: candykingdom
   repo:

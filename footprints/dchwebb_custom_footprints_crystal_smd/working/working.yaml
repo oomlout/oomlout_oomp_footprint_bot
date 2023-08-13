@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/dchwebb_custom_footprints_crystal_smd/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/dchwebb_custom_footprints_crystal_smd/working
-    oomp_doc: footprints/footprints/dchwebb/Custom_Footprints/Crystal_SMD/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/dchwebb/Custom_Footprints/Crystal_SMD/working
     oomp_src_flat: footprints_flat/footprints_flat/dchwebb_custom_footprints_crystal_smd/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/dchwebb_custom_footprints_crystal_smd/working
-    oomp_src_folder: footprints_folder/footprints_folder/dchwebb/Custom_Footprints/Crystal_SMD/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/dchwebb/Custom_Footprints/Crystal_SMD/working
   name: Custom_Footprints.pretty
+  oomp:
+    footprint_name: crystal_smd
+    library_name: custom_footprints
+    md5: d3565aa4f92bf62e0257711759becedc
+    md5_10: d3565aa4f9
+    md5_5: d3565
+    md5_6: d3565a
+    oomp_key: oomp_dchwebb_custom_footprints_crystal_smd
+    oomp_key_extra: oomp_footprint_dchwebb_custom_footprints_crystal_smd
+    oomp_key_full: oomp_footprint_dchwebb_custom_footprints_crystal_smd_d3565a
+    oomp_key_simple: dchwebb_custom_footprints_crystal_smd
+    original_filename: Custom_Footprints.pretty/Crystal_SMD.kicad_mod
+    owner_name: dchwebb
   oomp_key: oomp_dchwebb_custom_footprints_crystal_smd
+  oomp_key_full: oomp_footprint_dchwebb_custom_footprints_crystal_smd
   oomp_key_simple: dchwebb_custom_footprints_crystal_smd
   owner: dchwebb
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/greatscottgadgets_gsg_modules_sma_vertical/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/greatscottgadgets_gsg_modules_sma_vertical/working
-    oomp_doc: footprints/footprints/greatscottgadgets/gsg-modules/SMA-VERTICAL/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/greatscottgadgets/gsg-modules/SMA-VERTICAL/working
     oomp_src_flat: footprints_flat/footprints_flat/greatscottgadgets_gsg_modules_sma_vertical/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/greatscottgadgets_gsg_modules_sma_vertical/working
-    oomp_src_folder: footprints_folder/footprints_folder/greatscottgadgets/gsg-modules/SMA-VERTICAL/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/greatscottgadgets/gsg-modules/SMA-VERTICAL/working
   name: gsg-kicad-lib
+  oomp:
+    footprint_name: sma_vertical
+    library_name: gsg_modules
+    md5: 71d6d6fee692cc71806e3ed3b442cfaf
+    md5_10: 71d6d6fee6
+    md5_5: 71d6d
+    md5_6: 71d6d6
+    oomp_key: oomp_greatscottgadgets_gsg_modules_sma_vertical
+    oomp_key_extra: oomp_footprint_greatscottgadgets_gsg_modules_sma_vertical
+    oomp_key_full: oomp_footprint_greatscottgadgets_gsg_modules_sma_vertical_71d6d6
+    oomp_key_simple: greatscottgadgets_gsg_modules_sma_vertical
+    original_filename: gsg-kicad-lib/gsg-modules.pretty/SMA-VERTICAL.kicad_mod
+    owner_name: greatscottgadgets
   oomp_key: oomp_greatscottgadgets_gsg_modules_sma_vertical
+  oomp_key_full: oomp_footprint_greatscottgadgets_gsg_modules_sma_vertical
   oomp_key_simple: greatscottgadgets_gsg_modules_sma_vertical
   owner: greatscottgadgets
   repo:

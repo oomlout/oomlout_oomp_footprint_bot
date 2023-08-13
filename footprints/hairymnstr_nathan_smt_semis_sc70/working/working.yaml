@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/hairymnstr_nathan_smt_semis_sc70/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/hairymnstr_nathan_smt_semis_sc70/working
-    oomp_doc: footprints/footprints/hairymnstr/Nathan_SMT_Semis/SC70/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/hairymnstr/Nathan_SMT_Semis/SC70/working
     oomp_src_flat: footprints_flat/footprints_flat/hairymnstr_nathan_smt_semis_sc70/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/hairymnstr_nathan_smt_semis_sc70/working
-    oomp_src_folder: footprints_folder/footprints_folder/hairymnstr/Nathan_SMT_Semis/SC70/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/hairymnstr/Nathan_SMT_Semis/SC70/working
   name: Nathan_SMT_Semis.pretty
+  oomp:
+    footprint_name: sc70
+    library_name: nathan_smt_semis
+    md5: b19c39bfaa0174fafc07f4268421a6ea
+    md5_10: b19c39bfaa
+    md5_5: b19c3
+    md5_6: b19c39
+    oomp_key: oomp_hairymnstr_nathan_smt_semis_sc70
+    oomp_key_extra: oomp_footprint_hairymnstr_nathan_smt_semis_sc70
+    oomp_key_full: oomp_footprint_hairymnstr_nathan_smt_semis_sc70_b19c39
+    oomp_key_simple: hairymnstr_nathan_smt_semis_sc70
+    original_filename: Nathan_SMT_Semis.pretty/SC70.kicad_mod
+    owner_name: hairymnstr
   oomp_key: oomp_hairymnstr_nathan_smt_semis_sc70
+  oomp_key_full: oomp_footprint_hairymnstr_nathan_smt_semis_sc70
   oomp_key_simple: hairymnstr_nathan_smt_semis_sc70
   owner: hairymnstr
   repo:

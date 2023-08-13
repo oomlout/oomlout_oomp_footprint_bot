@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/Iangitpers/4a
     oomp_bot: footprints/iangitpers_manuf_onsemi_dfn12/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/iangitpers_manuf_onsemi_dfn12/working
-    oomp_doc: footprints/footprints/Iangitpers/manuf/ONSEMI_DFN12/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Iangitpers/manuf/ONSEMI_DFN12/working
     oomp_src_flat: footprints_flat/footprints_flat/iangitpers_manuf_onsemi_dfn12/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/iangitpers_manuf_onsemi_dfn12/working
-    oomp_src_folder: footprints_folder/footprints_folder/Iangitpers/manuf/ONSEMI_DFN12/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Iangitpers/manuf/ONSEMI_DFN12/working
   name: 4a
+  oomp:
+    footprint_name: onsemi_dfn12
+    library_name: manuf
+    md5: 30695fef2824a73a53898ebd98c82e8f
+    md5_10: 30695fef28
+    md5_5: '30695'
+    md5_6: 30695f
+    oomp_key: oomp_iangitpers_manuf_onsemi_dfn12
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_onsemi_dfn12
+    oomp_key_full: oomp_footprint_iangitpers_manuf_onsemi_dfn12_30695f
+    oomp_key_simple: iangitpers_manuf_onsemi_dfn12
+    original_filename: 4a/manuf.pretty/ONSEMI_DFN12.kicad_mod
+    owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_onsemi_dfn12
+  oomp_key_full: oomp_footprint_iangitpers_manuf_onsemi_dfn12
   oomp_key_simple: iangitpers_manuf_onsemi_dfn12
   owner: Iangitpers
   repo:

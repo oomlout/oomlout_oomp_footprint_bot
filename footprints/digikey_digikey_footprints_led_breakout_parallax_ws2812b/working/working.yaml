@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/digikey_digikey_footprints_led_breakout_parallax_ws2812b/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_digikey_footprints_led_breakout_parallax_ws2812b/working
-    oomp_doc: footprints/footprints/digikey/digikey-footprints/LED_Breakout_Parallax_WS2812B/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/digikey/digikey-footprints/LED_Breakout_Parallax_WS2812B/working
     oomp_src_flat: footprints_flat/footprints_flat/digikey_digikey_footprints_led_breakout_parallax_ws2812b/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/digikey_digikey_footprints_led_breakout_parallax_ws2812b/working
-    oomp_src_folder: footprints_folder/footprints_folder/digikey/digikey-footprints/LED_Breakout_Parallax_WS2812B/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/digikey/digikey-footprints/LED_Breakout_Parallax_WS2812B/working
   name: digikey-kicad-library
+  oomp:
+    footprint_name: led_breakout_parallax_ws2812b
+    library_name: digikey_footprints
+    md5: cb54783553ac3be27529261fc0ec1b09
+    md5_10: cb54783553
+    md5_5: cb547
+    md5_6: cb5478
+    oomp_key: oomp_digikey_digikey_footprints_led_breakout_parallax_ws2812b
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_led_breakout_parallax_ws2812b
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_led_breakout_parallax_ws2812b_cb5478
+    oomp_key_simple: digikey_digikey_footprints_led_breakout_parallax_ws2812b
+    original_filename: digikey-kicad-library/digikey-footprints.pretty/LED_Breakout_Parallax_WS2812B.kicad_mod
+    owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_led_breakout_parallax_ws2812b
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_led_breakout_parallax_ws2812b
   oomp_key_simple: digikey_digikey_footprints_led_breakout_parallax_ws2812b
   owner: digikey
   repo:

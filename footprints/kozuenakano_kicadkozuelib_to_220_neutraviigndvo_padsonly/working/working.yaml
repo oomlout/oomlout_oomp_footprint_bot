@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/KozueNakano/KiCADKozueLib.pretty
     oomp_bot: footprints/kozuenakano_kicadkozuelib_to_220_neutraviigndvo_padsonly/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kozuenakano_kicadkozuelib_to_220_neutraviigndvo_padsonly/working
-    oomp_doc: footprints/footprints/KozueNakano/KiCADKozueLib/TO-220_NeutraViIGndVo_PadsOnly/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/KozueNakano/KiCADKozueLib/TO-220_NeutraViIGndVo_PadsOnly/working
     oomp_src_flat: footprints_flat/footprints_flat/kozuenakano_kicadkozuelib_to_220_neutraviigndvo_padsonly/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kozuenakano_kicadkozuelib_to_220_neutraviigndvo_padsonly/working
-    oomp_src_folder: footprints_folder/footprints_folder/KozueNakano/KiCADKozueLib/TO-220_NeutraViIGndVo_PadsOnly/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/KozueNakano/KiCADKozueLib/TO-220_NeutraViIGndVo_PadsOnly/working
   name: KiCADKozueLib.pretty
+  oomp:
+    footprint_name: to_220_neutraviigndvo_padsonly
+    library_name: kicadkozuelib
+    md5: f0109414a87ff03cb995a659857aaf39
+    md5_10: f0109414a8
+    md5_5: f0109
+    md5_6: f01094
+    oomp_key: oomp_kozuenakano_kicadkozuelib_to_220_neutraviigndvo_padsonly
+    oomp_key_extra: oomp_footprint_kozuenakano_kicadkozuelib_to_220_neutraviigndvo_padsonly
+    oomp_key_full: oomp_footprint_kozuenakano_kicadkozuelib_to_220_neutraviigndvo_padsonly_f01094
+    oomp_key_simple: kozuenakano_kicadkozuelib_to_220_neutraviigndvo_padsonly
+    original_filename: KiCADKozueLib.pretty/TO-220_NeutraViIGndVo_PadsOnly.kicad_mod
+    owner_name: kozuenakano
   oomp_key: oomp_kozuenakano_kicadkozuelib_to_220_neutraviigndvo_padsonly
+  oomp_key_full: oomp_footprint_kozuenakano_kicadkozuelib_to_220_neutraviigndvo_padsonly
   oomp_key_simple: kozuenakano_kicadkozuelib_to_220_neutraviigndvo_padsonly
   owner: KozueNakano
   repo:

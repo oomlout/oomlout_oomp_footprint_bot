@@ -14,14 +14,24 @@
     github_src_repo: https://github.com/leptun/leptunKicadLib.pretty
     oomp_bot: footprints/leptun_leptunkicadlib_dtsm_61n_v_t_r/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/leptun_leptunkicadlib_dtsm_61n_v_t_r/working
-    oomp_doc: footprints/footprints/leptun/leptunKicadLib/DTSM-61N-V-T_R/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/leptun/leptunKicadLib/DTSM-61N-V-T_R/working
     oomp_src_flat: footprints_flat/footprints_flat/leptun_leptunkicadlib_dtsm_61n_v_t_r/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/leptun_leptunkicadlib_dtsm_61n_v_t_r/working
-    oomp_src_folder: footprints_folder/footprints_folder/leptun/leptunKicadLib/DTSM-61N-V-T_R/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/leptun/leptunKicadLib/DTSM-61N-V-T_R/working
   name: leptunKicadLib.pretty
+  oomp:
+    footprint_name: dtsm_61n_v_t_r
+    library_name: leptunkicadlib
+    md5: 07168f05dd247c2e1987ce52e12e3cae
+    md5_10: 07168f05dd
+    md5_5: 07168
+    md5_6: 07168f
+    oomp_key: oomp_leptun_leptunkicadlib_dtsm_61n_v_t_r
+    oomp_key_extra: oomp_footprint_leptun_leptunkicadlib_dtsm_61n_v_t_r
+    oomp_key_full: oomp_footprint_leptun_leptunkicadlib_dtsm_61n_v_t_r_07168f
+    oomp_key_simple: leptun_leptunkicadlib_dtsm_61n_v_t_r
+    original_filename: leptunKicadLib.pretty/DTSM-61N-V-T_R.kicad_mod
+    owner_name: leptun
   oomp_key: oomp_leptun_leptunkicadlib_dtsm_61n_v_t_r
+  oomp_key_full: oomp_footprint_leptun_leptunkicadlib_dtsm_61n_v_t_r
   oomp_key_simple: leptun_leptunkicadlib_dtsm_61n_v_t_r
   owner: leptun
   repo:

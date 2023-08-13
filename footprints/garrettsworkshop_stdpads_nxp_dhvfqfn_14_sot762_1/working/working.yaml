@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/garrettsworkshop_stdpads_nxp_dhvfqfn_14_sot762_1/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/garrettsworkshop_stdpads_nxp_dhvfqfn_14_sot762_1/working
-    oomp_doc: footprints/footprints/garrettsworkshop/stdpads/NXP_DHVFQFN-14_SOT762-1/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/garrettsworkshop/stdpads/NXP_DHVFQFN-14_SOT762-1/working
     oomp_src_flat: footprints_flat/footprints_flat/garrettsworkshop_stdpads_nxp_dhvfqfn_14_sot762_1/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/garrettsworkshop_stdpads_nxp_dhvfqfn_14_sot762_1/working
-    oomp_src_folder: footprints_folder/footprints_folder/garrettsworkshop/stdpads/NXP_DHVFQFN-14_SOT762-1/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/garrettsworkshop/stdpads/NXP_DHVFQFN-14_SOT762-1/working
   name: stdpads.pretty
+  oomp:
+    footprint_name: nxp_dhvfqfn_14_sot762_1
+    library_name: stdpads
+    md5: 3a909eafbd1e0ef80318fa96f67b1d8f
+    md5_10: 3a909eafbd
+    md5_5: 3a909
+    md5_6: 3a909e
+    oomp_key: oomp_garrettsworkshop_stdpads_nxp_dhvfqfn_14_sot762_1
+    oomp_key_extra: oomp_footprint_garrettsworkshop_stdpads_nxp_dhvfqfn_14_sot762_1
+    oomp_key_full: oomp_footprint_garrettsworkshop_stdpads_nxp_dhvfqfn_14_sot762_1_3a909e
+    oomp_key_simple: garrettsworkshop_stdpads_nxp_dhvfqfn_14_sot762_1
+    original_filename: stdpads.pretty/NXP_DHVFQFN-14_SOT762-1.kicad_mod
+    owner_name: garrettsworkshop
   oomp_key: oomp_garrettsworkshop_stdpads_nxp_dhvfqfn_14_sot762_1
+  oomp_key_full: oomp_footprint_garrettsworkshop_stdpads_nxp_dhvfqfn_14_sot762_1
   oomp_key_simple: garrettsworkshop_stdpads_nxp_dhvfqfn_14_sot762_1
   owner: garrettsworkshop
   repo:

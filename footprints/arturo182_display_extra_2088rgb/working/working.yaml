@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/arturo182/kicad-modules
     oomp_bot: footprints/arturo182_display_extra_2088rgb/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/arturo182_display_extra_2088rgb/working
-    oomp_doc: footprints/footprints/arturo182/Display_Extra/2088RGB/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/arturo182/Display_Extra/2088RGB/working
     oomp_src_flat: footprints_flat/footprints_flat/arturo182_display_extra_2088rgb/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/arturo182_display_extra_2088rgb/working
-    oomp_src_folder: footprints_folder/footprints_folder/arturo182/Display_Extra/2088RGB/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/arturo182/Display_Extra/2088RGB/working
   name: kicad-modules
+  oomp:
+    footprint_name: 2088rgb
+    library_name: display_extra
+    md5: 0250e856fb97bd0fc063f9fda14cd86e
+    md5_10: 0250e856fb
+    md5_5: 0250e
+    md5_6: 0250e8
+    oomp_key: oomp_arturo182_display_extra_2088rgb
+    oomp_key_extra: oomp_footprint_arturo182_display_extra_2088rgb
+    oomp_key_full: oomp_footprint_arturo182_display_extra_2088rgb_0250e8
+    oomp_key_simple: arturo182_display_extra_2088rgb
+    original_filename: kicad-modules/Display_Extra.pretty/2088RGB.kicad_mod
+    owner_name: arturo182
   oomp_key: oomp_arturo182_display_extra_2088rgb
+  oomp_key_full: oomp_footprint_arturo182_display_extra_2088rgb
   oomp_key_simple: arturo182_display_extra_2088rgb
   owner: arturo182
   repo:

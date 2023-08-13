@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/natsfr_panasonic_smd_ecap_g_r10/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/natsfr_panasonic_smd_ecap_g_r10/working
-    oomp_doc: footprints/footprints/natsfr/Panasonic/SMD_ECAP_G_R10/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/natsfr/Panasonic/SMD_ECAP_G_R10/working
     oomp_src_flat: footprints_flat/footprints_flat/natsfr_panasonic_smd_ecap_g_r10/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/natsfr_panasonic_smd_ecap_g_r10/working
-    oomp_src_folder: footprints_folder/footprints_folder/natsfr/Panasonic/SMD_ECAP_G_R10/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/natsfr/Panasonic/SMD_ECAP_G_R10/working
   name: kicad-components
+  oomp:
+    footprint_name: smd_ecap_g_r10
+    library_name: panasonic
+    md5: 6661665db119caba0b4116f654f1b7d5
+    md5_10: 6661665db1
+    md5_5: '66616'
+    md5_6: '666166'
+    oomp_key: oomp_natsfr_panasonic_smd_ecap_g_r10
+    oomp_key_extra: oomp_footprint_natsfr_panasonic_smd_ecap_g_r10
+    oomp_key_full: oomp_footprint_natsfr_panasonic_smd_ecap_g_r10_666166
+    oomp_key_simple: natsfr_panasonic_smd_ecap_g_r10
+    original_filename: kicad-components/Pretty_Footprints/Panasonic.pretty/SMD_ECAP_G_R10.kicad_mod
+    owner_name: natsfr
   oomp_key: oomp_natsfr_panasonic_smd_ecap_g_r10
+  oomp_key_full: oomp_footprint_natsfr_panasonic_smd_ecap_g_r10
   oomp_key_simple: natsfr_panasonic_smd_ecap_g_r10
   owner: natsfr
   repo:

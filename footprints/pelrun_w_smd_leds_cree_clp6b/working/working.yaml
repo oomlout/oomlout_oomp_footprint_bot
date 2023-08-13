@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pelrun_w_smd_leds_cree_clp6b/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pelrun_w_smd_leds_cree_clp6b/working
-    oomp_doc: footprints/footprints/pelrun/w_smd_leds/Cree_CLP6B/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/pelrun/w_smd_leds/Cree_CLP6B/working
     oomp_src_flat: footprints_flat/footprints_flat/pelrun_w_smd_leds_cree_clp6b/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pelrun_w_smd_leds_cree_clp6b/working
-    oomp_src_folder: footprints_folder/footprints_folder/pelrun/w_smd_leds/Cree_CLP6B/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/pelrun/w_smd_leds/Cree_CLP6B/working
   name: libKiCad
+  oomp:
+    footprint_name: cree_clp6b
+    library_name: w_smd_leds
+    md5: 94620e7c879a84da5d29f4bc48a82732
+    md5_10: 94620e7c87
+    md5_5: '94620'
+    md5_6: 94620e
+    oomp_key: oomp_pelrun_w_smd_leds_cree_clp6b
+    oomp_key_extra: oomp_footprint_pelrun_w_smd_leds_cree_clp6b
+    oomp_key_full: oomp_footprint_pelrun_w_smd_leds_cree_clp6b_94620e
+    oomp_key_simple: pelrun_w_smd_leds_cree_clp6b
+    original_filename: libKiCad/footprint/w_smd_leds.pretty/Cree_CLP6B.kicad_mod
+    owner_name: pelrun
   oomp_key: oomp_pelrun_w_smd_leds_cree_clp6b
+  oomp_key_full: oomp_footprint_pelrun_w_smd_leds_cree_clp6b
   oomp_key_simple: pelrun_w_smd_leds_cree_clp6b
   owner: pelrun
   repo:

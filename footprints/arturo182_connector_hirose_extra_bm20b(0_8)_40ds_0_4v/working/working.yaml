@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/arturo182/kicad-modules
     oomp_bot: footprints/arturo182_connector_hirose_extra_bm20b(0_8)_40ds_0_4v/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/arturo182_connector_hirose_extra_bm20b(0_8)_40ds_0_4v/working
-    oomp_doc: footprints/footprints/arturo182/Connector_Hirose_Extra/BM20B(0.8)-40DS-0.4V/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/arturo182/Connector_Hirose_Extra/BM20B(0.8)-40DS-0.4V/working
     oomp_src_flat: footprints_flat/footprints_flat/arturo182_connector_hirose_extra_bm20b(0_8)_40ds_0_4v/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/arturo182_connector_hirose_extra_bm20b(0_8)_40ds_0_4v/working
-    oomp_src_folder: footprints_folder/footprints_folder/arturo182/Connector_Hirose_Extra/BM20B(0.8)-40DS-0.4V/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/arturo182/Connector_Hirose_Extra/BM20B(0.8)-40DS-0.4V/working
   name: kicad-modules
+  oomp:
+    footprint_name: bm20b(0_8)_40ds_0_4v
+    library_name: connector_hirose_extra
+    md5: eda3520937a6053f38ef775e5a30aad8
+    md5_10: eda3520937
+    md5_5: eda35
+    md5_6: eda352
+    oomp_key: oomp_arturo182_connector_hirose_extra_bm20b(0_8)_40ds_0_4v
+    oomp_key_extra: oomp_footprint_arturo182_connector_hirose_extra_bm20b(0_8)_40ds_0_4v
+    oomp_key_full: oomp_footprint_arturo182_connector_hirose_extra_bm20b(0_8)_40ds_0_4v_eda352
+    oomp_key_simple: arturo182_connector_hirose_extra_bm20b(0_8)_40ds_0_4v
+    original_filename: kicad-modules/Connector_Hirose_Extra.pretty/BM20B(0.8)-40DS-0.4V.kicad_mod
+    owner_name: arturo182
   oomp_key: oomp_arturo182_connector_hirose_extra_bm20b(0_8)_40ds_0_4v
+  oomp_key_full: oomp_footprint_arturo182_connector_hirose_extra_bm20b(0_8)_40ds_0_4v
   oomp_key_simple: arturo182_connector_hirose_extra_bm20b(0_8)_40ds_0_4v
   owner: arturo182
   repo:

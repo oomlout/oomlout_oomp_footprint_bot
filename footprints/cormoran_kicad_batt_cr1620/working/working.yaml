@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cormoran_kicad_batt_cr1620/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cormoran_kicad_batt_cr1620/working
-    oomp_doc: footprints/footprints/cormoran/kicad/BATT_CR1620/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cormoran/kicad/BATT_CR1620/working
     oomp_src_flat: footprints_flat/footprints_flat/cormoran_kicad_batt_cr1620/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cormoran_kicad_batt_cr1620/working
-    oomp_src_folder: footprints_folder/footprints_folder/cormoran/kicad/BATT_CR1620/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cormoran/kicad/BATT_CR1620/working
   name: kicad.pretty
+  oomp:
+    footprint_name: batt_cr1620
+    library_name: kicad
+    md5: a423cfe50f683e78d51bc88a531679bb
+    md5_10: a423cfe50f
+    md5_5: a423c
+    md5_6: a423cf
+    oomp_key: oomp_cormoran_kicad_batt_cr1620
+    oomp_key_extra: oomp_footprint_cormoran_kicad_batt_cr1620
+    oomp_key_full: oomp_footprint_cormoran_kicad_batt_cr1620_a423cf
+    oomp_key_simple: cormoran_kicad_batt_cr1620
+    original_filename: kicad.pretty/BATT_CR1620.kicad_mod
+    owner_name: cormoran
   oomp_key: oomp_cormoran_kicad_batt_cr1620
+  oomp_key_full: oomp_footprint_cormoran_kicad_batt_cr1620
   oomp_key_simple: cormoran_kicad_batt_cr1620
   owner: cormoran
   repo:

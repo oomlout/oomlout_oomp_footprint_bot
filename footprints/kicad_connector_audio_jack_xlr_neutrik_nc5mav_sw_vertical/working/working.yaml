@@ -13,17 +13,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_connector_audio_jack_xlr_neutrik_nc5mav_sw_vertical/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_connector_audio_jack_xlr_neutrik_nc5mav_sw_vertical/working
-    oomp_doc: footprints/footprints/kicad/Connector_Audio/Jack_XLR_Neutrik_NC5MAV-SW_Vertical/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Connector_Audio/Jack_XLR_Neutrik_NC5MAV-SW_Vertical/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_connector_audio_jack_xlr_neutrik_nc5mav_sw_vertical/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_connector_audio_jack_xlr_neutrik_nc5mav_sw_vertical/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Connector_Audio/Jack_XLR_Neutrik_NC5MAV-SW_Vertical/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Connector_Audio/Jack_XLR_Neutrik_NC5MAV-SW_Vertical/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: jack_xlr_neutrik_nc5mav_sw_vertical
+    library_name: connector_audio
+    md5: d1a6ac0fcaa24302b2fb17048c777f7b
+    md5_10: d1a6ac0fca
+    md5_5: d1a6a
+    md5_6: d1a6ac
+    oomp_key: oomp_kicad_connector_audio_jack_xlr_neutrik_nc5mav_sw_vertical
+    oomp_key_extra: oomp_footprint_kicad_connector_audio_jack_xlr_neutrik_nc5mav_sw_vertical
+    oomp_key_full: oomp_footprint_kicad_connector_audio_jack_xlr_neutrik_nc5mav_sw_vertical_d1a6ac
+    oomp_key_simple: kicad_connector_audio_jack_xlr_neutrik_nc5mav_sw_vertical
+    original_filename: libraries/kicad-footprints/Connector_Audio.pretty/Jack_XLR_Neutrik_NC5MAV-SW_Vertical.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_connector_audio_jack_xlr_neutrik_nc5mav_sw_vertical
+  oomp_key_full: oomp_footprint_kicad_connector_audio_jack_xlr_neutrik_nc5mav_sw_vertical
   oomp_key_simple: kicad_connector_audio_jack_xlr_neutrik_nc5mav_sw_vertical
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

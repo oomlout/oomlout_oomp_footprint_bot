@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/servomouse_servomouse_pinheader_1x04_p2_54mm_horizontal/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/servomouse_servomouse_pinheader_1x04_p2_54mm_horizontal/working
-    oomp_doc: footprints/footprints/servomouse/servomouse/PinHeader_1x04_P2.54mm_Horizontal/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/servomouse/servomouse/PinHeader_1x04_P2.54mm_Horizontal/working
     oomp_src_flat: footprints_flat/footprints_flat/servomouse_servomouse_pinheader_1x04_p2_54mm_horizontal/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/servomouse_servomouse_pinheader_1x04_p2_54mm_horizontal/working
-    oomp_src_folder: footprints_folder/footprints_folder/servomouse/servomouse/PinHeader_1x04_P2.54mm_Horizontal/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/servomouse/servomouse/PinHeader_1x04_P2.54mm_Horizontal/working
   name: servomouse.pretty
+  oomp:
+    footprint_name: pinheader_1x04_p2_54mm_horizontal
+    library_name: servomouse
+    md5: 4188717c6df17b9f80af43b66c0c29b3
+    md5_10: 4188717c6d
+    md5_5: '41887'
+    md5_6: '418871'
+    oomp_key: oomp_servomouse_servomouse_pinheader_1x04_p2_54mm_horizontal
+    oomp_key_extra: oomp_footprint_servomouse_servomouse_pinheader_1x04_p2_54mm_horizontal
+    oomp_key_full: oomp_footprint_servomouse_servomouse_pinheader_1x04_p2_54mm_horizontal_418871
+    oomp_key_simple: servomouse_servomouse_pinheader_1x04_p2_54mm_horizontal
+    original_filename: servomouse.pretty/PinHeader_1x04_P2.54mm_Horizontal.kicad_mod
+    owner_name: servomouse
   oomp_key: oomp_servomouse_servomouse_pinheader_1x04_p2_54mm_horizontal
+  oomp_key_full: oomp_footprint_servomouse_servomouse_pinheader_1x04_p2_54mm_horizontal
   oomp_key_simple: servomouse_servomouse_pinheader_1x04_p2_54mm_horizontal
   owner: servomouse
   repo:

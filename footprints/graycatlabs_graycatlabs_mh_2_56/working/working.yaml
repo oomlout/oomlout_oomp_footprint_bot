@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/graycatlabs_graycatlabs_mh_2_56/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/graycatlabs_graycatlabs_mh_2_56/working
-    oomp_doc: footprints/footprints/graycatlabs/GrayCatLabs/MH-2-56/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/graycatlabs/GrayCatLabs/MH-2-56/working
     oomp_src_flat: footprints_flat/footprints_flat/graycatlabs_graycatlabs_mh_2_56/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/graycatlabs_graycatlabs_mh_2_56/working
-    oomp_src_folder: footprints_folder/footprints_folder/graycatlabs/GrayCatLabs/MH-2-56/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/graycatlabs/GrayCatLabs/MH-2-56/working
   name: GrayCatLabs.pretty
+  oomp:
+    footprint_name: mh_2_56
+    library_name: graycatlabs
+    md5: decab422934c0625bc02331f065eac6b
+    md5_10: decab42293
+    md5_5: decab
+    md5_6: decab4
+    oomp_key: oomp_graycatlabs_graycatlabs_mh_2_56
+    oomp_key_extra: oomp_footprint_graycatlabs_graycatlabs_mh_2_56
+    oomp_key_full: oomp_footprint_graycatlabs_graycatlabs_mh_2_56_decab4
+    oomp_key_simple: graycatlabs_graycatlabs_mh_2_56
+    original_filename: GrayCatLabs.pretty/MH-2-56.kicad_mod
+    owner_name: graycatlabs
   oomp_key: oomp_graycatlabs_graycatlabs_mh_2_56
+  oomp_key_full: oomp_footprint_graycatlabs_graycatlabs_mh_2_56
   oomp_key_simple: graycatlabs_graycatlabs_mh_2_56
   owner: graycatlabs
   repo:

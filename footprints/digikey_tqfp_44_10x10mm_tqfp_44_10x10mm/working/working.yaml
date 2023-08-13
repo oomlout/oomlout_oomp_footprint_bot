@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/digikey_tqfp_44_10x10mm_tqfp_44_10x10mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_tqfp_44_10x10mm_tqfp_44_10x10mm/working
-    oomp_doc: footprints/footprints/digikey/TQFP-44_10x10mm.kicad_mod/TQFP-44_10x10mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/digikey/TQFP-44_10x10mm.kicad_mod/TQFP-44_10x10mm/working
     oomp_src_flat: footprints_flat/footprints_flat/digikey_tqfp_44_10x10mm_tqfp_44_10x10mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/digikey_tqfp_44_10x10mm_tqfp_44_10x10mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/digikey/TQFP-44_10x10mm.kicad_mod/TQFP-44_10x10mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/digikey/TQFP-44_10x10mm.kicad_mod/TQFP-44_10x10mm/working
   name: digikey-kicad-library
+  oomp:
+    footprint_name: tqfp_44_10x10mm
+    library_name: tqfp_44_10x10mm_kicad_mod
+    md5: 2a415ed8f522d82a68f6c9c2f39e3a30
+    md5_10: 2a415ed8f5
+    md5_5: 2a415
+    md5_6: 2a415e
+    oomp_key: oomp_digikey_tqfp_44_10x10mm_tqfp_44_10x10mm
+    oomp_key_extra: oomp_footprint_digikey_tqfp_44_10x10mm_tqfp_44_10x10mm
+    oomp_key_full: oomp_footprint_digikey_tqfp_44_10x10mm_tqfp_44_10x10mm_2a415e
+    oomp_key_simple: digikey_tqfp_44_10x10mm_tqfp_44_10x10mm
+    original_filename: digikey-kicad-library/src/Source_Footprints/TQFP-44_10x10mm.kicad_mod
+    owner_name: digikey
   oomp_key: oomp_digikey_tqfp_44_10x10mm_tqfp_44_10x10mm
+  oomp_key_full: oomp_footprint_digikey_tqfp_44_10x10mm_tqfp_44_10x10mm
   oomp_key_simple: digikey_tqfp_44_10x10mm_tqfp_44_10x10mm
   owner: digikey
   repo:

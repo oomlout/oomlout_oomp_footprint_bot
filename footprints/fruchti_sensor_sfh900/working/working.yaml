@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/fruchti_sensor_sfh900/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/fruchti_sensor_sfh900/working
-    oomp_doc: footprints/footprints/fruchti/sensor/SFH900/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/fruchti/sensor/SFH900/working
     oomp_src_flat: footprints_flat/footprints_flat/fruchti_sensor_sfh900/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/fruchti_sensor_sfh900/working
-    oomp_src_folder: footprints_folder/footprints_folder/fruchti/sensor/SFH900/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/fruchti/sensor/SFH900/working
   name: fruchtilib
+  oomp:
+    footprint_name: sfh900
+    library_name: sensor
+    md5: 24799e8e761cf88033bda0d61cce586f
+    md5_10: 24799e8e76
+    md5_5: '24799'
+    md5_6: 24799e
+    oomp_key: oomp_fruchti_sensor_sfh900
+    oomp_key_extra: oomp_footprint_fruchti_sensor_sfh900
+    oomp_key_full: oomp_footprint_fruchti_sensor_sfh900_24799e
+    oomp_key_simple: fruchti_sensor_sfh900
+    original_filename: fruchtilib/mod/sensor.pretty/SFH900.kicad_mod
+    owner_name: fruchti
   oomp_key: oomp_fruchti_sensor_sfh900
+  oomp_key_full: oomp_footprint_fruchti_sensor_sfh900
   oomp_key_simple: fruchti_sensor_sfh900
   owner: fruchti
   repo:

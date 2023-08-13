@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/olimex_kit_dev_coldfire_jack_alim/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/olimex_kit_dev_coldfire_jack_alim/working
-    oomp_doc: footprints/footprints/OLIMEX/kit-dev-coldfire/JACK_ALIM/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/OLIMEX/kit-dev-coldfire/JACK_ALIM/working
     oomp_src_flat: footprints_flat/footprints_flat/olimex_kit_dev_coldfire_jack_alim/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/olimex_kit_dev_coldfire_jack_alim/working
-    oomp_src_folder: footprints_folder/footprints_folder/OLIMEX/kit-dev-coldfire/JACK_ALIM/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/OLIMEX/kit-dev-coldfire/JACK_ALIM/working
   name: KiCAD
+  oomp:
+    footprint_name: jack_alim
+    library_name: kit_dev_coldfire
+    md5: 48fca545740524221f658ff5166cc2fa
+    md5_10: 48fca54574
+    md5_5: 48fca
+    md5_6: 48fca5
+    oomp_key: oomp_olimex_kit_dev_coldfire_jack_alim
+    oomp_key_extra: oomp_footprint_olimex_kit_dev_coldfire_jack_alim
+    oomp_key_full: oomp_footprint_olimex_kit_dev_coldfire_jack_alim_48fca5
+    oomp_key_simple: olimex_kit_dev_coldfire_jack_alim
+    original_filename: KiCAD/demos/kit-dev-coldfire-xilinx_5213/kit-dev-coldfire.pretty/JACK_ALIM.kicad_mod
+    owner_name: olimex
   oomp_key: oomp_olimex_kit_dev_coldfire_jack_alim
+  oomp_key_full: oomp_footprint_olimex_kit_dev_coldfire_jack_alim
   oomp_key_simple: olimex_kit_dev_coldfire_jack_alim
   owner: OLIMEX
   repo:

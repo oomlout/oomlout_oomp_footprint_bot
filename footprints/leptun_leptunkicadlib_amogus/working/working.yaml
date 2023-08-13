@@ -14,14 +14,24 @@
     github_src_repo: https://github.com/leptun/leptunKicadLib.pretty
     oomp_bot: footprints/leptun_leptunkicadlib_amogus/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/leptun_leptunkicadlib_amogus/working
-    oomp_doc: footprints/footprints/leptun/leptunKicadLib/AMOGUS/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/leptun/leptunKicadLib/AMOGUS/working
     oomp_src_flat: footprints_flat/footprints_flat/leptun_leptunkicadlib_amogus/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/leptun_leptunkicadlib_amogus/working
-    oomp_src_folder: footprints_folder/footprints_folder/leptun/leptunKicadLib/AMOGUS/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/leptun/leptunKicadLib/AMOGUS/working
   name: leptunKicadLib.pretty
+  oomp:
+    footprint_name: amogus
+    library_name: leptunkicadlib
+    md5: c52cd224b9320115d23e6d640d8a7ad4
+    md5_10: c52cd224b9
+    md5_5: c52cd
+    md5_6: c52cd2
+    oomp_key: oomp_leptun_leptunkicadlib_amogus
+    oomp_key_extra: oomp_footprint_leptun_leptunkicadlib_amogus
+    oomp_key_full: oomp_footprint_leptun_leptunkicadlib_amogus_c52cd2
+    oomp_key_simple: leptun_leptunkicadlib_amogus
+    original_filename: leptunKicadLib.pretty/AMOGUS.kicad_mod
+    owner_name: leptun
   oomp_key: oomp_leptun_leptunkicadlib_amogus
+  oomp_key_full: oomp_footprint_leptun_leptunkicadlib_amogus
   oomp_key_simple: leptun_leptunkicadlib_amogus
   owner: leptun
   repo:

@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/rigidus_kicad_my_library_relay_srs_05vdc_sl/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/rigidus_kicad_my_library_relay_srs_05vdc_sl/working
-    oomp_doc: footprints/footprints/rigidus/kicad_my_library/RELAY_SRS-05VDC-SL/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/rigidus/kicad_my_library/RELAY_SRS-05VDC-SL/working
     oomp_src_flat: footprints_flat/footprints_flat/rigidus_kicad_my_library_relay_srs_05vdc_sl/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/rigidus_kicad_my_library_relay_srs_05vdc_sl/working
-    oomp_src_folder: footprints_folder/footprints_folder/rigidus/kicad_my_library/RELAY_SRS-05VDC-SL/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/rigidus/kicad_my_library/RELAY_SRS-05VDC-SL/working
   name: kicad_my_library.pretty
+  oomp:
+    footprint_name: relay_srs_05vdc_sl
+    library_name: kicad_my_library
+    md5: c771e5574b86345fee493ba9f9f4beca
+    md5_10: c771e5574b
+    md5_5: c771e
+    md5_6: c771e5
+    oomp_key: oomp_rigidus_kicad_my_library_relay_srs_05vdc_sl
+    oomp_key_extra: oomp_footprint_rigidus_kicad_my_library_relay_srs_05vdc_sl
+    oomp_key_full: oomp_footprint_rigidus_kicad_my_library_relay_srs_05vdc_sl_c771e5
+    oomp_key_simple: rigidus_kicad_my_library_relay_srs_05vdc_sl
+    original_filename: kicad_my_library.pretty/RELAY_SRS-05VDC-SL.kicad_mod
+    owner_name: rigidus
   oomp_key: oomp_rigidus_kicad_my_library_relay_srs_05vdc_sl
+  oomp_key_full: oomp_footprint_rigidus_kicad_my_library_relay_srs_05vdc_sl
   oomp_key_simple: rigidus_kicad_my_library_relay_srs_05vdc_sl
   owner: rigidus
   repo:

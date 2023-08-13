@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/monostable_commonpartslibrary_sot230p700x180_4n/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/monostable_commonpartslibrary_sot230p700x180_4n/working
-    oomp_doc: footprints/footprints/monostable/CommonPartsLibrary/SOT230P700X180-4N/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/monostable/CommonPartsLibrary/SOT230P700X180-4N/working
     oomp_src_flat: footprints_flat/footprints_flat/monostable_commonpartslibrary_sot230p700x180_4n/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/monostable_commonpartslibrary_sot230p700x180_4n/working
-    oomp_src_folder: footprints_folder/footprints_folder/monostable/CommonPartsLibrary/SOT230P700X180-4N/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/monostable/CommonPartsLibrary/SOT230P700X180-4N/working
   name: CommonPartsLibrary.pretty
+  oomp:
+    footprint_name: sot230p700x180_4n
+    library_name: commonpartslibrary
+    md5: a966be507af6e1599691ea01d81bb25d
+    md5_10: a966be507a
+    md5_5: a966b
+    md5_6: a966be
+    oomp_key: oomp_monostable_commonpartslibrary_sot230p700x180_4n
+    oomp_key_extra: oomp_footprint_monostable_commonpartslibrary_sot230p700x180_4n
+    oomp_key_full: oomp_footprint_monostable_commonpartslibrary_sot230p700x180_4n_a966be
+    oomp_key_simple: monostable_commonpartslibrary_sot230p700x180_4n
+    original_filename: CommonPartsLibrary.pretty/SOT230P700X180-4N.kicad_mod
+    owner_name: monostable
   oomp_key: oomp_monostable_commonpartslibrary_sot230p700x180_4n
+  oomp_key_full: oomp_footprint_monostable_commonpartslibrary_sot230p700x180_4n
   oomp_key_simple: monostable_commonpartslibrary_sot230p700x180_4n
   owner: monostable
   repo:

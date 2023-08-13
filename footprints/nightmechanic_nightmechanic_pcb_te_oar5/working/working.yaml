@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/nightmechanic_nightmechanic_pcb_te_oar5/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nightmechanic_nightmechanic_pcb_te_oar5/working
-    oomp_doc: footprints/footprints/nightmechanic/nightmechanic_pcb/TE_OAR5/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/nightmechanic/nightmechanic_pcb/TE_OAR5/working
     oomp_src_flat: footprints_flat/footprints_flat/nightmechanic_nightmechanic_pcb_te_oar5/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nightmechanic_nightmechanic_pcb_te_oar5/working
-    oomp_src_folder: footprints_folder/footprints_folder/nightmechanic/nightmechanic_pcb/TE_OAR5/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/nightmechanic/nightmechanic_pcb/TE_OAR5/working
   name: nightmechanic_pcb.pretty
+  oomp:
+    footprint_name: te_oar5
+    library_name: nightmechanic_pcb
+    md5: d7c90ae104c532874f0ad599d6c5030e
+    md5_10: d7c90ae104
+    md5_5: d7c90
+    md5_6: d7c90a
+    oomp_key: oomp_nightmechanic_nightmechanic_pcb_te_oar5
+    oomp_key_extra: oomp_footprint_nightmechanic_nightmechanic_pcb_te_oar5
+    oomp_key_full: oomp_footprint_nightmechanic_nightmechanic_pcb_te_oar5_d7c90a
+    oomp_key_simple: nightmechanic_nightmechanic_pcb_te_oar5
+    original_filename: nightmechanic_pcb.pretty/TE_OAR5.kicad_mod
+    owner_name: nightmechanic
   oomp_key: oomp_nightmechanic_nightmechanic_pcb_te_oar5
+  oomp_key_full: oomp_footprint_nightmechanic_nightmechanic_pcb_te_oar5
   oomp_key_simple: nightmechanic_nightmechanic_pcb_te_oar5
   owner: nightmechanic
   repo:

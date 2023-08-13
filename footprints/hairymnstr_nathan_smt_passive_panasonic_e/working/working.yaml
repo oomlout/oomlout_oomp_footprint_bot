@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/hairymnstr_nathan_smt_passive_panasonic_e/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/hairymnstr_nathan_smt_passive_panasonic_e/working
-    oomp_doc: footprints/footprints/hairymnstr/Nathan_SMT_Passive/PANASONIC_E/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/hairymnstr/Nathan_SMT_Passive/PANASONIC_E/working
     oomp_src_flat: footprints_flat/footprints_flat/hairymnstr_nathan_smt_passive_panasonic_e/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/hairymnstr_nathan_smt_passive_panasonic_e/working
-    oomp_src_folder: footprints_folder/footprints_folder/hairymnstr/Nathan_SMT_Passive/PANASONIC_E/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/hairymnstr/Nathan_SMT_Passive/PANASONIC_E/working
   name: Nathan_SMT_Passive.pretty
+  oomp:
+    footprint_name: panasonic_e
+    library_name: nathan_smt_passive
+    md5: c57baf2bd81afc999a4f5973d2446829
+    md5_10: c57baf2bd8
+    md5_5: c57ba
+    md5_6: c57baf
+    oomp_key: oomp_hairymnstr_nathan_smt_passive_panasonic_e
+    oomp_key_extra: oomp_footprint_hairymnstr_nathan_smt_passive_panasonic_e
+    oomp_key_full: oomp_footprint_hairymnstr_nathan_smt_passive_panasonic_e_c57baf
+    oomp_key_simple: hairymnstr_nathan_smt_passive_panasonic_e
+    original_filename: Nathan_SMT_Passive.pretty/PANASONIC_E.kicad_mod
+    owner_name: hairymnstr
   oomp_key: oomp_hairymnstr_nathan_smt_passive_panasonic_e
+  oomp_key_full: oomp_footprint_hairymnstr_nathan_smt_passive_panasonic_e
   oomp_key_simple: hairymnstr_nathan_smt_passive_panasonic_e
   owner: hairymnstr
   repo:

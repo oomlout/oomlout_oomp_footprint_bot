@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pcsmithy_esp32_footprints_lib_esp32_wroom/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pcsmithy_esp32_footprints_lib_esp32_wroom/working
-    oomp_doc: footprints/footprints/PCSmithy/ESP32-footprints-Lib/ESP32-WROOM/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/PCSmithy/ESP32-footprints-Lib/ESP32-WROOM/working
     oomp_src_flat: footprints_flat/footprints_flat/pcsmithy_esp32_footprints_lib_esp32_wroom/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pcsmithy_esp32_footprints_lib_esp32_wroom/working
-    oomp_src_folder: footprints_folder/footprints_folder/PCSmithy/ESP32-footprints-Lib/ESP32-WROOM/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/PCSmithy/ESP32-footprints-Lib/ESP32-WROOM/working
   name: ESP32-footprints-Lib.pretty
+  oomp:
+    footprint_name: esp32_wroom
+    library_name: esp32_footprints_lib
+    md5: cef8cdc4db05e49d50144eded0df3653
+    md5_10: cef8cdc4db
+    md5_5: cef8c
+    md5_6: cef8cd
+    oomp_key: oomp_pcsmithy_esp32_footprints_lib_esp32_wroom
+    oomp_key_extra: oomp_footprint_pcsmithy_esp32_footprints_lib_esp32_wroom
+    oomp_key_full: oomp_footprint_pcsmithy_esp32_footprints_lib_esp32_wroom_cef8cd
+    oomp_key_simple: pcsmithy_esp32_footprints_lib_esp32_wroom
+    original_filename: ESP32-footprints-Lib.pretty/ESP32-WROOM.kicad_mod
+    owner_name: pcsmithy
   oomp_key: oomp_pcsmithy_esp32_footprints_lib_esp32_wroom
+  oomp_key_full: oomp_footprint_pcsmithy_esp32_footprints_lib_esp32_wroom
   oomp_key_simple: pcsmithy_esp32_footprints_lib_esp32_wroom
   owner: PCSmithy
   repo:

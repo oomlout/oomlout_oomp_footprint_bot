@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/chriswags_freetronics_footprints_qfn44_0_5mm_ep/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/chriswags_freetronics_footprints_qfn44_0_5mm_ep/working
-    oomp_doc: footprints/footprints/chriswags/freetronics_footprints/QFN44_0.5mm_EP/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/chriswags/freetronics_footprints/QFN44_0.5mm_EP/working
     oomp_src_flat: footprints_flat/footprints_flat/chriswags_freetronics_footprints_qfn44_0_5mm_ep/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/chriswags_freetronics_footprints_qfn44_0_5mm_ep/working
-    oomp_src_folder: footprints_folder/footprints_folder/chriswags/freetronics_footprints/QFN44_0.5mm_EP/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/chriswags/freetronics_footprints/QFN44_0.5mm_EP/working
   name: KiCad
+  oomp:
+    footprint_name: qfn44_0_5mm_ep
+    library_name: freetronics_footprints
+    md5: 022dddb61af82f823bad9eb6d51510a7
+    md5_10: 022dddb61a
+    md5_5: 022dd
+    md5_6: 022ddd
+    oomp_key: oomp_chriswags_freetronics_footprints_qfn44_0_5mm_ep
+    oomp_key_extra: oomp_footprint_chriswags_freetronics_footprints_qfn44_0_5mm_ep
+    oomp_key_full: oomp_footprint_chriswags_freetronics_footprints_qfn44_0_5mm_ep_022ddd
+    oomp_key_simple: chriswags_freetronics_footprints_qfn44_0_5mm_ep
+    original_filename: KiCad/mods/freetronics_footprints.pretty/QFN44_0.5mm_EP.kicad_mod
+    owner_name: chriswags
   oomp_key: oomp_chriswags_freetronics_footprints_qfn44_0_5mm_ep
+  oomp_key_full: oomp_footprint_chriswags_freetronics_footprints_qfn44_0_5mm_ep
   oomp_key_simple: chriswags_freetronics_footprints_qfn44_0_5mm_ep
   owner: chriswags
   repo:

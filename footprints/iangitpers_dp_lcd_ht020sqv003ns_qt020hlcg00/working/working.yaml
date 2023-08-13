@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/Iangitpers/4a
     oomp_bot: footprints/iangitpers_dp_lcd_ht020sqv003ns_qt020hlcg00/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/iangitpers_dp_lcd_ht020sqv003ns_qt020hlcg00/working
-    oomp_doc: footprints/footprints/Iangitpers/dp-lcd/HT020SQV003NS_QT020HLCG00/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Iangitpers/dp-lcd/HT020SQV003NS_QT020HLCG00/working
     oomp_src_flat: footprints_flat/footprints_flat/iangitpers_dp_lcd_ht020sqv003ns_qt020hlcg00/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/iangitpers_dp_lcd_ht020sqv003ns_qt020hlcg00/working
-    oomp_src_folder: footprints_folder/footprints_folder/Iangitpers/dp-lcd/HT020SQV003NS_QT020HLCG00/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Iangitpers/dp-lcd/HT020SQV003NS_QT020HLCG00/working
   name: 4a
+  oomp:
+    footprint_name: ht020sqv003ns_qt020hlcg00
+    library_name: dp_lcd
+    md5: 27b0ef50e5b4ce6da96319dd5b9a6e3f
+    md5_10: 27b0ef50e5
+    md5_5: 27b0e
+    md5_6: 27b0ef
+    oomp_key: oomp_iangitpers_dp_lcd_ht020sqv003ns_qt020hlcg00
+    oomp_key_extra: oomp_footprint_iangitpers_dp_lcd_ht020sqv003ns_qt020hlcg00
+    oomp_key_full: oomp_footprint_iangitpers_dp_lcd_ht020sqv003ns_qt020hlcg00_27b0ef
+    oomp_key_simple: iangitpers_dp_lcd_ht020sqv003ns_qt020hlcg00
+    original_filename: 4a/dp-lcd/dp-lcd.pretty/HT020SQV003NS_QT020HLCG00.kicad_mod
+    owner_name: iangitpers
   oomp_key: oomp_iangitpers_dp_lcd_ht020sqv003ns_qt020hlcg00
+  oomp_key_full: oomp_footprint_iangitpers_dp_lcd_ht020sqv003ns_qt020hlcg00
   oomp_key_simple: iangitpers_dp_lcd_ht020sqv003ns_qt020hlcg00
   owner: Iangitpers
   repo:

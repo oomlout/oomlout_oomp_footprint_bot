@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/esden_pkl_led_sn450561n/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/esden_pkl_led_sn450561n/working
-    oomp_doc: footprints/footprints/esden/pkl_led/SN450561N/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/esden/pkl_led/SN450561N/working
     oomp_src_flat: footprints_flat/footprints_flat/esden_pkl_led_sn450561n/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/esden_pkl_led_sn450561n/working
-    oomp_src_folder: footprints_folder/footprints_folder/esden/pkl_led/SN450561N/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/esden/pkl_led/SN450561N/working
   name: pretty-kicad-libs
+  oomp:
+    footprint_name: sn450561n
+    library_name: pkl_led
+    md5: 26fbba5ee4c076a2793f064765810281
+    md5_10: 26fbba5ee4
+    md5_5: 26fbb
+    md5_6: 26fbba
+    oomp_key: oomp_esden_pkl_led_sn450561n
+    oomp_key_extra: oomp_footprint_esden_pkl_led_sn450561n
+    oomp_key_full: oomp_footprint_esden_pkl_led_sn450561n_26fbba
+    oomp_key_simple: esden_pkl_led_sn450561n
+    original_filename: pretty-kicad-libs/pkl_led.pretty/SN450561N.kicad_mod
+    owner_name: esden
   oomp_key: oomp_esden_pkl_led_sn450561n
+  oomp_key_full: oomp_footprint_esden_pkl_led_sn450561n
   oomp_key_simple: esden_pkl_led_sn450561n
   owner: esden
   repo:

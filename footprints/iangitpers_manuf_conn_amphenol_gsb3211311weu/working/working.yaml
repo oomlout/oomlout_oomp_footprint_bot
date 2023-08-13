@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/Iangitpers/4a
     oomp_bot: footprints/iangitpers_manuf_conn_amphenol_gsb3211311weu/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/iangitpers_manuf_conn_amphenol_gsb3211311weu/working
-    oomp_doc: footprints/footprints/Iangitpers/manuf/CONN-Amphenol-GSB3211311WEU/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Iangitpers/manuf/CONN-Amphenol-GSB3211311WEU/working
     oomp_src_flat: footprints_flat/footprints_flat/iangitpers_manuf_conn_amphenol_gsb3211311weu/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/iangitpers_manuf_conn_amphenol_gsb3211311weu/working
-    oomp_src_folder: footprints_folder/footprints_folder/Iangitpers/manuf/CONN-Amphenol-GSB3211311WEU/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Iangitpers/manuf/CONN-Amphenol-GSB3211311WEU/working
   name: 4a
+  oomp:
+    footprint_name: conn_amphenol_gsb3211311weu
+    library_name: manuf
+    md5: 0c8b33c0c172f7821bc6b8db2d9e9eae
+    md5_10: 0c8b33c0c1
+    md5_5: 0c8b3
+    md5_6: 0c8b33
+    oomp_key: oomp_iangitpers_manuf_conn_amphenol_gsb3211311weu
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_conn_amphenol_gsb3211311weu
+    oomp_key_full: oomp_footprint_iangitpers_manuf_conn_amphenol_gsb3211311weu_0c8b33
+    oomp_key_simple: iangitpers_manuf_conn_amphenol_gsb3211311weu
+    original_filename: 4a/manuf.pretty/CONN-Amphenol-GSB3211311WEU.kicad_mod
+    owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_conn_amphenol_gsb3211311weu
+  oomp_key_full: oomp_footprint_iangitpers_manuf_conn_amphenol_gsb3211311weu
   oomp_key_simple: iangitpers_manuf_conn_amphenol_gsb3211311weu
   owner: Iangitpers
   repo:

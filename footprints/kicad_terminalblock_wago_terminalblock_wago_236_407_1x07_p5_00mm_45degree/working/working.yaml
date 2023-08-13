@@ -13,17 +13,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_terminalblock_wago_terminalblock_wago_236_407_1x07_p5_00mm_45degree/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_terminalblock_wago_terminalblock_wago_236_407_1x07_p5_00mm_45degree/working
-    oomp_doc: footprints/footprints/kicad/TerminalBlock_WAGO/TerminalBlock_WAGO_236-407_1x07_P5.00mm_45Degree/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/TerminalBlock_WAGO/TerminalBlock_WAGO_236-407_1x07_P5.00mm_45Degree/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_terminalblock_wago_terminalblock_wago_236_407_1x07_p5_00mm_45degree/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_terminalblock_wago_terminalblock_wago_236_407_1x07_p5_00mm_45degree/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/TerminalBlock_WAGO/TerminalBlock_WAGO_236-407_1x07_P5.00mm_45Degree/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/TerminalBlock_WAGO/TerminalBlock_WAGO_236-407_1x07_P5.00mm_45Degree/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: terminalblock_wago_236_407_1x07_p5_00mm_45degree
+    library_name: terminalblock_wago
+    md5: 2f9e0ce8ee74260bcc08ec6ff6b5929f
+    md5_10: 2f9e0ce8ee
+    md5_5: 2f9e0
+    md5_6: 2f9e0c
+    oomp_key: oomp_kicad_terminalblock_wago_terminalblock_wago_236_407_1x07_p5_00mm_45degree
+    oomp_key_extra: oomp_footprint_kicad_terminalblock_wago_terminalblock_wago_236_407_1x07_p5_00mm_45degree
+    oomp_key_full: oomp_footprint_kicad_terminalblock_wago_terminalblock_wago_236_407_1x07_p5_00mm_45degree_2f9e0c
+    oomp_key_simple: kicad_terminalblock_wago_terminalblock_wago_236_407_1x07_p5_00mm_45degree
+    original_filename: libraries/kicad-footprints/TerminalBlock_WAGO.pretty/TerminalBlock_WAGO_236-407_1x07_P5.00mm_45Degree.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_terminalblock_wago_terminalblock_wago_236_407_1x07_p5_00mm_45degree
+  oomp_key_full: oomp_footprint_kicad_terminalblock_wago_terminalblock_wago_236_407_1x07_p5_00mm_45degree
   oomp_key_simple: kicad_terminalblock_wago_terminalblock_wago_236_407_1x07_p5_00mm_45degree
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

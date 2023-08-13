@@ -1,5 +1,8 @@
-- error: Expression does not have the correct type
-  file: homebrew.pretty/E22-900M22S.kicad_mod
+- file: homebrew.pretty/E22-900M22S.kicad_mod
+  footprint:
+    description: null
+    libraryLink: E22-900M22S
+    number_of_pads: 22
   footprint_library_directory: footprint_library_owner/candykingdom_homebrew.pretty
   footprint_library_directory_flat: footprints_flat/candykingdom_homebrew_e22_900m22s/working
   github_path: http://github.com/candykingdom/homebrew.pretty/blob/master/E22-900M22S.kicad_mod
@@ -9,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/candykingdom_homebrew_e22_900m22s/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/candykingdom_homebrew_e22_900m22s/working
-    oomp_doc: footprints/footprints/candykingdom/homebrew/E22-900M22S/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/candykingdom/homebrew/E22-900M22S/working
     oomp_src_flat: footprints_flat/footprints_flat/candykingdom_homebrew_e22_900m22s/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/candykingdom_homebrew_e22_900m22s/working
-    oomp_src_folder: footprints_folder/footprints_folder/candykingdom/homebrew/E22-900M22S/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/candykingdom/homebrew/E22-900M22S/working
   name: homebrew.pretty
+  oomp:
+    footprint_name: e22_900m22s
+    library_name: homebrew
+    md5: 7fb01bc26db7a6183032194b9fe0b1ce
+    md5_10: 7fb01bc26d
+    md5_5: 7fb01
+    md5_6: 7fb01b
+    oomp_key: oomp_candykingdom_homebrew_e22_900m22s
+    oomp_key_extra: oomp_footprint_candykingdom_homebrew_e22_900m22s
+    oomp_key_full: oomp_footprint_candykingdom_homebrew_e22_900m22s_7fb01b
+    oomp_key_simple: candykingdom_homebrew_e22_900m22s
+    original_filename: homebrew.pretty/E22-900M22S.kicad_mod
+    owner_name: candykingdom
   oomp_key: oomp_candykingdom_homebrew_e22_900m22s
+  oomp_key_full: oomp_footprint_candykingdom_homebrew_e22_900m22s
   oomp_key_simple: candykingdom_homebrew_e22_900m22s
   owner: candykingdom
   repo:

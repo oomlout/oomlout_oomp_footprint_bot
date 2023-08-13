@@ -6,20 +6,22 @@ The original footprint can be found at:
 http://gitlab.com/ElectronicCats/ComponentLibrariesKicadWurthElektronik/blob/master/WIRE-TO-BOARD(rev17b)/heder box.pretty/690207102672.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
-* description: <b>WR-MM Female Connector with Latch and without Polarization, 10 Pins  
-* libraryLink: 690367191072  
-* number_of_pads: 11  
+* description:   
+* libraryLink:   
+* number_of_pads:   
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
+| error | expected string or bytes-like object, got 'int' |  
 | file | ComponentLibrariesKicadWurthElektronik/EAGLE-BOARD-TO-BOARD_CONNECTORS-rev16c/Pines.pretty/690367191072.kicad_mod |  
-| footprint | {'description': '<b>WR-MM Female Connector with Latch and without Polarization, 10 Pins', 'libraryLink': 690367191072, 'number_of_pads': 11} |  
 | footprint_library_directory | footprint_library_owner/ElectronicCats_ComponentLibrariesKicadWurthElektronik |  
 | footprint_library_directory_flat | footprints_flat/electroniccats_pines_690367191072/working |  
 | github_path | http://github.com/ElectronicCats/ComponentLibrariesKicadWurthElektronik/blob/master/EAGLE-BOARD-TO-BOARD_CONNECTORS-rev16c/Pines.pretty/690367191072.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/ElectronicCats/ComponentLibrariesKicadWurthElektronik/blob/master/WIRE-TO-BOARD(rev17b)/heder box.pretty/690207102672.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/electroniccats_pines_690367191072/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/electroniccats_pines_690367191072/working', 'oomp_doc': 'footprints/footprints/ElectronicCats/Pines/690367191072/working/', 'oomp_doc_github': 'https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ElectronicCats/Pines/690367191072/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/electroniccats_pines_690367191072/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/electroniccats_pines_690367191072/working', 'oomp_src_folder': 'footprints_folder/footprints_folder/ElectronicCats/Pines/690367191072/working', 'oomp_src_folder_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ElectronicCats/Pines/690367191072/working'} |  
+| links | {'github_src': 'http://gitlab.com/ElectronicCats/ComponentLibrariesKicadWurthElektronik/blob/master/WIRE-TO-BOARD(rev17b)/heder box.pretty/690207102672.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/electroniccats_pines_690367191072/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/electroniccats_pines_690367191072/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/electroniccats_pines_690367191072/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/electroniccats_pines_690367191072/working'} |  
 | name | ComponentLibrariesKicadWurthElektronik |  
+| oomp | {'footprint_name': '690367191072', 'library_name': 'pines', 'md5': 'e63753396df4cac7c79c74f6b0cbd31b', 'md5_10': 'e63753396d', 'md5_5': 'e6375', 'md5_6': 'e63753', 'oomp_key': 'oomp_electroniccats_pines_690367191072', 'oomp_key_extra': 'oomp_footprint_electroniccats_pines_690367191072', 'oomp_key_full': 'oomp_footprint_electroniccats_pines_690367191072_e63753', 'oomp_key_simple': 'electroniccats_pines_690367191072', 'original_filename': 'ComponentLibrariesKicadWurthElektronik/EAGLE-BOARD-TO-BOARD_CONNECTORS-rev16c/Pines.pretty/690367191072.kicad_mod', 'owner_name': 'electroniccats'} |  
 | oomp_key | oomp_electroniccats_pines_690367191072 |  
+| oomp_key_full | oomp_footprint_electroniccats_pines_690367191072 |  
 | oomp_key_simple | electroniccats_pines_690367191072 |  
 | owner | ElectronicCats |  
 | repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  

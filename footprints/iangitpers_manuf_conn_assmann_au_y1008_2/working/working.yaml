@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/Iangitpers/4a
     oomp_bot: footprints/iangitpers_manuf_conn_assmann_au_y1008_2/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/iangitpers_manuf_conn_assmann_au_y1008_2/working
-    oomp_doc: footprints/footprints/Iangitpers/manuf/CONN-ASSMANN-AU-Y1008-2/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Iangitpers/manuf/CONN-ASSMANN-AU-Y1008-2/working
     oomp_src_flat: footprints_flat/footprints_flat/iangitpers_manuf_conn_assmann_au_y1008_2/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/iangitpers_manuf_conn_assmann_au_y1008_2/working
-    oomp_src_folder: footprints_folder/footprints_folder/Iangitpers/manuf/CONN-ASSMANN-AU-Y1008-2/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Iangitpers/manuf/CONN-ASSMANN-AU-Y1008-2/working
   name: 4a
+  oomp:
+    footprint_name: conn_assmann_au_y1008_2
+    library_name: manuf
+    md5: d39d783fd9285d05aa4c0b2acb4ad40c
+    md5_10: d39d783fd9
+    md5_5: d39d7
+    md5_6: d39d78
+    oomp_key: oomp_iangitpers_manuf_conn_assmann_au_y1008_2
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_conn_assmann_au_y1008_2
+    oomp_key_full: oomp_footprint_iangitpers_manuf_conn_assmann_au_y1008_2_d39d78
+    oomp_key_simple: iangitpers_manuf_conn_assmann_au_y1008_2
+    original_filename: 4a/manuf.pretty/CONN-ASSMANN-AU-Y1008-2.kicad_mod
+    owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_conn_assmann_au_y1008_2
+  oomp_key_full: oomp_footprint_iangitpers_manuf_conn_assmann_au_y1008_2
   oomp_key_simple: iangitpers_manuf_conn_assmann_au_y1008_2
   owner: Iangitpers
   repo:

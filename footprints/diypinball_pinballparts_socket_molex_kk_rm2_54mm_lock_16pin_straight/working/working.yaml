@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/diypinball_pinballparts_socket_molex_kk_rm2_54mm_lock_16pin_straight/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/diypinball_pinballparts_socket_molex_kk_rm2_54mm_lock_16pin_straight/working
-    oomp_doc: footprints/footprints/diypinball/PinballParts/Socket_MOLEX-KK-RM2-54mm_Lock_16pin_straight/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/diypinball/PinballParts/Socket_MOLEX-KK-RM2-54mm_Lock_16pin_straight/working
     oomp_src_flat: footprints_flat/footprints_flat/diypinball_pinballparts_socket_molex_kk_rm2_54mm_lock_16pin_straight/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/diypinball_pinballparts_socket_molex_kk_rm2_54mm_lock_16pin_straight/working
-    oomp_src_folder: footprints_folder/footprints_folder/diypinball/PinballParts/Socket_MOLEX-KK-RM2-54mm_Lock_16pin_straight/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/diypinball/PinballParts/Socket_MOLEX-KK-RM2-54mm_Lock_16pin_straight/working
   name: PinballParts.pretty
+  oomp:
+    footprint_name: socket_molex_kk_rm2_54mm_lock_16pin_straight
+    library_name: pinballparts
+    md5: f96c6a4a4a3d261e08e34ade0cd73c8a
+    md5_10: f96c6a4a4a
+    md5_5: f96c6
+    md5_6: f96c6a
+    oomp_key: oomp_diypinball_pinballparts_socket_molex_kk_rm2_54mm_lock_16pin_straight
+    oomp_key_extra: oomp_footprint_diypinball_pinballparts_socket_molex_kk_rm2_54mm_lock_16pin_straight
+    oomp_key_full: oomp_footprint_diypinball_pinballparts_socket_molex_kk_rm2_54mm_lock_16pin_straight_f96c6a
+    oomp_key_simple: diypinball_pinballparts_socket_molex_kk_rm2_54mm_lock_16pin_straight
+    original_filename: PinballParts.pretty/Socket_MOLEX-KK-RM2-54mm_Lock_16pin_straight.kicad_mod
+    owner_name: diypinball
   oomp_key: oomp_diypinball_pinballparts_socket_molex_kk_rm2_54mm_lock_16pin_straight
+  oomp_key_full: oomp_footprint_diypinball_pinballparts_socket_molex_kk_rm2_54mm_lock_16pin_straight
   oomp_key_simple: diypinball_pinballparts_socket_molex_kk_rm2_54mm_lock_16pin_straight
   owner: diypinball
   repo:

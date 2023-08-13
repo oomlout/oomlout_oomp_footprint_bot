@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/nppc_stspin20_stspin20/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nppc_stspin20_stspin20/working
-    oomp_doc: footprints/footprints/nppc/STSPIN20.kicad_mod/STSPIN20/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/nppc/STSPIN20.kicad_mod/STSPIN20/working
     oomp_src_flat: footprints_flat/footprints_flat/nppc_stspin20_stspin20/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nppc_stspin20_stspin20/working
-    oomp_src_folder: footprints_folder/footprints_folder/nppc/STSPIN20.kicad_mod/STSPIN20/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/nppc/STSPIN20.kicad_mod/STSPIN20/working
   name: KiCadCustomLibs
+  oomp:
+    footprint_name: stspin20
+    library_name: stspin20_kicad_mod
+    md5: 535745349e1dd1ffd4c42ba39608902e
+    md5_10: 535745349e
+    md5_5: '53574'
+    md5_6: '535745'
+    oomp_key: oomp_nppc_stspin20_stspin20
+    oomp_key_extra: oomp_footprint_nppc_stspin20_stspin20
+    oomp_key_full: oomp_footprint_nppc_stspin20_stspin20_535745
+    oomp_key_simple: nppc_stspin20_stspin20
+    original_filename: KiCadCustomLibs/STSPIN20.kicad_mod
+    owner_name: nppc
   oomp_key: oomp_nppc_stspin20_stspin20
+  oomp_key_full: oomp_footprint_nppc_stspin20_stspin20
   oomp_key_simple: nppc_stspin20_stspin20
   owner: nppc
   repo:

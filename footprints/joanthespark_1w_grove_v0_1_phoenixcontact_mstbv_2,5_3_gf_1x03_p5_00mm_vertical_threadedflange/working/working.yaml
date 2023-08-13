@@ -13,14 +13,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/joanthespark_1w_grove_v0_1_phoenixcontact_mstbv_2,5_3_gf_1x03_p5_00mm_vertical_threadedflange/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/joanthespark_1w_grove_v0_1_phoenixcontact_mstbv_2,5_3_gf_1x03_p5_00mm_vertical_threadedflange/working
-    oomp_doc: footprints/footprints/JoanTheSpark/1w-grove-v0.1/PhoenixContact_MSTBV_2,5_3-GF_1x03_P5.00mm_Vertical_ThreadedFlange/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/JoanTheSpark/1w-grove-v0.1/PhoenixContact_MSTBV_2,5_3-GF_1x03_P5.00mm_Vertical_ThreadedFlange/working
     oomp_src_flat: footprints_flat/footprints_flat/joanthespark_1w_grove_v0_1_phoenixcontact_mstbv_2,5_3_gf_1x03_p5_00mm_vertical_threadedflange/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/joanthespark_1w_grove_v0_1_phoenixcontact_mstbv_2,5_3_gf_1x03_p5_00mm_vertical_threadedflange/working
-    oomp_src_folder: footprints_folder/footprints_folder/JoanTheSpark/1w-grove-v0.1/PhoenixContact_MSTBV_2,5_3-GF_1x03_P5.00mm_Vertical_ThreadedFlange/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/JoanTheSpark/1w-grove-v0.1/PhoenixContact_MSTBV_2,5_3-GF_1x03_P5.00mm_Vertical_ThreadedFlange/working
   name: KiCAD
+  oomp:
+    footprint_name: phoenixcontact_mstbv_2,5_3_gf_1x03_p5_00mm_vertical_threadedflange
+    library_name: 1w_grove_v0_1
+    md5: 4105ee884ba0e85a5b4d3438344067c3
+    md5_10: 4105ee884b
+    md5_5: 4105e
+    md5_6: 4105ee
+    oomp_key: oomp_joanthespark_1w_grove_v0_1_phoenixcontact_mstbv_2,5_3_gf_1x03_p5_00mm_vertical_threadedflange
+    oomp_key_extra: oomp_footprint_joanthespark_1w_grove_v0_1_phoenixcontact_mstbv_2,5_3_gf_1x03_p5_00mm_vertical_threadedflange
+    oomp_key_full: oomp_footprint_joanthespark_1w_grove_v0_1_phoenixcontact_mstbv_2,5_3_gf_1x03_p5_00mm_vertical_threadedflange_4105ee
+    oomp_key_simple: joanthespark_1w_grove_v0_1_phoenixcontact_mstbv_2,5_3_gf_1x03_p5_00mm_vertical_threadedflange
+    original_filename: KiCAD/6.0/projects/1w-grove-v0.1/1w-grove-v0.1.pretty/PhoenixContact_MSTBV_2,5_3-GF_1x03_P5.00mm_Vertical_ThreadedFlange.kicad_mod
+    owner_name: joanthespark
   oomp_key: oomp_joanthespark_1w_grove_v0_1_phoenixcontact_mstbv_2,5_3_gf_1x03_p5_00mm_vertical_threadedflange
+  oomp_key_full: oomp_footprint_joanthespark_1w_grove_v0_1_phoenixcontact_mstbv_2,5_3_gf_1x03_p5_00mm_vertical_threadedflange
   oomp_key_simple: joanthespark_1w_grove_v0_1_phoenixcontact_mstbv_2,5_3_gf_1x03_p5_00mm_vertical_threadedflange
   owner: JoanTheSpark
   repo:

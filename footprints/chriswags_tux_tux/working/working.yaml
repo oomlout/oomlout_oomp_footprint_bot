@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/chriswags_tux_tux/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/chriswags_tux_tux/working
-    oomp_doc: footprints/footprints/chriswags/tux.kicad_mod/tux/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/chriswags/tux.kicad_mod/tux/working
     oomp_src_flat: footprints_flat/footprints_flat/chriswags_tux_tux/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/chriswags_tux_tux/working
-    oomp_src_folder: footprints_folder/footprints_folder/chriswags/tux.kicad_mod/tux/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/chriswags/tux.kicad_mod/tux/working
   name: KiCad
+  oomp:
+    footprint_name: tux
+    library_name: tux_kicad_mod
+    md5: 7ef53d028596d314bb666d0b4580b9ef
+    md5_10: 7ef53d0285
+    md5_5: 7ef53
+    md5_6: 7ef53d
+    oomp_key: oomp_chriswags_tux_tux
+    oomp_key_extra: oomp_footprint_chriswags_tux_tux
+    oomp_key_full: oomp_footprint_chriswags_tux_tux_7ef53d
+    oomp_key_simple: chriswags_tux_tux
+    original_filename: KiCad/demos/interf_u/tux.kicad_mod
+    owner_name: chriswags
   oomp_key: oomp_chriswags_tux_tux
+  oomp_key_full: oomp_footprint_chriswags_tux_tux
   oomp_key_simple: chriswags_tux_tux
   owner: chriswags
   repo:

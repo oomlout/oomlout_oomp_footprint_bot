@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/arturo182/kicad-modules
     oomp_bot: footprints/arturo182_display_extra_lh133t_ig01/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/arturo182_display_extra_lh133t_ig01/working
-    oomp_doc: footprints/footprints/arturo182/Display_Extra/LH133T-IG01/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/arturo182/Display_Extra/LH133T-IG01/working
     oomp_src_flat: footprints_flat/footprints_flat/arturo182_display_extra_lh133t_ig01/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/arturo182_display_extra_lh133t_ig01/working
-    oomp_src_folder: footprints_folder/footprints_folder/arturo182/Display_Extra/LH133T-IG01/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/arturo182/Display_Extra/LH133T-IG01/working
   name: kicad-modules
+  oomp:
+    footprint_name: lh133t_ig01
+    library_name: display_extra
+    md5: a899aa8ecc6a2219f2534864ba81a66c
+    md5_10: a899aa8ecc
+    md5_5: a899a
+    md5_6: a899aa
+    oomp_key: oomp_arturo182_display_extra_lh133t_ig01
+    oomp_key_extra: oomp_footprint_arturo182_display_extra_lh133t_ig01
+    oomp_key_full: oomp_footprint_arturo182_display_extra_lh133t_ig01_a899aa
+    oomp_key_simple: arturo182_display_extra_lh133t_ig01
+    original_filename: kicad-modules/Display_Extra.pretty/LH133T-IG01.kicad_mod
+    owner_name: arturo182
   oomp_key: oomp_arturo182_display_extra_lh133t_ig01
+  oomp_key_full: oomp_footprint_arturo182_display_extra_lh133t_ig01
   oomp_key_simple: arturo182_display_extra_lh133t_ig01
   owner: arturo182
   repo:

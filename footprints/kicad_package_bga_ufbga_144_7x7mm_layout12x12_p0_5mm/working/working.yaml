@@ -12,17 +12,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_package_bga_ufbga_144_7x7mm_layout12x12_p0_5mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_package_bga_ufbga_144_7x7mm_layout12x12_p0_5mm/working
-    oomp_doc: footprints/footprints/kicad/Package_BGA/UFBGA-144_7x7mm_Layout12x12_P0.5mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Package_BGA/UFBGA-144_7x7mm_Layout12x12_P0.5mm/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_package_bga_ufbga_144_7x7mm_layout12x12_p0_5mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_package_bga_ufbga_144_7x7mm_layout12x12_p0_5mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Package_BGA/UFBGA-144_7x7mm_Layout12x12_P0.5mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Package_BGA/UFBGA-144_7x7mm_Layout12x12_P0.5mm/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: ufbga_144_7x7mm_layout12x12_p0_5mm
+    library_name: package_bga
+    md5: 16ebb4da02acf061ce1af00fc30e2fb8
+    md5_10: 16ebb4da02
+    md5_5: 16ebb
+    md5_6: 16ebb4
+    oomp_key: oomp_kicad_package_bga_ufbga_144_7x7mm_layout12x12_p0_5mm
+    oomp_key_extra: oomp_footprint_kicad_package_bga_ufbga_144_7x7mm_layout12x12_p0_5mm
+    oomp_key_full: oomp_footprint_kicad_package_bga_ufbga_144_7x7mm_layout12x12_p0_5mm_16ebb4
+    oomp_key_simple: kicad_package_bga_ufbga_144_7x7mm_layout12x12_p0_5mm
+    original_filename: libraries/kicad-footprints/Package_BGA.pretty/UFBGA-144_7x7mm_Layout12x12_P0.5mm.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_package_bga_ufbga_144_7x7mm_layout12x12_p0_5mm
+  oomp_key_full: oomp_footprint_kicad_package_bga_ufbga_144_7x7mm_layout12x12_p0_5mm
   oomp_key_simple: kicad_package_bga_ufbga_144_7x7mm_layout12x12_p0_5mm
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/kubiX89/kiCAD.pretty
     oomp_bot: footprints/kubix89_kicad_bolt_pad_6mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kubix89_kicad_bolt_pad_6mm/working
-    oomp_doc: footprints/footprints/kubiX89/kiCAD/BOLT_PAD_6mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kubiX89/kiCAD/BOLT_PAD_6mm/working
     oomp_src_flat: footprints_flat/footprints_flat/kubix89_kicad_bolt_pad_6mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kubix89_kicad_bolt_pad_6mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/kubiX89/kiCAD/BOLT_PAD_6mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kubiX89/kiCAD/BOLT_PAD_6mm/working
   name: kiCAD.pretty
+  oomp:
+    footprint_name: bolt_pad_6mm
+    library_name: kicad
+    md5: 451e042bbf0d9386130625b1309ffe70
+    md5_10: 451e042bbf
+    md5_5: 451e0
+    md5_6: 451e04
+    oomp_key: oomp_kubix89_kicad_bolt_pad_6mm
+    oomp_key_extra: oomp_footprint_kubix89_kicad_bolt_pad_6mm
+    oomp_key_full: oomp_footprint_kubix89_kicad_bolt_pad_6mm_451e04
+    oomp_key_simple: kubix89_kicad_bolt_pad_6mm
+    original_filename: kiCAD.pretty/BOLT_PAD_6mm.kicad_mod
+    owner_name: kubix89
   oomp_key: oomp_kubix89_kicad_bolt_pad_6mm
+  oomp_key_full: oomp_footprint_kubix89_kicad_bolt_pad_6mm
   oomp_key_simple: kubix89_kicad_bolt_pad_6mm
   owner: kubiX89
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/greatscottgadgets_gsg_modules_xtal3_2x2_5mm_ext/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/greatscottgadgets_gsg_modules_xtal3_2x2_5mm_ext/working
-    oomp_doc: footprints/footprints/greatscottgadgets/gsg-modules/XTAL3.2x2.5mm-EXT/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/greatscottgadgets/gsg-modules/XTAL3.2x2.5mm-EXT/working
     oomp_src_flat: footprints_flat/footprints_flat/greatscottgadgets_gsg_modules_xtal3_2x2_5mm_ext/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/greatscottgadgets_gsg_modules_xtal3_2x2_5mm_ext/working
-    oomp_src_folder: footprints_folder/footprints_folder/greatscottgadgets/gsg-modules/XTAL3.2x2.5mm-EXT/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/greatscottgadgets/gsg-modules/XTAL3.2x2.5mm-EXT/working
   name: gsg-kicad-lib
+  oomp:
+    footprint_name: xtal3_2x2_5mm_ext
+    library_name: gsg_modules
+    md5: 9170ce3d44b267ec3b65f48b1f02170a
+    md5_10: 9170ce3d44
+    md5_5: 9170c
+    md5_6: 9170ce
+    oomp_key: oomp_greatscottgadgets_gsg_modules_xtal3_2x2_5mm_ext
+    oomp_key_extra: oomp_footprint_greatscottgadgets_gsg_modules_xtal3_2x2_5mm_ext
+    oomp_key_full: oomp_footprint_greatscottgadgets_gsg_modules_xtal3_2x2_5mm_ext_9170ce
+    oomp_key_simple: greatscottgadgets_gsg_modules_xtal3_2x2_5mm_ext
+    original_filename: gsg-kicad-lib/gsg-modules.pretty/XTAL3.2x2.5mm-EXT.kicad_mod
+    owner_name: greatscottgadgets
   oomp_key: oomp_greatscottgadgets_gsg_modules_xtal3_2x2_5mm_ext
+  oomp_key_full: oomp_footprint_greatscottgadgets_gsg_modules_xtal3_2x2_5mm_ext
   oomp_key_simple: greatscottgadgets_gsg_modules_xtal3_2x2_5mm_ext
   owner: greatscottgadgets
   repo:

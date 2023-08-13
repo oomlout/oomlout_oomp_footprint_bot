@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/phigleaf_kicadprints_lga_14_handsoldering/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/phigleaf_kicadprints_lga_14_handsoldering/working
-    oomp_doc: footprints/footprints/phigleaf/kicadprints/LGA-14_handsoldering/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/phigleaf/kicadprints/LGA-14_handsoldering/working
     oomp_src_flat: footprints_flat/footprints_flat/phigleaf_kicadprints_lga_14_handsoldering/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/phigleaf_kicadprints_lga_14_handsoldering/working
-    oomp_src_folder: footprints_folder/footprints_folder/phigleaf/kicadprints/LGA-14_handsoldering/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/phigleaf/kicadprints/LGA-14_handsoldering/working
   name: kicadprints.pretty
+  oomp:
+    footprint_name: lga_14_handsoldering
+    library_name: kicadprints
+    md5: 963ee9ae21a5d6532e32d36ff9d4135d
+    md5_10: 963ee9ae21
+    md5_5: 963ee
+    md5_6: 963ee9
+    oomp_key: oomp_phigleaf_kicadprints_lga_14_handsoldering
+    oomp_key_extra: oomp_footprint_phigleaf_kicadprints_lga_14_handsoldering
+    oomp_key_full: oomp_footprint_phigleaf_kicadprints_lga_14_handsoldering_963ee9
+    oomp_key_simple: phigleaf_kicadprints_lga_14_handsoldering
+    original_filename: kicadprints.pretty/LGA-14_handsoldering.kicad_mod
+    owner_name: phigleaf
   oomp_key: oomp_phigleaf_kicadprints_lga_14_handsoldering
+  oomp_key_full: oomp_footprint_phigleaf_kicadprints_lga_14_handsoldering
   oomp_key_simple: phigleaf_kicadprints_lga_14_handsoldering
   owner: phigleaf
   repo:

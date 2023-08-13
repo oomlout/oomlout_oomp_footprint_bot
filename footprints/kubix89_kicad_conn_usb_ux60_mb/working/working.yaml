@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/kubiX89/kiCAD.pretty
     oomp_bot: footprints/kubix89_kicad_conn_usb_ux60_mb/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kubix89_kicad_conn_usb_ux60_mb/working
-    oomp_doc: footprints/footprints/kubiX89/kiCAD/CONN_USB_UX60-MB/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kubiX89/kiCAD/CONN_USB_UX60-MB/working
     oomp_src_flat: footprints_flat/footprints_flat/kubix89_kicad_conn_usb_ux60_mb/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kubix89_kicad_conn_usb_ux60_mb/working
-    oomp_src_folder: footprints_folder/footprints_folder/kubiX89/kiCAD/CONN_USB_UX60-MB/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kubiX89/kiCAD/CONN_USB_UX60-MB/working
   name: kiCAD.pretty
+  oomp:
+    footprint_name: conn_usb_ux60_mb
+    library_name: kicad
+    md5: 323d117414cbf01759a617f25b6e9955
+    md5_10: 323d117414
+    md5_5: 323d1
+    md5_6: 323d11
+    oomp_key: oomp_kubix89_kicad_conn_usb_ux60_mb
+    oomp_key_extra: oomp_footprint_kubix89_kicad_conn_usb_ux60_mb
+    oomp_key_full: oomp_footprint_kubix89_kicad_conn_usb_ux60_mb_323d11
+    oomp_key_simple: kubix89_kicad_conn_usb_ux60_mb
+    original_filename: kiCAD.pretty/CONN_USB_UX60-MB.kicad_mod
+    owner_name: kubix89
   oomp_key: oomp_kubix89_kicad_conn_usb_ux60_mb
+  oomp_key_full: oomp_footprint_kubix89_kicad_conn_usb_ux60_mb
   oomp_key_simple: kubix89_kicad_conn_usb_ux60_mb
   owner: kubiX89
   repo:

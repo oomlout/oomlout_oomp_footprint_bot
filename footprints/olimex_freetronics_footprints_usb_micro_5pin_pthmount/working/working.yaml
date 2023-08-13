@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/olimex_freetronics_footprints_usb_micro_5pin_pthmount/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/olimex_freetronics_footprints_usb_micro_5pin_pthmount/working
-    oomp_doc: footprints/footprints/OLIMEX/freetronics_footprints/USB-MICRO-5pin_PTHMOUNT/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/OLIMEX/freetronics_footprints/USB-MICRO-5pin_PTHMOUNT/working
     oomp_src_flat: footprints_flat/footprints_flat/olimex_freetronics_footprints_usb_micro_5pin_pthmount/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/olimex_freetronics_footprints_usb_micro_5pin_pthmount/working
-    oomp_src_folder: footprints_folder/footprints_folder/OLIMEX/freetronics_footprints/USB-MICRO-5pin_PTHMOUNT/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/OLIMEX/freetronics_footprints/USB-MICRO-5pin_PTHMOUNT/working
   name: KiCAD
+  oomp:
+    footprint_name: usb_micro_5pin_pthmount
+    library_name: freetronics_footprints
+    md5: 53b58a57880bc709104ebe2c1a6391aa
+    md5_10: 53b58a5788
+    md5_5: 53b58
+    md5_6: 53b58a
+    oomp_key: oomp_olimex_freetronics_footprints_usb_micro_5pin_pthmount
+    oomp_key_extra: oomp_footprint_olimex_freetronics_footprints_usb_micro_5pin_pthmount
+    oomp_key_full: oomp_footprint_olimex_freetronics_footprints_usb_micro_5pin_pthmount_53b58a
+    oomp_key_simple: olimex_freetronics_footprints_usb_micro_5pin_pthmount
+    original_filename: KiCAD/mods/freetronics_footprints.pretty/USB-MICRO-5pin_PTHMOUNT.kicad_mod
+    owner_name: olimex
   oomp_key: oomp_olimex_freetronics_footprints_usb_micro_5pin_pthmount
+  oomp_key_full: oomp_footprint_olimex_freetronics_footprints_usb_micro_5pin_pthmount
   oomp_key_simple: olimex_freetronics_footprints_usb_micro_5pin_pthmount
   owner: OLIMEX
   repo:

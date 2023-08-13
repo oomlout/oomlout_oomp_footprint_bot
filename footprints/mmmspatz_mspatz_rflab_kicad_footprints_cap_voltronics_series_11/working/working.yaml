@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/mmmspatz_mspatz_rflab_kicad_footprints_cap_voltronics_series_11/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/mmmspatz_mspatz_rflab_kicad_footprints_cap_voltronics_series_11/working
-    oomp_doc: footprints/footprints/mmmspatz/mspatz_RFlab_Kicad_footprints/CAP_VOLTRONICS_SERIES_11/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/mmmspatz/mspatz_RFlab_Kicad_footprints/CAP_VOLTRONICS_SERIES_11/working
     oomp_src_flat: footprints_flat/footprints_flat/mmmspatz_mspatz_rflab_kicad_footprints_cap_voltronics_series_11/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/mmmspatz_mspatz_rflab_kicad_footprints_cap_voltronics_series_11/working
-    oomp_src_folder: footprints_folder/footprints_folder/mmmspatz/mspatz_RFlab_Kicad_footprints/CAP_VOLTRONICS_SERIES_11/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/mmmspatz/mspatz_RFlab_Kicad_footprints/CAP_VOLTRONICS_SERIES_11/working
   name: mspatz_RFlab_Kicad_footprints.pretty
+  oomp:
+    footprint_name: cap_voltronics_series_11
+    library_name: mspatz_rflab_kicad_footprints
+    md5: 212fb55979812c748471cba6cd589dc2
+    md5_10: 212fb55979
+    md5_5: 212fb
+    md5_6: 212fb5
+    oomp_key: oomp_mmmspatz_mspatz_rflab_kicad_footprints_cap_voltronics_series_11
+    oomp_key_extra: oomp_footprint_mmmspatz_mspatz_rflab_kicad_footprints_cap_voltronics_series_11
+    oomp_key_full: oomp_footprint_mmmspatz_mspatz_rflab_kicad_footprints_cap_voltronics_series_11_212fb5
+    oomp_key_simple: mmmspatz_mspatz_rflab_kicad_footprints_cap_voltronics_series_11
+    original_filename: mspatz_RFlab_Kicad_footprints.pretty/CAP_VOLTRONICS_SERIES_11.kicad_mod
+    owner_name: mmmspatz
   oomp_key: oomp_mmmspatz_mspatz_rflab_kicad_footprints_cap_voltronics_series_11
+  oomp_key_full: oomp_footprint_mmmspatz_mspatz_rflab_kicad_footprints_cap_voltronics_series_11
   oomp_key_simple: mmmspatz_mspatz_rflab_kicad_footprints_cap_voltronics_series_11
   owner: mmmspatz
   repo:

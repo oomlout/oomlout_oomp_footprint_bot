@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/rudiloos_kilibs_so16/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/rudiloos_kilibs_so16/working
-    oomp_doc: footprints/footprints/rudiloos/kilibs/SO16/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/rudiloos/kilibs/SO16/working
     oomp_src_flat: footprints_flat/footprints_flat/rudiloos_kilibs_so16/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/rudiloos_kilibs_so16/working
-    oomp_src_folder: footprints_folder/footprints_folder/rudiloos/kilibs/SO16/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/rudiloos/kilibs/SO16/working
   name: kilibs.pretty
+  oomp:
+    footprint_name: so16
+    library_name: kilibs
+    md5: d5c7e266bb9c9e6951110ca199795f7d
+    md5_10: d5c7e266bb
+    md5_5: d5c7e
+    md5_6: d5c7e2
+    oomp_key: oomp_rudiloos_kilibs_so16
+    oomp_key_extra: oomp_footprint_rudiloos_kilibs_so16
+    oomp_key_full: oomp_footprint_rudiloos_kilibs_so16_d5c7e2
+    oomp_key_simple: rudiloos_kilibs_so16
+    original_filename: kilibs.pretty/SO16.kicad_mod
+    owner_name: rudiloos
   oomp_key: oomp_rudiloos_kilibs_so16
+  oomp_key_full: oomp_footprint_rudiloos_kilibs_so16
   oomp_key_simple: rudiloos_kilibs_so16
   owner: rudiloos
   repo:

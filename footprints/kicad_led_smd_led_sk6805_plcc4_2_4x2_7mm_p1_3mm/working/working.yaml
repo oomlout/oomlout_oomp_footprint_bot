@@ -1,5 +1,8 @@
-- error: Expression does not have the correct type
-  file: libraries/kicad-footprints/LED_SMD.pretty/LED_SK6805_PLCC4_2.4x2.7mm_P1.3mm.kicad_mod
+- file: libraries/kicad-footprints/LED_SMD.pretty/LED_SK6805_PLCC4_2.4x2.7mm_P1.3mm.kicad_mod
+  footprint:
+    description: https://cdn-shop.adafruit.com/product-files/3484/3484_Datasheet.pdf
+    libraryLink: LED_SK6805_PLCC4_2.4x2.7mm_P1.3mm
+    number_of_pads: 4
   footprint_library_directory: footprint_library_owner/kicad_libraries/kicad-footprints/
   footprint_library_directory_flat: footprints_flat/kicad_led_smd_led_sk6805_plcc4_2_4x2_7mm_p1_3mm/working
   github_path: http://github.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/LED_SMD.pretty/LED_SK6805_PLCC4_2.4x2.7mm_P1.3mm.kicad_mod
@@ -8,17 +11,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_led_smd_led_sk6805_plcc4_2_4x2_7mm_p1_3mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_led_smd_led_sk6805_plcc4_2_4x2_7mm_p1_3mm/working
-    oomp_doc: footprints/footprints/kicad/LED_SMD/LED_SK6805_PLCC4_2.4x2.7mm_P1.3mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/LED_SMD/LED_SK6805_PLCC4_2.4x2.7mm_P1.3mm/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_led_smd_led_sk6805_plcc4_2_4x2_7mm_p1_3mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_led_smd_led_sk6805_plcc4_2_4x2_7mm_p1_3mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/LED_SMD/LED_SK6805_PLCC4_2.4x2.7mm_P1.3mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/LED_SMD/LED_SK6805_PLCC4_2.4x2.7mm_P1.3mm/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: led_sk6805_plcc4_2_4x2_7mm_p1_3mm
+    library_name: led_smd
+    md5: 56baa1f26c27c4844953afcf85181b2b
+    md5_10: 56baa1f26c
+    md5_5: 56baa
+    md5_6: 56baa1
+    oomp_key: oomp_kicad_led_smd_led_sk6805_plcc4_2_4x2_7mm_p1_3mm
+    oomp_key_extra: oomp_footprint_kicad_led_smd_led_sk6805_plcc4_2_4x2_7mm_p1_3mm
+    oomp_key_full: oomp_footprint_kicad_led_smd_led_sk6805_plcc4_2_4x2_7mm_p1_3mm_56baa1
+    oomp_key_simple: kicad_led_smd_led_sk6805_plcc4_2_4x2_7mm_p1_3mm
+    original_filename: libraries/kicad-footprints/LED_SMD.pretty/LED_SK6805_PLCC4_2.4x2.7mm_P1.3mm.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_led_smd_led_sk6805_plcc4_2_4x2_7mm_p1_3mm
+  oomp_key_full: oomp_footprint_kicad_led_smd_led_sk6805_plcc4_2_4x2_7mm_p1_3mm
   oomp_key_simple: kicad_led_smd_led_sk6805_plcc4_2_4x2_7mm_p1_3mm
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

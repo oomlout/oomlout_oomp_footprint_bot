@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/stanleyseow_svtmaker_d_sod_123_zener/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stanleyseow_svtmaker_d_sod_123_zener/working
-    oomp_doc: footprints/footprints/stanleyseow/SVTmaker/D_SOD-123-Zener/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/stanleyseow/SVTmaker/D_SOD-123-Zener/working
     oomp_src_flat: footprints_flat/footprints_flat/stanleyseow_svtmaker_d_sod_123_zener/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/stanleyseow_svtmaker_d_sod_123_zener/working
-    oomp_src_folder: footprints_folder/footprints_folder/stanleyseow/SVTmaker/D_SOD-123-Zener/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/stanleyseow/SVTmaker/D_SOD-123-Zener/working
   name: SVTmaker.pretty
+  oomp:
+    footprint_name: d_sod_123_zener
+    library_name: svtmaker
+    md5: 5fa73a01dfa0880dea5abe8fee350d7d
+    md5_10: 5fa73a01df
+    md5_5: 5fa73
+    md5_6: 5fa73a
+    oomp_key: oomp_stanleyseow_svtmaker_d_sod_123_zener
+    oomp_key_extra: oomp_footprint_stanleyseow_svtmaker_d_sod_123_zener
+    oomp_key_full: oomp_footprint_stanleyseow_svtmaker_d_sod_123_zener_5fa73a
+    oomp_key_simple: stanleyseow_svtmaker_d_sod_123_zener
+    original_filename: SVTmaker.pretty/D_SOD-123-Zener.kicad_mod
+    owner_name: stanleyseow
   oomp_key: oomp_stanleyseow_svtmaker_d_sod_123_zener
+  oomp_key_full: oomp_footprint_stanleyseow_svtmaker_d_sod_123_zener
   oomp_key_simple: stanleyseow_svtmaker_d_sod_123_zener
   owner: stanleyseow
   repo:

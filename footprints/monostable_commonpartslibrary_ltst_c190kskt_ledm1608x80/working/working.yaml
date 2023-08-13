@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/monostable_commonpartslibrary_ltst_c190kskt_ledm1608x80/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/monostable_commonpartslibrary_ltst_c190kskt_ledm1608x80/working
-    oomp_doc: footprints/footprints/monostable/CommonPartsLibrary/LTST-C190KSKT_LEDM1608X80/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/monostable/CommonPartsLibrary/LTST-C190KSKT_LEDM1608X80/working
     oomp_src_flat: footprints_flat/footprints_flat/monostable_commonpartslibrary_ltst_c190kskt_ledm1608x80/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/monostable_commonpartslibrary_ltst_c190kskt_ledm1608x80/working
-    oomp_src_folder: footprints_folder/footprints_folder/monostable/CommonPartsLibrary/LTST-C190KSKT_LEDM1608X80/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/monostable/CommonPartsLibrary/LTST-C190KSKT_LEDM1608X80/working
   name: CommonPartsLibrary.pretty
+  oomp:
+    footprint_name: ltst_c190kskt_ledm1608x80
+    library_name: commonpartslibrary
+    md5: abc79661f9e0f19b1149634f850bc7e2
+    md5_10: abc79661f9
+    md5_5: abc79
+    md5_6: abc796
+    oomp_key: oomp_monostable_commonpartslibrary_ltst_c190kskt_ledm1608x80
+    oomp_key_extra: oomp_footprint_monostable_commonpartslibrary_ltst_c190kskt_ledm1608x80
+    oomp_key_full: oomp_footprint_monostable_commonpartslibrary_ltst_c190kskt_ledm1608x80_abc796
+    oomp_key_simple: monostable_commonpartslibrary_ltst_c190kskt_ledm1608x80
+    original_filename: CommonPartsLibrary.pretty/LTST-C190KSKT_LEDM1608X80.kicad_mod
+    owner_name: monostable
   oomp_key: oomp_monostable_commonpartslibrary_ltst_c190kskt_ledm1608x80
+  oomp_key_full: oomp_footprint_monostable_commonpartslibrary_ltst_c190kskt_ledm1608x80
   oomp_key_simple: monostable_commonpartslibrary_ltst_c190kskt_ledm1608x80
   owner: monostable
   repo:

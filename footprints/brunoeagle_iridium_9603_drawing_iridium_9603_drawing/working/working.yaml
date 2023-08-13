@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_iridium_9603_drawing_iridium_9603_drawing/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_iridium_9603_drawing_iridium_9603_drawing/working
-    oomp_doc: footprints/footprints/brunoeagle/IRIDIUM_9603_DRAWING.kicad_mod/IRIDIUM_9603_DRAWING/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/IRIDIUM_9603_DRAWING.kicad_mod/IRIDIUM_9603_DRAWING/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_iridium_9603_drawing_iridium_9603_drawing/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_iridium_9603_drawing_iridium_9603_drawing/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/IRIDIUM_9603_DRAWING.kicad_mod/IRIDIUM_9603_DRAWING/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/IRIDIUM_9603_DRAWING.kicad_mod/IRIDIUM_9603_DRAWING/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: iridium_9603_drawing
+    library_name: iridium_9603_drawing_kicad_mod
+    md5: 2170977e1b18cf1986b1c1bc0c054678
+    md5_10: 2170977e1b
+    md5_5: '21709'
+    md5_6: '217097'
+    oomp_key: oomp_brunoeagle_iridium_9603_drawing_iridium_9603_drawing
+    oomp_key_extra: oomp_footprint_brunoeagle_iridium_9603_drawing_iridium_9603_drawing
+    oomp_key_full: oomp_footprint_brunoeagle_iridium_9603_drawing_iridium_9603_drawing_217097
+    oomp_key_simple: brunoeagle_iridium_9603_drawing_iridium_9603_drawing
+    original_filename: kicad-open-modules/IRIDIUM_9603_DRAWING.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_iridium_9603_drawing_iridium_9603_drawing
+  oomp_key_full: oomp_footprint_brunoeagle_iridium_9603_drawing_iridium_9603_drawing
   oomp_key_simple: brunoeagle_iridium_9603_drawing_iridium_9603_drawing
   owner: brunoeagle
   repo:

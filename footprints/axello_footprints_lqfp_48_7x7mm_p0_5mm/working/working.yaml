@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/axello_footprints_lqfp_48_7x7mm_p0_5mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/axello_footprints_lqfp_48_7x7mm_p0_5mm/working
-    oomp_doc: footprints/footprints/axello/footprints/LQFP-48_7x7mm_P0.5mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/axello/footprints/LQFP-48_7x7mm_P0.5mm/working
     oomp_src_flat: footprints_flat/footprints_flat/axello_footprints_lqfp_48_7x7mm_p0_5mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/axello_footprints_lqfp_48_7x7mm_p0_5mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/axello/footprints/LQFP-48_7x7mm_P0.5mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/axello/footprints/LQFP-48_7x7mm_P0.5mm/working
   name: kicad
+  oomp:
+    footprint_name: lqfp_48_7x7mm_p0_5mm
+    library_name: footprints
+    md5: a74e03defe221e2d49451fe5087a300c
+    md5_10: a74e03defe
+    md5_5: a74e0
+    md5_6: a74e03
+    oomp_key: oomp_axello_footprints_lqfp_48_7x7mm_p0_5mm
+    oomp_key_extra: oomp_footprint_axello_footprints_lqfp_48_7x7mm_p0_5mm
+    oomp_key_full: oomp_footprint_axello_footprints_lqfp_48_7x7mm_p0_5mm_a74e03
+    oomp_key_simple: axello_footprints_lqfp_48_7x7mm_p0_5mm
+    original_filename: kicad/demos/stickhub/footprints.pretty/LQFP-48_7x7mm_P0.5mm.kicad_mod
+    owner_name: axello
   oomp_key: oomp_axello_footprints_lqfp_48_7x7mm_p0_5mm
+  oomp_key_full: oomp_footprint_axello_footprints_lqfp_48_7x7mm_p0_5mm
   oomp_key_simple: axello_footprints_lqfp_48_7x7mm_p0_5mm
   owner: axello
   repo:

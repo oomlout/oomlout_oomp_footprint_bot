@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/LibreSolar/kicad-footprints
     oomp_bot: footprints/libresolar_bzt52c3v6_e3_08_bzt52c3v6_e3_08/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/libresolar_bzt52c3v6_e3_08_bzt52c3v6_e3_08/working
-    oomp_doc: footprints/footprints/LibreSolar/BZT52C3V6-E3-08/BZT52C3V6-E3-08/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/LibreSolar/BZT52C3V6-E3-08/BZT52C3V6-E3-08/working
     oomp_src_flat: footprints_flat/footprints_flat/libresolar_bzt52c3v6_e3_08_bzt52c3v6_e3_08/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/libresolar_bzt52c3v6_e3_08_bzt52c3v6_e3_08/working
-    oomp_src_folder: footprints_folder/footprints_folder/LibreSolar/BZT52C3V6-E3-08/BZT52C3V6-E3-08/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/LibreSolar/BZT52C3V6-E3-08/BZT52C3V6-E3-08/working
   name: KiCad-footprints
+  oomp:
+    footprint_name: bzt52c3v6_e3_08
+    library_name: bzt52c3v6_e3_08
+    md5: 6e9ba48a85ed6ad994902d226a7d030d
+    md5_10: 6e9ba48a85
+    md5_5: 6e9ba
+    md5_6: 6e9ba4
+    oomp_key: oomp_libresolar_bzt52c3v6_e3_08_bzt52c3v6_e3_08
+    oomp_key_extra: oomp_footprint_libresolar_bzt52c3v6_e3_08_bzt52c3v6_e3_08
+    oomp_key_full: oomp_footprint_libresolar_bzt52c3v6_e3_08_bzt52c3v6_e3_08_6e9ba4
+    oomp_key_simple: libresolar_bzt52c3v6_e3_08_bzt52c3v6_e3_08
+    original_filename: KiCad-footprints/BZT52C3V6-E3-08.pretty/BZT52C3V6-E3-08.kicad_mod
+    owner_name: libresolar
   oomp_key: oomp_libresolar_bzt52c3v6_e3_08_bzt52c3v6_e3_08
+  oomp_key_full: oomp_footprint_libresolar_bzt52c3v6_e3_08_bzt52c3v6_e3_08
   oomp_key_simple: libresolar_bzt52c3v6_e3_08_bzt52c3v6_e3_08
   owner: LibreSolar
   repo:

@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/konspyre/kicad-footprints
     oomp_bot: footprints/konspyre_cherry_mx1a_nodiode_noled/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/konspyre_cherry_mx1a_nodiode_noled/working
-    oomp_doc: footprints/footprints/konspyre/Cherry-MX1A/NoDiode_NoLED/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/konspyre/Cherry-MX1A/NoDiode_NoLED/working
     oomp_src_flat: footprints_flat/footprints_flat/konspyre_cherry_mx1a_nodiode_noled/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/konspyre_cherry_mx1a_nodiode_noled/working
-    oomp_src_folder: footprints_folder/footprints_folder/konspyre/Cherry-MX1A/NoDiode_NoLED/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/konspyre/Cherry-MX1A/NoDiode_NoLED/working
   name: kicad-footprints
+  oomp:
+    footprint_name: nodiode_noled
+    library_name: cherry_mx1a
+    md5: 05f346d5cb2b1cf412ea4ddf5b72ff2e
+    md5_10: 05f346d5cb
+    md5_5: 05f34
+    md5_6: 05f346
+    oomp_key: oomp_konspyre_cherry_mx1a_nodiode_noled
+    oomp_key_extra: oomp_footprint_konspyre_cherry_mx1a_nodiode_noled
+    oomp_key_full: oomp_footprint_konspyre_cherry_mx1a_nodiode_noled_05f346
+    oomp_key_simple: konspyre_cherry_mx1a_nodiode_noled
+    original_filename: kicad-footprints/Cherry-MX1A.pretty/NoDiode_NoLED.kicad_mod
+    owner_name: konspyre
   oomp_key: oomp_konspyre_cherry_mx1a_nodiode_noled
+  oomp_key_full: oomp_footprint_konspyre_cherry_mx1a_nodiode_noled
   oomp_key_simple: konspyre_cherry_mx1a_nodiode_noled
   owner: konspyre
   repo:

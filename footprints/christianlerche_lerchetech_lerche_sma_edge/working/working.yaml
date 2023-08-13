@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/christianlerche_lerchetech_lerche_sma_edge/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/christianlerche_lerchetech_lerche_sma_edge/working
-    oomp_doc: footprints/footprints/ChristianLerche/LercheTech/Lerche_SMA_Edge/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ChristianLerche/LercheTech/Lerche_SMA_Edge/working
     oomp_src_flat: footprints_flat/footprints_flat/christianlerche_lerchetech_lerche_sma_edge/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/christianlerche_lerchetech_lerche_sma_edge/working
-    oomp_src_folder: footprints_folder/footprints_folder/ChristianLerche/LercheTech/Lerche_SMA_Edge/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ChristianLerche/LercheTech/Lerche_SMA_Edge/working
   name: LercheTech_KiCAD
+  oomp:
+    footprint_name: lerche_sma_edge
+    library_name: lerchetech
+    md5: 6333ae704132d83475ad3c4027d230ec
+    md5_10: 6333ae7041
+    md5_5: 6333a
+    md5_6: 6333ae
+    oomp_key: oomp_christianlerche_lerchetech_lerche_sma_edge
+    oomp_key_extra: oomp_footprint_christianlerche_lerchetech_lerche_sma_edge
+    oomp_key_full: oomp_footprint_christianlerche_lerchetech_lerche_sma_edge_6333ae
+    oomp_key_simple: christianlerche_lerchetech_lerche_sma_edge
+    original_filename: LercheTech_KiCAD/LercheTech.pretty/Lerche_SMA_Edge.kicad_mod
+    owner_name: christianlerche
   oomp_key: oomp_christianlerche_lerchetech_lerche_sma_edge
+  oomp_key_full: oomp_footprint_christianlerche_lerchetech_lerche_sma_edge
   oomp_key_simple: christianlerche_lerchetech_lerche_sma_edge
   owner: ChristianLerche
   repo:

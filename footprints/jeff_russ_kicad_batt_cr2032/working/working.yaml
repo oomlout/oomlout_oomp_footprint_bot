@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/jeff_russ_kicad_batt_cr2032/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/jeff_russ_kicad_batt_cr2032/working
-    oomp_doc: footprints/footprints/Jeff-Russ/Kicad/BATT_CR2032/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Jeff-Russ/Kicad/BATT_CR2032/working
     oomp_src_flat: footprints_flat/footprints_flat/jeff_russ_kicad_batt_cr2032/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/jeff_russ_kicad_batt_cr2032/working
-    oomp_src_folder: footprints_folder/footprints_folder/Jeff-Russ/Kicad/BATT_CR2032/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Jeff-Russ/Kicad/BATT_CR2032/working
   name: Kicad.pretty
+  oomp:
+    footprint_name: batt_cr2032
+    library_name: kicad
+    md5: be633a9ee4a805dd812e1116f64b052a
+    md5_10: be633a9ee4
+    md5_5: be633
+    md5_6: be633a
+    oomp_key: oomp_jeff_russ_kicad_batt_cr2032
+    oomp_key_extra: oomp_footprint_jeff_russ_kicad_batt_cr2032
+    oomp_key_full: oomp_footprint_jeff_russ_kicad_batt_cr2032_be633a
+    oomp_key_simple: jeff_russ_kicad_batt_cr2032
+    original_filename: Kicad.pretty/BATT_CR2032.kicad_mod
+    owner_name: jeff_russ
   oomp_key: oomp_jeff_russ_kicad_batt_cr2032
+  oomp_key_full: oomp_footprint_jeff_russ_kicad_batt_cr2032
   oomp_key_simple: jeff_russ_kicad_batt_cr2032
   owner: Jeff-Russ
   repo:

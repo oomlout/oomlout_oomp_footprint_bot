@@ -16,20 +16,29 @@
     oomp_bot: "footprints/kut_kicad_kut_passive_coils_shielded_smd_12_7\xD712_6mm/working"
     oomp_bot_github: "https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kut_kicad_kut_passive_coils_shielded_smd_12_7\xD7\
       12_6mm/working"
-    oomp_doc: "footprints/footprints/KUT-KiCad/KUT_Passive/Coils_Shielded_SMD_12.7\xD7\
-      12.6mm/working/"
-    oomp_doc_github: "https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/KUT-KiCad/KUT_Passive/Coils_Shielded_SMD_12.7\xD7\
-      12.6mm/working"
     oomp_src_flat: "footprints_flat/footprints_flat/kut_kicad_kut_passive_coils_shielded_smd_12_7\xD7\
       12_6mm/working"
     oomp_src_flat_github: "https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kut_kicad_kut_passive_coils_shielded_smd_12_7\xD7\
       12_6mm/working"
-    oomp_src_folder: "footprints_folder/footprints_folder/KUT-KiCad/KUT_Passive/Coils_Shielded_SMD_12.7\xD7\
-      12.6mm/working"
-    oomp_src_folder_github: "https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/KUT-KiCad/KUT_Passive/Coils_Shielded_SMD_12.7\xD7\
-      12.6mm/working"
   name: KUT_Passive.pretty
+  oomp:
+    footprint_name: "coils_shielded_smd_12_7\xD712_6mm"
+    library_name: kut_passive
+    md5: 4c3d6067df202ee0bc14a8d4a3239f50
+    md5_10: 4c3d6067df
+    md5_5: 4c3d6
+    md5_6: 4c3d60
+    oomp_key: "oomp_kut_kicad_kut_passive_coils_shielded_smd_12_7\xD712_6mm"
+    oomp_key_extra: "oomp_footprint_kut_kicad_kut_passive_coils_shielded_smd_12_7\xD7\
+      12_6mm"
+    oomp_key_full: "oomp_footprint_kut_kicad_kut_passive_coils_shielded_smd_12_7\xD7\
+      12_6mm_4c3d60"
+    oomp_key_simple: "kut_kicad_kut_passive_coils_shielded_smd_12_7\xD712_6mm"
+    original_filename: "KUT_Passive.pretty/Coils_Shielded_SMD_12.7\xD712.6mm.kicad_mod"
+    owner_name: kut_kicad
   oomp_key: "oomp_kut_kicad_kut_passive_coils_shielded_smd_12_7\xD712_6mm"
+  oomp_key_full: "oomp_footprint_kut_kicad_kut_passive_coils_shielded_smd_12_7\xD7\
+    12_6mm"
   oomp_key_simple: "kut_kicad_kut_passive_coils_shielded_smd_12_7\xD712_6mm"
   owner: KUT-KiCad
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/garrettsworkshop_stdpads_din41612_r_3x32_female_vertical_tht/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/garrettsworkshop_stdpads_din41612_r_3x32_female_vertical_tht/working
-    oomp_doc: footprints/footprints/garrettsworkshop/stdpads/DIN41612_R_3x32_Female_Vertical_THT/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/garrettsworkshop/stdpads/DIN41612_R_3x32_Female_Vertical_THT/working
     oomp_src_flat: footprints_flat/footprints_flat/garrettsworkshop_stdpads_din41612_r_3x32_female_vertical_tht/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/garrettsworkshop_stdpads_din41612_r_3x32_female_vertical_tht/working
-    oomp_src_folder: footprints_folder/footprints_folder/garrettsworkshop/stdpads/DIN41612_R_3x32_Female_Vertical_THT/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/garrettsworkshop/stdpads/DIN41612_R_3x32_Female_Vertical_THT/working
   name: stdpads.pretty
+  oomp:
+    footprint_name: din41612_r_3x32_female_vertical_tht
+    library_name: stdpads
+    md5: 565896937976727f46c4fcfd823971ab
+    md5_10: '5658969379'
+    md5_5: '56589'
+    md5_6: '565896'
+    oomp_key: oomp_garrettsworkshop_stdpads_din41612_r_3x32_female_vertical_tht
+    oomp_key_extra: oomp_footprint_garrettsworkshop_stdpads_din41612_r_3x32_female_vertical_tht
+    oomp_key_full: oomp_footprint_garrettsworkshop_stdpads_din41612_r_3x32_female_vertical_tht_565896
+    oomp_key_simple: garrettsworkshop_stdpads_din41612_r_3x32_female_vertical_tht
+    original_filename: stdpads.pretty/DIN41612_R_3x32_Female_Vertical_THT.kicad_mod
+    owner_name: garrettsworkshop
   oomp_key: oomp_garrettsworkshop_stdpads_din41612_r_3x32_female_vertical_tht
+  oomp_key_full: oomp_footprint_garrettsworkshop_stdpads_din41612_r_3x32_female_vertical_tht
   oomp_key_simple: garrettsworkshop_stdpads_din41612_r_3x32_female_vertical_tht
   owner: garrettsworkshop
   repo:

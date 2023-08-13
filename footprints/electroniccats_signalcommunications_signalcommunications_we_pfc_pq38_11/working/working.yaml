@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/electroniccats_signalcommunications_signalcommunications_we_pfc_pq38_11/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/electroniccats_signalcommunications_signalcommunications_we_pfc_pq38_11/working
-    oomp_doc: footprints/footprints/ElectronicCats/SignalCommunications/SignalCommunications-WE-PFC_PQ38_11/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ElectronicCats/SignalCommunications/SignalCommunications-WE-PFC_PQ38_11/working
     oomp_src_flat: footprints_flat/footprints_flat/electroniccats_signalcommunications_signalcommunications_we_pfc_pq38_11/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/electroniccats_signalcommunications_signalcommunications_we_pfc_pq38_11/working
-    oomp_src_folder: footprints_folder/footprints_folder/ElectronicCats/SignalCommunications/SignalCommunications-WE-PFC_PQ38_11/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ElectronicCats/SignalCommunications/SignalCommunications-WE-PFC_PQ38_11/working
   name: ComponentLibrariesKicadWurthElektronik
+  oomp:
+    footprint_name: signalcommunications_we_pfc_pq38_11
+    library_name: signalcommunications
+    md5: f6f4c1f0b7b1ca5c7ce6c4a7ad77bc12
+    md5_10: f6f4c1f0b7
+    md5_5: f6f4c
+    md5_6: f6f4c1
+    oomp_key: oomp_electroniccats_signalcommunications_signalcommunications_we_pfc_pq38_11
+    oomp_key_extra: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_pfc_pq38_11
+    oomp_key_full: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_pfc_pq38_11_f6f4c1
+    oomp_key_simple: electroniccats_signalcommunications_signalcommunications_we_pfc_pq38_11
+    original_filename: ComponentLibrariesKicadWurthElektronik/SIGNAL-COMMUNICATIONS-rev18a/SignalCommunications.pretty/SignalCommunications-WE-PFC_PQ38_11.kicad_mod
+    owner_name: electroniccats
   oomp_key: oomp_electroniccats_signalcommunications_signalcommunications_we_pfc_pq38_11
+  oomp_key_full: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_pfc_pq38_11
   oomp_key_simple: electroniccats_signalcommunications_signalcommunications_we_pfc_pq38_11
   owner: ElectronicCats
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pelrun_w_pth_diodes_diode_do35/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pelrun_w_pth_diodes_diode_do35/working
-    oomp_doc: footprints/footprints/pelrun/w_pth_diodes/diode_do35/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/pelrun/w_pth_diodes/diode_do35/working
     oomp_src_flat: footprints_flat/footprints_flat/pelrun_w_pth_diodes_diode_do35/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pelrun_w_pth_diodes_diode_do35/working
-    oomp_src_folder: footprints_folder/footprints_folder/pelrun/w_pth_diodes/diode_do35/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/pelrun/w_pth_diodes/diode_do35/working
   name: libKiCad
+  oomp:
+    footprint_name: diode_do35
+    library_name: w_pth_diodes
+    md5: a13bc4221f5971d7571114171abee5d8
+    md5_10: a13bc4221f
+    md5_5: a13bc
+    md5_6: a13bc4
+    oomp_key: oomp_pelrun_w_pth_diodes_diode_do35
+    oomp_key_extra: oomp_footprint_pelrun_w_pth_diodes_diode_do35
+    oomp_key_full: oomp_footprint_pelrun_w_pth_diodes_diode_do35_a13bc4
+    oomp_key_simple: pelrun_w_pth_diodes_diode_do35
+    original_filename: libKiCad/footprint/w_pth_diodes.pretty/diode_do35.kicad_mod
+    owner_name: pelrun
   oomp_key: oomp_pelrun_w_pth_diodes_diode_do35
+  oomp_key_full: oomp_footprint_pelrun_w_pth_diodes_diode_do35
   oomp_key_simple: pelrun_w_pth_diodes_diode_do35
   owner: pelrun
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/nathanielperkins_npfootprints_conn_harwin_6p/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nathanielperkins_npfootprints_conn_harwin_6p/working
-    oomp_doc: footprints/footprints/NathanielPerkins/NPFootprints/Conn-Harwin-6p/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/NathanielPerkins/NPFootprints/Conn-Harwin-6p/working
     oomp_src_flat: footprints_flat/footprints_flat/nathanielperkins_npfootprints_conn_harwin_6p/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nathanielperkins_npfootprints_conn_harwin_6p/working
-    oomp_src_folder: footprints_folder/footprints_folder/NathanielPerkins/NPFootprints/Conn-Harwin-6p/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/NathanielPerkins/NPFootprints/Conn-Harwin-6p/working
   name: NPFootprints.pretty
+  oomp:
+    footprint_name: conn_harwin_6p
+    library_name: npfootprints
+    md5: ed49973f56600ef9e316d9183e704c0b
+    md5_10: ed49973f56
+    md5_5: ed499
+    md5_6: ed4997
+    oomp_key: oomp_nathanielperkins_npfootprints_conn_harwin_6p
+    oomp_key_extra: oomp_footprint_nathanielperkins_npfootprints_conn_harwin_6p
+    oomp_key_full: oomp_footprint_nathanielperkins_npfootprints_conn_harwin_6p_ed4997
+    oomp_key_simple: nathanielperkins_npfootprints_conn_harwin_6p
+    original_filename: NPFootprints.pretty/Conn-Harwin-6p.kicad_mod
+    owner_name: nathanielperkins
   oomp_key: oomp_nathanielperkins_npfootprints_conn_harwin_6p
+  oomp_key_full: oomp_footprint_nathanielperkins_npfootprints_conn_harwin_6p
   oomp_key_simple: nathanielperkins_npfootprints_conn_harwin_6p
   owner: NathanielPerkins
   repo:

@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/adamgreig/agg-kicad
     oomp_bot: footprints/adamgreig_agg_sma_pth/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/adamgreig_agg_sma_pth/working
-    oomp_doc: footprints/footprints/adamgreig/agg/SMA-PTH/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/adamgreig/agg/SMA-PTH/working
     oomp_src_flat: footprints_flat/footprints_flat/adamgreig_agg_sma_pth/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/adamgreig_agg_sma_pth/working
-    oomp_src_folder: footprints_folder/footprints_folder/adamgreig/agg/SMA-PTH/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/adamgreig/agg/SMA-PTH/working
   name: agg-kicad
+  oomp:
+    footprint_name: sma_pth
+    library_name: agg
+    md5: 2c580756a98f916fe90ddee150f60fc2
+    md5_10: 2c580756a9
+    md5_5: 2c580
+    md5_6: 2c5807
+    oomp_key: oomp_adamgreig_agg_sma_pth
+    oomp_key_extra: oomp_footprint_adamgreig_agg_sma_pth
+    oomp_key_full: oomp_footprint_adamgreig_agg_sma_pth_2c5807
+    oomp_key_simple: adamgreig_agg_sma_pth
+    original_filename: agg-kicad/agg.pretty/SMA-PTH.kicad_mod
+    owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_sma_pth
+  oomp_key_full: oomp_footprint_adamgreig_agg_sma_pth
   oomp_key_simple: adamgreig_agg_sma_pth
   owner: adamgreig
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/jeff_russ_kicad_fuse_ptc_18x5mm_10mmp/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/jeff_russ_kicad_fuse_ptc_18x5mm_10mmp/working
-    oomp_doc: footprints/footprints/Jeff-Russ/Kicad/FUSE_PTC_18X5MM_10MMP/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Jeff-Russ/Kicad/FUSE_PTC_18X5MM_10MMP/working
     oomp_src_flat: footprints_flat/footprints_flat/jeff_russ_kicad_fuse_ptc_18x5mm_10mmp/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/jeff_russ_kicad_fuse_ptc_18x5mm_10mmp/working
-    oomp_src_folder: footprints_folder/footprints_folder/Jeff-Russ/Kicad/FUSE_PTC_18X5MM_10MMP/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Jeff-Russ/Kicad/FUSE_PTC_18X5MM_10MMP/working
   name: Kicad.pretty
+  oomp:
+    footprint_name: fuse_ptc_18x5mm_10mmp
+    library_name: kicad
+    md5: ec6e8d81be3fe7801afa9512a9ec6136
+    md5_10: ec6e8d81be
+    md5_5: ec6e8
+    md5_6: ec6e8d
+    oomp_key: oomp_jeff_russ_kicad_fuse_ptc_18x5mm_10mmp
+    oomp_key_extra: oomp_footprint_jeff_russ_kicad_fuse_ptc_18x5mm_10mmp
+    oomp_key_full: oomp_footprint_jeff_russ_kicad_fuse_ptc_18x5mm_10mmp_ec6e8d
+    oomp_key_simple: jeff_russ_kicad_fuse_ptc_18x5mm_10mmp
+    original_filename: Kicad.pretty/FUSE_PTC_18X5MM_10MMP.kicad_mod
+    owner_name: jeff_russ
   oomp_key: oomp_jeff_russ_kicad_fuse_ptc_18x5mm_10mmp
+  oomp_key_full: oomp_footprint_jeff_russ_kicad_fuse_ptc_18x5mm_10mmp
   oomp_key_simple: jeff_russ_kicad_fuse_ptc_18x5mm_10mmp
   owner: Jeff-Russ
   repo:

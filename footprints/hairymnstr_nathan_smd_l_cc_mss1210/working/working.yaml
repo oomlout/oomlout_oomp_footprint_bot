@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/hairymnstr_nathan_smd_l_cc_mss1210/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/hairymnstr_nathan_smd_l_cc_mss1210/working
-    oomp_doc: footprints/footprints/hairymnstr/Nathan_SMD/L_CC_MSS1210/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/hairymnstr/Nathan_SMD/L_CC_MSS1210/working
     oomp_src_flat: footprints_flat/footprints_flat/hairymnstr_nathan_smd_l_cc_mss1210/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/hairymnstr_nathan_smd_l_cc_mss1210/working
-    oomp_src_folder: footprints_folder/footprints_folder/hairymnstr/Nathan_SMD/L_CC_MSS1210/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/hairymnstr/Nathan_SMD/L_CC_MSS1210/working
   name: Nathan_SMD.pretty
+  oomp:
+    footprint_name: l_cc_mss1210
+    library_name: nathan_smd
+    md5: 130b1b7082e585996dfc4e2b96227f1e
+    md5_10: 130b1b7082
+    md5_5: 130b1
+    md5_6: 130b1b
+    oomp_key: oomp_hairymnstr_nathan_smd_l_cc_mss1210
+    oomp_key_extra: oomp_footprint_hairymnstr_nathan_smd_l_cc_mss1210
+    oomp_key_full: oomp_footprint_hairymnstr_nathan_smd_l_cc_mss1210_130b1b
+    oomp_key_simple: hairymnstr_nathan_smd_l_cc_mss1210
+    original_filename: Nathan_SMD.pretty/L_CC_MSS1210.kicad_mod
+    owner_name: hairymnstr
   oomp_key: oomp_hairymnstr_nathan_smd_l_cc_mss1210
+  oomp_key_full: oomp_footprint_hairymnstr_nathan_smd_l_cc_mss1210
   oomp_key_simple: hairymnstr_nathan_smd_l_cc_mss1210
   owner: hairymnstr
   repo:

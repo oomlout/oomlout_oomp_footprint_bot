@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/garrettsworkshop_stdpads_sop_32_450mil/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/garrettsworkshop_stdpads_sop_32_450mil/working
-    oomp_doc: footprints/footprints/garrettsworkshop/stdpads/SOP-32_450mil/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/garrettsworkshop/stdpads/SOP-32_450mil/working
     oomp_src_flat: footprints_flat/footprints_flat/garrettsworkshop_stdpads_sop_32_450mil/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/garrettsworkshop_stdpads_sop_32_450mil/working
-    oomp_src_folder: footprints_folder/footprints_folder/garrettsworkshop/stdpads/SOP-32_450mil/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/garrettsworkshop/stdpads/SOP-32_450mil/working
   name: stdpads.pretty
+  oomp:
+    footprint_name: sop_32_450mil
+    library_name: stdpads
+    md5: bb0de82bf4139605c728113496f090b2
+    md5_10: bb0de82bf4
+    md5_5: bb0de
+    md5_6: bb0de8
+    oomp_key: oomp_garrettsworkshop_stdpads_sop_32_450mil
+    oomp_key_extra: oomp_footprint_garrettsworkshop_stdpads_sop_32_450mil
+    oomp_key_full: oomp_footprint_garrettsworkshop_stdpads_sop_32_450mil_bb0de8
+    oomp_key_simple: garrettsworkshop_stdpads_sop_32_450mil
+    original_filename: stdpads.pretty/SOP-32_450mil.kicad_mod
+    owner_name: garrettsworkshop
   oomp_key: oomp_garrettsworkshop_stdpads_sop_32_450mil
+  oomp_key_full: oomp_footprint_garrettsworkshop_stdpads_sop_32_450mil
   oomp_key_simple: garrettsworkshop_stdpads_sop_32_450mil
   owner: garrettsworkshop
   repo:

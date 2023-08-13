@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/garrettsworkshop_stdpads_boomele_dc_005_dc_5_5_2_0mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/garrettsworkshop_stdpads_boomele_dc_005_dc_5_5_2_0mm/working
-    oomp_doc: footprints/footprints/garrettsworkshop/stdpads/BOOMELE_DC-005_DC_5.5-2.0MM/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/garrettsworkshop/stdpads/BOOMELE_DC-005_DC_5.5-2.0MM/working
     oomp_src_flat: footprints_flat/footprints_flat/garrettsworkshop_stdpads_boomele_dc_005_dc_5_5_2_0mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/garrettsworkshop_stdpads_boomele_dc_005_dc_5_5_2_0mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/garrettsworkshop/stdpads/BOOMELE_DC-005_DC_5.5-2.0MM/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/garrettsworkshop/stdpads/BOOMELE_DC-005_DC_5.5-2.0MM/working
   name: stdpads.pretty
+  oomp:
+    footprint_name: boomele_dc_005_dc_5_5_2_0mm
+    library_name: stdpads
+    md5: 98db82fa033c79e958e58f76f46a6c57
+    md5_10: 98db82fa03
+    md5_5: 98db8
+    md5_6: 98db82
+    oomp_key: oomp_garrettsworkshop_stdpads_boomele_dc_005_dc_5_5_2_0mm
+    oomp_key_extra: oomp_footprint_garrettsworkshop_stdpads_boomele_dc_005_dc_5_5_2_0mm
+    oomp_key_full: oomp_footprint_garrettsworkshop_stdpads_boomele_dc_005_dc_5_5_2_0mm_98db82
+    oomp_key_simple: garrettsworkshop_stdpads_boomele_dc_005_dc_5_5_2_0mm
+    original_filename: stdpads.pretty/BOOMELE_DC-005_DC_5.5-2.0MM.kicad_mod
+    owner_name: garrettsworkshop
   oomp_key: oomp_garrettsworkshop_stdpads_boomele_dc_005_dc_5_5_2_0mm
+  oomp_key_full: oomp_footprint_garrettsworkshop_stdpads_boomele_dc_005_dc_5_5_2_0mm
   oomp_key_simple: garrettsworkshop_stdpads_boomele_dc_005_dc_5_5_2_0mm
   owner: garrettsworkshop
   repo:

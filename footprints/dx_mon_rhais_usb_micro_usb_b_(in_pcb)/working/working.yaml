@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/dx_mon_rhais_usb_micro_usb_b_(in_pcb)/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/dx_mon_rhais_usb_micro_usb_b_(in_pcb)/working
-    oomp_doc: footprints/footprints/DX-MON/rhais_usb/MICRO-USB-B-(IN_PCB)/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/DX-MON/rhais_usb/MICRO-USB-B-(IN_PCB)/working
     oomp_src_flat: footprints_flat/footprints_flat/dx_mon_rhais_usb_micro_usb_b_(in_pcb)/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/dx_mon_rhais_usb_micro_usb_b_(in_pcb)/working
-    oomp_src_folder: footprints_folder/footprints_folder/DX-MON/rhais_usb/MICRO-USB-B-(IN_PCB)/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/DX-MON/rhais_usb/MICRO-USB-B-(IN_PCB)/working
   name: rhais_usb.pretty
+  oomp:
+    footprint_name: micro_usb_b_(in_pcb)
+    library_name: rhais_usb
+    md5: cf146cada334175d335439df664be7f7
+    md5_10: cf146cada3
+    md5_5: cf146
+    md5_6: cf146c
+    oomp_key: oomp_dx_mon_rhais_usb_micro_usb_b_(in_pcb)
+    oomp_key_extra: oomp_footprint_dx_mon_rhais_usb_micro_usb_b_(in_pcb)
+    oomp_key_full: oomp_footprint_dx_mon_rhais_usb_micro_usb_b_(in_pcb)_cf146c
+    oomp_key_simple: dx_mon_rhais_usb_micro_usb_b_(in_pcb)
+    original_filename: rhais_usb.pretty/MICRO-USB-B-(IN_PCB).kicad_mod
+    owner_name: dx_mon
   oomp_key: oomp_dx_mon_rhais_usb_micro_usb_b_(in_pcb)
+  oomp_key_full: oomp_footprint_dx_mon_rhais_usb_micro_usb_b_(in_pcb)
   oomp_key_simple: dx_mon_rhais_usb_micro_usb_b_(in_pcb)
   owner: DX-MON
   repo:

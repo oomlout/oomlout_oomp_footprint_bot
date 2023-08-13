@@ -14,14 +14,24 @@
     github_src_repo: https://github.com/arturo182/kicad-modules
     oomp_bot: footprints/arturo182_package_bga_extra_bga_289_14x14mm_layout17x17_p0_8mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/arturo182_package_bga_extra_bga_289_14x14mm_layout17x17_p0_8mm/working
-    oomp_doc: footprints/footprints/arturo182/Package_BGA_Extra/BGA-289_14x14mm_Layout17x17_P0.8mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/arturo182/Package_BGA_Extra/BGA-289_14x14mm_Layout17x17_P0.8mm/working
     oomp_src_flat: footprints_flat/footprints_flat/arturo182_package_bga_extra_bga_289_14x14mm_layout17x17_p0_8mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/arturo182_package_bga_extra_bga_289_14x14mm_layout17x17_p0_8mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/arturo182/Package_BGA_Extra/BGA-289_14x14mm_Layout17x17_P0.8mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/arturo182/Package_BGA_Extra/BGA-289_14x14mm_Layout17x17_P0.8mm/working
   name: kicad-modules
+  oomp:
+    footprint_name: bga_289_14x14mm_layout17x17_p0_8mm
+    library_name: package_bga_extra
+    md5: 78d1934ceb75a08537f17afd05eba11d
+    md5_10: 78d1934ceb
+    md5_5: 78d19
+    md5_6: 78d193
+    oomp_key: oomp_arturo182_package_bga_extra_bga_289_14x14mm_layout17x17_p0_8mm
+    oomp_key_extra: oomp_footprint_arturo182_package_bga_extra_bga_289_14x14mm_layout17x17_p0_8mm
+    oomp_key_full: oomp_footprint_arturo182_package_bga_extra_bga_289_14x14mm_layout17x17_p0_8mm_78d193
+    oomp_key_simple: arturo182_package_bga_extra_bga_289_14x14mm_layout17x17_p0_8mm
+    original_filename: kicad-modules/Package_BGA_Extra.pretty/BGA-289_14x14mm_Layout17x17_P0.8mm.kicad_mod
+    owner_name: arturo182
   oomp_key: oomp_arturo182_package_bga_extra_bga_289_14x14mm_layout17x17_p0_8mm
+  oomp_key_full: oomp_footprint_arturo182_package_bga_extra_bga_289_14x14mm_layout17x17_p0_8mm
   oomp_key_simple: arturo182_package_bga_extra_bga_289_14x14mm_layout17x17_p0_8mm
   owner: arturo182
   repo:

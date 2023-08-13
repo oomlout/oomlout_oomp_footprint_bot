@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cvra_logo_cvra_logo_small/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cvra_logo_cvra_logo_small/working
-    oomp_doc: footprints/footprints/cvra/_logo/CVRA-logo-small/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cvra/_logo/CVRA-logo-small/working
     oomp_src_flat: footprints_flat/footprints_flat/cvra_logo_cvra_logo_small/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cvra_logo_cvra_logo_small/working
-    oomp_src_folder: footprints_folder/footprints_folder/cvra/_logo/CVRA-logo-small/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cvra/_logo/CVRA-logo-small/working
   name: kicad-lib
+  oomp:
+    footprint_name: cvra_logo_small
+    library_name: _logo
+    md5: 53126289abaf70fb720eab3e31f836e1
+    md5_10: 53126289ab
+    md5_5: '53126'
+    md5_6: '531262'
+    oomp_key: oomp_cvra_logo_cvra_logo_small
+    oomp_key_extra: oomp_footprint_cvra_logo_cvra_logo_small
+    oomp_key_full: oomp_footprint_cvra_logo_cvra_logo_small_531262
+    oomp_key_simple: cvra_logo_cvra_logo_small
+    original_filename: kicad-lib/footprints/_logo.pretty/CVRA-logo-small.kicad_mod
+    owner_name: cvra
   oomp_key: oomp_cvra_logo_cvra_logo_small
+  oomp_key_full: oomp_footprint_cvra_logo_cvra_logo_small
   oomp_key_simple: cvra_logo_cvra_logo_small
   owner: cvra
   repo:

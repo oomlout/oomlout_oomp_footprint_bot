@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cuzdaori_kicad_capacitor_tantalum_b/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cuzdaori_kicad_capacitor_tantalum_b/working
-    oomp_doc: footprints/footprints/cuzdaori/KiCad/CAPACITOR_TANTALUM_B/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cuzdaori/KiCad/CAPACITOR_TANTALUM_B/working
     oomp_src_flat: footprints_flat/footprints_flat/cuzdaori_kicad_capacitor_tantalum_b/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cuzdaori_kicad_capacitor_tantalum_b/working
-    oomp_src_folder: footprints_folder/footprints_folder/cuzdaori/KiCad/CAPACITOR_TANTALUM_B/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cuzdaori/KiCad/CAPACITOR_TANTALUM_B/working
   name: KiCad.pretty
+  oomp:
+    footprint_name: capacitor_tantalum_b
+    library_name: kicad
+    md5: fc7e29937178286343717e647a0b2377
+    md5_10: fc7e299371
+    md5_5: fc7e2
+    md5_6: fc7e29
+    oomp_key: oomp_cuzdaori_kicad_capacitor_tantalum_b
+    oomp_key_extra: oomp_footprint_cuzdaori_kicad_capacitor_tantalum_b
+    oomp_key_full: oomp_footprint_cuzdaori_kicad_capacitor_tantalum_b_fc7e29
+    oomp_key_simple: cuzdaori_kicad_capacitor_tantalum_b
+    original_filename: KiCad.pretty/CAPACITOR_TANTALUM_B.kicad_mod
+    owner_name: cuzdaori
   oomp_key: oomp_cuzdaori_kicad_capacitor_tantalum_b
+  oomp_key_full: oomp_footprint_cuzdaori_kicad_capacitor_tantalum_b
   oomp_key_simple: cuzdaori_kicad_capacitor_tantalum_b
   owner: cuzdaori
   repo:

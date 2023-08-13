@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/ojousima_test_points_tp5000/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ojousima_test_points_tp5000/working
-    oomp_doc: footprints/footprints/ojousima/Test_points/TP5000/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ojousima/Test_points/TP5000/working
     oomp_src_flat: footprints_flat/footprints_flat/ojousima_test_points_tp5000/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ojousima_test_points_tp5000/working
-    oomp_src_folder: footprints_folder/footprints_folder/ojousima/Test_points/TP5000/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ojousima/Test_points/TP5000/working
   name: Test_points.pretty
+  oomp:
+    footprint_name: tp5000
+    library_name: test_points
+    md5: 9299ef60de13d736611f69449d47ac04
+    md5_10: 9299ef60de
+    md5_5: 9299e
+    md5_6: 9299ef
+    oomp_key: oomp_ojousima_test_points_tp5000
+    oomp_key_extra: oomp_footprint_ojousima_test_points_tp5000
+    oomp_key_full: oomp_footprint_ojousima_test_points_tp5000_9299ef
+    oomp_key_simple: ojousima_test_points_tp5000
+    original_filename: Test_points.pretty/TP5000.kicad_mod
+    owner_name: ojousima
   oomp_key: oomp_ojousima_test_points_tp5000
+  oomp_key_full: oomp_footprint_ojousima_test_points_tp5000
   oomp_key_simple: ojousima_test_points_tp5000
   owner: ojousima
   repo:

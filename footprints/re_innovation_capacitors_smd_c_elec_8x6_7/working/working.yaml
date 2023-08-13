@@ -13,14 +13,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/re_innovation_capacitors_smd_c_elec_8x6_7/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/re_innovation_capacitors_smd_c_elec_8x6_7/working
-    oomp_doc: footprints/footprints/re-innovation/Capacitors_SMD/c_elec_8x6.7/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/re-innovation/Capacitors_SMD/c_elec_8x6.7/working
     oomp_src_flat: footprints_flat/footprints_flat/re_innovation_capacitors_smd_c_elec_8x6_7/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/re_innovation_capacitors_smd_c_elec_8x6_7/working
-    oomp_src_folder: footprints_folder/footprints_folder/re-innovation/Capacitors_SMD/c_elec_8x6.7/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/re-innovation/Capacitors_SMD/c_elec_8x6.7/working
   name: kicad_reinnovation
+  oomp:
+    footprint_name: c_elec_8x6_7
+    library_name: capacitors_smd
+    md5: 221f30c6c18b14c70b0aac56020d614f
+    md5_10: 221f30c6c1
+    md5_5: 221f3
+    md5_6: 221f30
+    oomp_key: oomp_re_innovation_capacitors_smd_c_elec_8x6_7
+    oomp_key_extra: oomp_footprint_re_innovation_capacitors_smd_c_elec_8x6_7
+    oomp_key_full: oomp_footprint_re_innovation_capacitors_smd_c_elec_8x6_7_221f30
+    oomp_key_simple: re_innovation_capacitors_smd_c_elec_8x6_7
+    original_filename: kicad_reinnovation/KiCAD PRETTY/Capacitors_SMD.pretty/c_elec_8x6.7.kicad_mod
+    owner_name: re_innovation
   oomp_key: oomp_re_innovation_capacitors_smd_c_elec_8x6_7
+  oomp_key_full: oomp_footprint_re_innovation_capacitors_smd_c_elec_8x6_7
   oomp_key_simple: re_innovation_capacitors_smd_c_elec_8x6_7
   owner: re-innovation
   repo:

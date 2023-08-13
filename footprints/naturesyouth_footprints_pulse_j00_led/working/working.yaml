@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/naturesyouth_footprints_pulse_j00_led/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/naturesyouth_footprints_pulse_j00_led/working
-    oomp_doc: footprints/footprints/naturesyouth/Footprints/Pulse-J00-LED/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/naturesyouth/Footprints/Pulse-J00-LED/working
     oomp_src_flat: footprints_flat/footprints_flat/naturesyouth_footprints_pulse_j00_led/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/naturesyouth_footprints_pulse_j00_led/working
-    oomp_src_folder: footprints_folder/footprints_folder/naturesyouth/Footprints/Pulse-J00-LED/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/naturesyouth/Footprints/Pulse-J00-LED/working
   name: Footprints.pretty
+  oomp:
+    footprint_name: pulse_j00_led
+    library_name: footprints
+    md5: e8f7d717c8013da99183c1679c8eb6b9
+    md5_10: e8f7d717c8
+    md5_5: e8f7d
+    md5_6: e8f7d7
+    oomp_key: oomp_naturesyouth_footprints_pulse_j00_led
+    oomp_key_extra: oomp_footprint_naturesyouth_footprints_pulse_j00_led
+    oomp_key_full: oomp_footprint_naturesyouth_footprints_pulse_j00_led_e8f7d7
+    oomp_key_simple: naturesyouth_footprints_pulse_j00_led
+    original_filename: Footprints.pretty/Pulse-J00-LED.kicad_mod
+    owner_name: naturesyouth
   oomp_key: oomp_naturesyouth_footprints_pulse_j00_led
+  oomp_key_full: oomp_footprint_naturesyouth_footprints_pulse_j00_led
   oomp_key_simple: naturesyouth_footprints_pulse_j00_led
   owner: naturesyouth
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pelrun_w_smd_leds_multi_rebel_xp/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pelrun_w_smd_leds_multi_rebel_xp/working
-    oomp_doc: footprints/footprints/pelrun/w_smd_leds/Multi_Rebel+XP/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/pelrun/w_smd_leds/Multi_Rebel+XP/working
     oomp_src_flat: footprints_flat/footprints_flat/pelrun_w_smd_leds_multi_rebel_xp/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pelrun_w_smd_leds_multi_rebel_xp/working
-    oomp_src_folder: footprints_folder/footprints_folder/pelrun/w_smd_leds/Multi_Rebel+XP/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/pelrun/w_smd_leds/Multi_Rebel+XP/working
   name: libKiCad
+  oomp:
+    footprint_name: multi_rebel_xp
+    library_name: w_smd_leds
+    md5: 2a270bd4d3e1a2fdcba2ac5e49793ec9
+    md5_10: 2a270bd4d3
+    md5_5: 2a270
+    md5_6: 2a270b
+    oomp_key: oomp_pelrun_w_smd_leds_multi_rebel_xp
+    oomp_key_extra: oomp_footprint_pelrun_w_smd_leds_multi_rebel_xp
+    oomp_key_full: oomp_footprint_pelrun_w_smd_leds_multi_rebel_xp_2a270b
+    oomp_key_simple: pelrun_w_smd_leds_multi_rebel_xp
+    original_filename: libKiCad/footprint/w_smd_leds.pretty/Multi_Rebel+XP.kicad_mod
+    owner_name: pelrun
   oomp_key: oomp_pelrun_w_smd_leds_multi_rebel_xp
+  oomp_key_full: oomp_footprint_pelrun_w_smd_leds_multi_rebel_xp
   oomp_key_simple: pelrun_w_smd_leds_multi_rebel_xp
   owner: pelrun
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/rocketscream_rocketscreamkicadlibrary_rf_sma_edge_without_feed/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/rocketscream_rocketscreamkicadlibrary_rf_sma_edge_without_feed/working
-    oomp_doc: footprints/footprints/rocketscream/RocketScreamKicadLibrary/RF-SMA-EDGE_Without_Feed/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/rocketscream/RocketScreamKicadLibrary/RF-SMA-EDGE_Without_Feed/working
     oomp_src_flat: footprints_flat/footprints_flat/rocketscream_rocketscreamkicadlibrary_rf_sma_edge_without_feed/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/rocketscream_rocketscreamkicadlibrary_rf_sma_edge_without_feed/working
-    oomp_src_folder: footprints_folder/footprints_folder/rocketscream/RocketScreamKicadLibrary/RF-SMA-EDGE_Without_Feed/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/rocketscream/RocketScreamKicadLibrary/RF-SMA-EDGE_Without_Feed/working
   name: RocketScreamKicadLibrary
+  oomp:
+    footprint_name: rf_sma_edge_without_feed
+    library_name: rocketscreamkicadlibrary
+    md5: 4ae34271f2094787940f9649f8813487
+    md5_10: 4ae34271f2
+    md5_5: 4ae34
+    md5_6: 4ae342
+    oomp_key: oomp_rocketscream_rocketscreamkicadlibrary_rf_sma_edge_without_feed
+    oomp_key_extra: oomp_footprint_rocketscream_rocketscreamkicadlibrary_rf_sma_edge_without_feed
+    oomp_key_full: oomp_footprint_rocketscream_rocketscreamkicadlibrary_rf_sma_edge_without_feed_4ae342
+    oomp_key_simple: rocketscream_rocketscreamkicadlibrary_rf_sma_edge_without_feed
+    original_filename: RocketScreamKicadLibrary/RocketScreamKicadLibrary.pretty/RF-SMA-EDGE_Without_Feed.kicad_mod
+    owner_name: rocketscream
   oomp_key: oomp_rocketscream_rocketscreamkicadlibrary_rf_sma_edge_without_feed
+  oomp_key_full: oomp_footprint_rocketscream_rocketscreamkicadlibrary_rf_sma_edge_without_feed
   oomp_key_simple: rocketscream_rocketscreamkicadlibrary_rf_sma_edge_without_feed
   owner: rocketscream
   repo:

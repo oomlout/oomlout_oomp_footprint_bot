@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pelrun_w_relay_relay_40_52_socket/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pelrun_w_relay_relay_40_52_socket/working
-    oomp_doc: footprints/footprints/pelrun/w_relay/relay_40.52_socket/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/pelrun/w_relay/relay_40.52_socket/working
     oomp_src_flat: footprints_flat/footprints_flat/pelrun_w_relay_relay_40_52_socket/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pelrun_w_relay_relay_40_52_socket/working
-    oomp_src_folder: footprints_folder/footprints_folder/pelrun/w_relay/relay_40.52_socket/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/pelrun/w_relay/relay_40.52_socket/working
   name: libKiCad
+  oomp:
+    footprint_name: relay_40_52_socket
+    library_name: w_relay
+    md5: 4ebc064b6821aaa5d5384aec49f23a21
+    md5_10: 4ebc064b68
+    md5_5: 4ebc0
+    md5_6: 4ebc06
+    oomp_key: oomp_pelrun_w_relay_relay_40_52_socket
+    oomp_key_extra: oomp_footprint_pelrun_w_relay_relay_40_52_socket
+    oomp_key_full: oomp_footprint_pelrun_w_relay_relay_40_52_socket_4ebc06
+    oomp_key_simple: pelrun_w_relay_relay_40_52_socket
+    original_filename: libKiCad/footprint/w_relay.pretty/relay_40.52_socket.kicad_mod
+    owner_name: pelrun
   oomp_key: oomp_pelrun_w_relay_relay_40_52_socket
+  oomp_key_full: oomp_footprint_pelrun_w_relay_relay_40_52_socket
   oomp_key_simple: pelrun_w_relay_relay_40_52_socket
   owner: pelrun
   repo:

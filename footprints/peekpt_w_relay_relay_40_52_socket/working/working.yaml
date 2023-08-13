@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/peekpt_w_relay_relay_40_52_socket/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/peekpt_w_relay_relay_40_52_socket/working
-    oomp_doc: footprints/footprints/peekpt/w_relay/relay_40.52_socket/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/peekpt/w_relay/relay_40.52_socket/working
     oomp_src_flat: footprints_flat/footprints_flat/peekpt_w_relay_relay_40_52_socket/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/peekpt_w_relay_relay_40_52_socket/working
-    oomp_src_folder: footprints_folder/footprints_folder/peekpt/w_relay/relay_40.52_socket/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/peekpt/w_relay/relay_40.52_socket/working
   name: kicad_smisioto
+  oomp:
+    footprint_name: relay_40_52_socket
+    library_name: w_relay
+    md5: 7ae2d5586f0d4948fda41b1c8e8bdb45
+    md5_10: 7ae2d5586f
+    md5_5: 7ae2d
+    md5_6: 7ae2d5
+    oomp_key: oomp_peekpt_w_relay_relay_40_52_socket
+    oomp_key_extra: oomp_footprint_peekpt_w_relay_relay_40_52_socket
+    oomp_key_full: oomp_footprint_peekpt_w_relay_relay_40_52_socket_7ae2d5
+    oomp_key_simple: peekpt_w_relay_relay_40_52_socket
+    original_filename: kicad_smisioto/modules/walter/w_relay.pretty/relay_40.52_socket.kicad_mod
+    owner_name: peekpt
   oomp_key: oomp_peekpt_w_relay_relay_40_52_socket
+  oomp_key_full: oomp_footprint_peekpt_w_relay_relay_40_52_socket
   oomp_key_simple: peekpt_w_relay_relay_40_52_socket
   owner: peekpt
   repo:

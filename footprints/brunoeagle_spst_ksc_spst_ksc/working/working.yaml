@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_spst_ksc_spst_ksc/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_spst_ksc_spst_ksc/working
-    oomp_doc: footprints/footprints/brunoeagle/SPST_KSC.kicad_mod/SPST_KSC/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/SPST_KSC.kicad_mod/SPST_KSC/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_spst_ksc_spst_ksc/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_spst_ksc_spst_ksc/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/SPST_KSC.kicad_mod/SPST_KSC/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/SPST_KSC.kicad_mod/SPST_KSC/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: spst_ksc
+    library_name: spst_ksc_kicad_mod
+    md5: e6724af7b929eb2761a094e8a09ff9b7
+    md5_10: e6724af7b9
+    md5_5: e6724
+    md5_6: e6724a
+    oomp_key: oomp_brunoeagle_spst_ksc_spst_ksc
+    oomp_key_extra: oomp_footprint_brunoeagle_spst_ksc_spst_ksc
+    oomp_key_full: oomp_footprint_brunoeagle_spst_ksc_spst_ksc_e6724a
+    oomp_key_simple: brunoeagle_spst_ksc_spst_ksc
+    original_filename: kicad-open-modules/SPST_KSC.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_spst_ksc_spst_ksc
+  oomp_key_full: oomp_footprint_brunoeagle_spst_ksc_spst_ksc
   oomp_key_simple: brunoeagle_spst_ksc_spst_ksc
   owner: brunoeagle
   repo:

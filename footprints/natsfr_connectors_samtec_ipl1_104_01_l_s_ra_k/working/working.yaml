@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/natsfr_connectors_samtec_ipl1_104_01_l_s_ra_k/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/natsfr_connectors_samtec_ipl1_104_01_l_s_ra_k/working
-    oomp_doc: footprints/footprints/natsfr/Connectors_SAMTEC/IPL1-104-01-L-S-RA-K/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/natsfr/Connectors_SAMTEC/IPL1-104-01-L-S-RA-K/working
     oomp_src_flat: footprints_flat/footprints_flat/natsfr_connectors_samtec_ipl1_104_01_l_s_ra_k/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/natsfr_connectors_samtec_ipl1_104_01_l_s_ra_k/working
-    oomp_src_folder: footprints_folder/footprints_folder/natsfr/Connectors_SAMTEC/IPL1-104-01-L-S-RA-K/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/natsfr/Connectors_SAMTEC/IPL1-104-01-L-S-RA-K/working
   name: kicad-components
+  oomp:
+    footprint_name: ipl1_104_01_l_s_ra_k
+    library_name: connectors_samtec
+    md5: 434287492f312349a03912f339f5d43b
+    md5_10: 434287492f
+    md5_5: '43428'
+    md5_6: '434287'
+    oomp_key: oomp_natsfr_connectors_samtec_ipl1_104_01_l_s_ra_k
+    oomp_key_extra: oomp_footprint_natsfr_connectors_samtec_ipl1_104_01_l_s_ra_k
+    oomp_key_full: oomp_footprint_natsfr_connectors_samtec_ipl1_104_01_l_s_ra_k_434287
+    oomp_key_simple: natsfr_connectors_samtec_ipl1_104_01_l_s_ra_k
+    original_filename: kicad-components/Pretty_Footprints/Connectors_SAMTEC.pretty/IPL1-104-01-L-S-RA-K.kicad_mod
+    owner_name: natsfr
   oomp_key: oomp_natsfr_connectors_samtec_ipl1_104_01_l_s_ra_k
+  oomp_key_full: oomp_footprint_natsfr_connectors_samtec_ipl1_104_01_l_s_ra_k
   oomp_key_simple: natsfr_connectors_samtec_ipl1_104_01_l_s_ra_k
   owner: natsfr
   repo:

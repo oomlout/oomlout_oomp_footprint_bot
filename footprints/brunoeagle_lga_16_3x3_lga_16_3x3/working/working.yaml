@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_lga_16_3x3_lga_16_3x3/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_lga_16_3x3_lga_16_3x3/working
-    oomp_doc: footprints/footprints/brunoeagle/LGA-16-3x3.kicad_mod/LGA-16-3x3/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/LGA-16-3x3.kicad_mod/LGA-16-3x3/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_lga_16_3x3_lga_16_3x3/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_lga_16_3x3_lga_16_3x3/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/LGA-16-3x3.kicad_mod/LGA-16-3x3/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/LGA-16-3x3.kicad_mod/LGA-16-3x3/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: lga_16_3x3
+    library_name: lga_16_3x3_kicad_mod
+    md5: a10d61b8711629e7f1356cfa0b958074
+    md5_10: a10d61b871
+    md5_5: a10d6
+    md5_6: a10d61
+    oomp_key: oomp_brunoeagle_lga_16_3x3_lga_16_3x3
+    oomp_key_extra: oomp_footprint_brunoeagle_lga_16_3x3_lga_16_3x3
+    oomp_key_full: oomp_footprint_brunoeagle_lga_16_3x3_lga_16_3x3_a10d61
+    oomp_key_simple: brunoeagle_lga_16_3x3_lga_16_3x3
+    original_filename: kicad-open-modules/LGA-16-3x3.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_lga_16_3x3_lga_16_3x3
+  oomp_key_full: oomp_footprint_brunoeagle_lga_16_3x3_lga_16_3x3
   oomp_key_simple: brunoeagle_lga_16_3x3_lga_16_3x3
   owner: brunoeagle
   repo:

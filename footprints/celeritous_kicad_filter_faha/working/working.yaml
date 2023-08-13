@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/celeritous_kicad_filter_faha/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/celeritous_kicad_filter_faha/working
-    oomp_doc: footprints/footprints/celeritous/KiCad/FILTER_FAHA/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/celeritous/KiCad/FILTER_FAHA/working
     oomp_src_flat: footprints_flat/footprints_flat/celeritous_kicad_filter_faha/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/celeritous_kicad_filter_faha/working
-    oomp_src_folder: footprints_folder/footprints_folder/celeritous/KiCad/FILTER_FAHA/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/celeritous/KiCad/FILTER_FAHA/working
   name: KiCad.pretty
+  oomp:
+    footprint_name: filter_faha
+    library_name: kicad
+    md5: 9ea7ac49f32c9021363ac34b78d08b7a
+    md5_10: 9ea7ac49f3
+    md5_5: 9ea7a
+    md5_6: 9ea7ac
+    oomp_key: oomp_celeritous_kicad_filter_faha
+    oomp_key_extra: oomp_footprint_celeritous_kicad_filter_faha
+    oomp_key_full: oomp_footprint_celeritous_kicad_filter_faha_9ea7ac
+    oomp_key_simple: celeritous_kicad_filter_faha
+    original_filename: KiCad.pretty/FILTER_FAHA.kicad_mod
+    owner_name: celeritous
   oomp_key: oomp_celeritous_kicad_filter_faha
+  oomp_key_full: oomp_footprint_celeritous_kicad_filter_faha
   oomp_key_simple: celeritous_kicad_filter_faha
   owner: celeritous
   repo:

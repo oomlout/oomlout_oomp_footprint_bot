@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/christianlerche_lerchetech_lerche_fiducial/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/christianlerche_lerchetech_lerche_fiducial/working
-    oomp_doc: footprints/footprints/ChristianLerche/LercheTech/Lerche_Fiducial/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ChristianLerche/LercheTech/Lerche_Fiducial/working
     oomp_src_flat: footprints_flat/footprints_flat/christianlerche_lerchetech_lerche_fiducial/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/christianlerche_lerchetech_lerche_fiducial/working
-    oomp_src_folder: footprints_folder/footprints_folder/ChristianLerche/LercheTech/Lerche_Fiducial/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ChristianLerche/LercheTech/Lerche_Fiducial/working
   name: LercheTech_KiCAD
+  oomp:
+    footprint_name: lerche_fiducial
+    library_name: lerchetech
+    md5: 3264bf3261d3152d3992dd5954d2279b
+    md5_10: 3264bf3261
+    md5_5: 3264b
+    md5_6: 3264bf
+    oomp_key: oomp_christianlerche_lerchetech_lerche_fiducial
+    oomp_key_extra: oomp_footprint_christianlerche_lerchetech_lerche_fiducial
+    oomp_key_full: oomp_footprint_christianlerche_lerchetech_lerche_fiducial_3264bf
+    oomp_key_simple: christianlerche_lerchetech_lerche_fiducial
+    original_filename: LercheTech_KiCAD/LercheTech.pretty/Lerche_Fiducial.kicad_mod
+    owner_name: christianlerche
   oomp_key: oomp_christianlerche_lerchetech_lerche_fiducial
+  oomp_key_full: oomp_footprint_christianlerche_lerchetech_lerche_fiducial
   oomp_key_simple: christianlerche_lerchetech_lerche_fiducial
   owner: ChristianLerche
   repo:

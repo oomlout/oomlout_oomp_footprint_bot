@@ -1,8 +1,5 @@
-- file: ComponentLibrariesKicadWurthElektronik/INPUT_OUTPUT_CONNECTORS-rev17b/RJ.pretty/615008138221.kicad_mod
-  footprint:
-    description: WR-MJ Vertical Shielded 8P8C Front Post Modular Jack, 8 pins
-    libraryLink: 615008138221
-    number_of_pads: 12
+- error: expected string or bytes-like object, got 'int'
+  file: ComponentLibrariesKicadWurthElektronik/INPUT_OUTPUT_CONNECTORS-rev17b/RJ.pretty/615008138221.kicad_mod
   footprint_library_directory: footprint_library_owner/ElectronicCats_ComponentLibrariesKicadWurthElektronik
   footprint_library_directory_flat: footprints_flat/electroniccats_rj_615008138221/working
   github_path: http://github.com/ElectronicCats/ComponentLibrariesKicadWurthElektronik/blob/master/INPUT_OUTPUT_CONNECTORS-rev17b/RJ.pretty/615008138221.kicad_mod
@@ -12,14 +9,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/electroniccats_rj_615008138221/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/electroniccats_rj_615008138221/working
-    oomp_doc: footprints/footprints/ElectronicCats/RJ/615008138221/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ElectronicCats/RJ/615008138221/working
     oomp_src_flat: footprints_flat/footprints_flat/electroniccats_rj_615008138221/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/electroniccats_rj_615008138221/working
-    oomp_src_folder: footprints_folder/footprints_folder/ElectronicCats/RJ/615008138221/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ElectronicCats/RJ/615008138221/working
   name: ComponentLibrariesKicadWurthElektronik
+  oomp:
+    footprint_name: '615008138221'
+    library_name: rj
+    md5: a07ee3892130ce8ad51c1e02d7f50f6a
+    md5_10: a07ee38921
+    md5_5: a07ee
+    md5_6: a07ee3
+    oomp_key: oomp_electroniccats_rj_615008138221
+    oomp_key_extra: oomp_footprint_electroniccats_rj_615008138221
+    oomp_key_full: oomp_footprint_electroniccats_rj_615008138221_a07ee3
+    oomp_key_simple: electroniccats_rj_615008138221
+    original_filename: ComponentLibrariesKicadWurthElektronik/INPUT_OUTPUT_CONNECTORS-rev17b/RJ.pretty/615008138221.kicad_mod
+    owner_name: electroniccats
   oomp_key: oomp_electroniccats_rj_615008138221
+  oomp_key_full: oomp_footprint_electroniccats_rj_615008138221
   oomp_key_simple: electroniccats_rj_615008138221
   owner: ElectronicCats
   repo:

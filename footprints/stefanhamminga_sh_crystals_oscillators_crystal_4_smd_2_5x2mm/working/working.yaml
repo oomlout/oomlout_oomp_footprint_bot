@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/stefanhamminga_sh_crystals_oscillators_crystal_4_smd_2_5x2mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stefanhamminga_sh_crystals_oscillators_crystal_4_smd_2_5x2mm/working
-    oomp_doc: footprints/footprints/StefanHamminga/SH_Crystals_Oscillators/Crystal_4-SMD_2.5x2mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/StefanHamminga/SH_Crystals_Oscillators/Crystal_4-SMD_2.5x2mm/working
     oomp_src_flat: footprints_flat/footprints_flat/stefanhamminga_sh_crystals_oscillators_crystal_4_smd_2_5x2mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/stefanhamminga_sh_crystals_oscillators_crystal_4_smd_2_5x2mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/StefanHamminga/SH_Crystals_Oscillators/Crystal_4-SMD_2.5x2mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/StefanHamminga/SH_Crystals_Oscillators/Crystal_4-SMD_2.5x2mm/working
   name: SH_Crystals_Oscillators.pretty
+  oomp:
+    footprint_name: crystal_4_smd_2_5x2mm
+    library_name: sh_crystals_oscillators
+    md5: bd1c1a161f332092a82db6448ea78869
+    md5_10: bd1c1a161f
+    md5_5: bd1c1
+    md5_6: bd1c1a
+    oomp_key: oomp_stefanhamminga_sh_crystals_oscillators_crystal_4_smd_2_5x2mm
+    oomp_key_extra: oomp_footprint_stefanhamminga_sh_crystals_oscillators_crystal_4_smd_2_5x2mm
+    oomp_key_full: oomp_footprint_stefanhamminga_sh_crystals_oscillators_crystal_4_smd_2_5x2mm_bd1c1a
+    oomp_key_simple: stefanhamminga_sh_crystals_oscillators_crystal_4_smd_2_5x2mm
+    original_filename: SH_Crystals_Oscillators.pretty/Crystal_4-SMD_2.5x2mm.kicad_mod
+    owner_name: stefanhamminga
   oomp_key: oomp_stefanhamminga_sh_crystals_oscillators_crystal_4_smd_2_5x2mm
+  oomp_key_full: oomp_footprint_stefanhamminga_sh_crystals_oscillators_crystal_4_smd_2_5x2mm
   oomp_key_simple: stefanhamminga_sh_crystals_oscillators_crystal_4_smd_2_5x2mm
   owner: StefanHamminga
   repo:

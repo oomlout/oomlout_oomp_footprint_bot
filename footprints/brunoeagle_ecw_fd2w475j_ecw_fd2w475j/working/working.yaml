@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_ecw_fd2w475j_ecw_fd2w475j/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_ecw_fd2w475j_ecw_fd2w475j/working
-    oomp_doc: footprints/footprints/brunoeagle/ECW-FD2W475J.kicad_mod/ECW-FD2W475J/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/ECW-FD2W475J.kicad_mod/ECW-FD2W475J/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_ecw_fd2w475j_ecw_fd2w475j/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_ecw_fd2w475j_ecw_fd2w475j/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/ECW-FD2W475J.kicad_mod/ECW-FD2W475J/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/ECW-FD2W475J.kicad_mod/ECW-FD2W475J/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: ecw_fd2w475j
+    library_name: ecw_fd2w475j_kicad_mod
+    md5: e80243d0ed9b53e7ce2ccd8c0c453326
+    md5_10: e80243d0ed
+    md5_5: e8024
+    md5_6: e80243
+    oomp_key: oomp_brunoeagle_ecw_fd2w475j_ecw_fd2w475j
+    oomp_key_extra: oomp_footprint_brunoeagle_ecw_fd2w475j_ecw_fd2w475j
+    oomp_key_full: oomp_footprint_brunoeagle_ecw_fd2w475j_ecw_fd2w475j_e80243
+    oomp_key_simple: brunoeagle_ecw_fd2w475j_ecw_fd2w475j
+    original_filename: kicad-open-modules/ECW-FD2W475J.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_ecw_fd2w475j_ecw_fd2w475j
+  oomp_key_full: oomp_footprint_brunoeagle_ecw_fd2w475j_ecw_fd2w475j
   oomp_key_simple: brunoeagle_ecw_fd2w475j_ecw_fd2w475j
   owner: brunoeagle
   repo:

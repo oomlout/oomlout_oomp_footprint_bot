@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/s_sinker_kicad_footprint_led_d3_0mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/s_sinker_kicad_footprint_led_d3_0mm/working
-    oomp_doc: footprints/footprints/S-SINKER/KiCad_Footprint/LED_D3.0mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/S-SINKER/KiCad_Footprint/LED_D3.0mm/working
     oomp_src_flat: footprints_flat/footprints_flat/s_sinker_kicad_footprint_led_d3_0mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/s_sinker_kicad_footprint_led_d3_0mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/S-SINKER/KiCad_Footprint/LED_D3.0mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/S-SINKER/KiCad_Footprint/LED_D3.0mm/working
   name: KiCad_Footprint.pretty
+  oomp:
+    footprint_name: led_d3_0mm
+    library_name: kicad_footprint
+    md5: 5461c20d5525e9d05399cbe5c7625ae1
+    md5_10: 5461c20d55
+    md5_5: 5461c
+    md5_6: 5461c2
+    oomp_key: oomp_s_sinker_kicad_footprint_led_d3_0mm
+    oomp_key_extra: oomp_footprint_s_sinker_kicad_footprint_led_d3_0mm
+    oomp_key_full: oomp_footprint_s_sinker_kicad_footprint_led_d3_0mm_5461c2
+    oomp_key_simple: s_sinker_kicad_footprint_led_d3_0mm
+    original_filename: KiCad_Footprint.pretty/LED_D3.0mm.kicad_mod
+    owner_name: s_sinker
   oomp_key: oomp_s_sinker_kicad_footprint_led_d3_0mm
+  oomp_key_full: oomp_footprint_s_sinker_kicad_footprint_led_d3_0mm
   oomp_key_simple: s_sinker_kicad_footprint_led_d3_0mm
   owner: S-SINKER
   repo:

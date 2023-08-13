@@ -11,17 +11,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_fuse_fuseholder_cylinder_5x20mm_bulgin_fx0457_horizontal_closed/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_fuse_fuseholder_cylinder_5x20mm_bulgin_fx0457_horizontal_closed/working
-    oomp_doc: footprints/footprints/kicad/Fuse/Fuseholder_Cylinder-5x20mm_Bulgin_FX0457_Horizontal_Closed/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Fuse/Fuseholder_Cylinder-5x20mm_Bulgin_FX0457_Horizontal_Closed/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_fuse_fuseholder_cylinder_5x20mm_bulgin_fx0457_horizontal_closed/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_fuse_fuseholder_cylinder_5x20mm_bulgin_fx0457_horizontal_closed/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Fuse/Fuseholder_Cylinder-5x20mm_Bulgin_FX0457_Horizontal_Closed/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Fuse/Fuseholder_Cylinder-5x20mm_Bulgin_FX0457_Horizontal_Closed/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: fuseholder_cylinder_5x20mm_bulgin_fx0457_horizontal_closed
+    library_name: fuse
+    md5: 348c139b98096c3553c04ccd6bda3a8b
+    md5_10: 348c139b98
+    md5_5: 348c1
+    md5_6: 348c13
+    oomp_key: oomp_kicad_fuse_fuseholder_cylinder_5x20mm_bulgin_fx0457_horizontal_closed
+    oomp_key_extra: oomp_footprint_kicad_fuse_fuseholder_cylinder_5x20mm_bulgin_fx0457_horizontal_closed
+    oomp_key_full: oomp_footprint_kicad_fuse_fuseholder_cylinder_5x20mm_bulgin_fx0457_horizontal_closed_348c13
+    oomp_key_simple: kicad_fuse_fuseholder_cylinder_5x20mm_bulgin_fx0457_horizontal_closed
+    original_filename: libraries/kicad-footprints/Fuse.pretty/Fuseholder_Cylinder-5x20mm_Bulgin_FX0457_Horizontal_Closed.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_fuse_fuseholder_cylinder_5x20mm_bulgin_fx0457_horizontal_closed
+  oomp_key_full: oomp_footprint_kicad_fuse_fuseholder_cylinder_5x20mm_bulgin_fx0457_horizontal_closed
   oomp_key_simple: kicad_fuse_fuseholder_cylinder_5x20mm_bulgin_fx0457_horizontal_closed
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

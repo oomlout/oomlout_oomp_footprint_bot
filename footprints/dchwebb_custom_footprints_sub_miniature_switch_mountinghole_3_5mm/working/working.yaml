@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/dchwebb_custom_footprints_sub_miniature_switch_mountinghole_3_5mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/dchwebb_custom_footprints_sub_miniature_switch_mountinghole_3_5mm/working
-    oomp_doc: footprints/footprints/dchwebb/Custom_Footprints/Sub_Miniature_Switch_MountingHole_3.5mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/dchwebb/Custom_Footprints/Sub_Miniature_Switch_MountingHole_3.5mm/working
     oomp_src_flat: footprints_flat/footprints_flat/dchwebb_custom_footprints_sub_miniature_switch_mountinghole_3_5mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/dchwebb_custom_footprints_sub_miniature_switch_mountinghole_3_5mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/dchwebb/Custom_Footprints/Sub_Miniature_Switch_MountingHole_3.5mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/dchwebb/Custom_Footprints/Sub_Miniature_Switch_MountingHole_3.5mm/working
   name: Custom_Footprints.pretty
+  oomp:
+    footprint_name: sub_miniature_switch_mountinghole_3_5mm
+    library_name: custom_footprints
+    md5: 27bbb82c41a7f01d5353d82d616234a9
+    md5_10: 27bbb82c41
+    md5_5: 27bbb
+    md5_6: 27bbb8
+    oomp_key: oomp_dchwebb_custom_footprints_sub_miniature_switch_mountinghole_3_5mm
+    oomp_key_extra: oomp_footprint_dchwebb_custom_footprints_sub_miniature_switch_mountinghole_3_5mm
+    oomp_key_full: oomp_footprint_dchwebb_custom_footprints_sub_miniature_switch_mountinghole_3_5mm_27bbb8
+    oomp_key_simple: dchwebb_custom_footprints_sub_miniature_switch_mountinghole_3_5mm
+    original_filename: Custom_Footprints.pretty/Sub_Miniature_Switch_MountingHole_3.5mm.kicad_mod
+    owner_name: dchwebb
   oomp_key: oomp_dchwebb_custom_footprints_sub_miniature_switch_mountinghole_3_5mm
+  oomp_key_full: oomp_footprint_dchwebb_custom_footprints_sub_miniature_switch_mountinghole_3_5mm
   oomp_key_simple: dchwebb_custom_footprints_sub_miniature_switch_mountinghole_3_5mm
   owner: dchwebb
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/monostable_commonpartslibrary_cc0603jrnpo9bn221_capc1608x90/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/monostable_commonpartslibrary_cc0603jrnpo9bn221_capc1608x90/working
-    oomp_doc: footprints/footprints/monostable/CommonPartsLibrary/CC0603JRNPO9BN221_CAPC1608X90/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/monostable/CommonPartsLibrary/CC0603JRNPO9BN221_CAPC1608X90/working
     oomp_src_flat: footprints_flat/footprints_flat/monostable_commonpartslibrary_cc0603jrnpo9bn221_capc1608x90/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/monostable_commonpartslibrary_cc0603jrnpo9bn221_capc1608x90/working
-    oomp_src_folder: footprints_folder/footprints_folder/monostable/CommonPartsLibrary/CC0603JRNPO9BN221_CAPC1608X90/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/monostable/CommonPartsLibrary/CC0603JRNPO9BN221_CAPC1608X90/working
   name: CommonPartsLibrary.pretty
+  oomp:
+    footprint_name: cc0603jrnpo9bn221_capc1608x90
+    library_name: commonpartslibrary
+    md5: b5e934f5b82682bf37f88fe406b2e1ea
+    md5_10: b5e934f5b8
+    md5_5: b5e93
+    md5_6: b5e934
+    oomp_key: oomp_monostable_commonpartslibrary_cc0603jrnpo9bn221_capc1608x90
+    oomp_key_extra: oomp_footprint_monostable_commonpartslibrary_cc0603jrnpo9bn221_capc1608x90
+    oomp_key_full: oomp_footprint_monostable_commonpartslibrary_cc0603jrnpo9bn221_capc1608x90_b5e934
+    oomp_key_simple: monostable_commonpartslibrary_cc0603jrnpo9bn221_capc1608x90
+    original_filename: CommonPartsLibrary.pretty/CC0603JRNPO9BN221_CAPC1608X90.kicad_mod
+    owner_name: monostable
   oomp_key: oomp_monostable_commonpartslibrary_cc0603jrnpo9bn221_capc1608x90
+  oomp_key_full: oomp_footprint_monostable_commonpartslibrary_cc0603jrnpo9bn221_capc1608x90
   oomp_key_simple: monostable_commonpartslibrary_cc0603jrnpo9bn221_capc1608x90
   owner: monostable
   repo:

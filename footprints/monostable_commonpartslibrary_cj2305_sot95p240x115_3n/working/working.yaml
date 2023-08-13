@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/monostable_commonpartslibrary_cj2305_sot95p240x115_3n/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/monostable_commonpartslibrary_cj2305_sot95p240x115_3n/working
-    oomp_doc: footprints/footprints/monostable/CommonPartsLibrary/CJ2305_SOT95P240X115-3N/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/monostable/CommonPartsLibrary/CJ2305_SOT95P240X115-3N/working
     oomp_src_flat: footprints_flat/footprints_flat/monostable_commonpartslibrary_cj2305_sot95p240x115_3n/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/monostable_commonpartslibrary_cj2305_sot95p240x115_3n/working
-    oomp_src_folder: footprints_folder/footprints_folder/monostable/CommonPartsLibrary/CJ2305_SOT95P240X115-3N/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/monostable/CommonPartsLibrary/CJ2305_SOT95P240X115-3N/working
   name: CommonPartsLibrary.pretty
+  oomp:
+    footprint_name: cj2305_sot95p240x115_3n
+    library_name: commonpartslibrary
+    md5: 6350d9f9f1501e41f9326665b64a99b5
+    md5_10: 6350d9f9f1
+    md5_5: 6350d
+    md5_6: 6350d9
+    oomp_key: oomp_monostable_commonpartslibrary_cj2305_sot95p240x115_3n
+    oomp_key_extra: oomp_footprint_monostable_commonpartslibrary_cj2305_sot95p240x115_3n
+    oomp_key_full: oomp_footprint_monostable_commonpartslibrary_cj2305_sot95p240x115_3n_6350d9
+    oomp_key_simple: monostable_commonpartslibrary_cj2305_sot95p240x115_3n
+    original_filename: CommonPartsLibrary.pretty/CJ2305_SOT95P240X115-3N.kicad_mod
+    owner_name: monostable
   oomp_key: oomp_monostable_commonpartslibrary_cj2305_sot95p240x115_3n
+  oomp_key_full: oomp_footprint_monostable_commonpartslibrary_cj2305_sot95p240x115_3n
   oomp_key_simple: monostable_commonpartslibrary_cj2305_sot95p240x115_3n
   owner: monostable
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/schemu_housings_cdfp_rus_402_16_18/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/schemu_housings_cdfp_rus_402_16_18/working
-    oomp_doc: footprints/footprints/schemu/Housings_CDFP_RUS/402.16-18/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/schemu/Housings_CDFP_RUS/402.16-18/working
     oomp_src_flat: footprints_flat/footprints_flat/schemu_housings_cdfp_rus_402_16_18/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/schemu_housings_cdfp_rus_402_16_18/working
-    oomp_src_folder: footprints_folder/footprints_folder/schemu/Housings_CDFP_RUS/402.16-18/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/schemu/Housings_CDFP_RUS/402.16-18/working
   name: Housings_CDFP_RUS.pretty
+  oomp:
+    footprint_name: '402_16_18'
+    library_name: housings_cdfp_rus
+    md5: 993644e614bc0ca12ae01119568bc78d
+    md5_10: 993644e614
+    md5_5: '99364'
+    md5_6: '993644'
+    oomp_key: oomp_schemu_housings_cdfp_rus_402_16_18
+    oomp_key_extra: oomp_footprint_schemu_housings_cdfp_rus_402_16_18
+    oomp_key_full: oomp_footprint_schemu_housings_cdfp_rus_402_16_18_993644
+    oomp_key_simple: schemu_housings_cdfp_rus_402_16_18
+    original_filename: Housings_CDFP_RUS.pretty/402.16-18.kicad_mod
+    owner_name: schemu
   oomp_key: oomp_schemu_housings_cdfp_rus_402_16_18
+  oomp_key_full: oomp_footprint_schemu_housings_cdfp_rus_402_16_18
   oomp_key_simple: schemu_housings_cdfp_rus_402_16_18
   owner: schemu
   repo:

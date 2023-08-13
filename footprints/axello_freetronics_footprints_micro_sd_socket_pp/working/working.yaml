@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/axello_freetronics_footprints_micro_sd_socket_pp/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/axello_freetronics_footprints_micro_sd_socket_pp/working
-    oomp_doc: footprints/footprints/axello/freetronics_footprints/MICRO-SD-SOCKET-PP/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/axello/freetronics_footprints/MICRO-SD-SOCKET-PP/working
     oomp_src_flat: footprints_flat/footprints_flat/axello_freetronics_footprints_micro_sd_socket_pp/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/axello_freetronics_footprints_micro_sd_socket_pp/working
-    oomp_src_folder: footprints_folder/footprints_folder/axello/freetronics_footprints/MICRO-SD-SOCKET-PP/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/axello/freetronics_footprints/MICRO-SD-SOCKET-PP/working
   name: kicad
+  oomp:
+    footprint_name: micro_sd_socket_pp
+    library_name: freetronics_footprints
+    md5: ce96fa2dd9a140f1bdddc29846b5697f
+    md5_10: ce96fa2dd9
+    md5_5: ce96f
+    md5_6: ce96fa
+    oomp_key: oomp_axello_freetronics_footprints_micro_sd_socket_pp
+    oomp_key_extra: oomp_footprint_axello_freetronics_footprints_micro_sd_socket_pp
+    oomp_key_full: oomp_footprint_axello_freetronics_footprints_micro_sd_socket_pp_ce96fa
+    oomp_key_simple: axello_freetronics_footprints_micro_sd_socket_pp
+    original_filename: kicad/mods/freetronics_footprints.pretty/MICRO-SD-SOCKET-PP.kicad_mod
+    owner_name: axello
   oomp_key: oomp_axello_freetronics_footprints_micro_sd_socket_pp
+  oomp_key_full: oomp_footprint_axello_freetronics_footprints_micro_sd_socket_pp
   oomp_key_simple: axello_freetronics_footprints_micro_sd_socket_pp
   owner: axello
   repo:

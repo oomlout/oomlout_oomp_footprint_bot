@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/stefanhamminga_sh_connectors_jst_zpd_32v_s/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stefanhamminga_sh_connectors_jst_zpd_32v_s/working
-    oomp_doc: footprints/footprints/StefanHamminga/SH_Connectors/JST_ZPD-32V-S/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/StefanHamminga/SH_Connectors/JST_ZPD-32V-S/working
     oomp_src_flat: footprints_flat/footprints_flat/stefanhamminga_sh_connectors_jst_zpd_32v_s/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/stefanhamminga_sh_connectors_jst_zpd_32v_s/working
-    oomp_src_folder: footprints_folder/footprints_folder/StefanHamminga/SH_Connectors/JST_ZPD-32V-S/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/StefanHamminga/SH_Connectors/JST_ZPD-32V-S/working
   name: SH_Connectors.pretty
+  oomp:
+    footprint_name: jst_zpd_32v_s
+    library_name: sh_connectors
+    md5: 8359f8ab9a302476af77f69cb12d0c52
+    md5_10: 8359f8ab9a
+    md5_5: 8359f
+    md5_6: 8359f8
+    oomp_key: oomp_stefanhamminga_sh_connectors_jst_zpd_32v_s
+    oomp_key_extra: oomp_footprint_stefanhamminga_sh_connectors_jst_zpd_32v_s
+    oomp_key_full: oomp_footprint_stefanhamminga_sh_connectors_jst_zpd_32v_s_8359f8
+    oomp_key_simple: stefanhamminga_sh_connectors_jst_zpd_32v_s
+    original_filename: SH_Connectors.pretty/JST_ZPD-32V-S.kicad_mod
+    owner_name: stefanhamminga
   oomp_key: oomp_stefanhamminga_sh_connectors_jst_zpd_32v_s
+  oomp_key_full: oomp_footprint_stefanhamminga_sh_connectors_jst_zpd_32v_s
   oomp_key_simple: stefanhamminga_sh_connectors_jst_zpd_32v_s
   owner: StefanHamminga
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/olimex_freetronics_footprints_res_axial_400mil/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/olimex_freetronics_footprints_res_axial_400mil/working
-    oomp_doc: footprints/footprints/OLIMEX/freetronics_footprints/RES_AXIAL_400MIL/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/OLIMEX/freetronics_footprints/RES_AXIAL_400MIL/working
     oomp_src_flat: footprints_flat/footprints_flat/olimex_freetronics_footprints_res_axial_400mil/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/olimex_freetronics_footprints_res_axial_400mil/working
-    oomp_src_folder: footprints_folder/footprints_folder/OLIMEX/freetronics_footprints/RES_AXIAL_400MIL/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/OLIMEX/freetronics_footprints/RES_AXIAL_400MIL/working
   name: KiCAD
+  oomp:
+    footprint_name: res_axial_400mil
+    library_name: freetronics_footprints
+    md5: cf7c00cf3c8b7d43fc7ce1f0580941d0
+    md5_10: cf7c00cf3c
+    md5_5: cf7c0
+    md5_6: cf7c00
+    oomp_key: oomp_olimex_freetronics_footprints_res_axial_400mil
+    oomp_key_extra: oomp_footprint_olimex_freetronics_footprints_res_axial_400mil
+    oomp_key_full: oomp_footprint_olimex_freetronics_footprints_res_axial_400mil_cf7c00
+    oomp_key_simple: olimex_freetronics_footprints_res_axial_400mil
+    original_filename: KiCAD/mods/freetronics_footprints.pretty/RES_AXIAL_400MIL.kicad_mod
+    owner_name: olimex
   oomp_key: oomp_olimex_freetronics_footprints_res_axial_400mil
+  oomp_key_full: oomp_footprint_olimex_freetronics_footprints_res_axial_400mil
   oomp_key_simple: olimex_freetronics_footprints_res_axial_400mil
   owner: OLIMEX
   repo:

@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/aniline/akn_transformers.pretty
     oomp_bot: footprints/aniline_akn_transformers_transfo_audio_el14/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/aniline_akn_transformers_transfo_audio_el14/working
-    oomp_doc: footprints/footprints/aniline/akn_transformers/TRANSFO-AUDIO-EL14/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/aniline/akn_transformers/TRANSFO-AUDIO-EL14/working
     oomp_src_flat: footprints_flat/footprints_flat/aniline_akn_transformers_transfo_audio_el14/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/aniline_akn_transformers_transfo_audio_el14/working
-    oomp_src_folder: footprints_folder/footprints_folder/aniline/akn_transformers/TRANSFO-AUDIO-EL14/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/aniline/akn_transformers/TRANSFO-AUDIO-EL14/working
   name: akn_transformers.pretty
+  oomp:
+    footprint_name: transfo_audio_el14
+    library_name: akn_transformers
+    md5: f05acc1844a644d97ddf8753bcaa13b5
+    md5_10: f05acc1844
+    md5_5: f05ac
+    md5_6: f05acc
+    oomp_key: oomp_aniline_akn_transformers_transfo_audio_el14
+    oomp_key_extra: oomp_footprint_aniline_akn_transformers_transfo_audio_el14
+    oomp_key_full: oomp_footprint_aniline_akn_transformers_transfo_audio_el14_f05acc
+    oomp_key_simple: aniline_akn_transformers_transfo_audio_el14
+    original_filename: akn_transformers.pretty/TRANSFO-AUDIO-EL14.kicad_mod
+    owner_name: aniline
   oomp_key: oomp_aniline_akn_transformers_transfo_audio_el14
+  oomp_key_full: oomp_footprint_aniline_akn_transformers_transfo_audio_el14
   oomp_key_simple: aniline_akn_transformers_transfo_audio_el14
   owner: aniline
   repo:

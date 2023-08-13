@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/digikey_phone_jack_87180_062lf_phone_jack_87180_062lf/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_phone_jack_87180_062lf_phone_jack_87180_062lf/working
-    oomp_doc: footprints/footprints/digikey/Phone_Jack_87180-062LF.kicad_mod/Phone_Jack_87180-062LF/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/digikey/Phone_Jack_87180-062LF.kicad_mod/Phone_Jack_87180-062LF/working
     oomp_src_flat: footprints_flat/footprints_flat/digikey_phone_jack_87180_062lf_phone_jack_87180_062lf/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/digikey_phone_jack_87180_062lf_phone_jack_87180_062lf/working
-    oomp_src_folder: footprints_folder/footprints_folder/digikey/Phone_Jack_87180-062LF.kicad_mod/Phone_Jack_87180-062LF/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/digikey/Phone_Jack_87180-062LF.kicad_mod/Phone_Jack_87180-062LF/working
   name: digikey-kicad-library
+  oomp:
+    footprint_name: phone_jack_87180_062lf
+    library_name: phone_jack_87180_062lf_kicad_mod
+    md5: 281f38dd3260269183ad2751620921d8
+    md5_10: 281f38dd32
+    md5_5: 281f3
+    md5_6: 281f38
+    oomp_key: oomp_digikey_phone_jack_87180_062lf_phone_jack_87180_062lf
+    oomp_key_extra: oomp_footprint_digikey_phone_jack_87180_062lf_phone_jack_87180_062lf
+    oomp_key_full: oomp_footprint_digikey_phone_jack_87180_062lf_phone_jack_87180_062lf_281f38
+    oomp_key_simple: digikey_phone_jack_87180_062lf_phone_jack_87180_062lf
+    original_filename: digikey-kicad-library/src/Source_Footprints/Phone_Jack_87180-062LF.kicad_mod
+    owner_name: digikey
   oomp_key: oomp_digikey_phone_jack_87180_062lf_phone_jack_87180_062lf
+  oomp_key_full: oomp_footprint_digikey_phone_jack_87180_062lf_phone_jack_87180_062lf
   oomp_key_simple: digikey_phone_jack_87180_062lf_phone_jack_87180_062lf
   owner: digikey
   repo:

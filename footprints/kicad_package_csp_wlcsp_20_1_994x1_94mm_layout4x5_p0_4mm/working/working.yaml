@@ -11,17 +11,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_package_csp_wlcsp_20_1_994x1_94mm_layout4x5_p0_4mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_package_csp_wlcsp_20_1_994x1_94mm_layout4x5_p0_4mm/working
-    oomp_doc: footprints/footprints/kicad/Package_CSP/WLCSP-20_1.994x1.94mm_Layout4x5_P0.4mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Package_CSP/WLCSP-20_1.994x1.94mm_Layout4x5_P0.4mm/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_package_csp_wlcsp_20_1_994x1_94mm_layout4x5_p0_4mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_package_csp_wlcsp_20_1_994x1_94mm_layout4x5_p0_4mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Package_CSP/WLCSP-20_1.994x1.94mm_Layout4x5_P0.4mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Package_CSP/WLCSP-20_1.994x1.94mm_Layout4x5_P0.4mm/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: wlcsp_20_1_994x1_94mm_layout4x5_p0_4mm
+    library_name: package_csp
+    md5: c580e87e41549f5ee1d18c915e4b60df
+    md5_10: c580e87e41
+    md5_5: c580e
+    md5_6: c580e8
+    oomp_key: oomp_kicad_package_csp_wlcsp_20_1_994x1_94mm_layout4x5_p0_4mm
+    oomp_key_extra: oomp_footprint_kicad_package_csp_wlcsp_20_1_994x1_94mm_layout4x5_p0_4mm
+    oomp_key_full: oomp_footprint_kicad_package_csp_wlcsp_20_1_994x1_94mm_layout4x5_p0_4mm_c580e8
+    oomp_key_simple: kicad_package_csp_wlcsp_20_1_994x1_94mm_layout4x5_p0_4mm
+    original_filename: libraries/kicad-footprints/Package_CSP.pretty/WLCSP-20_1.994x1.94mm_Layout4x5_P0.4mm.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_package_csp_wlcsp_20_1_994x1_94mm_layout4x5_p0_4mm
+  oomp_key_full: oomp_footprint_kicad_package_csp_wlcsp_20_1_994x1_94mm_layout4x5_p0_4mm
   oomp_key_simple: kicad_package_csp_wlcsp_20_1_994x1_94mm_layout4x5_p0_4mm
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

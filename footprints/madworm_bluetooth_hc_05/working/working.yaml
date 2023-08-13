@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/madworm/Bluetooth.pretty
     oomp_bot: footprints/madworm_bluetooth_hc_05/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/madworm_bluetooth_hc_05/working
-    oomp_doc: footprints/footprints/madworm/Bluetooth/HC-05/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/madworm/Bluetooth/HC-05/working
     oomp_src_flat: footprints_flat/footprints_flat/madworm_bluetooth_hc_05/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/madworm_bluetooth_hc_05/working
-    oomp_src_folder: footprints_folder/footprints_folder/madworm/Bluetooth/HC-05/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/madworm/Bluetooth/HC-05/working
   name: Bluetooth.pretty
+  oomp:
+    footprint_name: hc_05
+    library_name: bluetooth
+    md5: b9b6f1e20874da1537c09603629c773d
+    md5_10: b9b6f1e208
+    md5_5: b9b6f
+    md5_6: b9b6f1
+    oomp_key: oomp_madworm_bluetooth_hc_05
+    oomp_key_extra: oomp_footprint_madworm_bluetooth_hc_05
+    oomp_key_full: oomp_footprint_madworm_bluetooth_hc_05_b9b6f1
+    oomp_key_simple: madworm_bluetooth_hc_05
+    original_filename: Bluetooth.pretty/HC-05.kicad_mod
+    owner_name: madworm
   oomp_key: oomp_madworm_bluetooth_hc_05
+  oomp_key_full: oomp_footprint_madworm_bluetooth_hc_05
   oomp_key_simple: madworm_bluetooth_hc_05
   owner: madworm
   repo:

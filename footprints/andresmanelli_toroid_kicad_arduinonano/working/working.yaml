@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/andresmanelli/TOROID-KiCad.pretty
     oomp_bot: footprints/andresmanelli_toroid_kicad_arduinonano/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/andresmanelli_toroid_kicad_arduinonano/working
-    oomp_doc: footprints/footprints/andresmanelli/TOROID-KiCad/ArduinoNano/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/andresmanelli/TOROID-KiCad/ArduinoNano/working
     oomp_src_flat: footprints_flat/footprints_flat/andresmanelli_toroid_kicad_arduinonano/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/andresmanelli_toroid_kicad_arduinonano/working
-    oomp_src_folder: footprints_folder/footprints_folder/andresmanelli/TOROID-KiCad/ArduinoNano/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/andresmanelli/TOROID-KiCad/ArduinoNano/working
   name: TOROID-KiCad.pretty
+  oomp:
+    footprint_name: arduinonano
+    library_name: toroid_kicad
+    md5: d7ac3d036fcea52459dfa192bc84e43b
+    md5_10: d7ac3d036f
+    md5_5: d7ac3
+    md5_6: d7ac3d
+    oomp_key: oomp_andresmanelli_toroid_kicad_arduinonano
+    oomp_key_extra: oomp_footprint_andresmanelli_toroid_kicad_arduinonano
+    oomp_key_full: oomp_footprint_andresmanelli_toroid_kicad_arduinonano_d7ac3d
+    oomp_key_simple: andresmanelli_toroid_kicad_arduinonano
+    original_filename: TOROID-KiCad.pretty/ArduinoNano.kicad_mod
+    owner_name: andresmanelli
   oomp_key: oomp_andresmanelli_toroid_kicad_arduinonano
+  oomp_key_full: oomp_footprint_andresmanelli_toroid_kicad_arduinonano
   oomp_key_simple: andresmanelli_toroid_kicad_arduinonano
   owner: andresmanelli
   repo:

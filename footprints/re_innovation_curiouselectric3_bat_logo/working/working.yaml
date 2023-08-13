@@ -13,14 +13,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/re_innovation_curiouselectric3_bat_logo/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/re_innovation_curiouselectric3_bat_logo/working
-    oomp_doc: footprints/footprints/re-innovation/CuriousElectric3/Bat_Logo/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/re-innovation/CuriousElectric3/Bat_Logo/working
     oomp_src_flat: footprints_flat/footprints_flat/re_innovation_curiouselectric3_bat_logo/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/re_innovation_curiouselectric3_bat_logo/working
-    oomp_src_folder: footprints_folder/footprints_folder/re-innovation/CuriousElectric3/Bat_Logo/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/re-innovation/CuriousElectric3/Bat_Logo/working
   name: kicad_reinnovation
+  oomp:
+    footprint_name: bat_logo
+    library_name: curiouselectric3
+    md5: f59ff35755dcdbda1264d94de3118244
+    md5_10: f59ff35755
+    md5_5: f59ff
+    md5_6: f59ff3
+    oomp_key: oomp_re_innovation_curiouselectric3_bat_logo
+    oomp_key_extra: oomp_footprint_re_innovation_curiouselectric3_bat_logo
+    oomp_key_full: oomp_footprint_re_innovation_curiouselectric3_bat_logo_f59ff3
+    oomp_key_simple: re_innovation_curiouselectric3_bat_logo
+    original_filename: kicad_reinnovation/KiCAD PRETTY/CuriousElectric3.pretty/Bat_Logo.kicad_mod
+    owner_name: re_innovation
   oomp_key: oomp_re_innovation_curiouselectric3_bat_logo
+  oomp_key_full: oomp_footprint_re_innovation_curiouselectric3_bat_logo
   oomp_key_simple: re_innovation_curiouselectric3_bat_logo
   owner: re-innovation
   repo:

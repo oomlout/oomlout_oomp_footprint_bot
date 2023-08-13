@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/dchwebb_custom_footprints_tsop_ii_54_22_2x10_16mm_p0_8mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/dchwebb_custom_footprints_tsop_ii_54_22_2x10_16mm_p0_8mm/working
-    oomp_doc: footprints/footprints/dchwebb/Custom_Footprints/TSOP-II-54_22.2x10.16mm_P0.8mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/dchwebb/Custom_Footprints/TSOP-II-54_22.2x10.16mm_P0.8mm/working
     oomp_src_flat: footprints_flat/footprints_flat/dchwebb_custom_footprints_tsop_ii_54_22_2x10_16mm_p0_8mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/dchwebb_custom_footprints_tsop_ii_54_22_2x10_16mm_p0_8mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/dchwebb/Custom_Footprints/TSOP-II-54_22.2x10.16mm_P0.8mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/dchwebb/Custom_Footprints/TSOP-II-54_22.2x10.16mm_P0.8mm/working
   name: Custom_Footprints.pretty
+  oomp:
+    footprint_name: tsop_ii_54_22_2x10_16mm_p0_8mm
+    library_name: custom_footprints
+    md5: b3b3030af8482b2b7e3e7b2036f7c576
+    md5_10: b3b3030af8
+    md5_5: b3b30
+    md5_6: b3b303
+    oomp_key: oomp_dchwebb_custom_footprints_tsop_ii_54_22_2x10_16mm_p0_8mm
+    oomp_key_extra: oomp_footprint_dchwebb_custom_footprints_tsop_ii_54_22_2x10_16mm_p0_8mm
+    oomp_key_full: oomp_footprint_dchwebb_custom_footprints_tsop_ii_54_22_2x10_16mm_p0_8mm_b3b303
+    oomp_key_simple: dchwebb_custom_footprints_tsop_ii_54_22_2x10_16mm_p0_8mm
+    original_filename: Custom_Footprints.pretty/TSOP-II-54_22.2x10.16mm_P0.8mm.kicad_mod
+    owner_name: dchwebb
   oomp_key: oomp_dchwebb_custom_footprints_tsop_ii_54_22_2x10_16mm_p0_8mm
+  oomp_key_full: oomp_footprint_dchwebb_custom_footprints_tsop_ii_54_22_2x10_16mm_p0_8mm
   oomp_key_simple: dchwebb_custom_footprints_tsop_ii_54_22_2x10_16mm_p0_8mm
   owner: dchwebb
   repo:

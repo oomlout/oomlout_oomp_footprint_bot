@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/nebs_eurocad_led3mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nebs_eurocad_led3mm/working
-    oomp_doc: footprints/footprints/nebs/Eurocad/LED3mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/nebs/Eurocad/LED3mm/working
     oomp_src_flat: footprints_flat/footprints_flat/nebs_eurocad_led3mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nebs_eurocad_led3mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/nebs/Eurocad/LED3mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/nebs/Eurocad/LED3mm/working
   name: eurocad
+  oomp:
+    footprint_name: led3mm
+    library_name: eurocad
+    md5: c235c4a3888821d6c3b90c40e025259f
+    md5_10: c235c4a388
+    md5_5: c235c
+    md5_6: c235c4
+    oomp_key: oomp_nebs_eurocad_led3mm
+    oomp_key_extra: oomp_footprint_nebs_eurocad_led3mm
+    oomp_key_full: oomp_footprint_nebs_eurocad_led3mm_c235c4
+    oomp_key_simple: nebs_eurocad_led3mm
+    original_filename: eurocad/Eurocad.pretty/LED3mm.kicad_mod
+    owner_name: nebs
   oomp_key: oomp_nebs_eurocad_led3mm
+  oomp_key_full: oomp_footprint_nebs_eurocad_led3mm
   oomp_key_simple: nebs_eurocad_led3mm
   owner: nebs
   repo:

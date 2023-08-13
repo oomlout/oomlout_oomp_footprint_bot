@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/olimex_freetronics_footprints_ind_srp1040/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/olimex_freetronics_footprints_ind_srp1040/working
-    oomp_doc: footprints/footprints/OLIMEX/freetronics_footprints/IND_SRP1040/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/OLIMEX/freetronics_footprints/IND_SRP1040/working
     oomp_src_flat: footprints_flat/footprints_flat/olimex_freetronics_footprints_ind_srp1040/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/olimex_freetronics_footprints_ind_srp1040/working
-    oomp_src_folder: footprints_folder/footprints_folder/OLIMEX/freetronics_footprints/IND_SRP1040/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/OLIMEX/freetronics_footprints/IND_SRP1040/working
   name: KiCAD
+  oomp:
+    footprint_name: ind_srp1040
+    library_name: freetronics_footprints
+    md5: 655f773c886d1a53b985933a511b969e
+    md5_10: 655f773c88
+    md5_5: 655f7
+    md5_6: 655f77
+    oomp_key: oomp_olimex_freetronics_footprints_ind_srp1040
+    oomp_key_extra: oomp_footprint_olimex_freetronics_footprints_ind_srp1040
+    oomp_key_full: oomp_footprint_olimex_freetronics_footprints_ind_srp1040_655f77
+    oomp_key_simple: olimex_freetronics_footprints_ind_srp1040
+    original_filename: KiCAD/mods/freetronics_footprints.pretty/IND_SRP1040.kicad_mod
+    owner_name: olimex
   oomp_key: oomp_olimex_freetronics_footprints_ind_srp1040
+  oomp_key_full: oomp_footprint_olimex_freetronics_footprints_ind_srp1040
   oomp_key_simple: olimex_freetronics_footprints_ind_srp1040
   owner: OLIMEX
   repo:

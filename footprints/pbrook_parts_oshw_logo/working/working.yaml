@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pbrook_parts_oshw_logo/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pbrook_parts_oshw_logo/working
-    oomp_doc: footprints/footprints/pbrook/Parts/OSHW_LOGO/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/pbrook/Parts/OSHW_LOGO/working
     oomp_src_flat: footprints_flat/footprints_flat/pbrook_parts_oshw_logo/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pbrook_parts_oshw_logo/working
-    oomp_src_folder: footprints_folder/footprints_folder/pbrook/Parts/OSHW_LOGO/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/pbrook/Parts/OSHW_LOGO/working
   name: Parts.pretty
+  oomp:
+    footprint_name: oshw_logo
+    library_name: parts
+    md5: 5fe116d417b060a616097e0da6c6a261
+    md5_10: 5fe116d417
+    md5_5: 5fe11
+    md5_6: 5fe116
+    oomp_key: oomp_pbrook_parts_oshw_logo
+    oomp_key_extra: oomp_footprint_pbrook_parts_oshw_logo
+    oomp_key_full: oomp_footprint_pbrook_parts_oshw_logo_5fe116
+    oomp_key_simple: pbrook_parts_oshw_logo
+    original_filename: Parts.pretty/OSHW_LOGO.kicad_mod
+    owner_name: pbrook
   oomp_key: oomp_pbrook_parts_oshw_logo
+  oomp_key_full: oomp_footprint_pbrook_parts_oshw_logo
   oomp_key_simple: pbrook_parts_oshw_logo
   owner: pbrook
   repo:

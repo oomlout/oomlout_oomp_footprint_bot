@@ -8,14 +8,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cuzdaori_kicad_capacitor_electrolytic_8mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cuzdaori_kicad_capacitor_electrolytic_8mm/working
-    oomp_doc: footprints/footprints/cuzdaori/KiCad/CAPACITOR_ELECTROLYTIC_8MM/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cuzdaori/KiCad/CAPACITOR_ELECTROLYTIC_8MM/working
     oomp_src_flat: footprints_flat/footprints_flat/cuzdaori_kicad_capacitor_electrolytic_8mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cuzdaori_kicad_capacitor_electrolytic_8mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/cuzdaori/KiCad/CAPACITOR_ELECTROLYTIC_8MM/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cuzdaori/KiCad/CAPACITOR_ELECTROLYTIC_8MM/working
   name: KiCad.pretty
+  oomp:
+    footprint_name: capacitor_electrolytic_8mm
+    library_name: kicad
+    md5: b6985d7d1e9052925b6fca349872eb7d
+    md5_10: b6985d7d1e
+    md5_5: b6985
+    md5_6: b6985d
+    oomp_key: oomp_cuzdaori_kicad_capacitor_electrolytic_8mm
+    oomp_key_extra: oomp_footprint_cuzdaori_kicad_capacitor_electrolytic_8mm
+    oomp_key_full: oomp_footprint_cuzdaori_kicad_capacitor_electrolytic_8mm_b6985d
+    oomp_key_simple: cuzdaori_kicad_capacitor_electrolytic_8mm
+    original_filename: KiCad.pretty/CAPACITOR_ELECTROLYTIC_8MM.kicad_mod
+    owner_name: cuzdaori
   oomp_key: oomp_cuzdaori_kicad_capacitor_electrolytic_8mm
+  oomp_key_full: oomp_footprint_cuzdaori_kicad_capacitor_electrolytic_8mm
   oomp_key_simple: cuzdaori_kicad_capacitor_electrolytic_8mm
   owner: cuzdaori
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/nxmq_animegirlsare_kanbaru/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nxmq_animegirlsare_kanbaru/working
-    oomp_doc: footprints/footprints/nxmq/animegirlsare/kanbaru/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/nxmq/animegirlsare/kanbaru/working
     oomp_src_flat: footprints_flat/footprints_flat/nxmq_animegirlsare_kanbaru/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nxmq_animegirlsare_kanbaru/working
-    oomp_src_folder: footprints_folder/footprints_folder/nxmq/animegirlsare/kanbaru/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/nxmq/animegirlsare/kanbaru/working
   name: animegirlsare.pretty
+  oomp:
+    footprint_name: kanbaru
+    library_name: animegirlsare
+    md5: f7c0e07baee1615a8fb4fcee81110310
+    md5_10: f7c0e07bae
+    md5_5: f7c0e
+    md5_6: f7c0e0
+    oomp_key: oomp_nxmq_animegirlsare_kanbaru
+    oomp_key_extra: oomp_footprint_nxmq_animegirlsare_kanbaru
+    oomp_key_full: oomp_footprint_nxmq_animegirlsare_kanbaru_f7c0e0
+    oomp_key_simple: nxmq_animegirlsare_kanbaru
+    original_filename: animegirlsare.pretty/kanbaru.kicad_mod
+    owner_name: nxmq
   oomp_key: oomp_nxmq_animegirlsare_kanbaru
+  oomp_key_full: oomp_footprint_nxmq_animegirlsare_kanbaru
   oomp_key_simple: nxmq_animegirlsare_kanbaru
   owner: nxmq
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/norbotnorway_norbotkicadfootprints_hmc5883/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/norbotnorway_norbotkicadfootprints_hmc5883/working
-    oomp_doc: footprints/footprints/NorbotNorway/NorBotKiCadFootprints/HMC5883/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/NorbotNorway/NorBotKiCadFootprints/HMC5883/working
     oomp_src_flat: footprints_flat/footprints_flat/norbotnorway_norbotkicadfootprints_hmc5883/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/norbotnorway_norbotkicadfootprints_hmc5883/working
-    oomp_src_folder: footprints_folder/footprints_folder/NorbotNorway/NorBotKiCadFootprints/HMC5883/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/NorbotNorway/NorBotKiCadFootprints/HMC5883/working
   name: NorBotKiCadFootprints.pretty
+  oomp:
+    footprint_name: hmc5883
+    library_name: norbotkicadfootprints
+    md5: 15c8661718f9df2bdd8125c1d29f0e6f
+    md5_10: 15c8661718
+    md5_5: 15c86
+    md5_6: 15c866
+    oomp_key: oomp_norbotnorway_norbotkicadfootprints_hmc5883
+    oomp_key_extra: oomp_footprint_norbotnorway_norbotkicadfootprints_hmc5883
+    oomp_key_full: oomp_footprint_norbotnorway_norbotkicadfootprints_hmc5883_15c866
+    oomp_key_simple: norbotnorway_norbotkicadfootprints_hmc5883
+    original_filename: NorBotKiCadFootprints.pretty/HMC5883.kicad_mod
+    owner_name: norbotnorway
   oomp_key: oomp_norbotnorway_norbotkicadfootprints_hmc5883
+  oomp_key_full: oomp_footprint_norbotnorway_norbotkicadfootprints_hmc5883
   oomp_key_simple: norbotnorway_norbotkicadfootprints_hmc5883
   owner: NorbotNorway
   repo:

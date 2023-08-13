@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/candykingdom_homebrew_eg2355_nd/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/candykingdom_homebrew_eg2355_nd/working
-    oomp_doc: footprints/footprints/candykingdom/homebrew/EG2355-ND/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/candykingdom/homebrew/EG2355-ND/working
     oomp_src_flat: footprints_flat/footprints_flat/candykingdom_homebrew_eg2355_nd/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/candykingdom_homebrew_eg2355_nd/working
-    oomp_src_folder: footprints_folder/footprints_folder/candykingdom/homebrew/EG2355-ND/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/candykingdom/homebrew/EG2355-ND/working
   name: homebrew.pretty
+  oomp:
+    footprint_name: eg2355_nd
+    library_name: homebrew
+    md5: 7c3b708fd123a2a5530c3a6a1cf70142
+    md5_10: 7c3b708fd1
+    md5_5: 7c3b7
+    md5_6: 7c3b70
+    oomp_key: oomp_candykingdom_homebrew_eg2355_nd
+    oomp_key_extra: oomp_footprint_candykingdom_homebrew_eg2355_nd
+    oomp_key_full: oomp_footprint_candykingdom_homebrew_eg2355_nd_7c3b70
+    oomp_key_simple: candykingdom_homebrew_eg2355_nd
+    original_filename: homebrew.pretty/EG2355-ND.kicad_mod
+    owner_name: candykingdom
   oomp_key: oomp_candykingdom_homebrew_eg2355_nd
+  oomp_key_full: oomp_footprint_candykingdom_homebrew_eg2355_nd
   oomp_key_simple: candykingdom_homebrew_eg2355_nd
   owner: candykingdom
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/axello_1w_grove_v0_1_f1845623_3p/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/axello_1w_grove_v0_1_f1845623_3p/working
-    oomp_doc: footprints/footprints/axello/1w-grove-v0.1/F1845623-3p/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/axello/1w-grove-v0.1/F1845623-3p/working
     oomp_src_flat: footprints_flat/footprints_flat/axello_1w_grove_v0_1_f1845623_3p/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/axello_1w_grove_v0_1_f1845623_3p/working
-    oomp_src_folder: footprints_folder/footprints_folder/axello/1w-grove-v0.1/F1845623-3p/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/axello/1w-grove-v0.1/F1845623-3p/working
   name: kicad
+  oomp:
+    footprint_name: f1845623_3p
+    library_name: 1w_grove_v0_1
+    md5: 80b064062b7eeb8e5f7805535aa017b5
+    md5_10: 80b064062b
+    md5_5: 80b06
+    md5_6: 80b064
+    oomp_key: oomp_axello_1w_grove_v0_1_f1845623_3p
+    oomp_key_extra: oomp_footprint_axello_1w_grove_v0_1_f1845623_3p
+    oomp_key_full: oomp_footprint_axello_1w_grove_v0_1_f1845623_3p_80b064
+    oomp_key_simple: axello_1w_grove_v0_1_f1845623_3p
+    original_filename: kicad/6.0/projects/1w-grove-v0.1/1w-grove-v0.1.pretty/F1845623-3p.kicad_mod
+    owner_name: axello
   oomp_key: oomp_axello_1w_grove_v0_1_f1845623_3p
+  oomp_key_full: oomp_footprint_axello_1w_grove_v0_1_f1845623_3p
   oomp_key_simple: axello_1w_grove_v0_1_f1845623_3p
   owner: axello
   repo:

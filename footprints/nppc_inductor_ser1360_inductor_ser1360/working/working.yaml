@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/nppc_inductor_ser1360_inductor_ser1360/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nppc_inductor_ser1360_inductor_ser1360/working
-    oomp_doc: footprints/footprints/nppc/Inductor_SER1360.kicad_mod/Inductor_SER1360/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/nppc/Inductor_SER1360.kicad_mod/Inductor_SER1360/working
     oomp_src_flat: footprints_flat/footprints_flat/nppc_inductor_ser1360_inductor_ser1360/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nppc_inductor_ser1360_inductor_ser1360/working
-    oomp_src_folder: footprints_folder/footprints_folder/nppc/Inductor_SER1360.kicad_mod/Inductor_SER1360/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/nppc/Inductor_SER1360.kicad_mod/Inductor_SER1360/working
   name: KiCadCustomLibs
+  oomp:
+    footprint_name: inductor_ser1360
+    library_name: inductor_ser1360_kicad_mod
+    md5: 8a1e0a1cfc0a8a1b41755aae911c868b
+    md5_10: 8a1e0a1cfc
+    md5_5: 8a1e0
+    md5_6: 8a1e0a
+    oomp_key: oomp_nppc_inductor_ser1360_inductor_ser1360
+    oomp_key_extra: oomp_footprint_nppc_inductor_ser1360_inductor_ser1360
+    oomp_key_full: oomp_footprint_nppc_inductor_ser1360_inductor_ser1360_8a1e0a
+    oomp_key_simple: nppc_inductor_ser1360_inductor_ser1360
+    original_filename: KiCadCustomLibs/Inductor_SER1360.kicad_mod
+    owner_name: nppc
   oomp_key: oomp_nppc_inductor_ser1360_inductor_ser1360
+  oomp_key_full: oomp_footprint_nppc_inductor_ser1360_inductor_ser1360
   oomp_key_simple: nppc_inductor_ser1360_inductor_ser1360
   owner: nppc
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/c_base_kicad_cbase_c_base_logo_ceva/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/c_base_kicad_cbase_c_base_logo_ceva/working
-    oomp_doc: footprints/footprints/c-base/kicad-cbase/c-base-logo-ceva/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/c-base/kicad-cbase/c-base-logo-ceva/working
     oomp_src_flat: footprints_flat/footprints_flat/c_base_kicad_cbase_c_base_logo_ceva/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/c_base_kicad_cbase_c_base_logo_ceva/working
-    oomp_src_folder: footprints_folder/footprints_folder/c-base/kicad-cbase/c-base-logo-ceva/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/c-base/kicad-cbase/c-base-logo-ceva/working
   name: kicad-cbase.pretty
+  oomp:
+    footprint_name: c_base_logo_ceva
+    library_name: kicad_cbase
+    md5: d1d0ec9e8bdc32360ebcedf1b2188d16
+    md5_10: d1d0ec9e8b
+    md5_5: d1d0e
+    md5_6: d1d0ec
+    oomp_key: oomp_c_base_kicad_cbase_c_base_logo_ceva
+    oomp_key_extra: oomp_footprint_c_base_kicad_cbase_c_base_logo_ceva
+    oomp_key_full: oomp_footprint_c_base_kicad_cbase_c_base_logo_ceva_d1d0ec
+    oomp_key_simple: c_base_kicad_cbase_c_base_logo_ceva
+    original_filename: kicad-cbase.pretty/logos/c-base-logo-ceva.kicad_mod
+    owner_name: c_base
   oomp_key: oomp_c_base_kicad_cbase_c_base_logo_ceva
+  oomp_key_full: oomp_footprint_c_base_kicad_cbase_c_base_logo_ceva
   oomp_key_simple: c_base_kicad_cbase_c_base_logo_ceva
   owner: c-base
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/celeritous_kicad_qfn44_7x7x0_5_pwr/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/celeritous_kicad_qfn44_7x7x0_5_pwr/working
-    oomp_doc: footprints/footprints/celeritous/KiCad/QFN44_7X7X0.5_PWR/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/celeritous/KiCad/QFN44_7X7X0.5_PWR/working
     oomp_src_flat: footprints_flat/footprints_flat/celeritous_kicad_qfn44_7x7x0_5_pwr/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/celeritous_kicad_qfn44_7x7x0_5_pwr/working
-    oomp_src_folder: footprints_folder/footprints_folder/celeritous/KiCad/QFN44_7X7X0.5_PWR/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/celeritous/KiCad/QFN44_7X7X0.5_PWR/working
   name: KiCad.pretty
+  oomp:
+    footprint_name: qfn44_7x7x0_5_pwr
+    library_name: kicad
+    md5: 8b15a6d59069bf7c39a4d5223ce343c0
+    md5_10: 8b15a6d590
+    md5_5: 8b15a
+    md5_6: 8b15a6
+    oomp_key: oomp_celeritous_kicad_qfn44_7x7x0_5_pwr
+    oomp_key_extra: oomp_footprint_celeritous_kicad_qfn44_7x7x0_5_pwr
+    oomp_key_full: oomp_footprint_celeritous_kicad_qfn44_7x7x0_5_pwr_8b15a6
+    oomp_key_simple: celeritous_kicad_qfn44_7x7x0_5_pwr
+    original_filename: KiCad.pretty/QFN44_7X7X0.5_PWR.kicad_mod
+    owner_name: celeritous
   oomp_key: oomp_celeritous_kicad_qfn44_7x7x0_5_pwr
+  oomp_key_full: oomp_footprint_celeritous_kicad_qfn44_7x7x0_5_pwr
   oomp_key_simple: celeritous_kicad_qfn44_7x7x0_5_pwr
   owner: celeritous
   repo:

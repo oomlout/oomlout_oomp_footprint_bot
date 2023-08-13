@@ -13,17 +13,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_mounting_wuerth_mounting_wuerth_wa_smsi_m1_6_h4_5mm_threaddepth2mm_nonpth_97730456330/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_mounting_wuerth_mounting_wuerth_wa_smsi_m1_6_h4_5mm_threaddepth2mm_nonpth_97730456330/working
-    oomp_doc: footprints/footprints/kicad/Mounting_Wuerth/Mounting_Wuerth_WA-SMSI-M1.6_H4.5mm_ThreadDepth2mm_NoNPTH_97730456330/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Mounting_Wuerth/Mounting_Wuerth_WA-SMSI-M1.6_H4.5mm_ThreadDepth2mm_NoNPTH_97730456330/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_mounting_wuerth_mounting_wuerth_wa_smsi_m1_6_h4_5mm_threaddepth2mm_nonpth_97730456330/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_mounting_wuerth_mounting_wuerth_wa_smsi_m1_6_h4_5mm_threaddepth2mm_nonpth_97730456330/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Mounting_Wuerth/Mounting_Wuerth_WA-SMSI-M1.6_H4.5mm_ThreadDepth2mm_NoNPTH_97730456330/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Mounting_Wuerth/Mounting_Wuerth_WA-SMSI-M1.6_H4.5mm_ThreadDepth2mm_NoNPTH_97730456330/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: mounting_wuerth_wa_smsi_m1_6_h4_5mm_threaddepth2mm_nonpth_97730456330
+    library_name: mounting_wuerth
+    md5: 5c94f2fa4d190abfa3428ad3725bfa25
+    md5_10: 5c94f2fa4d
+    md5_5: 5c94f
+    md5_6: 5c94f2
+    oomp_key: oomp_kicad_mounting_wuerth_mounting_wuerth_wa_smsi_m1_6_h4_5mm_threaddepth2mm_nonpth_97730456330
+    oomp_key_extra: oomp_footprint_kicad_mounting_wuerth_mounting_wuerth_wa_smsi_m1_6_h4_5mm_threaddepth2mm_nonpth_97730456330
+    oomp_key_full: oomp_footprint_kicad_mounting_wuerth_mounting_wuerth_wa_smsi_m1_6_h4_5mm_threaddepth2mm_nonpth_97730456330_5c94f2
+    oomp_key_simple: kicad_mounting_wuerth_mounting_wuerth_wa_smsi_m1_6_h4_5mm_threaddepth2mm_nonpth_97730456330
+    original_filename: libraries/kicad-footprints/Mounting_Wuerth.pretty/Mounting_Wuerth_WA-SMSI-M1.6_H4.5mm_ThreadDepth2mm_NoNPTH_97730456330.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_mounting_wuerth_mounting_wuerth_wa_smsi_m1_6_h4_5mm_threaddepth2mm_nonpth_97730456330
+  oomp_key_full: oomp_footprint_kicad_mounting_wuerth_mounting_wuerth_wa_smsi_m1_6_h4_5mm_threaddepth2mm_nonpth_97730456330
   oomp_key_simple: kicad_mounting_wuerth_mounting_wuerth_wa_smsi_m1_6_h4_5mm_threaddepth2mm_nonpth_97730456330
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

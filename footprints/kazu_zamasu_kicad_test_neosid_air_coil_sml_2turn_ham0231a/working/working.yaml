@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kazu_zamasu_kicad_test_neosid_air_coil_sml_2turn_ham0231a/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kazu_zamasu_kicad_test_neosid_air_coil_sml_2turn_ham0231a/working
-    oomp_doc: footprints/footprints/Kazu-zamasu/kicad-test/Neosid_Air-Coil_SML_2turn_HAM0231A/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Kazu-zamasu/kicad-test/Neosid_Air-Coil_SML_2turn_HAM0231A/working
     oomp_src_flat: footprints_flat/footprints_flat/kazu_zamasu_kicad_test_neosid_air_coil_sml_2turn_ham0231a/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kazu_zamasu_kicad_test_neosid_air_coil_sml_2turn_ham0231a/working
-    oomp_src_folder: footprints_folder/footprints_folder/Kazu-zamasu/kicad-test/Neosid_Air-Coil_SML_2turn_HAM0231A/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Kazu-zamasu/kicad-test/Neosid_Air-Coil_SML_2turn_HAM0231A/working
   name: kicad-test.pretty
+  oomp:
+    footprint_name: neosid_air_coil_sml_2turn_ham0231a
+    library_name: kicad_test
+    md5: 65e4f8c4b72f92c5898baa3d5c0ce118
+    md5_10: 65e4f8c4b7
+    md5_5: 65e4f
+    md5_6: 65e4f8
+    oomp_key: oomp_kazu_zamasu_kicad_test_neosid_air_coil_sml_2turn_ham0231a
+    oomp_key_extra: oomp_footprint_kazu_zamasu_kicad_test_neosid_air_coil_sml_2turn_ham0231a
+    oomp_key_full: oomp_footprint_kazu_zamasu_kicad_test_neosid_air_coil_sml_2turn_ham0231a_65e4f8
+    oomp_key_simple: kazu_zamasu_kicad_test_neosid_air_coil_sml_2turn_ham0231a
+    original_filename: kicad-test.pretty/Neosid_Air-Coil_SML_2turn_HAM0231A.kicad_mod
+    owner_name: kazu_zamasu
   oomp_key: oomp_kazu_zamasu_kicad_test_neosid_air_coil_sml_2turn_ham0231a
+  oomp_key_full: oomp_footprint_kazu_zamasu_kicad_test_neosid_air_coil_sml_2turn_ham0231a
   oomp_key_simple: kazu_zamasu_kicad_test_neosid_air_coil_sml_2turn_ham0231a
   owner: Kazu-zamasu
   repo:

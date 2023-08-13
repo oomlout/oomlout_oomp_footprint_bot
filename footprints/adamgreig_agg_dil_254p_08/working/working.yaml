@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/adamgreig/agg-kicad
     oomp_bot: footprints/adamgreig_agg_dil_254p_08/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/adamgreig_agg_dil_254p_08/working
-    oomp_doc: footprints/footprints/adamgreig/agg/DIL-254P-08/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/adamgreig/agg/DIL-254P-08/working
     oomp_src_flat: footprints_flat/footprints_flat/adamgreig_agg_dil_254p_08/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/adamgreig_agg_dil_254p_08/working
-    oomp_src_folder: footprints_folder/footprints_folder/adamgreig/agg/DIL-254P-08/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/adamgreig/agg/DIL-254P-08/working
   name: agg-kicad
+  oomp:
+    footprint_name: dil_254p_08
+    library_name: agg
+    md5: c7c90849d34a0e7d9c974af44f5bd2b0
+    md5_10: c7c90849d3
+    md5_5: c7c90
+    md5_6: c7c908
+    oomp_key: oomp_adamgreig_agg_dil_254p_08
+    oomp_key_extra: oomp_footprint_adamgreig_agg_dil_254p_08
+    oomp_key_full: oomp_footprint_adamgreig_agg_dil_254p_08_c7c908
+    oomp_key_simple: adamgreig_agg_dil_254p_08
+    original_filename: agg-kicad/agg.pretty/DIL-254P-08.kicad_mod
+    owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_dil_254p_08
+  oomp_key_full: oomp_footprint_adamgreig_agg_dil_254p_08
   oomp_key_simple: adamgreig_agg_dil_254p_08
   owner: adamgreig
   repo:

@@ -13,18 +13,25 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/re_innovation_curiouselectric3_tcec_words_13mm_fcu/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/re_innovation_curiouselectric3_tcec_words_13mm_fcu/working
-    oomp_doc: footprints/footprints/re-innovation/CuriousElectric3/TCEC_Words_13mm
-      FCu/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/re-innovation/CuriousElectric3/TCEC_Words_13mm
-      FCu/working
     oomp_src_flat: footprints_flat/footprints_flat/re_innovation_curiouselectric3_tcec_words_13mm_fcu/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/re_innovation_curiouselectric3_tcec_words_13mm_fcu/working
-    oomp_src_folder: footprints_folder/footprints_folder/re-innovation/CuriousElectric3/TCEC_Words_13mm
-      FCu/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/re-innovation/CuriousElectric3/TCEC_Words_13mm
-      FCu/working
   name: kicad_reinnovation
+  oomp:
+    footprint_name: tcec_words_13mm_fcu
+    library_name: curiouselectric3
+    md5: d6e3da3152736613c7a153b5c2c6ae66
+    md5_10: d6e3da3152
+    md5_5: d6e3d
+    md5_6: d6e3da
+    oomp_key: oomp_re_innovation_curiouselectric3_tcec_words_13mm_fcu
+    oomp_key_extra: oomp_footprint_re_innovation_curiouselectric3_tcec_words_13mm_fcu
+    oomp_key_full: oomp_footprint_re_innovation_curiouselectric3_tcec_words_13mm_fcu_d6e3da
+    oomp_key_simple: re_innovation_curiouselectric3_tcec_words_13mm_fcu
+    original_filename: kicad_reinnovation/KiCAD PRETTY/CuriousElectric3.pretty/TCEC_Words_13mm
+      FCu.kicad_mod
+    owner_name: re_innovation
   oomp_key: oomp_re_innovation_curiouselectric3_tcec_words_13mm_fcu
+  oomp_key_full: oomp_footprint_re_innovation_curiouselectric3_tcec_words_13mm_fcu
   oomp_key_simple: re_innovation_curiouselectric3_tcec_words_13mm_fcu
   owner: re-innovation
   repo:

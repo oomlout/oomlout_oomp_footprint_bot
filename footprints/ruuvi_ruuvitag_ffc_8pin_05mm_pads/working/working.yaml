@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/ruuvi_ruuvitag_ffc_8pin_05mm_pads/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ruuvi_ruuvitag_ffc_8pin_05mm_pads/working
-    oomp_doc: footprints/footprints/ruuvi/RuuviTag/FFC_8PIN_05MM_PADS/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ruuvi/RuuviTag/FFC_8PIN_05MM_PADS/working
     oomp_src_flat: footprints_flat/footprints_flat/ruuvi_ruuvitag_ffc_8pin_05mm_pads/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ruuvi_ruuvitag_ffc_8pin_05mm_pads/working
-    oomp_src_folder: footprints_folder/footprints_folder/ruuvi/RuuviTag/FFC_8PIN_05MM_PADS/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ruuvi/RuuviTag/FFC_8PIN_05MM_PADS/working
   name: kicad-library
+  oomp:
+    footprint_name: ffc_8pin_05mm_pads
+    library_name: ruuvitag
+    md5: f2bf809048fab7512060ba76b76d11fc
+    md5_10: f2bf809048
+    md5_5: f2bf8
+    md5_6: f2bf80
+    oomp_key: oomp_ruuvi_ruuvitag_ffc_8pin_05mm_pads
+    oomp_key_extra: oomp_footprint_ruuvi_ruuvitag_ffc_8pin_05mm_pads
+    oomp_key_full: oomp_footprint_ruuvi_ruuvitag_ffc_8pin_05mm_pads_f2bf80
+    oomp_key_simple: ruuvi_ruuvitag_ffc_8pin_05mm_pads
+    original_filename: kicad-library/RuuviTag.pretty/FFC_8PIN_05MM_PADS.kicad_mod
+    owner_name: ruuvi
   oomp_key: oomp_ruuvi_ruuvitag_ffc_8pin_05mm_pads
+  oomp_key_full: oomp_footprint_ruuvi_ruuvitag_ffc_8pin_05mm_pads
   oomp_key_simple: ruuvi_ruuvitag_ffc_8pin_05mm_pads
   owner: ruuvi
   repo:

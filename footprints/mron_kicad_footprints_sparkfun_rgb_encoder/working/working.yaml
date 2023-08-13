@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/mron_kicad_footprints_sparkfun_rgb_encoder/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/mron_kicad_footprints_sparkfun_rgb_encoder/working
-    oomp_doc: footprints/footprints/mron/kicad_footprints/SparkFun_RGB_Encoder/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/mron/kicad_footprints/SparkFun_RGB_Encoder/working
     oomp_src_flat: footprints_flat/footprints_flat/mron_kicad_footprints_sparkfun_rgb_encoder/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/mron_kicad_footprints_sparkfun_rgb_encoder/working
-    oomp_src_folder: footprints_folder/footprints_folder/mron/kicad_footprints/SparkFun_RGB_Encoder/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/mron/kicad_footprints/SparkFun_RGB_Encoder/working
   name: kicad_footprints.pretty
+  oomp:
+    footprint_name: sparkfun_rgb_encoder
+    library_name: kicad_footprints
+    md5: adb8a8878b03b34df120ff3c271f17f0
+    md5_10: adb8a8878b
+    md5_5: adb8a
+    md5_6: adb8a8
+    oomp_key: oomp_mron_kicad_footprints_sparkfun_rgb_encoder
+    oomp_key_extra: oomp_footprint_mron_kicad_footprints_sparkfun_rgb_encoder
+    oomp_key_full: oomp_footprint_mron_kicad_footprints_sparkfun_rgb_encoder_adb8a8
+    oomp_key_simple: mron_kicad_footprints_sparkfun_rgb_encoder
+    original_filename: kicad_footprints.pretty/SparkFun_RGB_Encoder.kicad_mod
+    owner_name: mron
   oomp_key: oomp_mron_kicad_footprints_sparkfun_rgb_encoder
+  oomp_key_full: oomp_footprint_mron_kicad_footprints_sparkfun_rgb_encoder
   oomp_key_simple: mron_kicad_footprints_sparkfun_rgb_encoder
   owner: mron
   repo:

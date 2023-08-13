@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/rocketscream_rocketscreamkicadlibrary_eecs0hdxxxh/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/rocketscream_rocketscreamkicadlibrary_eecs0hdxxxh/working
-    oomp_doc: footprints/footprints/rocketscream/RocketScreamKicadLibrary/EECS0HDxxxH/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/rocketscream/RocketScreamKicadLibrary/EECS0HDxxxH/working
     oomp_src_flat: footprints_flat/footprints_flat/rocketscream_rocketscreamkicadlibrary_eecs0hdxxxh/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/rocketscream_rocketscreamkicadlibrary_eecs0hdxxxh/working
-    oomp_src_folder: footprints_folder/footprints_folder/rocketscream/RocketScreamKicadLibrary/EECS0HDxxxH/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/rocketscream/RocketScreamKicadLibrary/EECS0HDxxxH/working
   name: RocketScreamKicadLibrary
+  oomp:
+    footprint_name: eecs0hdxxxh
+    library_name: rocketscreamkicadlibrary
+    md5: 75f613534789024b6a5d3d79f4b0773e
+    md5_10: 75f6135347
+    md5_5: 75f61
+    md5_6: 75f613
+    oomp_key: oomp_rocketscream_rocketscreamkicadlibrary_eecs0hdxxxh
+    oomp_key_extra: oomp_footprint_rocketscream_rocketscreamkicadlibrary_eecs0hdxxxh
+    oomp_key_full: oomp_footprint_rocketscream_rocketscreamkicadlibrary_eecs0hdxxxh_75f613
+    oomp_key_simple: rocketscream_rocketscreamkicadlibrary_eecs0hdxxxh
+    original_filename: RocketScreamKicadLibrary/RocketScreamKicadLibrary.pretty/EECS0HDxxxH.kicad_mod
+    owner_name: rocketscream
   oomp_key: oomp_rocketscream_rocketscreamkicadlibrary_eecs0hdxxxh
+  oomp_key_full: oomp_footprint_rocketscream_rocketscreamkicadlibrary_eecs0hdxxxh
   oomp_key_simple: rocketscream_rocketscreamkicadlibrary_eecs0hdxxxh
   owner: rocketscream
   repo:

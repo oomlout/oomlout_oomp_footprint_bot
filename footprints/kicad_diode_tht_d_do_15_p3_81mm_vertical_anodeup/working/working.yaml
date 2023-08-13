@@ -12,17 +12,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_diode_tht_d_do_15_p3_81mm_vertical_anodeup/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_diode_tht_d_do_15_p3_81mm_vertical_anodeup/working
-    oomp_doc: footprints/footprints/kicad/Diode_THT/D_DO-15_P3.81mm_Vertical_AnodeUp/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Diode_THT/D_DO-15_P3.81mm_Vertical_AnodeUp/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_diode_tht_d_do_15_p3_81mm_vertical_anodeup/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_diode_tht_d_do_15_p3_81mm_vertical_anodeup/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Diode_THT/D_DO-15_P3.81mm_Vertical_AnodeUp/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Diode_THT/D_DO-15_P3.81mm_Vertical_AnodeUp/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: d_do_15_p3_81mm_vertical_anodeup
+    library_name: diode_tht
+    md5: 04804ac22c7443b95f3502e5b04be920
+    md5_10: 04804ac22c
+    md5_5: 04804
+    md5_6: 04804a
+    oomp_key: oomp_kicad_diode_tht_d_do_15_p3_81mm_vertical_anodeup
+    oomp_key_extra: oomp_footprint_kicad_diode_tht_d_do_15_p3_81mm_vertical_anodeup
+    oomp_key_full: oomp_footprint_kicad_diode_tht_d_do_15_p3_81mm_vertical_anodeup_04804a
+    oomp_key_simple: kicad_diode_tht_d_do_15_p3_81mm_vertical_anodeup
+    original_filename: libraries/kicad-footprints/Diode_THT.pretty/D_DO-15_P3.81mm_Vertical_AnodeUp.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_diode_tht_d_do_15_p3_81mm_vertical_anodeup
+  oomp_key_full: oomp_footprint_kicad_diode_tht_d_do_15_p3_81mm_vertical_anodeup
   oomp_key_simple: kicad_diode_tht_d_do_15_p3_81mm_vertical_anodeup
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

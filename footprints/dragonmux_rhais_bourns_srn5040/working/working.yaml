@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/dragonmux_rhais_bourns_srn5040/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/dragonmux_rhais_bourns_srn5040/working
-    oomp_doc: footprints/footprints/dragonmux/rhais_bourns/SRN5040/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/dragonmux/rhais_bourns/SRN5040/working
     oomp_src_flat: footprints_flat/footprints_flat/dragonmux_rhais_bourns_srn5040/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/dragonmux_rhais_bourns_srn5040/working
-    oomp_src_folder: footprints_folder/footprints_folder/dragonmux/rhais_bourns/SRN5040/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/dragonmux/rhais_bourns/SRN5040/working
   name: rhais_bourns.pretty
+  oomp:
+    footprint_name: srn5040
+    library_name: rhais_bourns
+    md5: 77ab2d6d7c58e672d794ff97b071060c
+    md5_10: 77ab2d6d7c
+    md5_5: 77ab2
+    md5_6: 77ab2d
+    oomp_key: oomp_dragonmux_rhais_bourns_srn5040
+    oomp_key_extra: oomp_footprint_dragonmux_rhais_bourns_srn5040
+    oomp_key_full: oomp_footprint_dragonmux_rhais_bourns_srn5040_77ab2d
+    oomp_key_simple: dragonmux_rhais_bourns_srn5040
+    original_filename: rhais_bourns.pretty/SRN5040.kicad_mod
+    owner_name: dragonmux
   oomp_key: oomp_dragonmux_rhais_bourns_srn5040
+  oomp_key_full: oomp_footprint_dragonmux_rhais_bourns_srn5040
   oomp_key_simple: dragonmux_rhais_bourns_srn5040
   owner: dragonmux
   repo:

@@ -14,14 +14,24 @@
     github_src_repo: https://github.com/AcheronProject/acheron_Components.pretty
     oomp_bot: footprints/acheronproject_acheron_components_uqfn_48_1ep_6x6mm_p0_4mm_ep4_62x4_62mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/acheronproject_acheron_components_uqfn_48_1ep_6x6mm_p0_4mm_ep4_62x4_62mm/working
-    oomp_doc: footprints/footprints/AcheronProject/acheron_Components/UQFN-48-1EP_6x6mm_P0.4mm_EP4.62x4.62mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/AcheronProject/acheron_Components/UQFN-48-1EP_6x6mm_P0.4mm_EP4.62x4.62mm/working
     oomp_src_flat: footprints_flat/footprints_flat/acheronproject_acheron_components_uqfn_48_1ep_6x6mm_p0_4mm_ep4_62x4_62mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/acheronproject_acheron_components_uqfn_48_1ep_6x6mm_p0_4mm_ep4_62x4_62mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/AcheronProject/acheron_Components/UQFN-48-1EP_6x6mm_P0.4mm_EP4.62x4.62mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/AcheronProject/acheron_Components/UQFN-48-1EP_6x6mm_P0.4mm_EP4.62x4.62mm/working
   name: acheron_Components.pretty
+  oomp:
+    footprint_name: uqfn_48_1ep_6x6mm_p0_4mm_ep4_62x4_62mm
+    library_name: acheron_components
+    md5: 1a4bdc481d93a80627738ceb602d17e1
+    md5_10: 1a4bdc481d
+    md5_5: 1a4bd
+    md5_6: 1a4bdc
+    oomp_key: oomp_acheronproject_acheron_components_uqfn_48_1ep_6x6mm_p0_4mm_ep4_62x4_62mm
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_components_uqfn_48_1ep_6x6mm_p0_4mm_ep4_62x4_62mm
+    oomp_key_full: oomp_footprint_acheronproject_acheron_components_uqfn_48_1ep_6x6mm_p0_4mm_ep4_62x4_62mm_1a4bdc
+    oomp_key_simple: acheronproject_acheron_components_uqfn_48_1ep_6x6mm_p0_4mm_ep4_62x4_62mm
+    original_filename: acheron_Components.pretty/UQFN-48-1EP_6x6mm_P0.4mm_EP4.62x4.62mm.kicad_mod
+    owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_components_uqfn_48_1ep_6x6mm_p0_4mm_ep4_62x4_62mm
+  oomp_key_full: oomp_footprint_acheronproject_acheron_components_uqfn_48_1ep_6x6mm_p0_4mm_ep4_62x4_62mm
   oomp_key_simple: acheronproject_acheron_components_uqfn_48_1ep_6x6mm_p0_4mm_ep4_62x4_62mm
   owner: AcheronProject
   repo:

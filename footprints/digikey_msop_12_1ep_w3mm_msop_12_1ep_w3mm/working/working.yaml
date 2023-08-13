@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/digikey_msop_12_1ep_w3mm_msop_12_1ep_w3mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_msop_12_1ep_w3mm_msop_12_1ep_w3mm/working
-    oomp_doc: footprints/footprints/digikey/MSOP-12-1EP_W3mm.kicad_mod/MSOP-12-1EP_W3mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/digikey/MSOP-12-1EP_W3mm.kicad_mod/MSOP-12-1EP_W3mm/working
     oomp_src_flat: footprints_flat/footprints_flat/digikey_msop_12_1ep_w3mm_msop_12_1ep_w3mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/digikey_msop_12_1ep_w3mm_msop_12_1ep_w3mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/digikey/MSOP-12-1EP_W3mm.kicad_mod/MSOP-12-1EP_W3mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/digikey/MSOP-12-1EP_W3mm.kicad_mod/MSOP-12-1EP_W3mm/working
   name: digikey-kicad-library
+  oomp:
+    footprint_name: msop_12_1ep_w3mm
+    library_name: msop_12_1ep_w3mm_kicad_mod
+    md5: 49e8b71f483274ee9b4a5085c9ad0d54
+    md5_10: 49e8b71f48
+    md5_5: 49e8b
+    md5_6: 49e8b7
+    oomp_key: oomp_digikey_msop_12_1ep_w3mm_msop_12_1ep_w3mm
+    oomp_key_extra: oomp_footprint_digikey_msop_12_1ep_w3mm_msop_12_1ep_w3mm
+    oomp_key_full: oomp_footprint_digikey_msop_12_1ep_w3mm_msop_12_1ep_w3mm_49e8b7
+    oomp_key_simple: digikey_msop_12_1ep_w3mm_msop_12_1ep_w3mm
+    original_filename: digikey-kicad-library/src/Source_Footprints/MSOP-12-1EP_W3mm.kicad_mod
+    owner_name: digikey
   oomp_key: oomp_digikey_msop_12_1ep_w3mm_msop_12_1ep_w3mm
+  oomp_key_full: oomp_footprint_digikey_msop_12_1ep_w3mm_msop_12_1ep_w3mm
   oomp_key_simple: digikey_msop_12_1ep_w3mm_msop_12_1ep_w3mm
   owner: digikey
   repo:

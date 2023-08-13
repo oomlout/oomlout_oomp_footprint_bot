@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/nqbit_nqbit_qfn_56_1ep_7x7mm_pitch0_5mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nqbit_nqbit_qfn_56_1ep_7x7mm_pitch0_5mm/working
-    oomp_doc: footprints/footprints/nqbit/NQBit/QFN-56-1EP_7x7mm_Pitch0.5mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/nqbit/NQBit/QFN-56-1EP_7x7mm_Pitch0.5mm/working
     oomp_src_flat: footprints_flat/footprints_flat/nqbit_nqbit_qfn_56_1ep_7x7mm_pitch0_5mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nqbit_nqbit_qfn_56_1ep_7x7mm_pitch0_5mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/nqbit/NQBit/QFN-56-1EP_7x7mm_Pitch0.5mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/nqbit/NQBit/QFN-56-1EP_7x7mm_Pitch0.5mm/working
   name: NQBit.pretty
+  oomp:
+    footprint_name: qfn_56_1ep_7x7mm_pitch0_5mm
+    library_name: nqbit
+    md5: 5b7676f739a2a574cb1f617ba395440d
+    md5_10: 5b7676f739
+    md5_5: 5b767
+    md5_6: 5b7676
+    oomp_key: oomp_nqbit_nqbit_qfn_56_1ep_7x7mm_pitch0_5mm
+    oomp_key_extra: oomp_footprint_nqbit_nqbit_qfn_56_1ep_7x7mm_pitch0_5mm
+    oomp_key_full: oomp_footprint_nqbit_nqbit_qfn_56_1ep_7x7mm_pitch0_5mm_5b7676
+    oomp_key_simple: nqbit_nqbit_qfn_56_1ep_7x7mm_pitch0_5mm
+    original_filename: NQBit.pretty/QFN-56-1EP_7x7mm_Pitch0.5mm.kicad_mod
+    owner_name: nqbit
   oomp_key: oomp_nqbit_nqbit_qfn_56_1ep_7x7mm_pitch0_5mm
+  oomp_key_full: oomp_footprint_nqbit_nqbit_qfn_56_1ep_7x7mm_pitch0_5mm
   oomp_key_simple: nqbit_nqbit_qfn_56_1ep_7x7mm_pitch0_5mm
   owner: nqbit
   repo:

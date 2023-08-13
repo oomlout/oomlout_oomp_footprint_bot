@@ -13,17 +13,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_connector_phoenix_mstb_phoenixcontact_mstb_2,5_4_gf_5,08_1x04_p5_08mm_horizontal_threadedflange/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_connector_phoenix_mstb_phoenixcontact_mstb_2,5_4_gf_5,08_1x04_p5_08mm_horizontal_threadedflange/working
-    oomp_doc: footprints/footprints/kicad/Connector_Phoenix_MSTB/PhoenixContact_MSTB_2,5_4-GF-5,08_1x04_P5.08mm_Horizontal_ThreadedFlange/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Connector_Phoenix_MSTB/PhoenixContact_MSTB_2,5_4-GF-5,08_1x04_P5.08mm_Horizontal_ThreadedFlange/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_connector_phoenix_mstb_phoenixcontact_mstb_2,5_4_gf_5,08_1x04_p5_08mm_horizontal_threadedflange/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_connector_phoenix_mstb_phoenixcontact_mstb_2,5_4_gf_5,08_1x04_p5_08mm_horizontal_threadedflange/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Connector_Phoenix_MSTB/PhoenixContact_MSTB_2,5_4-GF-5,08_1x04_P5.08mm_Horizontal_ThreadedFlange/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Connector_Phoenix_MSTB/PhoenixContact_MSTB_2,5_4-GF-5,08_1x04_P5.08mm_Horizontal_ThreadedFlange/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: phoenixcontact_mstb_2,5_4_gf_5,08_1x04_p5_08mm_horizontal_threadedflange
+    library_name: connector_phoenix_mstb
+    md5: ea5c64926b1d368610c1db85642fc4eb
+    md5_10: ea5c64926b
+    md5_5: ea5c6
+    md5_6: ea5c64
+    oomp_key: oomp_kicad_connector_phoenix_mstb_phoenixcontact_mstb_2,5_4_gf_5,08_1x04_p5_08mm_horizontal_threadedflange
+    oomp_key_extra: oomp_footprint_kicad_connector_phoenix_mstb_phoenixcontact_mstb_2,5_4_gf_5,08_1x04_p5_08mm_horizontal_threadedflange
+    oomp_key_full: oomp_footprint_kicad_connector_phoenix_mstb_phoenixcontact_mstb_2,5_4_gf_5,08_1x04_p5_08mm_horizontal_threadedflange_ea5c64
+    oomp_key_simple: kicad_connector_phoenix_mstb_phoenixcontact_mstb_2,5_4_gf_5,08_1x04_p5_08mm_horizontal_threadedflange
+    original_filename: libraries/kicad-footprints/Connector_Phoenix_MSTB.pretty/PhoenixContact_MSTB_2,5_4-GF-5,08_1x04_P5.08mm_Horizontal_ThreadedFlange.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_connector_phoenix_mstb_phoenixcontact_mstb_2,5_4_gf_5,08_1x04_p5_08mm_horizontal_threadedflange
+  oomp_key_full: oomp_footprint_kicad_connector_phoenix_mstb_phoenixcontact_mstb_2,5_4_gf_5,08_1x04_p5_08mm_horizontal_threadedflange
   oomp_key_simple: kicad_connector_phoenix_mstb_phoenixcontact_mstb_2,5_4_gf_5,08_1x04_p5_08mm_horizontal_threadedflange
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

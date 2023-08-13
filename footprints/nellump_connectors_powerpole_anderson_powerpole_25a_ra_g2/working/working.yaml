@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/nellump_connectors_powerpole_anderson_powerpole_25a_ra_g2/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nellump_connectors_powerpole_anderson_powerpole_25a_ra_g2/working
-    oomp_doc: footprints/footprints/nellump/Connectors_Powerpole/Anderson_Powerpole-25A-RA-G2/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/nellump/Connectors_Powerpole/Anderson_Powerpole-25A-RA-G2/working
     oomp_src_flat: footprints_flat/footprints_flat/nellump_connectors_powerpole_anderson_powerpole_25a_ra_g2/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nellump_connectors_powerpole_anderson_powerpole_25a_ra_g2/working
-    oomp_src_folder: footprints_folder/footprints_folder/nellump/Connectors_Powerpole/Anderson_Powerpole-25A-RA-G2/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/nellump/Connectors_Powerpole/Anderson_Powerpole-25A-RA-G2/working
   name: Connectors_Powerpole.pretty
+  oomp:
+    footprint_name: anderson_powerpole_25a_ra_g2
+    library_name: connectors_powerpole
+    md5: 1f8173e9bfdcdab8ea04af67c097e75c
+    md5_10: 1f8173e9bf
+    md5_5: 1f817
+    md5_6: 1f8173
+    oomp_key: oomp_nellump_connectors_powerpole_anderson_powerpole_25a_ra_g2
+    oomp_key_extra: oomp_footprint_nellump_connectors_powerpole_anderson_powerpole_25a_ra_g2
+    oomp_key_full: oomp_footprint_nellump_connectors_powerpole_anderson_powerpole_25a_ra_g2_1f8173
+    oomp_key_simple: nellump_connectors_powerpole_anderson_powerpole_25a_ra_g2
+    original_filename: Connectors_Powerpole.pretty/Anderson_Powerpole-25A-RA-G2.kicad_mod
+    owner_name: nellump
   oomp_key: oomp_nellump_connectors_powerpole_anderson_powerpole_25a_ra_g2
+  oomp_key_full: oomp_footprint_nellump_connectors_powerpole_anderson_powerpole_25a_ra_g2
   oomp_key_simple: nellump_connectors_powerpole_anderson_powerpole_25a_ra_g2
   owner: nellump
   repo:

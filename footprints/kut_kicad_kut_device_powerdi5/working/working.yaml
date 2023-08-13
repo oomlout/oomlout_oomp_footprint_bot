@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/KUT-KiCad/KUT_Device.pretty
     oomp_bot: footprints/kut_kicad_kut_device_powerdi5/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kut_kicad_kut_device_powerdi5/working
-    oomp_doc: footprints/footprints/KUT-KiCad/KUT_Device/POWERDI5/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/KUT-KiCad/KUT_Device/POWERDI5/working
     oomp_src_flat: footprints_flat/footprints_flat/kut_kicad_kut_device_powerdi5/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kut_kicad_kut_device_powerdi5/working
-    oomp_src_folder: footprints_folder/footprints_folder/KUT-KiCad/KUT_Device/POWERDI5/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/KUT-KiCad/KUT_Device/POWERDI5/working
   name: KUT_Device.pretty
+  oomp:
+    footprint_name: powerdi5
+    library_name: kut_device
+    md5: 5a4ce59fdc49ebd747231a3c2296857f
+    md5_10: 5a4ce59fdc
+    md5_5: 5a4ce
+    md5_6: 5a4ce5
+    oomp_key: oomp_kut_kicad_kut_device_powerdi5
+    oomp_key_extra: oomp_footprint_kut_kicad_kut_device_powerdi5
+    oomp_key_full: oomp_footprint_kut_kicad_kut_device_powerdi5_5a4ce5
+    oomp_key_simple: kut_kicad_kut_device_powerdi5
+    original_filename: KUT_Device.pretty/POWERDI5.kicad_mod
+    owner_name: kut_kicad
   oomp_key: oomp_kut_kicad_kut_device_powerdi5
+  oomp_key_full: oomp_footprint_kut_kicad_kut_device_powerdi5
   oomp_key_simple: kut_kicad_kut_device_powerdi5
   owner: KUT-KiCad
   repo:

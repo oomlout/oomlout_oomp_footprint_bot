@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/fruchti_sot_sot323/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/fruchti_sot_sot323/working
-    oomp_doc: footprints/footprints/fruchti/sot/SOT323/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/fruchti/sot/SOT323/working
     oomp_src_flat: footprints_flat/footprints_flat/fruchti_sot_sot323/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/fruchti_sot_sot323/working
-    oomp_src_folder: footprints_folder/footprints_folder/fruchti/sot/SOT323/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/fruchti/sot/SOT323/working
   name: fruchtilib
+  oomp:
+    footprint_name: sot323
+    library_name: sot
+    md5: fe7a505cc3682c5e84a7cc8b15cc78e1
+    md5_10: fe7a505cc3
+    md5_5: fe7a5
+    md5_6: fe7a50
+    oomp_key: oomp_fruchti_sot_sot323
+    oomp_key_extra: oomp_footprint_fruchti_sot_sot323
+    oomp_key_full: oomp_footprint_fruchti_sot_sot323_fe7a50
+    oomp_key_simple: fruchti_sot_sot323
+    original_filename: fruchtilib/mod/sot.pretty/SOT323.kicad_mod
+    owner_name: fruchti
   oomp_key: oomp_fruchti_sot_sot323
+  oomp_key_full: oomp_footprint_fruchti_sot_sot323
   oomp_key_simple: fruchti_sot_sot323
   owner: fruchti
   repo:

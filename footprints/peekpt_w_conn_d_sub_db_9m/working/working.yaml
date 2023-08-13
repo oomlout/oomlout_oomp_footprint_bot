@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/peekpt_w_conn_d_sub_db_9m/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/peekpt_w_conn_d_sub_db_9m/working
-    oomp_doc: footprints/footprints/peekpt/w_conn_d-sub/DB_9M/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/peekpt/w_conn_d-sub/DB_9M/working
     oomp_src_flat: footprints_flat/footprints_flat/peekpt_w_conn_d_sub_db_9m/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/peekpt_w_conn_d_sub_db_9m/working
-    oomp_src_folder: footprints_folder/footprints_folder/peekpt/w_conn_d-sub/DB_9M/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/peekpt/w_conn_d-sub/DB_9M/working
   name: kicad_smisioto
+  oomp:
+    footprint_name: db_9m
+    library_name: w_conn_d_sub
+    md5: 10a07face3da6f112496122d0da76339
+    md5_10: 10a07face3
+    md5_5: 10a07
+    md5_6: 10a07f
+    oomp_key: oomp_peekpt_w_conn_d_sub_db_9m
+    oomp_key_extra: oomp_footprint_peekpt_w_conn_d_sub_db_9m
+    oomp_key_full: oomp_footprint_peekpt_w_conn_d_sub_db_9m_10a07f
+    oomp_key_simple: peekpt_w_conn_d_sub_db_9m
+    original_filename: kicad_smisioto/modules/walter/w_conn_d-sub.pretty/DB_9M.kicad_mod
+    owner_name: peekpt
   oomp_key: oomp_peekpt_w_conn_d_sub_db_9m
+  oomp_key_full: oomp_footprint_peekpt_w_conn_d_sub_db_9m
   oomp_key_simple: peekpt_w_conn_d_sub_db_9m
   owner: peekpt
   repo:

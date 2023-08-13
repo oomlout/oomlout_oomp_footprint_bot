@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/monostable_commonpartslibrary_hrs_u_fl_r_smt(10)/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/monostable_commonpartslibrary_hrs_u_fl_r_smt(10)/working
-    oomp_doc: footprints/footprints/monostable/CommonPartsLibrary/HRS_U.FL-R-SMT(10)/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/monostable/CommonPartsLibrary/HRS_U.FL-R-SMT(10)/working
     oomp_src_flat: footprints_flat/footprints_flat/monostable_commonpartslibrary_hrs_u_fl_r_smt(10)/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/monostable_commonpartslibrary_hrs_u_fl_r_smt(10)/working
-    oomp_src_folder: footprints_folder/footprints_folder/monostable/CommonPartsLibrary/HRS_U.FL-R-SMT(10)/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/monostable/CommonPartsLibrary/HRS_U.FL-R-SMT(10)/working
   name: CommonPartsLibrary.pretty
+  oomp:
+    footprint_name: hrs_u_fl_r_smt(10)
+    library_name: commonpartslibrary
+    md5: 2fa5e59979b98abcb09323ebb34702ed
+    md5_10: 2fa5e59979
+    md5_5: 2fa5e
+    md5_6: 2fa5e5
+    oomp_key: oomp_monostable_commonpartslibrary_hrs_u_fl_r_smt(10)
+    oomp_key_extra: oomp_footprint_monostable_commonpartslibrary_hrs_u_fl_r_smt(10)
+    oomp_key_full: oomp_footprint_monostable_commonpartslibrary_hrs_u_fl_r_smt(10)_2fa5e5
+    oomp_key_simple: monostable_commonpartslibrary_hrs_u_fl_r_smt(10)
+    original_filename: CommonPartsLibrary.pretty/HRS_U.FL-R-SMT(10).kicad_mod
+    owner_name: monostable
   oomp_key: oomp_monostable_commonpartslibrary_hrs_u_fl_r_smt(10)
+  oomp_key_full: oomp_footprint_monostable_commonpartslibrary_hrs_u_fl_r_smt(10)
   oomp_key_simple: monostable_commonpartslibrary_hrs_u_fl_r_smt(10)
   owner: monostable
   repo:

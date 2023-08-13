@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/hoskinstech_bjh_kicad_relays_g3vm_62f1/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/hoskinstech_bjh_kicad_relays_g3vm_62f1/working
-    oomp_doc: footprints/footprints/hoskinstech/bjh-kicad-relays/G3VM-62F1/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/hoskinstech/bjh-kicad-relays/G3VM-62F1/working
     oomp_src_flat: footprints_flat/footprints_flat/hoskinstech_bjh_kicad_relays_g3vm_62f1/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/hoskinstech_bjh_kicad_relays_g3vm_62f1/working
-    oomp_src_folder: footprints_folder/footprints_folder/hoskinstech/bjh-kicad-relays/G3VM-62F1/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/hoskinstech/bjh-kicad-relays/G3VM-62F1/working
   name: bjh-kicad-relays.pretty
+  oomp:
+    footprint_name: g3vm_62f1
+    library_name: bjh_kicad_relays
+    md5: 51fee9e77c3f85fe3fa8861e0a51916b
+    md5_10: 51fee9e77c
+    md5_5: 51fee
+    md5_6: 51fee9
+    oomp_key: oomp_hoskinstech_bjh_kicad_relays_g3vm_62f1
+    oomp_key_extra: oomp_footprint_hoskinstech_bjh_kicad_relays_g3vm_62f1
+    oomp_key_full: oomp_footprint_hoskinstech_bjh_kicad_relays_g3vm_62f1_51fee9
+    oomp_key_simple: hoskinstech_bjh_kicad_relays_g3vm_62f1
+    original_filename: bjh-kicad-relays.pretty/G3VM-62F1.kicad_mod
+    owner_name: hoskinstech
   oomp_key: oomp_hoskinstech_bjh_kicad_relays_g3vm_62f1
+  oomp_key_full: oomp_footprint_hoskinstech_bjh_kicad_relays_g3vm_62f1
   oomp_key_simple: hoskinstech_bjh_kicad_relays_g3vm_62f1
   owner: hoskinstech
   repo:

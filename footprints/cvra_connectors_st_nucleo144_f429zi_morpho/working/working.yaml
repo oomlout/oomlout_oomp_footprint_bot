@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cvra_connectors_st_nucleo144_f429zi_morpho/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cvra_connectors_st_nucleo144_f429zi_morpho/working
-    oomp_doc: footprints/footprints/cvra/_connectors/ST_Nucleo144_F429ZI_Morpho/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cvra/_connectors/ST_Nucleo144_F429ZI_Morpho/working
     oomp_src_flat: footprints_flat/footprints_flat/cvra_connectors_st_nucleo144_f429zi_morpho/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cvra_connectors_st_nucleo144_f429zi_morpho/working
-    oomp_src_folder: footprints_folder/footprints_folder/cvra/_connectors/ST_Nucleo144_F429ZI_Morpho/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cvra/_connectors/ST_Nucleo144_F429ZI_Morpho/working
   name: kicad-lib
+  oomp:
+    footprint_name: st_nucleo144_f429zi_morpho
+    library_name: _connectors
+    md5: a684ec50b6381c3290f39fc049c52237
+    md5_10: a684ec50b6
+    md5_5: a684e
+    md5_6: a684ec
+    oomp_key: oomp_cvra_connectors_st_nucleo144_f429zi_morpho
+    oomp_key_extra: oomp_footprint_cvra_connectors_st_nucleo144_f429zi_morpho
+    oomp_key_full: oomp_footprint_cvra_connectors_st_nucleo144_f429zi_morpho_a684ec
+    oomp_key_simple: cvra_connectors_st_nucleo144_f429zi_morpho
+    original_filename: kicad-lib/footprints/_connectors.pretty/ST_Nucleo144_F429ZI_Morpho.kicad_mod
+    owner_name: cvra
   oomp_key: oomp_cvra_connectors_st_nucleo144_f429zi_morpho
+  oomp_key_full: oomp_footprint_cvra_connectors_st_nucleo144_f429zi_morpho
   oomp_key_simple: cvra_connectors_st_nucleo144_f429zi_morpho
   owner: cvra
   repo:

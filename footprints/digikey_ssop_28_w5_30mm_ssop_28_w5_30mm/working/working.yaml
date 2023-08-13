@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/digikey_ssop_28_w5_30mm_ssop_28_w5_30mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_ssop_28_w5_30mm_ssop_28_w5_30mm/working
-    oomp_doc: footprints/footprints/digikey/SSOP-28_W5.30mm.kicad_mod/SSOP-28_W5.30mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/digikey/SSOP-28_W5.30mm.kicad_mod/SSOP-28_W5.30mm/working
     oomp_src_flat: footprints_flat/footprints_flat/digikey_ssop_28_w5_30mm_ssop_28_w5_30mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/digikey_ssop_28_w5_30mm_ssop_28_w5_30mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/digikey/SSOP-28_W5.30mm.kicad_mod/SSOP-28_W5.30mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/digikey/SSOP-28_W5.30mm.kicad_mod/SSOP-28_W5.30mm/working
   name: digikey-kicad-library
+  oomp:
+    footprint_name: ssop_28_w5_30mm
+    library_name: ssop_28_w5_30mm_kicad_mod
+    md5: e686ca74221081404aeed63a91834b7e
+    md5_10: e686ca7422
+    md5_5: e686c
+    md5_6: e686ca
+    oomp_key: oomp_digikey_ssop_28_w5_30mm_ssop_28_w5_30mm
+    oomp_key_extra: oomp_footprint_digikey_ssop_28_w5_30mm_ssop_28_w5_30mm
+    oomp_key_full: oomp_footprint_digikey_ssop_28_w5_30mm_ssop_28_w5_30mm_e686ca
+    oomp_key_simple: digikey_ssop_28_w5_30mm_ssop_28_w5_30mm
+    original_filename: digikey-kicad-library/src/Source_Footprints/SSOP-28_W5.30mm.kicad_mod
+    owner_name: digikey
   oomp_key: oomp_digikey_ssop_28_w5_30mm_ssop_28_w5_30mm
+  oomp_key_full: oomp_footprint_digikey_ssop_28_w5_30mm_ssop_28_w5_30mm
   oomp_key_simple: digikey_ssop_28_w5_30mm_ssop_28_w5_30mm
   owner: digikey
   repo:

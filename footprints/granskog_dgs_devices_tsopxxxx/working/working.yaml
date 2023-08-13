@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/granskog_dgs_devices_tsopxxxx/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/granskog_dgs_devices_tsopxxxx/working
-    oomp_doc: footprints/footprints/granskog/DGS_Devices/TSOPXXXX/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/granskog/DGS_Devices/TSOPXXXX/working
     oomp_src_flat: footprints_flat/footprints_flat/granskog_dgs_devices_tsopxxxx/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/granskog_dgs_devices_tsopxxxx/working
-    oomp_src_folder: footprints_folder/footprints_folder/granskog/DGS_Devices/TSOPXXXX/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/granskog/DGS_Devices/TSOPXXXX/working
   name: DGS_Devices.pretty
+  oomp:
+    footprint_name: tsopxxxx
+    library_name: dgs_devices
+    md5: 334fc6147c834c546a63b40f66db05f2
+    md5_10: 334fc6147c
+    md5_5: 334fc
+    md5_6: 334fc6
+    oomp_key: oomp_granskog_dgs_devices_tsopxxxx
+    oomp_key_extra: oomp_footprint_granskog_dgs_devices_tsopxxxx
+    oomp_key_full: oomp_footprint_granskog_dgs_devices_tsopxxxx_334fc6
+    oomp_key_simple: granskog_dgs_devices_tsopxxxx
+    original_filename: DGS_Devices.pretty/TSOPXXXX.kicad_mod
+    owner_name: granskog
   oomp_key: oomp_granskog_dgs_devices_tsopxxxx
+  oomp_key_full: oomp_footprint_granskog_dgs_devices_tsopxxxx
   oomp_key_simple: granskog_dgs_devices_tsopxxxx
   owner: granskog
   repo:

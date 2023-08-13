@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/axello_freetronics_footprints_led_10mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/axello_freetronics_footprints_led_10mm/working
-    oomp_doc: footprints/footprints/axello/freetronics_footprints/LED-10MM/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/axello/freetronics_footprints/LED-10MM/working
     oomp_src_flat: footprints_flat/footprints_flat/axello_freetronics_footprints_led_10mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/axello_freetronics_footprints_led_10mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/axello/freetronics_footprints/LED-10MM/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/axello/freetronics_footprints/LED-10MM/working
   name: kicad
+  oomp:
+    footprint_name: led_10mm
+    library_name: freetronics_footprints
+    md5: eba54adb35514234b40675f044d0e934
+    md5_10: eba54adb35
+    md5_5: eba54
+    md5_6: eba54a
+    oomp_key: oomp_axello_freetronics_footprints_led_10mm
+    oomp_key_extra: oomp_footprint_axello_freetronics_footprints_led_10mm
+    oomp_key_full: oomp_footprint_axello_freetronics_footprints_led_10mm_eba54a
+    oomp_key_simple: axello_freetronics_footprints_led_10mm
+    original_filename: kicad/mods/freetronics_footprints.pretty/LED-10MM.kicad_mod
+    owner_name: axello
   oomp_key: oomp_axello_freetronics_footprints_led_10mm
+  oomp_key_full: oomp_footprint_axello_freetronics_footprints_led_10mm
   oomp_key_simple: axello_freetronics_footprints_led_10mm
   owner: axello
   repo:

@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/aewallin/awallinKiCadFootprints.pretty
     oomp_bot: footprints/aewallin_awallinkicadfootprints_wson_8_1ep_3x3mm_p0_5mm_ep1_45x2_4mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/aewallin_awallinkicadfootprints_wson_8_1ep_3x3mm_p0_5mm_ep1_45x2_4mm/working
-    oomp_doc: footprints/footprints/aewallin/awallinKiCadFootprints/WSON-8-1EP_3x3mm_P0.5mm_EP1.45x2.4mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/aewallin/awallinKiCadFootprints/WSON-8-1EP_3x3mm_P0.5mm_EP1.45x2.4mm/working
     oomp_src_flat: footprints_flat/footprints_flat/aewallin_awallinkicadfootprints_wson_8_1ep_3x3mm_p0_5mm_ep1_45x2_4mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/aewallin_awallinkicadfootprints_wson_8_1ep_3x3mm_p0_5mm_ep1_45x2_4mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/aewallin/awallinKiCadFootprints/WSON-8-1EP_3x3mm_P0.5mm_EP1.45x2.4mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/aewallin/awallinKiCadFootprints/WSON-8-1EP_3x3mm_P0.5mm_EP1.45x2.4mm/working
   name: awallinKiCadFootprints.pretty
+  oomp:
+    footprint_name: wson_8_1ep_3x3mm_p0_5mm_ep1_45x2_4mm
+    library_name: awallinkicadfootprints
+    md5: 6068b8ea6dcab48106f727aca2623dff
+    md5_10: 6068b8ea6d
+    md5_5: 6068b
+    md5_6: 6068b8
+    oomp_key: oomp_aewallin_awallinkicadfootprints_wson_8_1ep_3x3mm_p0_5mm_ep1_45x2_4mm
+    oomp_key_extra: oomp_footprint_aewallin_awallinkicadfootprints_wson_8_1ep_3x3mm_p0_5mm_ep1_45x2_4mm
+    oomp_key_full: oomp_footprint_aewallin_awallinkicadfootprints_wson_8_1ep_3x3mm_p0_5mm_ep1_45x2_4mm_6068b8
+    oomp_key_simple: aewallin_awallinkicadfootprints_wson_8_1ep_3x3mm_p0_5mm_ep1_45x2_4mm
+    original_filename: awallinKiCadFootprints.pretty/WSON-8-1EP_3x3mm_P0.5mm_EP1.45x2.4mm.kicad_mod
+    owner_name: aewallin
   oomp_key: oomp_aewallin_awallinkicadfootprints_wson_8_1ep_3x3mm_p0_5mm_ep1_45x2_4mm
+  oomp_key_full: oomp_footprint_aewallin_awallinkicadfootprints_wson_8_1ep_3x3mm_p0_5mm_ep1_45x2_4mm
   oomp_key_simple: aewallin_awallinkicadfootprints_wson_8_1ep_3x3mm_p0_5mm_ep1_45x2_4mm
   owner: aewallin
   repo:

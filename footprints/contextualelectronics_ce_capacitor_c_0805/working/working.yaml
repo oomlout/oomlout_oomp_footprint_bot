@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/contextualelectronics_ce_capacitor_c_0805/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/contextualelectronics_ce_capacitor_c_0805/working
-    oomp_doc: footprints/footprints/ContextualElectronics/CE_Capacitor/C_0805/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ContextualElectronics/CE_Capacitor/C_0805/working
     oomp_src_flat: footprints_flat/footprints_flat/contextualelectronics_ce_capacitor_c_0805/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/contextualelectronics_ce_capacitor_c_0805/working
-    oomp_src_folder: footprints_folder/footprints_folder/ContextualElectronics/CE_Capacitor/C_0805/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ContextualElectronics/CE_Capacitor/C_0805/working
   name: CE_KiCadLib
+  oomp:
+    footprint_name: c_0805
+    library_name: ce_capacitor
+    md5: 971ffb85448417c8519fd03b4222b80c
+    md5_10: 971ffb8544
+    md5_5: 971ff
+    md5_6: 971ffb
+    oomp_key: oomp_contextualelectronics_ce_capacitor_c_0805
+    oomp_key_extra: oomp_footprint_contextualelectronics_ce_capacitor_c_0805
+    oomp_key_full: oomp_footprint_contextualelectronics_ce_capacitor_c_0805_971ffb
+    oomp_key_simple: contextualelectronics_ce_capacitor_c_0805
+    original_filename: CE_KiCadLib/Footprint/CE_Capacitor.pretty/C_0805.kicad_mod
+    owner_name: contextualelectronics
   oomp_key: oomp_contextualelectronics_ce_capacitor_c_0805
+  oomp_key_full: oomp_footprint_contextualelectronics_ce_capacitor_c_0805
   oomp_key_simple: contextualelectronics_ce_capacitor_c_0805
   owner: ContextualElectronics
   repo:

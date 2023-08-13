@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/digikey_wifi_module_mrf24wg0ma_wifi_module_mrf24wg0ma/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_wifi_module_mrf24wg0ma_wifi_module_mrf24wg0ma/working
-    oomp_doc: footprints/footprints/digikey/WiFi_Module_MRF24WG0MA.kicad_mod/WiFi_Module_MRF24WG0MA/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/digikey/WiFi_Module_MRF24WG0MA.kicad_mod/WiFi_Module_MRF24WG0MA/working
     oomp_src_flat: footprints_flat/footprints_flat/digikey_wifi_module_mrf24wg0ma_wifi_module_mrf24wg0ma/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/digikey_wifi_module_mrf24wg0ma_wifi_module_mrf24wg0ma/working
-    oomp_src_folder: footprints_folder/footprints_folder/digikey/WiFi_Module_MRF24WG0MA.kicad_mod/WiFi_Module_MRF24WG0MA/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/digikey/WiFi_Module_MRF24WG0MA.kicad_mod/WiFi_Module_MRF24WG0MA/working
   name: digikey-kicad-library
+  oomp:
+    footprint_name: wifi_module_mrf24wg0ma
+    library_name: wifi_module_mrf24wg0ma_kicad_mod
+    md5: 384698a71142b697f58e26575fdee32f
+    md5_10: 384698a711
+    md5_5: '38469'
+    md5_6: '384698'
+    oomp_key: oomp_digikey_wifi_module_mrf24wg0ma_wifi_module_mrf24wg0ma
+    oomp_key_extra: oomp_footprint_digikey_wifi_module_mrf24wg0ma_wifi_module_mrf24wg0ma
+    oomp_key_full: oomp_footprint_digikey_wifi_module_mrf24wg0ma_wifi_module_mrf24wg0ma_384698
+    oomp_key_simple: digikey_wifi_module_mrf24wg0ma_wifi_module_mrf24wg0ma
+    original_filename: digikey-kicad-library/src/Source_Footprints/WiFi_Module_MRF24WG0MA.kicad_mod
+    owner_name: digikey
   oomp_key: oomp_digikey_wifi_module_mrf24wg0ma_wifi_module_mrf24wg0ma
+  oomp_key_full: oomp_footprint_digikey_wifi_module_mrf24wg0ma_wifi_module_mrf24wg0ma
   oomp_key_simple: digikey_wifi_module_mrf24wg0ma_wifi_module_mrf24wg0ma
   owner: digikey
   repo:

@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/adamgreig/agg-kicad
     oomp_bot: footprints/adamgreig_agg_pulse_32x100/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/adamgreig_agg_pulse_32x100/working
-    oomp_doc: footprints/footprints/adamgreig/agg/PULSE_32x100/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/adamgreig/agg/PULSE_32x100/working
     oomp_src_flat: footprints_flat/footprints_flat/adamgreig_agg_pulse_32x100/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/adamgreig_agg_pulse_32x100/working
-    oomp_src_folder: footprints_folder/footprints_folder/adamgreig/agg/PULSE_32x100/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/adamgreig/agg/PULSE_32x100/working
   name: agg-kicad
+  oomp:
+    footprint_name: pulse_32x100
+    library_name: agg
+    md5: 9cf5b72d39dc782485beff83cbac64ab
+    md5_10: 9cf5b72d39
+    md5_5: 9cf5b
+    md5_6: 9cf5b7
+    oomp_key: oomp_adamgreig_agg_pulse_32x100
+    oomp_key_extra: oomp_footprint_adamgreig_agg_pulse_32x100
+    oomp_key_full: oomp_footprint_adamgreig_agg_pulse_32x100_9cf5b7
+    oomp_key_simple: adamgreig_agg_pulse_32x100
+    original_filename: agg-kicad/agg.pretty/PULSE_32x100.kicad_mod
+    owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_pulse_32x100
+  oomp_key_full: oomp_footprint_adamgreig_agg_pulse_32x100
   oomp_key_simple: adamgreig_agg_pulse_32x100
   owner: adamgreig
   repo:

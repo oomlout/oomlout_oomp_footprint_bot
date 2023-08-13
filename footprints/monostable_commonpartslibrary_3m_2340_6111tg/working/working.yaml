@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/monostable_commonpartslibrary_3m_2340_6111tg/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/monostable_commonpartslibrary_3m_2340_6111tg/working
-    oomp_doc: footprints/footprints/monostable/CommonPartsLibrary/3M_2340-6111TG/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/monostable/CommonPartsLibrary/3M_2340-6111TG/working
     oomp_src_flat: footprints_flat/footprints_flat/monostable_commonpartslibrary_3m_2340_6111tg/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/monostable_commonpartslibrary_3m_2340_6111tg/working
-    oomp_src_folder: footprints_folder/footprints_folder/monostable/CommonPartsLibrary/3M_2340-6111TG/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/monostable/CommonPartsLibrary/3M_2340-6111TG/working
   name: CommonPartsLibrary.pretty
+  oomp:
+    footprint_name: 3m_2340_6111tg
+    library_name: commonpartslibrary
+    md5: a3983adeddd9eb7890a05c588321563e
+    md5_10: a3983adedd
+    md5_5: a3983
+    md5_6: a3983a
+    oomp_key: oomp_monostable_commonpartslibrary_3m_2340_6111tg
+    oomp_key_extra: oomp_footprint_monostable_commonpartslibrary_3m_2340_6111tg
+    oomp_key_full: oomp_footprint_monostable_commonpartslibrary_3m_2340_6111tg_a3983a
+    oomp_key_simple: monostable_commonpartslibrary_3m_2340_6111tg
+    original_filename: CommonPartsLibrary.pretty/3M_2340-6111TG.kicad_mod
+    owner_name: monostable
   oomp_key: oomp_monostable_commonpartslibrary_3m_2340_6111tg
+  oomp_key_full: oomp_footprint_monostable_commonpartslibrary_3m_2340_6111tg
   oomp_key_simple: monostable_commonpartslibrary_3m_2340_6111tg
   owner: monostable
   repo:

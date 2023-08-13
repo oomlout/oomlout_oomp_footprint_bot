@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/codemercenary_os_kicad_mov_disc_20mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/codemercenary_os_kicad_mov_disc_20mm/working
-    oomp_doc: footprints/footprints/codemercenary-os/kicad/MOV_DISC_20MM/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/codemercenary-os/kicad/MOV_DISC_20MM/working
     oomp_src_flat: footprints_flat/footprints_flat/codemercenary_os_kicad_mov_disc_20mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/codemercenary_os_kicad_mov_disc_20mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/codemercenary-os/kicad/MOV_DISC_20MM/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/codemercenary-os/kicad/MOV_DISC_20MM/working
   name: kicad.pretty
+  oomp:
+    footprint_name: mov_disc_20mm
+    library_name: kicad
+    md5: 0b97f70ebb5b6a25ce6790ba111c237a
+    md5_10: 0b97f70ebb
+    md5_5: 0b97f
+    md5_6: 0b97f7
+    oomp_key: oomp_codemercenary_os_kicad_mov_disc_20mm
+    oomp_key_extra: oomp_footprint_codemercenary_os_kicad_mov_disc_20mm
+    oomp_key_full: oomp_footprint_codemercenary_os_kicad_mov_disc_20mm_0b97f7
+    oomp_key_simple: codemercenary_os_kicad_mov_disc_20mm
+    original_filename: kicad.pretty/MOV_DISC_20MM.kicad_mod
+    owner_name: codemercenary_os
   oomp_key: oomp_codemercenary_os_kicad_mov_disc_20mm
+  oomp_key_full: oomp_footprint_codemercenary_os_kicad_mov_disc_20mm
   oomp_key_simple: codemercenary_os_kicad_mov_disc_20mm
   owner: codemercenary-os
   repo:

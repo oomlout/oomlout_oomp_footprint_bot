@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/fruchti_to_to263_5/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/fruchti_to_to263_5/working
-    oomp_doc: footprints/footprints/fruchti/to/TO263-5/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/fruchti/to/TO263-5/working
     oomp_src_flat: footprints_flat/footprints_flat/fruchti_to_to263_5/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/fruchti_to_to263_5/working
-    oomp_src_folder: footprints_folder/footprints_folder/fruchti/to/TO263-5/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/fruchti/to/TO263-5/working
   name: fruchtilib
+  oomp:
+    footprint_name: to263_5
+    library_name: to
+    md5: b3f2a4b8102a424ce4ca255aed7c7c5a
+    md5_10: b3f2a4b810
+    md5_5: b3f2a
+    md5_6: b3f2a4
+    oomp_key: oomp_fruchti_to_to263_5
+    oomp_key_extra: oomp_footprint_fruchti_to_to263_5
+    oomp_key_full: oomp_footprint_fruchti_to_to263_5_b3f2a4
+    oomp_key_simple: fruchti_to_to263_5
+    original_filename: fruchtilib/mod/to.pretty/TO263-5.kicad_mod
+    owner_name: fruchti
   oomp_key: oomp_fruchti_to_to263_5
+  oomp_key_full: oomp_footprint_fruchti_to_to263_5
   oomp_key_simple: fruchti_to_to263_5
   owner: fruchti
   repo:

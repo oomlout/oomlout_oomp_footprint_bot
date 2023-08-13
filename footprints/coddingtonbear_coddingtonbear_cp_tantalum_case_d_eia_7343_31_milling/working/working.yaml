@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/coddingtonbear_coddingtonbear_cp_tantalum_case_d_eia_7343_31_milling/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/coddingtonbear_coddingtonbear_cp_tantalum_case_d_eia_7343_31_milling/working
-    oomp_doc: footprints/footprints/coddingtonbear/coddingtonbear/CP_Tantalum_Case-D_EIA-7343-31_Milling/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/coddingtonbear/coddingtonbear/CP_Tantalum_Case-D_EIA-7343-31_Milling/working
     oomp_src_flat: footprints_flat/footprints_flat/coddingtonbear_coddingtonbear_cp_tantalum_case_d_eia_7343_31_milling/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/coddingtonbear_coddingtonbear_cp_tantalum_case_d_eia_7343_31_milling/working
-    oomp_src_folder: footprints_folder/footprints_folder/coddingtonbear/coddingtonbear/CP_Tantalum_Case-D_EIA-7343-31_Milling/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/coddingtonbear/coddingtonbear/CP_Tantalum_Case-D_EIA-7343-31_Milling/working
   name: coddingtonbear-kicad-lib
+  oomp:
+    footprint_name: cp_tantalum_case_d_eia_7343_31_milling
+    library_name: coddingtonbear
+    md5: 2ca4ef562786a00bca677a19a6055fe4
+    md5_10: 2ca4ef5627
+    md5_5: 2ca4e
+    md5_6: 2ca4ef
+    oomp_key: oomp_coddingtonbear_coddingtonbear_cp_tantalum_case_d_eia_7343_31_milling
+    oomp_key_extra: oomp_footprint_coddingtonbear_coddingtonbear_cp_tantalum_case_d_eia_7343_31_milling
+    oomp_key_full: oomp_footprint_coddingtonbear_coddingtonbear_cp_tantalum_case_d_eia_7343_31_milling_2ca4ef
+    oomp_key_simple: coddingtonbear_coddingtonbear_cp_tantalum_case_d_eia_7343_31_milling
+    original_filename: coddingtonbear-kicad-lib/coddingtonbear.pretty/CP_Tantalum_Case-D_EIA-7343-31_Milling.kicad_mod
+    owner_name: coddingtonbear
   oomp_key: oomp_coddingtonbear_coddingtonbear_cp_tantalum_case_d_eia_7343_31_milling
+  oomp_key_full: oomp_footprint_coddingtonbear_coddingtonbear_cp_tantalum_case_d_eia_7343_31_milling
   oomp_key_simple: coddingtonbear_coddingtonbear_cp_tantalum_case_d_eia_7343_31_milling
   owner: coddingtonbear
   repo:

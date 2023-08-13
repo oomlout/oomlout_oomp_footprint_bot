@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/benkev_mylib_bigpad/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/benkev_mylib_bigpad/working
-    oomp_doc: footprints/footprints/benkev/myLib/BIGPAD/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/benkev/myLib/BIGPAD/working
     oomp_src_flat: footprints_flat/footprints_flat/benkev_mylib_bigpad/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/benkev_mylib_bigpad/working
-    oomp_src_folder: footprints_folder/footprints_folder/benkev/myLib/BIGPAD/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/benkev/myLib/BIGPAD/working
   name: myLib.pretty
+  oomp:
+    footprint_name: bigpad
+    library_name: mylib
+    md5: 2d4d3155179899e55905a397dd039bfc
+    md5_10: 2d4d315517
+    md5_5: 2d4d3
+    md5_6: 2d4d31
+    oomp_key: oomp_benkev_mylib_bigpad
+    oomp_key_extra: oomp_footprint_benkev_mylib_bigpad
+    oomp_key_full: oomp_footprint_benkev_mylib_bigpad_2d4d31
+    oomp_key_simple: benkev_mylib_bigpad
+    original_filename: myLib.pretty/BIGPAD.kicad_mod
+    owner_name: benkev
   oomp_key: oomp_benkev_mylib_bigpad
+  oomp_key_full: oomp_footprint_benkev_mylib_bigpad
   oomp_key_simple: benkev_mylib_bigpad
   owner: benkev
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/rudiloos_kilibs_testtube_edgecon_12mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/rudiloos_kilibs_testtube_edgecon_12mm/working
-    oomp_doc: footprints/footprints/rudiloos/kilibs/TestTube-edgecon-12mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/rudiloos/kilibs/TestTube-edgecon-12mm/working
     oomp_src_flat: footprints_flat/footprints_flat/rudiloos_kilibs_testtube_edgecon_12mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/rudiloos_kilibs_testtube_edgecon_12mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/rudiloos/kilibs/TestTube-edgecon-12mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/rudiloos/kilibs/TestTube-edgecon-12mm/working
   name: kilibs.pretty
+  oomp:
+    footprint_name: testtube_edgecon_12mm
+    library_name: kilibs
+    md5: bd0d1a4b1aabae5a3e306b122fff197d
+    md5_10: bd0d1a4b1a
+    md5_5: bd0d1
+    md5_6: bd0d1a
+    oomp_key: oomp_rudiloos_kilibs_testtube_edgecon_12mm
+    oomp_key_extra: oomp_footprint_rudiloos_kilibs_testtube_edgecon_12mm
+    oomp_key_full: oomp_footprint_rudiloos_kilibs_testtube_edgecon_12mm_bd0d1a
+    oomp_key_simple: rudiloos_kilibs_testtube_edgecon_12mm
+    original_filename: kilibs.pretty/TestTube-edgecon-12mm.kicad_mod
+    owner_name: rudiloos
   oomp_key: oomp_rudiloos_kilibs_testtube_edgecon_12mm
+  oomp_key_full: oomp_footprint_rudiloos_kilibs_testtube_edgecon_12mm
   oomp_key_simple: rudiloos_kilibs_testtube_edgecon_12mm
   owner: rudiloos
   repo:

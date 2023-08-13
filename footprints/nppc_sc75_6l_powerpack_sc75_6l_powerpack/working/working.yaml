@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/nppc_sc75_6l_powerpack_sc75_6l_powerpack/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nppc_sc75_6l_powerpack_sc75_6l_powerpack/working
-    oomp_doc: footprints/footprints/nppc/SC75-6L-PowerPack.kicad_mod/SC75-6L-PowerPack/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/nppc/SC75-6L-PowerPack.kicad_mod/SC75-6L-PowerPack/working
     oomp_src_flat: footprints_flat/footprints_flat/nppc_sc75_6l_powerpack_sc75_6l_powerpack/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nppc_sc75_6l_powerpack_sc75_6l_powerpack/working
-    oomp_src_folder: footprints_folder/footprints_folder/nppc/SC75-6L-PowerPack.kicad_mod/SC75-6L-PowerPack/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/nppc/SC75-6L-PowerPack.kicad_mod/SC75-6L-PowerPack/working
   name: KiCadCustomLibs
+  oomp:
+    footprint_name: sc75_6l_powerpack
+    library_name: sc75_6l_powerpack_kicad_mod
+    md5: 2b950e156707a6846c0cbe2fb0d30830
+    md5_10: 2b950e1567
+    md5_5: 2b950
+    md5_6: 2b950e
+    oomp_key: oomp_nppc_sc75_6l_powerpack_sc75_6l_powerpack
+    oomp_key_extra: oomp_footprint_nppc_sc75_6l_powerpack_sc75_6l_powerpack
+    oomp_key_full: oomp_footprint_nppc_sc75_6l_powerpack_sc75_6l_powerpack_2b950e
+    oomp_key_simple: nppc_sc75_6l_powerpack_sc75_6l_powerpack
+    original_filename: KiCadCustomLibs/SC75-6L-PowerPack.kicad_mod
+    owner_name: nppc
   oomp_key: oomp_nppc_sc75_6l_powerpack_sc75_6l_powerpack
+  oomp_key_full: oomp_footprint_nppc_sc75_6l_powerpack_sc75_6l_powerpack
   oomp_key_simple: nppc_sc75_6l_powerpack_sc75_6l_powerpack
   owner: nppc
   repo:

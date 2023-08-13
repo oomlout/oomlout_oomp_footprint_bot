@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/candykingdom_homebrew_oshw_logo_4mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/candykingdom_homebrew_oshw_logo_4mm/working
-    oomp_doc: footprints/footprints/candykingdom/homebrew/OSHW_LOGO_4mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/candykingdom/homebrew/OSHW_LOGO_4mm/working
     oomp_src_flat: footprints_flat/footprints_flat/candykingdom_homebrew_oshw_logo_4mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/candykingdom_homebrew_oshw_logo_4mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/candykingdom/homebrew/OSHW_LOGO_4mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/candykingdom/homebrew/OSHW_LOGO_4mm/working
   name: homebrew.pretty
+  oomp:
+    footprint_name: oshw_logo_4mm
+    library_name: homebrew
+    md5: 0779740c3910fb75f4635b02ef3e685f
+    md5_10: 0779740c39
+    md5_5: 07797
+    md5_6: 077974
+    oomp_key: oomp_candykingdom_homebrew_oshw_logo_4mm
+    oomp_key_extra: oomp_footprint_candykingdom_homebrew_oshw_logo_4mm
+    oomp_key_full: oomp_footprint_candykingdom_homebrew_oshw_logo_4mm_077974
+    oomp_key_simple: candykingdom_homebrew_oshw_logo_4mm
+    original_filename: homebrew.pretty/OSHW_LOGO_4mm.kicad_mod
+    owner_name: candykingdom
   oomp_key: oomp_candykingdom_homebrew_oshw_logo_4mm
+  oomp_key_full: oomp_footprint_candykingdom_homebrew_oshw_logo_4mm
   oomp_key_simple: candykingdom_homebrew_oshw_logo_4mm
   owner: candykingdom
   repo:

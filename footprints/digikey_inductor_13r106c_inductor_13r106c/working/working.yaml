@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/digikey_inductor_13r106c_inductor_13r106c/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_inductor_13r106c_inductor_13r106c/working
-    oomp_doc: footprints/footprints/digikey/Inductor_13R106C.kicad_mod/Inductor_13R106C/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/digikey/Inductor_13R106C.kicad_mod/Inductor_13R106C/working
     oomp_src_flat: footprints_flat/footprints_flat/digikey_inductor_13r106c_inductor_13r106c/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/digikey_inductor_13r106c_inductor_13r106c/working
-    oomp_src_folder: footprints_folder/footprints_folder/digikey/Inductor_13R106C.kicad_mod/Inductor_13R106C/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/digikey/Inductor_13R106C.kicad_mod/Inductor_13R106C/working
   name: digikey-kicad-library
+  oomp:
+    footprint_name: inductor_13r106c
+    library_name: inductor_13r106c_kicad_mod
+    md5: dfa52e6350f90bf8dfbc5231b5434df7
+    md5_10: dfa52e6350
+    md5_5: dfa52
+    md5_6: dfa52e
+    oomp_key: oomp_digikey_inductor_13r106c_inductor_13r106c
+    oomp_key_extra: oomp_footprint_digikey_inductor_13r106c_inductor_13r106c
+    oomp_key_full: oomp_footprint_digikey_inductor_13r106c_inductor_13r106c_dfa52e
+    oomp_key_simple: digikey_inductor_13r106c_inductor_13r106c
+    original_filename: digikey-kicad-library/src/Source_Footprints/Inductor_13R106C.kicad_mod
+    owner_name: digikey
   oomp_key: oomp_digikey_inductor_13r106c_inductor_13r106c
+  oomp_key_full: oomp_footprint_digikey_inductor_13r106c_inductor_13r106c
   oomp_key_simple: digikey_inductor_13r106c_inductor_13r106c
   owner: digikey
   repo:

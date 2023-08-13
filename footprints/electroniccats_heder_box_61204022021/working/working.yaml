@@ -1,8 +1,5 @@
-- file: ComponentLibrariesKicadWurthElektronik/WIRE-TO-BOARD(rev17b)/heder box.pretty/61204022021.kicad_mod
-  footprint:
-    description: WR-BHD 2.54mm Male Box Header With Lever, 40 Pins
-    libraryLink: 61204022021
-    number_of_pads: 40
+- error: expected string or bytes-like object, got 'int'
+  file: ComponentLibrariesKicadWurthElektronik/WIRE-TO-BOARD(rev17b)/heder box.pretty/61204022021.kicad_mod
   footprint_library_directory: footprint_library_owner/ElectronicCats_ComponentLibrariesKicadWurthElektronik
   footprint_library_directory_flat: footprints_flat/electroniccats_heder_box_61204022021/working
   github_path: http://github.com/ElectronicCats/ComponentLibrariesKicadWurthElektronik/blob/master/WIRE-TO-BOARD(rev17b)/heder
@@ -13,16 +10,25 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/electroniccats_heder_box_61204022021/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/electroniccats_heder_box_61204022021/working
-    oomp_doc: footprints/footprints/ElectronicCats/heder box/61204022021/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ElectronicCats/heder
-      box/61204022021/working
     oomp_src_flat: footprints_flat/footprints_flat/electroniccats_heder_box_61204022021/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/electroniccats_heder_box_61204022021/working
-    oomp_src_folder: footprints_folder/footprints_folder/ElectronicCats/heder box/61204022021/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ElectronicCats/heder
-      box/61204022021/working
   name: ComponentLibrariesKicadWurthElektronik
+  oomp:
+    footprint_name: '61204022021'
+    library_name: heder_box
+    md5: 96b1a92788047aa7dce5b7553525f333
+    md5_10: 96b1a92788
+    md5_5: 96b1a
+    md5_6: 96b1a9
+    oomp_key: oomp_electroniccats_heder_box_61204022021
+    oomp_key_extra: oomp_footprint_electroniccats_heder_box_61204022021
+    oomp_key_full: oomp_footprint_electroniccats_heder_box_61204022021_96b1a9
+    oomp_key_simple: electroniccats_heder_box_61204022021
+    original_filename: ComponentLibrariesKicadWurthElektronik/WIRE-TO-BOARD(rev17b)/heder
+      box.pretty/61204022021.kicad_mod
+    owner_name: electroniccats
   oomp_key: oomp_electroniccats_heder_box_61204022021
+  oomp_key_full: oomp_footprint_electroniccats_heder_box_61204022021
   oomp_key_simple: electroniccats_heder_box_61204022021
   owner: ElectronicCats
   repo:

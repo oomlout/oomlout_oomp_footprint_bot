@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/rocketman768_nu9j_footprints_we_suckw/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/rocketman768_nu9j_footprints_we_suckw/working
-    oomp_doc: footprints/footprints/rocketman768/nu9j-footprints/WE-SUCKW/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/rocketman768/nu9j-footprints/WE-SUCKW/working
     oomp_src_flat: footprints_flat/footprints_flat/rocketman768_nu9j_footprints_we_suckw/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/rocketman768_nu9j_footprints_we_suckw/working
-    oomp_src_folder: footprints_folder/footprints_folder/rocketman768/nu9j-footprints/WE-SUCKW/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/rocketman768/nu9j-footprints/WE-SUCKW/working
   name: nu9j-footprints.pretty
+  oomp:
+    footprint_name: we_suckw
+    library_name: nu9j_footprints
+    md5: 88c4756c99620d93187de22327c66870
+    md5_10: 88c4756c99
+    md5_5: 88c47
+    md5_6: 88c475
+    oomp_key: oomp_rocketman768_nu9j_footprints_we_suckw
+    oomp_key_extra: oomp_footprint_rocketman768_nu9j_footprints_we_suckw
+    oomp_key_full: oomp_footprint_rocketman768_nu9j_footprints_we_suckw_88c475
+    oomp_key_simple: rocketman768_nu9j_footprints_we_suckw
+    original_filename: nu9j-footprints.pretty/WE-SUCKW.kicad_mod
+    owner_name: rocketman768
   oomp_key: oomp_rocketman768_nu9j_footprints_we_suckw
+  oomp_key_full: oomp_footprint_rocketman768_nu9j_footprints_we_suckw
   oomp_key_simple: rocketman768_nu9j_footprints_we_suckw
   owner: rocketman768
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/tahutech_tahutech_cherrymx_hotswap_1u_antishear/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/tahutech_tahutech_cherrymx_hotswap_1u_antishear/working
-    oomp_doc: footprints/footprints/TahuTech/tahutech/CherryMX_Hotswap_1U_Antishear/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/TahuTech/tahutech/CherryMX_Hotswap_1U_Antishear/working
     oomp_src_flat: footprints_flat/footprints_flat/tahutech_tahutech_cherrymx_hotswap_1u_antishear/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/tahutech_tahutech_cherrymx_hotswap_1u_antishear/working
-    oomp_src_folder: footprints_folder/footprints_folder/TahuTech/tahutech/CherryMX_Hotswap_1U_Antishear/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/TahuTech/tahutech/CherryMX_Hotswap_1U_Antishear/working
   name: tahutech.pretty
+  oomp:
+    footprint_name: cherrymx_hotswap_1u_antishear
+    library_name: tahutech
+    md5: 59bf6a1ca82b5c7b49ffc10385b43005
+    md5_10: 59bf6a1ca8
+    md5_5: 59bf6
+    md5_6: 59bf6a
+    oomp_key: oomp_tahutech_tahutech_cherrymx_hotswap_1u_antishear
+    oomp_key_extra: oomp_footprint_tahutech_tahutech_cherrymx_hotswap_1u_antishear
+    oomp_key_full: oomp_footprint_tahutech_tahutech_cherrymx_hotswap_1u_antishear_59bf6a
+    oomp_key_simple: tahutech_tahutech_cherrymx_hotswap_1u_antishear
+    original_filename: tahutech.pretty/CherryMX_Hotswap_1U_Antishear.kicad_mod
+    owner_name: tahutech
   oomp_key: oomp_tahutech_tahutech_cherrymx_hotswap_1u_antishear
+  oomp_key_full: oomp_footprint_tahutech_tahutech_cherrymx_hotswap_1u_antishear
   oomp_key_simple: tahutech_tahutech_cherrymx_hotswap_1u_antishear
   owner: TahuTech
   repo:

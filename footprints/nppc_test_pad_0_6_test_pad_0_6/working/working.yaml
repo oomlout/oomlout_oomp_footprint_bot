@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/nppc_test_pad_0_6_test_pad_0_6/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nppc_test_pad_0_6_test_pad_0_6/working
-    oomp_doc: footprints/footprints/nppc/Test_PAD_0.6.kicad_mod/Test_PAD_0.6/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/nppc/Test_PAD_0.6.kicad_mod/Test_PAD_0.6/working
     oomp_src_flat: footprints_flat/footprints_flat/nppc_test_pad_0_6_test_pad_0_6/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nppc_test_pad_0_6_test_pad_0_6/working
-    oomp_src_folder: footprints_folder/footprints_folder/nppc/Test_PAD_0.6.kicad_mod/Test_PAD_0.6/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/nppc/Test_PAD_0.6.kicad_mod/Test_PAD_0.6/working
   name: KiCadCustomLibs
+  oomp:
+    footprint_name: test_pad_0_6
+    library_name: test_pad_0_6_kicad_mod
+    md5: be69741e425b20dc8a6436069b85c758
+    md5_10: be69741e42
+    md5_5: be697
+    md5_6: be6974
+    oomp_key: oomp_nppc_test_pad_0_6_test_pad_0_6
+    oomp_key_extra: oomp_footprint_nppc_test_pad_0_6_test_pad_0_6
+    oomp_key_full: oomp_footprint_nppc_test_pad_0_6_test_pad_0_6_be6974
+    oomp_key_simple: nppc_test_pad_0_6_test_pad_0_6
+    original_filename: KiCadCustomLibs/Test_PAD_0.6.kicad_mod
+    owner_name: nppc
   oomp_key: oomp_nppc_test_pad_0_6_test_pad_0_6
+  oomp_key_full: oomp_footprint_nppc_test_pad_0_6_test_pad_0_6
   oomp_key_simple: nppc_test_pad_0_6_test_pad_0_6
   owner: nppc
   repo:

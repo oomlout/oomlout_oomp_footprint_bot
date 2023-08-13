@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cvra_std_msop_8_n/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cvra_std_msop_8_n/working
-    oomp_doc: footprints/footprints/cvra/_std/_MSOP-8-N/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cvra/_std/_MSOP-8-N/working
     oomp_src_flat: footprints_flat/footprints_flat/cvra_std_msop_8_n/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cvra_std_msop_8_n/working
-    oomp_src_folder: footprints_folder/footprints_folder/cvra/_std/_MSOP-8-N/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cvra/_std/_MSOP-8-N/working
   name: kicad-lib
+  oomp:
+    footprint_name: _msop_8_n
+    library_name: _std
+    md5: a41479318c65ee5901088292b8d0a801
+    md5_10: a41479318c
+    md5_5: a4147
+    md5_6: a41479
+    oomp_key: oomp_cvra_std_msop_8_n
+    oomp_key_extra: oomp_footprint_cvra_std_msop_8_n
+    oomp_key_full: oomp_footprint_cvra_std_msop_8_n_a41479
+    oomp_key_simple: cvra_std_msop_8_n
+    original_filename: kicad-lib/footprints/_std.pretty/_MSOP-8-N.kicad_mod
+    owner_name: cvra
   oomp_key: oomp_cvra_std_msop_8_n
+  oomp_key_full: oomp_footprint_cvra_std_msop_8_n
   oomp_key_simple: cvra_std_msop_8_n
   owner: cvra
   repo:

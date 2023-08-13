@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/newam_newam_led_5mm_horizontal/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/newam_newam_led_5mm_horizontal/working
-    oomp_doc: footprints/footprints/newAM/newam/LED_5mm_Horizontal/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/newAM/newam/LED_5mm_Horizontal/working
     oomp_src_flat: footprints_flat/footprints_flat/newam_newam_led_5mm_horizontal/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/newam_newam_led_5mm_horizontal/working
-    oomp_src_folder: footprints_folder/footprints_folder/newAM/newam/LED_5mm_Horizontal/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/newAM/newam/LED_5mm_Horizontal/working
   name: newam.pretty
+  oomp:
+    footprint_name: led_5mm_horizontal
+    library_name: newam
+    md5: d3ee032ac759e91295e6670054c0d15c
+    md5_10: d3ee032ac7
+    md5_5: d3ee0
+    md5_6: d3ee03
+    oomp_key: oomp_newam_newam_led_5mm_horizontal
+    oomp_key_extra: oomp_footprint_newam_newam_led_5mm_horizontal
+    oomp_key_full: oomp_footprint_newam_newam_led_5mm_horizontal_d3ee03
+    oomp_key_simple: newam_newam_led_5mm_horizontal
+    original_filename: newam.pretty/LED_5mm_Horizontal.kicad_mod
+    owner_name: newam
   oomp_key: oomp_newam_newam_led_5mm_horizontal
+  oomp_key_full: oomp_footprint_newam_newam_led_5mm_horizontal
   oomp_key_simple: newam_newam_led_5mm_horizontal
   owner: newAM
   repo:

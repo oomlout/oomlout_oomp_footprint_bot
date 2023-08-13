@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cvra_connectors_pin2mm_5/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cvra_connectors_pin2mm_5/working
-    oomp_doc: footprints/footprints/cvra/_connectors/_Pin2mm_5/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cvra/_connectors/_Pin2mm_5/working
     oomp_src_flat: footprints_flat/footprints_flat/cvra_connectors_pin2mm_5/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cvra_connectors_pin2mm_5/working
-    oomp_src_folder: footprints_folder/footprints_folder/cvra/_connectors/_Pin2mm_5/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cvra/_connectors/_Pin2mm_5/working
   name: kicad-lib
+  oomp:
+    footprint_name: _pin2mm_5
+    library_name: _connectors
+    md5: d34b1c6e5c54f2cf69023f9251f91008
+    md5_10: d34b1c6e5c
+    md5_5: d34b1
+    md5_6: d34b1c
+    oomp_key: oomp_cvra_connectors_pin2mm_5
+    oomp_key_extra: oomp_footprint_cvra_connectors_pin2mm_5
+    oomp_key_full: oomp_footprint_cvra_connectors_pin2mm_5_d34b1c
+    oomp_key_simple: cvra_connectors_pin2mm_5
+    original_filename: kicad-lib/footprints/_connectors.pretty/_Pin2mm_5.kicad_mod
+    owner_name: cvra
   oomp_key: oomp_cvra_connectors_pin2mm_5
+  oomp_key_full: oomp_footprint_cvra_connectors_pin2mm_5
   oomp_key_simple: cvra_connectors_pin2mm_5
   owner: cvra
   repo:

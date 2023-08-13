@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/AcheronProject/acheron_Connectors.pretty
     oomp_bot: footprints/acheronproject_acheron_connectors_usb_minib_hirose_ux60_mb_5s8/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/acheronproject_acheron_connectors_usb_minib_hirose_ux60_mb_5s8/working
-    oomp_doc: footprints/footprints/AcheronProject/acheron_Connectors/USB_MiniB_Hirose_UX60-MB-5S8/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/AcheronProject/acheron_Connectors/USB_MiniB_Hirose_UX60-MB-5S8/working
     oomp_src_flat: footprints_flat/footprints_flat/acheronproject_acheron_connectors_usb_minib_hirose_ux60_mb_5s8/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/acheronproject_acheron_connectors_usb_minib_hirose_ux60_mb_5s8/working
-    oomp_src_folder: footprints_folder/footprints_folder/AcheronProject/acheron_Connectors/USB_MiniB_Hirose_UX60-MB-5S8/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/AcheronProject/acheron_Connectors/USB_MiniB_Hirose_UX60-MB-5S8/working
   name: acheron_Connectors.pretty
+  oomp:
+    footprint_name: usb_minib_hirose_ux60_mb_5s8
+    library_name: acheron_connectors
+    md5: 50d64c13ba4889bf8de417125c59da00
+    md5_10: 50d64c13ba
+    md5_5: 50d64
+    md5_6: 50d64c
+    oomp_key: oomp_acheronproject_acheron_connectors_usb_minib_hirose_ux60_mb_5s8
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_connectors_usb_minib_hirose_ux60_mb_5s8
+    oomp_key_full: oomp_footprint_acheronproject_acheron_connectors_usb_minib_hirose_ux60_mb_5s8_50d64c
+    oomp_key_simple: acheronproject_acheron_connectors_usb_minib_hirose_ux60_mb_5s8
+    original_filename: acheron_Connectors.pretty/USB_MiniB_Hirose_UX60-MB-5S8.kicad_mod
+    owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_connectors_usb_minib_hirose_ux60_mb_5s8
+  oomp_key_full: oomp_footprint_acheronproject_acheron_connectors_usb_minib_hirose_ux60_mb_5s8
   oomp_key_simple: acheronproject_acheron_connectors_usb_minib_hirose_ux60_mb_5s8
   owner: AcheronProject
   repo:

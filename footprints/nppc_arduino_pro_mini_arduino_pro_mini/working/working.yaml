@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/nppc_arduino_pro_mini_arduino_pro_mini/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nppc_arduino_pro_mini_arduino_pro_mini/working
-    oomp_doc: footprints/footprints/nppc/Arduino_Pro_Mini.kicad_mod/Arduino_Pro_Mini/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/nppc/Arduino_Pro_Mini.kicad_mod/Arduino_Pro_Mini/working
     oomp_src_flat: footprints_flat/footprints_flat/nppc_arduino_pro_mini_arduino_pro_mini/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nppc_arduino_pro_mini_arduino_pro_mini/working
-    oomp_src_folder: footprints_folder/footprints_folder/nppc/Arduino_Pro_Mini.kicad_mod/Arduino_Pro_Mini/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/nppc/Arduino_Pro_Mini.kicad_mod/Arduino_Pro_Mini/working
   name: KiCadCustomLibs
+  oomp:
+    footprint_name: arduino_pro_mini
+    library_name: arduino_pro_mini_kicad_mod
+    md5: c762e42c19760f9405396dfe1ed1b509
+    md5_10: c762e42c19
+    md5_5: c762e
+    md5_6: c762e4
+    oomp_key: oomp_nppc_arduino_pro_mini_arduino_pro_mini
+    oomp_key_extra: oomp_footprint_nppc_arduino_pro_mini_arduino_pro_mini
+    oomp_key_full: oomp_footprint_nppc_arduino_pro_mini_arduino_pro_mini_c762e4
+    oomp_key_simple: nppc_arduino_pro_mini_arduino_pro_mini
+    original_filename: KiCadCustomLibs/Arduino_Pro_Mini.kicad_mod
+    owner_name: nppc
   oomp_key: oomp_nppc_arduino_pro_mini_arduino_pro_mini
+  oomp_key_full: oomp_footprint_nppc_arduino_pro_mini_arduino_pro_mini
   oomp_key_simple: nppc_arduino_pro_mini_arduino_pro_mini
   owner: nppc
   repo:

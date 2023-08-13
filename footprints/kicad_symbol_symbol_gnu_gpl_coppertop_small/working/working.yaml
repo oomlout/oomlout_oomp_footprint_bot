@@ -11,17 +11,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_symbol_symbol_gnu_gpl_coppertop_small/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_symbol_symbol_gnu_gpl_coppertop_small/working
-    oomp_doc: footprints/footprints/kicad/Symbol/Symbol_GNU-GPL_CopperTop_Small/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Symbol/Symbol_GNU-GPL_CopperTop_Small/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_symbol_symbol_gnu_gpl_coppertop_small/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_symbol_symbol_gnu_gpl_coppertop_small/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Symbol/Symbol_GNU-GPL_CopperTop_Small/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Symbol/Symbol_GNU-GPL_CopperTop_Small/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: symbol_gnu_gpl_coppertop_small
+    library_name: symbol
+    md5: 20c206b1ccf4d4e9406953b58008f7b8
+    md5_10: 20c206b1cc
+    md5_5: 20c20
+    md5_6: 20c206
+    oomp_key: oomp_kicad_symbol_symbol_gnu_gpl_coppertop_small
+    oomp_key_extra: oomp_footprint_kicad_symbol_symbol_gnu_gpl_coppertop_small
+    oomp_key_full: oomp_footprint_kicad_symbol_symbol_gnu_gpl_coppertop_small_20c206
+    oomp_key_simple: kicad_symbol_symbol_gnu_gpl_coppertop_small
+    original_filename: libraries/kicad-footprints/Symbol.pretty/Symbol_GNU-GPL_CopperTop_Small.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_symbol_symbol_gnu_gpl_coppertop_small
+  oomp_key_full: oomp_footprint_kicad_symbol_symbol_gnu_gpl_coppertop_small
   oomp_key_simple: kicad_symbol_symbol_gnu_gpl_coppertop_small
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/monostable_commonpartslibrary_cc3100r11mrgc_qfn50p900x900x100_65n/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/monostable_commonpartslibrary_cc3100r11mrgc_qfn50p900x900x100_65n/working
-    oomp_doc: footprints/footprints/monostable/CommonPartsLibrary/CC3100R11MRGC_QFN50P900X900X100-65N/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/monostable/CommonPartsLibrary/CC3100R11MRGC_QFN50P900X900X100-65N/working
     oomp_src_flat: footprints_flat/footprints_flat/monostable_commonpartslibrary_cc3100r11mrgc_qfn50p900x900x100_65n/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/monostable_commonpartslibrary_cc3100r11mrgc_qfn50p900x900x100_65n/working
-    oomp_src_folder: footprints_folder/footprints_folder/monostable/CommonPartsLibrary/CC3100R11MRGC_QFN50P900X900X100-65N/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/monostable/CommonPartsLibrary/CC3100R11MRGC_QFN50P900X900X100-65N/working
   name: CommonPartsLibrary.pretty
+  oomp:
+    footprint_name: cc3100r11mrgc_qfn50p900x900x100_65n
+    library_name: commonpartslibrary
+    md5: a62e424ae4ac13c2082d1ada52b5e18d
+    md5_10: a62e424ae4
+    md5_5: a62e4
+    md5_6: a62e42
+    oomp_key: oomp_monostable_commonpartslibrary_cc3100r11mrgc_qfn50p900x900x100_65n
+    oomp_key_extra: oomp_footprint_monostable_commonpartslibrary_cc3100r11mrgc_qfn50p900x900x100_65n
+    oomp_key_full: oomp_footprint_monostable_commonpartslibrary_cc3100r11mrgc_qfn50p900x900x100_65n_a62e42
+    oomp_key_simple: monostable_commonpartslibrary_cc3100r11mrgc_qfn50p900x900x100_65n
+    original_filename: CommonPartsLibrary.pretty/CC3100R11MRGC_QFN50P900X900X100-65N.kicad_mod
+    owner_name: monostable
   oomp_key: oomp_monostable_commonpartslibrary_cc3100r11mrgc_qfn50p900x900x100_65n
+  oomp_key_full: oomp_footprint_monostable_commonpartslibrary_cc3100r11mrgc_qfn50p900x900x100_65n
   oomp_key_simple: monostable_commonpartslibrary_cc3100r11mrgc_qfn50p900x900x100_65n
   owner: monostable
   repo:

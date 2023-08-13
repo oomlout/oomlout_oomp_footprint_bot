@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/apexelectrix/apex-smd-diode.pretty
     oomp_bot: footprints/apexelectrix_apex_smd_diode_do_214ab_smc/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/apexelectrix_apex_smd_diode_do_214ab_smc/working
-    oomp_doc: footprints/footprints/apexelectrix/apex-smd-diode/DO-214AB_SMC/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/apexelectrix/apex-smd-diode/DO-214AB_SMC/working
     oomp_src_flat: footprints_flat/footprints_flat/apexelectrix_apex_smd_diode_do_214ab_smc/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/apexelectrix_apex_smd_diode_do_214ab_smc/working
-    oomp_src_folder: footprints_folder/footprints_folder/apexelectrix/apex-smd-diode/DO-214AB_SMC/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/apexelectrix/apex-smd-diode/DO-214AB_SMC/working
   name: apex-smd-diode.pretty
+  oomp:
+    footprint_name: do_214ab_smc
+    library_name: apex_smd_diode
+    md5: 8b85b2e925913da193ea32bd005bc733
+    md5_10: 8b85b2e925
+    md5_5: 8b85b
+    md5_6: 8b85b2
+    oomp_key: oomp_apexelectrix_apex_smd_diode_do_214ab_smc
+    oomp_key_extra: oomp_footprint_apexelectrix_apex_smd_diode_do_214ab_smc
+    oomp_key_full: oomp_footprint_apexelectrix_apex_smd_diode_do_214ab_smc_8b85b2
+    oomp_key_simple: apexelectrix_apex_smd_diode_do_214ab_smc
+    original_filename: apex-smd-diode.pretty/DO-214AB_SMC.kicad_mod
+    owner_name: apexelectrix
   oomp_key: oomp_apexelectrix_apex_smd_diode_do_214ab_smc
+  oomp_key_full: oomp_footprint_apexelectrix_apex_smd_diode_do_214ab_smc
   oomp_key_simple: apexelectrix_apex_smd_diode_do_214ab_smc
   owner: apexelectrix
   repo:

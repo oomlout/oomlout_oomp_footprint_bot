@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/nppc_jumper_micro_jumper_micro/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nppc_jumper_micro_jumper_micro/working
-    oomp_doc: footprints/footprints/nppc/Jumper_micro.kicad_mod/Jumper_micro/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/nppc/Jumper_micro.kicad_mod/Jumper_micro/working
     oomp_src_flat: footprints_flat/footprints_flat/nppc_jumper_micro_jumper_micro/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nppc_jumper_micro_jumper_micro/working
-    oomp_src_folder: footprints_folder/footprints_folder/nppc/Jumper_micro.kicad_mod/Jumper_micro/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/nppc/Jumper_micro.kicad_mod/Jumper_micro/working
   name: KiCadCustomLibs
+  oomp:
+    footprint_name: jumper_micro
+    library_name: jumper_micro_kicad_mod
+    md5: 0163fdc69f40d3326183f5b71e7321af
+    md5_10: 0163fdc69f
+    md5_5: 0163f
+    md5_6: 0163fd
+    oomp_key: oomp_nppc_jumper_micro_jumper_micro
+    oomp_key_extra: oomp_footprint_nppc_jumper_micro_jumper_micro
+    oomp_key_full: oomp_footprint_nppc_jumper_micro_jumper_micro_0163fd
+    oomp_key_simple: nppc_jumper_micro_jumper_micro
+    original_filename: KiCadCustomLibs/Jumper_micro.kicad_mod
+    owner_name: nppc
   oomp_key: oomp_nppc_jumper_micro_jumper_micro
+  oomp_key_full: oomp_footprint_nppc_jumper_micro_jumper_micro
   oomp_key_simple: nppc_jumper_micro_jumper_micro
   owner: nppc
   repo:

@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/KUT-KiCad/KUT_Passive.pretty
     oomp_bot: footprints/kut_kicad_kut_passive_coils_ser1360/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kut_kicad_kut_passive_coils_ser1360/working
-    oomp_doc: footprints/footprints/KUT-KiCad/KUT_Passive/Coils_SER1360/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/KUT-KiCad/KUT_Passive/Coils_SER1360/working
     oomp_src_flat: footprints_flat/footprints_flat/kut_kicad_kut_passive_coils_ser1360/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kut_kicad_kut_passive_coils_ser1360/working
-    oomp_src_folder: footprints_folder/footprints_folder/KUT-KiCad/KUT_Passive/Coils_SER1360/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/KUT-KiCad/KUT_Passive/Coils_SER1360/working
   name: KUT_Passive.pretty
+  oomp:
+    footprint_name: coils_ser1360
+    library_name: kut_passive
+    md5: e4281919bf39ca6a23d44469c28499ff
+    md5_10: e4281919bf
+    md5_5: e4281
+    md5_6: e42819
+    oomp_key: oomp_kut_kicad_kut_passive_coils_ser1360
+    oomp_key_extra: oomp_footprint_kut_kicad_kut_passive_coils_ser1360
+    oomp_key_full: oomp_footprint_kut_kicad_kut_passive_coils_ser1360_e42819
+    oomp_key_simple: kut_kicad_kut_passive_coils_ser1360
+    original_filename: KUT_Passive.pretty/Coils_SER1360.kicad_mod
+    owner_name: kut_kicad
   oomp_key: oomp_kut_kicad_kut_passive_coils_ser1360
+  oomp_key_full: oomp_footprint_kut_kicad_kut_passive_coils_ser1360
   oomp_key_simple: kut_kicad_kut_passive_coils_ser1360
   owner: KUT-KiCad
   repo:

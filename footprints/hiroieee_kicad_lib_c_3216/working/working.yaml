@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/hiroieee_kicad_lib_c_3216/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/hiroieee_kicad_lib_c_3216/working
-    oomp_doc: footprints/footprints/hiroieee/kicad-lib/C_3216/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/hiroieee/kicad-lib/C_3216/working
     oomp_src_flat: footprints_flat/footprints_flat/hiroieee_kicad_lib_c_3216/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/hiroieee_kicad_lib_c_3216/working
-    oomp_src_folder: footprints_folder/footprints_folder/hiroieee/kicad-lib/C_3216/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/hiroieee/kicad-lib/C_3216/working
   name: kicad-lib.pretty
+  oomp:
+    footprint_name: c_3216
+    library_name: kicad_lib
+    md5: 7d9ff0dd4117264c485789ca6ddef656
+    md5_10: 7d9ff0dd41
+    md5_5: 7d9ff
+    md5_6: 7d9ff0
+    oomp_key: oomp_hiroieee_kicad_lib_c_3216
+    oomp_key_extra: oomp_footprint_hiroieee_kicad_lib_c_3216
+    oomp_key_full: oomp_footprint_hiroieee_kicad_lib_c_3216_7d9ff0
+    oomp_key_simple: hiroieee_kicad_lib_c_3216
+    original_filename: kicad-lib.pretty/C_3216.kicad_mod
+    owner_name: hiroieee
   oomp_key: oomp_hiroieee_kicad_lib_c_3216
+  oomp_key_full: oomp_footprint_hiroieee_kicad_lib_c_3216
   oomp_key_simple: hiroieee_kicad_lib_c_3216
   owner: hiroieee
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/stanleyseow_svtmaker_grove_4p_smd_90d/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stanleyseow_svtmaker_grove_4p_smd_90d/working
-    oomp_doc: footprints/footprints/stanleyseow/SVTmaker/Grove-4P-SMD-90D/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/stanleyseow/SVTmaker/Grove-4P-SMD-90D/working
     oomp_src_flat: footprints_flat/footprints_flat/stanleyseow_svtmaker_grove_4p_smd_90d/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/stanleyseow_svtmaker_grove_4p_smd_90d/working
-    oomp_src_folder: footprints_folder/footprints_folder/stanleyseow/SVTmaker/Grove-4P-SMD-90D/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/stanleyseow/SVTmaker/Grove-4P-SMD-90D/working
   name: SVTmaker.pretty
+  oomp:
+    footprint_name: grove_4p_smd_90d
+    library_name: svtmaker
+    md5: e5a9a58645b3bdd1df1cf929478d151d
+    md5_10: e5a9a58645
+    md5_5: e5a9a
+    md5_6: e5a9a5
+    oomp_key: oomp_stanleyseow_svtmaker_grove_4p_smd_90d
+    oomp_key_extra: oomp_footprint_stanleyseow_svtmaker_grove_4p_smd_90d
+    oomp_key_full: oomp_footprint_stanleyseow_svtmaker_grove_4p_smd_90d_e5a9a5
+    oomp_key_simple: stanleyseow_svtmaker_grove_4p_smd_90d
+    original_filename: SVTmaker.pretty/Grove-4P-SMD-90D.kicad_mod
+    owner_name: stanleyseow
   oomp_key: oomp_stanleyseow_svtmaker_grove_4p_smd_90d
+  oomp_key_full: oomp_footprint_stanleyseow_svtmaker_grove_4p_smd_90d
   oomp_key_simple: stanleyseow_svtmaker_grove_4p_smd_90d
   owner: stanleyseow
   repo:

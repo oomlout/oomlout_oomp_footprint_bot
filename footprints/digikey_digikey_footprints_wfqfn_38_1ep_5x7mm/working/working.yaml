@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/digikey_digikey_footprints_wfqfn_38_1ep_5x7mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_digikey_footprints_wfqfn_38_1ep_5x7mm/working
-    oomp_doc: footprints/footprints/digikey/digikey-footprints/WFQFN-38-1EP_5x7mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/digikey/digikey-footprints/WFQFN-38-1EP_5x7mm/working
     oomp_src_flat: footprints_flat/footprints_flat/digikey_digikey_footprints_wfqfn_38_1ep_5x7mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/digikey_digikey_footprints_wfqfn_38_1ep_5x7mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/digikey/digikey-footprints/WFQFN-38-1EP_5x7mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/digikey/digikey-footprints/WFQFN-38-1EP_5x7mm/working
   name: digikey-kicad-library
+  oomp:
+    footprint_name: wfqfn_38_1ep_5x7mm
+    library_name: digikey_footprints
+    md5: e83e65de9ff5f723626de86a95df9bdd
+    md5_10: e83e65de9f
+    md5_5: e83e6
+    md5_6: e83e65
+    oomp_key: oomp_digikey_digikey_footprints_wfqfn_38_1ep_5x7mm
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_wfqfn_38_1ep_5x7mm
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_wfqfn_38_1ep_5x7mm_e83e65
+    oomp_key_simple: digikey_digikey_footprints_wfqfn_38_1ep_5x7mm
+    original_filename: digikey-kicad-library/digikey-footprints.pretty/WFQFN-38-1EP_5x7mm.kicad_mod
+    owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_wfqfn_38_1ep_5x7mm
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_wfqfn_38_1ep_5x7mm
   oomp_key_simple: digikey_digikey_footprints_wfqfn_38_1ep_5x7mm
   owner: digikey
   repo:

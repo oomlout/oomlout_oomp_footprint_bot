@@ -1,8 +1,5 @@
-- file: gsg-kicad-lib/gsg-modules.pretty/0402.kicad_mod
-  footprint:
-    description: null
-    libraryLink: 402
-    number_of_pads: 2
+- error: expected string or bytes-like object, got 'int'
+  file: gsg-kicad-lib/gsg-modules.pretty/0402.kicad_mod
   footprint_library_directory: footprint_library_owner/greatscottgadgets_gsg-kicad-lib
   footprint_library_directory_flat: footprints_flat/greatscottgadgets_gsg_modules_0402/working
   github_path: http://github.com/greatscottgadgets/gsg-kicad-lib/blob/master/gsg-modules.pretty/0402.kicad_mod
@@ -11,14 +8,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/greatscottgadgets_gsg_modules_0402/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/greatscottgadgets_gsg_modules_0402/working
-    oomp_doc: footprints/footprints/greatscottgadgets/gsg-modules/0402/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/greatscottgadgets/gsg-modules/0402/working
     oomp_src_flat: footprints_flat/footprints_flat/greatscottgadgets_gsg_modules_0402/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/greatscottgadgets_gsg_modules_0402/working
-    oomp_src_folder: footprints_folder/footprints_folder/greatscottgadgets/gsg-modules/0402/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/greatscottgadgets/gsg-modules/0402/working
   name: gsg-kicad-lib
+  oomp:
+    footprint_name: '0402'
+    library_name: gsg_modules
+    md5: fedd421e43b9a27aa901b638c7b1ee85
+    md5_10: fedd421e43
+    md5_5: fedd4
+    md5_6: fedd42
+    oomp_key: oomp_greatscottgadgets_gsg_modules_0402
+    oomp_key_extra: oomp_footprint_greatscottgadgets_gsg_modules_0402
+    oomp_key_full: oomp_footprint_greatscottgadgets_gsg_modules_0402_fedd42
+    oomp_key_simple: greatscottgadgets_gsg_modules_0402
+    original_filename: gsg-kicad-lib/gsg-modules.pretty/0402.kicad_mod
+    owner_name: greatscottgadgets
   oomp_key: oomp_greatscottgadgets_gsg_modules_0402
+  oomp_key_full: oomp_footprint_greatscottgadgets_gsg_modules_0402
   oomp_key_simple: greatscottgadgets_gsg_modules_0402
   owner: greatscottgadgets
   repo:

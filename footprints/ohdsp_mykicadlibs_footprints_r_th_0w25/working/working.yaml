@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/ohdsp_mykicadlibs_footprints_r_th_0w25/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ohdsp_mykicadlibs_footprints_r_th_0w25/working
-    oomp_doc: footprints/footprints/ohdsp/MyKiCadLibs-Footprints/R-TH-0W25/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ohdsp/MyKiCadLibs-Footprints/R-TH-0W25/working
     oomp_src_flat: footprints_flat/footprints_flat/ohdsp_mykicadlibs_footprints_r_th_0w25/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ohdsp_mykicadlibs_footprints_r_th_0w25/working
-    oomp_src_folder: footprints_folder/footprints_folder/ohdsp/MyKiCadLibs-Footprints/R-TH-0W25/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ohdsp/MyKiCadLibs-Footprints/R-TH-0W25/working
   name: KiCad-Libs
+  oomp:
+    footprint_name: r_th_0w25
+    library_name: mykicadlibs_footprints
+    md5: 93cbf1cecf2f6ccf56b03d29eb9925a0
+    md5_10: 93cbf1cecf
+    md5_5: 93cbf
+    md5_6: 93cbf1
+    oomp_key: oomp_ohdsp_mykicadlibs_footprints_r_th_0w25
+    oomp_key_extra: oomp_footprint_ohdsp_mykicadlibs_footprints_r_th_0w25
+    oomp_key_full: oomp_footprint_ohdsp_mykicadlibs_footprints_r_th_0w25_93cbf1
+    oomp_key_simple: ohdsp_mykicadlibs_footprints_r_th_0w25
+    original_filename: KiCad-Libs/MyKiCadLibs-Footprints.pretty/R-TH-0W25.kicad_mod
+    owner_name: ohdsp
   oomp_key: oomp_ohdsp_mykicadlibs_footprints_r_th_0w25
+  oomp_key_full: oomp_footprint_ohdsp_mykicadlibs_footprints_r_th_0w25
   oomp_key_simple: ohdsp_mykicadlibs_footprints_r_th_0w25
   owner: ohdsp
   repo:

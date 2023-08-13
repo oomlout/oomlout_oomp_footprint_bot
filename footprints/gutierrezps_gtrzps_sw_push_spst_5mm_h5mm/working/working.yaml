@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/gutierrezps_gtrzps_sw_push_spst_5mm_h5mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/gutierrezps_gtrzps_sw_push_spst_5mm_h5mm/working
-    oomp_doc: footprints/footprints/gutierrezps/gtrzps/SW_PUSH_SPST_5mm_H5mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/gutierrezps/gtrzps/SW_PUSH_SPST_5mm_H5mm/working
     oomp_src_flat: footprints_flat/footprints_flat/gutierrezps_gtrzps_sw_push_spst_5mm_h5mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/gutierrezps_gtrzps_sw_push_spst_5mm_h5mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/gutierrezps/gtrzps/SW_PUSH_SPST_5mm_H5mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/gutierrezps/gtrzps/SW_PUSH_SPST_5mm_H5mm/working
   name: gtrzps.pretty
+  oomp:
+    footprint_name: sw_push_spst_5mm_h5mm
+    library_name: gtrzps
+    md5: 90571e64c2881b4ab42e9fbc28bfdd79
+    md5_10: 90571e64c2
+    md5_5: '90571'
+    md5_6: 90571e
+    oomp_key: oomp_gutierrezps_gtrzps_sw_push_spst_5mm_h5mm
+    oomp_key_extra: oomp_footprint_gutierrezps_gtrzps_sw_push_spst_5mm_h5mm
+    oomp_key_full: oomp_footprint_gutierrezps_gtrzps_sw_push_spst_5mm_h5mm_90571e
+    oomp_key_simple: gutierrezps_gtrzps_sw_push_spst_5mm_h5mm
+    original_filename: gtrzps.pretty/SW_PUSH_SPST_5mm_H5mm.kicad_mod
+    owner_name: gutierrezps
   oomp_key: oomp_gutierrezps_gtrzps_sw_push_spst_5mm_h5mm
+  oomp_key_full: oomp_footprint_gutierrezps_gtrzps_sw_push_spst_5mm_h5mm
   oomp_key_simple: gutierrezps_gtrzps_sw_push_spst_5mm_h5mm
   owner: gutierrezps
   repo:

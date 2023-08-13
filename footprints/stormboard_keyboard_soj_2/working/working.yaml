@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/stormboard_keyboard_soj_2/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stormboard_keyboard_soj_2/working
-    oomp_doc: footprints/footprints/stormboard/Keyboard/SOJ-2/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/stormboard/Keyboard/SOJ-2/working
     oomp_src_flat: footprints_flat/footprints_flat/stormboard_keyboard_soj_2/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/stormboard_keyboard_soj_2/working
-    oomp_src_folder: footprints_folder/footprints_folder/stormboard/Keyboard/SOJ-2/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/stormboard/Keyboard/SOJ-2/working
   name: Keyboard.pretty
+  oomp:
+    footprint_name: soj_2
+    library_name: keyboard
+    md5: 16e266bf9d79cb1bc48269d66a8e723c
+    md5_10: 16e266bf9d
+    md5_5: 16e26
+    md5_6: 16e266
+    oomp_key: oomp_stormboard_keyboard_soj_2
+    oomp_key_extra: oomp_footprint_stormboard_keyboard_soj_2
+    oomp_key_full: oomp_footprint_stormboard_keyboard_soj_2_16e266
+    oomp_key_simple: stormboard_keyboard_soj_2
+    original_filename: Keyboard.pretty/SOJ-2.kicad_mod
+    owner_name: stormboard
   oomp_key: oomp_stormboard_keyboard_soj_2
+  oomp_key_full: oomp_footprint_stormboard_keyboard_soj_2
   oomp_key_simple: stormboard_keyboard_soj_2
   owner: stormboard
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/digikey_usb_c_female_vert_dx07s024wj3r400_usb_c_female_vert_dx07s024wj3r400/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_usb_c_female_vert_dx07s024wj3r400_usb_c_female_vert_dx07s024wj3r400/working
-    oomp_doc: footprints/footprints/digikey/USB-C_Female_Vert_DX07S024WJ3R400.kicad_mod/USB-C_Female_Vert_DX07S024WJ3R400/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/digikey/USB-C_Female_Vert_DX07S024WJ3R400.kicad_mod/USB-C_Female_Vert_DX07S024WJ3R400/working
     oomp_src_flat: footprints_flat/footprints_flat/digikey_usb_c_female_vert_dx07s024wj3r400_usb_c_female_vert_dx07s024wj3r400/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/digikey_usb_c_female_vert_dx07s024wj3r400_usb_c_female_vert_dx07s024wj3r400/working
-    oomp_src_folder: footprints_folder/footprints_folder/digikey/USB-C_Female_Vert_DX07S024WJ3R400.kicad_mod/USB-C_Female_Vert_DX07S024WJ3R400/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/digikey/USB-C_Female_Vert_DX07S024WJ3R400.kicad_mod/USB-C_Female_Vert_DX07S024WJ3R400/working
   name: digikey-kicad-library
+  oomp:
+    footprint_name: usb_c_female_vert_dx07s024wj3r400
+    library_name: usb_c_female_vert_dx07s024wj3r400_kicad_mod
+    md5: f5ac8f42a8c7f5ba604cd26a4a1342cb
+    md5_10: f5ac8f42a8
+    md5_5: f5ac8
+    md5_6: f5ac8f
+    oomp_key: oomp_digikey_usb_c_female_vert_dx07s024wj3r400_usb_c_female_vert_dx07s024wj3r400
+    oomp_key_extra: oomp_footprint_digikey_usb_c_female_vert_dx07s024wj3r400_usb_c_female_vert_dx07s024wj3r400
+    oomp_key_full: oomp_footprint_digikey_usb_c_female_vert_dx07s024wj3r400_usb_c_female_vert_dx07s024wj3r400_f5ac8f
+    oomp_key_simple: digikey_usb_c_female_vert_dx07s024wj3r400_usb_c_female_vert_dx07s024wj3r400
+    original_filename: digikey-kicad-library/src/Source_Footprints/USB-C_Female_Vert_DX07S024WJ3R400.kicad_mod
+    owner_name: digikey
   oomp_key: oomp_digikey_usb_c_female_vert_dx07s024wj3r400_usb_c_female_vert_dx07s024wj3r400
+  oomp_key_full: oomp_footprint_digikey_usb_c_female_vert_dx07s024wj3r400_usb_c_female_vert_dx07s024wj3r400
   oomp_key_simple: digikey_usb_c_female_vert_dx07s024wj3r400_usb_c_female_vert_dx07s024wj3r400
   owner: digikey
   repo:

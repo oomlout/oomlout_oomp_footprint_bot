@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cpavlina_pth_passive_fuse_3ag_clips/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cpavlina_pth_passive_fuse_3ag_clips/working
-    oomp_doc: footprints/footprints/cpavlina/pth-passive/FUSE-3AG-CLIPS/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cpavlina/pth-passive/FUSE-3AG-CLIPS/working
     oomp_src_flat: footprints_flat/footprints_flat/cpavlina_pth_passive_fuse_3ag_clips/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cpavlina_pth_passive_fuse_3ag_clips/working
-    oomp_src_folder: footprints_folder/footprints_folder/cpavlina/pth-passive/FUSE-3AG-CLIPS/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cpavlina/pth-passive/FUSE-3AG-CLIPS/working
   name: kicad-pcblib
+  oomp:
+    footprint_name: fuse_3ag_clips
+    library_name: pth_passive
+    md5: 0f5cf27b0ff92b330fb16e21706723fc
+    md5_10: 0f5cf27b0f
+    md5_5: 0f5cf
+    md5_6: 0f5cf2
+    oomp_key: oomp_cpavlina_pth_passive_fuse_3ag_clips
+    oomp_key_extra: oomp_footprint_cpavlina_pth_passive_fuse_3ag_clips
+    oomp_key_full: oomp_footprint_cpavlina_pth_passive_fuse_3ag_clips_0f5cf2
+    oomp_key_simple: cpavlina_pth_passive_fuse_3ag_clips
+    original_filename: kicad-pcblib/pth-passive.pretty/FUSE-3AG-CLIPS.kicad_mod
+    owner_name: cpavlina
   oomp_key: oomp_cpavlina_pth_passive_fuse_3ag_clips
+  oomp_key_full: oomp_footprint_cpavlina_pth_passive_fuse_3ag_clips
   oomp_key_simple: cpavlina_pth_passive_fuse_3ag_clips
   owner: cpavlina
   repo:

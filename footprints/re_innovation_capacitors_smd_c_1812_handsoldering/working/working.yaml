@@ -13,14 +13,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/re_innovation_capacitors_smd_c_1812_handsoldering/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/re_innovation_capacitors_smd_c_1812_handsoldering/working
-    oomp_doc: footprints/footprints/re-innovation/Capacitors_SMD/C_1812_HandSoldering/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/re-innovation/Capacitors_SMD/C_1812_HandSoldering/working
     oomp_src_flat: footprints_flat/footprints_flat/re_innovation_capacitors_smd_c_1812_handsoldering/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/re_innovation_capacitors_smd_c_1812_handsoldering/working
-    oomp_src_folder: footprints_folder/footprints_folder/re-innovation/Capacitors_SMD/C_1812_HandSoldering/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/re-innovation/Capacitors_SMD/C_1812_HandSoldering/working
   name: kicad_reinnovation
+  oomp:
+    footprint_name: c_1812_handsoldering
+    library_name: capacitors_smd
+    md5: 3b3911c53324da01844fe4911c05764b
+    md5_10: 3b3911c533
+    md5_5: 3b391
+    md5_6: 3b3911
+    oomp_key: oomp_re_innovation_capacitors_smd_c_1812_handsoldering
+    oomp_key_extra: oomp_footprint_re_innovation_capacitors_smd_c_1812_handsoldering
+    oomp_key_full: oomp_footprint_re_innovation_capacitors_smd_c_1812_handsoldering_3b3911
+    oomp_key_simple: re_innovation_capacitors_smd_c_1812_handsoldering
+    original_filename: kicad_reinnovation/KiCAD PRETTY/Capacitors_SMD.pretty/C_1812_HandSoldering.kicad_mod
+    owner_name: re_innovation
   oomp_key: oomp_re_innovation_capacitors_smd_c_1812_handsoldering
+  oomp_key_full: oomp_footprint_re_innovation_capacitors_smd_c_1812_handsoldering
   oomp_key_simple: re_innovation_capacitors_smd_c_1812_handsoldering
   owner: re-innovation
   repo:

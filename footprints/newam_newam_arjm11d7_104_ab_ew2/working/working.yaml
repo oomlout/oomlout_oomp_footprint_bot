@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/newam_newam_arjm11d7_104_ab_ew2/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/newam_newam_arjm11d7_104_ab_ew2/working
-    oomp_doc: footprints/footprints/newAM/newam/ARJM11D7-104-AB-EW2/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/newAM/newam/ARJM11D7-104-AB-EW2/working
     oomp_src_flat: footprints_flat/footprints_flat/newam_newam_arjm11d7_104_ab_ew2/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/newam_newam_arjm11d7_104_ab_ew2/working
-    oomp_src_folder: footprints_folder/footprints_folder/newAM/newam/ARJM11D7-104-AB-EW2/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/newAM/newam/ARJM11D7-104-AB-EW2/working
   name: newam.pretty
+  oomp:
+    footprint_name: arjm11d7_104_ab_ew2
+    library_name: newam
+    md5: ef1e9cb968e3aa61b7e1773d791db555
+    md5_10: ef1e9cb968
+    md5_5: ef1e9
+    md5_6: ef1e9c
+    oomp_key: oomp_newam_newam_arjm11d7_104_ab_ew2
+    oomp_key_extra: oomp_footprint_newam_newam_arjm11d7_104_ab_ew2
+    oomp_key_full: oomp_footprint_newam_newam_arjm11d7_104_ab_ew2_ef1e9c
+    oomp_key_simple: newam_newam_arjm11d7_104_ab_ew2
+    original_filename: newam.pretty/ARJM11D7-104-AB-EW2.kicad_mod
+    owner_name: newam
   oomp_key: oomp_newam_newam_arjm11d7_104_ab_ew2
+  oomp_key_full: oomp_footprint_newam_newam_arjm11d7_104_ab_ew2
   oomp_key_simple: newam_newam_arjm11d7_104_ab_ew2
   owner: newAM
   repo:

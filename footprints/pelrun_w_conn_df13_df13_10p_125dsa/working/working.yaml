@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pelrun_w_conn_df13_df13_10p_125dsa/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pelrun_w_conn_df13_df13_10p_125dsa/working
-    oomp_doc: footprints/footprints/pelrun/w_conn_df13/df13-10p-125dsa/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/pelrun/w_conn_df13/df13-10p-125dsa/working
     oomp_src_flat: footprints_flat/footprints_flat/pelrun_w_conn_df13_df13_10p_125dsa/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pelrun_w_conn_df13_df13_10p_125dsa/working
-    oomp_src_folder: footprints_folder/footprints_folder/pelrun/w_conn_df13/df13-10p-125dsa/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/pelrun/w_conn_df13/df13-10p-125dsa/working
   name: libKiCad
+  oomp:
+    footprint_name: df13_10p_125dsa
+    library_name: w_conn_df13
+    md5: 728dc952b277c1497b779af3f3d2fc64
+    md5_10: 728dc952b2
+    md5_5: 728dc
+    md5_6: 728dc9
+    oomp_key: oomp_pelrun_w_conn_df13_df13_10p_125dsa
+    oomp_key_extra: oomp_footprint_pelrun_w_conn_df13_df13_10p_125dsa
+    oomp_key_full: oomp_footprint_pelrun_w_conn_df13_df13_10p_125dsa_728dc9
+    oomp_key_simple: pelrun_w_conn_df13_df13_10p_125dsa
+    original_filename: libKiCad/footprint/w_conn_df13.pretty/df13-10p-125dsa.kicad_mod
+    owner_name: pelrun
   oomp_key: oomp_pelrun_w_conn_df13_df13_10p_125dsa
+  oomp_key_full: oomp_footprint_pelrun_w_conn_df13_df13_10p_125dsa
   oomp_key_simple: pelrun_w_conn_df13_df13_10p_125dsa
   owner: pelrun
   repo:

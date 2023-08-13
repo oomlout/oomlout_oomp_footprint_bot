@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/monostable_commonpartslibrary_jst_s4b_xh_a(lf)(sn)/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/monostable_commonpartslibrary_jst_s4b_xh_a(lf)(sn)/working
-    oomp_doc: footprints/footprints/monostable/CommonPartsLibrary/JST_S4B-XH-A(LF)(SN)/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/monostable/CommonPartsLibrary/JST_S4B-XH-A(LF)(SN)/working
     oomp_src_flat: footprints_flat/footprints_flat/monostable_commonpartslibrary_jst_s4b_xh_a(lf)(sn)/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/monostable_commonpartslibrary_jst_s4b_xh_a(lf)(sn)/working
-    oomp_src_folder: footprints_folder/footprints_folder/monostable/CommonPartsLibrary/JST_S4B-XH-A(LF)(SN)/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/monostable/CommonPartsLibrary/JST_S4B-XH-A(LF)(SN)/working
   name: CommonPartsLibrary.pretty
+  oomp:
+    footprint_name: jst_s4b_xh_a(lf)(sn)
+    library_name: commonpartslibrary
+    md5: 9a51b8cd985b0bd36a837fd2463b9b1d
+    md5_10: 9a51b8cd98
+    md5_5: 9a51b
+    md5_6: 9a51b8
+    oomp_key: oomp_monostable_commonpartslibrary_jst_s4b_xh_a(lf)(sn)
+    oomp_key_extra: oomp_footprint_monostable_commonpartslibrary_jst_s4b_xh_a(lf)(sn)
+    oomp_key_full: oomp_footprint_monostable_commonpartslibrary_jst_s4b_xh_a(lf)(sn)_9a51b8
+    oomp_key_simple: monostable_commonpartslibrary_jst_s4b_xh_a(lf)(sn)
+    original_filename: CommonPartsLibrary.pretty/JST_S4B-XH-A(LF)(SN).kicad_mod
+    owner_name: monostable
   oomp_key: oomp_monostable_commonpartslibrary_jst_s4b_xh_a(lf)(sn)
+  oomp_key_full: oomp_footprint_monostable_commonpartslibrary_jst_s4b_xh_a(lf)(sn)
   oomp_key_simple: monostable_commonpartslibrary_jst_s4b_xh_a(lf)(sn)
   owner: monostable
   repo:

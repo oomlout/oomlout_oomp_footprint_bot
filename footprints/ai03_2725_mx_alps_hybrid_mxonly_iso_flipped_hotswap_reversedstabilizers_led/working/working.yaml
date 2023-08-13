@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/ai03-2725/MX_Alps_Hybrid
     oomp_bot: footprints/ai03_2725_mx_alps_hybrid_mxonly_iso_flipped_hotswap_reversedstabilizers_led/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ai03_2725_mx_alps_hybrid_mxonly_iso_flipped_hotswap_reversedstabilizers_led/working
-    oomp_doc: footprints/footprints/ai03-2725/MX_Alps_Hybrid/MXOnly-ISO-FLIPPED-Hotswap-ReversedStabilizers-LED/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ai03-2725/MX_Alps_Hybrid/MXOnly-ISO-FLIPPED-Hotswap-ReversedStabilizers-LED/working
     oomp_src_flat: footprints_flat/footprints_flat/ai03_2725_mx_alps_hybrid_mxonly_iso_flipped_hotswap_reversedstabilizers_led/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ai03_2725_mx_alps_hybrid_mxonly_iso_flipped_hotswap_reversedstabilizers_led/working
-    oomp_src_folder: footprints_folder/footprints_folder/ai03-2725/MX_Alps_Hybrid/MXOnly-ISO-FLIPPED-Hotswap-ReversedStabilizers-LED/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ai03-2725/MX_Alps_Hybrid/MXOnly-ISO-FLIPPED-Hotswap-ReversedStabilizers-LED/working
   name: MX_Alps_Hybrid.pretty
+  oomp:
+    footprint_name: mxonly_iso_flipped_hotswap_reversedstabilizers_led
+    library_name: mx_alps_hybrid
+    md5: 47ea0806fb0bece9795804ff1198b42e
+    md5_10: 47ea0806fb
+    md5_5: 47ea0
+    md5_6: 47ea08
+    oomp_key: oomp_ai03_2725_mx_alps_hybrid_mxonly_iso_flipped_hotswap_reversedstabilizers_led
+    oomp_key_extra: oomp_footprint_ai03_2725_mx_alps_hybrid_mxonly_iso_flipped_hotswap_reversedstabilizers_led
+    oomp_key_full: oomp_footprint_ai03_2725_mx_alps_hybrid_mxonly_iso_flipped_hotswap_reversedstabilizers_led_47ea08
+    oomp_key_simple: ai03_2725_mx_alps_hybrid_mxonly_iso_flipped_hotswap_reversedstabilizers_led
+    original_filename: MX_Alps_Hybrid.pretty/MX_Only.pretty/MXOnly-ISO-FLIPPED-Hotswap-ReversedStabilizers-LED.kicad_mod
+    owner_name: ai03_2725
   oomp_key: oomp_ai03_2725_mx_alps_hybrid_mxonly_iso_flipped_hotswap_reversedstabilizers_led
+  oomp_key_full: oomp_footprint_ai03_2725_mx_alps_hybrid_mxonly_iso_flipped_hotswap_reversedstabilizers_led
   oomp_key_simple: ai03_2725_mx_alps_hybrid_mxonly_iso_flipped_hotswap_reversedstabilizers_led
   owner: ai03-2725
   repo:
@@ -45,8 +55,8 @@
     downloads_url: https://api.github.com/repos/ai03-2725/MX_Alps_Hybrid/downloads
     events_url: https://api.github.com/repos/ai03-2725/MX_Alps_Hybrid/events
     fork: false
-    forks: 133
-    forks_count: 133
+    forks: 134
+    forks_count: 134
     forks_url: https://api.github.com/repos/ai03-2725/MX_Alps_Hybrid/forks
     full_name: ai03-2725/MX_Alps_Hybrid
     git_commits_url: https://api.github.com/repos/ai03-2725/MX_Alps_Hybrid/git/commits{/sha}
@@ -81,7 +91,7 @@
     milestones_url: https://api.github.com/repos/ai03-2725/MX_Alps_Hybrid/milestones{/number}
     mirror_url: null
     name: MX_Alps_Hybrid
-    network_count: 133
+    network_count: 134
     node_id: MDEwOlJlcG9zaXRvcnk5MTI2OTgxNQ==
     notifications_url: https://api.github.com/repos/ai03-2725/MX_Alps_Hybrid/notifications{?since,all,participating}
     open_issues: 3

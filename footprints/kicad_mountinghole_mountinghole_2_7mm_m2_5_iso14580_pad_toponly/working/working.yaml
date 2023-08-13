@@ -11,17 +11,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_mountinghole_mountinghole_2_7mm_m2_5_iso14580_pad_toponly/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_mountinghole_mountinghole_2_7mm_m2_5_iso14580_pad_toponly/working
-    oomp_doc: footprints/footprints/kicad/MountingHole/MountingHole_2.7mm_M2.5_ISO14580_Pad_TopOnly/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/MountingHole/MountingHole_2.7mm_M2.5_ISO14580_Pad_TopOnly/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_mountinghole_mountinghole_2_7mm_m2_5_iso14580_pad_toponly/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_mountinghole_mountinghole_2_7mm_m2_5_iso14580_pad_toponly/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/MountingHole/MountingHole_2.7mm_M2.5_ISO14580_Pad_TopOnly/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/MountingHole/MountingHole_2.7mm_M2.5_ISO14580_Pad_TopOnly/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: mountinghole_2_7mm_m2_5_iso14580_pad_toponly
+    library_name: mountinghole
+    md5: d6671dda4dd2a7ce5991f4ead3ab1174
+    md5_10: d6671dda4d
+    md5_5: d6671
+    md5_6: d6671d
+    oomp_key: oomp_kicad_mountinghole_mountinghole_2_7mm_m2_5_iso14580_pad_toponly
+    oomp_key_extra: oomp_footprint_kicad_mountinghole_mountinghole_2_7mm_m2_5_iso14580_pad_toponly
+    oomp_key_full: oomp_footprint_kicad_mountinghole_mountinghole_2_7mm_m2_5_iso14580_pad_toponly_d6671d
+    oomp_key_simple: kicad_mountinghole_mountinghole_2_7mm_m2_5_iso14580_pad_toponly
+    original_filename: libraries/kicad-footprints/MountingHole.pretty/MountingHole_2.7mm_M2.5_ISO14580_Pad_TopOnly.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_mountinghole_mountinghole_2_7mm_m2_5_iso14580_pad_toponly
+  oomp_key_full: oomp_footprint_kicad_mountinghole_mountinghole_2_7mm_m2_5_iso14580_pad_toponly
   oomp_key_simple: kicad_mountinghole_mountinghole_2_7mm_m2_5_iso14580_pad_toponly
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/dchwebb_custom_footprints_thonkiconn_hole/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/dchwebb_custom_footprints_thonkiconn_hole/working
-    oomp_doc: footprints/footprints/dchwebb/Custom_Footprints/THONKICONN_hole/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/dchwebb/Custom_Footprints/THONKICONN_hole/working
     oomp_src_flat: footprints_flat/footprints_flat/dchwebb_custom_footprints_thonkiconn_hole/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/dchwebb_custom_footprints_thonkiconn_hole/working
-    oomp_src_folder: footprints_folder/footprints_folder/dchwebb/Custom_Footprints/THONKICONN_hole/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/dchwebb/Custom_Footprints/THONKICONN_hole/working
   name: Custom_Footprints.pretty
+  oomp:
+    footprint_name: thonkiconn_hole
+    library_name: custom_footprints
+    md5: 61acb131fe182e73b90d2801b88f5869
+    md5_10: 61acb131fe
+    md5_5: 61acb
+    md5_6: 61acb1
+    oomp_key: oomp_dchwebb_custom_footprints_thonkiconn_hole
+    oomp_key_extra: oomp_footprint_dchwebb_custom_footprints_thonkiconn_hole
+    oomp_key_full: oomp_footprint_dchwebb_custom_footprints_thonkiconn_hole_61acb1
+    oomp_key_simple: dchwebb_custom_footprints_thonkiconn_hole
+    original_filename: Custom_Footprints.pretty/THONKICONN_hole.kicad_mod
+    owner_name: dchwebb
   oomp_key: oomp_dchwebb_custom_footprints_thonkiconn_hole
+  oomp_key_full: oomp_footprint_dchwebb_custom_footprints_thonkiconn_hole
   oomp_key_simple: dchwebb_custom_footprints_thonkiconn_hole
   owner: dchwebb
   repo:

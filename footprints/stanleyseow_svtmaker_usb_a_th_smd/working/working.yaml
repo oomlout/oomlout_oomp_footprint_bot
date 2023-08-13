@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/stanleyseow_svtmaker_usb_a_th_smd/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stanleyseow_svtmaker_usb_a_th_smd/working
-    oomp_doc: footprints/footprints/stanleyseow/SVTmaker/USB_A_TH-SMD/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/stanleyseow/SVTmaker/USB_A_TH-SMD/working
     oomp_src_flat: footprints_flat/footprints_flat/stanleyseow_svtmaker_usb_a_th_smd/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/stanleyseow_svtmaker_usb_a_th_smd/working
-    oomp_src_folder: footprints_folder/footprints_folder/stanleyseow/SVTmaker/USB_A_TH-SMD/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/stanleyseow/SVTmaker/USB_A_TH-SMD/working
   name: SVTmaker.pretty
+  oomp:
+    footprint_name: usb_a_th_smd
+    library_name: svtmaker
+    md5: ea01c4674213929f503e9ab2aebe305f
+    md5_10: ea01c46742
+    md5_5: ea01c
+    md5_6: ea01c4
+    oomp_key: oomp_stanleyseow_svtmaker_usb_a_th_smd
+    oomp_key_extra: oomp_footprint_stanleyseow_svtmaker_usb_a_th_smd
+    oomp_key_full: oomp_footprint_stanleyseow_svtmaker_usb_a_th_smd_ea01c4
+    oomp_key_simple: stanleyseow_svtmaker_usb_a_th_smd
+    original_filename: SVTmaker.pretty/USB_A_TH-SMD.kicad_mod
+    owner_name: stanleyseow
   oomp_key: oomp_stanleyseow_svtmaker_usb_a_th_smd
+  oomp_key_full: oomp_footprint_stanleyseow_svtmaker_usb_a_th_smd
   oomp_key_simple: stanleyseow_svtmaker_usb_a_th_smd
   owner: stanleyseow
   repo:

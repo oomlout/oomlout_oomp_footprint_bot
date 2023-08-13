@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/ruuvi_businesscard_business_top_cop/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ruuvi_businesscard_business_top_cop/working
-    oomp_doc: footprints/footprints/ruuvi/BusinessCard/BUSINESS_TOP_COP/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ruuvi/BusinessCard/BUSINESS_TOP_COP/working
     oomp_src_flat: footprints_flat/footprints_flat/ruuvi_businesscard_business_top_cop/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ruuvi_businesscard_business_top_cop/working
-    oomp_src_folder: footprints_folder/footprints_folder/ruuvi/BusinessCard/BUSINESS_TOP_COP/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ruuvi/BusinessCard/BUSINESS_TOP_COP/working
   name: kicad-library
+  oomp:
+    footprint_name: business_top_cop
+    library_name: businesscard
+    md5: 8d2c6593fe3da772e5d036cd4c998080
+    md5_10: 8d2c6593fe
+    md5_5: 8d2c6
+    md5_6: 8d2c65
+    oomp_key: oomp_ruuvi_businesscard_business_top_cop
+    oomp_key_extra: oomp_footprint_ruuvi_businesscard_business_top_cop
+    oomp_key_full: oomp_footprint_ruuvi_businesscard_business_top_cop_8d2c65
+    oomp_key_simple: ruuvi_businesscard_business_top_cop
+    original_filename: kicad-library/BusinessCard.pretty/BUSINESS_TOP_COP.kicad_mod
+    owner_name: ruuvi
   oomp_key: oomp_ruuvi_businesscard_business_top_cop
+  oomp_key_full: oomp_footprint_ruuvi_businesscard_business_top_cop
   oomp_key_simple: ruuvi_businesscard_business_top_cop
   owner: ruuvi
   repo:

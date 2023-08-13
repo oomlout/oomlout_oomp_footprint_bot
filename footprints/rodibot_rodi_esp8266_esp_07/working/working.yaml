@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/rodibot_rodi_esp8266_esp_07/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/rodibot_rodi_esp8266_esp_07/working
-    oomp_doc: footprints/footprints/rodibot/RoDI/ESP8266_ESP-07/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/rodibot/RoDI/ESP8266_ESP-07/working
     oomp_src_flat: footprints_flat/footprints_flat/rodibot_rodi_esp8266_esp_07/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/rodibot_rodi_esp8266_esp_07/working
-    oomp_src_folder: footprints_folder/footprints_folder/rodibot/RoDI/ESP8266_ESP-07/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/rodibot/RoDI/ESP8266_ESP-07/working
   name: RoDI.pretty
+  oomp:
+    footprint_name: esp8266_esp_07
+    library_name: rodi
+    md5: fce3704fd2aba45882a42bff94d4bb46
+    md5_10: fce3704fd2
+    md5_5: fce37
+    md5_6: fce370
+    oomp_key: oomp_rodibot_rodi_esp8266_esp_07
+    oomp_key_extra: oomp_footprint_rodibot_rodi_esp8266_esp_07
+    oomp_key_full: oomp_footprint_rodibot_rodi_esp8266_esp_07_fce370
+    oomp_key_simple: rodibot_rodi_esp8266_esp_07
+    original_filename: RoDI.pretty/ESP8266_ESP-07.kicad_mod
+    owner_name: rodibot
   oomp_key: oomp_rodibot_rodi_esp8266_esp_07
+  oomp_key_full: oomp_footprint_rodibot_rodi_esp8266_esp_07
   oomp_key_simple: rodibot_rodi_esp8266_esp_07
   owner: rodibot
   repo:

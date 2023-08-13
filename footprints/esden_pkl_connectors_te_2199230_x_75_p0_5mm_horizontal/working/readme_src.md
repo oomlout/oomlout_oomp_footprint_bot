@@ -6,20 +6,22 @@ The original footprint can be found at:
 http://gitlab.com/esden/pretty-kicad-libs/blob/master/pkl_tag_connect.pretty/TC2050_SMALL.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
-* description:   
-* libraryLink:   
-* number_of_pads:   
+* description: TE 2199230-X, 75 pins, 0.5mm pitch, NGFF (M.2) connector, no key (works with any key)  
+* libraryLink: TE_2199230-X_75_P0.5mm_Horizontal  
+* number_of_pads: 79  
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| error | Expression does not have the correct type |  
 | file | pretty-kicad-libs/pkl_connectors.pretty/TE_2199230-X_75_P0.5mm_Horizontal.kicad_mod |  
+| footprint | {'description': 'TE 2199230-X, 75 pins, 0.5mm pitch, NGFF (M.2) connector, no key (works with any key)', 'libraryLink': 'TE_2199230-X_75_P0.5mm_Horizontal', 'number_of_pads': 79} |  
 | footprint_library_directory | footprint_library_owner/esden_pretty-kicad-libs |  
 | footprint_library_directory_flat | footprints_flat/esden_pkl_connectors_te_2199230_x_75_p0_5mm_horizontal/working |  
 | github_path | http://github.com/esden/pretty-kicad-libs/blob/master/pkl_connectors.pretty/TE_2199230-X_75_P0.5mm_Horizontal.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/esden/pretty-kicad-libs/blob/master/pkl_tag_connect.pretty/TC2050_SMALL.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/esden_pkl_connectors_te_2199230_x_75_p0_5mm_horizontal/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/esden_pkl_connectors_te_2199230_x_75_p0_5mm_horizontal/working', 'oomp_doc': 'footprints/footprints/esden/pkl_connectors/TE_2199230-X_75_P0.5mm_Horizontal/working/', 'oomp_doc_github': 'https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/esden/pkl_connectors/TE_2199230-X_75_P0.5mm_Horizontal/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/esden_pkl_connectors_te_2199230_x_75_p0_5mm_horizontal/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/esden_pkl_connectors_te_2199230_x_75_p0_5mm_horizontal/working', 'oomp_src_folder': 'footprints_folder/footprints_folder/esden/pkl_connectors/TE_2199230-X_75_P0.5mm_Horizontal/working', 'oomp_src_folder_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/esden/pkl_connectors/TE_2199230-X_75_P0.5mm_Horizontal/working'} |  
+| links | {'github_src': 'http://gitlab.com/esden/pretty-kicad-libs/blob/master/pkl_tag_connect.pretty/TC2050_SMALL.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/esden_pkl_connectors_te_2199230_x_75_p0_5mm_horizontal/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/esden_pkl_connectors_te_2199230_x_75_p0_5mm_horizontal/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/esden_pkl_connectors_te_2199230_x_75_p0_5mm_horizontal/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/esden_pkl_connectors_te_2199230_x_75_p0_5mm_horizontal/working'} |  
 | name | pretty-kicad-libs |  
+| oomp | {'footprint_name': 'te_2199230_x_75_p0_5mm_horizontal', 'library_name': 'pkl_connectors', 'md5': '1ceb8cbeafb03823ae6fec2d7d360c73', 'md5_10': '1ceb8cbeaf', 'md5_5': '1ceb8', 'md5_6': '1ceb8c', 'oomp_key': 'oomp_esden_pkl_connectors_te_2199230_x_75_p0_5mm_horizontal', 'oomp_key_extra': 'oomp_footprint_esden_pkl_connectors_te_2199230_x_75_p0_5mm_horizontal', 'oomp_key_full': 'oomp_footprint_esden_pkl_connectors_te_2199230_x_75_p0_5mm_horizontal_1ceb8c', 'oomp_key_simple': 'esden_pkl_connectors_te_2199230_x_75_p0_5mm_horizontal', 'original_filename': 'pretty-kicad-libs/pkl_connectors.pretty/TE_2199230-X_75_P0.5mm_Horizontal.kicad_mod', 'owner_name': 'esden'} |  
 | oomp_key | oomp_esden_pkl_connectors_te_2199230_x_75_p0_5mm_horizontal |  
+| oomp_key_full | oomp_footprint_esden_pkl_connectors_te_2199230_x_75_p0_5mm_horizontal |  
 | oomp_key_simple | esden_pkl_connectors_te_2199230_x_75_p0_5mm_horizontal |  
 | owner | esden |  
 | repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  

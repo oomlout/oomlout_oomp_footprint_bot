@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/kikaiken/kicad_smd.pretty
     oomp_bot: footprints/kikaiken_kicad_smd_vqfp64/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kikaiken_kicad_smd_vqfp64/working
-    oomp_doc: footprints/footprints/kikaiken/kicad_smd/VQFP64/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kikaiken/kicad_smd/VQFP64/working
     oomp_src_flat: footprints_flat/footprints_flat/kikaiken_kicad_smd_vqfp64/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kikaiken_kicad_smd_vqfp64/working
-    oomp_src_folder: footprints_folder/footprints_folder/kikaiken/kicad_smd/VQFP64/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kikaiken/kicad_smd/VQFP64/working
   name: kicad_smd.pretty
+  oomp:
+    footprint_name: vqfp64
+    library_name: kicad_smd
+    md5: c4ee98f3dae36cac7a77ae3dce88f8a4
+    md5_10: c4ee98f3da
+    md5_5: c4ee9
+    md5_6: c4ee98
+    oomp_key: oomp_kikaiken_kicad_smd_vqfp64
+    oomp_key_extra: oomp_footprint_kikaiken_kicad_smd_vqfp64
+    oomp_key_full: oomp_footprint_kikaiken_kicad_smd_vqfp64_c4ee98
+    oomp_key_simple: kikaiken_kicad_smd_vqfp64
+    original_filename: kicad_smd.pretty/VQFP64.kicad_mod
+    owner_name: kikaiken
   oomp_key: oomp_kikaiken_kicad_smd_vqfp64
+  oomp_key_full: oomp_footprint_kikaiken_kicad_smd_vqfp64
   oomp_key_simple: kikaiken_kicad_smd_vqfp64
   owner: kikaiken
   repo:

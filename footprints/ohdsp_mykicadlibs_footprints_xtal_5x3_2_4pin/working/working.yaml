@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/ohdsp_mykicadlibs_footprints_xtal_5x3_2_4pin/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ohdsp_mykicadlibs_footprints_xtal_5x3_2_4pin/working
-    oomp_doc: footprints/footprints/ohdsp/MyKiCadLibs-Footprints/XTAL_5x3.2_4PIN/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ohdsp/MyKiCadLibs-Footprints/XTAL_5x3.2_4PIN/working
     oomp_src_flat: footprints_flat/footprints_flat/ohdsp_mykicadlibs_footprints_xtal_5x3_2_4pin/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ohdsp_mykicadlibs_footprints_xtal_5x3_2_4pin/working
-    oomp_src_folder: footprints_folder/footprints_folder/ohdsp/MyKiCadLibs-Footprints/XTAL_5x3.2_4PIN/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ohdsp/MyKiCadLibs-Footprints/XTAL_5x3.2_4PIN/working
   name: KiCad-Libs
+  oomp:
+    footprint_name: xtal_5x3_2_4pin
+    library_name: mykicadlibs_footprints
+    md5: d9b6c50c9f0982e4c06eb03e67ef8143
+    md5_10: d9b6c50c9f
+    md5_5: d9b6c
+    md5_6: d9b6c5
+    oomp_key: oomp_ohdsp_mykicadlibs_footprints_xtal_5x3_2_4pin
+    oomp_key_extra: oomp_footprint_ohdsp_mykicadlibs_footprints_xtal_5x3_2_4pin
+    oomp_key_full: oomp_footprint_ohdsp_mykicadlibs_footprints_xtal_5x3_2_4pin_d9b6c5
+    oomp_key_simple: ohdsp_mykicadlibs_footprints_xtal_5x3_2_4pin
+    original_filename: KiCad-Libs/MyKiCadLibs-Footprints.pretty/XTAL_5x3.2_4PIN.kicad_mod
+    owner_name: ohdsp
   oomp_key: oomp_ohdsp_mykicadlibs_footprints_xtal_5x3_2_4pin
+  oomp_key_full: oomp_footprint_ohdsp_mykicadlibs_footprints_xtal_5x3_2_4pin
   oomp_key_simple: ohdsp_mykicadlibs_footprints_xtal_5x3_2_4pin
   owner: ohdsp
   repo:

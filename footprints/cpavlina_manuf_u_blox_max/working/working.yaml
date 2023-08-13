@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cpavlina_manuf_u_blox_max/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cpavlina_manuf_u_blox_max/working
-    oomp_doc: footprints/footprints/cpavlina/manuf/U-BLOX_MAX/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cpavlina/manuf/U-BLOX_MAX/working
     oomp_src_flat: footprints_flat/footprints_flat/cpavlina_manuf_u_blox_max/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cpavlina_manuf_u_blox_max/working
-    oomp_src_folder: footprints_folder/footprints_folder/cpavlina/manuf/U-BLOX_MAX/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cpavlina/manuf/U-BLOX_MAX/working
   name: kicad-pcblib
+  oomp:
+    footprint_name: u_blox_max
+    library_name: manuf
+    md5: decbf8b69568dde1821f89be44d4e7a2
+    md5_10: decbf8b695
+    md5_5: decbf
+    md5_6: decbf8
+    oomp_key: oomp_cpavlina_manuf_u_blox_max
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_u_blox_max
+    oomp_key_full: oomp_footprint_cpavlina_manuf_u_blox_max_decbf8
+    oomp_key_simple: cpavlina_manuf_u_blox_max
+    original_filename: kicad-pcblib/manuf.pretty/U-BLOX_MAX.kicad_mod
+    owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_u_blox_max
+  oomp_key_full: oomp_footprint_cpavlina_manuf_u_blox_max
   oomp_key_simple: cpavlina_manuf_u_blox_max
   owner: cpavlina
   repo:

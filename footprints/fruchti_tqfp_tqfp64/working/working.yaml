@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/fruchti_tqfp_tqfp64/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/fruchti_tqfp_tqfp64/working
-    oomp_doc: footprints/footprints/fruchti/tqfp/TQFP64/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/fruchti/tqfp/TQFP64/working
     oomp_src_flat: footprints_flat/footprints_flat/fruchti_tqfp_tqfp64/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/fruchti_tqfp_tqfp64/working
-    oomp_src_folder: footprints_folder/footprints_folder/fruchti/tqfp/TQFP64/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/fruchti/tqfp/TQFP64/working
   name: fruchtilib
+  oomp:
+    footprint_name: tqfp64
+    library_name: tqfp
+    md5: eb91d9fc3a9af313b8f454b7788a651a
+    md5_10: eb91d9fc3a
+    md5_5: eb91d
+    md5_6: eb91d9
+    oomp_key: oomp_fruchti_tqfp_tqfp64
+    oomp_key_extra: oomp_footprint_fruchti_tqfp_tqfp64
+    oomp_key_full: oomp_footprint_fruchti_tqfp_tqfp64_eb91d9
+    oomp_key_simple: fruchti_tqfp_tqfp64
+    original_filename: fruchtilib/mod/tqfp.pretty/TQFP64.kicad_mod
+    owner_name: fruchti
   oomp_key: oomp_fruchti_tqfp_tqfp64
+  oomp_key_full: oomp_footprint_fruchti_tqfp_tqfp64
   oomp_key_simple: fruchti_tqfp_tqfp64
   owner: fruchti
   repo:

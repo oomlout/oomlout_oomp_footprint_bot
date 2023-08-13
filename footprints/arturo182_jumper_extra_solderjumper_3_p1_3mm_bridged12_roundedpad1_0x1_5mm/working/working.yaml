@@ -14,14 +14,24 @@
     github_src_repo: https://github.com/arturo182/kicad-modules
     oomp_bot: footprints/arturo182_jumper_extra_solderjumper_3_p1_3mm_bridged12_roundedpad1_0x1_5mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/arturo182_jumper_extra_solderjumper_3_p1_3mm_bridged12_roundedpad1_0x1_5mm/working
-    oomp_doc: footprints/footprints/arturo182/Jumper_Extra/SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/arturo182/Jumper_Extra/SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm/working
     oomp_src_flat: footprints_flat/footprints_flat/arturo182_jumper_extra_solderjumper_3_p1_3mm_bridged12_roundedpad1_0x1_5mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/arturo182_jumper_extra_solderjumper_3_p1_3mm_bridged12_roundedpad1_0x1_5mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/arturo182/Jumper_Extra/SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/arturo182/Jumper_Extra/SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm/working
   name: kicad-modules
+  oomp:
+    footprint_name: solderjumper_3_p1_3mm_bridged12_roundedpad1_0x1_5mm
+    library_name: jumper_extra
+    md5: 3e67907bf3a867abb99e43a08633f4be
+    md5_10: 3e67907bf3
+    md5_5: 3e679
+    md5_6: 3e6790
+    oomp_key: oomp_arturo182_jumper_extra_solderjumper_3_p1_3mm_bridged12_roundedpad1_0x1_5mm
+    oomp_key_extra: oomp_footprint_arturo182_jumper_extra_solderjumper_3_p1_3mm_bridged12_roundedpad1_0x1_5mm
+    oomp_key_full: oomp_footprint_arturo182_jumper_extra_solderjumper_3_p1_3mm_bridged12_roundedpad1_0x1_5mm_3e6790
+    oomp_key_simple: arturo182_jumper_extra_solderjumper_3_p1_3mm_bridged12_roundedpad1_0x1_5mm
+    original_filename: kicad-modules/Jumper_Extra.pretty/SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm.kicad_mod
+    owner_name: arturo182
   oomp_key: oomp_arturo182_jumper_extra_solderjumper_3_p1_3mm_bridged12_roundedpad1_0x1_5mm
+  oomp_key_full: oomp_footprint_arturo182_jumper_extra_solderjumper_3_p1_3mm_bridged12_roundedpad1_0x1_5mm
   oomp_key_simple: arturo182_jumper_extra_solderjumper_3_p1_3mm_bridged12_roundedpad1_0x1_5mm
   owner: arturo182
   repo:

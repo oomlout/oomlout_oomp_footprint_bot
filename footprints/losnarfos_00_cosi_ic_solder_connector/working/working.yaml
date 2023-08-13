@@ -15,17 +15,24 @@
     github_src_repo: https://github.com/LosNarfos/Kicad_Libraries
     oomp_bot: footprints/losnarfos_00_cosi_ic_solder_connector/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/losnarfos_00_cosi_ic_solder_connector/working
-    oomp_doc: footprints/footprints/LosNarfos/00_cosi_IC/solder connector/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/LosNarfos/00_cosi_IC/solder
-      connector/working
     oomp_src_flat: footprints_flat/footprints_flat/losnarfos_00_cosi_ic_solder_connector/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/losnarfos_00_cosi_ic_solder_connector/working
-    oomp_src_folder: footprints_folder/footprints_folder/LosNarfos/00_cosi_IC/solder
-      connector/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/LosNarfos/00_cosi_IC/solder
-      connector/working
   name: Kicad_Libraries
+  oomp:
+    footprint_name: solder_connector
+    library_name: 00_cosi_ic
+    md5: 0e150177b0dfed34d51af9440bb50cb2
+    md5_10: 0e150177b0
+    md5_5: 0e150
+    md5_6: 0e1501
+    oomp_key: oomp_losnarfos_00_cosi_ic_solder_connector
+    oomp_key_extra: oomp_footprint_losnarfos_00_cosi_ic_solder_connector
+    oomp_key_full: oomp_footprint_losnarfos_00_cosi_ic_solder_connector_0e1501
+    oomp_key_simple: losnarfos_00_cosi_ic_solder_connector
+    original_filename: Kicad_Libraries/cosi_footprints/00_cosi_IC.pretty/solder connector.kicad_mod
+    owner_name: losnarfos
   oomp_key: oomp_losnarfos_00_cosi_ic_solder_connector
+  oomp_key_full: oomp_footprint_losnarfos_00_cosi_ic_solder_connector
   oomp_key_simple: losnarfos_00_cosi_ic_solder_connector
   owner: LosNarfos
   repo:

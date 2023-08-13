@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/candykingdom_homebrew_bourns_pec12r_4xxxf_sxxxx/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/candykingdom_homebrew_bourns_pec12r_4xxxf_sxxxx/working
-    oomp_doc: footprints/footprints/candykingdom/homebrew/BOURNS_PEC12R-4xxxF-Sxxxx/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/candykingdom/homebrew/BOURNS_PEC12R-4xxxF-Sxxxx/working
     oomp_src_flat: footprints_flat/footprints_flat/candykingdom_homebrew_bourns_pec12r_4xxxf_sxxxx/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/candykingdom_homebrew_bourns_pec12r_4xxxf_sxxxx/working
-    oomp_src_folder: footprints_folder/footprints_folder/candykingdom/homebrew/BOURNS_PEC12R-4xxxF-Sxxxx/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/candykingdom/homebrew/BOURNS_PEC12R-4xxxF-Sxxxx/working
   name: homebrew.pretty
+  oomp:
+    footprint_name: bourns_pec12r_4xxxf_sxxxx
+    library_name: homebrew
+    md5: 5531774582d4734a2566d60a1c199a0c
+    md5_10: '5531774582'
+    md5_5: '55317'
+    md5_6: '553177'
+    oomp_key: oomp_candykingdom_homebrew_bourns_pec12r_4xxxf_sxxxx
+    oomp_key_extra: oomp_footprint_candykingdom_homebrew_bourns_pec12r_4xxxf_sxxxx
+    oomp_key_full: oomp_footprint_candykingdom_homebrew_bourns_pec12r_4xxxf_sxxxx_553177
+    oomp_key_simple: candykingdom_homebrew_bourns_pec12r_4xxxf_sxxxx
+    original_filename: homebrew.pretty/BOURNS_PEC12R-4xxxF-Sxxxx.kicad_mod
+    owner_name: candykingdom
   oomp_key: oomp_candykingdom_homebrew_bourns_pec12r_4xxxf_sxxxx
+  oomp_key_full: oomp_footprint_candykingdom_homebrew_bourns_pec12r_4xxxf_sxxxx
   oomp_key_simple: candykingdom_homebrew_bourns_pec12r_4xxxf_sxxxx
   owner: candykingdom
   repo:

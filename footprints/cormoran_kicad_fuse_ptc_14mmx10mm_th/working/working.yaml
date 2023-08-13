@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cormoran_kicad_fuse_ptc_14mmx10mm_th/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cormoran_kicad_fuse_ptc_14mmx10mm_th/working
-    oomp_doc: footprints/footprints/cormoran/kicad/FUSE_PTC_14MMX10MM_TH/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cormoran/kicad/FUSE_PTC_14MMX10MM_TH/working
     oomp_src_flat: footprints_flat/footprints_flat/cormoran_kicad_fuse_ptc_14mmx10mm_th/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cormoran_kicad_fuse_ptc_14mmx10mm_th/working
-    oomp_src_folder: footprints_folder/footprints_folder/cormoran/kicad/FUSE_PTC_14MMX10MM_TH/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cormoran/kicad/FUSE_PTC_14MMX10MM_TH/working
   name: kicad.pretty
+  oomp:
+    footprint_name: fuse_ptc_14mmx10mm_th
+    library_name: kicad
+    md5: b43854edfabbadf5dd36aec561301ded
+    md5_10: b43854edfa
+    md5_5: b4385
+    md5_6: b43854
+    oomp_key: oomp_cormoran_kicad_fuse_ptc_14mmx10mm_th
+    oomp_key_extra: oomp_footprint_cormoran_kicad_fuse_ptc_14mmx10mm_th
+    oomp_key_full: oomp_footprint_cormoran_kicad_fuse_ptc_14mmx10mm_th_b43854
+    oomp_key_simple: cormoran_kicad_fuse_ptc_14mmx10mm_th
+    original_filename: kicad.pretty/FUSE_PTC_14MMX10MM_TH.kicad_mod
+    owner_name: cormoran
   oomp_key: oomp_cormoran_kicad_fuse_ptc_14mmx10mm_th
+  oomp_key_full: oomp_footprint_cormoran_kicad_fuse_ptc_14mmx10mm_th
   oomp_key_simple: cormoran_kicad_fuse_ptc_14mmx10mm_th
   owner: cormoran
   repo:

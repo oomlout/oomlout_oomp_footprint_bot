@@ -12,17 +12,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_package_dfn_qfn_qfn_16_1ep_4x4mm_p0_65mm_ep2_5x2_5mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_package_dfn_qfn_qfn_16_1ep_4x4mm_p0_65mm_ep2_5x2_5mm/working
-    oomp_doc: footprints/footprints/kicad/Package_DFN_QFN/QFN-16-1EP_4x4mm_P0.65mm_EP2.5x2.5mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Package_DFN_QFN/QFN-16-1EP_4x4mm_P0.65mm_EP2.5x2.5mm/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_package_dfn_qfn_qfn_16_1ep_4x4mm_p0_65mm_ep2_5x2_5mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_package_dfn_qfn_qfn_16_1ep_4x4mm_p0_65mm_ep2_5x2_5mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Package_DFN_QFN/QFN-16-1EP_4x4mm_P0.65mm_EP2.5x2.5mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Package_DFN_QFN/QFN-16-1EP_4x4mm_P0.65mm_EP2.5x2.5mm/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: qfn_16_1ep_4x4mm_p0_65mm_ep2_5x2_5mm
+    library_name: package_dfn_qfn
+    md5: 7aa85d67d991913637a996a6b56ad0fc
+    md5_10: 7aa85d67d9
+    md5_5: 7aa85
+    md5_6: 7aa85d
+    oomp_key: oomp_kicad_package_dfn_qfn_qfn_16_1ep_4x4mm_p0_65mm_ep2_5x2_5mm
+    oomp_key_extra: oomp_footprint_kicad_package_dfn_qfn_qfn_16_1ep_4x4mm_p0_65mm_ep2_5x2_5mm
+    oomp_key_full: oomp_footprint_kicad_package_dfn_qfn_qfn_16_1ep_4x4mm_p0_65mm_ep2_5x2_5mm_7aa85d
+    oomp_key_simple: kicad_package_dfn_qfn_qfn_16_1ep_4x4mm_p0_65mm_ep2_5x2_5mm
+    original_filename: libraries/kicad-footprints/Package_DFN_QFN.pretty/QFN-16-1EP_4x4mm_P0.65mm_EP2.5x2.5mm.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_package_dfn_qfn_qfn_16_1ep_4x4mm_p0_65mm_ep2_5x2_5mm
+  oomp_key_full: oomp_footprint_kicad_package_dfn_qfn_qfn_16_1ep_4x4mm_p0_65mm_ep2_5x2_5mm
   oomp_key_simple: kicad_package_dfn_qfn_qfn_16_1ep_4x4mm_p0_65mm_ep2_5x2_5mm
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

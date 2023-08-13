@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/stefanhamminga_sh_sod_son_sot_son5_p_0202_0_65mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stefanhamminga_sh_sod_son_sot_son5_p_0202_0_65mm/working
-    oomp_doc: footprints/footprints/StefanHamminga/SH_SOD_SON_SOT/SON5-P-0202_0.65mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/StefanHamminga/SH_SOD_SON_SOT/SON5-P-0202_0.65mm/working
     oomp_src_flat: footprints_flat/footprints_flat/stefanhamminga_sh_sod_son_sot_son5_p_0202_0_65mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/stefanhamminga_sh_sod_son_sot_son5_p_0202_0_65mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/StefanHamminga/SH_SOD_SON_SOT/SON5-P-0202_0.65mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/StefanHamminga/SH_SOD_SON_SOT/SON5-P-0202_0.65mm/working
   name: SH_SOD_SON_SOT.pretty
+  oomp:
+    footprint_name: son5_p_0202_0_65mm
+    library_name: sh_sod_son_sot
+    md5: 4d029cee32fce9b03df0d20be84f1f2b
+    md5_10: 4d029cee32
+    md5_5: 4d029
+    md5_6: 4d029c
+    oomp_key: oomp_stefanhamminga_sh_sod_son_sot_son5_p_0202_0_65mm
+    oomp_key_extra: oomp_footprint_stefanhamminga_sh_sod_son_sot_son5_p_0202_0_65mm
+    oomp_key_full: oomp_footprint_stefanhamminga_sh_sod_son_sot_son5_p_0202_0_65mm_4d029c
+    oomp_key_simple: stefanhamminga_sh_sod_son_sot_son5_p_0202_0_65mm
+    original_filename: SH_SOD_SON_SOT.pretty/SON5-P-0202_0.65mm.kicad_mod
+    owner_name: stefanhamminga
   oomp_key: oomp_stefanhamminga_sh_sod_son_sot_son5_p_0202_0_65mm
+  oomp_key_full: oomp_footprint_stefanhamminga_sh_sod_son_sot_son5_p_0202_0_65mm
   oomp_key_simple: stefanhamminga_sh_sod_son_sot_son5_p_0202_0_65mm
   owner: StefanHamminga
   repo:

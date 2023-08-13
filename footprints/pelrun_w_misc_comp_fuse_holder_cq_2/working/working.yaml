@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pelrun_w_misc_comp_fuse_holder_cq_2/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pelrun_w_misc_comp_fuse_holder_cq_2/working
-    oomp_doc: footprints/footprints/pelrun/w_misc_comp/fuse_holder_CQ-2/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/pelrun/w_misc_comp/fuse_holder_CQ-2/working
     oomp_src_flat: footprints_flat/footprints_flat/pelrun_w_misc_comp_fuse_holder_cq_2/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pelrun_w_misc_comp_fuse_holder_cq_2/working
-    oomp_src_folder: footprints_folder/footprints_folder/pelrun/w_misc_comp/fuse_holder_CQ-2/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/pelrun/w_misc_comp/fuse_holder_CQ-2/working
   name: libKiCad
+  oomp:
+    footprint_name: fuse_holder_cq_2
+    library_name: w_misc_comp
+    md5: 5324f54c66b54bee8e3278f7b438b757
+    md5_10: 5324f54c66
+    md5_5: 5324f
+    md5_6: 5324f5
+    oomp_key: oomp_pelrun_w_misc_comp_fuse_holder_cq_2
+    oomp_key_extra: oomp_footprint_pelrun_w_misc_comp_fuse_holder_cq_2
+    oomp_key_full: oomp_footprint_pelrun_w_misc_comp_fuse_holder_cq_2_5324f5
+    oomp_key_simple: pelrun_w_misc_comp_fuse_holder_cq_2
+    original_filename: libKiCad/footprint/w_misc_comp.pretty/fuse_holder_CQ-2.kicad_mod
+    owner_name: pelrun
   oomp_key: oomp_pelrun_w_misc_comp_fuse_holder_cq_2
+  oomp_key_full: oomp_footprint_pelrun_w_misc_comp_fuse_holder_cq_2
   oomp_key_simple: pelrun_w_misc_comp_fuse_holder_cq_2
   owner: pelrun
   repo:

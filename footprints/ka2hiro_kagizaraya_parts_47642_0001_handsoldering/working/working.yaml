@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/ka2hiro_kagizaraya_parts_47642_0001_handsoldering/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ka2hiro_kagizaraya_parts_47642_0001_handsoldering/working
-    oomp_doc: footprints/footprints/ka2hiro/kagizaraya-parts/47642-0001_HandSoldering/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ka2hiro/kagizaraya-parts/47642-0001_HandSoldering/working
     oomp_src_flat: footprints_flat/footprints_flat/ka2hiro_kagizaraya_parts_47642_0001_handsoldering/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ka2hiro_kagizaraya_parts_47642_0001_handsoldering/working
-    oomp_src_folder: footprints_folder/footprints_folder/ka2hiro/kagizaraya-parts/47642-0001_HandSoldering/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ka2hiro/kagizaraya-parts/47642-0001_HandSoldering/working
   name: kagizaraya-parts.pretty
+  oomp:
+    footprint_name: 47642_0001_handsoldering
+    library_name: kagizaraya_parts
+    md5: 968eacd04eb18a0e650b0a8390dddc88
+    md5_10: 968eacd04e
+    md5_5: 968ea
+    md5_6: 968eac
+    oomp_key: oomp_ka2hiro_kagizaraya_parts_47642_0001_handsoldering
+    oomp_key_extra: oomp_footprint_ka2hiro_kagizaraya_parts_47642_0001_handsoldering
+    oomp_key_full: oomp_footprint_ka2hiro_kagizaraya_parts_47642_0001_handsoldering_968eac
+    oomp_key_simple: ka2hiro_kagizaraya_parts_47642_0001_handsoldering
+    original_filename: kagizaraya-parts.pretty/47642-0001_HandSoldering.kicad_mod
+    owner_name: ka2hiro
   oomp_key: oomp_ka2hiro_kagizaraya_parts_47642_0001_handsoldering
+  oomp_key_full: oomp_footprint_ka2hiro_kagizaraya_parts_47642_0001_handsoldering
   oomp_key_simple: ka2hiro_kagizaraya_parts_47642_0001_handsoldering
   owner: ka2hiro
   repo:

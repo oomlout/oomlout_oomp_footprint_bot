@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/AcheronProject/acheron_Connectors.pretty
     oomp_bot: footprints/acheronproject_acheron_connectors_811_22_004_30_000101_female/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/acheronproject_acheron_connectors_811_22_004_30_000101_female/working
-    oomp_doc: footprints/footprints/AcheronProject/acheron_Connectors/811-22-004-30-000101_female/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/AcheronProject/acheron_Connectors/811-22-004-30-000101_female/working
     oomp_src_flat: footprints_flat/footprints_flat/acheronproject_acheron_connectors_811_22_004_30_000101_female/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/acheronproject_acheron_connectors_811_22_004_30_000101_female/working
-    oomp_src_folder: footprints_folder/footprints_folder/AcheronProject/acheron_Connectors/811-22-004-30-000101_female/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/AcheronProject/acheron_Connectors/811-22-004-30-000101_female/working
   name: acheron_Connectors.pretty
+  oomp:
+    footprint_name: 811_22_004_30_000101_female
+    library_name: acheron_connectors
+    md5: 5b18f72cc1aaeadfd709e7650c121ef9
+    md5_10: 5b18f72cc1
+    md5_5: 5b18f
+    md5_6: 5b18f7
+    oomp_key: oomp_acheronproject_acheron_connectors_811_22_004_30_000101_female
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_connectors_811_22_004_30_000101_female
+    oomp_key_full: oomp_footprint_acheronproject_acheron_connectors_811_22_004_30_000101_female_5b18f7
+    oomp_key_simple: acheronproject_acheron_connectors_811_22_004_30_000101_female
+    original_filename: acheron_Connectors.pretty/811-22-004-30-000101_female.kicad_mod
+    owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_connectors_811_22_004_30_000101_female
+  oomp_key_full: oomp_footprint_acheronproject_acheron_connectors_811_22_004_30_000101_female
   oomp_key_simple: acheronproject_acheron_connectors_811_22_004_30_000101_female
   owner: AcheronProject
   repo:

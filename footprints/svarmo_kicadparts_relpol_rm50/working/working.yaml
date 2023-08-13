@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/svarmo_kicadparts_relpol_rm50/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/svarmo_kicadparts_relpol_rm50/working
-    oomp_doc: footprints/footprints/svarmo/kicadParts/Relpol_RM50/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/svarmo/kicadParts/Relpol_RM50/working
     oomp_src_flat: footprints_flat/footprints_flat/svarmo_kicadparts_relpol_rm50/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/svarmo_kicadparts_relpol_rm50/working
-    oomp_src_folder: footprints_folder/footprints_folder/svarmo/kicadParts/Relpol_RM50/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/svarmo/kicadParts/Relpol_RM50/working
   name: kicadParts.pretty
+  oomp:
+    footprint_name: relpol_rm50
+    library_name: kicadparts
+    md5: 739aca9cf353ad16cd233607b07a2fb4
+    md5_10: 739aca9cf3
+    md5_5: 739ac
+    md5_6: 739aca
+    oomp_key: oomp_svarmo_kicadparts_relpol_rm50
+    oomp_key_extra: oomp_footprint_svarmo_kicadparts_relpol_rm50
+    oomp_key_full: oomp_footprint_svarmo_kicadparts_relpol_rm50_739aca
+    oomp_key_simple: svarmo_kicadparts_relpol_rm50
+    original_filename: kicadParts.pretty/Relpol_RM50.kicad_mod
+    owner_name: svarmo
   oomp_key: oomp_svarmo_kicadparts_relpol_rm50
+  oomp_key_full: oomp_footprint_svarmo_kicadparts_relpol_rm50
   oomp_key_simple: svarmo_kicadparts_relpol_rm50
   owner: svarmo
   repo:

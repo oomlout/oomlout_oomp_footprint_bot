@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/bveenema_usb_usb_c_1054500101/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/bveenema_usb_usb_c_1054500101/working
-    oomp_doc: footprints/footprints/bveenema/USB/USB-C-1054500101/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/bveenema/USB/USB-C-1054500101/working
     oomp_src_flat: footprints_flat/footprints_flat/bveenema_usb_usb_c_1054500101/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/bveenema_usb_usb_c_1054500101/working
-    oomp_src_folder: footprints_folder/footprints_folder/bveenema/USB/USB-C-1054500101/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/bveenema/USB/USB-C-1054500101/working
   name: USB.pretty
+  oomp:
+    footprint_name: usb_c_1054500101
+    library_name: usb
+    md5: 9f33e981dbb543f378d76fb96cdf96a8
+    md5_10: 9f33e981db
+    md5_5: 9f33e
+    md5_6: 9f33e9
+    oomp_key: oomp_bveenema_usb_usb_c_1054500101
+    oomp_key_extra: oomp_footprint_bveenema_usb_usb_c_1054500101
+    oomp_key_full: oomp_footprint_bveenema_usb_usb_c_1054500101_9f33e9
+    oomp_key_simple: bveenema_usb_usb_c_1054500101
+    original_filename: USB.pretty/USB-C-1054500101.kicad_mod
+    owner_name: bveenema
   oomp_key: oomp_bveenema_usb_usb_c_1054500101
+  oomp_key_full: oomp_footprint_bveenema_usb_usb_c_1054500101
   oomp_key_simple: bveenema_usb_usb_c_1054500101
   owner: bveenema
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/nickgagnon_kicad_footprint_si_photodiode_s2386_8k/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nickgagnon_kicad_footprint_si_photodiode_s2386_8k/working
-    oomp_doc: footprints/footprints/nickgagnon/Kicad_footprint/Si_PhotoDiode_S2386-8K/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/nickgagnon/Kicad_footprint/Si_PhotoDiode_S2386-8K/working
     oomp_src_flat: footprints_flat/footprints_flat/nickgagnon_kicad_footprint_si_photodiode_s2386_8k/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nickgagnon_kicad_footprint_si_photodiode_s2386_8k/working
-    oomp_src_folder: footprints_folder/footprints_folder/nickgagnon/Kicad_footprint/Si_PhotoDiode_S2386-8K/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/nickgagnon/Kicad_footprint/Si_PhotoDiode_S2386-8K/working
   name: Kicad_footprint.pretty
+  oomp:
+    footprint_name: si_photodiode_s2386_8k
+    library_name: kicad_footprint
+    md5: 5c125b15bb77a07414fd01c6c0098e93
+    md5_10: 5c125b15bb
+    md5_5: 5c125
+    md5_6: 5c125b
+    oomp_key: oomp_nickgagnon_kicad_footprint_si_photodiode_s2386_8k
+    oomp_key_extra: oomp_footprint_nickgagnon_kicad_footprint_si_photodiode_s2386_8k
+    oomp_key_full: oomp_footprint_nickgagnon_kicad_footprint_si_photodiode_s2386_8k_5c125b
+    oomp_key_simple: nickgagnon_kicad_footprint_si_photodiode_s2386_8k
+    original_filename: Kicad_footprint.pretty/Si_PhotoDiode_S2386-8K.kicad_mod
+    owner_name: nickgagnon
   oomp_key: oomp_nickgagnon_kicad_footprint_si_photodiode_s2386_8k
+  oomp_key_full: oomp_footprint_nickgagnon_kicad_footprint_si_photodiode_s2386_8k
   oomp_key_simple: nickgagnon_kicad_footprint_si_photodiode_s2386_8k
   owner: nickgagnon
   repo:

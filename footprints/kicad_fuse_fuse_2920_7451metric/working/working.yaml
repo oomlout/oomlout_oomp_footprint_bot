@@ -13,17 +13,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_fuse_fuse_2920_7451metric/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_fuse_fuse_2920_7451metric/working
-    oomp_doc: footprints/footprints/kicad/Fuse/Fuse_2920_7451Metric/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Fuse/Fuse_2920_7451Metric/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_fuse_fuse_2920_7451metric/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_fuse_fuse_2920_7451metric/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Fuse/Fuse_2920_7451Metric/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Fuse/Fuse_2920_7451Metric/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: fuse_2920_7451metric
+    library_name: fuse
+    md5: 7f3ae5c7b43a9ad436e19670365f4deb
+    md5_10: 7f3ae5c7b4
+    md5_5: 7f3ae
+    md5_6: 7f3ae5
+    oomp_key: oomp_kicad_fuse_fuse_2920_7451metric
+    oomp_key_extra: oomp_footprint_kicad_fuse_fuse_2920_7451metric
+    oomp_key_full: oomp_footprint_kicad_fuse_fuse_2920_7451metric_7f3ae5
+    oomp_key_simple: kicad_fuse_fuse_2920_7451metric
+    original_filename: libraries/kicad-footprints/Fuse.pretty/Fuse_2920_7451Metric.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_fuse_fuse_2920_7451metric
+  oomp_key_full: oomp_footprint_kicad_fuse_fuse_2920_7451metric
   oomp_key_simple: kicad_fuse_fuse_2920_7451metric
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

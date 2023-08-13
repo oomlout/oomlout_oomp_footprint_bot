@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pelrun_w_smd_leds_citizen_cl82x/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pelrun_w_smd_leds_citizen_cl82x/working
-    oomp_doc: footprints/footprints/pelrun/w_smd_leds/Citizen_CL82x/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/pelrun/w_smd_leds/Citizen_CL82x/working
     oomp_src_flat: footprints_flat/footprints_flat/pelrun_w_smd_leds_citizen_cl82x/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pelrun_w_smd_leds_citizen_cl82x/working
-    oomp_src_folder: footprints_folder/footprints_folder/pelrun/w_smd_leds/Citizen_CL82x/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/pelrun/w_smd_leds/Citizen_CL82x/working
   name: libKiCad
+  oomp:
+    footprint_name: citizen_cl82x
+    library_name: w_smd_leds
+    md5: c04f91c2bdba053bb9a137c0caceb467
+    md5_10: c04f91c2bd
+    md5_5: c04f9
+    md5_6: c04f91
+    oomp_key: oomp_pelrun_w_smd_leds_citizen_cl82x
+    oomp_key_extra: oomp_footprint_pelrun_w_smd_leds_citizen_cl82x
+    oomp_key_full: oomp_footprint_pelrun_w_smd_leds_citizen_cl82x_c04f91
+    oomp_key_simple: pelrun_w_smd_leds_citizen_cl82x
+    original_filename: libKiCad/footprint/w_smd_leds.pretty/Citizen_CL82x.kicad_mod
+    owner_name: pelrun
   oomp_key: oomp_pelrun_w_smd_leds_citizen_cl82x
+  oomp_key_full: oomp_footprint_pelrun_w_smd_leds_citizen_cl82x
   oomp_key_simple: pelrun_w_smd_leds_citizen_cl82x
   owner: pelrun
   repo:

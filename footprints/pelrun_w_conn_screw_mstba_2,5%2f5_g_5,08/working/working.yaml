@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pelrun_w_conn_screw_mstba_2,5%2f5_g_5,08/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pelrun_w_conn_screw_mstba_2,5%2f5_g_5,08/working
-    oomp_doc: footprints/footprints/pelrun/w_conn_screw/mstba_2,5%2f5-g-5,08/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/pelrun/w_conn_screw/mstba_2,5%2f5-g-5,08/working
     oomp_src_flat: footprints_flat/footprints_flat/pelrun_w_conn_screw_mstba_2,5%2f5_g_5,08/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pelrun_w_conn_screw_mstba_2,5%2f5_g_5,08/working
-    oomp_src_folder: footprints_folder/footprints_folder/pelrun/w_conn_screw/mstba_2,5%2f5-g-5,08/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/pelrun/w_conn_screw/mstba_2,5%2f5-g-5,08/working
   name: libKiCad
+  oomp:
+    footprint_name: mstba_2,5%2f5_g_5,08
+    library_name: w_conn_screw
+    md5: 5ecab7a90542a2bce902d6c0bf5d8aa8
+    md5_10: 5ecab7a905
+    md5_5: 5ecab
+    md5_6: 5ecab7
+    oomp_key: oomp_pelrun_w_conn_screw_mstba_2,5%2f5_g_5,08
+    oomp_key_extra: oomp_footprint_pelrun_w_conn_screw_mstba_2,5%2f5_g_5,08
+    oomp_key_full: oomp_footprint_pelrun_w_conn_screw_mstba_2,5%2f5_g_5,08_5ecab7
+    oomp_key_simple: pelrun_w_conn_screw_mstba_2,5%2f5_g_5,08
+    original_filename: libKiCad/footprint/w_conn_screw.pretty/mstba_2,5%2f5-g-5,08.kicad_mod
+    owner_name: pelrun
   oomp_key: oomp_pelrun_w_conn_screw_mstba_2,5%2f5_g_5,08
+  oomp_key_full: oomp_footprint_pelrun_w_conn_screw_mstba_2,5%2f5_g_5,08
   oomp_key_simple: pelrun_w_conn_screw_mstba_2,5%2f5_g_5,08
   owner: pelrun
   repo:

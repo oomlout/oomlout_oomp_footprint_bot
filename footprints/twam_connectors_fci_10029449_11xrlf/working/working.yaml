@@ -7,121 +7,33 @@
   footprint_library_directory_flat: footprints_flat/twam_connectors_fci_10029449_11xrlf/working
   github_path: http://github.com/twam/Connectors_FCI.pretty/blob/master/10029449-11xRLF.kicad_mod
   links:
-    github_owner: twam
-    github_repo_name: Connectors_FCI.pretty
-    github_src: http://github.com/twam/Connectors_FCI.pretty/blob/master/10029449-11xRLF.kicad_mod
-    github_src_repo: https://github.com/twam/Connectors_FCI.pretty
+    github_src: http://gitlab.com/twam/Connectors_FCI.pretty/blob/master/10029449-11xRLF.kicad_mod
+    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/twam_connectors_fci_10029449_11xrlf/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/twam_connectors_fci_10029449_11xrlf/working
-    oomp_doc: footprints/footprints/twam/Connectors_FCI/10029449-11xRLF/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/twam/Connectors_FCI/10029449-11xRLF/working
     oomp_src_flat: footprints_flat/footprints_flat/twam_connectors_fci_10029449_11xrlf/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/twam_connectors_fci_10029449_11xrlf/working
-    oomp_src_folder: footprints_folder/footprints_folder/twam/Connectors_FCI/10029449-11xRLF/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/twam/Connectors_FCI/10029449-11xRLF/working
   name: Connectors_FCI.pretty
+  oomp:
+    footprint_name: 10029449_11xrlf
+    library_name: connectors_fci
+    md5: 98ff03d5ecf653545b1c38b2898828b4
+    md5_10: 98ff03d5ec
+    md5_5: 98ff0
+    md5_6: 98ff03
+    oomp_key: oomp_twam_connectors_fci_10029449_11xrlf
+    oomp_key_extra: oomp_footprint_twam_connectors_fci_10029449_11xrlf
+    oomp_key_full: oomp_footprint_twam_connectors_fci_10029449_11xrlf_98ff03
+    oomp_key_simple: twam_connectors_fci_10029449_11xrlf
+    original_filename: Connectors_FCI.pretty/10029449-11xRLF.kicad_mod
+    owner_name: twam
   oomp_key: oomp_twam_connectors_fci_10029449_11xrlf
+  oomp_key_full: oomp_footprint_twam_connectors_fci_10029449_11xrlf
   oomp_key_simple: twam_connectors_fci_10029449_11xrlf
   owner: twam
   repo:
-    allow_forking: true
-    archive_url: https://api.github.com/repos/twam/Connectors_FCI.pretty/{archive_format}{/ref}
-    archived: false
-    assignees_url: https://api.github.com/repos/twam/Connectors_FCI.pretty/assignees{/user}
-    blobs_url: https://api.github.com/repos/twam/Connectors_FCI.pretty/git/blobs{/sha}
-    branches_url: https://api.github.com/repos/twam/Connectors_FCI.pretty/branches{/branch}
-    clone_url: https://github.com/twam/Connectors_FCI.pretty.git
-    collaborators_url: https://api.github.com/repos/twam/Connectors_FCI.pretty/collaborators{/collaborator}
-    comments_url: https://api.github.com/repos/twam/Connectors_FCI.pretty/comments{/number}
-    commits_url: https://api.github.com/repos/twam/Connectors_FCI.pretty/commits{/sha}
-    compare_url: https://api.github.com/repos/twam/Connectors_FCI.pretty/compare/{base}...{head}
-    contents_url: https://api.github.com/repos/twam/Connectors_FCI.pretty/contents/{+path}
-    contributors_url: https://api.github.com/repos/twam/Connectors_FCI.pretty/contributors
-    created_at: '2016-01-04T16:36:29Z'
-    default_branch: master
-    deployments_url: https://api.github.com/repos/twam/Connectors_FCI.pretty/deployments
-    description: KiCad footprints for connectors from FCI
-    disabled: false
-    downloads_url: https://api.github.com/repos/twam/Connectors_FCI.pretty/downloads
-    events_url: https://api.github.com/repos/twam/Connectors_FCI.pretty/events
-    fork: false
-    forks: 0
-    forks_count: 0
-    forks_url: https://api.github.com/repos/twam/Connectors_FCI.pretty/forks
-    full_name: twam/Connectors_FCI.pretty
-    git_commits_url: https://api.github.com/repos/twam/Connectors_FCI.pretty/git/commits{/sha}
-    git_refs_url: https://api.github.com/repos/twam/Connectors_FCI.pretty/git/refs{/sha}
-    git_tags_url: https://api.github.com/repos/twam/Connectors_FCI.pretty/git/tags{/sha}
-    git_url: git://github.com/twam/Connectors_FCI.pretty.git
-    has_discussions: false
-    has_downloads: true
-    has_issues: true
-    has_pages: false
-    has_projects: true
-    has_wiki: true
-    homepage: ''
-    hooks_url: https://api.github.com/repos/twam/Connectors_FCI.pretty/hooks
-    html_url: https://github.com/twam/Connectors_FCI.pretty
-    id: 49009274
-    is_template: false
-    issue_comment_url: https://api.github.com/repos/twam/Connectors_FCI.pretty/issues/comments{/number}
-    issue_events_url: https://api.github.com/repos/twam/Connectors_FCI.pretty/issues/events{/number}
-    issues_url: https://api.github.com/repos/twam/Connectors_FCI.pretty/issues{/number}
-    keys_url: https://api.github.com/repos/twam/Connectors_FCI.pretty/keys{/key_id}
-    labels_url: https://api.github.com/repos/twam/Connectors_FCI.pretty/labels{/name}
-    language: null
-    languages_url: https://api.github.com/repos/twam/Connectors_FCI.pretty/languages
-    license: null
-    merges_url: https://api.github.com/repos/twam/Connectors_FCI.pretty/merges
-    milestones_url: https://api.github.com/repos/twam/Connectors_FCI.pretty/milestones{/number}
-    mirror_url: null
-    name: Connectors_FCI.pretty
-    network_count: 0
-    node_id: MDEwOlJlcG9zaXRvcnk0OTAwOTI3NA==
-    notifications_url: https://api.github.com/repos/twam/Connectors_FCI.pretty/notifications{?since,all,participating}
-    open_issues: 0
-    open_issues_count: 0
-    owner:
-      avatar_url: https://avatars.githubusercontent.com/u/112843?v=4
-      events_url: https://api.github.com/users/twam/events{/privacy}
-      followers_url: https://api.github.com/users/twam/followers
-      following_url: https://api.github.com/users/twam/following{/other_user}
-      gists_url: https://api.github.com/users/twam/gists{/gist_id}
-      gravatar_id: ''
-      html_url: https://github.com/twam
-      id: 112843
-      login: twam
-      node_id: MDQ6VXNlcjExMjg0Mw==
-      organizations_url: https://api.github.com/users/twam/orgs
-      received_events_url: https://api.github.com/users/twam/received_events
-      repos_url: https://api.github.com/users/twam/repos
-      site_admin: false
-      starred_url: https://api.github.com/users/twam/starred{/owner}{/repo}
-      subscriptions_url: https://api.github.com/users/twam/subscriptions
-      type: User
-      url: https://api.github.com/users/twam
-    private: false
-    pulls_url: https://api.github.com/repos/twam/Connectors_FCI.pretty/pulls{/number}
-    pushed_at: '2016-01-06T15:02:58Z'
-    releases_url: https://api.github.com/repos/twam/Connectors_FCI.pretty/releases{/id}
-    size: 1
-    ssh_url: git@github.com:twam/Connectors_FCI.pretty.git
-    stargazers_count: 0
-    stargazers_url: https://api.github.com/repos/twam/Connectors_FCI.pretty/stargazers
-    statuses_url: https://api.github.com/repos/twam/Connectors_FCI.pretty/statuses/{sha}
-    subscribers_count: 3
-    subscribers_url: https://api.github.com/repos/twam/Connectors_FCI.pretty/subscribers
-    subscription_url: https://api.github.com/repos/twam/Connectors_FCI.pretty/subscription
-    svn_url: https://github.com/twam/Connectors_FCI.pretty
-    tags_url: https://api.github.com/repos/twam/Connectors_FCI.pretty/tags
-    teams_url: https://api.github.com/repos/twam/Connectors_FCI.pretty/teams
-    temp_clone_token: null
-    topics: []
-    trees_url: https://api.github.com/repos/twam/Connectors_FCI.pretty/git/trees{/sha}
-    updated_at: '2016-01-06T17:14:51Z'
-    url: https://api.github.com/repos/twam/Connectors_FCI.pretty
-    visibility: public
-    watchers: 0
-    watchers_count: 0
-    web_commit_signoff_required: false
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: http://github.com/twam/Connectors_FCI.pretty

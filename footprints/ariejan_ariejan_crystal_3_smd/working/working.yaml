@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/ariejan/ariejan.pretty
     oomp_bot: footprints/ariejan_ariejan_crystal_3_smd/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ariejan_ariejan_crystal_3_smd/working
-    oomp_doc: footprints/footprints/ariejan/ariejan/CRYSTAL-3-SMD/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ariejan/ariejan/CRYSTAL-3-SMD/working
     oomp_src_flat: footprints_flat/footprints_flat/ariejan_ariejan_crystal_3_smd/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ariejan_ariejan_crystal_3_smd/working
-    oomp_src_folder: footprints_folder/footprints_folder/ariejan/ariejan/CRYSTAL-3-SMD/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ariejan/ariejan/CRYSTAL-3-SMD/working
   name: ariejan.pretty
+  oomp:
+    footprint_name: crystal_3_smd
+    library_name: ariejan
+    md5: dc00861264c2338f9916627e1f81b08d
+    md5_10: dc00861264
+    md5_5: dc008
+    md5_6: dc0086
+    oomp_key: oomp_ariejan_ariejan_crystal_3_smd
+    oomp_key_extra: oomp_footprint_ariejan_ariejan_crystal_3_smd
+    oomp_key_full: oomp_footprint_ariejan_ariejan_crystal_3_smd_dc0086
+    oomp_key_simple: ariejan_ariejan_crystal_3_smd
+    original_filename: ariejan.pretty/CRYSTAL-3-SMD.kicad_mod
+    owner_name: ariejan
   oomp_key: oomp_ariejan_ariejan_crystal_3_smd
+  oomp_key_full: oomp_footprint_ariejan_ariejan_crystal_3_smd
   oomp_key_simple: ariejan_ariejan_crystal_3_smd
   owner: ariejan
   repo:

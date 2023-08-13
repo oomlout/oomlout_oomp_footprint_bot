@@ -6,22 +6,24 @@ The original footprint can be found at:
 http://gitlab.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
-* description:   
-* libraryLink:   
-* number_of_pads:   
+* description: PowerPAK PowerPAK MLP44-24L (https://www.vishay.com/docs/78231/mlp44-24l.pdf)  
+* libraryLink: Vishay_PowerPAK_MLP44-24L  
+* number_of_pads: 28  
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| error | Expression does not have the correct type |  
 | file | libraries/kicad-footprints/Package_DFN_QFN.pretty/Vishay_PowerPAK_MLP44-24L.kicad_mod |  
+| footprint | {'description': 'PowerPAK PowerPAK MLP44-24L (https://www.vishay.com/docs/78231/mlp44-24l.pdf)', 'libraryLink': 'Vishay_PowerPAK_MLP44-24L', 'number_of_pads': 28} |  
 | footprint_library_directory | footprint_library_owner/kicad_libraries/kicad-footprints/ |  
 | footprint_library_directory_flat | footprints_flat/kicad_package_dfn_qfn_vishay_powerpak_mlp44_24l/working |  
 | github_path | http://github.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Package_DFN_QFN.pretty/Vishay_PowerPAK_MLP44-24L.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/kicad_package_dfn_qfn_vishay_powerpak_mlp44_24l/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_package_dfn_qfn_vishay_powerpak_mlp44_24l/working', 'oomp_doc': 'footprints/footprints/kicad/Package_DFN_QFN/Vishay_PowerPAK_MLP44-24L/working/', 'oomp_doc_github': 'https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Package_DFN_QFN/Vishay_PowerPAK_MLP44-24L/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/kicad_package_dfn_qfn_vishay_powerpak_mlp44_24l/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_package_dfn_qfn_vishay_powerpak_mlp44_24l/working', 'oomp_src_folder': 'footprints_folder/footprints_folder/kicad/Package_DFN_QFN/Vishay_PowerPAK_MLP44-24L/working', 'oomp_src_folder_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Package_DFN_QFN/Vishay_PowerPAK_MLP44-24L/working'} |  
+| links | {'github_src': 'http://gitlab.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/kicad_package_dfn_qfn_vishay_powerpak_mlp44_24l/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_package_dfn_qfn_vishay_powerpak_mlp44_24l/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/kicad_package_dfn_qfn_vishay_powerpak_mlp44_24l/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_package_dfn_qfn_vishay_powerpak_mlp44_24l/working'} |  
 | name | libraries/kicad-footprints/ |  
+| oomp | {'footprint_name': 'vishay_powerpak_mlp44_24l', 'library_name': 'package_dfn_qfn', 'md5': 'be835020bf73e64141780f9a00b1abc2', 'md5_10': 'be835020bf', 'md5_5': 'be835', 'md5_6': 'be8350', 'oomp_key': 'oomp_kicad_package_dfn_qfn_vishay_powerpak_mlp44_24l', 'oomp_key_extra': 'oomp_footprint_kicad_package_dfn_qfn_vishay_powerpak_mlp44_24l', 'oomp_key_full': 'oomp_footprint_kicad_package_dfn_qfn_vishay_powerpak_mlp44_24l_be8350', 'oomp_key_simple': 'kicad_package_dfn_qfn_vishay_powerpak_mlp44_24l', 'original_filename': 'libraries/kicad-footprints/Package_DFN_QFN.pretty/Vishay_PowerPAK_MLP44-24L.kicad_mod', 'owner_name': 'kicad'} |  
 | oomp_key | oomp_kicad_package_dfn_qfn_vishay_powerpak_mlp44_24l |  
+| oomp_key_full | oomp_footprint_kicad_package_dfn_qfn_vishay_powerpak_mlp44_24l |  
 | oomp_key_simple | kicad_package_dfn_qfn_vishay_powerpak_mlp44_24l |  
 | owner | kicad |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/repos/repos#get-a-repository', 'message': 'Not Found'} |  
+| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
 | url | https://gitlab.com/kicad/libraries/kicad-footprints |  
 

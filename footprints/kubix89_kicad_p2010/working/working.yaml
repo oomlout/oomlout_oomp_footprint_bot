@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/kubiX89/kiCAD.pretty
     oomp_bot: footprints/kubix89_kicad_p2010/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kubix89_kicad_p2010/working
-    oomp_doc: footprints/footprints/kubiX89/kiCAD/P2010/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kubiX89/kiCAD/P2010/working
     oomp_src_flat: footprints_flat/footprints_flat/kubix89_kicad_p2010/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kubix89_kicad_p2010/working
-    oomp_src_folder: footprints_folder/footprints_folder/kubiX89/kiCAD/P2010/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kubiX89/kiCAD/P2010/working
   name: kiCAD.pretty
+  oomp:
+    footprint_name: p2010
+    library_name: kicad
+    md5: 4b8f8c4a7c8a9083f01f68948204dc50
+    md5_10: 4b8f8c4a7c
+    md5_5: 4b8f8
+    md5_6: 4b8f8c
+    oomp_key: oomp_kubix89_kicad_p2010
+    oomp_key_extra: oomp_footprint_kubix89_kicad_p2010
+    oomp_key_full: oomp_footprint_kubix89_kicad_p2010_4b8f8c
+    oomp_key_simple: kubix89_kicad_p2010
+    original_filename: kiCAD.pretty/P2010.kicad_mod
+    owner_name: kubix89
   oomp_key: oomp_kubix89_kicad_p2010
+  oomp_key_full: oomp_footprint_kubix89_kicad_p2010
   oomp_key_simple: kubix89_kicad_p2010
   owner: kubiX89
   repo:

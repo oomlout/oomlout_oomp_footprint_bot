@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/simontretter_mediaarchitectu_re_dpak/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/simontretter_mediaarchitectu_re_dpak/working
-    oomp_doc: footprints/footprints/simontretter/mediaarchitectu.re/DPak/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/simontretter/mediaarchitectu.re/DPak/working
     oomp_src_flat: footprints_flat/footprints_flat/simontretter_mediaarchitectu_re_dpak/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/simontretter_mediaarchitectu_re_dpak/working
-    oomp_src_folder: footprints_folder/footprints_folder/simontretter/mediaarchitectu.re/DPak/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/simontretter/mediaarchitectu.re/DPak/working
   name: mediaarchitectu.re.pretty
+  oomp:
+    footprint_name: dpak
+    library_name: mediaarchitectu_re
+    md5: 5d29e0e22ea088f107935ee04d3ee6d3
+    md5_10: 5d29e0e22e
+    md5_5: 5d29e
+    md5_6: 5d29e0
+    oomp_key: oomp_simontretter_mediaarchitectu_re_dpak
+    oomp_key_extra: oomp_footprint_simontretter_mediaarchitectu_re_dpak
+    oomp_key_full: oomp_footprint_simontretter_mediaarchitectu_re_dpak_5d29e0
+    oomp_key_simple: simontretter_mediaarchitectu_re_dpak
+    original_filename: mediaarchitectu.re.pretty/DPak.kicad_mod
+    owner_name: simontretter
   oomp_key: oomp_simontretter_mediaarchitectu_re_dpak
+  oomp_key_full: oomp_footprint_simontretter_mediaarchitectu_re_dpak
   oomp_key_simple: simontretter_mediaarchitectu_re_dpak
   owner: simontretter
   repo:

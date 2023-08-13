@@ -14,14 +14,24 @@
     github_src_repo: https://github.com/kikaiken/kicad_smd.pretty
     oomp_bot: footprints/kikaiken_kicad_smd_qfn_32_1ep_5x5mm_pitch0_5mm_kai/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kikaiken_kicad_smd_qfn_32_1ep_5x5mm_pitch0_5mm_kai/working
-    oomp_doc: footprints/footprints/kikaiken/kicad_smd/QFN-32-1EP_5x5mm_Pitch0.5mm_kai/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kikaiken/kicad_smd/QFN-32-1EP_5x5mm_Pitch0.5mm_kai/working
     oomp_src_flat: footprints_flat/footprints_flat/kikaiken_kicad_smd_qfn_32_1ep_5x5mm_pitch0_5mm_kai/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kikaiken_kicad_smd_qfn_32_1ep_5x5mm_pitch0_5mm_kai/working
-    oomp_src_folder: footprints_folder/footprints_folder/kikaiken/kicad_smd/QFN-32-1EP_5x5mm_Pitch0.5mm_kai/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kikaiken/kicad_smd/QFN-32-1EP_5x5mm_Pitch0.5mm_kai/working
   name: kicad_smd.pretty
+  oomp:
+    footprint_name: qfn_32_1ep_5x5mm_pitch0_5mm_kai
+    library_name: kicad_smd
+    md5: da20ccecc152298270b9f7f2d36c0b85
+    md5_10: da20ccecc1
+    md5_5: da20c
+    md5_6: da20cc
+    oomp_key: oomp_kikaiken_kicad_smd_qfn_32_1ep_5x5mm_pitch0_5mm_kai
+    oomp_key_extra: oomp_footprint_kikaiken_kicad_smd_qfn_32_1ep_5x5mm_pitch0_5mm_kai
+    oomp_key_full: oomp_footprint_kikaiken_kicad_smd_qfn_32_1ep_5x5mm_pitch0_5mm_kai_da20cc
+    oomp_key_simple: kikaiken_kicad_smd_qfn_32_1ep_5x5mm_pitch0_5mm_kai
+    original_filename: kicad_smd.pretty/QFN-32-1EP_5x5mm_Pitch0.5mm_kai.kicad_mod
+    owner_name: kikaiken
   oomp_key: oomp_kikaiken_kicad_smd_qfn_32_1ep_5x5mm_pitch0_5mm_kai
+  oomp_key_full: oomp_footprint_kikaiken_kicad_smd_qfn_32_1ep_5x5mm_pitch0_5mm_kai
   oomp_key_simple: kikaiken_kicad_smd_qfn_32_1ep_5x5mm_pitch0_5mm_kai
   owner: kikaiken
   repo:

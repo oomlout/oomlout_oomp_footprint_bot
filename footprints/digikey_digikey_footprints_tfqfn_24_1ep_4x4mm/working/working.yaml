@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/digikey_digikey_footprints_tfqfn_24_1ep_4x4mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_digikey_footprints_tfqfn_24_1ep_4x4mm/working
-    oomp_doc: footprints/footprints/digikey/digikey-footprints/TFQFN-24-1EP_4x4mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/digikey/digikey-footprints/TFQFN-24-1EP_4x4mm/working
     oomp_src_flat: footprints_flat/footprints_flat/digikey_digikey_footprints_tfqfn_24_1ep_4x4mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/digikey_digikey_footprints_tfqfn_24_1ep_4x4mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/digikey/digikey-footprints/TFQFN-24-1EP_4x4mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/digikey/digikey-footprints/TFQFN-24-1EP_4x4mm/working
   name: digikey-kicad-library
+  oomp:
+    footprint_name: tfqfn_24_1ep_4x4mm
+    library_name: digikey_footprints
+    md5: 6adbf4972cba1c7f94e07b75fdf29814
+    md5_10: 6adbf4972c
+    md5_5: 6adbf
+    md5_6: 6adbf4
+    oomp_key: oomp_digikey_digikey_footprints_tfqfn_24_1ep_4x4mm
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_tfqfn_24_1ep_4x4mm
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_tfqfn_24_1ep_4x4mm_6adbf4
+    oomp_key_simple: digikey_digikey_footprints_tfqfn_24_1ep_4x4mm
+    original_filename: digikey-kicad-library/digikey-footprints.pretty/TFQFN-24-1EP_4x4mm.kicad_mod
+    owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_tfqfn_24_1ep_4x4mm
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_tfqfn_24_1ep_4x4mm
   oomp_key_simple: digikey_digikey_footprints_tfqfn_24_1ep_4x4mm
   owner: digikey
   repo:

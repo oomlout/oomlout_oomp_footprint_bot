@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/kubiX89/kiCAD.pretty
     oomp_bot: footprints/kubix89_kicad_dip40_600mil/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kubix89_kicad_dip40_600mil/working
-    oomp_doc: footprints/footprints/kubiX89/kiCAD/DIP40_600MIL/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kubiX89/kiCAD/DIP40_600MIL/working
     oomp_src_flat: footprints_flat/footprints_flat/kubix89_kicad_dip40_600mil/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kubix89_kicad_dip40_600mil/working
-    oomp_src_folder: footprints_folder/footprints_folder/kubiX89/kiCAD/DIP40_600MIL/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kubiX89/kiCAD/DIP40_600MIL/working
   name: kiCAD.pretty
+  oomp:
+    footprint_name: dip40_600mil
+    library_name: kicad
+    md5: c76dbb64740746bb405cc08180c7f310
+    md5_10: c76dbb6474
+    md5_5: c76db
+    md5_6: c76dbb
+    oomp_key: oomp_kubix89_kicad_dip40_600mil
+    oomp_key_extra: oomp_footprint_kubix89_kicad_dip40_600mil
+    oomp_key_full: oomp_footprint_kubix89_kicad_dip40_600mil_c76dbb
+    oomp_key_simple: kubix89_kicad_dip40_600mil
+    original_filename: kiCAD.pretty/DIP40_600MIL.kicad_mod
+    owner_name: kubix89
   oomp_key: oomp_kubix89_kicad_dip40_600mil
+  oomp_key_full: oomp_footprint_kubix89_kicad_dip40_600mil
   oomp_key_simple: kubix89_kicad_dip40_600mil
   owner: kubiX89
   repo:

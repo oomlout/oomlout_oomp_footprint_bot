@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pelrun_w_pth_resistors_trimmer_vishay_64w/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pelrun_w_pth_resistors_trimmer_vishay_64w/working
-    oomp_doc: footprints/footprints/pelrun/w_pth_resistors/trimmer_vishay_64w/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/pelrun/w_pth_resistors/trimmer_vishay_64w/working
     oomp_src_flat: footprints_flat/footprints_flat/pelrun_w_pth_resistors_trimmer_vishay_64w/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pelrun_w_pth_resistors_trimmer_vishay_64w/working
-    oomp_src_folder: footprints_folder/footprints_folder/pelrun/w_pth_resistors/trimmer_vishay_64w/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/pelrun/w_pth_resistors/trimmer_vishay_64w/working
   name: libKiCad
+  oomp:
+    footprint_name: trimmer_vishay_64w
+    library_name: w_pth_resistors
+    md5: 1c58e30a370ff0308f3a533e092ebd13
+    md5_10: 1c58e30a37
+    md5_5: 1c58e
+    md5_6: 1c58e3
+    oomp_key: oomp_pelrun_w_pth_resistors_trimmer_vishay_64w
+    oomp_key_extra: oomp_footprint_pelrun_w_pth_resistors_trimmer_vishay_64w
+    oomp_key_full: oomp_footprint_pelrun_w_pth_resistors_trimmer_vishay_64w_1c58e3
+    oomp_key_simple: pelrun_w_pth_resistors_trimmer_vishay_64w
+    original_filename: libKiCad/footprint/w_pth_resistors.pretty/trimmer_vishay_64w.kicad_mod
+    owner_name: pelrun
   oomp_key: oomp_pelrun_w_pth_resistors_trimmer_vishay_64w
+  oomp_key_full: oomp_footprint_pelrun_w_pth_resistors_trimmer_vishay_64w
   oomp_key_simple: pelrun_w_pth_resistors_trimmer_vishay_64w
   owner: pelrun
   repo:

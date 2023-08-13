@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/ruuvi_ruuvitag_qfn_48_6x6mm_botpad/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ruuvi_ruuvitag_qfn_48_6x6mm_botpad/working
-    oomp_doc: footprints/footprints/ruuvi/RuuviTag/QFN-48_6X6MM_BOTPAD/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ruuvi/RuuviTag/QFN-48_6X6MM_BOTPAD/working
     oomp_src_flat: footprints_flat/footprints_flat/ruuvi_ruuvitag_qfn_48_6x6mm_botpad/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ruuvi_ruuvitag_qfn_48_6x6mm_botpad/working
-    oomp_src_folder: footprints_folder/footprints_folder/ruuvi/RuuviTag/QFN-48_6X6MM_BOTPAD/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ruuvi/RuuviTag/QFN-48_6X6MM_BOTPAD/working
   name: kicad-library
+  oomp:
+    footprint_name: qfn_48_6x6mm_botpad
+    library_name: ruuvitag
+    md5: bd6479336f198078474678f6468cccd5
+    md5_10: bd6479336f
+    md5_5: bd647
+    md5_6: bd6479
+    oomp_key: oomp_ruuvi_ruuvitag_qfn_48_6x6mm_botpad
+    oomp_key_extra: oomp_footprint_ruuvi_ruuvitag_qfn_48_6x6mm_botpad
+    oomp_key_full: oomp_footprint_ruuvi_ruuvitag_qfn_48_6x6mm_botpad_bd6479
+    oomp_key_simple: ruuvi_ruuvitag_qfn_48_6x6mm_botpad
+    original_filename: kicad-library/RuuviTag.pretty/QFN-48_6X6MM_BOTPAD.kicad_mod
+    owner_name: ruuvi
   oomp_key: oomp_ruuvi_ruuvitag_qfn_48_6x6mm_botpad
+  oomp_key_full: oomp_footprint_ruuvi_ruuvitag_qfn_48_6x6mm_botpad
   oomp_key_simple: ruuvi_ruuvitag_qfn_48_6x6mm_botpad
   owner: ruuvi
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/dragonmux_rhais_diode_d_sma/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/dragonmux_rhais_diode_d_sma/working
-    oomp_doc: footprints/footprints/dragonmux/rhais_diode/D_SMA/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/dragonmux/rhais_diode/D_SMA/working
     oomp_src_flat: footprints_flat/footprints_flat/dragonmux_rhais_diode_d_sma/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/dragonmux_rhais_diode_d_sma/working
-    oomp_src_folder: footprints_folder/footprints_folder/dragonmux/rhais_diode/D_SMA/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/dragonmux/rhais_diode/D_SMA/working
   name: rhais_diode.pretty
+  oomp:
+    footprint_name: d_sma
+    library_name: rhais_diode
+    md5: 5fb81cc422c276cf1c54877d64105a64
+    md5_10: 5fb81cc422
+    md5_5: 5fb81
+    md5_6: 5fb81c
+    oomp_key: oomp_dragonmux_rhais_diode_d_sma
+    oomp_key_extra: oomp_footprint_dragonmux_rhais_diode_d_sma
+    oomp_key_full: oomp_footprint_dragonmux_rhais_diode_d_sma_5fb81c
+    oomp_key_simple: dragonmux_rhais_diode_d_sma
+    original_filename: rhais_diode.pretty/D_SMA.kicad_mod
+    owner_name: dragonmux
   oomp_key: oomp_dragonmux_rhais_diode_d_sma
+  oomp_key_full: oomp_footprint_dragonmux_rhais_diode_d_sma
   oomp_key_simple: dragonmux_rhais_diode_d_sma
   owner: dragonmux
   repo:

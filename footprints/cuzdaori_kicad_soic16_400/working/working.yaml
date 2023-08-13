@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cuzdaori_kicad_soic16_400/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cuzdaori_kicad_soic16_400/working
-    oomp_doc: footprints/footprints/cuzdaori/KiCad/SOIC16_400/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cuzdaori/KiCad/SOIC16_400/working
     oomp_src_flat: footprints_flat/footprints_flat/cuzdaori_kicad_soic16_400/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cuzdaori_kicad_soic16_400/working
-    oomp_src_folder: footprints_folder/footprints_folder/cuzdaori/KiCad/SOIC16_400/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cuzdaori/KiCad/SOIC16_400/working
   name: KiCad.pretty
+  oomp:
+    footprint_name: soic16_400
+    library_name: kicad
+    md5: 98c4485274b9f4cd1504e60a6c90420c
+    md5_10: 98c4485274
+    md5_5: 98c44
+    md5_6: 98c448
+    oomp_key: oomp_cuzdaori_kicad_soic16_400
+    oomp_key_extra: oomp_footprint_cuzdaori_kicad_soic16_400
+    oomp_key_full: oomp_footprint_cuzdaori_kicad_soic16_400_98c448
+    oomp_key_simple: cuzdaori_kicad_soic16_400
+    original_filename: KiCad.pretty/SOIC16_400.kicad_mod
+    owner_name: cuzdaori
   oomp_key: oomp_cuzdaori_kicad_soic16_400
+  oomp_key_full: oomp_footprint_cuzdaori_kicad_soic16_400
   oomp_key_simple: cuzdaori_kicad_soic16_400
   owner: cuzdaori
   repo:

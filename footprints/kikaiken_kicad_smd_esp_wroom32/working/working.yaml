@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/kikaiken/kicad_smd.pretty
     oomp_bot: footprints/kikaiken_kicad_smd_esp_wroom32/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kikaiken_kicad_smd_esp_wroom32/working
-    oomp_doc: footprints/footprints/kikaiken/kicad_smd/ESP_WROOM32/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kikaiken/kicad_smd/ESP_WROOM32/working
     oomp_src_flat: footprints_flat/footprints_flat/kikaiken_kicad_smd_esp_wroom32/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kikaiken_kicad_smd_esp_wroom32/working
-    oomp_src_folder: footprints_folder/footprints_folder/kikaiken/kicad_smd/ESP_WROOM32/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kikaiken/kicad_smd/ESP_WROOM32/working
   name: kicad_smd.pretty
+  oomp:
+    footprint_name: esp_wroom32
+    library_name: kicad_smd
+    md5: 93de5cde561c525501927a79ef4fbfeb
+    md5_10: 93de5cde56
+    md5_5: 93de5
+    md5_6: 93de5c
+    oomp_key: oomp_kikaiken_kicad_smd_esp_wroom32
+    oomp_key_extra: oomp_footprint_kikaiken_kicad_smd_esp_wroom32
+    oomp_key_full: oomp_footprint_kikaiken_kicad_smd_esp_wroom32_93de5c
+    oomp_key_simple: kikaiken_kicad_smd_esp_wroom32
+    original_filename: kicad_smd.pretty/ESP_WROOM32.kicad_mod
+    owner_name: kikaiken
   oomp_key: oomp_kikaiken_kicad_smd_esp_wroom32
+  oomp_key_full: oomp_footprint_kikaiken_kicad_smd_esp_wroom32
   oomp_key_simple: kikaiken_kicad_smd_esp_wroom32
   owner: kikaiken
   repo:

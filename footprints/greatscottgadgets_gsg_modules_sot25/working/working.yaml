@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/greatscottgadgets_gsg_modules_sot25/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/greatscottgadgets_gsg_modules_sot25/working
-    oomp_doc: footprints/footprints/greatscottgadgets/gsg-modules/SOT25/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/greatscottgadgets/gsg-modules/SOT25/working
     oomp_src_flat: footprints_flat/footprints_flat/greatscottgadgets_gsg_modules_sot25/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/greatscottgadgets_gsg_modules_sot25/working
-    oomp_src_folder: footprints_folder/footprints_folder/greatscottgadgets/gsg-modules/SOT25/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/greatscottgadgets/gsg-modules/SOT25/working
   name: gsg-kicad-lib
+  oomp:
+    footprint_name: sot25
+    library_name: gsg_modules
+    md5: 833d3999401a5d00f4b6a66529f20138
+    md5_10: 833d399940
+    md5_5: 833d3
+    md5_6: 833d39
+    oomp_key: oomp_greatscottgadgets_gsg_modules_sot25
+    oomp_key_extra: oomp_footprint_greatscottgadgets_gsg_modules_sot25
+    oomp_key_full: oomp_footprint_greatscottgadgets_gsg_modules_sot25_833d39
+    oomp_key_simple: greatscottgadgets_gsg_modules_sot25
+    original_filename: gsg-kicad-lib/gsg-modules.pretty/SOT25.kicad_mod
+    owner_name: greatscottgadgets
   oomp_key: oomp_greatscottgadgets_gsg_modules_sot25
+  oomp_key_full: oomp_footprint_greatscottgadgets_gsg_modules_sot25
   oomp_key_simple: greatscottgadgets_gsg_modules_sot25
   owner: greatscottgadgets
   repo:

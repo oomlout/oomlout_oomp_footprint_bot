@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pbrook_parts_power2/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pbrook_parts_power2/working
-    oomp_doc: footprints/footprints/pbrook/Parts/power2/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/pbrook/Parts/power2/working
     oomp_src_flat: footprints_flat/footprints_flat/pbrook_parts_power2/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pbrook_parts_power2/working
-    oomp_src_folder: footprints_folder/footprints_folder/pbrook/Parts/power2/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/pbrook/Parts/power2/working
   name: Parts.pretty
+  oomp:
+    footprint_name: power2
+    library_name: parts
+    md5: 46072d1c6d39c8fa05be46e37f540eac
+    md5_10: 46072d1c6d
+    md5_5: '46072'
+    md5_6: 46072d
+    oomp_key: oomp_pbrook_parts_power2
+    oomp_key_extra: oomp_footprint_pbrook_parts_power2
+    oomp_key_full: oomp_footprint_pbrook_parts_power2_46072d
+    oomp_key_simple: pbrook_parts_power2
+    original_filename: Parts.pretty/power2.kicad_mod
+    owner_name: pbrook
   oomp_key: oomp_pbrook_parts_power2
+  oomp_key_full: oomp_footprint_pbrook_parts_power2
   oomp_key_simple: pbrook_parts_power2
   owner: pbrook
   repo:

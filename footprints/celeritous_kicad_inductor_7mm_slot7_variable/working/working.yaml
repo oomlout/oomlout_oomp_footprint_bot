@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/celeritous_kicad_inductor_7mm_slot7_variable/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/celeritous_kicad_inductor_7mm_slot7_variable/working
-    oomp_doc: footprints/footprints/celeritous/KiCad/Inductor_7mm_Slot7_Variable/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/celeritous/KiCad/Inductor_7mm_Slot7_Variable/working
     oomp_src_flat: footprints_flat/footprints_flat/celeritous_kicad_inductor_7mm_slot7_variable/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/celeritous_kicad_inductor_7mm_slot7_variable/working
-    oomp_src_folder: footprints_folder/footprints_folder/celeritous/KiCad/Inductor_7mm_Slot7_Variable/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/celeritous/KiCad/Inductor_7mm_Slot7_Variable/working
   name: KiCad.pretty
+  oomp:
+    footprint_name: inductor_7mm_slot7_variable
+    library_name: kicad
+    md5: ca1c6704e612e97140ba7707e1819d38
+    md5_10: ca1c6704e6
+    md5_5: ca1c6
+    md5_6: ca1c67
+    oomp_key: oomp_celeritous_kicad_inductor_7mm_slot7_variable
+    oomp_key_extra: oomp_footprint_celeritous_kicad_inductor_7mm_slot7_variable
+    oomp_key_full: oomp_footprint_celeritous_kicad_inductor_7mm_slot7_variable_ca1c67
+    oomp_key_simple: celeritous_kicad_inductor_7mm_slot7_variable
+    original_filename: KiCad.pretty/Inductor_7mm_Slot7_Variable.kicad_mod
+    owner_name: celeritous
   oomp_key: oomp_celeritous_kicad_inductor_7mm_slot7_variable
+  oomp_key_full: oomp_footprint_celeritous_kicad_inductor_7mm_slot7_variable
   oomp_key_simple: celeritous_kicad_inductor_7mm_slot7_variable
   owner: celeritous
   repo:

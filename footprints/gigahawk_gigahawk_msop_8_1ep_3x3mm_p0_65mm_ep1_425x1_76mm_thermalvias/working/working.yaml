@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/gigahawk_gigahawk_msop_8_1ep_3x3mm_p0_65mm_ep1_425x1_76mm_thermalvias/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/gigahawk_gigahawk_msop_8_1ep_3x3mm_p0_65mm_ep1_425x1_76mm_thermalvias/working
-    oomp_doc: footprints/footprints/Gigahawk/Gigahawk/MSOP-8-1EP_3x3mm_P0.65mm_EP1.425x1.76mm_ThermalVias/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Gigahawk/Gigahawk/MSOP-8-1EP_3x3mm_P0.65mm_EP1.425x1.76mm_ThermalVias/working
     oomp_src_flat: footprints_flat/footprints_flat/gigahawk_gigahawk_msop_8_1ep_3x3mm_p0_65mm_ep1_425x1_76mm_thermalvias/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/gigahawk_gigahawk_msop_8_1ep_3x3mm_p0_65mm_ep1_425x1_76mm_thermalvias/working
-    oomp_src_folder: footprints_folder/footprints_folder/Gigahawk/Gigahawk/MSOP-8-1EP_3x3mm_P0.65mm_EP1.425x1.76mm_ThermalVias/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Gigahawk/Gigahawk/MSOP-8-1EP_3x3mm_P0.65mm_EP1.425x1.76mm_ThermalVias/working
   name: Gigahawk.pretty
+  oomp:
+    footprint_name: msop_8_1ep_3x3mm_p0_65mm_ep1_425x1_76mm_thermalvias
+    library_name: gigahawk
+    md5: 037f91718e74816e2a35c8f8f787cbe6
+    md5_10: 037f91718e
+    md5_5: 037f9
+    md5_6: 037f91
+    oomp_key: oomp_gigahawk_gigahawk_msop_8_1ep_3x3mm_p0_65mm_ep1_425x1_76mm_thermalvias
+    oomp_key_extra: oomp_footprint_gigahawk_gigahawk_msop_8_1ep_3x3mm_p0_65mm_ep1_425x1_76mm_thermalvias
+    oomp_key_full: oomp_footprint_gigahawk_gigahawk_msop_8_1ep_3x3mm_p0_65mm_ep1_425x1_76mm_thermalvias_037f91
+    oomp_key_simple: gigahawk_gigahawk_msop_8_1ep_3x3mm_p0_65mm_ep1_425x1_76mm_thermalvias
+    original_filename: Gigahawk.pretty/MSOP-8-1EP_3x3mm_P0.65mm_EP1.425x1.76mm_ThermalVias.kicad_mod
+    owner_name: gigahawk
   oomp_key: oomp_gigahawk_gigahawk_msop_8_1ep_3x3mm_p0_65mm_ep1_425x1_76mm_thermalvias
+  oomp_key_full: oomp_footprint_gigahawk_gigahawk_msop_8_1ep_3x3mm_p0_65mm_ep1_425x1_76mm_thermalvias
   oomp_key_simple: gigahawk_gigahawk_msop_8_1ep_3x3mm_p0_65mm_ep1_425x1_76mm_thermalvias
   owner: Gigahawk
   repo:

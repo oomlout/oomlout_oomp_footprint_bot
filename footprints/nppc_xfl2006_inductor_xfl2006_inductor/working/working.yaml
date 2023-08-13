@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/nppc_xfl2006_inductor_xfl2006_inductor/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nppc_xfl2006_inductor_xfl2006_inductor/working
-    oomp_doc: footprints/footprints/nppc/XFL2006-inductor.kicad_mod/XFL2006-inductor/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/nppc/XFL2006-inductor.kicad_mod/XFL2006-inductor/working
     oomp_src_flat: footprints_flat/footprints_flat/nppc_xfl2006_inductor_xfl2006_inductor/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nppc_xfl2006_inductor_xfl2006_inductor/working
-    oomp_src_folder: footprints_folder/footprints_folder/nppc/XFL2006-inductor.kicad_mod/XFL2006-inductor/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/nppc/XFL2006-inductor.kicad_mod/XFL2006-inductor/working
   name: KiCadCustomLibs
+  oomp:
+    footprint_name: xfl2006_inductor
+    library_name: xfl2006_inductor_kicad_mod
+    md5: ec64db668228be20c2bcd229e0c72d3c
+    md5_10: ec64db6682
+    md5_5: ec64d
+    md5_6: ec64db
+    oomp_key: oomp_nppc_xfl2006_inductor_xfl2006_inductor
+    oomp_key_extra: oomp_footprint_nppc_xfl2006_inductor_xfl2006_inductor
+    oomp_key_full: oomp_footprint_nppc_xfl2006_inductor_xfl2006_inductor_ec64db
+    oomp_key_simple: nppc_xfl2006_inductor_xfl2006_inductor
+    original_filename: KiCadCustomLibs/XFL2006-inductor.kicad_mod
+    owner_name: nppc
   oomp_key: oomp_nppc_xfl2006_inductor_xfl2006_inductor
+  oomp_key_full: oomp_footprint_nppc_xfl2006_inductor_xfl2006_inductor
   oomp_key_simple: nppc_xfl2006_inductor_xfl2006_inductor
   owner: nppc
   repo:

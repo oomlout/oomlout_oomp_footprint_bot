@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/sherifeid_robolib_powerpair_6x5/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/sherifeid_robolib_powerpair_6x5/working
-    oomp_doc: footprints/footprints/sherifeid/RoboLib/PowerPAIR_6x5/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/sherifeid/RoboLib/PowerPAIR_6x5/working
     oomp_src_flat: footprints_flat/footprints_flat/sherifeid_robolib_powerpair_6x5/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/sherifeid_robolib_powerpair_6x5/working
-    oomp_src_folder: footprints_folder/footprints_folder/sherifeid/RoboLib/PowerPAIR_6x5/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/sherifeid/RoboLib/PowerPAIR_6x5/working
   name: RoboLib.pretty
+  oomp:
+    footprint_name: powerpair_6x5
+    library_name: robolib
+    md5: 5cdc33b65cdd6913e0cc9f8e9899d9f6
+    md5_10: 5cdc33b65c
+    md5_5: 5cdc3
+    md5_6: 5cdc33
+    oomp_key: oomp_sherifeid_robolib_powerpair_6x5
+    oomp_key_extra: oomp_footprint_sherifeid_robolib_powerpair_6x5
+    oomp_key_full: oomp_footprint_sherifeid_robolib_powerpair_6x5_5cdc33
+    oomp_key_simple: sherifeid_robolib_powerpair_6x5
+    original_filename: RoboLib.pretty/PowerPAIR_6x5.kicad_mod
+    owner_name: sherifeid
   oomp_key: oomp_sherifeid_robolib_powerpair_6x5
+  oomp_key_full: oomp_footprint_sherifeid_robolib_powerpair_6x5
   oomp_key_simple: sherifeid_robolib_powerpair_6x5
   owner: sherifeid
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/nppc_ncp81258_ncp81258/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nppc_ncp81258_ncp81258/working
-    oomp_doc: footprints/footprints/nppc/NCP81258.kicad_mod/NCP81258/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/nppc/NCP81258.kicad_mod/NCP81258/working
     oomp_src_flat: footprints_flat/footprints_flat/nppc_ncp81258_ncp81258/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nppc_ncp81258_ncp81258/working
-    oomp_src_folder: footprints_folder/footprints_folder/nppc/NCP81258.kicad_mod/NCP81258/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/nppc/NCP81258.kicad_mod/NCP81258/working
   name: KiCadCustomLibs
+  oomp:
+    footprint_name: ncp81258
+    library_name: ncp81258_kicad_mod
+    md5: 7b62e2844b0c16dd435847d83d42ea31
+    md5_10: 7b62e2844b
+    md5_5: 7b62e
+    md5_6: 7b62e2
+    oomp_key: oomp_nppc_ncp81258_ncp81258
+    oomp_key_extra: oomp_footprint_nppc_ncp81258_ncp81258
+    oomp_key_full: oomp_footprint_nppc_ncp81258_ncp81258_7b62e2
+    oomp_key_simple: nppc_ncp81258_ncp81258
+    original_filename: KiCadCustomLibs/NCP81258.kicad_mod
+    owner_name: nppc
   oomp_key: oomp_nppc_ncp81258_ncp81258
+  oomp_key_full: oomp_footprint_nppc_ncp81258_ncp81258
   oomp_key_simple: nppc_ncp81258_ncp81258
   owner: nppc
   repo:

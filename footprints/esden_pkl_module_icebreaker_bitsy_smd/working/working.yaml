@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/esden_pkl_module_icebreaker_bitsy_smd/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/esden_pkl_module_icebreaker_bitsy_smd/working
-    oomp_doc: footprints/footprints/esden/pkl_module/iCEBreaker_Bitsy_SMD/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/esden/pkl_module/iCEBreaker_Bitsy_SMD/working
     oomp_src_flat: footprints_flat/footprints_flat/esden_pkl_module_icebreaker_bitsy_smd/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/esden_pkl_module_icebreaker_bitsy_smd/working
-    oomp_src_folder: footprints_folder/footprints_folder/esden/pkl_module/iCEBreaker_Bitsy_SMD/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/esden/pkl_module/iCEBreaker_Bitsy_SMD/working
   name: pretty-kicad-libs
+  oomp:
+    footprint_name: icebreaker_bitsy_smd
+    library_name: pkl_module
+    md5: 734f4d1e247aca74e0690f8157c9b300
+    md5_10: 734f4d1e24
+    md5_5: 734f4
+    md5_6: 734f4d
+    oomp_key: oomp_esden_pkl_module_icebreaker_bitsy_smd
+    oomp_key_extra: oomp_footprint_esden_pkl_module_icebreaker_bitsy_smd
+    oomp_key_full: oomp_footprint_esden_pkl_module_icebreaker_bitsy_smd_734f4d
+    oomp_key_simple: esden_pkl_module_icebreaker_bitsy_smd
+    original_filename: pretty-kicad-libs/pkl_module.pretty/iCEBreaker_Bitsy_SMD.kicad_mod
+    owner_name: esden
   oomp_key: oomp_esden_pkl_module_icebreaker_bitsy_smd
+  oomp_key_full: oomp_footprint_esden_pkl_module_icebreaker_bitsy_smd
   oomp_key_simple: esden_pkl_module_icebreaker_bitsy_smd
   owner: esden
   repo:

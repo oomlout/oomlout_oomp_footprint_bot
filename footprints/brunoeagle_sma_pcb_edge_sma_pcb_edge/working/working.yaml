@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_sma_pcb_edge_sma_pcb_edge/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_sma_pcb_edge_sma_pcb_edge/working
-    oomp_doc: footprints/footprints/brunoeagle/SMA_PCB_EDGE.kicad_mod/SMA_PCB_EDGE/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/SMA_PCB_EDGE.kicad_mod/SMA_PCB_EDGE/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_sma_pcb_edge_sma_pcb_edge/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_sma_pcb_edge_sma_pcb_edge/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/SMA_PCB_EDGE.kicad_mod/SMA_PCB_EDGE/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/SMA_PCB_EDGE.kicad_mod/SMA_PCB_EDGE/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: sma_pcb_edge
+    library_name: sma_pcb_edge_kicad_mod
+    md5: 71ce50ee526f0b28c61da1480709b30e
+    md5_10: 71ce50ee52
+    md5_5: 71ce5
+    md5_6: 71ce50
+    oomp_key: oomp_brunoeagle_sma_pcb_edge_sma_pcb_edge
+    oomp_key_extra: oomp_footprint_brunoeagle_sma_pcb_edge_sma_pcb_edge
+    oomp_key_full: oomp_footprint_brunoeagle_sma_pcb_edge_sma_pcb_edge_71ce50
+    oomp_key_simple: brunoeagle_sma_pcb_edge_sma_pcb_edge
+    original_filename: kicad-open-modules/SMA_PCB_EDGE.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_sma_pcb_edge_sma_pcb_edge
+  oomp_key_full: oomp_footprint_brunoeagle_sma_pcb_edge_sma_pcb_edge
   oomp_key_simple: brunoeagle_sma_pcb_edge_sma_pcb_edge
   owner: brunoeagle
   repo:

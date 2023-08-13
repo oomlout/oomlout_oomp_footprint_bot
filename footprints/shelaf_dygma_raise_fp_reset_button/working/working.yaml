@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/shelaf_dygma_raise_fp_reset_button/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/shelaf_dygma_raise_fp_reset_button/working
-    oomp_doc: footprints/footprints/shelaf-dygma/raise_fp/reset-button/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/shelaf-dygma/raise_fp/reset-button/working
     oomp_src_flat: footprints_flat/footprints_flat/shelaf_dygma_raise_fp_reset_button/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/shelaf_dygma_raise_fp_reset_button/working
-    oomp_src_folder: footprints_folder/footprints_folder/shelaf-dygma/raise_fp/reset-button/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/shelaf-dygma/raise_fp/reset-button/working
   name: raise_fp.pretty
+  oomp:
+    footprint_name: reset_button
+    library_name: raise_fp
+    md5: 01cc99b1905b663ed194ebe3191fa3cd
+    md5_10: 01cc99b190
+    md5_5: 01cc9
+    md5_6: 01cc99
+    oomp_key: oomp_shelaf_dygma_raise_fp_reset_button
+    oomp_key_extra: oomp_footprint_shelaf_dygma_raise_fp_reset_button
+    oomp_key_full: oomp_footprint_shelaf_dygma_raise_fp_reset_button_01cc99
+    oomp_key_simple: shelaf_dygma_raise_fp_reset_button
+    original_filename: raise_fp.pretty/reset-button.kicad_mod
+    owner_name: shelaf_dygma
   oomp_key: oomp_shelaf_dygma_raise_fp_reset_button
+  oomp_key_full: oomp_footprint_shelaf_dygma_raise_fp_reset_button
   oomp_key_simple: shelaf_dygma_raise_fp_reset_button
   owner: shelaf-dygma
   repo:

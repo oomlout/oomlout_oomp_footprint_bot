@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/nppc_conn2pin_small_conn2pin_small/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nppc_conn2pin_small_conn2pin_small/working
-    oomp_doc: footprints/footprints/nppc/Conn2pin_small.kicad_mod/Conn2pin_small/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/nppc/Conn2pin_small.kicad_mod/Conn2pin_small/working
     oomp_src_flat: footprints_flat/footprints_flat/nppc_conn2pin_small_conn2pin_small/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nppc_conn2pin_small_conn2pin_small/working
-    oomp_src_folder: footprints_folder/footprints_folder/nppc/Conn2pin_small.kicad_mod/Conn2pin_small/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/nppc/Conn2pin_small.kicad_mod/Conn2pin_small/working
   name: KiCadCustomLibs
+  oomp:
+    footprint_name: conn2pin_small
+    library_name: conn2pin_small_kicad_mod
+    md5: 2918782a986ab54c7bc596fe89172775
+    md5_10: 2918782a98
+    md5_5: '29187'
+    md5_6: '291878'
+    oomp_key: oomp_nppc_conn2pin_small_conn2pin_small
+    oomp_key_extra: oomp_footprint_nppc_conn2pin_small_conn2pin_small
+    oomp_key_full: oomp_footprint_nppc_conn2pin_small_conn2pin_small_291878
+    oomp_key_simple: nppc_conn2pin_small_conn2pin_small
+    original_filename: KiCadCustomLibs/Conn2pin_small.kicad_mod
+    owner_name: nppc
   oomp_key: oomp_nppc_conn2pin_small_conn2pin_small
+  oomp_key_full: oomp_footprint_nppc_conn2pin_small_conn2pin_small
   oomp_key_simple: nppc_conn2pin_small_conn2pin_small
   owner: nppc
   repo:

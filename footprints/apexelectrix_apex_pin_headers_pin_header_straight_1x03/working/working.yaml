@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/apexelectrix/apex-pin-headers.pretty
     oomp_bot: footprints/apexelectrix_apex_pin_headers_pin_header_straight_1x03/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/apexelectrix_apex_pin_headers_pin_header_straight_1x03/working
-    oomp_doc: footprints/footprints/apexelectrix/apex-pin-headers/Pin_Header_Straight_1x03/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/apexelectrix/apex-pin-headers/Pin_Header_Straight_1x03/working
     oomp_src_flat: footprints_flat/footprints_flat/apexelectrix_apex_pin_headers_pin_header_straight_1x03/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/apexelectrix_apex_pin_headers_pin_header_straight_1x03/working
-    oomp_src_folder: footprints_folder/footprints_folder/apexelectrix/apex-pin-headers/Pin_Header_Straight_1x03/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/apexelectrix/apex-pin-headers/Pin_Header_Straight_1x03/working
   name: apex-pin-headers.pretty
+  oomp:
+    footprint_name: pin_header_straight_1x03
+    library_name: apex_pin_headers
+    md5: c330d6b8acf454e4653332e22674e75f
+    md5_10: c330d6b8ac
+    md5_5: c330d
+    md5_6: c330d6
+    oomp_key: oomp_apexelectrix_apex_pin_headers_pin_header_straight_1x03
+    oomp_key_extra: oomp_footprint_apexelectrix_apex_pin_headers_pin_header_straight_1x03
+    oomp_key_full: oomp_footprint_apexelectrix_apex_pin_headers_pin_header_straight_1x03_c330d6
+    oomp_key_simple: apexelectrix_apex_pin_headers_pin_header_straight_1x03
+    original_filename: apex-pin-headers.pretty/Pin_Header_Straight_1x03.kicad_mod
+    owner_name: apexelectrix
   oomp_key: oomp_apexelectrix_apex_pin_headers_pin_header_straight_1x03
+  oomp_key_full: oomp_footprint_apexelectrix_apex_pin_headers_pin_header_straight_1x03
   oomp_key_simple: apexelectrix_apex_pin_headers_pin_header_straight_1x03
   owner: apexelectrix
   repo:

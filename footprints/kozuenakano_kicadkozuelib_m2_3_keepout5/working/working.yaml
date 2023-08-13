@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/KozueNakano/KiCADKozueLib.pretty
     oomp_bot: footprints/kozuenakano_kicadkozuelib_m2_3_keepout5/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kozuenakano_kicadkozuelib_m2_3_keepout5/working
-    oomp_doc: footprints/footprints/KozueNakano/KiCADKozueLib/M2.3_keepout5/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/KozueNakano/KiCADKozueLib/M2.3_keepout5/working
     oomp_src_flat: footprints_flat/footprints_flat/kozuenakano_kicadkozuelib_m2_3_keepout5/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kozuenakano_kicadkozuelib_m2_3_keepout5/working
-    oomp_src_folder: footprints_folder/footprints_folder/KozueNakano/KiCADKozueLib/M2.3_keepout5/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/KozueNakano/KiCADKozueLib/M2.3_keepout5/working
   name: KiCADKozueLib.pretty
+  oomp:
+    footprint_name: m2_3_keepout5
+    library_name: kicadkozuelib
+    md5: 4753aeaeda0529e27316aff7f3316667
+    md5_10: 4753aeaeda
+    md5_5: 4753a
+    md5_6: 4753ae
+    oomp_key: oomp_kozuenakano_kicadkozuelib_m2_3_keepout5
+    oomp_key_extra: oomp_footprint_kozuenakano_kicadkozuelib_m2_3_keepout5
+    oomp_key_full: oomp_footprint_kozuenakano_kicadkozuelib_m2_3_keepout5_4753ae
+    oomp_key_simple: kozuenakano_kicadkozuelib_m2_3_keepout5
+    original_filename: KiCADKozueLib.pretty/M2.3_keepout5.kicad_mod
+    owner_name: kozuenakano
   oomp_key: oomp_kozuenakano_kicadkozuelib_m2_3_keepout5
+  oomp_key_full: oomp_footprint_kozuenakano_kicadkozuelib_m2_3_keepout5
   oomp_key_simple: kozuenakano_kicadkozuelib_m2_3_keepout5
   owner: KozueNakano
   repo:

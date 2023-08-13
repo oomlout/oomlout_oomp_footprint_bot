@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/hairymnstr_nathan_tht_relay_schrak_2rt_ap/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/hairymnstr_nathan_tht_relay_schrak_2rt_ap/working
-    oomp_doc: footprints/footprints/hairymnstr/Nathan_THT/RELAY_SCHRAK_2RT_AP/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/hairymnstr/Nathan_THT/RELAY_SCHRAK_2RT_AP/working
     oomp_src_flat: footprints_flat/footprints_flat/hairymnstr_nathan_tht_relay_schrak_2rt_ap/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/hairymnstr_nathan_tht_relay_schrak_2rt_ap/working
-    oomp_src_folder: footprints_folder/footprints_folder/hairymnstr/Nathan_THT/RELAY_SCHRAK_2RT_AP/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/hairymnstr/Nathan_THT/RELAY_SCHRAK_2RT_AP/working
   name: Nathan_THT.pretty
+  oomp:
+    footprint_name: relay_schrak_2rt_ap
+    library_name: nathan_tht
+    md5: 57e90e106a3f2194153d959e834862cd
+    md5_10: 57e90e106a
+    md5_5: 57e90
+    md5_6: 57e90e
+    oomp_key: oomp_hairymnstr_nathan_tht_relay_schrak_2rt_ap
+    oomp_key_extra: oomp_footprint_hairymnstr_nathan_tht_relay_schrak_2rt_ap
+    oomp_key_full: oomp_footprint_hairymnstr_nathan_tht_relay_schrak_2rt_ap_57e90e
+    oomp_key_simple: hairymnstr_nathan_tht_relay_schrak_2rt_ap
+    original_filename: Nathan_THT.pretty/RELAY_SCHRAK_2RT_AP.kicad_mod
+    owner_name: hairymnstr
   oomp_key: oomp_hairymnstr_nathan_tht_relay_schrak_2rt_ap
+  oomp_key_full: oomp_footprint_hairymnstr_nathan_tht_relay_schrak_2rt_ap
   oomp_key_simple: hairymnstr_nathan_tht_relay_schrak_2rt_ap
   owner: hairymnstr
   repo:

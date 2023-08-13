@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/hairymnstr_nathan_tht_relay_te_oj/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/hairymnstr_nathan_tht_relay_te_oj/working
-    oomp_doc: footprints/footprints/hairymnstr/Nathan_THT/RELAY_TE_OJ/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/hairymnstr/Nathan_THT/RELAY_TE_OJ/working
     oomp_src_flat: footprints_flat/footprints_flat/hairymnstr_nathan_tht_relay_te_oj/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/hairymnstr_nathan_tht_relay_te_oj/working
-    oomp_src_folder: footprints_folder/footprints_folder/hairymnstr/Nathan_THT/RELAY_TE_OJ/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/hairymnstr/Nathan_THT/RELAY_TE_OJ/working
   name: Nathan_THT.pretty
+  oomp:
+    footprint_name: relay_te_oj
+    library_name: nathan_tht
+    md5: a452befb0f2210874876f4966446b25d
+    md5_10: a452befb0f
+    md5_5: a452b
+    md5_6: a452be
+    oomp_key: oomp_hairymnstr_nathan_tht_relay_te_oj
+    oomp_key_extra: oomp_footprint_hairymnstr_nathan_tht_relay_te_oj
+    oomp_key_full: oomp_footprint_hairymnstr_nathan_tht_relay_te_oj_a452be
+    oomp_key_simple: hairymnstr_nathan_tht_relay_te_oj
+    original_filename: Nathan_THT.pretty/RELAY_TE_OJ.kicad_mod
+    owner_name: hairymnstr
   oomp_key: oomp_hairymnstr_nathan_tht_relay_te_oj
+  oomp_key_full: oomp_footprint_hairymnstr_nathan_tht_relay_te_oj
   oomp_key_simple: hairymnstr_nathan_tht_relay_te_oj
   owner: hairymnstr
   repo:

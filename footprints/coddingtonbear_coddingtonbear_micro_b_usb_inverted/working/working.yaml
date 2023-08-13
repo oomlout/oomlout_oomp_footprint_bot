@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/coddingtonbear_coddingtonbear_micro_b_usb_inverted/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/coddingtonbear_coddingtonbear_micro_b_usb_inverted/working
-    oomp_doc: footprints/footprints/coddingtonbear/coddingtonbear/MICRO-B_USB-INVERTED/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/coddingtonbear/coddingtonbear/MICRO-B_USB-INVERTED/working
     oomp_src_flat: footprints_flat/footprints_flat/coddingtonbear_coddingtonbear_micro_b_usb_inverted/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/coddingtonbear_coddingtonbear_micro_b_usb_inverted/working
-    oomp_src_folder: footprints_folder/footprints_folder/coddingtonbear/coddingtonbear/MICRO-B_USB-INVERTED/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/coddingtonbear/coddingtonbear/MICRO-B_USB-INVERTED/working
   name: coddingtonbear-kicad-lib
+  oomp:
+    footprint_name: micro_b_usb_inverted
+    library_name: coddingtonbear
+    md5: 73aa9a2e2e61c9341aae13233159336c
+    md5_10: 73aa9a2e2e
+    md5_5: 73aa9
+    md5_6: 73aa9a
+    oomp_key: oomp_coddingtonbear_coddingtonbear_micro_b_usb_inverted
+    oomp_key_extra: oomp_footprint_coddingtonbear_coddingtonbear_micro_b_usb_inverted
+    oomp_key_full: oomp_footprint_coddingtonbear_coddingtonbear_micro_b_usb_inverted_73aa9a
+    oomp_key_simple: coddingtonbear_coddingtonbear_micro_b_usb_inverted
+    original_filename: coddingtonbear-kicad-lib/coddingtonbear.pretty/MICRO-B_USB-INVERTED.kicad_mod
+    owner_name: coddingtonbear
   oomp_key: oomp_coddingtonbear_coddingtonbear_micro_b_usb_inverted
+  oomp_key_full: oomp_footprint_coddingtonbear_coddingtonbear_micro_b_usb_inverted
   oomp_key_simple: coddingtonbear_coddingtonbear_micro_b_usb_inverted
   owner: coddingtonbear
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/stormboard_keyboard_cherry_pcb_275h/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stormboard_keyboard_cherry_pcb_275h/working
-    oomp_doc: footprints/footprints/stormboard/Keyboard/CHERRY_PCB_275H/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/stormboard/Keyboard/CHERRY_PCB_275H/working
     oomp_src_flat: footprints_flat/footprints_flat/stormboard_keyboard_cherry_pcb_275h/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/stormboard_keyboard_cherry_pcb_275h/working
-    oomp_src_folder: footprints_folder/footprints_folder/stormboard/Keyboard/CHERRY_PCB_275H/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/stormboard/Keyboard/CHERRY_PCB_275H/working
   name: Keyboard.pretty
+  oomp:
+    footprint_name: cherry_pcb_275h
+    library_name: keyboard
+    md5: 3627eee30f1897a73886a5a6a1d19dfa
+    md5_10: 3627eee30f
+    md5_5: 3627e
+    md5_6: 3627ee
+    oomp_key: oomp_stormboard_keyboard_cherry_pcb_275h
+    oomp_key_extra: oomp_footprint_stormboard_keyboard_cherry_pcb_275h
+    oomp_key_full: oomp_footprint_stormboard_keyboard_cherry_pcb_275h_3627ee
+    oomp_key_simple: stormboard_keyboard_cherry_pcb_275h
+    original_filename: Keyboard.pretty/CHERRY_PCB_275H.kicad_mod
+    owner_name: stormboard
   oomp_key: oomp_stormboard_keyboard_cherry_pcb_275h
+  oomp_key_full: oomp_footprint_stormboard_keyboard_cherry_pcb_275h
   oomp_key_simple: stormboard_keyboard_cherry_pcb_275h
   owner: stormboard
   repo:

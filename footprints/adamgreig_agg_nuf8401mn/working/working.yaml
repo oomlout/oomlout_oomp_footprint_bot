@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/adamgreig/agg-kicad
     oomp_bot: footprints/adamgreig_agg_nuf8401mn/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/adamgreig_agg_nuf8401mn/working
-    oomp_doc: footprints/footprints/adamgreig/agg/NUF8401MN/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/adamgreig/agg/NUF8401MN/working
     oomp_src_flat: footprints_flat/footprints_flat/adamgreig_agg_nuf8401mn/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/adamgreig_agg_nuf8401mn/working
-    oomp_src_folder: footprints_folder/footprints_folder/adamgreig/agg/NUF8401MN/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/adamgreig/agg/NUF8401MN/working
   name: agg-kicad
+  oomp:
+    footprint_name: nuf8401mn
+    library_name: agg
+    md5: 4c671a7b7ba6e77f5f0c109711a504b0
+    md5_10: 4c671a7b7b
+    md5_5: 4c671
+    md5_6: 4c671a
+    oomp_key: oomp_adamgreig_agg_nuf8401mn
+    oomp_key_extra: oomp_footprint_adamgreig_agg_nuf8401mn
+    oomp_key_full: oomp_footprint_adamgreig_agg_nuf8401mn_4c671a
+    oomp_key_simple: adamgreig_agg_nuf8401mn
+    original_filename: agg-kicad/agg.pretty/NUF8401MN.kicad_mod
+    owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_nuf8401mn
+  oomp_key_full: oomp_footprint_adamgreig_agg_nuf8401mn
   oomp_key_simple: adamgreig_agg_nuf8401mn
   owner: adamgreig
   repo:

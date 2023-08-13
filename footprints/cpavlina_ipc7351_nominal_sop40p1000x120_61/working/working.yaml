@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cpavlina_ipc7351_nominal_sop40p1000x120_61/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cpavlina_ipc7351_nominal_sop40p1000x120_61/working
-    oomp_doc: footprints/footprints/cpavlina/IPC7351-Nominal/SOP40P1000X120-61/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cpavlina/IPC7351-Nominal/SOP40P1000X120-61/working
     oomp_src_flat: footprints_flat/footprints_flat/cpavlina_ipc7351_nominal_sop40p1000x120_61/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cpavlina_ipc7351_nominal_sop40p1000x120_61/working
-    oomp_src_folder: footprints_folder/footprints_folder/cpavlina/IPC7351-Nominal/SOP40P1000X120-61/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cpavlina/IPC7351-Nominal/SOP40P1000X120-61/working
   name: kicad-pcblib
+  oomp:
+    footprint_name: sop40p1000x120_61
+    library_name: ipc7351_nominal
+    md5: dc506e1474b5ab1a91b5db5713cfcc24
+    md5_10: dc506e1474
+    md5_5: dc506
+    md5_6: dc506e
+    oomp_key: oomp_cpavlina_ipc7351_nominal_sop40p1000x120_61
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_nominal_sop40p1000x120_61
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_sop40p1000x120_61_dc506e
+    oomp_key_simple: cpavlina_ipc7351_nominal_sop40p1000x120_61
+    original_filename: kicad-pcblib/IPC7351-Nominal.pretty/SOP40P1000X120-61.kicad_mod
+    owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_nominal_sop40p1000x120_61
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_sop40p1000x120_61
   oomp_key_simple: cpavlina_ipc7351_nominal_sop40p1000x120_61
   owner: cpavlina
   repo:

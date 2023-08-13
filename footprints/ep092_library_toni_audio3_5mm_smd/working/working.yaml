@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/ep092_library_toni_audio3_5mm_smd/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ep092_library_toni_audio3_5mm_smd/working
-    oomp_doc: footprints/footprints/ep092/library_toni/audio3_5mm_smd/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ep092/library_toni/audio3_5mm_smd/working
     oomp_src_flat: footprints_flat/footprints_flat/ep092_library_toni_audio3_5mm_smd/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ep092_library_toni_audio3_5mm_smd/working
-    oomp_src_folder: footprints_folder/footprints_folder/ep092/library_toni/audio3_5mm_smd/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ep092/library_toni/audio3_5mm_smd/working
   name: library_toni.pretty
+  oomp:
+    footprint_name: audio3_5mm_smd
+    library_name: library_toni
+    md5: 54c86d758d268208b62fd3543db4b64e
+    md5_10: 54c86d758d
+    md5_5: 54c86
+    md5_6: 54c86d
+    oomp_key: oomp_ep092_library_toni_audio3_5mm_smd
+    oomp_key_extra: oomp_footprint_ep092_library_toni_audio3_5mm_smd
+    oomp_key_full: oomp_footprint_ep092_library_toni_audio3_5mm_smd_54c86d
+    oomp_key_simple: ep092_library_toni_audio3_5mm_smd
+    original_filename: library_toni.pretty/audio3_5mm_smd.kicad_mod
+    owner_name: ep092
   oomp_key: oomp_ep092_library_toni_audio3_5mm_smd
+  oomp_key_full: oomp_footprint_ep092_library_toni_audio3_5mm_smd
   oomp_key_simple: ep092_library_toni_audio3_5mm_smd
   owner: ep092
   repo:

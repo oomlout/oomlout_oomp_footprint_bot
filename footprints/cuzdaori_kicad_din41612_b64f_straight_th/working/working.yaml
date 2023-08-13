@@ -8,14 +8,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cuzdaori_kicad_din41612_b64f_straight_th/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cuzdaori_kicad_din41612_b64f_straight_th/working
-    oomp_doc: footprints/footprints/cuzdaori/KiCad/DIN41612_B64F_Straight_TH/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cuzdaori/KiCad/DIN41612_B64F_Straight_TH/working
     oomp_src_flat: footprints_flat/footprints_flat/cuzdaori_kicad_din41612_b64f_straight_th/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cuzdaori_kicad_din41612_b64f_straight_th/working
-    oomp_src_folder: footprints_folder/footprints_folder/cuzdaori/KiCad/DIN41612_B64F_Straight_TH/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cuzdaori/KiCad/DIN41612_B64F_Straight_TH/working
   name: KiCad.pretty
+  oomp:
+    footprint_name: din41612_b64f_straight_th
+    library_name: kicad
+    md5: 616e077cffa0908553f9354b8fd9952a
+    md5_10: 616e077cff
+    md5_5: 616e0
+    md5_6: 616e07
+    oomp_key: oomp_cuzdaori_kicad_din41612_b64f_straight_th
+    oomp_key_extra: oomp_footprint_cuzdaori_kicad_din41612_b64f_straight_th
+    oomp_key_full: oomp_footprint_cuzdaori_kicad_din41612_b64f_straight_th_616e07
+    oomp_key_simple: cuzdaori_kicad_din41612_b64f_straight_th
+    original_filename: KiCad.pretty/DIN41612_B64F_Straight_TH.kicad_mod
+    owner_name: cuzdaori
   oomp_key: oomp_cuzdaori_kicad_din41612_b64f_straight_th
+  oomp_key_full: oomp_footprint_cuzdaori_kicad_din41612_b64f_straight_th
   oomp_key_simple: cuzdaori_kicad_din41612_b64f_straight_th
   owner: cuzdaori
   repo:

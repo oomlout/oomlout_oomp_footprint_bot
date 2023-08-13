@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/lab6-ifma/LAB6-LIB.pretty
     oomp_bot: footprints/lab6_ifma_lab6_lib_arduino_pro_mini/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/lab6_ifma_lab6_lib_arduino_pro_mini/working
-    oomp_doc: footprints/footprints/lab6-ifma/LAB6-LIB/Arduino_Pro_Mini/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/lab6-ifma/LAB6-LIB/Arduino_Pro_Mini/working
     oomp_src_flat: footprints_flat/footprints_flat/lab6_ifma_lab6_lib_arduino_pro_mini/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/lab6_ifma_lab6_lib_arduino_pro_mini/working
-    oomp_src_folder: footprints_folder/footprints_folder/lab6-ifma/LAB6-LIB/Arduino_Pro_Mini/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/lab6-ifma/LAB6-LIB/Arduino_Pro_Mini/working
   name: LAB6-LIB.pretty
+  oomp:
+    footprint_name: arduino_pro_mini
+    library_name: lab6_lib
+    md5: 9f9196c434a3978d540ea05a34bab8e5
+    md5_10: 9f9196c434
+    md5_5: 9f919
+    md5_6: 9f9196
+    oomp_key: oomp_lab6_ifma_lab6_lib_arduino_pro_mini
+    oomp_key_extra: oomp_footprint_lab6_ifma_lab6_lib_arduino_pro_mini
+    oomp_key_full: oomp_footprint_lab6_ifma_lab6_lib_arduino_pro_mini_9f9196
+    oomp_key_simple: lab6_ifma_lab6_lib_arduino_pro_mini
+    original_filename: LAB6-LIB.pretty/Arduino_Pro_Mini.kicad_mod
+    owner_name: lab6_ifma
   oomp_key: oomp_lab6_ifma_lab6_lib_arduino_pro_mini
+  oomp_key_full: oomp_footprint_lab6_ifma_lab6_lib_arduino_pro_mini
   oomp_key_simple: lab6_ifma_lab6_lib_arduino_pro_mini
   owner: lab6-ifma
   repo:

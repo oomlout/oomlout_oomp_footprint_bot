@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/sergiu46_kicadparts_hlk_pm01/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/sergiu46_kicadparts_hlk_pm01/working
-    oomp_doc: footprints/footprints/sergiu46/KiCadParts/HLK-PM01/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/sergiu46/KiCadParts/HLK-PM01/working
     oomp_src_flat: footprints_flat/footprints_flat/sergiu46_kicadparts_hlk_pm01/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/sergiu46_kicadparts_hlk_pm01/working
-    oomp_src_folder: footprints_folder/footprints_folder/sergiu46/KiCadParts/HLK-PM01/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/sergiu46/KiCadParts/HLK-PM01/working
   name: KiCadParts.pretty
+  oomp:
+    footprint_name: hlk_pm01
+    library_name: kicadparts
+    md5: 41bb088df14977ca3ad7a8ebef09572d
+    md5_10: 41bb088df1
+    md5_5: 41bb0
+    md5_6: 41bb08
+    oomp_key: oomp_sergiu46_kicadparts_hlk_pm01
+    oomp_key_extra: oomp_footprint_sergiu46_kicadparts_hlk_pm01
+    oomp_key_full: oomp_footprint_sergiu46_kicadparts_hlk_pm01_41bb08
+    oomp_key_simple: sergiu46_kicadparts_hlk_pm01
+    original_filename: KiCadParts.pretty/HLK-PM01.kicad_mod
+    owner_name: sergiu46
   oomp_key: oomp_sergiu46_kicadparts_hlk_pm01
+  oomp_key_full: oomp_footprint_sergiu46_kicadparts_hlk_pm01
   oomp_key_simple: sergiu46_kicadparts_hlk_pm01
   owner: sergiu46
   repo:

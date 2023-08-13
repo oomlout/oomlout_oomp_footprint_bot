@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_m12f303amd_m12f303amd/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_m12f303amd_m12f303amd/working
-    oomp_doc: footprints/footprints/brunoeagle/M12F303AMD.kicad_mod/M12F303AMD/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/M12F303AMD.kicad_mod/M12F303AMD/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_m12f303amd_m12f303amd/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_m12f303amd_m12f303amd/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/M12F303AMD.kicad_mod/M12F303AMD/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/M12F303AMD.kicad_mod/M12F303AMD/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: m12f303amd
+    library_name: m12f303amd_kicad_mod
+    md5: d30b57624f2e240627f55b29b3808aa0
+    md5_10: d30b57624f
+    md5_5: d30b5
+    md5_6: d30b57
+    oomp_key: oomp_brunoeagle_m12f303amd_m12f303amd
+    oomp_key_extra: oomp_footprint_brunoeagle_m12f303amd_m12f303amd
+    oomp_key_full: oomp_footprint_brunoeagle_m12f303amd_m12f303amd_d30b57
+    oomp_key_simple: brunoeagle_m12f303amd_m12f303amd
+    original_filename: kicad-open-modules/M12F303AMD.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_m12f303amd_m12f303amd
+  oomp_key_full: oomp_footprint_brunoeagle_m12f303amd_m12f303amd
   oomp_key_simple: brunoeagle_m12f303amd_m12f303amd
   owner: brunoeagle
   repo:

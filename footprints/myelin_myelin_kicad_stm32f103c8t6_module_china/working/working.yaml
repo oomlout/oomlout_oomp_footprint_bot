@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/myelin_myelin_kicad_stm32f103c8t6_module_china/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/myelin_myelin_kicad_stm32f103c8t6_module_china/working
-    oomp_doc: footprints/footprints/myelin/myelin-kicad/stm32f103c8t6-module-china/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/myelin/myelin-kicad/stm32f103c8t6-module-china/working
     oomp_src_flat: footprints_flat/footprints_flat/myelin_myelin_kicad_stm32f103c8t6_module_china/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/myelin_myelin_kicad_stm32f103c8t6_module_china/working
-    oomp_src_folder: footprints_folder/footprints_folder/myelin/myelin-kicad/stm32f103c8t6-module-china/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/myelin/myelin-kicad/stm32f103c8t6-module-china/working
   name: myelin-kicad.pretty
+  oomp:
+    footprint_name: stm32f103c8t6_module_china
+    library_name: myelin_kicad
+    md5: eb9f7d65b25dc18c9ddc4ed9e4dd2b71
+    md5_10: eb9f7d65b2
+    md5_5: eb9f7
+    md5_6: eb9f7d
+    oomp_key: oomp_myelin_myelin_kicad_stm32f103c8t6_module_china
+    oomp_key_extra: oomp_footprint_myelin_myelin_kicad_stm32f103c8t6_module_china
+    oomp_key_full: oomp_footprint_myelin_myelin_kicad_stm32f103c8t6_module_china_eb9f7d
+    oomp_key_simple: myelin_myelin_kicad_stm32f103c8t6_module_china
+    original_filename: myelin-kicad.pretty/stm32f103c8t6-module-china.kicad_mod
+    owner_name: myelin
   oomp_key: oomp_myelin_myelin_kicad_stm32f103c8t6_module_china
+  oomp_key_full: oomp_footprint_myelin_myelin_kicad_stm32f103c8t6_module_china
   oomp_key_simple: myelin_myelin_kicad_stm32f103c8t6_module_china
   owner: myelin
   repo:

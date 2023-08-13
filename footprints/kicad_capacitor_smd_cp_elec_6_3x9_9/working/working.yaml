@@ -11,17 +11,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_capacitor_smd_cp_elec_6_3x9_9/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_capacitor_smd_cp_elec_6_3x9_9/working
-    oomp_doc: footprints/footprints/kicad/Capacitor_SMD/CP_Elec_6.3x9.9/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Capacitor_SMD/CP_Elec_6.3x9.9/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_capacitor_smd_cp_elec_6_3x9_9/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_capacitor_smd_cp_elec_6_3x9_9/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Capacitor_SMD/CP_Elec_6.3x9.9/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Capacitor_SMD/CP_Elec_6.3x9.9/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: cp_elec_6_3x9_9
+    library_name: capacitor_smd
+    md5: cee7a652ed011ef7d333a71df090993e
+    md5_10: cee7a652ed
+    md5_5: cee7a
+    md5_6: cee7a6
+    oomp_key: oomp_kicad_capacitor_smd_cp_elec_6_3x9_9
+    oomp_key_extra: oomp_footprint_kicad_capacitor_smd_cp_elec_6_3x9_9
+    oomp_key_full: oomp_footprint_kicad_capacitor_smd_cp_elec_6_3x9_9_cee7a6
+    oomp_key_simple: kicad_capacitor_smd_cp_elec_6_3x9_9
+    original_filename: libraries/kicad-footprints/Capacitor_SMD.pretty/CP_Elec_6.3x9.9.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_capacitor_smd_cp_elec_6_3x9_9
+  oomp_key_full: oomp_footprint_kicad_capacitor_smd_cp_elec_6_3x9_9
   oomp_key_simple: kicad_capacitor_smd_cp_elec_6_3x9_9
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

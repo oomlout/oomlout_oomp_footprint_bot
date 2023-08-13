@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/asofttech_gbd_smd_do_220aa/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/asofttech_gbd_smd_do_220aa/working
-    oomp_doc: footprints/footprints/ASoftTech/GBD-SMD/DO-220AA/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ASoftTech/GBD-SMD/DO-220AA/working
     oomp_src_flat: footprints_flat/footprints_flat/asofttech_gbd_smd_do_220aa/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/asofttech_gbd_smd_do_220aa/working
-    oomp_src_folder: footprints_folder/footprints_folder/ASoftTech/GBD-SMD/DO-220AA/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ASoftTech/GBD-SMD/DO-220AA/working
   name: CAD.KiCad.Libs
+  oomp:
+    footprint_name: do_220aa
+    library_name: gbd_smd
+    md5: 3f1c656ddcaf30c9b0a640e5caf85108
+    md5_10: 3f1c656ddc
+    md5_5: 3f1c6
+    md5_6: 3f1c65
+    oomp_key: oomp_asofttech_gbd_smd_do_220aa
+    oomp_key_extra: oomp_footprint_asofttech_gbd_smd_do_220aa
+    oomp_key_full: oomp_footprint_asofttech_gbd_smd_do_220aa_3f1c65
+    oomp_key_simple: asofttech_gbd_smd_do_220aa
+    original_filename: CAD.KiCad.Libs/modules/GBD-SMD.pretty/DO-220AA.kicad_mod
+    owner_name: asofttech
   oomp_key: oomp_asofttech_gbd_smd_do_220aa
+  oomp_key_full: oomp_footprint_asofttech_gbd_smd_do_220aa
   oomp_key_simple: asofttech_gbd_smd_do_220aa
   owner: ASoftTech
   repo:

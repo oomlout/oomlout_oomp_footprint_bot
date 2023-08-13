@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/stefanhamminga_sh_audio_pui_as02008mo_r/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stefanhamminga_sh_audio_pui_as02008mo_r/working
-    oomp_doc: footprints/footprints/StefanHamminga/SH_Audio/PUI_AS02008MO-R/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/StefanHamminga/SH_Audio/PUI_AS02008MO-R/working
     oomp_src_flat: footprints_flat/footprints_flat/stefanhamminga_sh_audio_pui_as02008mo_r/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/stefanhamminga_sh_audio_pui_as02008mo_r/working
-    oomp_src_folder: footprints_folder/footprints_folder/StefanHamminga/SH_Audio/PUI_AS02008MO-R/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/StefanHamminga/SH_Audio/PUI_AS02008MO-R/working
   name: SH_Audio.pretty
+  oomp:
+    footprint_name: pui_as02008mo_r
+    library_name: sh_audio
+    md5: 2dae0cce8ee48612fcfa745d21e04752
+    md5_10: 2dae0cce8e
+    md5_5: 2dae0
+    md5_6: 2dae0c
+    oomp_key: oomp_stefanhamminga_sh_audio_pui_as02008mo_r
+    oomp_key_extra: oomp_footprint_stefanhamminga_sh_audio_pui_as02008mo_r
+    oomp_key_full: oomp_footprint_stefanhamminga_sh_audio_pui_as02008mo_r_2dae0c
+    oomp_key_simple: stefanhamminga_sh_audio_pui_as02008mo_r
+    original_filename: SH_Audio.pretty/PUI_AS02008MO-R.kicad_mod
+    owner_name: stefanhamminga
   oomp_key: oomp_stefanhamminga_sh_audio_pui_as02008mo_r
+  oomp_key_full: oomp_footprint_stefanhamminga_sh_audio_pui_as02008mo_r
   oomp_key_simple: stefanhamminga_sh_audio_pui_as02008mo_r
   owner: StefanHamminga
   repo:

@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_dfn_6_1ep_2x2mm_p0_65mm_ep0_95x1_7mm_dfn_6_1ep_2x2mm_p0_65mm_ep0_95x1_7mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_dfn_6_1ep_2x2mm_p0_65mm_ep0_95x1_7mm_dfn_6_1ep_2x2mm_p0_65mm_ep0_95x1_7mm/working
-    oomp_doc: footprints/footprints/brunoeagle/DFN-6-1EP_2x2mm_P0.65mm_EP0.95x1.7mm.kicad_mod/DFN-6-1EP_2x2mm_P0.65mm_EP0.95x1.7mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/DFN-6-1EP_2x2mm_P0.65mm_EP0.95x1.7mm.kicad_mod/DFN-6-1EP_2x2mm_P0.65mm_EP0.95x1.7mm/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_dfn_6_1ep_2x2mm_p0_65mm_ep0_95x1_7mm_dfn_6_1ep_2x2mm_p0_65mm_ep0_95x1_7mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_dfn_6_1ep_2x2mm_p0_65mm_ep0_95x1_7mm_dfn_6_1ep_2x2mm_p0_65mm_ep0_95x1_7mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/DFN-6-1EP_2x2mm_P0.65mm_EP0.95x1.7mm.kicad_mod/DFN-6-1EP_2x2mm_P0.65mm_EP0.95x1.7mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/DFN-6-1EP_2x2mm_P0.65mm_EP0.95x1.7mm.kicad_mod/DFN-6-1EP_2x2mm_P0.65mm_EP0.95x1.7mm/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: dfn_6_1ep_2x2mm_p0_65mm_ep0_95x1_7mm
+    library_name: dfn_6_1ep_2x2mm_p0_65mm_ep0_95x1_7mm_kicad_mod
+    md5: 8a661e66e89c1bf75aaf6576ba7705bd
+    md5_10: 8a661e66e8
+    md5_5: 8a661
+    md5_6: 8a661e
+    oomp_key: oomp_brunoeagle_dfn_6_1ep_2x2mm_p0_65mm_ep0_95x1_7mm_dfn_6_1ep_2x2mm_p0_65mm_ep0_95x1_7mm
+    oomp_key_extra: oomp_footprint_brunoeagle_dfn_6_1ep_2x2mm_p0_65mm_ep0_95x1_7mm_dfn_6_1ep_2x2mm_p0_65mm_ep0_95x1_7mm
+    oomp_key_full: oomp_footprint_brunoeagle_dfn_6_1ep_2x2mm_p0_65mm_ep0_95x1_7mm_dfn_6_1ep_2x2mm_p0_65mm_ep0_95x1_7mm_8a661e
+    oomp_key_simple: brunoeagle_dfn_6_1ep_2x2mm_p0_65mm_ep0_95x1_7mm_dfn_6_1ep_2x2mm_p0_65mm_ep0_95x1_7mm
+    original_filename: kicad-open-modules/DFN-6-1EP_2x2mm_P0.65mm_EP0.95x1.7mm.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_dfn_6_1ep_2x2mm_p0_65mm_ep0_95x1_7mm_dfn_6_1ep_2x2mm_p0_65mm_ep0_95x1_7mm
+  oomp_key_full: oomp_footprint_brunoeagle_dfn_6_1ep_2x2mm_p0_65mm_ep0_95x1_7mm_dfn_6_1ep_2x2mm_p0_65mm_ep0_95x1_7mm
   oomp_key_simple: brunoeagle_dfn_6_1ep_2x2mm_p0_65mm_ep0_95x1_7mm_dfn_6_1ep_2x2mm_p0_65mm_ep0_95x1_7mm
   owner: brunoeagle
   repo:

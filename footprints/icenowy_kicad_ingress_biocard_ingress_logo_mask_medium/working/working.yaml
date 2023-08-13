@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/icenowy_kicad_ingress_biocard_ingress_logo_mask_medium/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/icenowy_kicad_ingress_biocard_ingress_logo_mask_medium/working
-    oomp_doc: footprints/footprints/Icenowy/KiCad_Ingress_Biocard/Ingress_Logo_Mask_Medium/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Icenowy/KiCad_Ingress_Biocard/Ingress_Logo_Mask_Medium/working
     oomp_src_flat: footprints_flat/footprints_flat/icenowy_kicad_ingress_biocard_ingress_logo_mask_medium/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/icenowy_kicad_ingress_biocard_ingress_logo_mask_medium/working
-    oomp_src_folder: footprints_folder/footprints_folder/Icenowy/KiCad_Ingress_Biocard/Ingress_Logo_Mask_Medium/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Icenowy/KiCad_Ingress_Biocard/Ingress_Logo_Mask_Medium/working
   name: KiCad_Ingress_Biocard.pretty
+  oomp:
+    footprint_name: ingress_logo_mask_medium
+    library_name: kicad_ingress_biocard
+    md5: 138464795c6a4715f79545caece37713
+    md5_10: 138464795c
+    md5_5: '13846'
+    md5_6: '138464'
+    oomp_key: oomp_icenowy_kicad_ingress_biocard_ingress_logo_mask_medium
+    oomp_key_extra: oomp_footprint_icenowy_kicad_ingress_biocard_ingress_logo_mask_medium
+    oomp_key_full: oomp_footprint_icenowy_kicad_ingress_biocard_ingress_logo_mask_medium_138464
+    oomp_key_simple: icenowy_kicad_ingress_biocard_ingress_logo_mask_medium
+    original_filename: KiCad_Ingress_Biocard.pretty/Ingress_Logo_Mask_Medium.kicad_mod
+    owner_name: icenowy
   oomp_key: oomp_icenowy_kicad_ingress_biocard_ingress_logo_mask_medium
+  oomp_key_full: oomp_footprint_icenowy_kicad_ingress_biocard_ingress_logo_mask_medium
   oomp_key_simple: icenowy_kicad_ingress_biocard_ingress_logo_mask_medium
   owner: Icenowy
   repo:

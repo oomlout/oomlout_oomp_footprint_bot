@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/ohdsp_mykicadlibs_footprints_conn_rj45_arjc02_111xxxx/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ohdsp_mykicadlibs_footprints_conn_rj45_arjc02_111xxxx/working
-    oomp_doc: footprints/footprints/ohdsp/MyKiCadLibs-Footprints/CONN-RJ45-ARJC02-111xxxx/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ohdsp/MyKiCadLibs-Footprints/CONN-RJ45-ARJC02-111xxxx/working
     oomp_src_flat: footprints_flat/footprints_flat/ohdsp_mykicadlibs_footprints_conn_rj45_arjc02_111xxxx/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ohdsp_mykicadlibs_footprints_conn_rj45_arjc02_111xxxx/working
-    oomp_src_folder: footprints_folder/footprints_folder/ohdsp/MyKiCadLibs-Footprints/CONN-RJ45-ARJC02-111xxxx/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ohdsp/MyKiCadLibs-Footprints/CONN-RJ45-ARJC02-111xxxx/working
   name: KiCad-Libs
+  oomp:
+    footprint_name: conn_rj45_arjc02_111xxxx
+    library_name: mykicadlibs_footprints
+    md5: 071c1fb30365c4e4c792c3096a8ce667
+    md5_10: 071c1fb303
+    md5_5: 071c1
+    md5_6: 071c1f
+    oomp_key: oomp_ohdsp_mykicadlibs_footprints_conn_rj45_arjc02_111xxxx
+    oomp_key_extra: oomp_footprint_ohdsp_mykicadlibs_footprints_conn_rj45_arjc02_111xxxx
+    oomp_key_full: oomp_footprint_ohdsp_mykicadlibs_footprints_conn_rj45_arjc02_111xxxx_071c1f
+    oomp_key_simple: ohdsp_mykicadlibs_footprints_conn_rj45_arjc02_111xxxx
+    original_filename: KiCad-Libs/MyKiCadLibs-Footprints.pretty/CONN-RJ45-ARJC02-111xxxx.kicad_mod
+    owner_name: ohdsp
   oomp_key: oomp_ohdsp_mykicadlibs_footprints_conn_rj45_arjc02_111xxxx
+  oomp_key_full: oomp_footprint_ohdsp_mykicadlibs_footprints_conn_rj45_arjc02_111xxxx
   oomp_key_simple: ohdsp_mykicadlibs_footprints_conn_rj45_arjc02_111xxxx
   owner: ohdsp
   repo:

@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cpavlina_ipc7351_least_soj127p866x375_26/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cpavlina_ipc7351_least_soj127p866x375_26/working
-    oomp_doc: footprints/footprints/cpavlina/IPC7351-Least/SOJ127P866X375-26/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cpavlina/IPC7351-Least/SOJ127P866X375-26/working
     oomp_src_flat: footprints_flat/footprints_flat/cpavlina_ipc7351_least_soj127p866x375_26/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cpavlina_ipc7351_least_soj127p866x375_26/working
-    oomp_src_folder: footprints_folder/footprints_folder/cpavlina/IPC7351-Least/SOJ127P866X375-26/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cpavlina/IPC7351-Least/SOJ127P866X375-26/working
   name: kicad-pcblib
+  oomp:
+    footprint_name: soj127p866x375_26
+    library_name: ipc7351_least
+    md5: 8c0883a6a0768ef75d60a2ee88eb3e03
+    md5_10: 8c0883a6a0
+    md5_5: 8c088
+    md5_6: 8c0883
+    oomp_key: oomp_cpavlina_ipc7351_least_soj127p866x375_26
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_least_soj127p866x375_26
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_soj127p866x375_26_8c0883
+    oomp_key_simple: cpavlina_ipc7351_least_soj127p866x375_26
+    original_filename: kicad-pcblib/IPC7351-Least.pretty/SOJ127P866X375-26.kicad_mod
+    owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_least_soj127p866x375_26
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_soj127p866x375_26
   oomp_key_simple: cpavlina_ipc7351_least_soj127p866x375_26
   owner: cpavlina
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/ohdsp_mykicadlibs_footprints_sw_tact_smd/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ohdsp_mykicadlibs_footprints_sw_tact_smd/working
-    oomp_doc: footprints/footprints/ohdsp/MyKiCadLibs-Footprints/SW_TACT_SMD/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ohdsp/MyKiCadLibs-Footprints/SW_TACT_SMD/working
     oomp_src_flat: footprints_flat/footprints_flat/ohdsp_mykicadlibs_footprints_sw_tact_smd/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ohdsp_mykicadlibs_footprints_sw_tact_smd/working
-    oomp_src_folder: footprints_folder/footprints_folder/ohdsp/MyKiCadLibs-Footprints/SW_TACT_SMD/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ohdsp/MyKiCadLibs-Footprints/SW_TACT_SMD/working
   name: KiCad-Libs
+  oomp:
+    footprint_name: sw_tact_smd
+    library_name: mykicadlibs_footprints
+    md5: 99f73f4ae431567237c3c6a89a565d88
+    md5_10: 99f73f4ae4
+    md5_5: 99f73
+    md5_6: 99f73f
+    oomp_key: oomp_ohdsp_mykicadlibs_footprints_sw_tact_smd
+    oomp_key_extra: oomp_footprint_ohdsp_mykicadlibs_footprints_sw_tact_smd
+    oomp_key_full: oomp_footprint_ohdsp_mykicadlibs_footprints_sw_tact_smd_99f73f
+    oomp_key_simple: ohdsp_mykicadlibs_footprints_sw_tact_smd
+    original_filename: KiCad-Libs/MyKiCadLibs-Footprints.pretty/SW_TACT_SMD.kicad_mod
+    owner_name: ohdsp
   oomp_key: oomp_ohdsp_mykicadlibs_footprints_sw_tact_smd
+  oomp_key_full: oomp_footprint_ohdsp_mykicadlibs_footprints_sw_tact_smd
   oomp_key_simple: ohdsp_mykicadlibs_footprints_sw_tact_smd
   owner: ohdsp
   repo:

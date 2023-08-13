@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/donutcables_donutbrary_af_standoff_m3/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/donutcables_donutbrary_af_standoff_m3/working
-    oomp_doc: footprints/footprints/DonutCables/donutbrary/AF_Standoff_M3/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/DonutCables/donutbrary/AF_Standoff_M3/working
     oomp_src_flat: footprints_flat/footprints_flat/donutcables_donutbrary_af_standoff_m3/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/donutcables_donutbrary_af_standoff_m3/working
-    oomp_src_folder: footprints_folder/footprints_folder/DonutCables/donutbrary/AF_Standoff_M3/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/DonutCables/donutbrary/AF_Standoff_M3/working
   name: donutbrary.pretty
+  oomp:
+    footprint_name: af_standoff_m3
+    library_name: donutbrary
+    md5: 443b4a192c8bde52c0cc43b6749ee214
+    md5_10: 443b4a192c
+    md5_5: 443b4
+    md5_6: 443b4a
+    oomp_key: oomp_donutcables_donutbrary_af_standoff_m3
+    oomp_key_extra: oomp_footprint_donutcables_donutbrary_af_standoff_m3
+    oomp_key_full: oomp_footprint_donutcables_donutbrary_af_standoff_m3_443b4a
+    oomp_key_simple: donutcables_donutbrary_af_standoff_m3
+    original_filename: donutbrary.pretty/AF_Standoff_M3.kicad_mod
+    owner_name: donutcables
   oomp_key: oomp_donutcables_donutbrary_af_standoff_m3
+  oomp_key_full: oomp_footprint_donutcables_donutbrary_af_standoff_m3
   oomp_key_simple: donutcables_donutbrary_af_standoff_m3
   owner: DonutCables
   repo:

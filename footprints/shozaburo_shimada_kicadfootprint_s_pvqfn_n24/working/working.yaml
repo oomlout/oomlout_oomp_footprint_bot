@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/shozaburo_shimada_kicadfootprint_s_pvqfn_n24/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/shozaburo_shimada_kicadfootprint_s_pvqfn_n24/working
-    oomp_doc: footprints/footprints/shozaburo-shimada/KiCADfootprint/S-PVQFN-N24/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/shozaburo-shimada/KiCADfootprint/S-PVQFN-N24/working
     oomp_src_flat: footprints_flat/footprints_flat/shozaburo_shimada_kicadfootprint_s_pvqfn_n24/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/shozaburo_shimada_kicadfootprint_s_pvqfn_n24/working
-    oomp_src_folder: footprints_folder/footprints_folder/shozaburo-shimada/KiCADfootprint/S-PVQFN-N24/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/shozaburo-shimada/KiCADfootprint/S-PVQFN-N24/working
   name: KiCADfootprint.pretty
+  oomp:
+    footprint_name: s_pvqfn_n24
+    library_name: kicadfootprint
+    md5: cfa12a99872f0ac09569ccb00d43613d
+    md5_10: cfa12a9987
+    md5_5: cfa12
+    md5_6: cfa12a
+    oomp_key: oomp_shozaburo_shimada_kicadfootprint_s_pvqfn_n24
+    oomp_key_extra: oomp_footprint_shozaburo_shimada_kicadfootprint_s_pvqfn_n24
+    oomp_key_full: oomp_footprint_shozaburo_shimada_kicadfootprint_s_pvqfn_n24_cfa12a
+    oomp_key_simple: shozaburo_shimada_kicadfootprint_s_pvqfn_n24
+    original_filename: KiCADfootprint.pretty/S-PVQFN-N24.kicad_mod
+    owner_name: shozaburo_shimada
   oomp_key: oomp_shozaburo_shimada_kicadfootprint_s_pvqfn_n24
+  oomp_key_full: oomp_footprint_shozaburo_shimada_kicadfootprint_s_pvqfn_n24
   oomp_key_simple: shozaburo_shimada_kicadfootprint_s_pvqfn_n24
   owner: shozaburo-shimada
   repo:

@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/arturo182/kicad-modules
     oomp_bot: footprints/arturo182_connector_hdmi_extra_hdmi_a_molex_47151_0001/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/arturo182_connector_hdmi_extra_hdmi_a_molex_47151_0001/working
-    oomp_doc: footprints/footprints/arturo182/Connector_HDMI_Extra/HDMI_A_Molex_47151-0001/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/arturo182/Connector_HDMI_Extra/HDMI_A_Molex_47151-0001/working
     oomp_src_flat: footprints_flat/footprints_flat/arturo182_connector_hdmi_extra_hdmi_a_molex_47151_0001/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/arturo182_connector_hdmi_extra_hdmi_a_molex_47151_0001/working
-    oomp_src_folder: footprints_folder/footprints_folder/arturo182/Connector_HDMI_Extra/HDMI_A_Molex_47151-0001/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/arturo182/Connector_HDMI_Extra/HDMI_A_Molex_47151-0001/working
   name: kicad-modules
+  oomp:
+    footprint_name: hdmi_a_molex_47151_0001
+    library_name: connector_hdmi_extra
+    md5: c9f8faf2f9cdde61de5aa7f3d656436d
+    md5_10: c9f8faf2f9
+    md5_5: c9f8f
+    md5_6: c9f8fa
+    oomp_key: oomp_arturo182_connector_hdmi_extra_hdmi_a_molex_47151_0001
+    oomp_key_extra: oomp_footprint_arturo182_connector_hdmi_extra_hdmi_a_molex_47151_0001
+    oomp_key_full: oomp_footprint_arturo182_connector_hdmi_extra_hdmi_a_molex_47151_0001_c9f8fa
+    oomp_key_simple: arturo182_connector_hdmi_extra_hdmi_a_molex_47151_0001
+    original_filename: kicad-modules/Connector_HDMI_Extra.pretty/HDMI_A_Molex_47151-0001.kicad_mod
+    owner_name: arturo182
   oomp_key: oomp_arturo182_connector_hdmi_extra_hdmi_a_molex_47151_0001
+  oomp_key_full: oomp_footprint_arturo182_connector_hdmi_extra_hdmi_a_molex_47151_0001
   oomp_key_simple: arturo182_connector_hdmi_extra_hdmi_a_molex_47151_0001
   owner: arturo182
   repo:

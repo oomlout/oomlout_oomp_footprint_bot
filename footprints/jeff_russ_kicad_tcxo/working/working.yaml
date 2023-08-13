@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/jeff_russ_kicad_tcxo/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/jeff_russ_kicad_tcxo/working
-    oomp_doc: footprints/footprints/Jeff-Russ/Kicad/TCXO/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Jeff-Russ/Kicad/TCXO/working
     oomp_src_flat: footprints_flat/footprints_flat/jeff_russ_kicad_tcxo/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/jeff_russ_kicad_tcxo/working
-    oomp_src_folder: footprints_folder/footprints_folder/Jeff-Russ/Kicad/TCXO/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Jeff-Russ/Kicad/TCXO/working
   name: Kicad.pretty
+  oomp:
+    footprint_name: tcxo
+    library_name: kicad
+    md5: 116d9c963e6ca8769c60849457b2bbf4
+    md5_10: 116d9c963e
+    md5_5: 116d9
+    md5_6: 116d9c
+    oomp_key: oomp_jeff_russ_kicad_tcxo
+    oomp_key_extra: oomp_footprint_jeff_russ_kicad_tcxo
+    oomp_key_full: oomp_footprint_jeff_russ_kicad_tcxo_116d9c
+    oomp_key_simple: jeff_russ_kicad_tcxo
+    original_filename: Kicad.pretty/TCXO.kicad_mod
+    owner_name: jeff_russ
   oomp_key: oomp_jeff_russ_kicad_tcxo
+  oomp_key_full: oomp_footprint_jeff_russ_kicad_tcxo
   oomp_key_simple: jeff_russ_kicad_tcxo
   owner: Jeff-Russ
   repo:

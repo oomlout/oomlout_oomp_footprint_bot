@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/ruuvi_ruuvitag_wide_plated_hole2/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ruuvi_ruuvitag_wide_plated_hole2/working
-    oomp_doc: footprints/footprints/ruuvi/RuuviTag/WIDE_PLATED_HOLE2/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ruuvi/RuuviTag/WIDE_PLATED_HOLE2/working
     oomp_src_flat: footprints_flat/footprints_flat/ruuvi_ruuvitag_wide_plated_hole2/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ruuvi_ruuvitag_wide_plated_hole2/working
-    oomp_src_folder: footprints_folder/footprints_folder/ruuvi/RuuviTag/WIDE_PLATED_HOLE2/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ruuvi/RuuviTag/WIDE_PLATED_HOLE2/working
   name: kicad-library
+  oomp:
+    footprint_name: wide_plated_hole2
+    library_name: ruuvitag
+    md5: e9083ae3a5445bd88b20856f74ca6aa8
+    md5_10: e9083ae3a5
+    md5_5: e9083
+    md5_6: e9083a
+    oomp_key: oomp_ruuvi_ruuvitag_wide_plated_hole2
+    oomp_key_extra: oomp_footprint_ruuvi_ruuvitag_wide_plated_hole2
+    oomp_key_full: oomp_footprint_ruuvi_ruuvitag_wide_plated_hole2_e9083a
+    oomp_key_simple: ruuvi_ruuvitag_wide_plated_hole2
+    original_filename: kicad-library/RuuviTag.pretty/WIDE_PLATED_HOLE2.kicad_mod
+    owner_name: ruuvi
   oomp_key: oomp_ruuvi_ruuvitag_wide_plated_hole2
+  oomp_key_full: oomp_footprint_ruuvi_ruuvitag_wide_plated_hole2
   oomp_key_simple: ruuvi_ruuvitag_wide_plated_hole2
   owner: ruuvi
   repo:

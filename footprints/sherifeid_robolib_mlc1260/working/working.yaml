@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/sherifeid_robolib_mlc1260/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/sherifeid_robolib_mlc1260/working
-    oomp_doc: footprints/footprints/sherifeid/RoboLib/MLC1260/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/sherifeid/RoboLib/MLC1260/working
     oomp_src_flat: footprints_flat/footprints_flat/sherifeid_robolib_mlc1260/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/sherifeid_robolib_mlc1260/working
-    oomp_src_folder: footprints_folder/footprints_folder/sherifeid/RoboLib/MLC1260/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/sherifeid/RoboLib/MLC1260/working
   name: RoboLib.pretty
+  oomp:
+    footprint_name: mlc1260
+    library_name: robolib
+    md5: 8452342b59eae61e70f5cce8a928b59d
+    md5_10: 8452342b59
+    md5_5: '84523'
+    md5_6: '845234'
+    oomp_key: oomp_sherifeid_robolib_mlc1260
+    oomp_key_extra: oomp_footprint_sherifeid_robolib_mlc1260
+    oomp_key_full: oomp_footprint_sherifeid_robolib_mlc1260_845234
+    oomp_key_simple: sherifeid_robolib_mlc1260
+    original_filename: RoboLib.pretty/MLC1260.kicad_mod
+    owner_name: sherifeid
   oomp_key: oomp_sherifeid_robolib_mlc1260
+  oomp_key_full: oomp_footprint_sherifeid_robolib_mlc1260
   oomp_key_simple: sherifeid_robolib_mlc1260
   owner: sherifeid
   repo:

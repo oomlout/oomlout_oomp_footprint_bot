@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/peekpt_w_smd_leds_citizen_cl82x/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/peekpt_w_smd_leds_citizen_cl82x/working
-    oomp_doc: footprints/footprints/peekpt/w_smd_leds/Citizen_CL82x/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/peekpt/w_smd_leds/Citizen_CL82x/working
     oomp_src_flat: footprints_flat/footprints_flat/peekpt_w_smd_leds_citizen_cl82x/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/peekpt_w_smd_leds_citizen_cl82x/working
-    oomp_src_folder: footprints_folder/footprints_folder/peekpt/w_smd_leds/Citizen_CL82x/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/peekpt/w_smd_leds/Citizen_CL82x/working
   name: kicad_smisioto
+  oomp:
+    footprint_name: citizen_cl82x
+    library_name: w_smd_leds
+    md5: 243f1b273679d6be5e38ba6a493f8187
+    md5_10: 243f1b2736
+    md5_5: 243f1
+    md5_6: 243f1b
+    oomp_key: oomp_peekpt_w_smd_leds_citizen_cl82x
+    oomp_key_extra: oomp_footprint_peekpt_w_smd_leds_citizen_cl82x
+    oomp_key_full: oomp_footprint_peekpt_w_smd_leds_citizen_cl82x_243f1b
+    oomp_key_simple: peekpt_w_smd_leds_citizen_cl82x
+    original_filename: kicad_smisioto/modules/walter/w_smd_leds.pretty/Citizen_CL82x.kicad_mod
+    owner_name: peekpt
   oomp_key: oomp_peekpt_w_smd_leds_citizen_cl82x
+  oomp_key_full: oomp_footprint_peekpt_w_smd_leds_citizen_cl82x
   oomp_key_simple: peekpt_w_smd_leds_citizen_cl82x
   owner: peekpt
   repo:

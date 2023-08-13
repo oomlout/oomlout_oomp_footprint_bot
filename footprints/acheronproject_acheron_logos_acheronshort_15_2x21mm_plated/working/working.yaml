@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/AcheronProject/acheron_Logos.pretty
     oomp_bot: footprints/acheronproject_acheron_logos_acheronshort_15_2x21mm_plated/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/acheronproject_acheron_logos_acheronshort_15_2x21mm_plated/working
-    oomp_doc: footprints/footprints/AcheronProject/acheron_Logos/acheronShort_15.2x21mm_Plated/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/AcheronProject/acheron_Logos/acheronShort_15.2x21mm_Plated/working
     oomp_src_flat: footprints_flat/footprints_flat/acheronproject_acheron_logos_acheronshort_15_2x21mm_plated/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/acheronproject_acheron_logos_acheronshort_15_2x21mm_plated/working
-    oomp_src_folder: footprints_folder/footprints_folder/AcheronProject/acheron_Logos/acheronShort_15.2x21mm_Plated/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/AcheronProject/acheron_Logos/acheronShort_15.2x21mm_Plated/working
   name: acheron_Logos.pretty
+  oomp:
+    footprint_name: acheronshort_15_2x21mm_plated
+    library_name: acheron_logos
+    md5: 87d4d2da2a3ac8b2367ef5f2e595174f
+    md5_10: 87d4d2da2a
+    md5_5: 87d4d
+    md5_6: 87d4d2
+    oomp_key: oomp_acheronproject_acheron_logos_acheronshort_15_2x21mm_plated
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_logos_acheronshort_15_2x21mm_plated
+    oomp_key_full: oomp_footprint_acheronproject_acheron_logos_acheronshort_15_2x21mm_plated_87d4d2
+    oomp_key_simple: acheronproject_acheron_logos_acheronshort_15_2x21mm_plated
+    original_filename: acheron_Logos.pretty/acheronShort_15.2x21mm_Plated.kicad_mod
+    owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_logos_acheronshort_15_2x21mm_plated
+  oomp_key_full: oomp_footprint_acheronproject_acheron_logos_acheronshort_15_2x21mm_plated
   oomp_key_simple: acheronproject_acheron_logos_acheronshort_15_2x21mm_plated
   owner: AcheronProject
   repo:

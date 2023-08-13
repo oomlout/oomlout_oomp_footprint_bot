@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/asukiaaa_my_kicad_footprints_g7l_x_power_relay/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/asukiaaa_my_kicad_footprints_g7l_x_power_relay/working
-    oomp_doc: footprints/footprints/asukiaaa/my-kicad-footprints/G7L-X_Power_Relay/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/asukiaaa/my-kicad-footprints/G7L-X_Power_Relay/working
     oomp_src_flat: footprints_flat/footprints_flat/asukiaaa_my_kicad_footprints_g7l_x_power_relay/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/asukiaaa_my_kicad_footprints_g7l_x_power_relay/working
-    oomp_src_folder: footprints_folder/footprints_folder/asukiaaa/my-kicad-footprints/G7L-X_Power_Relay/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/asukiaaa/my-kicad-footprints/G7L-X_Power_Relay/working
   name: my-kicad-footprints.pretty
+  oomp:
+    footprint_name: g7l_x_power_relay
+    library_name: my_kicad_footprints
+    md5: 5467e4c576419ee020217dd99ce79af1
+    md5_10: 5467e4c576
+    md5_5: 5467e
+    md5_6: 5467e4
+    oomp_key: oomp_asukiaaa_my_kicad_footprints_g7l_x_power_relay
+    oomp_key_extra: oomp_footprint_asukiaaa_my_kicad_footprints_g7l_x_power_relay
+    oomp_key_full: oomp_footprint_asukiaaa_my_kicad_footprints_g7l_x_power_relay_5467e4
+    oomp_key_simple: asukiaaa_my_kicad_footprints_g7l_x_power_relay
+    original_filename: my-kicad-footprints.pretty/G7L-X_Power_Relay.kicad_mod
+    owner_name: asukiaaa
   oomp_key: oomp_asukiaaa_my_kicad_footprints_g7l_x_power_relay
+  oomp_key_full: oomp_footprint_asukiaaa_my_kicad_footprints_g7l_x_power_relay
   oomp_key_simple: asukiaaa_my_kicad_footprints_g7l_x_power_relay
   owner: asukiaaa
   repo:

@@ -11,17 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/tahutech_tahutech_hybrid_atmega32u4/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/tahutech_tahutech_hybrid_atmega32u4/working
-    oomp_doc: footprints/footprints/TahuTech/tahutech/Hybrid Atmega32u4/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/TahuTech/tahutech/Hybrid
-      Atmega32u4/working
     oomp_src_flat: footprints_flat/footprints_flat/tahutech_tahutech_hybrid_atmega32u4/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/tahutech_tahutech_hybrid_atmega32u4/working
-    oomp_src_folder: footprints_folder/footprints_folder/TahuTech/tahutech/Hybrid
-      Atmega32u4/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/TahuTech/tahutech/Hybrid
-      Atmega32u4/working
   name: tahutech.pretty
+  oomp:
+    footprint_name: hybrid_atmega32u4
+    library_name: tahutech
+    md5: 13777ed2ecc458aa6985c11c50332138
+    md5_10: 13777ed2ec
+    md5_5: '13777'
+    md5_6: 13777e
+    oomp_key: oomp_tahutech_tahutech_hybrid_atmega32u4
+    oomp_key_extra: oomp_footprint_tahutech_tahutech_hybrid_atmega32u4
+    oomp_key_full: oomp_footprint_tahutech_tahutech_hybrid_atmega32u4_13777e
+    oomp_key_simple: tahutech_tahutech_hybrid_atmega32u4
+    original_filename: tahutech.pretty/Hybrid Atmega32u4.kicad_mod
+    owner_name: tahutech
   oomp_key: oomp_tahutech_tahutech_hybrid_atmega32u4
+  oomp_key_full: oomp_footprint_tahutech_tahutech_hybrid_atmega32u4
   oomp_key_simple: tahutech_tahutech_hybrid_atmega32u4
   owner: TahuTech
   repo:

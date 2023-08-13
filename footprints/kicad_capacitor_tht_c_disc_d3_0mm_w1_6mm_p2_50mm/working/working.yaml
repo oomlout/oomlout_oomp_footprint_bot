@@ -12,17 +12,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_capacitor_tht_c_disc_d3_0mm_w1_6mm_p2_50mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_capacitor_tht_c_disc_d3_0mm_w1_6mm_p2_50mm/working
-    oomp_doc: footprints/footprints/kicad/Capacitor_THT/C_Disc_D3.0mm_W1.6mm_P2.50mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Capacitor_THT/C_Disc_D3.0mm_W1.6mm_P2.50mm/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_capacitor_tht_c_disc_d3_0mm_w1_6mm_p2_50mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_capacitor_tht_c_disc_d3_0mm_w1_6mm_p2_50mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Capacitor_THT/C_Disc_D3.0mm_W1.6mm_P2.50mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Capacitor_THT/C_Disc_D3.0mm_W1.6mm_P2.50mm/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: c_disc_d3_0mm_w1_6mm_p2_50mm
+    library_name: capacitor_tht
+    md5: 4a8e44dba206084e0f69282e848a0a00
+    md5_10: 4a8e44dba2
+    md5_5: 4a8e4
+    md5_6: 4a8e44
+    oomp_key: oomp_kicad_capacitor_tht_c_disc_d3_0mm_w1_6mm_p2_50mm
+    oomp_key_extra: oomp_footprint_kicad_capacitor_tht_c_disc_d3_0mm_w1_6mm_p2_50mm
+    oomp_key_full: oomp_footprint_kicad_capacitor_tht_c_disc_d3_0mm_w1_6mm_p2_50mm_4a8e44
+    oomp_key_simple: kicad_capacitor_tht_c_disc_d3_0mm_w1_6mm_p2_50mm
+    original_filename: libraries/kicad-footprints/Capacitor_THT.pretty/C_Disc_D3.0mm_W1.6mm_P2.50mm.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_capacitor_tht_c_disc_d3_0mm_w1_6mm_p2_50mm
+  oomp_key_full: oomp_footprint_kicad_capacitor_tht_c_disc_d3_0mm_w1_6mm_p2_50mm
   oomp_key_simple: kicad_capacitor_tht_c_disc_d3_0mm_w1_6mm_p2_50mm
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

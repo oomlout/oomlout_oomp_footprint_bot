@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/monostable_commonpartslibrary_fusm4632x200n/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/monostable_commonpartslibrary_fusm4632x200n/working
-    oomp_doc: footprints/footprints/monostable/CommonPartsLibrary/FUSM4632X200N/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/monostable/CommonPartsLibrary/FUSM4632X200N/working
     oomp_src_flat: footprints_flat/footprints_flat/monostable_commonpartslibrary_fusm4632x200n/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/monostable_commonpartslibrary_fusm4632x200n/working
-    oomp_src_folder: footprints_folder/footprints_folder/monostable/CommonPartsLibrary/FUSM4632X200N/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/monostable/CommonPartsLibrary/FUSM4632X200N/working
   name: CommonPartsLibrary.pretty
+  oomp:
+    footprint_name: fusm4632x200n
+    library_name: commonpartslibrary
+    md5: 6050314d37d0400a767e2b0d5a6ba199
+    md5_10: 6050314d37
+    md5_5: '60503'
+    md5_6: '605031'
+    oomp_key: oomp_monostable_commonpartslibrary_fusm4632x200n
+    oomp_key_extra: oomp_footprint_monostable_commonpartslibrary_fusm4632x200n
+    oomp_key_full: oomp_footprint_monostable_commonpartslibrary_fusm4632x200n_605031
+    oomp_key_simple: monostable_commonpartslibrary_fusm4632x200n
+    original_filename: CommonPartsLibrary.pretty/FUSM4632X200N.kicad_mod
+    owner_name: monostable
   oomp_key: oomp_monostable_commonpartslibrary_fusm4632x200n
+  oomp_key_full: oomp_footprint_monostable_commonpartslibrary_fusm4632x200n
   oomp_key_simple: monostable_commonpartslibrary_fusm4632x200n
   owner: monostable
   repo:

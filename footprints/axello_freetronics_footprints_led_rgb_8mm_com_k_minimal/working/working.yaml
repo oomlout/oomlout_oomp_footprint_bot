@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/axello_freetronics_footprints_led_rgb_8mm_com_k_minimal/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/axello_freetronics_footprints_led_rgb_8mm_com_k_minimal/working
-    oomp_doc: footprints/footprints/axello/freetronics_footprints/LED-RGB-8MM-COM-K-MINIMAL/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/axello/freetronics_footprints/LED-RGB-8MM-COM-K-MINIMAL/working
     oomp_src_flat: footprints_flat/footprints_flat/axello_freetronics_footprints_led_rgb_8mm_com_k_minimal/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/axello_freetronics_footprints_led_rgb_8mm_com_k_minimal/working
-    oomp_src_folder: footprints_folder/footprints_folder/axello/freetronics_footprints/LED-RGB-8MM-COM-K-MINIMAL/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/axello/freetronics_footprints/LED-RGB-8MM-COM-K-MINIMAL/working
   name: kicad
+  oomp:
+    footprint_name: led_rgb_8mm_com_k_minimal
+    library_name: freetronics_footprints
+    md5: 1e6deda0c4f4bd5d785de5443cc5b809
+    md5_10: 1e6deda0c4
+    md5_5: 1e6de
+    md5_6: 1e6ded
+    oomp_key: oomp_axello_freetronics_footprints_led_rgb_8mm_com_k_minimal
+    oomp_key_extra: oomp_footprint_axello_freetronics_footprints_led_rgb_8mm_com_k_minimal
+    oomp_key_full: oomp_footprint_axello_freetronics_footprints_led_rgb_8mm_com_k_minimal_1e6ded
+    oomp_key_simple: axello_freetronics_footprints_led_rgb_8mm_com_k_minimal
+    original_filename: kicad/mods/freetronics_footprints.pretty/LED-RGB-8MM-COM-K-MINIMAL.kicad_mod
+    owner_name: axello
   oomp_key: oomp_axello_freetronics_footprints_led_rgb_8mm_com_k_minimal
+  oomp_key_full: oomp_footprint_axello_freetronics_footprints_led_rgb_8mm_com_k_minimal
   oomp_key_simple: axello_freetronics_footprints_led_rgb_8mm_com_k_minimal
   owner: axello
   repo:

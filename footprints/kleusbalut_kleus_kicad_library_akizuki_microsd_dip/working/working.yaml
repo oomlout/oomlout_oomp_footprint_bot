@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/kleusbalut/kleus_kicad_library.pretty
     oomp_bot: footprints/kleusbalut_kleus_kicad_library_akizuki_microsd_dip/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kleusbalut_kleus_kicad_library_akizuki_microsd_dip/working
-    oomp_doc: footprints/footprints/kleusbalut/kleus_kicad_library/Akizuki_microSD-Dip/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kleusbalut/kleus_kicad_library/Akizuki_microSD-Dip/working
     oomp_src_flat: footprints_flat/footprints_flat/kleusbalut_kleus_kicad_library_akizuki_microsd_dip/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kleusbalut_kleus_kicad_library_akizuki_microsd_dip/working
-    oomp_src_folder: footprints_folder/footprints_folder/kleusbalut/kleus_kicad_library/Akizuki_microSD-Dip/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kleusbalut/kleus_kicad_library/Akizuki_microSD-Dip/working
   name: kleus_kicad_library.pretty
+  oomp:
+    footprint_name: akizuki_microsd_dip
+    library_name: kleus_kicad_library
+    md5: f057b9485897a741dc506d072d6640fd
+    md5_10: f057b94858
+    md5_5: f057b
+    md5_6: f057b9
+    oomp_key: oomp_kleusbalut_kleus_kicad_library_akizuki_microsd_dip
+    oomp_key_extra: oomp_footprint_kleusbalut_kleus_kicad_library_akizuki_microsd_dip
+    oomp_key_full: oomp_footprint_kleusbalut_kleus_kicad_library_akizuki_microsd_dip_f057b9
+    oomp_key_simple: kleusbalut_kleus_kicad_library_akizuki_microsd_dip
+    original_filename: kleus_kicad_library.pretty/Akizuki_microSD-Dip.kicad_mod
+    owner_name: kleusbalut
   oomp_key: oomp_kleusbalut_kleus_kicad_library_akizuki_microsd_dip
+  oomp_key_full: oomp_footprint_kleusbalut_kleus_kicad_library_akizuki_microsd_dip
   oomp_key_simple: kleusbalut_kleus_kicad_library_akizuki_microsd_dip
   owner: kleusbalut
   repo:

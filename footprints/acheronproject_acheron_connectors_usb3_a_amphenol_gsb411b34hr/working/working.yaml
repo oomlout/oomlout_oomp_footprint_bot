@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/AcheronProject/acheron_Connectors.pretty
     oomp_bot: footprints/acheronproject_acheron_connectors_usb3_a_amphenol_gsb411b34hr/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/acheronproject_acheron_connectors_usb3_a_amphenol_gsb411b34hr/working
-    oomp_doc: footprints/footprints/AcheronProject/acheron_Connectors/USB3_A_Amphenol_GSB411B34HR/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/AcheronProject/acheron_Connectors/USB3_A_Amphenol_GSB411B34HR/working
     oomp_src_flat: footprints_flat/footprints_flat/acheronproject_acheron_connectors_usb3_a_amphenol_gsb411b34hr/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/acheronproject_acheron_connectors_usb3_a_amphenol_gsb411b34hr/working
-    oomp_src_folder: footprints_folder/footprints_folder/AcheronProject/acheron_Connectors/USB3_A_Amphenol_GSB411B34HR/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/AcheronProject/acheron_Connectors/USB3_A_Amphenol_GSB411B34HR/working
   name: acheron_Connectors.pretty
+  oomp:
+    footprint_name: usb3_a_amphenol_gsb411b34hr
+    library_name: acheron_connectors
+    md5: 4d477665bb86f0d5847f11206ac95282
+    md5_10: 4d477665bb
+    md5_5: 4d477
+    md5_6: 4d4776
+    oomp_key: oomp_acheronproject_acheron_connectors_usb3_a_amphenol_gsb411b34hr
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_connectors_usb3_a_amphenol_gsb411b34hr
+    oomp_key_full: oomp_footprint_acheronproject_acheron_connectors_usb3_a_amphenol_gsb411b34hr_4d4776
+    oomp_key_simple: acheronproject_acheron_connectors_usb3_a_amphenol_gsb411b34hr
+    original_filename: acheron_Connectors.pretty/USB3_A_Amphenol_GSB411B34HR.kicad_mod
+    owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_connectors_usb3_a_amphenol_gsb411b34hr
+  oomp_key_full: oomp_footprint_acheronproject_acheron_connectors_usb3_a_amphenol_gsb411b34hr
   oomp_key_simple: acheronproject_acheron_connectors_usb3_a_amphenol_gsb411b34hr
   owner: AcheronProject
   repo:

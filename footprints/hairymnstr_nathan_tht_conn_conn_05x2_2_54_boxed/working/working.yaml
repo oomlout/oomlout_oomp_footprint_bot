@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/hairymnstr_nathan_tht_conn_conn_05x2_2_54_boxed/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/hairymnstr_nathan_tht_conn_conn_05x2_2_54_boxed/working
-    oomp_doc: footprints/footprints/hairymnstr/Nathan_THT_Conn/CONN_05X2_2_54_BOXED/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/hairymnstr/Nathan_THT_Conn/CONN_05X2_2_54_BOXED/working
     oomp_src_flat: footprints_flat/footprints_flat/hairymnstr_nathan_tht_conn_conn_05x2_2_54_boxed/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/hairymnstr_nathan_tht_conn_conn_05x2_2_54_boxed/working
-    oomp_src_folder: footprints_folder/footprints_folder/hairymnstr/Nathan_THT_Conn/CONN_05X2_2_54_BOXED/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/hairymnstr/Nathan_THT_Conn/CONN_05X2_2_54_BOXED/working
   name: Nathan_THT_Conn.pretty
+  oomp:
+    footprint_name: conn_05x2_2_54_boxed
+    library_name: nathan_tht_conn
+    md5: bfeea2ed6c52a85834b891c9bfe19ed7
+    md5_10: bfeea2ed6c
+    md5_5: bfeea
+    md5_6: bfeea2
+    oomp_key: oomp_hairymnstr_nathan_tht_conn_conn_05x2_2_54_boxed
+    oomp_key_extra: oomp_footprint_hairymnstr_nathan_tht_conn_conn_05x2_2_54_boxed
+    oomp_key_full: oomp_footprint_hairymnstr_nathan_tht_conn_conn_05x2_2_54_boxed_bfeea2
+    oomp_key_simple: hairymnstr_nathan_tht_conn_conn_05x2_2_54_boxed
+    original_filename: Nathan_THT_Conn.pretty/CONN_05X2_2_54_BOXED.kicad_mod
+    owner_name: hairymnstr
   oomp_key: oomp_hairymnstr_nathan_tht_conn_conn_05x2_2_54_boxed
+  oomp_key_full: oomp_footprint_hairymnstr_nathan_tht_conn_conn_05x2_2_54_boxed
   oomp_key_simple: hairymnstr_nathan_tht_conn_conn_05x2_2_54_boxed
   owner: hairymnstr
   repo:

@@ -1,5 +1,8 @@
-- error: Expression does not have the correct type
-  file: kicad-modules/LED_SMD_Extra.pretty/WS2812B-4020.kicad_mod
+- file: kicad-modules/LED_SMD_Extra.pretty/WS2812B-4020.kicad_mod
+  footprint:
+    description: null
+    libraryLink: WS2812B-4020
+    number_of_pads: 4
   footprint_library_directory: footprint_library_owner/arturo182_kicad-modules
   footprint_library_directory_flat: footprints_flat/arturo182_led_smd_extra_ws2812b_4020/working
   github_path: http://github.com/arturo182/kicad-modules/blob/master/LED_SMD_Extra.pretty/WS2812B-4020.kicad_mod
@@ -10,14 +13,24 @@
     github_src_repo: https://github.com/arturo182/kicad-modules
     oomp_bot: footprints/arturo182_led_smd_extra_ws2812b_4020/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/arturo182_led_smd_extra_ws2812b_4020/working
-    oomp_doc: footprints/footprints/arturo182/LED_SMD_Extra/WS2812B-4020/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/arturo182/LED_SMD_Extra/WS2812B-4020/working
     oomp_src_flat: footprints_flat/footprints_flat/arturo182_led_smd_extra_ws2812b_4020/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/arturo182_led_smd_extra_ws2812b_4020/working
-    oomp_src_folder: footprints_folder/footprints_folder/arturo182/LED_SMD_Extra/WS2812B-4020/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/arturo182/LED_SMD_Extra/WS2812B-4020/working
   name: kicad-modules
+  oomp:
+    footprint_name: ws2812b_4020
+    library_name: led_smd_extra
+    md5: 23b8c5a3b3b2bb6e11c1d3d2cdddfd53
+    md5_10: 23b8c5a3b3
+    md5_5: 23b8c
+    md5_6: 23b8c5
+    oomp_key: oomp_arturo182_led_smd_extra_ws2812b_4020
+    oomp_key_extra: oomp_footprint_arturo182_led_smd_extra_ws2812b_4020
+    oomp_key_full: oomp_footprint_arturo182_led_smd_extra_ws2812b_4020_23b8c5
+    oomp_key_simple: arturo182_led_smd_extra_ws2812b_4020
+    original_filename: kicad-modules/LED_SMD_Extra.pretty/WS2812B-4020.kicad_mod
+    owner_name: arturo182
   oomp_key: oomp_arturo182_led_smd_extra_ws2812b_4020
+  oomp_key_full: oomp_footprint_arturo182_led_smd_extra_ws2812b_4020
   oomp_key_simple: arturo182_led_smd_extra_ws2812b_4020
   owner: arturo182
   repo:

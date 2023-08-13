@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_stm32f746bgt6_stm32f746bgt6/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_stm32f746bgt6_stm32f746bgt6/working
-    oomp_doc: footprints/footprints/brunoeagle/STM32F746BGT6.kicad_mod/STM32F746BGT6/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/STM32F746BGT6.kicad_mod/STM32F746BGT6/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_stm32f746bgt6_stm32f746bgt6/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_stm32f746bgt6_stm32f746bgt6/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/STM32F746BGT6.kicad_mod/STM32F746BGT6/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/STM32F746BGT6.kicad_mod/STM32F746BGT6/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: stm32f746bgt6
+    library_name: stm32f746bgt6_kicad_mod
+    md5: 92c4ed791db91bc356205da3793d26a1
+    md5_10: 92c4ed791d
+    md5_5: 92c4e
+    md5_6: 92c4ed
+    oomp_key: oomp_brunoeagle_stm32f746bgt6_stm32f746bgt6
+    oomp_key_extra: oomp_footprint_brunoeagle_stm32f746bgt6_stm32f746bgt6
+    oomp_key_full: oomp_footprint_brunoeagle_stm32f746bgt6_stm32f746bgt6_92c4ed
+    oomp_key_simple: brunoeagle_stm32f746bgt6_stm32f746bgt6
+    original_filename: kicad-open-modules/STM32F746BGT6.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_stm32f746bgt6_stm32f746bgt6
+  oomp_key_full: oomp_footprint_brunoeagle_stm32f746bgt6_stm32f746bgt6
   oomp_key_simple: brunoeagle_stm32f746bgt6_stm32f746bgt6
   owner: brunoeagle
   repo:

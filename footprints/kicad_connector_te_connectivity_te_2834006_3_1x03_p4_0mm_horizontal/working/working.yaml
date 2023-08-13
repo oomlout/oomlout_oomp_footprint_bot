@@ -12,17 +12,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_connector_te_connectivity_te_2834006_3_1x03_p4_0mm_horizontal/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_connector_te_connectivity_te_2834006_3_1x03_p4_0mm_horizontal/working
-    oomp_doc: footprints/footprints/kicad/Connector_TE-Connectivity/TE_2834006-3_1x03_P4.0mm_Horizontal/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Connector_TE-Connectivity/TE_2834006-3_1x03_P4.0mm_Horizontal/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_connector_te_connectivity_te_2834006_3_1x03_p4_0mm_horizontal/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_connector_te_connectivity_te_2834006_3_1x03_p4_0mm_horizontal/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Connector_TE-Connectivity/TE_2834006-3_1x03_P4.0mm_Horizontal/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Connector_TE-Connectivity/TE_2834006-3_1x03_P4.0mm_Horizontal/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: te_2834006_3_1x03_p4_0mm_horizontal
+    library_name: connector_te_connectivity
+    md5: 9b8af62a3463ee5941223d6608f9f1d6
+    md5_10: 9b8af62a34
+    md5_5: 9b8af
+    md5_6: 9b8af6
+    oomp_key: oomp_kicad_connector_te_connectivity_te_2834006_3_1x03_p4_0mm_horizontal
+    oomp_key_extra: oomp_footprint_kicad_connector_te_connectivity_te_2834006_3_1x03_p4_0mm_horizontal
+    oomp_key_full: oomp_footprint_kicad_connector_te_connectivity_te_2834006_3_1x03_p4_0mm_horizontal_9b8af6
+    oomp_key_simple: kicad_connector_te_connectivity_te_2834006_3_1x03_p4_0mm_horizontal
+    original_filename: libraries/kicad-footprints/Connector_TE-Connectivity.pretty/TE_2834006-3_1x03_P4.0mm_Horizontal.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_connector_te_connectivity_te_2834006_3_1x03_p4_0mm_horizontal
+  oomp_key_full: oomp_footprint_kicad_connector_te_connectivity_te_2834006_3_1x03_p4_0mm_horizontal
   oomp_key_simple: kicad_connector_te_connectivity_te_2834006_3_1x03_p4_0mm_horizontal
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

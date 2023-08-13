@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_to220ac_to220ac/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_to220ac_to220ac/working
-    oomp_doc: footprints/footprints/brunoeagle/TO220AC.kicad_mod/TO220AC/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/TO220AC.kicad_mod/TO220AC/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_to220ac_to220ac/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_to220ac_to220ac/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/TO220AC.kicad_mod/TO220AC/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/TO220AC.kicad_mod/TO220AC/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: to220ac
+    library_name: to220ac_kicad_mod
+    md5: 44b013b950954b8229d294bdd47ced57
+    md5_10: 44b013b950
+    md5_5: 44b01
+    md5_6: 44b013
+    oomp_key: oomp_brunoeagle_to220ac_to220ac
+    oomp_key_extra: oomp_footprint_brunoeagle_to220ac_to220ac
+    oomp_key_full: oomp_footprint_brunoeagle_to220ac_to220ac_44b013
+    oomp_key_simple: brunoeagle_to220ac_to220ac
+    original_filename: kicad-open-modules/TO220AC.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_to220ac_to220ac
+  oomp_key_full: oomp_footprint_brunoeagle_to220ac_to220ac
   oomp_key_simple: brunoeagle_to220ac_to220ac
   owner: brunoeagle
   repo:

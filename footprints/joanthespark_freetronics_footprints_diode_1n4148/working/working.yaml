@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/joanthespark_freetronics_footprints_diode_1n4148/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/joanthespark_freetronics_footprints_diode_1n4148/working
-    oomp_doc: footprints/footprints/JoanTheSpark/freetronics_footprints/DIODE-1N4148/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/JoanTheSpark/freetronics_footprints/DIODE-1N4148/working
     oomp_src_flat: footprints_flat/footprints_flat/joanthespark_freetronics_footprints_diode_1n4148/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/joanthespark_freetronics_footprints_diode_1n4148/working
-    oomp_src_folder: footprints_folder/footprints_folder/JoanTheSpark/freetronics_footprints/DIODE-1N4148/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/JoanTheSpark/freetronics_footprints/DIODE-1N4148/working
   name: KiCAD
+  oomp:
+    footprint_name: diode_1n4148
+    library_name: freetronics_footprints
+    md5: de80d748d91bfe75a5d60837611dea3b
+    md5_10: de80d748d9
+    md5_5: de80d
+    md5_6: de80d7
+    oomp_key: oomp_joanthespark_freetronics_footprints_diode_1n4148
+    oomp_key_extra: oomp_footprint_joanthespark_freetronics_footprints_diode_1n4148
+    oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_diode_1n4148_de80d7
+    oomp_key_simple: joanthespark_freetronics_footprints_diode_1n4148
+    original_filename: KiCAD/mods/freetronics_footprints.pretty/DIODE-1N4148.kicad_mod
+    owner_name: joanthespark
   oomp_key: oomp_joanthespark_freetronics_footprints_diode_1n4148
+  oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_diode_1n4148
   oomp_key_simple: joanthespark_freetronics_footprints_diode_1n4148
   owner: JoanTheSpark
   repo:

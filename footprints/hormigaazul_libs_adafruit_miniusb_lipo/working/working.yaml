@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/hormigaazul_libs_adafruit_miniusb_lipo/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/hormigaazul_libs_adafruit_miniusb_lipo/working
-    oomp_doc: footprints/footprints/hormigaAzul/libs/Adafruit_miniUSB_LiPo/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/hormigaAzul/libs/Adafruit_miniUSB_LiPo/working
     oomp_src_flat: footprints_flat/footprints_flat/hormigaazul_libs_adafruit_miniusb_lipo/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/hormigaazul_libs_adafruit_miniusb_lipo/working
-    oomp_src_folder: footprints_folder/footprints_folder/hormigaAzul/libs/Adafruit_miniUSB_LiPo/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/hormigaAzul/libs/Adafruit_miniUSB_LiPo/working
   name: libs.pretty
+  oomp:
+    footprint_name: adafruit_miniusb_lipo
+    library_name: libs
+    md5: e1bc3694628bd70218b3f77d6e3f8279
+    md5_10: e1bc369462
+    md5_5: e1bc3
+    md5_6: e1bc36
+    oomp_key: oomp_hormigaazul_libs_adafruit_miniusb_lipo
+    oomp_key_extra: oomp_footprint_hormigaazul_libs_adafruit_miniusb_lipo
+    oomp_key_full: oomp_footprint_hormigaazul_libs_adafruit_miniusb_lipo_e1bc36
+    oomp_key_simple: hormigaazul_libs_adafruit_miniusb_lipo
+    original_filename: libs.pretty/Adafruit_miniUSB_LiPo.kicad_mod
+    owner_name: hormigaazul
   oomp_key: oomp_hormigaazul_libs_adafruit_miniusb_lipo
+  oomp_key_full: oomp_footprint_hormigaazul_libs_adafruit_miniusb_lipo
   oomp_key_simple: hormigaazul_libs_adafruit_miniusb_lipo
   owner: hormigaAzul
   repo:

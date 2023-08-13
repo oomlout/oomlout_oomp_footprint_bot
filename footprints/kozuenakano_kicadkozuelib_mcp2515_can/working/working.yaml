@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/KozueNakano/KiCADKozueLib.pretty
     oomp_bot: footprints/kozuenakano_kicadkozuelib_mcp2515_can/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kozuenakano_kicadkozuelib_mcp2515_can/working
-    oomp_doc: footprints/footprints/KozueNakano/KiCADKozueLib/MCP2515_CAN/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/KozueNakano/KiCADKozueLib/MCP2515_CAN/working
     oomp_src_flat: footprints_flat/footprints_flat/kozuenakano_kicadkozuelib_mcp2515_can/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kozuenakano_kicadkozuelib_mcp2515_can/working
-    oomp_src_folder: footprints_folder/footprints_folder/KozueNakano/KiCADKozueLib/MCP2515_CAN/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/KozueNakano/KiCADKozueLib/MCP2515_CAN/working
   name: KiCADKozueLib.pretty
+  oomp:
+    footprint_name: mcp2515_can
+    library_name: kicadkozuelib
+    md5: a86f98ce42d40455d7eace6f54f30b66
+    md5_10: a86f98ce42
+    md5_5: a86f9
+    md5_6: a86f98
+    oomp_key: oomp_kozuenakano_kicadkozuelib_mcp2515_can
+    oomp_key_extra: oomp_footprint_kozuenakano_kicadkozuelib_mcp2515_can
+    oomp_key_full: oomp_footprint_kozuenakano_kicadkozuelib_mcp2515_can_a86f98
+    oomp_key_simple: kozuenakano_kicadkozuelib_mcp2515_can
+    original_filename: KiCADKozueLib.pretty/MCP2515_CAN.kicad_mod
+    owner_name: kozuenakano
   oomp_key: oomp_kozuenakano_kicadkozuelib_mcp2515_can
+  oomp_key_full: oomp_footprint_kozuenakano_kicadkozuelib_mcp2515_can
   oomp_key_simple: kozuenakano_kicadkozuelib_mcp2515_can
   owner: KozueNakano
   repo:

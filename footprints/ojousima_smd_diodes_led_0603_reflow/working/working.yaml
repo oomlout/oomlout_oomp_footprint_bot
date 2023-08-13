@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/ojousima_smd_diodes_led_0603_reflow/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ojousima_smd_diodes_led_0603_reflow/working
-    oomp_doc: footprints/footprints/ojousima/SMD_Diodes/LED_0603_REFLOW/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ojousima/SMD_Diodes/LED_0603_REFLOW/working
     oomp_src_flat: footprints_flat/footprints_flat/ojousima_smd_diodes_led_0603_reflow/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ojousima_smd_diodes_led_0603_reflow/working
-    oomp_src_folder: footprints_folder/footprints_folder/ojousima/SMD_Diodes/LED_0603_REFLOW/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ojousima/SMD_Diodes/LED_0603_REFLOW/working
   name: SMD_Diodes.pretty
+  oomp:
+    footprint_name: led_0603_reflow
+    library_name: smd_diodes
+    md5: c8a7fd31887177dc0929b58bc13f36b6
+    md5_10: c8a7fd3188
+    md5_5: c8a7f
+    md5_6: c8a7fd
+    oomp_key: oomp_ojousima_smd_diodes_led_0603_reflow
+    oomp_key_extra: oomp_footprint_ojousima_smd_diodes_led_0603_reflow
+    oomp_key_full: oomp_footprint_ojousima_smd_diodes_led_0603_reflow_c8a7fd
+    oomp_key_simple: ojousima_smd_diodes_led_0603_reflow
+    original_filename: SMD_Diodes.pretty/LED_0603_REFLOW.kicad_mod
+    owner_name: ojousima
   oomp_key: oomp_ojousima_smd_diodes_led_0603_reflow
+  oomp_key_full: oomp_footprint_ojousima_smd_diodes_led_0603_reflow
   oomp_key_simple: ojousima_smd_diodes_led_0603_reflow
   owner: ojousima
   repo:

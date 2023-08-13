@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/fruchti_conn_pss254_2g_reverse/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/fruchti_conn_pss254_2g_reverse/working
-    oomp_doc: footprints/footprints/fruchti/conn/PSS254-2G_REVERSE/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/fruchti/conn/PSS254-2G_REVERSE/working
     oomp_src_flat: footprints_flat/footprints_flat/fruchti_conn_pss254_2g_reverse/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/fruchti_conn_pss254_2g_reverse/working
-    oomp_src_folder: footprints_folder/footprints_folder/fruchti/conn/PSS254-2G_REVERSE/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/fruchti/conn/PSS254-2G_REVERSE/working
   name: fruchtilib
+  oomp:
+    footprint_name: pss254_2g_reverse
+    library_name: conn
+    md5: 7c3c76560df52f59ffd6b4e72b3bf850
+    md5_10: 7c3c76560d
+    md5_5: 7c3c7
+    md5_6: 7c3c76
+    oomp_key: oomp_fruchti_conn_pss254_2g_reverse
+    oomp_key_extra: oomp_footprint_fruchti_conn_pss254_2g_reverse
+    oomp_key_full: oomp_footprint_fruchti_conn_pss254_2g_reverse_7c3c76
+    oomp_key_simple: fruchti_conn_pss254_2g_reverse
+    original_filename: fruchtilib/mod/conn.pretty/PSS254-2G_REVERSE.kicad_mod
+    owner_name: fruchti
   oomp_key: oomp_fruchti_conn_pss254_2g_reverse
+  oomp_key_full: oomp_footprint_fruchti_conn_pss254_2g_reverse
   oomp_key_simple: fruchti_conn_pss254_2g_reverse
   owner: fruchti
   repo:

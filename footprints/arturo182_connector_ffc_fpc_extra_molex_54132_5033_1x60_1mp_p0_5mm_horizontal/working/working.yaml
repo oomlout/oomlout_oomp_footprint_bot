@@ -14,14 +14,24 @@
     github_src_repo: https://github.com/arturo182/kicad-modules
     oomp_bot: footprints/arturo182_connector_ffc_fpc_extra_molex_54132_5033_1x60_1mp_p0_5mm_horizontal/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/arturo182_connector_ffc_fpc_extra_molex_54132_5033_1x60_1mp_p0_5mm_horizontal/working
-    oomp_doc: footprints/footprints/arturo182/Connector_FFC-FPC_Extra/Molex_54132-5033_1x60-1MP_P0.5mm_Horizontal/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/arturo182/Connector_FFC-FPC_Extra/Molex_54132-5033_1x60-1MP_P0.5mm_Horizontal/working
     oomp_src_flat: footprints_flat/footprints_flat/arturo182_connector_ffc_fpc_extra_molex_54132_5033_1x60_1mp_p0_5mm_horizontal/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/arturo182_connector_ffc_fpc_extra_molex_54132_5033_1x60_1mp_p0_5mm_horizontal/working
-    oomp_src_folder: footprints_folder/footprints_folder/arturo182/Connector_FFC-FPC_Extra/Molex_54132-5033_1x60-1MP_P0.5mm_Horizontal/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/arturo182/Connector_FFC-FPC_Extra/Molex_54132-5033_1x60-1MP_P0.5mm_Horizontal/working
   name: kicad-modules
+  oomp:
+    footprint_name: molex_54132_5033_1x60_1mp_p0_5mm_horizontal
+    library_name: connector_ffc_fpc_extra
+    md5: db6e45b731cef993f00cf96d03aa0676
+    md5_10: db6e45b731
+    md5_5: db6e4
+    md5_6: db6e45
+    oomp_key: oomp_arturo182_connector_ffc_fpc_extra_molex_54132_5033_1x60_1mp_p0_5mm_horizontal
+    oomp_key_extra: oomp_footprint_arturo182_connector_ffc_fpc_extra_molex_54132_5033_1x60_1mp_p0_5mm_horizontal
+    oomp_key_full: oomp_footprint_arturo182_connector_ffc_fpc_extra_molex_54132_5033_1x60_1mp_p0_5mm_horizontal_db6e45
+    oomp_key_simple: arturo182_connector_ffc_fpc_extra_molex_54132_5033_1x60_1mp_p0_5mm_horizontal
+    original_filename: kicad-modules/Connector_FFC-FPC_Extra.pretty/Molex_54132-5033_1x60-1MP_P0.5mm_Horizontal.kicad_mod
+    owner_name: arturo182
   oomp_key: oomp_arturo182_connector_ffc_fpc_extra_molex_54132_5033_1x60_1mp_p0_5mm_horizontal
+  oomp_key_full: oomp_footprint_arturo182_connector_ffc_fpc_extra_molex_54132_5033_1x60_1mp_p0_5mm_horizontal
   oomp_key_simple: arturo182_connector_ffc_fpc_extra_molex_54132_5033_1x60_1mp_p0_5mm_horizontal
   owner: arturo182
   repo:

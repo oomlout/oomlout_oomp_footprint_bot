@@ -13,14 +13,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/shelaf_dygma_raise_fp_cp_eia_3528_21_kemet_b/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/shelaf_dygma_raise_fp_cp_eia_3528_21_kemet_b/working
-    oomp_doc: footprints/footprints/shelaf-dygma/raise_fp/CP_EIA-3528-21_Kemet-B/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/shelaf-dygma/raise_fp/CP_EIA-3528-21_Kemet-B/working
     oomp_src_flat: footprints_flat/footprints_flat/shelaf_dygma_raise_fp_cp_eia_3528_21_kemet_b/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/shelaf_dygma_raise_fp_cp_eia_3528_21_kemet_b/working
-    oomp_src_folder: footprints_folder/footprints_folder/shelaf-dygma/raise_fp/CP_EIA-3528-21_Kemet-B/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/shelaf-dygma/raise_fp/CP_EIA-3528-21_Kemet-B/working
   name: raise_fp.pretty
+  oomp:
+    footprint_name: cp_eia_3528_21_kemet_b
+    library_name: raise_fp
+    md5: 28cd118b85a968e21085e89afc92e7e8
+    md5_10: 28cd118b85
+    md5_5: 28cd1
+    md5_6: 28cd11
+    oomp_key: oomp_shelaf_dygma_raise_fp_cp_eia_3528_21_kemet_b
+    oomp_key_extra: oomp_footprint_shelaf_dygma_raise_fp_cp_eia_3528_21_kemet_b
+    oomp_key_full: oomp_footprint_shelaf_dygma_raise_fp_cp_eia_3528_21_kemet_b_28cd11
+    oomp_key_simple: shelaf_dygma_raise_fp_cp_eia_3528_21_kemet_b
+    original_filename: raise_fp.pretty/CP_EIA-3528-21_Kemet-B.kicad_mod
+    owner_name: shelaf_dygma
   oomp_key: oomp_shelaf_dygma_raise_fp_cp_eia_3528_21_kemet_b
+  oomp_key_full: oomp_footprint_shelaf_dygma_raise_fp_cp_eia_3528_21_kemet_b
   oomp_key_simple: shelaf_dygma_raise_fp_cp_eia_3528_21_kemet_b
   owner: shelaf-dygma
   repo:

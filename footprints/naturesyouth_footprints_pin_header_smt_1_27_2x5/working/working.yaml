@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/naturesyouth_footprints_pin_header_smt_1_27_2x5/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/naturesyouth_footprints_pin_header_smt_1_27_2x5/working
-    oomp_doc: footprints/footprints/naturesyouth/Footprints/Pin_Header_SMT_1.27_2x5/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/naturesyouth/Footprints/Pin_Header_SMT_1.27_2x5/working
     oomp_src_flat: footprints_flat/footprints_flat/naturesyouth_footprints_pin_header_smt_1_27_2x5/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/naturesyouth_footprints_pin_header_smt_1_27_2x5/working
-    oomp_src_folder: footprints_folder/footprints_folder/naturesyouth/Footprints/Pin_Header_SMT_1.27_2x5/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/naturesyouth/Footprints/Pin_Header_SMT_1.27_2x5/working
   name: Footprints.pretty
+  oomp:
+    footprint_name: pin_header_smt_1_27_2x5
+    library_name: footprints
+    md5: dae3bdeeeaa450f1f4204098b68db11d
+    md5_10: dae3bdeeea
+    md5_5: dae3b
+    md5_6: dae3bd
+    oomp_key: oomp_naturesyouth_footprints_pin_header_smt_1_27_2x5
+    oomp_key_extra: oomp_footprint_naturesyouth_footprints_pin_header_smt_1_27_2x5
+    oomp_key_full: oomp_footprint_naturesyouth_footprints_pin_header_smt_1_27_2x5_dae3bd
+    oomp_key_simple: naturesyouth_footprints_pin_header_smt_1_27_2x5
+    original_filename: Footprints.pretty/Pin_Header_SMT_1.27_2x5.kicad_mod
+    owner_name: naturesyouth
   oomp_key: oomp_naturesyouth_footprints_pin_header_smt_1_27_2x5
+  oomp_key_full: oomp_footprint_naturesyouth_footprints_pin_header_smt_1_27_2x5
   oomp_key_simple: naturesyouth_footprints_pin_header_smt_1_27_2x5
   owner: naturesyouth
   repo:

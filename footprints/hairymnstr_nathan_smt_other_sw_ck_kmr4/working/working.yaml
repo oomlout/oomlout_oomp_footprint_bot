@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/hairymnstr_nathan_smt_other_sw_ck_kmr4/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/hairymnstr_nathan_smt_other_sw_ck_kmr4/working
-    oomp_doc: footprints/footprints/hairymnstr/Nathan_SMT_Other/SW_CK_KMR4/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/hairymnstr/Nathan_SMT_Other/SW_CK_KMR4/working
     oomp_src_flat: footprints_flat/footprints_flat/hairymnstr_nathan_smt_other_sw_ck_kmr4/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/hairymnstr_nathan_smt_other_sw_ck_kmr4/working
-    oomp_src_folder: footprints_folder/footprints_folder/hairymnstr/Nathan_SMT_Other/SW_CK_KMR4/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/hairymnstr/Nathan_SMT_Other/SW_CK_KMR4/working
   name: Nathan_SMT_Other.pretty
+  oomp:
+    footprint_name: sw_ck_kmr4
+    library_name: nathan_smt_other
+    md5: 2c08e2ea24eae8ecde8c281897cef89c
+    md5_10: 2c08e2ea24
+    md5_5: 2c08e
+    md5_6: 2c08e2
+    oomp_key: oomp_hairymnstr_nathan_smt_other_sw_ck_kmr4
+    oomp_key_extra: oomp_footprint_hairymnstr_nathan_smt_other_sw_ck_kmr4
+    oomp_key_full: oomp_footprint_hairymnstr_nathan_smt_other_sw_ck_kmr4_2c08e2
+    oomp_key_simple: hairymnstr_nathan_smt_other_sw_ck_kmr4
+    original_filename: Nathan_SMT_Other.pretty/SW_CK_KMR4.kicad_mod
+    owner_name: hairymnstr
   oomp_key: oomp_hairymnstr_nathan_smt_other_sw_ck_kmr4
+  oomp_key_full: oomp_footprint_hairymnstr_nathan_smt_other_sw_ck_kmr4
   oomp_key_simple: hairymnstr_nathan_smt_other_sw_ck_kmr4
   owner: hairymnstr
   repo:

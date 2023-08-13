@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/dx_mon_rhais_osc_smd3225/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/dx_mon_rhais_osc_smd3225/working
-    oomp_doc: footprints/footprints/DX-MON/rhais_osc/SMD3225/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/DX-MON/rhais_osc/SMD3225/working
     oomp_src_flat: footprints_flat/footprints_flat/dx_mon_rhais_osc_smd3225/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/dx_mon_rhais_osc_smd3225/working
-    oomp_src_folder: footprints_folder/footprints_folder/DX-MON/rhais_osc/SMD3225/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/DX-MON/rhais_osc/SMD3225/working
   name: rhais_osc.pretty
+  oomp:
+    footprint_name: smd3225
+    library_name: rhais_osc
+    md5: b587a946b798f1edaec6d244ba396481
+    md5_10: b587a946b7
+    md5_5: b587a
+    md5_6: b587a9
+    oomp_key: oomp_dx_mon_rhais_osc_smd3225
+    oomp_key_extra: oomp_footprint_dx_mon_rhais_osc_smd3225
+    oomp_key_full: oomp_footprint_dx_mon_rhais_osc_smd3225_b587a9
+    oomp_key_simple: dx_mon_rhais_osc_smd3225
+    original_filename: rhais_osc.pretty/SMD3225.kicad_mod
+    owner_name: dx_mon
   oomp_key: oomp_dx_mon_rhais_osc_smd3225
+  oomp_key_full: oomp_footprint_dx_mon_rhais_osc_smd3225
   oomp_key_simple: dx_mon_rhais_osc_smd3225
   owner: DX-MON
   repo:

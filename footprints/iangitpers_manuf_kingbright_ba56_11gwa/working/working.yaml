@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/Iangitpers/4a
     oomp_bot: footprints/iangitpers_manuf_kingbright_ba56_11gwa/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/iangitpers_manuf_kingbright_ba56_11gwa/working
-    oomp_doc: footprints/footprints/Iangitpers/manuf/KINGBRIGHT-BA56-11GWA/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Iangitpers/manuf/KINGBRIGHT-BA56-11GWA/working
     oomp_src_flat: footprints_flat/footprints_flat/iangitpers_manuf_kingbright_ba56_11gwa/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/iangitpers_manuf_kingbright_ba56_11gwa/working
-    oomp_src_folder: footprints_folder/footprints_folder/Iangitpers/manuf/KINGBRIGHT-BA56-11GWA/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Iangitpers/manuf/KINGBRIGHT-BA56-11GWA/working
   name: 4a
+  oomp:
+    footprint_name: kingbright_ba56_11gwa
+    library_name: manuf
+    md5: 28242dd886b9eb86c2e8187ee43b7472
+    md5_10: 28242dd886
+    md5_5: '28242'
+    md5_6: 28242d
+    oomp_key: oomp_iangitpers_manuf_kingbright_ba56_11gwa
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_kingbright_ba56_11gwa
+    oomp_key_full: oomp_footprint_iangitpers_manuf_kingbright_ba56_11gwa_28242d
+    oomp_key_simple: iangitpers_manuf_kingbright_ba56_11gwa
+    original_filename: 4a/manuf.pretty/KINGBRIGHT-BA56-11GWA.kicad_mod
+    owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_kingbright_ba56_11gwa
+  oomp_key_full: oomp_footprint_iangitpers_manuf_kingbright_ba56_11gwa
   oomp_key_simple: iangitpers_manuf_kingbright_ba56_11gwa
   owner: Iangitpers
   repo:

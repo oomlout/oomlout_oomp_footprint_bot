@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/kubiX89/kiCAD.pretty
     oomp_bot: footprints/kubix89_kicad_connector_rf_sma_end_launch/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kubix89_kicad_connector_rf_sma_end_launch/working
-    oomp_doc: footprints/footprints/kubiX89/kiCAD/CONNECTOR_RF_SMA_END_LAUNCH/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kubiX89/kiCAD/CONNECTOR_RF_SMA_END_LAUNCH/working
     oomp_src_flat: footprints_flat/footprints_flat/kubix89_kicad_connector_rf_sma_end_launch/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kubix89_kicad_connector_rf_sma_end_launch/working
-    oomp_src_folder: footprints_folder/footprints_folder/kubiX89/kiCAD/CONNECTOR_RF_SMA_END_LAUNCH/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kubiX89/kiCAD/CONNECTOR_RF_SMA_END_LAUNCH/working
   name: kiCAD.pretty
+  oomp:
+    footprint_name: connector_rf_sma_end_launch
+    library_name: kicad
+    md5: 8ca276289d3963e56a77bd7e3dfa66ac
+    md5_10: 8ca276289d
+    md5_5: 8ca27
+    md5_6: 8ca276
+    oomp_key: oomp_kubix89_kicad_connector_rf_sma_end_launch
+    oomp_key_extra: oomp_footprint_kubix89_kicad_connector_rf_sma_end_launch
+    oomp_key_full: oomp_footprint_kubix89_kicad_connector_rf_sma_end_launch_8ca276
+    oomp_key_simple: kubix89_kicad_connector_rf_sma_end_launch
+    original_filename: kiCAD.pretty/CONNECTOR_RF_SMA_END_LAUNCH.kicad_mod
+    owner_name: kubix89
   oomp_key: oomp_kubix89_kicad_connector_rf_sma_end_launch
+  oomp_key_full: oomp_footprint_kubix89_kicad_connector_rf_sma_end_launch
   oomp_key_simple: kubix89_kicad_connector_rf_sma_end_launch
   owner: kubiX89
   repo:

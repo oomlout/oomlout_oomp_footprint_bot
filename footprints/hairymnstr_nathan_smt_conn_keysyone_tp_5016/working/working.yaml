@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/hairymnstr_nathan_smt_conn_keysyone_tp_5016/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/hairymnstr_nathan_smt_conn_keysyone_tp_5016/working
-    oomp_doc: footprints/footprints/hairymnstr/Nathan_SMT_Conn/KEYSYONE_TP_5016/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/hairymnstr/Nathan_SMT_Conn/KEYSYONE_TP_5016/working
     oomp_src_flat: footprints_flat/footprints_flat/hairymnstr_nathan_smt_conn_keysyone_tp_5016/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/hairymnstr_nathan_smt_conn_keysyone_tp_5016/working
-    oomp_src_folder: footprints_folder/footprints_folder/hairymnstr/Nathan_SMT_Conn/KEYSYONE_TP_5016/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/hairymnstr/Nathan_SMT_Conn/KEYSYONE_TP_5016/working
   name: Nathan_SMT_Conn.pretty
+  oomp:
+    footprint_name: keysyone_tp_5016
+    library_name: nathan_smt_conn
+    md5: 6a91c692adfd73bf26a99417dd63d415
+    md5_10: 6a91c692ad
+    md5_5: 6a91c
+    md5_6: 6a91c6
+    oomp_key: oomp_hairymnstr_nathan_smt_conn_keysyone_tp_5016
+    oomp_key_extra: oomp_footprint_hairymnstr_nathan_smt_conn_keysyone_tp_5016
+    oomp_key_full: oomp_footprint_hairymnstr_nathan_smt_conn_keysyone_tp_5016_6a91c6
+    oomp_key_simple: hairymnstr_nathan_smt_conn_keysyone_tp_5016
+    original_filename: Nathan_SMT_Conn.pretty/KEYSYONE_TP_5016.kicad_mod
+    owner_name: hairymnstr
   oomp_key: oomp_hairymnstr_nathan_smt_conn_keysyone_tp_5016
+  oomp_key_full: oomp_footprint_hairymnstr_nathan_smt_conn_keysyone_tp_5016
   oomp_key_simple: hairymnstr_nathan_smt_conn_keysyone_tp_5016
   owner: hairymnstr
   repo:

@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/adamgreig/agg-kicad
     oomp_bot: footprints/adamgreig_agg_tg_5006cg/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/adamgreig_agg_tg_5006cg/working
-    oomp_doc: footprints/footprints/adamgreig/agg/TG-5006CG/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/adamgreig/agg/TG-5006CG/working
     oomp_src_flat: footprints_flat/footprints_flat/adamgreig_agg_tg_5006cg/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/adamgreig_agg_tg_5006cg/working
-    oomp_src_folder: footprints_folder/footprints_folder/adamgreig/agg/TG-5006CG/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/adamgreig/agg/TG-5006CG/working
   name: agg-kicad
+  oomp:
+    footprint_name: tg_5006cg
+    library_name: agg
+    md5: 6eed1cc242f83052a57eb7adc4f798a2
+    md5_10: 6eed1cc242
+    md5_5: 6eed1
+    md5_6: 6eed1c
+    oomp_key: oomp_adamgreig_agg_tg_5006cg
+    oomp_key_extra: oomp_footprint_adamgreig_agg_tg_5006cg
+    oomp_key_full: oomp_footprint_adamgreig_agg_tg_5006cg_6eed1c
+    oomp_key_simple: adamgreig_agg_tg_5006cg
+    original_filename: agg-kicad/agg.pretty/TG-5006CG.kicad_mod
+    owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_tg_5006cg
+  oomp_key_full: oomp_footprint_adamgreig_agg_tg_5006cg
   oomp_key_simple: adamgreig_agg_tg_5006cg
   owner: adamgreig
   repo:

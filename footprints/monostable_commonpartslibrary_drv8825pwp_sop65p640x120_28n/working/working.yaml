@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/monostable_commonpartslibrary_drv8825pwp_sop65p640x120_28n/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/monostable_commonpartslibrary_drv8825pwp_sop65p640x120_28n/working
-    oomp_doc: footprints/footprints/monostable/CommonPartsLibrary/DRV8825PWP_SOP65P640X120-28N/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/monostable/CommonPartsLibrary/DRV8825PWP_SOP65P640X120-28N/working
     oomp_src_flat: footprints_flat/footprints_flat/monostable_commonpartslibrary_drv8825pwp_sop65p640x120_28n/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/monostable_commonpartslibrary_drv8825pwp_sop65p640x120_28n/working
-    oomp_src_folder: footprints_folder/footprints_folder/monostable/CommonPartsLibrary/DRV8825PWP_SOP65P640X120-28N/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/monostable/CommonPartsLibrary/DRV8825PWP_SOP65P640X120-28N/working
   name: CommonPartsLibrary.pretty
+  oomp:
+    footprint_name: drv8825pwp_sop65p640x120_28n
+    library_name: commonpartslibrary
+    md5: af5e6534ac167f215b0a3f468b0c31ee
+    md5_10: af5e6534ac
+    md5_5: af5e6
+    md5_6: af5e65
+    oomp_key: oomp_monostable_commonpartslibrary_drv8825pwp_sop65p640x120_28n
+    oomp_key_extra: oomp_footprint_monostable_commonpartslibrary_drv8825pwp_sop65p640x120_28n
+    oomp_key_full: oomp_footprint_monostable_commonpartslibrary_drv8825pwp_sop65p640x120_28n_af5e65
+    oomp_key_simple: monostable_commonpartslibrary_drv8825pwp_sop65p640x120_28n
+    original_filename: CommonPartsLibrary.pretty/DRV8825PWP_SOP65P640X120-28N.kicad_mod
+    owner_name: monostable
   oomp_key: oomp_monostable_commonpartslibrary_drv8825pwp_sop65p640x120_28n
+  oomp_key_full: oomp_footprint_monostable_commonpartslibrary_drv8825pwp_sop65p640x120_28n
   oomp_key_simple: monostable_commonpartslibrary_drv8825pwp_sop65p640x120_28n
   owner: monostable
   repo:

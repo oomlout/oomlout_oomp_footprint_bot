@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/kubiX89/kiCAD.pretty
     oomp_bot: footprints/kubix89_kicad_module_ism15_ps/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kubix89_kicad_module_ism15_ps/working
-    oomp_doc: footprints/footprints/kubiX89/kiCAD/MODULE_ISM15_PS/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kubiX89/kiCAD/MODULE_ISM15_PS/working
     oomp_src_flat: footprints_flat/footprints_flat/kubix89_kicad_module_ism15_ps/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kubix89_kicad_module_ism15_ps/working
-    oomp_src_folder: footprints_folder/footprints_folder/kubiX89/kiCAD/MODULE_ISM15_PS/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kubiX89/kiCAD/MODULE_ISM15_PS/working
   name: kiCAD.pretty
+  oomp:
+    footprint_name: module_ism15_ps
+    library_name: kicad
+    md5: 6f506b8cb669110c12f29af16fd119e7
+    md5_10: 6f506b8cb6
+    md5_5: 6f506
+    md5_6: 6f506b
+    oomp_key: oomp_kubix89_kicad_module_ism15_ps
+    oomp_key_extra: oomp_footprint_kubix89_kicad_module_ism15_ps
+    oomp_key_full: oomp_footprint_kubix89_kicad_module_ism15_ps_6f506b
+    oomp_key_simple: kubix89_kicad_module_ism15_ps
+    original_filename: kiCAD.pretty/MODULE_ISM15_PS.kicad_mod
+    owner_name: kubix89
   oomp_key: oomp_kubix89_kicad_module_ism15_ps
+  oomp_key_full: oomp_footprint_kubix89_kicad_module_ism15_ps
   oomp_key_simple: kubix89_kicad_module_ism15_ps
   owner: kubiX89
   repo:

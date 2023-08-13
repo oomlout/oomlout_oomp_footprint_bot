@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cvra_connectors_solder_pad1_27_4/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cvra_connectors_solder_pad1_27_4/working
-    oomp_doc: footprints/footprints/cvra/_connectors/_Solder_Pad1.27_4/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cvra/_connectors/_Solder_Pad1.27_4/working
     oomp_src_flat: footprints_flat/footprints_flat/cvra_connectors_solder_pad1_27_4/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cvra_connectors_solder_pad1_27_4/working
-    oomp_src_folder: footprints_folder/footprints_folder/cvra/_connectors/_Solder_Pad1.27_4/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cvra/_connectors/_Solder_Pad1.27_4/working
   name: kicad-lib
+  oomp:
+    footprint_name: _solder_pad1_27_4
+    library_name: _connectors
+    md5: 725bff6f53a9b12cc8654d832d3e1cca
+    md5_10: 725bff6f53
+    md5_5: 725bf
+    md5_6: 725bff
+    oomp_key: oomp_cvra_connectors_solder_pad1_27_4
+    oomp_key_extra: oomp_footprint_cvra_connectors_solder_pad1_27_4
+    oomp_key_full: oomp_footprint_cvra_connectors_solder_pad1_27_4_725bff
+    oomp_key_simple: cvra_connectors_solder_pad1_27_4
+    original_filename: kicad-lib/footprints/_connectors.pretty/_Solder_Pad1.27_4.kicad_mod
+    owner_name: cvra
   oomp_key: oomp_cvra_connectors_solder_pad1_27_4
+  oomp_key_full: oomp_footprint_cvra_connectors_solder_pad1_27_4
   oomp_key_simple: cvra_connectors_solder_pad1_27_4
   owner: cvra
   repo:

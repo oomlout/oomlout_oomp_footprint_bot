@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/peekpt_w_pth_resistors_mbga256/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/peekpt_w_pth_resistors_mbga256/working
-    oomp_doc: footprints/footprints/peekpt/w_pth_resistors/mbga256/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/peekpt/w_pth_resistors/mbga256/working
     oomp_src_flat: footprints_flat/footprints_flat/peekpt_w_pth_resistors_mbga256/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/peekpt_w_pth_resistors_mbga256/working
-    oomp_src_folder: footprints_folder/footprints_folder/peekpt/w_pth_resistors/mbga256/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/peekpt/w_pth_resistors/mbga256/working
   name: kicad_smisioto
+  oomp:
+    footprint_name: mbga256
+    library_name: w_pth_resistors
+    md5: 5458875868a27ad815c5a0e8bd739e9a
+    md5_10: '5458875868'
+    md5_5: '54588'
+    md5_6: '545887'
+    oomp_key: oomp_peekpt_w_pth_resistors_mbga256
+    oomp_key_extra: oomp_footprint_peekpt_w_pth_resistors_mbga256
+    oomp_key_full: oomp_footprint_peekpt_w_pth_resistors_mbga256_545887
+    oomp_key_simple: peekpt_w_pth_resistors_mbga256
+    original_filename: kicad_smisioto/modules/walter/w_pth_resistors.pretty/w_smd_bga.pretty/mbga256.kicad_mod
+    owner_name: peekpt
   oomp_key: oomp_peekpt_w_pth_resistors_mbga256
+  oomp_key_full: oomp_footprint_peekpt_w_pth_resistors_mbga256
   oomp_key_simple: peekpt_w_pth_resistors_mbga256
   owner: peekpt
   repo:

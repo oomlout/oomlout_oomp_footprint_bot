@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/coddingtonbear_coddingtonbear_so_4_optocoupler_milling/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/coddingtonbear_coddingtonbear_so_4_optocoupler_milling/working
-    oomp_doc: footprints/footprints/coddingtonbear/coddingtonbear/SO-4_Optocoupler_Milling/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/coddingtonbear/coddingtonbear/SO-4_Optocoupler_Milling/working
     oomp_src_flat: footprints_flat/footprints_flat/coddingtonbear_coddingtonbear_so_4_optocoupler_milling/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/coddingtonbear_coddingtonbear_so_4_optocoupler_milling/working
-    oomp_src_folder: footprints_folder/footprints_folder/coddingtonbear/coddingtonbear/SO-4_Optocoupler_Milling/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/coddingtonbear/coddingtonbear/SO-4_Optocoupler_Milling/working
   name: coddingtonbear-kicad-lib
+  oomp:
+    footprint_name: so_4_optocoupler_milling
+    library_name: coddingtonbear
+    md5: 7fe698d97a48040baf4bb394fc69fa2d
+    md5_10: 7fe698d97a
+    md5_5: 7fe69
+    md5_6: 7fe698
+    oomp_key: oomp_coddingtonbear_coddingtonbear_so_4_optocoupler_milling
+    oomp_key_extra: oomp_footprint_coddingtonbear_coddingtonbear_so_4_optocoupler_milling
+    oomp_key_full: oomp_footprint_coddingtonbear_coddingtonbear_so_4_optocoupler_milling_7fe698
+    oomp_key_simple: coddingtonbear_coddingtonbear_so_4_optocoupler_milling
+    original_filename: coddingtonbear-kicad-lib/coddingtonbear.pretty/SO-4_Optocoupler_Milling.kicad_mod
+    owner_name: coddingtonbear
   oomp_key: oomp_coddingtonbear_coddingtonbear_so_4_optocoupler_milling
+  oomp_key_full: oomp_footprint_coddingtonbear_coddingtonbear_so_4_optocoupler_milling
   oomp_key_simple: coddingtonbear_coddingtonbear_so_4_optocoupler_milling
   owner: coddingtonbear
   repo:

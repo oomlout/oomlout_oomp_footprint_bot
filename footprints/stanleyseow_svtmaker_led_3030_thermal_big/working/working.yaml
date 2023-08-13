@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/stanleyseow_svtmaker_led_3030_thermal_big/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stanleyseow_svtmaker_led_3030_thermal_big/working
-    oomp_doc: footprints/footprints/stanleyseow/SVTmaker/LED_3030_Thermal_big/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/stanleyseow/SVTmaker/LED_3030_Thermal_big/working
     oomp_src_flat: footprints_flat/footprints_flat/stanleyseow_svtmaker_led_3030_thermal_big/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/stanleyseow_svtmaker_led_3030_thermal_big/working
-    oomp_src_folder: footprints_folder/footprints_folder/stanleyseow/SVTmaker/LED_3030_Thermal_big/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/stanleyseow/SVTmaker/LED_3030_Thermal_big/working
   name: SVTmaker.pretty
+  oomp:
+    footprint_name: led_3030_thermal_big
+    library_name: svtmaker
+    md5: a2db74f31e2c44c28314e1c557cbaac2
+    md5_10: a2db74f31e
+    md5_5: a2db7
+    md5_6: a2db74
+    oomp_key: oomp_stanleyseow_svtmaker_led_3030_thermal_big
+    oomp_key_extra: oomp_footprint_stanleyseow_svtmaker_led_3030_thermal_big
+    oomp_key_full: oomp_footprint_stanleyseow_svtmaker_led_3030_thermal_big_a2db74
+    oomp_key_simple: stanleyseow_svtmaker_led_3030_thermal_big
+    original_filename: SVTmaker.pretty/LED_3030_Thermal_big.kicad_mod
+    owner_name: stanleyseow
   oomp_key: oomp_stanleyseow_svtmaker_led_3030_thermal_big
+  oomp_key_full: oomp_footprint_stanleyseow_svtmaker_led_3030_thermal_big
   oomp_key_simple: stanleyseow_svtmaker_led_3030_thermal_big
   owner: stanleyseow
   repo:

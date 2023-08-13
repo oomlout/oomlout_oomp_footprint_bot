@@ -11,17 +11,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_inductor_smd_l_wuerth_mapi_4020/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_inductor_smd_l_wuerth_mapi_4020/working
-    oomp_doc: footprints/footprints/kicad/Inductor_SMD/L_Wuerth_MAPI-4020/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Inductor_SMD/L_Wuerth_MAPI-4020/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_inductor_smd_l_wuerth_mapi_4020/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_inductor_smd_l_wuerth_mapi_4020/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Inductor_SMD/L_Wuerth_MAPI-4020/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Inductor_SMD/L_Wuerth_MAPI-4020/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: l_wuerth_mapi_4020
+    library_name: inductor_smd
+    md5: 11789a281cb6361b9f6d2344a623e8d6
+    md5_10: 11789a281c
+    md5_5: '11789'
+    md5_6: 11789a
+    oomp_key: oomp_kicad_inductor_smd_l_wuerth_mapi_4020
+    oomp_key_extra: oomp_footprint_kicad_inductor_smd_l_wuerth_mapi_4020
+    oomp_key_full: oomp_footprint_kicad_inductor_smd_l_wuerth_mapi_4020_11789a
+    oomp_key_simple: kicad_inductor_smd_l_wuerth_mapi_4020
+    original_filename: libraries/kicad-footprints/Inductor_SMD.pretty/L_Wuerth_MAPI-4020.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_inductor_smd_l_wuerth_mapi_4020
+  oomp_key_full: oomp_footprint_kicad_inductor_smd_l_wuerth_mapi_4020
   oomp_key_simple: kicad_inductor_smd_l_wuerth_mapi_4020
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

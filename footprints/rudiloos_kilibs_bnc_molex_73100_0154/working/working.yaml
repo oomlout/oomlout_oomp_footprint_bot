@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/rudiloos_kilibs_bnc_molex_73100_0154/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/rudiloos_kilibs_bnc_molex_73100_0154/working
-    oomp_doc: footprints/footprints/rudiloos/kilibs/BNC-MOLEX-73100-0154/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/rudiloos/kilibs/BNC-MOLEX-73100-0154/working
     oomp_src_flat: footprints_flat/footprints_flat/rudiloos_kilibs_bnc_molex_73100_0154/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/rudiloos_kilibs_bnc_molex_73100_0154/working
-    oomp_src_folder: footprints_folder/footprints_folder/rudiloos/kilibs/BNC-MOLEX-73100-0154/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/rudiloos/kilibs/BNC-MOLEX-73100-0154/working
   name: kilibs.pretty
+  oomp:
+    footprint_name: bnc_molex_73100_0154
+    library_name: kilibs
+    md5: 043fb8209f2d60b8f77acc6b7778bd2b
+    md5_10: 043fb8209f
+    md5_5: 043fb
+    md5_6: 043fb8
+    oomp_key: oomp_rudiloos_kilibs_bnc_molex_73100_0154
+    oomp_key_extra: oomp_footprint_rudiloos_kilibs_bnc_molex_73100_0154
+    oomp_key_full: oomp_footprint_rudiloos_kilibs_bnc_molex_73100_0154_043fb8
+    oomp_key_simple: rudiloos_kilibs_bnc_molex_73100_0154
+    original_filename: kilibs.pretty/BNC-MOLEX-73100-0154.kicad_mod
+    owner_name: rudiloos
   oomp_key: oomp_rudiloos_kilibs_bnc_molex_73100_0154
+  oomp_key_full: oomp_footprint_rudiloos_kilibs_bnc_molex_73100_0154
   oomp_key_simple: rudiloos_kilibs_bnc_molex_73100_0154
   owner: rudiloos
   repo:

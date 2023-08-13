@@ -1,24 +1,34 @@
-- file: SparkFun-KiCad-Libraries/Footprints/Silicon-Standard.pretty/TQFP32-08.kicad_mod
+- file: SparkFun-KiCad-Libraries/Pre_v7/Footprints/Silicon-Standard.pretty/TQFP32-08.kicad_mod
   footprint:
     description: THIN PLASIC QUAD FLAT PACKAGE GRID 0.8 MM
     libraryLink: TQFP32-08
     number_of_pads: 32
   footprint_library_directory: footprint_library_owner/sparkfun_SparkFun-KiCad-Libraries
   footprint_library_directory_flat: footprints_flat/sparkfun_silicon_standard_tqfp32_08/working
-  github_path: http://github.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Footprints/Silicon-Standard.pretty/TQFP32-08.kicad_mod
+  github_path: http://github.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Pre_v7/Footprints/Silicon-Standard.pretty/TQFP32-08.kicad_mod
   links:
-    github_src: http://gitlab.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Tools/SparkFun-Eagle-Libraries_Conversion/Export.pretty/DFN-6-3X3.kicad_mod
+    github_src: http://gitlab.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Pre_v7/Tools/SparkFun-Eagle-Libraries_Conversion/Export.pretty/DFN-6-3X3.kicad_mod
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/sparkfun_silicon_standard_tqfp32_08/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/sparkfun_silicon_standard_tqfp32_08/working
-    oomp_doc: footprints/footprints/sparkfun/Silicon-Standard/TQFP32-08/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/sparkfun/Silicon-Standard/TQFP32-08/working
     oomp_src_flat: footprints_flat/footprints_flat/sparkfun_silicon_standard_tqfp32_08/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/sparkfun_silicon_standard_tqfp32_08/working
-    oomp_src_folder: footprints_folder/footprints_folder/sparkfun/Silicon-Standard/TQFP32-08/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/sparkfun/Silicon-Standard/TQFP32-08/working
   name: SparkFun-KiCad-Libraries
+  oomp:
+    footprint_name: tqfp32_08
+    library_name: silicon_standard
+    md5: 431f66ac1e97fad449b60beae878945f
+    md5_10: 431f66ac1e
+    md5_5: 431f6
+    md5_6: 431f66
+    oomp_key: oomp_sparkfun_silicon_standard_tqfp32_08
+    oomp_key_extra: oomp_footprint_sparkfun_silicon_standard_tqfp32_08
+    oomp_key_full: oomp_footprint_sparkfun_silicon_standard_tqfp32_08_431f66
+    oomp_key_simple: sparkfun_silicon_standard_tqfp32_08
+    original_filename: SparkFun-KiCad-Libraries/Pre_v7/Footprints/Silicon-Standard.pretty/TQFP32-08.kicad_mod
+    owner_name: sparkfun
   oomp_key: oomp_sparkfun_silicon_standard_tqfp32_08
+  oomp_key_full: oomp_footprint_sparkfun_silicon_standard_tqfp32_08
   oomp_key_simple: sparkfun_silicon_standard_tqfp32_08
   owner: sparkfun
   repo:

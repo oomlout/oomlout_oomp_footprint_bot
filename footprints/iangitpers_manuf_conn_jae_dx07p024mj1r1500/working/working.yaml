@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/Iangitpers/4a
     oomp_bot: footprints/iangitpers_manuf_conn_jae_dx07p024mj1r1500/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/iangitpers_manuf_conn_jae_dx07p024mj1r1500/working
-    oomp_doc: footprints/footprints/Iangitpers/manuf/CONN-JAE-DX07P024MJ1R1500/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Iangitpers/manuf/CONN-JAE-DX07P024MJ1R1500/working
     oomp_src_flat: footprints_flat/footprints_flat/iangitpers_manuf_conn_jae_dx07p024mj1r1500/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/iangitpers_manuf_conn_jae_dx07p024mj1r1500/working
-    oomp_src_folder: footprints_folder/footprints_folder/Iangitpers/manuf/CONN-JAE-DX07P024MJ1R1500/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Iangitpers/manuf/CONN-JAE-DX07P024MJ1R1500/working
   name: 4a
+  oomp:
+    footprint_name: conn_jae_dx07p024mj1r1500
+    library_name: manuf
+    md5: b90d24c77ac0cd274d65164537fa5ad7
+    md5_10: b90d24c77a
+    md5_5: b90d2
+    md5_6: b90d24
+    oomp_key: oomp_iangitpers_manuf_conn_jae_dx07p024mj1r1500
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_conn_jae_dx07p024mj1r1500
+    oomp_key_full: oomp_footprint_iangitpers_manuf_conn_jae_dx07p024mj1r1500_b90d24
+    oomp_key_simple: iangitpers_manuf_conn_jae_dx07p024mj1r1500
+    original_filename: 4a/manuf.pretty/CONN-JAE-DX07P024MJ1R1500.kicad_mod
+    owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_conn_jae_dx07p024mj1r1500
+  oomp_key_full: oomp_footprint_iangitpers_manuf_conn_jae_dx07p024mj1r1500
   oomp_key_simple: iangitpers_manuf_conn_jae_dx07p024mj1r1500
   owner: Iangitpers
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/tommueller_kicad_sdiy_resistor_horizontal_7mm_wide/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/tommueller_kicad_sdiy_resistor_horizontal_7mm_wide/working
-    oomp_doc: footprints/footprints/tommueller/KiCAD-SDIY/resistor_horizontal-7mm--wide/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/tommueller/KiCAD-SDIY/resistor_horizontal-7mm--wide/working
     oomp_src_flat: footprints_flat/footprints_flat/tommueller_kicad_sdiy_resistor_horizontal_7mm_wide/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/tommueller_kicad_sdiy_resistor_horizontal_7mm_wide/working
-    oomp_src_folder: footprints_folder/footprints_folder/tommueller/KiCAD-SDIY/resistor_horizontal-7mm--wide/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/tommueller/KiCAD-SDIY/resistor_horizontal-7mm--wide/working
   name: KiCAD-SDIY.pretty
+  oomp:
+    footprint_name: resistor_horizontal_7mm_wide
+    library_name: kicad_sdiy
+    md5: 0e8e9037c50f0b50dc115bf4576626e8
+    md5_10: 0e8e9037c5
+    md5_5: 0e8e9
+    md5_6: 0e8e90
+    oomp_key: oomp_tommueller_kicad_sdiy_resistor_horizontal_7mm_wide
+    oomp_key_extra: oomp_footprint_tommueller_kicad_sdiy_resistor_horizontal_7mm_wide
+    oomp_key_full: oomp_footprint_tommueller_kicad_sdiy_resistor_horizontal_7mm_wide_0e8e90
+    oomp_key_simple: tommueller_kicad_sdiy_resistor_horizontal_7mm_wide
+    original_filename: KiCAD-SDIY.pretty/resistor_horizontal-7mm--wide.kicad_mod
+    owner_name: tommueller
   oomp_key: oomp_tommueller_kicad_sdiy_resistor_horizontal_7mm_wide
+  oomp_key_full: oomp_footprint_tommueller_kicad_sdiy_resistor_horizontal_7mm_wide
   oomp_key_simple: tommueller_kicad_sdiy_resistor_horizontal_7mm_wide
   owner: tommueller
   repo:

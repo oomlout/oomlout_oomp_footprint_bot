@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/peekpt_w_to_to3_4/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/peekpt_w_to_to3_4/working
-    oomp_doc: footprints/footprints/peekpt/w_to/to3-4/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/peekpt/w_to/to3-4/working
     oomp_src_flat: footprints_flat/footprints_flat/peekpt_w_to_to3_4/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/peekpt_w_to_to3_4/working
-    oomp_src_folder: footprints_folder/footprints_folder/peekpt/w_to/to3-4/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/peekpt/w_to/to3-4/working
   name: kicad_smisioto
+  oomp:
+    footprint_name: to3_4
+    library_name: w_to
+    md5: db7c081abf86185ad49f98fb9081c226
+    md5_10: db7c081abf
+    md5_5: db7c0
+    md5_6: db7c08
+    oomp_key: oomp_peekpt_w_to_to3_4
+    oomp_key_extra: oomp_footprint_peekpt_w_to_to3_4
+    oomp_key_full: oomp_footprint_peekpt_w_to_to3_4_db7c08
+    oomp_key_simple: peekpt_w_to_to3_4
+    original_filename: kicad_smisioto/modules/walter/w_to.pretty/to3-4.kicad_mod
+    owner_name: peekpt
   oomp_key: oomp_peekpt_w_to_to3_4
+  oomp_key_full: oomp_footprint_peekpt_w_to_to3_4
   oomp_key_simple: peekpt_w_to_to3_4
   owner: peekpt
   repo:

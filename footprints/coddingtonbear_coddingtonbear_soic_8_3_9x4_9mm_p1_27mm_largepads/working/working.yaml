@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/coddingtonbear_coddingtonbear_soic_8_3_9x4_9mm_p1_27mm_largepads/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/coddingtonbear_coddingtonbear_soic_8_3_9x4_9mm_p1_27mm_largepads/working
-    oomp_doc: footprints/footprints/coddingtonbear/coddingtonbear/SOIC-8_3.9x4.9mm_P1.27mm_LargePads/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/coddingtonbear/coddingtonbear/SOIC-8_3.9x4.9mm_P1.27mm_LargePads/working
     oomp_src_flat: footprints_flat/footprints_flat/coddingtonbear_coddingtonbear_soic_8_3_9x4_9mm_p1_27mm_largepads/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/coddingtonbear_coddingtonbear_soic_8_3_9x4_9mm_p1_27mm_largepads/working
-    oomp_src_folder: footprints_folder/footprints_folder/coddingtonbear/coddingtonbear/SOIC-8_3.9x4.9mm_P1.27mm_LargePads/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/coddingtonbear/coddingtonbear/SOIC-8_3.9x4.9mm_P1.27mm_LargePads/working
   name: coddingtonbear-kicad-lib
+  oomp:
+    footprint_name: soic_8_3_9x4_9mm_p1_27mm_largepads
+    library_name: coddingtonbear
+    md5: bce2f034243534fb4458ee41b1de8146
+    md5_10: bce2f03424
+    md5_5: bce2f
+    md5_6: bce2f0
+    oomp_key: oomp_coddingtonbear_coddingtonbear_soic_8_3_9x4_9mm_p1_27mm_largepads
+    oomp_key_extra: oomp_footprint_coddingtonbear_coddingtonbear_soic_8_3_9x4_9mm_p1_27mm_largepads
+    oomp_key_full: oomp_footprint_coddingtonbear_coddingtonbear_soic_8_3_9x4_9mm_p1_27mm_largepads_bce2f0
+    oomp_key_simple: coddingtonbear_coddingtonbear_soic_8_3_9x4_9mm_p1_27mm_largepads
+    original_filename: coddingtonbear-kicad-lib/coddingtonbear.pretty/SOIC-8_3.9x4.9mm_P1.27mm_LargePads.kicad_mod
+    owner_name: coddingtonbear
   oomp_key: oomp_coddingtonbear_coddingtonbear_soic_8_3_9x4_9mm_p1_27mm_largepads
+  oomp_key_full: oomp_footprint_coddingtonbear_coddingtonbear_soic_8_3_9x4_9mm_p1_27mm_largepads
   oomp_key_simple: coddingtonbear_coddingtonbear_soic_8_3_9x4_9mm_p1_27mm_largepads
   owner: coddingtonbear
   repo:

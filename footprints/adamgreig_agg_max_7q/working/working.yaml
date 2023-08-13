@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/adamgreig/agg-kicad
     oomp_bot: footprints/adamgreig_agg_max_7q/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/adamgreig_agg_max_7q/working
-    oomp_doc: footprints/footprints/adamgreig/agg/MAX-7Q/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/adamgreig/agg/MAX-7Q/working
     oomp_src_flat: footprints_flat/footprints_flat/adamgreig_agg_max_7q/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/adamgreig_agg_max_7q/working
-    oomp_src_folder: footprints_folder/footprints_folder/adamgreig/agg/MAX-7Q/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/adamgreig/agg/MAX-7Q/working
   name: agg-kicad
+  oomp:
+    footprint_name: max_7q
+    library_name: agg
+    md5: 757bc92e3b936658677e3b5335c96794
+    md5_10: 757bc92e3b
+    md5_5: 757bc
+    md5_6: 757bc9
+    oomp_key: oomp_adamgreig_agg_max_7q
+    oomp_key_extra: oomp_footprint_adamgreig_agg_max_7q
+    oomp_key_full: oomp_footprint_adamgreig_agg_max_7q_757bc9
+    oomp_key_simple: adamgreig_agg_max_7q
+    original_filename: agg-kicad/agg.pretty/unchecked.pretty/MAX-7Q.kicad_mod
+    owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_max_7q
+  oomp_key_full: oomp_footprint_adamgreig_agg_max_7q
   oomp_key_simple: adamgreig_agg_max_7q
   owner: adamgreig
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_lqh3np_j0_lqh3np_j0/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_lqh3np_j0_lqh3np_j0/working
-    oomp_doc: footprints/footprints/brunoeagle/LQH3NP_J0.kicad_mod/LQH3NP_J0/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/LQH3NP_J0.kicad_mod/LQH3NP_J0/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_lqh3np_j0_lqh3np_j0/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_lqh3np_j0_lqh3np_j0/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/LQH3NP_J0.kicad_mod/LQH3NP_J0/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/LQH3NP_J0.kicad_mod/LQH3NP_J0/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: lqh3np_j0
+    library_name: lqh3np_j0_kicad_mod
+    md5: 612f6cd29f845af335c7b536d4870aa6
+    md5_10: 612f6cd29f
+    md5_5: 612f6
+    md5_6: 612f6c
+    oomp_key: oomp_brunoeagle_lqh3np_j0_lqh3np_j0
+    oomp_key_extra: oomp_footprint_brunoeagle_lqh3np_j0_lqh3np_j0
+    oomp_key_full: oomp_footprint_brunoeagle_lqh3np_j0_lqh3np_j0_612f6c
+    oomp_key_simple: brunoeagle_lqh3np_j0_lqh3np_j0
+    original_filename: kicad-open-modules/LQH3NP_J0.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_lqh3np_j0_lqh3np_j0
+  oomp_key_full: oomp_footprint_brunoeagle_lqh3np_j0_lqh3np_j0
   oomp_key_simple: brunoeagle_lqh3np_j0_lqh3np_j0
   owner: brunoeagle
   repo:

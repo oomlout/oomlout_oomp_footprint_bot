@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/nppc_nodemcu_lolinv3_nodemcu_lolinv3/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nppc_nodemcu_lolinv3_nodemcu_lolinv3/working
-    oomp_doc: footprints/footprints/nppc/NodeMCU-LoLinV3.kicad_mod/NodeMCU-LoLinV3/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/nppc/NodeMCU-LoLinV3.kicad_mod/NodeMCU-LoLinV3/working
     oomp_src_flat: footprints_flat/footprints_flat/nppc_nodemcu_lolinv3_nodemcu_lolinv3/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nppc_nodemcu_lolinv3_nodemcu_lolinv3/working
-    oomp_src_folder: footprints_folder/footprints_folder/nppc/NodeMCU-LoLinV3.kicad_mod/NodeMCU-LoLinV3/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/nppc/NodeMCU-LoLinV3.kicad_mod/NodeMCU-LoLinV3/working
   name: KiCadCustomLibs
+  oomp:
+    footprint_name: nodemcu_lolinv3
+    library_name: nodemcu_lolinv3_kicad_mod
+    md5: 21061d12fac3d2071ed40210fcfa73aa
+    md5_10: 21061d12fa
+    md5_5: '21061'
+    md5_6: 21061d
+    oomp_key: oomp_nppc_nodemcu_lolinv3_nodemcu_lolinv3
+    oomp_key_extra: oomp_footprint_nppc_nodemcu_lolinv3_nodemcu_lolinv3
+    oomp_key_full: oomp_footprint_nppc_nodemcu_lolinv3_nodemcu_lolinv3_21061d
+    oomp_key_simple: nppc_nodemcu_lolinv3_nodemcu_lolinv3
+    original_filename: KiCadCustomLibs/NodeMCU-LoLinV3.kicad_mod
+    owner_name: nppc
   oomp_key: oomp_nppc_nodemcu_lolinv3_nodemcu_lolinv3
+  oomp_key_full: oomp_footprint_nppc_nodemcu_lolinv3_nodemcu_lolinv3
   oomp_key_simple: nppc_nodemcu_lolinv3_nodemcu_lolinv3
   owner: nppc
   repo:

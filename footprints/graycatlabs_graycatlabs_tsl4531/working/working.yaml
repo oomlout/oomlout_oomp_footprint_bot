@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/graycatlabs_graycatlabs_tsl4531/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/graycatlabs_graycatlabs_tsl4531/working
-    oomp_doc: footprints/footprints/graycatlabs/GrayCatLabs/TSL4531/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/graycatlabs/GrayCatLabs/TSL4531/working
     oomp_src_flat: footprints_flat/footprints_flat/graycatlabs_graycatlabs_tsl4531/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/graycatlabs_graycatlabs_tsl4531/working
-    oomp_src_folder: footprints_folder/footprints_folder/graycatlabs/GrayCatLabs/TSL4531/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/graycatlabs/GrayCatLabs/TSL4531/working
   name: GrayCatLabs.pretty
+  oomp:
+    footprint_name: tsl4531
+    library_name: graycatlabs
+    md5: ad792874b037a3d54df749fa9a26259e
+    md5_10: ad792874b0
+    md5_5: ad792
+    md5_6: ad7928
+    oomp_key: oomp_graycatlabs_graycatlabs_tsl4531
+    oomp_key_extra: oomp_footprint_graycatlabs_graycatlabs_tsl4531
+    oomp_key_full: oomp_footprint_graycatlabs_graycatlabs_tsl4531_ad7928
+    oomp_key_simple: graycatlabs_graycatlabs_tsl4531
+    original_filename: GrayCatLabs.pretty/TSL4531.kicad_mod
+    owner_name: graycatlabs
   oomp_key: oomp_graycatlabs_graycatlabs_tsl4531
+  oomp_key_full: oomp_footprint_graycatlabs_graycatlabs_tsl4531
   oomp_key_simple: graycatlabs_graycatlabs_tsl4531
   owner: graycatlabs
   repo:

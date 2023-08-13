@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/celeritous_kicad_dc_dc_1w_sip_th/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/celeritous_kicad_dc_dc_1w_sip_th/working
-    oomp_doc: footprints/footprints/celeritous/KiCad/DC_DC_1W_SIP_TH/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/celeritous/KiCad/DC_DC_1W_SIP_TH/working
     oomp_src_flat: footprints_flat/footprints_flat/celeritous_kicad_dc_dc_1w_sip_th/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/celeritous_kicad_dc_dc_1w_sip_th/working
-    oomp_src_folder: footprints_folder/footprints_folder/celeritous/KiCad/DC_DC_1W_SIP_TH/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/celeritous/KiCad/DC_DC_1W_SIP_TH/working
   name: KiCad.pretty
+  oomp:
+    footprint_name: dc_dc_1w_sip_th
+    library_name: kicad
+    md5: 320ba4a35d4d9053ecd35381ef7ea0a0
+    md5_10: 320ba4a35d
+    md5_5: 320ba
+    md5_6: 320ba4
+    oomp_key: oomp_celeritous_kicad_dc_dc_1w_sip_th
+    oomp_key_extra: oomp_footprint_celeritous_kicad_dc_dc_1w_sip_th
+    oomp_key_full: oomp_footprint_celeritous_kicad_dc_dc_1w_sip_th_320ba4
+    oomp_key_simple: celeritous_kicad_dc_dc_1w_sip_th
+    original_filename: KiCad.pretty/DC_DC_1W_SIP_TH.kicad_mod
+    owner_name: celeritous
   oomp_key: oomp_celeritous_kicad_dc_dc_1w_sip_th
+  oomp_key_full: oomp_footprint_celeritous_kicad_dc_dc_1w_sip_th
   oomp_key_simple: celeritous_kicad_dc_dc_1w_sip_th
   owner: celeritous
   repo:

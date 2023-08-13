@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/arturo182/kicad-modules
     oomp_bot: footprints/arturo182_battery_extra_cr1632/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/arturo182_battery_extra_cr1632/working
-    oomp_doc: footprints/footprints/arturo182/Battery_Extra/CR1632/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/arturo182/Battery_Extra/CR1632/working
     oomp_src_flat: footprints_flat/footprints_flat/arturo182_battery_extra_cr1632/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/arturo182_battery_extra_cr1632/working
-    oomp_src_folder: footprints_folder/footprints_folder/arturo182/Battery_Extra/CR1632/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/arturo182/Battery_Extra/CR1632/working
   name: kicad-modules
+  oomp:
+    footprint_name: cr1632
+    library_name: battery_extra
+    md5: a178df282219c59c0b71e46f7b4f568f
+    md5_10: a178df2822
+    md5_5: a178d
+    md5_6: a178df
+    oomp_key: oomp_arturo182_battery_extra_cr1632
+    oomp_key_extra: oomp_footprint_arturo182_battery_extra_cr1632
+    oomp_key_full: oomp_footprint_arturo182_battery_extra_cr1632_a178df
+    oomp_key_simple: arturo182_battery_extra_cr1632
+    original_filename: kicad-modules/Battery_Extra.pretty/CR1632.kicad_mod
+    owner_name: arturo182
   oomp_key: oomp_arturo182_battery_extra_cr1632
+  oomp_key_full: oomp_footprint_arturo182_battery_extra_cr1632
   oomp_key_simple: arturo182_battery_extra_cr1632
   owner: arturo182
   repo:

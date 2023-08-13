@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/fruchti_dip_dip20_300/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/fruchti_dip_dip20_300/working
-    oomp_doc: footprints/footprints/fruchti/dip/DIP20_300/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/fruchti/dip/DIP20_300/working
     oomp_src_flat: footprints_flat/footprints_flat/fruchti_dip_dip20_300/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/fruchti_dip_dip20_300/working
-    oomp_src_folder: footprints_folder/footprints_folder/fruchti/dip/DIP20_300/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/fruchti/dip/DIP20_300/working
   name: fruchtilib
+  oomp:
+    footprint_name: dip20_300
+    library_name: dip
+    md5: 498b61091f865b3a1402449f496fe850
+    md5_10: 498b61091f
+    md5_5: 498b6
+    md5_6: 498b61
+    oomp_key: oomp_fruchti_dip_dip20_300
+    oomp_key_extra: oomp_footprint_fruchti_dip_dip20_300
+    oomp_key_full: oomp_footprint_fruchti_dip_dip20_300_498b61
+    oomp_key_simple: fruchti_dip_dip20_300
+    original_filename: fruchtilib/mod/dip.pretty/DIP20_300.kicad_mod
+    owner_name: fruchti
   oomp_key: oomp_fruchti_dip_dip20_300
+  oomp_key_full: oomp_footprint_fruchti_dip_dip20_300
   oomp_key_simple: fruchti_dip_dip20_300
   owner: fruchti
   repo:

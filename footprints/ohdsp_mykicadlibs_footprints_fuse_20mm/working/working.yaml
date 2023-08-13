@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/ohdsp_mykicadlibs_footprints_fuse_20mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ohdsp_mykicadlibs_footprints_fuse_20mm/working
-    oomp_doc: footprints/footprints/ohdsp/MyKiCadLibs-Footprints/FUSE-20MM/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ohdsp/MyKiCadLibs-Footprints/FUSE-20MM/working
     oomp_src_flat: footprints_flat/footprints_flat/ohdsp_mykicadlibs_footprints_fuse_20mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ohdsp_mykicadlibs_footprints_fuse_20mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/ohdsp/MyKiCadLibs-Footprints/FUSE-20MM/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ohdsp/MyKiCadLibs-Footprints/FUSE-20MM/working
   name: KiCad-Libs
+  oomp:
+    footprint_name: fuse_20mm
+    library_name: mykicadlibs_footprints
+    md5: e28c15998c0c50b265aab129b1b6b49c
+    md5_10: e28c15998c
+    md5_5: e28c1
+    md5_6: e28c15
+    oomp_key: oomp_ohdsp_mykicadlibs_footprints_fuse_20mm
+    oomp_key_extra: oomp_footprint_ohdsp_mykicadlibs_footprints_fuse_20mm
+    oomp_key_full: oomp_footprint_ohdsp_mykicadlibs_footprints_fuse_20mm_e28c15
+    oomp_key_simple: ohdsp_mykicadlibs_footprints_fuse_20mm
+    original_filename: KiCad-Libs/MyKiCadLibs-Footprints.pretty/FUSE-20MM.kicad_mod
+    owner_name: ohdsp
   oomp_key: oomp_ohdsp_mykicadlibs_footprints_fuse_20mm
+  oomp_key_full: oomp_footprint_ohdsp_mykicadlibs_footprints_fuse_20mm
   oomp_key_simple: ohdsp_mykicadlibs_footprints_fuse_20mm
   owner: ohdsp
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/ohdsp_mykicadlibs_footprints_ic_to220_bce/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ohdsp_mykicadlibs_footprints_ic_to220_bce/working
-    oomp_doc: footprints/footprints/ohdsp/MyKiCadLibs-Footprints/IC-TO220-BCE/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ohdsp/MyKiCadLibs-Footprints/IC-TO220-BCE/working
     oomp_src_flat: footprints_flat/footprints_flat/ohdsp_mykicadlibs_footprints_ic_to220_bce/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ohdsp_mykicadlibs_footprints_ic_to220_bce/working
-    oomp_src_folder: footprints_folder/footprints_folder/ohdsp/MyKiCadLibs-Footprints/IC-TO220-BCE/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ohdsp/MyKiCadLibs-Footprints/IC-TO220-BCE/working
   name: KiCad-Libs
+  oomp:
+    footprint_name: ic_to220_bce
+    library_name: mykicadlibs_footprints
+    md5: 6c220521316ab2cd26b62735847e3a63
+    md5_10: 6c22052131
+    md5_5: 6c220
+    md5_6: 6c2205
+    oomp_key: oomp_ohdsp_mykicadlibs_footprints_ic_to220_bce
+    oomp_key_extra: oomp_footprint_ohdsp_mykicadlibs_footprints_ic_to220_bce
+    oomp_key_full: oomp_footprint_ohdsp_mykicadlibs_footprints_ic_to220_bce_6c2205
+    oomp_key_simple: ohdsp_mykicadlibs_footprints_ic_to220_bce
+    original_filename: KiCad-Libs/MyKiCadLibs-Footprints.pretty/IC-TO220-BCE.kicad_mod
+    owner_name: ohdsp
   oomp_key: oomp_ohdsp_mykicadlibs_footprints_ic_to220_bce
+  oomp_key_full: oomp_footprint_ohdsp_mykicadlibs_footprints_ic_to220_bce
   oomp_key_simple: ohdsp_mykicadlibs_footprints_ic_to220_bce
   owner: ohdsp
   repo:

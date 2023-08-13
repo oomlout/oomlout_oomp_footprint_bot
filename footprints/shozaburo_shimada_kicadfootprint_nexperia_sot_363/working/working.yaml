@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/shozaburo_shimada_kicadfootprint_nexperia_sot_363/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/shozaburo_shimada_kicadfootprint_nexperia_sot_363/working
-    oomp_doc: footprints/footprints/shozaburo-shimada/KiCADfootprint/Nexperia_SOT-363/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/shozaburo-shimada/KiCADfootprint/Nexperia_SOT-363/working
     oomp_src_flat: footprints_flat/footprints_flat/shozaburo_shimada_kicadfootprint_nexperia_sot_363/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/shozaburo_shimada_kicadfootprint_nexperia_sot_363/working
-    oomp_src_folder: footprints_folder/footprints_folder/shozaburo-shimada/KiCADfootprint/Nexperia_SOT-363/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/shozaburo-shimada/KiCADfootprint/Nexperia_SOT-363/working
   name: KiCADfootprint.pretty
+  oomp:
+    footprint_name: nexperia_sot_363
+    library_name: kicadfootprint
+    md5: d6b790cf5fd64f25d8709f0d6a00584f
+    md5_10: d6b790cf5f
+    md5_5: d6b79
+    md5_6: d6b790
+    oomp_key: oomp_shozaburo_shimada_kicadfootprint_nexperia_sot_363
+    oomp_key_extra: oomp_footprint_shozaburo_shimada_kicadfootprint_nexperia_sot_363
+    oomp_key_full: oomp_footprint_shozaburo_shimada_kicadfootprint_nexperia_sot_363_d6b790
+    oomp_key_simple: shozaburo_shimada_kicadfootprint_nexperia_sot_363
+    original_filename: KiCADfootprint.pretty/Nexperia_SOT-363.kicad_mod
+    owner_name: shozaburo_shimada
   oomp_key: oomp_shozaburo_shimada_kicadfootprint_nexperia_sot_363
+  oomp_key_full: oomp_footprint_shozaburo_shimada_kicadfootprint_nexperia_sot_363
   oomp_key_simple: shozaburo_shimada_kicadfootprint_nexperia_sot_363
   owner: shozaburo-shimada
   repo:

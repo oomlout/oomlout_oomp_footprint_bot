@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/tristan_smith_switches_ck_pushbutton_12mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/tristan_smith_switches_ck_pushbutton_12mm/working
-    oomp_doc: footprints/footprints/tristan-smith/Switches/CK_Pushbutton_12mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/tristan-smith/Switches/CK_Pushbutton_12mm/working
     oomp_src_flat: footprints_flat/footprints_flat/tristan_smith_switches_ck_pushbutton_12mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/tristan_smith_switches_ck_pushbutton_12mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/tristan-smith/Switches/CK_Pushbutton_12mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/tristan-smith/Switches/CK_Pushbutton_12mm/working
   name: HA_KicadLibraries
+  oomp:
+    footprint_name: ck_pushbutton_12mm
+    library_name: switches
+    md5: a1990eb4d6509f096bde1d236e13ec83
+    md5_10: a1990eb4d6
+    md5_5: a1990
+    md5_6: a1990e
+    oomp_key: oomp_tristan_smith_switches_ck_pushbutton_12mm
+    oomp_key_extra: oomp_footprint_tristan_smith_switches_ck_pushbutton_12mm
+    oomp_key_full: oomp_footprint_tristan_smith_switches_ck_pushbutton_12mm_a1990e
+    oomp_key_simple: tristan_smith_switches_ck_pushbutton_12mm
+    original_filename: HA_KicadLibraries/Switches.pretty/CK_Pushbutton_12mm.kicad_mod
+    owner_name: tristan_smith
   oomp_key: oomp_tristan_smith_switches_ck_pushbutton_12mm
+  oomp_key_full: oomp_footprint_tristan_smith_switches_ck_pushbutton_12mm
   oomp_key_simple: tristan_smith_switches_ck_pushbutton_12mm
   owner: tristan-smith
   repo:

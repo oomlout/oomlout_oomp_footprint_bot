@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/peekpt_w_conn_kk156_kk156_26_64_4120/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/peekpt_w_conn_kk156_kk156_26_64_4120/working
-    oomp_doc: footprints/footprints/peekpt/w_conn_kk156/kk156_26-64-4120/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/peekpt/w_conn_kk156/kk156_26-64-4120/working
     oomp_src_flat: footprints_flat/footprints_flat/peekpt_w_conn_kk156_kk156_26_64_4120/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/peekpt_w_conn_kk156_kk156_26_64_4120/working
-    oomp_src_folder: footprints_folder/footprints_folder/peekpt/w_conn_kk156/kk156_26-64-4120/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/peekpt/w_conn_kk156/kk156_26-64-4120/working
   name: kicad_smisioto
+  oomp:
+    footprint_name: kk156_26_64_4120
+    library_name: w_conn_kk156
+    md5: f1fa32c05c4a5231f2024d0945a1166a
+    md5_10: f1fa32c05c
+    md5_5: f1fa3
+    md5_6: f1fa32
+    oomp_key: oomp_peekpt_w_conn_kk156_kk156_26_64_4120
+    oomp_key_extra: oomp_footprint_peekpt_w_conn_kk156_kk156_26_64_4120
+    oomp_key_full: oomp_footprint_peekpt_w_conn_kk156_kk156_26_64_4120_f1fa32
+    oomp_key_simple: peekpt_w_conn_kk156_kk156_26_64_4120
+    original_filename: kicad_smisioto/modules/walter/w_conn_kk156.pretty/kk156_26-64-4120.kicad_mod
+    owner_name: peekpt
   oomp_key: oomp_peekpt_w_conn_kk156_kk156_26_64_4120
+  oomp_key_full: oomp_footprint_peekpt_w_conn_kk156_kk156_26_64_4120
   oomp_key_simple: peekpt_w_conn_kk156_kk156_26_64_4120
   owner: peekpt
   repo:

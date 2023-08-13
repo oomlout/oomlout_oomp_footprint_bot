@@ -14,14 +14,24 @@
     github_src_repo: https://github.com/AcheronProject/acheron_Components.pretty
     oomp_bot: footprints/acheronproject_acheron_components_crystal_smd_5032_4pin_handsolder/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/acheronproject_acheron_components_crystal_smd_5032_4pin_handsolder/working
-    oomp_doc: footprints/footprints/AcheronProject/acheron_Components/Crystal_SMD_5032-4Pin-HandSolder/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/AcheronProject/acheron_Components/Crystal_SMD_5032-4Pin-HandSolder/working
     oomp_src_flat: footprints_flat/footprints_flat/acheronproject_acheron_components_crystal_smd_5032_4pin_handsolder/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/acheronproject_acheron_components_crystal_smd_5032_4pin_handsolder/working
-    oomp_src_folder: footprints_folder/footprints_folder/AcheronProject/acheron_Components/Crystal_SMD_5032-4Pin-HandSolder/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/AcheronProject/acheron_Components/Crystal_SMD_5032-4Pin-HandSolder/working
   name: acheron_Components.pretty
+  oomp:
+    footprint_name: crystal_smd_5032_4pin_handsolder
+    library_name: acheron_components
+    md5: 999546c2bf2bb831d63412e7b749072d
+    md5_10: 999546c2bf
+    md5_5: '99954'
+    md5_6: '999546'
+    oomp_key: oomp_acheronproject_acheron_components_crystal_smd_5032_4pin_handsolder
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_components_crystal_smd_5032_4pin_handsolder
+    oomp_key_full: oomp_footprint_acheronproject_acheron_components_crystal_smd_5032_4pin_handsolder_999546
+    oomp_key_simple: acheronproject_acheron_components_crystal_smd_5032_4pin_handsolder
+    original_filename: acheron_Components.pretty/Crystal_SMD_5032-4Pin-HandSolder.kicad_mod
+    owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_components_crystal_smd_5032_4pin_handsolder
+  oomp_key_full: oomp_footprint_acheronproject_acheron_components_crystal_smd_5032_4pin_handsolder
   oomp_key_simple: acheronproject_acheron_components_crystal_smd_5032_4pin_handsolder
   owner: AcheronProject
   repo:

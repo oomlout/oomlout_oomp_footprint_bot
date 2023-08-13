@@ -12,17 +12,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_connector_jst_jst_vh_b9ps_vh_1x09_p3_96mm_horizontal/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_connector_jst_jst_vh_b9ps_vh_1x09_p3_96mm_horizontal/working
-    oomp_doc: footprints/footprints/kicad/Connector_JST/JST_VH_B9PS-VH_1x09_P3.96mm_Horizontal/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Connector_JST/JST_VH_B9PS-VH_1x09_P3.96mm_Horizontal/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_connector_jst_jst_vh_b9ps_vh_1x09_p3_96mm_horizontal/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_connector_jst_jst_vh_b9ps_vh_1x09_p3_96mm_horizontal/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Connector_JST/JST_VH_B9PS-VH_1x09_P3.96mm_Horizontal/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Connector_JST/JST_VH_B9PS-VH_1x09_P3.96mm_Horizontal/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: jst_vh_b9ps_vh_1x09_p3_96mm_horizontal
+    library_name: connector_jst
+    md5: 8b2472467402ce69e72371ff98c150d4
+    md5_10: 8b24724674
+    md5_5: 8b247
+    md5_6: 8b2472
+    oomp_key: oomp_kicad_connector_jst_jst_vh_b9ps_vh_1x09_p3_96mm_horizontal
+    oomp_key_extra: oomp_footprint_kicad_connector_jst_jst_vh_b9ps_vh_1x09_p3_96mm_horizontal
+    oomp_key_full: oomp_footprint_kicad_connector_jst_jst_vh_b9ps_vh_1x09_p3_96mm_horizontal_8b2472
+    oomp_key_simple: kicad_connector_jst_jst_vh_b9ps_vh_1x09_p3_96mm_horizontal
+    original_filename: libraries/kicad-footprints/Connector_JST.pretty/JST_VH_B9PS-VH_1x09_P3.96mm_Horizontal.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_connector_jst_jst_vh_b9ps_vh_1x09_p3_96mm_horizontal
+  oomp_key_full: oomp_footprint_kicad_connector_jst_jst_vh_b9ps_vh_1x09_p3_96mm_horizontal
   oomp_key_simple: kicad_connector_jst_jst_vh_b9ps_vh_1x09_p3_96mm_horizontal
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

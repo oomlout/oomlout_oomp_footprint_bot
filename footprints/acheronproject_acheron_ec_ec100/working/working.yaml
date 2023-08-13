@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/AcheronProject/acheron_EC.pretty
     oomp_bot: footprints/acheronproject_acheron_ec_ec100/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/acheronproject_acheron_ec_ec100/working
-    oomp_doc: footprints/footprints/AcheronProject/acheron_EC/EC100/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/AcheronProject/acheron_EC/EC100/working
     oomp_src_flat: footprints_flat/footprints_flat/acheronproject_acheron_ec_ec100/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/acheronproject_acheron_ec_ec100/working
-    oomp_src_folder: footprints_folder/footprints_folder/AcheronProject/acheron_EC/EC100/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/AcheronProject/acheron_EC/EC100/working
   name: acheron_EC.pretty
+  oomp:
+    footprint_name: ec100
+    library_name: acheron_ec
+    md5: a89906c93892333805e9ebb1a32b747a
+    md5_10: a89906c938
+    md5_5: a8990
+    md5_6: a89906
+    oomp_key: oomp_acheronproject_acheron_ec_ec100
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_ec_ec100
+    oomp_key_full: oomp_footprint_acheronproject_acheron_ec_ec100_a89906
+    oomp_key_simple: acheronproject_acheron_ec_ec100
+    original_filename: acheron_EC.pretty/EC100.kicad_mod
+    owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_ec_ec100
+  oomp_key_full: oomp_footprint_acheronproject_acheron_ec_ec100
   oomp_key_simple: acheronproject_acheron_ec_ec100
   owner: AcheronProject
   repo:

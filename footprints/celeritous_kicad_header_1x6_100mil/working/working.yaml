@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/celeritous_kicad_header_1x6_100mil/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/celeritous_kicad_header_1x6_100mil/working
-    oomp_doc: footprints/footprints/celeritous/KiCad/HEADER_1X6_100MIL/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/celeritous/KiCad/HEADER_1X6_100MIL/working
     oomp_src_flat: footprints_flat/footprints_flat/celeritous_kicad_header_1x6_100mil/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/celeritous_kicad_header_1x6_100mil/working
-    oomp_src_folder: footprints_folder/footprints_folder/celeritous/KiCad/HEADER_1X6_100MIL/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/celeritous/KiCad/HEADER_1X6_100MIL/working
   name: KiCad.pretty
+  oomp:
+    footprint_name: header_1x6_100mil
+    library_name: kicad
+    md5: ef4d9ded8e1eb1de6be852488e97df99
+    md5_10: ef4d9ded8e
+    md5_5: ef4d9
+    md5_6: ef4d9d
+    oomp_key: oomp_celeritous_kicad_header_1x6_100mil
+    oomp_key_extra: oomp_footprint_celeritous_kicad_header_1x6_100mil
+    oomp_key_full: oomp_footprint_celeritous_kicad_header_1x6_100mil_ef4d9d
+    oomp_key_simple: celeritous_kicad_header_1x6_100mil
+    original_filename: KiCad.pretty/HEADER_1X6_100MIL.kicad_mod
+    owner_name: celeritous
   oomp_key: oomp_celeritous_kicad_header_1x6_100mil
+  oomp_key_full: oomp_footprint_celeritous_kicad_header_1x6_100mil
   oomp_key_simple: celeritous_kicad_header_1x6_100mil
   owner: celeritous
   repo:

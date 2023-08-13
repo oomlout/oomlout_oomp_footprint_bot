@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/audrentis_mx_plate_footprints_split_right_shift/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/audrentis_mx_plate_footprints_split_right_shift/working
-    oomp_doc: footprints/footprints/audrentis/MX_Plate_Footprints/Split_Right_Shift/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/audrentis/MX_Plate_Footprints/Split_Right_Shift/working
     oomp_src_flat: footprints_flat/footprints_flat/audrentis_mx_plate_footprints_split_right_shift/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/audrentis_mx_plate_footprints_split_right_shift/working
-    oomp_src_folder: footprints_folder/footprints_folder/audrentis/MX_Plate_Footprints/Split_Right_Shift/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/audrentis/MX_Plate_Footprints/Split_Right_Shift/working
   name: MX_Plate_Footprints.pretty
+  oomp:
+    footprint_name: split_right_shift
+    library_name: mx_plate_footprints
+    md5: 152ffe6b3a1748b502d276dd842622b5
+    md5_10: 152ffe6b3a
+    md5_5: 152ff
+    md5_6: 152ffe
+    oomp_key: oomp_audrentis_mx_plate_footprints_split_right_shift
+    oomp_key_extra: oomp_footprint_audrentis_mx_plate_footprints_split_right_shift
+    oomp_key_full: oomp_footprint_audrentis_mx_plate_footprints_split_right_shift_152ffe
+    oomp_key_simple: audrentis_mx_plate_footprints_split_right_shift
+    original_filename: MX_Plate_Footprints.pretty/Split_Right_Shift.kicad_mod
+    owner_name: audrentis
   oomp_key: oomp_audrentis_mx_plate_footprints_split_right_shift
+  oomp_key_full: oomp_footprint_audrentis_mx_plate_footprints_split_right_shift
   oomp_key_simple: audrentis_mx_plate_footprints_split_right_shift
   owner: audrentis
   repo:

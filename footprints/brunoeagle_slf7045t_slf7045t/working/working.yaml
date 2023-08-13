@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_slf7045t_slf7045t/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_slf7045t_slf7045t/working
-    oomp_doc: footprints/footprints/brunoeagle/SLF7045T.kicad_mod/SLF7045T/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/SLF7045T.kicad_mod/SLF7045T/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_slf7045t_slf7045t/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_slf7045t_slf7045t/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/SLF7045T.kicad_mod/SLF7045T/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/SLF7045T.kicad_mod/SLF7045T/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: slf7045t
+    library_name: slf7045t_kicad_mod
+    md5: 52a1fc8beffc2e77fe537510e6d538d0
+    md5_10: 52a1fc8bef
+    md5_5: 52a1f
+    md5_6: 52a1fc
+    oomp_key: oomp_brunoeagle_slf7045t_slf7045t
+    oomp_key_extra: oomp_footprint_brunoeagle_slf7045t_slf7045t
+    oomp_key_full: oomp_footprint_brunoeagle_slf7045t_slf7045t_52a1fc
+    oomp_key_simple: brunoeagle_slf7045t_slf7045t
+    original_filename: kicad-open-modules/SLF7045T.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_slf7045t_slf7045t
+  oomp_key_full: oomp_footprint_brunoeagle_slf7045t_slf7045t
   oomp_key_simple: brunoeagle_slf7045t_slf7045t
   owner: brunoeagle
   repo:

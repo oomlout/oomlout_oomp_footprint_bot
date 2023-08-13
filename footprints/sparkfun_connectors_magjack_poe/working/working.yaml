@@ -1,24 +1,34 @@
-- file: SparkFun-KiCad-Libraries/Footprints/Connectors.pretty/MAGJACK-POE.kicad_mod
+- file: SparkFun-KiCad-Libraries/Pre_v7/Footprints/Connectors.pretty/MAGJACK-POE.kicad_mod
   footprint:
     description: RJ45 POE MAGJACK
     libraryLink: MAGJACK-POE
     number_of_pads: 18
   footprint_library_directory: footprint_library_owner/sparkfun_SparkFun-KiCad-Libraries
   footprint_library_directory_flat: footprints_flat/sparkfun_connectors_magjack_poe/working
-  github_path: http://github.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Footprints/Connectors.pretty/MAGJACK-POE.kicad_mod
+  github_path: http://github.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Pre_v7/Footprints/Connectors.pretty/MAGJACK-POE.kicad_mod
   links:
-    github_src: http://gitlab.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Tools/SparkFun-Eagle-Libraries_Conversion/Export.pretty/DFN-6-3X3.kicad_mod
+    github_src: http://gitlab.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Pre_v7/Tools/SparkFun-Eagle-Libraries_Conversion/Export.pretty/DFN-6-3X3.kicad_mod
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/sparkfun_connectors_magjack_poe/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/sparkfun_connectors_magjack_poe/working
-    oomp_doc: footprints/footprints/sparkfun/Connectors/MAGJACK-POE/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/sparkfun/Connectors/MAGJACK-POE/working
     oomp_src_flat: footprints_flat/footprints_flat/sparkfun_connectors_magjack_poe/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/sparkfun_connectors_magjack_poe/working
-    oomp_src_folder: footprints_folder/footprints_folder/sparkfun/Connectors/MAGJACK-POE/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/sparkfun/Connectors/MAGJACK-POE/working
   name: SparkFun-KiCad-Libraries
+  oomp:
+    footprint_name: magjack_poe
+    library_name: connectors
+    md5: 3e24574661f5293cff77d8966ffb281a
+    md5_10: 3e24574661
+    md5_5: 3e245
+    md5_6: 3e2457
+    oomp_key: oomp_sparkfun_connectors_magjack_poe
+    oomp_key_extra: oomp_footprint_sparkfun_connectors_magjack_poe
+    oomp_key_full: oomp_footprint_sparkfun_connectors_magjack_poe_3e2457
+    oomp_key_simple: sparkfun_connectors_magjack_poe
+    original_filename: SparkFun-KiCad-Libraries/Pre_v7/Footprints/Connectors.pretty/MAGJACK-POE.kicad_mod
+    owner_name: sparkfun
   oomp_key: oomp_sparkfun_connectors_magjack_poe
+  oomp_key_full: oomp_footprint_sparkfun_connectors_magjack_poe
   oomp_key_simple: sparkfun_connectors_magjack_poe
   owner: sparkfun
   repo:

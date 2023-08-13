@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/digikey_lga_24_3x3_5mm_lsm9ds1_lga_24_3x3_5mm_lsm9ds1/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_lga_24_3x3_5mm_lsm9ds1_lga_24_3x3_5mm_lsm9ds1/working
-    oomp_doc: footprints/footprints/digikey/LGA-24_3x3.5mm_LSM9DS1.kicad_mod/LGA-24_3x3.5mm_LSM9DS1/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/digikey/LGA-24_3x3.5mm_LSM9DS1.kicad_mod/LGA-24_3x3.5mm_LSM9DS1/working
     oomp_src_flat: footprints_flat/footprints_flat/digikey_lga_24_3x3_5mm_lsm9ds1_lga_24_3x3_5mm_lsm9ds1/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/digikey_lga_24_3x3_5mm_lsm9ds1_lga_24_3x3_5mm_lsm9ds1/working
-    oomp_src_folder: footprints_folder/footprints_folder/digikey/LGA-24_3x3.5mm_LSM9DS1.kicad_mod/LGA-24_3x3.5mm_LSM9DS1/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/digikey/LGA-24_3x3.5mm_LSM9DS1.kicad_mod/LGA-24_3x3.5mm_LSM9DS1/working
   name: digikey-kicad-library
+  oomp:
+    footprint_name: lga_24_3x3_5mm_lsm9ds1
+    library_name: lga_24_3x3_5mm_lsm9ds1_kicad_mod
+    md5: ca57aac3c625745388ae9a5fc93f8c17
+    md5_10: ca57aac3c6
+    md5_5: ca57a
+    md5_6: ca57aa
+    oomp_key: oomp_digikey_lga_24_3x3_5mm_lsm9ds1_lga_24_3x3_5mm_lsm9ds1
+    oomp_key_extra: oomp_footprint_digikey_lga_24_3x3_5mm_lsm9ds1_lga_24_3x3_5mm_lsm9ds1
+    oomp_key_full: oomp_footprint_digikey_lga_24_3x3_5mm_lsm9ds1_lga_24_3x3_5mm_lsm9ds1_ca57aa
+    oomp_key_simple: digikey_lga_24_3x3_5mm_lsm9ds1_lga_24_3x3_5mm_lsm9ds1
+    original_filename: digikey-kicad-library/src/Source_Footprints/LGA-24_3x3.5mm_LSM9DS1.kicad_mod
+    owner_name: digikey
   oomp_key: oomp_digikey_lga_24_3x3_5mm_lsm9ds1_lga_24_3x3_5mm_lsm9ds1
+  oomp_key_full: oomp_footprint_digikey_lga_24_3x3_5mm_lsm9ds1_lga_24_3x3_5mm_lsm9ds1
   oomp_key_simple: digikey_lga_24_3x3_5mm_lsm9ds1_lga_24_3x3_5mm_lsm9ds1
   owner: digikey
   repo:

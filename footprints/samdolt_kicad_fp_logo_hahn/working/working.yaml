@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/samdolt_kicad_fp_logo_hahn/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/samdolt_kicad_fp_logo_hahn/working
-    oomp_doc: footprints/footprints/samdolt/kicad-fp/Logo_Hahn/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/samdolt/kicad-fp/Logo_Hahn/working
     oomp_src_flat: footprints_flat/footprints_flat/samdolt_kicad_fp_logo_hahn/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/samdolt_kicad_fp_logo_hahn/working
-    oomp_src_folder: footprints_folder/footprints_folder/samdolt/kicad-fp/Logo_Hahn/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/samdolt/kicad-fp/Logo_Hahn/working
   name: kicad-fp.pretty
+  oomp:
+    footprint_name: logo_hahn
+    library_name: kicad_fp
+    md5: e49bfe7a901d594dff4c3dacfe8f805a
+    md5_10: e49bfe7a90
+    md5_5: e49bf
+    md5_6: e49bfe
+    oomp_key: oomp_samdolt_kicad_fp_logo_hahn
+    oomp_key_extra: oomp_footprint_samdolt_kicad_fp_logo_hahn
+    oomp_key_full: oomp_footprint_samdolt_kicad_fp_logo_hahn_e49bfe
+    oomp_key_simple: samdolt_kicad_fp_logo_hahn
+    original_filename: kicad-fp.pretty/Logo_Hahn.kicad_mod
+    owner_name: samdolt
   oomp_key: oomp_samdolt_kicad_fp_logo_hahn
+  oomp_key_full: oomp_footprint_samdolt_kicad_fp_logo_hahn
   oomp_key_simple: samdolt_kicad_fp_logo_hahn
   owner: samdolt
   repo:

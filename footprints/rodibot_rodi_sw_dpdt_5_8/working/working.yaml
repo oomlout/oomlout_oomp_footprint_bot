@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/rodibot_rodi_sw_dpdt_5_8/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/rodibot_rodi_sw_dpdt_5_8/working
-    oomp_doc: footprints/footprints/rodibot/RoDI/SW_DPDT_5.8/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/rodibot/RoDI/SW_DPDT_5.8/working
     oomp_src_flat: footprints_flat/footprints_flat/rodibot_rodi_sw_dpdt_5_8/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/rodibot_rodi_sw_dpdt_5_8/working
-    oomp_src_folder: footprints_folder/footprints_folder/rodibot/RoDI/SW_DPDT_5.8/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/rodibot/RoDI/SW_DPDT_5.8/working
   name: RoDI.pretty
+  oomp:
+    footprint_name: sw_dpdt_5_8
+    library_name: rodi
+    md5: 21ad4ac0414c37d6aa162e1b3f8cea17
+    md5_10: 21ad4ac041
+    md5_5: 21ad4
+    md5_6: 21ad4a
+    oomp_key: oomp_rodibot_rodi_sw_dpdt_5_8
+    oomp_key_extra: oomp_footprint_rodibot_rodi_sw_dpdt_5_8
+    oomp_key_full: oomp_footprint_rodibot_rodi_sw_dpdt_5_8_21ad4a
+    oomp_key_simple: rodibot_rodi_sw_dpdt_5_8
+    original_filename: RoDI.pretty/SW_DPDT_5.8.kicad_mod
+    owner_name: rodibot
   oomp_key: oomp_rodibot_rodi_sw_dpdt_5_8
+  oomp_key_full: oomp_footprint_rodibot_rodi_sw_dpdt_5_8
   oomp_key_simple: rodibot_rodi_sw_dpdt_5_8
   owner: rodibot
   repo:

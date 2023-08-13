@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/esden_pkl_housings_bga_bga_24_5x5_6_0x8_0mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/esden_pkl_housings_bga_bga_24_5x5_6_0x8_0mm/working
-    oomp_doc: footprints/footprints/esden/pkl_housings_bga/BGA-24_5x5_6.0x8.0mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/esden/pkl_housings_bga/BGA-24_5x5_6.0x8.0mm/working
     oomp_src_flat: footprints_flat/footprints_flat/esden_pkl_housings_bga_bga_24_5x5_6_0x8_0mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/esden_pkl_housings_bga_bga_24_5x5_6_0x8_0mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/esden/pkl_housings_bga/BGA-24_5x5_6.0x8.0mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/esden/pkl_housings_bga/BGA-24_5x5_6.0x8.0mm/working
   name: pretty-kicad-libs
+  oomp:
+    footprint_name: bga_24_5x5_6_0x8_0mm
+    library_name: pkl_housings_bga
+    md5: 1eec51faff982fc040111944cf80d9fc
+    md5_10: 1eec51faff
+    md5_5: 1eec5
+    md5_6: 1eec51
+    oomp_key: oomp_esden_pkl_housings_bga_bga_24_5x5_6_0x8_0mm
+    oomp_key_extra: oomp_footprint_esden_pkl_housings_bga_bga_24_5x5_6_0x8_0mm
+    oomp_key_full: oomp_footprint_esden_pkl_housings_bga_bga_24_5x5_6_0x8_0mm_1eec51
+    oomp_key_simple: esden_pkl_housings_bga_bga_24_5x5_6_0x8_0mm
+    original_filename: pretty-kicad-libs/pkl_housings_bga.pretty/BGA-24_5x5_6.0x8.0mm.kicad_mod
+    owner_name: esden
   oomp_key: oomp_esden_pkl_housings_bga_bga_24_5x5_6_0x8_0mm
+  oomp_key_full: oomp_footprint_esden_pkl_housings_bga_bga_24_5x5_6_0x8_0mm
   oomp_key_simple: esden_pkl_housings_bga_bga_24_5x5_6_0x8_0mm
   owner: esden
   repo:

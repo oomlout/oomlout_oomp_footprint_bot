@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/coddingtonbear_coddingtonbear_diode_vertical/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/coddingtonbear_coddingtonbear_diode_vertical/working
-    oomp_doc: footprints/footprints/coddingtonbear/coddingtonbear/DIODE-VERTICAL/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/coddingtonbear/coddingtonbear/DIODE-VERTICAL/working
     oomp_src_flat: footprints_flat/footprints_flat/coddingtonbear_coddingtonbear_diode_vertical/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/coddingtonbear_coddingtonbear_diode_vertical/working
-    oomp_src_folder: footprints_folder/footprints_folder/coddingtonbear/coddingtonbear/DIODE-VERTICAL/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/coddingtonbear/coddingtonbear/DIODE-VERTICAL/working
   name: coddingtonbear-kicad-lib
+  oomp:
+    footprint_name: diode_vertical
+    library_name: coddingtonbear
+    md5: 2a3731c72395a16c20e7af46a0421c3e
+    md5_10: 2a3731c723
+    md5_5: 2a373
+    md5_6: 2a3731
+    oomp_key: oomp_coddingtonbear_coddingtonbear_diode_vertical
+    oomp_key_extra: oomp_footprint_coddingtonbear_coddingtonbear_diode_vertical
+    oomp_key_full: oomp_footprint_coddingtonbear_coddingtonbear_diode_vertical_2a3731
+    oomp_key_simple: coddingtonbear_coddingtonbear_diode_vertical
+    original_filename: coddingtonbear-kicad-lib/coddingtonbear.pretty/DIODE-VERTICAL.kicad_mod
+    owner_name: coddingtonbear
   oomp_key: oomp_coddingtonbear_coddingtonbear_diode_vertical
+  oomp_key_full: oomp_footprint_coddingtonbear_coddingtonbear_diode_vertical
   oomp_key_simple: coddingtonbear_coddingtonbear_diode_vertical
   owner: coddingtonbear
   repo:

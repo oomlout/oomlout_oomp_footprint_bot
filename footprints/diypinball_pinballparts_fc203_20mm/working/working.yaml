@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/diypinball_pinballparts_fc203_20mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/diypinball_pinballparts_fc203_20mm/working
-    oomp_doc: footprints/footprints/diypinball/PinballParts/FC203-20MM/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/diypinball/PinballParts/FC203-20MM/working
     oomp_src_flat: footprints_flat/footprints_flat/diypinball_pinballparts_fc203_20mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/diypinball_pinballparts_fc203_20mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/diypinball/PinballParts/FC203-20MM/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/diypinball/PinballParts/FC203-20MM/working
   name: PinballParts.pretty
+  oomp:
+    footprint_name: fc203_20mm
+    library_name: pinballparts
+    md5: 79a6bcb305ba7f4547aea20f6b1f5a33
+    md5_10: 79a6bcb305
+    md5_5: 79a6b
+    md5_6: 79a6bc
+    oomp_key: oomp_diypinball_pinballparts_fc203_20mm
+    oomp_key_extra: oomp_footprint_diypinball_pinballparts_fc203_20mm
+    oomp_key_full: oomp_footprint_diypinball_pinballparts_fc203_20mm_79a6bc
+    oomp_key_simple: diypinball_pinballparts_fc203_20mm
+    original_filename: PinballParts.pretty/FC203-20MM.kicad_mod
+    owner_name: diypinball
   oomp_key: oomp_diypinball_pinballparts_fc203_20mm
+  oomp_key_full: oomp_footprint_diypinball_pinballparts_fc203_20mm
   oomp_key_simple: diypinball_pinballparts_fc203_20mm
   owner: diypinball
   repo:

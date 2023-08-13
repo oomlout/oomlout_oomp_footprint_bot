@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/peekpt_w_conn_pc_rj45_wurth_7499211122a/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/peekpt_w_conn_pc_rj45_wurth_7499211122a/working
-    oomp_doc: footprints/footprints/peekpt/w_conn_pc/rj45_wurth-7499211122a/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/peekpt/w_conn_pc/rj45_wurth-7499211122a/working
     oomp_src_flat: footprints_flat/footprints_flat/peekpt_w_conn_pc_rj45_wurth_7499211122a/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/peekpt_w_conn_pc_rj45_wurth_7499211122a/working
-    oomp_src_folder: footprints_folder/footprints_folder/peekpt/w_conn_pc/rj45_wurth-7499211122a/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/peekpt/w_conn_pc/rj45_wurth-7499211122a/working
   name: kicad_smisioto
+  oomp:
+    footprint_name: rj45_wurth_7499211122a
+    library_name: w_conn_pc
+    md5: 404821549129dce97e2d2a446f725753
+    md5_10: '4048215491'
+    md5_5: '40482'
+    md5_6: '404821'
+    oomp_key: oomp_peekpt_w_conn_pc_rj45_wurth_7499211122a
+    oomp_key_extra: oomp_footprint_peekpt_w_conn_pc_rj45_wurth_7499211122a
+    oomp_key_full: oomp_footprint_peekpt_w_conn_pc_rj45_wurth_7499211122a_404821
+    oomp_key_simple: peekpt_w_conn_pc_rj45_wurth_7499211122a
+    original_filename: kicad_smisioto/modules/walter/w_conn_pc.pretty/rj45_wurth-7499211122a.kicad_mod
+    owner_name: peekpt
   oomp_key: oomp_peekpt_w_conn_pc_rj45_wurth_7499211122a
+  oomp_key_full: oomp_footprint_peekpt_w_conn_pc_rj45_wurth_7499211122a
   oomp_key_simple: peekpt_w_conn_pc_rj45_wurth_7499211122a
   owner: peekpt
   repo:

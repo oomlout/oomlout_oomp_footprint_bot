@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/hiroieee_kicad_lib_acp131sax/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/hiroieee_kicad_lib_acp131sax/working
-    oomp_doc: footprints/footprints/hiroieee/kicad-lib/ACP131SAX/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/hiroieee/kicad-lib/ACP131SAX/working
     oomp_src_flat: footprints_flat/footprints_flat/hiroieee_kicad_lib_acp131sax/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/hiroieee_kicad_lib_acp131sax/working
-    oomp_src_folder: footprints_folder/footprints_folder/hiroieee/kicad-lib/ACP131SAX/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/hiroieee/kicad-lib/ACP131SAX/working
   name: kicad-lib.pretty
+  oomp:
+    footprint_name: acp131sax
+    library_name: kicad_lib
+    md5: 8ac96f1de244559045bcbe84ec119e2c
+    md5_10: 8ac96f1de2
+    md5_5: 8ac96
+    md5_6: 8ac96f
+    oomp_key: oomp_hiroieee_kicad_lib_acp131sax
+    oomp_key_extra: oomp_footprint_hiroieee_kicad_lib_acp131sax
+    oomp_key_full: oomp_footprint_hiroieee_kicad_lib_acp131sax_8ac96f
+    oomp_key_simple: hiroieee_kicad_lib_acp131sax
+    original_filename: kicad-lib.pretty/ACP131SAX.kicad_mod
+    owner_name: hiroieee
   oomp_key: oomp_hiroieee_kicad_lib_acp131sax
+  oomp_key_full: oomp_footprint_hiroieee_kicad_lib_acp131sax
   oomp_key_simple: hiroieee_kicad_lib_acp131sax
   owner: hiroieee
   repo:

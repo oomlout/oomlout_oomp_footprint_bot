@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/nqbit_nqbit_pinheader_2x04_p2_54mm_horizontal/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nqbit_nqbit_pinheader_2x04_p2_54mm_horizontal/working
-    oomp_doc: footprints/footprints/nqbit/NQBit/PinHeader_2x04_P2.54mm_Horizontal/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/nqbit/NQBit/PinHeader_2x04_P2.54mm_Horizontal/working
     oomp_src_flat: footprints_flat/footprints_flat/nqbit_nqbit_pinheader_2x04_p2_54mm_horizontal/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nqbit_nqbit_pinheader_2x04_p2_54mm_horizontal/working
-    oomp_src_folder: footprints_folder/footprints_folder/nqbit/NQBit/PinHeader_2x04_P2.54mm_Horizontal/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/nqbit/NQBit/PinHeader_2x04_P2.54mm_Horizontal/working
   name: NQBit.pretty
+  oomp:
+    footprint_name: pinheader_2x04_p2_54mm_horizontal
+    library_name: nqbit
+    md5: 68cb65c06a640c63d7637ee9542bd2c0
+    md5_10: 68cb65c06a
+    md5_5: 68cb6
+    md5_6: 68cb65
+    oomp_key: oomp_nqbit_nqbit_pinheader_2x04_p2_54mm_horizontal
+    oomp_key_extra: oomp_footprint_nqbit_nqbit_pinheader_2x04_p2_54mm_horizontal
+    oomp_key_full: oomp_footprint_nqbit_nqbit_pinheader_2x04_p2_54mm_horizontal_68cb65
+    oomp_key_simple: nqbit_nqbit_pinheader_2x04_p2_54mm_horizontal
+    original_filename: NQBit.pretty/PinHeader_2x04_P2.54mm_Horizontal.kicad_mod
+    owner_name: nqbit
   oomp_key: oomp_nqbit_nqbit_pinheader_2x04_p2_54mm_horizontal
+  oomp_key_full: oomp_footprint_nqbit_nqbit_pinheader_2x04_p2_54mm_horizontal
   oomp_key_simple: nqbit_nqbit_pinheader_2x04_p2_54mm_horizontal
   owner: nqbit
   repo:

@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/adamgreig/agg-kicad
     oomp_bot: footprints/adamgreig_agg_vaa024/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/adamgreig_agg_vaa024/working
-    oomp_doc: footprints/footprints/adamgreig/agg/VAA024/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/adamgreig/agg/VAA024/working
     oomp_src_flat: footprints_flat/footprints_flat/adamgreig_agg_vaa024/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/adamgreig_agg_vaa024/working
-    oomp_src_folder: footprints_folder/footprints_folder/adamgreig/agg/VAA024/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/adamgreig/agg/VAA024/working
   name: agg-kicad
+  oomp:
+    footprint_name: vaa024
+    library_name: agg
+    md5: ee3f739bc18cd80a236cebd3e56a8254
+    md5_10: ee3f739bc1
+    md5_5: ee3f7
+    md5_6: ee3f73
+    oomp_key: oomp_adamgreig_agg_vaa024
+    oomp_key_extra: oomp_footprint_adamgreig_agg_vaa024
+    oomp_key_full: oomp_footprint_adamgreig_agg_vaa024_ee3f73
+    oomp_key_simple: adamgreig_agg_vaa024
+    original_filename: agg-kicad/agg.pretty/VAA024.kicad_mod
+    owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_vaa024
+  oomp_key_full: oomp_footprint_adamgreig_agg_vaa024
   oomp_key_simple: adamgreig_agg_vaa024
   owner: adamgreig
   repo:

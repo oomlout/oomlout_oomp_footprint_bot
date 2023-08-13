@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/peekpt_w_capacitors_cnpa_32x58mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/peekpt_w_capacitors_cnpa_32x58mm/working
-    oomp_doc: footprints/footprints/peekpt/w_capacitors/cnpa_32x58mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/peekpt/w_capacitors/cnpa_32x58mm/working
     oomp_src_flat: footprints_flat/footprints_flat/peekpt_w_capacitors_cnpa_32x58mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/peekpt_w_capacitors_cnpa_32x58mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/peekpt/w_capacitors/cnpa_32x58mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/peekpt/w_capacitors/cnpa_32x58mm/working
   name: kicad_smisioto
+  oomp:
+    footprint_name: cnpa_32x58mm
+    library_name: w_capacitors
+    md5: b7633c72e94dfe83fbc6b15b6d2521ef
+    md5_10: b7633c72e9
+    md5_5: b7633
+    md5_6: b7633c
+    oomp_key: oomp_peekpt_w_capacitors_cnpa_32x58mm
+    oomp_key_extra: oomp_footprint_peekpt_w_capacitors_cnpa_32x58mm
+    oomp_key_full: oomp_footprint_peekpt_w_capacitors_cnpa_32x58mm_b7633c
+    oomp_key_simple: peekpt_w_capacitors_cnpa_32x58mm
+    original_filename: kicad_smisioto/modules/walter/w_capacitors.pretty/cnpa_32x58mm.kicad_mod
+    owner_name: peekpt
   oomp_key: oomp_peekpt_w_capacitors_cnpa_32x58mm
+  oomp_key_full: oomp_footprint_peekpt_w_capacitors_cnpa_32x58mm
   oomp_key_simple: peekpt_w_capacitors_cnpa_32x58mm
   owner: peekpt
   repo:

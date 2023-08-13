@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/Iangitpers/4a
     oomp_bot: footprints/iangitpers_manuf_vishay_wsl3637_small/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/iangitpers_manuf_vishay_wsl3637_small/working
-    oomp_doc: footprints/footprints/Iangitpers/manuf/VISHAY-WSL3637-SMALL/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Iangitpers/manuf/VISHAY-WSL3637-SMALL/working
     oomp_src_flat: footprints_flat/footprints_flat/iangitpers_manuf_vishay_wsl3637_small/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/iangitpers_manuf_vishay_wsl3637_small/working
-    oomp_src_folder: footprints_folder/footprints_folder/Iangitpers/manuf/VISHAY-WSL3637-SMALL/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Iangitpers/manuf/VISHAY-WSL3637-SMALL/working
   name: 4a
+  oomp:
+    footprint_name: vishay_wsl3637_small
+    library_name: manuf
+    md5: 4a0079b2a68763bd12a2bb75774b007e
+    md5_10: 4a0079b2a6
+    md5_5: 4a007
+    md5_6: 4a0079
+    oomp_key: oomp_iangitpers_manuf_vishay_wsl3637_small
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_vishay_wsl3637_small
+    oomp_key_full: oomp_footprint_iangitpers_manuf_vishay_wsl3637_small_4a0079
+    oomp_key_simple: iangitpers_manuf_vishay_wsl3637_small
+    original_filename: 4a/manuf.pretty/VISHAY-WSL3637-SMALL.kicad_mod
+    owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_vishay_wsl3637_small
+  oomp_key_full: oomp_footprint_iangitpers_manuf_vishay_wsl3637_small
   oomp_key_simple: iangitpers_manuf_vishay_wsl3637_small
   owner: Iangitpers
   repo:

@@ -13,17 +13,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_resistor_smd_r_0201_0603metric/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_resistor_smd_r_0201_0603metric/working
-    oomp_doc: footprints/footprints/kicad/Resistor_SMD/R_0201_0603Metric/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Resistor_SMD/R_0201_0603Metric/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_resistor_smd_r_0201_0603metric/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_resistor_smd_r_0201_0603metric/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Resistor_SMD/R_0201_0603Metric/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Resistor_SMD/R_0201_0603Metric/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: r_0201_0603metric
+    library_name: resistor_smd
+    md5: bc17ff4099f41f5f5c2f95ace0fb757f
+    md5_10: bc17ff4099
+    md5_5: bc17f
+    md5_6: bc17ff
+    oomp_key: oomp_kicad_resistor_smd_r_0201_0603metric
+    oomp_key_extra: oomp_footprint_kicad_resistor_smd_r_0201_0603metric
+    oomp_key_full: oomp_footprint_kicad_resistor_smd_r_0201_0603metric_bc17ff
+    oomp_key_simple: kicad_resistor_smd_r_0201_0603metric
+    original_filename: libraries/kicad-footprints/Resistor_SMD.pretty/R_0201_0603Metric.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_resistor_smd_r_0201_0603metric
+  oomp_key_full: oomp_footprint_kicad_resistor_smd_r_0201_0603metric
   oomp_key_simple: kicad_resistor_smd_r_0201_0603metric
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

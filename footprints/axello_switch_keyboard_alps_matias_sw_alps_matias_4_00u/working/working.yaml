@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/axello_switch_keyboard_alps_matias_sw_alps_matias_4_00u/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/axello_switch_keyboard_alps_matias_sw_alps_matias_4_00u/working
-    oomp_doc: footprints/footprints/axello/Switch_Keyboard_Alps_Matias/SW_Alps_Matias_4.00u/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/axello/Switch_Keyboard_Alps_Matias/SW_Alps_Matias_4.00u/working
     oomp_src_flat: footprints_flat/footprints_flat/axello_switch_keyboard_alps_matias_sw_alps_matias_4_00u/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/axello_switch_keyboard_alps_matias_sw_alps_matias_4_00u/working
-    oomp_src_folder: footprints_folder/footprints_folder/axello/Switch_Keyboard_Alps_Matias/SW_Alps_Matias_4.00u/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/axello/Switch_Keyboard_Alps_Matias/SW_Alps_Matias_4.00u/working
   name: kicad
+  oomp:
+    footprint_name: sw_alps_matias_4_00u
+    library_name: switch_keyboard_alps_matias
+    md5: d3e50ae2f3d1a41bf6fd2528cf9519da
+    md5_10: d3e50ae2f3
+    md5_5: d3e50
+    md5_6: d3e50a
+    oomp_key: oomp_axello_switch_keyboard_alps_matias_sw_alps_matias_4_00u
+    oomp_key_extra: oomp_footprint_axello_switch_keyboard_alps_matias_sw_alps_matias_4_00u
+    oomp_key_full: oomp_footprint_axello_switch_keyboard_alps_matias_sw_alps_matias_4_00u_d3e50a
+    oomp_key_simple: axello_switch_keyboard_alps_matias_sw_alps_matias_4_00u
+    original_filename: kicad/6.0/3rdparty/footprints/com_github_perigoso_keyswitch-kicad-library/Switch_Keyboard_Alps_Matias.pretty/SW_Alps_Matias_4.00u.kicad_mod
+    owner_name: axello
   oomp_key: oomp_axello_switch_keyboard_alps_matias_sw_alps_matias_4_00u
+  oomp_key_full: oomp_footprint_axello_switch_keyboard_alps_matias_sw_alps_matias_4_00u
   oomp_key_simple: axello_switch_keyboard_alps_matias_sw_alps_matias_4_00u
   owner: axello
   repo:

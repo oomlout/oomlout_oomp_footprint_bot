@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/kubiX89/kiCAD.pretty
     oomp_bot: footprints/kubix89_kicad_to252_3/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kubix89_kicad_to252_3/working
-    oomp_doc: footprints/footprints/kubiX89/kiCAD/TO252-3/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kubiX89/kiCAD/TO252-3/working
     oomp_src_flat: footprints_flat/footprints_flat/kubix89_kicad_to252_3/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kubix89_kicad_to252_3/working
-    oomp_src_folder: footprints_folder/footprints_folder/kubiX89/kiCAD/TO252-3/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kubiX89/kiCAD/TO252-3/working
   name: kiCAD.pretty
+  oomp:
+    footprint_name: to252_3
+    library_name: kicad
+    md5: 24d875b779f8546168cd564a4436cb5a
+    md5_10: 24d875b779
+    md5_5: 24d87
+    md5_6: 24d875
+    oomp_key: oomp_kubix89_kicad_to252_3
+    oomp_key_extra: oomp_footprint_kubix89_kicad_to252_3
+    oomp_key_full: oomp_footprint_kubix89_kicad_to252_3_24d875
+    oomp_key_simple: kubix89_kicad_to252_3
+    original_filename: kiCAD.pretty/TO252-3.kicad_mod
+    owner_name: kubix89
   oomp_key: oomp_kubix89_kicad_to252_3
+  oomp_key_full: oomp_footprint_kubix89_kicad_to252_3
   oomp_key_simple: kubix89_kicad_to252_3
   owner: kubiX89
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/johaa1993_kicad_dev_xt60/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/johaa1993_kicad_dev_xt60/working
-    oomp_doc: footprints/footprints/johaa1993/KiCad-Dev/XT60/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/johaa1993/KiCad-Dev/XT60/working
     oomp_src_flat: footprints_flat/footprints_flat/johaa1993_kicad_dev_xt60/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/johaa1993_kicad_dev_xt60/working
-    oomp_src_folder: footprints_folder/footprints_folder/johaa1993/KiCad-Dev/XT60/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/johaa1993/KiCad-Dev/XT60/working
   name: KiCad-Dev.pretty
+  oomp:
+    footprint_name: xt60
+    library_name: kicad_dev
+    md5: f416b70f151ed4d4983a8e9aa1fd2af0
+    md5_10: f416b70f15
+    md5_5: f416b
+    md5_6: f416b7
+    oomp_key: oomp_johaa1993_kicad_dev_xt60
+    oomp_key_extra: oomp_footprint_johaa1993_kicad_dev_xt60
+    oomp_key_full: oomp_footprint_johaa1993_kicad_dev_xt60_f416b7
+    oomp_key_simple: johaa1993_kicad_dev_xt60
+    original_filename: KiCad-Dev.pretty/XT60.kicad_mod
+    owner_name: johaa1993
   oomp_key: oomp_johaa1993_kicad_dev_xt60
+  oomp_key_full: oomp_footprint_johaa1993_kicad_dev_xt60
   oomp_key_simple: johaa1993_kicad_dev_xt60
   owner: johaa1993
   repo:

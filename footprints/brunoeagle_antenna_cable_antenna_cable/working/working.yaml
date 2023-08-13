@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_antenna_cable_antenna_cable/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_antenna_cable_antenna_cable/working
-    oomp_doc: footprints/footprints/brunoeagle/ANTENNA_CABLE.kicad_mod/ANTENNA_CABLE/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/ANTENNA_CABLE.kicad_mod/ANTENNA_CABLE/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_antenna_cable_antenna_cable/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_antenna_cable_antenna_cable/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/ANTENNA_CABLE.kicad_mod/ANTENNA_CABLE/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/ANTENNA_CABLE.kicad_mod/ANTENNA_CABLE/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: antenna_cable
+    library_name: antenna_cable_kicad_mod
+    md5: 493fe4966b10238c2715286a1a801d45
+    md5_10: 493fe4966b
+    md5_5: 493fe
+    md5_6: 493fe4
+    oomp_key: oomp_brunoeagle_antenna_cable_antenna_cable
+    oomp_key_extra: oomp_footprint_brunoeagle_antenna_cable_antenna_cable
+    oomp_key_full: oomp_footprint_brunoeagle_antenna_cable_antenna_cable_493fe4
+    oomp_key_simple: brunoeagle_antenna_cable_antenna_cable
+    original_filename: kicad-open-modules/ANTENNA_CABLE.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_antenna_cable_antenna_cable
+  oomp_key_full: oomp_footprint_brunoeagle_antenna_cable_antenna_cable
   oomp_key_simple: brunoeagle_antenna_cable_antenna_cable
   owner: brunoeagle
   repo:

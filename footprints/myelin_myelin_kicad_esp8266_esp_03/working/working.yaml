@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/myelin_myelin_kicad_esp8266_esp_03/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/myelin_myelin_kicad_esp8266_esp_03/working
-    oomp_doc: footprints/footprints/myelin/myelin-kicad/ESP8266-ESP-03/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/myelin/myelin-kicad/ESP8266-ESP-03/working
     oomp_src_flat: footprints_flat/footprints_flat/myelin_myelin_kicad_esp8266_esp_03/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/myelin_myelin_kicad_esp8266_esp_03/working
-    oomp_src_folder: footprints_folder/footprints_folder/myelin/myelin-kicad/ESP8266-ESP-03/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/myelin/myelin-kicad/ESP8266-ESP-03/working
   name: myelin-kicad.pretty
+  oomp:
+    footprint_name: esp8266_esp_03
+    library_name: myelin_kicad
+    md5: 3dcd60c5b9e4d2b2db20d7335bcebeb7
+    md5_10: 3dcd60c5b9
+    md5_5: 3dcd6
+    md5_6: 3dcd60
+    oomp_key: oomp_myelin_myelin_kicad_esp8266_esp_03
+    oomp_key_extra: oomp_footprint_myelin_myelin_kicad_esp8266_esp_03
+    oomp_key_full: oomp_footprint_myelin_myelin_kicad_esp8266_esp_03_3dcd60
+    oomp_key_simple: myelin_myelin_kicad_esp8266_esp_03
+    original_filename: myelin-kicad.pretty/ESP8266-ESP-03.kicad_mod
+    owner_name: myelin
   oomp_key: oomp_myelin_myelin_kicad_esp8266_esp_03
+  oomp_key_full: oomp_footprint_myelin_myelin_kicad_esp8266_esp_03
   oomp_key_simple: myelin_myelin_kicad_esp8266_esp_03
   owner: myelin
   repo:

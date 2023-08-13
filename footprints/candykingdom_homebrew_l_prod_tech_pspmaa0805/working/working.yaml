@@ -1,5 +1,8 @@
-- error: Expression does not have the correct type
-  file: homebrew.pretty/L_PROD-Tech_PSPMAA0805.kicad_mod
+- file: homebrew.pretty/L_PROD-Tech_PSPMAA0805.kicad_mod
+  footprint:
+    description: null
+    libraryLink: L_PROD-Tech_PSPMAA0805
+    number_of_pads: 2
   footprint_library_directory: footprint_library_owner/candykingdom_homebrew.pretty
   footprint_library_directory_flat: footprints_flat/candykingdom_homebrew_l_prod_tech_pspmaa0805/working
   github_path: http://github.com/candykingdom/homebrew.pretty/blob/master/L_PROD-Tech_PSPMAA0805.kicad_mod
@@ -9,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/candykingdom_homebrew_l_prod_tech_pspmaa0805/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/candykingdom_homebrew_l_prod_tech_pspmaa0805/working
-    oomp_doc: footprints/footprints/candykingdom/homebrew/L_PROD-Tech_PSPMAA0805/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/candykingdom/homebrew/L_PROD-Tech_PSPMAA0805/working
     oomp_src_flat: footprints_flat/footprints_flat/candykingdom_homebrew_l_prod_tech_pspmaa0805/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/candykingdom_homebrew_l_prod_tech_pspmaa0805/working
-    oomp_src_folder: footprints_folder/footprints_folder/candykingdom/homebrew/L_PROD-Tech_PSPMAA0805/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/candykingdom/homebrew/L_PROD-Tech_PSPMAA0805/working
   name: homebrew.pretty
+  oomp:
+    footprint_name: l_prod_tech_pspmaa0805
+    library_name: homebrew
+    md5: 250b479cb7a4bd1c3c284c51af03f6c9
+    md5_10: 250b479cb7
+    md5_5: 250b4
+    md5_6: 250b47
+    oomp_key: oomp_candykingdom_homebrew_l_prod_tech_pspmaa0805
+    oomp_key_extra: oomp_footprint_candykingdom_homebrew_l_prod_tech_pspmaa0805
+    oomp_key_full: oomp_footprint_candykingdom_homebrew_l_prod_tech_pspmaa0805_250b47
+    oomp_key_simple: candykingdom_homebrew_l_prod_tech_pspmaa0805
+    original_filename: homebrew.pretty/L_PROD-Tech_PSPMAA0805.kicad_mod
+    owner_name: candykingdom
   oomp_key: oomp_candykingdom_homebrew_l_prod_tech_pspmaa0805
+  oomp_key_full: oomp_footprint_candykingdom_homebrew_l_prod_tech_pspmaa0805
   oomp_key_simple: candykingdom_homebrew_l_prod_tech_pspmaa0805
   owner: candykingdom
   repo:

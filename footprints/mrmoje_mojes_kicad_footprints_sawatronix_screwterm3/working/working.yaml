@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/mrmoje_mojes_kicad_footprints_sawatronix_screwterm3/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/mrmoje_mojes_kicad_footprints_sawatronix_screwterm3/working
-    oomp_doc: footprints/footprints/mrmoje/mojes-kicad-footprints/Sawatronix_screwterm3/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/mrmoje/mojes-kicad-footprints/Sawatronix_screwterm3/working
     oomp_src_flat: footprints_flat/footprints_flat/mrmoje_mojes_kicad_footprints_sawatronix_screwterm3/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/mrmoje_mojes_kicad_footprints_sawatronix_screwterm3/working
-    oomp_src_folder: footprints_folder/footprints_folder/mrmoje/mojes-kicad-footprints/Sawatronix_screwterm3/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/mrmoje/mojes-kicad-footprints/Sawatronix_screwterm3/working
   name: mojes-kicad-footprints.pretty
+  oomp:
+    footprint_name: sawatronix_screwterm3
+    library_name: mojes_kicad_footprints
+    md5: 7b64ad9dd65c6ef0947121f266c2c9eb
+    md5_10: 7b64ad9dd6
+    md5_5: 7b64a
+    md5_6: 7b64ad
+    oomp_key: oomp_mrmoje_mojes_kicad_footprints_sawatronix_screwterm3
+    oomp_key_extra: oomp_footprint_mrmoje_mojes_kicad_footprints_sawatronix_screwterm3
+    oomp_key_full: oomp_footprint_mrmoje_mojes_kicad_footprints_sawatronix_screwterm3_7b64ad
+    oomp_key_simple: mrmoje_mojes_kicad_footprints_sawatronix_screwterm3
+    original_filename: mojes-kicad-footprints.pretty/Sawatronix_screwterm3.kicad_mod
+    owner_name: mrmoje
   oomp_key: oomp_mrmoje_mojes_kicad_footprints_sawatronix_screwterm3
+  oomp_key_full: oomp_footprint_mrmoje_mojes_kicad_footprints_sawatronix_screwterm3
   oomp_key_simple: mrmoje_mojes_kicad_footprints_sawatronix_screwterm3
   owner: mrmoje
   repo:

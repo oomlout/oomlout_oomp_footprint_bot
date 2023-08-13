@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pelrun_w_smd_plcc_plcc28/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pelrun_w_smd_plcc_plcc28/working
-    oomp_doc: footprints/footprints/pelrun/w_smd_plcc/PLCC28/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/pelrun/w_smd_plcc/PLCC28/working
     oomp_src_flat: footprints_flat/footprints_flat/pelrun_w_smd_plcc_plcc28/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pelrun_w_smd_plcc_plcc28/working
-    oomp_src_folder: footprints_folder/footprints_folder/pelrun/w_smd_plcc/PLCC28/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/pelrun/w_smd_plcc/PLCC28/working
   name: libKiCad
+  oomp:
+    footprint_name: plcc28
+    library_name: w_smd_plcc
+    md5: bde987d36548318a8f81da27b0eec653
+    md5_10: bde987d365
+    md5_5: bde98
+    md5_6: bde987
+    oomp_key: oomp_pelrun_w_smd_plcc_plcc28
+    oomp_key_extra: oomp_footprint_pelrun_w_smd_plcc_plcc28
+    oomp_key_full: oomp_footprint_pelrun_w_smd_plcc_plcc28_bde987
+    oomp_key_simple: pelrun_w_smd_plcc_plcc28
+    original_filename: libKiCad/footprint/w_smd_plcc.pretty/PLCC28.kicad_mod
+    owner_name: pelrun
   oomp_key: oomp_pelrun_w_smd_plcc_plcc28
+  oomp_key_full: oomp_footprint_pelrun_w_smd_plcc_plcc28
   oomp_key_simple: pelrun_w_smd_plcc_plcc28
   owner: pelrun
   repo:

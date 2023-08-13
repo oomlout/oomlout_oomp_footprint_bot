@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pelrun_w_rf_modules_anaren_a2500r24a/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pelrun_w_rf_modules_anaren_a2500r24a/working
-    oomp_doc: footprints/footprints/pelrun/w_rf_modules/anaren_a2500r24a/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/pelrun/w_rf_modules/anaren_a2500r24a/working
     oomp_src_flat: footprints_flat/footprints_flat/pelrun_w_rf_modules_anaren_a2500r24a/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pelrun_w_rf_modules_anaren_a2500r24a/working
-    oomp_src_folder: footprints_folder/footprints_folder/pelrun/w_rf_modules/anaren_a2500r24a/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/pelrun/w_rf_modules/anaren_a2500r24a/working
   name: libKiCad
+  oomp:
+    footprint_name: anaren_a2500r24a
+    library_name: w_rf_modules
+    md5: 8ca83a4066acdfcc247f6839dc37be43
+    md5_10: 8ca83a4066
+    md5_5: 8ca83
+    md5_6: 8ca83a
+    oomp_key: oomp_pelrun_w_rf_modules_anaren_a2500r24a
+    oomp_key_extra: oomp_footprint_pelrun_w_rf_modules_anaren_a2500r24a
+    oomp_key_full: oomp_footprint_pelrun_w_rf_modules_anaren_a2500r24a_8ca83a
+    oomp_key_simple: pelrun_w_rf_modules_anaren_a2500r24a
+    original_filename: libKiCad/footprint/w_rf_modules.pretty/anaren_a2500r24a.kicad_mod
+    owner_name: pelrun
   oomp_key: oomp_pelrun_w_rf_modules_anaren_a2500r24a
+  oomp_key_full: oomp_footprint_pelrun_w_rf_modules_anaren_a2500r24a
   oomp_key_simple: pelrun_w_rf_modules_anaren_a2500r24a
   owner: pelrun
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/jeff_russ_kicad_tb_1x3_5_0mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/jeff_russ_kicad_tb_1x3_5_0mm/working
-    oomp_doc: footprints/footprints/Jeff-Russ/Kicad/TB_1X3_5.0MM/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Jeff-Russ/Kicad/TB_1X3_5.0MM/working
     oomp_src_flat: footprints_flat/footprints_flat/jeff_russ_kicad_tb_1x3_5_0mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/jeff_russ_kicad_tb_1x3_5_0mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/Jeff-Russ/Kicad/TB_1X3_5.0MM/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Jeff-Russ/Kicad/TB_1X3_5.0MM/working
   name: Kicad.pretty
+  oomp:
+    footprint_name: tb_1x3_5_0mm
+    library_name: kicad
+    md5: 4322b91bd01d5dbe26d18a7036bb3734
+    md5_10: 4322b91bd0
+    md5_5: 4322b
+    md5_6: 4322b9
+    oomp_key: oomp_jeff_russ_kicad_tb_1x3_5_0mm
+    oomp_key_extra: oomp_footprint_jeff_russ_kicad_tb_1x3_5_0mm
+    oomp_key_full: oomp_footprint_jeff_russ_kicad_tb_1x3_5_0mm_4322b9
+    oomp_key_simple: jeff_russ_kicad_tb_1x3_5_0mm
+    original_filename: Kicad.pretty/TB_1X3_5.0MM.kicad_mod
+    owner_name: jeff_russ
   oomp_key: oomp_jeff_russ_kicad_tb_1x3_5_0mm
+  oomp_key_full: oomp_footprint_jeff_russ_kicad_tb_1x3_5_0mm
   oomp_key_simple: jeff_russ_kicad_tb_1x3_5_0mm
   owner: Jeff-Russ
   repo:

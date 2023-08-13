@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/nqbit_nqbit_nina_w101/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nqbit_nqbit_nina_w101/working
-    oomp_doc: footprints/footprints/nqbit/NQBit/NINA-W101/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/nqbit/NQBit/NINA-W101/working
     oomp_src_flat: footprints_flat/footprints_flat/nqbit_nqbit_nina_w101/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nqbit_nqbit_nina_w101/working
-    oomp_src_folder: footprints_folder/footprints_folder/nqbit/NQBit/NINA-W101/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/nqbit/NQBit/NINA-W101/working
   name: NQBit.pretty
+  oomp:
+    footprint_name: nina_w101
+    library_name: nqbit
+    md5: 1a076e0feccdd6fa98ea4f7b26699992
+    md5_10: 1a076e0fec
+    md5_5: 1a076
+    md5_6: 1a076e
+    oomp_key: oomp_nqbit_nqbit_nina_w101
+    oomp_key_extra: oomp_footprint_nqbit_nqbit_nina_w101
+    oomp_key_full: oomp_footprint_nqbit_nqbit_nina_w101_1a076e
+    oomp_key_simple: nqbit_nqbit_nina_w101
+    original_filename: NQBit.pretty/NINA-W101.kicad_mod
+    owner_name: nqbit
   oomp_key: oomp_nqbit_nqbit_nina_w101
+  oomp_key_full: oomp_footprint_nqbit_nqbit_nina_w101
   oomp_key_simple: nqbit_nqbit_nina_w101
   owner: nqbit
   repo:

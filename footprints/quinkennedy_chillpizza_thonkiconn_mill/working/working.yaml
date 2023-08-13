@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/quinkennedy_chillpizza_thonkiconn_mill/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/quinkennedy_chillpizza_thonkiconn_mill/working
-    oomp_doc: footprints/footprints/quinkennedy/chillpizza/THONKICONN_mill/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/quinkennedy/chillpizza/THONKICONN_mill/working
     oomp_src_flat: footprints_flat/footprints_flat/quinkennedy_chillpizza_thonkiconn_mill/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/quinkennedy_chillpizza_thonkiconn_mill/working
-    oomp_src_folder: footprints_folder/footprints_folder/quinkennedy/chillpizza/THONKICONN_mill/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/quinkennedy/chillpizza/THONKICONN_mill/working
   name: chillpizza.pretty
+  oomp:
+    footprint_name: thonkiconn_mill
+    library_name: chillpizza
+    md5: 8e82cf9b38d60fd32f265f68f378c6fa
+    md5_10: 8e82cf9b38
+    md5_5: 8e82c
+    md5_6: 8e82cf
+    oomp_key: oomp_quinkennedy_chillpizza_thonkiconn_mill
+    oomp_key_extra: oomp_footprint_quinkennedy_chillpizza_thonkiconn_mill
+    oomp_key_full: oomp_footprint_quinkennedy_chillpizza_thonkiconn_mill_8e82cf
+    oomp_key_simple: quinkennedy_chillpizza_thonkiconn_mill
+    original_filename: chillpizza.pretty/THONKICONN_mill.kicad_mod
+    owner_name: quinkennedy
   oomp_key: oomp_quinkennedy_chillpizza_thonkiconn_mill
+  oomp_key_full: oomp_footprint_quinkennedy_chillpizza_thonkiconn_mill
   oomp_key_simple: quinkennedy_chillpizza_thonkiconn_mill
   owner: quinkennedy
   repo:

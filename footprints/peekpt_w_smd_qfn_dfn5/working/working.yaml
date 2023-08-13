@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/peekpt_w_smd_qfn_dfn5/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/peekpt_w_smd_qfn_dfn5/working
-    oomp_doc: footprints/footprints/peekpt/w_smd_qfn/dfn5/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/peekpt/w_smd_qfn/dfn5/working
     oomp_src_flat: footprints_flat/footprints_flat/peekpt_w_smd_qfn_dfn5/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/peekpt_w_smd_qfn_dfn5/working
-    oomp_src_folder: footprints_folder/footprints_folder/peekpt/w_smd_qfn/dfn5/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/peekpt/w_smd_qfn/dfn5/working
   name: kicad_smisioto
+  oomp:
+    footprint_name: dfn5
+    library_name: w_smd_qfn
+    md5: 8ce39af3df71f631828032db19417238
+    md5_10: 8ce39af3df
+    md5_5: 8ce39
+    md5_6: 8ce39a
+    oomp_key: oomp_peekpt_w_smd_qfn_dfn5
+    oomp_key_extra: oomp_footprint_peekpt_w_smd_qfn_dfn5
+    oomp_key_full: oomp_footprint_peekpt_w_smd_qfn_dfn5_8ce39a
+    oomp_key_simple: peekpt_w_smd_qfn_dfn5
+    original_filename: kicad_smisioto/modules/walter/w_smd_qfn.pretty/dfn5.kicad_mod
+    owner_name: peekpt
   oomp_key: oomp_peekpt_w_smd_qfn_dfn5
+  oomp_key_full: oomp_footprint_peekpt_w_smd_qfn_dfn5
   oomp_key_simple: peekpt_w_smd_qfn_dfn5
   owner: peekpt
   repo:

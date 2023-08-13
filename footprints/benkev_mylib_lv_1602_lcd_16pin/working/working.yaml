@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/benkev_mylib_lv_1602_lcd_16pin/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/benkev_mylib_lv_1602_lcd_16pin/working
-    oomp_doc: footprints/footprints/benkev/myLib/LV_1602-LCD-16pin/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/benkev/myLib/LV_1602-LCD-16pin/working
     oomp_src_flat: footprints_flat/footprints_flat/benkev_mylib_lv_1602_lcd_16pin/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/benkev_mylib_lv_1602_lcd_16pin/working
-    oomp_src_folder: footprints_folder/footprints_folder/benkev/myLib/LV_1602-LCD-16pin/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/benkev/myLib/LV_1602-LCD-16pin/working
   name: myLib.pretty
+  oomp:
+    footprint_name: lv_1602_lcd_16pin
+    library_name: mylib
+    md5: a29a6f7821ec07996024c00bb2dc5f76
+    md5_10: a29a6f7821
+    md5_5: a29a6
+    md5_6: a29a6f
+    oomp_key: oomp_benkev_mylib_lv_1602_lcd_16pin
+    oomp_key_extra: oomp_footprint_benkev_mylib_lv_1602_lcd_16pin
+    oomp_key_full: oomp_footprint_benkev_mylib_lv_1602_lcd_16pin_a29a6f
+    oomp_key_simple: benkev_mylib_lv_1602_lcd_16pin
+    original_filename: myLib.pretty/LV_1602-LCD-16pin.kicad_mod
+    owner_name: benkev
   oomp_key: oomp_benkev_mylib_lv_1602_lcd_16pin
+  oomp_key_full: oomp_footprint_benkev_mylib_lv_1602_lcd_16pin
   oomp_key_simple: benkev_mylib_lv_1602_lcd_16pin
   owner: benkev
   repo:

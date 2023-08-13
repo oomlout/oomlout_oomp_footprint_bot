@@ -14,14 +14,24 @@
     github_src_repo: https://github.com/AcheronProject/acheron_Connectors.pretty
     oomp_bot: footprints/acheronproject_acheron_connectors_molex_picoezmate_781710005_reinforced_lite/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/acheronproject_acheron_connectors_molex_picoezmate_781710005_reinforced_lite/working
-    oomp_doc: footprints/footprints/AcheronProject/acheron_Connectors/MOLEX_PicoEZMate_781710005-Reinforced-Lite/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/AcheronProject/acheron_Connectors/MOLEX_PicoEZMate_781710005-Reinforced-Lite/working
     oomp_src_flat: footprints_flat/footprints_flat/acheronproject_acheron_connectors_molex_picoezmate_781710005_reinforced_lite/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/acheronproject_acheron_connectors_molex_picoezmate_781710005_reinforced_lite/working
-    oomp_src_folder: footprints_folder/footprints_folder/AcheronProject/acheron_Connectors/MOLEX_PicoEZMate_781710005-Reinforced-Lite/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/AcheronProject/acheron_Connectors/MOLEX_PicoEZMate_781710005-Reinforced-Lite/working
   name: acheron_Connectors.pretty
+  oomp:
+    footprint_name: molex_picoezmate_781710005_reinforced_lite
+    library_name: acheron_connectors
+    md5: 54158c828c47e3cab5bdaa6bd5157808
+    md5_10: 54158c828c
+    md5_5: '54158'
+    md5_6: 54158c
+    oomp_key: oomp_acheronproject_acheron_connectors_molex_picoezmate_781710005_reinforced_lite
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_connectors_molex_picoezmate_781710005_reinforced_lite
+    oomp_key_full: oomp_footprint_acheronproject_acheron_connectors_molex_picoezmate_781710005_reinforced_lite_54158c
+    oomp_key_simple: acheronproject_acheron_connectors_molex_picoezmate_781710005_reinforced_lite
+    original_filename: acheron_Connectors.pretty/MOLEX_PicoEZMate_781710005-Reinforced-Lite.kicad_mod
+    owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_connectors_molex_picoezmate_781710005_reinforced_lite
+  oomp_key_full: oomp_footprint_acheronproject_acheron_connectors_molex_picoezmate_781710005_reinforced_lite
   oomp_key_simple: acheronproject_acheron_connectors_molex_picoezmate_781710005_reinforced_lite
   owner: AcheronProject
   repo:

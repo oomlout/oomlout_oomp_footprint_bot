@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/lab6-ifma/LAB6-LIB.pretty
     oomp_bot: footprints/lab6_ifma_lab6_lib_ws2812b_smallsilk/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/lab6_ifma_lab6_lib_ws2812b_smallsilk/working
-    oomp_doc: footprints/footprints/lab6-ifma/LAB6-LIB/WS2812B_smallsilk/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/lab6-ifma/LAB6-LIB/WS2812B_smallsilk/working
     oomp_src_flat: footprints_flat/footprints_flat/lab6_ifma_lab6_lib_ws2812b_smallsilk/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/lab6_ifma_lab6_lib_ws2812b_smallsilk/working
-    oomp_src_folder: footprints_folder/footprints_folder/lab6-ifma/LAB6-LIB/WS2812B_smallsilk/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/lab6-ifma/LAB6-LIB/WS2812B_smallsilk/working
   name: LAB6-LIB.pretty
+  oomp:
+    footprint_name: ws2812b_smallsilk
+    library_name: lab6_lib
+    md5: 65a5c0ae050b436b00470b9a04f55ce4
+    md5_10: 65a5c0ae05
+    md5_5: 65a5c
+    md5_6: 65a5c0
+    oomp_key: oomp_lab6_ifma_lab6_lib_ws2812b_smallsilk
+    oomp_key_extra: oomp_footprint_lab6_ifma_lab6_lib_ws2812b_smallsilk
+    oomp_key_full: oomp_footprint_lab6_ifma_lab6_lib_ws2812b_smallsilk_65a5c0
+    oomp_key_simple: lab6_ifma_lab6_lib_ws2812b_smallsilk
+    original_filename: LAB6-LIB.pretty/WS2812B_smallsilk.kicad_mod
+    owner_name: lab6_ifma
   oomp_key: oomp_lab6_ifma_lab6_lib_ws2812b_smallsilk
+  oomp_key_full: oomp_footprint_lab6_ifma_lab6_lib_ws2812b_smallsilk
   oomp_key_simple: lab6_ifma_lab6_lib_ws2812b_smallsilk
   owner: lab6-ifma
   repo:

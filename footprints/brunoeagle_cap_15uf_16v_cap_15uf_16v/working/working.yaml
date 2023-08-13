@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_cap_15uf_16v_cap_15uf_16v/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_cap_15uf_16v_cap_15uf_16v/working
-    oomp_doc: footprints/footprints/brunoeagle/CAP_15uF_16V.kicad_mod/CAP_15uF_16V/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/CAP_15uF_16V.kicad_mod/CAP_15uF_16V/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_cap_15uf_16v_cap_15uf_16v/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_cap_15uf_16v_cap_15uf_16v/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/CAP_15uF_16V.kicad_mod/CAP_15uF_16V/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/CAP_15uF_16V.kicad_mod/CAP_15uF_16V/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: cap_15uf_16v
+    library_name: cap_15uf_16v_kicad_mod
+    md5: f082d94b2a0c70a72c673511bbaec649
+    md5_10: f082d94b2a
+    md5_5: f082d
+    md5_6: f082d9
+    oomp_key: oomp_brunoeagle_cap_15uf_16v_cap_15uf_16v
+    oomp_key_extra: oomp_footprint_brunoeagle_cap_15uf_16v_cap_15uf_16v
+    oomp_key_full: oomp_footprint_brunoeagle_cap_15uf_16v_cap_15uf_16v_f082d9
+    oomp_key_simple: brunoeagle_cap_15uf_16v_cap_15uf_16v
+    original_filename: kicad-open-modules/CAP_15uF_16V.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_cap_15uf_16v_cap_15uf_16v
+  oomp_key_full: oomp_footprint_brunoeagle_cap_15uf_16v_cap_15uf_16v
   oomp_key_simple: brunoeagle_cap_15uf_16v_cap_15uf_16v
   owner: brunoeagle
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/nathanielperkins_npfootprints_molex_microfit_3_0_rightangle/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nathanielperkins_npfootprints_molex_microfit_3_0_rightangle/working
-    oomp_doc: footprints/footprints/NathanielPerkins/NPFootprints/Molex_MicroFit_3.0_RightAngle/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/NathanielPerkins/NPFootprints/Molex_MicroFit_3.0_RightAngle/working
     oomp_src_flat: footprints_flat/footprints_flat/nathanielperkins_npfootprints_molex_microfit_3_0_rightangle/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nathanielperkins_npfootprints_molex_microfit_3_0_rightangle/working
-    oomp_src_folder: footprints_folder/footprints_folder/NathanielPerkins/NPFootprints/Molex_MicroFit_3.0_RightAngle/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/NathanielPerkins/NPFootprints/Molex_MicroFit_3.0_RightAngle/working
   name: NPFootprints.pretty
+  oomp:
+    footprint_name: molex_microfit_3_0_rightangle
+    library_name: npfootprints
+    md5: 79b35136ab824f5a03d0a026dac5a463
+    md5_10: 79b35136ab
+    md5_5: 79b35
+    md5_6: 79b351
+    oomp_key: oomp_nathanielperkins_npfootprints_molex_microfit_3_0_rightangle
+    oomp_key_extra: oomp_footprint_nathanielperkins_npfootprints_molex_microfit_3_0_rightangle
+    oomp_key_full: oomp_footprint_nathanielperkins_npfootprints_molex_microfit_3_0_rightangle_79b351
+    oomp_key_simple: nathanielperkins_npfootprints_molex_microfit_3_0_rightangle
+    original_filename: NPFootprints.pretty/Molex_MicroFit_3.0_RightAngle.kicad_mod
+    owner_name: nathanielperkins
   oomp_key: oomp_nathanielperkins_npfootprints_molex_microfit_3_0_rightangle
+  oomp_key_full: oomp_footprint_nathanielperkins_npfootprints_molex_microfit_3_0_rightangle
   oomp_key_simple: nathanielperkins_npfootprints_molex_microfit_3_0_rightangle
   owner: NathanielPerkins
   repo:

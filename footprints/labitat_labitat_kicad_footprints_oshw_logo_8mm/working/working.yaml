@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/labitat/labitat_kicad_footprints.pretty
     oomp_bot: footprints/labitat_labitat_kicad_footprints_oshw_logo_8mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/labitat_labitat_kicad_footprints_oshw_logo_8mm/working
-    oomp_doc: footprints/footprints/labitat/labitat_kicad_footprints/oshw_logo_8mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/labitat/labitat_kicad_footprints/oshw_logo_8mm/working
     oomp_src_flat: footprints_flat/footprints_flat/labitat_labitat_kicad_footprints_oshw_logo_8mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/labitat_labitat_kicad_footprints_oshw_logo_8mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/labitat/labitat_kicad_footprints/oshw_logo_8mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/labitat/labitat_kicad_footprints/oshw_logo_8mm/working
   name: labitat_kicad_footprints.pretty
+  oomp:
+    footprint_name: oshw_logo_8mm
+    library_name: labitat_kicad_footprints
+    md5: 4989b465f9c2e0bf87c231444bf9ec8c
+    md5_10: 4989b465f9
+    md5_5: 4989b
+    md5_6: 4989b4
+    oomp_key: oomp_labitat_labitat_kicad_footprints_oshw_logo_8mm
+    oomp_key_extra: oomp_footprint_labitat_labitat_kicad_footprints_oshw_logo_8mm
+    oomp_key_full: oomp_footprint_labitat_labitat_kicad_footprints_oshw_logo_8mm_4989b4
+    oomp_key_simple: labitat_labitat_kicad_footprints_oshw_logo_8mm
+    original_filename: labitat_kicad_footprints.pretty/oshw_logo_8mm.kicad_mod
+    owner_name: labitat
   oomp_key: oomp_labitat_labitat_kicad_footprints_oshw_logo_8mm
+  oomp_key_full: oomp_footprint_labitat_labitat_kicad_footprints_oshw_logo_8mm
   oomp_key_simple: labitat_labitat_kicad_footprints_oshw_logo_8mm
   owner: labitat
   repo:

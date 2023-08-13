@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/peekpt_w_switch_dip_8_300/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/peekpt_w_switch_dip_8_300/working
-    oomp_doc: footprints/footprints/peekpt/w_switch/dip_8-300/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/peekpt/w_switch/dip_8-300/working
     oomp_src_flat: footprints_flat/footprints_flat/peekpt_w_switch_dip_8_300/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/peekpt_w_switch_dip_8_300/working
-    oomp_src_folder: footprints_folder/footprints_folder/peekpt/w_switch/dip_8-300/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/peekpt/w_switch/dip_8-300/working
   name: kicad_smisioto
+  oomp:
+    footprint_name: dip_8_300
+    library_name: w_switch
+    md5: e76e9321305c3273623018f0a5d1b770
+    md5_10: e76e932130
+    md5_5: e76e9
+    md5_6: e76e93
+    oomp_key: oomp_peekpt_w_switch_dip_8_300
+    oomp_key_extra: oomp_footprint_peekpt_w_switch_dip_8_300
+    oomp_key_full: oomp_footprint_peekpt_w_switch_dip_8_300_e76e93
+    oomp_key_simple: peekpt_w_switch_dip_8_300
+    original_filename: kicad_smisioto/modules/walter/w_switch.pretty/dip_8-300.kicad_mod
+    owner_name: peekpt
   oomp_key: oomp_peekpt_w_switch_dip_8_300
+  oomp_key_full: oomp_footprint_peekpt_w_switch_dip_8_300
   oomp_key_simple: peekpt_w_switch_dip_8_300
   owner: peekpt
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/olimex_freetronics_footprints_ind_epcos_b82462g/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/olimex_freetronics_footprints_ind_epcos_b82462g/working
-    oomp_doc: footprints/footprints/OLIMEX/freetronics_footprints/IND_EPCOS_B82462G/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/OLIMEX/freetronics_footprints/IND_EPCOS_B82462G/working
     oomp_src_flat: footprints_flat/footprints_flat/olimex_freetronics_footprints_ind_epcos_b82462g/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/olimex_freetronics_footprints_ind_epcos_b82462g/working
-    oomp_src_folder: footprints_folder/footprints_folder/OLIMEX/freetronics_footprints/IND_EPCOS_B82462G/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/OLIMEX/freetronics_footprints/IND_EPCOS_B82462G/working
   name: KiCAD
+  oomp:
+    footprint_name: ind_epcos_b82462g
+    library_name: freetronics_footprints
+    md5: c65eaa0521930cfc961d5d393ab03c9b
+    md5_10: c65eaa0521
+    md5_5: c65ea
+    md5_6: c65eaa
+    oomp_key: oomp_olimex_freetronics_footprints_ind_epcos_b82462g
+    oomp_key_extra: oomp_footprint_olimex_freetronics_footprints_ind_epcos_b82462g
+    oomp_key_full: oomp_footprint_olimex_freetronics_footprints_ind_epcos_b82462g_c65eaa
+    oomp_key_simple: olimex_freetronics_footprints_ind_epcos_b82462g
+    original_filename: KiCAD/mods/freetronics_footprints.pretty/IND_EPCOS_B82462G.kicad_mod
+    owner_name: olimex
   oomp_key: oomp_olimex_freetronics_footprints_ind_epcos_b82462g
+  oomp_key_full: oomp_footprint_olimex_freetronics_footprints_ind_epcos_b82462g
   oomp_key_simple: olimex_freetronics_footprints_ind_epcos_b82462g
   owner: OLIMEX
   repo:

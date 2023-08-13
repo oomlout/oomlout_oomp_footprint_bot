@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/AcheronProject/acheron_EC.pretty
     oomp_bot: footprints/acheronproject_acheron_ec_ec225/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/acheronproject_acheron_ec_ec225/working
-    oomp_doc: footprints/footprints/AcheronProject/acheron_EC/EC225/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/AcheronProject/acheron_EC/EC225/working
     oomp_src_flat: footprints_flat/footprints_flat/acheronproject_acheron_ec_ec225/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/acheronproject_acheron_ec_ec225/working
-    oomp_src_folder: footprints_folder/footprints_folder/AcheronProject/acheron_EC/EC225/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/AcheronProject/acheron_EC/EC225/working
   name: acheron_EC.pretty
+  oomp:
+    footprint_name: ec225
+    library_name: acheron_ec
+    md5: 8bba131d8c4dc6289b55e9ff8f0abc5e
+    md5_10: 8bba131d8c
+    md5_5: 8bba1
+    md5_6: 8bba13
+    oomp_key: oomp_acheronproject_acheron_ec_ec225
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_ec_ec225
+    oomp_key_full: oomp_footprint_acheronproject_acheron_ec_ec225_8bba13
+    oomp_key_simple: acheronproject_acheron_ec_ec225
+    original_filename: acheron_EC.pretty/EC225.kicad_mod
+    owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_ec_ec225
+  oomp_key_full: oomp_footprint_acheronproject_acheron_ec_ec225
   oomp_key_simple: acheronproject_acheron_ec_ec225
   owner: AcheronProject
   repo:

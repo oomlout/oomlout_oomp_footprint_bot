@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/joanthespark_freetronics_footprints_sot23_pgb102st23/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/joanthespark_freetronics_footprints_sot23_pgb102st23/working
-    oomp_doc: footprints/footprints/JoanTheSpark/freetronics_footprints/SOT23_PGB102ST23/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/JoanTheSpark/freetronics_footprints/SOT23_PGB102ST23/working
     oomp_src_flat: footprints_flat/footprints_flat/joanthespark_freetronics_footprints_sot23_pgb102st23/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/joanthespark_freetronics_footprints_sot23_pgb102st23/working
-    oomp_src_folder: footprints_folder/footprints_folder/JoanTheSpark/freetronics_footprints/SOT23_PGB102ST23/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/JoanTheSpark/freetronics_footprints/SOT23_PGB102ST23/working
   name: KiCAD
+  oomp:
+    footprint_name: sot23_pgb102st23
+    library_name: freetronics_footprints
+    md5: c44a50485a71fa0476789879dbd313cc
+    md5_10: c44a50485a
+    md5_5: c44a5
+    md5_6: c44a50
+    oomp_key: oomp_joanthespark_freetronics_footprints_sot23_pgb102st23
+    oomp_key_extra: oomp_footprint_joanthespark_freetronics_footprints_sot23_pgb102st23
+    oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_sot23_pgb102st23_c44a50
+    oomp_key_simple: joanthespark_freetronics_footprints_sot23_pgb102st23
+    original_filename: KiCAD/mods/freetronics_footprints.pretty/SOT23_PGB102ST23.kicad_mod
+    owner_name: joanthespark
   oomp_key: oomp_joanthespark_freetronics_footprints_sot23_pgb102st23
+  oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_sot23_pgb102st23
   oomp_key_simple: joanthespark_freetronics_footprints_sot23_pgb102st23
   owner: JoanTheSpark
   repo:

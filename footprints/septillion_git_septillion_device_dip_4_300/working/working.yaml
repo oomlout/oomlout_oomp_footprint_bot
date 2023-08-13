@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/septillion_git_septillion_device_dip_4_300/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/septillion_git_septillion_device_dip_4_300/working
-    oomp_doc: footprints/footprints/septillion-git/septillion_device/DIP-4__300/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/septillion-git/septillion_device/DIP-4__300/working
     oomp_src_flat: footprints_flat/footprints_flat/septillion_git_septillion_device_dip_4_300/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/septillion_git_septillion_device_dip_4_300/working
-    oomp_src_folder: footprints_folder/footprints_folder/septillion-git/septillion_device/DIP-4__300/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/septillion-git/septillion_device/DIP-4__300/working
   name: septillion_device.pretty
+  oomp:
+    footprint_name: dip_4_300
+    library_name: septillion_device
+    md5: 27cefa02aebb17ef235c57e68fafd3f6
+    md5_10: 27cefa02ae
+    md5_5: 27cef
+    md5_6: 27cefa
+    oomp_key: oomp_septillion_git_septillion_device_dip_4_300
+    oomp_key_extra: oomp_footprint_septillion_git_septillion_device_dip_4_300
+    oomp_key_full: oomp_footprint_septillion_git_septillion_device_dip_4_300_27cefa
+    oomp_key_simple: septillion_git_septillion_device_dip_4_300
+    original_filename: septillion_device.pretty/DIP-4__300.kicad_mod
+    owner_name: septillion_git
   oomp_key: oomp_septillion_git_septillion_device_dip_4_300
+  oomp_key_full: oomp_footprint_septillion_git_septillion_device_dip_4_300
   oomp_key_simple: septillion_git_septillion_device_dip_4_300
   owner: septillion-git
   repo:

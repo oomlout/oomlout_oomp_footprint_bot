@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/stefanhamminga_sh_audio_cui_css_95b30_smt/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stefanhamminga_sh_audio_cui_css_95b30_smt/working
-    oomp_doc: footprints/footprints/StefanHamminga/SH_Audio/CUI_CSS-95B30-SMT/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/StefanHamminga/SH_Audio/CUI_CSS-95B30-SMT/working
     oomp_src_flat: footprints_flat/footprints_flat/stefanhamminga_sh_audio_cui_css_95b30_smt/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/stefanhamminga_sh_audio_cui_css_95b30_smt/working
-    oomp_src_folder: footprints_folder/footprints_folder/StefanHamminga/SH_Audio/CUI_CSS-95B30-SMT/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/StefanHamminga/SH_Audio/CUI_CSS-95B30-SMT/working
   name: SH_Audio.pretty
+  oomp:
+    footprint_name: cui_css_95b30_smt
+    library_name: sh_audio
+    md5: 1c5fda4b871f34754b9b7ef3916b2caf
+    md5_10: 1c5fda4b87
+    md5_5: 1c5fd
+    md5_6: 1c5fda
+    oomp_key: oomp_stefanhamminga_sh_audio_cui_css_95b30_smt
+    oomp_key_extra: oomp_footprint_stefanhamminga_sh_audio_cui_css_95b30_smt
+    oomp_key_full: oomp_footprint_stefanhamminga_sh_audio_cui_css_95b30_smt_1c5fda
+    oomp_key_simple: stefanhamminga_sh_audio_cui_css_95b30_smt
+    original_filename: SH_Audio.pretty/CUI_CSS-95B30-SMT.kicad_mod
+    owner_name: stefanhamminga
   oomp_key: oomp_stefanhamminga_sh_audio_cui_css_95b30_smt
+  oomp_key_full: oomp_footprint_stefanhamminga_sh_audio_cui_css_95b30_smt
   oomp_key_simple: stefanhamminga_sh_audio_cui_css_95b30_smt
   owner: StefanHamminga
   repo:

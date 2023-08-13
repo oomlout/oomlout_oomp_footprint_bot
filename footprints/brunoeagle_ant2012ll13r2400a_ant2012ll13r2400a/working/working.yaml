@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_ant2012ll13r2400a_ant2012ll13r2400a/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_ant2012ll13r2400a_ant2012ll13r2400a/working
-    oomp_doc: footprints/footprints/brunoeagle/ANT2012LL13R2400A.kicad_mod/ANT2012LL13R2400A/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/ANT2012LL13R2400A.kicad_mod/ANT2012LL13R2400A/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_ant2012ll13r2400a_ant2012ll13r2400a/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_ant2012ll13r2400a_ant2012ll13r2400a/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/ANT2012LL13R2400A.kicad_mod/ANT2012LL13R2400A/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/ANT2012LL13R2400A.kicad_mod/ANT2012LL13R2400A/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: ant2012ll13r2400a
+    library_name: ant2012ll13r2400a_kicad_mod
+    md5: 23a579af29415df01e840e64db9c374c
+    md5_10: 23a579af29
+    md5_5: 23a57
+    md5_6: 23a579
+    oomp_key: oomp_brunoeagle_ant2012ll13r2400a_ant2012ll13r2400a
+    oomp_key_extra: oomp_footprint_brunoeagle_ant2012ll13r2400a_ant2012ll13r2400a
+    oomp_key_full: oomp_footprint_brunoeagle_ant2012ll13r2400a_ant2012ll13r2400a_23a579
+    oomp_key_simple: brunoeagle_ant2012ll13r2400a_ant2012ll13r2400a
+    original_filename: kicad-open-modules/ANT2012LL13R2400A.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_ant2012ll13r2400a_ant2012ll13r2400a
+  oomp_key_full: oomp_footprint_brunoeagle_ant2012ll13r2400a_ant2012ll13r2400a
   oomp_key_simple: brunoeagle_ant2012ll13r2400a_ant2012ll13r2400a
   owner: brunoeagle
   repo:

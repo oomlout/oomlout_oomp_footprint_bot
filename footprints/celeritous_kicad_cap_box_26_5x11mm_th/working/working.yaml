@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/celeritous_kicad_cap_box_26_5x11mm_th/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/celeritous_kicad_cap_box_26_5x11mm_th/working
-    oomp_doc: footprints/footprints/celeritous/KiCad/CAP_BOX_26.5X11MM_TH/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/celeritous/KiCad/CAP_BOX_26.5X11MM_TH/working
     oomp_src_flat: footprints_flat/footprints_flat/celeritous_kicad_cap_box_26_5x11mm_th/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/celeritous_kicad_cap_box_26_5x11mm_th/working
-    oomp_src_folder: footprints_folder/footprints_folder/celeritous/KiCad/CAP_BOX_26.5X11MM_TH/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/celeritous/KiCad/CAP_BOX_26.5X11MM_TH/working
   name: KiCad.pretty
+  oomp:
+    footprint_name: cap_box_26_5x11mm_th
+    library_name: kicad
+    md5: fd086773d77ca56934decbb4c4a4ef8a
+    md5_10: fd086773d7
+    md5_5: fd086
+    md5_6: fd0867
+    oomp_key: oomp_celeritous_kicad_cap_box_26_5x11mm_th
+    oomp_key_extra: oomp_footprint_celeritous_kicad_cap_box_26_5x11mm_th
+    oomp_key_full: oomp_footprint_celeritous_kicad_cap_box_26_5x11mm_th_fd0867
+    oomp_key_simple: celeritous_kicad_cap_box_26_5x11mm_th
+    original_filename: KiCad.pretty/CAP_BOX_26.5X11MM_TH.kicad_mod
+    owner_name: celeritous
   oomp_key: oomp_celeritous_kicad_cap_box_26_5x11mm_th
+  oomp_key_full: oomp_footprint_celeritous_kicad_cap_box_26_5x11mm_th
   oomp_key_simple: celeritous_kicad_cap_box_26_5x11mm_th
   owner: celeritous
   repo:

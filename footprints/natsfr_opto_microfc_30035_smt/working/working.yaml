@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/natsfr_opto_microfc_30035_smt/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/natsfr_opto_microfc_30035_smt/working
-    oomp_doc: footprints/footprints/natsfr/Opto/MicroFC-30035-SMT/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/natsfr/Opto/MicroFC-30035-SMT/working
     oomp_src_flat: footprints_flat/footprints_flat/natsfr_opto_microfc_30035_smt/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/natsfr_opto_microfc_30035_smt/working
-    oomp_src_folder: footprints_folder/footprints_folder/natsfr/Opto/MicroFC-30035-SMT/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/natsfr/Opto/MicroFC-30035-SMT/working
   name: kicad-components
+  oomp:
+    footprint_name: microfc_30035_smt
+    library_name: opto
+    md5: 55d8363189f54bcfe2522ebf974d0f3f
+    md5_10: 55d8363189
+    md5_5: 55d83
+    md5_6: 55d836
+    oomp_key: oomp_natsfr_opto_microfc_30035_smt
+    oomp_key_extra: oomp_footprint_natsfr_opto_microfc_30035_smt
+    oomp_key_full: oomp_footprint_natsfr_opto_microfc_30035_smt_55d836
+    oomp_key_simple: natsfr_opto_microfc_30035_smt
+    original_filename: kicad-components/Pretty_Footprints/Opto.pretty/MicroFC-30035-SMT.kicad_mod
+    owner_name: natsfr
   oomp_key: oomp_natsfr_opto_microfc_30035_smt
+  oomp_key_full: oomp_footprint_natsfr_opto_microfc_30035_smt
   oomp_key_simple: natsfr_opto_microfc_30035_smt
   owner: natsfr
   repo:

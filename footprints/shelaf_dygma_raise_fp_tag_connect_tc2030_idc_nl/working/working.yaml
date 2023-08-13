@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/shelaf_dygma_raise_fp_tag_connect_tc2030_idc_nl/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/shelaf_dygma_raise_fp_tag_connect_tc2030_idc_nl/working
-    oomp_doc: footprints/footprints/shelaf-dygma/raise_fp/Tag-Connect_TC2030-IDC-NL/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/shelaf-dygma/raise_fp/Tag-Connect_TC2030-IDC-NL/working
     oomp_src_flat: footprints_flat/footprints_flat/shelaf_dygma_raise_fp_tag_connect_tc2030_idc_nl/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/shelaf_dygma_raise_fp_tag_connect_tc2030_idc_nl/working
-    oomp_src_folder: footprints_folder/footprints_folder/shelaf-dygma/raise_fp/Tag-Connect_TC2030-IDC-NL/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/shelaf-dygma/raise_fp/Tag-Connect_TC2030-IDC-NL/working
   name: raise_fp.pretty
+  oomp:
+    footprint_name: tag_connect_tc2030_idc_nl
+    library_name: raise_fp
+    md5: 2b0843e18575184b2e8b84301b45e24f
+    md5_10: 2b0843e185
+    md5_5: 2b084
+    md5_6: 2b0843
+    oomp_key: oomp_shelaf_dygma_raise_fp_tag_connect_tc2030_idc_nl
+    oomp_key_extra: oomp_footprint_shelaf_dygma_raise_fp_tag_connect_tc2030_idc_nl
+    oomp_key_full: oomp_footprint_shelaf_dygma_raise_fp_tag_connect_tc2030_idc_nl_2b0843
+    oomp_key_simple: shelaf_dygma_raise_fp_tag_connect_tc2030_idc_nl
+    original_filename: raise_fp.pretty/Tag-Connect_TC2030-IDC-NL.kicad_mod
+    owner_name: shelaf_dygma
   oomp_key: oomp_shelaf_dygma_raise_fp_tag_connect_tc2030_idc_nl
+  oomp_key_full: oomp_footprint_shelaf_dygma_raise_fp_tag_connect_tc2030_idc_nl
   oomp_key_simple: shelaf_dygma_raise_fp_tag_connect_tc2030_idc_nl
   owner: shelaf-dygma
   repo:

@@ -13,14 +13,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/stanleyseow_svtmaker_led_1206_3216metricak/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stanleyseow_svtmaker_led_1206_3216metricak/working
-    oomp_doc: footprints/footprints/stanleyseow/SVTmaker/LED_1206_3216MetricAK/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/stanleyseow/SVTmaker/LED_1206_3216MetricAK/working
     oomp_src_flat: footprints_flat/footprints_flat/stanleyseow_svtmaker_led_1206_3216metricak/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/stanleyseow_svtmaker_led_1206_3216metricak/working
-    oomp_src_folder: footprints_folder/footprints_folder/stanleyseow/SVTmaker/LED_1206_3216MetricAK/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/stanleyseow/SVTmaker/LED_1206_3216MetricAK/working
   name: SVTmaker.pretty
+  oomp:
+    footprint_name: led_1206_3216metricak
+    library_name: svtmaker
+    md5: 64e3cbffe99b2481c9cc0721f649428c
+    md5_10: 64e3cbffe9
+    md5_5: 64e3c
+    md5_6: 64e3cb
+    oomp_key: oomp_stanleyseow_svtmaker_led_1206_3216metricak
+    oomp_key_extra: oomp_footprint_stanleyseow_svtmaker_led_1206_3216metricak
+    oomp_key_full: oomp_footprint_stanleyseow_svtmaker_led_1206_3216metricak_64e3cb
+    oomp_key_simple: stanleyseow_svtmaker_led_1206_3216metricak
+    original_filename: SVTmaker.pretty/LED_1206_3216MetricAK.kicad_mod
+    owner_name: stanleyseow
   oomp_key: oomp_stanleyseow_svtmaker_led_1206_3216metricak
+  oomp_key_full: oomp_footprint_stanleyseow_svtmaker_led_1206_3216metricak
   oomp_key_simple: stanleyseow_svtmaker_led_1206_3216metricak
   owner: stanleyseow
   repo:

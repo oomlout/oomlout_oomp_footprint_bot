@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/peekpt_w_conn_misc_6p6c/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/peekpt_w_conn_misc_6p6c/working
-    oomp_doc: footprints/footprints/peekpt/w_conn_misc/6p6c/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/peekpt/w_conn_misc/6p6c/working
     oomp_src_flat: footprints_flat/footprints_flat/peekpt_w_conn_misc_6p6c/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/peekpt_w_conn_misc_6p6c/working
-    oomp_src_folder: footprints_folder/footprints_folder/peekpt/w_conn_misc/6p6c/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/peekpt/w_conn_misc/6p6c/working
   name: kicad_smisioto
+  oomp:
+    footprint_name: 6p6c
+    library_name: w_conn_misc
+    md5: a278a3069212a1f0f3de3e55fcd2536f
+    md5_10: a278a30692
+    md5_5: a278a
+    md5_6: a278a3
+    oomp_key: oomp_peekpt_w_conn_misc_6p6c
+    oomp_key_extra: oomp_footprint_peekpt_w_conn_misc_6p6c
+    oomp_key_full: oomp_footprint_peekpt_w_conn_misc_6p6c_a278a3
+    oomp_key_simple: peekpt_w_conn_misc_6p6c
+    original_filename: kicad_smisioto/modules/walter/w_conn_misc.pretty/6p6c.kicad_mod
+    owner_name: peekpt
   oomp_key: oomp_peekpt_w_conn_misc_6p6c
+  oomp_key_full: oomp_footprint_peekpt_w_conn_misc_6p6c
   oomp_key_simple: peekpt_w_conn_misc_6p6c
   owner: peekpt
   repo:

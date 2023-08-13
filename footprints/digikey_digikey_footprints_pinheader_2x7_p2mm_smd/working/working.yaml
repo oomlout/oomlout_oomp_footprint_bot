@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/digikey_digikey_footprints_pinheader_2x7_p2mm_smd/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_digikey_footprints_pinheader_2x7_p2mm_smd/working
-    oomp_doc: footprints/footprints/digikey/digikey-footprints/PinHeader_2x7_P2mm_SMD/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/digikey/digikey-footprints/PinHeader_2x7_P2mm_SMD/working
     oomp_src_flat: footprints_flat/footprints_flat/digikey_digikey_footprints_pinheader_2x7_p2mm_smd/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/digikey_digikey_footprints_pinheader_2x7_p2mm_smd/working
-    oomp_src_folder: footprints_folder/footprints_folder/digikey/digikey-footprints/PinHeader_2x7_P2mm_SMD/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/digikey/digikey-footprints/PinHeader_2x7_P2mm_SMD/working
   name: digikey-kicad-library
+  oomp:
+    footprint_name: pinheader_2x7_p2mm_smd
+    library_name: digikey_footprints
+    md5: 7337f34eeb1932fe31d79cf8294b718e
+    md5_10: 7337f34eeb
+    md5_5: 7337f
+    md5_6: 7337f3
+    oomp_key: oomp_digikey_digikey_footprints_pinheader_2x7_p2mm_smd
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_pinheader_2x7_p2mm_smd
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_pinheader_2x7_p2mm_smd_7337f3
+    oomp_key_simple: digikey_digikey_footprints_pinheader_2x7_p2mm_smd
+    original_filename: digikey-kicad-library/digikey-footprints.pretty/PinHeader_2x7_P2mm_SMD.kicad_mod
+    owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_pinheader_2x7_p2mm_smd
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_pinheader_2x7_p2mm_smd
   oomp_key_simple: digikey_digikey_footprints_pinheader_2x7_p2mm_smd
   owner: digikey
   repo:

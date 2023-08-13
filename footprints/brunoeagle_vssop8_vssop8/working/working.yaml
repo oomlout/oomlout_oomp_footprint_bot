@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_vssop8_vssop8/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_vssop8_vssop8/working
-    oomp_doc: footprints/footprints/brunoeagle/VSSOP8.kicad_mod/VSSOP8/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/VSSOP8.kicad_mod/VSSOP8/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_vssop8_vssop8/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_vssop8_vssop8/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/VSSOP8.kicad_mod/VSSOP8/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/VSSOP8.kicad_mod/VSSOP8/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: vssop8
+    library_name: vssop8_kicad_mod
+    md5: 71d1ad744fa9703a1906f64df918861a
+    md5_10: 71d1ad744f
+    md5_5: 71d1a
+    md5_6: 71d1ad
+    oomp_key: oomp_brunoeagle_vssop8_vssop8
+    oomp_key_extra: oomp_footprint_brunoeagle_vssop8_vssop8
+    oomp_key_full: oomp_footprint_brunoeagle_vssop8_vssop8_71d1ad
+    oomp_key_simple: brunoeagle_vssop8_vssop8
+    original_filename: kicad-open-modules/VSSOP8.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_vssop8_vssop8
+  oomp_key_full: oomp_footprint_brunoeagle_vssop8_vssop8
   oomp_key_simple: brunoeagle_vssop8_vssop8
   owner: brunoeagle
   repo:

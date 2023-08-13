@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/rohbotics_ipc7351_nominal_qfp65p1200x1200x160_52an/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/rohbotics_ipc7351_nominal_qfp65p1200x1200x160_52an/working
-    oomp_doc: footprints/footprints/rohbotics/IPC7351-Nominal/QFP65P1200X1200X160-52AN/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/rohbotics/IPC7351-Nominal/QFP65P1200X1200X160-52AN/working
     oomp_src_flat: footprints_flat/footprints_flat/rohbotics_ipc7351_nominal_qfp65p1200x1200x160_52an/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/rohbotics_ipc7351_nominal_qfp65p1200x1200x160_52an/working
-    oomp_src_folder: footprints_folder/footprints_folder/rohbotics/IPC7351-Nominal/QFP65P1200X1200X160-52AN/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/rohbotics/IPC7351-Nominal/QFP65P1200X1200X160-52AN/working
   name: IPC7351-Nominal.pretty
+  oomp:
+    footprint_name: qfp65p1200x1200x160_52an
+    library_name: ipc7351_nominal
+    md5: 3fc8c1ae0921056f97fa87e9ec53197a
+    md5_10: 3fc8c1ae09
+    md5_5: 3fc8c
+    md5_6: 3fc8c1
+    oomp_key: oomp_rohbotics_ipc7351_nominal_qfp65p1200x1200x160_52an
+    oomp_key_extra: oomp_footprint_rohbotics_ipc7351_nominal_qfp65p1200x1200x160_52an
+    oomp_key_full: oomp_footprint_rohbotics_ipc7351_nominal_qfp65p1200x1200x160_52an_3fc8c1
+    oomp_key_simple: rohbotics_ipc7351_nominal_qfp65p1200x1200x160_52an
+    original_filename: IPC7351-Nominal.pretty/QFP65P1200X1200X160-52AN.kicad_mod
+    owner_name: rohbotics
   oomp_key: oomp_rohbotics_ipc7351_nominal_qfp65p1200x1200x160_52an
+  oomp_key_full: oomp_footprint_rohbotics_ipc7351_nominal_qfp65p1200x1200x160_52an
   oomp_key_simple: rohbotics_ipc7351_nominal_qfp65p1200x1200x160_52an
   owner: rohbotics
   repo:

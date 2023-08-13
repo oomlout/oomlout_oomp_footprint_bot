@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_uhe1h221mpd_uhe1h221mpd/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_uhe1h221mpd_uhe1h221mpd/working
-    oomp_doc: footprints/footprints/brunoeagle/UHE1H221MPD.kicad_mod/UHE1H221MPD/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/UHE1H221MPD.kicad_mod/UHE1H221MPD/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_uhe1h221mpd_uhe1h221mpd/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_uhe1h221mpd_uhe1h221mpd/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/UHE1H221MPD.kicad_mod/UHE1H221MPD/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/UHE1H221MPD.kicad_mod/UHE1H221MPD/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: uhe1h221mpd
+    library_name: uhe1h221mpd_kicad_mod
+    md5: bededead25213b229c82a0f86c9971c5
+    md5_10: bededead25
+    md5_5: beded
+    md5_6: bedede
+    oomp_key: oomp_brunoeagle_uhe1h221mpd_uhe1h221mpd
+    oomp_key_extra: oomp_footprint_brunoeagle_uhe1h221mpd_uhe1h221mpd
+    oomp_key_full: oomp_footprint_brunoeagle_uhe1h221mpd_uhe1h221mpd_bedede
+    oomp_key_simple: brunoeagle_uhe1h221mpd_uhe1h221mpd
+    original_filename: kicad-open-modules/UHE1H221MPD.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_uhe1h221mpd_uhe1h221mpd
+  oomp_key_full: oomp_footprint_brunoeagle_uhe1h221mpd_uhe1h221mpd
   oomp_key_simple: brunoeagle_uhe1h221mpd_uhe1h221mpd
   owner: brunoeagle
   repo:

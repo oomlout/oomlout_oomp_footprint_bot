@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/joanthespark_footprints_lqfp_48_7x7mm_p0_5mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/joanthespark_footprints_lqfp_48_7x7mm_p0_5mm/working
-    oomp_doc: footprints/footprints/JoanTheSpark/footprints/LQFP-48_7x7mm_P0.5mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/JoanTheSpark/footprints/LQFP-48_7x7mm_P0.5mm/working
     oomp_src_flat: footprints_flat/footprints_flat/joanthespark_footprints_lqfp_48_7x7mm_p0_5mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/joanthespark_footprints_lqfp_48_7x7mm_p0_5mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/JoanTheSpark/footprints/LQFP-48_7x7mm_P0.5mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/JoanTheSpark/footprints/LQFP-48_7x7mm_P0.5mm/working
   name: KiCAD
+  oomp:
+    footprint_name: lqfp_48_7x7mm_p0_5mm
+    library_name: footprints
+    md5: ee392fe3353b30f742b091c60832b5b9
+    md5_10: ee392fe335
+    md5_5: ee392
+    md5_6: ee392f
+    oomp_key: oomp_joanthespark_footprints_lqfp_48_7x7mm_p0_5mm
+    oomp_key_extra: oomp_footprint_joanthespark_footprints_lqfp_48_7x7mm_p0_5mm
+    oomp_key_full: oomp_footprint_joanthespark_footprints_lqfp_48_7x7mm_p0_5mm_ee392f
+    oomp_key_simple: joanthespark_footprints_lqfp_48_7x7mm_p0_5mm
+    original_filename: KiCAD/demos/stickhub/footprints.pretty/LQFP-48_7x7mm_P0.5mm.kicad_mod
+    owner_name: joanthespark
   oomp_key: oomp_joanthespark_footprints_lqfp_48_7x7mm_p0_5mm
+  oomp_key_full: oomp_footprint_joanthespark_footprints_lqfp_48_7x7mm_p0_5mm
   oomp_key_simple: joanthespark_footprints_lqfp_48_7x7mm_p0_5mm
   owner: JoanTheSpark
   repo:

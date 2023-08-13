@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cschopfer_digipict_kicad_footprint_header_2x8/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cschopfer_digipict_kicad_footprint_header_2x8/working
-    oomp_doc: footprints/footprints/cschopfer/digipict-kicad-footprint/header_2x8/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cschopfer/digipict-kicad-footprint/header_2x8/working
     oomp_src_flat: footprints_flat/footprints_flat/cschopfer_digipict_kicad_footprint_header_2x8/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cschopfer_digipict_kicad_footprint_header_2x8/working
-    oomp_src_folder: footprints_folder/footprints_folder/cschopfer/digipict-kicad-footprint/header_2x8/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cschopfer/digipict-kicad-footprint/header_2x8/working
   name: digipict-kicad-footprint.pretty
+  oomp:
+    footprint_name: header_2x8
+    library_name: digipict_kicad_footprint
+    md5: 9edb14f42d3191599f32a4c0bc6540ba
+    md5_10: 9edb14f42d
+    md5_5: 9edb1
+    md5_6: 9edb14
+    oomp_key: oomp_cschopfer_digipict_kicad_footprint_header_2x8
+    oomp_key_extra: oomp_footprint_cschopfer_digipict_kicad_footprint_header_2x8
+    oomp_key_full: oomp_footprint_cschopfer_digipict_kicad_footprint_header_2x8_9edb14
+    oomp_key_simple: cschopfer_digipict_kicad_footprint_header_2x8
+    original_filename: digipict-kicad-footprint.pretty/header_2x8.kicad_mod
+    owner_name: cschopfer
   oomp_key: oomp_cschopfer_digipict_kicad_footprint_header_2x8
+  oomp_key_full: oomp_footprint_cschopfer_digipict_kicad_footprint_header_2x8
   oomp_key_simple: cschopfer_digipict_kicad_footprint_header_2x8
   owner: cschopfer
   repo:

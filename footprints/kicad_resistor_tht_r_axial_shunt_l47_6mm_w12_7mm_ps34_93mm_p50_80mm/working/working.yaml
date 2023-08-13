@@ -12,17 +12,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_resistor_tht_r_axial_shunt_l47_6mm_w12_7mm_ps34_93mm_p50_80mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_resistor_tht_r_axial_shunt_l47_6mm_w12_7mm_ps34_93mm_p50_80mm/working
-    oomp_doc: footprints/footprints/kicad/Resistor_THT/R_Axial_Shunt_L47.6mm_W12.7mm_PS34.93mm_P50.80mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Resistor_THT/R_Axial_Shunt_L47.6mm_W12.7mm_PS34.93mm_P50.80mm/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_resistor_tht_r_axial_shunt_l47_6mm_w12_7mm_ps34_93mm_p50_80mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_resistor_tht_r_axial_shunt_l47_6mm_w12_7mm_ps34_93mm_p50_80mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Resistor_THT/R_Axial_Shunt_L47.6mm_W12.7mm_PS34.93mm_P50.80mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Resistor_THT/R_Axial_Shunt_L47.6mm_W12.7mm_PS34.93mm_P50.80mm/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: r_axial_shunt_l47_6mm_w12_7mm_ps34_93mm_p50_80mm
+    library_name: resistor_tht
+    md5: 624822b217fb362826da44ad5b8e127f
+    md5_10: 624822b217
+    md5_5: '62482'
+    md5_6: '624822'
+    oomp_key: oomp_kicad_resistor_tht_r_axial_shunt_l47_6mm_w12_7mm_ps34_93mm_p50_80mm
+    oomp_key_extra: oomp_footprint_kicad_resistor_tht_r_axial_shunt_l47_6mm_w12_7mm_ps34_93mm_p50_80mm
+    oomp_key_full: oomp_footprint_kicad_resistor_tht_r_axial_shunt_l47_6mm_w12_7mm_ps34_93mm_p50_80mm_624822
+    oomp_key_simple: kicad_resistor_tht_r_axial_shunt_l47_6mm_w12_7mm_ps34_93mm_p50_80mm
+    original_filename: libraries/kicad-footprints/Resistor_THT.pretty/R_Axial_Shunt_L47.6mm_W12.7mm_PS34.93mm_P50.80mm.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_resistor_tht_r_axial_shunt_l47_6mm_w12_7mm_ps34_93mm_p50_80mm
+  oomp_key_full: oomp_footprint_kicad_resistor_tht_r_axial_shunt_l47_6mm_w12_7mm_ps34_93mm_p50_80mm
   oomp_key_simple: kicad_resistor_tht_r_axial_shunt_l47_6mm_w12_7mm_ps34_93mm_p50_80mm
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

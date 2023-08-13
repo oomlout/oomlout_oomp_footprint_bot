@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/seeed_studio_opl_circuit_protection_f1812/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/seeed_studio_opl_circuit_protection_f1812/working
-    oomp_doc: footprints/footprints/Seeed-Studio/OPL_Circuit_Protection/F1812/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Seeed-Studio/OPL_Circuit_Protection/F1812/working
     oomp_src_flat: footprints_flat/footprints_flat/seeed_studio_opl_circuit_protection_f1812/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/seeed_studio_opl_circuit_protection_f1812/working
-    oomp_src_folder: footprints_folder/footprints_folder/Seeed-Studio/OPL_Circuit_Protection/F1812/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Seeed-Studio/OPL_Circuit_Protection/F1812/working
   name: OPL_Kicad_Library
+  oomp:
+    footprint_name: f1812
+    library_name: opl_circuit_protection
+    md5: 6dd14f306b1c1038e5a560d4608e5352
+    md5_10: 6dd14f306b
+    md5_5: 6dd14
+    md5_6: 6dd14f
+    oomp_key: oomp_seeed_studio_opl_circuit_protection_f1812
+    oomp_key_extra: oomp_footprint_seeed_studio_opl_circuit_protection_f1812
+    oomp_key_full: oomp_footprint_seeed_studio_opl_circuit_protection_f1812_6dd14f
+    oomp_key_simple: seeed_studio_opl_circuit_protection_f1812
+    original_filename: OPL_Kicad_Library/Seeed_Fusion_PCBA_OPL_Component_Library_for_KiCad/OPL_Circuit_Protection.pretty/F1812.kicad_mod
+    owner_name: seeed_studio
   oomp_key: oomp_seeed_studio_opl_circuit_protection_f1812
+  oomp_key_full: oomp_footprint_seeed_studio_opl_circuit_protection_f1812
   oomp_key_simple: seeed_studio_opl_circuit_protection_f1812
   owner: Seeed-Studio
   repo:

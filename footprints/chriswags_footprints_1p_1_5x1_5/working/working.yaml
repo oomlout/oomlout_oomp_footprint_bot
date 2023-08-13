@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/chriswags_footprints_1p_1_5x1_5/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/chriswags_footprints_1p_1_5x1_5/working
-    oomp_doc: footprints/footprints/chriswags/footprints/1P-1.5x1.5/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/chriswags/footprints/1P-1.5x1.5/working
     oomp_src_flat: footprints_flat/footprints_flat/chriswags_footprints_1p_1_5x1_5/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/chriswags_footprints_1p_1_5x1_5/working
-    oomp_src_folder: footprints_folder/footprints_folder/chriswags/footprints/1P-1.5x1.5/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/chriswags/footprints/1P-1.5x1.5/working
   name: KiCad
+  oomp:
+    footprint_name: 1p_1_5x1_5
+    library_name: footprints
+    md5: 2f5cc62699a8a271a0ae10d5869277cb
+    md5_10: 2f5cc62699
+    md5_5: 2f5cc
+    md5_6: 2f5cc6
+    oomp_key: oomp_chriswags_footprints_1p_1_5x1_5
+    oomp_key_extra: oomp_footprint_chriswags_footprints_1p_1_5x1_5
+    oomp_key_full: oomp_footprint_chriswags_footprints_1p_1_5x1_5_2f5cc6
+    oomp_key_simple: chriswags_footprints_1p_1_5x1_5
+    original_filename: KiCad/demos/stickhub/footprints.pretty/1P-1.5x1.5.kicad_mod
+    owner_name: chriswags
   oomp_key: oomp_chriswags_footprints_1p_1_5x1_5
+  oomp_key_full: oomp_footprint_chriswags_footprints_1p_1_5x1_5
   oomp_key_simple: chriswags_footprints_1p_1_5x1_5
   owner: chriswags
   repo:

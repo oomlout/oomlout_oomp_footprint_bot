@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/KUT-KiCad/KUT_Connector.pretty
     oomp_bot: footprints/kut_kicad_kut_connector_ampmodu_mte_4p_straight/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kut_kicad_kut_connector_ampmodu_mte_4p_straight/working
-    oomp_doc: footprints/footprints/KUT-KiCad/KUT_Connector/AMPMODU_MTE_4P_Straight/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/KUT-KiCad/KUT_Connector/AMPMODU_MTE_4P_Straight/working
     oomp_src_flat: footprints_flat/footprints_flat/kut_kicad_kut_connector_ampmodu_mte_4p_straight/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kut_kicad_kut_connector_ampmodu_mte_4p_straight/working
-    oomp_src_folder: footprints_folder/footprints_folder/KUT-KiCad/KUT_Connector/AMPMODU_MTE_4P_Straight/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/KUT-KiCad/KUT_Connector/AMPMODU_MTE_4P_Straight/working
   name: KUT_Connector.pretty
+  oomp:
+    footprint_name: ampmodu_mte_4p_straight
+    library_name: kut_connector
+    md5: 3c93f25545f044bebe7e46fb42ec4c82
+    md5_10: 3c93f25545
+    md5_5: 3c93f
+    md5_6: 3c93f2
+    oomp_key: oomp_kut_kicad_kut_connector_ampmodu_mte_4p_straight
+    oomp_key_extra: oomp_footprint_kut_kicad_kut_connector_ampmodu_mte_4p_straight
+    oomp_key_full: oomp_footprint_kut_kicad_kut_connector_ampmodu_mte_4p_straight_3c93f2
+    oomp_key_simple: kut_kicad_kut_connector_ampmodu_mte_4p_straight
+    original_filename: KUT_Connector.pretty/AMPMODU_MTE_4P_Straight.kicad_mod
+    owner_name: kut_kicad
   oomp_key: oomp_kut_kicad_kut_connector_ampmodu_mte_4p_straight
+  oomp_key_full: oomp_footprint_kut_kicad_kut_connector_ampmodu_mte_4p_straight
   oomp_key_simple: kut_kicad_kut_connector_ampmodu_mte_4p_straight
   owner: KUT-KiCad
   repo:

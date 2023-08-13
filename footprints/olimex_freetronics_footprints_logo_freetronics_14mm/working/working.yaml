@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/olimex_freetronics_footprints_logo_freetronics_14mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/olimex_freetronics_footprints_logo_freetronics_14mm/working
-    oomp_doc: footprints/footprints/OLIMEX/freetronics_footprints/LOGO_FREETRONICS_14mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/OLIMEX/freetronics_footprints/LOGO_FREETRONICS_14mm/working
     oomp_src_flat: footprints_flat/footprints_flat/olimex_freetronics_footprints_logo_freetronics_14mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/olimex_freetronics_footprints_logo_freetronics_14mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/OLIMEX/freetronics_footprints/LOGO_FREETRONICS_14mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/OLIMEX/freetronics_footprints/LOGO_FREETRONICS_14mm/working
   name: KiCAD
+  oomp:
+    footprint_name: logo_freetronics_14mm
+    library_name: freetronics_footprints
+    md5: 6fd2201d5df8a9b3185d34951b55ea1b
+    md5_10: 6fd2201d5d
+    md5_5: 6fd22
+    md5_6: 6fd220
+    oomp_key: oomp_olimex_freetronics_footprints_logo_freetronics_14mm
+    oomp_key_extra: oomp_footprint_olimex_freetronics_footprints_logo_freetronics_14mm
+    oomp_key_full: oomp_footprint_olimex_freetronics_footprints_logo_freetronics_14mm_6fd220
+    oomp_key_simple: olimex_freetronics_footprints_logo_freetronics_14mm
+    original_filename: KiCAD/mods/freetronics_footprints.pretty/LOGO_FREETRONICS_14mm.kicad_mod
+    owner_name: olimex
   oomp_key: oomp_olimex_freetronics_footprints_logo_freetronics_14mm
+  oomp_key_full: oomp_footprint_olimex_freetronics_footprints_logo_freetronics_14mm
   oomp_key_simple: olimex_freetronics_footprints_logo_freetronics_14mm
   owner: OLIMEX
   repo:

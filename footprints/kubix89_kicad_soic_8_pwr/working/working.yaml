@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/kubiX89/kiCAD.pretty
     oomp_bot: footprints/kubix89_kicad_soic_8_pwr/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kubix89_kicad_soic_8_pwr/working
-    oomp_doc: footprints/footprints/kubiX89/kiCAD/SOIC_8_PWR/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kubiX89/kiCAD/SOIC_8_PWR/working
     oomp_src_flat: footprints_flat/footprints_flat/kubix89_kicad_soic_8_pwr/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kubix89_kicad_soic_8_pwr/working
-    oomp_src_folder: footprints_folder/footprints_folder/kubiX89/kiCAD/SOIC_8_PWR/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kubiX89/kiCAD/SOIC_8_PWR/working
   name: kiCAD.pretty
+  oomp:
+    footprint_name: soic_8_pwr
+    library_name: kicad
+    md5: 1d19e6a367d29f9362c915dad7078c59
+    md5_10: 1d19e6a367
+    md5_5: 1d19e
+    md5_6: 1d19e6
+    oomp_key: oomp_kubix89_kicad_soic_8_pwr
+    oomp_key_extra: oomp_footprint_kubix89_kicad_soic_8_pwr
+    oomp_key_full: oomp_footprint_kubix89_kicad_soic_8_pwr_1d19e6
+    oomp_key_simple: kubix89_kicad_soic_8_pwr
+    original_filename: kiCAD.pretty/SOIC_8_PWR.kicad_mod
+    owner_name: kubix89
   oomp_key: oomp_kubix89_kicad_soic_8_pwr
+  oomp_key_full: oomp_footprint_kubix89_kicad_soic_8_pwr
   oomp_key_simple: kubix89_kicad_soic_8_pwr
   owner: kubiX89
   repo:

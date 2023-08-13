@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/MacroFab/EDALibraries
     oomp_bot: footprints/macrofab_mf_ic_digital_mf_ic_digital_efm8bb10f(2_4_8)g_a_qfn20/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/macrofab_mf_ic_digital_mf_ic_digital_efm8bb10f(2_4_8)g_a_qfn20/working
-    oomp_doc: footprints/footprints/MacroFab/MF_IC_Digital/MF_IC_Digital-EFM8BB10F(2_4_8)G-A-QFN20/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/MacroFab/MF_IC_Digital/MF_IC_Digital-EFM8BB10F(2_4_8)G-A-QFN20/working
     oomp_src_flat: footprints_flat/footprints_flat/macrofab_mf_ic_digital_mf_ic_digital_efm8bb10f(2_4_8)g_a_qfn20/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/macrofab_mf_ic_digital_mf_ic_digital_efm8bb10f(2_4_8)g_a_qfn20/working
-    oomp_src_folder: footprints_folder/footprints_folder/MacroFab/MF_IC_Digital/MF_IC_Digital-EFM8BB10F(2_4_8)G-A-QFN20/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/MacroFab/MF_IC_Digital/MF_IC_Digital-EFM8BB10F(2_4_8)G-A-QFN20/working
   name: EDALibraries
+  oomp:
+    footprint_name: mf_ic_digital_efm8bb10f(2_4_8)g_a_qfn20
+    library_name: mf_ic_digital
+    md5: fa4513f35c634890a92a5a35b44d34b2
+    md5_10: fa4513f35c
+    md5_5: fa451
+    md5_6: fa4513
+    oomp_key: oomp_macrofab_mf_ic_digital_mf_ic_digital_efm8bb10f(2_4_8)g_a_qfn20
+    oomp_key_extra: oomp_footprint_macrofab_mf_ic_digital_mf_ic_digital_efm8bb10f(2_4_8)g_a_qfn20
+    oomp_key_full: oomp_footprint_macrofab_mf_ic_digital_mf_ic_digital_efm8bb10f(2_4_8)g_a_qfn20_fa4513
+    oomp_key_simple: macrofab_mf_ic_digital_mf_ic_digital_efm8bb10f(2_4_8)g_a_qfn20
+    original_filename: EDALibraries/KiCad/Footprints/MF_IC_Digital.pretty/MF_IC_Digital-EFM8BB10F(2_4_8)G-A-QFN20.kicad_mod
+    owner_name: macrofab
   oomp_key: oomp_macrofab_mf_ic_digital_mf_ic_digital_efm8bb10f(2_4_8)g_a_qfn20
+  oomp_key_full: oomp_footprint_macrofab_mf_ic_digital_mf_ic_digital_efm8bb10f(2_4_8)g_a_qfn20
   oomp_key_simple: macrofab_mf_ic_digital_mf_ic_digital_efm8bb10f(2_4_8)g_a_qfn20
   owner: MacroFab
   repo:

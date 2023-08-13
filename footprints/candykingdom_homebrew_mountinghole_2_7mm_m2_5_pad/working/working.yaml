@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/candykingdom_homebrew_mountinghole_2_7mm_m2_5_pad/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/candykingdom_homebrew_mountinghole_2_7mm_m2_5_pad/working
-    oomp_doc: footprints/footprints/candykingdom/homebrew/MountingHole_2.7mm_M2.5_Pad/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/candykingdom/homebrew/MountingHole_2.7mm_M2.5_Pad/working
     oomp_src_flat: footprints_flat/footprints_flat/candykingdom_homebrew_mountinghole_2_7mm_m2_5_pad/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/candykingdom_homebrew_mountinghole_2_7mm_m2_5_pad/working
-    oomp_src_folder: footprints_folder/footprints_folder/candykingdom/homebrew/MountingHole_2.7mm_M2.5_Pad/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/candykingdom/homebrew/MountingHole_2.7mm_M2.5_Pad/working
   name: homebrew.pretty
+  oomp:
+    footprint_name: mountinghole_2_7mm_m2_5_pad
+    library_name: homebrew
+    md5: 70c1566bebf5a7967f879e93a2c7329e
+    md5_10: 70c1566beb
+    md5_5: 70c15
+    md5_6: 70c156
+    oomp_key: oomp_candykingdom_homebrew_mountinghole_2_7mm_m2_5_pad
+    oomp_key_extra: oomp_footprint_candykingdom_homebrew_mountinghole_2_7mm_m2_5_pad
+    oomp_key_full: oomp_footprint_candykingdom_homebrew_mountinghole_2_7mm_m2_5_pad_70c156
+    oomp_key_simple: candykingdom_homebrew_mountinghole_2_7mm_m2_5_pad
+    original_filename: homebrew.pretty/MountingHole_2.7mm_M2.5_Pad.kicad_mod
+    owner_name: candykingdom
   oomp_key: oomp_candykingdom_homebrew_mountinghole_2_7mm_m2_5_pad
+  oomp_key_full: oomp_footprint_candykingdom_homebrew_mountinghole_2_7mm_m2_5_pad
   oomp_key_simple: candykingdom_homebrew_mountinghole_2_7mm_m2_5_pad
   owner: candykingdom
   repo:

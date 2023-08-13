@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_bc2032_e2_bc2032_e2/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_bc2032_e2_bc2032_e2/working
-    oomp_doc: footprints/footprints/brunoeagle/BC2032-E2.kicad_mod/BC2032-E2/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/BC2032-E2.kicad_mod/BC2032-E2/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_bc2032_e2_bc2032_e2/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_bc2032_e2_bc2032_e2/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/BC2032-E2.kicad_mod/BC2032-E2/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/BC2032-E2.kicad_mod/BC2032-E2/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: bc2032_e2
+    library_name: bc2032_e2_kicad_mod
+    md5: 5c4c2709e94b8def2e2d106438b8c98d
+    md5_10: 5c4c2709e9
+    md5_5: 5c4c2
+    md5_6: 5c4c27
+    oomp_key: oomp_brunoeagle_bc2032_e2_bc2032_e2
+    oomp_key_extra: oomp_footprint_brunoeagle_bc2032_e2_bc2032_e2
+    oomp_key_full: oomp_footprint_brunoeagle_bc2032_e2_bc2032_e2_5c4c27
+    oomp_key_simple: brunoeagle_bc2032_e2_bc2032_e2
+    original_filename: kicad-open-modules/BC2032-E2.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_bc2032_e2_bc2032_e2
+  oomp_key_full: oomp_footprint_brunoeagle_bc2032_e2_bc2032_e2
   oomp_key_simple: brunoeagle_bc2032_e2_bc2032_e2
   owner: brunoeagle
   repo:

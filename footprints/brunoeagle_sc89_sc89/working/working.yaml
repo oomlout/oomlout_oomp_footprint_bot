@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_sc89_sc89/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_sc89_sc89/working
-    oomp_doc: footprints/footprints/brunoeagle/SC89.kicad_mod/SC89/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/SC89.kicad_mod/SC89/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_sc89_sc89/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_sc89_sc89/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/SC89.kicad_mod/SC89/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/SC89.kicad_mod/SC89/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: sc89
+    library_name: sc89_kicad_mod
+    md5: 40c5f10af22742344dd9fbf8fd1625f6
+    md5_10: 40c5f10af2
+    md5_5: 40c5f
+    md5_6: 40c5f1
+    oomp_key: oomp_brunoeagle_sc89_sc89
+    oomp_key_extra: oomp_footprint_brunoeagle_sc89_sc89
+    oomp_key_full: oomp_footprint_brunoeagle_sc89_sc89_40c5f1
+    oomp_key_simple: brunoeagle_sc89_sc89
+    original_filename: kicad-open-modules/SC89.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_sc89_sc89
+  oomp_key_full: oomp_footprint_brunoeagle_sc89_sc89
   oomp_key_simple: brunoeagle_sc89_sc89
   owner: brunoeagle
   repo:

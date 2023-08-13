@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/ebastler_kicad_keyboard_parts_nrf52840_holyiot_18010_hs_simple/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ebastler_kicad_keyboard_parts_nrf52840_holyiot_18010_hs_simple/working
-    oomp_doc: footprints/footprints/ebastler/kicad-keyboard-parts/nRF52840_holyiot_18010_HS_simple/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ebastler/kicad-keyboard-parts/nRF52840_holyiot_18010_HS_simple/working
     oomp_src_flat: footprints_flat/footprints_flat/ebastler_kicad_keyboard_parts_nrf52840_holyiot_18010_hs_simple/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ebastler_kicad_keyboard_parts_nrf52840_holyiot_18010_hs_simple/working
-    oomp_src_folder: footprints_folder/footprints_folder/ebastler/kicad-keyboard-parts/nRF52840_holyiot_18010_HS_simple/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ebastler/kicad-keyboard-parts/nRF52840_holyiot_18010_HS_simple/working
   name: kicad-keyboard-parts.pretty
+  oomp:
+    footprint_name: nrf52840_holyiot_18010_hs_simple
+    library_name: kicad_keyboard_parts
+    md5: 9a9784b5e83f7dc53d4029ec63a38bcd
+    md5_10: 9a9784b5e8
+    md5_5: 9a978
+    md5_6: 9a9784
+    oomp_key: oomp_ebastler_kicad_keyboard_parts_nrf52840_holyiot_18010_hs_simple
+    oomp_key_extra: oomp_footprint_ebastler_kicad_keyboard_parts_nrf52840_holyiot_18010_hs_simple
+    oomp_key_full: oomp_footprint_ebastler_kicad_keyboard_parts_nrf52840_holyiot_18010_hs_simple_9a9784
+    oomp_key_simple: ebastler_kicad_keyboard_parts_nrf52840_holyiot_18010_hs_simple
+    original_filename: kicad-keyboard-parts.pretty/nRF52840_holyiot_18010_HS_simple.kicad_mod
+    owner_name: ebastler
   oomp_key: oomp_ebastler_kicad_keyboard_parts_nrf52840_holyiot_18010_hs_simple
+  oomp_key_full: oomp_footprint_ebastler_kicad_keyboard_parts_nrf52840_holyiot_18010_hs_simple
   oomp_key_simple: ebastler_kicad_keyboard_parts_nrf52840_holyiot_18010_hs_simple
   owner: ebastler
   repo:

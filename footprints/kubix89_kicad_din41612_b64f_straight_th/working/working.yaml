@@ -10,14 +10,24 @@
     github_src_repo: https://github.com/kubiX89/kiCAD.pretty
     oomp_bot: footprints/kubix89_kicad_din41612_b64f_straight_th/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kubix89_kicad_din41612_b64f_straight_th/working
-    oomp_doc: footprints/footprints/kubiX89/kiCAD/DIN41612_B64F_Straight_TH/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kubiX89/kiCAD/DIN41612_B64F_Straight_TH/working
     oomp_src_flat: footprints_flat/footprints_flat/kubix89_kicad_din41612_b64f_straight_th/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kubix89_kicad_din41612_b64f_straight_th/working
-    oomp_src_folder: footprints_folder/footprints_folder/kubiX89/kiCAD/DIN41612_B64F_Straight_TH/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kubiX89/kiCAD/DIN41612_B64F_Straight_TH/working
   name: kiCAD.pretty
+  oomp:
+    footprint_name: din41612_b64f_straight_th
+    library_name: kicad
+    md5: acd149b2586fddfc854e32284f409f7d
+    md5_10: acd149b258
+    md5_5: acd14
+    md5_6: acd149
+    oomp_key: oomp_kubix89_kicad_din41612_b64f_straight_th
+    oomp_key_extra: oomp_footprint_kubix89_kicad_din41612_b64f_straight_th
+    oomp_key_full: oomp_footprint_kubix89_kicad_din41612_b64f_straight_th_acd149
+    oomp_key_simple: kubix89_kicad_din41612_b64f_straight_th
+    original_filename: kiCAD.pretty/DIN41612_B64F_Straight_TH.kicad_mod
+    owner_name: kubix89
   oomp_key: oomp_kubix89_kicad_din41612_b64f_straight_th
+  oomp_key_full: oomp_footprint_kubix89_kicad_din41612_b64f_straight_th
   oomp_key_simple: kubix89_kicad_din41612_b64f_straight_th
   owner: kubiX89
   repo:

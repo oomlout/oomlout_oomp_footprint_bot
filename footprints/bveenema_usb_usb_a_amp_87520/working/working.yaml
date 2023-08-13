@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/bveenema_usb_usb_a_amp_87520/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/bveenema_usb_usb_a_amp_87520/working
-    oomp_doc: footprints/footprints/bveenema/USB/USB-A_AMP_87520/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/bveenema/USB/USB-A_AMP_87520/working
     oomp_src_flat: footprints_flat/footprints_flat/bveenema_usb_usb_a_amp_87520/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/bveenema_usb_usb_a_amp_87520/working
-    oomp_src_folder: footprints_folder/footprints_folder/bveenema/USB/USB-A_AMP_87520/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/bveenema/USB/USB-A_AMP_87520/working
   name: USB.pretty
+  oomp:
+    footprint_name: usb_a_amp_87520
+    library_name: usb
+    md5: cdfbcd67c4c83dd846db81541ff085f4
+    md5_10: cdfbcd67c4
+    md5_5: cdfbc
+    md5_6: cdfbcd
+    oomp_key: oomp_bveenema_usb_usb_a_amp_87520
+    oomp_key_extra: oomp_footprint_bveenema_usb_usb_a_amp_87520
+    oomp_key_full: oomp_footprint_bveenema_usb_usb_a_amp_87520_cdfbcd
+    oomp_key_simple: bveenema_usb_usb_a_amp_87520
+    original_filename: USB.pretty/USB-A_AMP_87520.kicad_mod
+    owner_name: bveenema
   oomp_key: oomp_bveenema_usb_usb_a_amp_87520
+  oomp_key_full: oomp_footprint_bveenema_usb_usb_a_amp_87520
   oomp_key_simple: bveenema_usb_usb_a_amp_87520
   owner: bveenema
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cuzdaori_kicad_xfmr_coilcraft_q4470/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cuzdaori_kicad_xfmr_coilcraft_q4470/working
-    oomp_doc: footprints/footprints/cuzdaori/KiCad/XFMR_COILCRAFT_Q4470/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cuzdaori/KiCad/XFMR_COILCRAFT_Q4470/working
     oomp_src_flat: footprints_flat/footprints_flat/cuzdaori_kicad_xfmr_coilcraft_q4470/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cuzdaori_kicad_xfmr_coilcraft_q4470/working
-    oomp_src_folder: footprints_folder/footprints_folder/cuzdaori/KiCad/XFMR_COILCRAFT_Q4470/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cuzdaori/KiCad/XFMR_COILCRAFT_Q4470/working
   name: KiCad.pretty
+  oomp:
+    footprint_name: xfmr_coilcraft_q4470
+    library_name: kicad
+    md5: 510a75049713887f404a77cac1fe8d74
+    md5_10: 510a750497
+    md5_5: 510a7
+    md5_6: 510a75
+    oomp_key: oomp_cuzdaori_kicad_xfmr_coilcraft_q4470
+    oomp_key_extra: oomp_footprint_cuzdaori_kicad_xfmr_coilcraft_q4470
+    oomp_key_full: oomp_footprint_cuzdaori_kicad_xfmr_coilcraft_q4470_510a75
+    oomp_key_simple: cuzdaori_kicad_xfmr_coilcraft_q4470
+    original_filename: KiCad.pretty/XFMR_COILCRAFT_Q4470.kicad_mod
+    owner_name: cuzdaori
   oomp_key: oomp_cuzdaori_kicad_xfmr_coilcraft_q4470
+  oomp_key_full: oomp_footprint_cuzdaori_kicad_xfmr_coilcraft_q4470
   oomp_key_simple: cuzdaori_kicad_xfmr_coilcraft_q4470
   owner: cuzdaori
   repo:

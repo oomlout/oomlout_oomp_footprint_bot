@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/peekpt_w_smd_cap_c_0805/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/peekpt_w_smd_cap_c_0805/working
-    oomp_doc: footprints/footprints/peekpt/w_smd_cap/c_0805/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/peekpt/w_smd_cap/c_0805/working
     oomp_src_flat: footprints_flat/footprints_flat/peekpt_w_smd_cap_c_0805/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/peekpt_w_smd_cap_c_0805/working
-    oomp_src_folder: footprints_folder/footprints_folder/peekpt/w_smd_cap/c_0805/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/peekpt/w_smd_cap/c_0805/working
   name: kicad_smisioto
+  oomp:
+    footprint_name: c_0805
+    library_name: w_smd_cap
+    md5: 99253e89581b19ef1f0e25dfea069aaf
+    md5_10: 99253e8958
+    md5_5: '99253'
+    md5_6: 99253e
+    oomp_key: oomp_peekpt_w_smd_cap_c_0805
+    oomp_key_extra: oomp_footprint_peekpt_w_smd_cap_c_0805
+    oomp_key_full: oomp_footprint_peekpt_w_smd_cap_c_0805_99253e
+    oomp_key_simple: peekpt_w_smd_cap_c_0805
+    original_filename: kicad_smisioto/modules/walter/w_smd_cap.pretty/c_0805.kicad_mod
+    owner_name: peekpt
   oomp_key: oomp_peekpt_w_smd_cap_c_0805
+  oomp_key_full: oomp_footprint_peekpt_w_smd_cap_c_0805
   oomp_key_simple: peekpt_w_smd_cap_c_0805
   owner: peekpt
   repo:

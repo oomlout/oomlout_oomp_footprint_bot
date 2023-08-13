@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_mountinghole_2mm_noncopper_mountinghole_2mm_noncopper/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_mountinghole_2mm_noncopper_mountinghole_2mm_noncopper/working
-    oomp_doc: footprints/footprints/brunoeagle/MountingHole_2mm_NonCopper.kicad_mod/MountingHole_2mm_NonCopper/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/MountingHole_2mm_NonCopper.kicad_mod/MountingHole_2mm_NonCopper/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_mountinghole_2mm_noncopper_mountinghole_2mm_noncopper/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_mountinghole_2mm_noncopper_mountinghole_2mm_noncopper/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/MountingHole_2mm_NonCopper.kicad_mod/MountingHole_2mm_NonCopper/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/MountingHole_2mm_NonCopper.kicad_mod/MountingHole_2mm_NonCopper/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: mountinghole_2mm_noncopper
+    library_name: mountinghole_2mm_noncopper_kicad_mod
+    md5: c53c2d1cdb8f7b7612f95dd0b282b0d3
+    md5_10: c53c2d1cdb
+    md5_5: c53c2
+    md5_6: c53c2d
+    oomp_key: oomp_brunoeagle_mountinghole_2mm_noncopper_mountinghole_2mm_noncopper
+    oomp_key_extra: oomp_footprint_brunoeagle_mountinghole_2mm_noncopper_mountinghole_2mm_noncopper
+    oomp_key_full: oomp_footprint_brunoeagle_mountinghole_2mm_noncopper_mountinghole_2mm_noncopper_c53c2d
+    oomp_key_simple: brunoeagle_mountinghole_2mm_noncopper_mountinghole_2mm_noncopper
+    original_filename: kicad-open-modules/MountingHole_2mm_NonCopper.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_mountinghole_2mm_noncopper_mountinghole_2mm_noncopper
+  oomp_key_full: oomp_footprint_brunoeagle_mountinghole_2mm_noncopper_mountinghole_2mm_noncopper
   oomp_key_simple: brunoeagle_mountinghole_2mm_noncopper_mountinghole_2mm_noncopper
   owner: brunoeagle
   repo:

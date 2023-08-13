@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/natsfr_ssop_ms8g_ep/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/natsfr_ssop_ms8g_ep/working
-    oomp_doc: footprints/footprints/natsfr/SSOP/MS8G_EP/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/natsfr/SSOP/MS8G_EP/working
     oomp_src_flat: footprints_flat/footprints_flat/natsfr_ssop_ms8g_ep/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/natsfr_ssop_ms8g_ep/working
-    oomp_src_folder: footprints_folder/footprints_folder/natsfr/SSOP/MS8G_EP/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/natsfr/SSOP/MS8G_EP/working
   name: kicad-components
+  oomp:
+    footprint_name: ms8g_ep
+    library_name: ssop
+    md5: be7e18b2fca4c80c93332ec7a5928db0
+    md5_10: be7e18b2fc
+    md5_5: be7e1
+    md5_6: be7e18
+    oomp_key: oomp_natsfr_ssop_ms8g_ep
+    oomp_key_extra: oomp_footprint_natsfr_ssop_ms8g_ep
+    oomp_key_full: oomp_footprint_natsfr_ssop_ms8g_ep_be7e18
+    oomp_key_simple: natsfr_ssop_ms8g_ep
+    original_filename: kicad-components/Pretty_Footprints/SSOP.pretty/MS8G_EP.kicad_mod
+    owner_name: natsfr
   oomp_key: oomp_natsfr_ssop_ms8g_ep
+  oomp_key_full: oomp_footprint_natsfr_ssop_ms8g_ep
   oomp_key_simple: natsfr_ssop_ms8g_ep
   owner: natsfr
   repo:

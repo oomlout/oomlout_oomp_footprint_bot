@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/hizlabs_kicad_footprints_3m_2500_0_1_02x15_shrouded/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/hizlabs_kicad_footprints_3m_2500_0_1_02x15_shrouded/working
-    oomp_doc: footprints/footprints/HiZLabs/KiCad_Footprints/3M_2500_0.1_02x15_Shrouded/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/HiZLabs/KiCad_Footprints/3M_2500_0.1_02x15_Shrouded/working
     oomp_src_flat: footprints_flat/footprints_flat/hizlabs_kicad_footprints_3m_2500_0_1_02x15_shrouded/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/hizlabs_kicad_footprints_3m_2500_0_1_02x15_shrouded/working
-    oomp_src_folder: footprints_folder/footprints_folder/HiZLabs/KiCad_Footprints/3M_2500_0.1_02x15_Shrouded/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/HiZLabs/KiCad_Footprints/3M_2500_0.1_02x15_Shrouded/working
   name: KiCad_Footprints.pretty
+  oomp:
+    footprint_name: 3m_2500_0_1_02x15_shrouded
+    library_name: kicad_footprints
+    md5: 2a250682f5957e980cc103e63020e48f
+    md5_10: 2a250682f5
+    md5_5: 2a250
+    md5_6: 2a2506
+    oomp_key: oomp_hizlabs_kicad_footprints_3m_2500_0_1_02x15_shrouded
+    oomp_key_extra: oomp_footprint_hizlabs_kicad_footprints_3m_2500_0_1_02x15_shrouded
+    oomp_key_full: oomp_footprint_hizlabs_kicad_footprints_3m_2500_0_1_02x15_shrouded_2a2506
+    oomp_key_simple: hizlabs_kicad_footprints_3m_2500_0_1_02x15_shrouded
+    original_filename: KiCad_Footprints.pretty/3M_2500_0.1_02x15_Shrouded.kicad_mod
+    owner_name: hizlabs
   oomp_key: oomp_hizlabs_kicad_footprints_3m_2500_0_1_02x15_shrouded
+  oomp_key_full: oomp_footprint_hizlabs_kicad_footprints_3m_2500_0_1_02x15_shrouded
   oomp_key_simple: hizlabs_kicad_footprints_3m_2500_0_1_02x15_shrouded
   owner: HiZLabs
   repo:

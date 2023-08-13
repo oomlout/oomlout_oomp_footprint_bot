@@ -13,14 +13,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/re_innovation_to_sot_packages_smd_sc_70_6_handsoldering/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/re_innovation_to_sot_packages_smd_sc_70_6_handsoldering/working
-    oomp_doc: footprints/footprints/re-innovation/TO_SOT_Packages_SMD/SC-70-6_Handsoldering/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/re-innovation/TO_SOT_Packages_SMD/SC-70-6_Handsoldering/working
     oomp_src_flat: footprints_flat/footprints_flat/re_innovation_to_sot_packages_smd_sc_70_6_handsoldering/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/re_innovation_to_sot_packages_smd_sc_70_6_handsoldering/working
-    oomp_src_folder: footprints_folder/footprints_folder/re-innovation/TO_SOT_Packages_SMD/SC-70-6_Handsoldering/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/re-innovation/TO_SOT_Packages_SMD/SC-70-6_Handsoldering/working
   name: kicad_reinnovation
+  oomp:
+    footprint_name: sc_70_6_handsoldering
+    library_name: to_sot_packages_smd
+    md5: 6fac1790389450e27f566cc705b0b21b
+    md5_10: 6fac179038
+    md5_5: 6fac1
+    md5_6: 6fac17
+    oomp_key: oomp_re_innovation_to_sot_packages_smd_sc_70_6_handsoldering
+    oomp_key_extra: oomp_footprint_re_innovation_to_sot_packages_smd_sc_70_6_handsoldering
+    oomp_key_full: oomp_footprint_re_innovation_to_sot_packages_smd_sc_70_6_handsoldering_6fac17
+    oomp_key_simple: re_innovation_to_sot_packages_smd_sc_70_6_handsoldering
+    original_filename: kicad_reinnovation/KiCAD PRETTY/TO_SOT_Packages_SMD.pretty/SC-70-6_Handsoldering.kicad_mod
+    owner_name: re_innovation
   oomp_key: oomp_re_innovation_to_sot_packages_smd_sc_70_6_handsoldering
+  oomp_key_full: oomp_footprint_re_innovation_to_sot_packages_smd_sc_70_6_handsoldering
   oomp_key_simple: re_innovation_to_sot_packages_smd_sc_70_6_handsoldering
   owner: re-innovation
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/hoskinstech_bjh_kicad_rcld_fp_pwr5322_smd/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/hoskinstech_bjh_kicad_rcld_fp_pwr5322_smd/working
-    oomp_doc: footprints/footprints/hoskinstech/bjh-kicad-rcld-fp/PWR5322_SMD/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/hoskinstech/bjh-kicad-rcld-fp/PWR5322_SMD/working
     oomp_src_flat: footprints_flat/footprints_flat/hoskinstech_bjh_kicad_rcld_fp_pwr5322_smd/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/hoskinstech_bjh_kicad_rcld_fp_pwr5322_smd/working
-    oomp_src_folder: footprints_folder/footprints_folder/hoskinstech/bjh-kicad-rcld-fp/PWR5322_SMD/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/hoskinstech/bjh-kicad-rcld-fp/PWR5322_SMD/working
   name: bjh-kicad-rcld-fp.pretty
+  oomp:
+    footprint_name: pwr5322_smd
+    library_name: bjh_kicad_rcld_fp
+    md5: f352acb63d692577b795a3d561d57bbe
+    md5_10: f352acb63d
+    md5_5: f352a
+    md5_6: f352ac
+    oomp_key: oomp_hoskinstech_bjh_kicad_rcld_fp_pwr5322_smd
+    oomp_key_extra: oomp_footprint_hoskinstech_bjh_kicad_rcld_fp_pwr5322_smd
+    oomp_key_full: oomp_footprint_hoskinstech_bjh_kicad_rcld_fp_pwr5322_smd_f352ac
+    oomp_key_simple: hoskinstech_bjh_kicad_rcld_fp_pwr5322_smd
+    original_filename: bjh-kicad-rcld-fp.pretty/PWR5322_SMD.kicad_mod
+    owner_name: hoskinstech
   oomp_key: oomp_hoskinstech_bjh_kicad_rcld_fp_pwr5322_smd
+  oomp_key_full: oomp_footprint_hoskinstech_bjh_kicad_rcld_fp_pwr5322_smd
   oomp_key_simple: hoskinstech_bjh_kicad_rcld_fp_pwr5322_smd
   owner: hoskinstech
   repo:

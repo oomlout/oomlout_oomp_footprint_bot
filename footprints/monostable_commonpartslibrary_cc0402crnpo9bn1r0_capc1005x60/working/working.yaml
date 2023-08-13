@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/monostable_commonpartslibrary_cc0402crnpo9bn1r0_capc1005x60/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/monostable_commonpartslibrary_cc0402crnpo9bn1r0_capc1005x60/working
-    oomp_doc: footprints/footprints/monostable/CommonPartsLibrary/CC0402CRNPO9BN1R0_CAPC1005X60/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/monostable/CommonPartsLibrary/CC0402CRNPO9BN1R0_CAPC1005X60/working
     oomp_src_flat: footprints_flat/footprints_flat/monostable_commonpartslibrary_cc0402crnpo9bn1r0_capc1005x60/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/monostable_commonpartslibrary_cc0402crnpo9bn1r0_capc1005x60/working
-    oomp_src_folder: footprints_folder/footprints_folder/monostable/CommonPartsLibrary/CC0402CRNPO9BN1R0_CAPC1005X60/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/monostable/CommonPartsLibrary/CC0402CRNPO9BN1R0_CAPC1005X60/working
   name: CommonPartsLibrary.pretty
+  oomp:
+    footprint_name: cc0402crnpo9bn1r0_capc1005x60
+    library_name: commonpartslibrary
+    md5: 6d79f402ffc2969e43b0f5596cee1f58
+    md5_10: 6d79f402ff
+    md5_5: 6d79f
+    md5_6: 6d79f4
+    oomp_key: oomp_monostable_commonpartslibrary_cc0402crnpo9bn1r0_capc1005x60
+    oomp_key_extra: oomp_footprint_monostable_commonpartslibrary_cc0402crnpo9bn1r0_capc1005x60
+    oomp_key_full: oomp_footprint_monostable_commonpartslibrary_cc0402crnpo9bn1r0_capc1005x60_6d79f4
+    oomp_key_simple: monostable_commonpartslibrary_cc0402crnpo9bn1r0_capc1005x60
+    original_filename: CommonPartsLibrary.pretty/CC0402CRNPO9BN1R0_CAPC1005X60.kicad_mod
+    owner_name: monostable
   oomp_key: oomp_monostable_commonpartslibrary_cc0402crnpo9bn1r0_capc1005x60
+  oomp_key_full: oomp_footprint_monostable_commonpartslibrary_cc0402crnpo9bn1r0_capc1005x60
   oomp_key_simple: monostable_commonpartslibrary_cc0402crnpo9bn1r0_capc1005x60
   owner: monostable
   repo:

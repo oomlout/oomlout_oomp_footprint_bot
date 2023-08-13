@@ -14,14 +14,24 @@
     github_src_repo: https://github.com/AcheronProject/acheron_Components.pretty
     oomp_bot: footprints/acheronproject_acheron_components_d_do_35_sod27_p7_62mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/acheronproject_acheron_components_d_do_35_sod27_p7_62mm/working
-    oomp_doc: footprints/footprints/AcheronProject/acheron_Components/D_DO-35_SOD27_P7.62mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/AcheronProject/acheron_Components/D_DO-35_SOD27_P7.62mm/working
     oomp_src_flat: footprints_flat/footprints_flat/acheronproject_acheron_components_d_do_35_sod27_p7_62mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/acheronproject_acheron_components_d_do_35_sod27_p7_62mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/AcheronProject/acheron_Components/D_DO-35_SOD27_P7.62mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/AcheronProject/acheron_Components/D_DO-35_SOD27_P7.62mm/working
   name: acheron_Components.pretty
+  oomp:
+    footprint_name: d_do_35_sod27_p7_62mm
+    library_name: acheron_components
+    md5: de0897b5077c13bd9268e505068e66a0
+    md5_10: de0897b507
+    md5_5: de089
+    md5_6: de0897
+    oomp_key: oomp_acheronproject_acheron_components_d_do_35_sod27_p7_62mm
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_components_d_do_35_sod27_p7_62mm
+    oomp_key_full: oomp_footprint_acheronproject_acheron_components_d_do_35_sod27_p7_62mm_de0897
+    oomp_key_simple: acheronproject_acheron_components_d_do_35_sod27_p7_62mm
+    original_filename: acheron_Components.pretty/D_DO-35_SOD27_P7.62mm.kicad_mod
+    owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_components_d_do_35_sod27_p7_62mm
+  oomp_key_full: oomp_footprint_acheronproject_acheron_components_d_do_35_sod27_p7_62mm
   oomp_key_simple: acheronproject_acheron_components_d_do_35_sod27_p7_62mm
   owner: AcheronProject
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/ossiconelabs_ossicone_labs_footprints_atmel_atmega_162_8515/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ossiconelabs_ossicone_labs_footprints_atmel_atmega_162_8515/working
-    oomp_doc: footprints/footprints/OssiconeLabs/Ossicone_Labs_Footprints/Atmel_ATmega-162_8515/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/OssiconeLabs/Ossicone_Labs_Footprints/Atmel_ATmega-162_8515/working
     oomp_src_flat: footprints_flat/footprints_flat/ossiconelabs_ossicone_labs_footprints_atmel_atmega_162_8515/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ossiconelabs_ossicone_labs_footprints_atmel_atmega_162_8515/working
-    oomp_src_folder: footprints_folder/footprints_folder/OssiconeLabs/Ossicone_Labs_Footprints/Atmel_ATmega-162_8515/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/OssiconeLabs/Ossicone_Labs_Footprints/Atmel_ATmega-162_8515/working
   name: Ossicone_Labs_Footprints.pretty
+  oomp:
+    footprint_name: atmel_atmega_162_8515
+    library_name: ossicone_labs_footprints
+    md5: e2a912f4b8be2f646595ead11994f335
+    md5_10: e2a912f4b8
+    md5_5: e2a91
+    md5_6: e2a912
+    oomp_key: oomp_ossiconelabs_ossicone_labs_footprints_atmel_atmega_162_8515
+    oomp_key_extra: oomp_footprint_ossiconelabs_ossicone_labs_footprints_atmel_atmega_162_8515
+    oomp_key_full: oomp_footprint_ossiconelabs_ossicone_labs_footprints_atmel_atmega_162_8515_e2a912
+    oomp_key_simple: ossiconelabs_ossicone_labs_footprints_atmel_atmega_162_8515
+    original_filename: Ossicone_Labs_Footprints.pretty/Atmel_ATmega-162_8515.kicad_mod
+    owner_name: ossiconelabs
   oomp_key: oomp_ossiconelabs_ossicone_labs_footprints_atmel_atmega_162_8515
+  oomp_key_full: oomp_footprint_ossiconelabs_ossicone_labs_footprints_atmel_atmega_162_8515
   oomp_key_simple: ossiconelabs_ossicone_labs_footprints_atmel_atmega_162_8515
   owner: OssiconeLabs
   repo:

@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/Iangitpers/4a
     oomp_bot: footprints/iangitpers_symbol_ce_logo_8_5x6mm_silkscreen/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/iangitpers_symbol_ce_logo_8_5x6mm_silkscreen/working
-    oomp_doc: footprints/footprints/Iangitpers/Symbol/CE-Logo_8.5x6mm_SilkScreen/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Iangitpers/Symbol/CE-Logo_8.5x6mm_SilkScreen/working
     oomp_src_flat: footprints_flat/footprints_flat/iangitpers_symbol_ce_logo_8_5x6mm_silkscreen/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/iangitpers_symbol_ce_logo_8_5x6mm_silkscreen/working
-    oomp_src_folder: footprints_folder/footprints_folder/Iangitpers/Symbol/CE-Logo_8.5x6mm_SilkScreen/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Iangitpers/Symbol/CE-Logo_8.5x6mm_SilkScreen/working
   name: 4a
+  oomp:
+    footprint_name: ce_logo_8_5x6mm_silkscreen
+    library_name: symbol
+    md5: 6cb9604f01543d33947451a21e53dd16
+    md5_10: 6cb9604f01
+    md5_5: 6cb96
+    md5_6: 6cb960
+    oomp_key: oomp_iangitpers_symbol_ce_logo_8_5x6mm_silkscreen
+    oomp_key_extra: oomp_footprint_iangitpers_symbol_ce_logo_8_5x6mm_silkscreen
+    oomp_key_full: oomp_footprint_iangitpers_symbol_ce_logo_8_5x6mm_silkscreen_6cb960
+    oomp_key_simple: iangitpers_symbol_ce_logo_8_5x6mm_silkscreen
+    original_filename: 4a/Symbol.pretty/CE-Logo_8.5x6mm_SilkScreen.kicad_mod
+    owner_name: iangitpers
   oomp_key: oomp_iangitpers_symbol_ce_logo_8_5x6mm_silkscreen
+  oomp_key_full: oomp_footprint_iangitpers_symbol_ce_logo_8_5x6mm_silkscreen
   oomp_key_simple: iangitpers_symbol_ce_logo_8_5x6mm_silkscreen
   owner: Iangitpers
   repo:

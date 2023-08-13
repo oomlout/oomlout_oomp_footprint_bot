@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/nppc_diode_bridge_30x30_diode_bridge_30x30/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nppc_diode_bridge_30x30_diode_bridge_30x30/working
-    oomp_doc: footprints/footprints/nppc/Diode_Bridge_30X30.kicad_mod/Diode_Bridge_30X30/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/nppc/Diode_Bridge_30X30.kicad_mod/Diode_Bridge_30X30/working
     oomp_src_flat: footprints_flat/footprints_flat/nppc_diode_bridge_30x30_diode_bridge_30x30/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nppc_diode_bridge_30x30_diode_bridge_30x30/working
-    oomp_src_folder: footprints_folder/footprints_folder/nppc/Diode_Bridge_30X30.kicad_mod/Diode_Bridge_30X30/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/nppc/Diode_Bridge_30X30.kicad_mod/Diode_Bridge_30X30/working
   name: KiCadCustomLibs
+  oomp:
+    footprint_name: diode_bridge_30x30
+    library_name: diode_bridge_30x30_kicad_mod
+    md5: 9f4249fd60c3b644357e07e134763d9b
+    md5_10: 9f4249fd60
+    md5_5: 9f424
+    md5_6: 9f4249
+    oomp_key: oomp_nppc_diode_bridge_30x30_diode_bridge_30x30
+    oomp_key_extra: oomp_footprint_nppc_diode_bridge_30x30_diode_bridge_30x30
+    oomp_key_full: oomp_footprint_nppc_diode_bridge_30x30_diode_bridge_30x30_9f4249
+    oomp_key_simple: nppc_diode_bridge_30x30_diode_bridge_30x30
+    original_filename: KiCadCustomLibs/Diode_Bridge_30X30.kicad_mod
+    owner_name: nppc
   oomp_key: oomp_nppc_diode_bridge_30x30_diode_bridge_30x30
+  oomp_key_full: oomp_footprint_nppc_diode_bridge_30x30_diode_bridge_30x30
   oomp_key_simple: nppc_diode_bridge_30x30_diode_bridge_30x30
   owner: nppc
   repo:

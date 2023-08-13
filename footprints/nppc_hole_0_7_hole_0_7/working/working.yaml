@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/nppc_hole_0_7_hole_0_7/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nppc_hole_0_7_hole_0_7/working
-    oomp_doc: footprints/footprints/nppc/hole_0.7.kicad_mod/hole_0.7/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/nppc/hole_0.7.kicad_mod/hole_0.7/working
     oomp_src_flat: footprints_flat/footprints_flat/nppc_hole_0_7_hole_0_7/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nppc_hole_0_7_hole_0_7/working
-    oomp_src_folder: footprints_folder/footprints_folder/nppc/hole_0.7.kicad_mod/hole_0.7/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/nppc/hole_0.7.kicad_mod/hole_0.7/working
   name: KiCadCustomLibs
+  oomp:
+    footprint_name: hole_0_7
+    library_name: hole_0_7_kicad_mod
+    md5: a6e1e989d3f790b7e39d35f1a6daeae4
+    md5_10: a6e1e989d3
+    md5_5: a6e1e
+    md5_6: a6e1e9
+    oomp_key: oomp_nppc_hole_0_7_hole_0_7
+    oomp_key_extra: oomp_footprint_nppc_hole_0_7_hole_0_7
+    oomp_key_full: oomp_footprint_nppc_hole_0_7_hole_0_7_a6e1e9
+    oomp_key_simple: nppc_hole_0_7_hole_0_7
+    original_filename: KiCadCustomLibs/hole_0.7.kicad_mod
+    owner_name: nppc
   oomp_key: oomp_nppc_hole_0_7_hole_0_7
+  oomp_key_full: oomp_footprint_nppc_hole_0_7_hole_0_7
   oomp_key_simple: nppc_hole_0_7_hole_0_7
   owner: nppc
   repo:

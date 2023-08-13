@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/chriswags_footprints_cp_elec_6_3x11_board_edge_mirrored/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/chriswags_footprints_cp_elec_6_3x11_board_edge_mirrored/working
-    oomp_doc: footprints/footprints/chriswags/footprints/CP_Elec_6.3x11_Board_Edge_Mirrored/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/chriswags/footprints/CP_Elec_6.3x11_Board_Edge_Mirrored/working
     oomp_src_flat: footprints_flat/footprints_flat/chriswags_footprints_cp_elec_6_3x11_board_edge_mirrored/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/chriswags_footprints_cp_elec_6_3x11_board_edge_mirrored/working
-    oomp_src_folder: footprints_folder/footprints_folder/chriswags/footprints/CP_Elec_6.3x11_Board_Edge_Mirrored/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/chriswags/footprints/CP_Elec_6.3x11_Board_Edge_Mirrored/working
   name: KiCad
+  oomp:
+    footprint_name: cp_elec_6_3x11_board_edge_mirrored
+    library_name: footprints
+    md5: 29b94264aec1fd88afb1626a7d4d1de3
+    md5_10: 29b94264ae
+    md5_5: 29b94
+    md5_6: 29b942
+    oomp_key: oomp_chriswags_footprints_cp_elec_6_3x11_board_edge_mirrored
+    oomp_key_extra: oomp_footprint_chriswags_footprints_cp_elec_6_3x11_board_edge_mirrored
+    oomp_key_full: oomp_footprint_chriswags_footprints_cp_elec_6_3x11_board_edge_mirrored_29b942
+    oomp_key_simple: chriswags_footprints_cp_elec_6_3x11_board_edge_mirrored
+    original_filename: KiCad/demos/stickhub/footprints.pretty/CP_Elec_6.3x11_Board_Edge_Mirrored.kicad_mod
+    owner_name: chriswags
   oomp_key: oomp_chriswags_footprints_cp_elec_6_3x11_board_edge_mirrored
+  oomp_key_full: oomp_footprint_chriswags_footprints_cp_elec_6_3x11_board_edge_mirrored
   oomp_key_simple: chriswags_footprints_cp_elec_6_3x11_board_edge_mirrored
   owner: chriswags
   repo:

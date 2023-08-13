@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/jonasnorling_footprints_oscillator_3_2x2_5/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/jonasnorling_footprints_oscillator_3_2x2_5/working
-    oomp_doc: footprints/footprints/JonasNorling/Footprints/Oscillator-3.2x2.5/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/JonasNorling/Footprints/Oscillator-3.2x2.5/working
     oomp_src_flat: footprints_flat/footprints_flat/jonasnorling_footprints_oscillator_3_2x2_5/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/jonasnorling_footprints_oscillator_3_2x2_5/working
-    oomp_src_folder: footprints_folder/footprints_folder/JonasNorling/Footprints/Oscillator-3.2x2.5/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/JonasNorling/Footprints/Oscillator-3.2x2.5/working
   name: Footprints.pretty
+  oomp:
+    footprint_name: oscillator_3_2x2_5
+    library_name: footprints
+    md5: 84262b4e33564a48980ffd0f40f5cefe
+    md5_10: 84262b4e33
+    md5_5: '84262'
+    md5_6: 84262b
+    oomp_key: oomp_jonasnorling_footprints_oscillator_3_2x2_5
+    oomp_key_extra: oomp_footprint_jonasnorling_footprints_oscillator_3_2x2_5
+    oomp_key_full: oomp_footprint_jonasnorling_footprints_oscillator_3_2x2_5_84262b
+    oomp_key_simple: jonasnorling_footprints_oscillator_3_2x2_5
+    original_filename: Footprints.pretty/Oscillator-3.2x2.5.kicad_mod
+    owner_name: jonasnorling
   oomp_key: oomp_jonasnorling_footprints_oscillator_3_2x2_5
+  oomp_key_full: oomp_footprint_jonasnorling_footprints_oscillator_3_2x2_5
   oomp_key_simple: jonasnorling_footprints_oscillator_3_2x2_5
   owner: JonasNorling
   repo:

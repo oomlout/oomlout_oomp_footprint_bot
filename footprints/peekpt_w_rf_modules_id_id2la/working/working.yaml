@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/peekpt_w_rf_modules_id_id2la/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/peekpt_w_rf_modules_id_id2la/working
-    oomp_doc: footprints/footprints/peekpt/w_rf_modules/id_id2la/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/peekpt/w_rf_modules/id_id2la/working
     oomp_src_flat: footprints_flat/footprints_flat/peekpt_w_rf_modules_id_id2la/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/peekpt_w_rf_modules_id_id2la/working
-    oomp_src_folder: footprints_folder/footprints_folder/peekpt/w_rf_modules/id_id2la/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/peekpt/w_rf_modules/id_id2la/working
   name: kicad_smisioto
+  oomp:
+    footprint_name: id_id2la
+    library_name: w_rf_modules
+    md5: 4104070320ccd0470b6b39cfe9cbb2b0
+    md5_10: '4104070320'
+    md5_5: '41040'
+    md5_6: '410407'
+    oomp_key: oomp_peekpt_w_rf_modules_id_id2la
+    oomp_key_extra: oomp_footprint_peekpt_w_rf_modules_id_id2la
+    oomp_key_full: oomp_footprint_peekpt_w_rf_modules_id_id2la_410407
+    oomp_key_simple: peekpt_w_rf_modules_id_id2la
+    original_filename: kicad_smisioto/modules/walter/w_rf_modules.pretty/id_id2la.kicad_mod
+    owner_name: peekpt
   oomp_key: oomp_peekpt_w_rf_modules_id_id2la
+  oomp_key_full: oomp_footprint_peekpt_w_rf_modules_id_id2la
   oomp_key_simple: peekpt_w_rf_modules_id_id2la
   owner: peekpt
   repo:

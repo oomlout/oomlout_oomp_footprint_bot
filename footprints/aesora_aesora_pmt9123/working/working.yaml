@@ -14,14 +14,24 @@
     github_src_repo: https://github.com/m-byte/aesora.pretty
     oomp_bot: footprints/aesora_aesora_pmt9123/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/aesora_aesora_pmt9123/working
-    oomp_doc: footprints/footprints/aesora/aesora/PMT9123/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/aesora/aesora/PMT9123/working
     oomp_src_flat: footprints_flat/footprints_flat/aesora_aesora_pmt9123/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/aesora_aesora_pmt9123/working
-    oomp_src_folder: footprints_folder/footprints_folder/aesora/aesora/PMT9123/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/aesora/aesora/PMT9123/working
   name: aesora.pretty
+  oomp:
+    footprint_name: pmt9123
+    library_name: aesora
+    md5: 54d12f090bbd6d510bd3893ccd645829
+    md5_10: 54d12f090b
+    md5_5: 54d12
+    md5_6: 54d12f
+    oomp_key: oomp_aesora_aesora_pmt9123
+    oomp_key_extra: oomp_footprint_aesora_aesora_pmt9123
+    oomp_key_full: oomp_footprint_aesora_aesora_pmt9123_54d12f
+    oomp_key_simple: aesora_aesora_pmt9123
+    original_filename: aesora.pretty/PMT9123.kicad_mod
+    owner_name: m_byte
   oomp_key: oomp_aesora_aesora_pmt9123
+  oomp_key_full: oomp_footprint_aesora_aesora_pmt9123
   oomp_key_simple: aesora_aesora_pmt9123
   owner: aesora
   repo:

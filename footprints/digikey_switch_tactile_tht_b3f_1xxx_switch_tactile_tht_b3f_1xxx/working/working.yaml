@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/digikey_switch_tactile_tht_b3f_1xxx_switch_tactile_tht_b3f_1xxx/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_switch_tactile_tht_b3f_1xxx_switch_tactile_tht_b3f_1xxx/working
-    oomp_doc: footprints/footprints/digikey/Switch_Tactile_THT_B3F-1xxx.kicad_mod/Switch_Tactile_THT_B3F-1xxx/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/digikey/Switch_Tactile_THT_B3F-1xxx.kicad_mod/Switch_Tactile_THT_B3F-1xxx/working
     oomp_src_flat: footprints_flat/footprints_flat/digikey_switch_tactile_tht_b3f_1xxx_switch_tactile_tht_b3f_1xxx/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/digikey_switch_tactile_tht_b3f_1xxx_switch_tactile_tht_b3f_1xxx/working
-    oomp_src_folder: footprints_folder/footprints_folder/digikey/Switch_Tactile_THT_B3F-1xxx.kicad_mod/Switch_Tactile_THT_B3F-1xxx/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/digikey/Switch_Tactile_THT_B3F-1xxx.kicad_mod/Switch_Tactile_THT_B3F-1xxx/working
   name: digikey-kicad-library
+  oomp:
+    footprint_name: switch_tactile_tht_b3f_1xxx
+    library_name: switch_tactile_tht_b3f_1xxx_kicad_mod
+    md5: 4e7ef13124d24cafba0ae4338db89bc6
+    md5_10: 4e7ef13124
+    md5_5: 4e7ef
+    md5_6: 4e7ef1
+    oomp_key: oomp_digikey_switch_tactile_tht_b3f_1xxx_switch_tactile_tht_b3f_1xxx
+    oomp_key_extra: oomp_footprint_digikey_switch_tactile_tht_b3f_1xxx_switch_tactile_tht_b3f_1xxx
+    oomp_key_full: oomp_footprint_digikey_switch_tactile_tht_b3f_1xxx_switch_tactile_tht_b3f_1xxx_4e7ef1
+    oomp_key_simple: digikey_switch_tactile_tht_b3f_1xxx_switch_tactile_tht_b3f_1xxx
+    original_filename: digikey-kicad-library/src/Source_Footprints/Switch_Tactile_THT_B3F-1xxx.kicad_mod
+    owner_name: digikey
   oomp_key: oomp_digikey_switch_tactile_tht_b3f_1xxx_switch_tactile_tht_b3f_1xxx
+  oomp_key_full: oomp_footprint_digikey_switch_tactile_tht_b3f_1xxx_switch_tactile_tht_b3f_1xxx
   oomp_key_simple: digikey_switch_tactile_tht_b3f_1xxx_switch_tactile_tht_b3f_1xxx
   owner: digikey
   repo:

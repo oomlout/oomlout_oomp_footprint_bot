@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/codemercenary_os_kicad_conn_ac_entry/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/codemercenary_os_kicad_conn_ac_entry/working
-    oomp_doc: footprints/footprints/codemercenary-os/kicad/CONN_AC_ENTRY/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/codemercenary-os/kicad/CONN_AC_ENTRY/working
     oomp_src_flat: footprints_flat/footprints_flat/codemercenary_os_kicad_conn_ac_entry/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/codemercenary_os_kicad_conn_ac_entry/working
-    oomp_src_folder: footprints_folder/footprints_folder/codemercenary-os/kicad/CONN_AC_ENTRY/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/codemercenary-os/kicad/CONN_AC_ENTRY/working
   name: kicad.pretty
+  oomp:
+    footprint_name: conn_ac_entry
+    library_name: kicad
+    md5: f06704fa6d525c3b2adf20863f58c332
+    md5_10: f06704fa6d
+    md5_5: f0670
+    md5_6: f06704
+    oomp_key: oomp_codemercenary_os_kicad_conn_ac_entry
+    oomp_key_extra: oomp_footprint_codemercenary_os_kicad_conn_ac_entry
+    oomp_key_full: oomp_footprint_codemercenary_os_kicad_conn_ac_entry_f06704
+    oomp_key_simple: codemercenary_os_kicad_conn_ac_entry
+    original_filename: kicad.pretty/CONN_AC_ENTRY.kicad_mod
+    owner_name: codemercenary_os
   oomp_key: oomp_codemercenary_os_kicad_conn_ac_entry
+  oomp_key_full: oomp_footprint_codemercenary_os_kicad_conn_ac_entry
   oomp_key_simple: codemercenary_os_kicad_conn_ac_entry
   owner: codemercenary-os
   repo:

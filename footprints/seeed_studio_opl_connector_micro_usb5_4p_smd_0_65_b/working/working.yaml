@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/seeed_studio_opl_connector_micro_usb5_4p_smd_0_65_b/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/seeed_studio_opl_connector_micro_usb5_4p_smd_0_65_b/working
-    oomp_doc: footprints/footprints/Seeed-Studio/OPL_Connector/MICRO-USB5+4P-SMD-0.65-B/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Seeed-Studio/OPL_Connector/MICRO-USB5+4P-SMD-0.65-B/working
     oomp_src_flat: footprints_flat/footprints_flat/seeed_studio_opl_connector_micro_usb5_4p_smd_0_65_b/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/seeed_studio_opl_connector_micro_usb5_4p_smd_0_65_b/working
-    oomp_src_folder: footprints_folder/footprints_folder/Seeed-Studio/OPL_Connector/MICRO-USB5+4P-SMD-0.65-B/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Seeed-Studio/OPL_Connector/MICRO-USB5+4P-SMD-0.65-B/working
   name: OPL_Kicad_Library
+  oomp:
+    footprint_name: micro_usb5_4p_smd_0_65_b
+    library_name: opl_connector
+    md5: 181dc28eb47d30dee1fba646c0448ee7
+    md5_10: 181dc28eb4
+    md5_5: 181dc
+    md5_6: 181dc2
+    oomp_key: oomp_seeed_studio_opl_connector_micro_usb5_4p_smd_0_65_b
+    oomp_key_extra: oomp_footprint_seeed_studio_opl_connector_micro_usb5_4p_smd_0_65_b
+    oomp_key_full: oomp_footprint_seeed_studio_opl_connector_micro_usb5_4p_smd_0_65_b_181dc2
+    oomp_key_simple: seeed_studio_opl_connector_micro_usb5_4p_smd_0_65_b
+    original_filename: OPL_Kicad_Library/Seeed_Fusion_PCBA_OPL_Component_Library_for_KiCad/OPL_Connector.pretty/MICRO-USB5+4P-SMD-0.65-B.kicad_mod
+    owner_name: seeed_studio
   oomp_key: oomp_seeed_studio_opl_connector_micro_usb5_4p_smd_0_65_b
+  oomp_key_full: oomp_footprint_seeed_studio_opl_connector_micro_usb5_4p_smd_0_65_b
   oomp_key_simple: seeed_studio_opl_connector_micro_usb5_4p_smd_0_65_b
   owner: Seeed-Studio
   repo:

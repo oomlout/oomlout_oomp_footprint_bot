@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/esden_pkl_buttons_switches_sw_spdt_sk_3296s/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/esden_pkl_buttons_switches_sw_spdt_sk_3296s/working
-    oomp_doc: footprints/footprints/esden/pkl_buttons_switches/SW_SPDT_SK-3296S/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/esden/pkl_buttons_switches/SW_SPDT_SK-3296S/working
     oomp_src_flat: footprints_flat/footprints_flat/esden_pkl_buttons_switches_sw_spdt_sk_3296s/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/esden_pkl_buttons_switches_sw_spdt_sk_3296s/working
-    oomp_src_folder: footprints_folder/footprints_folder/esden/pkl_buttons_switches/SW_SPDT_SK-3296S/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/esden/pkl_buttons_switches/SW_SPDT_SK-3296S/working
   name: pretty-kicad-libs
+  oomp:
+    footprint_name: sw_spdt_sk_3296s
+    library_name: pkl_buttons_switches
+    md5: eef07ada521f1e98e5cee364ffe0d6b6
+    md5_10: eef07ada52
+    md5_5: eef07
+    md5_6: eef07a
+    oomp_key: oomp_esden_pkl_buttons_switches_sw_spdt_sk_3296s
+    oomp_key_extra: oomp_footprint_esden_pkl_buttons_switches_sw_spdt_sk_3296s
+    oomp_key_full: oomp_footprint_esden_pkl_buttons_switches_sw_spdt_sk_3296s_eef07a
+    oomp_key_simple: esden_pkl_buttons_switches_sw_spdt_sk_3296s
+    original_filename: pretty-kicad-libs/pkl_buttons_switches.pretty/SW_SPDT_SK-3296S.kicad_mod
+    owner_name: esden
   oomp_key: oomp_esden_pkl_buttons_switches_sw_spdt_sk_3296s
+  oomp_key_full: oomp_footprint_esden_pkl_buttons_switches_sw_spdt_sk_3296s
   oomp_key_simple: esden_pkl_buttons_switches_sw_spdt_sk_3296s
   owner: esden
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/jdunmire_esp8266_nodemcu1_0(12_e)/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/jdunmire_esp8266_nodemcu1_0(12_e)/working
-    oomp_doc: footprints/footprints/jdunmire/ESP8266/NodeMCU1.0(12-E)/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/jdunmire/ESP8266/NodeMCU1.0(12-E)/working
     oomp_src_flat: footprints_flat/footprints_flat/jdunmire_esp8266_nodemcu1_0(12_e)/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/jdunmire_esp8266_nodemcu1_0(12_e)/working
-    oomp_src_folder: footprints_folder/footprints_folder/jdunmire/ESP8266/NodeMCU1.0(12-E)/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/jdunmire/ESP8266/NodeMCU1.0(12-E)/working
   name: kicad-ESP8266
+  oomp:
+    footprint_name: nodemcu1_0(12_e)
+    library_name: esp8266
+    md5: 31b08dd3f0edf402741281a30691c4d9
+    md5_10: 31b08dd3f0
+    md5_5: 31b08
+    md5_6: 31b08d
+    oomp_key: oomp_jdunmire_esp8266_nodemcu1_0(12_e)
+    oomp_key_extra: oomp_footprint_jdunmire_esp8266_nodemcu1_0(12_e)
+    oomp_key_full: oomp_footprint_jdunmire_esp8266_nodemcu1_0(12_e)_31b08d
+    oomp_key_simple: jdunmire_esp8266_nodemcu1_0(12_e)
+    original_filename: kicad-ESP8266/ESP8266.pretty/NodeMCU1.0(12-E).kicad_mod
+    owner_name: jdunmire
   oomp_key: oomp_jdunmire_esp8266_nodemcu1_0(12_e)
+  oomp_key_full: oomp_footprint_jdunmire_esp8266_nodemcu1_0(12_e)
   oomp_key_simple: jdunmire_esp8266_nodemcu1_0(12_e)
   owner: jdunmire
   repo:

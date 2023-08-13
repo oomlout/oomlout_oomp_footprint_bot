@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/ojousima_test_points_smd_tp_0_8mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ojousima_test_points_smd_tp_0_8mm/working
-    oomp_doc: footprints/footprints/ojousima/Test_points/SMD_TP_0.8mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ojousima/Test_points/SMD_TP_0.8mm/working
     oomp_src_flat: footprints_flat/footprints_flat/ojousima_test_points_smd_tp_0_8mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ojousima_test_points_smd_tp_0_8mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/ojousima/Test_points/SMD_TP_0.8mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ojousima/Test_points/SMD_TP_0.8mm/working
   name: Test_points.pretty
+  oomp:
+    footprint_name: smd_tp_0_8mm
+    library_name: test_points
+    md5: 108ad4dfc095101219a9b1c17816aced
+    md5_10: 108ad4dfc0
+    md5_5: 108ad
+    md5_6: 108ad4
+    oomp_key: oomp_ojousima_test_points_smd_tp_0_8mm
+    oomp_key_extra: oomp_footprint_ojousima_test_points_smd_tp_0_8mm
+    oomp_key_full: oomp_footprint_ojousima_test_points_smd_tp_0_8mm_108ad4
+    oomp_key_simple: ojousima_test_points_smd_tp_0_8mm
+    original_filename: Test_points.pretty/SMD_TP_0.8mm.kicad_mod
+    owner_name: ojousima
   oomp_key: oomp_ojousima_test_points_smd_tp_0_8mm
+  oomp_key_full: oomp_footprint_ojousima_test_points_smd_tp_0_8mm
   oomp_key_simple: ojousima_test_points_smd_tp_0_8mm
   owner: ojousima
   repo:

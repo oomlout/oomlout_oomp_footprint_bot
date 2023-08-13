@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/AcheronProject/acheron_Graphics.pretty
     oomp_bot: footprints/acheronproject_acheron_graphics_osh_logo_22_5x8_5mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/acheronproject_acheron_graphics_osh_logo_22_5x8_5mm/working
-    oomp_doc: footprints/footprints/AcheronProject/acheron_Graphics/OSH_Logo_22.5x8.5mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/AcheronProject/acheron_Graphics/OSH_Logo_22.5x8.5mm/working
     oomp_src_flat: footprints_flat/footprints_flat/acheronproject_acheron_graphics_osh_logo_22_5x8_5mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/acheronproject_acheron_graphics_osh_logo_22_5x8_5mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/AcheronProject/acheron_Graphics/OSH_Logo_22.5x8.5mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/AcheronProject/acheron_Graphics/OSH_Logo_22.5x8.5mm/working
   name: acheron_Graphics.pretty
+  oomp:
+    footprint_name: osh_logo_22_5x8_5mm
+    library_name: acheron_graphics
+    md5: 49c568558fdd366dd6fc41d2d78ddb68
+    md5_10: 49c568558f
+    md5_5: 49c56
+    md5_6: 49c568
+    oomp_key: oomp_acheronproject_acheron_graphics_osh_logo_22_5x8_5mm
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_graphics_osh_logo_22_5x8_5mm
+    oomp_key_full: oomp_footprint_acheronproject_acheron_graphics_osh_logo_22_5x8_5mm_49c568
+    oomp_key_simple: acheronproject_acheron_graphics_osh_logo_22_5x8_5mm
+    original_filename: acheron_Graphics.pretty/OSH_Logo_22.5x8.5mm.kicad_mod
+    owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_graphics_osh_logo_22_5x8_5mm
+  oomp_key_full: oomp_footprint_acheronproject_acheron_graphics_osh_logo_22_5x8_5mm
   oomp_key_simple: acheronproject_acheron_graphics_osh_logo_22_5x8_5mm
   owner: AcheronProject
   repo:

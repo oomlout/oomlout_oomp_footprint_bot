@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cpavlina_conn_2mm_conn_2mm_m_2x17_shroud/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cpavlina_conn_2mm_conn_2mm_m_2x17_shroud/working
-    oomp_doc: footprints/footprints/cpavlina/conn-2mm/CONN-2MM-M-2x17-SHROUD/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cpavlina/conn-2mm/CONN-2MM-M-2x17-SHROUD/working
     oomp_src_flat: footprints_flat/footprints_flat/cpavlina_conn_2mm_conn_2mm_m_2x17_shroud/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cpavlina_conn_2mm_conn_2mm_m_2x17_shroud/working
-    oomp_src_folder: footprints_folder/footprints_folder/cpavlina/conn-2mm/CONN-2MM-M-2x17-SHROUD/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cpavlina/conn-2mm/CONN-2MM-M-2x17-SHROUD/working
   name: kicad-pcblib
+  oomp:
+    footprint_name: conn_2mm_m_2x17_shroud
+    library_name: conn_2mm
+    md5: 0dfbe3a1261f3aa4dca0df835c163786
+    md5_10: 0dfbe3a126
+    md5_5: 0dfbe
+    md5_6: 0dfbe3
+    oomp_key: oomp_cpavlina_conn_2mm_conn_2mm_m_2x17_shroud
+    oomp_key_extra: oomp_footprint_cpavlina_conn_2mm_conn_2mm_m_2x17_shroud
+    oomp_key_full: oomp_footprint_cpavlina_conn_2mm_conn_2mm_m_2x17_shroud_0dfbe3
+    oomp_key_simple: cpavlina_conn_2mm_conn_2mm_m_2x17_shroud
+    original_filename: kicad-pcblib/conn-2mm.pretty/CONN-2MM-M-2x17-SHROUD.kicad_mod
+    owner_name: cpavlina
   oomp_key: oomp_cpavlina_conn_2mm_conn_2mm_m_2x17_shroud
+  oomp_key_full: oomp_footprint_cpavlina_conn_2mm_conn_2mm_m_2x17_shroud
   oomp_key_simple: cpavlina_conn_2mm_conn_2mm_m_2x17_shroud
   owner: cpavlina
   repo:

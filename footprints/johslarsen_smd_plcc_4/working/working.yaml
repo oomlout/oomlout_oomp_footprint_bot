@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/johslarsen_smd_plcc_4/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/johslarsen_smd_plcc_4/working
-    oomp_doc: footprints/footprints/johslarsen/SMD/PLCC-4/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/johslarsen/SMD/PLCC-4/working
     oomp_src_flat: footprints_flat/footprints_flat/johslarsen_smd_plcc_4/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/johslarsen_smd_plcc_4/working
-    oomp_src_folder: footprints_folder/footprints_folder/johslarsen/SMD/PLCC-4/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/johslarsen/SMD/PLCC-4/working
   name: SMD.pretty
+  oomp:
+    footprint_name: plcc_4
+    library_name: smd
+    md5: b8442413137320385d139d34869f5c3f
+    md5_10: b844241313
+    md5_5: b8442
+    md5_6: b84424
+    oomp_key: oomp_johslarsen_smd_plcc_4
+    oomp_key_extra: oomp_footprint_johslarsen_smd_plcc_4
+    oomp_key_full: oomp_footprint_johslarsen_smd_plcc_4_b84424
+    oomp_key_simple: johslarsen_smd_plcc_4
+    original_filename: SMD.pretty/PLCC-4.kicad_mod
+    owner_name: johslarsen
   oomp_key: oomp_johslarsen_smd_plcc_4
+  oomp_key_full: oomp_footprint_johslarsen_smd_plcc_4
   oomp_key_simple: johslarsen_smd_plcc_4
   owner: johslarsen
   repo:

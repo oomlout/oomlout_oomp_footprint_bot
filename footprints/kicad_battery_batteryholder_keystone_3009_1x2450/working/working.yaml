@@ -11,17 +11,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_battery_batteryholder_keystone_3009_1x2450/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_battery_batteryholder_keystone_3009_1x2450/working
-    oomp_doc: footprints/footprints/kicad/Battery/BatteryHolder_Keystone_3009_1x2450/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Battery/BatteryHolder_Keystone_3009_1x2450/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_battery_batteryholder_keystone_3009_1x2450/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_battery_batteryholder_keystone_3009_1x2450/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Battery/BatteryHolder_Keystone_3009_1x2450/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Battery/BatteryHolder_Keystone_3009_1x2450/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: batteryholder_keystone_3009_1x2450
+    library_name: battery
+    md5: 58ca7be8d381602fb9dea8282edf5180
+    md5_10: 58ca7be8d3
+    md5_5: 58ca7
+    md5_6: 58ca7b
+    oomp_key: oomp_kicad_battery_batteryholder_keystone_3009_1x2450
+    oomp_key_extra: oomp_footprint_kicad_battery_batteryholder_keystone_3009_1x2450
+    oomp_key_full: oomp_footprint_kicad_battery_batteryholder_keystone_3009_1x2450_58ca7b
+    oomp_key_simple: kicad_battery_batteryholder_keystone_3009_1x2450
+    original_filename: libraries/kicad-footprints/Battery.pretty/BatteryHolder_Keystone_3009_1x2450.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_battery_batteryholder_keystone_3009_1x2450
+  oomp_key_full: oomp_footprint_kicad_battery_batteryholder_keystone_3009_1x2450
   oomp_key_simple: kicad_battery_batteryholder_keystone_3009_1x2450
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

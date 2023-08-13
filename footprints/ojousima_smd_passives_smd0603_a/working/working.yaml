@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/ojousima_smd_passives_smd0603_a/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ojousima_smd_passives_smd0603_a/working
-    oomp_doc: footprints/footprints/ojousima/SMD_Passives/SMD0603_A/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ojousima/SMD_Passives/SMD0603_A/working
     oomp_src_flat: footprints_flat/footprints_flat/ojousima_smd_passives_smd0603_a/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ojousima_smd_passives_smd0603_a/working
-    oomp_src_folder: footprints_folder/footprints_folder/ojousima/SMD_Passives/SMD0603_A/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ojousima/SMD_Passives/SMD0603_A/working
   name: SMD_Passives.pretty
+  oomp:
+    footprint_name: smd0603_a
+    library_name: smd_passives
+    md5: 605b3fb96f6236ced185585506d26e0c
+    md5_10: 605b3fb96f
+    md5_5: 605b3
+    md5_6: 605b3f
+    oomp_key: oomp_ojousima_smd_passives_smd0603_a
+    oomp_key_extra: oomp_footprint_ojousima_smd_passives_smd0603_a
+    oomp_key_full: oomp_footprint_ojousima_smd_passives_smd0603_a_605b3f
+    oomp_key_simple: ojousima_smd_passives_smd0603_a
+    original_filename: SMD_Passives.pretty/SMD0603_A.kicad_mod
+    owner_name: ojousima
   oomp_key: oomp_ojousima_smd_passives_smd0603_a
+  oomp_key_full: oomp_footprint_ojousima_smd_passives_smd0603_a
   oomp_key_simple: ojousima_smd_passives_smd0603_a
   owner: ojousima
   repo:

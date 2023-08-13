@@ -13,14 +13,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/re_innovation_leds_led_rgb_pllc_6/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/re_innovation_leds_led_rgb_pllc_6/working
-    oomp_doc: footprints/footprints/re-innovation/LEDs/LED_RGB_PLLC-6/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/re-innovation/LEDs/LED_RGB_PLLC-6/working
     oomp_src_flat: footprints_flat/footprints_flat/re_innovation_leds_led_rgb_pllc_6/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/re_innovation_leds_led_rgb_pllc_6/working
-    oomp_src_folder: footprints_folder/footprints_folder/re-innovation/LEDs/LED_RGB_PLLC-6/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/re-innovation/LEDs/LED_RGB_PLLC-6/working
   name: kicad_reinnovation
+  oomp:
+    footprint_name: led_rgb_pllc_6
+    library_name: leds
+    md5: 65ddcff9bd5256641f947717201a956c
+    md5_10: 65ddcff9bd
+    md5_5: 65ddc
+    md5_6: 65ddcf
+    oomp_key: oomp_re_innovation_leds_led_rgb_pllc_6
+    oomp_key_extra: oomp_footprint_re_innovation_leds_led_rgb_pllc_6
+    oomp_key_full: oomp_footprint_re_innovation_leds_led_rgb_pllc_6_65ddcf
+    oomp_key_simple: re_innovation_leds_led_rgb_pllc_6
+    original_filename: kicad_reinnovation/KiCAD PRETTY/LEDs.pretty/LED_RGB_PLLC-6.kicad_mod
+    owner_name: re_innovation
   oomp_key: oomp_re_innovation_leds_led_rgb_pllc_6
+  oomp_key_full: oomp_footprint_re_innovation_leds_led_rgb_pllc_6
   oomp_key_simple: re_innovation_leds_led_rgb_pllc_6
   owner: re-innovation
   repo:

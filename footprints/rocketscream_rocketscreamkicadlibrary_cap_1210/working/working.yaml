@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/rocketscream_rocketscreamkicadlibrary_cap_1210/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/rocketscream_rocketscreamkicadlibrary_cap_1210/working
-    oomp_doc: footprints/footprints/rocketscream/RocketScreamKicadLibrary/CAP-1210/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/rocketscream/RocketScreamKicadLibrary/CAP-1210/working
     oomp_src_flat: footprints_flat/footprints_flat/rocketscream_rocketscreamkicadlibrary_cap_1210/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/rocketscream_rocketscreamkicadlibrary_cap_1210/working
-    oomp_src_folder: footprints_folder/footprints_folder/rocketscream/RocketScreamKicadLibrary/CAP-1210/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/rocketscream/RocketScreamKicadLibrary/CAP-1210/working
   name: RocketScreamKicadLibrary
+  oomp:
+    footprint_name: cap_1210
+    library_name: rocketscreamkicadlibrary
+    md5: f9d4e563680b98a19417640d650cb31f
+    md5_10: f9d4e56368
+    md5_5: f9d4e
+    md5_6: f9d4e5
+    oomp_key: oomp_rocketscream_rocketscreamkicadlibrary_cap_1210
+    oomp_key_extra: oomp_footprint_rocketscream_rocketscreamkicadlibrary_cap_1210
+    oomp_key_full: oomp_footprint_rocketscream_rocketscreamkicadlibrary_cap_1210_f9d4e5
+    oomp_key_simple: rocketscream_rocketscreamkicadlibrary_cap_1210
+    original_filename: RocketScreamKicadLibrary/RocketScreamKicadLibrary.pretty/CAP-1210.kicad_mod
+    owner_name: rocketscream
   oomp_key: oomp_rocketscream_rocketscreamkicadlibrary_cap_1210
+  oomp_key_full: oomp_footprint_rocketscream_rocketscreamkicadlibrary_cap_1210
   oomp_key_simple: rocketscream_rocketscreamkicadlibrary_cap_1210
   owner: rocketscream
   repo:

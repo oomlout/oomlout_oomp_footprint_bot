@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/esden_pkl_housings_dfn_qfn_qfn_64_4_45mm1ep_9x9mm_pitch0_5mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/esden_pkl_housings_dfn_qfn_qfn_64_4_45mm1ep_9x9mm_pitch0_5mm/working
-    oomp_doc: footprints/footprints/esden/pkl_housings_dfn_qfn/QFN-64-4.45mm1EP_9x9mm_Pitch0.5mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/esden/pkl_housings_dfn_qfn/QFN-64-4.45mm1EP_9x9mm_Pitch0.5mm/working
     oomp_src_flat: footprints_flat/footprints_flat/esden_pkl_housings_dfn_qfn_qfn_64_4_45mm1ep_9x9mm_pitch0_5mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/esden_pkl_housings_dfn_qfn_qfn_64_4_45mm1ep_9x9mm_pitch0_5mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/esden/pkl_housings_dfn_qfn/QFN-64-4.45mm1EP_9x9mm_Pitch0.5mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/esden/pkl_housings_dfn_qfn/QFN-64-4.45mm1EP_9x9mm_Pitch0.5mm/working
   name: pretty-kicad-libs
+  oomp:
+    footprint_name: qfn_64_4_45mm1ep_9x9mm_pitch0_5mm
+    library_name: pkl_housings_dfn_qfn
+    md5: a2a720a9b4c51083ea5521f1a492cdb0
+    md5_10: a2a720a9b4
+    md5_5: a2a72
+    md5_6: a2a720
+    oomp_key: oomp_esden_pkl_housings_dfn_qfn_qfn_64_4_45mm1ep_9x9mm_pitch0_5mm
+    oomp_key_extra: oomp_footprint_esden_pkl_housings_dfn_qfn_qfn_64_4_45mm1ep_9x9mm_pitch0_5mm
+    oomp_key_full: oomp_footprint_esden_pkl_housings_dfn_qfn_qfn_64_4_45mm1ep_9x9mm_pitch0_5mm_a2a720
+    oomp_key_simple: esden_pkl_housings_dfn_qfn_qfn_64_4_45mm1ep_9x9mm_pitch0_5mm
+    original_filename: pretty-kicad-libs/pkl_housings_dfn_qfn.pretty/QFN-64-4.45mm1EP_9x9mm_Pitch0.5mm.kicad_mod
+    owner_name: esden
   oomp_key: oomp_esden_pkl_housings_dfn_qfn_qfn_64_4_45mm1ep_9x9mm_pitch0_5mm
+  oomp_key_full: oomp_footprint_esden_pkl_housings_dfn_qfn_qfn_64_4_45mm1ep_9x9mm_pitch0_5mm
   oomp_key_simple: esden_pkl_housings_dfn_qfn_qfn_64_4_45mm1ep_9x9mm_pitch0_5mm
   owner: esden
   repo:

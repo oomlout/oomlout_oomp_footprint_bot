@@ -12,17 +12,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_resistor_tht_r_axial_power_l25_0mm_w9_0mm_p27_94mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_resistor_tht_r_axial_power_l25_0mm_w9_0mm_p27_94mm/working
-    oomp_doc: footprints/footprints/kicad/Resistor_THT/R_Axial_Power_L25.0mm_W9.0mm_P27.94mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Resistor_THT/R_Axial_Power_L25.0mm_W9.0mm_P27.94mm/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_resistor_tht_r_axial_power_l25_0mm_w9_0mm_p27_94mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_resistor_tht_r_axial_power_l25_0mm_w9_0mm_p27_94mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Resistor_THT/R_Axial_Power_L25.0mm_W9.0mm_P27.94mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Resistor_THT/R_Axial_Power_L25.0mm_W9.0mm_P27.94mm/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: r_axial_power_l25_0mm_w9_0mm_p27_94mm
+    library_name: resistor_tht
+    md5: 9491a320bdc82865a5b8d260c5f0f4f4
+    md5_10: 9491a320bd
+    md5_5: 9491a
+    md5_6: 9491a3
+    oomp_key: oomp_kicad_resistor_tht_r_axial_power_l25_0mm_w9_0mm_p27_94mm
+    oomp_key_extra: oomp_footprint_kicad_resistor_tht_r_axial_power_l25_0mm_w9_0mm_p27_94mm
+    oomp_key_full: oomp_footprint_kicad_resistor_tht_r_axial_power_l25_0mm_w9_0mm_p27_94mm_9491a3
+    oomp_key_simple: kicad_resistor_tht_r_axial_power_l25_0mm_w9_0mm_p27_94mm
+    original_filename: libraries/kicad-footprints/Resistor_THT.pretty/R_Axial_Power_L25.0mm_W9.0mm_P27.94mm.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_resistor_tht_r_axial_power_l25_0mm_w9_0mm_p27_94mm
+  oomp_key_full: oomp_footprint_kicad_resistor_tht_r_axial_power_l25_0mm_w9_0mm_p27_94mm
   oomp_key_simple: kicad_resistor_tht_r_axial_power_l25_0mm_w9_0mm_p27_94mm
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

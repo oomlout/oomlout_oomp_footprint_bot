@@ -1,24 +1,34 @@
-- file: SparkFun-KiCad-Libraries/Footprints/Silicon-Standard.pretty/MSOP-12_GND.kicad_mod
+- file: SparkFun-KiCad-Libraries/Pre_v7/Footprints/Silicon-Standard.pretty/MSOP-12_GND.kicad_mod
   footprint:
     description: null
     libraryLink: MSOP-12_GND
     number_of_pads: 13
   footprint_library_directory: footprint_library_owner/sparkfun_SparkFun-KiCad-Libraries
   footprint_library_directory_flat: footprints_flat/sparkfun_silicon_standard_msop_12_gnd/working
-  github_path: http://github.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Footprints/Silicon-Standard.pretty/MSOP-12_GND.kicad_mod
+  github_path: http://github.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Pre_v7/Footprints/Silicon-Standard.pretty/MSOP-12_GND.kicad_mod
   links:
-    github_src: http://gitlab.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Tools/SparkFun-Eagle-Libraries_Conversion/Export.pretty/DFN-6-3X3.kicad_mod
+    github_src: http://gitlab.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Pre_v7/Tools/SparkFun-Eagle-Libraries_Conversion/Export.pretty/DFN-6-3X3.kicad_mod
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/sparkfun_silicon_standard_msop_12_gnd/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/sparkfun_silicon_standard_msop_12_gnd/working
-    oomp_doc: footprints/footprints/sparkfun/Silicon-Standard/MSOP-12_GND/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/sparkfun/Silicon-Standard/MSOP-12_GND/working
     oomp_src_flat: footprints_flat/footprints_flat/sparkfun_silicon_standard_msop_12_gnd/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/sparkfun_silicon_standard_msop_12_gnd/working
-    oomp_src_folder: footprints_folder/footprints_folder/sparkfun/Silicon-Standard/MSOP-12_GND/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/sparkfun/Silicon-Standard/MSOP-12_GND/working
   name: SparkFun-KiCad-Libraries
+  oomp:
+    footprint_name: msop_12_gnd
+    library_name: silicon_standard
+    md5: a84bfa8f72bfc232e6c7d46a886b7f63
+    md5_10: a84bfa8f72
+    md5_5: a84bf
+    md5_6: a84bfa
+    oomp_key: oomp_sparkfun_silicon_standard_msop_12_gnd
+    oomp_key_extra: oomp_footprint_sparkfun_silicon_standard_msop_12_gnd
+    oomp_key_full: oomp_footprint_sparkfun_silicon_standard_msop_12_gnd_a84bfa
+    oomp_key_simple: sparkfun_silicon_standard_msop_12_gnd
+    original_filename: SparkFun-KiCad-Libraries/Pre_v7/Footprints/Silicon-Standard.pretty/MSOP-12_GND.kicad_mod
+    owner_name: sparkfun
   oomp_key: oomp_sparkfun_silicon_standard_msop_12_gnd
+  oomp_key_full: oomp_footprint_sparkfun_silicon_standard_msop_12_gnd
   oomp_key_simple: sparkfun_silicon_standard_msop_12_gnd
   owner: sparkfun
   repo:

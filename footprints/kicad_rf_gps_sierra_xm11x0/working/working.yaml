@@ -11,17 +11,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_rf_gps_sierra_xm11x0/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_rf_gps_sierra_xm11x0/working
-    oomp_doc: footprints/footprints/kicad/RF_GPS/Sierra_XM11X0/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/RF_GPS/Sierra_XM11X0/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_rf_gps_sierra_xm11x0/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_rf_gps_sierra_xm11x0/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/RF_GPS/Sierra_XM11X0/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/RF_GPS/Sierra_XM11X0/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: sierra_xm11x0
+    library_name: rf_gps
+    md5: 3753a8892e80fd6d69b3bc06e3d27581
+    md5_10: 3753a8892e
+    md5_5: 3753a
+    md5_6: 3753a8
+    oomp_key: oomp_kicad_rf_gps_sierra_xm11x0
+    oomp_key_extra: oomp_footprint_kicad_rf_gps_sierra_xm11x0
+    oomp_key_full: oomp_footprint_kicad_rf_gps_sierra_xm11x0_3753a8
+    oomp_key_simple: kicad_rf_gps_sierra_xm11x0
+    original_filename: libraries/kicad-footprints/RF_GPS.pretty/Sierra_XM11X0.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_rf_gps_sierra_xm11x0
+  oomp_key_full: oomp_footprint_kicad_rf_gps_sierra_xm11x0
   oomp_key_simple: kicad_rf_gps_sierra_xm11x0
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

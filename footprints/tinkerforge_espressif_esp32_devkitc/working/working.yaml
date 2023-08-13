@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/tinkerforge_espressif_esp32_devkitc/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/tinkerforge_espressif_esp32_devkitc/working
-    oomp_doc: footprints/footprints/Tinkerforge/Espressif/ESP32-DevKitC/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Tinkerforge/Espressif/ESP32-DevKitC/working
     oomp_src_flat: footprints_flat/footprints_flat/tinkerforge_espressif_esp32_devkitc/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/tinkerforge_espressif_esp32_devkitc/working
-    oomp_src_folder: footprints_folder/footprints_folder/Tinkerforge/Espressif/ESP32-DevKitC/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Tinkerforge/Espressif/ESP32-DevKitC/working
   name: kicad-libraries
+  oomp:
+    footprint_name: esp32_devkitc
+    library_name: espressif
+    md5: b0789795ec58951f5b1bbbabe114ce66
+    md5_10: b0789795ec
+    md5_5: b0789
+    md5_6: b07897
+    oomp_key: oomp_tinkerforge_espressif_esp32_devkitc
+    oomp_key_extra: oomp_footprint_tinkerforge_espressif_esp32_devkitc
+    oomp_key_full: oomp_footprint_tinkerforge_espressif_esp32_devkitc_b07897
+    oomp_key_simple: tinkerforge_espressif_esp32_devkitc
+    original_filename: kicad-libraries/footprints/Espressif.pretty/ESP32-DevKitC.kicad_mod
+    owner_name: tinkerforge
   oomp_key: oomp_tinkerforge_espressif_esp32_devkitc
+  oomp_key_full: oomp_footprint_tinkerforge_espressif_esp32_devkitc
   oomp_key_simple: tinkerforge_espressif_esp32_devkitc
   owner: Tinkerforge
   repo:

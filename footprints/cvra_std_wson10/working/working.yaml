@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cvra_std_wson10/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cvra_std_wson10/working
-    oomp_doc: footprints/footprints/cvra/_std/WSON10/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cvra/_std/WSON10/working
     oomp_src_flat: footprints_flat/footprints_flat/cvra_std_wson10/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cvra_std_wson10/working
-    oomp_src_folder: footprints_folder/footprints_folder/cvra/_std/WSON10/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cvra/_std/WSON10/working
   name: kicad-lib
+  oomp:
+    footprint_name: wson10
+    library_name: _std
+    md5: 6936c4728b24c3f2cf588450bc5c3e72
+    md5_10: 6936c4728b
+    md5_5: 6936c
+    md5_6: 6936c4
+    oomp_key: oomp_cvra_std_wson10
+    oomp_key_extra: oomp_footprint_cvra_std_wson10
+    oomp_key_full: oomp_footprint_cvra_std_wson10_6936c4
+    oomp_key_simple: cvra_std_wson10
+    original_filename: kicad-lib/footprints/_std.pretty/WSON10.kicad_mod
+    owner_name: cvra
   oomp_key: oomp_cvra_std_wson10
+  oomp_key_full: oomp_footprint_cvra_std_wson10
   oomp_key_simple: cvra_std_wson10
   owner: cvra
   repo:

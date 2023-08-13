@@ -6,20 +6,22 @@ The original footprint can be found at:
 http://gitlab.com/Tinkerforge/kicad-libraries/blob/master/footprints/Espressif.pretty/ESP32-WROVER-E_ThermalVias.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
-* description:   
-* libraryLink:   
-* number_of_pads:   
+* description: ESP32-C6 general-purpose development board, based on ESP32-2-WROOM-1,It has all the ESP32-C6 pins exposed and is easy to connect and use.  
+* libraryLink: ESP32-C6-DevKitC-1  
+* number_of_pads: 32  
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| error | Expression does not have the correct type |  
 | file | kicad-libraries/footprints/Espressif.pretty/ESP32-C6-DevKitC-1.kicad_mod |  
+| footprint | {'description': 'ESP32-C6 general-purpose development board, based on ESP32-2-WROOM-1,It has all the ESP32-C6 pins exposed and is easy to connect and use.', 'libraryLink': 'ESP32-C6-DevKitC-1', 'number_of_pads': 32} |  
 | footprint_library_directory | footprint_library_owner/Tinkerforge_kicad-libraries |  
 | footprint_library_directory_flat | footprints_flat/tinkerforge_espressif_esp32_c6_devkitc_1/working |  
 | github_path | http://github.com/Tinkerforge/kicad-libraries/blob/master/footprints/Espressif.pretty/ESP32-C6-DevKitC-1.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/Tinkerforge/kicad-libraries/blob/master/footprints/Espressif.pretty/ESP32-WROVER-E_ThermalVias.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/tinkerforge_espressif_esp32_c6_devkitc_1/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/tinkerforge_espressif_esp32_c6_devkitc_1/working', 'oomp_doc': 'footprints/footprints/Tinkerforge/Espressif/ESP32-C6-DevKitC-1/working/', 'oomp_doc_github': 'https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Tinkerforge/Espressif/ESP32-C6-DevKitC-1/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/tinkerforge_espressif_esp32_c6_devkitc_1/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/tinkerforge_espressif_esp32_c6_devkitc_1/working', 'oomp_src_folder': 'footprints_folder/footprints_folder/Tinkerforge/Espressif/ESP32-C6-DevKitC-1/working', 'oomp_src_folder_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Tinkerforge/Espressif/ESP32-C6-DevKitC-1/working'} |  
+| links | {'github_src': 'http://gitlab.com/Tinkerforge/kicad-libraries/blob/master/footprints/Espressif.pretty/ESP32-WROVER-E_ThermalVias.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/tinkerforge_espressif_esp32_c6_devkitc_1/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/tinkerforge_espressif_esp32_c6_devkitc_1/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/tinkerforge_espressif_esp32_c6_devkitc_1/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/tinkerforge_espressif_esp32_c6_devkitc_1/working'} |  
 | name | kicad-libraries |  
+| oomp | {'footprint_name': 'esp32_c6_devkitc_1', 'library_name': 'espressif', 'md5': '2e690eea589558ebd2f5dab41c620ccb', 'md5_10': '2e690eea58', 'md5_5': '2e690', 'md5_6': '2e690e', 'oomp_key': 'oomp_tinkerforge_espressif_esp32_c6_devkitc_1', 'oomp_key_extra': 'oomp_footprint_tinkerforge_espressif_esp32_c6_devkitc_1', 'oomp_key_full': 'oomp_footprint_tinkerforge_espressif_esp32_c6_devkitc_1_2e690e', 'oomp_key_simple': 'tinkerforge_espressif_esp32_c6_devkitc_1', 'original_filename': 'kicad-libraries/footprints/Espressif.pretty/ESP32-C6-DevKitC-1.kicad_mod', 'owner_name': 'tinkerforge'} |  
 | oomp_key | oomp_tinkerforge_espressif_esp32_c6_devkitc_1 |  
+| oomp_key_full | oomp_footprint_tinkerforge_espressif_esp32_c6_devkitc_1 |  
 | oomp_key_simple | tinkerforge_espressif_esp32_c6_devkitc_1 |  
 | owner | Tinkerforge |  
 | repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  

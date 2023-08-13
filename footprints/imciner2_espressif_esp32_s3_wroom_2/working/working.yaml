@@ -8,14 +8,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/imciner2_espressif_esp32_s3_wroom_2/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/imciner2_espressif_esp32_s3_wroom_2/working
-    oomp_doc: footprints/footprints/imciner2/Espressif/ESP32-S3-WROOM-2/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/imciner2/Espressif/ESP32-S3-WROOM-2/working
     oomp_src_flat: footprints_flat/footprints_flat/imciner2_espressif_esp32_s3_wroom_2/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/imciner2_espressif_esp32_s3_wroom_2/working
-    oomp_src_folder: footprints_folder/footprints_folder/imciner2/Espressif/ESP32-S3-WROOM-2/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/imciner2/Espressif/ESP32-S3-WROOM-2/working
   name: KiCad-Libraries
+  oomp:
+    footprint_name: esp32_s3_wroom_2
+    library_name: espressif
+    md5: e6fbbd106d60ac88469f1932b44b9e81
+    md5_10: e6fbbd106d
+    md5_5: e6fbb
+    md5_6: e6fbbd
+    oomp_key: oomp_imciner2_espressif_esp32_s3_wroom_2
+    oomp_key_extra: oomp_footprint_imciner2_espressif_esp32_s3_wroom_2
+    oomp_key_full: oomp_footprint_imciner2_espressif_esp32_s3_wroom_2_e6fbbd
+    oomp_key_simple: imciner2_espressif_esp32_s3_wroom_2
+    original_filename: KiCad-Libraries/footprints/Espressif.pretty/ESP32-S3-WROOM-2.kicad_mod
+    owner_name: imciner2
   oomp_key: oomp_imciner2_espressif_esp32_s3_wroom_2
+  oomp_key_full: oomp_footprint_imciner2_espressif_esp32_s3_wroom_2
   oomp_key_simple: imciner2_espressif_esp32_s3_wroom_2
   owner: imciner2
   repo:

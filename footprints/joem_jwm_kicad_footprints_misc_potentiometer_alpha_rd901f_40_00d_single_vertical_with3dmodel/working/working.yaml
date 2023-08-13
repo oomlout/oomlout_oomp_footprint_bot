@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/joem_jwm_kicad_footprints_misc_potentiometer_alpha_rd901f_40_00d_single_vertical_with3dmodel/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/joem_jwm_kicad_footprints_misc_potentiometer_alpha_rd901f_40_00d_single_vertical_with3dmodel/working
-    oomp_doc: footprints/footprints/joem/jwm_kicad_footprints_misc/Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_With3DModel/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/joem/jwm_kicad_footprints_misc/Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_With3DModel/working
     oomp_src_flat: footprints_flat/footprints_flat/joem_jwm_kicad_footprints_misc_potentiometer_alpha_rd901f_40_00d_single_vertical_with3dmodel/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/joem_jwm_kicad_footprints_misc_potentiometer_alpha_rd901f_40_00d_single_vertical_with3dmodel/working
-    oomp_src_folder: footprints_folder/footprints_folder/joem/jwm_kicad_footprints_misc/Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_With3DModel/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/joem/jwm_kicad_footprints_misc/Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_With3DModel/working
   name: jwm_kicad_footprints_misc.pretty
+  oomp:
+    footprint_name: potentiometer_alpha_rd901f_40_00d_single_vertical_with3dmodel
+    library_name: jwm_kicad_footprints_misc
+    md5: 2e65ac022975dd95da1cb28bd25c2c9f
+    md5_10: 2e65ac0229
+    md5_5: 2e65a
+    md5_6: 2e65ac
+    oomp_key: oomp_joem_jwm_kicad_footprints_misc_potentiometer_alpha_rd901f_40_00d_single_vertical_with3dmodel
+    oomp_key_extra: oomp_footprint_joem_jwm_kicad_footprints_misc_potentiometer_alpha_rd901f_40_00d_single_vertical_with3dmodel
+    oomp_key_full: oomp_footprint_joem_jwm_kicad_footprints_misc_potentiometer_alpha_rd901f_40_00d_single_vertical_with3dmodel_2e65ac
+    oomp_key_simple: joem_jwm_kicad_footprints_misc_potentiometer_alpha_rd901f_40_00d_single_vertical_with3dmodel
+    original_filename: jwm_kicad_footprints_misc.pretty/Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_With3DModel.kicad_mod
+    owner_name: joem
   oomp_key: oomp_joem_jwm_kicad_footprints_misc_potentiometer_alpha_rd901f_40_00d_single_vertical_with3dmodel
+  oomp_key_full: oomp_footprint_joem_jwm_kicad_footprints_misc_potentiometer_alpha_rd901f_40_00d_single_vertical_with3dmodel
   oomp_key_simple: joem_jwm_kicad_footprints_misc_potentiometer_alpha_rd901f_40_00d_single_vertical_with3dmodel
   owner: joem
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_ub5c_2rf1_ub5c_2rf1/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_ub5c_2rf1_ub5c_2rf1/working
-    oomp_doc: footprints/footprints/brunoeagle/UB5C-2RF1.kicad_mod/UB5C-2RF1/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/UB5C-2RF1.kicad_mod/UB5C-2RF1/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_ub5c_2rf1_ub5c_2rf1/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_ub5c_2rf1_ub5c_2rf1/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/UB5C-2RF1.kicad_mod/UB5C-2RF1/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/UB5C-2RF1.kicad_mod/UB5C-2RF1/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: ub5c_2rf1
+    library_name: ub5c_2rf1_kicad_mod
+    md5: 8d4ddb8c9ecd5b074cca2a62a31d02d2
+    md5_10: 8d4ddb8c9e
+    md5_5: 8d4dd
+    md5_6: 8d4ddb
+    oomp_key: oomp_brunoeagle_ub5c_2rf1_ub5c_2rf1
+    oomp_key_extra: oomp_footprint_brunoeagle_ub5c_2rf1_ub5c_2rf1
+    oomp_key_full: oomp_footprint_brunoeagle_ub5c_2rf1_ub5c_2rf1_8d4ddb
+    oomp_key_simple: brunoeagle_ub5c_2rf1_ub5c_2rf1
+    original_filename: kicad-open-modules/UB5C-2RF1.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_ub5c_2rf1_ub5c_2rf1
+  oomp_key_full: oomp_footprint_brunoeagle_ub5c_2rf1_ub5c_2rf1
   oomp_key_simple: brunoeagle_ub5c_2rf1_ub5c_2rf1
   owner: brunoeagle
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/imrehg_seeedopl_display_2016_led_10x2p_2_54_25_5x10_1x8_4mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/imrehg_seeedopl_display_2016_led_10x2p_2_54_25_5x10_1x8_4mm/working
-    oomp_doc: footprints/footprints/imrehg/SeeedOPL-Display-2016/LED-10X2P-2.54-25.5X10.1X8.4MM/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/imrehg/SeeedOPL-Display-2016/LED-10X2P-2.54-25.5X10.1X8.4MM/working
     oomp_src_flat: footprints_flat/footprints_flat/imrehg_seeedopl_display_2016_led_10x2p_2_54_25_5x10_1x8_4mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/imrehg_seeedopl_display_2016_led_10x2p_2_54_25_5x10_1x8_4mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/imrehg/SeeedOPL-Display-2016/LED-10X2P-2.54-25.5X10.1X8.4MM/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/imrehg/SeeedOPL-Display-2016/LED-10X2P-2.54-25.5X10.1X8.4MM/working
   name: kicalopl
+  oomp:
+    footprint_name: led_10x2p_2_54_25_5x10_1x8_4mm
+    library_name: seeedopl_display_2016
+    md5: 327f9e31fe9b98bcbe7fa7f4736f19c6
+    md5_10: 327f9e31fe
+    md5_5: 327f9
+    md5_6: 327f9e
+    oomp_key: oomp_imrehg_seeedopl_display_2016_led_10x2p_2_54_25_5x10_1x8_4mm
+    oomp_key_extra: oomp_footprint_imrehg_seeedopl_display_2016_led_10x2p_2_54_25_5x10_1x8_4mm
+    oomp_key_full: oomp_footprint_imrehg_seeedopl_display_2016_led_10x2p_2_54_25_5x10_1x8_4mm_327f9e
+    oomp_key_simple: imrehg_seeedopl_display_2016_led_10x2p_2_54_25_5x10_1x8_4mm
+    original_filename: kicalopl/SeeedOPL-Display-2016.pretty/LED-10X2P-2.54-25.5X10.1X8.4MM.kicad_mod
+    owner_name: imrehg
   oomp_key: oomp_imrehg_seeedopl_display_2016_led_10x2p_2_54_25_5x10_1x8_4mm
+  oomp_key_full: oomp_footprint_imrehg_seeedopl_display_2016_led_10x2p_2_54_25_5x10_1x8_4mm
   oomp_key_simple: imrehg_seeedopl_display_2016_led_10x2p_2_54_25_5x10_1x8_4mm
   owner: imrehg
   repo:

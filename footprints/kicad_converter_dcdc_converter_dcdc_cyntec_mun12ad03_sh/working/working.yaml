@@ -11,17 +11,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_converter_dcdc_converter_dcdc_cyntec_mun12ad03_sh/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_converter_dcdc_converter_dcdc_cyntec_mun12ad03_sh/working
-    oomp_doc: footprints/footprints/kicad/Converter_DCDC/Converter_DCDC_Cyntec_MUN12AD03-SH/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Converter_DCDC/Converter_DCDC_Cyntec_MUN12AD03-SH/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_converter_dcdc_converter_dcdc_cyntec_mun12ad03_sh/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_converter_dcdc_converter_dcdc_cyntec_mun12ad03_sh/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Converter_DCDC/Converter_DCDC_Cyntec_MUN12AD03-SH/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Converter_DCDC/Converter_DCDC_Cyntec_MUN12AD03-SH/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: converter_dcdc_cyntec_mun12ad03_sh
+    library_name: converter_dcdc
+    md5: 008102289671cf67c56b015ed868b7f6
+    md5_10: 0081022896
+    md5_5: 00810
+    md5_6: 008102
+    oomp_key: oomp_kicad_converter_dcdc_converter_dcdc_cyntec_mun12ad03_sh
+    oomp_key_extra: oomp_footprint_kicad_converter_dcdc_converter_dcdc_cyntec_mun12ad03_sh
+    oomp_key_full: oomp_footprint_kicad_converter_dcdc_converter_dcdc_cyntec_mun12ad03_sh_008102
+    oomp_key_simple: kicad_converter_dcdc_converter_dcdc_cyntec_mun12ad03_sh
+    original_filename: libraries/kicad-footprints/Converter_DCDC.pretty/Converter_DCDC_Cyntec_MUN12AD03-SH.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_converter_dcdc_converter_dcdc_cyntec_mun12ad03_sh
+  oomp_key_full: oomp_footprint_kicad_converter_dcdc_converter_dcdc_cyntec_mun12ad03_sh
   oomp_key_simple: kicad_converter_dcdc_converter_dcdc_cyntec_mun12ad03_sh
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

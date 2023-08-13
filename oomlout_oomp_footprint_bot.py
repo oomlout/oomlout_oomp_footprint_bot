@@ -27,6 +27,9 @@ def copy_data():
             #rename readme to readme_src.md
             readme_src = os.path.join(root, name, "readme_src.md")
             readme = os.path.join(root, name, "readme.md")
+            #if readme_src exists then delete it
+            if os.path.exists(readme_src):
+                os.remove(readme_src)
             if os.path.exists(readme):
                 os.rename(readme, readme_src)
             count += 1

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/olimex_footprints_2012_c/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/olimex_footprints_2012_c/working
-    oomp_doc: footprints/footprints/OLIMEX/footprints/2012_C/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/OLIMEX/footprints/2012_C/working
     oomp_src_flat: footprints_flat/footprints_flat/olimex_footprints_2012_c/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/olimex_footprints_2012_c/working
-    oomp_src_folder: footprints_folder/footprints_folder/OLIMEX/footprints/2012_C/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/OLIMEX/footprints/2012_C/working
   name: KiCAD
+  oomp:
+    footprint_name: 2012_c
+    library_name: footprints
+    md5: 0e030373772bead02ac3ddd7307cffcc
+    md5_10: 0e03037377
+    md5_5: 0e030
+    md5_6: 0e0303
+    oomp_key: oomp_olimex_footprints_2012_c
+    oomp_key_extra: oomp_footprint_olimex_footprints_2012_c
+    oomp_key_full: oomp_footprint_olimex_footprints_2012_c_0e0303
+    oomp_key_simple: olimex_footprints_2012_c
+    original_filename: KiCAD/demos/stickhub/footprints.pretty/2012_C.kicad_mod
+    owner_name: olimex
   oomp_key: oomp_olimex_footprints_2012_c
+  oomp_key_full: oomp_footprint_olimex_footprints_2012_c
   oomp_key_simple: olimex_footprints_2012_c
   owner: OLIMEX
   repo:

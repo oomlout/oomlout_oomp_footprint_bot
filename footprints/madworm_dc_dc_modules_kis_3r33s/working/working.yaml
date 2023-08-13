@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/madworm/DC-DC-modules.pretty
     oomp_bot: footprints/madworm_dc_dc_modules_kis_3r33s/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/madworm_dc_dc_modules_kis_3r33s/working
-    oomp_doc: footprints/footprints/madworm/DC-DC-modules/KIS-3R33S/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/madworm/DC-DC-modules/KIS-3R33S/working
     oomp_src_flat: footprints_flat/footprints_flat/madworm_dc_dc_modules_kis_3r33s/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/madworm_dc_dc_modules_kis_3r33s/working
-    oomp_src_folder: footprints_folder/footprints_folder/madworm/DC-DC-modules/KIS-3R33S/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/madworm/DC-DC-modules/KIS-3R33S/working
   name: DC-DC-modules.pretty
+  oomp:
+    footprint_name: kis_3r33s
+    library_name: dc_dc_modules
+    md5: 6bab5a18fd8526467e1f40ce5862120f
+    md5_10: 6bab5a18fd
+    md5_5: 6bab5
+    md5_6: 6bab5a
+    oomp_key: oomp_madworm_dc_dc_modules_kis_3r33s
+    oomp_key_extra: oomp_footprint_madworm_dc_dc_modules_kis_3r33s
+    oomp_key_full: oomp_footprint_madworm_dc_dc_modules_kis_3r33s_6bab5a
+    oomp_key_simple: madworm_dc_dc_modules_kis_3r33s
+    original_filename: DC-DC-modules.pretty/KIS-3R33S.kicad_mod
+    owner_name: madworm
   oomp_key: oomp_madworm_dc_dc_modules_kis_3r33s
+  oomp_key_full: oomp_footprint_madworm_dc_dc_modules_kis_3r33s
   oomp_key_simple: madworm_dc_dc_modules_kis_3r33s
   owner: madworm
   repo:

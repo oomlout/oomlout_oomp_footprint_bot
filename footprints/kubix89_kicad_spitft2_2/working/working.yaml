@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/kubiX89/kiCAD.pretty
     oomp_bot: footprints/kubix89_kicad_spitft2_2/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kubix89_kicad_spitft2_2/working
-    oomp_doc: footprints/footprints/kubiX89/kiCAD/SPITFT2.2/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kubiX89/kiCAD/SPITFT2.2/working
     oomp_src_flat: footprints_flat/footprints_flat/kubix89_kicad_spitft2_2/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kubix89_kicad_spitft2_2/working
-    oomp_src_folder: footprints_folder/footprints_folder/kubiX89/kiCAD/SPITFT2.2/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kubiX89/kiCAD/SPITFT2.2/working
   name: kiCAD.pretty
+  oomp:
+    footprint_name: spitft2_2
+    library_name: kicad
+    md5: 904b8b718510c84794a3611e395bda1e
+    md5_10: 904b8b7185
+    md5_5: 904b8
+    md5_6: 904b8b
+    oomp_key: oomp_kubix89_kicad_spitft2_2
+    oomp_key_extra: oomp_footprint_kubix89_kicad_spitft2_2
+    oomp_key_full: oomp_footprint_kubix89_kicad_spitft2_2_904b8b
+    oomp_key_simple: kubix89_kicad_spitft2_2
+    original_filename: kiCAD.pretty/SPITFT2.2.kicad_mod
+    owner_name: kubix89
   oomp_key: oomp_kubix89_kicad_spitft2_2
+  oomp_key_full: oomp_footprint_kubix89_kicad_spitft2_2
   oomp_key_simple: kubix89_kicad_spitft2_2
   owner: kubiX89
   repo:

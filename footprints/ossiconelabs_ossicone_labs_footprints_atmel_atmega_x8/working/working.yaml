@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/ossiconelabs_ossicone_labs_footprints_atmel_atmega_x8/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ossiconelabs_ossicone_labs_footprints_atmel_atmega_x8/working
-    oomp_doc: footprints/footprints/OssiconeLabs/Ossicone_Labs_Footprints/Atmel_ATmega-x8/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/OssiconeLabs/Ossicone_Labs_Footprints/Atmel_ATmega-x8/working
     oomp_src_flat: footprints_flat/footprints_flat/ossiconelabs_ossicone_labs_footprints_atmel_atmega_x8/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ossiconelabs_ossicone_labs_footprints_atmel_atmega_x8/working
-    oomp_src_folder: footprints_folder/footprints_folder/OssiconeLabs/Ossicone_Labs_Footprints/Atmel_ATmega-x8/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/OssiconeLabs/Ossicone_Labs_Footprints/Atmel_ATmega-x8/working
   name: Ossicone_Labs_Footprints.pretty
+  oomp:
+    footprint_name: atmel_atmega_x8
+    library_name: ossicone_labs_footprints
+    md5: a456b61a9cf0e8b6a8cb255a39941aa0
+    md5_10: a456b61a9c
+    md5_5: a456b
+    md5_6: a456b6
+    oomp_key: oomp_ossiconelabs_ossicone_labs_footprints_atmel_atmega_x8
+    oomp_key_extra: oomp_footprint_ossiconelabs_ossicone_labs_footprints_atmel_atmega_x8
+    oomp_key_full: oomp_footprint_ossiconelabs_ossicone_labs_footprints_atmel_atmega_x8_a456b6
+    oomp_key_simple: ossiconelabs_ossicone_labs_footprints_atmel_atmega_x8
+    original_filename: Ossicone_Labs_Footprints.pretty/Atmel_ATmega-x8.kicad_mod
+    owner_name: ossiconelabs
   oomp_key: oomp_ossiconelabs_ossicone_labs_footprints_atmel_atmega_x8
+  oomp_key_full: oomp_footprint_ossiconelabs_ossicone_labs_footprints_atmel_atmega_x8
   oomp_key_simple: ossiconelabs_ossicone_labs_footprints_atmel_atmega_x8
   owner: OssiconeLabs
   repo:

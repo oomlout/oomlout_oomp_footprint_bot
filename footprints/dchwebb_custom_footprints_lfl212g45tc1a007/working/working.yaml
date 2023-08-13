@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/dchwebb_custom_footprints_lfl212g45tc1a007/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/dchwebb_custom_footprints_lfl212g45tc1a007/working
-    oomp_doc: footprints/footprints/dchwebb/Custom_Footprints/LFL212G45TC1A007/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/dchwebb/Custom_Footprints/LFL212G45TC1A007/working
     oomp_src_flat: footprints_flat/footprints_flat/dchwebb_custom_footprints_lfl212g45tc1a007/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/dchwebb_custom_footprints_lfl212g45tc1a007/working
-    oomp_src_folder: footprints_folder/footprints_folder/dchwebb/Custom_Footprints/LFL212G45TC1A007/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/dchwebb/Custom_Footprints/LFL212G45TC1A007/working
   name: Custom_Footprints.pretty
+  oomp:
+    footprint_name: lfl212g45tc1a007
+    library_name: custom_footprints
+    md5: 829659a02c2767de7d440f2cf83b8681
+    md5_10: 829659a02c
+    md5_5: '82965'
+    md5_6: '829659'
+    oomp_key: oomp_dchwebb_custom_footprints_lfl212g45tc1a007
+    oomp_key_extra: oomp_footprint_dchwebb_custom_footprints_lfl212g45tc1a007
+    oomp_key_full: oomp_footprint_dchwebb_custom_footprints_lfl212g45tc1a007_829659
+    oomp_key_simple: dchwebb_custom_footprints_lfl212g45tc1a007
+    original_filename: Custom_Footprints.pretty/LFL212G45TC1A007.kicad_mod
+    owner_name: dchwebb
   oomp_key: oomp_dchwebb_custom_footprints_lfl212g45tc1a007
+  oomp_key_full: oomp_footprint_dchwebb_custom_footprints_lfl212g45tc1a007
   oomp_key_simple: dchwebb_custom_footprints_lfl212g45tc1a007
   owner: dchwebb
   repo:

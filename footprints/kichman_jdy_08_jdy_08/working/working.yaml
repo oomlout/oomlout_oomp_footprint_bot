@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/kichMan/JDY-08
     oomp_bot: footprints/kichman_jdy_08_jdy_08/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kichman_jdy_08_jdy_08/working
-    oomp_doc: footprints/footprints/kichMan/JDY-08/JDY-08/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kichMan/JDY-08/JDY-08/working
     oomp_src_flat: footprints_flat/footprints_flat/kichman_jdy_08_jdy_08/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kichman_jdy_08_jdy_08/working
-    oomp_src_folder: footprints_folder/footprints_folder/kichMan/JDY-08/JDY-08/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kichMan/JDY-08/JDY-08/working
   name: JDY-08
+  oomp:
+    footprint_name: jdy_08
+    library_name: jdy_08
+    md5: 6b63b5807a971d1aa6a3b6b6a91ca6b2
+    md5_10: 6b63b5807a
+    md5_5: 6b63b
+    md5_6: 6b63b5
+    oomp_key: oomp_kichman_jdy_08_jdy_08
+    oomp_key_extra: oomp_footprint_kichman_jdy_08_jdy_08
+    oomp_key_full: oomp_footprint_kichman_jdy_08_jdy_08_6b63b5
+    oomp_key_simple: kichman_jdy_08_jdy_08
+    original_filename: JDY-08/KiCAD/JDY-08.pretty/JDY-08.kicad_mod
+    owner_name: kichman
   oomp_key: oomp_kichman_jdy_08_jdy_08
+  oomp_key_full: oomp_footprint_kichman_jdy_08_jdy_08
   oomp_key_simple: kichman_jdy_08_jdy_08
   owner: kichMan
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cormoran_kicad_resnet10_3x6mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cormoran_kicad_resnet10_3x6mm/working
-    oomp_doc: footprints/footprints/cormoran/kicad/RESNET10_3X6MM/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cormoran/kicad/RESNET10_3X6MM/working
     oomp_src_flat: footprints_flat/footprints_flat/cormoran_kicad_resnet10_3x6mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cormoran_kicad_resnet10_3x6mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/cormoran/kicad/RESNET10_3X6MM/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cormoran/kicad/RESNET10_3X6MM/working
   name: kicad.pretty
+  oomp:
+    footprint_name: resnet10_3x6mm
+    library_name: kicad
+    md5: f3a9926b3e11c1c401c342b3ea9b8dca
+    md5_10: f3a9926b3e
+    md5_5: f3a99
+    md5_6: f3a992
+    oomp_key: oomp_cormoran_kicad_resnet10_3x6mm
+    oomp_key_extra: oomp_footprint_cormoran_kicad_resnet10_3x6mm
+    oomp_key_full: oomp_footprint_cormoran_kicad_resnet10_3x6mm_f3a992
+    oomp_key_simple: cormoran_kicad_resnet10_3x6mm
+    original_filename: kicad.pretty/RESNET10_3X6MM.kicad_mod
+    owner_name: cormoran
   oomp_key: oomp_cormoran_kicad_resnet10_3x6mm
+  oomp_key_full: oomp_footprint_cormoran_kicad_resnet10_3x6mm
   oomp_key_simple: cormoran_kicad_resnet10_3x6mm
   owner: cormoran
   repo:

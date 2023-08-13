@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/ruuvi_ruuvitag_lga_14l_25x3mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ruuvi_ruuvitag_lga_14l_25x3mm/working
-    oomp_doc: footprints/footprints/ruuvi/RuuviTag/LGA-14L-25X3MM/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ruuvi/RuuviTag/LGA-14L-25X3MM/working
     oomp_src_flat: footprints_flat/footprints_flat/ruuvi_ruuvitag_lga_14l_25x3mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ruuvi_ruuvitag_lga_14l_25x3mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/ruuvi/RuuviTag/LGA-14L-25X3MM/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ruuvi/RuuviTag/LGA-14L-25X3MM/working
   name: kicad-library
+  oomp:
+    footprint_name: lga_14l_25x3mm
+    library_name: ruuvitag
+    md5: 4db58a5c860514954e62af38eba617c0
+    md5_10: 4db58a5c86
+    md5_5: 4db58
+    md5_6: 4db58a
+    oomp_key: oomp_ruuvi_ruuvitag_lga_14l_25x3mm
+    oomp_key_extra: oomp_footprint_ruuvi_ruuvitag_lga_14l_25x3mm
+    oomp_key_full: oomp_footprint_ruuvi_ruuvitag_lga_14l_25x3mm_4db58a
+    oomp_key_simple: ruuvi_ruuvitag_lga_14l_25x3mm
+    original_filename: kicad-library/RuuviTag.pretty/LGA-14L-25X3MM.kicad_mod
+    owner_name: ruuvi
   oomp_key: oomp_ruuvi_ruuvitag_lga_14l_25x3mm
+  oomp_key_full: oomp_footprint_ruuvi_ruuvitag_lga_14l_25x3mm
   oomp_key_simple: ruuvi_ruuvitag_lga_14l_25x3mm
   owner: ruuvi
   repo:

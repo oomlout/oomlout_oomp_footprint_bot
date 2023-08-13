@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/hiroieee_kicad_lib_led_plcc_2/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/hiroieee_kicad_lib_led_plcc_2/working
-    oomp_doc: footprints/footprints/hiroieee/kicad-lib/LED_PLCC-2/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/hiroieee/kicad-lib/LED_PLCC-2/working
     oomp_src_flat: footprints_flat/footprints_flat/hiroieee_kicad_lib_led_plcc_2/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/hiroieee_kicad_lib_led_plcc_2/working
-    oomp_src_folder: footprints_folder/footprints_folder/hiroieee/kicad-lib/LED_PLCC-2/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/hiroieee/kicad-lib/LED_PLCC-2/working
   name: kicad-lib.pretty
+  oomp:
+    footprint_name: led_plcc_2
+    library_name: kicad_lib
+    md5: 7096ebaa450e2974b8f288ff74199ef2
+    md5_10: 7096ebaa45
+    md5_5: 7096e
+    md5_6: 7096eb
+    oomp_key: oomp_hiroieee_kicad_lib_led_plcc_2
+    oomp_key_extra: oomp_footprint_hiroieee_kicad_lib_led_plcc_2
+    oomp_key_full: oomp_footprint_hiroieee_kicad_lib_led_plcc_2_7096eb
+    oomp_key_simple: hiroieee_kicad_lib_led_plcc_2
+    original_filename: kicad-lib.pretty/LED_PLCC-2.kicad_mod
+    owner_name: hiroieee
   oomp_key: oomp_hiroieee_kicad_lib_led_plcc_2
+  oomp_key_full: oomp_footprint_hiroieee_kicad_lib_led_plcc_2
   oomp_key_simple: hiroieee_kicad_lib_led_plcc_2
   owner: hiroieee
   repo:

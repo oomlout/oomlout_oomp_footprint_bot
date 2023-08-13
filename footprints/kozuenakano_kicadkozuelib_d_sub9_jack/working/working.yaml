@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/KozueNakano/KiCADKozueLib.pretty
     oomp_bot: footprints/kozuenakano_kicadkozuelib_d_sub9_jack/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kozuenakano_kicadkozuelib_d_sub9_jack/working
-    oomp_doc: footprints/footprints/KozueNakano/KiCADKozueLib/D-sub9_jack/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/KozueNakano/KiCADKozueLib/D-sub9_jack/working
     oomp_src_flat: footprints_flat/footprints_flat/kozuenakano_kicadkozuelib_d_sub9_jack/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kozuenakano_kicadkozuelib_d_sub9_jack/working
-    oomp_src_folder: footprints_folder/footprints_folder/KozueNakano/KiCADKozueLib/D-sub9_jack/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/KozueNakano/KiCADKozueLib/D-sub9_jack/working
   name: KiCADKozueLib.pretty
+  oomp:
+    footprint_name: d_sub9_jack
+    library_name: kicadkozuelib
+    md5: d47e52d2508ae0642681180996732c1a
+    md5_10: d47e52d250
+    md5_5: d47e5
+    md5_6: d47e52
+    oomp_key: oomp_kozuenakano_kicadkozuelib_d_sub9_jack
+    oomp_key_extra: oomp_footprint_kozuenakano_kicadkozuelib_d_sub9_jack
+    oomp_key_full: oomp_footprint_kozuenakano_kicadkozuelib_d_sub9_jack_d47e52
+    oomp_key_simple: kozuenakano_kicadkozuelib_d_sub9_jack
+    original_filename: KiCADKozueLib.pretty/D-sub9_jack.kicad_mod
+    owner_name: kozuenakano
   oomp_key: oomp_kozuenakano_kicadkozuelib_d_sub9_jack
+  oomp_key_full: oomp_footprint_kozuenakano_kicadkozuelib_d_sub9_jack
   oomp_key_simple: kozuenakano_kicadkozuelib_d_sub9_jack
   owner: KozueNakano
   repo:

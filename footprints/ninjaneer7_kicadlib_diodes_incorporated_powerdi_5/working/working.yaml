@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/ninjaneer7_kicadlib_diodes_incorporated_powerdi_5/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ninjaneer7_kicadlib_diodes_incorporated_powerdi_5/working
-    oomp_doc: footprints/footprints/Ninjaneer7/KiCADLib/Diodes_Incorporated_POWERDI_5/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Ninjaneer7/KiCADLib/Diodes_Incorporated_POWERDI_5/working
     oomp_src_flat: footprints_flat/footprints_flat/ninjaneer7_kicadlib_diodes_incorporated_powerdi_5/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ninjaneer7_kicadlib_diodes_incorporated_powerdi_5/working
-    oomp_src_folder: footprints_folder/footprints_folder/Ninjaneer7/KiCADLib/Diodes_Incorporated_POWERDI_5/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Ninjaneer7/KiCADLib/Diodes_Incorporated_POWERDI_5/working
   name: KiCADLib.pretty
+  oomp:
+    footprint_name: diodes_incorporated_powerdi_5
+    library_name: kicadlib
+    md5: 4d75c54adffd1a8c9bda50fdae245172
+    md5_10: 4d75c54adf
+    md5_5: 4d75c
+    md5_6: 4d75c5
+    oomp_key: oomp_ninjaneer7_kicadlib_diodes_incorporated_powerdi_5
+    oomp_key_extra: oomp_footprint_ninjaneer7_kicadlib_diodes_incorporated_powerdi_5
+    oomp_key_full: oomp_footprint_ninjaneer7_kicadlib_diodes_incorporated_powerdi_5_4d75c5
+    oomp_key_simple: ninjaneer7_kicadlib_diodes_incorporated_powerdi_5
+    original_filename: KiCADLib.pretty/Diodes_Incorporated_POWERDI_5.kicad_mod
+    owner_name: ninjaneer7
   oomp_key: oomp_ninjaneer7_kicadlib_diodes_incorporated_powerdi_5
+  oomp_key_full: oomp_footprint_ninjaneer7_kicadlib_diodes_incorporated_powerdi_5
   oomp_key_simple: ninjaneer7_kicadlib_diodes_incorporated_powerdi_5
   owner: Ninjaneer7
   repo:

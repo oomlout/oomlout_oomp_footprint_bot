@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/monostable_commonpartslibrary_grm188r61a475ke15d_capc1608x90/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/monostable_commonpartslibrary_grm188r61a475ke15d_capc1608x90/working
-    oomp_doc: footprints/footprints/monostable/CommonPartsLibrary/GRM188R61A475KE15D_CAPC1608X90/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/monostable/CommonPartsLibrary/GRM188R61A475KE15D_CAPC1608X90/working
     oomp_src_flat: footprints_flat/footprints_flat/monostable_commonpartslibrary_grm188r61a475ke15d_capc1608x90/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/monostable_commonpartslibrary_grm188r61a475ke15d_capc1608x90/working
-    oomp_src_folder: footprints_folder/footprints_folder/monostable/CommonPartsLibrary/GRM188R61A475KE15D_CAPC1608X90/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/monostable/CommonPartsLibrary/GRM188R61A475KE15D_CAPC1608X90/working
   name: CommonPartsLibrary.pretty
+  oomp:
+    footprint_name: grm188r61a475ke15d_capc1608x90
+    library_name: commonpartslibrary
+    md5: 9dfce14fb26c0de4e4a07f77d3e8ad52
+    md5_10: 9dfce14fb2
+    md5_5: 9dfce
+    md5_6: 9dfce1
+    oomp_key: oomp_monostable_commonpartslibrary_grm188r61a475ke15d_capc1608x90
+    oomp_key_extra: oomp_footprint_monostable_commonpartslibrary_grm188r61a475ke15d_capc1608x90
+    oomp_key_full: oomp_footprint_monostable_commonpartslibrary_grm188r61a475ke15d_capc1608x90_9dfce1
+    oomp_key_simple: monostable_commonpartslibrary_grm188r61a475ke15d_capc1608x90
+    original_filename: CommonPartsLibrary.pretty/GRM188R61A475KE15D_CAPC1608X90.kicad_mod
+    owner_name: monostable
   oomp_key: oomp_monostable_commonpartslibrary_grm188r61a475ke15d_capc1608x90
+  oomp_key_full: oomp_footprint_monostable_commonpartslibrary_grm188r61a475ke15d_capc1608x90
   oomp_key_simple: monostable_commonpartslibrary_grm188r61a475ke15d_capc1608x90
   owner: monostable
   repo:

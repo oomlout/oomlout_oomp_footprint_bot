@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/electroniccats_signalcommunications_signalcommunications_we_asi_m/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/electroniccats_signalcommunications_signalcommunications_we_asi_m/working
-    oomp_doc: footprints/footprints/ElectronicCats/SignalCommunications/SignalCommunications-WE-ASI_M/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ElectronicCats/SignalCommunications/SignalCommunications-WE-ASI_M/working
     oomp_src_flat: footprints_flat/footprints_flat/electroniccats_signalcommunications_signalcommunications_we_asi_m/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/electroniccats_signalcommunications_signalcommunications_we_asi_m/working
-    oomp_src_folder: footprints_folder/footprints_folder/ElectronicCats/SignalCommunications/SignalCommunications-WE-ASI_M/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ElectronicCats/SignalCommunications/SignalCommunications-WE-ASI_M/working
   name: ComponentLibrariesKicadWurthElektronik
+  oomp:
+    footprint_name: signalcommunications_we_asi_m
+    library_name: signalcommunications
+    md5: 76dcecfa0a8536179e8451104d7be13b
+    md5_10: 76dcecfa0a
+    md5_5: 76dce
+    md5_6: 76dcec
+    oomp_key: oomp_electroniccats_signalcommunications_signalcommunications_we_asi_m
+    oomp_key_extra: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_asi_m
+    oomp_key_full: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_asi_m_76dcec
+    oomp_key_simple: electroniccats_signalcommunications_signalcommunications_we_asi_m
+    original_filename: ComponentLibrariesKicadWurthElektronik/SIGNAL-COMMUNICATIONS-rev18a/SignalCommunications.pretty/SignalCommunications-WE-ASI_M.kicad_mod
+    owner_name: electroniccats
   oomp_key: oomp_electroniccats_signalcommunications_signalcommunications_we_asi_m
+  oomp_key_full: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_asi_m
   oomp_key_simple: electroniccats_signalcommunications_signalcommunications_we_asi_m
   owner: ElectronicCats
   repo:

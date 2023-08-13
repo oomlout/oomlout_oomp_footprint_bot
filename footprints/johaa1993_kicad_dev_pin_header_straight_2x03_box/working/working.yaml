@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/johaa1993_kicad_dev_pin_header_straight_2x03_box/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/johaa1993_kicad_dev_pin_header_straight_2x03_box/working
-    oomp_doc: footprints/footprints/johaa1993/KiCad-Dev/Pin_Header_Straight_2x03_box/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/johaa1993/KiCad-Dev/Pin_Header_Straight_2x03_box/working
     oomp_src_flat: footprints_flat/footprints_flat/johaa1993_kicad_dev_pin_header_straight_2x03_box/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/johaa1993_kicad_dev_pin_header_straight_2x03_box/working
-    oomp_src_folder: footprints_folder/footprints_folder/johaa1993/KiCad-Dev/Pin_Header_Straight_2x03_box/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/johaa1993/KiCad-Dev/Pin_Header_Straight_2x03_box/working
   name: KiCad-Dev.pretty
+  oomp:
+    footprint_name: pin_header_straight_2x03_box
+    library_name: kicad_dev
+    md5: ea28992b5d8a53ea2912e152d91c9a52
+    md5_10: ea28992b5d
+    md5_5: ea289
+    md5_6: ea2899
+    oomp_key: oomp_johaa1993_kicad_dev_pin_header_straight_2x03_box
+    oomp_key_extra: oomp_footprint_johaa1993_kicad_dev_pin_header_straight_2x03_box
+    oomp_key_full: oomp_footprint_johaa1993_kicad_dev_pin_header_straight_2x03_box_ea2899
+    oomp_key_simple: johaa1993_kicad_dev_pin_header_straight_2x03_box
+    original_filename: KiCad-Dev.pretty/Pin_Header_Straight_2x03_box.kicad_mod
+    owner_name: johaa1993
   oomp_key: oomp_johaa1993_kicad_dev_pin_header_straight_2x03_box
+  oomp_key_full: oomp_footprint_johaa1993_kicad_dev_pin_header_straight_2x03_box
   oomp_key_simple: johaa1993_kicad_dev_pin_header_straight_2x03_box
   owner: johaa1993
   repo:

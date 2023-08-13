@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/electroniccats_signalcommunications_signalcommunications_we_fb_ee20_10_6/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/electroniccats_signalcommunications_signalcommunications_we_fb_ee20_10_6/working
-    oomp_doc: footprints/footprints/ElectronicCats/SignalCommunications/SignalCommunications-WE-FB_EE20_10_6/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ElectronicCats/SignalCommunications/SignalCommunications-WE-FB_EE20_10_6/working
     oomp_src_flat: footprints_flat/footprints_flat/electroniccats_signalcommunications_signalcommunications_we_fb_ee20_10_6/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/electroniccats_signalcommunications_signalcommunications_we_fb_ee20_10_6/working
-    oomp_src_folder: footprints_folder/footprints_folder/ElectronicCats/SignalCommunications/SignalCommunications-WE-FB_EE20_10_6/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ElectronicCats/SignalCommunications/SignalCommunications-WE-FB_EE20_10_6/working
   name: ComponentLibrariesKicadWurthElektronik
+  oomp:
+    footprint_name: signalcommunications_we_fb_ee20_10_6
+    library_name: signalcommunications
+    md5: f60005d3d10442777743b5ecaa1d2ae8
+    md5_10: f60005d3d1
+    md5_5: f6000
+    md5_6: f60005
+    oomp_key: oomp_electroniccats_signalcommunications_signalcommunications_we_fb_ee20_10_6
+    oomp_key_extra: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_fb_ee20_10_6
+    oomp_key_full: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_fb_ee20_10_6_f60005
+    oomp_key_simple: electroniccats_signalcommunications_signalcommunications_we_fb_ee20_10_6
+    original_filename: ComponentLibrariesKicadWurthElektronik/SIGNAL-COMMUNICATIONS-rev18a/SignalCommunications.pretty/SignalCommunications-WE-FB_EE20_10_6.kicad_mod
+    owner_name: electroniccats
   oomp_key: oomp_electroniccats_signalcommunications_signalcommunications_we_fb_ee20_10_6
+  oomp_key_full: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_fb_ee20_10_6
   oomp_key_simple: electroniccats_signalcommunications_signalcommunications_we_fb_ee20_10_6
   owner: ElectronicCats
   repo:

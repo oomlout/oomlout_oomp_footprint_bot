@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/gutierrezps_gtrzps_wemos_d1_mini/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/gutierrezps_gtrzps_wemos_d1_mini/working
-    oomp_doc: footprints/footprints/gutierrezps/gtrzps/Wemos_D1_Mini/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/gutierrezps/gtrzps/Wemos_D1_Mini/working
     oomp_src_flat: footprints_flat/footprints_flat/gutierrezps_gtrzps_wemos_d1_mini/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/gutierrezps_gtrzps_wemos_d1_mini/working
-    oomp_src_folder: footprints_folder/footprints_folder/gutierrezps/gtrzps/Wemos_D1_Mini/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/gutierrezps/gtrzps/Wemos_D1_Mini/working
   name: gtrzps.pretty
+  oomp:
+    footprint_name: wemos_d1_mini
+    library_name: gtrzps
+    md5: 71700641705f4f3f44bd387ed11ef83f
+    md5_10: '7170064170'
+    md5_5: '71700'
+    md5_6: '717006'
+    oomp_key: oomp_gutierrezps_gtrzps_wemos_d1_mini
+    oomp_key_extra: oomp_footprint_gutierrezps_gtrzps_wemos_d1_mini
+    oomp_key_full: oomp_footprint_gutierrezps_gtrzps_wemos_d1_mini_717006
+    oomp_key_simple: gutierrezps_gtrzps_wemos_d1_mini
+    original_filename: gtrzps.pretty/Wemos_D1_Mini.kicad_mod
+    owner_name: gutierrezps
   oomp_key: oomp_gutierrezps_gtrzps_wemos_d1_mini
+  oomp_key_full: oomp_footprint_gutierrezps_gtrzps_wemos_d1_mini
   oomp_key_simple: gutierrezps_gtrzps_wemos_d1_mini
   owner: gutierrezps
   repo:

@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/candykingdom_homebrew_minipv_69167_x04xxx_1x04_p2_54mm_polarized_vertical/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/candykingdom_homebrew_minipv_69167_x04xxx_1x04_p2_54mm_polarized_vertical/working
-    oomp_doc: footprints/footprints/candykingdom/homebrew/MiniPV_69167-X04XXX_1x04_P2.54mm_Polarized_Vertical/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/candykingdom/homebrew/MiniPV_69167-X04XXX_1x04_P2.54mm_Polarized_Vertical/working
     oomp_src_flat: footprints_flat/footprints_flat/candykingdom_homebrew_minipv_69167_x04xxx_1x04_p2_54mm_polarized_vertical/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/candykingdom_homebrew_minipv_69167_x04xxx_1x04_p2_54mm_polarized_vertical/working
-    oomp_src_folder: footprints_folder/footprints_folder/candykingdom/homebrew/MiniPV_69167-X04XXX_1x04_P2.54mm_Polarized_Vertical/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/candykingdom/homebrew/MiniPV_69167-X04XXX_1x04_P2.54mm_Polarized_Vertical/working
   name: homebrew.pretty
+  oomp:
+    footprint_name: minipv_69167_x04xxx_1x04_p2_54mm_polarized_vertical
+    library_name: homebrew
+    md5: 3344b589acb13a49e3d82be8dcbe9944
+    md5_10: 3344b589ac
+    md5_5: 3344b
+    md5_6: 3344b5
+    oomp_key: oomp_candykingdom_homebrew_minipv_69167_x04xxx_1x04_p2_54mm_polarized_vertical
+    oomp_key_extra: oomp_footprint_candykingdom_homebrew_minipv_69167_x04xxx_1x04_p2_54mm_polarized_vertical
+    oomp_key_full: oomp_footprint_candykingdom_homebrew_minipv_69167_x04xxx_1x04_p2_54mm_polarized_vertical_3344b5
+    oomp_key_simple: candykingdom_homebrew_minipv_69167_x04xxx_1x04_p2_54mm_polarized_vertical
+    original_filename: homebrew.pretty/MiniPV_69167-X04XXX_1x04_P2.54mm_Polarized_Vertical.kicad_mod
+    owner_name: candykingdom
   oomp_key: oomp_candykingdom_homebrew_minipv_69167_x04xxx_1x04_p2_54mm_polarized_vertical
+  oomp_key_full: oomp_footprint_candykingdom_homebrew_minipv_69167_x04xxx_1x04_p2_54mm_polarized_vertical
   oomp_key_simple: candykingdom_homebrew_minipv_69167_x04xxx_1x04_p2_54mm_polarized_vertical
   owner: candykingdom
   repo:

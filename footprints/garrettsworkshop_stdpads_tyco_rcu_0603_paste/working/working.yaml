@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/garrettsworkshop_stdpads_tyco_rcu_0603_paste/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/garrettsworkshop_stdpads_tyco_rcu_0603_paste/working
-    oomp_doc: footprints/footprints/garrettsworkshop/stdpads/Tyco_RCU_0603_Paste/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/garrettsworkshop/stdpads/Tyco_RCU_0603_Paste/working
     oomp_src_flat: footprints_flat/footprints_flat/garrettsworkshop_stdpads_tyco_rcu_0603_paste/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/garrettsworkshop_stdpads_tyco_rcu_0603_paste/working
-    oomp_src_folder: footprints_folder/footprints_folder/garrettsworkshop/stdpads/Tyco_RCU_0603_Paste/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/garrettsworkshop/stdpads/Tyco_RCU_0603_Paste/working
   name: stdpads.pretty
+  oomp:
+    footprint_name: tyco_rcu_0603_paste
+    library_name: stdpads
+    md5: 39ed209ab02814351a15dab7c078488c
+    md5_10: 39ed209ab0
+    md5_5: 39ed2
+    md5_6: 39ed20
+    oomp_key: oomp_garrettsworkshop_stdpads_tyco_rcu_0603_paste
+    oomp_key_extra: oomp_footprint_garrettsworkshop_stdpads_tyco_rcu_0603_paste
+    oomp_key_full: oomp_footprint_garrettsworkshop_stdpads_tyco_rcu_0603_paste_39ed20
+    oomp_key_simple: garrettsworkshop_stdpads_tyco_rcu_0603_paste
+    original_filename: stdpads.pretty/Tyco_RCU_0603_Paste.kicad_mod
+    owner_name: garrettsworkshop
   oomp_key: oomp_garrettsworkshop_stdpads_tyco_rcu_0603_paste
+  oomp_key_full: oomp_footprint_garrettsworkshop_stdpads_tyco_rcu_0603_paste
   oomp_key_simple: garrettsworkshop_stdpads_tyco_rcu_0603_paste
   owner: garrettsworkshop
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/asukiaaa_my_kicad_footprints_roteryencoderwithpowerlabel/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/asukiaaa_my_kicad_footprints_roteryencoderwithpowerlabel/working
-    oomp_doc: footprints/footprints/asukiaaa/my-kicad-footprints/RoteryEncoderWithPowerLabel/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/asukiaaa/my-kicad-footprints/RoteryEncoderWithPowerLabel/working
     oomp_src_flat: footprints_flat/footprints_flat/asukiaaa_my_kicad_footprints_roteryencoderwithpowerlabel/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/asukiaaa_my_kicad_footprints_roteryencoderwithpowerlabel/working
-    oomp_src_folder: footprints_folder/footprints_folder/asukiaaa/my-kicad-footprints/RoteryEncoderWithPowerLabel/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/asukiaaa/my-kicad-footprints/RoteryEncoderWithPowerLabel/working
   name: my-kicad-footprints.pretty
+  oomp:
+    footprint_name: roteryencoderwithpowerlabel
+    library_name: my_kicad_footprints
+    md5: dcf619d8e95ac06c356d32561bdb8977
+    md5_10: dcf619d8e9
+    md5_5: dcf61
+    md5_6: dcf619
+    oomp_key: oomp_asukiaaa_my_kicad_footprints_roteryencoderwithpowerlabel
+    oomp_key_extra: oomp_footprint_asukiaaa_my_kicad_footprints_roteryencoderwithpowerlabel
+    oomp_key_full: oomp_footprint_asukiaaa_my_kicad_footprints_roteryencoderwithpowerlabel_dcf619
+    oomp_key_simple: asukiaaa_my_kicad_footprints_roteryencoderwithpowerlabel
+    original_filename: my-kicad-footprints.pretty/RoteryEncoderWithPowerLabel.kicad_mod
+    owner_name: asukiaaa
   oomp_key: oomp_asukiaaa_my_kicad_footprints_roteryencoderwithpowerlabel
+  oomp_key_full: oomp_footprint_asukiaaa_my_kicad_footprints_roteryencoderwithpowerlabel
   oomp_key_simple: asukiaaa_my_kicad_footprints_roteryencoderwithpowerlabel
   owner: asukiaaa
   repo:

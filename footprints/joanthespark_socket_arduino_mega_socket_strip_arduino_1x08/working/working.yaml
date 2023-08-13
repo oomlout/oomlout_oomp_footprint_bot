@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/joanthespark_socket_arduino_mega_socket_strip_arduino_1x08/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/joanthespark_socket_arduino_mega_socket_strip_arduino_1x08/working
-    oomp_doc: footprints/footprints/JoanTheSpark/Socket_Arduino_Mega/Socket_Strip_Arduino_1x08/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/JoanTheSpark/Socket_Arduino_Mega/Socket_Strip_Arduino_1x08/working
     oomp_src_flat: footprints_flat/footprints_flat/joanthespark_socket_arduino_mega_socket_strip_arduino_1x08/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/joanthespark_socket_arduino_mega_socket_strip_arduino_1x08/working
-    oomp_src_folder: footprints_folder/footprints_folder/JoanTheSpark/Socket_Arduino_Mega/Socket_Strip_Arduino_1x08/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/JoanTheSpark/Socket_Arduino_Mega/Socket_Strip_Arduino_1x08/working
   name: KiCAD
+  oomp:
+    footprint_name: socket_strip_arduino_1x08
+    library_name: socket_arduino_mega
+    md5: 61725539e23491baf02f990c4f9d531e
+    md5_10: 61725539e2
+    md5_5: '61725'
+    md5_6: '617255'
+    oomp_key: oomp_joanthespark_socket_arduino_mega_socket_strip_arduino_1x08
+    oomp_key_extra: oomp_footprint_joanthespark_socket_arduino_mega_socket_strip_arduino_1x08
+    oomp_key_full: oomp_footprint_joanthespark_socket_arduino_mega_socket_strip_arduino_1x08_617255
+    oomp_key_simple: joanthespark_socket_arduino_mega_socket_strip_arduino_1x08
+    original_filename: KiCAD/Arduino_Mega_433Mhz_Shield/Socket_Arduino_Mega.pretty/Socket_Strip_Arduino_1x08.kicad_mod
+    owner_name: joanthespark
   oomp_key: oomp_joanthespark_socket_arduino_mega_socket_strip_arduino_1x08
+  oomp_key_full: oomp_footprint_joanthespark_socket_arduino_mega_socket_strip_arduino_1x08
   oomp_key_simple: joanthespark_socket_arduino_mega_socket_strip_arduino_1x08
   owner: JoanTheSpark
   repo:

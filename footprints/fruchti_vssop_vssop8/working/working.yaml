@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/fruchti_vssop_vssop8/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/fruchti_vssop_vssop8/working
-    oomp_doc: footprints/footprints/fruchti/vssop/VSSOP8/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/fruchti/vssop/VSSOP8/working
     oomp_src_flat: footprints_flat/footprints_flat/fruchti_vssop_vssop8/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/fruchti_vssop_vssop8/working
-    oomp_src_folder: footprints_folder/footprints_folder/fruchti/vssop/VSSOP8/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/fruchti/vssop/VSSOP8/working
   name: fruchtilib
+  oomp:
+    footprint_name: vssop8
+    library_name: vssop
+    md5: 519daaf8426b51c80c0500550b34a9db
+    md5_10: 519daaf842
+    md5_5: 519da
+    md5_6: 519daa
+    oomp_key: oomp_fruchti_vssop_vssop8
+    oomp_key_extra: oomp_footprint_fruchti_vssop_vssop8
+    oomp_key_full: oomp_footprint_fruchti_vssop_vssop8_519daa
+    oomp_key_simple: fruchti_vssop_vssop8
+    original_filename: fruchtilib/mod/vssop.pretty/VSSOP8.kicad_mod
+    owner_name: fruchti
   oomp_key: oomp_fruchti_vssop_vssop8
+  oomp_key_full: oomp_footprint_fruchti_vssop_vssop8
   oomp_key_simple: fruchti_vssop_vssop8
   owner: fruchti
   repo:

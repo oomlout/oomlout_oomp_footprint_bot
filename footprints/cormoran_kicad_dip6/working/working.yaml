@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cormoran_kicad_dip6/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cormoran_kicad_dip6/working
-    oomp_doc: footprints/footprints/cormoran/kicad/DIP6/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cormoran/kicad/DIP6/working
     oomp_src_flat: footprints_flat/footprints_flat/cormoran_kicad_dip6/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cormoran_kicad_dip6/working
-    oomp_src_folder: footprints_folder/footprints_folder/cormoran/kicad/DIP6/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cormoran/kicad/DIP6/working
   name: kicad.pretty
+  oomp:
+    footprint_name: dip6
+    library_name: kicad
+    md5: d14ae6f6c4b487ecc8078f4e7b380b2b
+    md5_10: d14ae6f6c4
+    md5_5: d14ae
+    md5_6: d14ae6
+    oomp_key: oomp_cormoran_kicad_dip6
+    oomp_key_extra: oomp_footprint_cormoran_kicad_dip6
+    oomp_key_full: oomp_footprint_cormoran_kicad_dip6_d14ae6
+    oomp_key_simple: cormoran_kicad_dip6
+    original_filename: kicad.pretty/DIP6.kicad_mod
+    owner_name: cormoran
   oomp_key: oomp_cormoran_kicad_dip6
+  oomp_key_full: oomp_footprint_cormoran_kicad_dip6
   oomp_key_simple: cormoran_kicad_dip6
   owner: cormoran
   repo:

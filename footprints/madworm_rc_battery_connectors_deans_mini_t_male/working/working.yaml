@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/madworm/RC-Battery-Connectors.pretty
     oomp_bot: footprints/madworm_rc_battery_connectors_deans_mini_t_male/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/madworm_rc_battery_connectors_deans_mini_t_male/working
-    oomp_doc: footprints/footprints/madworm/RC-Battery-Connectors/Deans_mini-T_male/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/madworm/RC-Battery-Connectors/Deans_mini-T_male/working
     oomp_src_flat: footprints_flat/footprints_flat/madworm_rc_battery_connectors_deans_mini_t_male/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/madworm_rc_battery_connectors_deans_mini_t_male/working
-    oomp_src_folder: footprints_folder/footprints_folder/madworm/RC-Battery-Connectors/Deans_mini-T_male/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/madworm/RC-Battery-Connectors/Deans_mini-T_male/working
   name: RC-Battery-Connectors.pretty
+  oomp:
+    footprint_name: deans_mini_t_male
+    library_name: rc_battery_connectors
+    md5: 4a4122fa5f693ebf630cace1510213be
+    md5_10: 4a4122fa5f
+    md5_5: 4a412
+    md5_6: 4a4122
+    oomp_key: oomp_madworm_rc_battery_connectors_deans_mini_t_male
+    oomp_key_extra: oomp_footprint_madworm_rc_battery_connectors_deans_mini_t_male
+    oomp_key_full: oomp_footprint_madworm_rc_battery_connectors_deans_mini_t_male_4a4122
+    oomp_key_simple: madworm_rc_battery_connectors_deans_mini_t_male
+    original_filename: RC-Battery-Connectors.pretty/Deans_mini-T_male.kicad_mod
+    owner_name: madworm
   oomp_key: oomp_madworm_rc_battery_connectors_deans_mini_t_male
+  oomp_key_full: oomp_footprint_madworm_rc_battery_connectors_deans_mini_t_male
   oomp_key_simple: madworm_rc_battery_connectors_deans_mini_t_male
   owner: madworm
   repo:

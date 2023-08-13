@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/peekpt_w_indicators_led_5mm_yellow/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/peekpt_w_indicators_led_5mm_yellow/working
-    oomp_doc: footprints/footprints/peekpt/w_indicators/led_5mm_yellow/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/peekpt/w_indicators/led_5mm_yellow/working
     oomp_src_flat: footprints_flat/footprints_flat/peekpt_w_indicators_led_5mm_yellow/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/peekpt_w_indicators_led_5mm_yellow/working
-    oomp_src_folder: footprints_folder/footprints_folder/peekpt/w_indicators/led_5mm_yellow/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/peekpt/w_indicators/led_5mm_yellow/working
   name: kicad_smisioto
+  oomp:
+    footprint_name: led_5mm_yellow
+    library_name: w_indicators
+    md5: ad18e497b910f06f908495d5bb9b778c
+    md5_10: ad18e497b9
+    md5_5: ad18e
+    md5_6: ad18e4
+    oomp_key: oomp_peekpt_w_indicators_led_5mm_yellow
+    oomp_key_extra: oomp_footprint_peekpt_w_indicators_led_5mm_yellow
+    oomp_key_full: oomp_footprint_peekpt_w_indicators_led_5mm_yellow_ad18e4
+    oomp_key_simple: peekpt_w_indicators_led_5mm_yellow
+    original_filename: kicad_smisioto/modules/walter/w_indicators.pretty/led_5mm_yellow.kicad_mod
+    owner_name: peekpt
   oomp_key: oomp_peekpt_w_indicators_led_5mm_yellow
+  oomp_key_full: oomp_footprint_peekpt_w_indicators_led_5mm_yellow
   oomp_key_simple: peekpt_w_indicators_led_5mm_yellow
   owner: peekpt
   repo:

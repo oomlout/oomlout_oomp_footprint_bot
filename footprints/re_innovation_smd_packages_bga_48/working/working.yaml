@@ -13,14 +13,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/re_innovation_smd_packages_bga_48/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/re_innovation_smd_packages_bga_48/working
-    oomp_doc: footprints/footprints/re-innovation/SMD_Packages/BGA-48/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/re-innovation/SMD_Packages/BGA-48/working
     oomp_src_flat: footprints_flat/footprints_flat/re_innovation_smd_packages_bga_48/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/re_innovation_smd_packages_bga_48/working
-    oomp_src_folder: footprints_folder/footprints_folder/re-innovation/SMD_Packages/BGA-48/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/re-innovation/SMD_Packages/BGA-48/working
   name: kicad_reinnovation
+  oomp:
+    footprint_name: bga_48
+    library_name: smd_packages
+    md5: 9b46aeaea49e8f1d920186c9f799d8e3
+    md5_10: 9b46aeaea4
+    md5_5: 9b46a
+    md5_6: 9b46ae
+    oomp_key: oomp_re_innovation_smd_packages_bga_48
+    oomp_key_extra: oomp_footprint_re_innovation_smd_packages_bga_48
+    oomp_key_full: oomp_footprint_re_innovation_smd_packages_bga_48_9b46ae
+    oomp_key_simple: re_innovation_smd_packages_bga_48
+    original_filename: kicad_reinnovation/KiCAD PRETTY/SMD_Packages.pretty/BGA-48.kicad_mod
+    owner_name: re_innovation
   oomp_key: oomp_re_innovation_smd_packages_bga_48
+  oomp_key_full: oomp_footprint_re_innovation_smd_packages_bga_48
   oomp_key_simple: re_innovation_smd_packages_bga_48
   owner: re-innovation
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_do_214aa_do_214aa/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_do_214aa_do_214aa/working
-    oomp_doc: footprints/footprints/brunoeagle/DO-214AA.kicad_mod/DO-214AA/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/DO-214AA.kicad_mod/DO-214AA/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_do_214aa_do_214aa/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_do_214aa_do_214aa/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/DO-214AA.kicad_mod/DO-214AA/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/DO-214AA.kicad_mod/DO-214AA/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: do_214aa
+    library_name: do_214aa_kicad_mod
+    md5: d9461f4f5fb44b575b318dcb66d2f3ea
+    md5_10: d9461f4f5f
+    md5_5: d9461
+    md5_6: d9461f
+    oomp_key: oomp_brunoeagle_do_214aa_do_214aa
+    oomp_key_extra: oomp_footprint_brunoeagle_do_214aa_do_214aa
+    oomp_key_full: oomp_footprint_brunoeagle_do_214aa_do_214aa_d9461f
+    oomp_key_simple: brunoeagle_do_214aa_do_214aa
+    original_filename: kicad-open-modules/DO-214AA.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_do_214aa_do_214aa
+  oomp_key_full: oomp_footprint_brunoeagle_do_214aa_do_214aa
   oomp_key_simple: brunoeagle_do_214aa_do_214aa
   owner: brunoeagle
   repo:

@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/andresmanelli/TOROID-KiCad.pretty
     oomp_bot: footprints/andresmanelli_toroid_kicad_logo_and_name_20mm_fsilk/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/andresmanelli_toroid_kicad_logo_and_name_20mm_fsilk/working
-    oomp_doc: footprints/footprints/andresmanelli/TOROID-KiCad/Logo_and_Name_20mm_FSilk/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/andresmanelli/TOROID-KiCad/Logo_and_Name_20mm_FSilk/working
     oomp_src_flat: footprints_flat/footprints_flat/andresmanelli_toroid_kicad_logo_and_name_20mm_fsilk/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/andresmanelli_toroid_kicad_logo_and_name_20mm_fsilk/working
-    oomp_src_folder: footprints_folder/footprints_folder/andresmanelli/TOROID-KiCad/Logo_and_Name_20mm_FSilk/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/andresmanelli/TOROID-KiCad/Logo_and_Name_20mm_FSilk/working
   name: TOROID-KiCad.pretty
+  oomp:
+    footprint_name: logo_and_name_20mm_fsilk
+    library_name: toroid_kicad
+    md5: 3aed7b7ccafdef669770ff0b243560e8
+    md5_10: 3aed7b7cca
+    md5_5: 3aed7
+    md5_6: 3aed7b
+    oomp_key: oomp_andresmanelli_toroid_kicad_logo_and_name_20mm_fsilk
+    oomp_key_extra: oomp_footprint_andresmanelli_toroid_kicad_logo_and_name_20mm_fsilk
+    oomp_key_full: oomp_footprint_andresmanelli_toroid_kicad_logo_and_name_20mm_fsilk_3aed7b
+    oomp_key_simple: andresmanelli_toroid_kicad_logo_and_name_20mm_fsilk
+    original_filename: TOROID-KiCad.pretty/Logo_and_Name_20mm_FSilk.kicad_mod
+    owner_name: andresmanelli
   oomp_key: oomp_andresmanelli_toroid_kicad_logo_and_name_20mm_fsilk
+  oomp_key_full: oomp_footprint_andresmanelli_toroid_kicad_logo_and_name_20mm_fsilk
   oomp_key_simple: andresmanelli_toroid_kicad_logo_and_name_20mm_fsilk
   owner: andresmanelli
   repo:

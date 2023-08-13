@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/simontretter_mediaarchitectu_re_micro_b_usb/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/simontretter_mediaarchitectu_re_micro_b_usb/working
-    oomp_doc: footprints/footprints/simontretter/mediaarchitectu.re/MICRO-B_USB/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/simontretter/mediaarchitectu.re/MICRO-B_USB/working
     oomp_src_flat: footprints_flat/footprints_flat/simontretter_mediaarchitectu_re_micro_b_usb/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/simontretter_mediaarchitectu_re_micro_b_usb/working
-    oomp_src_folder: footprints_folder/footprints_folder/simontretter/mediaarchitectu.re/MICRO-B_USB/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/simontretter/mediaarchitectu.re/MICRO-B_USB/working
   name: mediaarchitectu.re.pretty
+  oomp:
+    footprint_name: micro_b_usb
+    library_name: mediaarchitectu_re
+    md5: 7d0595c5e64ef4a9cc46f029244b6dd8
+    md5_10: 7d0595c5e6
+    md5_5: 7d059
+    md5_6: 7d0595
+    oomp_key: oomp_simontretter_mediaarchitectu_re_micro_b_usb
+    oomp_key_extra: oomp_footprint_simontretter_mediaarchitectu_re_micro_b_usb
+    oomp_key_full: oomp_footprint_simontretter_mediaarchitectu_re_micro_b_usb_7d0595
+    oomp_key_simple: simontretter_mediaarchitectu_re_micro_b_usb
+    original_filename: mediaarchitectu.re.pretty/MICRO-B_USB.kicad_mod
+    owner_name: simontretter
   oomp_key: oomp_simontretter_mediaarchitectu_re_micro_b_usb
+  oomp_key_full: oomp_footprint_simontretter_mediaarchitectu_re_micro_b_usb
   oomp_key_simple: simontretter_mediaarchitectu_re_micro_b_usb
   owner: simontretter
   repo:

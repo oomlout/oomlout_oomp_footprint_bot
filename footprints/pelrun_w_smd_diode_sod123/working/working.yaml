@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pelrun_w_smd_diode_sod123/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pelrun_w_smd_diode_sod123/working
-    oomp_doc: footprints/footprints/pelrun/w_smd_diode/sod123/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/pelrun/w_smd_diode/sod123/working
     oomp_src_flat: footprints_flat/footprints_flat/pelrun_w_smd_diode_sod123/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pelrun_w_smd_diode_sod123/working
-    oomp_src_folder: footprints_folder/footprints_folder/pelrun/w_smd_diode/sod123/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/pelrun/w_smd_diode/sod123/working
   name: libKiCad
+  oomp:
+    footprint_name: sod123
+    library_name: w_smd_diode
+    md5: 15e8199413d90233778a179fac9c72b2
+    md5_10: 15e8199413
+    md5_5: 15e81
+    md5_6: 15e819
+    oomp_key: oomp_pelrun_w_smd_diode_sod123
+    oomp_key_extra: oomp_footprint_pelrun_w_smd_diode_sod123
+    oomp_key_full: oomp_footprint_pelrun_w_smd_diode_sod123_15e819
+    oomp_key_simple: pelrun_w_smd_diode_sod123
+    original_filename: libKiCad/footprint/w_smd_diode.pretty/sod123.kicad_mod
+    owner_name: pelrun
   oomp_key: oomp_pelrun_w_smd_diode_sod123
+  oomp_key_full: oomp_footprint_pelrun_w_smd_diode_sod123
   oomp_key_simple: pelrun_w_smd_diode_sod123
   owner: pelrun
   repo:

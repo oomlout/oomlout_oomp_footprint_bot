@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/rudiloos_kilibs_lqfp_48_7x7/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/rudiloos_kilibs_lqfp_48_7x7/working
-    oomp_doc: footprints/footprints/rudiloos/kilibs/LQFP-48-7x7/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/rudiloos/kilibs/LQFP-48-7x7/working
     oomp_src_flat: footprints_flat/footprints_flat/rudiloos_kilibs_lqfp_48_7x7/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/rudiloos_kilibs_lqfp_48_7x7/working
-    oomp_src_folder: footprints_folder/footprints_folder/rudiloos/kilibs/LQFP-48-7x7/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/rudiloos/kilibs/LQFP-48-7x7/working
   name: kilibs.pretty
+  oomp:
+    footprint_name: lqfp_48_7x7
+    library_name: kilibs
+    md5: 2fa0d55903a224bc4dbc0e34a8e0b13e
+    md5_10: 2fa0d55903
+    md5_5: 2fa0d
+    md5_6: 2fa0d5
+    oomp_key: oomp_rudiloos_kilibs_lqfp_48_7x7
+    oomp_key_extra: oomp_footprint_rudiloos_kilibs_lqfp_48_7x7
+    oomp_key_full: oomp_footprint_rudiloos_kilibs_lqfp_48_7x7_2fa0d5
+    oomp_key_simple: rudiloos_kilibs_lqfp_48_7x7
+    original_filename: kilibs.pretty/LQFP-48-7x7.kicad_mod
+    owner_name: rudiloos
   oomp_key: oomp_rudiloos_kilibs_lqfp_48_7x7
+  oomp_key_full: oomp_footprint_rudiloos_kilibs_lqfp_48_7x7
   oomp_key_simple: rudiloos_kilibs_lqfp_48_7x7
   owner: rudiloos
   repo:

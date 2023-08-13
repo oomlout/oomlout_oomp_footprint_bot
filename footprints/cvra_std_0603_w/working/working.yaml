@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cvra_std_0603_w/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cvra_std_0603_w/working
-    oomp_doc: footprints/footprints/cvra/_std/_0603-W/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cvra/_std/_0603-W/working
     oomp_src_flat: footprints_flat/footprints_flat/cvra_std_0603_w/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cvra_std_0603_w/working
-    oomp_src_folder: footprints_folder/footprints_folder/cvra/_std/_0603-W/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cvra/_std/_0603-W/working
   name: kicad-lib
+  oomp:
+    footprint_name: _0603_w
+    library_name: _std
+    md5: fbbf7a9e745eb9f191055057c0115394
+    md5_10: fbbf7a9e74
+    md5_5: fbbf7
+    md5_6: fbbf7a
+    oomp_key: oomp_cvra_std_0603_w
+    oomp_key_extra: oomp_footprint_cvra_std_0603_w
+    oomp_key_full: oomp_footprint_cvra_std_0603_w_fbbf7a
+    oomp_key_simple: cvra_std_0603_w
+    original_filename: kicad-lib/footprints/_std.pretty/_0603-W.kicad_mod
+    owner_name: cvra
   oomp_key: oomp_cvra_std_0603_w
+  oomp_key_full: oomp_footprint_cvra_std_0603_w
   oomp_key_simple: cvra_std_0603_w
   owner: cvra
   repo:

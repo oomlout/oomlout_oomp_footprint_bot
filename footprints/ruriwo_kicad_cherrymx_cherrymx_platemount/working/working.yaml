@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/ruriwo_kicad_cherrymx_cherrymx_platemount/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ruriwo_kicad_cherrymx_cherrymx_platemount/working
-    oomp_doc: footprints/footprints/ruriwo/KiCad_CherryMx/CherryMX_PlateMount/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ruriwo/KiCad_CherryMx/CherryMX_PlateMount/working
     oomp_src_flat: footprints_flat/footprints_flat/ruriwo_kicad_cherrymx_cherrymx_platemount/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ruriwo_kicad_cherrymx_cherrymx_platemount/working
-    oomp_src_folder: footprints_folder/footprints_folder/ruriwo/KiCad_CherryMx/CherryMX_PlateMount/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ruriwo/KiCad_CherryMx/CherryMX_PlateMount/working
   name: KiCad_CherryMx.pretty
+  oomp:
+    footprint_name: cherrymx_platemount
+    library_name: kicad_cherrymx
+    md5: a68cf177d28fdfa6a1a785f5d4e3c54f
+    md5_10: a68cf177d2
+    md5_5: a68cf
+    md5_6: a68cf1
+    oomp_key: oomp_ruriwo_kicad_cherrymx_cherrymx_platemount
+    oomp_key_extra: oomp_footprint_ruriwo_kicad_cherrymx_cherrymx_platemount
+    oomp_key_full: oomp_footprint_ruriwo_kicad_cherrymx_cherrymx_platemount_a68cf1
+    oomp_key_simple: ruriwo_kicad_cherrymx_cherrymx_platemount
+    original_filename: KiCad_CherryMx.pretty/CherryMX_PlateMount.kicad_mod
+    owner_name: ruriwo
   oomp_key: oomp_ruriwo_kicad_cherrymx_cherrymx_platemount
+  oomp_key_full: oomp_footprint_ruriwo_kicad_cherrymx_cherrymx_platemount
   oomp_key_simple: ruriwo_kicad_cherrymx_cherrymx_platemount
   owner: ruriwo
   repo:

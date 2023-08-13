@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/imrehg_seeedopl_sensor_2016_snr2_5_1_25_0x13_0x1_0mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/imrehg_seeedopl_sensor_2016_snr2_5_1_25_0x13_0x1_0mm/working
-    oomp_doc: footprints/footprints/imrehg/SeeedOPL-Sensor-2016/SNR2-5.1-25.0X13.0X1.0MM/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/imrehg/SeeedOPL-Sensor-2016/SNR2-5.1-25.0X13.0X1.0MM/working
     oomp_src_flat: footprints_flat/footprints_flat/imrehg_seeedopl_sensor_2016_snr2_5_1_25_0x13_0x1_0mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/imrehg_seeedopl_sensor_2016_snr2_5_1_25_0x13_0x1_0mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/imrehg/SeeedOPL-Sensor-2016/SNR2-5.1-25.0X13.0X1.0MM/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/imrehg/SeeedOPL-Sensor-2016/SNR2-5.1-25.0X13.0X1.0MM/working
   name: kicalopl
+  oomp:
+    footprint_name: snr2_5_1_25_0x13_0x1_0mm
+    library_name: seeedopl_sensor_2016
+    md5: b382dbd2c38ff9a661dc641e3c6462b6
+    md5_10: b382dbd2c3
+    md5_5: b382d
+    md5_6: b382db
+    oomp_key: oomp_imrehg_seeedopl_sensor_2016_snr2_5_1_25_0x13_0x1_0mm
+    oomp_key_extra: oomp_footprint_imrehg_seeedopl_sensor_2016_snr2_5_1_25_0x13_0x1_0mm
+    oomp_key_full: oomp_footprint_imrehg_seeedopl_sensor_2016_snr2_5_1_25_0x13_0x1_0mm_b382db
+    oomp_key_simple: imrehg_seeedopl_sensor_2016_snr2_5_1_25_0x13_0x1_0mm
+    original_filename: kicalopl/SeeedOPL-Sensor-2016.pretty/SNR2-5.1-25.0X13.0X1.0MM.kicad_mod
+    owner_name: imrehg
   oomp_key: oomp_imrehg_seeedopl_sensor_2016_snr2_5_1_25_0x13_0x1_0mm
+  oomp_key_full: oomp_footprint_imrehg_seeedopl_sensor_2016_snr2_5_1_25_0x13_0x1_0mm
   oomp_key_simple: imrehg_seeedopl_sensor_2016_snr2_5_1_25_0x13_0x1_0mm
   owner: imrehg
   repo:

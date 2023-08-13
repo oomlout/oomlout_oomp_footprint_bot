@@ -13,17 +13,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pcsmithy_pcb_banana_jack_pcb_banana_jack/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pcsmithy_pcb_banana_jack_pcb_banana_jack/working
-    oomp_doc: footprints/footprints/PCSmithy/PCB_Banana_Jack/PCB Banana Jack/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/PCSmithy/PCB_Banana_Jack/PCB
-      Banana Jack/working
     oomp_src_flat: footprints_flat/footprints_flat/pcsmithy_pcb_banana_jack_pcb_banana_jack/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pcsmithy_pcb_banana_jack_pcb_banana_jack/working
-    oomp_src_folder: footprints_folder/footprints_folder/PCSmithy/PCB_Banana_Jack/PCB
-      Banana Jack/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/PCSmithy/PCB_Banana_Jack/PCB
-      Banana Jack/working
   name: PCB_Banana_Jack.pretty
+  oomp:
+    footprint_name: pcb_banana_jack
+    library_name: pcb_banana_jack
+    md5: 6ab77720c15da3f8da96d0110fe87b78
+    md5_10: 6ab77720c1
+    md5_5: 6ab77
+    md5_6: 6ab777
+    oomp_key: oomp_pcsmithy_pcb_banana_jack_pcb_banana_jack
+    oomp_key_extra: oomp_footprint_pcsmithy_pcb_banana_jack_pcb_banana_jack
+    oomp_key_full: oomp_footprint_pcsmithy_pcb_banana_jack_pcb_banana_jack_6ab777
+    oomp_key_simple: pcsmithy_pcb_banana_jack_pcb_banana_jack
+    original_filename: PCB_Banana_Jack.pretty/PCB Banana Jack.kicad_mod
+    owner_name: pcsmithy
   oomp_key: oomp_pcsmithy_pcb_banana_jack_pcb_banana_jack
+  oomp_key_full: oomp_footprint_pcsmithy_pcb_banana_jack_pcb_banana_jack
   oomp_key_simple: pcsmithy_pcb_banana_jack_pcb_banana_jack
   owner: PCSmithy
   repo:

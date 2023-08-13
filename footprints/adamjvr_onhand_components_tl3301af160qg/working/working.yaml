@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/adamjvr/KiCAD-OnHand-Lib
     oomp_bot: footprints/adamjvr_onhand_components_tl3301af160qg/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/adamjvr_onhand_components_tl3301af160qg/working
-    oomp_doc: footprints/footprints/adamjvr/OnHand-Components/TL3301AF160QG/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/adamjvr/OnHand-Components/TL3301AF160QG/working
     oomp_src_flat: footprints_flat/footprints_flat/adamjvr_onhand_components_tl3301af160qg/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/adamjvr_onhand_components_tl3301af160qg/working
-    oomp_src_folder: footprints_folder/footprints_folder/adamjvr/OnHand-Components/TL3301AF160QG/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/adamjvr/OnHand-Components/TL3301AF160QG/working
   name: KiCAD-OnHand-Lib
+  oomp:
+    footprint_name: tl3301af160qg
+    library_name: onhand_components
+    md5: ee1a61a14b92141141a3276518242882
+    md5_10: ee1a61a14b
+    md5_5: ee1a6
+    md5_6: ee1a61
+    oomp_key: oomp_adamjvr_onhand_components_tl3301af160qg
+    oomp_key_extra: oomp_footprint_adamjvr_onhand_components_tl3301af160qg
+    oomp_key_full: oomp_footprint_adamjvr_onhand_components_tl3301af160qg_ee1a61
+    oomp_key_simple: adamjvr_onhand_components_tl3301af160qg
+    original_filename: KiCAD-OnHand-Lib/OnHand-Components.pretty/TL3301AF160QG.kicad_mod
+    owner_name: adamjvr
   oomp_key: oomp_adamjvr_onhand_components_tl3301af160qg
+  oomp_key_full: oomp_footprint_adamjvr_onhand_components_tl3301af160qg
   oomp_key_simple: adamjvr_onhand_components_tl3301af160qg
   owner: adamjvr
   repo:

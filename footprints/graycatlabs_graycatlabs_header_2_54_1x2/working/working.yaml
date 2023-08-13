@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/graycatlabs_graycatlabs_header_2_54_1x2/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/graycatlabs_graycatlabs_header_2_54_1x2/working
-    oomp_doc: footprints/footprints/graycatlabs/GrayCatLabs/Header_2.54_1x2/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/graycatlabs/GrayCatLabs/Header_2.54_1x2/working
     oomp_src_flat: footprints_flat/footprints_flat/graycatlabs_graycatlabs_header_2_54_1x2/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/graycatlabs_graycatlabs_header_2_54_1x2/working
-    oomp_src_folder: footprints_folder/footprints_folder/graycatlabs/GrayCatLabs/Header_2.54_1x2/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/graycatlabs/GrayCatLabs/Header_2.54_1x2/working
   name: GrayCatLabs.pretty
+  oomp:
+    footprint_name: header_2_54_1x2
+    library_name: graycatlabs
+    md5: a8f9f4ecf52831320d40e7e4519c2c57
+    md5_10: a8f9f4ecf5
+    md5_5: a8f9f
+    md5_6: a8f9f4
+    oomp_key: oomp_graycatlabs_graycatlabs_header_2_54_1x2
+    oomp_key_extra: oomp_footprint_graycatlabs_graycatlabs_header_2_54_1x2
+    oomp_key_full: oomp_footprint_graycatlabs_graycatlabs_header_2_54_1x2_a8f9f4
+    oomp_key_simple: graycatlabs_graycatlabs_header_2_54_1x2
+    original_filename: GrayCatLabs.pretty/Header_2.54_1x2.kicad_mod
+    owner_name: graycatlabs
   oomp_key: oomp_graycatlabs_graycatlabs_header_2_54_1x2
+  oomp_key_full: oomp_footprint_graycatlabs_graycatlabs_header_2_54_1x2
   oomp_key_simple: graycatlabs_graycatlabs_header_2_54_1x2
   owner: graycatlabs
   repo:

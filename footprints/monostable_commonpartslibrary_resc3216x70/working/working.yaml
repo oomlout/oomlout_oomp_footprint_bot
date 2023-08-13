@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/monostable_commonpartslibrary_resc3216x70/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/monostable_commonpartslibrary_resc3216x70/working
-    oomp_doc: footprints/footprints/monostable/CommonPartsLibrary/RESC3216X70/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/monostable/CommonPartsLibrary/RESC3216X70/working
     oomp_src_flat: footprints_flat/footprints_flat/monostable_commonpartslibrary_resc3216x70/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/monostable_commonpartslibrary_resc3216x70/working
-    oomp_src_folder: footprints_folder/footprints_folder/monostable/CommonPartsLibrary/RESC3216X70/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/monostable/CommonPartsLibrary/RESC3216X70/working
   name: CommonPartsLibrary.pretty
+  oomp:
+    footprint_name: resc3216x70
+    library_name: commonpartslibrary
+    md5: b08331305de77d1f5b1d27fb2abe6199
+    md5_10: b08331305d
+    md5_5: b0833
+    md5_6: b08331
+    oomp_key: oomp_monostable_commonpartslibrary_resc3216x70
+    oomp_key_extra: oomp_footprint_monostable_commonpartslibrary_resc3216x70
+    oomp_key_full: oomp_footprint_monostable_commonpartslibrary_resc3216x70_b08331
+    oomp_key_simple: monostable_commonpartslibrary_resc3216x70
+    original_filename: CommonPartsLibrary.pretty/RESC3216X70.kicad_mod
+    owner_name: monostable
   oomp_key: oomp_monostable_commonpartslibrary_resc3216x70
+  oomp_key_full: oomp_footprint_monostable_commonpartslibrary_resc3216x70
   oomp_key_simple: monostable_commonpartslibrary_resc3216x70
   owner: monostable
   repo:

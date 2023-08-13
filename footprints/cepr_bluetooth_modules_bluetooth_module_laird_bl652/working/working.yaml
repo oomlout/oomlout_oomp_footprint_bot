@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cepr_bluetooth_modules_bluetooth_module_laird_bl652/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cepr_bluetooth_modules_bluetooth_module_laird_bl652/working
-    oomp_doc: footprints/footprints/cepr/Bluetooth_Modules/Bluetooth_Module_Laird_BL652/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cepr/Bluetooth_Modules/Bluetooth_Module_Laird_BL652/working
     oomp_src_flat: footprints_flat/footprints_flat/cepr_bluetooth_modules_bluetooth_module_laird_bl652/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cepr_bluetooth_modules_bluetooth_module_laird_bl652/working
-    oomp_src_folder: footprints_folder/footprints_folder/cepr/Bluetooth_Modules/Bluetooth_Module_Laird_BL652/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cepr/Bluetooth_Modules/Bluetooth_Module_Laird_BL652/working
   name: Bluetooth_Modules.pretty
+  oomp:
+    footprint_name: bluetooth_module_laird_bl652
+    library_name: bluetooth_modules
+    md5: 72ac39fb4c7dcfd685fcc89c87caf15c
+    md5_10: 72ac39fb4c
+    md5_5: 72ac3
+    md5_6: 72ac39
+    oomp_key: oomp_cepr_bluetooth_modules_bluetooth_module_laird_bl652
+    oomp_key_extra: oomp_footprint_cepr_bluetooth_modules_bluetooth_module_laird_bl652
+    oomp_key_full: oomp_footprint_cepr_bluetooth_modules_bluetooth_module_laird_bl652_72ac39
+    oomp_key_simple: cepr_bluetooth_modules_bluetooth_module_laird_bl652
+    original_filename: Bluetooth_Modules.pretty/Bluetooth_Module_Laird_BL652.kicad_mod
+    owner_name: cepr
   oomp_key: oomp_cepr_bluetooth_modules_bluetooth_module_laird_bl652
+  oomp_key_full: oomp_footprint_cepr_bluetooth_modules_bluetooth_module_laird_bl652
   oomp_key_simple: cepr_bluetooth_modules_bluetooth_module_laird_bl652
   owner: cepr
   repo:

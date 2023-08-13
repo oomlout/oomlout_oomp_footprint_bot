@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/fruchti_conn_pad_2x2mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/fruchti_conn_pad_2x2mm/working
-    oomp_doc: footprints/footprints/fruchti/conn/PAD_2x2mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/fruchti/conn/PAD_2x2mm/working
     oomp_src_flat: footprints_flat/footprints_flat/fruchti_conn_pad_2x2mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/fruchti_conn_pad_2x2mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/fruchti/conn/PAD_2x2mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/fruchti/conn/PAD_2x2mm/working
   name: fruchtilib
+  oomp:
+    footprint_name: pad_2x2mm
+    library_name: conn
+    md5: d73287a8e9278cc24e74dc8806a3b64c
+    md5_10: d73287a8e9
+    md5_5: d7328
+    md5_6: d73287
+    oomp_key: oomp_fruchti_conn_pad_2x2mm
+    oomp_key_extra: oomp_footprint_fruchti_conn_pad_2x2mm
+    oomp_key_full: oomp_footprint_fruchti_conn_pad_2x2mm_d73287
+    oomp_key_simple: fruchti_conn_pad_2x2mm
+    original_filename: fruchtilib/mod/conn.pretty/PAD_2x2mm.kicad_mod
+    owner_name: fruchti
   oomp_key: oomp_fruchti_conn_pad_2x2mm
+  oomp_key_full: oomp_footprint_fruchti_conn_pad_2x2mm
   oomp_key_simple: fruchti_conn_pad_2x2mm
   owner: fruchti
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/av_p_avp_sim_block_connector/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/av_p_avp_sim_block_connector/working
-    oomp_doc: footprints/footprints/av-p/Avp/SIM_Block_Connector/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/av-p/Avp/SIM_Block_Connector/working
     oomp_src_flat: footprints_flat/footprints_flat/av_p_avp_sim_block_connector/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/av_p_avp_sim_block_connector/working
-    oomp_src_folder: footprints_folder/footprints_folder/av-p/Avp/SIM_Block_Connector/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/av-p/Avp/SIM_Block_Connector/working
   name: Avp.pretty
+  oomp:
+    footprint_name: sim_block_connector
+    library_name: avp
+    md5: d4f150d236e8fde644c4b837b59adc4f
+    md5_10: d4f150d236
+    md5_5: d4f15
+    md5_6: d4f150
+    oomp_key: oomp_av_p_avp_sim_block_connector
+    oomp_key_extra: oomp_footprint_av_p_avp_sim_block_connector
+    oomp_key_full: oomp_footprint_av_p_avp_sim_block_connector_d4f150
+    oomp_key_simple: av_p_avp_sim_block_connector
+    original_filename: Avp.pretty/SIM_Block_Connector.kicad_mod
+    owner_name: av_p
   oomp_key: oomp_av_p_avp_sim_block_connector
+  oomp_key_full: oomp_footprint_av_p_avp_sim_block_connector
   oomp_key_simple: av_p_avp_sim_block_connector
   owner: av-p
   repo:

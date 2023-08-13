@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/natsfr_pga_pga145/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/natsfr_pga_pga145/working
-    oomp_doc: footprints/footprints/natsfr/PGA/PGA145/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/natsfr/PGA/PGA145/working
     oomp_src_flat: footprints_flat/footprints_flat/natsfr_pga_pga145/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/natsfr_pga_pga145/working
-    oomp_src_folder: footprints_folder/footprints_folder/natsfr/PGA/PGA145/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/natsfr/PGA/PGA145/working
   name: kicad-components
+  oomp:
+    footprint_name: pga145
+    library_name: pga
+    md5: bacb64ab9dc41d812cc937901706425a
+    md5_10: bacb64ab9d
+    md5_5: bacb6
+    md5_6: bacb64
+    oomp_key: oomp_natsfr_pga_pga145
+    oomp_key_extra: oomp_footprint_natsfr_pga_pga145
+    oomp_key_full: oomp_footprint_natsfr_pga_pga145_bacb64
+    oomp_key_simple: natsfr_pga_pga145
+    original_filename: kicad-components/Pretty_Footprints/PGA.pretty/PGA145.kicad_mod
+    owner_name: natsfr
   oomp_key: oomp_natsfr_pga_pga145
+  oomp_key_full: oomp_footprint_natsfr_pga_pga145
   oomp_key_simple: natsfr_pga_pga145
   owner: natsfr
   repo:

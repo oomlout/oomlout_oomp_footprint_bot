@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/kubiX89/kiCAD.pretty
     oomp_bot: footprints/kubix89_kicad_dip16smd/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kubix89_kicad_dip16smd/working
-    oomp_doc: footprints/footprints/kubiX89/kiCAD/DIP16SMD/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kubiX89/kiCAD/DIP16SMD/working
     oomp_src_flat: footprints_flat/footprints_flat/kubix89_kicad_dip16smd/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kubix89_kicad_dip16smd/working
-    oomp_src_folder: footprints_folder/footprints_folder/kubiX89/kiCAD/DIP16SMD/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kubiX89/kiCAD/DIP16SMD/working
   name: kiCAD.pretty
+  oomp:
+    footprint_name: dip16smd
+    library_name: kicad
+    md5: 88b21caeb20c08a0de71708f8eb4ddf7
+    md5_10: 88b21caeb2
+    md5_5: 88b21
+    md5_6: 88b21c
+    oomp_key: oomp_kubix89_kicad_dip16smd
+    oomp_key_extra: oomp_footprint_kubix89_kicad_dip16smd
+    oomp_key_full: oomp_footprint_kubix89_kicad_dip16smd_88b21c
+    oomp_key_simple: kubix89_kicad_dip16smd
+    original_filename: kiCAD.pretty/DIP16SMD.kicad_mod
+    owner_name: kubix89
   oomp_key: oomp_kubix89_kicad_dip16smd
+  oomp_key_full: oomp_footprint_kubix89_kicad_dip16smd
   oomp_key_simple: kubix89_kicad_dip16smd
   owner: kubiX89
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_tps61088_tps61088/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_tps61088_tps61088/working
-    oomp_doc: footprints/footprints/brunoeagle/TPS61088.kicad_mod/TPS61088/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/TPS61088.kicad_mod/TPS61088/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_tps61088_tps61088/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_tps61088_tps61088/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/TPS61088.kicad_mod/TPS61088/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/TPS61088.kicad_mod/TPS61088/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: tps61088
+    library_name: tps61088_kicad_mod
+    md5: 7ca581e5fbb1bc3960a2cc171844a475
+    md5_10: 7ca581e5fb
+    md5_5: 7ca58
+    md5_6: 7ca581
+    oomp_key: oomp_brunoeagle_tps61088_tps61088
+    oomp_key_extra: oomp_footprint_brunoeagle_tps61088_tps61088
+    oomp_key_full: oomp_footprint_brunoeagle_tps61088_tps61088_7ca581
+    oomp_key_simple: brunoeagle_tps61088_tps61088
+    original_filename: kicad-open-modules/TPS61088.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_tps61088_tps61088
+  oomp_key_full: oomp_footprint_brunoeagle_tps61088_tps61088
   oomp_key_simple: brunoeagle_tps61088_tps61088
   owner: brunoeagle
   repo:

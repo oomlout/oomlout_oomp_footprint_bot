@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/rocketscream_rocketscreamkicadlibrary_abs07/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/rocketscream_rocketscreamkicadlibrary_abs07/working
-    oomp_doc: footprints/footprints/rocketscream/RocketScreamKicadLibrary/ABS07/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/rocketscream/RocketScreamKicadLibrary/ABS07/working
     oomp_src_flat: footprints_flat/footprints_flat/rocketscream_rocketscreamkicadlibrary_abs07/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/rocketscream_rocketscreamkicadlibrary_abs07/working
-    oomp_src_folder: footprints_folder/footprints_folder/rocketscream/RocketScreamKicadLibrary/ABS07/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/rocketscream/RocketScreamKicadLibrary/ABS07/working
   name: RocketScreamKicadLibrary
+  oomp:
+    footprint_name: abs07
+    library_name: rocketscreamkicadlibrary
+    md5: b6f2c3f4267e99f0273f989a776182a8
+    md5_10: b6f2c3f426
+    md5_5: b6f2c
+    md5_6: b6f2c3
+    oomp_key: oomp_rocketscream_rocketscreamkicadlibrary_abs07
+    oomp_key_extra: oomp_footprint_rocketscream_rocketscreamkicadlibrary_abs07
+    oomp_key_full: oomp_footprint_rocketscream_rocketscreamkicadlibrary_abs07_b6f2c3
+    oomp_key_simple: rocketscream_rocketscreamkicadlibrary_abs07
+    original_filename: RocketScreamKicadLibrary/RocketScreamKicadLibrary.pretty/ABS07.kicad_mod
+    owner_name: rocketscream
   oomp_key: oomp_rocketscream_rocketscreamkicadlibrary_abs07
+  oomp_key_full: oomp_footprint_rocketscream_rocketscreamkicadlibrary_abs07
   oomp_key_simple: rocketscream_rocketscreamkicadlibrary_abs07
   owner: rocketscream
   repo:

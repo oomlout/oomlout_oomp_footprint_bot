@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/peekpt_w_battery_holders_keystone_1025_7/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/peekpt_w_battery_holders_keystone_1025_7/working
-    oomp_doc: footprints/footprints/peekpt/w_battery_holders/keystone_1025-7/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/peekpt/w_battery_holders/keystone_1025-7/working
     oomp_src_flat: footprints_flat/footprints_flat/peekpt_w_battery_holders_keystone_1025_7/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/peekpt_w_battery_holders_keystone_1025_7/working
-    oomp_src_folder: footprints_folder/footprints_folder/peekpt/w_battery_holders/keystone_1025-7/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/peekpt/w_battery_holders/keystone_1025-7/working
   name: kicad_smisioto
+  oomp:
+    footprint_name: keystone_1025_7
+    library_name: w_battery_holders
+    md5: fa83dfaba8be7448a0d96b3bdf451061
+    md5_10: fa83dfaba8
+    md5_5: fa83d
+    md5_6: fa83df
+    oomp_key: oomp_peekpt_w_battery_holders_keystone_1025_7
+    oomp_key_extra: oomp_footprint_peekpt_w_battery_holders_keystone_1025_7
+    oomp_key_full: oomp_footprint_peekpt_w_battery_holders_keystone_1025_7_fa83df
+    oomp_key_simple: peekpt_w_battery_holders_keystone_1025_7
+    original_filename: kicad_smisioto/modules/walter/w_battery_holders.pretty/keystone_1025-7.kicad_mod
+    owner_name: peekpt
   oomp_key: oomp_peekpt_w_battery_holders_keystone_1025_7
+  oomp_key_full: oomp_footprint_peekpt_w_battery_holders_keystone_1025_7
   oomp_key_simple: peekpt_w_battery_holders_keystone_1025_7
   owner: peekpt
   repo:

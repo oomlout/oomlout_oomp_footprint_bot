@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cpavlina_ipc7351_most_soic254p1016x460_4/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cpavlina_ipc7351_most_soic254p1016x460_4/working
-    oomp_doc: footprints/footprints/cpavlina/IPC7351-Most/SOIC254P1016X460-4/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cpavlina/IPC7351-Most/SOIC254P1016X460-4/working
     oomp_src_flat: footprints_flat/footprints_flat/cpavlina_ipc7351_most_soic254p1016x460_4/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cpavlina_ipc7351_most_soic254p1016x460_4/working
-    oomp_src_folder: footprints_folder/footprints_folder/cpavlina/IPC7351-Most/SOIC254P1016X460-4/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cpavlina/IPC7351-Most/SOIC254P1016X460-4/working
   name: kicad-pcblib
+  oomp:
+    footprint_name: soic254p1016x460_4
+    library_name: ipc7351_most
+    md5: 0c257422bb3f060b8b5f07263042d229
+    md5_10: 0c257422bb
+    md5_5: 0c257
+    md5_6: 0c2574
+    oomp_key: oomp_cpavlina_ipc7351_most_soic254p1016x460_4
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_most_soic254p1016x460_4
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_soic254p1016x460_4_0c2574
+    oomp_key_simple: cpavlina_ipc7351_most_soic254p1016x460_4
+    original_filename: kicad-pcblib/IPC7351-Most.pretty/SOIC254P1016X460-4.kicad_mod
+    owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_most_soic254p1016x460_4
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_soic254p1016x460_4
   oomp_key_simple: cpavlina_ipc7351_most_soic254p1016x460_4
   owner: cpavlina
   repo:

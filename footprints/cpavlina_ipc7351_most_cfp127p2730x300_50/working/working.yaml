@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cpavlina_ipc7351_most_cfp127p2730x300_50/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cpavlina_ipc7351_most_cfp127p2730x300_50/working
-    oomp_doc: footprints/footprints/cpavlina/IPC7351-Most/CFP127P2730X300-50/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cpavlina/IPC7351-Most/CFP127P2730X300-50/working
     oomp_src_flat: footprints_flat/footprints_flat/cpavlina_ipc7351_most_cfp127p2730x300_50/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cpavlina_ipc7351_most_cfp127p2730x300_50/working
-    oomp_src_folder: footprints_folder/footprints_folder/cpavlina/IPC7351-Most/CFP127P2730X300-50/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cpavlina/IPC7351-Most/CFP127P2730X300-50/working
   name: kicad-pcblib
+  oomp:
+    footprint_name: cfp127p2730x300_50
+    library_name: ipc7351_most
+    md5: 2d1e841949aa9bf282344608a3eeec7a
+    md5_10: 2d1e841949
+    md5_5: 2d1e8
+    md5_6: 2d1e84
+    oomp_key: oomp_cpavlina_ipc7351_most_cfp127p2730x300_50
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_most_cfp127p2730x300_50
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_cfp127p2730x300_50_2d1e84
+    oomp_key_simple: cpavlina_ipc7351_most_cfp127p2730x300_50
+    original_filename: kicad-pcblib/IPC7351-Most.pretty/CFP127P2730X300-50.kicad_mod
+    owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_most_cfp127p2730x300_50
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_cfp127p2730x300_50
   oomp_key_simple: cpavlina_ipc7351_most_cfp127p2730x300_50
   owner: cpavlina
   repo:

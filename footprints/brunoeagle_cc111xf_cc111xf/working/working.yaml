@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_cc111xf_cc111xf/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_cc111xf_cc111xf/working
-    oomp_doc: footprints/footprints/brunoeagle/CC111xF.kicad_mod/CC111xF/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/CC111xF.kicad_mod/CC111xF/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_cc111xf_cc111xf/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_cc111xf_cc111xf/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/CC111xF.kicad_mod/CC111xF/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/CC111xF.kicad_mod/CC111xF/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: cc111xf
+    library_name: cc111xf_kicad_mod
+    md5: 7b2a3f55552881d3b64413e834a6ff7f
+    md5_10: 7b2a3f5555
+    md5_5: 7b2a3
+    md5_6: 7b2a3f
+    oomp_key: oomp_brunoeagle_cc111xf_cc111xf
+    oomp_key_extra: oomp_footprint_brunoeagle_cc111xf_cc111xf
+    oomp_key_full: oomp_footprint_brunoeagle_cc111xf_cc111xf_7b2a3f
+    oomp_key_simple: brunoeagle_cc111xf_cc111xf
+    original_filename: kicad-open-modules/CC111xF.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_cc111xf_cc111xf
+  oomp_key_full: oomp_footprint_brunoeagle_cc111xf_cc111xf
   oomp_key_simple: brunoeagle_cc111xf_cc111xf
   owner: brunoeagle
   repo:

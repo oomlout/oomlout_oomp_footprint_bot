@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/electroniccats_signalcommunications_signalcommunications_we_tif/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/electroniccats_signalcommunications_signalcommunications_we_tif/working
-    oomp_doc: footprints/footprints/ElectronicCats/SignalCommunications/SignalCommunications-WE-TIF/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ElectronicCats/SignalCommunications/SignalCommunications-WE-TIF/working
     oomp_src_flat: footprints_flat/footprints_flat/electroniccats_signalcommunications_signalcommunications_we_tif/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/electroniccats_signalcommunications_signalcommunications_we_tif/working
-    oomp_src_folder: footprints_folder/footprints_folder/ElectronicCats/SignalCommunications/SignalCommunications-WE-TIF/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ElectronicCats/SignalCommunications/SignalCommunications-WE-TIF/working
   name: ComponentLibrariesKicadWurthElektronik
+  oomp:
+    footprint_name: signalcommunications_we_tif
+    library_name: signalcommunications
+    md5: fa1f5e468f3f6c739825f21b81465088
+    md5_10: fa1f5e468f
+    md5_5: fa1f5
+    md5_6: fa1f5e
+    oomp_key: oomp_electroniccats_signalcommunications_signalcommunications_we_tif
+    oomp_key_extra: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_tif
+    oomp_key_full: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_tif_fa1f5e
+    oomp_key_simple: electroniccats_signalcommunications_signalcommunications_we_tif
+    original_filename: ComponentLibrariesKicadWurthElektronik/SIGNAL-COMMUNICATIONS-rev18a/SignalCommunications.pretty/SignalCommunications-WE-TIF.kicad_mod
+    owner_name: electroniccats
   oomp_key: oomp_electroniccats_signalcommunications_signalcommunications_we_tif
+  oomp_key_full: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_tif
   oomp_key_simple: electroniccats_signalcommunications_signalcommunications_we_tif
   owner: ElectronicCats
   repo:

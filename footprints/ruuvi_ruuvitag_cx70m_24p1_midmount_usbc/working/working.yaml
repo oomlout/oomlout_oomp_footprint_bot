@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/ruuvi_ruuvitag_cx70m_24p1_midmount_usbc/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ruuvi_ruuvitag_cx70m_24p1_midmount_usbc/working
-    oomp_doc: footprints/footprints/ruuvi/RuuviTag/CX70M-24P1-MIDMOUNT-USBC/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ruuvi/RuuviTag/CX70M-24P1-MIDMOUNT-USBC/working
     oomp_src_flat: footprints_flat/footprints_flat/ruuvi_ruuvitag_cx70m_24p1_midmount_usbc/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ruuvi_ruuvitag_cx70m_24p1_midmount_usbc/working
-    oomp_src_folder: footprints_folder/footprints_folder/ruuvi/RuuviTag/CX70M-24P1-MIDMOUNT-USBC/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ruuvi/RuuviTag/CX70M-24P1-MIDMOUNT-USBC/working
   name: kicad-library
+  oomp:
+    footprint_name: cx70m_24p1_midmount_usbc
+    library_name: ruuvitag
+    md5: 69007d08bece3dd0dbf2eb1b24e9df77
+    md5_10: 69007d08be
+    md5_5: '69007'
+    md5_6: 69007d
+    oomp_key: oomp_ruuvi_ruuvitag_cx70m_24p1_midmount_usbc
+    oomp_key_extra: oomp_footprint_ruuvi_ruuvitag_cx70m_24p1_midmount_usbc
+    oomp_key_full: oomp_footprint_ruuvi_ruuvitag_cx70m_24p1_midmount_usbc_69007d
+    oomp_key_simple: ruuvi_ruuvitag_cx70m_24p1_midmount_usbc
+    original_filename: kicad-library/RuuviTag.pretty/CX70M-24P1-MIDMOUNT-USBC.kicad_mod
+    owner_name: ruuvi
   oomp_key: oomp_ruuvi_ruuvitag_cx70m_24p1_midmount_usbc
+  oomp_key_full: oomp_footprint_ruuvi_ruuvitag_cx70m_24p1_midmount_usbc
   oomp_key_simple: ruuvi_ruuvitag_cx70m_24p1_midmount_usbc
   owner: ruuvi
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/stefanhamminga_sh_ic_custom_st_lps25hb/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stefanhamminga_sh_ic_custom_st_lps25hb/working
-    oomp_doc: footprints/footprints/StefanHamminga/SH_IC_Custom/ST_LPS25HB/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/StefanHamminga/SH_IC_Custom/ST_LPS25HB/working
     oomp_src_flat: footprints_flat/footprints_flat/stefanhamminga_sh_ic_custom_st_lps25hb/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/stefanhamminga_sh_ic_custom_st_lps25hb/working
-    oomp_src_folder: footprints_folder/footprints_folder/StefanHamminga/SH_IC_Custom/ST_LPS25HB/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/StefanHamminga/SH_IC_Custom/ST_LPS25HB/working
   name: SH_IC_Custom.pretty
+  oomp:
+    footprint_name: st_lps25hb
+    library_name: sh_ic_custom
+    md5: 90d84e95a6c5e3a483924fb131b15add
+    md5_10: 90d84e95a6
+    md5_5: 90d84
+    md5_6: 90d84e
+    oomp_key: oomp_stefanhamminga_sh_ic_custom_st_lps25hb
+    oomp_key_extra: oomp_footprint_stefanhamminga_sh_ic_custom_st_lps25hb
+    oomp_key_full: oomp_footprint_stefanhamminga_sh_ic_custom_st_lps25hb_90d84e
+    oomp_key_simple: stefanhamminga_sh_ic_custom_st_lps25hb
+    original_filename: SH_IC_Custom.pretty/ST_LPS25HB.kicad_mod
+    owner_name: stefanhamminga
   oomp_key: oomp_stefanhamminga_sh_ic_custom_st_lps25hb
+  oomp_key_full: oomp_footprint_stefanhamminga_sh_ic_custom_st_lps25hb
   oomp_key_simple: stefanhamminga_sh_ic_custom_st_lps25hb
   owner: StefanHamminga
   repo:

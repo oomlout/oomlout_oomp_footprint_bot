@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_indutor_173uh_indutor_173uh/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_indutor_173uh_indutor_173uh/working
-    oomp_doc: footprints/footprints/brunoeagle/INDUTOR_173UH.kicad_mod/INDUTOR_173UH/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/INDUTOR_173UH.kicad_mod/INDUTOR_173UH/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_indutor_173uh_indutor_173uh/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_indutor_173uh_indutor_173uh/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/INDUTOR_173UH.kicad_mod/INDUTOR_173UH/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/INDUTOR_173UH.kicad_mod/INDUTOR_173UH/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: indutor_173uh
+    library_name: indutor_173uh_kicad_mod
+    md5: 0a4986ef381c96a2ceac7d757ee55551
+    md5_10: 0a4986ef38
+    md5_5: 0a498
+    md5_6: 0a4986
+    oomp_key: oomp_brunoeagle_indutor_173uh_indutor_173uh
+    oomp_key_extra: oomp_footprint_brunoeagle_indutor_173uh_indutor_173uh
+    oomp_key_full: oomp_footprint_brunoeagle_indutor_173uh_indutor_173uh_0a4986
+    oomp_key_simple: brunoeagle_indutor_173uh_indutor_173uh
+    original_filename: kicad-open-modules/INDUTOR_173UH.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_indutor_173uh_indutor_173uh
+  oomp_key_full: oomp_footprint_brunoeagle_indutor_173uh_indutor_173uh
   oomp_key_simple: brunoeagle_indutor_173uh_indutor_173uh
   owner: brunoeagle
   repo:

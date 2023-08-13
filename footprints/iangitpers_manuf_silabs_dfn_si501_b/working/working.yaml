@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/Iangitpers/4a
     oomp_bot: footprints/iangitpers_manuf_silabs_dfn_si501_b/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/iangitpers_manuf_silabs_dfn_si501_b/working
-    oomp_doc: footprints/footprints/Iangitpers/manuf/SILABS-DFN-SI501-B/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Iangitpers/manuf/SILABS-DFN-SI501-B/working
     oomp_src_flat: footprints_flat/footprints_flat/iangitpers_manuf_silabs_dfn_si501_b/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/iangitpers_manuf_silabs_dfn_si501_b/working
-    oomp_src_folder: footprints_folder/footprints_folder/Iangitpers/manuf/SILABS-DFN-SI501-B/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Iangitpers/manuf/SILABS-DFN-SI501-B/working
   name: 4a
+  oomp:
+    footprint_name: silabs_dfn_si501_b
+    library_name: manuf
+    md5: 8f1e90ef2a11b4a7cfca1dd505ff4329
+    md5_10: 8f1e90ef2a
+    md5_5: 8f1e9
+    md5_6: 8f1e90
+    oomp_key: oomp_iangitpers_manuf_silabs_dfn_si501_b
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_silabs_dfn_si501_b
+    oomp_key_full: oomp_footprint_iangitpers_manuf_silabs_dfn_si501_b_8f1e90
+    oomp_key_simple: iangitpers_manuf_silabs_dfn_si501_b
+    original_filename: 4a/manuf.pretty/SILABS-DFN-SI501-B.kicad_mod
+    owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_silabs_dfn_si501_b
+  oomp_key_full: oomp_footprint_iangitpers_manuf_silabs_dfn_si501_b
   oomp_key_simple: iangitpers_manuf_silabs_dfn_si501_b
   owner: Iangitpers
   repo:

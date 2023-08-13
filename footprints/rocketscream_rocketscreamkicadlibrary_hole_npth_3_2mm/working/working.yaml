@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/rocketscream_rocketscreamkicadlibrary_hole_npth_3_2mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/rocketscream_rocketscreamkicadlibrary_hole_npth_3_2mm/working
-    oomp_doc: footprints/footprints/rocketscream/RocketScreamKicadLibrary/HOLE_NPTH_3.2MM/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/rocketscream/RocketScreamKicadLibrary/HOLE_NPTH_3.2MM/working
     oomp_src_flat: footprints_flat/footprints_flat/rocketscream_rocketscreamkicadlibrary_hole_npth_3_2mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/rocketscream_rocketscreamkicadlibrary_hole_npth_3_2mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/rocketscream/RocketScreamKicadLibrary/HOLE_NPTH_3.2MM/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/rocketscream/RocketScreamKicadLibrary/HOLE_NPTH_3.2MM/working
   name: RocketScreamKicadLibrary
+  oomp:
+    footprint_name: hole_npth_3_2mm
+    library_name: rocketscreamkicadlibrary
+    md5: 5d36db77f6eb808eee6894296ab8cff6
+    md5_10: 5d36db77f6
+    md5_5: 5d36d
+    md5_6: 5d36db
+    oomp_key: oomp_rocketscream_rocketscreamkicadlibrary_hole_npth_3_2mm
+    oomp_key_extra: oomp_footprint_rocketscream_rocketscreamkicadlibrary_hole_npth_3_2mm
+    oomp_key_full: oomp_footprint_rocketscream_rocketscreamkicadlibrary_hole_npth_3_2mm_5d36db
+    oomp_key_simple: rocketscream_rocketscreamkicadlibrary_hole_npth_3_2mm
+    original_filename: RocketScreamKicadLibrary/RocketScreamKicadLibrary.pretty/HOLE_NPTH_3.2MM.kicad_mod
+    owner_name: rocketscream
   oomp_key: oomp_rocketscream_rocketscreamkicadlibrary_hole_npth_3_2mm
+  oomp_key_full: oomp_footprint_rocketscream_rocketscreamkicadlibrary_hole_npth_3_2mm
   oomp_key_simple: rocketscream_rocketscreamkicadlibrary_hole_npth_3_2mm
   owner: rocketscream
   repo:

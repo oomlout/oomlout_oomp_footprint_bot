@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/hairymnstr_nathan_tht_other_relay_te_oj/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/hairymnstr_nathan_tht_other_relay_te_oj/working
-    oomp_doc: footprints/footprints/hairymnstr/Nathan_THT_Other/RELAY_TE_OJ/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/hairymnstr/Nathan_THT_Other/RELAY_TE_OJ/working
     oomp_src_flat: footprints_flat/footprints_flat/hairymnstr_nathan_tht_other_relay_te_oj/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/hairymnstr_nathan_tht_other_relay_te_oj/working
-    oomp_src_folder: footprints_folder/footprints_folder/hairymnstr/Nathan_THT_Other/RELAY_TE_OJ/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/hairymnstr/Nathan_THT_Other/RELAY_TE_OJ/working
   name: Nathan_THT_Other.pretty
+  oomp:
+    footprint_name: relay_te_oj
+    library_name: nathan_tht_other
+    md5: e729c217f5cdb184f27b32051e659631
+    md5_10: e729c217f5
+    md5_5: e729c
+    md5_6: e729c2
+    oomp_key: oomp_hairymnstr_nathan_tht_other_relay_te_oj
+    oomp_key_extra: oomp_footprint_hairymnstr_nathan_tht_other_relay_te_oj
+    oomp_key_full: oomp_footprint_hairymnstr_nathan_tht_other_relay_te_oj_e729c2
+    oomp_key_simple: hairymnstr_nathan_tht_other_relay_te_oj
+    original_filename: Nathan_THT_Other.pretty/RELAY_TE_OJ.kicad_mod
+    owner_name: hairymnstr
   oomp_key: oomp_hairymnstr_nathan_tht_other_relay_te_oj
+  oomp_key_full: oomp_footprint_hairymnstr_nathan_tht_other_relay_te_oj
   oomp_key_simple: hairymnstr_nathan_tht_other_relay_te_oj
   owner: hairymnstr
   repo:

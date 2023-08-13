@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/Iangitpers/4a
     oomp_bot: footprints/iangitpers_mcu_raspberrypi_and_boards_rpi_pico_smd_th/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/iangitpers_mcu_raspberrypi_and_boards_rpi_pico_smd_th/working
-    oomp_doc: footprints/footprints/Iangitpers/MCU_RaspberryPi_and_Boards/RPi_Pico_SMD_TH/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Iangitpers/MCU_RaspberryPi_and_Boards/RPi_Pico_SMD_TH/working
     oomp_src_flat: footprints_flat/footprints_flat/iangitpers_mcu_raspberrypi_and_boards_rpi_pico_smd_th/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/iangitpers_mcu_raspberrypi_and_boards_rpi_pico_smd_th/working
-    oomp_src_folder: footprints_folder/footprints_folder/Iangitpers/MCU_RaspberryPi_and_Boards/RPi_Pico_SMD_TH/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Iangitpers/MCU_RaspberryPi_and_Boards/RPi_Pico_SMD_TH/working
   name: 4a
+  oomp:
+    footprint_name: rpi_pico_smd_th
+    library_name: mcu_raspberrypi_and_boards
+    md5: 50aade23b603bb1016e5d0ef408bd91b
+    md5_10: 50aade23b6
+    md5_5: 50aad
+    md5_6: 50aade
+    oomp_key: oomp_iangitpers_mcu_raspberrypi_and_boards_rpi_pico_smd_th
+    oomp_key_extra: oomp_footprint_iangitpers_mcu_raspberrypi_and_boards_rpi_pico_smd_th
+    oomp_key_full: oomp_footprint_iangitpers_mcu_raspberrypi_and_boards_rpi_pico_smd_th_50aade
+    oomp_key_simple: iangitpers_mcu_raspberrypi_and_boards_rpi_pico_smd_th
+    original_filename: 4a/RP_Silicon_KiCad-main/KiCadLibraries/MCU_RaspberryPi_and_Boards.pretty/RPi_Pico_SMD_TH.kicad_mod
+    owner_name: iangitpers
   oomp_key: oomp_iangitpers_mcu_raspberrypi_and_boards_rpi_pico_smd_th
+  oomp_key_full: oomp_footprint_iangitpers_mcu_raspberrypi_and_boards_rpi_pico_smd_th
   oomp_key_simple: iangitpers_mcu_raspberrypi_and_boards_rpi_pico_smd_th
   owner: Iangitpers
   repo:

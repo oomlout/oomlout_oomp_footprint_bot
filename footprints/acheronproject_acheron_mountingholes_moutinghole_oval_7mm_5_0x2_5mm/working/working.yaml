@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/AcheronProject/acheron_MountingHoles.pretty
     oomp_bot: footprints/acheronproject_acheron_mountingholes_moutinghole_oval_7mm_5_0x2_5mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/acheronproject_acheron_mountingholes_moutinghole_oval_7mm_5_0x2_5mm/working
-    oomp_doc: footprints/footprints/AcheronProject/acheron_MountingHoles/MoutingHole_Oval_7mm_5.0x2.5mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/AcheronProject/acheron_MountingHoles/MoutingHole_Oval_7mm_5.0x2.5mm/working
     oomp_src_flat: footprints_flat/footprints_flat/acheronproject_acheron_mountingholes_moutinghole_oval_7mm_5_0x2_5mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/acheronproject_acheron_mountingholes_moutinghole_oval_7mm_5_0x2_5mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/AcheronProject/acheron_MountingHoles/MoutingHole_Oval_7mm_5.0x2.5mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/AcheronProject/acheron_MountingHoles/MoutingHole_Oval_7mm_5.0x2.5mm/working
   name: acheron_MountingHoles.pretty
+  oomp:
+    footprint_name: moutinghole_oval_7mm_5_0x2_5mm
+    library_name: acheron_mountingholes
+    md5: 04c9b45d3824eeb635335b908c13ff08
+    md5_10: 04c9b45d38
+    md5_5: 04c9b
+    md5_6: 04c9b4
+    oomp_key: oomp_acheronproject_acheron_mountingholes_moutinghole_oval_7mm_5_0x2_5mm
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_mountingholes_moutinghole_oval_7mm_5_0x2_5mm
+    oomp_key_full: oomp_footprint_acheronproject_acheron_mountingholes_moutinghole_oval_7mm_5_0x2_5mm_04c9b4
+    oomp_key_simple: acheronproject_acheron_mountingholes_moutinghole_oval_7mm_5_0x2_5mm
+    original_filename: acheron_MountingHoles.pretty/MoutingHole_Oval_7mm_5.0x2.5mm.kicad_mod
+    owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_mountingholes_moutinghole_oval_7mm_5_0x2_5mm
+  oomp_key_full: oomp_footprint_acheronproject_acheron_mountingholes_moutinghole_oval_7mm_5_0x2_5mm
   oomp_key_simple: acheronproject_acheron_mountingholes_moutinghole_oval_7mm_5_0x2_5mm
   owner: AcheronProject
   repo:

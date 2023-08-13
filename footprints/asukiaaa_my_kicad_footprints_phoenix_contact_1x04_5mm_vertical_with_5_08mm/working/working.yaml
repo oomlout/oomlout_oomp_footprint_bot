@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/asukiaaa_my_kicad_footprints_phoenix_contact_1x04_5mm_vertical_with_5_08mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/asukiaaa_my_kicad_footprints_phoenix_contact_1x04_5mm_vertical_with_5_08mm/working
-    oomp_doc: footprints/footprints/asukiaaa/my-kicad-footprints/Phoenix_Contact_1x04_5mm_Vertical_with_5.08mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/asukiaaa/my-kicad-footprints/Phoenix_Contact_1x04_5mm_Vertical_with_5.08mm/working
     oomp_src_flat: footprints_flat/footprints_flat/asukiaaa_my_kicad_footprints_phoenix_contact_1x04_5mm_vertical_with_5_08mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/asukiaaa_my_kicad_footprints_phoenix_contact_1x04_5mm_vertical_with_5_08mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/asukiaaa/my-kicad-footprints/Phoenix_Contact_1x04_5mm_Vertical_with_5.08mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/asukiaaa/my-kicad-footprints/Phoenix_Contact_1x04_5mm_Vertical_with_5.08mm/working
   name: my-kicad-footprints.pretty
+  oomp:
+    footprint_name: phoenix_contact_1x04_5mm_vertical_with_5_08mm
+    library_name: my_kicad_footprints
+    md5: ff8455d6992197232d85591d9d194ece
+    md5_10: ff8455d699
+    md5_5: ff845
+    md5_6: ff8455
+    oomp_key: oomp_asukiaaa_my_kicad_footprints_phoenix_contact_1x04_5mm_vertical_with_5_08mm
+    oomp_key_extra: oomp_footprint_asukiaaa_my_kicad_footprints_phoenix_contact_1x04_5mm_vertical_with_5_08mm
+    oomp_key_full: oomp_footprint_asukiaaa_my_kicad_footprints_phoenix_contact_1x04_5mm_vertical_with_5_08mm_ff8455
+    oomp_key_simple: asukiaaa_my_kicad_footprints_phoenix_contact_1x04_5mm_vertical_with_5_08mm
+    original_filename: my-kicad-footprints.pretty/Phoenix_Contact_1x04_5mm_Vertical_with_5.08mm.kicad_mod
+    owner_name: asukiaaa
   oomp_key: oomp_asukiaaa_my_kicad_footprints_phoenix_contact_1x04_5mm_vertical_with_5_08mm
+  oomp_key_full: oomp_footprint_asukiaaa_my_kicad_footprints_phoenix_contact_1x04_5mm_vertical_with_5_08mm
   oomp_key_simple: asukiaaa_my_kicad_footprints_phoenix_contact_1x04_5mm_vertical_with_5_08mm
   owner: asukiaaa
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/seeed_studio_opl_optoelectronics_led_10x2p_2_54_25_5x10_1x8_4mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/seeed_studio_opl_optoelectronics_led_10x2p_2_54_25_5x10_1x8_4mm/working
-    oomp_doc: footprints/footprints/Seeed-Studio/OPL_Optoelectronics/LED-10X2P-2.54-25.5X10.1X8.4MM/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Seeed-Studio/OPL_Optoelectronics/LED-10X2P-2.54-25.5X10.1X8.4MM/working
     oomp_src_flat: footprints_flat/footprints_flat/seeed_studio_opl_optoelectronics_led_10x2p_2_54_25_5x10_1x8_4mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/seeed_studio_opl_optoelectronics_led_10x2p_2_54_25_5x10_1x8_4mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/Seeed-Studio/OPL_Optoelectronics/LED-10X2P-2.54-25.5X10.1X8.4MM/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Seeed-Studio/OPL_Optoelectronics/LED-10X2P-2.54-25.5X10.1X8.4MM/working
   name: OPL_Kicad_Library
+  oomp:
+    footprint_name: led_10x2p_2_54_25_5x10_1x8_4mm
+    library_name: opl_optoelectronics
+    md5: 539998d8a976a82fd91b3d8e6a2001c1
+    md5_10: 539998d8a9
+    md5_5: '53999'
+    md5_6: '539998'
+    oomp_key: oomp_seeed_studio_opl_optoelectronics_led_10x2p_2_54_25_5x10_1x8_4mm
+    oomp_key_extra: oomp_footprint_seeed_studio_opl_optoelectronics_led_10x2p_2_54_25_5x10_1x8_4mm
+    oomp_key_full: oomp_footprint_seeed_studio_opl_optoelectronics_led_10x2p_2_54_25_5x10_1x8_4mm_539998
+    oomp_key_simple: seeed_studio_opl_optoelectronics_led_10x2p_2_54_25_5x10_1x8_4mm
+    original_filename: OPL_Kicad_Library/Seeed_Fusion_PCBA_OPL_Component_Library_for_KiCad/OPL_Optoelectronics.pretty/LED-10X2P-2.54-25.5X10.1X8.4MM.kicad_mod
+    owner_name: seeed_studio
   oomp_key: oomp_seeed_studio_opl_optoelectronics_led_10x2p_2_54_25_5x10_1x8_4mm
+  oomp_key_full: oomp_footprint_seeed_studio_opl_optoelectronics_led_10x2p_2_54_25_5x10_1x8_4mm
   oomp_key_simple: seeed_studio_opl_optoelectronics_led_10x2p_2_54_25_5x10_1x8_4mm
   owner: Seeed-Studio
   repo:

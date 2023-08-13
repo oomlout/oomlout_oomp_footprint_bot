@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pcsmithy_744272471_744272471_choke/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pcsmithy_744272471_744272471_choke/working
-    oomp_doc: footprints/footprints/PCSmithy/744272471/744272471_Choke/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/PCSmithy/744272471/744272471_Choke/working
     oomp_src_flat: footprints_flat/footprints_flat/pcsmithy_744272471_744272471_choke/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pcsmithy_744272471_744272471_choke/working
-    oomp_src_folder: footprints_folder/footprints_folder/PCSmithy/744272471/744272471_Choke/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/PCSmithy/744272471/744272471_Choke/working
   name: 744272471.pretty
+  oomp:
+    footprint_name: 744272471_choke
+    library_name: '744272471'
+    md5: 748b0a99f7edfbda731e20ae6f38e6ee
+    md5_10: 748b0a99f7
+    md5_5: 748b0
+    md5_6: 748b0a
+    oomp_key: oomp_pcsmithy_744272471_744272471_choke
+    oomp_key_extra: oomp_footprint_pcsmithy_744272471_744272471_choke
+    oomp_key_full: oomp_footprint_pcsmithy_744272471_744272471_choke_748b0a
+    oomp_key_simple: pcsmithy_744272471_744272471_choke
+    original_filename: 744272471.pretty/744272471_Choke.kicad_mod
+    owner_name: pcsmithy
   oomp_key: oomp_pcsmithy_744272471_744272471_choke
+  oomp_key_full: oomp_footprint_pcsmithy_744272471_744272471_choke
   oomp_key_simple: pcsmithy_744272471_744272471_choke
   owner: PCSmithy
   repo:

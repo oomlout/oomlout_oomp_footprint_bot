@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/ANDnXOR/ANDnXOR-Kicad.pretty
     oomp_bot: footprints/andnxor_andnxor_kicad_usb_a/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/andnxor_andnxor_kicad_usb_a/working
-    oomp_doc: footprints/footprints/ANDnXOR/ANDnXOR-Kicad/USB_A/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ANDnXOR/ANDnXOR-Kicad/USB_A/working
     oomp_src_flat: footprints_flat/footprints_flat/andnxor_andnxor_kicad_usb_a/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/andnxor_andnxor_kicad_usb_a/working
-    oomp_src_folder: footprints_folder/footprints_folder/ANDnXOR/ANDnXOR-Kicad/USB_A/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ANDnXOR/ANDnXOR-Kicad/USB_A/working
   name: ANDnXOR-Kicad.pretty
+  oomp:
+    footprint_name: usb_a
+    library_name: andnxor_kicad
+    md5: 516c56177a64703f9b497435c9bdd951
+    md5_10: 516c56177a
+    md5_5: 516c5
+    md5_6: 516c56
+    oomp_key: oomp_andnxor_andnxor_kicad_usb_a
+    oomp_key_extra: oomp_footprint_andnxor_andnxor_kicad_usb_a
+    oomp_key_full: oomp_footprint_andnxor_andnxor_kicad_usb_a_516c56
+    oomp_key_simple: andnxor_andnxor_kicad_usb_a
+    original_filename: ANDnXOR-Kicad.pretty/USB_A.kicad_mod
+    owner_name: andnxor
   oomp_key: oomp_andnxor_andnxor_kicad_usb_a
+  oomp_key_full: oomp_footprint_andnxor_andnxor_kicad_usb_a
   oomp_key_simple: andnxor_andnxor_kicad_usb_a
   owner: ANDnXOR
   repo:

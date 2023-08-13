@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/rocketscream_rocketscreamkicadlibrary_qfn_16_3x3mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/rocketscream_rocketscreamkicadlibrary_qfn_16_3x3mm/working
-    oomp_doc: footprints/footprints/rocketscream/RocketScreamKicadLibrary/QFN-16_3x3mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/rocketscream/RocketScreamKicadLibrary/QFN-16_3x3mm/working
     oomp_src_flat: footprints_flat/footprints_flat/rocketscream_rocketscreamkicadlibrary_qfn_16_3x3mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/rocketscream_rocketscreamkicadlibrary_qfn_16_3x3mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/rocketscream/RocketScreamKicadLibrary/QFN-16_3x3mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/rocketscream/RocketScreamKicadLibrary/QFN-16_3x3mm/working
   name: RocketScreamKicadLibrary
+  oomp:
+    footprint_name: qfn_16_3x3mm
+    library_name: rocketscreamkicadlibrary
+    md5: 6ee83d26c42fb5117a72a4d4bbb51352
+    md5_10: 6ee83d26c4
+    md5_5: 6ee83
+    md5_6: 6ee83d
+    oomp_key: oomp_rocketscream_rocketscreamkicadlibrary_qfn_16_3x3mm
+    oomp_key_extra: oomp_footprint_rocketscream_rocketscreamkicadlibrary_qfn_16_3x3mm
+    oomp_key_full: oomp_footprint_rocketscream_rocketscreamkicadlibrary_qfn_16_3x3mm_6ee83d
+    oomp_key_simple: rocketscream_rocketscreamkicadlibrary_qfn_16_3x3mm
+    original_filename: RocketScreamKicadLibrary/RocketScreamKicadLibrary.pretty/QFN-16_3x3mm.kicad_mod
+    owner_name: rocketscream
   oomp_key: oomp_rocketscream_rocketscreamkicadlibrary_qfn_16_3x3mm
+  oomp_key_full: oomp_footprint_rocketscream_rocketscreamkicadlibrary_qfn_16_3x3mm
   oomp_key_simple: rocketscream_rocketscreamkicadlibrary_qfn_16_3x3mm
   owner: rocketscream
   repo:

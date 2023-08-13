@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/codemercenary_os_kicad_qfp_100_14x14_0_5/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/codemercenary_os_kicad_qfp_100_14x14_0_5/working
-    oomp_doc: footprints/footprints/codemercenary-os/kicad/QFP_100_14X14_0.5/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/codemercenary-os/kicad/QFP_100_14X14_0.5/working
     oomp_src_flat: footprints_flat/footprints_flat/codemercenary_os_kicad_qfp_100_14x14_0_5/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/codemercenary_os_kicad_qfp_100_14x14_0_5/working
-    oomp_src_folder: footprints_folder/footprints_folder/codemercenary-os/kicad/QFP_100_14X14_0.5/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/codemercenary-os/kicad/QFP_100_14X14_0.5/working
   name: kicad.pretty
+  oomp:
+    footprint_name: qfp_100_14x14_0_5
+    library_name: kicad
+    md5: 82c3e0ecc4c45153d453dafbf7f78149
+    md5_10: 82c3e0ecc4
+    md5_5: 82c3e
+    md5_6: 82c3e0
+    oomp_key: oomp_codemercenary_os_kicad_qfp_100_14x14_0_5
+    oomp_key_extra: oomp_footprint_codemercenary_os_kicad_qfp_100_14x14_0_5
+    oomp_key_full: oomp_footprint_codemercenary_os_kicad_qfp_100_14x14_0_5_82c3e0
+    oomp_key_simple: codemercenary_os_kicad_qfp_100_14x14_0_5
+    original_filename: kicad.pretty/QFP_100_14X14_0.5.kicad_mod
+    owner_name: codemercenary_os
   oomp_key: oomp_codemercenary_os_kicad_qfp_100_14x14_0_5
+  oomp_key_full: oomp_footprint_codemercenary_os_kicad_qfp_100_14x14_0_5
   oomp_key_simple: codemercenary_os_kicad_qfp_100_14x14_0_5
   owner: codemercenary-os
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cuzdaori_kicad_module_plf3pc/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cuzdaori_kicad_module_plf3pc/working
-    oomp_doc: footprints/footprints/cuzdaori/KiCad/MODULE_PLF3PC/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cuzdaori/KiCad/MODULE_PLF3PC/working
     oomp_src_flat: footprints_flat/footprints_flat/cuzdaori_kicad_module_plf3pc/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cuzdaori_kicad_module_plf3pc/working
-    oomp_src_folder: footprints_folder/footprints_folder/cuzdaori/KiCad/MODULE_PLF3PC/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cuzdaori/KiCad/MODULE_PLF3PC/working
   name: KiCad.pretty
+  oomp:
+    footprint_name: module_plf3pc
+    library_name: kicad
+    md5: 9ab14e27abe335fc9bbf7541d3c943c7
+    md5_10: 9ab14e27ab
+    md5_5: 9ab14
+    md5_6: 9ab14e
+    oomp_key: oomp_cuzdaori_kicad_module_plf3pc
+    oomp_key_extra: oomp_footprint_cuzdaori_kicad_module_plf3pc
+    oomp_key_full: oomp_footprint_cuzdaori_kicad_module_plf3pc_9ab14e
+    oomp_key_simple: cuzdaori_kicad_module_plf3pc
+    original_filename: KiCad.pretty/MODULE_PLF3PC.kicad_mod
+    owner_name: cuzdaori
   oomp_key: oomp_cuzdaori_kicad_module_plf3pc
+  oomp_key_full: oomp_footprint_cuzdaori_kicad_module_plf3pc
   oomp_key_simple: cuzdaori_kicad_module_plf3pc
   owner: cuzdaori
   repo:

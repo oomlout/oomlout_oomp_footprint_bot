@@ -12,17 +12,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_heatsink_heatsink_fischer_sk104_stcb_35x13mm_2xdrill3_5mm_screwm3/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_heatsink_heatsink_fischer_sk104_stcb_35x13mm_2xdrill3_5mm_screwm3/working
-    oomp_doc: footprints/footprints/kicad/Heatsink/Heatsink_Fischer_SK104-STCB_35x13mm__2xDrill3.5mm_ScrewM3/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Heatsink/Heatsink_Fischer_SK104-STCB_35x13mm__2xDrill3.5mm_ScrewM3/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_heatsink_heatsink_fischer_sk104_stcb_35x13mm_2xdrill3_5mm_screwm3/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_heatsink_heatsink_fischer_sk104_stcb_35x13mm_2xdrill3_5mm_screwm3/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Heatsink/Heatsink_Fischer_SK104-STCB_35x13mm__2xDrill3.5mm_ScrewM3/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Heatsink/Heatsink_Fischer_SK104-STCB_35x13mm__2xDrill3.5mm_ScrewM3/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: heatsink_fischer_sk104_stcb_35x13mm_2xdrill3_5mm_screwm3
+    library_name: heatsink
+    md5: 65de035ac7ca6831e3ddf219ebb5d540
+    md5_10: 65de035ac7
+    md5_5: 65de0
+    md5_6: 65de03
+    oomp_key: oomp_kicad_heatsink_heatsink_fischer_sk104_stcb_35x13mm_2xdrill3_5mm_screwm3
+    oomp_key_extra: oomp_footprint_kicad_heatsink_heatsink_fischer_sk104_stcb_35x13mm_2xdrill3_5mm_screwm3
+    oomp_key_full: oomp_footprint_kicad_heatsink_heatsink_fischer_sk104_stcb_35x13mm_2xdrill3_5mm_screwm3_65de03
+    oomp_key_simple: kicad_heatsink_heatsink_fischer_sk104_stcb_35x13mm_2xdrill3_5mm_screwm3
+    original_filename: libraries/kicad-footprints/Heatsink.pretty/Heatsink_Fischer_SK104-STCB_35x13mm__2xDrill3.5mm_ScrewM3.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_heatsink_heatsink_fischer_sk104_stcb_35x13mm_2xdrill3_5mm_screwm3
+  oomp_key_full: oomp_footprint_kicad_heatsink_heatsink_fischer_sk104_stcb_35x13mm_2xdrill3_5mm_screwm3
   oomp_key_simple: kicad_heatsink_heatsink_fischer_sk104_stcb_35x13mm_2xdrill3_5mm_screwm3
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pbrook_parts_crystal/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pbrook_parts_crystal/working
-    oomp_doc: footprints/footprints/pbrook/Parts/Crystal/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/pbrook/Parts/Crystal/working
     oomp_src_flat: footprints_flat/footprints_flat/pbrook_parts_crystal/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pbrook_parts_crystal/working
-    oomp_src_folder: footprints_folder/footprints_folder/pbrook/Parts/Crystal/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/pbrook/Parts/Crystal/working
   name: Parts.pretty
+  oomp:
+    footprint_name: crystal
+    library_name: parts
+    md5: bdb9a067fbd28ab35a040054a317124f
+    md5_10: bdb9a067fb
+    md5_5: bdb9a
+    md5_6: bdb9a0
+    oomp_key: oomp_pbrook_parts_crystal
+    oomp_key_extra: oomp_footprint_pbrook_parts_crystal
+    oomp_key_full: oomp_footprint_pbrook_parts_crystal_bdb9a0
+    oomp_key_simple: pbrook_parts_crystal
+    original_filename: Parts.pretty/Crystal.kicad_mod
+    owner_name: pbrook
   oomp_key: oomp_pbrook_parts_crystal
+  oomp_key_full: oomp_footprint_pbrook_parts_crystal
   oomp_key_simple: pbrook_parts_crystal
   owner: pbrook
   repo:

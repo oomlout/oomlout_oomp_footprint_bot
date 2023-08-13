@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/av_p_avp_microstrip_port_1_20/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/av_p_avp_microstrip_port_1_20/working
-    oomp_doc: footprints/footprints/av-p/Avp/Microstrip_port_1_20/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/av-p/Avp/Microstrip_port_1_20/working
     oomp_src_flat: footprints_flat/footprints_flat/av_p_avp_microstrip_port_1_20/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/av_p_avp_microstrip_port_1_20/working
-    oomp_src_folder: footprints_folder/footprints_folder/av-p/Avp/Microstrip_port_1_20/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/av-p/Avp/Microstrip_port_1_20/working
   name: Avp.pretty
+  oomp:
+    footprint_name: microstrip_port_1_20
+    library_name: avp
+    md5: 6698a54e157e7cfbf2b9463d1fc25e1f
+    md5_10: 6698a54e15
+    md5_5: 6698a
+    md5_6: 6698a5
+    oomp_key: oomp_av_p_avp_microstrip_port_1_20
+    oomp_key_extra: oomp_footprint_av_p_avp_microstrip_port_1_20
+    oomp_key_full: oomp_footprint_av_p_avp_microstrip_port_1_20_6698a5
+    oomp_key_simple: av_p_avp_microstrip_port_1_20
+    original_filename: Avp.pretty/Microstrip_port_1_20.kicad_mod
+    owner_name: av_p
   oomp_key: oomp_av_p_avp_microstrip_port_1_20
+  oomp_key_full: oomp_footprint_av_p_avp_microstrip_port_1_20
   oomp_key_simple: av_p_avp_microstrip_port_1_20
   owner: av-p
   repo:

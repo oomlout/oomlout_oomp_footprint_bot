@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/ruuvi_ruuvitag_x2_dfn1006_3_nfet_dgs/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ruuvi_ruuvitag_x2_dfn1006_3_nfet_dgs/working
-    oomp_doc: footprints/footprints/ruuvi/RuuviTag/X2-DFN1006-3_NFET_DGS/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ruuvi/RuuviTag/X2-DFN1006-3_NFET_DGS/working
     oomp_src_flat: footprints_flat/footprints_flat/ruuvi_ruuvitag_x2_dfn1006_3_nfet_dgs/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ruuvi_ruuvitag_x2_dfn1006_3_nfet_dgs/working
-    oomp_src_folder: footprints_folder/footprints_folder/ruuvi/RuuviTag/X2-DFN1006-3_NFET_DGS/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ruuvi/RuuviTag/X2-DFN1006-3_NFET_DGS/working
   name: kicad-library
+  oomp:
+    footprint_name: x2_dfn1006_3_nfet_dgs
+    library_name: ruuvitag
+    md5: e0c7c92589c0064d6ed80c4fe1a380d2
+    md5_10: e0c7c92589
+    md5_5: e0c7c
+    md5_6: e0c7c9
+    oomp_key: oomp_ruuvi_ruuvitag_x2_dfn1006_3_nfet_dgs
+    oomp_key_extra: oomp_footprint_ruuvi_ruuvitag_x2_dfn1006_3_nfet_dgs
+    oomp_key_full: oomp_footprint_ruuvi_ruuvitag_x2_dfn1006_3_nfet_dgs_e0c7c9
+    oomp_key_simple: ruuvi_ruuvitag_x2_dfn1006_3_nfet_dgs
+    original_filename: kicad-library/RuuviTag.pretty/X2-DFN1006-3_NFET_DGS.kicad_mod
+    owner_name: ruuvi
   oomp_key: oomp_ruuvi_ruuvitag_x2_dfn1006_3_nfet_dgs
+  oomp_key_full: oomp_footprint_ruuvi_ruuvitag_x2_dfn1006_3_nfet_dgs
   oomp_key_simple: ruuvi_ruuvitag_x2_dfn1006_3_nfet_dgs
   owner: ruuvi
   repo:

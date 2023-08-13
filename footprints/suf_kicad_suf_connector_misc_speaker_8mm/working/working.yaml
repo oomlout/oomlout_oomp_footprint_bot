@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/suf_kicad_suf_connector_misc_speaker_8mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/suf_kicad_suf_connector_misc_speaker_8mm/working
-    oomp_doc: footprints/footprints/suf-KiCAD/suf_connector_misc/SPEAKER_8mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/suf-KiCAD/suf_connector_misc/SPEAKER_8mm/working
     oomp_src_flat: footprints_flat/footprints_flat/suf_kicad_suf_connector_misc_speaker_8mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/suf_kicad_suf_connector_misc_speaker_8mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/suf-KiCAD/suf_connector_misc/SPEAKER_8mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/suf-KiCAD/suf_connector_misc/SPEAKER_8mm/working
   name: suf_connector_misc.pretty
+  oomp:
+    footprint_name: speaker_8mm
+    library_name: suf_connector_misc
+    md5: 75d1a3a051e8fa2ec5cea3171915052e
+    md5_10: 75d1a3a051
+    md5_5: 75d1a
+    md5_6: 75d1a3
+    oomp_key: oomp_suf_kicad_suf_connector_misc_speaker_8mm
+    oomp_key_extra: oomp_footprint_suf_kicad_suf_connector_misc_speaker_8mm
+    oomp_key_full: oomp_footprint_suf_kicad_suf_connector_misc_speaker_8mm_75d1a3
+    oomp_key_simple: suf_kicad_suf_connector_misc_speaker_8mm
+    original_filename: suf_connector_misc.pretty/SPEAKER_8mm.kicad_mod
+    owner_name: suf_kicad
   oomp_key: oomp_suf_kicad_suf_connector_misc_speaker_8mm
+  oomp_key_full: oomp_footprint_suf_kicad_suf_connector_misc_speaker_8mm
   oomp_key_simple: suf_kicad_suf_connector_misc_speaker_8mm
   owner: suf-KiCAD
   repo:

@@ -1,5 +1,8 @@
-- error: Expression does not have the correct type
-  file: kicad-libraries/footprints/Espressif.pretty/ESP32-S2-MINI-1.kicad_mod
+- file: kicad-libraries/footprints/Espressif.pretty/ESP32-S2-MINI-1.kicad_mod
+  footprint:
+    description: 'ESP32-S2-MINI-1 and ESP32-S2-MINI-1U: https://www.espressif.com/sites/default/files/documentation/esp32-s2-mini-1_esp32-s2-mini-1u_datasheet_en.pdf'
+    libraryLink: ESP32-S2-MINI-1
+    number_of_pads: 73
   footprint_library_directory: footprint_library_owner/Tinkerforge_kicad-libraries
   footprint_library_directory_flat: footprints_flat/tinkerforge_espressif_esp32_s2_mini_1/working
   github_path: http://github.com/Tinkerforge/kicad-libraries/blob/master/footprints/Espressif.pretty/ESP32-S2-MINI-1.kicad_mod
@@ -8,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/tinkerforge_espressif_esp32_s2_mini_1/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/tinkerforge_espressif_esp32_s2_mini_1/working
-    oomp_doc: footprints/footprints/Tinkerforge/Espressif/ESP32-S2-MINI-1/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Tinkerforge/Espressif/ESP32-S2-MINI-1/working
     oomp_src_flat: footprints_flat/footprints_flat/tinkerforge_espressif_esp32_s2_mini_1/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/tinkerforge_espressif_esp32_s2_mini_1/working
-    oomp_src_folder: footprints_folder/footprints_folder/Tinkerforge/Espressif/ESP32-S2-MINI-1/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Tinkerforge/Espressif/ESP32-S2-MINI-1/working
   name: kicad-libraries
+  oomp:
+    footprint_name: esp32_s2_mini_1
+    library_name: espressif
+    md5: 13b8196b95c3b3bbed36feb6624efd02
+    md5_10: 13b8196b95
+    md5_5: 13b81
+    md5_6: 13b819
+    oomp_key: oomp_tinkerforge_espressif_esp32_s2_mini_1
+    oomp_key_extra: oomp_footprint_tinkerforge_espressif_esp32_s2_mini_1
+    oomp_key_full: oomp_footprint_tinkerforge_espressif_esp32_s2_mini_1_13b819
+    oomp_key_simple: tinkerforge_espressif_esp32_s2_mini_1
+    original_filename: kicad-libraries/footprints/Espressif.pretty/ESP32-S2-MINI-1.kicad_mod
+    owner_name: tinkerforge
   oomp_key: oomp_tinkerforge_espressif_esp32_s2_mini_1
+  oomp_key_full: oomp_footprint_tinkerforge_espressif_esp32_s2_mini_1
   oomp_key_simple: tinkerforge_espressif_esp32_s2_mini_1
   owner: Tinkerforge
   repo:

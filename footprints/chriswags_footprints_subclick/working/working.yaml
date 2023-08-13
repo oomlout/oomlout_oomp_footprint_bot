@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/chriswags_footprints_subclick/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/chriswags_footprints_subclick/working
-    oomp_doc: footprints/footprints/chriswags/footprints/subclick/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/chriswags/footprints/subclick/working
     oomp_src_flat: footprints_flat/footprints_flat/chriswags_footprints_subclick/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/chriswags_footprints_subclick/working
-    oomp_src_folder: footprints_folder/footprints_folder/chriswags/footprints/subclick/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/chriswags/footprints/subclick/working
   name: KiCad
+  oomp:
+    footprint_name: subclick
+    library_name: footprints
+    md5: 474cac8d47360abe7d9121bf1490861e
+    md5_10: 474cac8d47
+    md5_5: 474ca
+    md5_6: 474cac
+    oomp_key: oomp_chriswags_footprints_subclick
+    oomp_key_extra: oomp_footprint_chriswags_footprints_subclick
+    oomp_key_full: oomp_footprint_chriswags_footprints_subclick_474cac
+    oomp_key_simple: chriswags_footprints_subclick
+    original_filename: KiCad/demos/video/libs/footprints.pretty/subclick.kicad_mod
+    owner_name: chriswags
   oomp_key: oomp_chriswags_footprints_subclick
+  oomp_key_full: oomp_footprint_chriswags_footprints_subclick
   oomp_key_simple: chriswags_footprints_subclick
   owner: chriswags
   repo:

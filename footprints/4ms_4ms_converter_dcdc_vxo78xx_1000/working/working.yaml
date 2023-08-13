@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/4ms/4ms-kicad-lib
     oomp_bot: footprints/4ms_4ms_converter_dcdc_vxo78xx_1000/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/4ms_4ms_converter_dcdc_vxo78xx_1000/working
-    oomp_doc: footprints/footprints/4ms/4ms_Converter_DCDC/VXO78xx-1000/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/4ms/4ms_Converter_DCDC/VXO78xx-1000/working
     oomp_src_flat: footprints_flat/footprints_flat/4ms_4ms_converter_dcdc_vxo78xx_1000/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/4ms_4ms_converter_dcdc_vxo78xx_1000/working
-    oomp_src_folder: footprints_folder/footprints_folder/4ms/4ms_Converter_DCDC/VXO78xx-1000/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/4ms/4ms_Converter_DCDC/VXO78xx-1000/working
   name: 4ms-kicad-lib
+  oomp:
+    footprint_name: vxo78xx_1000
+    library_name: 4ms_converter_dcdc
+    md5: 7be3532a6a290170f1851f79c965d0d2
+    md5_10: 7be3532a6a
+    md5_5: 7be35
+    md5_6: 7be353
+    oomp_key: oomp_4ms_4ms_converter_dcdc_vxo78xx_1000
+    oomp_key_extra: oomp_footprint_4ms_4ms_converter_dcdc_vxo78xx_1000
+    oomp_key_full: oomp_footprint_4ms_4ms_converter_dcdc_vxo78xx_1000_7be353
+    oomp_key_simple: 4ms_4ms_converter_dcdc_vxo78xx_1000
+    original_filename: 4ms-kicad-lib/footprints/4ms_Converter_DCDC.pretty/VXO78xx-1000.kicad_mod
+    owner_name: 4ms
   oomp_key: oomp_4ms_4ms_converter_dcdc_vxo78xx_1000
+  oomp_key_full: oomp_footprint_4ms_4ms_converter_dcdc_vxo78xx_1000
   oomp_key_simple: 4ms_4ms_converter_dcdc_vxo78xx_1000
   owner: 4ms
   repo:
@@ -126,9 +136,9 @@
       url: https://api.github.com/users/4ms
     private: false
     pulls_url: https://api.github.com/repos/4ms/4ms-kicad-lib/pulls{/number}
-    pushed_at: '2023-08-07T23:22:22Z'
+    pushed_at: '2023-08-11T23:48:49Z'
     releases_url: https://api.github.com/repos/4ms/4ms-kicad-lib/releases{/id}
-    size: 22693
+    size: 22703
     ssh_url: git@github.com:4ms/4ms-kicad-lib.git
     stargazers_count: 54
     stargazers_url: https://api.github.com/repos/4ms/4ms-kicad-lib/stargazers

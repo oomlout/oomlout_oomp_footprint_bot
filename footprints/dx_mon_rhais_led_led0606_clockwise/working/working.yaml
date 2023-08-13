@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/dx_mon_rhais_led_led0606_clockwise/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/dx_mon_rhais_led_led0606_clockwise/working
-    oomp_doc: footprints/footprints/DX-MON/rhais_led/LED0606_Clockwise/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/DX-MON/rhais_led/LED0606_Clockwise/working
     oomp_src_flat: footprints_flat/footprints_flat/dx_mon_rhais_led_led0606_clockwise/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/dx_mon_rhais_led_led0606_clockwise/working
-    oomp_src_folder: footprints_folder/footprints_folder/DX-MON/rhais_led/LED0606_Clockwise/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/DX-MON/rhais_led/LED0606_Clockwise/working
   name: rhais_led.pretty
+  oomp:
+    footprint_name: led0606_clockwise
+    library_name: rhais_led
+    md5: 08cd1df81c1bc7755cbdbd2e755ab53a
+    md5_10: 08cd1df81c
+    md5_5: 08cd1
+    md5_6: 08cd1d
+    oomp_key: oomp_dx_mon_rhais_led_led0606_clockwise
+    oomp_key_extra: oomp_footprint_dx_mon_rhais_led_led0606_clockwise
+    oomp_key_full: oomp_footprint_dx_mon_rhais_led_led0606_clockwise_08cd1d
+    oomp_key_simple: dx_mon_rhais_led_led0606_clockwise
+    original_filename: rhais_led.pretty/LED0606_Clockwise.kicad_mod
+    owner_name: dx_mon
   oomp_key: oomp_dx_mon_rhais_led_led0606_clockwise
+  oomp_key_full: oomp_footprint_dx_mon_rhais_led_led0606_clockwise
   oomp_key_simple: dx_mon_rhais_led_led0606_clockwise
   owner: DX-MON
   repo:

@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/kikaiken/kicad_smd.pretty
     oomp_bot: footprints/kikaiken_kicad_smd_smd_sw_az1086h/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kikaiken_kicad_smd_smd_sw_az1086h/working
-    oomp_doc: footprints/footprints/kikaiken/kicad_smd/SMD_SW_AZ1086H/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kikaiken/kicad_smd/SMD_SW_AZ1086H/working
     oomp_src_flat: footprints_flat/footprints_flat/kikaiken_kicad_smd_smd_sw_az1086h/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kikaiken_kicad_smd_smd_sw_az1086h/working
-    oomp_src_folder: footprints_folder/footprints_folder/kikaiken/kicad_smd/SMD_SW_AZ1086H/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kikaiken/kicad_smd/SMD_SW_AZ1086H/working
   name: kicad_smd.pretty
+  oomp:
+    footprint_name: smd_sw_az1086h
+    library_name: kicad_smd
+    md5: a1c613582fa88fc366d29916b7e10644
+    md5_10: a1c613582f
+    md5_5: a1c61
+    md5_6: a1c613
+    oomp_key: oomp_kikaiken_kicad_smd_smd_sw_az1086h
+    oomp_key_extra: oomp_footprint_kikaiken_kicad_smd_smd_sw_az1086h
+    oomp_key_full: oomp_footprint_kikaiken_kicad_smd_smd_sw_az1086h_a1c613
+    oomp_key_simple: kikaiken_kicad_smd_smd_sw_az1086h
+    original_filename: kicad_smd.pretty/SMD_SW_AZ1086H.kicad_mod
+    owner_name: kikaiken
   oomp_key: oomp_kikaiken_kicad_smd_smd_sw_az1086h
+  oomp_key_full: oomp_footprint_kikaiken_kicad_smd_smd_sw_az1086h
   oomp_key_simple: kikaiken_kicad_smd_smd_sw_az1086h
   owner: kikaiken
   repo:

@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/kichMan/JDY-08
     oomp_bot: footprints/kichman_jdy_08_jdy_08_handsoldering/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kichman_jdy_08_jdy_08_handsoldering/working
-    oomp_doc: footprints/footprints/kichMan/JDY-08/JDY-08_HandSoldering/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kichMan/JDY-08/JDY-08_HandSoldering/working
     oomp_src_flat: footprints_flat/footprints_flat/kichman_jdy_08_jdy_08_handsoldering/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kichman_jdy_08_jdy_08_handsoldering/working
-    oomp_src_folder: footprints_folder/footprints_folder/kichMan/JDY-08/JDY-08_HandSoldering/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kichMan/JDY-08/JDY-08_HandSoldering/working
   name: JDY-08
+  oomp:
+    footprint_name: jdy_08_handsoldering
+    library_name: jdy_08
+    md5: 0319c01149ab528607dbf4ec794fb31c
+    md5_10: 0319c01149
+    md5_5: 0319c
+    md5_6: 0319c0
+    oomp_key: oomp_kichman_jdy_08_jdy_08_handsoldering
+    oomp_key_extra: oomp_footprint_kichman_jdy_08_jdy_08_handsoldering
+    oomp_key_full: oomp_footprint_kichman_jdy_08_jdy_08_handsoldering_0319c0
+    oomp_key_simple: kichman_jdy_08_jdy_08_handsoldering
+    original_filename: JDY-08/KiCAD/JDY-08.pretty/JDY-08_HandSoldering.kicad_mod
+    owner_name: kichman
   oomp_key: oomp_kichman_jdy_08_jdy_08_handsoldering
+  oomp_key_full: oomp_footprint_kichman_jdy_08_jdy_08_handsoldering
   oomp_key_simple: kichman_jdy_08_jdy_08_handsoldering
   owner: kichMan
   repo:

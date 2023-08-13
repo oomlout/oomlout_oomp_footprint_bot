@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_mt29f2g01abagdwb_mt29f2g01abagdwb/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_mt29f2g01abagdwb_mt29f2g01abagdwb/working
-    oomp_doc: footprints/footprints/brunoeagle/MT29F2G01ABAGDWB.kicad_mod/MT29F2G01ABAGDWB/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/MT29F2G01ABAGDWB.kicad_mod/MT29F2G01ABAGDWB/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_mt29f2g01abagdwb_mt29f2g01abagdwb/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_mt29f2g01abagdwb_mt29f2g01abagdwb/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/MT29F2G01ABAGDWB.kicad_mod/MT29F2G01ABAGDWB/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/MT29F2G01ABAGDWB.kicad_mod/MT29F2G01ABAGDWB/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: mt29f2g01abagdwb
+    library_name: mt29f2g01abagdwb_kicad_mod
+    md5: 9f971016b278da4deb8406d9446dfc9b
+    md5_10: 9f971016b2
+    md5_5: 9f971
+    md5_6: 9f9710
+    oomp_key: oomp_brunoeagle_mt29f2g01abagdwb_mt29f2g01abagdwb
+    oomp_key_extra: oomp_footprint_brunoeagle_mt29f2g01abagdwb_mt29f2g01abagdwb
+    oomp_key_full: oomp_footprint_brunoeagle_mt29f2g01abagdwb_mt29f2g01abagdwb_9f9710
+    oomp_key_simple: brunoeagle_mt29f2g01abagdwb_mt29f2g01abagdwb
+    original_filename: kicad-open-modules/MT29F2G01ABAGDWB.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_mt29f2g01abagdwb_mt29f2g01abagdwb
+  oomp_key_full: oomp_footprint_brunoeagle_mt29f2g01abagdwb_mt29f2g01abagdwb
   oomp_key_simple: brunoeagle_mt29f2g01abagdwb_mt29f2g01abagdwb
   owner: brunoeagle
   repo:

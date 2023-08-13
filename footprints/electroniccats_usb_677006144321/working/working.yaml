@@ -1,8 +1,5 @@
-- file: ComponentLibrariesKicadWurthElektronik/INPUT_OUTPUT_CONNECTORS-rev17b/USB.pretty/677006144321.kicad_mod
-  footprint:
-    description: WR-COM Up Right Receptacle IEEE 1394 / Fire Wire, 6 pins
-    libraryLink: 677006144321
-    number_of_pads: 9
+- error: expected string or bytes-like object, got 'int'
+  file: ComponentLibrariesKicadWurthElektronik/INPUT_OUTPUT_CONNECTORS-rev17b/USB.pretty/677006144321.kicad_mod
   footprint_library_directory: footprint_library_owner/ElectronicCats_ComponentLibrariesKicadWurthElektronik
   footprint_library_directory_flat: footprints_flat/electroniccats_usb_677006144321/working
   github_path: http://github.com/ElectronicCats/ComponentLibrariesKicadWurthElektronik/blob/master/INPUT_OUTPUT_CONNECTORS-rev17b/USB.pretty/677006144321.kicad_mod
@@ -12,14 +9,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/electroniccats_usb_677006144321/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/electroniccats_usb_677006144321/working
-    oomp_doc: footprints/footprints/ElectronicCats/USB/677006144321/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ElectronicCats/USB/677006144321/working
     oomp_src_flat: footprints_flat/footprints_flat/electroniccats_usb_677006144321/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/electroniccats_usb_677006144321/working
-    oomp_src_folder: footprints_folder/footprints_folder/ElectronicCats/USB/677006144321/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ElectronicCats/USB/677006144321/working
   name: ComponentLibrariesKicadWurthElektronik
+  oomp:
+    footprint_name: '677006144321'
+    library_name: usb
+    md5: e7d804fffc60fb3ff112cfac956e9089
+    md5_10: e7d804fffc
+    md5_5: e7d80
+    md5_6: e7d804
+    oomp_key: oomp_electroniccats_usb_677006144321
+    oomp_key_extra: oomp_footprint_electroniccats_usb_677006144321
+    oomp_key_full: oomp_footprint_electroniccats_usb_677006144321_e7d804
+    oomp_key_simple: electroniccats_usb_677006144321
+    original_filename: ComponentLibrariesKicadWurthElektronik/INPUT_OUTPUT_CONNECTORS-rev17b/USB.pretty/677006144321.kicad_mod
+    owner_name: electroniccats
   oomp_key: oomp_electroniccats_usb_677006144321
+  oomp_key_full: oomp_footprint_electroniccats_usb_677006144321
   oomp_key_simple: electroniccats_usb_677006144321
   owner: ElectronicCats
   repo:

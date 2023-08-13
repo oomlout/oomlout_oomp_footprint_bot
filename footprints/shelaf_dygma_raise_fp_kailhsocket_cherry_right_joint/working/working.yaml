@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/shelaf_dygma_raise_fp_kailhsocket_cherry_right_joint/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/shelaf_dygma_raise_fp_kailhsocket_cherry_right_joint/working
-    oomp_doc: footprints/footprints/shelaf-dygma/raise_fp/kailhsocket-cherry-right-joint/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/shelaf-dygma/raise_fp/kailhsocket-cherry-right-joint/working
     oomp_src_flat: footprints_flat/footprints_flat/shelaf_dygma_raise_fp_kailhsocket_cherry_right_joint/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/shelaf_dygma_raise_fp_kailhsocket_cherry_right_joint/working
-    oomp_src_folder: footprints_folder/footprints_folder/shelaf-dygma/raise_fp/kailhsocket-cherry-right-joint/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/shelaf-dygma/raise_fp/kailhsocket-cherry-right-joint/working
   name: raise_fp.pretty
+  oomp:
+    footprint_name: kailhsocket_cherry_right_joint
+    library_name: raise_fp
+    md5: 30820f5f743d6e33f688f87a078629d2
+    md5_10: 30820f5f74
+    md5_5: '30820'
+    md5_6: 30820f
+    oomp_key: oomp_shelaf_dygma_raise_fp_kailhsocket_cherry_right_joint
+    oomp_key_extra: oomp_footprint_shelaf_dygma_raise_fp_kailhsocket_cherry_right_joint
+    oomp_key_full: oomp_footprint_shelaf_dygma_raise_fp_kailhsocket_cherry_right_joint_30820f
+    oomp_key_simple: shelaf_dygma_raise_fp_kailhsocket_cherry_right_joint
+    original_filename: raise_fp.pretty/kailhsocket-cherry-right-joint.kicad_mod
+    owner_name: shelaf_dygma
   oomp_key: oomp_shelaf_dygma_raise_fp_kailhsocket_cherry_right_joint
+  oomp_key_full: oomp_footprint_shelaf_dygma_raise_fp_kailhsocket_cherry_right_joint
   oomp_key_simple: shelaf_dygma_raise_fp_kailhsocket_cherry_right_joint
   owner: shelaf-dygma
   repo:

@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/candykingdom_homebrew_3_pin_2_54mm_pitch_strain_relief/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/candykingdom_homebrew_3_pin_2_54mm_pitch_strain_relief/working
-    oomp_doc: footprints/footprints/candykingdom/homebrew/3_pin_2.54mm_pitch_strain_relief/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/candykingdom/homebrew/3_pin_2.54mm_pitch_strain_relief/working
     oomp_src_flat: footprints_flat/footprints_flat/candykingdom_homebrew_3_pin_2_54mm_pitch_strain_relief/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/candykingdom_homebrew_3_pin_2_54mm_pitch_strain_relief/working
-    oomp_src_folder: footprints_folder/footprints_folder/candykingdom/homebrew/3_pin_2.54mm_pitch_strain_relief/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/candykingdom/homebrew/3_pin_2.54mm_pitch_strain_relief/working
   name: homebrew.pretty
+  oomp:
+    footprint_name: 3_pin_2_54mm_pitch_strain_relief
+    library_name: homebrew
+    md5: bdcbc3fce4701147d39451eb2dcc14e8
+    md5_10: bdcbc3fce4
+    md5_5: bdcbc
+    md5_6: bdcbc3
+    oomp_key: oomp_candykingdom_homebrew_3_pin_2_54mm_pitch_strain_relief
+    oomp_key_extra: oomp_footprint_candykingdom_homebrew_3_pin_2_54mm_pitch_strain_relief
+    oomp_key_full: oomp_footprint_candykingdom_homebrew_3_pin_2_54mm_pitch_strain_relief_bdcbc3
+    oomp_key_simple: candykingdom_homebrew_3_pin_2_54mm_pitch_strain_relief
+    original_filename: homebrew.pretty/3_pin_2.54mm_pitch_strain_relief.kicad_mod
+    owner_name: candykingdom
   oomp_key: oomp_candykingdom_homebrew_3_pin_2_54mm_pitch_strain_relief
+  oomp_key_full: oomp_footprint_candykingdom_homebrew_3_pin_2_54mm_pitch_strain_relief
   oomp_key_simple: candykingdom_homebrew_3_pin_2_54mm_pitch_strain_relief
   owner: candykingdom
   repo:

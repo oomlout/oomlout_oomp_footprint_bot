@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/rocketscream_rocketscreamkicadlibrary_fiducial_1mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/rocketscream_rocketscreamkicadlibrary_fiducial_1mm/working
-    oomp_doc: footprints/footprints/rocketscream/RocketScreamKicadLibrary/FIDUCIAL-1MM/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/rocketscream/RocketScreamKicadLibrary/FIDUCIAL-1MM/working
     oomp_src_flat: footprints_flat/footprints_flat/rocketscream_rocketscreamkicadlibrary_fiducial_1mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/rocketscream_rocketscreamkicadlibrary_fiducial_1mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/rocketscream/RocketScreamKicadLibrary/FIDUCIAL-1MM/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/rocketscream/RocketScreamKicadLibrary/FIDUCIAL-1MM/working
   name: RocketScreamKicadLibrary
+  oomp:
+    footprint_name: fiducial_1mm
+    library_name: rocketscreamkicadlibrary
+    md5: ea96c6c533a676b71600d2cd172a2582
+    md5_10: ea96c6c533
+    md5_5: ea96c
+    md5_6: ea96c6
+    oomp_key: oomp_rocketscream_rocketscreamkicadlibrary_fiducial_1mm
+    oomp_key_extra: oomp_footprint_rocketscream_rocketscreamkicadlibrary_fiducial_1mm
+    oomp_key_full: oomp_footprint_rocketscream_rocketscreamkicadlibrary_fiducial_1mm_ea96c6
+    oomp_key_simple: rocketscream_rocketscreamkicadlibrary_fiducial_1mm
+    original_filename: RocketScreamKicadLibrary/RocketScreamKicadLibrary.pretty/FIDUCIAL-1MM.kicad_mod
+    owner_name: rocketscream
   oomp_key: oomp_rocketscream_rocketscreamkicadlibrary_fiducial_1mm
+  oomp_key_full: oomp_footprint_rocketscream_rocketscreamkicadlibrary_fiducial_1mm
   oomp_key_simple: rocketscream_rocketscreamkicadlibrary_fiducial_1mm
   owner: rocketscream
   repo:

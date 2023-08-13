@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/ohdsp_mykicadlibs_footprints_cap_smd_size_j16/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ohdsp_mykicadlibs_footprints_cap_smd_size_j16/working
-    oomp_doc: footprints/footprints/ohdsp/MyKiCadLibs-Footprints/CAP-SMD-SIZE-J16/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ohdsp/MyKiCadLibs-Footprints/CAP-SMD-SIZE-J16/working
     oomp_src_flat: footprints_flat/footprints_flat/ohdsp_mykicadlibs_footprints_cap_smd_size_j16/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ohdsp_mykicadlibs_footprints_cap_smd_size_j16/working
-    oomp_src_folder: footprints_folder/footprints_folder/ohdsp/MyKiCadLibs-Footprints/CAP-SMD-SIZE-J16/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ohdsp/MyKiCadLibs-Footprints/CAP-SMD-SIZE-J16/working
   name: KiCad-Libs
+  oomp:
+    footprint_name: cap_smd_size_j16
+    library_name: mykicadlibs_footprints
+    md5: 71f1f715f9888a9cb0b6bb6157ce83ae
+    md5_10: 71f1f715f9
+    md5_5: 71f1f
+    md5_6: 71f1f7
+    oomp_key: oomp_ohdsp_mykicadlibs_footprints_cap_smd_size_j16
+    oomp_key_extra: oomp_footprint_ohdsp_mykicadlibs_footprints_cap_smd_size_j16
+    oomp_key_full: oomp_footprint_ohdsp_mykicadlibs_footprints_cap_smd_size_j16_71f1f7
+    oomp_key_simple: ohdsp_mykicadlibs_footprints_cap_smd_size_j16
+    original_filename: KiCad-Libs/MyKiCadLibs-Footprints.pretty/CAP-SMD-SIZE-J16.kicad_mod
+    owner_name: ohdsp
   oomp_key: oomp_ohdsp_mykicadlibs_footprints_cap_smd_size_j16
+  oomp_key_full: oomp_footprint_ohdsp_mykicadlibs_footprints_cap_smd_size_j16
   oomp_key_simple: ohdsp_mykicadlibs_footprints_cap_smd_size_j16
   owner: ohdsp
   repo:

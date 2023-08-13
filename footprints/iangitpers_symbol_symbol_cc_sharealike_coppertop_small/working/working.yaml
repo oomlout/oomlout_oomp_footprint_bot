@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/Iangitpers/4a
     oomp_bot: footprints/iangitpers_symbol_symbol_cc_sharealike_coppertop_small/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/iangitpers_symbol_symbol_cc_sharealike_coppertop_small/working
-    oomp_doc: footprints/footprints/Iangitpers/Symbol/Symbol_CC-ShareAlike_CopperTop_Small/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Iangitpers/Symbol/Symbol_CC-ShareAlike_CopperTop_Small/working
     oomp_src_flat: footprints_flat/footprints_flat/iangitpers_symbol_symbol_cc_sharealike_coppertop_small/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/iangitpers_symbol_symbol_cc_sharealike_coppertop_small/working
-    oomp_src_folder: footprints_folder/footprints_folder/Iangitpers/Symbol/Symbol_CC-ShareAlike_CopperTop_Small/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Iangitpers/Symbol/Symbol_CC-ShareAlike_CopperTop_Small/working
   name: 4a
+  oomp:
+    footprint_name: symbol_cc_sharealike_coppertop_small
+    library_name: symbol
+    md5: 30d058520335442878e511180801187d
+    md5_10: 30d0585203
+    md5_5: 30d05
+    md5_6: 30d058
+    oomp_key: oomp_iangitpers_symbol_symbol_cc_sharealike_coppertop_small
+    oomp_key_extra: oomp_footprint_iangitpers_symbol_symbol_cc_sharealike_coppertop_small
+    oomp_key_full: oomp_footprint_iangitpers_symbol_symbol_cc_sharealike_coppertop_small_30d058
+    oomp_key_simple: iangitpers_symbol_symbol_cc_sharealike_coppertop_small
+    original_filename: 4a/Symbol.pretty/Symbol_CC-ShareAlike_CopperTop_Small.kicad_mod
+    owner_name: iangitpers
   oomp_key: oomp_iangitpers_symbol_symbol_cc_sharealike_coppertop_small
+  oomp_key_full: oomp_footprint_iangitpers_symbol_symbol_cc_sharealike_coppertop_small
   oomp_key_simple: iangitpers_symbol_symbol_cc_sharealike_coppertop_small
   owner: Iangitpers
   repo:

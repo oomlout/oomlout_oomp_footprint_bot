@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/MacroFab/EDALibraries
     oomp_bot: footprints/macrofab_mf_aesthetics_mf_aesthetics_fiducial_0_5mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/macrofab_mf_aesthetics_mf_aesthetics_fiducial_0_5mm/working
-    oomp_doc: footprints/footprints/MacroFab/MF_Aesthetics/MF_Aesthetics-FIDUCIAL_0.5MM/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/MacroFab/MF_Aesthetics/MF_Aesthetics-FIDUCIAL_0.5MM/working
     oomp_src_flat: footprints_flat/footprints_flat/macrofab_mf_aesthetics_mf_aesthetics_fiducial_0_5mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/macrofab_mf_aesthetics_mf_aesthetics_fiducial_0_5mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/MacroFab/MF_Aesthetics/MF_Aesthetics-FIDUCIAL_0.5MM/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/MacroFab/MF_Aesthetics/MF_Aesthetics-FIDUCIAL_0.5MM/working
   name: EDALibraries
+  oomp:
+    footprint_name: mf_aesthetics_fiducial_0_5mm
+    library_name: mf_aesthetics
+    md5: ad71f644008ebbe1e0cc1271d48d9e5b
+    md5_10: ad71f64400
+    md5_5: ad71f
+    md5_6: ad71f6
+    oomp_key: oomp_macrofab_mf_aesthetics_mf_aesthetics_fiducial_0_5mm
+    oomp_key_extra: oomp_footprint_macrofab_mf_aesthetics_mf_aesthetics_fiducial_0_5mm
+    oomp_key_full: oomp_footprint_macrofab_mf_aesthetics_mf_aesthetics_fiducial_0_5mm_ad71f6
+    oomp_key_simple: macrofab_mf_aesthetics_mf_aesthetics_fiducial_0_5mm
+    original_filename: EDALibraries/KiCad/Footprints/MF_Aesthetics.pretty/MF_Aesthetics-FIDUCIAL_0.5MM.kicad_mod
+    owner_name: macrofab
   oomp_key: oomp_macrofab_mf_aesthetics_mf_aesthetics_fiducial_0_5mm
+  oomp_key_full: oomp_footprint_macrofab_mf_aesthetics_mf_aesthetics_fiducial_0_5mm
   oomp_key_simple: macrofab_mf_aesthetics_mf_aesthetics_fiducial_0_5mm
   owner: MacroFab
   repo:

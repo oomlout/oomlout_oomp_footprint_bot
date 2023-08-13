@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_nx2012sa_nx2012sa/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_nx2012sa_nx2012sa/working
-    oomp_doc: footprints/footprints/brunoeagle/NX2012SA.kicad_mod/NX2012SA/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/NX2012SA.kicad_mod/NX2012SA/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_nx2012sa_nx2012sa/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_nx2012sa_nx2012sa/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/NX2012SA.kicad_mod/NX2012SA/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/NX2012SA.kicad_mod/NX2012SA/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: nx2012sa
+    library_name: nx2012sa_kicad_mod
+    md5: a906bf600a4fb372e41ef9bdeb31f4e0
+    md5_10: a906bf600a
+    md5_5: a906b
+    md5_6: a906bf
+    oomp_key: oomp_brunoeagle_nx2012sa_nx2012sa
+    oomp_key_extra: oomp_footprint_brunoeagle_nx2012sa_nx2012sa
+    oomp_key_full: oomp_footprint_brunoeagle_nx2012sa_nx2012sa_a906bf
+    oomp_key_simple: brunoeagle_nx2012sa_nx2012sa
+    original_filename: kicad-open-modules/NX2012SA.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_nx2012sa_nx2012sa
+  oomp_key_full: oomp_footprint_brunoeagle_nx2012sa_nx2012sa
   oomp_key_simple: brunoeagle_nx2012sa_nx2012sa
   owner: brunoeagle
   repo:

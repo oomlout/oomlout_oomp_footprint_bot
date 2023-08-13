@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/contextualelectronics_ce_switch_fsm2jsmaa_nd/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/contextualelectronics_ce_switch_fsm2jsmaa_nd/working
-    oomp_doc: footprints/footprints/ContextualElectronics/CE_Switch/FSM2JSMAA-ND/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ContextualElectronics/CE_Switch/FSM2JSMAA-ND/working
     oomp_src_flat: footprints_flat/footprints_flat/contextualelectronics_ce_switch_fsm2jsmaa_nd/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/contextualelectronics_ce_switch_fsm2jsmaa_nd/working
-    oomp_src_folder: footprints_folder/footprints_folder/ContextualElectronics/CE_Switch/FSM2JSMAA-ND/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ContextualElectronics/CE_Switch/FSM2JSMAA-ND/working
   name: CE_KiCadLib
+  oomp:
+    footprint_name: fsm2jsmaa_nd
+    library_name: ce_switch
+    md5: 49a7e8cdc93be2cf9330e83d14b36ecf
+    md5_10: 49a7e8cdc9
+    md5_5: 49a7e
+    md5_6: 49a7e8
+    oomp_key: oomp_contextualelectronics_ce_switch_fsm2jsmaa_nd
+    oomp_key_extra: oomp_footprint_contextualelectronics_ce_switch_fsm2jsmaa_nd
+    oomp_key_full: oomp_footprint_contextualelectronics_ce_switch_fsm2jsmaa_nd_49a7e8
+    oomp_key_simple: contextualelectronics_ce_switch_fsm2jsmaa_nd
+    original_filename: CE_KiCadLib/Footprint/CE_Switch.pretty/FSM2JSMAA-ND.kicad_mod
+    owner_name: contextualelectronics
   oomp_key: oomp_contextualelectronics_ce_switch_fsm2jsmaa_nd
+  oomp_key_full: oomp_footprint_contextualelectronics_ce_switch_fsm2jsmaa_nd
   oomp_key_simple: contextualelectronics_ce_switch_fsm2jsmaa_nd
   owner: ContextualElectronics
   repo:

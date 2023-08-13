@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/farizno_kicadfootprints_molex_kk_396_41792_0005_1x05_p3_96_rightangle/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/farizno_kicadfootprints_molex_kk_396_41792_0005_1x05_p3_96_rightangle/working
-    oomp_doc: footprints/footprints/farizno/KicadFootprints/Molex_KK-396_41792-0005_1x05_P3.96_RightAngle/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/farizno/KicadFootprints/Molex_KK-396_41792-0005_1x05_P3.96_RightAngle/working
     oomp_src_flat: footprints_flat/footprints_flat/farizno_kicadfootprints_molex_kk_396_41792_0005_1x05_p3_96_rightangle/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/farizno_kicadfootprints_molex_kk_396_41792_0005_1x05_p3_96_rightangle/working
-    oomp_src_folder: footprints_folder/footprints_folder/farizno/KicadFootprints/Molex_KK-396_41792-0005_1x05_P3.96_RightAngle/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/farizno/KicadFootprints/Molex_KK-396_41792-0005_1x05_P3.96_RightAngle/working
   name: KicadFootprints.pretty
+  oomp:
+    footprint_name: molex_kk_396_41792_0005_1x05_p3_96_rightangle
+    library_name: kicadfootprints
+    md5: 3308d38a913980d5cdd248094e34ead5
+    md5_10: 3308d38a91
+    md5_5: 3308d
+    md5_6: 3308d3
+    oomp_key: oomp_farizno_kicadfootprints_molex_kk_396_41792_0005_1x05_p3_96_rightangle
+    oomp_key_extra: oomp_footprint_farizno_kicadfootprints_molex_kk_396_41792_0005_1x05_p3_96_rightangle
+    oomp_key_full: oomp_footprint_farizno_kicadfootprints_molex_kk_396_41792_0005_1x05_p3_96_rightangle_3308d3
+    oomp_key_simple: farizno_kicadfootprints_molex_kk_396_41792_0005_1x05_p3_96_rightangle
+    original_filename: KicadFootprints.pretty/Molex_KK-396_41792-0005_1x05_P3.96_RightAngle.kicad_mod
+    owner_name: farizno
   oomp_key: oomp_farizno_kicadfootprints_molex_kk_396_41792_0005_1x05_p3_96_rightangle
+  oomp_key_full: oomp_footprint_farizno_kicadfootprints_molex_kk_396_41792_0005_1x05_p3_96_rightangle
   oomp_key_simple: farizno_kicadfootprints_molex_kk_396_41792_0005_1x05_p3_96_rightangle
   owner: farizno
   repo:

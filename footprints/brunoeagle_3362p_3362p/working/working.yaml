@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_3362p_3362p/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_3362p_3362p/working
-    oomp_doc: footprints/footprints/brunoeagle/3362P.kicad_mod/3362P/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/3362P.kicad_mod/3362P/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_3362p_3362p/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_3362p_3362p/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/3362P.kicad_mod/3362P/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/3362P.kicad_mod/3362P/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: 3362p
+    library_name: 3362p_kicad_mod
+    md5: e162ee6f0b22805070172c4e933dc409
+    md5_10: e162ee6f0b
+    md5_5: e162e
+    md5_6: e162ee
+    oomp_key: oomp_brunoeagle_3362p_3362p
+    oomp_key_extra: oomp_footprint_brunoeagle_3362p_3362p
+    oomp_key_full: oomp_footprint_brunoeagle_3362p_3362p_e162ee
+    oomp_key_simple: brunoeagle_3362p_3362p
+    original_filename: kicad-open-modules/3362P.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_3362p_3362p
+  oomp_key_full: oomp_footprint_brunoeagle_3362p_3362p
   oomp_key_simple: brunoeagle_3362p_3362p
   owner: brunoeagle
   repo:

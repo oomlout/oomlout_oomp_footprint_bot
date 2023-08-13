@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pelrun_w_pth_circuits_dil_40_600/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pelrun_w_pth_circuits_dil_40_600/working
-    oomp_doc: footprints/footprints/pelrun/w_pth_circuits/dil_40-600/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/pelrun/w_pth_circuits/dil_40-600/working
     oomp_src_flat: footprints_flat/footprints_flat/pelrun_w_pth_circuits_dil_40_600/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pelrun_w_pth_circuits_dil_40_600/working
-    oomp_src_folder: footprints_folder/footprints_folder/pelrun/w_pth_circuits/dil_40-600/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/pelrun/w_pth_circuits/dil_40-600/working
   name: libKiCad
+  oomp:
+    footprint_name: dil_40_600
+    library_name: w_pth_circuits
+    md5: b13e1e75e1b5bffe17224d71f355de22
+    md5_10: b13e1e75e1
+    md5_5: b13e1
+    md5_6: b13e1e
+    oomp_key: oomp_pelrun_w_pth_circuits_dil_40_600
+    oomp_key_extra: oomp_footprint_pelrun_w_pth_circuits_dil_40_600
+    oomp_key_full: oomp_footprint_pelrun_w_pth_circuits_dil_40_600_b13e1e
+    oomp_key_simple: pelrun_w_pth_circuits_dil_40_600
+    original_filename: libKiCad/footprint/w_pth_circuits.pretty/dil_40-600.kicad_mod
+    owner_name: pelrun
   oomp_key: oomp_pelrun_w_pth_circuits_dil_40_600
+  oomp_key_full: oomp_footprint_pelrun_w_pth_circuits_dil_40_600
   oomp_key_simple: pelrun_w_pth_circuits_dil_40_600
   owner: pelrun
   repo:

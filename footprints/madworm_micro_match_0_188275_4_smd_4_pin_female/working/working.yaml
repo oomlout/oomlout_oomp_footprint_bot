@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/madworm/micro-MaTch.pretty
     oomp_bot: footprints/madworm_micro_match_0_188275_4_smd_4_pin_female/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/madworm_micro_match_0_188275_4_smd_4_pin_female/working
-    oomp_doc: footprints/footprints/madworm/micro-MaTch/0-188275-4_SMD_4-pin_female/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/madworm/micro-MaTch/0-188275-4_SMD_4-pin_female/working
     oomp_src_flat: footprints_flat/footprints_flat/madworm_micro_match_0_188275_4_smd_4_pin_female/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/madworm_micro_match_0_188275_4_smd_4_pin_female/working
-    oomp_src_folder: footprints_folder/footprints_folder/madworm/micro-MaTch/0-188275-4_SMD_4-pin_female/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/madworm/micro-MaTch/0-188275-4_SMD_4-pin_female/working
   name: micro-MaTch.pretty
+  oomp:
+    footprint_name: 0_188275_4_smd_4_pin_female
+    library_name: micro_match
+    md5: 5365907dc1c2ffeb9d7ffc7274c7e428
+    md5_10: 5365907dc1
+    md5_5: '53659'
+    md5_6: '536590'
+    oomp_key: oomp_madworm_micro_match_0_188275_4_smd_4_pin_female
+    oomp_key_extra: oomp_footprint_madworm_micro_match_0_188275_4_smd_4_pin_female
+    oomp_key_full: oomp_footprint_madworm_micro_match_0_188275_4_smd_4_pin_female_536590
+    oomp_key_simple: madworm_micro_match_0_188275_4_smd_4_pin_female
+    original_filename: micro-MaTch.pretty/0-188275-4_SMD_4-pin_female.kicad_mod
+    owner_name: madworm
   oomp_key: oomp_madworm_micro_match_0_188275_4_smd_4_pin_female
+  oomp_key_full: oomp_footprint_madworm_micro_match_0_188275_4_smd_4_pin_female
   oomp_key_simple: madworm_micro_match_0_188275_4_smd_4_pin_female
   owner: madworm
   repo:

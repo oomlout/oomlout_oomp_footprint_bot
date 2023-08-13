@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cpavlina_smd_semi_dfn50p300x200x90_9/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cpavlina_smd_semi_dfn50p300x200x90_9/working
-    oomp_doc: footprints/footprints/cpavlina/smd-semi/DFN50P300X200X90-9/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cpavlina/smd-semi/DFN50P300X200X90-9/working
     oomp_src_flat: footprints_flat/footprints_flat/cpavlina_smd_semi_dfn50p300x200x90_9/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cpavlina_smd_semi_dfn50p300x200x90_9/working
-    oomp_src_folder: footprints_folder/footprints_folder/cpavlina/smd-semi/DFN50P300X200X90-9/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cpavlina/smd-semi/DFN50P300X200X90-9/working
   name: kicad-pcblib
+  oomp:
+    footprint_name: dfn50p300x200x90_9
+    library_name: smd_semi
+    md5: 1ec60f9b55fbe7dc44ab41600203b319
+    md5_10: 1ec60f9b55
+    md5_5: 1ec60
+    md5_6: 1ec60f
+    oomp_key: oomp_cpavlina_smd_semi_dfn50p300x200x90_9
+    oomp_key_extra: oomp_footprint_cpavlina_smd_semi_dfn50p300x200x90_9
+    oomp_key_full: oomp_footprint_cpavlina_smd_semi_dfn50p300x200x90_9_1ec60f
+    oomp_key_simple: cpavlina_smd_semi_dfn50p300x200x90_9
+    original_filename: kicad-pcblib/smd-semi.pretty/DFN50P300X200X90-9.kicad_mod
+    owner_name: cpavlina
   oomp_key: oomp_cpavlina_smd_semi_dfn50p300x200x90_9
+  oomp_key_full: oomp_footprint_cpavlina_smd_semi_dfn50p300x200x90_9
   oomp_key_simple: cpavlina_smd_semi_dfn50p300x200x90_9
   owner: cpavlina
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cpavlina_ipc7351_least_capmp7370x440/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cpavlina_ipc7351_least_capmp7370x440/working
-    oomp_doc: footprints/footprints/cpavlina/IPC7351-Least/CAPMP7370X440/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cpavlina/IPC7351-Least/CAPMP7370X440/working
     oomp_src_flat: footprints_flat/footprints_flat/cpavlina_ipc7351_least_capmp7370x440/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cpavlina_ipc7351_least_capmp7370x440/working
-    oomp_src_folder: footprints_folder/footprints_folder/cpavlina/IPC7351-Least/CAPMP7370X440/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cpavlina/IPC7351-Least/CAPMP7370X440/working
   name: kicad-pcblib
+  oomp:
+    footprint_name: capmp7370x440
+    library_name: ipc7351_least
+    md5: f9640a0c7b9108d5eb5dbff62aadbc59
+    md5_10: f9640a0c7b
+    md5_5: f9640
+    md5_6: f9640a
+    oomp_key: oomp_cpavlina_ipc7351_least_capmp7370x440
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_least_capmp7370x440
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_capmp7370x440_f9640a
+    oomp_key_simple: cpavlina_ipc7351_least_capmp7370x440
+    original_filename: kicad-pcblib/IPC7351-Least.pretty/CAPMP7370X440.kicad_mod
+    owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_least_capmp7370x440
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_capmp7370x440
   oomp_key_simple: cpavlina_ipc7351_least_capmp7370x440
   owner: cpavlina
   repo:

@@ -14,14 +14,24 @@
     github_src_repo: https://github.com/Iangitpers/4a
     oomp_bot: footprints/iangitpers_connector_card_microsd_hc_molex_104031_0811/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/iangitpers_connector_card_microsd_hc_molex_104031_0811/working
-    oomp_doc: footprints/footprints/Iangitpers/Connector_Card/microSD_HC_Molex_104031-0811/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Iangitpers/Connector_Card/microSD_HC_Molex_104031-0811/working
     oomp_src_flat: footprints_flat/footprints_flat/iangitpers_connector_card_microsd_hc_molex_104031_0811/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/iangitpers_connector_card_microsd_hc_molex_104031_0811/working
-    oomp_src_folder: footprints_folder/footprints_folder/Iangitpers/Connector_Card/microSD_HC_Molex_104031-0811/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Iangitpers/Connector_Card/microSD_HC_Molex_104031-0811/working
   name: 4a
+  oomp:
+    footprint_name: microsd_hc_molex_104031_0811
+    library_name: connector_card
+    md5: 37c69a3cb629c763692b25f92a4eaf33
+    md5_10: 37c69a3cb6
+    md5_5: 37c69
+    md5_6: 37c69a
+    oomp_key: oomp_iangitpers_connector_card_microsd_hc_molex_104031_0811
+    oomp_key_extra: oomp_footprint_iangitpers_connector_card_microsd_hc_molex_104031_0811
+    oomp_key_full: oomp_footprint_iangitpers_connector_card_microsd_hc_molex_104031_0811_37c69a
+    oomp_key_simple: iangitpers_connector_card_microsd_hc_molex_104031_0811
+    original_filename: 4a/Connector_Card.pretty/microSD_HC_Molex_104031-0811.kicad_mod
+    owner_name: iangitpers
   oomp_key: oomp_iangitpers_connector_card_microsd_hc_molex_104031_0811
+  oomp_key_full: oomp_footprint_iangitpers_connector_card_microsd_hc_molex_104031_0811
   oomp_key_simple: iangitpers_connector_card_microsd_hc_molex_104031_0811
   owner: Iangitpers
   repo:

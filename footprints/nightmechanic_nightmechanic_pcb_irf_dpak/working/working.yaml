@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/nightmechanic_nightmechanic_pcb_irf_dpak/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nightmechanic_nightmechanic_pcb_irf_dpak/working
-    oomp_doc: footprints/footprints/nightmechanic/nightmechanic_pcb/IRF_DPAK/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/nightmechanic/nightmechanic_pcb/IRF_DPAK/working
     oomp_src_flat: footprints_flat/footprints_flat/nightmechanic_nightmechanic_pcb_irf_dpak/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nightmechanic_nightmechanic_pcb_irf_dpak/working
-    oomp_src_folder: footprints_folder/footprints_folder/nightmechanic/nightmechanic_pcb/IRF_DPAK/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/nightmechanic/nightmechanic_pcb/IRF_DPAK/working
   name: nightmechanic_pcb.pretty
+  oomp:
+    footprint_name: irf_dpak
+    library_name: nightmechanic_pcb
+    md5: 8eab0fea895167a33cab520d7ae1ce0e
+    md5_10: 8eab0fea89
+    md5_5: 8eab0
+    md5_6: 8eab0f
+    oomp_key: oomp_nightmechanic_nightmechanic_pcb_irf_dpak
+    oomp_key_extra: oomp_footprint_nightmechanic_nightmechanic_pcb_irf_dpak
+    oomp_key_full: oomp_footprint_nightmechanic_nightmechanic_pcb_irf_dpak_8eab0f
+    oomp_key_simple: nightmechanic_nightmechanic_pcb_irf_dpak
+    original_filename: nightmechanic_pcb.pretty/IRF_DPAK.kicad_mod
+    owner_name: nightmechanic
   oomp_key: oomp_nightmechanic_nightmechanic_pcb_irf_dpak
+  oomp_key_full: oomp_footprint_nightmechanic_nightmechanic_pcb_irf_dpak
   oomp_key_simple: nightmechanic_nightmechanic_pcb_irf_dpak
   owner: nightmechanic
   repo:

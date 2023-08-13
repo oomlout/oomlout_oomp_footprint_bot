@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/av_p_avp_texas_s_pvqfn_n40_ep3_52x2_62mm_thermalvias/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/av_p_avp_texas_s_pvqfn_n40_ep3_52x2_62mm_thermalvias/working
-    oomp_doc: footprints/footprints/av-p/Avp/Texas_S-PVQFN-N40_EP3.52x2.62mm_ThermalVias/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/av-p/Avp/Texas_S-PVQFN-N40_EP3.52x2.62mm_ThermalVias/working
     oomp_src_flat: footprints_flat/footprints_flat/av_p_avp_texas_s_pvqfn_n40_ep3_52x2_62mm_thermalvias/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/av_p_avp_texas_s_pvqfn_n40_ep3_52x2_62mm_thermalvias/working
-    oomp_src_folder: footprints_folder/footprints_folder/av-p/Avp/Texas_S-PVQFN-N40_EP3.52x2.62mm_ThermalVias/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/av-p/Avp/Texas_S-PVQFN-N40_EP3.52x2.62mm_ThermalVias/working
   name: Avp.pretty
+  oomp:
+    footprint_name: texas_s_pvqfn_n40_ep3_52x2_62mm_thermalvias
+    library_name: avp
+    md5: a2bfe2a3a4f570c9b43759234af64029
+    md5_10: a2bfe2a3a4
+    md5_5: a2bfe
+    md5_6: a2bfe2
+    oomp_key: oomp_av_p_avp_texas_s_pvqfn_n40_ep3_52x2_62mm_thermalvias
+    oomp_key_extra: oomp_footprint_av_p_avp_texas_s_pvqfn_n40_ep3_52x2_62mm_thermalvias
+    oomp_key_full: oomp_footprint_av_p_avp_texas_s_pvqfn_n40_ep3_52x2_62mm_thermalvias_a2bfe2
+    oomp_key_simple: av_p_avp_texas_s_pvqfn_n40_ep3_52x2_62mm_thermalvias
+    original_filename: Avp.pretty/Texas_S-PVQFN-N40_EP3.52x2.62mm_ThermalVias.kicad_mod
+    owner_name: av_p
   oomp_key: oomp_av_p_avp_texas_s_pvqfn_n40_ep3_52x2_62mm_thermalvias
+  oomp_key_full: oomp_footprint_av_p_avp_texas_s_pvqfn_n40_ep3_52x2_62mm_thermalvias
   oomp_key_simple: av_p_avp_texas_s_pvqfn_n40_ep3_52x2_62mm_thermalvias
   owner: av-p
   repo:

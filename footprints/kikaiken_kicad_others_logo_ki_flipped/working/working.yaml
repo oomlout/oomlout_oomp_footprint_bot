@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/kikaiken/kicad_others.pretty
     oomp_bot: footprints/kikaiken_kicad_others_logo_ki_flipped/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kikaiken_kicad_others_logo_ki_flipped/working
-    oomp_doc: footprints/footprints/kikaiken/kicad_others/LOGO_KI_flipped/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kikaiken/kicad_others/LOGO_KI_flipped/working
     oomp_src_flat: footprints_flat/footprints_flat/kikaiken_kicad_others_logo_ki_flipped/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kikaiken_kicad_others_logo_ki_flipped/working
-    oomp_src_folder: footprints_folder/footprints_folder/kikaiken/kicad_others/LOGO_KI_flipped/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kikaiken/kicad_others/LOGO_KI_flipped/working
   name: kicad_others.pretty
+  oomp:
+    footprint_name: logo_ki_flipped
+    library_name: kicad_others
+    md5: 4cef65196e8a574be89b6cf3c39039a5
+    md5_10: 4cef65196e
+    md5_5: 4cef6
+    md5_6: 4cef65
+    oomp_key: oomp_kikaiken_kicad_others_logo_ki_flipped
+    oomp_key_extra: oomp_footprint_kikaiken_kicad_others_logo_ki_flipped
+    oomp_key_full: oomp_footprint_kikaiken_kicad_others_logo_ki_flipped_4cef65
+    oomp_key_simple: kikaiken_kicad_others_logo_ki_flipped
+    original_filename: kicad_others.pretty/LOGO_KI_flipped.kicad_mod
+    owner_name: kikaiken
   oomp_key: oomp_kikaiken_kicad_others_logo_ki_flipped
+  oomp_key_full: oomp_footprint_kikaiken_kicad_others_logo_ki_flipped
   oomp_key_simple: kikaiken_kicad_others_logo_ki_flipped
   owner: kikaiken
   repo:

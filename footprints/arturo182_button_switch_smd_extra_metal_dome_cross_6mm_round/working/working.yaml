@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/arturo182/kicad-modules
     oomp_bot: footprints/arturo182_button_switch_smd_extra_metal_dome_cross_6mm_round/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/arturo182_button_switch_smd_extra_metal_dome_cross_6mm_round/working
-    oomp_doc: footprints/footprints/arturo182/Button_Switch_SMD_Extra/Metal_Dome_Cross_6mm_Round/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/arturo182/Button_Switch_SMD_Extra/Metal_Dome_Cross_6mm_Round/working
     oomp_src_flat: footprints_flat/footprints_flat/arturo182_button_switch_smd_extra_metal_dome_cross_6mm_round/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/arturo182_button_switch_smd_extra_metal_dome_cross_6mm_round/working
-    oomp_src_folder: footprints_folder/footprints_folder/arturo182/Button_Switch_SMD_Extra/Metal_Dome_Cross_6mm_Round/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/arturo182/Button_Switch_SMD_Extra/Metal_Dome_Cross_6mm_Round/working
   name: kicad-modules
+  oomp:
+    footprint_name: metal_dome_cross_6mm_round
+    library_name: button_switch_smd_extra
+    md5: b98e9a1149748d1aaf2828615f0bcca8
+    md5_10: b98e9a1149
+    md5_5: b98e9
+    md5_6: b98e9a
+    oomp_key: oomp_arturo182_button_switch_smd_extra_metal_dome_cross_6mm_round
+    oomp_key_extra: oomp_footprint_arturo182_button_switch_smd_extra_metal_dome_cross_6mm_round
+    oomp_key_full: oomp_footprint_arturo182_button_switch_smd_extra_metal_dome_cross_6mm_round_b98e9a
+    oomp_key_simple: arturo182_button_switch_smd_extra_metal_dome_cross_6mm_round
+    original_filename: kicad-modules/Button_Switch_SMD_Extra.pretty/Metal_Dome_Cross_6mm_Round.kicad_mod
+    owner_name: arturo182
   oomp_key: oomp_arturo182_button_switch_smd_extra_metal_dome_cross_6mm_round
+  oomp_key_full: oomp_footprint_arturo182_button_switch_smd_extra_metal_dome_cross_6mm_round
   oomp_key_simple: arturo182_button_switch_smd_extra_metal_dome_cross_6mm_round
   owner: arturo182
   repo:

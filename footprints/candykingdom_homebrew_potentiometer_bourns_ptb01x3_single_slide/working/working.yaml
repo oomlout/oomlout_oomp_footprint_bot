@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/candykingdom_homebrew_potentiometer_bourns_ptb01x3_single_slide/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/candykingdom_homebrew_potentiometer_bourns_ptb01x3_single_slide/working
-    oomp_doc: footprints/footprints/candykingdom/homebrew/Potentiometer_Bourns_PTB01X3_Single_Slide/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/candykingdom/homebrew/Potentiometer_Bourns_PTB01X3_Single_Slide/working
     oomp_src_flat: footprints_flat/footprints_flat/candykingdom_homebrew_potentiometer_bourns_ptb01x3_single_slide/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/candykingdom_homebrew_potentiometer_bourns_ptb01x3_single_slide/working
-    oomp_src_folder: footprints_folder/footprints_folder/candykingdom/homebrew/Potentiometer_Bourns_PTB01X3_Single_Slide/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/candykingdom/homebrew/Potentiometer_Bourns_PTB01X3_Single_Slide/working
   name: homebrew.pretty
+  oomp:
+    footprint_name: potentiometer_bourns_ptb01x3_single_slide
+    library_name: homebrew
+    md5: d9c96733a43b0325a55c5c57010abd61
+    md5_10: d9c96733a4
+    md5_5: d9c96
+    md5_6: d9c967
+    oomp_key: oomp_candykingdom_homebrew_potentiometer_bourns_ptb01x3_single_slide
+    oomp_key_extra: oomp_footprint_candykingdom_homebrew_potentiometer_bourns_ptb01x3_single_slide
+    oomp_key_full: oomp_footprint_candykingdom_homebrew_potentiometer_bourns_ptb01x3_single_slide_d9c967
+    oomp_key_simple: candykingdom_homebrew_potentiometer_bourns_ptb01x3_single_slide
+    original_filename: homebrew.pretty/Potentiometer_Bourns_PTB01X3_Single_Slide.kicad_mod
+    owner_name: candykingdom
   oomp_key: oomp_candykingdom_homebrew_potentiometer_bourns_ptb01x3_single_slide
+  oomp_key_full: oomp_footprint_candykingdom_homebrew_potentiometer_bourns_ptb01x3_single_slide
   oomp_key_simple: candykingdom_homebrew_potentiometer_bourns_ptb01x3_single_slide
   owner: candykingdom
   repo:

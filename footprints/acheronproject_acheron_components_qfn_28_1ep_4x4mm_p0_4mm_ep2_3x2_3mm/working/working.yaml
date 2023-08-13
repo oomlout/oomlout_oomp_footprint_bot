@@ -14,14 +14,24 @@
     github_src_repo: https://github.com/AcheronProject/acheron_Components.pretty
     oomp_bot: footprints/acheronproject_acheron_components_qfn_28_1ep_4x4mm_p0_4mm_ep2_3x2_3mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/acheronproject_acheron_components_qfn_28_1ep_4x4mm_p0_4mm_ep2_3x2_3mm/working
-    oomp_doc: footprints/footprints/AcheronProject/acheron_Components/QFN-28-1EP_4x4mm_P0.4mm_EP2.3x2.3mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/AcheronProject/acheron_Components/QFN-28-1EP_4x4mm_P0.4mm_EP2.3x2.3mm/working
     oomp_src_flat: footprints_flat/footprints_flat/acheronproject_acheron_components_qfn_28_1ep_4x4mm_p0_4mm_ep2_3x2_3mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/acheronproject_acheron_components_qfn_28_1ep_4x4mm_p0_4mm_ep2_3x2_3mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/AcheronProject/acheron_Components/QFN-28-1EP_4x4mm_P0.4mm_EP2.3x2.3mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/AcheronProject/acheron_Components/QFN-28-1EP_4x4mm_P0.4mm_EP2.3x2.3mm/working
   name: acheron_Components.pretty
+  oomp:
+    footprint_name: qfn_28_1ep_4x4mm_p0_4mm_ep2_3x2_3mm
+    library_name: acheron_components
+    md5: ffbe7a06ba93af3175b19a76261567fa
+    md5_10: ffbe7a06ba
+    md5_5: ffbe7
+    md5_6: ffbe7a
+    oomp_key: oomp_acheronproject_acheron_components_qfn_28_1ep_4x4mm_p0_4mm_ep2_3x2_3mm
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_components_qfn_28_1ep_4x4mm_p0_4mm_ep2_3x2_3mm
+    oomp_key_full: oomp_footprint_acheronproject_acheron_components_qfn_28_1ep_4x4mm_p0_4mm_ep2_3x2_3mm_ffbe7a
+    oomp_key_simple: acheronproject_acheron_components_qfn_28_1ep_4x4mm_p0_4mm_ep2_3x2_3mm
+    original_filename: acheron_Components.pretty/QFN-28-1EP_4x4mm_P0.4mm_EP2.3x2.3mm.kicad_mod
+    owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_components_qfn_28_1ep_4x4mm_p0_4mm_ep2_3x2_3mm
+  oomp_key_full: oomp_footprint_acheronproject_acheron_components_qfn_28_1ep_4x4mm_p0_4mm_ep2_3x2_3mm
   oomp_key_simple: acheronproject_acheron_components_qfn_28_1ep_4x4mm_p0_4mm_ep2_3x2_3mm
   owner: AcheronProject
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/shozaburo_shimada_kicadfootprint_vl53l0cx/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/shozaburo_shimada_kicadfootprint_vl53l0cx/working
-    oomp_doc: footprints/footprints/shozaburo-shimada/KiCADfootprint/VL53L0CX/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/shozaburo-shimada/KiCADfootprint/VL53L0CX/working
     oomp_src_flat: footprints_flat/footprints_flat/shozaburo_shimada_kicadfootprint_vl53l0cx/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/shozaburo_shimada_kicadfootprint_vl53l0cx/working
-    oomp_src_folder: footprints_folder/footprints_folder/shozaburo-shimada/KiCADfootprint/VL53L0CX/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/shozaburo-shimada/KiCADfootprint/VL53L0CX/working
   name: KiCADfootprint.pretty
+  oomp:
+    footprint_name: vl53l0cx
+    library_name: kicadfootprint
+    md5: 8d577264a0d54d45a8eae0a604342cfb
+    md5_10: 8d577264a0
+    md5_5: 8d577
+    md5_6: 8d5772
+    oomp_key: oomp_shozaburo_shimada_kicadfootprint_vl53l0cx
+    oomp_key_extra: oomp_footprint_shozaburo_shimada_kicadfootprint_vl53l0cx
+    oomp_key_full: oomp_footprint_shozaburo_shimada_kicadfootprint_vl53l0cx_8d5772
+    oomp_key_simple: shozaburo_shimada_kicadfootprint_vl53l0cx
+    original_filename: KiCADfootprint.pretty/VL53L0CX.kicad_mod
+    owner_name: shozaburo_shimada
   oomp_key: oomp_shozaburo_shimada_kicadfootprint_vl53l0cx
+  oomp_key_full: oomp_footprint_shozaburo_shimada_kicadfootprint_vl53l0cx
   oomp_key_simple: shozaburo_shimada_kicadfootprint_vl53l0cx
   owner: shozaburo-shimada
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/asofttech_w_switch_pcb_push_xiejia_pb_11d01/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/asofttech_w_switch_pcb_push_xiejia_pb_11d01/working
-    oomp_doc: footprints/footprints/ASoftTech/w_switch/pcb_push_xiejia_pb-11d01/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ASoftTech/w_switch/pcb_push_xiejia_pb-11d01/working
     oomp_src_flat: footprints_flat/footprints_flat/asofttech_w_switch_pcb_push_xiejia_pb_11d01/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/asofttech_w_switch_pcb_push_xiejia_pb_11d01/working
-    oomp_src_folder: footprints_folder/footprints_folder/ASoftTech/w_switch/pcb_push_xiejia_pb-11d01/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ASoftTech/w_switch/pcb_push_xiejia_pb-11d01/working
   name: CAD.KiCad.Libs
+  oomp:
+    footprint_name: pcb_push_xiejia_pb_11d01
+    library_name: w_switch
+    md5: 8a8d6fe2c7a7bdc4abd9f999290fbc1e
+    md5_10: 8a8d6fe2c7
+    md5_5: 8a8d6
+    md5_6: 8a8d6f
+    oomp_key: oomp_asofttech_w_switch_pcb_push_xiejia_pb_11d01
+    oomp_key_extra: oomp_footprint_asofttech_w_switch_pcb_push_xiejia_pb_11d01
+    oomp_key_full: oomp_footprint_asofttech_w_switch_pcb_push_xiejia_pb_11d01_8a8d6f
+    oomp_key_simple: asofttech_w_switch_pcb_push_xiejia_pb_11d01
+    original_filename: CAD.KiCad.Libs/modules/w_switch.pretty/pcb_push_xiejia_pb-11d01.kicad_mod
+    owner_name: asofttech
   oomp_key: oomp_asofttech_w_switch_pcb_push_xiejia_pb_11d01
+  oomp_key_full: oomp_footprint_asofttech_w_switch_pcb_push_xiejia_pb_11d01
   oomp_key_simple: asofttech_w_switch_pcb_push_xiejia_pb_11d01
   owner: ASoftTech
   repo:

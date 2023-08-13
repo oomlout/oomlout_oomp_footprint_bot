@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/natsfr_pulse_ph9455_x56nl/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/natsfr_pulse_ph9455_x56nl/working
-    oomp_doc: footprints/footprints/natsfr/Pulse/PH9455.X56NL/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/natsfr/Pulse/PH9455.X56NL/working
     oomp_src_flat: footprints_flat/footprints_flat/natsfr_pulse_ph9455_x56nl/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/natsfr_pulse_ph9455_x56nl/working
-    oomp_src_folder: footprints_folder/footprints_folder/natsfr/Pulse/PH9455.X56NL/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/natsfr/Pulse/PH9455.X56NL/working
   name: kicad-components
+  oomp:
+    footprint_name: ph9455_x56nl
+    library_name: pulse
+    md5: 8d08779ea900c7f0597374f432fdaac6
+    md5_10: 8d08779ea9
+    md5_5: 8d087
+    md5_6: 8d0877
+    oomp_key: oomp_natsfr_pulse_ph9455_x56nl
+    oomp_key_extra: oomp_footprint_natsfr_pulse_ph9455_x56nl
+    oomp_key_full: oomp_footprint_natsfr_pulse_ph9455_x56nl_8d0877
+    oomp_key_simple: natsfr_pulse_ph9455_x56nl
+    original_filename: kicad-components/Pretty_Footprints/Pulse.pretty/PH9455.X56NL.kicad_mod
+    owner_name: natsfr
   oomp_key: oomp_natsfr_pulse_ph9455_x56nl
+  oomp_key_full: oomp_footprint_natsfr_pulse_ph9455_x56nl
   oomp_key_simple: natsfr_pulse_ph9455_x56nl
   owner: natsfr
   repo:

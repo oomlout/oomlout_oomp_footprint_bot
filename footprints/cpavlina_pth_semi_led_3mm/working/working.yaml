@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cpavlina_pth_semi_led_3mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cpavlina_pth_semi_led_3mm/working
-    oomp_doc: footprints/footprints/cpavlina/pth-semi/LED-3mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cpavlina/pth-semi/LED-3mm/working
     oomp_src_flat: footprints_flat/footprints_flat/cpavlina_pth_semi_led_3mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cpavlina_pth_semi_led_3mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/cpavlina/pth-semi/LED-3mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cpavlina/pth-semi/LED-3mm/working
   name: kicad-pcblib
+  oomp:
+    footprint_name: led_3mm
+    library_name: pth_semi
+    md5: 79c9beff579a08202f1ca9a1d78d9d98
+    md5_10: 79c9beff57
+    md5_5: 79c9b
+    md5_6: 79c9be
+    oomp_key: oomp_cpavlina_pth_semi_led_3mm
+    oomp_key_extra: oomp_footprint_cpavlina_pth_semi_led_3mm
+    oomp_key_full: oomp_footprint_cpavlina_pth_semi_led_3mm_79c9be
+    oomp_key_simple: cpavlina_pth_semi_led_3mm
+    original_filename: kicad-pcblib/pth-semi.pretty/LED-3mm.kicad_mod
+    owner_name: cpavlina
   oomp_key: oomp_cpavlina_pth_semi_led_3mm
+  oomp_key_full: oomp_footprint_cpavlina_pth_semi_led_3mm
   oomp_key_simple: cpavlina_pth_semi_led_3mm
   owner: cpavlina
   repo:

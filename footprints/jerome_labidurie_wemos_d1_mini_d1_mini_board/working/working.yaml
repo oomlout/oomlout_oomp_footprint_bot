@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/jerome_labidurie_wemos_d1_mini_d1_mini_board/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/jerome_labidurie_wemos_d1_mini_d1_mini_board/working
-    oomp_doc: footprints/footprints/jerome-labidurie/wemos_d1_mini/D1_mini_board/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/jerome-labidurie/wemos_d1_mini/D1_mini_board/working
     oomp_src_flat: footprints_flat/footprints_flat/jerome_labidurie_wemos_d1_mini_d1_mini_board/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/jerome_labidurie_wemos_d1_mini_d1_mini_board/working
-    oomp_src_folder: footprints_folder/footprints_folder/jerome-labidurie/wemos_d1_mini/D1_mini_board/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/jerome-labidurie/wemos_d1_mini/D1_mini_board/working
   name: d1_mini_kicad
+  oomp:
+    footprint_name: d1_mini_board
+    library_name: wemos_d1_mini
+    md5: fa47ac3ed3032434438096630cc9a36f
+    md5_10: fa47ac3ed3
+    md5_5: fa47a
+    md5_6: fa47ac
+    oomp_key: oomp_jerome_labidurie_wemos_d1_mini_d1_mini_board
+    oomp_key_extra: oomp_footprint_jerome_labidurie_wemos_d1_mini_d1_mini_board
+    oomp_key_full: oomp_footprint_jerome_labidurie_wemos_d1_mini_d1_mini_board_fa47ac
+    oomp_key_simple: jerome_labidurie_wemos_d1_mini_d1_mini_board
+    original_filename: d1_mini_kicad/library/wemos_d1_mini.pretty/D1_mini_board.kicad_mod
+    owner_name: jerome_labidurie
   oomp_key: oomp_jerome_labidurie_wemos_d1_mini_d1_mini_board
+  oomp_key_full: oomp_footprint_jerome_labidurie_wemos_d1_mini_d1_mini_board
   oomp_key_simple: jerome_labidurie_wemos_d1_mini_d1_mini_board
   owner: jerome-labidurie
   repo:

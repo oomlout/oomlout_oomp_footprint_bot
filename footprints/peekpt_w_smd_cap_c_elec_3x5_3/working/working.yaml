@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/peekpt_w_smd_cap_c_elec_3x5_3/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/peekpt_w_smd_cap_c_elec_3x5_3/working
-    oomp_doc: footprints/footprints/peekpt/w_smd_cap/c_elec_3x5.3/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/peekpt/w_smd_cap/c_elec_3x5.3/working
     oomp_src_flat: footprints_flat/footprints_flat/peekpt_w_smd_cap_c_elec_3x5_3/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/peekpt_w_smd_cap_c_elec_3x5_3/working
-    oomp_src_folder: footprints_folder/footprints_folder/peekpt/w_smd_cap/c_elec_3x5.3/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/peekpt/w_smd_cap/c_elec_3x5.3/working
   name: kicad_smisioto
+  oomp:
+    footprint_name: c_elec_3x5_3
+    library_name: w_smd_cap
+    md5: 63cc8f9643066ca5fe352bc765452132
+    md5_10: 63cc8f9643
+    md5_5: 63cc8
+    md5_6: 63cc8f
+    oomp_key: oomp_peekpt_w_smd_cap_c_elec_3x5_3
+    oomp_key_extra: oomp_footprint_peekpt_w_smd_cap_c_elec_3x5_3
+    oomp_key_full: oomp_footprint_peekpt_w_smd_cap_c_elec_3x5_3_63cc8f
+    oomp_key_simple: peekpt_w_smd_cap_c_elec_3x5_3
+    original_filename: kicad_smisioto/modules/walter/w_smd_cap.pretty/c_elec_3x5.3.kicad_mod
+    owner_name: peekpt
   oomp_key: oomp_peekpt_w_smd_cap_c_elec_3x5_3
+  oomp_key_full: oomp_footprint_peekpt_w_smd_cap_c_elec_3x5_3
   oomp_key_simple: peekpt_w_smd_cap_c_elec_3x5_3
   owner: peekpt
   repo:

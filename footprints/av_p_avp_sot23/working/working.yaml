@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/av_p_avp_sot23/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/av_p_avp_sot23/working
-    oomp_doc: footprints/footprints/av-p/Avp/SOT23/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/av-p/Avp/SOT23/working
     oomp_src_flat: footprints_flat/footprints_flat/av_p_avp_sot23/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/av_p_avp_sot23/working
-    oomp_src_folder: footprints_folder/footprints_folder/av-p/Avp/SOT23/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/av-p/Avp/SOT23/working
   name: Avp.pretty
+  oomp:
+    footprint_name: sot23
+    library_name: avp
+    md5: db3018739e450769af6531dc22837f93
+    md5_10: db3018739e
+    md5_5: db301
+    md5_6: db3018
+    oomp_key: oomp_av_p_avp_sot23
+    oomp_key_extra: oomp_footprint_av_p_avp_sot23
+    oomp_key_full: oomp_footprint_av_p_avp_sot23_db3018
+    oomp_key_simple: av_p_avp_sot23
+    original_filename: Avp.pretty/SOT23.kicad_mod
+    owner_name: av_p
   oomp_key: oomp_av_p_avp_sot23
+  oomp_key_full: oomp_footprint_av_p_avp_sot23
   oomp_key_simple: av_p_avp_sot23
   owner: av-p
   repo:

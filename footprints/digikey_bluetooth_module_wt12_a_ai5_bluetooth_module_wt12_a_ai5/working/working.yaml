@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/digikey_bluetooth_module_wt12_a_ai5_bluetooth_module_wt12_a_ai5/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_bluetooth_module_wt12_a_ai5_bluetooth_module_wt12_a_ai5/working
-    oomp_doc: footprints/footprints/digikey/Bluetooth_Module_WT12-A-AI5.kicad_mod/Bluetooth_Module_WT12-A-AI5/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/digikey/Bluetooth_Module_WT12-A-AI5.kicad_mod/Bluetooth_Module_WT12-A-AI5/working
     oomp_src_flat: footprints_flat/footprints_flat/digikey_bluetooth_module_wt12_a_ai5_bluetooth_module_wt12_a_ai5/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/digikey_bluetooth_module_wt12_a_ai5_bluetooth_module_wt12_a_ai5/working
-    oomp_src_folder: footprints_folder/footprints_folder/digikey/Bluetooth_Module_WT12-A-AI5.kicad_mod/Bluetooth_Module_WT12-A-AI5/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/digikey/Bluetooth_Module_WT12-A-AI5.kicad_mod/Bluetooth_Module_WT12-A-AI5/working
   name: digikey-kicad-library
+  oomp:
+    footprint_name: bluetooth_module_wt12_a_ai5
+    library_name: bluetooth_module_wt12_a_ai5_kicad_mod
+    md5: 6cc1c62098878463f8b8bee671dcde74
+    md5_10: 6cc1c62098
+    md5_5: 6cc1c
+    md5_6: 6cc1c6
+    oomp_key: oomp_digikey_bluetooth_module_wt12_a_ai5_bluetooth_module_wt12_a_ai5
+    oomp_key_extra: oomp_footprint_digikey_bluetooth_module_wt12_a_ai5_bluetooth_module_wt12_a_ai5
+    oomp_key_full: oomp_footprint_digikey_bluetooth_module_wt12_a_ai5_bluetooth_module_wt12_a_ai5_6cc1c6
+    oomp_key_simple: digikey_bluetooth_module_wt12_a_ai5_bluetooth_module_wt12_a_ai5
+    original_filename: digikey-kicad-library/src/Source_Footprints/Bluetooth_Module_WT12-A-AI5.kicad_mod
+    owner_name: digikey
   oomp_key: oomp_digikey_bluetooth_module_wt12_a_ai5_bluetooth_module_wt12_a_ai5
+  oomp_key_full: oomp_footprint_digikey_bluetooth_module_wt12_a_ai5_bluetooth_module_wt12_a_ai5
   oomp_key_simple: digikey_bluetooth_module_wt12_a_ai5_bluetooth_module_wt12_a_ai5
   owner: digikey
   repo:

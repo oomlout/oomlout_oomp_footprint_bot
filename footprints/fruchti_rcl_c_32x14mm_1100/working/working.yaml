@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/fruchti_rcl_c_32x14mm_1100/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/fruchti_rcl_c_32x14mm_1100/working
-    oomp_doc: footprints/footprints/fruchti/rcl/C_32x14mm_1100/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/fruchti/rcl/C_32x14mm_1100/working
     oomp_src_flat: footprints_flat/footprints_flat/fruchti_rcl_c_32x14mm_1100/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/fruchti_rcl_c_32x14mm_1100/working
-    oomp_src_folder: footprints_folder/footprints_folder/fruchti/rcl/C_32x14mm_1100/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/fruchti/rcl/C_32x14mm_1100/working
   name: fruchtilib
+  oomp:
+    footprint_name: c_32x14mm_1100
+    library_name: rcl
+    md5: 170334c383a7df1194ad557fe0edae9a
+    md5_10: 170334c383
+    md5_5: '17033'
+    md5_6: '170334'
+    oomp_key: oomp_fruchti_rcl_c_32x14mm_1100
+    oomp_key_extra: oomp_footprint_fruchti_rcl_c_32x14mm_1100
+    oomp_key_full: oomp_footprint_fruchti_rcl_c_32x14mm_1100_170334
+    oomp_key_simple: fruchti_rcl_c_32x14mm_1100
+    original_filename: fruchtilib/mod/rcl.pretty/C_32x14mm_1100.kicad_mod
+    owner_name: fruchti
   oomp_key: oomp_fruchti_rcl_c_32x14mm_1100
+  oomp_key_full: oomp_footprint_fruchti_rcl_c_32x14mm_1100
   oomp_key_simple: fruchti_rcl_c_32x14mm_1100
   owner: fruchti
   repo:

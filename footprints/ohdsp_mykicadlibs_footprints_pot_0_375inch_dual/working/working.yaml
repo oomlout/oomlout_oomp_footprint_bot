@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/ohdsp_mykicadlibs_footprints_pot_0_375inch_dual/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ohdsp_mykicadlibs_footprints_pot_0_375inch_dual/working
-    oomp_doc: footprints/footprints/ohdsp/MyKiCadLibs-Footprints/POT-0.375Inch-DUAL/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ohdsp/MyKiCadLibs-Footprints/POT-0.375Inch-DUAL/working
     oomp_src_flat: footprints_flat/footprints_flat/ohdsp_mykicadlibs_footprints_pot_0_375inch_dual/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ohdsp_mykicadlibs_footprints_pot_0_375inch_dual/working
-    oomp_src_folder: footprints_folder/footprints_folder/ohdsp/MyKiCadLibs-Footprints/POT-0.375Inch-DUAL/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ohdsp/MyKiCadLibs-Footprints/POT-0.375Inch-DUAL/working
   name: KiCad-Libs
+  oomp:
+    footprint_name: pot_0_375inch_dual
+    library_name: mykicadlibs_footprints
+    md5: b9f709d3569d6090b3d1dd9a1ff9467c
+    md5_10: b9f709d356
+    md5_5: b9f70
+    md5_6: b9f709
+    oomp_key: oomp_ohdsp_mykicadlibs_footprints_pot_0_375inch_dual
+    oomp_key_extra: oomp_footprint_ohdsp_mykicadlibs_footprints_pot_0_375inch_dual
+    oomp_key_full: oomp_footprint_ohdsp_mykicadlibs_footprints_pot_0_375inch_dual_b9f709
+    oomp_key_simple: ohdsp_mykicadlibs_footprints_pot_0_375inch_dual
+    original_filename: KiCad-Libs/MyKiCadLibs-Footprints.pretty/POT-0.375Inch-DUAL.kicad_mod
+    owner_name: ohdsp
   oomp_key: oomp_ohdsp_mykicadlibs_footprints_pot_0_375inch_dual
+  oomp_key_full: oomp_footprint_ohdsp_mykicadlibs_footprints_pot_0_375inch_dual
   oomp_key_simple: ohdsp_mykicadlibs_footprints_pot_0_375inch_dual
   owner: ohdsp
   repo:

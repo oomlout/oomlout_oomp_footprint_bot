@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/Kujimoto/fujimoto.pretty
     oomp_bot: footprints/kujimoto_fujimoto_akizuki_dcjack/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kujimoto_fujimoto_akizuki_dcjack/working
-    oomp_doc: footprints/footprints/Kujimoto/fujimoto/Akizuki_DCJACK/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Kujimoto/fujimoto/Akizuki_DCJACK/working
     oomp_src_flat: footprints_flat/footprints_flat/kujimoto_fujimoto_akizuki_dcjack/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kujimoto_fujimoto_akizuki_dcjack/working
-    oomp_src_folder: footprints_folder/footprints_folder/Kujimoto/fujimoto/Akizuki_DCJACK/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Kujimoto/fujimoto/Akizuki_DCJACK/working
   name: fujimoto.pretty
+  oomp:
+    footprint_name: akizuki_dcjack
+    library_name: fujimoto
+    md5: afbfff69e863cb31d22a5bfaddbcfd4f
+    md5_10: afbfff69e8
+    md5_5: afbff
+    md5_6: afbfff
+    oomp_key: oomp_kujimoto_fujimoto_akizuki_dcjack
+    oomp_key_extra: oomp_footprint_kujimoto_fujimoto_akizuki_dcjack
+    oomp_key_full: oomp_footprint_kujimoto_fujimoto_akizuki_dcjack_afbfff
+    oomp_key_simple: kujimoto_fujimoto_akizuki_dcjack
+    original_filename: fujimoto.pretty/Akizuki_DCJACK.kicad_mod
+    owner_name: kujimoto
   oomp_key: oomp_kujimoto_fujimoto_akizuki_dcjack
+  oomp_key_full: oomp_footprint_kujimoto_fujimoto_akizuki_dcjack
   oomp_key_simple: kujimoto_fujimoto_akizuki_dcjack
   owner: Kujimoto
   repo:

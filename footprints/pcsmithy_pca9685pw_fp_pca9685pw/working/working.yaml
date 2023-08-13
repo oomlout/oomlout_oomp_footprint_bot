@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pcsmithy_pca9685pw_fp_pca9685pw/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pcsmithy_pca9685pw_fp_pca9685pw/working
-    oomp_doc: footprints/footprints/PCSmithy/PCA9685PW_FP/PCA9685PW/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/PCSmithy/PCA9685PW_FP/PCA9685PW/working
     oomp_src_flat: footprints_flat/footprints_flat/pcsmithy_pca9685pw_fp_pca9685pw/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pcsmithy_pca9685pw_fp_pca9685pw/working
-    oomp_src_folder: footprints_folder/footprints_folder/PCSmithy/PCA9685PW_FP/PCA9685PW/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/PCSmithy/PCA9685PW_FP/PCA9685PW/working
   name: PCA9685PW_FP.pretty
+  oomp:
+    footprint_name: pca9685pw
+    library_name: pca9685pw_fp
+    md5: 0aa17acf1600525abd602e9ca5db9883
+    md5_10: 0aa17acf16
+    md5_5: 0aa17
+    md5_6: 0aa17a
+    oomp_key: oomp_pcsmithy_pca9685pw_fp_pca9685pw
+    oomp_key_extra: oomp_footprint_pcsmithy_pca9685pw_fp_pca9685pw
+    oomp_key_full: oomp_footprint_pcsmithy_pca9685pw_fp_pca9685pw_0aa17a
+    oomp_key_simple: pcsmithy_pca9685pw_fp_pca9685pw
+    original_filename: PCA9685PW_FP.pretty/PCA9685PW.kicad_mod
+    owner_name: pcsmithy
   oomp_key: oomp_pcsmithy_pca9685pw_fp_pca9685pw
+  oomp_key_full: oomp_footprint_pcsmithy_pca9685pw_fp_pca9685pw
   oomp_key_simple: pcsmithy_pca9685pw_fp_pca9685pw
   owner: PCSmithy
   repo:

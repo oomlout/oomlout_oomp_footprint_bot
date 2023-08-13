@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/fruchti_snt_meanwell_irm10/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/fruchti_snt_meanwell_irm10/working
-    oomp_doc: footprints/footprints/fruchti/snt/MEANWELL_IRM10/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/fruchti/snt/MEANWELL_IRM10/working
     oomp_src_flat: footprints_flat/footprints_flat/fruchti_snt_meanwell_irm10/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/fruchti_snt_meanwell_irm10/working
-    oomp_src_folder: footprints_folder/footprints_folder/fruchti/snt/MEANWELL_IRM10/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/fruchti/snt/MEANWELL_IRM10/working
   name: fruchtilib
+  oomp:
+    footprint_name: meanwell_irm10
+    library_name: snt
+    md5: 2510ab4499a3806fb552f6dbc97d50a7
+    md5_10: 2510ab4499
+    md5_5: 2510a
+    md5_6: 2510ab
+    oomp_key: oomp_fruchti_snt_meanwell_irm10
+    oomp_key_extra: oomp_footprint_fruchti_snt_meanwell_irm10
+    oomp_key_full: oomp_footprint_fruchti_snt_meanwell_irm10_2510ab
+    oomp_key_simple: fruchti_snt_meanwell_irm10
+    original_filename: fruchtilib/mod/snt.pretty/MEANWELL_IRM10.kicad_mod
+    owner_name: fruchti
   oomp_key: oomp_fruchti_snt_meanwell_irm10
+  oomp_key_full: oomp_footprint_fruchti_snt_meanwell_irm10
   oomp_key_simple: fruchti_snt_meanwell_irm10
   owner: fruchti
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/asukiaaa_my_kicad_footprints_d_umd2/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/asukiaaa_my_kicad_footprints_d_umd2/working
-    oomp_doc: footprints/footprints/asukiaaa/my-kicad-footprints/D_UMD2/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/asukiaaa/my-kicad-footprints/D_UMD2/working
     oomp_src_flat: footprints_flat/footprints_flat/asukiaaa_my_kicad_footprints_d_umd2/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/asukiaaa_my_kicad_footprints_d_umd2/working
-    oomp_src_folder: footprints_folder/footprints_folder/asukiaaa/my-kicad-footprints/D_UMD2/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/asukiaaa/my-kicad-footprints/D_UMD2/working
   name: my-kicad-footprints.pretty
+  oomp:
+    footprint_name: d_umd2
+    library_name: my_kicad_footprints
+    md5: a0053f7c4925a36be2bc7aeb88213113
+    md5_10: a0053f7c49
+    md5_5: a0053
+    md5_6: a0053f
+    oomp_key: oomp_asukiaaa_my_kicad_footprints_d_umd2
+    oomp_key_extra: oomp_footprint_asukiaaa_my_kicad_footprints_d_umd2
+    oomp_key_full: oomp_footprint_asukiaaa_my_kicad_footprints_d_umd2_a0053f
+    oomp_key_simple: asukiaaa_my_kicad_footprints_d_umd2
+    original_filename: my-kicad-footprints.pretty/D_UMD2.kicad_mod
+    owner_name: asukiaaa
   oomp_key: oomp_asukiaaa_my_kicad_footprints_d_umd2
+  oomp_key_full: oomp_footprint_asukiaaa_my_kicad_footprints_d_umd2
   oomp_key_simple: asukiaaa_my_kicad_footprints_d_umd2
   owner: asukiaaa
   repo:

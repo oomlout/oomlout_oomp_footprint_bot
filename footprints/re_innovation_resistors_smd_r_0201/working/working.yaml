@@ -13,14 +13,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/re_innovation_resistors_smd_r_0201/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/re_innovation_resistors_smd_r_0201/working
-    oomp_doc: footprints/footprints/re-innovation/Resistors_SMD/R_0201/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/re-innovation/Resistors_SMD/R_0201/working
     oomp_src_flat: footprints_flat/footprints_flat/re_innovation_resistors_smd_r_0201/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/re_innovation_resistors_smd_r_0201/working
-    oomp_src_folder: footprints_folder/footprints_folder/re-innovation/Resistors_SMD/R_0201/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/re-innovation/Resistors_SMD/R_0201/working
   name: kicad_reinnovation
+  oomp:
+    footprint_name: r_0201
+    library_name: resistors_smd
+    md5: 122628e2213e9663b03c43e3fe655589
+    md5_10: 122628e221
+    md5_5: '12262'
+    md5_6: '122628'
+    oomp_key: oomp_re_innovation_resistors_smd_r_0201
+    oomp_key_extra: oomp_footprint_re_innovation_resistors_smd_r_0201
+    oomp_key_full: oomp_footprint_re_innovation_resistors_smd_r_0201_122628
+    oomp_key_simple: re_innovation_resistors_smd_r_0201
+    original_filename: kicad_reinnovation/KiCAD PRETTY/Resistors_SMD.pretty/R_0201.kicad_mod
+    owner_name: re_innovation
   oomp_key: oomp_re_innovation_resistors_smd_r_0201
+  oomp_key_full: oomp_footprint_re_innovation_resistors_smd_r_0201
   oomp_key_simple: re_innovation_resistors_smd_r_0201
   owner: re-innovation
   repo:

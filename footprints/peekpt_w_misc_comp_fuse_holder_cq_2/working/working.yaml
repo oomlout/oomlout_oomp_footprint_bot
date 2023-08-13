@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/peekpt_w_misc_comp_fuse_holder_cq_2/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/peekpt_w_misc_comp_fuse_holder_cq_2/working
-    oomp_doc: footprints/footprints/peekpt/w_misc_comp/fuse_holder_CQ-2/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/peekpt/w_misc_comp/fuse_holder_CQ-2/working
     oomp_src_flat: footprints_flat/footprints_flat/peekpt_w_misc_comp_fuse_holder_cq_2/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/peekpt_w_misc_comp_fuse_holder_cq_2/working
-    oomp_src_folder: footprints_folder/footprints_folder/peekpt/w_misc_comp/fuse_holder_CQ-2/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/peekpt/w_misc_comp/fuse_holder_CQ-2/working
   name: kicad_smisioto
+  oomp:
+    footprint_name: fuse_holder_cq_2
+    library_name: w_misc_comp
+    md5: a6b50f5d59d185a49d95e8b3216822a1
+    md5_10: a6b50f5d59
+    md5_5: a6b50
+    md5_6: a6b50f
+    oomp_key: oomp_peekpt_w_misc_comp_fuse_holder_cq_2
+    oomp_key_extra: oomp_footprint_peekpt_w_misc_comp_fuse_holder_cq_2
+    oomp_key_full: oomp_footprint_peekpt_w_misc_comp_fuse_holder_cq_2_a6b50f
+    oomp_key_simple: peekpt_w_misc_comp_fuse_holder_cq_2
+    original_filename: kicad_smisioto/modules/walter/w_misc_comp.pretty/fuse_holder_CQ-2.kicad_mod
+    owner_name: peekpt
   oomp_key: oomp_peekpt_w_misc_comp_fuse_holder_cq_2
+  oomp_key_full: oomp_footprint_peekpt_w_misc_comp_fuse_holder_cq_2
   oomp_key_simple: peekpt_w_misc_comp_fuse_holder_cq_2
   owner: peekpt
   repo:

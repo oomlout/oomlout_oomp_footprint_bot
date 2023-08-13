@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pelrun_w_vacuum_tube_gzc9_b/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pelrun_w_vacuum_tube_gzc9_b/working
-    oomp_doc: footprints/footprints/pelrun/w_vacuum/tube_gzc9-b/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/pelrun/w_vacuum/tube_gzc9-b/working
     oomp_src_flat: footprints_flat/footprints_flat/pelrun_w_vacuum_tube_gzc9_b/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pelrun_w_vacuum_tube_gzc9_b/working
-    oomp_src_folder: footprints_folder/footprints_folder/pelrun/w_vacuum/tube_gzc9-b/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/pelrun/w_vacuum/tube_gzc9-b/working
   name: libKiCad
+  oomp:
+    footprint_name: tube_gzc9_b
+    library_name: w_vacuum
+    md5: b8b536790573f071e1b09136aa6ad901
+    md5_10: b8b5367905
+    md5_5: b8b53
+    md5_6: b8b536
+    oomp_key: oomp_pelrun_w_vacuum_tube_gzc9_b
+    oomp_key_extra: oomp_footprint_pelrun_w_vacuum_tube_gzc9_b
+    oomp_key_full: oomp_footprint_pelrun_w_vacuum_tube_gzc9_b_b8b536
+    oomp_key_simple: pelrun_w_vacuum_tube_gzc9_b
+    original_filename: libKiCad/footprint/w_vacuum.pretty/tube_gzc9-b.kicad_mod
+    owner_name: pelrun
   oomp_key: oomp_pelrun_w_vacuum_tube_gzc9_b
+  oomp_key_full: oomp_footprint_pelrun_w_vacuum_tube_gzc9_b
   oomp_key_simple: pelrun_w_vacuum_tube_gzc9_b
   owner: pelrun
   repo:

@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/kubiX89/kiCAD.pretty
     oomp_bot: footprints/kubix89_kicad_fuse_ptc_10mm_th/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kubix89_kicad_fuse_ptc_10mm_th/working
-    oomp_doc: footprints/footprints/kubiX89/kiCAD/FUSE_PTC_10MM_TH/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kubiX89/kiCAD/FUSE_PTC_10MM_TH/working
     oomp_src_flat: footprints_flat/footprints_flat/kubix89_kicad_fuse_ptc_10mm_th/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kubix89_kicad_fuse_ptc_10mm_th/working
-    oomp_src_folder: footprints_folder/footprints_folder/kubiX89/kiCAD/FUSE_PTC_10MM_TH/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kubiX89/kiCAD/FUSE_PTC_10MM_TH/working
   name: kiCAD.pretty
+  oomp:
+    footprint_name: fuse_ptc_10mm_th
+    library_name: kicad
+    md5: 06f88a295015e0d64894726ed83d5810
+    md5_10: 06f88a2950
+    md5_5: 06f88
+    md5_6: 06f88a
+    oomp_key: oomp_kubix89_kicad_fuse_ptc_10mm_th
+    oomp_key_extra: oomp_footprint_kubix89_kicad_fuse_ptc_10mm_th
+    oomp_key_full: oomp_footprint_kubix89_kicad_fuse_ptc_10mm_th_06f88a
+    oomp_key_simple: kubix89_kicad_fuse_ptc_10mm_th
+    original_filename: kiCAD.pretty/FUSE_PTC_10MM_TH.kicad_mod
+    owner_name: kubix89
   oomp_key: oomp_kubix89_kicad_fuse_ptc_10mm_th
+  oomp_key_full: oomp_footprint_kubix89_kicad_fuse_ptc_10mm_th
   oomp_key_simple: kubix89_kicad_fuse_ptc_10mm_th
   owner: kubiX89
   repo:

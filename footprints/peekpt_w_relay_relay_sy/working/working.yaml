@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/peekpt_w_relay_relay_sy/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/peekpt_w_relay_relay_sy/working
-    oomp_doc: footprints/footprints/peekpt/w_relay/relay_SY/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/peekpt/w_relay/relay_SY/working
     oomp_src_flat: footprints_flat/footprints_flat/peekpt_w_relay_relay_sy/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/peekpt_w_relay_relay_sy/working
-    oomp_src_folder: footprints_folder/footprints_folder/peekpt/w_relay/relay_SY/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/peekpt/w_relay/relay_SY/working
   name: kicad_smisioto
+  oomp:
+    footprint_name: relay_sy
+    library_name: w_relay
+    md5: 6772b8738d42df616d1294bc8707933c
+    md5_10: 6772b8738d
+    md5_5: 6772b
+    md5_6: 6772b8
+    oomp_key: oomp_peekpt_w_relay_relay_sy
+    oomp_key_extra: oomp_footprint_peekpt_w_relay_relay_sy
+    oomp_key_full: oomp_footprint_peekpt_w_relay_relay_sy_6772b8
+    oomp_key_simple: peekpt_w_relay_relay_sy
+    original_filename: kicad_smisioto/modules/walter/w_relay.pretty/relay_SY.kicad_mod
+    owner_name: peekpt
   oomp_key: oomp_peekpt_w_relay_relay_sy
+  oomp_key_full: oomp_footprint_peekpt_w_relay_relay_sy
   oomp_key_simple: peekpt_w_relay_relay_sy
   owner: peekpt
   repo:

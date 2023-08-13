@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/joem_jwm_kicad_footprints_misc_pinsocket_1x04_p2_54mm_vertical_nosilk/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/joem_jwm_kicad_footprints_misc_pinsocket_1x04_p2_54mm_vertical_nosilk/working
-    oomp_doc: footprints/footprints/joem/jwm_kicad_footprints_misc/PinSocket_1x04_P2.54mm_Vertical_NoSilk/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/joem/jwm_kicad_footprints_misc/PinSocket_1x04_P2.54mm_Vertical_NoSilk/working
     oomp_src_flat: footprints_flat/footprints_flat/joem_jwm_kicad_footprints_misc_pinsocket_1x04_p2_54mm_vertical_nosilk/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/joem_jwm_kicad_footprints_misc_pinsocket_1x04_p2_54mm_vertical_nosilk/working
-    oomp_src_folder: footprints_folder/footprints_folder/joem/jwm_kicad_footprints_misc/PinSocket_1x04_P2.54mm_Vertical_NoSilk/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/joem/jwm_kicad_footprints_misc/PinSocket_1x04_P2.54mm_Vertical_NoSilk/working
   name: jwm_kicad_footprints_misc.pretty
+  oomp:
+    footprint_name: pinsocket_1x04_p2_54mm_vertical_nosilk
+    library_name: jwm_kicad_footprints_misc
+    md5: 93668a6988fe0d92665437c6f2208b6e
+    md5_10: 93668a6988
+    md5_5: '93668'
+    md5_6: 93668a
+    oomp_key: oomp_joem_jwm_kicad_footprints_misc_pinsocket_1x04_p2_54mm_vertical_nosilk
+    oomp_key_extra: oomp_footprint_joem_jwm_kicad_footprints_misc_pinsocket_1x04_p2_54mm_vertical_nosilk
+    oomp_key_full: oomp_footprint_joem_jwm_kicad_footprints_misc_pinsocket_1x04_p2_54mm_vertical_nosilk_93668a
+    oomp_key_simple: joem_jwm_kicad_footprints_misc_pinsocket_1x04_p2_54mm_vertical_nosilk
+    original_filename: jwm_kicad_footprints_misc.pretty/PinSocket_1x04_P2.54mm_Vertical_NoSilk.kicad_mod
+    owner_name: joem
   oomp_key: oomp_joem_jwm_kicad_footprints_misc_pinsocket_1x04_p2_54mm_vertical_nosilk
+  oomp_key_full: oomp_footprint_joem_jwm_kicad_footprints_misc_pinsocket_1x04_p2_54mm_vertical_nosilk
   oomp_key_simple: joem_jwm_kicad_footprints_misc_pinsocket_1x04_p2_54mm_vertical_nosilk
   owner: joem
   repo:

@@ -1,0 +1,39 @@
+- file: Transformers_WurthElektronik.pretty/EFD30_THT_H_12PIN_(5491).kicad_mod
+  footprint:
+    description: 'PACKAGE STYLE: EFD30MOUNTING: THTPINS: 12BOBBIN: 070-5491'
+    libraryLink: EFD30_THT_H_12PIN_(5491)
+    number_of_pads: 12
+  footprint_library_directory: footprint_library_owner/WurthElectronics_Transformers_WurthElektronik.pretty
+  footprint_library_directory_flat: footprints_flat/wurthelectronics_transformers_wurthelektronik_efd30_tht_h_12pin_(5491)/working
+  github_path: http://github.com/WurthElectronics/Transformers_WurthElektronik.pretty/blob/master/EFD30_THT_H_12PIN_(5491).kicad_mod
+  links:
+    github_src: http://gitlab.com/WurthElectronics/Transformers_WurthElektronik.pretty/blob/master/TOR_HEADER_THT_4PIN_(WIDE).kicad_mod
+    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
+    oomp_bot: footprints/wurthelectronics_transformers_wurthelektronik_efd30_tht_h_12pin_(5491)/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/wurthelectronics_transformers_wurthelektronik_efd30_tht_h_12pin_(5491)/working
+    oomp_src_flat: footprints_flat/footprints_flat/wurthelectronics_transformers_wurthelektronik_efd30_tht_h_12pin_(5491)/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/wurthelectronics_transformers_wurthelektronik_efd30_tht_h_12pin_(5491)/working
+  name: Transformers_WurthElektronik.pretty
+  oomp:
+    footprint_name: efd30_tht_h_12pin_(5491)
+    library_name: transformers_wurthelektronik
+    md5: acbce7174e6833a32392dd1cc62bd387
+    md5_10: acbce7174e
+    md5_5: acbce
+    md5_6: acbce7
+    oomp_key: oomp_wurthelectronics_transformers_wurthelektronik_efd30_tht_h_12pin_(5491)
+    oomp_key_extra: oomp_footprint_wurthelectronics_transformers_wurthelektronik_efd30_tht_h_12pin_(5491)
+    oomp_key_full: oomp_footprint_wurthelectronics_transformers_wurthelektronik_efd30_tht_h_12pin_(5491)_acbce7
+    oomp_key_simple: wurthelectronics_transformers_wurthelektronik_efd30_tht_h_12pin_(5491)
+    original_filename: Transformers_WurthElektronik.pretty/EFD30_THT_H_12PIN_(5491).kicad_mod
+    owner_name: wurthelectronics
+  oomp_key: oomp_wurthelectronics_transformers_wurthelektronik_efd30_tht_h_12pin_(5491)
+  oomp_key_full: oomp_footprint_wurthelectronics_transformers_wurthelektronik_efd30_tht_h_12pin_(5491)
+  oomp_key_simple: wurthelectronics_transformers_wurthelektronik_efd30_tht_h_12pin_(5491)
+  owner: WurthElectronics
+  repo:
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
+  url: http://github.com/WurthElectronics/Transformers_WurthElektronik.pretty

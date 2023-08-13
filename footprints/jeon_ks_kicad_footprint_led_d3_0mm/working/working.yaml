@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/jeon_ks_kicad_footprint_led_d3_0mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/jeon_ks_kicad_footprint_led_d3_0mm/working
-    oomp_doc: footprints/footprints/JEON-KS/Kicad_Footprint/LED_D3.0mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/JEON-KS/Kicad_Footprint/LED_D3.0mm/working
     oomp_src_flat: footprints_flat/footprints_flat/jeon_ks_kicad_footprint_led_d3_0mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/jeon_ks_kicad_footprint_led_d3_0mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/JEON-KS/Kicad_Footprint/LED_D3.0mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/JEON-KS/Kicad_Footprint/LED_D3.0mm/working
   name: Kicad_Footprint.pretty
+  oomp:
+    footprint_name: led_d3_0mm
+    library_name: kicad_footprint
+    md5: a7179ec16ca3bbee2240bd0c4b1bf6c6
+    md5_10: a7179ec16c
+    md5_5: a7179
+    md5_6: a7179e
+    oomp_key: oomp_jeon_ks_kicad_footprint_led_d3_0mm
+    oomp_key_extra: oomp_footprint_jeon_ks_kicad_footprint_led_d3_0mm
+    oomp_key_full: oomp_footprint_jeon_ks_kicad_footprint_led_d3_0mm_a7179e
+    oomp_key_simple: jeon_ks_kicad_footprint_led_d3_0mm
+    original_filename: Kicad_Footprint.pretty/LED_D3.0mm.kicad_mod
+    owner_name: jeon_ks
   oomp_key: oomp_jeon_ks_kicad_footprint_led_d3_0mm
+  oomp_key_full: oomp_footprint_jeon_ks_kicad_footprint_led_d3_0mm
   oomp_key_simple: jeon_ks_kicad_footprint_led_d3_0mm
   owner: JEON-KS
   repo:

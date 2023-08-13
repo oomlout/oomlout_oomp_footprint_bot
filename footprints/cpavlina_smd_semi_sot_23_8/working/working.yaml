@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cpavlina_smd_semi_sot_23_8/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cpavlina_smd_semi_sot_23_8/working
-    oomp_doc: footprints/footprints/cpavlina/smd-semi/SOT-23-8/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cpavlina/smd-semi/SOT-23-8/working
     oomp_src_flat: footprints_flat/footprints_flat/cpavlina_smd_semi_sot_23_8/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cpavlina_smd_semi_sot_23_8/working
-    oomp_src_folder: footprints_folder/footprints_folder/cpavlina/smd-semi/SOT-23-8/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cpavlina/smd-semi/SOT-23-8/working
   name: kicad-pcblib
+  oomp:
+    footprint_name: sot_23_8
+    library_name: smd_semi
+    md5: 792f5f1b7afecfe0abc92425cb8647b6
+    md5_10: 792f5f1b7a
+    md5_5: 792f5
+    md5_6: 792f5f
+    oomp_key: oomp_cpavlina_smd_semi_sot_23_8
+    oomp_key_extra: oomp_footprint_cpavlina_smd_semi_sot_23_8
+    oomp_key_full: oomp_footprint_cpavlina_smd_semi_sot_23_8_792f5f
+    oomp_key_simple: cpavlina_smd_semi_sot_23_8
+    original_filename: kicad-pcblib/smd-semi.pretty/SOT-23-8.kicad_mod
+    owner_name: cpavlina
   oomp_key: oomp_cpavlina_smd_semi_sot_23_8
+  oomp_key_full: oomp_footprint_cpavlina_smd_semi_sot_23_8
   oomp_key_simple: cpavlina_smd_semi_sot_23_8
   owner: cpavlina
   repo:

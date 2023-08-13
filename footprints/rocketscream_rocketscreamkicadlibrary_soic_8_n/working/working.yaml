@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/rocketscream_rocketscreamkicadlibrary_soic_8_n/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/rocketscream_rocketscreamkicadlibrary_soic_8_n/working
-    oomp_doc: footprints/footprints/rocketscream/RocketScreamKicadLibrary/SOIC-8-N/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/rocketscream/RocketScreamKicadLibrary/SOIC-8-N/working
     oomp_src_flat: footprints_flat/footprints_flat/rocketscream_rocketscreamkicadlibrary_soic_8_n/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/rocketscream_rocketscreamkicadlibrary_soic_8_n/working
-    oomp_src_folder: footprints_folder/footprints_folder/rocketscream/RocketScreamKicadLibrary/SOIC-8-N/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/rocketscream/RocketScreamKicadLibrary/SOIC-8-N/working
   name: RocketScreamKicadLibrary
+  oomp:
+    footprint_name: soic_8_n
+    library_name: rocketscreamkicadlibrary
+    md5: 1f479466a477e04abb46e36d9ab28a16
+    md5_10: 1f479466a4
+    md5_5: 1f479
+    md5_6: 1f4794
+    oomp_key: oomp_rocketscream_rocketscreamkicadlibrary_soic_8_n
+    oomp_key_extra: oomp_footprint_rocketscream_rocketscreamkicadlibrary_soic_8_n
+    oomp_key_full: oomp_footprint_rocketscream_rocketscreamkicadlibrary_soic_8_n_1f4794
+    oomp_key_simple: rocketscream_rocketscreamkicadlibrary_soic_8_n
+    original_filename: RocketScreamKicadLibrary/RocketScreamKicadLibrary.pretty/SOIC-8-N.kicad_mod
+    owner_name: rocketscream
   oomp_key: oomp_rocketscream_rocketscreamkicadlibrary_soic_8_n
+  oomp_key_full: oomp_footprint_rocketscream_rocketscreamkicadlibrary_soic_8_n
   oomp_key_simple: rocketscream_rocketscreamkicadlibrary_soic_8_n
   owner: rocketscream
   repo:

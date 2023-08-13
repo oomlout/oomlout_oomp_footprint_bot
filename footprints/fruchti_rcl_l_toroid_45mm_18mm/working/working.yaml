@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/fruchti_rcl_l_toroid_45mm_18mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/fruchti_rcl_l_toroid_45mm_18mm/working
-    oomp_doc: footprints/footprints/fruchti/rcl/L_TOROID_45mm_18mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/fruchti/rcl/L_TOROID_45mm_18mm/working
     oomp_src_flat: footprints_flat/footprints_flat/fruchti_rcl_l_toroid_45mm_18mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/fruchti_rcl_l_toroid_45mm_18mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/fruchti/rcl/L_TOROID_45mm_18mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/fruchti/rcl/L_TOROID_45mm_18mm/working
   name: fruchtilib
+  oomp:
+    footprint_name: l_toroid_45mm_18mm
+    library_name: rcl
+    md5: 5bcab9fe6be0a90f31cb95dc561d4aa0
+    md5_10: 5bcab9fe6b
+    md5_5: 5bcab
+    md5_6: 5bcab9
+    oomp_key: oomp_fruchti_rcl_l_toroid_45mm_18mm
+    oomp_key_extra: oomp_footprint_fruchti_rcl_l_toroid_45mm_18mm
+    oomp_key_full: oomp_footprint_fruchti_rcl_l_toroid_45mm_18mm_5bcab9
+    oomp_key_simple: fruchti_rcl_l_toroid_45mm_18mm
+    original_filename: fruchtilib/mod/rcl.pretty/L_TOROID_45mm_18mm.kicad_mod
+    owner_name: fruchti
   oomp_key: oomp_fruchti_rcl_l_toroid_45mm_18mm
+  oomp_key_full: oomp_footprint_fruchti_rcl_l_toroid_45mm_18mm
   oomp_key_simple: fruchti_rcl_l_toroid_45mm_18mm
   owner: fruchti
   repo:

@@ -7,141 +7,33 @@
   footprint_library_directory_flat: footprints_flat/kicad_rleh_d_sub_db9md/working
   github_path: http://github.com/kicad-rleh/D-Sub.pretty/blob/master/DB9MD.kicad_mod
   links:
-    github_owner: kicad-rleh
-    github_repo_name: D-Sub.pretty
-    github_src: http://github.com/kicad-rleh/D-Sub.pretty/blob/master/DB9MD.kicad_mod
-    github_src_repo: https://github.com/kicad-rleh/D-Sub.pretty
+    github_src: http://gitlab.com/kicad-rleh/D-Sub.pretty/blob/master/DB9MD.kicad_mod
+    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_rleh_d_sub_db9md/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_rleh_d_sub_db9md/working
-    oomp_doc: footprints/footprints/kicad-rleh/D-Sub/DB9MD/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad-rleh/D-Sub/DB9MD/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_rleh_d_sub_db9md/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_rleh_d_sub_db9md/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad-rleh/D-Sub/DB9MD/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad-rleh/D-Sub/DB9MD/working
   name: D-Sub.pretty
+  oomp:
+    footprint_name: db9md
+    library_name: d_sub
+    md5: 815cf211a9565118fd1c172caac60e56
+    md5_10: 815cf211a9
+    md5_5: 815cf
+    md5_6: 815cf2
+    oomp_key: oomp_kicad_rleh_d_sub_db9md
+    oomp_key_extra: oomp_footprint_kicad_rleh_d_sub_db9md
+    oomp_key_full: oomp_footprint_kicad_rleh_d_sub_db9md_815cf2
+    oomp_key_simple: kicad_rleh_d_sub_db9md
+    original_filename: D-Sub.pretty/DB9MD.kicad_mod
+    owner_name: kicad_rleh
   oomp_key: oomp_kicad_rleh_d_sub_db9md
+  oomp_key_full: oomp_footprint_kicad_rleh_d_sub_db9md
   oomp_key_simple: kicad_rleh_d_sub_db9md
   owner: kicad-rleh
   repo:
-    allow_forking: true
-    archive_url: https://api.github.com/repos/kicad-rleh/D-Sub.pretty/{archive_format}{/ref}
-    archived: false
-    assignees_url: https://api.github.com/repos/kicad-rleh/D-Sub.pretty/assignees{/user}
-    blobs_url: https://api.github.com/repos/kicad-rleh/D-Sub.pretty/git/blobs{/sha}
-    branches_url: https://api.github.com/repos/kicad-rleh/D-Sub.pretty/branches{/branch}
-    clone_url: https://github.com/kicad-rleh/D-Sub.pretty.git
-    collaborators_url: https://api.github.com/repos/kicad-rleh/D-Sub.pretty/collaborators{/collaborator}
-    comments_url: https://api.github.com/repos/kicad-rleh/D-Sub.pretty/comments{/number}
-    commits_url: https://api.github.com/repos/kicad-rleh/D-Sub.pretty/commits{/sha}
-    compare_url: https://api.github.com/repos/kicad-rleh/D-Sub.pretty/compare/{base}...{head}
-    contents_url: https://api.github.com/repos/kicad-rleh/D-Sub.pretty/contents/{+path}
-    contributors_url: https://api.github.com/repos/kicad-rleh/D-Sub.pretty/contributors
-    created_at: '2017-06-26T16:44:58Z'
-    default_branch: master
-    deployments_url: https://api.github.com/repos/kicad-rleh/D-Sub.pretty/deployments
-    description: 'KiCAD Footprints: D-Sub Connectors with mechanical dimensions on
-      Silkscreen'
-    disabled: false
-    downloads_url: https://api.github.com/repos/kicad-rleh/D-Sub.pretty/downloads
-    events_url: https://api.github.com/repos/kicad-rleh/D-Sub.pretty/events
-    fork: false
-    forks: 0
-    forks_count: 0
-    forks_url: https://api.github.com/repos/kicad-rleh/D-Sub.pretty/forks
-    full_name: kicad-rleh/D-Sub.pretty
-    git_commits_url: https://api.github.com/repos/kicad-rleh/D-Sub.pretty/git/commits{/sha}
-    git_refs_url: https://api.github.com/repos/kicad-rleh/D-Sub.pretty/git/refs{/sha}
-    git_tags_url: https://api.github.com/repos/kicad-rleh/D-Sub.pretty/git/tags{/sha}
-    git_url: git://github.com/kicad-rleh/D-Sub.pretty.git
-    has_discussions: false
-    has_downloads: true
-    has_issues: true
-    has_pages: false
-    has_projects: true
-    has_wiki: true
-    homepage: null
-    hooks_url: https://api.github.com/repos/kicad-rleh/D-Sub.pretty/hooks
-    html_url: https://github.com/kicad-rleh/D-Sub.pretty
-    id: 95468046
-    is_template: false
-    issue_comment_url: https://api.github.com/repos/kicad-rleh/D-Sub.pretty/issues/comments{/number}
-    issue_events_url: https://api.github.com/repos/kicad-rleh/D-Sub.pretty/issues/events{/number}
-    issues_url: https://api.github.com/repos/kicad-rleh/D-Sub.pretty/issues{/number}
-    keys_url: https://api.github.com/repos/kicad-rleh/D-Sub.pretty/keys{/key_id}
-    labels_url: https://api.github.com/repos/kicad-rleh/D-Sub.pretty/labels{/name}
-    language: null
-    languages_url: https://api.github.com/repos/kicad-rleh/D-Sub.pretty/languages
-    license: null
-    merges_url: https://api.github.com/repos/kicad-rleh/D-Sub.pretty/merges
-    milestones_url: https://api.github.com/repos/kicad-rleh/D-Sub.pretty/milestones{/number}
-    mirror_url: null
-    name: D-Sub.pretty
-    network_count: 0
-    node_id: MDEwOlJlcG9zaXRvcnk5NTQ2ODA0Ng==
-    notifications_url: https://api.github.com/repos/kicad-rleh/D-Sub.pretty/notifications{?since,all,participating}
-    open_issues: 0
-    open_issues_count: 0
-    organization:
-      avatar_url: https://avatars.githubusercontent.com/u/21282019?v=4
-      events_url: https://api.github.com/users/kicad-rleh/events{/privacy}
-      followers_url: https://api.github.com/users/kicad-rleh/followers
-      following_url: https://api.github.com/users/kicad-rleh/following{/other_user}
-      gists_url: https://api.github.com/users/kicad-rleh/gists{/gist_id}
-      gravatar_id: ''
-      html_url: https://github.com/kicad-rleh
-      id: 21282019
-      login: kicad-rleh
-      node_id: MDEyOk9yZ2FuaXphdGlvbjIxMjgyMDE5
-      organizations_url: https://api.github.com/users/kicad-rleh/orgs
-      received_events_url: https://api.github.com/users/kicad-rleh/received_events
-      repos_url: https://api.github.com/users/kicad-rleh/repos
-      site_admin: false
-      starred_url: https://api.github.com/users/kicad-rleh/starred{/owner}{/repo}
-      subscriptions_url: https://api.github.com/users/kicad-rleh/subscriptions
-      type: Organization
-      url: https://api.github.com/users/kicad-rleh
-    owner:
-      avatar_url: https://avatars.githubusercontent.com/u/21282019?v=4
-      events_url: https://api.github.com/users/kicad-rleh/events{/privacy}
-      followers_url: https://api.github.com/users/kicad-rleh/followers
-      following_url: https://api.github.com/users/kicad-rleh/following{/other_user}
-      gists_url: https://api.github.com/users/kicad-rleh/gists{/gist_id}
-      gravatar_id: ''
-      html_url: https://github.com/kicad-rleh
-      id: 21282019
-      login: kicad-rleh
-      node_id: MDEyOk9yZ2FuaXphdGlvbjIxMjgyMDE5
-      organizations_url: https://api.github.com/users/kicad-rleh/orgs
-      received_events_url: https://api.github.com/users/kicad-rleh/received_events
-      repos_url: https://api.github.com/users/kicad-rleh/repos
-      site_admin: false
-      starred_url: https://api.github.com/users/kicad-rleh/starred{/owner}{/repo}
-      subscriptions_url: https://api.github.com/users/kicad-rleh/subscriptions
-      type: Organization
-      url: https://api.github.com/users/kicad-rleh
-    private: false
-    pulls_url: https://api.github.com/repos/kicad-rleh/D-Sub.pretty/pulls{/number}
-    pushed_at: '2017-06-26T17:58:30Z'
-    releases_url: https://api.github.com/repos/kicad-rleh/D-Sub.pretty/releases{/id}
-    size: 5
-    ssh_url: git@github.com:kicad-rleh/D-Sub.pretty.git
-    stargazers_count: 0
-    stargazers_url: https://api.github.com/repos/kicad-rleh/D-Sub.pretty/stargazers
-    statuses_url: https://api.github.com/repos/kicad-rleh/D-Sub.pretty/statuses/{sha}
-    subscribers_count: 2
-    subscribers_url: https://api.github.com/repos/kicad-rleh/D-Sub.pretty/subscribers
-    subscription_url: https://api.github.com/repos/kicad-rleh/D-Sub.pretty/subscription
-    svn_url: https://github.com/kicad-rleh/D-Sub.pretty
-    tags_url: https://api.github.com/repos/kicad-rleh/D-Sub.pretty/tags
-    teams_url: https://api.github.com/repos/kicad-rleh/D-Sub.pretty/teams
-    temp_clone_token: null
-    topics: []
-    trees_url: https://api.github.com/repos/kicad-rleh/D-Sub.pretty/git/trees{/sha}
-    updated_at: '2017-06-26T16:44:58Z'
-    url: https://api.github.com/repos/kicad-rleh/D-Sub.pretty
-    visibility: public
-    watchers: 0
-    watchers_count: 0
-    web_commit_signoff_required: false
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: http://github.com/kicad-rleh/D-Sub.pretty

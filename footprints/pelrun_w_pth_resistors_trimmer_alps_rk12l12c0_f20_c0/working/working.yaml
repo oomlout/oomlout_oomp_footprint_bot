@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pelrun_w_pth_resistors_trimmer_alps_rk12l12c0_f20_c0/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pelrun_w_pth_resistors_trimmer_alps_rk12l12c0_f20_c0/working
-    oomp_doc: footprints/footprints/pelrun/w_pth_resistors/trimmer_alps_rk12l12c0-f20-c0/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/pelrun/w_pth_resistors/trimmer_alps_rk12l12c0-f20-c0/working
     oomp_src_flat: footprints_flat/footprints_flat/pelrun_w_pth_resistors_trimmer_alps_rk12l12c0_f20_c0/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pelrun_w_pth_resistors_trimmer_alps_rk12l12c0_f20_c0/working
-    oomp_src_folder: footprints_folder/footprints_folder/pelrun/w_pth_resistors/trimmer_alps_rk12l12c0-f20-c0/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/pelrun/w_pth_resistors/trimmer_alps_rk12l12c0-f20-c0/working
   name: libKiCad
+  oomp:
+    footprint_name: trimmer_alps_rk12l12c0_f20_c0
+    library_name: w_pth_resistors
+    md5: b16e0b1437e144127ad3e14d64ff05da
+    md5_10: b16e0b1437
+    md5_5: b16e0
+    md5_6: b16e0b
+    oomp_key: oomp_pelrun_w_pth_resistors_trimmer_alps_rk12l12c0_f20_c0
+    oomp_key_extra: oomp_footprint_pelrun_w_pth_resistors_trimmer_alps_rk12l12c0_f20_c0
+    oomp_key_full: oomp_footprint_pelrun_w_pth_resistors_trimmer_alps_rk12l12c0_f20_c0_b16e0b
+    oomp_key_simple: pelrun_w_pth_resistors_trimmer_alps_rk12l12c0_f20_c0
+    original_filename: libKiCad/footprint/w_pth_resistors.pretty/trimmer_alps_rk12l12c0-f20-c0.kicad_mod
+    owner_name: pelrun
   oomp_key: oomp_pelrun_w_pth_resistors_trimmer_alps_rk12l12c0_f20_c0
+  oomp_key_full: oomp_footprint_pelrun_w_pth_resistors_trimmer_alps_rk12l12c0_f20_c0
   oomp_key_simple: pelrun_w_pth_resistors_trimmer_alps_rk12l12c0_f20_c0
   owner: pelrun
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/codemercenary_os_kicad_choke_acm31_smt/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/codemercenary_os_kicad_choke_acm31_smt/working
-    oomp_doc: footprints/footprints/codemercenary-os/kicad/CHOKE_ACM31_SMT/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/codemercenary-os/kicad/CHOKE_ACM31_SMT/working
     oomp_src_flat: footprints_flat/footprints_flat/codemercenary_os_kicad_choke_acm31_smt/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/codemercenary_os_kicad_choke_acm31_smt/working
-    oomp_src_folder: footprints_folder/footprints_folder/codemercenary-os/kicad/CHOKE_ACM31_SMT/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/codemercenary-os/kicad/CHOKE_ACM31_SMT/working
   name: kicad.pretty
+  oomp:
+    footprint_name: choke_acm31_smt
+    library_name: kicad
+    md5: 5473cefdeaf4015f1dc27ac0d87d971f
+    md5_10: 5473cefdea
+    md5_5: 5473c
+    md5_6: 5473ce
+    oomp_key: oomp_codemercenary_os_kicad_choke_acm31_smt
+    oomp_key_extra: oomp_footprint_codemercenary_os_kicad_choke_acm31_smt
+    oomp_key_full: oomp_footprint_codemercenary_os_kicad_choke_acm31_smt_5473ce
+    oomp_key_simple: codemercenary_os_kicad_choke_acm31_smt
+    original_filename: kicad.pretty/CHOKE_ACM31_SMT.kicad_mod
+    owner_name: codemercenary_os
   oomp_key: oomp_codemercenary_os_kicad_choke_acm31_smt
+  oomp_key_full: oomp_footprint_codemercenary_os_kicad_choke_acm31_smt
   oomp_key_simple: codemercenary_os_kicad_choke_acm31_smt
   owner: codemercenary-os
   repo:

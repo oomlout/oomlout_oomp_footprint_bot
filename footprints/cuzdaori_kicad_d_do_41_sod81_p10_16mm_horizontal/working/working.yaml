@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cuzdaori_kicad_d_do_41_sod81_p10_16mm_horizontal/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cuzdaori_kicad_d_do_41_sod81_p10_16mm_horizontal/working
-    oomp_doc: footprints/footprints/cuzdaori/KiCad/D_DO-41_SOD81_P10.16mm_Horizontal/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cuzdaori/KiCad/D_DO-41_SOD81_P10.16mm_Horizontal/working
     oomp_src_flat: footprints_flat/footprints_flat/cuzdaori_kicad_d_do_41_sod81_p10_16mm_horizontal/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cuzdaori_kicad_d_do_41_sod81_p10_16mm_horizontal/working
-    oomp_src_folder: footprints_folder/footprints_folder/cuzdaori/KiCad/D_DO-41_SOD81_P10.16mm_Horizontal/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cuzdaori/KiCad/D_DO-41_SOD81_P10.16mm_Horizontal/working
   name: KiCad.pretty
+  oomp:
+    footprint_name: d_do_41_sod81_p10_16mm_horizontal
+    library_name: kicad
+    md5: d2007390198507bcd240f3eb12f38ded
+    md5_10: d200739019
+    md5_5: d2007
+    md5_6: d20073
+    oomp_key: oomp_cuzdaori_kicad_d_do_41_sod81_p10_16mm_horizontal
+    oomp_key_extra: oomp_footprint_cuzdaori_kicad_d_do_41_sod81_p10_16mm_horizontal
+    oomp_key_full: oomp_footprint_cuzdaori_kicad_d_do_41_sod81_p10_16mm_horizontal_d20073
+    oomp_key_simple: cuzdaori_kicad_d_do_41_sod81_p10_16mm_horizontal
+    original_filename: KiCad.pretty/D_DO-41_SOD81_P10.16mm_Horizontal.kicad_mod
+    owner_name: cuzdaori
   oomp_key: oomp_cuzdaori_kicad_d_do_41_sod81_p10_16mm_horizontal
+  oomp_key_full: oomp_footprint_cuzdaori_kicad_d_do_41_sod81_p10_16mm_horizontal
   oomp_key_simple: cuzdaori_kicad_d_do_41_sod81_p10_16mm_horizontal
   owner: cuzdaori
   repo:

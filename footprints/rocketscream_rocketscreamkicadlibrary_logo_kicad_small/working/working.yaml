@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/rocketscream_rocketscreamkicadlibrary_logo_kicad_small/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/rocketscream_rocketscreamkicadlibrary_logo_kicad_small/working
-    oomp_doc: footprints/footprints/rocketscream/RocketScreamKicadLibrary/LOGO-KICAD_Small/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/rocketscream/RocketScreamKicadLibrary/LOGO-KICAD_Small/working
     oomp_src_flat: footprints_flat/footprints_flat/rocketscream_rocketscreamkicadlibrary_logo_kicad_small/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/rocketscream_rocketscreamkicadlibrary_logo_kicad_small/working
-    oomp_src_folder: footprints_folder/footprints_folder/rocketscream/RocketScreamKicadLibrary/LOGO-KICAD_Small/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/rocketscream/RocketScreamKicadLibrary/LOGO-KICAD_Small/working
   name: RocketScreamKicadLibrary
+  oomp:
+    footprint_name: logo_kicad_small
+    library_name: rocketscreamkicadlibrary
+    md5: 6864ee70e3c6858adb537df76a052d08
+    md5_10: 6864ee70e3
+    md5_5: 6864e
+    md5_6: 6864ee
+    oomp_key: oomp_rocketscream_rocketscreamkicadlibrary_logo_kicad_small
+    oomp_key_extra: oomp_footprint_rocketscream_rocketscreamkicadlibrary_logo_kicad_small
+    oomp_key_full: oomp_footprint_rocketscream_rocketscreamkicadlibrary_logo_kicad_small_6864ee
+    oomp_key_simple: rocketscream_rocketscreamkicadlibrary_logo_kicad_small
+    original_filename: RocketScreamKicadLibrary/RocketScreamKicadLibrary.pretty/LOGO-KICAD_Small.kicad_mod
+    owner_name: rocketscream
   oomp_key: oomp_rocketscream_rocketscreamkicadlibrary_logo_kicad_small
+  oomp_key_full: oomp_footprint_rocketscream_rocketscreamkicadlibrary_logo_kicad_small
   oomp_key_simple: rocketscream_rocketscreamkicadlibrary_logo_kicad_small
   owner: rocketscream
   repo:

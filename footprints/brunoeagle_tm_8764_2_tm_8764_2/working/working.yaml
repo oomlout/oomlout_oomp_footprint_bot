@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_tm_8764_2_tm_8764_2/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_tm_8764_2_tm_8764_2/working
-    oomp_doc: footprints/footprints/brunoeagle/TM-8764-2.kicad_mod/TM-8764-2/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/TM-8764-2.kicad_mod/TM-8764-2/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_tm_8764_2_tm_8764_2/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_tm_8764_2_tm_8764_2/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/TM-8764-2.kicad_mod/TM-8764-2/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/TM-8764-2.kicad_mod/TM-8764-2/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: tm_8764_2
+    library_name: tm_8764_2_kicad_mod
+    md5: c58907fad66041cf252038364208fd71
+    md5_10: c58907fad6
+    md5_5: c5890
+    md5_6: c58907
+    oomp_key: oomp_brunoeagle_tm_8764_2_tm_8764_2
+    oomp_key_extra: oomp_footprint_brunoeagle_tm_8764_2_tm_8764_2
+    oomp_key_full: oomp_footprint_brunoeagle_tm_8764_2_tm_8764_2_c58907
+    oomp_key_simple: brunoeagle_tm_8764_2_tm_8764_2
+    original_filename: kicad-open-modules/TM-8764-2.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_tm_8764_2_tm_8764_2
+  oomp_key_full: oomp_footprint_brunoeagle_tm_8764_2_tm_8764_2
   oomp_key_simple: brunoeagle_tm_8764_2_tm_8764_2
   owner: brunoeagle
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/ohdsp_mykicadlibs_footprints_ic_to92_straight/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ohdsp_mykicadlibs_footprints_ic_to92_straight/working
-    oomp_doc: footprints/footprints/ohdsp/MyKiCadLibs-Footprints/IC-TO92-Straight/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ohdsp/MyKiCadLibs-Footprints/IC-TO92-Straight/working
     oomp_src_flat: footprints_flat/footprints_flat/ohdsp_mykicadlibs_footprints_ic_to92_straight/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ohdsp_mykicadlibs_footprints_ic_to92_straight/working
-    oomp_src_folder: footprints_folder/footprints_folder/ohdsp/MyKiCadLibs-Footprints/IC-TO92-Straight/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ohdsp/MyKiCadLibs-Footprints/IC-TO92-Straight/working
   name: KiCad-Libs
+  oomp:
+    footprint_name: ic_to92_straight
+    library_name: mykicadlibs_footprints
+    md5: 9e3449d431cfa6331740a865b8811582
+    md5_10: 9e3449d431
+    md5_5: 9e344
+    md5_6: 9e3449
+    oomp_key: oomp_ohdsp_mykicadlibs_footprints_ic_to92_straight
+    oomp_key_extra: oomp_footprint_ohdsp_mykicadlibs_footprints_ic_to92_straight
+    oomp_key_full: oomp_footprint_ohdsp_mykicadlibs_footprints_ic_to92_straight_9e3449
+    oomp_key_simple: ohdsp_mykicadlibs_footprints_ic_to92_straight
+    original_filename: KiCad-Libs/MyKiCadLibs-Footprints.pretty/IC-TO92-Straight.kicad_mod
+    owner_name: ohdsp
   oomp_key: oomp_ohdsp_mykicadlibs_footprints_ic_to92_straight
+  oomp_key_full: oomp_footprint_ohdsp_mykicadlibs_footprints_ic_to92_straight
   oomp_key_simple: ohdsp_mykicadlibs_footprints_ic_to92_straight
   owner: ohdsp
   repo:

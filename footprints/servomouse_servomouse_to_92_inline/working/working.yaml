@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/servomouse_servomouse_to_92_inline/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/servomouse_servomouse_to_92_inline/working
-    oomp_doc: footprints/footprints/servomouse/servomouse/TO-92_Inline/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/servomouse/servomouse/TO-92_Inline/working
     oomp_src_flat: footprints_flat/footprints_flat/servomouse_servomouse_to_92_inline/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/servomouse_servomouse_to_92_inline/working
-    oomp_src_folder: footprints_folder/footprints_folder/servomouse/servomouse/TO-92_Inline/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/servomouse/servomouse/TO-92_Inline/working
   name: servomouse.pretty
+  oomp:
+    footprint_name: to_92_inline
+    library_name: servomouse
+    md5: 177caee688be74c32ec18ec5da9ba5c2
+    md5_10: 177caee688
+    md5_5: 177ca
+    md5_6: 177cae
+    oomp_key: oomp_servomouse_servomouse_to_92_inline
+    oomp_key_extra: oomp_footprint_servomouse_servomouse_to_92_inline
+    oomp_key_full: oomp_footprint_servomouse_servomouse_to_92_inline_177cae
+    oomp_key_simple: servomouse_servomouse_to_92_inline
+    original_filename: servomouse.pretty/TO-92_Inline.kicad_mod
+    owner_name: servomouse
   oomp_key: oomp_servomouse_servomouse_to_92_inline
+  oomp_key_full: oomp_footprint_servomouse_servomouse_to_92_inline
   oomp_key_simple: servomouse_servomouse_to_92_inline
   owner: servomouse
   repo:

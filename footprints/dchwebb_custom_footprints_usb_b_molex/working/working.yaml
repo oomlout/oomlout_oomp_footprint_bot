@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/dchwebb_custom_footprints_usb_b_molex/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/dchwebb_custom_footprints_usb_b_molex/working
-    oomp_doc: footprints/footprints/dchwebb/Custom_Footprints/USB_B_Molex/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/dchwebb/Custom_Footprints/USB_B_Molex/working
     oomp_src_flat: footprints_flat/footprints_flat/dchwebb_custom_footprints_usb_b_molex/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/dchwebb_custom_footprints_usb_b_molex/working
-    oomp_src_folder: footprints_folder/footprints_folder/dchwebb/Custom_Footprints/USB_B_Molex/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/dchwebb/Custom_Footprints/USB_B_Molex/working
   name: Custom_Footprints.pretty
+  oomp:
+    footprint_name: usb_b_molex
+    library_name: custom_footprints
+    md5: 7c4e337949c6c5bc2d1c20f1bc315192
+    md5_10: 7c4e337949
+    md5_5: 7c4e3
+    md5_6: 7c4e33
+    oomp_key: oomp_dchwebb_custom_footprints_usb_b_molex
+    oomp_key_extra: oomp_footprint_dchwebb_custom_footprints_usb_b_molex
+    oomp_key_full: oomp_footprint_dchwebb_custom_footprints_usb_b_molex_7c4e33
+    oomp_key_simple: dchwebb_custom_footprints_usb_b_molex
+    original_filename: Custom_Footprints.pretty/USB_B_Molex.kicad_mod
+    owner_name: dchwebb
   oomp_key: oomp_dchwebb_custom_footprints_usb_b_molex
+  oomp_key_full: oomp_footprint_dchwebb_custom_footprints_usb_b_molex
   oomp_key_simple: dchwebb_custom_footprints_usb_b_molex
   owner: dchwebb
   repo:

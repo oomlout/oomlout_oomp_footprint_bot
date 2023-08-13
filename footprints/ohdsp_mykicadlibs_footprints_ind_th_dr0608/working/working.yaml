@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/ohdsp_mykicadlibs_footprints_ind_th_dr0608/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ohdsp_mykicadlibs_footprints_ind_th_dr0608/working
-    oomp_doc: footprints/footprints/ohdsp/MyKiCadLibs-Footprints/IND-TH-DR0608/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ohdsp/MyKiCadLibs-Footprints/IND-TH-DR0608/working
     oomp_src_flat: footprints_flat/footprints_flat/ohdsp_mykicadlibs_footprints_ind_th_dr0608/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ohdsp_mykicadlibs_footprints_ind_th_dr0608/working
-    oomp_src_folder: footprints_folder/footprints_folder/ohdsp/MyKiCadLibs-Footprints/IND-TH-DR0608/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ohdsp/MyKiCadLibs-Footprints/IND-TH-DR0608/working
   name: KiCad-Libs
+  oomp:
+    footprint_name: ind_th_dr0608
+    library_name: mykicadlibs_footprints
+    md5: 53e93c3f06b79c26b4ee42586e620789
+    md5_10: 53e93c3f06
+    md5_5: 53e93
+    md5_6: 53e93c
+    oomp_key: oomp_ohdsp_mykicadlibs_footprints_ind_th_dr0608
+    oomp_key_extra: oomp_footprint_ohdsp_mykicadlibs_footprints_ind_th_dr0608
+    oomp_key_full: oomp_footprint_ohdsp_mykicadlibs_footprints_ind_th_dr0608_53e93c
+    oomp_key_simple: ohdsp_mykicadlibs_footprints_ind_th_dr0608
+    original_filename: KiCad-Libs/MyKiCadLibs-Footprints.pretty/IND-TH-DR0608.kicad_mod
+    owner_name: ohdsp
   oomp_key: oomp_ohdsp_mykicadlibs_footprints_ind_th_dr0608
+  oomp_key_full: oomp_footprint_ohdsp_mykicadlibs_footprints_ind_th_dr0608
   oomp_key_simple: ohdsp_mykicadlibs_footprints_ind_th_dr0608
   owner: ohdsp
   repo:

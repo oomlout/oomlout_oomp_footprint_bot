@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/granskog_dgs_connectors_idc_10p_2_54_horiz_edge/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/granskog_dgs_connectors_idc_10p_2_54_horiz_edge/working
-    oomp_doc: footprints/footprints/granskog/DGS_Connectors/IDC_10P_2_54_Horiz_Edge/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/granskog/DGS_Connectors/IDC_10P_2_54_Horiz_Edge/working
     oomp_src_flat: footprints_flat/footprints_flat/granskog_dgs_connectors_idc_10p_2_54_horiz_edge/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/granskog_dgs_connectors_idc_10p_2_54_horiz_edge/working
-    oomp_src_folder: footprints_folder/footprints_folder/granskog/DGS_Connectors/IDC_10P_2_54_Horiz_Edge/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/granskog/DGS_Connectors/IDC_10P_2_54_Horiz_Edge/working
   name: DGS_Connectors.pretty
+  oomp:
+    footprint_name: idc_10p_2_54_horiz_edge
+    library_name: dgs_connectors
+    md5: adb5c8778c956d165772d6eb5cc2f910
+    md5_10: adb5c8778c
+    md5_5: adb5c
+    md5_6: adb5c8
+    oomp_key: oomp_granskog_dgs_connectors_idc_10p_2_54_horiz_edge
+    oomp_key_extra: oomp_footprint_granskog_dgs_connectors_idc_10p_2_54_horiz_edge
+    oomp_key_full: oomp_footprint_granskog_dgs_connectors_idc_10p_2_54_horiz_edge_adb5c8
+    oomp_key_simple: granskog_dgs_connectors_idc_10p_2_54_horiz_edge
+    original_filename: DGS_Connectors.pretty/IDC_10P_2_54_Horiz_Edge.kicad_mod
+    owner_name: granskog
   oomp_key: oomp_granskog_dgs_connectors_idc_10p_2_54_horiz_edge
+  oomp_key_full: oomp_footprint_granskog_dgs_connectors_idc_10p_2_54_horiz_edge
   oomp_key_simple: granskog_dgs_connectors_idc_10p_2_54_horiz_edge
   owner: granskog
   repo:

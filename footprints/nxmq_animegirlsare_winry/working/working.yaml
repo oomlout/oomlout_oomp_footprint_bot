@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/nxmq_animegirlsare_winry/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nxmq_animegirlsare_winry/working
-    oomp_doc: footprints/footprints/nxmq/animegirlsare/winry/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/nxmq/animegirlsare/winry/working
     oomp_src_flat: footprints_flat/footprints_flat/nxmq_animegirlsare_winry/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nxmq_animegirlsare_winry/working
-    oomp_src_folder: footprints_folder/footprints_folder/nxmq/animegirlsare/winry/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/nxmq/animegirlsare/winry/working
   name: animegirlsare.pretty
+  oomp:
+    footprint_name: winry
+    library_name: animegirlsare
+    md5: 990107664c90dabcc6f7d3820dd1b7fe
+    md5_10: 990107664c
+    md5_5: '99010'
+    md5_6: '990107'
+    oomp_key: oomp_nxmq_animegirlsare_winry
+    oomp_key_extra: oomp_footprint_nxmq_animegirlsare_winry
+    oomp_key_full: oomp_footprint_nxmq_animegirlsare_winry_990107
+    oomp_key_simple: nxmq_animegirlsare_winry
+    original_filename: animegirlsare.pretty/winry.kicad_mod
+    owner_name: nxmq
   oomp_key: oomp_nxmq_animegirlsare_winry
+  oomp_key_full: oomp_footprint_nxmq_animegirlsare_winry
   oomp_key_simple: nxmq_animegirlsare_winry
   owner: nxmq
   repo:

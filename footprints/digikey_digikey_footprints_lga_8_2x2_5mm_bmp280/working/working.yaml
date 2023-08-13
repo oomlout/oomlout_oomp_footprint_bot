@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/digikey_digikey_footprints_lga_8_2x2_5mm_bmp280/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_digikey_footprints_lga_8_2x2_5mm_bmp280/working
-    oomp_doc: footprints/footprints/digikey/digikey-footprints/LGA-8_2x2.5mm_BMP280/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/digikey/digikey-footprints/LGA-8_2x2.5mm_BMP280/working
     oomp_src_flat: footprints_flat/footprints_flat/digikey_digikey_footprints_lga_8_2x2_5mm_bmp280/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/digikey_digikey_footprints_lga_8_2x2_5mm_bmp280/working
-    oomp_src_folder: footprints_folder/footprints_folder/digikey/digikey-footprints/LGA-8_2x2.5mm_BMP280/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/digikey/digikey-footprints/LGA-8_2x2.5mm_BMP280/working
   name: digikey-kicad-library
+  oomp:
+    footprint_name: lga_8_2x2_5mm_bmp280
+    library_name: digikey_footprints
+    md5: f052a7666529139047a60647a474100b
+    md5_10: f052a76665
+    md5_5: f052a
+    md5_6: f052a7
+    oomp_key: oomp_digikey_digikey_footprints_lga_8_2x2_5mm_bmp280
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_lga_8_2x2_5mm_bmp280
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_lga_8_2x2_5mm_bmp280_f052a7
+    oomp_key_simple: digikey_digikey_footprints_lga_8_2x2_5mm_bmp280
+    original_filename: digikey-kicad-library/digikey-footprints.pretty/LGA-8_2x2.5mm_BMP280.kicad_mod
+    owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_lga_8_2x2_5mm_bmp280
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_lga_8_2x2_5mm_bmp280
   oomp_key_simple: digikey_digikey_footprints_lga_8_2x2_5mm_bmp280
   owner: digikey
   repo:

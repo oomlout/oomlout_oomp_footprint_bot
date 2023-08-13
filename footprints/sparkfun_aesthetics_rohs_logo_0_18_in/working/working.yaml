@@ -1,24 +1,34 @@
-- file: SparkFun-KiCad-Libraries/Footprints/Aesthetics.pretty/ROHS_LOGO_0.18_IN.kicad_mod
+- file: SparkFun-KiCad-Libraries/Pre_v7/Footprints/Aesthetics.pretty/ROHS_LOGO_0.18_IN.kicad_mod
   footprint:
     description: RESTRICTION OF HAZARDOUS SUBSTANCES (ROHS) LOGO - 0.18IN HEIGHT
     libraryLink: ROHS_LOGO_0.18_IN
     number_of_pads: 0
   footprint_library_directory: footprint_library_owner/sparkfun_SparkFun-KiCad-Libraries
   footprint_library_directory_flat: footprints_flat/sparkfun_aesthetics_rohs_logo_0_18_in/working
-  github_path: http://github.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Footprints/Aesthetics.pretty/ROHS_LOGO_0.18_IN.kicad_mod
+  github_path: http://github.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Pre_v7/Footprints/Aesthetics.pretty/ROHS_LOGO_0.18_IN.kicad_mod
   links:
-    github_src: http://gitlab.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Tools/SparkFun-Eagle-Libraries_Conversion/Export.pretty/DFN-6-3X3.kicad_mod
+    github_src: http://gitlab.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Pre_v7/Tools/SparkFun-Eagle-Libraries_Conversion/Export.pretty/DFN-6-3X3.kicad_mod
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/sparkfun_aesthetics_rohs_logo_0_18_in/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/sparkfun_aesthetics_rohs_logo_0_18_in/working
-    oomp_doc: footprints/footprints/sparkfun/Aesthetics/ROHS_LOGO_0.18_IN/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/sparkfun/Aesthetics/ROHS_LOGO_0.18_IN/working
     oomp_src_flat: footprints_flat/footprints_flat/sparkfun_aesthetics_rohs_logo_0_18_in/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/sparkfun_aesthetics_rohs_logo_0_18_in/working
-    oomp_src_folder: footprints_folder/footprints_folder/sparkfun/Aesthetics/ROHS_LOGO_0.18_IN/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/sparkfun/Aesthetics/ROHS_LOGO_0.18_IN/working
   name: SparkFun-KiCad-Libraries
+  oomp:
+    footprint_name: rohs_logo_0_18_in
+    library_name: aesthetics
+    md5: 19c28cfcc2b5629a8de2bb12f7eb24e3
+    md5_10: 19c28cfcc2
+    md5_5: 19c28
+    md5_6: 19c28c
+    oomp_key: oomp_sparkfun_aesthetics_rohs_logo_0_18_in
+    oomp_key_extra: oomp_footprint_sparkfun_aesthetics_rohs_logo_0_18_in
+    oomp_key_full: oomp_footprint_sparkfun_aesthetics_rohs_logo_0_18_in_19c28c
+    oomp_key_simple: sparkfun_aesthetics_rohs_logo_0_18_in
+    original_filename: SparkFun-KiCad-Libraries/Pre_v7/Footprints/Aesthetics.pretty/ROHS_LOGO_0.18_IN.kicad_mod
+    owner_name: sparkfun
   oomp_key: oomp_sparkfun_aesthetics_rohs_logo_0_18_in
+  oomp_key_full: oomp_footprint_sparkfun_aesthetics_rohs_logo_0_18_in
   oomp_key_simple: sparkfun_aesthetics_rohs_logo_0_18_in
   owner: sparkfun
   repo:

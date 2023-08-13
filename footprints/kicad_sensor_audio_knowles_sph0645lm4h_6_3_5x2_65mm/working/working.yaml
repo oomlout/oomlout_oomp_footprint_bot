@@ -1,5 +1,8 @@
-- error: Expression does not have the correct type
-  file: libraries/kicad-footprints/Sensor_Audio.pretty/Knowles_SPH0645LM4H-6_3.5x2.65mm.kicad_mod
+- file: libraries/kicad-footprints/Sensor_Audio.pretty/Knowles_SPH0645LM4H-6_3.5x2.65mm.kicad_mod
+  footprint:
+    description: 'Knowles MEMS I2S Microphone: https://www.knowles.com/subdepartment/dpt-microphones/subdpt-sisonic-surface-mount-mems'
+    libraryLink: Knowles_SPH0645LM4H-6_3.5x2.65mm
+    number_of_pads: 7
   footprint_library_directory: footprint_library_owner/kicad_libraries/kicad-footprints/
   footprint_library_directory_flat: footprints_flat/kicad_sensor_audio_knowles_sph0645lm4h_6_3_5x2_65mm/working
   github_path: http://github.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Sensor_Audio.pretty/Knowles_SPH0645LM4H-6_3.5x2.65mm.kicad_mod
@@ -8,17 +11,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_sensor_audio_knowles_sph0645lm4h_6_3_5x2_65mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_sensor_audio_knowles_sph0645lm4h_6_3_5x2_65mm/working
-    oomp_doc: footprints/footprints/kicad/Sensor_Audio/Knowles_SPH0645LM4H-6_3.5x2.65mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Sensor_Audio/Knowles_SPH0645LM4H-6_3.5x2.65mm/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_sensor_audio_knowles_sph0645lm4h_6_3_5x2_65mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_sensor_audio_knowles_sph0645lm4h_6_3_5x2_65mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Sensor_Audio/Knowles_SPH0645LM4H-6_3.5x2.65mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Sensor_Audio/Knowles_SPH0645LM4H-6_3.5x2.65mm/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: knowles_sph0645lm4h_6_3_5x2_65mm
+    library_name: sensor_audio
+    md5: 29b9077813ac1d4bcd9641e7acb08bc0
+    md5_10: 29b9077813
+    md5_5: 29b90
+    md5_6: 29b907
+    oomp_key: oomp_kicad_sensor_audio_knowles_sph0645lm4h_6_3_5x2_65mm
+    oomp_key_extra: oomp_footprint_kicad_sensor_audio_knowles_sph0645lm4h_6_3_5x2_65mm
+    oomp_key_full: oomp_footprint_kicad_sensor_audio_knowles_sph0645lm4h_6_3_5x2_65mm_29b907
+    oomp_key_simple: kicad_sensor_audio_knowles_sph0645lm4h_6_3_5x2_65mm
+    original_filename: libraries/kicad-footprints/Sensor_Audio.pretty/Knowles_SPH0645LM4H-6_3.5x2.65mm.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_sensor_audio_knowles_sph0645lm4h_6_3_5x2_65mm
+  oomp_key_full: oomp_footprint_kicad_sensor_audio_knowles_sph0645lm4h_6_3_5x2_65mm
   oomp_key_simple: kicad_sensor_audio_knowles_sph0645lm4h_6_3_5x2_65mm
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

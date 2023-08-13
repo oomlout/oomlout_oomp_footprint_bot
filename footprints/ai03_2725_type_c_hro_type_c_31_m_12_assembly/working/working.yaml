@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/ai03-2725/Type-C.pretty
     oomp_bot: footprints/ai03_2725_type_c_hro_type_c_31_m_12_assembly/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ai03_2725_type_c_hro_type_c_31_m_12_assembly/working
-    oomp_doc: footprints/footprints/ai03-2725/Type-C/HRO-TYPE-C-31-M-12-Assembly/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ai03-2725/Type-C/HRO-TYPE-C-31-M-12-Assembly/working
     oomp_src_flat: footprints_flat/footprints_flat/ai03_2725_type_c_hro_type_c_31_m_12_assembly/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ai03_2725_type_c_hro_type_c_31_m_12_assembly/working
-    oomp_src_folder: footprints_folder/footprints_folder/ai03-2725/Type-C/HRO-TYPE-C-31-M-12-Assembly/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ai03-2725/Type-C/HRO-TYPE-C-31-M-12-Assembly/working
   name: Type-C.pretty
+  oomp:
+    footprint_name: hro_type_c_31_m_12_assembly
+    library_name: type_c
+    md5: bf8053cf85b93054471159bf254e2d94
+    md5_10: bf8053cf85
+    md5_5: bf805
+    md5_6: bf8053
+    oomp_key: oomp_ai03_2725_type_c_hro_type_c_31_m_12_assembly
+    oomp_key_extra: oomp_footprint_ai03_2725_type_c_hro_type_c_31_m_12_assembly
+    oomp_key_full: oomp_footprint_ai03_2725_type_c_hro_type_c_31_m_12_assembly_bf8053
+    oomp_key_simple: ai03_2725_type_c_hro_type_c_31_m_12_assembly
+    original_filename: Type-C.pretty/HRO-TYPE-C-31-M-12-Assembly.kicad_mod
+    owner_name: ai03_2725
   oomp_key: oomp_ai03_2725_type_c_hro_type_c_31_m_12_assembly
+  oomp_key_full: oomp_footprint_ai03_2725_type_c_hro_type_c_31_m_12_assembly
   oomp_key_simple: ai03_2725_type_c_hro_type_c_31_m_12_assembly
   owner: ai03-2725
   repo:

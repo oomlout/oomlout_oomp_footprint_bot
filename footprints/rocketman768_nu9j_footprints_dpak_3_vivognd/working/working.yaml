@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/rocketman768_nu9j_footprints_dpak_3_vivognd/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/rocketman768_nu9j_footprints_dpak_3_vivognd/working
-    oomp_doc: footprints/footprints/rocketman768/nu9j-footprints/DPAK-3_VIVOGND/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/rocketman768/nu9j-footprints/DPAK-3_VIVOGND/working
     oomp_src_flat: footprints_flat/footprints_flat/rocketman768_nu9j_footprints_dpak_3_vivognd/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/rocketman768_nu9j_footprints_dpak_3_vivognd/working
-    oomp_src_folder: footprints_folder/footprints_folder/rocketman768/nu9j-footprints/DPAK-3_VIVOGND/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/rocketman768/nu9j-footprints/DPAK-3_VIVOGND/working
   name: nu9j-footprints.pretty
+  oomp:
+    footprint_name: dpak_3_vivognd
+    library_name: nu9j_footprints
+    md5: 16efa42283be627f0d5394c6426a6be7
+    md5_10: 16efa42283
+    md5_5: 16efa
+    md5_6: 16efa4
+    oomp_key: oomp_rocketman768_nu9j_footprints_dpak_3_vivognd
+    oomp_key_extra: oomp_footprint_rocketman768_nu9j_footprints_dpak_3_vivognd
+    oomp_key_full: oomp_footprint_rocketman768_nu9j_footprints_dpak_3_vivognd_16efa4
+    oomp_key_simple: rocketman768_nu9j_footprints_dpak_3_vivognd
+    original_filename: nu9j-footprints.pretty/DPAK-3_VIVOGND.kicad_mod
+    owner_name: rocketman768
   oomp_key: oomp_rocketman768_nu9j_footprints_dpak_3_vivognd
+  oomp_key_full: oomp_footprint_rocketman768_nu9j_footprints_dpak_3_vivognd
   oomp_key_simple: rocketman768_nu9j_footprints_dpak_3_vivognd
   owner: rocketman768
   repo:

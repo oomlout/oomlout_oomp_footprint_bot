@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/ashtonchase/Battery_Holders.pretty
     oomp_bot: footprints/ashtonchase_battery_holders_batteryholder_coincell_keystone_106/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ashtonchase_battery_holders_batteryholder_coincell_keystone_106/working
-    oomp_doc: footprints/footprints/ashtonchase/Battery_Holders/BatteryHolder_CoinCell_Keystone_106/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ashtonchase/Battery_Holders/BatteryHolder_CoinCell_Keystone_106/working
     oomp_src_flat: footprints_flat/footprints_flat/ashtonchase_battery_holders_batteryholder_coincell_keystone_106/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ashtonchase_battery_holders_batteryholder_coincell_keystone_106/working
-    oomp_src_folder: footprints_folder/footprints_folder/ashtonchase/Battery_Holders/BatteryHolder_CoinCell_Keystone_106/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ashtonchase/Battery_Holders/BatteryHolder_CoinCell_Keystone_106/working
   name: Battery_Holders.pretty
+  oomp:
+    footprint_name: batteryholder_coincell_keystone_106
+    library_name: battery_holders
+    md5: 147e9617bd4c048b874844d7b1e27ddb
+    md5_10: 147e9617bd
+    md5_5: 147e9
+    md5_6: 147e96
+    oomp_key: oomp_ashtonchase_battery_holders_batteryholder_coincell_keystone_106
+    oomp_key_extra: oomp_footprint_ashtonchase_battery_holders_batteryholder_coincell_keystone_106
+    oomp_key_full: oomp_footprint_ashtonchase_battery_holders_batteryholder_coincell_keystone_106_147e96
+    oomp_key_simple: ashtonchase_battery_holders_batteryholder_coincell_keystone_106
+    original_filename: Battery_Holders.pretty/BatteryHolder_CoinCell_Keystone_106.kicad_mod
+    owner_name: ashtonchase
   oomp_key: oomp_ashtonchase_battery_holders_batteryholder_coincell_keystone_106
+  oomp_key_full: oomp_footprint_ashtonchase_battery_holders_batteryholder_coincell_keystone_106
   oomp_key_simple: ashtonchase_battery_holders_batteryholder_coincell_keystone_106
   owner: ashtonchase
   repo:

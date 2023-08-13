@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/electroniccats_signalcommunications_signalcommunications_749020111a/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/electroniccats_signalcommunications_signalcommunications_749020111a/working
-    oomp_doc: footprints/footprints/ElectronicCats/SignalCommunications/SignalCommunications-749020111A/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ElectronicCats/SignalCommunications/SignalCommunications-749020111A/working
     oomp_src_flat: footprints_flat/footprints_flat/electroniccats_signalcommunications_signalcommunications_749020111a/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/electroniccats_signalcommunications_signalcommunications_749020111a/working
-    oomp_src_folder: footprints_folder/footprints_folder/ElectronicCats/SignalCommunications/SignalCommunications-749020111A/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ElectronicCats/SignalCommunications/SignalCommunications-749020111A/working
   name: ComponentLibrariesKicadWurthElektronik
+  oomp:
+    footprint_name: signalcommunications_749020111a
+    library_name: signalcommunications
+    md5: 947bb857c16261cca1e56debdbfeef15
+    md5_10: 947bb857c1
+    md5_5: 947bb
+    md5_6: 947bb8
+    oomp_key: oomp_electroniccats_signalcommunications_signalcommunications_749020111a
+    oomp_key_extra: oomp_footprint_electroniccats_signalcommunications_signalcommunications_749020111a
+    oomp_key_full: oomp_footprint_electroniccats_signalcommunications_signalcommunications_749020111a_947bb8
+    oomp_key_simple: electroniccats_signalcommunications_signalcommunications_749020111a
+    original_filename: ComponentLibrariesKicadWurthElektronik/SIGNAL-COMMUNICATIONS-rev18a/SignalCommunications.pretty/SignalCommunications-749020111A.kicad_mod
+    owner_name: electroniccats
   oomp_key: oomp_electroniccats_signalcommunications_signalcommunications_749020111a
+  oomp_key_full: oomp_footprint_electroniccats_signalcommunications_signalcommunications_749020111a
   oomp_key_simple: electroniccats_signalcommunications_signalcommunications_749020111a
   owner: ElectronicCats
   repo:

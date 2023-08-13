@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/KUT-KiCad/KUT_uController.pretty
     oomp_bot: footprints/kut_kicad_kut_ucontroller_qfn_68_8x8mm_pitch0_4mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kut_kicad_kut_ucontroller_qfn_68_8x8mm_pitch0_4mm/working
-    oomp_doc: footprints/footprints/KUT-KiCad/KUT_uController/QFN-68_8x8mm_Pitch0.4mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/KUT-KiCad/KUT_uController/QFN-68_8x8mm_Pitch0.4mm/working
     oomp_src_flat: footprints_flat/footprints_flat/kut_kicad_kut_ucontroller_qfn_68_8x8mm_pitch0_4mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kut_kicad_kut_ucontroller_qfn_68_8x8mm_pitch0_4mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/KUT-KiCad/KUT_uController/QFN-68_8x8mm_Pitch0.4mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/KUT-KiCad/KUT_uController/QFN-68_8x8mm_Pitch0.4mm/working
   name: KUT_uController.pretty
+  oomp:
+    footprint_name: qfn_68_8x8mm_pitch0_4mm
+    library_name: kut_ucontroller
+    md5: 71a495d53df433f8e70f839a9c056c95
+    md5_10: 71a495d53d
+    md5_5: 71a49
+    md5_6: 71a495
+    oomp_key: oomp_kut_kicad_kut_ucontroller_qfn_68_8x8mm_pitch0_4mm
+    oomp_key_extra: oomp_footprint_kut_kicad_kut_ucontroller_qfn_68_8x8mm_pitch0_4mm
+    oomp_key_full: oomp_footprint_kut_kicad_kut_ucontroller_qfn_68_8x8mm_pitch0_4mm_71a495
+    oomp_key_simple: kut_kicad_kut_ucontroller_qfn_68_8x8mm_pitch0_4mm
+    original_filename: KUT_uController.pretty/QFN-68_8x8mm_Pitch0.4mm.kicad_mod
+    owner_name: kut_kicad
   oomp_key: oomp_kut_kicad_kut_ucontroller_qfn_68_8x8mm_pitch0_4mm
+  oomp_key_full: oomp_footprint_kut_kicad_kut_ucontroller_qfn_68_8x8mm_pitch0_4mm
   oomp_key_simple: kut_kicad_kut_ucontroller_qfn_68_8x8mm_pitch0_4mm
   owner: KUT-KiCad
   repo:

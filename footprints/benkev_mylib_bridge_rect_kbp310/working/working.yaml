@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/benkev_mylib_bridge_rect_kbp310/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/benkev_mylib_bridge_rect_kbp310/working
-    oomp_doc: footprints/footprints/benkev/myLib/BRIDGE_RECT_KBP310/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/benkev/myLib/BRIDGE_RECT_KBP310/working
     oomp_src_flat: footprints_flat/footprints_flat/benkev_mylib_bridge_rect_kbp310/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/benkev_mylib_bridge_rect_kbp310/working
-    oomp_src_folder: footprints_folder/footprints_folder/benkev/myLib/BRIDGE_RECT_KBP310/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/benkev/myLib/BRIDGE_RECT_KBP310/working
   name: myLib.pretty
+  oomp:
+    footprint_name: bridge_rect_kbp310
+    library_name: mylib
+    md5: 939b103c9d9e800124acab4cb3bb4c58
+    md5_10: 939b103c9d
+    md5_5: 939b1
+    md5_6: 939b10
+    oomp_key: oomp_benkev_mylib_bridge_rect_kbp310
+    oomp_key_extra: oomp_footprint_benkev_mylib_bridge_rect_kbp310
+    oomp_key_full: oomp_footprint_benkev_mylib_bridge_rect_kbp310_939b10
+    oomp_key_simple: benkev_mylib_bridge_rect_kbp310
+    original_filename: myLib.pretty/BRIDGE_RECT_KBP310.kicad_mod
+    owner_name: benkev
   oomp_key: oomp_benkev_mylib_bridge_rect_kbp310
+  oomp_key_full: oomp_footprint_benkev_mylib_bridge_rect_kbp310
   oomp_key_simple: benkev_mylib_bridge_rect_kbp310
   owner: benkev
   repo:

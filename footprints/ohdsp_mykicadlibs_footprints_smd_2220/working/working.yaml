@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/ohdsp_mykicadlibs_footprints_smd_2220/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ohdsp_mykicadlibs_footprints_smd_2220/working
-    oomp_doc: footprints/footprints/ohdsp/MyKiCadLibs-Footprints/SMD-2220/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ohdsp/MyKiCadLibs-Footprints/SMD-2220/working
     oomp_src_flat: footprints_flat/footprints_flat/ohdsp_mykicadlibs_footprints_smd_2220/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ohdsp_mykicadlibs_footprints_smd_2220/working
-    oomp_src_folder: footprints_folder/footprints_folder/ohdsp/MyKiCadLibs-Footprints/SMD-2220/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ohdsp/MyKiCadLibs-Footprints/SMD-2220/working
   name: KiCad-Libs
+  oomp:
+    footprint_name: smd_2220
+    library_name: mykicadlibs_footprints
+    md5: e52a1ce571c10b3638539327c4cc7e83
+    md5_10: e52a1ce571
+    md5_5: e52a1
+    md5_6: e52a1c
+    oomp_key: oomp_ohdsp_mykicadlibs_footprints_smd_2220
+    oomp_key_extra: oomp_footprint_ohdsp_mykicadlibs_footprints_smd_2220
+    oomp_key_full: oomp_footprint_ohdsp_mykicadlibs_footprints_smd_2220_e52a1c
+    oomp_key_simple: ohdsp_mykicadlibs_footprints_smd_2220
+    original_filename: KiCad-Libs/MyKiCadLibs-Footprints.pretty/SMD-2220.kicad_mod
+    owner_name: ohdsp
   oomp_key: oomp_ohdsp_mykicadlibs_footprints_smd_2220
+  oomp_key_full: oomp_footprint_ohdsp_mykicadlibs_footprints_smd_2220
   oomp_key_simple: ohdsp_mykicadlibs_footprints_smd_2220
   owner: ohdsp
   repo:

@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/arturo182/kicad-modules
     oomp_bot: footprints/arturo182_symbols_extra_solderparty_logo_13_5x12_6mm_silkscreen/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/arturo182_symbols_extra_solderparty_logo_13_5x12_6mm_silkscreen/working
-    oomp_doc: footprints/footprints/arturo182/Symbols_Extra/SolderParty-Logo_13.5x12.6mm_SilkScreen/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/arturo182/Symbols_Extra/SolderParty-Logo_13.5x12.6mm_SilkScreen/working
     oomp_src_flat: footprints_flat/footprints_flat/arturo182_symbols_extra_solderparty_logo_13_5x12_6mm_silkscreen/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/arturo182_symbols_extra_solderparty_logo_13_5x12_6mm_silkscreen/working
-    oomp_src_folder: footprints_folder/footprints_folder/arturo182/Symbols_Extra/SolderParty-Logo_13.5x12.6mm_SilkScreen/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/arturo182/Symbols_Extra/SolderParty-Logo_13.5x12.6mm_SilkScreen/working
   name: kicad-modules
+  oomp:
+    footprint_name: solderparty_logo_13_5x12_6mm_silkscreen
+    library_name: symbols_extra
+    md5: 65cf0a82c96c394d751b9d5c85387b63
+    md5_10: 65cf0a82c9
+    md5_5: 65cf0
+    md5_6: 65cf0a
+    oomp_key: oomp_arturo182_symbols_extra_solderparty_logo_13_5x12_6mm_silkscreen
+    oomp_key_extra: oomp_footprint_arturo182_symbols_extra_solderparty_logo_13_5x12_6mm_silkscreen
+    oomp_key_full: oomp_footprint_arturo182_symbols_extra_solderparty_logo_13_5x12_6mm_silkscreen_65cf0a
+    oomp_key_simple: arturo182_symbols_extra_solderparty_logo_13_5x12_6mm_silkscreen
+    original_filename: kicad-modules/Symbols_Extra.pretty/SolderParty-Logo_13.5x12.6mm_SilkScreen.kicad_mod
+    owner_name: arturo182
   oomp_key: oomp_arturo182_symbols_extra_solderparty_logo_13_5x12_6mm_silkscreen
+  oomp_key_full: oomp_footprint_arturo182_symbols_extra_solderparty_logo_13_5x12_6mm_silkscreen
   oomp_key_simple: arturo182_symbols_extra_solderparty_logo_13_5x12_6mm_silkscreen
   owner: arturo182
   repo:

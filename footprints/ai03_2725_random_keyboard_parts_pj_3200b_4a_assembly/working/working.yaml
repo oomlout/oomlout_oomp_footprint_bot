@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/ai03-2725/random-keyboard-parts.pretty
     oomp_bot: footprints/ai03_2725_random_keyboard_parts_pj_3200b_4a_assembly/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ai03_2725_random_keyboard_parts_pj_3200b_4a_assembly/working
-    oomp_doc: footprints/footprints/ai03-2725/random-keyboard-parts/PJ-3200B-4A-Assembly/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ai03-2725/random-keyboard-parts/PJ-3200B-4A-Assembly/working
     oomp_src_flat: footprints_flat/footprints_flat/ai03_2725_random_keyboard_parts_pj_3200b_4a_assembly/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ai03_2725_random_keyboard_parts_pj_3200b_4a_assembly/working
-    oomp_src_folder: footprints_folder/footprints_folder/ai03-2725/random-keyboard-parts/PJ-3200B-4A-Assembly/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ai03-2725/random-keyboard-parts/PJ-3200B-4A-Assembly/working
   name: random-keyboard-parts.pretty
+  oomp:
+    footprint_name: pj_3200b_4a_assembly
+    library_name: random_keyboard_parts
+    md5: 477c8e8819801406f6bc656b5838edf4
+    md5_10: 477c8e8819
+    md5_5: 477c8
+    md5_6: 477c8e
+    oomp_key: oomp_ai03_2725_random_keyboard_parts_pj_3200b_4a_assembly
+    oomp_key_extra: oomp_footprint_ai03_2725_random_keyboard_parts_pj_3200b_4a_assembly
+    oomp_key_full: oomp_footprint_ai03_2725_random_keyboard_parts_pj_3200b_4a_assembly_477c8e
+    oomp_key_simple: ai03_2725_random_keyboard_parts_pj_3200b_4a_assembly
+    original_filename: random-keyboard-parts.pretty/PJ-3200B-4A-Assembly.kicad_mod
+    owner_name: ai03_2725
   oomp_key: oomp_ai03_2725_random_keyboard_parts_pj_3200b_4a_assembly
+  oomp_key_full: oomp_footprint_ai03_2725_random_keyboard_parts_pj_3200b_4a_assembly
   oomp_key_simple: ai03_2725_random_keyboard_parts_pj_3200b_4a_assembly
   owner: ai03-2725
   repo:

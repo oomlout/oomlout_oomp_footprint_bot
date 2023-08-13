@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/ohdsp_mykicadlibs_footprints_sw_tact_smd_fsmsm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ohdsp_mykicadlibs_footprints_sw_tact_smd_fsmsm/working
-    oomp_doc: footprints/footprints/ohdsp/MyKiCadLibs-Footprints/SW_TACT_SMD_FSMSM/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ohdsp/MyKiCadLibs-Footprints/SW_TACT_SMD_FSMSM/working
     oomp_src_flat: footprints_flat/footprints_flat/ohdsp_mykicadlibs_footprints_sw_tact_smd_fsmsm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ohdsp_mykicadlibs_footprints_sw_tact_smd_fsmsm/working
-    oomp_src_folder: footprints_folder/footprints_folder/ohdsp/MyKiCadLibs-Footprints/SW_TACT_SMD_FSMSM/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ohdsp/MyKiCadLibs-Footprints/SW_TACT_SMD_FSMSM/working
   name: KiCad-Libs
+  oomp:
+    footprint_name: sw_tact_smd_fsmsm
+    library_name: mykicadlibs_footprints
+    md5: 14a3136f7fb786c3655f7e58df7a9289
+    md5_10: 14a3136f7f
+    md5_5: 14a31
+    md5_6: 14a313
+    oomp_key: oomp_ohdsp_mykicadlibs_footprints_sw_tact_smd_fsmsm
+    oomp_key_extra: oomp_footprint_ohdsp_mykicadlibs_footprints_sw_tact_smd_fsmsm
+    oomp_key_full: oomp_footprint_ohdsp_mykicadlibs_footprints_sw_tact_smd_fsmsm_14a313
+    oomp_key_simple: ohdsp_mykicadlibs_footprints_sw_tact_smd_fsmsm
+    original_filename: KiCad-Libs/MyKiCadLibs-Footprints.pretty/SW_TACT_SMD_FSMSM.kicad_mod
+    owner_name: ohdsp
   oomp_key: oomp_ohdsp_mykicadlibs_footprints_sw_tact_smd_fsmsm
+  oomp_key_full: oomp_footprint_ohdsp_mykicadlibs_footprints_sw_tact_smd_fsmsm
   oomp_key_simple: ohdsp_mykicadlibs_footprints_sw_tact_smd_fsmsm
   owner: ohdsp
   repo:

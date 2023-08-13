@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/olimex_freetronics_footprints_logo_freetronics_11mm_soldermask/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/olimex_freetronics_footprints_logo_freetronics_11mm_soldermask/working
-    oomp_doc: footprints/footprints/OLIMEX/freetronics_footprints/LOGO_FREETRONICS_11mm_SolderMask/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/OLIMEX/freetronics_footprints/LOGO_FREETRONICS_11mm_SolderMask/working
     oomp_src_flat: footprints_flat/footprints_flat/olimex_freetronics_footprints_logo_freetronics_11mm_soldermask/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/olimex_freetronics_footprints_logo_freetronics_11mm_soldermask/working
-    oomp_src_folder: footprints_folder/footprints_folder/OLIMEX/freetronics_footprints/LOGO_FREETRONICS_11mm_SolderMask/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/OLIMEX/freetronics_footprints/LOGO_FREETRONICS_11mm_SolderMask/working
   name: KiCAD
+  oomp:
+    footprint_name: logo_freetronics_11mm_soldermask
+    library_name: freetronics_footprints
+    md5: 816ed81c908f7c939ef4a7a7d9cb8d65
+    md5_10: 816ed81c90
+    md5_5: 816ed
+    md5_6: 816ed8
+    oomp_key: oomp_olimex_freetronics_footprints_logo_freetronics_11mm_soldermask
+    oomp_key_extra: oomp_footprint_olimex_freetronics_footprints_logo_freetronics_11mm_soldermask
+    oomp_key_full: oomp_footprint_olimex_freetronics_footprints_logo_freetronics_11mm_soldermask_816ed8
+    oomp_key_simple: olimex_freetronics_footprints_logo_freetronics_11mm_soldermask
+    original_filename: KiCAD/mods/freetronics_footprints.pretty/LOGO_FREETRONICS_11mm_SolderMask.kicad_mod
+    owner_name: olimex
   oomp_key: oomp_olimex_freetronics_footprints_logo_freetronics_11mm_soldermask
+  oomp_key_full: oomp_footprint_olimex_freetronics_footprints_logo_freetronics_11mm_soldermask
   oomp_key_simple: olimex_freetronics_footprints_logo_freetronics_11mm_soldermask
   owner: OLIMEX
   repo:

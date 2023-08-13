@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/joanthespark_1p_esp32_v0_1_stps2l40u/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/joanthespark_1p_esp32_v0_1_stps2l40u/working
-    oomp_doc: footprints/footprints/JoanTheSpark/1p-esp32-v0.1/STPS2L40U/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/JoanTheSpark/1p-esp32-v0.1/STPS2L40U/working
     oomp_src_flat: footprints_flat/footprints_flat/joanthespark_1p_esp32_v0_1_stps2l40u/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/joanthespark_1p_esp32_v0_1_stps2l40u/working
-    oomp_src_folder: footprints_folder/footprints_folder/JoanTheSpark/1p-esp32-v0.1/STPS2L40U/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/JoanTheSpark/1p-esp32-v0.1/STPS2L40U/working
   name: KiCAD
+  oomp:
+    footprint_name: stps2l40u
+    library_name: 1p_esp32_v0_1
+    md5: db2582721324ac631f603e79ad5222c1
+    md5_10: db25827213
+    md5_5: db258
+    md5_6: db2582
+    oomp_key: oomp_joanthespark_1p_esp32_v0_1_stps2l40u
+    oomp_key_extra: oomp_footprint_joanthespark_1p_esp32_v0_1_stps2l40u
+    oomp_key_full: oomp_footprint_joanthespark_1p_esp32_v0_1_stps2l40u_db2582
+    oomp_key_simple: joanthespark_1p_esp32_v0_1_stps2l40u
+    original_filename: KiCAD/6.0/projects/1w-grove-v0.1/1p-esp32-v0.1.pretty/STPS2L40U.kicad_mod
+    owner_name: joanthespark
   oomp_key: oomp_joanthespark_1p_esp32_v0_1_stps2l40u
+  oomp_key_full: oomp_footprint_joanthespark_1p_esp32_v0_1_stps2l40u
   oomp_key_simple: joanthespark_1p_esp32_v0_1_stps2l40u
   owner: JoanTheSpark
   repo:

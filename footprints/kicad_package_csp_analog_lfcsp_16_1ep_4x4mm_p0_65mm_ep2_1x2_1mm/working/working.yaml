@@ -1,5 +1,9 @@
-- error: Expression does not have the correct type
-  file: libraries/kicad-footprints/Package_CSP.pretty/Analog_LFCSP-16-1EP_4x4mm_P0.65mm_EP2.1x2.1mm.kicad_mod
+- file: libraries/kicad-footprints/Package_CSP.pretty/Analog_LFCSP-16-1EP_4x4mm_P0.65mm_EP2.1x2.1mm.kicad_mod
+  footprint:
+    description: Analog  LFCSP, 16 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp_16_23.pdf,
+      CP-16-23), generated with kicad-footprint-generator ipc_noLead_generator.py
+    libraryLink: Analog_LFCSP-16-1EP_4x4mm_P0.65mm_EP2.1x2.1mm
+    number_of_pads: 21
   footprint_library_directory: footprint_library_owner/kicad_libraries/kicad-footprints/
   footprint_library_directory_flat: footprints_flat/kicad_package_csp_analog_lfcsp_16_1ep_4x4mm_p0_65mm_ep2_1x2_1mm/working
   github_path: http://github.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Package_CSP.pretty/Analog_LFCSP-16-1EP_4x4mm_P0.65mm_EP2.1x2.1mm.kicad_mod
@@ -8,17 +12,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_package_csp_analog_lfcsp_16_1ep_4x4mm_p0_65mm_ep2_1x2_1mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_package_csp_analog_lfcsp_16_1ep_4x4mm_p0_65mm_ep2_1x2_1mm/working
-    oomp_doc: footprints/footprints/kicad/Package_CSP/Analog_LFCSP-16-1EP_4x4mm_P0.65mm_EP2.1x2.1mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Package_CSP/Analog_LFCSP-16-1EP_4x4mm_P0.65mm_EP2.1x2.1mm/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_package_csp_analog_lfcsp_16_1ep_4x4mm_p0_65mm_ep2_1x2_1mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_package_csp_analog_lfcsp_16_1ep_4x4mm_p0_65mm_ep2_1x2_1mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Package_CSP/Analog_LFCSP-16-1EP_4x4mm_P0.65mm_EP2.1x2.1mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Package_CSP/Analog_LFCSP-16-1EP_4x4mm_P0.65mm_EP2.1x2.1mm/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: analog_lfcsp_16_1ep_4x4mm_p0_65mm_ep2_1x2_1mm
+    library_name: package_csp
+    md5: f7bd438d1101a8dcc95c098eda5a332e
+    md5_10: f7bd438d11
+    md5_5: f7bd4
+    md5_6: f7bd43
+    oomp_key: oomp_kicad_package_csp_analog_lfcsp_16_1ep_4x4mm_p0_65mm_ep2_1x2_1mm
+    oomp_key_extra: oomp_footprint_kicad_package_csp_analog_lfcsp_16_1ep_4x4mm_p0_65mm_ep2_1x2_1mm
+    oomp_key_full: oomp_footprint_kicad_package_csp_analog_lfcsp_16_1ep_4x4mm_p0_65mm_ep2_1x2_1mm_f7bd43
+    oomp_key_simple: kicad_package_csp_analog_lfcsp_16_1ep_4x4mm_p0_65mm_ep2_1x2_1mm
+    original_filename: libraries/kicad-footprints/Package_CSP.pretty/Analog_LFCSP-16-1EP_4x4mm_P0.65mm_EP2.1x2.1mm.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_package_csp_analog_lfcsp_16_1ep_4x4mm_p0_65mm_ep2_1x2_1mm
+  oomp_key_full: oomp_footprint_kicad_package_csp_analog_lfcsp_16_1ep_4x4mm_p0_65mm_ep2_1x2_1mm
   oomp_key_simple: kicad_package_csp_analog_lfcsp_16_1ep_4x4mm_p0_65mm_ep2_1x2_1mm
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

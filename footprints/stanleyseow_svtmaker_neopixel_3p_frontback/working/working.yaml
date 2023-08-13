@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/stanleyseow_svtmaker_neopixel_3p_frontback/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stanleyseow_svtmaker_neopixel_3p_frontback/working
-    oomp_doc: footprints/footprints/stanleyseow/SVTmaker/Neopixel-3P_frontback/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/stanleyseow/SVTmaker/Neopixel-3P_frontback/working
     oomp_src_flat: footprints_flat/footprints_flat/stanleyseow_svtmaker_neopixel_3p_frontback/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/stanleyseow_svtmaker_neopixel_3p_frontback/working
-    oomp_src_folder: footprints_folder/footprints_folder/stanleyseow/SVTmaker/Neopixel-3P_frontback/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/stanleyseow/SVTmaker/Neopixel-3P_frontback/working
   name: SVTmaker.pretty
+  oomp:
+    footprint_name: neopixel_3p_frontback
+    library_name: svtmaker
+    md5: 521e5d692d3eb7a364bd7896dac572a2
+    md5_10: 521e5d692d
+    md5_5: 521e5
+    md5_6: 521e5d
+    oomp_key: oomp_stanleyseow_svtmaker_neopixel_3p_frontback
+    oomp_key_extra: oomp_footprint_stanleyseow_svtmaker_neopixel_3p_frontback
+    oomp_key_full: oomp_footprint_stanleyseow_svtmaker_neopixel_3p_frontback_521e5d
+    oomp_key_simple: stanleyseow_svtmaker_neopixel_3p_frontback
+    original_filename: SVTmaker.pretty/Neopixel-3P_frontback.kicad_mod
+    owner_name: stanleyseow
   oomp_key: oomp_stanleyseow_svtmaker_neopixel_3p_frontback
+  oomp_key_full: oomp_footprint_stanleyseow_svtmaker_neopixel_3p_frontback
   oomp_key_simple: stanleyseow_svtmaker_neopixel_3p_frontback
   owner: stanleyseow
   repo:

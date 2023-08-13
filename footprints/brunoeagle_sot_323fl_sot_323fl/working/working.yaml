@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_sot_323fl_sot_323fl/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_sot_323fl_sot_323fl/working
-    oomp_doc: footprints/footprints/brunoeagle/SOT-323FL.kicad_mod/SOT-323FL/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/SOT-323FL.kicad_mod/SOT-323FL/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_sot_323fl_sot_323fl/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_sot_323fl_sot_323fl/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/SOT-323FL.kicad_mod/SOT-323FL/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/SOT-323FL.kicad_mod/SOT-323FL/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: sot_323fl
+    library_name: sot_323fl_kicad_mod
+    md5: 68286bf7c1f70de804f60d1bfc735fb0
+    md5_10: 68286bf7c1
+    md5_5: '68286'
+    md5_6: 68286b
+    oomp_key: oomp_brunoeagle_sot_323fl_sot_323fl
+    oomp_key_extra: oomp_footprint_brunoeagle_sot_323fl_sot_323fl
+    oomp_key_full: oomp_footprint_brunoeagle_sot_323fl_sot_323fl_68286b
+    oomp_key_simple: brunoeagle_sot_323fl_sot_323fl
+    original_filename: kicad-open-modules/SOT-323FL.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_sot_323fl_sot_323fl
+  oomp_key_full: oomp_footprint_brunoeagle_sot_323fl_sot_323fl
   oomp_key_simple: brunoeagle_sot_323fl_sot_323fl
   owner: brunoeagle
   repo:

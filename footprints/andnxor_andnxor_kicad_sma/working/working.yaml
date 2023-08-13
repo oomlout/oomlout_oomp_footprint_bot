@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/ANDnXOR/ANDnXOR-Kicad.pretty
     oomp_bot: footprints/andnxor_andnxor_kicad_sma/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/andnxor_andnxor_kicad_sma/working
-    oomp_doc: footprints/footprints/ANDnXOR/ANDnXOR-Kicad/SMA/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ANDnXOR/ANDnXOR-Kicad/SMA/working
     oomp_src_flat: footprints_flat/footprints_flat/andnxor_andnxor_kicad_sma/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/andnxor_andnxor_kicad_sma/working
-    oomp_src_folder: footprints_folder/footprints_folder/ANDnXOR/ANDnXOR-Kicad/SMA/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ANDnXOR/ANDnXOR-Kicad/SMA/working
   name: ANDnXOR-Kicad.pretty
+  oomp:
+    footprint_name: sma
+    library_name: andnxor_kicad
+    md5: 4f56aabd3c7a194f4631169e018a6dd5
+    md5_10: 4f56aabd3c
+    md5_5: 4f56a
+    md5_6: 4f56aa
+    oomp_key: oomp_andnxor_andnxor_kicad_sma
+    oomp_key_extra: oomp_footprint_andnxor_andnxor_kicad_sma
+    oomp_key_full: oomp_footprint_andnxor_andnxor_kicad_sma_4f56aa
+    oomp_key_simple: andnxor_andnxor_kicad_sma
+    original_filename: ANDnXOR-Kicad.pretty/SMA.kicad_mod
+    owner_name: andnxor
   oomp_key: oomp_andnxor_andnxor_kicad_sma
+  oomp_key_full: oomp_footprint_andnxor_andnxor_kicad_sma
   oomp_key_simple: andnxor_andnxor_kicad_sma
   owner: ANDnXOR
   repo:

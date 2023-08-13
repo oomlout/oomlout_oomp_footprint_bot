@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pcsmithy_custom_tp_1x1/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pcsmithy_custom_tp_1x1/working
-    oomp_doc: footprints/footprints/PCSmithy/custom/TP_1x1/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/PCSmithy/custom/TP_1x1/working
     oomp_src_flat: footprints_flat/footprints_flat/pcsmithy_custom_tp_1x1/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pcsmithy_custom_tp_1x1/working
-    oomp_src_folder: footprints_folder/footprints_folder/PCSmithy/custom/TP_1x1/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/PCSmithy/custom/TP_1x1/working
   name: custom.pretty
+  oomp:
+    footprint_name: tp_1x1
+    library_name: custom
+    md5: 57c81a8955ecf7427a5d91c530e48d1b
+    md5_10: 57c81a8955
+    md5_5: 57c81
+    md5_6: 57c81a
+    oomp_key: oomp_pcsmithy_custom_tp_1x1
+    oomp_key_extra: oomp_footprint_pcsmithy_custom_tp_1x1
+    oomp_key_full: oomp_footprint_pcsmithy_custom_tp_1x1_57c81a
+    oomp_key_simple: pcsmithy_custom_tp_1x1
+    original_filename: custom.pretty/TP_1x1.kicad_mod
+    owner_name: pcsmithy
   oomp_key: oomp_pcsmithy_custom_tp_1x1
+  oomp_key_full: oomp_footprint_pcsmithy_custom_tp_1x1
   oomp_key_simple: pcsmithy_custom_tp_1x1
   owner: PCSmithy
   repo:

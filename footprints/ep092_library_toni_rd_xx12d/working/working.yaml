@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/ep092_library_toni_rd_xx12d/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ep092_library_toni_rd_xx12d/working
-    oomp_doc: footprints/footprints/ep092/library_toni/RD-xx12D/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ep092/library_toni/RD-xx12D/working
     oomp_src_flat: footprints_flat/footprints_flat/ep092_library_toni_rd_xx12d/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ep092_library_toni_rd_xx12d/working
-    oomp_src_folder: footprints_folder/footprints_folder/ep092/library_toni/RD-xx12D/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ep092/library_toni/RD-xx12D/working
   name: library_toni.pretty
+  oomp:
+    footprint_name: rd_xx12d
+    library_name: library_toni
+    md5: 1d300717d5e3a421c2f08bb4b894ebb0
+    md5_10: 1d300717d5
+    md5_5: 1d300
+    md5_6: 1d3007
+    oomp_key: oomp_ep092_library_toni_rd_xx12d
+    oomp_key_extra: oomp_footprint_ep092_library_toni_rd_xx12d
+    oomp_key_full: oomp_footprint_ep092_library_toni_rd_xx12d_1d3007
+    oomp_key_simple: ep092_library_toni_rd_xx12d
+    original_filename: library_toni.pretty/RD-xx12D.kicad_mod
+    owner_name: ep092
   oomp_key: oomp_ep092_library_toni_rd_xx12d
+  oomp_key_full: oomp_footprint_ep092_library_toni_rd_xx12d
   oomp_key_simple: ep092_library_toni_rd_xx12d
   owner: ep092
   repo:

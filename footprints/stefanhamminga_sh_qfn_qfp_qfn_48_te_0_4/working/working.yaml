@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/stefanhamminga_sh_qfn_qfp_qfn_48_te_0_4/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stefanhamminga_sh_qfn_qfp_qfn_48_te_0_4/working
-    oomp_doc: footprints/footprints/StefanHamminga/SH_QFN_QFP/QFN-48-TE_0.4/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/StefanHamminga/SH_QFN_QFP/QFN-48-TE_0.4/working
     oomp_src_flat: footprints_flat/footprints_flat/stefanhamminga_sh_qfn_qfp_qfn_48_te_0_4/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/stefanhamminga_sh_qfn_qfp_qfn_48_te_0_4/working
-    oomp_src_folder: footprints_folder/footprints_folder/StefanHamminga/SH_QFN_QFP/QFN-48-TE_0.4/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/StefanHamminga/SH_QFN_QFP/QFN-48-TE_0.4/working
   name: SH_QFN_QFP.pretty
+  oomp:
+    footprint_name: qfn_48_te_0_4
+    library_name: sh_qfn_qfp
+    md5: e294cc5a7ee9bb5d179146f8529f1a1f
+    md5_10: e294cc5a7e
+    md5_5: e294c
+    md5_6: e294cc
+    oomp_key: oomp_stefanhamminga_sh_qfn_qfp_qfn_48_te_0_4
+    oomp_key_extra: oomp_footprint_stefanhamminga_sh_qfn_qfp_qfn_48_te_0_4
+    oomp_key_full: oomp_footprint_stefanhamminga_sh_qfn_qfp_qfn_48_te_0_4_e294cc
+    oomp_key_simple: stefanhamminga_sh_qfn_qfp_qfn_48_te_0_4
+    original_filename: SH_QFN_QFP.pretty/QFN-48-TE_0.4.kicad_mod
+    owner_name: stefanhamminga
   oomp_key: oomp_stefanhamminga_sh_qfn_qfp_qfn_48_te_0_4
+  oomp_key_full: oomp_footprint_stefanhamminga_sh_qfn_qfp_qfn_48_te_0_4
   oomp_key_simple: stefanhamminga_sh_qfn_qfp_qfn_48_te_0_4
   owner: StefanHamminga
   repo:

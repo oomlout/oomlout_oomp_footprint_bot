@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/AcheronProject/acheron_MXH.pretty
     oomp_bot: footprints/acheronproject_acheron_mxh_mx700h/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/acheronproject_acheron_mxh_mx700h/working
-    oomp_doc: footprints/footprints/AcheronProject/acheron_MXH/MX700H/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/AcheronProject/acheron_MXH/MX700H/working
     oomp_src_flat: footprints_flat/footprints_flat/acheronproject_acheron_mxh_mx700h/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/acheronproject_acheron_mxh_mx700h/working
-    oomp_src_folder: footprints_folder/footprints_folder/AcheronProject/acheron_MXH/MX700H/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/AcheronProject/acheron_MXH/MX700H/working
   name: acheron_MXH.pretty
+  oomp:
+    footprint_name: mx700h
+    library_name: acheron_mxh
+    md5: 90a352cb7d136d98883c46ed76b13f02
+    md5_10: 90a352cb7d
+    md5_5: 90a35
+    md5_6: 90a352
+    oomp_key: oomp_acheronproject_acheron_mxh_mx700h
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_mxh_mx700h
+    oomp_key_full: oomp_footprint_acheronproject_acheron_mxh_mx700h_90a352
+    oomp_key_simple: acheronproject_acheron_mxh_mx700h
+    original_filename: acheron_MXH.pretty/MX700H.kicad_mod
+    owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_mxh_mx700h
+  oomp_key_full: oomp_footprint_acheronproject_acheron_mxh_mx700h
   oomp_key_simple: acheronproject_acheron_mxh_mx700h
   owner: AcheronProject
   repo:

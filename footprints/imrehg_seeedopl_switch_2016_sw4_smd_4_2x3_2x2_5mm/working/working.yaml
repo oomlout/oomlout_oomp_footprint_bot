@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/imrehg_seeedopl_switch_2016_sw4_smd_4_2x3_2x2_5mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/imrehg_seeedopl_switch_2016_sw4_smd_4_2x3_2x2_5mm/working
-    oomp_doc: footprints/footprints/imrehg/SeeedOPL-Switch-2016/SW4-SMD-4.2X3.2X2.5MM/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/imrehg/SeeedOPL-Switch-2016/SW4-SMD-4.2X3.2X2.5MM/working
     oomp_src_flat: footprints_flat/footprints_flat/imrehg_seeedopl_switch_2016_sw4_smd_4_2x3_2x2_5mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/imrehg_seeedopl_switch_2016_sw4_smd_4_2x3_2x2_5mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/imrehg/SeeedOPL-Switch-2016/SW4-SMD-4.2X3.2X2.5MM/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/imrehg/SeeedOPL-Switch-2016/SW4-SMD-4.2X3.2X2.5MM/working
   name: kicalopl
+  oomp:
+    footprint_name: sw4_smd_4_2x3_2x2_5mm
+    library_name: seeedopl_switch_2016
+    md5: a1c317c65a287d8f3281ceae4c69c07c
+    md5_10: a1c317c65a
+    md5_5: a1c31
+    md5_6: a1c317
+    oomp_key: oomp_imrehg_seeedopl_switch_2016_sw4_smd_4_2x3_2x2_5mm
+    oomp_key_extra: oomp_footprint_imrehg_seeedopl_switch_2016_sw4_smd_4_2x3_2x2_5mm
+    oomp_key_full: oomp_footprint_imrehg_seeedopl_switch_2016_sw4_smd_4_2x3_2x2_5mm_a1c317
+    oomp_key_simple: imrehg_seeedopl_switch_2016_sw4_smd_4_2x3_2x2_5mm
+    original_filename: kicalopl/SeeedOPL-Switch-2016.pretty/SW4-SMD-4.2X3.2X2.5MM.kicad_mod
+    owner_name: imrehg
   oomp_key: oomp_imrehg_seeedopl_switch_2016_sw4_smd_4_2x3_2x2_5mm
+  oomp_key_full: oomp_footprint_imrehg_seeedopl_switch_2016_sw4_smd_4_2x3_2x2_5mm
   oomp_key_simple: imrehg_seeedopl_switch_2016_sw4_smd_4_2x3_2x2_5mm
   owner: imrehg
   repo:

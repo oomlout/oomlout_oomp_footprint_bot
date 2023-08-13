@@ -1,5 +1,8 @@
-- error: Expression does not have the correct type
-  file: homebrew.pretty/XINGLIGHT-XL-1010RGBC-WS2812B.kicad_mod
+- file: homebrew.pretty/XINGLIGHT-XL-1010RGBC-WS2812B.kicad_mod
+  footprint:
+    description: null
+    libraryLink: XINGLIGHT-XL-1010RGBC-WS2812B
+    number_of_pads: 4
   footprint_library_directory: footprint_library_owner/candykingdom_homebrew.pretty
   footprint_library_directory_flat: footprints_flat/candykingdom_homebrew_xinglight_xl_1010rgbc_ws2812b/working
   github_path: http://github.com/candykingdom/homebrew.pretty/blob/master/XINGLIGHT-XL-1010RGBC-WS2812B.kicad_mod
@@ -9,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/candykingdom_homebrew_xinglight_xl_1010rgbc_ws2812b/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/candykingdom_homebrew_xinglight_xl_1010rgbc_ws2812b/working
-    oomp_doc: footprints/footprints/candykingdom/homebrew/XINGLIGHT-XL-1010RGBC-WS2812B/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/candykingdom/homebrew/XINGLIGHT-XL-1010RGBC-WS2812B/working
     oomp_src_flat: footprints_flat/footprints_flat/candykingdom_homebrew_xinglight_xl_1010rgbc_ws2812b/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/candykingdom_homebrew_xinglight_xl_1010rgbc_ws2812b/working
-    oomp_src_folder: footprints_folder/footprints_folder/candykingdom/homebrew/XINGLIGHT-XL-1010RGBC-WS2812B/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/candykingdom/homebrew/XINGLIGHT-XL-1010RGBC-WS2812B/working
   name: homebrew.pretty
+  oomp:
+    footprint_name: xinglight_xl_1010rgbc_ws2812b
+    library_name: homebrew
+    md5: f7e72fea2129e40fb15a6e210868177d
+    md5_10: f7e72fea21
+    md5_5: f7e72
+    md5_6: f7e72f
+    oomp_key: oomp_candykingdom_homebrew_xinglight_xl_1010rgbc_ws2812b
+    oomp_key_extra: oomp_footprint_candykingdom_homebrew_xinglight_xl_1010rgbc_ws2812b
+    oomp_key_full: oomp_footprint_candykingdom_homebrew_xinglight_xl_1010rgbc_ws2812b_f7e72f
+    oomp_key_simple: candykingdom_homebrew_xinglight_xl_1010rgbc_ws2812b
+    original_filename: homebrew.pretty/XINGLIGHT-XL-1010RGBC-WS2812B.kicad_mod
+    owner_name: candykingdom
   oomp_key: oomp_candykingdom_homebrew_xinglight_xl_1010rgbc_ws2812b
+  oomp_key_full: oomp_footprint_candykingdom_homebrew_xinglight_xl_1010rgbc_ws2812b
   oomp_key_simple: candykingdom_homebrew_xinglight_xl_1010rgbc_ws2812b
   owner: candykingdom
   repo:

@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/kikaiken/kicad_smd.pretty
     oomp_bot: footprints/kikaiken_kicad_smd_smd_diode_sod_123f/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kikaiken_kicad_smd_smd_diode_sod_123f/working
-    oomp_doc: footprints/footprints/kikaiken/kicad_smd/smd_diode_SOD_123F/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kikaiken/kicad_smd/smd_diode_SOD_123F/working
     oomp_src_flat: footprints_flat/footprints_flat/kikaiken_kicad_smd_smd_diode_sod_123f/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kikaiken_kicad_smd_smd_diode_sod_123f/working
-    oomp_src_folder: footprints_folder/footprints_folder/kikaiken/kicad_smd/smd_diode_SOD_123F/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kikaiken/kicad_smd/smd_diode_SOD_123F/working
   name: kicad_smd.pretty
+  oomp:
+    footprint_name: smd_diode_sod_123f
+    library_name: kicad_smd
+    md5: 51a3ddcb5c37fb67f59640847913f79f
+    md5_10: 51a3ddcb5c
+    md5_5: 51a3d
+    md5_6: 51a3dd
+    oomp_key: oomp_kikaiken_kicad_smd_smd_diode_sod_123f
+    oomp_key_extra: oomp_footprint_kikaiken_kicad_smd_smd_diode_sod_123f
+    oomp_key_full: oomp_footprint_kikaiken_kicad_smd_smd_diode_sod_123f_51a3dd
+    oomp_key_simple: kikaiken_kicad_smd_smd_diode_sod_123f
+    original_filename: kicad_smd.pretty/smd_diode_SOD_123F.kicad_mod
+    owner_name: kikaiken
   oomp_key: oomp_kikaiken_kicad_smd_smd_diode_sod_123f
+  oomp_key_full: oomp_footprint_kikaiken_kicad_smd_smd_diode_sod_123f
   oomp_key_simple: kikaiken_kicad_smd_smd_diode_sod_123f
   owner: kikaiken
   repo:

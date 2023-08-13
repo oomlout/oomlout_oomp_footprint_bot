@@ -6,20 +6,22 @@ The original footprint can be found at:
 http://gitlab.com/imciner2/KiCad-Libraries/blob/master/footprints/Espressif.pretty/ESP32-WROVER-E_ThermalVias.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
-* description:   
-* libraryLink:   
-* number_of_pads:   
+* description: ESP32-S2-SOLO-2U https://www.espressif.com/sites/default/files/documentation/esp32-s2-solo-2_esp32-s2-solo-2u_datasheet_en.pdf  
+* libraryLink: ESP32-S2-SOLO-2U  
+* number_of_pads: 49  
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| error | Expression does not have the correct type |  
 | file | KiCad-Libraries/footprints/Espressif.pretty/ESP32-S2-SOLO-2U.kicad_mod |  
+| footprint | {'description': 'ESP32-S2-SOLO-2U https://www.espressif.com/sites/default/files/documentation/esp32-s2-solo-2_esp32-s2-solo-2u_datasheet_en.pdf', 'libraryLink': 'ESP32-S2-SOLO-2U', 'number_of_pads': 49} |  
 | footprint_library_directory | footprint_library_owner/imciner2_KiCad-Libraries |  
 | footprint_library_directory_flat | footprints_flat/imciner2_espressif_esp32_s2_solo_2u/working |  
 | github_path | http://github.com/imciner2/KiCad-Libraries/blob/master/footprints/Espressif.pretty/ESP32-S2-SOLO-2U.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/imciner2/KiCad-Libraries/blob/master/footprints/Espressif.pretty/ESP32-WROVER-E_ThermalVias.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/imciner2_espressif_esp32_s2_solo_2u/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/imciner2_espressif_esp32_s2_solo_2u/working', 'oomp_doc': 'footprints/footprints/imciner2/Espressif/ESP32-S2-SOLO-2U/working/', 'oomp_doc_github': 'https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/imciner2/Espressif/ESP32-S2-SOLO-2U/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/imciner2_espressif_esp32_s2_solo_2u/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/imciner2_espressif_esp32_s2_solo_2u/working', 'oomp_src_folder': 'footprints_folder/footprints_folder/imciner2/Espressif/ESP32-S2-SOLO-2U/working', 'oomp_src_folder_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/imciner2/Espressif/ESP32-S2-SOLO-2U/working'} |  
+| links | {'github_src': 'http://gitlab.com/imciner2/KiCad-Libraries/blob/master/footprints/Espressif.pretty/ESP32-WROVER-E_ThermalVias.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/imciner2_espressif_esp32_s2_solo_2u/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/imciner2_espressif_esp32_s2_solo_2u/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/imciner2_espressif_esp32_s2_solo_2u/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/imciner2_espressif_esp32_s2_solo_2u/working'} |  
 | name | KiCad-Libraries |  
+| oomp | {'footprint_name': 'esp32_s2_solo_2u', 'library_name': 'espressif', 'md5': 'd9f787d0950f58c7487c0a61be6b39f7', 'md5_10': 'd9f787d095', 'md5_5': 'd9f78', 'md5_6': 'd9f787', 'oomp_key': 'oomp_imciner2_espressif_esp32_s2_solo_2u', 'oomp_key_extra': 'oomp_footprint_imciner2_espressif_esp32_s2_solo_2u', 'oomp_key_full': 'oomp_footprint_imciner2_espressif_esp32_s2_solo_2u_d9f787', 'oomp_key_simple': 'imciner2_espressif_esp32_s2_solo_2u', 'original_filename': 'KiCad-Libraries/footprints/Espressif.pretty/ESP32-S2-SOLO-2U.kicad_mod', 'owner_name': 'imciner2'} |  
 | oomp_key | oomp_imciner2_espressif_esp32_s2_solo_2u |  
+| oomp_key_full | oomp_footprint_imciner2_espressif_esp32_s2_solo_2u |  
 | oomp_key_simple | imciner2_espressif_esp32_s2_solo_2u |  
 | owner | imciner2 |  
 | repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  

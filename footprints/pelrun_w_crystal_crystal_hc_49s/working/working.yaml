@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pelrun_w_crystal_crystal_hc_49s/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pelrun_w_crystal_crystal_hc_49s/working
-    oomp_doc: footprints/footprints/pelrun/w_crystal/crystal_hc-49s/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/pelrun/w_crystal/crystal_hc-49s/working
     oomp_src_flat: footprints_flat/footprints_flat/pelrun_w_crystal_crystal_hc_49s/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pelrun_w_crystal_crystal_hc_49s/working
-    oomp_src_folder: footprints_folder/footprints_folder/pelrun/w_crystal/crystal_hc-49s/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/pelrun/w_crystal/crystal_hc-49s/working
   name: libKiCad
+  oomp:
+    footprint_name: crystal_hc_49s
+    library_name: w_crystal
+    md5: 051ceb4520d12f292d5aa5796e8518ec
+    md5_10: 051ceb4520
+    md5_5: 051ce
+    md5_6: 051ceb
+    oomp_key: oomp_pelrun_w_crystal_crystal_hc_49s
+    oomp_key_extra: oomp_footprint_pelrun_w_crystal_crystal_hc_49s
+    oomp_key_full: oomp_footprint_pelrun_w_crystal_crystal_hc_49s_051ceb
+    oomp_key_simple: pelrun_w_crystal_crystal_hc_49s
+    original_filename: libKiCad/footprint/w_crystal.pretty/crystal_hc-49s.kicad_mod
+    owner_name: pelrun
   oomp_key: oomp_pelrun_w_crystal_crystal_hc_49s
+  oomp_key_full: oomp_footprint_pelrun_w_crystal_crystal_hc_49s
   oomp_key_simple: pelrun_w_crystal_crystal_hc_49s
   owner: pelrun
   repo:

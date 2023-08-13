@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/monostable_commonpartslibrary_rc0805fr_0710rl_resc2012x60/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/monostable_commonpartslibrary_rc0805fr_0710rl_resc2012x60/working
-    oomp_doc: footprints/footprints/monostable/CommonPartsLibrary/RC0805FR-0710RL_RESC2012X60/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/monostable/CommonPartsLibrary/RC0805FR-0710RL_RESC2012X60/working
     oomp_src_flat: footprints_flat/footprints_flat/monostable_commonpartslibrary_rc0805fr_0710rl_resc2012x60/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/monostable_commonpartslibrary_rc0805fr_0710rl_resc2012x60/working
-    oomp_src_folder: footprints_folder/footprints_folder/monostable/CommonPartsLibrary/RC0805FR-0710RL_RESC2012X60/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/monostable/CommonPartsLibrary/RC0805FR-0710RL_RESC2012X60/working
   name: CommonPartsLibrary.pretty
+  oomp:
+    footprint_name: rc0805fr_0710rl_resc2012x60
+    library_name: commonpartslibrary
+    md5: 61d58220366160f9339896a7ac083bd8
+    md5_10: 61d5822036
+    md5_5: 61d58
+    md5_6: 61d582
+    oomp_key: oomp_monostable_commonpartslibrary_rc0805fr_0710rl_resc2012x60
+    oomp_key_extra: oomp_footprint_monostable_commonpartslibrary_rc0805fr_0710rl_resc2012x60
+    oomp_key_full: oomp_footprint_monostable_commonpartslibrary_rc0805fr_0710rl_resc2012x60_61d582
+    oomp_key_simple: monostable_commonpartslibrary_rc0805fr_0710rl_resc2012x60
+    original_filename: CommonPartsLibrary.pretty/RC0805FR-0710RL_RESC2012X60.kicad_mod
+    owner_name: monostable
   oomp_key: oomp_monostable_commonpartslibrary_rc0805fr_0710rl_resc2012x60
+  oomp_key_full: oomp_footprint_monostable_commonpartslibrary_rc0805fr_0710rl_resc2012x60
   oomp_key_simple: monostable_commonpartslibrary_rc0805fr_0710rl_resc2012x60
   owner: monostable
   repo:

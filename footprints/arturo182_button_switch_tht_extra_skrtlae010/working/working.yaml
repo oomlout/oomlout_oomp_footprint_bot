@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/arturo182/kicad-modules
     oomp_bot: footprints/arturo182_button_switch_tht_extra_skrtlae010/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/arturo182_button_switch_tht_extra_skrtlae010/working
-    oomp_doc: footprints/footprints/arturo182/Button_Switch_THT_Extra/SKRTLAE010/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/arturo182/Button_Switch_THT_Extra/SKRTLAE010/working
     oomp_src_flat: footprints_flat/footprints_flat/arturo182_button_switch_tht_extra_skrtlae010/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/arturo182_button_switch_tht_extra_skrtlae010/working
-    oomp_src_folder: footprints_folder/footprints_folder/arturo182/Button_Switch_THT_Extra/SKRTLAE010/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/arturo182/Button_Switch_THT_Extra/SKRTLAE010/working
   name: kicad-modules
+  oomp:
+    footprint_name: skrtlae010
+    library_name: button_switch_tht_extra
+    md5: d9043212c32c16050bd455dfc1bc32ec
+    md5_10: d9043212c3
+    md5_5: d9043
+    md5_6: d90432
+    oomp_key: oomp_arturo182_button_switch_tht_extra_skrtlae010
+    oomp_key_extra: oomp_footprint_arturo182_button_switch_tht_extra_skrtlae010
+    oomp_key_full: oomp_footprint_arturo182_button_switch_tht_extra_skrtlae010_d90432
+    oomp_key_simple: arturo182_button_switch_tht_extra_skrtlae010
+    original_filename: kicad-modules/Button_Switch_THT_Extra.pretty/SKRTLAE010.kicad_mod
+    owner_name: arturo182
   oomp_key: oomp_arturo182_button_switch_tht_extra_skrtlae010
+  oomp_key_full: oomp_footprint_arturo182_button_switch_tht_extra_skrtlae010
   oomp_key_simple: arturo182_button_switch_tht_extra_skrtlae010
   owner: arturo182
   repo:

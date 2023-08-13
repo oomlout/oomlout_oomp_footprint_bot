@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/digikey_toggle_switch_100sp1t1b4m2qe_toggle_switch_100sp1t1b4m2qe/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_toggle_switch_100sp1t1b4m2qe_toggle_switch_100sp1t1b4m2qe/working
-    oomp_doc: footprints/footprints/digikey/Toggle_Switch_100SP1T1B4M2QE.kicad_mod/Toggle_Switch_100SP1T1B4M2QE/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/digikey/Toggle_Switch_100SP1T1B4M2QE.kicad_mod/Toggle_Switch_100SP1T1B4M2QE/working
     oomp_src_flat: footprints_flat/footprints_flat/digikey_toggle_switch_100sp1t1b4m2qe_toggle_switch_100sp1t1b4m2qe/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/digikey_toggle_switch_100sp1t1b4m2qe_toggle_switch_100sp1t1b4m2qe/working
-    oomp_src_folder: footprints_folder/footprints_folder/digikey/Toggle_Switch_100SP1T1B4M2QE.kicad_mod/Toggle_Switch_100SP1T1B4M2QE/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/digikey/Toggle_Switch_100SP1T1B4M2QE.kicad_mod/Toggle_Switch_100SP1T1B4M2QE/working
   name: digikey-kicad-library
+  oomp:
+    footprint_name: toggle_switch_100sp1t1b4m2qe
+    library_name: toggle_switch_100sp1t1b4m2qe_kicad_mod
+    md5: 3ae56746e234580aaaf1c20a0919bfbf
+    md5_10: 3ae56746e2
+    md5_5: 3ae56
+    md5_6: 3ae567
+    oomp_key: oomp_digikey_toggle_switch_100sp1t1b4m2qe_toggle_switch_100sp1t1b4m2qe
+    oomp_key_extra: oomp_footprint_digikey_toggle_switch_100sp1t1b4m2qe_toggle_switch_100sp1t1b4m2qe
+    oomp_key_full: oomp_footprint_digikey_toggle_switch_100sp1t1b4m2qe_toggle_switch_100sp1t1b4m2qe_3ae567
+    oomp_key_simple: digikey_toggle_switch_100sp1t1b4m2qe_toggle_switch_100sp1t1b4m2qe
+    original_filename: digikey-kicad-library/src/Source_Footprints/Toggle_Switch_100SP1T1B4M2QE.kicad_mod
+    owner_name: digikey
   oomp_key: oomp_digikey_toggle_switch_100sp1t1b4m2qe_toggle_switch_100sp1t1b4m2qe
+  oomp_key_full: oomp_footprint_digikey_toggle_switch_100sp1t1b4m2qe_toggle_switch_100sp1t1b4m2qe
   oomp_key_simple: digikey_toggle_switch_100sp1t1b4m2qe_toggle_switch_100sp1t1b4m2qe
   owner: digikey
   repo:

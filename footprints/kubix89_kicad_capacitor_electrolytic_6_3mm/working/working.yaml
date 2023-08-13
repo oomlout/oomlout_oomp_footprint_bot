@@ -10,14 +10,24 @@
     github_src_repo: https://github.com/kubiX89/kiCAD.pretty
     oomp_bot: footprints/kubix89_kicad_capacitor_electrolytic_6_3mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kubix89_kicad_capacitor_electrolytic_6_3mm/working
-    oomp_doc: footprints/footprints/kubiX89/kiCAD/CAPACITOR_ELECTROLYTIC_6.3MM/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kubiX89/kiCAD/CAPACITOR_ELECTROLYTIC_6.3MM/working
     oomp_src_flat: footprints_flat/footprints_flat/kubix89_kicad_capacitor_electrolytic_6_3mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kubix89_kicad_capacitor_electrolytic_6_3mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/kubiX89/kiCAD/CAPACITOR_ELECTROLYTIC_6.3MM/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kubiX89/kiCAD/CAPACITOR_ELECTROLYTIC_6.3MM/working
   name: kiCAD.pretty
+  oomp:
+    footprint_name: capacitor_electrolytic_6_3mm
+    library_name: kicad
+    md5: 128db944f4da5f998a6e8afb6116b87c
+    md5_10: 128db944f4
+    md5_5: 128db
+    md5_6: 128db9
+    oomp_key: oomp_kubix89_kicad_capacitor_electrolytic_6_3mm
+    oomp_key_extra: oomp_footprint_kubix89_kicad_capacitor_electrolytic_6_3mm
+    oomp_key_full: oomp_footprint_kubix89_kicad_capacitor_electrolytic_6_3mm_128db9
+    oomp_key_simple: kubix89_kicad_capacitor_electrolytic_6_3mm
+    original_filename: kiCAD.pretty/CAPACITOR_ELECTROLYTIC_6.3MM.kicad_mod
+    owner_name: kubix89
   oomp_key: oomp_kubix89_kicad_capacitor_electrolytic_6_3mm
+  oomp_key_full: oomp_footprint_kubix89_kicad_capacitor_electrolytic_6_3mm
   oomp_key_simple: kubix89_kicad_capacitor_electrolytic_6_3mm
   owner: kubiX89
   repo:

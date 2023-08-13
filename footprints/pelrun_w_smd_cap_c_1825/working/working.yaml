@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pelrun_w_smd_cap_c_1825/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pelrun_w_smd_cap_c_1825/working
-    oomp_doc: footprints/footprints/pelrun/w_smd_cap/c_1825/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/pelrun/w_smd_cap/c_1825/working
     oomp_src_flat: footprints_flat/footprints_flat/pelrun_w_smd_cap_c_1825/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pelrun_w_smd_cap_c_1825/working
-    oomp_src_folder: footprints_folder/footprints_folder/pelrun/w_smd_cap/c_1825/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/pelrun/w_smd_cap/c_1825/working
   name: libKiCad
+  oomp:
+    footprint_name: c_1825
+    library_name: w_smd_cap
+    md5: d32192edaaa0a241ce6d9b51c33e643c
+    md5_10: d32192edaa
+    md5_5: d3219
+    md5_6: d32192
+    oomp_key: oomp_pelrun_w_smd_cap_c_1825
+    oomp_key_extra: oomp_footprint_pelrun_w_smd_cap_c_1825
+    oomp_key_full: oomp_footprint_pelrun_w_smd_cap_c_1825_d32192
+    oomp_key_simple: pelrun_w_smd_cap_c_1825
+    original_filename: libKiCad/footprint/w_smd_cap.pretty/c_1825.kicad_mod
+    owner_name: pelrun
   oomp_key: oomp_pelrun_w_smd_cap_c_1825
+  oomp_key_full: oomp_footprint_pelrun_w_smd_cap_c_1825
   oomp_key_simple: pelrun_w_smd_cap_c_1825
   owner: pelrun
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/monostable_commonpartslibrary_sw_pec11r_4215f_s0024/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/monostable_commonpartslibrary_sw_pec11r_4215f_s0024/working
-    oomp_doc: footprints/footprints/monostable/CommonPartsLibrary/SW_PEC11R-4215F-S0024/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/monostable/CommonPartsLibrary/SW_PEC11R-4215F-S0024/working
     oomp_src_flat: footprints_flat/footprints_flat/monostable_commonpartslibrary_sw_pec11r_4215f_s0024/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/monostable_commonpartslibrary_sw_pec11r_4215f_s0024/working
-    oomp_src_folder: footprints_folder/footprints_folder/monostable/CommonPartsLibrary/SW_PEC11R-4215F-S0024/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/monostable/CommonPartsLibrary/SW_PEC11R-4215F-S0024/working
   name: CommonPartsLibrary.pretty
+  oomp:
+    footprint_name: sw_pec11r_4215f_s0024
+    library_name: commonpartslibrary
+    md5: 447737d1a8ff0b57773c4f840db891f3
+    md5_10: 447737d1a8
+    md5_5: '44773'
+    md5_6: '447737'
+    oomp_key: oomp_monostable_commonpartslibrary_sw_pec11r_4215f_s0024
+    oomp_key_extra: oomp_footprint_monostable_commonpartslibrary_sw_pec11r_4215f_s0024
+    oomp_key_full: oomp_footprint_monostable_commonpartslibrary_sw_pec11r_4215f_s0024_447737
+    oomp_key_simple: monostable_commonpartslibrary_sw_pec11r_4215f_s0024
+    original_filename: CommonPartsLibrary.pretty/SW_PEC11R-4215F-S0024.kicad_mod
+    owner_name: monostable
   oomp_key: oomp_monostable_commonpartslibrary_sw_pec11r_4215f_s0024
+  oomp_key_full: oomp_footprint_monostable_commonpartslibrary_sw_pec11r_4215f_s0024
   oomp_key_simple: monostable_commonpartslibrary_sw_pec11r_4215f_s0024
   owner: monostable
   repo:

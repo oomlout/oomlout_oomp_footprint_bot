@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/esden_pkl_pin_headers_pinheader_2x22_p1_27mm_vertical_smd/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/esden_pkl_pin_headers_pinheader_2x22_p1_27mm_vertical_smd/working
-    oomp_doc: footprints/footprints/esden/pkl_pin_headers/PinHeader_2x22_P1.27mm_Vertical__SMD/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/esden/pkl_pin_headers/PinHeader_2x22_P1.27mm_Vertical__SMD/working
     oomp_src_flat: footprints_flat/footprints_flat/esden_pkl_pin_headers_pinheader_2x22_p1_27mm_vertical_smd/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/esden_pkl_pin_headers_pinheader_2x22_p1_27mm_vertical_smd/working
-    oomp_src_folder: footprints_folder/footprints_folder/esden/pkl_pin_headers/PinHeader_2x22_P1.27mm_Vertical__SMD/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/esden/pkl_pin_headers/PinHeader_2x22_P1.27mm_Vertical__SMD/working
   name: pretty-kicad-libs
+  oomp:
+    footprint_name: pinheader_2x22_p1_27mm_vertical_smd
+    library_name: pkl_pin_headers
+    md5: cb65248b385b3da0f10ae9ed0b546166
+    md5_10: cb65248b38
+    md5_5: cb652
+    md5_6: cb6524
+    oomp_key: oomp_esden_pkl_pin_headers_pinheader_2x22_p1_27mm_vertical_smd
+    oomp_key_extra: oomp_footprint_esden_pkl_pin_headers_pinheader_2x22_p1_27mm_vertical_smd
+    oomp_key_full: oomp_footprint_esden_pkl_pin_headers_pinheader_2x22_p1_27mm_vertical_smd_cb6524
+    oomp_key_simple: esden_pkl_pin_headers_pinheader_2x22_p1_27mm_vertical_smd
+    original_filename: pretty-kicad-libs/pkl_pin_headers.pretty/PinHeader_2x22_P1.27mm_Vertical__SMD.kicad_mod
+    owner_name: esden
   oomp_key: oomp_esden_pkl_pin_headers_pinheader_2x22_p1_27mm_vertical_smd
+  oomp_key_full: oomp_footprint_esden_pkl_pin_headers_pinheader_2x22_p1_27mm_vertical_smd
   oomp_key_simple: esden_pkl_pin_headers_pinheader_2x22_p1_27mm_vertical_smd
   owner: esden
   repo:

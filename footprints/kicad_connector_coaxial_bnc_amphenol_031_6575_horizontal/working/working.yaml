@@ -11,17 +11,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_connector_coaxial_bnc_amphenol_031_6575_horizontal/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_connector_coaxial_bnc_amphenol_031_6575_horizontal/working
-    oomp_doc: footprints/footprints/kicad/Connector_Coaxial/BNC_Amphenol_031-6575_Horizontal/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Connector_Coaxial/BNC_Amphenol_031-6575_Horizontal/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_connector_coaxial_bnc_amphenol_031_6575_horizontal/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_connector_coaxial_bnc_amphenol_031_6575_horizontal/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Connector_Coaxial/BNC_Amphenol_031-6575_Horizontal/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Connector_Coaxial/BNC_Amphenol_031-6575_Horizontal/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: bnc_amphenol_031_6575_horizontal
+    library_name: connector_coaxial
+    md5: 5d0b923fa767c59879d4471b0384ca93
+    md5_10: 5d0b923fa7
+    md5_5: 5d0b9
+    md5_6: 5d0b92
+    oomp_key: oomp_kicad_connector_coaxial_bnc_amphenol_031_6575_horizontal
+    oomp_key_extra: oomp_footprint_kicad_connector_coaxial_bnc_amphenol_031_6575_horizontal
+    oomp_key_full: oomp_footprint_kicad_connector_coaxial_bnc_amphenol_031_6575_horizontal_5d0b92
+    oomp_key_simple: kicad_connector_coaxial_bnc_amphenol_031_6575_horizontal
+    original_filename: libraries/kicad-footprints/Connector_Coaxial.pretty/BNC_Amphenol_031-6575_Horizontal.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_connector_coaxial_bnc_amphenol_031_6575_horizontal
+  oomp_key_full: oomp_footprint_kicad_connector_coaxial_bnc_amphenol_031_6575_horizontal
   oomp_key_simple: kicad_connector_coaxial_bnc_amphenol_031_6575_horizontal
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

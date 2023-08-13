@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/esden_pkl_samtec_ftsh_105_xx_x_dv/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/esden_pkl_samtec_ftsh_105_xx_x_dv/working
-    oomp_doc: footprints/footprints/esden/pkl_samtec/FTSH-105-XX-X-DV/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/esden/pkl_samtec/FTSH-105-XX-X-DV/working
     oomp_src_flat: footprints_flat/footprints_flat/esden_pkl_samtec_ftsh_105_xx_x_dv/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/esden_pkl_samtec_ftsh_105_xx_x_dv/working
-    oomp_src_folder: footprints_folder/footprints_folder/esden/pkl_samtec/FTSH-105-XX-X-DV/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/esden/pkl_samtec/FTSH-105-XX-X-DV/working
   name: pretty-kicad-libs
+  oomp:
+    footprint_name: ftsh_105_xx_x_dv
+    library_name: pkl_samtec
+    md5: 0b76fac3895eb2ac56a482c82f5fe902
+    md5_10: 0b76fac389
+    md5_5: 0b76f
+    md5_6: 0b76fa
+    oomp_key: oomp_esden_pkl_samtec_ftsh_105_xx_x_dv
+    oomp_key_extra: oomp_footprint_esden_pkl_samtec_ftsh_105_xx_x_dv
+    oomp_key_full: oomp_footprint_esden_pkl_samtec_ftsh_105_xx_x_dv_0b76fa
+    oomp_key_simple: esden_pkl_samtec_ftsh_105_xx_x_dv
+    original_filename: pretty-kicad-libs/pkl_samtec.pretty/FTSH-105-XX-X-DV.kicad_mod
+    owner_name: esden
   oomp_key: oomp_esden_pkl_samtec_ftsh_105_xx_x_dv
+  oomp_key_full: oomp_footprint_esden_pkl_samtec_ftsh_105_xx_x_dv
   oomp_key_simple: esden_pkl_samtec_ftsh_105_xx_x_dv
   owner: esden
   repo:

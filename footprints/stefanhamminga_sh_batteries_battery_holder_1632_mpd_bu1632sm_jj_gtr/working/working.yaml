@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/stefanhamminga_sh_batteries_battery_holder_1632_mpd_bu1632sm_jj_gtr/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stefanhamminga_sh_batteries_battery_holder_1632_mpd_bu1632sm_jj_gtr/working
-    oomp_doc: footprints/footprints/StefanHamminga/SH_Batteries/Battery_Holder_1632_MPD_BU1632SM-JJ-GTR/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/StefanHamminga/SH_Batteries/Battery_Holder_1632_MPD_BU1632SM-JJ-GTR/working
     oomp_src_flat: footprints_flat/footprints_flat/stefanhamminga_sh_batteries_battery_holder_1632_mpd_bu1632sm_jj_gtr/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/stefanhamminga_sh_batteries_battery_holder_1632_mpd_bu1632sm_jj_gtr/working
-    oomp_src_folder: footprints_folder/footprints_folder/StefanHamminga/SH_Batteries/Battery_Holder_1632_MPD_BU1632SM-JJ-GTR/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/StefanHamminga/SH_Batteries/Battery_Holder_1632_MPD_BU1632SM-JJ-GTR/working
   name: SH_Batteries.pretty
+  oomp:
+    footprint_name: battery_holder_1632_mpd_bu1632sm_jj_gtr
+    library_name: sh_batteries
+    md5: f2cd674ca58eaf1e9a1fe7ba966523a7
+    md5_10: f2cd674ca5
+    md5_5: f2cd6
+    md5_6: f2cd67
+    oomp_key: oomp_stefanhamminga_sh_batteries_battery_holder_1632_mpd_bu1632sm_jj_gtr
+    oomp_key_extra: oomp_footprint_stefanhamminga_sh_batteries_battery_holder_1632_mpd_bu1632sm_jj_gtr
+    oomp_key_full: oomp_footprint_stefanhamminga_sh_batteries_battery_holder_1632_mpd_bu1632sm_jj_gtr_f2cd67
+    oomp_key_simple: stefanhamminga_sh_batteries_battery_holder_1632_mpd_bu1632sm_jj_gtr
+    original_filename: SH_Batteries.pretty/Battery_Holder_1632_MPD_BU1632SM-JJ-GTR.kicad_mod
+    owner_name: stefanhamminga
   oomp_key: oomp_stefanhamminga_sh_batteries_battery_holder_1632_mpd_bu1632sm_jj_gtr
+  oomp_key_full: oomp_footprint_stefanhamminga_sh_batteries_battery_holder_1632_mpd_bu1632sm_jj_gtr
   oomp_key_simple: stefanhamminga_sh_batteries_battery_holder_1632_mpd_bu1632sm_jj_gtr
   owner: StefanHamminga
   repo:

@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/candykingdom_homebrew_1008_(2520_metric)/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/candykingdom_homebrew_1008_(2520_metric)/working
-    oomp_doc: footprints/footprints/candykingdom/homebrew/1008_(2520_METRIC)/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/candykingdom/homebrew/1008_(2520_METRIC)/working
     oomp_src_flat: footprints_flat/footprints_flat/candykingdom_homebrew_1008_(2520_metric)/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/candykingdom_homebrew_1008_(2520_metric)/working
-    oomp_src_folder: footprints_folder/footprints_folder/candykingdom/homebrew/1008_(2520_METRIC)/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/candykingdom/homebrew/1008_(2520_METRIC)/working
   name: homebrew.pretty
+  oomp:
+    footprint_name: 1008_(2520_metric)
+    library_name: homebrew
+    md5: 4f2adfc98130ac9d7286ee7d03ea3ed4
+    md5_10: 4f2adfc981
+    md5_5: 4f2ad
+    md5_6: 4f2adf
+    oomp_key: oomp_candykingdom_homebrew_1008_(2520_metric)
+    oomp_key_extra: oomp_footprint_candykingdom_homebrew_1008_(2520_metric)
+    oomp_key_full: oomp_footprint_candykingdom_homebrew_1008_(2520_metric)_4f2adf
+    oomp_key_simple: candykingdom_homebrew_1008_(2520_metric)
+    original_filename: homebrew.pretty/1008_(2520_METRIC).kicad_mod
+    owner_name: candykingdom
   oomp_key: oomp_candykingdom_homebrew_1008_(2520_metric)
+  oomp_key_full: oomp_footprint_candykingdom_homebrew_1008_(2520_metric)
   oomp_key_simple: candykingdom_homebrew_1008_(2520_metric)
   owner: candykingdom
   repo:

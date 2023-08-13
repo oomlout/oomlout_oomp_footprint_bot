@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/KozueNakano/KiCADKozueLib.pretty
     oomp_bot: footprints/kozuenakano_kicadkozuelib_to_220_tabsmd1234_horizontal_largepads/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kozuenakano_kicadkozuelib_to_220_tabsmd1234_horizontal_largepads/working
-    oomp_doc: footprints/footprints/KozueNakano/KiCADKozueLib/TO-220_tabSMD1234_Horizontal_LargePads/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/KozueNakano/KiCADKozueLib/TO-220_tabSMD1234_Horizontal_LargePads/working
     oomp_src_flat: footprints_flat/footprints_flat/kozuenakano_kicadkozuelib_to_220_tabsmd1234_horizontal_largepads/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kozuenakano_kicadkozuelib_to_220_tabsmd1234_horizontal_largepads/working
-    oomp_src_folder: footprints_folder/footprints_folder/KozueNakano/KiCADKozueLib/TO-220_tabSMD1234_Horizontal_LargePads/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/KozueNakano/KiCADKozueLib/TO-220_tabSMD1234_Horizontal_LargePads/working
   name: KiCADKozueLib.pretty
+  oomp:
+    footprint_name: to_220_tabsmd1234_horizontal_largepads
+    library_name: kicadkozuelib
+    md5: bdf19b8195e13688cc053b4b7f315e23
+    md5_10: bdf19b8195
+    md5_5: bdf19
+    md5_6: bdf19b
+    oomp_key: oomp_kozuenakano_kicadkozuelib_to_220_tabsmd1234_horizontal_largepads
+    oomp_key_extra: oomp_footprint_kozuenakano_kicadkozuelib_to_220_tabsmd1234_horizontal_largepads
+    oomp_key_full: oomp_footprint_kozuenakano_kicadkozuelib_to_220_tabsmd1234_horizontal_largepads_bdf19b
+    oomp_key_simple: kozuenakano_kicadkozuelib_to_220_tabsmd1234_horizontal_largepads
+    original_filename: KiCADKozueLib.pretty/TO-220_tabSMD1234_Horizontal_LargePads.kicad_mod
+    owner_name: kozuenakano
   oomp_key: oomp_kozuenakano_kicadkozuelib_to_220_tabsmd1234_horizontal_largepads
+  oomp_key_full: oomp_footprint_kozuenakano_kicadkozuelib_to_220_tabsmd1234_horizontal_largepads
   oomp_key_simple: kozuenakano_kicadkozuelib_to_220_tabsmd1234_horizontal_largepads
   owner: KozueNakano
   repo:

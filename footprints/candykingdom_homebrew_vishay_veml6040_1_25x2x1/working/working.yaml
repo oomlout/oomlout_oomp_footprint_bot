@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/candykingdom_homebrew_vishay_veml6040_1_25x2x1/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/candykingdom_homebrew_vishay_veml6040_1_25x2x1/working
-    oomp_doc: footprints/footprints/candykingdom/homebrew/VISHAY_VEML6040_1.25X2X1/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/candykingdom/homebrew/VISHAY_VEML6040_1.25X2X1/working
     oomp_src_flat: footprints_flat/footprints_flat/candykingdom_homebrew_vishay_veml6040_1_25x2x1/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/candykingdom_homebrew_vishay_veml6040_1_25x2x1/working
-    oomp_src_folder: footprints_folder/footprints_folder/candykingdom/homebrew/VISHAY_VEML6040_1.25X2X1/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/candykingdom/homebrew/VISHAY_VEML6040_1.25X2X1/working
   name: homebrew.pretty
+  oomp:
+    footprint_name: vishay_veml6040_1_25x2x1
+    library_name: homebrew
+    md5: 180d6a9e46f72307218601f1a8afd24d
+    md5_10: 180d6a9e46
+    md5_5: 180d6
+    md5_6: 180d6a
+    oomp_key: oomp_candykingdom_homebrew_vishay_veml6040_1_25x2x1
+    oomp_key_extra: oomp_footprint_candykingdom_homebrew_vishay_veml6040_1_25x2x1
+    oomp_key_full: oomp_footprint_candykingdom_homebrew_vishay_veml6040_1_25x2x1_180d6a
+    oomp_key_simple: candykingdom_homebrew_vishay_veml6040_1_25x2x1
+    original_filename: homebrew.pretty/VISHAY_VEML6040_1.25X2X1.kicad_mod
+    owner_name: candykingdom
   oomp_key: oomp_candykingdom_homebrew_vishay_veml6040_1_25x2x1
+  oomp_key_full: oomp_footprint_candykingdom_homebrew_vishay_veml6040_1_25x2x1
   oomp_key_simple: candykingdom_homebrew_vishay_veml6040_1_25x2x1
   owner: candykingdom
   repo:

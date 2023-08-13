@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pelrun_w_indicators_led_10mm_red/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pelrun_w_indicators_led_10mm_red/working
-    oomp_doc: footprints/footprints/pelrun/w_indicators/led_10mm_red/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/pelrun/w_indicators/led_10mm_red/working
     oomp_src_flat: footprints_flat/footprints_flat/pelrun_w_indicators_led_10mm_red/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pelrun_w_indicators_led_10mm_red/working
-    oomp_src_folder: footprints_folder/footprints_folder/pelrun/w_indicators/led_10mm_red/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/pelrun/w_indicators/led_10mm_red/working
   name: libKiCad
+  oomp:
+    footprint_name: led_10mm_red
+    library_name: w_indicators
+    md5: 503fb8ec225a2259ba6ba4dabf318c92
+    md5_10: 503fb8ec22
+    md5_5: 503fb
+    md5_6: 503fb8
+    oomp_key: oomp_pelrun_w_indicators_led_10mm_red
+    oomp_key_extra: oomp_footprint_pelrun_w_indicators_led_10mm_red
+    oomp_key_full: oomp_footprint_pelrun_w_indicators_led_10mm_red_503fb8
+    oomp_key_simple: pelrun_w_indicators_led_10mm_red
+    original_filename: libKiCad/footprint/w_indicators.pretty/led_10mm_red.kicad_mod
+    owner_name: pelrun
   oomp_key: oomp_pelrun_w_indicators_led_10mm_red
+  oomp_key_full: oomp_footprint_pelrun_w_indicators_led_10mm_red
   oomp_key_simple: pelrun_w_indicators_led_10mm_red
   owner: pelrun
   repo:

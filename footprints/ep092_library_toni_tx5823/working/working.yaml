@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/ep092_library_toni_tx5823/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ep092_library_toni_tx5823/working
-    oomp_doc: footprints/footprints/ep092/library_toni/TX5823/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ep092/library_toni/TX5823/working
     oomp_src_flat: footprints_flat/footprints_flat/ep092_library_toni_tx5823/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ep092_library_toni_tx5823/working
-    oomp_src_folder: footprints_folder/footprints_folder/ep092/library_toni/TX5823/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ep092/library_toni/TX5823/working
   name: library_toni.pretty
+  oomp:
+    footprint_name: tx5823
+    library_name: library_toni
+    md5: c35bf4a461088a3dbcf8207c247326d1
+    md5_10: c35bf4a461
+    md5_5: c35bf
+    md5_6: c35bf4
+    oomp_key: oomp_ep092_library_toni_tx5823
+    oomp_key_extra: oomp_footprint_ep092_library_toni_tx5823
+    oomp_key_full: oomp_footprint_ep092_library_toni_tx5823_c35bf4
+    oomp_key_simple: ep092_library_toni_tx5823
+    original_filename: library_toni.pretty/TX5823.kicad_mod
+    owner_name: ep092
   oomp_key: oomp_ep092_library_toni_tx5823
+  oomp_key_full: oomp_footprint_ep092_library_toni_tx5823
   oomp_key_simple: ep092_library_toni_tx5823
   owner: ep092
   repo:

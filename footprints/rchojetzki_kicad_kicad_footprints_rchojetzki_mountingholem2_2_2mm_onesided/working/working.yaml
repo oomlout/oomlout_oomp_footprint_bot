@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/rchojetzki_kicad_kicad_footprints_rchojetzki_mountingholem2_2_2mm_onesided/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/rchojetzki_kicad_kicad_footprints_rchojetzki_mountingholem2_2_2mm_onesided/working
-    oomp_doc: footprints/footprints/rchojetzki-kicad/kicad-footprints-rchojetzki/MountingHoleM2_2.2mm_oneSided/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/rchojetzki-kicad/kicad-footprints-rchojetzki/MountingHoleM2_2.2mm_oneSided/working
     oomp_src_flat: footprints_flat/footprints_flat/rchojetzki_kicad_kicad_footprints_rchojetzki_mountingholem2_2_2mm_onesided/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/rchojetzki_kicad_kicad_footprints_rchojetzki_mountingholem2_2_2mm_onesided/working
-    oomp_src_folder: footprints_folder/footprints_folder/rchojetzki-kicad/kicad-footprints-rchojetzki/MountingHoleM2_2.2mm_oneSided/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/rchojetzki-kicad/kicad-footprints-rchojetzki/MountingHoleM2_2.2mm_oneSided/working
   name: kicad-footprints-rchojetzki.pretty
+  oomp:
+    footprint_name: mountingholem2_2_2mm_onesided
+    library_name: kicad_footprints_rchojetzki
+    md5: 501f7b7be9561d2c6e227d90259b5e39
+    md5_10: 501f7b7be9
+    md5_5: 501f7
+    md5_6: 501f7b
+    oomp_key: oomp_rchojetzki_kicad_kicad_footprints_rchojetzki_mountingholem2_2_2mm_onesided
+    oomp_key_extra: oomp_footprint_rchojetzki_kicad_kicad_footprints_rchojetzki_mountingholem2_2_2mm_onesided
+    oomp_key_full: oomp_footprint_rchojetzki_kicad_kicad_footprints_rchojetzki_mountingholem2_2_2mm_onesided_501f7b
+    oomp_key_simple: rchojetzki_kicad_kicad_footprints_rchojetzki_mountingholem2_2_2mm_onesided
+    original_filename: kicad-footprints-rchojetzki.pretty/MountingHoleM2_2.2mm_oneSided.kicad_mod
+    owner_name: rchojetzki_kicad
   oomp_key: oomp_rchojetzki_kicad_kicad_footprints_rchojetzki_mountingholem2_2_2mm_onesided
+  oomp_key_full: oomp_footprint_rchojetzki_kicad_kicad_footprints_rchojetzki_mountingholem2_2_2mm_onesided
   oomp_key_simple: rchojetzki_kicad_kicad_footprints_rchojetzki_mountingholem2_2_2mm_onesided
   owner: rchojetzki-kicad
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/asukiaaa_my_kicad_footprints_wqfn48_0707/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/asukiaaa_my_kicad_footprints_wqfn48_0707/working
-    oomp_doc: footprints/footprints/asukiaaa/my-kicad-footprints/WQFN48-0707/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/asukiaaa/my-kicad-footprints/WQFN48-0707/working
     oomp_src_flat: footprints_flat/footprints_flat/asukiaaa_my_kicad_footprints_wqfn48_0707/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/asukiaaa_my_kicad_footprints_wqfn48_0707/working
-    oomp_src_folder: footprints_folder/footprints_folder/asukiaaa/my-kicad-footprints/WQFN48-0707/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/asukiaaa/my-kicad-footprints/WQFN48-0707/working
   name: my-kicad-footprints.pretty
+  oomp:
+    footprint_name: wqfn48_0707
+    library_name: my_kicad_footprints
+    md5: 62328cc6bfbb2026c67297d31459eb25
+    md5_10: 62328cc6bf
+    md5_5: '62328'
+    md5_6: 62328c
+    oomp_key: oomp_asukiaaa_my_kicad_footprints_wqfn48_0707
+    oomp_key_extra: oomp_footprint_asukiaaa_my_kicad_footprints_wqfn48_0707
+    oomp_key_full: oomp_footprint_asukiaaa_my_kicad_footprints_wqfn48_0707_62328c
+    oomp_key_simple: asukiaaa_my_kicad_footprints_wqfn48_0707
+    original_filename: my-kicad-footprints.pretty/WQFN48-0707.kicad_mod
+    owner_name: asukiaaa
   oomp_key: oomp_asukiaaa_my_kicad_footprints_wqfn48_0707
+  oomp_key_full: oomp_footprint_asukiaaa_my_kicad_footprints_wqfn48_0707
   oomp_key_simple: asukiaaa_my_kicad_footprints_wqfn48_0707
   owner: asukiaaa
   repo:

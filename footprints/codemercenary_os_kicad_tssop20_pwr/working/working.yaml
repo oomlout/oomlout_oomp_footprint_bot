@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/codemercenary_os_kicad_tssop20_pwr/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/codemercenary_os_kicad_tssop20_pwr/working
-    oomp_doc: footprints/footprints/codemercenary-os/kicad/TSSOP20_PWR/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/codemercenary-os/kicad/TSSOP20_PWR/working
     oomp_src_flat: footprints_flat/footprints_flat/codemercenary_os_kicad_tssop20_pwr/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/codemercenary_os_kicad_tssop20_pwr/working
-    oomp_src_folder: footprints_folder/footprints_folder/codemercenary-os/kicad/TSSOP20_PWR/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/codemercenary-os/kicad/TSSOP20_PWR/working
   name: kicad.pretty
+  oomp:
+    footprint_name: tssop20_pwr
+    library_name: kicad
+    md5: 0475a3724c61b7f6779e6a270c850a86
+    md5_10: 0475a3724c
+    md5_5: 0475a
+    md5_6: 0475a3
+    oomp_key: oomp_codemercenary_os_kicad_tssop20_pwr
+    oomp_key_extra: oomp_footprint_codemercenary_os_kicad_tssop20_pwr
+    oomp_key_full: oomp_footprint_codemercenary_os_kicad_tssop20_pwr_0475a3
+    oomp_key_simple: codemercenary_os_kicad_tssop20_pwr
+    original_filename: kicad.pretty/TSSOP20_PWR.kicad_mod
+    owner_name: codemercenary_os
   oomp_key: oomp_codemercenary_os_kicad_tssop20_pwr
+  oomp_key_full: oomp_footprint_codemercenary_os_kicad_tssop20_pwr
   oomp_key_simple: codemercenary_os_kicad_tssop20_pwr
   owner: codemercenary-os
   repo:

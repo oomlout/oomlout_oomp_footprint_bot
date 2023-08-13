@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/sherifeid_robolib_caphoriz_10x20_cutout/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/sherifeid_robolib_caphoriz_10x20_cutout/working
-    oomp_doc: footprints/footprints/sherifeid/RoboLib/CAPHORIZ_10x20_CUTOUT/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/sherifeid/RoboLib/CAPHORIZ_10x20_CUTOUT/working
     oomp_src_flat: footprints_flat/footprints_flat/sherifeid_robolib_caphoriz_10x20_cutout/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/sherifeid_robolib_caphoriz_10x20_cutout/working
-    oomp_src_folder: footprints_folder/footprints_folder/sherifeid/RoboLib/CAPHORIZ_10x20_CUTOUT/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/sherifeid/RoboLib/CAPHORIZ_10x20_CUTOUT/working
   name: RoboLib.pretty
+  oomp:
+    footprint_name: caphoriz_10x20_cutout
+    library_name: robolib
+    md5: 6444394acc8ec8daa51314de5ccd29ad
+    md5_10: 6444394acc
+    md5_5: '64443'
+    md5_6: '644439'
+    oomp_key: oomp_sherifeid_robolib_caphoriz_10x20_cutout
+    oomp_key_extra: oomp_footprint_sherifeid_robolib_caphoriz_10x20_cutout
+    oomp_key_full: oomp_footprint_sherifeid_robolib_caphoriz_10x20_cutout_644439
+    oomp_key_simple: sherifeid_robolib_caphoriz_10x20_cutout
+    original_filename: RoboLib.pretty/CAPHORIZ_10x20_CUTOUT.kicad_mod
+    owner_name: sherifeid
   oomp_key: oomp_sherifeid_robolib_caphoriz_10x20_cutout
+  oomp_key_full: oomp_footprint_sherifeid_robolib_caphoriz_10x20_cutout
   oomp_key_simple: sherifeid_robolib_caphoriz_10x20_cutout
   owner: sherifeid
   repo:

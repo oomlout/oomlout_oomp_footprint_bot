@@ -13,14 +13,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/re_innovation_smd_packages_plcc_28/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/re_innovation_smd_packages_plcc_28/working
-    oomp_doc: footprints/footprints/re-innovation/SMD_Packages/PLCC-28/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/re-innovation/SMD_Packages/PLCC-28/working
     oomp_src_flat: footprints_flat/footprints_flat/re_innovation_smd_packages_plcc_28/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/re_innovation_smd_packages_plcc_28/working
-    oomp_src_folder: footprints_folder/footprints_folder/re-innovation/SMD_Packages/PLCC-28/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/re-innovation/SMD_Packages/PLCC-28/working
   name: kicad_reinnovation
+  oomp:
+    footprint_name: plcc_28
+    library_name: smd_packages
+    md5: 125a4869b281413b4df7014ed66a6e13
+    md5_10: 125a4869b2
+    md5_5: 125a4
+    md5_6: 125a48
+    oomp_key: oomp_re_innovation_smd_packages_plcc_28
+    oomp_key_extra: oomp_footprint_re_innovation_smd_packages_plcc_28
+    oomp_key_full: oomp_footprint_re_innovation_smd_packages_plcc_28_125a48
+    oomp_key_simple: re_innovation_smd_packages_plcc_28
+    original_filename: kicad_reinnovation/KiCAD PRETTY/SMD_Packages.pretty/PLCC-28.kicad_mod
+    owner_name: re_innovation
   oomp_key: oomp_re_innovation_smd_packages_plcc_28
+  oomp_key_full: oomp_footprint_re_innovation_smd_packages_plcc_28
   oomp_key_simple: re_innovation_smd_packages_plcc_28
   owner: re-innovation
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/stanleyseow_svtmaker_kk156_26_60_4020/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stanleyseow_svtmaker_kk156_26_60_4020/working
-    oomp_doc: footprints/footprints/stanleyseow/SVTmaker/kk156_26-60-4020/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/stanleyseow/SVTmaker/kk156_26-60-4020/working
     oomp_src_flat: footprints_flat/footprints_flat/stanleyseow_svtmaker_kk156_26_60_4020/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/stanleyseow_svtmaker_kk156_26_60_4020/working
-    oomp_src_folder: footprints_folder/footprints_folder/stanleyseow/SVTmaker/kk156_26-60-4020/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/stanleyseow/SVTmaker/kk156_26-60-4020/working
   name: SVTmaker.pretty
+  oomp:
+    footprint_name: kk156_26_60_4020
+    library_name: svtmaker
+    md5: de021a6b8db4d0971bcebd632b3fe9fb
+    md5_10: de021a6b8d
+    md5_5: de021
+    md5_6: de021a
+    oomp_key: oomp_stanleyseow_svtmaker_kk156_26_60_4020
+    oomp_key_extra: oomp_footprint_stanleyseow_svtmaker_kk156_26_60_4020
+    oomp_key_full: oomp_footprint_stanleyseow_svtmaker_kk156_26_60_4020_de021a
+    oomp_key_simple: stanleyseow_svtmaker_kk156_26_60_4020
+    original_filename: SVTmaker.pretty/kk156_26-60-4020.kicad_mod
+    owner_name: stanleyseow
   oomp_key: oomp_stanleyseow_svtmaker_kk156_26_60_4020
+  oomp_key_full: oomp_footprint_stanleyseow_svtmaker_kk156_26_60_4020
   oomp_key_simple: stanleyseow_svtmaker_kk156_26_60_4020
   owner: stanleyseow
   repo:

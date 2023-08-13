@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/celeritous_kicad_fuse_holder_atc_pcb/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/celeritous_kicad_fuse_holder_atc_pcb/working
-    oomp_doc: footprints/footprints/celeritous/KiCad/FUSE_HOLDER_ATC_PCB/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/celeritous/KiCad/FUSE_HOLDER_ATC_PCB/working
     oomp_src_flat: footprints_flat/footprints_flat/celeritous_kicad_fuse_holder_atc_pcb/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/celeritous_kicad_fuse_holder_atc_pcb/working
-    oomp_src_folder: footprints_folder/footprints_folder/celeritous/KiCad/FUSE_HOLDER_ATC_PCB/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/celeritous/KiCad/FUSE_HOLDER_ATC_PCB/working
   name: KiCad.pretty
+  oomp:
+    footprint_name: fuse_holder_atc_pcb
+    library_name: kicad
+    md5: 25c77e9668dcdbb9131e82108d13f0ae
+    md5_10: 25c77e9668
+    md5_5: 25c77
+    md5_6: 25c77e
+    oomp_key: oomp_celeritous_kicad_fuse_holder_atc_pcb
+    oomp_key_extra: oomp_footprint_celeritous_kicad_fuse_holder_atc_pcb
+    oomp_key_full: oomp_footprint_celeritous_kicad_fuse_holder_atc_pcb_25c77e
+    oomp_key_simple: celeritous_kicad_fuse_holder_atc_pcb
+    original_filename: KiCad.pretty/FUSE_HOLDER_ATC_PCB.kicad_mod
+    owner_name: celeritous
   oomp_key: oomp_celeritous_kicad_fuse_holder_atc_pcb
+  oomp_key_full: oomp_footprint_celeritous_kicad_fuse_holder_atc_pcb
   oomp_key_simple: celeritous_kicad_fuse_holder_atc_pcb
   owner: celeritous
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cpavlina_manuf_manuf_panasonic_ecq_ef/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cpavlina_manuf_manuf_panasonic_ecq_ef/working
-    oomp_doc: footprints/footprints/cpavlina/manuf/MANUF-PANASONIC-ECQ-EF/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cpavlina/manuf/MANUF-PANASONIC-ECQ-EF/working
     oomp_src_flat: footprints_flat/footprints_flat/cpavlina_manuf_manuf_panasonic_ecq_ef/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cpavlina_manuf_manuf_panasonic_ecq_ef/working
-    oomp_src_folder: footprints_folder/footprints_folder/cpavlina/manuf/MANUF-PANASONIC-ECQ-EF/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cpavlina/manuf/MANUF-PANASONIC-ECQ-EF/working
   name: kicad-pcblib
+  oomp:
+    footprint_name: manuf_panasonic_ecq_ef
+    library_name: manuf
+    md5: f180f57cf3a17f8bd86f4fb89dc24c5d
+    md5_10: f180f57cf3
+    md5_5: f180f
+    md5_6: f180f5
+    oomp_key: oomp_cpavlina_manuf_manuf_panasonic_ecq_ef
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_manuf_panasonic_ecq_ef
+    oomp_key_full: oomp_footprint_cpavlina_manuf_manuf_panasonic_ecq_ef_f180f5
+    oomp_key_simple: cpavlina_manuf_manuf_panasonic_ecq_ef
+    original_filename: kicad-pcblib/manuf.pretty/MANUF-PANASONIC-ECQ-EF.kicad_mod
+    owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_manuf_panasonic_ecq_ef
+  oomp_key_full: oomp_footprint_cpavlina_manuf_manuf_panasonic_ecq_ef
   oomp_key_simple: cpavlina_manuf_manuf_panasonic_ecq_ef
   owner: cpavlina
   repo:

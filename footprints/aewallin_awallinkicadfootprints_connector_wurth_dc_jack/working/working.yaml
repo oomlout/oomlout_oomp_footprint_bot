@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/aewallin/awallinKiCadFootprints.pretty
     oomp_bot: footprints/aewallin_awallinkicadfootprints_connector_wurth_dc_jack/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/aewallin_awallinkicadfootprints_connector_wurth_dc_jack/working
-    oomp_doc: footprints/footprints/aewallin/awallinKiCadFootprints/Connector_Wurth_DC_jack/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/aewallin/awallinKiCadFootprints/Connector_Wurth_DC_jack/working
     oomp_src_flat: footprints_flat/footprints_flat/aewallin_awallinkicadfootprints_connector_wurth_dc_jack/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/aewallin_awallinkicadfootprints_connector_wurth_dc_jack/working
-    oomp_src_folder: footprints_folder/footprints_folder/aewallin/awallinKiCadFootprints/Connector_Wurth_DC_jack/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/aewallin/awallinKiCadFootprints/Connector_Wurth_DC_jack/working
   name: awallinKiCadFootprints.pretty
+  oomp:
+    footprint_name: connector_wurth_dc_jack
+    library_name: awallinkicadfootprints
+    md5: d59eca6f61b93047a6a2f45f645d3bca
+    md5_10: d59eca6f61
+    md5_5: d59ec
+    md5_6: d59eca
+    oomp_key: oomp_aewallin_awallinkicadfootprints_connector_wurth_dc_jack
+    oomp_key_extra: oomp_footprint_aewallin_awallinkicadfootprints_connector_wurth_dc_jack
+    oomp_key_full: oomp_footprint_aewallin_awallinkicadfootprints_connector_wurth_dc_jack_d59eca
+    oomp_key_simple: aewallin_awallinkicadfootprints_connector_wurth_dc_jack
+    original_filename: awallinKiCadFootprints.pretty/Connector_Wurth_DC_jack.kicad_mod
+    owner_name: aewallin
   oomp_key: oomp_aewallin_awallinkicadfootprints_connector_wurth_dc_jack
+  oomp_key_full: oomp_footprint_aewallin_awallinkicadfootprints_connector_wurth_dc_jack
   oomp_key_simple: aewallin_awallinkicadfootprints_connector_wurth_dc_jack
   owner: aewallin
   repo:

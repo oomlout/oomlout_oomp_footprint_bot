@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/axello_interf_u_pga120/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/axello_interf_u_pga120/working
-    oomp_doc: footprints/footprints/axello/interf_u/PGA120/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/axello/interf_u/PGA120/working
     oomp_src_flat: footprints_flat/footprints_flat/axello_interf_u_pga120/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/axello_interf_u_pga120/working
-    oomp_src_folder: footprints_folder/footprints_folder/axello/interf_u/PGA120/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/axello/interf_u/PGA120/working
   name: kicad
+  oomp:
+    footprint_name: pga120
+    library_name: interf_u
+    md5: b95d91754a214b5c39c7033db6fc3ed0
+    md5_10: b95d91754a
+    md5_5: b95d9
+    md5_6: b95d91
+    oomp_key: oomp_axello_interf_u_pga120
+    oomp_key_extra: oomp_footprint_axello_interf_u_pga120
+    oomp_key_full: oomp_footprint_axello_interf_u_pga120_b95d91
+    oomp_key_simple: axello_interf_u_pga120
+    original_filename: kicad/demos/interf_u/interf_u.pretty/PGA120.kicad_mod
+    owner_name: axello
   oomp_key: oomp_axello_interf_u_pga120
+  oomp_key_full: oomp_footprint_axello_interf_u_pga120
   oomp_key_simple: axello_interf_u_pga120
   owner: axello
   repo:

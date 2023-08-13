@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/tmk_keyboard_parts_sw_alps_sksg/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/tmk_keyboard_parts_sw_alps_sksg/working
-    oomp_doc: footprints/footprints/tmk/keyboard_parts/SW_ALPS_SKSG/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/tmk/keyboard_parts/SW_ALPS_SKSG/working
     oomp_src_flat: footprints_flat/footprints_flat/tmk_keyboard_parts_sw_alps_sksg/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/tmk_keyboard_parts_sw_alps_sksg/working
-    oomp_src_folder: footprints_folder/footprints_folder/tmk/keyboard_parts/SW_ALPS_SKSG/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/tmk/keyboard_parts/SW_ALPS_SKSG/working
   name: keyboard_parts.pretty
+  oomp:
+    footprint_name: sw_alps_sksg
+    library_name: keyboard_parts
+    md5: 87c44a887f47e3237db82b0c863aca88
+    md5_10: 87c44a887f
+    md5_5: 87c44
+    md5_6: 87c44a
+    oomp_key: oomp_tmk_keyboard_parts_sw_alps_sksg
+    oomp_key_extra: oomp_footprint_tmk_keyboard_parts_sw_alps_sksg
+    oomp_key_full: oomp_footprint_tmk_keyboard_parts_sw_alps_sksg_87c44a
+    oomp_key_simple: tmk_keyboard_parts_sw_alps_sksg
+    original_filename: keyboard_parts.pretty/SW_ALPS_SKSG.kicad_mod
+    owner_name: tmk
   oomp_key: oomp_tmk_keyboard_parts_sw_alps_sksg
+  oomp_key_full: oomp_footprint_tmk_keyboard_parts_sw_alps_sksg
   oomp_key_simple: tmk_keyboard_parts_sw_alps_sksg
   owner: tmk
   repo:

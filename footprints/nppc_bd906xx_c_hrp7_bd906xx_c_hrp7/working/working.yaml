@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/nppc_bd906xx_c_hrp7_bd906xx_c_hrp7/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nppc_bd906xx_c_hrp7_bd906xx_c_hrp7/working
-    oomp_doc: footprints/footprints/nppc/BD906XX-C-HRP7.kicad_mod/BD906XX-C-HRP7/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/nppc/BD906XX-C-HRP7.kicad_mod/BD906XX-C-HRP7/working
     oomp_src_flat: footprints_flat/footprints_flat/nppc_bd906xx_c_hrp7_bd906xx_c_hrp7/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nppc_bd906xx_c_hrp7_bd906xx_c_hrp7/working
-    oomp_src_folder: footprints_folder/footprints_folder/nppc/BD906XX-C-HRP7.kicad_mod/BD906XX-C-HRP7/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/nppc/BD906XX-C-HRP7.kicad_mod/BD906XX-C-HRP7/working
   name: KiCadCustomLibs
+  oomp:
+    footprint_name: bd906xx_c_hrp7
+    library_name: bd906xx_c_hrp7_kicad_mod
+    md5: f907f3f3fb73a3c51e0c21a478ceb74a
+    md5_10: f907f3f3fb
+    md5_5: f907f
+    md5_6: f907f3
+    oomp_key: oomp_nppc_bd906xx_c_hrp7_bd906xx_c_hrp7
+    oomp_key_extra: oomp_footprint_nppc_bd906xx_c_hrp7_bd906xx_c_hrp7
+    oomp_key_full: oomp_footprint_nppc_bd906xx_c_hrp7_bd906xx_c_hrp7_f907f3
+    oomp_key_simple: nppc_bd906xx_c_hrp7_bd906xx_c_hrp7
+    original_filename: KiCadCustomLibs/BD906XX-C-HRP7.kicad_mod
+    owner_name: nppc
   oomp_key: oomp_nppc_bd906xx_c_hrp7_bd906xx_c_hrp7
+  oomp_key_full: oomp_footprint_nppc_bd906xx_c_hrp7_bd906xx_c_hrp7
   oomp_key_simple: nppc_bd906xx_c_hrp7_bd906xx_c_hrp7
   owner: nppc
   repo:

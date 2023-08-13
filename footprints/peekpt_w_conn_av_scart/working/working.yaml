@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/peekpt_w_conn_av_scart/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/peekpt_w_conn_av_scart/working
-    oomp_doc: footprints/footprints/peekpt/w_conn_av/SCART/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/peekpt/w_conn_av/SCART/working
     oomp_src_flat: footprints_flat/footprints_flat/peekpt_w_conn_av_scart/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/peekpt_w_conn_av_scart/working
-    oomp_src_folder: footprints_folder/footprints_folder/peekpt/w_conn_av/SCART/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/peekpt/w_conn_av/SCART/working
   name: kicad_smisioto
+  oomp:
+    footprint_name: scart
+    library_name: w_conn_av
+    md5: e502598dc67e1a9b82258e86ef09dd52
+    md5_10: e502598dc6
+    md5_5: e5025
+    md5_6: e50259
+    oomp_key: oomp_peekpt_w_conn_av_scart
+    oomp_key_extra: oomp_footprint_peekpt_w_conn_av_scart
+    oomp_key_full: oomp_footprint_peekpt_w_conn_av_scart_e50259
+    oomp_key_simple: peekpt_w_conn_av_scart
+    original_filename: kicad_smisioto/modules/walter/w_conn_av.pretty/SCART.kicad_mod
+    owner_name: peekpt
   oomp_key: oomp_peekpt_w_conn_av_scart
+  oomp_key_full: oomp_footprint_peekpt_w_conn_av_scart
   oomp_key_simple: peekpt_w_conn_av_scart
   owner: peekpt
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/nightmechanic_nightmechanic_pcb_conn_2_5mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nightmechanic_nightmechanic_pcb_conn_2_5mm/working
-    oomp_doc: footprints/footprints/nightmechanic/nightmechanic_pcb/conn_2_5mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/nightmechanic/nightmechanic_pcb/conn_2_5mm/working
     oomp_src_flat: footprints_flat/footprints_flat/nightmechanic_nightmechanic_pcb_conn_2_5mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nightmechanic_nightmechanic_pcb_conn_2_5mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/nightmechanic/nightmechanic_pcb/conn_2_5mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/nightmechanic/nightmechanic_pcb/conn_2_5mm/working
   name: nightmechanic_pcb.pretty
+  oomp:
+    footprint_name: conn_2_5mm
+    library_name: nightmechanic_pcb
+    md5: d857af3419dc1e41cb86d92976d1f362
+    md5_10: d857af3419
+    md5_5: d857a
+    md5_6: d857af
+    oomp_key: oomp_nightmechanic_nightmechanic_pcb_conn_2_5mm
+    oomp_key_extra: oomp_footprint_nightmechanic_nightmechanic_pcb_conn_2_5mm
+    oomp_key_full: oomp_footprint_nightmechanic_nightmechanic_pcb_conn_2_5mm_d857af
+    oomp_key_simple: nightmechanic_nightmechanic_pcb_conn_2_5mm
+    original_filename: nightmechanic_pcb.pretty/conn_2_5mm.kicad_mod
+    owner_name: nightmechanic
   oomp_key: oomp_nightmechanic_nightmechanic_pcb_conn_2_5mm
+  oomp_key_full: oomp_footprint_nightmechanic_nightmechanic_pcb_conn_2_5mm
   oomp_key_simple: nightmechanic_nightmechanic_pcb_conn_2_5mm
   owner: nightmechanic
   repo:

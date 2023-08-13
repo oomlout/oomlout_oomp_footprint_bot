@@ -12,17 +12,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_diode_tht_diode_bridge_15_2x15_2x6_3mm_p10_9mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_diode_tht_diode_bridge_15_2x15_2x6_3mm_p10_9mm/working
-    oomp_doc: footprints/footprints/kicad/Diode_THT/Diode_Bridge_15.2x15.2x6.3mm_P10.9mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Diode_THT/Diode_Bridge_15.2x15.2x6.3mm_P10.9mm/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_diode_tht_diode_bridge_15_2x15_2x6_3mm_p10_9mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_diode_tht_diode_bridge_15_2x15_2x6_3mm_p10_9mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Diode_THT/Diode_Bridge_15.2x15.2x6.3mm_P10.9mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Diode_THT/Diode_Bridge_15.2x15.2x6.3mm_P10.9mm/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: diode_bridge_15_2x15_2x6_3mm_p10_9mm
+    library_name: diode_tht
+    md5: 8c88f970a42842c4448d0b9263db3a78
+    md5_10: 8c88f970a4
+    md5_5: 8c88f
+    md5_6: 8c88f9
+    oomp_key: oomp_kicad_diode_tht_diode_bridge_15_2x15_2x6_3mm_p10_9mm
+    oomp_key_extra: oomp_footprint_kicad_diode_tht_diode_bridge_15_2x15_2x6_3mm_p10_9mm
+    oomp_key_full: oomp_footprint_kicad_diode_tht_diode_bridge_15_2x15_2x6_3mm_p10_9mm_8c88f9
+    oomp_key_simple: kicad_diode_tht_diode_bridge_15_2x15_2x6_3mm_p10_9mm
+    original_filename: libraries/kicad-footprints/Diode_THT.pretty/Diode_Bridge_15.2x15.2x6.3mm_P10.9mm.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_diode_tht_diode_bridge_15_2x15_2x6_3mm_p10_9mm
+  oomp_key_full: oomp_footprint_kicad_diode_tht_diode_bridge_15_2x15_2x6_3mm_p10_9mm
   oomp_key_simple: kicad_diode_tht_diode_bridge_15_2x15_2x6_3mm_p10_9mm
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

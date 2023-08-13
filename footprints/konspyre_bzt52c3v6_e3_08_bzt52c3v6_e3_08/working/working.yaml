@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/konspyre/kicad-footprints
     oomp_bot: footprints/konspyre_bzt52c3v6_e3_08_bzt52c3v6_e3_08/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/konspyre_bzt52c3v6_e3_08_bzt52c3v6_e3_08/working
-    oomp_doc: footprints/footprints/konspyre/BZT52C3V6-E3-08/BZT52C3V6-E3-08/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/konspyre/BZT52C3V6-E3-08/BZT52C3V6-E3-08/working
     oomp_src_flat: footprints_flat/footprints_flat/konspyre_bzt52c3v6_e3_08_bzt52c3v6_e3_08/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/konspyre_bzt52c3v6_e3_08_bzt52c3v6_e3_08/working
-    oomp_src_folder: footprints_folder/footprints_folder/konspyre/BZT52C3V6-E3-08/BZT52C3V6-E3-08/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/konspyre/BZT52C3V6-E3-08/BZT52C3V6-E3-08/working
   name: kicad-footprints
+  oomp:
+    footprint_name: bzt52c3v6_e3_08
+    library_name: bzt52c3v6_e3_08
+    md5: d338d7c344ba295afa5ef5ee87d3e606
+    md5_10: d338d7c344
+    md5_5: d338d
+    md5_6: d338d7
+    oomp_key: oomp_konspyre_bzt52c3v6_e3_08_bzt52c3v6_e3_08
+    oomp_key_extra: oomp_footprint_konspyre_bzt52c3v6_e3_08_bzt52c3v6_e3_08
+    oomp_key_full: oomp_footprint_konspyre_bzt52c3v6_e3_08_bzt52c3v6_e3_08_d338d7
+    oomp_key_simple: konspyre_bzt52c3v6_e3_08_bzt52c3v6_e3_08
+    original_filename: kicad-footprints/BZT52C3V6-E3-08.pretty/BZT52C3V6-E3-08.kicad_mod
+    owner_name: konspyre
   oomp_key: oomp_konspyre_bzt52c3v6_e3_08_bzt52c3v6_e3_08
+  oomp_key_full: oomp_footprint_konspyre_bzt52c3v6_e3_08_bzt52c3v6_e3_08
   oomp_key_simple: konspyre_bzt52c3v6_e3_08_bzt52c3v6_e3_08
   owner: konspyre
   repo:

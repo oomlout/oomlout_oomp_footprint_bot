@@ -1,5 +1,8 @@
-- error: Expression does not have the correct type
-  file: libraries/kicad-footprints/Transformer_SMD.pretty/Transformer_MiniCircuits_AT224-1A.kicad_mod
+- file: libraries/kicad-footprints/Transformer_SMD.pretty/Transformer_MiniCircuits_AT224-1A.kicad_mod
+  footprint:
+    description: SMD RF transformer, 50 ohm, 4.5 to 3000Mhz, https://www.minicircuits.com/pdfs/TC1-1-13M+.pdf
+    libraryLink: Transformer_MiniCircuits_AT224-1A
+    number_of_pads: 5
   footprint_library_directory: footprint_library_owner/kicad_libraries/kicad-footprints/
   footprint_library_directory_flat: footprints_flat/kicad_transformer_smd_transformer_minicircuits_at224_1a/working
   github_path: http://github.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Transformer_SMD.pretty/Transformer_MiniCircuits_AT224-1A.kicad_mod
@@ -8,17 +11,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_transformer_smd_transformer_minicircuits_at224_1a/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_transformer_smd_transformer_minicircuits_at224_1a/working
-    oomp_doc: footprints/footprints/kicad/Transformer_SMD/Transformer_MiniCircuits_AT224-1A/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Transformer_SMD/Transformer_MiniCircuits_AT224-1A/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_transformer_smd_transformer_minicircuits_at224_1a/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_transformer_smd_transformer_minicircuits_at224_1a/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Transformer_SMD/Transformer_MiniCircuits_AT224-1A/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Transformer_SMD/Transformer_MiniCircuits_AT224-1A/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: transformer_minicircuits_at224_1a
+    library_name: transformer_smd
+    md5: 70b1b86088f629fb50dc10a6324ed7f5
+    md5_10: 70b1b86088
+    md5_5: 70b1b
+    md5_6: 70b1b8
+    oomp_key: oomp_kicad_transformer_smd_transformer_minicircuits_at224_1a
+    oomp_key_extra: oomp_footprint_kicad_transformer_smd_transformer_minicircuits_at224_1a
+    oomp_key_full: oomp_footprint_kicad_transformer_smd_transformer_minicircuits_at224_1a_70b1b8
+    oomp_key_simple: kicad_transformer_smd_transformer_minicircuits_at224_1a
+    original_filename: libraries/kicad-footprints/Transformer_SMD.pretty/Transformer_MiniCircuits_AT224-1A.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_transformer_smd_transformer_minicircuits_at224_1a
+  oomp_key_full: oomp_footprint_kicad_transformer_smd_transformer_minicircuits_at224_1a
   oomp_key_simple: kicad_transformer_smd_transformer_minicircuits_at224_1a
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

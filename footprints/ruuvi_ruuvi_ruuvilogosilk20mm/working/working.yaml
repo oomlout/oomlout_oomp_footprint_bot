@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/ruuvi_ruuvi_ruuvilogosilk20mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ruuvi_ruuvi_ruuvilogosilk20mm/working
-    oomp_doc: footprints/footprints/ruuvi/Ruuvi/RUUVILOGOSILK20MM/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ruuvi/Ruuvi/RUUVILOGOSILK20MM/working
     oomp_src_flat: footprints_flat/footprints_flat/ruuvi_ruuvi_ruuvilogosilk20mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ruuvi_ruuvi_ruuvilogosilk20mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/ruuvi/Ruuvi/RUUVILOGOSILK20MM/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ruuvi/Ruuvi/RUUVILOGOSILK20MM/working
   name: kicad-library
+  oomp:
+    footprint_name: ruuvilogosilk20mm
+    library_name: ruuvi
+    md5: 2843d5446e261f48d4f0b277d208061c
+    md5_10: 2843d5446e
+    md5_5: 2843d
+    md5_6: 2843d5
+    oomp_key: oomp_ruuvi_ruuvi_ruuvilogosilk20mm
+    oomp_key_extra: oomp_footprint_ruuvi_ruuvi_ruuvilogosilk20mm
+    oomp_key_full: oomp_footprint_ruuvi_ruuvi_ruuvilogosilk20mm_2843d5
+    oomp_key_simple: ruuvi_ruuvi_ruuvilogosilk20mm
+    original_filename: kicad-library/Ruuvi.pretty/RUUVILOGOSILK20MM.kicad_mod
+    owner_name: ruuvi
   oomp_key: oomp_ruuvi_ruuvi_ruuvilogosilk20mm
+  oomp_key_full: oomp_footprint_ruuvi_ruuvi_ruuvilogosilk20mm
   oomp_key_simple: ruuvi_ruuvi_ruuvilogosilk20mm
   owner: ruuvi
   repo:

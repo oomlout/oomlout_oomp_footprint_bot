@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/rchojetzki_kicad_footprints_pulse_j00_led/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/rchojetzki_kicad_footprints_pulse_j00_led/working
-    oomp_doc: footprints/footprints/rchojetzki-kicad/footprints/Pulse-J00-LED/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/rchojetzki-kicad/footprints/Pulse-J00-LED/working
     oomp_src_flat: footprints_flat/footprints_flat/rchojetzki_kicad_footprints_pulse_j00_led/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/rchojetzki_kicad_footprints_pulse_j00_led/working
-    oomp_src_folder: footprints_folder/footprints_folder/rchojetzki-kicad/footprints/Pulse-J00-LED/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/rchojetzki-kicad/footprints/Pulse-J00-LED/working
   name: footprints.pretty
+  oomp:
+    footprint_name: pulse_j00_led
+    library_name: footprints
+    md5: d4a4bfade68faa05e58c7d16449f9e2c
+    md5_10: d4a4bfade6
+    md5_5: d4a4b
+    md5_6: d4a4bf
+    oomp_key: oomp_rchojetzki_kicad_footprints_pulse_j00_led
+    oomp_key_extra: oomp_footprint_rchojetzki_kicad_footprints_pulse_j00_led
+    oomp_key_full: oomp_footprint_rchojetzki_kicad_footprints_pulse_j00_led_d4a4bf
+    oomp_key_simple: rchojetzki_kicad_footprints_pulse_j00_led
+    original_filename: footprints.pretty/Pulse-J00-LED.kicad_mod
+    owner_name: rchojetzki_kicad
   oomp_key: oomp_rchojetzki_kicad_footprints_pulse_j00_led
+  oomp_key_full: oomp_footprint_rchojetzki_kicad_footprints_pulse_j00_led
   oomp_key_simple: rchojetzki_kicad_footprints_pulse_j00_led
   owner: rchojetzki-kicad
   repo:

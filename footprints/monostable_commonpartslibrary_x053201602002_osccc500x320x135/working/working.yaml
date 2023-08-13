@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/monostable_commonpartslibrary_x053201602002_osccc500x320x135/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/monostable_commonpartslibrary_x053201602002_osccc500x320x135/working
-    oomp_doc: footprints/footprints/monostable/CommonPartsLibrary/X053201602002_OSCCC500X320X135/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/monostable/CommonPartsLibrary/X053201602002_OSCCC500X320X135/working
     oomp_src_flat: footprints_flat/footprints_flat/monostable_commonpartslibrary_x053201602002_osccc500x320x135/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/monostable_commonpartslibrary_x053201602002_osccc500x320x135/working
-    oomp_src_folder: footprints_folder/footprints_folder/monostable/CommonPartsLibrary/X053201602002_OSCCC500X320X135/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/monostable/CommonPartsLibrary/X053201602002_OSCCC500X320X135/working
   name: CommonPartsLibrary.pretty
+  oomp:
+    footprint_name: x053201602002_osccc500x320x135
+    library_name: commonpartslibrary
+    md5: 639411109b5fe797edd29da15ed17a96
+    md5_10: 639411109b
+    md5_5: '63941'
+    md5_6: '639411'
+    oomp_key: oomp_monostable_commonpartslibrary_x053201602002_osccc500x320x135
+    oomp_key_extra: oomp_footprint_monostable_commonpartslibrary_x053201602002_osccc500x320x135
+    oomp_key_full: oomp_footprint_monostable_commonpartslibrary_x053201602002_osccc500x320x135_639411
+    oomp_key_simple: monostable_commonpartslibrary_x053201602002_osccc500x320x135
+    original_filename: CommonPartsLibrary.pretty/X053201602002_OSCCC500X320X135.kicad_mod
+    owner_name: monostable
   oomp_key: oomp_monostable_commonpartslibrary_x053201602002_osccc500x320x135
+  oomp_key_full: oomp_footprint_monostable_commonpartslibrary_x053201602002_osccc500x320x135
   oomp_key_simple: monostable_commonpartslibrary_x053201602002_osccc500x320x135
   owner: monostable
   repo:

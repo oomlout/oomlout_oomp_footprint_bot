@@ -1,9 +1,5 @@
-- file: ComponentLibrariesKicadWurthElektronik/INPUT_OUTPUT_CONNECTORS-rev17b/SD.pretty/693063020911.kicad_mod
-  footprint:
-    description: <B>WR-CRD</B><BR>\nSD CARD CONNECTOR<BR>\nPUSH & PULL<BR>\nSHORT
-      TYPE<BR>\nWITH CARD DETECTION<BR>\n9PINS
-    libraryLink: 693063020911
-    number_of_pads: 17
+- error: expected string or bytes-like object, got 'int'
+  file: ComponentLibrariesKicadWurthElektronik/INPUT_OUTPUT_CONNECTORS-rev17b/SD.pretty/693063020911.kicad_mod
   footprint_library_directory: footprint_library_owner/ElectronicCats_ComponentLibrariesKicadWurthElektronik
   footprint_library_directory_flat: footprints_flat/electroniccats_sd_693063020911/working
   github_path: http://github.com/ElectronicCats/ComponentLibrariesKicadWurthElektronik/blob/master/INPUT_OUTPUT_CONNECTORS-rev17b/SD.pretty/693063020911.kicad_mod
@@ -13,14 +9,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/electroniccats_sd_693063020911/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/electroniccats_sd_693063020911/working
-    oomp_doc: footprints/footprints/ElectronicCats/SD/693063020911/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ElectronicCats/SD/693063020911/working
     oomp_src_flat: footprints_flat/footprints_flat/electroniccats_sd_693063020911/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/electroniccats_sd_693063020911/working
-    oomp_src_folder: footprints_folder/footprints_folder/ElectronicCats/SD/693063020911/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ElectronicCats/SD/693063020911/working
   name: ComponentLibrariesKicadWurthElektronik
+  oomp:
+    footprint_name: '693063020911'
+    library_name: sd
+    md5: 0dd1661b767f2ccac520f008646b1630
+    md5_10: 0dd1661b76
+    md5_5: 0dd16
+    md5_6: 0dd166
+    oomp_key: oomp_electroniccats_sd_693063020911
+    oomp_key_extra: oomp_footprint_electroniccats_sd_693063020911
+    oomp_key_full: oomp_footprint_electroniccats_sd_693063020911_0dd166
+    oomp_key_simple: electroniccats_sd_693063020911
+    original_filename: ComponentLibrariesKicadWurthElektronik/INPUT_OUTPUT_CONNECTORS-rev17b/SD.pretty/693063020911.kicad_mod
+    owner_name: electroniccats
   oomp_key: oomp_electroniccats_sd_693063020911
+  oomp_key_full: oomp_footprint_electroniccats_sd_693063020911
   oomp_key_simple: electroniccats_sd_693063020911
   owner: ElectronicCats
   repo:

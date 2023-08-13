@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cormoran_kicad_alps_scha4b0409_sd_socket/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cormoran_kicad_alps_scha4b0409_sd_socket/working
-    oomp_doc: footprints/footprints/cormoran/kicad/ALPS_SCHA4B0409_SD_SOCKET/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cormoran/kicad/ALPS_SCHA4B0409_SD_SOCKET/working
     oomp_src_flat: footprints_flat/footprints_flat/cormoran_kicad_alps_scha4b0409_sd_socket/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cormoran_kicad_alps_scha4b0409_sd_socket/working
-    oomp_src_folder: footprints_folder/footprints_folder/cormoran/kicad/ALPS_SCHA4B0409_SD_SOCKET/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cormoran/kicad/ALPS_SCHA4B0409_SD_SOCKET/working
   name: kicad.pretty
+  oomp:
+    footprint_name: alps_scha4b0409_sd_socket
+    library_name: kicad
+    md5: 95d24ac7a2b9c601077c369a8919d2ae
+    md5_10: 95d24ac7a2
+    md5_5: 95d24
+    md5_6: 95d24a
+    oomp_key: oomp_cormoran_kicad_alps_scha4b0409_sd_socket
+    oomp_key_extra: oomp_footprint_cormoran_kicad_alps_scha4b0409_sd_socket
+    oomp_key_full: oomp_footprint_cormoran_kicad_alps_scha4b0409_sd_socket_95d24a
+    oomp_key_simple: cormoran_kicad_alps_scha4b0409_sd_socket
+    original_filename: kicad.pretty/ALPS_SCHA4B0409_SD_SOCKET.kicad_mod
+    owner_name: cormoran
   oomp_key: oomp_cormoran_kicad_alps_scha4b0409_sd_socket
+  oomp_key_full: oomp_footprint_cormoran_kicad_alps_scha4b0409_sd_socket
   oomp_key_simple: cormoran_kicad_alps_scha4b0409_sd_socket
   owner: cormoran
   repo:

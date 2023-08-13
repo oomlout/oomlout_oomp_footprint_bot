@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/nppc_microfet_2_0_microfet_2_0/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nppc_microfet_2_0_microfet_2_0/working
-    oomp_doc: footprints/footprints/nppc/MicroFet-2.0.kicad_mod/MicroFet-2.0/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/nppc/MicroFet-2.0.kicad_mod/MicroFet-2.0/working
     oomp_src_flat: footprints_flat/footprints_flat/nppc_microfet_2_0_microfet_2_0/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nppc_microfet_2_0_microfet_2_0/working
-    oomp_src_folder: footprints_folder/footprints_folder/nppc/MicroFet-2.0.kicad_mod/MicroFet-2.0/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/nppc/MicroFet-2.0.kicad_mod/MicroFet-2.0/working
   name: KiCadCustomLibs
+  oomp:
+    footprint_name: microfet_2_0
+    library_name: microfet_2_0_kicad_mod
+    md5: 917faaec629382fca574c5b081091a65
+    md5_10: 917faaec62
+    md5_5: 917fa
+    md5_6: 917faa
+    oomp_key: oomp_nppc_microfet_2_0_microfet_2_0
+    oomp_key_extra: oomp_footprint_nppc_microfet_2_0_microfet_2_0
+    oomp_key_full: oomp_footprint_nppc_microfet_2_0_microfet_2_0_917faa
+    oomp_key_simple: nppc_microfet_2_0_microfet_2_0
+    original_filename: KiCadCustomLibs/MicroFet-2.0.kicad_mod
+    owner_name: nppc
   oomp_key: oomp_nppc_microfet_2_0_microfet_2_0
+  oomp_key_full: oomp_footprint_nppc_microfet_2_0_microfet_2_0
   oomp_key_simple: nppc_microfet_2_0_microfet_2_0
   owner: nppc
   repo:

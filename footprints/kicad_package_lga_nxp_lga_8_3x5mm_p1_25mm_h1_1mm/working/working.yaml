@@ -12,17 +12,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_package_lga_nxp_lga_8_3x5mm_p1_25mm_h1_1mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_package_lga_nxp_lga_8_3x5mm_p1_25mm_h1_1mm/working
-    oomp_doc: footprints/footprints/kicad/Package_LGA/NXP_LGA-8_3x5mm_P1.25mm_H1.1mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Package_LGA/NXP_LGA-8_3x5mm_P1.25mm_H1.1mm/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_package_lga_nxp_lga_8_3x5mm_p1_25mm_h1_1mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_package_lga_nxp_lga_8_3x5mm_p1_25mm_h1_1mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Package_LGA/NXP_LGA-8_3x5mm_P1.25mm_H1.1mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Package_LGA/NXP_LGA-8_3x5mm_P1.25mm_H1.1mm/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: nxp_lga_8_3x5mm_p1_25mm_h1_1mm
+    library_name: package_lga
+    md5: 4fc2a9316070663abc9f05a5ef08e2f1
+    md5_10: 4fc2a93160
+    md5_5: 4fc2a
+    md5_6: 4fc2a9
+    oomp_key: oomp_kicad_package_lga_nxp_lga_8_3x5mm_p1_25mm_h1_1mm
+    oomp_key_extra: oomp_footprint_kicad_package_lga_nxp_lga_8_3x5mm_p1_25mm_h1_1mm
+    oomp_key_full: oomp_footprint_kicad_package_lga_nxp_lga_8_3x5mm_p1_25mm_h1_1mm_4fc2a9
+    oomp_key_simple: kicad_package_lga_nxp_lga_8_3x5mm_p1_25mm_h1_1mm
+    original_filename: libraries/kicad-footprints/Package_LGA.pretty/NXP_LGA-8_3x5mm_P1.25mm_H1.1mm.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_package_lga_nxp_lga_8_3x5mm_p1_25mm_h1_1mm
+  oomp_key_full: oomp_footprint_kicad_package_lga_nxp_lga_8_3x5mm_p1_25mm_h1_1mm
   oomp_key_simple: kicad_package_lga_nxp_lga_8_3x5mm_p1_25mm_h1_1mm
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

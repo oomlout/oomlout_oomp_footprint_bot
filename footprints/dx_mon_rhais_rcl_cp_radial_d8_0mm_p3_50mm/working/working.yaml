@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/dx_mon_rhais_rcl_cp_radial_d8_0mm_p3_50mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/dx_mon_rhais_rcl_cp_radial_d8_0mm_p3_50mm/working
-    oomp_doc: footprints/footprints/DX-MON/rhais_rcl/CP_Radial_D8.0mm_P3.50mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/DX-MON/rhais_rcl/CP_Radial_D8.0mm_P3.50mm/working
     oomp_src_flat: footprints_flat/footprints_flat/dx_mon_rhais_rcl_cp_radial_d8_0mm_p3_50mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/dx_mon_rhais_rcl_cp_radial_d8_0mm_p3_50mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/DX-MON/rhais_rcl/CP_Radial_D8.0mm_P3.50mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/DX-MON/rhais_rcl/CP_Radial_D8.0mm_P3.50mm/working
   name: rhais_rcl.pretty
+  oomp:
+    footprint_name: cp_radial_d8_0mm_p3_50mm
+    library_name: rhais_rcl
+    md5: c3427a9c8865162d369d2ec1e0d40926
+    md5_10: c3427a9c88
+    md5_5: c3427
+    md5_6: c3427a
+    oomp_key: oomp_dx_mon_rhais_rcl_cp_radial_d8_0mm_p3_50mm
+    oomp_key_extra: oomp_footprint_dx_mon_rhais_rcl_cp_radial_d8_0mm_p3_50mm
+    oomp_key_full: oomp_footprint_dx_mon_rhais_rcl_cp_radial_d8_0mm_p3_50mm_c3427a
+    oomp_key_simple: dx_mon_rhais_rcl_cp_radial_d8_0mm_p3_50mm
+    original_filename: rhais_rcl.pretty/CP_Radial_D8.0mm_P3.50mm.kicad_mod
+    owner_name: dx_mon
   oomp_key: oomp_dx_mon_rhais_rcl_cp_radial_d8_0mm_p3_50mm
+  oomp_key_full: oomp_footprint_dx_mon_rhais_rcl_cp_radial_d8_0mm_p3_50mm
   oomp_key_simple: dx_mon_rhais_rcl_cp_radial_d8_0mm_p3_50mm
   owner: DX-MON
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/garrettsworkshop_stdpads_d_minimelf/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/garrettsworkshop_stdpads_d_minimelf/working
-    oomp_doc: footprints/footprints/garrettsworkshop/stdpads/D_MiniMELF/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/garrettsworkshop/stdpads/D_MiniMELF/working
     oomp_src_flat: footprints_flat/footprints_flat/garrettsworkshop_stdpads_d_minimelf/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/garrettsworkshop_stdpads_d_minimelf/working
-    oomp_src_folder: footprints_folder/footprints_folder/garrettsworkshop/stdpads/D_MiniMELF/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/garrettsworkshop/stdpads/D_MiniMELF/working
   name: stdpads.pretty
+  oomp:
+    footprint_name: d_minimelf
+    library_name: stdpads
+    md5: 473be6cfb2707e8e83afc6c8ac716a3b
+    md5_10: 473be6cfb2
+    md5_5: 473be
+    md5_6: 473be6
+    oomp_key: oomp_garrettsworkshop_stdpads_d_minimelf
+    oomp_key_extra: oomp_footprint_garrettsworkshop_stdpads_d_minimelf
+    oomp_key_full: oomp_footprint_garrettsworkshop_stdpads_d_minimelf_473be6
+    oomp_key_simple: garrettsworkshop_stdpads_d_minimelf
+    original_filename: stdpads.pretty/D_MiniMELF.kicad_mod
+    owner_name: garrettsworkshop
   oomp_key: oomp_garrettsworkshop_stdpads_d_minimelf
+  oomp_key_full: oomp_footprint_garrettsworkshop_stdpads_d_minimelf
   oomp_key_simple: garrettsworkshop_stdpads_d_minimelf
   owner: garrettsworkshop
   repo:

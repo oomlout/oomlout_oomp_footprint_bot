@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/digikey_lga_14_3x5mm_lga_14_3x5mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_lga_14_3x5mm_lga_14_3x5mm/working
-    oomp_doc: footprints/footprints/digikey/LGA-14_3x5mm.kicad_mod/LGA-14_3x5mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/digikey/LGA-14_3x5mm.kicad_mod/LGA-14_3x5mm/working
     oomp_src_flat: footprints_flat/footprints_flat/digikey_lga_14_3x5mm_lga_14_3x5mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/digikey_lga_14_3x5mm_lga_14_3x5mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/digikey/LGA-14_3x5mm.kicad_mod/LGA-14_3x5mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/digikey/LGA-14_3x5mm.kicad_mod/LGA-14_3x5mm/working
   name: digikey-kicad-library
+  oomp:
+    footprint_name: lga_14_3x5mm
+    library_name: lga_14_3x5mm_kicad_mod
+    md5: 094e00f636c688012d968b2d41a8dc48
+    md5_10: 094e00f636
+    md5_5: 094e0
+    md5_6: 094e00
+    oomp_key: oomp_digikey_lga_14_3x5mm_lga_14_3x5mm
+    oomp_key_extra: oomp_footprint_digikey_lga_14_3x5mm_lga_14_3x5mm
+    oomp_key_full: oomp_footprint_digikey_lga_14_3x5mm_lga_14_3x5mm_094e00
+    oomp_key_simple: digikey_lga_14_3x5mm_lga_14_3x5mm
+    original_filename: digikey-kicad-library/src/Source_Footprints/LGA-14_3x5mm.kicad_mod
+    owner_name: digikey
   oomp_key: oomp_digikey_lga_14_3x5mm_lga_14_3x5mm
+  oomp_key_full: oomp_footprint_digikey_lga_14_3x5mm_lga_14_3x5mm
   oomp_key_simple: digikey_lga_14_3x5mm_lga_14_3x5mm
   owner: digikey
   repo:

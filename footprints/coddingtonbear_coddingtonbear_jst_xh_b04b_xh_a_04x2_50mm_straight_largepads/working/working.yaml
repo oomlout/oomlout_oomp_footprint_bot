@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/coddingtonbear_coddingtonbear_jst_xh_b04b_xh_a_04x2_50mm_straight_largepads/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/coddingtonbear_coddingtonbear_jst_xh_b04b_xh_a_04x2_50mm_straight_largepads/working
-    oomp_doc: footprints/footprints/coddingtonbear/coddingtonbear/JST_XH_B04B-XH-A_04x2.50mm_Straight_LargePads/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/coddingtonbear/coddingtonbear/JST_XH_B04B-XH-A_04x2.50mm_Straight_LargePads/working
     oomp_src_flat: footprints_flat/footprints_flat/coddingtonbear_coddingtonbear_jst_xh_b04b_xh_a_04x2_50mm_straight_largepads/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/coddingtonbear_coddingtonbear_jst_xh_b04b_xh_a_04x2_50mm_straight_largepads/working
-    oomp_src_folder: footprints_folder/footprints_folder/coddingtonbear/coddingtonbear/JST_XH_B04B-XH-A_04x2.50mm_Straight_LargePads/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/coddingtonbear/coddingtonbear/JST_XH_B04B-XH-A_04x2.50mm_Straight_LargePads/working
   name: coddingtonbear-kicad-lib
+  oomp:
+    footprint_name: jst_xh_b04b_xh_a_04x2_50mm_straight_largepads
+    library_name: coddingtonbear
+    md5: 0437b4e3f796c9d0276b9c3516f5769d
+    md5_10: 0437b4e3f7
+    md5_5: 0437b
+    md5_6: 0437b4
+    oomp_key: oomp_coddingtonbear_coddingtonbear_jst_xh_b04b_xh_a_04x2_50mm_straight_largepads
+    oomp_key_extra: oomp_footprint_coddingtonbear_coddingtonbear_jst_xh_b04b_xh_a_04x2_50mm_straight_largepads
+    oomp_key_full: oomp_footprint_coddingtonbear_coddingtonbear_jst_xh_b04b_xh_a_04x2_50mm_straight_largepads_0437b4
+    oomp_key_simple: coddingtonbear_coddingtonbear_jst_xh_b04b_xh_a_04x2_50mm_straight_largepads
+    original_filename: coddingtonbear-kicad-lib/coddingtonbear.pretty/JST_XH_B04B-XH-A_04x2.50mm_Straight_LargePads.kicad_mod
+    owner_name: coddingtonbear
   oomp_key: oomp_coddingtonbear_coddingtonbear_jst_xh_b04b_xh_a_04x2_50mm_straight_largepads
+  oomp_key_full: oomp_footprint_coddingtonbear_coddingtonbear_jst_xh_b04b_xh_a_04x2_50mm_straight_largepads
   oomp_key_simple: coddingtonbear_coddingtonbear_jst_xh_b04b_xh_a_04x2_50mm_straight_largepads
   owner: coddingtonbear
   repo:

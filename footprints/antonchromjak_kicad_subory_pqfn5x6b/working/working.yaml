@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/antonchromjak/kicad_subory.pretty
     oomp_bot: footprints/antonchromjak_kicad_subory_pqfn5x6b/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/antonchromjak_kicad_subory_pqfn5x6b/working
-    oomp_doc: footprints/footprints/antonchromjak/kicad_subory/PQFN5x6B/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/antonchromjak/kicad_subory/PQFN5x6B/working
     oomp_src_flat: footprints_flat/footprints_flat/antonchromjak_kicad_subory_pqfn5x6b/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/antonchromjak_kicad_subory_pqfn5x6b/working
-    oomp_src_folder: footprints_folder/footprints_folder/antonchromjak/kicad_subory/PQFN5x6B/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/antonchromjak/kicad_subory/PQFN5x6B/working
   name: kicad_subory.pretty
+  oomp:
+    footprint_name: pqfn5x6b
+    library_name: kicad_subory
+    md5: 77a27b2e5f213431df27013144f53c6d
+    md5_10: 77a27b2e5f
+    md5_5: 77a27
+    md5_6: 77a27b
+    oomp_key: oomp_antonchromjak_kicad_subory_pqfn5x6b
+    oomp_key_extra: oomp_footprint_antonchromjak_kicad_subory_pqfn5x6b
+    oomp_key_full: oomp_footprint_antonchromjak_kicad_subory_pqfn5x6b_77a27b
+    oomp_key_simple: antonchromjak_kicad_subory_pqfn5x6b
+    original_filename: kicad_subory.pretty/PQFN5x6B.kicad_mod
+    owner_name: antonchromjak
   oomp_key: oomp_antonchromjak_kicad_subory_pqfn5x6b
+  oomp_key_full: oomp_footprint_antonchromjak_kicad_subory_pqfn5x6b
   oomp_key_simple: antonchromjak_kicad_subory_pqfn5x6b
   owner: antonchromjak
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/digikey_digikey_footprints_dsub_9_receptical_a_df_09_a_kg_t2s/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_digikey_footprints_dsub_9_receptical_a_df_09_a_kg_t2s/working
-    oomp_doc: footprints/footprints/digikey/digikey-footprints/DSUB-9_Receptical_A-DF_09_A_KG-T2S/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/digikey/digikey-footprints/DSUB-9_Receptical_A-DF_09_A_KG-T2S/working
     oomp_src_flat: footprints_flat/footprints_flat/digikey_digikey_footprints_dsub_9_receptical_a_df_09_a_kg_t2s/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/digikey_digikey_footprints_dsub_9_receptical_a_df_09_a_kg_t2s/working
-    oomp_src_folder: footprints_folder/footprints_folder/digikey/digikey-footprints/DSUB-9_Receptical_A-DF_09_A_KG-T2S/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/digikey/digikey-footprints/DSUB-9_Receptical_A-DF_09_A_KG-T2S/working
   name: digikey-kicad-library
+  oomp:
+    footprint_name: dsub_9_receptical_a_df_09_a_kg_t2s
+    library_name: digikey_footprints
+    md5: 5a8d70761cc0752ebaa58c9ee0d79964
+    md5_10: 5a8d70761c
+    md5_5: 5a8d7
+    md5_6: 5a8d70
+    oomp_key: oomp_digikey_digikey_footprints_dsub_9_receptical_a_df_09_a_kg_t2s
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_dsub_9_receptical_a_df_09_a_kg_t2s
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_dsub_9_receptical_a_df_09_a_kg_t2s_5a8d70
+    oomp_key_simple: digikey_digikey_footprints_dsub_9_receptical_a_df_09_a_kg_t2s
+    original_filename: digikey-kicad-library/digikey-footprints.pretty/DSUB-9_Receptical_A-DF_09_A_KG-T2S.kicad_mod
+    owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_dsub_9_receptical_a_df_09_a_kg_t2s
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_dsub_9_receptical_a_df_09_a_kg_t2s
   oomp_key_simple: digikey_digikey_footprints_dsub_9_receptical_a_df_09_a_kg_t2s
   owner: digikey
   repo:

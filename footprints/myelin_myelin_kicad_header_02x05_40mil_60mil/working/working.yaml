@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/myelin_myelin_kicad_header_02x05_40mil_60mil/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/myelin_myelin_kicad_header_02x05_40mil_60mil/working
-    oomp_doc: footprints/footprints/myelin/myelin-kicad/header_02x05_40mil_60mil/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/myelin/myelin-kicad/header_02x05_40mil_60mil/working
     oomp_src_flat: footprints_flat/footprints_flat/myelin_myelin_kicad_header_02x05_40mil_60mil/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/myelin_myelin_kicad_header_02x05_40mil_60mil/working
-    oomp_src_folder: footprints_folder/footprints_folder/myelin/myelin-kicad/header_02x05_40mil_60mil/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/myelin/myelin-kicad/header_02x05_40mil_60mil/working
   name: myelin-kicad.pretty
+  oomp:
+    footprint_name: header_02x05_40mil_60mil
+    library_name: myelin_kicad
+    md5: 9763c3e1e880a6ed5d1cf622f8122e26
+    md5_10: 9763c3e1e8
+    md5_5: 9763c
+    md5_6: 9763c3
+    oomp_key: oomp_myelin_myelin_kicad_header_02x05_40mil_60mil
+    oomp_key_extra: oomp_footprint_myelin_myelin_kicad_header_02x05_40mil_60mil
+    oomp_key_full: oomp_footprint_myelin_myelin_kicad_header_02x05_40mil_60mil_9763c3
+    oomp_key_simple: myelin_myelin_kicad_header_02x05_40mil_60mil
+    original_filename: myelin-kicad.pretty/header_02x05_40mil_60mil.kicad_mod
+    owner_name: myelin
   oomp_key: oomp_myelin_myelin_kicad_header_02x05_40mil_60mil
+  oomp_key_full: oomp_footprint_myelin_myelin_kicad_header_02x05_40mil_60mil
   oomp_key_simple: myelin_myelin_kicad_header_02x05_40mil_60mil
   owner: myelin
   repo:

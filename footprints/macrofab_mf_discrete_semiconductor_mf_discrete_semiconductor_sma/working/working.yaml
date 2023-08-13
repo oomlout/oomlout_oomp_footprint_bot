@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/MacroFab/EDALibraries
     oomp_bot: footprints/macrofab_mf_discrete_semiconductor_mf_discrete_semiconductor_sma/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/macrofab_mf_discrete_semiconductor_mf_discrete_semiconductor_sma/working
-    oomp_doc: footprints/footprints/MacroFab/MF_Discrete_Semiconductor/MF_Discrete_Semiconductor-SMA/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/MacroFab/MF_Discrete_Semiconductor/MF_Discrete_Semiconductor-SMA/working
     oomp_src_flat: footprints_flat/footprints_flat/macrofab_mf_discrete_semiconductor_mf_discrete_semiconductor_sma/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/macrofab_mf_discrete_semiconductor_mf_discrete_semiconductor_sma/working
-    oomp_src_folder: footprints_folder/footprints_folder/MacroFab/MF_Discrete_Semiconductor/MF_Discrete_Semiconductor-SMA/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/MacroFab/MF_Discrete_Semiconductor/MF_Discrete_Semiconductor-SMA/working
   name: EDALibraries
+  oomp:
+    footprint_name: mf_discrete_semiconductor_sma
+    library_name: mf_discrete_semiconductor
+    md5: 157e2353bb7bc4cbe62839a1b5e4b94d
+    md5_10: 157e2353bb
+    md5_5: 157e2
+    md5_6: 157e23
+    oomp_key: oomp_macrofab_mf_discrete_semiconductor_mf_discrete_semiconductor_sma
+    oomp_key_extra: oomp_footprint_macrofab_mf_discrete_semiconductor_mf_discrete_semiconductor_sma
+    oomp_key_full: oomp_footprint_macrofab_mf_discrete_semiconductor_mf_discrete_semiconductor_sma_157e23
+    oomp_key_simple: macrofab_mf_discrete_semiconductor_mf_discrete_semiconductor_sma
+    original_filename: EDALibraries/KiCad/Footprints/MF_Discrete_Semiconductor.pretty/MF_Discrete_Semiconductor-SMA.kicad_mod
+    owner_name: macrofab
   oomp_key: oomp_macrofab_mf_discrete_semiconductor_mf_discrete_semiconductor_sma
+  oomp_key_full: oomp_footprint_macrofab_mf_discrete_semiconductor_mf_discrete_semiconductor_sma
   oomp_key_simple: macrofab_mf_discrete_semiconductor_mf_discrete_semiconductor_sma
   owner: MacroFab
   repo:

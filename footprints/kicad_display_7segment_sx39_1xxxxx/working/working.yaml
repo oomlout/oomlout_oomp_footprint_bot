@@ -12,17 +12,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_display_7segment_sx39_1xxxxx/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_display_7segment_sx39_1xxxxx/working
-    oomp_doc: footprints/footprints/kicad/Display_7Segment/Sx39-1xxxxx/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Display_7Segment/Sx39-1xxxxx/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_display_7segment_sx39_1xxxxx/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_display_7segment_sx39_1xxxxx/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Display_7Segment/Sx39-1xxxxx/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Display_7Segment/Sx39-1xxxxx/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: sx39_1xxxxx
+    library_name: display_7segment
+    md5: d66673e2eaea9e449a5f253e205385b4
+    md5_10: d66673e2ea
+    md5_5: d6667
+    md5_6: d66673
+    oomp_key: oomp_kicad_display_7segment_sx39_1xxxxx
+    oomp_key_extra: oomp_footprint_kicad_display_7segment_sx39_1xxxxx
+    oomp_key_full: oomp_footprint_kicad_display_7segment_sx39_1xxxxx_d66673
+    oomp_key_simple: kicad_display_7segment_sx39_1xxxxx
+    original_filename: libraries/kicad-footprints/Display_7Segment.pretty/Sx39-1xxxxx.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_display_7segment_sx39_1xxxxx
+  oomp_key_full: oomp_footprint_kicad_display_7segment_sx39_1xxxxx
   oomp_key_simple: kicad_display_7segment_sx39_1xxxxx
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

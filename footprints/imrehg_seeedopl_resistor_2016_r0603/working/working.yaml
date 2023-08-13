@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/imrehg_seeedopl_resistor_2016_r0603/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/imrehg_seeedopl_resistor_2016_r0603/working
-    oomp_doc: footprints/footprints/imrehg/SeeedOPL-Resistor-2016/R0603/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/imrehg/SeeedOPL-Resistor-2016/R0603/working
     oomp_src_flat: footprints_flat/footprints_flat/imrehg_seeedopl_resistor_2016_r0603/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/imrehg_seeedopl_resistor_2016_r0603/working
-    oomp_src_folder: footprints_folder/footprints_folder/imrehg/SeeedOPL-Resistor-2016/R0603/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/imrehg/SeeedOPL-Resistor-2016/R0603/working
   name: kicalopl
+  oomp:
+    footprint_name: r0603
+    library_name: seeedopl_resistor_2016
+    md5: fcadd5e8a23aeaf1a827bacd94d84698
+    md5_10: fcadd5e8a2
+    md5_5: fcadd
+    md5_6: fcadd5
+    oomp_key: oomp_imrehg_seeedopl_resistor_2016_r0603
+    oomp_key_extra: oomp_footprint_imrehg_seeedopl_resistor_2016_r0603
+    oomp_key_full: oomp_footprint_imrehg_seeedopl_resistor_2016_r0603_fcadd5
+    oomp_key_simple: imrehg_seeedopl_resistor_2016_r0603
+    original_filename: kicalopl/SeeedOPL-Resistor-2016.pretty/R0603.kicad_mod
+    owner_name: imrehg
   oomp_key: oomp_imrehg_seeedopl_resistor_2016_r0603
+  oomp_key_full: oomp_footprint_imrehg_seeedopl_resistor_2016_r0603
   oomp_key_simple: imrehg_seeedopl_resistor_2016_r0603
   owner: imrehg
   repo:

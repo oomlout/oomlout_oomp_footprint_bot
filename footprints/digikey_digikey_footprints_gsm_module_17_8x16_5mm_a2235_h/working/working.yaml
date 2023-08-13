@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/digikey_digikey_footprints_gsm_module_17_8x16_5mm_a2235_h/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_digikey_footprints_gsm_module_17_8x16_5mm_a2235_h/working
-    oomp_doc: footprints/footprints/digikey/digikey-footprints/GSM_Module_17.8x16.5mm_A2235-H/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/digikey/digikey-footprints/GSM_Module_17.8x16.5mm_A2235-H/working
     oomp_src_flat: footprints_flat/footprints_flat/digikey_digikey_footprints_gsm_module_17_8x16_5mm_a2235_h/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/digikey_digikey_footprints_gsm_module_17_8x16_5mm_a2235_h/working
-    oomp_src_folder: footprints_folder/footprints_folder/digikey/digikey-footprints/GSM_Module_17.8x16.5mm_A2235-H/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/digikey/digikey-footprints/GSM_Module_17.8x16.5mm_A2235-H/working
   name: digikey-kicad-library
+  oomp:
+    footprint_name: gsm_module_17_8x16_5mm_a2235_h
+    library_name: digikey_footprints
+    md5: 06d5ca1b911570f9ee831042e3ea7b6d
+    md5_10: 06d5ca1b91
+    md5_5: 06d5c
+    md5_6: 06d5ca
+    oomp_key: oomp_digikey_digikey_footprints_gsm_module_17_8x16_5mm_a2235_h
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_gsm_module_17_8x16_5mm_a2235_h
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_gsm_module_17_8x16_5mm_a2235_h_06d5ca
+    oomp_key_simple: digikey_digikey_footprints_gsm_module_17_8x16_5mm_a2235_h
+    original_filename: digikey-kicad-library/digikey-footprints.pretty/GSM_Module_17.8x16.5mm_A2235-H.kicad_mod
+    owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_gsm_module_17_8x16_5mm_a2235_h
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_gsm_module_17_8x16_5mm_a2235_h
   oomp_key_simple: digikey_digikey_footprints_gsm_module_17_8x16_5mm_a2235_h
   owner: digikey
   repo:

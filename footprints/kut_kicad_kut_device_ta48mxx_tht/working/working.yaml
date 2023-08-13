@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/KUT-KiCad/KUT_Device.pretty
     oomp_bot: footprints/kut_kicad_kut_device_ta48mxx_tht/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kut_kicad_kut_device_ta48mxx_tht/working
-    oomp_doc: footprints/footprints/KUT-KiCad/KUT_Device/TA48Mxx_THT/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/KUT-KiCad/KUT_Device/TA48Mxx_THT/working
     oomp_src_flat: footprints_flat/footprints_flat/kut_kicad_kut_device_ta48mxx_tht/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kut_kicad_kut_device_ta48mxx_tht/working
-    oomp_src_folder: footprints_folder/footprints_folder/KUT-KiCad/KUT_Device/TA48Mxx_THT/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/KUT-KiCad/KUT_Device/TA48Mxx_THT/working
   name: KUT_Device.pretty
+  oomp:
+    footprint_name: ta48mxx_tht
+    library_name: kut_device
+    md5: dc996601d442480c67dd0195f23a0058
+    md5_10: dc996601d4
+    md5_5: dc996
+    md5_6: dc9966
+    oomp_key: oomp_kut_kicad_kut_device_ta48mxx_tht
+    oomp_key_extra: oomp_footprint_kut_kicad_kut_device_ta48mxx_tht
+    oomp_key_full: oomp_footprint_kut_kicad_kut_device_ta48mxx_tht_dc9966
+    oomp_key_simple: kut_kicad_kut_device_ta48mxx_tht
+    original_filename: KUT_Device.pretty/TA48Mxx_THT.kicad_mod
+    owner_name: kut_kicad
   oomp_key: oomp_kut_kicad_kut_device_ta48mxx_tht
+  oomp_key_full: oomp_footprint_kut_kicad_kut_device_ta48mxx_tht
   oomp_key_simple: kut_kicad_kut_device_ta48mxx_tht
   owner: KUT-KiCad
   repo:

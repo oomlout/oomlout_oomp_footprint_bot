@@ -11,17 +11,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_module_adafruit_feather_32u4_fona_withmountingholes/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_module_adafruit_feather_32u4_fona_withmountingholes/working
-    oomp_doc: footprints/footprints/kicad/Module/Adafruit_Feather_32u4_FONA_WithMountingHoles/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Module/Adafruit_Feather_32u4_FONA_WithMountingHoles/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_module_adafruit_feather_32u4_fona_withmountingholes/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_module_adafruit_feather_32u4_fona_withmountingholes/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Module/Adafruit_Feather_32u4_FONA_WithMountingHoles/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Module/Adafruit_Feather_32u4_FONA_WithMountingHoles/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: adafruit_feather_32u4_fona_withmountingholes
+    library_name: module
+    md5: b93379e527c6d647fe3f135622dcb08f
+    md5_10: b93379e527
+    md5_5: b9337
+    md5_6: b93379
+    oomp_key: oomp_kicad_module_adafruit_feather_32u4_fona_withmountingholes
+    oomp_key_extra: oomp_footprint_kicad_module_adafruit_feather_32u4_fona_withmountingholes
+    oomp_key_full: oomp_footprint_kicad_module_adafruit_feather_32u4_fona_withmountingholes_b93379
+    oomp_key_simple: kicad_module_adafruit_feather_32u4_fona_withmountingholes
+    original_filename: libraries/kicad-footprints/Module.pretty/Adafruit_Feather_32u4_FONA_WithMountingHoles.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_module_adafruit_feather_32u4_fona_withmountingholes
+  oomp_key_full: oomp_footprint_kicad_module_adafruit_feather_32u4_fona_withmountingholes
   oomp_key_simple: kicad_module_adafruit_feather_32u4_fona_withmountingholes
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

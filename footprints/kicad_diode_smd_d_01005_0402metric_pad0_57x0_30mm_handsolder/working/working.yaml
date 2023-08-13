@@ -13,17 +13,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_diode_smd_d_01005_0402metric_pad0_57x0_30mm_handsolder/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_diode_smd_d_01005_0402metric_pad0_57x0_30mm_handsolder/working
-    oomp_doc: footprints/footprints/kicad/Diode_SMD/D_01005_0402Metric_Pad0.57x0.30mm_HandSolder/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Diode_SMD/D_01005_0402Metric_Pad0.57x0.30mm_HandSolder/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_diode_smd_d_01005_0402metric_pad0_57x0_30mm_handsolder/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_diode_smd_d_01005_0402metric_pad0_57x0_30mm_handsolder/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Diode_SMD/D_01005_0402Metric_Pad0.57x0.30mm_HandSolder/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Diode_SMD/D_01005_0402Metric_Pad0.57x0.30mm_HandSolder/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: d_01005_0402metric_pad0_57x0_30mm_handsolder
+    library_name: diode_smd
+    md5: 9d4cbe1addff324e19acc2f5d85dea6e
+    md5_10: 9d4cbe1add
+    md5_5: 9d4cb
+    md5_6: 9d4cbe
+    oomp_key: oomp_kicad_diode_smd_d_01005_0402metric_pad0_57x0_30mm_handsolder
+    oomp_key_extra: oomp_footprint_kicad_diode_smd_d_01005_0402metric_pad0_57x0_30mm_handsolder
+    oomp_key_full: oomp_footprint_kicad_diode_smd_d_01005_0402metric_pad0_57x0_30mm_handsolder_9d4cbe
+    oomp_key_simple: kicad_diode_smd_d_01005_0402metric_pad0_57x0_30mm_handsolder
+    original_filename: libraries/kicad-footprints/Diode_SMD.pretty/D_01005_0402Metric_Pad0.57x0.30mm_HandSolder.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_diode_smd_d_01005_0402metric_pad0_57x0_30mm_handsolder
+  oomp_key_full: oomp_footprint_kicad_diode_smd_d_01005_0402metric_pad0_57x0_30mm_handsolder
   oomp_key_simple: kicad_diode_smd_d_01005_0402metric_pad0_57x0_30mm_handsolder
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

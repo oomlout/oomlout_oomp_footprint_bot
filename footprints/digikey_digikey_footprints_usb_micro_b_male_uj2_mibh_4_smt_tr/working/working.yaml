@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/digikey_digikey_footprints_usb_micro_b_male_uj2_mibh_4_smt_tr/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_digikey_footprints_usb_micro_b_male_uj2_mibh_4_smt_tr/working
-    oomp_doc: footprints/footprints/digikey/digikey-footprints/USB_Micro_B_Male_UJ2-MIBH-4-SMT-TR/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/digikey/digikey-footprints/USB_Micro_B_Male_UJ2-MIBH-4-SMT-TR/working
     oomp_src_flat: footprints_flat/footprints_flat/digikey_digikey_footprints_usb_micro_b_male_uj2_mibh_4_smt_tr/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/digikey_digikey_footprints_usb_micro_b_male_uj2_mibh_4_smt_tr/working
-    oomp_src_folder: footprints_folder/footprints_folder/digikey/digikey-footprints/USB_Micro_B_Male_UJ2-MIBH-4-SMT-TR/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/digikey/digikey-footprints/USB_Micro_B_Male_UJ2-MIBH-4-SMT-TR/working
   name: digikey-kicad-library
+  oomp:
+    footprint_name: usb_micro_b_male_uj2_mibh_4_smt_tr
+    library_name: digikey_footprints
+    md5: b9485de76c9dd6aa15878554d9b79dd9
+    md5_10: b9485de76c
+    md5_5: b9485
+    md5_6: b9485d
+    oomp_key: oomp_digikey_digikey_footprints_usb_micro_b_male_uj2_mibh_4_smt_tr
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_usb_micro_b_male_uj2_mibh_4_smt_tr
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_usb_micro_b_male_uj2_mibh_4_smt_tr_b9485d
+    oomp_key_simple: digikey_digikey_footprints_usb_micro_b_male_uj2_mibh_4_smt_tr
+    original_filename: digikey-kicad-library/digikey-footprints.pretty/USB_Micro_B_Male_UJ2-MIBH-4-SMT-TR.kicad_mod
+    owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_usb_micro_b_male_uj2_mibh_4_smt_tr
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_usb_micro_b_male_uj2_mibh_4_smt_tr
   oomp_key_simple: digikey_digikey_footprints_usb_micro_b_male_uj2_mibh_4_smt_tr
   owner: digikey
   repo:

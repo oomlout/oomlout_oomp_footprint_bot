@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/s_sinker_kicad_footprint_monot_hall_hv_capacitor_board/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/s_sinker_kicad_footprint_monot_hall_hv_capacitor_board/working
-    oomp_doc: footprints/footprints/S-SINKER/KiCad_Footprint/Monot_Hall_HV_Capacitor_Board/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/S-SINKER/KiCad_Footprint/Monot_Hall_HV_Capacitor_Board/working
     oomp_src_flat: footprints_flat/footprints_flat/s_sinker_kicad_footprint_monot_hall_hv_capacitor_board/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/s_sinker_kicad_footprint_monot_hall_hv_capacitor_board/working
-    oomp_src_folder: footprints_folder/footprints_folder/S-SINKER/KiCad_Footprint/Monot_Hall_HV_Capacitor_Board/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/S-SINKER/KiCad_Footprint/Monot_Hall_HV_Capacitor_Board/working
   name: KiCad_Footprint.pretty
+  oomp:
+    footprint_name: monot_hall_hv_capacitor_board
+    library_name: kicad_footprint
+    md5: ac6b16d505d2b267381fd89919384f22
+    md5_10: ac6b16d505
+    md5_5: ac6b1
+    md5_6: ac6b16
+    oomp_key: oomp_s_sinker_kicad_footprint_monot_hall_hv_capacitor_board
+    oomp_key_extra: oomp_footprint_s_sinker_kicad_footprint_monot_hall_hv_capacitor_board
+    oomp_key_full: oomp_footprint_s_sinker_kicad_footprint_monot_hall_hv_capacitor_board_ac6b16
+    oomp_key_simple: s_sinker_kicad_footprint_monot_hall_hv_capacitor_board
+    original_filename: KiCad_Footprint.pretty/Monot_Hall_HV_Capacitor_Board.kicad_mod
+    owner_name: s_sinker
   oomp_key: oomp_s_sinker_kicad_footprint_monot_hall_hv_capacitor_board
+  oomp_key_full: oomp_footprint_s_sinker_kicad_footprint_monot_hall_hv_capacitor_board
   oomp_key_simple: s_sinker_kicad_footprint_monot_hall_hv_capacitor_board
   owner: S-SINKER
   repo:

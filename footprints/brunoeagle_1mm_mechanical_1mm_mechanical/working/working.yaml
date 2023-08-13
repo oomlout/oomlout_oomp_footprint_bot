@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_1mm_mechanical_1mm_mechanical/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_1mm_mechanical_1mm_mechanical/working
-    oomp_doc: footprints/footprints/brunoeagle/1mm_mechanical.kicad_mod/1mm_mechanical/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/1mm_mechanical.kicad_mod/1mm_mechanical/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_1mm_mechanical_1mm_mechanical/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_1mm_mechanical_1mm_mechanical/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/1mm_mechanical.kicad_mod/1mm_mechanical/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/1mm_mechanical.kicad_mod/1mm_mechanical/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: 1mm_mechanical
+    library_name: 1mm_mechanical_kicad_mod
+    md5: 6c7667562b93b3386e5376f491092cae
+    md5_10: 6c7667562b
+    md5_5: 6c766
+    md5_6: 6c7667
+    oomp_key: oomp_brunoeagle_1mm_mechanical_1mm_mechanical
+    oomp_key_extra: oomp_footprint_brunoeagle_1mm_mechanical_1mm_mechanical
+    oomp_key_full: oomp_footprint_brunoeagle_1mm_mechanical_1mm_mechanical_6c7667
+    oomp_key_simple: brunoeagle_1mm_mechanical_1mm_mechanical
+    original_filename: kicad-open-modules/1mm_mechanical.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_1mm_mechanical_1mm_mechanical
+  oomp_key_full: oomp_footprint_brunoeagle_1mm_mechanical_1mm_mechanical
   oomp_key_simple: brunoeagle_1mm_mechanical_1mm_mechanical
   owner: brunoeagle
   repo:

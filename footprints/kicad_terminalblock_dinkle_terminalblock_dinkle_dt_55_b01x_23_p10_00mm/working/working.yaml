@@ -11,17 +11,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_terminalblock_dinkle_terminalblock_dinkle_dt_55_b01x_23_p10_00mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_terminalblock_dinkle_terminalblock_dinkle_dt_55_b01x_23_p10_00mm/working
-    oomp_doc: footprints/footprints/kicad/TerminalBlock_Dinkle/TerminalBlock_Dinkle_DT-55-B01X-23_P10.00mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/TerminalBlock_Dinkle/TerminalBlock_Dinkle_DT-55-B01X-23_P10.00mm/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_terminalblock_dinkle_terminalblock_dinkle_dt_55_b01x_23_p10_00mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_terminalblock_dinkle_terminalblock_dinkle_dt_55_b01x_23_p10_00mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/TerminalBlock_Dinkle/TerminalBlock_Dinkle_DT-55-B01X-23_P10.00mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/TerminalBlock_Dinkle/TerminalBlock_Dinkle_DT-55-B01X-23_P10.00mm/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: terminalblock_dinkle_dt_55_b01x_23_p10_00mm
+    library_name: terminalblock_dinkle
+    md5: ceb7beaa4413ff87d9e9a99e284fecb2
+    md5_10: ceb7beaa44
+    md5_5: ceb7b
+    md5_6: ceb7be
+    oomp_key: oomp_kicad_terminalblock_dinkle_terminalblock_dinkle_dt_55_b01x_23_p10_00mm
+    oomp_key_extra: oomp_footprint_kicad_terminalblock_dinkle_terminalblock_dinkle_dt_55_b01x_23_p10_00mm
+    oomp_key_full: oomp_footprint_kicad_terminalblock_dinkle_terminalblock_dinkle_dt_55_b01x_23_p10_00mm_ceb7be
+    oomp_key_simple: kicad_terminalblock_dinkle_terminalblock_dinkle_dt_55_b01x_23_p10_00mm
+    original_filename: libraries/kicad-footprints/TerminalBlock_Dinkle.pretty/TerminalBlock_Dinkle_DT-55-B01X-23_P10.00mm.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_terminalblock_dinkle_terminalblock_dinkle_dt_55_b01x_23_p10_00mm
+  oomp_key_full: oomp_footprint_kicad_terminalblock_dinkle_terminalblock_dinkle_dt_55_b01x_23_p10_00mm
   oomp_key_simple: kicad_terminalblock_dinkle_terminalblock_dinkle_dt_55_b01x_23_p10_00mm
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

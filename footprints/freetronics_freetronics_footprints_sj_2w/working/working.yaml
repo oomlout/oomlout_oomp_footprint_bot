@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/freetronics_freetronics_footprints_sj_2w/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/freetronics_freetronics_footprints_sj_2w/working
-    oomp_doc: footprints/footprints/freetronics/freetronics_footprints/SJ_2W/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/freetronics/freetronics_footprints/SJ_2W/working
     oomp_src_flat: footprints_flat/footprints_flat/freetronics_freetronics_footprints_sj_2w/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/freetronics_freetronics_footprints_sj_2w/working
-    oomp_src_folder: footprints_folder/footprints_folder/freetronics/freetronics_footprints/SJ_2W/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/freetronics/freetronics_footprints/SJ_2W/working
   name: freetronics_kicad_library
+  oomp:
+    footprint_name: sj_2w
+    library_name: freetronics_footprints
+    md5: 44ddd5fa033d2d2964efbbe9234f1324
+    md5_10: 44ddd5fa03
+    md5_5: 44ddd
+    md5_6: 44ddd5
+    oomp_key: oomp_freetronics_freetronics_footprints_sj_2w
+    oomp_key_extra: oomp_footprint_freetronics_freetronics_footprints_sj_2w
+    oomp_key_full: oomp_footprint_freetronics_freetronics_footprints_sj_2w_44ddd5
+    oomp_key_simple: freetronics_freetronics_footprints_sj_2w
+    original_filename: freetronics_kicad_library/freetronics_footprints.pretty/SJ_2W.kicad_mod
+    owner_name: freetronics
   oomp_key: oomp_freetronics_freetronics_footprints_sj_2w
+  oomp_key_full: oomp_footprint_freetronics_freetronics_footprints_sj_2w
   oomp_key_simple: freetronics_freetronics_footprints_sj_2w
   owner: freetronics
   repo:

@@ -1,24 +1,34 @@
-- file: SparkFun-KiCad-Libraries/Footprints/Connectors.pretty/SCREWTERMINAL-3.5MM-2-NS.kicad_mod
+- file: SparkFun-KiCad-Libraries/Pre_v7/Footprints/Connectors.pretty/SCREWTERMINAL-3.5MM-2-NS.kicad_mod
   footprint:
     description: SCREW TERMINAL  3.5MM PITCH - 2 PIN PTH NO SILK OUTLINE
     libraryLink: SCREWTERMINAL-3.5MM-2-NS
     number_of_pads: 2
   footprint_library_directory: footprint_library_owner/sparkfun_SparkFun-KiCad-Libraries
   footprint_library_directory_flat: footprints_flat/sparkfun_connectors_screwterminal_3_5mm_2_ns/working
-  github_path: http://github.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Footprints/Connectors.pretty/SCREWTERMINAL-3.5MM-2-NS.kicad_mod
+  github_path: http://github.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Pre_v7/Footprints/Connectors.pretty/SCREWTERMINAL-3.5MM-2-NS.kicad_mod
   links:
-    github_src: http://gitlab.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Tools/SparkFun-Eagle-Libraries_Conversion/Export.pretty/DFN-6-3X3.kicad_mod
+    github_src: http://gitlab.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Pre_v7/Tools/SparkFun-Eagle-Libraries_Conversion/Export.pretty/DFN-6-3X3.kicad_mod
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/sparkfun_connectors_screwterminal_3_5mm_2_ns/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/sparkfun_connectors_screwterminal_3_5mm_2_ns/working
-    oomp_doc: footprints/footprints/sparkfun/Connectors/SCREWTERMINAL-3.5MM-2-NS/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/sparkfun/Connectors/SCREWTERMINAL-3.5MM-2-NS/working
     oomp_src_flat: footprints_flat/footprints_flat/sparkfun_connectors_screwterminal_3_5mm_2_ns/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/sparkfun_connectors_screwterminal_3_5mm_2_ns/working
-    oomp_src_folder: footprints_folder/footprints_folder/sparkfun/Connectors/SCREWTERMINAL-3.5MM-2-NS/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/sparkfun/Connectors/SCREWTERMINAL-3.5MM-2-NS/working
   name: SparkFun-KiCad-Libraries
+  oomp:
+    footprint_name: screwterminal_3_5mm_2_ns
+    library_name: connectors
+    md5: 9ca66893344f76c9b2464d967b960bab
+    md5_10: 9ca6689334
+    md5_5: 9ca66
+    md5_6: 9ca668
+    oomp_key: oomp_sparkfun_connectors_screwterminal_3_5mm_2_ns
+    oomp_key_extra: oomp_footprint_sparkfun_connectors_screwterminal_3_5mm_2_ns
+    oomp_key_full: oomp_footprint_sparkfun_connectors_screwterminal_3_5mm_2_ns_9ca668
+    oomp_key_simple: sparkfun_connectors_screwterminal_3_5mm_2_ns
+    original_filename: SparkFun-KiCad-Libraries/Pre_v7/Footprints/Connectors.pretty/SCREWTERMINAL-3.5MM-2-NS.kicad_mod
+    owner_name: sparkfun
   oomp_key: oomp_sparkfun_connectors_screwterminal_3_5mm_2_ns
+  oomp_key_full: oomp_footprint_sparkfun_connectors_screwterminal_3_5mm_2_ns
   oomp_key_simple: sparkfun_connectors_screwterminal_3_5mm_2_ns
   owner: sparkfun
   repo:

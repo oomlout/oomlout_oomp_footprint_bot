@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cpavlina_manuf_abracon_aisc_1008/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cpavlina_manuf_abracon_aisc_1008/working
-    oomp_doc: footprints/footprints/cpavlina/manuf/ABRACON-AISC-1008/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cpavlina/manuf/ABRACON-AISC-1008/working
     oomp_src_flat: footprints_flat/footprints_flat/cpavlina_manuf_abracon_aisc_1008/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cpavlina_manuf_abracon_aisc_1008/working
-    oomp_src_folder: footprints_folder/footprints_folder/cpavlina/manuf/ABRACON-AISC-1008/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cpavlina/manuf/ABRACON-AISC-1008/working
   name: kicad-pcblib
+  oomp:
+    footprint_name: abracon_aisc_1008
+    library_name: manuf
+    md5: b98065a6bd55b13cffa1d498832d252b
+    md5_10: b98065a6bd
+    md5_5: b9806
+    md5_6: b98065
+    oomp_key: oomp_cpavlina_manuf_abracon_aisc_1008
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_abracon_aisc_1008
+    oomp_key_full: oomp_footprint_cpavlina_manuf_abracon_aisc_1008_b98065
+    oomp_key_simple: cpavlina_manuf_abracon_aisc_1008
+    original_filename: kicad-pcblib/manuf.pretty/ABRACON-AISC-1008.kicad_mod
+    owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_abracon_aisc_1008
+  oomp_key_full: oomp_footprint_cpavlina_manuf_abracon_aisc_1008
   oomp_key_simple: cpavlina_manuf_abracon_aisc_1008
   owner: cpavlina
   repo:

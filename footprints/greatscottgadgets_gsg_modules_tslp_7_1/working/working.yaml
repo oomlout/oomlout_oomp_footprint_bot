@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/greatscottgadgets_gsg_modules_tslp_7_1/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/greatscottgadgets_gsg_modules_tslp_7_1/working
-    oomp_doc: footprints/footprints/greatscottgadgets/gsg-modules/TSLP-7-1/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/greatscottgadgets/gsg-modules/TSLP-7-1/working
     oomp_src_flat: footprints_flat/footprints_flat/greatscottgadgets_gsg_modules_tslp_7_1/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/greatscottgadgets_gsg_modules_tslp_7_1/working
-    oomp_src_folder: footprints_folder/footprints_folder/greatscottgadgets/gsg-modules/TSLP-7-1/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/greatscottgadgets/gsg-modules/TSLP-7-1/working
   name: gsg-kicad-lib
+  oomp:
+    footprint_name: tslp_7_1
+    library_name: gsg_modules
+    md5: eee20425668f8b75b23bc8cf2807365f
+    md5_10: eee2042566
+    md5_5: eee20
+    md5_6: eee204
+    oomp_key: oomp_greatscottgadgets_gsg_modules_tslp_7_1
+    oomp_key_extra: oomp_footprint_greatscottgadgets_gsg_modules_tslp_7_1
+    oomp_key_full: oomp_footprint_greatscottgadgets_gsg_modules_tslp_7_1_eee204
+    oomp_key_simple: greatscottgadgets_gsg_modules_tslp_7_1
+    original_filename: gsg-kicad-lib/gsg-modules.pretty/TSLP-7-1.kicad_mod
+    owner_name: greatscottgadgets
   oomp_key: oomp_greatscottgadgets_gsg_modules_tslp_7_1
+  oomp_key_full: oomp_footprint_greatscottgadgets_gsg_modules_tslp_7_1
   oomp_key_simple: greatscottgadgets_gsg_modules_tslp_7_1
   owner: greatscottgadgets
   repo:

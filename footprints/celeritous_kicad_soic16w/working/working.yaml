@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/celeritous_kicad_soic16w/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/celeritous_kicad_soic16w/working
-    oomp_doc: footprints/footprints/celeritous/KiCad/SOIC16W/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/celeritous/KiCad/SOIC16W/working
     oomp_src_flat: footprints_flat/footprints_flat/celeritous_kicad_soic16w/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/celeritous_kicad_soic16w/working
-    oomp_src_folder: footprints_folder/footprints_folder/celeritous/KiCad/SOIC16W/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/celeritous/KiCad/SOIC16W/working
   name: KiCad.pretty
+  oomp:
+    footprint_name: soic16w
+    library_name: kicad
+    md5: ea2817b85a948e38bb12945d06e5bcd5
+    md5_10: ea2817b85a
+    md5_5: ea281
+    md5_6: ea2817
+    oomp_key: oomp_celeritous_kicad_soic16w
+    oomp_key_extra: oomp_footprint_celeritous_kicad_soic16w
+    oomp_key_full: oomp_footprint_celeritous_kicad_soic16w_ea2817
+    oomp_key_simple: celeritous_kicad_soic16w
+    original_filename: KiCad.pretty/SOIC16W.kicad_mod
+    owner_name: celeritous
   oomp_key: oomp_celeritous_kicad_soic16w
+  oomp_key_full: oomp_footprint_celeritous_kicad_soic16w
   oomp_key_simple: celeritous_kicad_soic16w
   owner: celeritous
   repo:

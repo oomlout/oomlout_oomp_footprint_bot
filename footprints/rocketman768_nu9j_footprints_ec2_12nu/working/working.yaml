@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/rocketman768_nu9j_footprints_ec2_12nu/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/rocketman768_nu9j_footprints_ec2_12nu/working
-    oomp_doc: footprints/footprints/rocketman768/nu9j-footprints/EC2-12NU/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/rocketman768/nu9j-footprints/EC2-12NU/working
     oomp_src_flat: footprints_flat/footprints_flat/rocketman768_nu9j_footprints_ec2_12nu/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/rocketman768_nu9j_footprints_ec2_12nu/working
-    oomp_src_folder: footprints_folder/footprints_folder/rocketman768/nu9j-footprints/EC2-12NU/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/rocketman768/nu9j-footprints/EC2-12NU/working
   name: nu9j-footprints.pretty
+  oomp:
+    footprint_name: ec2_12nu
+    library_name: nu9j_footprints
+    md5: bf4fa25e819630b733731a0726f434fa
+    md5_10: bf4fa25e81
+    md5_5: bf4fa
+    md5_6: bf4fa2
+    oomp_key: oomp_rocketman768_nu9j_footprints_ec2_12nu
+    oomp_key_extra: oomp_footprint_rocketman768_nu9j_footprints_ec2_12nu
+    oomp_key_full: oomp_footprint_rocketman768_nu9j_footprints_ec2_12nu_bf4fa2
+    oomp_key_simple: rocketman768_nu9j_footprints_ec2_12nu
+    original_filename: nu9j-footprints.pretty/EC2-12NU.kicad_mod
+    owner_name: rocketman768
   oomp_key: oomp_rocketman768_nu9j_footprints_ec2_12nu
+  oomp_key_full: oomp_footprint_rocketman768_nu9j_footprints_ec2_12nu
   oomp_key_simple: rocketman768_nu9j_footprints_ec2_12nu
   owner: rocketman768
   repo:

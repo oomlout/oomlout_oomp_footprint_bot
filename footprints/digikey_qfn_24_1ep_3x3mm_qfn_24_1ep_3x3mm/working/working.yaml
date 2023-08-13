@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/digikey_qfn_24_1ep_3x3mm_qfn_24_1ep_3x3mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_qfn_24_1ep_3x3mm_qfn_24_1ep_3x3mm/working
-    oomp_doc: footprints/footprints/digikey/QFN-24-1EP_3x3mm.kicad_mod/QFN-24-1EP_3x3mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/digikey/QFN-24-1EP_3x3mm.kicad_mod/QFN-24-1EP_3x3mm/working
     oomp_src_flat: footprints_flat/footprints_flat/digikey_qfn_24_1ep_3x3mm_qfn_24_1ep_3x3mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/digikey_qfn_24_1ep_3x3mm_qfn_24_1ep_3x3mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/digikey/QFN-24-1EP_3x3mm.kicad_mod/QFN-24-1EP_3x3mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/digikey/QFN-24-1EP_3x3mm.kicad_mod/QFN-24-1EP_3x3mm/working
   name: digikey-kicad-library
+  oomp:
+    footprint_name: qfn_24_1ep_3x3mm
+    library_name: qfn_24_1ep_3x3mm_kicad_mod
+    md5: 12f0b04ee540b7a74221992f93bfbca6
+    md5_10: 12f0b04ee5
+    md5_5: 12f0b
+    md5_6: 12f0b0
+    oomp_key: oomp_digikey_qfn_24_1ep_3x3mm_qfn_24_1ep_3x3mm
+    oomp_key_extra: oomp_footprint_digikey_qfn_24_1ep_3x3mm_qfn_24_1ep_3x3mm
+    oomp_key_full: oomp_footprint_digikey_qfn_24_1ep_3x3mm_qfn_24_1ep_3x3mm_12f0b0
+    oomp_key_simple: digikey_qfn_24_1ep_3x3mm_qfn_24_1ep_3x3mm
+    original_filename: digikey-kicad-library/src/Source_Footprints/QFN-24-1EP_3x3mm.kicad_mod
+    owner_name: digikey
   oomp_key: oomp_digikey_qfn_24_1ep_3x3mm_qfn_24_1ep_3x3mm
+  oomp_key_full: oomp_footprint_digikey_qfn_24_1ep_3x3mm_qfn_24_1ep_3x3mm
   oomp_key_simple: digikey_qfn_24_1ep_3x3mm_qfn_24_1ep_3x3mm
   owner: digikey
   repo:

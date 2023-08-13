@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/greatscottgadgets_gsg_modules_usb_microb_fci_10103592_longpads/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/greatscottgadgets_gsg_modules_usb_microb_fci_10103592_longpads/working
-    oomp_doc: footprints/footprints/greatscottgadgets/gsg-modules/USB-MICROB-FCI-10103592-LONGPADS/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/greatscottgadgets/gsg-modules/USB-MICROB-FCI-10103592-LONGPADS/working
     oomp_src_flat: footprints_flat/footprints_flat/greatscottgadgets_gsg_modules_usb_microb_fci_10103592_longpads/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/greatscottgadgets_gsg_modules_usb_microb_fci_10103592_longpads/working
-    oomp_src_folder: footprints_folder/footprints_folder/greatscottgadgets/gsg-modules/USB-MICROB-FCI-10103592-LONGPADS/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/greatscottgadgets/gsg-modules/USB-MICROB-FCI-10103592-LONGPADS/working
   name: gsg-kicad-lib
+  oomp:
+    footprint_name: usb_microb_fci_10103592_longpads
+    library_name: gsg_modules
+    md5: 99da03b4b1a71a3c1ab6e71143448cf8
+    md5_10: 99da03b4b1
+    md5_5: 99da0
+    md5_6: 99da03
+    oomp_key: oomp_greatscottgadgets_gsg_modules_usb_microb_fci_10103592_longpads
+    oomp_key_extra: oomp_footprint_greatscottgadgets_gsg_modules_usb_microb_fci_10103592_longpads
+    oomp_key_full: oomp_footprint_greatscottgadgets_gsg_modules_usb_microb_fci_10103592_longpads_99da03
+    oomp_key_simple: greatscottgadgets_gsg_modules_usb_microb_fci_10103592_longpads
+    original_filename: gsg-kicad-lib/gsg-modules.pretty/USB-MICROB-FCI-10103592-LONGPADS.kicad_mod
+    owner_name: greatscottgadgets
   oomp_key: oomp_greatscottgadgets_gsg_modules_usb_microb_fci_10103592_longpads
+  oomp_key_full: oomp_footprint_greatscottgadgets_gsg_modules_usb_microb_fci_10103592_longpads
   oomp_key_simple: greatscottgadgets_gsg_modules_usb_microb_fci_10103592_longpads
   owner: greatscottgadgets
   repo:

@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/arturo182/kicad-modules
     oomp_bot: footprints/arturo182_module_extra_raspberrypi_pico/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/arturo182_module_extra_raspberrypi_pico/working
-    oomp_doc: footprints/footprints/arturo182/Module_Extra/RaspberryPi_Pico/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/arturo182/Module_Extra/RaspberryPi_Pico/working
     oomp_src_flat: footprints_flat/footprints_flat/arturo182_module_extra_raspberrypi_pico/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/arturo182_module_extra_raspberrypi_pico/working
-    oomp_src_folder: footprints_folder/footprints_folder/arturo182/Module_Extra/RaspberryPi_Pico/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/arturo182/Module_Extra/RaspberryPi_Pico/working
   name: kicad-modules
+  oomp:
+    footprint_name: raspberrypi_pico
+    library_name: module_extra
+    md5: 0f3cf0a418d9284d4cafc95566d464a8
+    md5_10: 0f3cf0a418
+    md5_5: 0f3cf
+    md5_6: 0f3cf0
+    oomp_key: oomp_arturo182_module_extra_raspberrypi_pico
+    oomp_key_extra: oomp_footprint_arturo182_module_extra_raspberrypi_pico
+    oomp_key_full: oomp_footprint_arturo182_module_extra_raspberrypi_pico_0f3cf0
+    oomp_key_simple: arturo182_module_extra_raspberrypi_pico
+    original_filename: kicad-modules/Module_Extra.pretty/RaspberryPi_Pico.kicad_mod
+    owner_name: arturo182
   oomp_key: oomp_arturo182_module_extra_raspberrypi_pico
+  oomp_key_full: oomp_footprint_arturo182_module_extra_raspberrypi_pico
   oomp_key_simple: arturo182_module_extra_raspberrypi_pico
   owner: arturo182
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/esden_pkl_mechanical_drill_0_5mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/esden_pkl_mechanical_drill_0_5mm/working
-    oomp_doc: footprints/footprints/esden/pkl_mechanical/Drill_0.5mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/esden/pkl_mechanical/Drill_0.5mm/working
     oomp_src_flat: footprints_flat/footprints_flat/esden_pkl_mechanical_drill_0_5mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/esden_pkl_mechanical_drill_0_5mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/esden/pkl_mechanical/Drill_0.5mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/esden/pkl_mechanical/Drill_0.5mm/working
   name: pretty-kicad-libs
+  oomp:
+    footprint_name: drill_0_5mm
+    library_name: pkl_mechanical
+    md5: 280d875b190c5f92ce36c87493d64674
+    md5_10: 280d875b19
+    md5_5: 280d8
+    md5_6: 280d87
+    oomp_key: oomp_esden_pkl_mechanical_drill_0_5mm
+    oomp_key_extra: oomp_footprint_esden_pkl_mechanical_drill_0_5mm
+    oomp_key_full: oomp_footprint_esden_pkl_mechanical_drill_0_5mm_280d87
+    oomp_key_simple: esden_pkl_mechanical_drill_0_5mm
+    original_filename: pretty-kicad-libs/pkl_mechanical.pretty/Drill_0.5mm.kicad_mod
+    owner_name: esden
   oomp_key: oomp_esden_pkl_mechanical_drill_0_5mm
+  oomp_key_full: oomp_footprint_esden_pkl_mechanical_drill_0_5mm
   oomp_key_simple: esden_pkl_mechanical_drill_0_5mm
   owner: esden
   repo:

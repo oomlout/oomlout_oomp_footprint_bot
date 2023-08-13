@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/celeritous_kicad_fiducial_bottom/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/celeritous_kicad_fiducial_bottom/working
-    oomp_doc: footprints/footprints/celeritous/KiCad/FIDUCIAL_BOTTOM/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/celeritous/KiCad/FIDUCIAL_BOTTOM/working
     oomp_src_flat: footprints_flat/footprints_flat/celeritous_kicad_fiducial_bottom/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/celeritous_kicad_fiducial_bottom/working
-    oomp_src_folder: footprints_folder/footprints_folder/celeritous/KiCad/FIDUCIAL_BOTTOM/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/celeritous/KiCad/FIDUCIAL_BOTTOM/working
   name: KiCad.pretty
+  oomp:
+    footprint_name: fiducial_bottom
+    library_name: kicad
+    md5: e6204de95a73ecfe68272002d05fd508
+    md5_10: e6204de95a
+    md5_5: e6204
+    md5_6: e6204d
+    oomp_key: oomp_celeritous_kicad_fiducial_bottom
+    oomp_key_extra: oomp_footprint_celeritous_kicad_fiducial_bottom
+    oomp_key_full: oomp_footprint_celeritous_kicad_fiducial_bottom_e6204d
+    oomp_key_simple: celeritous_kicad_fiducial_bottom
+    original_filename: KiCad.pretty/FIDUCIAL_BOTTOM.kicad_mod
+    owner_name: celeritous
   oomp_key: oomp_celeritous_kicad_fiducial_bottom
+  oomp_key_full: oomp_footprint_celeritous_kicad_fiducial_bottom
   oomp_key_simple: celeritous_kicad_fiducial_bottom
   owner: celeritous
   repo:

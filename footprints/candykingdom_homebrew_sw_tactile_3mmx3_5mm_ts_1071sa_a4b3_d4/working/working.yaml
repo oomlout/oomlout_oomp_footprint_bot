@@ -1,5 +1,8 @@
-- error: Expression does not have the correct type
-  file: homebrew.pretty/SW_TACTILE_3mmx3.5mm_TS-1071SA-A4B3-D4.kicad_mod
+- file: homebrew.pretty/SW_TACTILE_3mmx3.5mm_TS-1071SA-A4B3-D4.kicad_mod
+  footprint:
+    description: null
+    libraryLink: SW_TACTILE_3mmx3.5mm_TS-1071SA-A4B3-D4
+    number_of_pads: 4
   footprint_library_directory: footprint_library_owner/candykingdom_homebrew.pretty
   footprint_library_directory_flat: footprints_flat/candykingdom_homebrew_sw_tactile_3mmx3_5mm_ts_1071sa_a4b3_d4/working
   github_path: http://github.com/candykingdom/homebrew.pretty/blob/master/SW_TACTILE_3mmx3.5mm_TS-1071SA-A4B3-D4.kicad_mod
@@ -9,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/candykingdom_homebrew_sw_tactile_3mmx3_5mm_ts_1071sa_a4b3_d4/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/candykingdom_homebrew_sw_tactile_3mmx3_5mm_ts_1071sa_a4b3_d4/working
-    oomp_doc: footprints/footprints/candykingdom/homebrew/SW_TACTILE_3mmx3.5mm_TS-1071SA-A4B3-D4/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/candykingdom/homebrew/SW_TACTILE_3mmx3.5mm_TS-1071SA-A4B3-D4/working
     oomp_src_flat: footprints_flat/footprints_flat/candykingdom_homebrew_sw_tactile_3mmx3_5mm_ts_1071sa_a4b3_d4/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/candykingdom_homebrew_sw_tactile_3mmx3_5mm_ts_1071sa_a4b3_d4/working
-    oomp_src_folder: footprints_folder/footprints_folder/candykingdom/homebrew/SW_TACTILE_3mmx3.5mm_TS-1071SA-A4B3-D4/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/candykingdom/homebrew/SW_TACTILE_3mmx3.5mm_TS-1071SA-A4B3-D4/working
   name: homebrew.pretty
+  oomp:
+    footprint_name: sw_tactile_3mmx3_5mm_ts_1071sa_a4b3_d4
+    library_name: homebrew
+    md5: db5b0336b5606d52a75efa1a580d7d7e
+    md5_10: db5b0336b5
+    md5_5: db5b0
+    md5_6: db5b03
+    oomp_key: oomp_candykingdom_homebrew_sw_tactile_3mmx3_5mm_ts_1071sa_a4b3_d4
+    oomp_key_extra: oomp_footprint_candykingdom_homebrew_sw_tactile_3mmx3_5mm_ts_1071sa_a4b3_d4
+    oomp_key_full: oomp_footprint_candykingdom_homebrew_sw_tactile_3mmx3_5mm_ts_1071sa_a4b3_d4_db5b03
+    oomp_key_simple: candykingdom_homebrew_sw_tactile_3mmx3_5mm_ts_1071sa_a4b3_d4
+    original_filename: homebrew.pretty/SW_TACTILE_3mmx3.5mm_TS-1071SA-A4B3-D4.kicad_mod
+    owner_name: candykingdom
   oomp_key: oomp_candykingdom_homebrew_sw_tactile_3mmx3_5mm_ts_1071sa_a4b3_d4
+  oomp_key_full: oomp_footprint_candykingdom_homebrew_sw_tactile_3mmx3_5mm_ts_1071sa_a4b3_d4
   oomp_key_simple: candykingdom_homebrew_sw_tactile_3mmx3_5mm_ts_1071sa_a4b3_d4
   owner: candykingdom
   repo:

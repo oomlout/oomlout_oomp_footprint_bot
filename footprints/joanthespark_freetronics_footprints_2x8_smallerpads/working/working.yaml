@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/joanthespark_freetronics_footprints_2x8_smallerpads/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/joanthespark_freetronics_footprints_2x8_smallerpads/working
-    oomp_doc: footprints/footprints/JoanTheSpark/freetronics_footprints/2X8-SMALLERPADS/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/JoanTheSpark/freetronics_footprints/2X8-SMALLERPADS/working
     oomp_src_flat: footprints_flat/footprints_flat/joanthespark_freetronics_footprints_2x8_smallerpads/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/joanthespark_freetronics_footprints_2x8_smallerpads/working
-    oomp_src_folder: footprints_folder/footprints_folder/JoanTheSpark/freetronics_footprints/2X8-SMALLERPADS/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/JoanTheSpark/freetronics_footprints/2X8-SMALLERPADS/working
   name: KiCAD
+  oomp:
+    footprint_name: 2x8_smallerpads
+    library_name: freetronics_footprints
+    md5: 7db2da4822179915cceb0edbf0717c29
+    md5_10: 7db2da4822
+    md5_5: 7db2d
+    md5_6: 7db2da
+    oomp_key: oomp_joanthespark_freetronics_footprints_2x8_smallerpads
+    oomp_key_extra: oomp_footprint_joanthespark_freetronics_footprints_2x8_smallerpads
+    oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_2x8_smallerpads_7db2da
+    oomp_key_simple: joanthespark_freetronics_footprints_2x8_smallerpads
+    original_filename: KiCAD/mods/freetronics_footprints.pretty/2X8-SMALLERPADS.kicad_mod
+    owner_name: joanthespark
   oomp_key: oomp_joanthespark_freetronics_footprints_2x8_smallerpads
+  oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_2x8_smallerpads
   oomp_key_simple: joanthespark_freetronics_footprints_2x8_smallerpads
   owner: JoanTheSpark
   repo:

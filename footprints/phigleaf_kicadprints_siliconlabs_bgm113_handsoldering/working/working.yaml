@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/phigleaf_kicadprints_siliconlabs_bgm113_handsoldering/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/phigleaf_kicadprints_siliconlabs_bgm113_handsoldering/working
-    oomp_doc: footprints/footprints/phigleaf/kicadprints/SiliconLabs-BGM113_handsoldering/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/phigleaf/kicadprints/SiliconLabs-BGM113_handsoldering/working
     oomp_src_flat: footprints_flat/footprints_flat/phigleaf_kicadprints_siliconlabs_bgm113_handsoldering/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/phigleaf_kicadprints_siliconlabs_bgm113_handsoldering/working
-    oomp_src_folder: footprints_folder/footprints_folder/phigleaf/kicadprints/SiliconLabs-BGM113_handsoldering/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/phigleaf/kicadprints/SiliconLabs-BGM113_handsoldering/working
   name: kicadprints.pretty
+  oomp:
+    footprint_name: siliconlabs_bgm113_handsoldering
+    library_name: kicadprints
+    md5: df1b4eae0d7e54200e54d8dc0b9a6c89
+    md5_10: df1b4eae0d
+    md5_5: df1b4
+    md5_6: df1b4e
+    oomp_key: oomp_phigleaf_kicadprints_siliconlabs_bgm113_handsoldering
+    oomp_key_extra: oomp_footprint_phigleaf_kicadprints_siliconlabs_bgm113_handsoldering
+    oomp_key_full: oomp_footprint_phigleaf_kicadprints_siliconlabs_bgm113_handsoldering_df1b4e
+    oomp_key_simple: phigleaf_kicadprints_siliconlabs_bgm113_handsoldering
+    original_filename: kicadprints.pretty/SiliconLabs-BGM113_handsoldering.kicad_mod
+    owner_name: phigleaf
   oomp_key: oomp_phigleaf_kicadprints_siliconlabs_bgm113_handsoldering
+  oomp_key_full: oomp_footprint_phigleaf_kicadprints_siliconlabs_bgm113_handsoldering
   oomp_key_simple: phigleaf_kicadprints_siliconlabs_bgm113_handsoldering
   owner: phigleaf
   repo:

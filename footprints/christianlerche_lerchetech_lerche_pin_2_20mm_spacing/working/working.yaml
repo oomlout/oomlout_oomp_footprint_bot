@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/christianlerche_lerchetech_lerche_pin_2_20mm_spacing/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/christianlerche_lerchetech_lerche_pin_2_20mm_spacing/working
-    oomp_doc: footprints/footprints/ChristianLerche/LercheTech/Lerche_PIN_2_20mm_Spacing/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ChristianLerche/LercheTech/Lerche_PIN_2_20mm_Spacing/working
     oomp_src_flat: footprints_flat/footprints_flat/christianlerche_lerchetech_lerche_pin_2_20mm_spacing/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/christianlerche_lerchetech_lerche_pin_2_20mm_spacing/working
-    oomp_src_folder: footprints_folder/footprints_folder/ChristianLerche/LercheTech/Lerche_PIN_2_20mm_Spacing/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ChristianLerche/LercheTech/Lerche_PIN_2_20mm_Spacing/working
   name: LercheTech_KiCAD
+  oomp:
+    footprint_name: lerche_pin_2_20mm_spacing
+    library_name: lerchetech
+    md5: ba2687f0f28cb2d56c450083057f744e
+    md5_10: ba2687f0f2
+    md5_5: ba268
+    md5_6: ba2687
+    oomp_key: oomp_christianlerche_lerchetech_lerche_pin_2_20mm_spacing
+    oomp_key_extra: oomp_footprint_christianlerche_lerchetech_lerche_pin_2_20mm_spacing
+    oomp_key_full: oomp_footprint_christianlerche_lerchetech_lerche_pin_2_20mm_spacing_ba2687
+    oomp_key_simple: christianlerche_lerchetech_lerche_pin_2_20mm_spacing
+    original_filename: LercheTech_KiCAD/LercheTech.pretty/Lerche_PIN_2_20mm_Spacing.kicad_mod
+    owner_name: christianlerche
   oomp_key: oomp_christianlerche_lerchetech_lerche_pin_2_20mm_spacing
+  oomp_key_full: oomp_footprint_christianlerche_lerchetech_lerche_pin_2_20mm_spacing
   oomp_key_simple: christianlerche_lerchetech_lerche_pin_2_20mm_spacing
   owner: ChristianLerche
   repo:

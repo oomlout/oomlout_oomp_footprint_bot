@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/arturo182/kicad-modules
     oomp_bot: footprints/arturo182_led_smd_extra_led_rgba_0606/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/arturo182_led_smd_extra_led_rgba_0606/working
-    oomp_doc: footprints/footprints/arturo182/LED_SMD_Extra/LED_RGBA_0606/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/arturo182/LED_SMD_Extra/LED_RGBA_0606/working
     oomp_src_flat: footprints_flat/footprints_flat/arturo182_led_smd_extra_led_rgba_0606/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/arturo182_led_smd_extra_led_rgba_0606/working
-    oomp_src_folder: footprints_folder/footprints_folder/arturo182/LED_SMD_Extra/LED_RGBA_0606/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/arturo182/LED_SMD_Extra/LED_RGBA_0606/working
   name: kicad-modules
+  oomp:
+    footprint_name: led_rgba_0606
+    library_name: led_smd_extra
+    md5: f440aecd7defad311bfc3c4a64b2a6ba
+    md5_10: f440aecd7d
+    md5_5: f440a
+    md5_6: f440ae
+    oomp_key: oomp_arturo182_led_smd_extra_led_rgba_0606
+    oomp_key_extra: oomp_footprint_arturo182_led_smd_extra_led_rgba_0606
+    oomp_key_full: oomp_footprint_arturo182_led_smd_extra_led_rgba_0606_f440ae
+    oomp_key_simple: arturo182_led_smd_extra_led_rgba_0606
+    original_filename: kicad-modules/LED_SMD_Extra.pretty/LED_RGBA_0606.kicad_mod
+    owner_name: arturo182
   oomp_key: oomp_arturo182_led_smd_extra_led_rgba_0606
+  oomp_key_full: oomp_footprint_arturo182_led_smd_extra_led_rgba_0606
   oomp_key_simple: arturo182_led_smd_extra_led_rgba_0606
   owner: arturo182
   repo:

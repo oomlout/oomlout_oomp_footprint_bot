@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/fruchti_led_led_side_2_1x0_6mm_b/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/fruchti_led_led_side_2_1x0_6mm_b/working
-    oomp_doc: footprints/footprints/fruchti/led/LED_SIDE_2.1x0.6mm_B/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/fruchti/led/LED_SIDE_2.1x0.6mm_B/working
     oomp_src_flat: footprints_flat/footprints_flat/fruchti_led_led_side_2_1x0_6mm_b/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/fruchti_led_led_side_2_1x0_6mm_b/working
-    oomp_src_folder: footprints_folder/footprints_folder/fruchti/led/LED_SIDE_2.1x0.6mm_B/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/fruchti/led/LED_SIDE_2.1x0.6mm_B/working
   name: fruchtilib
+  oomp:
+    footprint_name: led_side_2_1x0_6mm_b
+    library_name: led
+    md5: dfe860bdac84f157b8fd8e8422855579
+    md5_10: dfe860bdac
+    md5_5: dfe86
+    md5_6: dfe860
+    oomp_key: oomp_fruchti_led_led_side_2_1x0_6mm_b
+    oomp_key_extra: oomp_footprint_fruchti_led_led_side_2_1x0_6mm_b
+    oomp_key_full: oomp_footprint_fruchti_led_led_side_2_1x0_6mm_b_dfe860
+    oomp_key_simple: fruchti_led_led_side_2_1x0_6mm_b
+    original_filename: fruchtilib/mod/led.pretty/LED_SIDE_2.1x0.6mm_B.kicad_mod
+    owner_name: fruchti
   oomp_key: oomp_fruchti_led_led_side_2_1x0_6mm_b
+  oomp_key_full: oomp_footprint_fruchti_led_led_side_2_1x0_6mm_b
   oomp_key_simple: fruchti_led_led_side_2_1x0_6mm_b
   owner: fruchti
   repo:

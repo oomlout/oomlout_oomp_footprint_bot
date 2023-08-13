@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/joanthespark_freetronics_footprints_micro_sd_socket_pp/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/joanthespark_freetronics_footprints_micro_sd_socket_pp/working
-    oomp_doc: footprints/footprints/JoanTheSpark/freetronics_footprints/MICRO-SD-SOCKET-PP/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/JoanTheSpark/freetronics_footprints/MICRO-SD-SOCKET-PP/working
     oomp_src_flat: footprints_flat/footprints_flat/joanthespark_freetronics_footprints_micro_sd_socket_pp/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/joanthespark_freetronics_footprints_micro_sd_socket_pp/working
-    oomp_src_folder: footprints_folder/footprints_folder/JoanTheSpark/freetronics_footprints/MICRO-SD-SOCKET-PP/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/JoanTheSpark/freetronics_footprints/MICRO-SD-SOCKET-PP/working
   name: KiCAD
+  oomp:
+    footprint_name: micro_sd_socket_pp
+    library_name: freetronics_footprints
+    md5: e4aaa0ed16954b536be62c642058ddc4
+    md5_10: e4aaa0ed16
+    md5_5: e4aaa
+    md5_6: e4aaa0
+    oomp_key: oomp_joanthespark_freetronics_footprints_micro_sd_socket_pp
+    oomp_key_extra: oomp_footprint_joanthespark_freetronics_footprints_micro_sd_socket_pp
+    oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_micro_sd_socket_pp_e4aaa0
+    oomp_key_simple: joanthespark_freetronics_footprints_micro_sd_socket_pp
+    original_filename: KiCAD/mods/freetronics_footprints.pretty/MICRO-SD-SOCKET-PP.kicad_mod
+    owner_name: joanthespark
   oomp_key: oomp_joanthespark_freetronics_footprints_micro_sd_socket_pp
+  oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_micro_sd_socket_pp
   oomp_key_simple: joanthespark_freetronics_footprints_micro_sd_socket_pp
   owner: JoanTheSpark
   repo:

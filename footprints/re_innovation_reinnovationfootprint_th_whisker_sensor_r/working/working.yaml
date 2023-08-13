@@ -13,14 +13,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/re_innovation_reinnovationfootprint_th_whisker_sensor_r/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/re_innovation_reinnovationfootprint_th_whisker_sensor_r/working
-    oomp_doc: footprints/footprints/re-innovation/REInnovationFootprint/TH_Whisker_Sensor_R/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/re-innovation/REInnovationFootprint/TH_Whisker_Sensor_R/working
     oomp_src_flat: footprints_flat/footprints_flat/re_innovation_reinnovationfootprint_th_whisker_sensor_r/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/re_innovation_reinnovationfootprint_th_whisker_sensor_r/working
-    oomp_src_folder: footprints_folder/footprints_folder/re-innovation/REInnovationFootprint/TH_Whisker_Sensor_R/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/re-innovation/REInnovationFootprint/TH_Whisker_Sensor_R/working
   name: kicad_reinnovation
+  oomp:
+    footprint_name: th_whisker_sensor_r
+    library_name: reinnovationfootprint
+    md5: c09d26fee95c409fdfefbe4ec29b5478
+    md5_10: c09d26fee9
+    md5_5: c09d2
+    md5_6: c09d26
+    oomp_key: oomp_re_innovation_reinnovationfootprint_th_whisker_sensor_r
+    oomp_key_extra: oomp_footprint_re_innovation_reinnovationfootprint_th_whisker_sensor_r
+    oomp_key_full: oomp_footprint_re_innovation_reinnovationfootprint_th_whisker_sensor_r_c09d26
+    oomp_key_simple: re_innovation_reinnovationfootprint_th_whisker_sensor_r
+    original_filename: kicad_reinnovation/KiCAD PRETTY/REInnovationFootprint.pretty/TH_Whisker_Sensor_R.kicad_mod
+    owner_name: re_innovation
   oomp_key: oomp_re_innovation_reinnovationfootprint_th_whisker_sensor_r
+  oomp_key_full: oomp_footprint_re_innovation_reinnovationfootprint_th_whisker_sensor_r
   oomp_key_simple: re_innovation_reinnovationfootprint_th_whisker_sensor_r
   owner: re-innovation
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/axello_freetronics_footprints_cap_electro_d5s2/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/axello_freetronics_footprints_cap_electro_d5s2/working
-    oomp_doc: footprints/footprints/axello/freetronics_footprints/CAP_ELECTRO_D5S2/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/axello/freetronics_footprints/CAP_ELECTRO_D5S2/working
     oomp_src_flat: footprints_flat/footprints_flat/axello_freetronics_footprints_cap_electro_d5s2/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/axello_freetronics_footprints_cap_electro_d5s2/working
-    oomp_src_folder: footprints_folder/footprints_folder/axello/freetronics_footprints/CAP_ELECTRO_D5S2/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/axello/freetronics_footprints/CAP_ELECTRO_D5S2/working
   name: kicad
+  oomp:
+    footprint_name: cap_electro_d5s2
+    library_name: freetronics_footprints
+    md5: a110ed6541e44ef666d079fc9914396a
+    md5_10: a110ed6541
+    md5_5: a110e
+    md5_6: a110ed
+    oomp_key: oomp_axello_freetronics_footprints_cap_electro_d5s2
+    oomp_key_extra: oomp_footprint_axello_freetronics_footprints_cap_electro_d5s2
+    oomp_key_full: oomp_footprint_axello_freetronics_footprints_cap_electro_d5s2_a110ed
+    oomp_key_simple: axello_freetronics_footprints_cap_electro_d5s2
+    original_filename: kicad/mods/freetronics_footprints.pretty/CAP_ELECTRO_D5S2.kicad_mod
+    owner_name: axello
   oomp_key: oomp_axello_freetronics_footprints_cap_electro_d5s2
+  oomp_key_full: oomp_footprint_axello_freetronics_footprints_cap_electro_d5s2
   oomp_key_simple: axello_freetronics_footprints_cap_electro_d5s2
   owner: axello
   repo:

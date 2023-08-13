@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/keebio_keebio_parts_solder_jumper/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/keebio_keebio_parts_solder_jumper/working
-    oomp_doc: footprints/footprints/keebio/Keebio-Parts/solder_jumper/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/keebio/Keebio-Parts/solder_jumper/working
     oomp_src_flat: footprints_flat/footprints_flat/keebio_keebio_parts_solder_jumper/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/keebio_keebio_parts_solder_jumper/working
-    oomp_src_folder: footprints_folder/footprints_folder/keebio/Keebio-Parts/solder_jumper/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/keebio/Keebio-Parts/solder_jumper/working
   name: Keebio-Parts.pretty
+  oomp:
+    footprint_name: solder_jumper
+    library_name: keebio_parts
+    md5: bdf8653f31b37e0ba6908d4ab83cc0eb
+    md5_10: bdf8653f31
+    md5_5: bdf86
+    md5_6: bdf865
+    oomp_key: oomp_keebio_keebio_parts_solder_jumper
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_solder_jumper
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_solder_jumper_bdf865
+    oomp_key_simple: keebio_keebio_parts_solder_jumper
+    original_filename: Keebio-Parts.pretty/solder_jumper.kicad_mod
+    owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_solder_jumper
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_solder_jumper
   oomp_key_simple: keebio_keebio_parts_solder_jumper
   owner: keebio
   repo:

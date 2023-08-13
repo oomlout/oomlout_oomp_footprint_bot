@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/Kujimoto/fujimoto.pretty
     oomp_bot: footprints/kujimoto_fujimoto_drv8834_pololu/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kujimoto_fujimoto_drv8834_pololu/working
-    oomp_doc: footprints/footprints/Kujimoto/fujimoto/DRV8834_pololu/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Kujimoto/fujimoto/DRV8834_pololu/working
     oomp_src_flat: footprints_flat/footprints_flat/kujimoto_fujimoto_drv8834_pololu/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kujimoto_fujimoto_drv8834_pololu/working
-    oomp_src_folder: footprints_folder/footprints_folder/Kujimoto/fujimoto/DRV8834_pololu/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Kujimoto/fujimoto/DRV8834_pololu/working
   name: fujimoto.pretty
+  oomp:
+    footprint_name: drv8834_pololu
+    library_name: fujimoto
+    md5: 60c73b581c090519baf0d3d7b95e1ea6
+    md5_10: 60c73b581c
+    md5_5: 60c73
+    md5_6: 60c73b
+    oomp_key: oomp_kujimoto_fujimoto_drv8834_pololu
+    oomp_key_extra: oomp_footprint_kujimoto_fujimoto_drv8834_pololu
+    oomp_key_full: oomp_footprint_kujimoto_fujimoto_drv8834_pololu_60c73b
+    oomp_key_simple: kujimoto_fujimoto_drv8834_pololu
+    original_filename: fujimoto.pretty/DRV8834_pololu.kicad_mod
+    owner_name: kujimoto
   oomp_key: oomp_kujimoto_fujimoto_drv8834_pololu
+  oomp_key_full: oomp_footprint_kujimoto_fujimoto_drv8834_pololu
   oomp_key_simple: kujimoto_fujimoto_drv8834_pololu
   owner: Kujimoto
   repo:

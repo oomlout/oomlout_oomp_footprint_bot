@@ -13,14 +13,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/re_innovation_reinnovationfootprint_pcb_150x200_wiska/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/re_innovation_reinnovationfootprint_pcb_150x200_wiska/working
-    oomp_doc: footprints/footprints/re-innovation/REInnovationFootprint/PCB_150x200_WISKA/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/re-innovation/REInnovationFootprint/PCB_150x200_WISKA/working
     oomp_src_flat: footprints_flat/footprints_flat/re_innovation_reinnovationfootprint_pcb_150x200_wiska/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/re_innovation_reinnovationfootprint_pcb_150x200_wiska/working
-    oomp_src_folder: footprints_folder/footprints_folder/re-innovation/REInnovationFootprint/PCB_150x200_WISKA/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/re-innovation/REInnovationFootprint/PCB_150x200_WISKA/working
   name: kicad_reinnovation
+  oomp:
+    footprint_name: pcb_150x200_wiska
+    library_name: reinnovationfootprint
+    md5: c971ec9ee7fadd040c474d4bad9afab5
+    md5_10: c971ec9ee7
+    md5_5: c971e
+    md5_6: c971ec
+    oomp_key: oomp_re_innovation_reinnovationfootprint_pcb_150x200_wiska
+    oomp_key_extra: oomp_footprint_re_innovation_reinnovationfootprint_pcb_150x200_wiska
+    oomp_key_full: oomp_footprint_re_innovation_reinnovationfootprint_pcb_150x200_wiska_c971ec
+    oomp_key_simple: re_innovation_reinnovationfootprint_pcb_150x200_wiska
+    original_filename: kicad_reinnovation/KiCAD PRETTY/REInnovationFootprint.pretty/PCB_150x200_WISKA.kicad_mod
+    owner_name: re_innovation
   oomp_key: oomp_re_innovation_reinnovationfootprint_pcb_150x200_wiska
+  oomp_key_full: oomp_footprint_re_innovation_reinnovationfootprint_pcb_150x200_wiska
   oomp_key_simple: re_innovation_reinnovationfootprint_pcb_150x200_wiska
   owner: re-innovation
   repo:

@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/Iangitpers/4a
     oomp_bot: footprints/iangitpers_manuf_recom_ree_0505s/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/iangitpers_manuf_recom_ree_0505s/working
-    oomp_doc: footprints/footprints/Iangitpers/manuf/RECOM-REE-0505S/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Iangitpers/manuf/RECOM-REE-0505S/working
     oomp_src_flat: footprints_flat/footprints_flat/iangitpers_manuf_recom_ree_0505s/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/iangitpers_manuf_recom_ree_0505s/working
-    oomp_src_folder: footprints_folder/footprints_folder/Iangitpers/manuf/RECOM-REE-0505S/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Iangitpers/manuf/RECOM-REE-0505S/working
   name: 4a
+  oomp:
+    footprint_name: recom_ree_0505s
+    library_name: manuf
+    md5: d437e5963f497dc1bf49b5b3bdf7664b
+    md5_10: d437e5963f
+    md5_5: d437e
+    md5_6: d437e5
+    oomp_key: oomp_iangitpers_manuf_recom_ree_0505s
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_recom_ree_0505s
+    oomp_key_full: oomp_footprint_iangitpers_manuf_recom_ree_0505s_d437e5
+    oomp_key_simple: iangitpers_manuf_recom_ree_0505s
+    original_filename: 4a/manuf.pretty/RECOM-REE-0505S.kicad_mod
+    owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_recom_ree_0505s
+  oomp_key_full: oomp_footprint_iangitpers_manuf_recom_ree_0505s
   oomp_key_simple: iangitpers_manuf_recom_ree_0505s
   owner: Iangitpers
   repo:

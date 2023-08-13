@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cormoran_kicad_header_2x7_shrouded_2mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cormoran_kicad_header_2x7_shrouded_2mm/working
-    oomp_doc: footprints/footprints/cormoran/kicad/HEADER_2X7_SHROUDED_2MM/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cormoran/kicad/HEADER_2X7_SHROUDED_2MM/working
     oomp_src_flat: footprints_flat/footprints_flat/cormoran_kicad_header_2x7_shrouded_2mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cormoran_kicad_header_2x7_shrouded_2mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/cormoran/kicad/HEADER_2X7_SHROUDED_2MM/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cormoran/kicad/HEADER_2X7_SHROUDED_2MM/working
   name: kicad.pretty
+  oomp:
+    footprint_name: header_2x7_shrouded_2mm
+    library_name: kicad
+    md5: a2adcf182a89115039c9f87f9760f85a
+    md5_10: a2adcf182a
+    md5_5: a2adc
+    md5_6: a2adcf
+    oomp_key: oomp_cormoran_kicad_header_2x7_shrouded_2mm
+    oomp_key_extra: oomp_footprint_cormoran_kicad_header_2x7_shrouded_2mm
+    oomp_key_full: oomp_footprint_cormoran_kicad_header_2x7_shrouded_2mm_a2adcf
+    oomp_key_simple: cormoran_kicad_header_2x7_shrouded_2mm
+    original_filename: kicad.pretty/HEADER_2X7_SHROUDED_2MM.kicad_mod
+    owner_name: cormoran
   oomp_key: oomp_cormoran_kicad_header_2x7_shrouded_2mm
+  oomp_key_full: oomp_footprint_cormoran_kicad_header_2x7_shrouded_2mm
   oomp_key_simple: cormoran_kicad_header_2x7_shrouded_2mm
   owner: cormoran
   repo:

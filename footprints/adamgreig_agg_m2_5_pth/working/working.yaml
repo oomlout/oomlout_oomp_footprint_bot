@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/adamgreig/agg-kicad
     oomp_bot: footprints/adamgreig_agg_m2_5_pth/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/adamgreig_agg_m2_5_pth/working
-    oomp_doc: footprints/footprints/adamgreig/agg/M2.5_PTH/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/adamgreig/agg/M2.5_PTH/working
     oomp_src_flat: footprints_flat/footprints_flat/adamgreig_agg_m2_5_pth/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/adamgreig_agg_m2_5_pth/working
-    oomp_src_folder: footprints_folder/footprints_folder/adamgreig/agg/M2.5_PTH/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/adamgreig/agg/M2.5_PTH/working
   name: agg-kicad
+  oomp:
+    footprint_name: m2_5_pth
+    library_name: agg
+    md5: b40d295037a25aef5ecab82b8faa15ff
+    md5_10: b40d295037
+    md5_5: b40d2
+    md5_6: b40d29
+    oomp_key: oomp_adamgreig_agg_m2_5_pth
+    oomp_key_extra: oomp_footprint_adamgreig_agg_m2_5_pth
+    oomp_key_full: oomp_footprint_adamgreig_agg_m2_5_pth_b40d29
+    oomp_key_simple: adamgreig_agg_m2_5_pth
+    original_filename: agg-kicad/agg.pretty/M2.5_PTH.kicad_mod
+    owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_m2_5_pth
+  oomp_key_full: oomp_footprint_adamgreig_agg_m2_5_pth
   oomp_key_simple: adamgreig_agg_m2_5_pth
   owner: adamgreig
   repo:

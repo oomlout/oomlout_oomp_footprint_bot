@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/greatscottgadgets_gsg_modules_header_2x20_lc/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/greatscottgadgets_gsg_modules_header_2x20_lc/working
-    oomp_doc: footprints/footprints/greatscottgadgets/gsg-modules/HEADER-2x20-LC/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/greatscottgadgets/gsg-modules/HEADER-2x20-LC/working
     oomp_src_flat: footprints_flat/footprints_flat/greatscottgadgets_gsg_modules_header_2x20_lc/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/greatscottgadgets_gsg_modules_header_2x20_lc/working
-    oomp_src_folder: footprints_folder/footprints_folder/greatscottgadgets/gsg-modules/HEADER-2x20-LC/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/greatscottgadgets/gsg-modules/HEADER-2x20-LC/working
   name: gsg-kicad-lib
+  oomp:
+    footprint_name: header_2x20_lc
+    library_name: gsg_modules
+    md5: 37b5f80e4e2a8a9fd5a6c38a503722b7
+    md5_10: 37b5f80e4e
+    md5_5: 37b5f
+    md5_6: 37b5f8
+    oomp_key: oomp_greatscottgadgets_gsg_modules_header_2x20_lc
+    oomp_key_extra: oomp_footprint_greatscottgadgets_gsg_modules_header_2x20_lc
+    oomp_key_full: oomp_footprint_greatscottgadgets_gsg_modules_header_2x20_lc_37b5f8
+    oomp_key_simple: greatscottgadgets_gsg_modules_header_2x20_lc
+    original_filename: gsg-kicad-lib/gsg-modules.pretty/HEADER-2x20-LC.kicad_mod
+    owner_name: greatscottgadgets
   oomp_key: oomp_greatscottgadgets_gsg_modules_header_2x20_lc
+  oomp_key_full: oomp_footprint_greatscottgadgets_gsg_modules_header_2x20_lc
   oomp_key_simple: greatscottgadgets_gsg_modules_header_2x20_lc
   owner: greatscottgadgets
   repo:

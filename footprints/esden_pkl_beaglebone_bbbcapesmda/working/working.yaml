@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/esden_pkl_beaglebone_bbbcapesmda/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/esden_pkl_beaglebone_bbbcapesmda/working
-    oomp_doc: footprints/footprints/esden/pkl_beaglebone/BBBCapeSMDA/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/esden/pkl_beaglebone/BBBCapeSMDA/working
     oomp_src_flat: footprints_flat/footprints_flat/esden_pkl_beaglebone_bbbcapesmda/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/esden_pkl_beaglebone_bbbcapesmda/working
-    oomp_src_folder: footprints_folder/footprints_folder/esden/pkl_beaglebone/BBBCapeSMDA/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/esden/pkl_beaglebone/BBBCapeSMDA/working
   name: pretty-kicad-libs
+  oomp:
+    footprint_name: bbbcapesmda
+    library_name: pkl_beaglebone
+    md5: 6f4a4225ce7361891ae4008b4fd12c86
+    md5_10: 6f4a4225ce
+    md5_5: 6f4a4
+    md5_6: 6f4a42
+    oomp_key: oomp_esden_pkl_beaglebone_bbbcapesmda
+    oomp_key_extra: oomp_footprint_esden_pkl_beaglebone_bbbcapesmda
+    oomp_key_full: oomp_footprint_esden_pkl_beaglebone_bbbcapesmda_6f4a42
+    oomp_key_simple: esden_pkl_beaglebone_bbbcapesmda
+    original_filename: pretty-kicad-libs/pkl_beaglebone.pretty/BBBCapeSMDA.kicad_mod
+    owner_name: esden
   oomp_key: oomp_esden_pkl_beaglebone_bbbcapesmda
+  oomp_key_full: oomp_footprint_esden_pkl_beaglebone_bbbcapesmda
   oomp_key_simple: esden_pkl_beaglebone_bbbcapesmda
   owner: esden
   repo:

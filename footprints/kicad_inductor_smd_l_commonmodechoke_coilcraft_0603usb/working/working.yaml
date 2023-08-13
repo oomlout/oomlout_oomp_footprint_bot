@@ -11,17 +11,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_inductor_smd_l_commonmodechoke_coilcraft_0603usb/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_inductor_smd_l_commonmodechoke_coilcraft_0603usb/working
-    oomp_doc: footprints/footprints/kicad/Inductor_SMD/L_CommonModeChoke_Coilcraft_0603USB/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Inductor_SMD/L_CommonModeChoke_Coilcraft_0603USB/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_inductor_smd_l_commonmodechoke_coilcraft_0603usb/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_inductor_smd_l_commonmodechoke_coilcraft_0603usb/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Inductor_SMD/L_CommonModeChoke_Coilcraft_0603USB/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Inductor_SMD/L_CommonModeChoke_Coilcraft_0603USB/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: l_commonmodechoke_coilcraft_0603usb
+    library_name: inductor_smd
+    md5: 0bb5c2565526004da3dc3ecbcac3aade
+    md5_10: 0bb5c25655
+    md5_5: 0bb5c
+    md5_6: 0bb5c2
+    oomp_key: oomp_kicad_inductor_smd_l_commonmodechoke_coilcraft_0603usb
+    oomp_key_extra: oomp_footprint_kicad_inductor_smd_l_commonmodechoke_coilcraft_0603usb
+    oomp_key_full: oomp_footprint_kicad_inductor_smd_l_commonmodechoke_coilcraft_0603usb_0bb5c2
+    oomp_key_simple: kicad_inductor_smd_l_commonmodechoke_coilcraft_0603usb
+    original_filename: libraries/kicad-footprints/Inductor_SMD.pretty/L_CommonModeChoke_Coilcraft_0603USB.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_inductor_smd_l_commonmodechoke_coilcraft_0603usb
+  oomp_key_full: oomp_footprint_kicad_inductor_smd_l_commonmodechoke_coilcraft_0603usb
   oomp_key_simple: kicad_inductor_smd_l_commonmodechoke_coilcraft_0603usb
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

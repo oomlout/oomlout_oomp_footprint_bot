@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/rodibot_rodi_rodi_logo_silkscreentop_10mm_inv/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/rodibot_rodi_rodi_logo_silkscreentop_10mm_inv/working
-    oomp_doc: footprints/footprints/rodibot/RoDI/RoDI_Logo_SilkscreenTop_10mm_Inv/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/rodibot/RoDI/RoDI_Logo_SilkscreenTop_10mm_Inv/working
     oomp_src_flat: footprints_flat/footprints_flat/rodibot_rodi_rodi_logo_silkscreentop_10mm_inv/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/rodibot_rodi_rodi_logo_silkscreentop_10mm_inv/working
-    oomp_src_folder: footprints_folder/footprints_folder/rodibot/RoDI/RoDI_Logo_SilkscreenTop_10mm_Inv/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/rodibot/RoDI/RoDI_Logo_SilkscreenTop_10mm_Inv/working
   name: RoDI.pretty
+  oomp:
+    footprint_name: rodi_logo_silkscreentop_10mm_inv
+    library_name: rodi
+    md5: c9414eb34c424a470ed3e4441af4616c
+    md5_10: c9414eb34c
+    md5_5: c9414
+    md5_6: c9414e
+    oomp_key: oomp_rodibot_rodi_rodi_logo_silkscreentop_10mm_inv
+    oomp_key_extra: oomp_footprint_rodibot_rodi_rodi_logo_silkscreentop_10mm_inv
+    oomp_key_full: oomp_footprint_rodibot_rodi_rodi_logo_silkscreentop_10mm_inv_c9414e
+    oomp_key_simple: rodibot_rodi_rodi_logo_silkscreentop_10mm_inv
+    original_filename: RoDI.pretty/RoDI_Logo_SilkscreenTop_10mm_Inv.kicad_mod
+    owner_name: rodibot
   oomp_key: oomp_rodibot_rodi_rodi_logo_silkscreentop_10mm_inv
+  oomp_key_full: oomp_footprint_rodibot_rodi_rodi_logo_silkscreentop_10mm_inv
   oomp_key_simple: rodibot_rodi_rodi_logo_silkscreentop_10mm_inv
   owner: rodibot
   repo:

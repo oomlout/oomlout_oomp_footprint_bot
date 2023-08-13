@@ -1,8 +1,5 @@
-- file: digikey-kicad-library/src/Source_Footprints/1210.kicad_mod
-  footprint:
-    description: http://www.murata-ps.com/data/magnetics/kmp_8200c.pdf
-    libraryLink: 1210
-    number_of_pads: 2
+- error: expected string or bytes-like object, got 'int'
+  file: digikey-kicad-library/src/Source_Footprints/1210.kicad_mod
   footprint_library_directory: footprint_library_owner/digikey_digikey-kicad-library
   footprint_library_directory_flat: footprints_flat/digikey_1210_1210/working
   github_path: http://github.com/digikey/digikey-kicad-library/blob/master/src/Source_Footprints/1210.kicad_mod
@@ -11,14 +8,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/digikey_1210_1210/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_1210_1210/working
-    oomp_doc: footprints/footprints/digikey/1210.kicad_mod/1210/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/digikey/1210.kicad_mod/1210/working
     oomp_src_flat: footprints_flat/footprints_flat/digikey_1210_1210/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/digikey_1210_1210/working
-    oomp_src_folder: footprints_folder/footprints_folder/digikey/1210.kicad_mod/1210/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/digikey/1210.kicad_mod/1210/working
   name: digikey-kicad-library
+  oomp:
+    footprint_name: '1210'
+    library_name: 1210_kicad_mod
+    md5: 31d098dcb08e58b80e5f989a412816c9
+    md5_10: 31d098dcb0
+    md5_5: 31d09
+    md5_6: 31d098
+    oomp_key: oomp_digikey_1210_1210
+    oomp_key_extra: oomp_footprint_digikey_1210_1210
+    oomp_key_full: oomp_footprint_digikey_1210_1210_31d098
+    oomp_key_simple: digikey_1210_1210
+    original_filename: digikey-kicad-library/src/Source_Footprints/1210.kicad_mod
+    owner_name: digikey
   oomp_key: oomp_digikey_1210_1210
+  oomp_key_full: oomp_footprint_digikey_1210_1210
   oomp_key_simple: digikey_1210_1210
   owner: digikey
   repo:

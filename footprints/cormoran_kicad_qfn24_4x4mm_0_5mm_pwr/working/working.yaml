@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cormoran_kicad_qfn24_4x4mm_0_5mm_pwr/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cormoran_kicad_qfn24_4x4mm_0_5mm_pwr/working
-    oomp_doc: footprints/footprints/cormoran/kicad/QFN24_4X4mm_0.5mm_PWR/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cormoran/kicad/QFN24_4X4mm_0.5mm_PWR/working
     oomp_src_flat: footprints_flat/footprints_flat/cormoran_kicad_qfn24_4x4mm_0_5mm_pwr/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cormoran_kicad_qfn24_4x4mm_0_5mm_pwr/working
-    oomp_src_folder: footprints_folder/footprints_folder/cormoran/kicad/QFN24_4X4mm_0.5mm_PWR/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cormoran/kicad/QFN24_4X4mm_0.5mm_PWR/working
   name: kicad.pretty
+  oomp:
+    footprint_name: qfn24_4x4mm_0_5mm_pwr
+    library_name: kicad
+    md5: 2ae607ef700d34fff56fb66df846b793
+    md5_10: 2ae607ef70
+    md5_5: 2ae60
+    md5_6: 2ae607
+    oomp_key: oomp_cormoran_kicad_qfn24_4x4mm_0_5mm_pwr
+    oomp_key_extra: oomp_footprint_cormoran_kicad_qfn24_4x4mm_0_5mm_pwr
+    oomp_key_full: oomp_footprint_cormoran_kicad_qfn24_4x4mm_0_5mm_pwr_2ae607
+    oomp_key_simple: cormoran_kicad_qfn24_4x4mm_0_5mm_pwr
+    original_filename: kicad.pretty/QFN24_4X4mm_0.5mm_PWR.kicad_mod
+    owner_name: cormoran
   oomp_key: oomp_cormoran_kicad_qfn24_4x4mm_0_5mm_pwr
+  oomp_key_full: oomp_footprint_cormoran_kicad_qfn24_4x4mm_0_5mm_pwr
   oomp_key_simple: cormoran_kicad_qfn24_4x4mm_0_5mm_pwr
   owner: cormoran
   repo:

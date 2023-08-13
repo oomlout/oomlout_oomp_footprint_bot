@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/joanthespark_1w_grove_v0_1_f1792766_2p/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/joanthespark_1w_grove_v0_1_f1792766_2p/working
-    oomp_doc: footprints/footprints/JoanTheSpark/1w-grove-v0.1/F1792766-2p/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/JoanTheSpark/1w-grove-v0.1/F1792766-2p/working
     oomp_src_flat: footprints_flat/footprints_flat/joanthespark_1w_grove_v0_1_f1792766_2p/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/joanthespark_1w_grove_v0_1_f1792766_2p/working
-    oomp_src_folder: footprints_folder/footprints_folder/JoanTheSpark/1w-grove-v0.1/F1792766-2p/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/JoanTheSpark/1w-grove-v0.1/F1792766-2p/working
   name: KiCAD
+  oomp:
+    footprint_name: f1792766_2p
+    library_name: 1w_grove_v0_1
+    md5: 8f65bb1fd924d9935ceb13980fc2ef97
+    md5_10: 8f65bb1fd9
+    md5_5: 8f65b
+    md5_6: 8f65bb
+    oomp_key: oomp_joanthespark_1w_grove_v0_1_f1792766_2p
+    oomp_key_extra: oomp_footprint_joanthespark_1w_grove_v0_1_f1792766_2p
+    oomp_key_full: oomp_footprint_joanthespark_1w_grove_v0_1_f1792766_2p_8f65bb
+    oomp_key_simple: joanthespark_1w_grove_v0_1_f1792766_2p
+    original_filename: KiCAD/6.0/projects/1w-grove-v0.1/1w-grove-v0.1.pretty/F1792766-2p.kicad_mod
+    owner_name: joanthespark
   oomp_key: oomp_joanthespark_1w_grove_v0_1_f1792766_2p
+  oomp_key_full: oomp_footprint_joanthespark_1w_grove_v0_1_f1792766_2p
   oomp_key_simple: joanthespark_1w_grove_v0_1_f1792766_2p
   owner: JoanTheSpark
   repo:

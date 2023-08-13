@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_pcb_hole_pcb_hole/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_pcb_hole_pcb_hole/working
-    oomp_doc: footprints/footprints/brunoeagle/PCB_HOLE.kicad_mod/PCB_HOLE/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/PCB_HOLE.kicad_mod/PCB_HOLE/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_pcb_hole_pcb_hole/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_pcb_hole_pcb_hole/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/PCB_HOLE.kicad_mod/PCB_HOLE/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/PCB_HOLE.kicad_mod/PCB_HOLE/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: pcb_hole
+    library_name: pcb_hole_kicad_mod
+    md5: 6e91f244eeaed5776ff4db5be5704c98
+    md5_10: 6e91f244ee
+    md5_5: 6e91f
+    md5_6: 6e91f2
+    oomp_key: oomp_brunoeagle_pcb_hole_pcb_hole
+    oomp_key_extra: oomp_footprint_brunoeagle_pcb_hole_pcb_hole
+    oomp_key_full: oomp_footprint_brunoeagle_pcb_hole_pcb_hole_6e91f2
+    oomp_key_simple: brunoeagle_pcb_hole_pcb_hole
+    original_filename: kicad-open-modules/PCB_HOLE.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_pcb_hole_pcb_hole
+  oomp_key_full: oomp_footprint_brunoeagle_pcb_hole_pcb_hole
   oomp_key_simple: brunoeagle_pcb_hole_pcb_hole
   owner: brunoeagle
   repo:

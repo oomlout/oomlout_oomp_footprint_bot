@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/kubiX89/kiCAD.pretty
     oomp_bot: footprints/kubix89_kicad_header_1x20_100mil/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kubix89_kicad_header_1x20_100mil/working
-    oomp_doc: footprints/footprints/kubiX89/kiCAD/HEADER_1X20_100MIL/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kubiX89/kiCAD/HEADER_1X20_100MIL/working
     oomp_src_flat: footprints_flat/footprints_flat/kubix89_kicad_header_1x20_100mil/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kubix89_kicad_header_1x20_100mil/working
-    oomp_src_folder: footprints_folder/footprints_folder/kubiX89/kiCAD/HEADER_1X20_100MIL/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kubiX89/kiCAD/HEADER_1X20_100MIL/working
   name: kiCAD.pretty
+  oomp:
+    footprint_name: header_1x20_100mil
+    library_name: kicad
+    md5: 9b972c03870632a85d12129d227140dd
+    md5_10: 9b972c0387
+    md5_5: 9b972
+    md5_6: 9b972c
+    oomp_key: oomp_kubix89_kicad_header_1x20_100mil
+    oomp_key_extra: oomp_footprint_kubix89_kicad_header_1x20_100mil
+    oomp_key_full: oomp_footprint_kubix89_kicad_header_1x20_100mil_9b972c
+    oomp_key_simple: kubix89_kicad_header_1x20_100mil
+    original_filename: kiCAD.pretty/HEADER_1X20_100MIL.kicad_mod
+    owner_name: kubix89
   oomp_key: oomp_kubix89_kicad_header_1x20_100mil
+  oomp_key_full: oomp_footprint_kubix89_kicad_header_1x20_100mil
   oomp_key_simple: kubix89_kicad_header_1x20_100mil
   owner: kubiX89
   repo:

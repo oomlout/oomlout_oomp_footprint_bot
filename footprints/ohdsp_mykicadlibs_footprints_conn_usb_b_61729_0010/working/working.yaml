@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/ohdsp_mykicadlibs_footprints_conn_usb_b_61729_0010/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ohdsp_mykicadlibs_footprints_conn_usb_b_61729_0010/working
-    oomp_doc: footprints/footprints/ohdsp/MyKiCadLibs-Footprints/CONN-USB-B-61729-0010/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ohdsp/MyKiCadLibs-Footprints/CONN-USB-B-61729-0010/working
     oomp_src_flat: footprints_flat/footprints_flat/ohdsp_mykicadlibs_footprints_conn_usb_b_61729_0010/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ohdsp_mykicadlibs_footprints_conn_usb_b_61729_0010/working
-    oomp_src_folder: footprints_folder/footprints_folder/ohdsp/MyKiCadLibs-Footprints/CONN-USB-B-61729-0010/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ohdsp/MyKiCadLibs-Footprints/CONN-USB-B-61729-0010/working
   name: KiCad-Libs
+  oomp:
+    footprint_name: conn_usb_b_61729_0010
+    library_name: mykicadlibs_footprints
+    md5: 404de178eaf675354ed364ed3de1e4d1
+    md5_10: 404de178ea
+    md5_5: 404de
+    md5_6: 404de1
+    oomp_key: oomp_ohdsp_mykicadlibs_footprints_conn_usb_b_61729_0010
+    oomp_key_extra: oomp_footprint_ohdsp_mykicadlibs_footprints_conn_usb_b_61729_0010
+    oomp_key_full: oomp_footprint_ohdsp_mykicadlibs_footprints_conn_usb_b_61729_0010_404de1
+    oomp_key_simple: ohdsp_mykicadlibs_footprints_conn_usb_b_61729_0010
+    original_filename: KiCad-Libs/MyKiCadLibs-Footprints.pretty/CONN-USB-B-61729-0010.kicad_mod
+    owner_name: ohdsp
   oomp_key: oomp_ohdsp_mykicadlibs_footprints_conn_usb_b_61729_0010
+  oomp_key_full: oomp_footprint_ohdsp_mykicadlibs_footprints_conn_usb_b_61729_0010
   oomp_key_simple: ohdsp_mykicadlibs_footprints_conn_usb_b_61729_0010
   owner: ohdsp
   repo:

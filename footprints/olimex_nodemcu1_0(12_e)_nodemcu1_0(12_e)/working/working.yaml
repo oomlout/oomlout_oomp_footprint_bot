@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/olimex_nodemcu1_0(12_e)_nodemcu1_0(12_e)/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/olimex_nodemcu1_0(12_e)_nodemcu1_0(12_e)/working
-    oomp_doc: footprints/footprints/OLIMEX/NodeMCU1.0(12-E).kicad_mod/NodeMCU1.0(12-E)/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/OLIMEX/NodeMCU1.0(12-E).kicad_mod/NodeMCU1.0(12-E)/working
     oomp_src_flat: footprints_flat/footprints_flat/olimex_nodemcu1_0(12_e)_nodemcu1_0(12_e)/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/olimex_nodemcu1_0(12_e)_nodemcu1_0(12_e)/working
-    oomp_src_folder: footprints_folder/footprints_folder/OLIMEX/NodeMCU1.0(12-E).kicad_mod/NodeMCU1.0(12-E)/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/OLIMEX/NodeMCU1.0(12-E).kicad_mod/NodeMCU1.0(12-E)/working
   name: KiCAD
+  oomp:
+    footprint_name: nodemcu1_0(12_e)
+    library_name: nodemcu1_0(12_e)_kicad_mod
+    md5: 2b495e5f738220b523604bf24ef9718f
+    md5_10: 2b495e5f73
+    md5_5: 2b495
+    md5_6: 2b495e
+    oomp_key: oomp_olimex_nodemcu1_0(12_e)_nodemcu1_0(12_e)
+    oomp_key_extra: oomp_footprint_olimex_nodemcu1_0(12_e)_nodemcu1_0(12_e)
+    oomp_key_full: oomp_footprint_olimex_nodemcu1_0(12_e)_nodemcu1_0(12_e)_2b495e
+    oomp_key_simple: olimex_nodemcu1_0(12_e)_nodemcu1_0(12_e)
+    original_filename: KiCAD/mods/NodeMCU1.0(12-E).kicad_mod
+    owner_name: olimex
   oomp_key: oomp_olimex_nodemcu1_0(12_e)_nodemcu1_0(12_e)
+  oomp_key_full: oomp_footprint_olimex_nodemcu1_0(12_e)_nodemcu1_0(12_e)
   oomp_key_simple: olimex_nodemcu1_0(12_e)_nodemcu1_0(12_e)
   owner: OLIMEX
   repo:

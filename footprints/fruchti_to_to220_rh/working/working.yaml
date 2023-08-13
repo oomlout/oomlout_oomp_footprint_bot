@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/fruchti_to_to220_rh/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/fruchti_to_to220_rh/working
-    oomp_doc: footprints/footprints/fruchti/to/TO220_RH/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/fruchti/to/TO220_RH/working
     oomp_src_flat: footprints_flat/footprints_flat/fruchti_to_to220_rh/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/fruchti_to_to220_rh/working
-    oomp_src_folder: footprints_folder/footprints_folder/fruchti/to/TO220_RH/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/fruchti/to/TO220_RH/working
   name: fruchtilib
+  oomp:
+    footprint_name: to220_rh
+    library_name: to
+    md5: c6f1169d7513a4163a33354da72034c7
+    md5_10: c6f1169d75
+    md5_5: c6f11
+    md5_6: c6f116
+    oomp_key: oomp_fruchti_to_to220_rh
+    oomp_key_extra: oomp_footprint_fruchti_to_to220_rh
+    oomp_key_full: oomp_footprint_fruchti_to_to220_rh_c6f116
+    oomp_key_simple: fruchti_to_to220_rh
+    original_filename: fruchtilib/mod/to.pretty/TO220_RH.kicad_mod
+    owner_name: fruchti
   oomp_key: oomp_fruchti_to_to220_rh
+  oomp_key_full: oomp_footprint_fruchti_to_to220_rh
   oomp_key_simple: fruchti_to_to220_rh
   owner: fruchti
   repo:

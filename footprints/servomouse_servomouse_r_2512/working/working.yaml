@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/servomouse_servomouse_r_2512/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/servomouse_servomouse_r_2512/working
-    oomp_doc: footprints/footprints/servomouse/servomouse/R_2512/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/servomouse/servomouse/R_2512/working
     oomp_src_flat: footprints_flat/footprints_flat/servomouse_servomouse_r_2512/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/servomouse_servomouse_r_2512/working
-    oomp_src_folder: footprints_folder/footprints_folder/servomouse/servomouse/R_2512/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/servomouse/servomouse/R_2512/working
   name: servomouse.pretty
+  oomp:
+    footprint_name: r_2512
+    library_name: servomouse
+    md5: 6d1db2241119991b2d8e3cbc5c5e021e
+    md5_10: 6d1db22411
+    md5_5: 6d1db
+    md5_6: 6d1db2
+    oomp_key: oomp_servomouse_servomouse_r_2512
+    oomp_key_extra: oomp_footprint_servomouse_servomouse_r_2512
+    oomp_key_full: oomp_footprint_servomouse_servomouse_r_2512_6d1db2
+    oomp_key_simple: servomouse_servomouse_r_2512
+    original_filename: servomouse.pretty/R_2512.kicad_mod
+    owner_name: servomouse
   oomp_key: oomp_servomouse_servomouse_r_2512
+  oomp_key_full: oomp_footprint_servomouse_servomouse_r_2512
   oomp_key_simple: servomouse_servomouse_r_2512
   owner: servomouse
   repo:

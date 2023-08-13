@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/kubiX89/kiCAD.pretty
     oomp_bot: footprints/kubix89_kicad_connector_rj45_ra_th_leds/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kubix89_kicad_connector_rj45_ra_th_leds/working
-    oomp_doc: footprints/footprints/kubiX89/kiCAD/CONNECTOR_RJ45_RA_TH_LEDS/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kubiX89/kiCAD/CONNECTOR_RJ45_RA_TH_LEDS/working
     oomp_src_flat: footprints_flat/footprints_flat/kubix89_kicad_connector_rj45_ra_th_leds/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kubix89_kicad_connector_rj45_ra_th_leds/working
-    oomp_src_folder: footprints_folder/footprints_folder/kubiX89/kiCAD/CONNECTOR_RJ45_RA_TH_LEDS/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kubiX89/kiCAD/CONNECTOR_RJ45_RA_TH_LEDS/working
   name: kiCAD.pretty
+  oomp:
+    footprint_name: connector_rj45_ra_th_leds
+    library_name: kicad
+    md5: 546216f1db7f545235c322b3dfb7329a
+    md5_10: 546216f1db
+    md5_5: '54621'
+    md5_6: '546216'
+    oomp_key: oomp_kubix89_kicad_connector_rj45_ra_th_leds
+    oomp_key_extra: oomp_footprint_kubix89_kicad_connector_rj45_ra_th_leds
+    oomp_key_full: oomp_footprint_kubix89_kicad_connector_rj45_ra_th_leds_546216
+    oomp_key_simple: kubix89_kicad_connector_rj45_ra_th_leds
+    original_filename: kiCAD.pretty/CONNECTOR_RJ45_RA_TH_LEDS.kicad_mod
+    owner_name: kubix89
   oomp_key: oomp_kubix89_kicad_connector_rj45_ra_th_leds
+  oomp_key_full: oomp_footprint_kubix89_kicad_connector_rj45_ra_th_leds
   oomp_key_simple: kubix89_kicad_connector_rj45_ra_th_leds
   owner: kubiX89
   repo:

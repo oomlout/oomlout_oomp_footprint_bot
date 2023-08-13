@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pelrun_w_battery_holders_keystone_2993/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pelrun_w_battery_holders_keystone_2993/working
-    oomp_doc: footprints/footprints/pelrun/w_battery_holders/keystone_2993/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/pelrun/w_battery_holders/keystone_2993/working
     oomp_src_flat: footprints_flat/footprints_flat/pelrun_w_battery_holders_keystone_2993/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pelrun_w_battery_holders_keystone_2993/working
-    oomp_src_folder: footprints_folder/footprints_folder/pelrun/w_battery_holders/keystone_2993/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/pelrun/w_battery_holders/keystone_2993/working
   name: libKiCad
+  oomp:
+    footprint_name: keystone_2993
+    library_name: w_battery_holders
+    md5: b245aec65ad2f6346a2ae423560734b5
+    md5_10: b245aec65a
+    md5_5: b245a
+    md5_6: b245ae
+    oomp_key: oomp_pelrun_w_battery_holders_keystone_2993
+    oomp_key_extra: oomp_footprint_pelrun_w_battery_holders_keystone_2993
+    oomp_key_full: oomp_footprint_pelrun_w_battery_holders_keystone_2993_b245ae
+    oomp_key_simple: pelrun_w_battery_holders_keystone_2993
+    original_filename: libKiCad/footprint/w_battery_holders.pretty/keystone_2993.kicad_mod
+    owner_name: pelrun
   oomp_key: oomp_pelrun_w_battery_holders_keystone_2993
+  oomp_key_full: oomp_footprint_pelrun_w_battery_holders_keystone_2993
   oomp_key_simple: pelrun_w_battery_holders_keystone_2993
   owner: pelrun
   repo:

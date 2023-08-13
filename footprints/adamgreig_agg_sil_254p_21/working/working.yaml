@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/adamgreig/agg-kicad
     oomp_bot: footprints/adamgreig_agg_sil_254p_21/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/adamgreig_agg_sil_254p_21/working
-    oomp_doc: footprints/footprints/adamgreig/agg/SIL-254P-21/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/adamgreig/agg/SIL-254P-21/working
     oomp_src_flat: footprints_flat/footprints_flat/adamgreig_agg_sil_254p_21/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/adamgreig_agg_sil_254p_21/working
-    oomp_src_folder: footprints_folder/footprints_folder/adamgreig/agg/SIL-254P-21/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/adamgreig/agg/SIL-254P-21/working
   name: agg-kicad
+  oomp:
+    footprint_name: sil_254p_21
+    library_name: agg
+    md5: ff0c10d9962dd110086690fe0bbea20d
+    md5_10: ff0c10d996
+    md5_5: ff0c1
+    md5_6: ff0c10
+    oomp_key: oomp_adamgreig_agg_sil_254p_21
+    oomp_key_extra: oomp_footprint_adamgreig_agg_sil_254p_21
+    oomp_key_full: oomp_footprint_adamgreig_agg_sil_254p_21_ff0c10
+    oomp_key_simple: adamgreig_agg_sil_254p_21
+    original_filename: agg-kicad/agg.pretty/SIL-254P-21.kicad_mod
+    owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_sil_254p_21
+  oomp_key_full: oomp_footprint_adamgreig_agg_sil_254p_21
   oomp_key_simple: adamgreig_agg_sil_254p_21
   owner: adamgreig
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/notmart_eurorack_horizontal_spdt_2ms5t2b2m7re/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/notmart_eurorack_horizontal_spdt_2ms5t2b2m7re/working
-    oomp_doc: footprints/footprints/notmart/eurorack/Horizontal_SPDT_2MS5T2B2M7RE/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/notmart/eurorack/Horizontal_SPDT_2MS5T2B2M7RE/working
     oomp_src_flat: footprints_flat/footprints_flat/notmart_eurorack_horizontal_spdt_2ms5t2b2m7re/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/notmart_eurorack_horizontal_spdt_2ms5t2b2m7re/working
-    oomp_src_folder: footprints_folder/footprints_folder/notmart/eurorack/Horizontal_SPDT_2MS5T2B2M7RE/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/notmart/eurorack/Horizontal_SPDT_2MS5T2B2M7RE/working
   name: eurorack.pretty
+  oomp:
+    footprint_name: horizontal_spdt_2ms5t2b2m7re
+    library_name: eurorack
+    md5: 73e1721fc51cf570d6e3000c55a94f79
+    md5_10: 73e1721fc5
+    md5_5: 73e17
+    md5_6: 73e172
+    oomp_key: oomp_notmart_eurorack_horizontal_spdt_2ms5t2b2m7re
+    oomp_key_extra: oomp_footprint_notmart_eurorack_horizontal_spdt_2ms5t2b2m7re
+    oomp_key_full: oomp_footprint_notmart_eurorack_horizontal_spdt_2ms5t2b2m7re_73e172
+    oomp_key_simple: notmart_eurorack_horizontal_spdt_2ms5t2b2m7re
+    original_filename: eurorack.pretty/Horizontal_SPDT_2MS5T2B2M7RE.kicad_mod
+    owner_name: notmart
   oomp_key: oomp_notmart_eurorack_horizontal_spdt_2ms5t2b2m7re
+  oomp_key_full: oomp_footprint_notmart_eurorack_horizontal_spdt_2ms5t2b2m7re
   oomp_key_simple: notmart_eurorack_horizontal_spdt_2ms5t2b2m7re
   owner: notmart
   repo:

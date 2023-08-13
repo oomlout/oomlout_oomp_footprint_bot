@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/candykingdom_homebrew_ls_a67k_j1k2_1_z_side_firing_led/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/candykingdom_homebrew_ls_a67k_j1k2_1_z_side_firing_led/working
-    oomp_doc: footprints/footprints/candykingdom/homebrew/LS_A67K-J1K2-1-Z_SIDE-FIRING_LED/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/candykingdom/homebrew/LS_A67K-J1K2-1-Z_SIDE-FIRING_LED/working
     oomp_src_flat: footprints_flat/footprints_flat/candykingdom_homebrew_ls_a67k_j1k2_1_z_side_firing_led/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/candykingdom_homebrew_ls_a67k_j1k2_1_z_side_firing_led/working
-    oomp_src_folder: footprints_folder/footprints_folder/candykingdom/homebrew/LS_A67K-J1K2-1-Z_SIDE-FIRING_LED/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/candykingdom/homebrew/LS_A67K-J1K2-1-Z_SIDE-FIRING_LED/working
   name: homebrew.pretty
+  oomp:
+    footprint_name: ls_a67k_j1k2_1_z_side_firing_led
+    library_name: homebrew
+    md5: c0cc4af038b6c2c2db00ce6305784598
+    md5_10: c0cc4af038
+    md5_5: c0cc4
+    md5_6: c0cc4a
+    oomp_key: oomp_candykingdom_homebrew_ls_a67k_j1k2_1_z_side_firing_led
+    oomp_key_extra: oomp_footprint_candykingdom_homebrew_ls_a67k_j1k2_1_z_side_firing_led
+    oomp_key_full: oomp_footprint_candykingdom_homebrew_ls_a67k_j1k2_1_z_side_firing_led_c0cc4a
+    oomp_key_simple: candykingdom_homebrew_ls_a67k_j1k2_1_z_side_firing_led
+    original_filename: homebrew.pretty/LS_A67K-J1K2-1-Z_SIDE-FIRING_LED.kicad_mod
+    owner_name: candykingdom
   oomp_key: oomp_candykingdom_homebrew_ls_a67k_j1k2_1_z_side_firing_led
+  oomp_key_full: oomp_footprint_candykingdom_homebrew_ls_a67k_j1k2_1_z_side_firing_led
   oomp_key_simple: candykingdom_homebrew_ls_a67k_j1k2_1_z_side_firing_led
   owner: candykingdom
   repo:

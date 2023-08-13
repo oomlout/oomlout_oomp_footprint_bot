@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/KUT-KiCad/KUT_Connector.pretty
     oomp_bot: footprints/kut_kicad_kut_connector_df22_2p/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kut_kicad_kut_connector_df22_2p/working
-    oomp_doc: footprints/footprints/KUT-KiCad/KUT_Connector/DF22-2P/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/KUT-KiCad/KUT_Connector/DF22-2P/working
     oomp_src_flat: footprints_flat/footprints_flat/kut_kicad_kut_connector_df22_2p/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kut_kicad_kut_connector_df22_2p/working
-    oomp_src_folder: footprints_folder/footprints_folder/KUT-KiCad/KUT_Connector/DF22-2P/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/KUT-KiCad/KUT_Connector/DF22-2P/working
   name: KUT_Connector.pretty
+  oomp:
+    footprint_name: df22_2p
+    library_name: kut_connector
+    md5: 09735db05d63dccbedf330b16c96772a
+    md5_10: 09735db05d
+    md5_5: 09735
+    md5_6: 09735d
+    oomp_key: oomp_kut_kicad_kut_connector_df22_2p
+    oomp_key_extra: oomp_footprint_kut_kicad_kut_connector_df22_2p
+    oomp_key_full: oomp_footprint_kut_kicad_kut_connector_df22_2p_09735d
+    oomp_key_simple: kut_kicad_kut_connector_df22_2p
+    original_filename: KUT_Connector.pretty/DF22-2P.kicad_mod
+    owner_name: kut_kicad
   oomp_key: oomp_kut_kicad_kut_connector_df22_2p
+  oomp_key_full: oomp_footprint_kut_kicad_kut_connector_df22_2p
   oomp_key_simple: kut_kicad_kut_connector_df22_2p
   owner: KUT-KiCad
   repo:

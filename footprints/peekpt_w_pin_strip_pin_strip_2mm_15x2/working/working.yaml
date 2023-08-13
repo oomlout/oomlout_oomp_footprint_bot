@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/peekpt_w_pin_strip_pin_strip_2mm_15x2/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/peekpt_w_pin_strip_pin_strip_2mm_15x2/working
-    oomp_doc: footprints/footprints/peekpt/w_pin_strip/pin_strip_2mm_15x2/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/peekpt/w_pin_strip/pin_strip_2mm_15x2/working
     oomp_src_flat: footprints_flat/footprints_flat/peekpt_w_pin_strip_pin_strip_2mm_15x2/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/peekpt_w_pin_strip_pin_strip_2mm_15x2/working
-    oomp_src_folder: footprints_folder/footprints_folder/peekpt/w_pin_strip/pin_strip_2mm_15x2/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/peekpt/w_pin_strip/pin_strip_2mm_15x2/working
   name: kicad_smisioto
+  oomp:
+    footprint_name: pin_strip_2mm_15x2
+    library_name: w_pin_strip
+    md5: 6e9eb1655f6114b3f588e19665bd9aca
+    md5_10: 6e9eb1655f
+    md5_5: 6e9eb
+    md5_6: 6e9eb1
+    oomp_key: oomp_peekpt_w_pin_strip_pin_strip_2mm_15x2
+    oomp_key_extra: oomp_footprint_peekpt_w_pin_strip_pin_strip_2mm_15x2
+    oomp_key_full: oomp_footprint_peekpt_w_pin_strip_pin_strip_2mm_15x2_6e9eb1
+    oomp_key_simple: peekpt_w_pin_strip_pin_strip_2mm_15x2
+    original_filename: kicad_smisioto/modules/walter/w_pin_strip.pretty/pin_strip_2mm_15x2.kicad_mod
+    owner_name: peekpt
   oomp_key: oomp_peekpt_w_pin_strip_pin_strip_2mm_15x2
+  oomp_key_full: oomp_footprint_peekpt_w_pin_strip_pin_strip_2mm_15x2
   oomp_key_simple: peekpt_w_pin_strip_pin_strip_2mm_15x2
   owner: peekpt
   repo:

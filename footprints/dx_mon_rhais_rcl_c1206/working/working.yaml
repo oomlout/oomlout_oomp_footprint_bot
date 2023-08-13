@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/dx_mon_rhais_rcl_c1206/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/dx_mon_rhais_rcl_c1206/working
-    oomp_doc: footprints/footprints/DX-MON/rhais_rcl/C1206/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/DX-MON/rhais_rcl/C1206/working
     oomp_src_flat: footprints_flat/footprints_flat/dx_mon_rhais_rcl_c1206/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/dx_mon_rhais_rcl_c1206/working
-    oomp_src_folder: footprints_folder/footprints_folder/DX-MON/rhais_rcl/C1206/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/DX-MON/rhais_rcl/C1206/working
   name: rhais_rcl.pretty
+  oomp:
+    footprint_name: c1206
+    library_name: rhais_rcl
+    md5: 6aa33fb0e9409680c1320cfe01143873
+    md5_10: 6aa33fb0e9
+    md5_5: 6aa33
+    md5_6: 6aa33f
+    oomp_key: oomp_dx_mon_rhais_rcl_c1206
+    oomp_key_extra: oomp_footprint_dx_mon_rhais_rcl_c1206
+    oomp_key_full: oomp_footprint_dx_mon_rhais_rcl_c1206_6aa33f
+    oomp_key_simple: dx_mon_rhais_rcl_c1206
+    original_filename: rhais_rcl.pretty/C1206.kicad_mod
+    owner_name: dx_mon
   oomp_key: oomp_dx_mon_rhais_rcl_c1206
+  oomp_key_full: oomp_footprint_dx_mon_rhais_rcl_c1206
   oomp_key_simple: dx_mon_rhais_rcl_c1206
   owner: DX-MON
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cuzdaori_kicad_dip6sm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cuzdaori_kicad_dip6sm/working
-    oomp_doc: footprints/footprints/cuzdaori/KiCad/DIP6SM/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cuzdaori/KiCad/DIP6SM/working
     oomp_src_flat: footprints_flat/footprints_flat/cuzdaori_kicad_dip6sm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cuzdaori_kicad_dip6sm/working
-    oomp_src_folder: footprints_folder/footprints_folder/cuzdaori/KiCad/DIP6SM/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cuzdaori/KiCad/DIP6SM/working
   name: KiCad.pretty
+  oomp:
+    footprint_name: dip6sm
+    library_name: kicad
+    md5: 3ed24505038839a3d107378109f7b552
+    md5_10: 3ed2450503
+    md5_5: 3ed24
+    md5_6: 3ed245
+    oomp_key: oomp_cuzdaori_kicad_dip6sm
+    oomp_key_extra: oomp_footprint_cuzdaori_kicad_dip6sm
+    oomp_key_full: oomp_footprint_cuzdaori_kicad_dip6sm_3ed245
+    oomp_key_simple: cuzdaori_kicad_dip6sm
+    original_filename: KiCad.pretty/DIP6SM.kicad_mod
+    owner_name: cuzdaori
   oomp_key: oomp_cuzdaori_kicad_dip6sm
+  oomp_key_full: oomp_footprint_cuzdaori_kicad_dip6sm
   oomp_key_simple: cuzdaori_kicad_dip6sm
   owner: cuzdaori
   repo:

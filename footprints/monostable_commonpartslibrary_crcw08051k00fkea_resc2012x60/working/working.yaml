@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/monostable_commonpartslibrary_crcw08051k00fkea_resc2012x60/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/monostable_commonpartslibrary_crcw08051k00fkea_resc2012x60/working
-    oomp_doc: footprints/footprints/monostable/CommonPartsLibrary/CRCW08051K00FKEA_RESC2012X60/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/monostable/CommonPartsLibrary/CRCW08051K00FKEA_RESC2012X60/working
     oomp_src_flat: footprints_flat/footprints_flat/monostable_commonpartslibrary_crcw08051k00fkea_resc2012x60/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/monostable_commonpartslibrary_crcw08051k00fkea_resc2012x60/working
-    oomp_src_folder: footprints_folder/footprints_folder/monostable/CommonPartsLibrary/CRCW08051K00FKEA_RESC2012X60/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/monostable/CommonPartsLibrary/CRCW08051K00FKEA_RESC2012X60/working
   name: CommonPartsLibrary.pretty
+  oomp:
+    footprint_name: crcw08051k00fkea_resc2012x60
+    library_name: commonpartslibrary
+    md5: fa25f2da1e1d350002f460be7cd39663
+    md5_10: fa25f2da1e
+    md5_5: fa25f
+    md5_6: fa25f2
+    oomp_key: oomp_monostable_commonpartslibrary_crcw08051k00fkea_resc2012x60
+    oomp_key_extra: oomp_footprint_monostable_commonpartslibrary_crcw08051k00fkea_resc2012x60
+    oomp_key_full: oomp_footprint_monostable_commonpartslibrary_crcw08051k00fkea_resc2012x60_fa25f2
+    oomp_key_simple: monostable_commonpartslibrary_crcw08051k00fkea_resc2012x60
+    original_filename: CommonPartsLibrary.pretty/CRCW08051K00FKEA_RESC2012X60.kicad_mod
+    owner_name: monostable
   oomp_key: oomp_monostable_commonpartslibrary_crcw08051k00fkea_resc2012x60
+  oomp_key_full: oomp_footprint_monostable_commonpartslibrary_crcw08051k00fkea_resc2012x60
   oomp_key_simple: monostable_commonpartslibrary_crcw08051k00fkea_resc2012x60
   owner: monostable
   repo:

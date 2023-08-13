@@ -11,17 +11,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_symbol_symbol_cc_noncommercial_coppertop_small/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_symbol_symbol_cc_noncommercial_coppertop_small/working
-    oomp_doc: footprints/footprints/kicad/Symbol/Symbol_CC-Noncommercial_CopperTop_Small/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Symbol/Symbol_CC-Noncommercial_CopperTop_Small/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_symbol_symbol_cc_noncommercial_coppertop_small/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_symbol_symbol_cc_noncommercial_coppertop_small/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Symbol/Symbol_CC-Noncommercial_CopperTop_Small/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Symbol/Symbol_CC-Noncommercial_CopperTop_Small/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: symbol_cc_noncommercial_coppertop_small
+    library_name: symbol
+    md5: 6128b09a9122b71a99e8adde8948d379
+    md5_10: 6128b09a91
+    md5_5: 6128b
+    md5_6: 6128b0
+    oomp_key: oomp_kicad_symbol_symbol_cc_noncommercial_coppertop_small
+    oomp_key_extra: oomp_footprint_kicad_symbol_symbol_cc_noncommercial_coppertop_small
+    oomp_key_full: oomp_footprint_kicad_symbol_symbol_cc_noncommercial_coppertop_small_6128b0
+    oomp_key_simple: kicad_symbol_symbol_cc_noncommercial_coppertop_small
+    original_filename: libraries/kicad-footprints/Symbol.pretty/Symbol_CC-Noncommercial_CopperTop_Small.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_symbol_symbol_cc_noncommercial_coppertop_small
+  oomp_key_full: oomp_footprint_kicad_symbol_symbol_cc_noncommercial_coppertop_small
   oomp_key_simple: kicad_symbol_symbol_cc_noncommercial_coppertop_small
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

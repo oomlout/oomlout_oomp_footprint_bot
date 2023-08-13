@@ -15,19 +15,26 @@
     oomp_bot: "footprints/candykingdom_homebrew_\u200Eeg1206\u200E_slide_switch/working"
     oomp_bot_github: "https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/candykingdom_homebrew_\u200E\
       eg1206\u200E_slide_switch/working"
-    oomp_doc: "footprints/footprints/candykingdom/homebrew/\u200EEG1206\u200E_SLIDE_SWITCH/working/"
-    oomp_doc_github: "https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/candykingdom/homebrew/\u200E\
-      EG1206\u200E_SLIDE_SWITCH/working"
     oomp_src_flat: "footprints_flat/footprints_flat/candykingdom_homebrew_\u200Eeg1206\u200E\
       _slide_switch/working"
     oomp_src_flat_github: "https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/candykingdom_homebrew_\u200E\
       eg1206\u200E_slide_switch/working"
-    oomp_src_folder: "footprints_folder/footprints_folder/candykingdom/homebrew/\u200E\
-      EG1206\u200E_SLIDE_SWITCH/working"
-    oomp_src_folder_github: "https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/candykingdom/homebrew/\u200E\
-      EG1206\u200E_SLIDE_SWITCH/working"
   name: homebrew.pretty
+  oomp:
+    footprint_name: "\u200Eeg1206\u200E_slide_switch"
+    library_name: homebrew
+    md5: 1c75f1c73d5cef1cbe7a48a506a2d2fa
+    md5_10: 1c75f1c73d
+    md5_5: 1c75f
+    md5_6: 1c75f1
+    oomp_key: "oomp_candykingdom_homebrew_\u200Eeg1206\u200E_slide_switch"
+    oomp_key_extra: "oomp_footprint_candykingdom_homebrew_\u200Eeg1206\u200E_slide_switch"
+    oomp_key_full: "oomp_footprint_candykingdom_homebrew_\u200Eeg1206\u200E_slide_switch_1c75f1"
+    oomp_key_simple: "candykingdom_homebrew_\u200Eeg1206\u200E_slide_switch"
+    original_filename: "homebrew.pretty/\u200EEG1206\u200E_SLIDE_SWITCH.kicad_mod"
+    owner_name: candykingdom
   oomp_key: "oomp_candykingdom_homebrew_\u200Eeg1206\u200E_slide_switch"
+  oomp_key_full: "oomp_footprint_candykingdom_homebrew_\u200Eeg1206\u200E_slide_switch"
   oomp_key_simple: "candykingdom_homebrew_\u200Eeg1206\u200E_slide_switch"
   owner: candykingdom
   repo:

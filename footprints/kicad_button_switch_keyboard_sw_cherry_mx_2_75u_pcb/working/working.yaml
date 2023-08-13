@@ -11,17 +11,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_button_switch_keyboard_sw_cherry_mx_2_75u_pcb/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_button_switch_keyboard_sw_cherry_mx_2_75u_pcb/working
-    oomp_doc: footprints/footprints/kicad/Button_Switch_Keyboard/SW_Cherry_MX_2.75u_PCB/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Button_Switch_Keyboard/SW_Cherry_MX_2.75u_PCB/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_button_switch_keyboard_sw_cherry_mx_2_75u_pcb/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_button_switch_keyboard_sw_cherry_mx_2_75u_pcb/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Button_Switch_Keyboard/SW_Cherry_MX_2.75u_PCB/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Button_Switch_Keyboard/SW_Cherry_MX_2.75u_PCB/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: sw_cherry_mx_2_75u_pcb
+    library_name: button_switch_keyboard
+    md5: 0ffeca344b9e2f1cc5c43b6dc369c42f
+    md5_10: 0ffeca344b
+    md5_5: 0ffec
+    md5_6: 0ffeca
+    oomp_key: oomp_kicad_button_switch_keyboard_sw_cherry_mx_2_75u_pcb
+    oomp_key_extra: oomp_footprint_kicad_button_switch_keyboard_sw_cherry_mx_2_75u_pcb
+    oomp_key_full: oomp_footprint_kicad_button_switch_keyboard_sw_cherry_mx_2_75u_pcb_0ffeca
+    oomp_key_simple: kicad_button_switch_keyboard_sw_cherry_mx_2_75u_pcb
+    original_filename: libraries/kicad-footprints/Button_Switch_Keyboard.pretty/SW_Cherry_MX_2.75u_PCB.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_button_switch_keyboard_sw_cherry_mx_2_75u_pcb
+  oomp_key_full: oomp_footprint_kicad_button_switch_keyboard_sw_cherry_mx_2_75u_pcb
   oomp_key_simple: kicad_button_switch_keyboard_sw_cherry_mx_2_75u_pcb
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

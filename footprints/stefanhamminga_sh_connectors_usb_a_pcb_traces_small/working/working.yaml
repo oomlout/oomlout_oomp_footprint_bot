@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/stefanhamminga_sh_connectors_usb_a_pcb_traces_small/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stefanhamminga_sh_connectors_usb_a_pcb_traces_small/working
-    oomp_doc: footprints/footprints/StefanHamminga/SH_Connectors/USB_A_PCB_traces_small/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/StefanHamminga/SH_Connectors/USB_A_PCB_traces_small/working
     oomp_src_flat: footprints_flat/footprints_flat/stefanhamminga_sh_connectors_usb_a_pcb_traces_small/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/stefanhamminga_sh_connectors_usb_a_pcb_traces_small/working
-    oomp_src_folder: footprints_folder/footprints_folder/StefanHamminga/SH_Connectors/USB_A_PCB_traces_small/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/StefanHamminga/SH_Connectors/USB_A_PCB_traces_small/working
   name: SH_Connectors.pretty
+  oomp:
+    footprint_name: usb_a_pcb_traces_small
+    library_name: sh_connectors
+    md5: 262444160b4442662ed9d6801f34d91d
+    md5_10: 262444160b
+    md5_5: '26244'
+    md5_6: '262444'
+    oomp_key: oomp_stefanhamminga_sh_connectors_usb_a_pcb_traces_small
+    oomp_key_extra: oomp_footprint_stefanhamminga_sh_connectors_usb_a_pcb_traces_small
+    oomp_key_full: oomp_footprint_stefanhamminga_sh_connectors_usb_a_pcb_traces_small_262444
+    oomp_key_simple: stefanhamminga_sh_connectors_usb_a_pcb_traces_small
+    original_filename: SH_Connectors.pretty/USB_A_PCB_traces_small.kicad_mod
+    owner_name: stefanhamminga
   oomp_key: oomp_stefanhamminga_sh_connectors_usb_a_pcb_traces_small
+  oomp_key_full: oomp_footprint_stefanhamminga_sh_connectors_usb_a_pcb_traces_small
   oomp_key_simple: stefanhamminga_sh_connectors_usb_a_pcb_traces_small
   owner: StefanHamminga
   repo:

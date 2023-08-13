@@ -13,14 +13,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/stanleyseow_svtmaker_phoenixcontact_mcv_1,5_4_g_3_5_1x04_p3_50mm_vertical/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stanleyseow_svtmaker_phoenixcontact_mcv_1,5_4_g_3_5_1x04_p3_50mm_vertical/working
-    oomp_doc: footprints/footprints/stanleyseow/SVTmaker/PhoenixContact_MCV_1,5_4-G-3.5_1x04_P3.50mm_Vertical/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/stanleyseow/SVTmaker/PhoenixContact_MCV_1,5_4-G-3.5_1x04_P3.50mm_Vertical/working
     oomp_src_flat: footprints_flat/footprints_flat/stanleyseow_svtmaker_phoenixcontact_mcv_1,5_4_g_3_5_1x04_p3_50mm_vertical/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/stanleyseow_svtmaker_phoenixcontact_mcv_1,5_4_g_3_5_1x04_p3_50mm_vertical/working
-    oomp_src_folder: footprints_folder/footprints_folder/stanleyseow/SVTmaker/PhoenixContact_MCV_1,5_4-G-3.5_1x04_P3.50mm_Vertical/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/stanleyseow/SVTmaker/PhoenixContact_MCV_1,5_4-G-3.5_1x04_P3.50mm_Vertical/working
   name: SVTmaker.pretty
+  oomp:
+    footprint_name: phoenixcontact_mcv_1,5_4_g_3_5_1x04_p3_50mm_vertical
+    library_name: svtmaker
+    md5: 3471891471b68970dbec9960427cefe0
+    md5_10: '3471891471'
+    md5_5: '34718'
+    md5_6: '347189'
+    oomp_key: oomp_stanleyseow_svtmaker_phoenixcontact_mcv_1,5_4_g_3_5_1x04_p3_50mm_vertical
+    oomp_key_extra: oomp_footprint_stanleyseow_svtmaker_phoenixcontact_mcv_1,5_4_g_3_5_1x04_p3_50mm_vertical
+    oomp_key_full: oomp_footprint_stanleyseow_svtmaker_phoenixcontact_mcv_1,5_4_g_3_5_1x04_p3_50mm_vertical_347189
+    oomp_key_simple: stanleyseow_svtmaker_phoenixcontact_mcv_1,5_4_g_3_5_1x04_p3_50mm_vertical
+    original_filename: SVTmaker.pretty/PhoenixContact_MCV_1,5_4-G-3.5_1x04_P3.50mm_Vertical.kicad_mod
+    owner_name: stanleyseow
   oomp_key: oomp_stanleyseow_svtmaker_phoenixcontact_mcv_1,5_4_g_3_5_1x04_p3_50mm_vertical
+  oomp_key_full: oomp_footprint_stanleyseow_svtmaker_phoenixcontact_mcv_1,5_4_g_3_5_1x04_p3_50mm_vertical
   oomp_key_simple: stanleyseow_svtmaker_phoenixcontact_mcv_1,5_4_g_3_5_1x04_p3_50mm_vertical
   owner: stanleyseow
   repo:

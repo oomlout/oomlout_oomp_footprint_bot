@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_sil_5_sil_5/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_sil_5_sil_5/working
-    oomp_doc: footprints/footprints/brunoeagle/SIL-5.kicad_mod/SIL-5/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/SIL-5.kicad_mod/SIL-5/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_sil_5_sil_5/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_sil_5_sil_5/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/SIL-5.kicad_mod/SIL-5/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/SIL-5.kicad_mod/SIL-5/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: sil_5
+    library_name: sil_5_kicad_mod
+    md5: c7a7ccac445ea8c8b93e2daa56a241ab
+    md5_10: c7a7ccac44
+    md5_5: c7a7c
+    md5_6: c7a7cc
+    oomp_key: oomp_brunoeagle_sil_5_sil_5
+    oomp_key_extra: oomp_footprint_brunoeagle_sil_5_sil_5
+    oomp_key_full: oomp_footprint_brunoeagle_sil_5_sil_5_c7a7cc
+    oomp_key_simple: brunoeagle_sil_5_sil_5
+    original_filename: kicad-open-modules/SIL-5.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_sil_5_sil_5
+  oomp_key_full: oomp_footprint_brunoeagle_sil_5_sil_5
   oomp_key_simple: brunoeagle_sil_5_sil_5
   owner: brunoeagle
   repo:

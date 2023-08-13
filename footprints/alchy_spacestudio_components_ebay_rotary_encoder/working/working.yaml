@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/alchy/spacestudio_components.pretty
     oomp_bot: footprints/alchy_spacestudio_components_ebay_rotary_encoder/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/alchy_spacestudio_components_ebay_rotary_encoder/working
-    oomp_doc: footprints/footprints/alchy/spacestudio_components/ebay_rotary_encoder/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/alchy/spacestudio_components/ebay_rotary_encoder/working
     oomp_src_flat: footprints_flat/footprints_flat/alchy_spacestudio_components_ebay_rotary_encoder/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/alchy_spacestudio_components_ebay_rotary_encoder/working
-    oomp_src_folder: footprints_folder/footprints_folder/alchy/spacestudio_components/ebay_rotary_encoder/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/alchy/spacestudio_components/ebay_rotary_encoder/working
   name: spacestudio_components.pretty
+  oomp:
+    footprint_name: ebay_rotary_encoder
+    library_name: spacestudio_components
+    md5: 6e1ed1cb91bd1db8427e93374dcddd23
+    md5_10: 6e1ed1cb91
+    md5_5: 6e1ed
+    md5_6: 6e1ed1
+    oomp_key: oomp_alchy_spacestudio_components_ebay_rotary_encoder
+    oomp_key_extra: oomp_footprint_alchy_spacestudio_components_ebay_rotary_encoder
+    oomp_key_full: oomp_footprint_alchy_spacestudio_components_ebay_rotary_encoder_6e1ed1
+    oomp_key_simple: alchy_spacestudio_components_ebay_rotary_encoder
+    original_filename: spacestudio_components.pretty/ebay_rotary_encoder.kicad_mod
+    owner_name: alchy
   oomp_key: oomp_alchy_spacestudio_components_ebay_rotary_encoder
+  oomp_key_full: oomp_footprint_alchy_spacestudio_components_ebay_rotary_encoder
   oomp_key_simple: alchy_spacestudio_components_ebay_rotary_encoder
   owner: alchy
   repo:

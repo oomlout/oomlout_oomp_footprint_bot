@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cvra_div_tsx_3225_smd_xtal/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cvra_div_tsx_3225_smd_xtal/working
-    oomp_doc: footprints/footprints/cvra/_div/_TSX-3225-SMD-XTAL/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cvra/_div/_TSX-3225-SMD-XTAL/working
     oomp_src_flat: footprints_flat/footprints_flat/cvra_div_tsx_3225_smd_xtal/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cvra_div_tsx_3225_smd_xtal/working
-    oomp_src_folder: footprints_folder/footprints_folder/cvra/_div/_TSX-3225-SMD-XTAL/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cvra/_div/_TSX-3225-SMD-XTAL/working
   name: kicad-lib
+  oomp:
+    footprint_name: _tsx_3225_smd_xtal
+    library_name: _div
+    md5: 52771e2dbbe6e385cd7a76865421d7a9
+    md5_10: 52771e2dbb
+    md5_5: '52771'
+    md5_6: 52771e
+    oomp_key: oomp_cvra_div_tsx_3225_smd_xtal
+    oomp_key_extra: oomp_footprint_cvra_div_tsx_3225_smd_xtal
+    oomp_key_full: oomp_footprint_cvra_div_tsx_3225_smd_xtal_52771e
+    oomp_key_simple: cvra_div_tsx_3225_smd_xtal
+    original_filename: kicad-lib/footprints/_div.pretty/_TSX-3225-SMD-XTAL.kicad_mod
+    owner_name: cvra
   oomp_key: oomp_cvra_div_tsx_3225_smd_xtal
+  oomp_key_full: oomp_footprint_cvra_div_tsx_3225_smd_xtal
   oomp_key_simple: cvra_div_tsx_3225_smd_xtal
   owner: cvra
   repo:

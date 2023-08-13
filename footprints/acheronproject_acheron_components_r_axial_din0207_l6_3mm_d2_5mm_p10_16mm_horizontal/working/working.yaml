@@ -14,14 +14,24 @@
     github_src_repo: https://github.com/AcheronProject/acheron_Components.pretty
     oomp_bot: footprints/acheronproject_acheron_components_r_axial_din0207_l6_3mm_d2_5mm_p10_16mm_horizontal/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/acheronproject_acheron_components_r_axial_din0207_l6_3mm_d2_5mm_p10_16mm_horizontal/working
-    oomp_doc: footprints/footprints/AcheronProject/acheron_Components/R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/AcheronProject/acheron_Components/R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal/working
     oomp_src_flat: footprints_flat/footprints_flat/acheronproject_acheron_components_r_axial_din0207_l6_3mm_d2_5mm_p10_16mm_horizontal/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/acheronproject_acheron_components_r_axial_din0207_l6_3mm_d2_5mm_p10_16mm_horizontal/working
-    oomp_src_folder: footprints_folder/footprints_folder/AcheronProject/acheron_Components/R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/AcheronProject/acheron_Components/R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal/working
   name: acheron_Components.pretty
+  oomp:
+    footprint_name: r_axial_din0207_l6_3mm_d2_5mm_p10_16mm_horizontal
+    library_name: acheron_components
+    md5: 22049c213dfdbfee626397030d2e5b0b
+    md5_10: 22049c213d
+    md5_5: '22049'
+    md5_6: 22049c
+    oomp_key: oomp_acheronproject_acheron_components_r_axial_din0207_l6_3mm_d2_5mm_p10_16mm_horizontal
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_components_r_axial_din0207_l6_3mm_d2_5mm_p10_16mm_horizontal
+    oomp_key_full: oomp_footprint_acheronproject_acheron_components_r_axial_din0207_l6_3mm_d2_5mm_p10_16mm_horizontal_22049c
+    oomp_key_simple: acheronproject_acheron_components_r_axial_din0207_l6_3mm_d2_5mm_p10_16mm_horizontal
+    original_filename: acheron_Components.pretty/R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal.kicad_mod
+    owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_components_r_axial_din0207_l6_3mm_d2_5mm_p10_16mm_horizontal
+  oomp_key_full: oomp_footprint_acheronproject_acheron_components_r_axial_din0207_l6_3mm_d2_5mm_p10_16mm_horizontal
   oomp_key_simple: acheronproject_acheron_components_r_axial_din0207_l6_3mm_d2_5mm_p10_16mm_horizontal
   owner: AcheronProject
   repo:

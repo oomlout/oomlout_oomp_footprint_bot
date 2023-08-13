@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/nqbit_nqbit_nettie_2_smd_pad0_1mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nqbit_nqbit_nettie_2_smd_pad0_1mm/working
-    oomp_doc: footprints/footprints/nqbit/NQBit/NetTie-2_SMD_Pad0.1mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/nqbit/NQBit/NetTie-2_SMD_Pad0.1mm/working
     oomp_src_flat: footprints_flat/footprints_flat/nqbit_nqbit_nettie_2_smd_pad0_1mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nqbit_nqbit_nettie_2_smd_pad0_1mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/nqbit/NQBit/NetTie-2_SMD_Pad0.1mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/nqbit/NQBit/NetTie-2_SMD_Pad0.1mm/working
   name: NQBit.pretty
+  oomp:
+    footprint_name: nettie_2_smd_pad0_1mm
+    library_name: nqbit
+    md5: d6c34df6b7242adb4c74c9908816796d
+    md5_10: d6c34df6b7
+    md5_5: d6c34
+    md5_6: d6c34d
+    oomp_key: oomp_nqbit_nqbit_nettie_2_smd_pad0_1mm
+    oomp_key_extra: oomp_footprint_nqbit_nqbit_nettie_2_smd_pad0_1mm
+    oomp_key_full: oomp_footprint_nqbit_nqbit_nettie_2_smd_pad0_1mm_d6c34d
+    oomp_key_simple: nqbit_nqbit_nettie_2_smd_pad0_1mm
+    original_filename: NQBit.pretty/NetTie-2_SMD_Pad0.1mm.kicad_mod
+    owner_name: nqbit
   oomp_key: oomp_nqbit_nqbit_nettie_2_smd_pad0_1mm
+  oomp_key_full: oomp_footprint_nqbit_nqbit_nettie_2_smd_pad0_1mm
   oomp_key_simple: nqbit_nqbit_nettie_2_smd_pad0_1mm
   owner: nqbit
   repo:

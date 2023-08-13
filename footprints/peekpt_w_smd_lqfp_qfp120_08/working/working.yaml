@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/peekpt_w_smd_lqfp_qfp120_08/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/peekpt_w_smd_lqfp_qfp120_08/working
-    oomp_doc: footprints/footprints/peekpt/w_smd_lqfp/qfp120-08/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/peekpt/w_smd_lqfp/qfp120-08/working
     oomp_src_flat: footprints_flat/footprints_flat/peekpt_w_smd_lqfp_qfp120_08/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/peekpt_w_smd_lqfp_qfp120_08/working
-    oomp_src_folder: footprints_folder/footprints_folder/peekpt/w_smd_lqfp/qfp120-08/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/peekpt/w_smd_lqfp/qfp120-08/working
   name: kicad_smisioto
+  oomp:
+    footprint_name: qfp120_08
+    library_name: w_smd_lqfp
+    md5: d2b40bb694369ca2373f224d57edec10
+    md5_10: d2b40bb694
+    md5_5: d2b40
+    md5_6: d2b40b
+    oomp_key: oomp_peekpt_w_smd_lqfp_qfp120_08
+    oomp_key_extra: oomp_footprint_peekpt_w_smd_lqfp_qfp120_08
+    oomp_key_full: oomp_footprint_peekpt_w_smd_lqfp_qfp120_08_d2b40b
+    oomp_key_simple: peekpt_w_smd_lqfp_qfp120_08
+    original_filename: kicad_smisioto/modules/walter/w_smd_lqfp.pretty/qfp120-08.kicad_mod
+    owner_name: peekpt
   oomp_key: oomp_peekpt_w_smd_lqfp_qfp120_08
+  oomp_key_full: oomp_footprint_peekpt_w_smd_lqfp_qfp120_08
   oomp_key_simple: peekpt_w_smd_lqfp_qfp120_08
   owner: peekpt
   repo:

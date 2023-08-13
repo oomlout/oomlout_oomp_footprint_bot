@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/greatscottgadgets_gsg_modules_terminalblock_4ucon_19963_02x3_5mm_straight/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/greatscottgadgets_gsg_modules_terminalblock_4ucon_19963_02x3_5mm_straight/working
-    oomp_doc: footprints/footprints/greatscottgadgets/gsg-modules/TerminalBlock_4UCON_19963_02x3.5mm_Straight/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/greatscottgadgets/gsg-modules/TerminalBlock_4UCON_19963_02x3.5mm_Straight/working
     oomp_src_flat: footprints_flat/footprints_flat/greatscottgadgets_gsg_modules_terminalblock_4ucon_19963_02x3_5mm_straight/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/greatscottgadgets_gsg_modules_terminalblock_4ucon_19963_02x3_5mm_straight/working
-    oomp_src_folder: footprints_folder/footprints_folder/greatscottgadgets/gsg-modules/TerminalBlock_4UCON_19963_02x3.5mm_Straight/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/greatscottgadgets/gsg-modules/TerminalBlock_4UCON_19963_02x3.5mm_Straight/working
   name: gsg-kicad-lib
+  oomp:
+    footprint_name: terminalblock_4ucon_19963_02x3_5mm_straight
+    library_name: gsg_modules
+    md5: c728b10535af7cf2d7cf5380b5c65faa
+    md5_10: c728b10535
+    md5_5: c728b
+    md5_6: c728b1
+    oomp_key: oomp_greatscottgadgets_gsg_modules_terminalblock_4ucon_19963_02x3_5mm_straight
+    oomp_key_extra: oomp_footprint_greatscottgadgets_gsg_modules_terminalblock_4ucon_19963_02x3_5mm_straight
+    oomp_key_full: oomp_footprint_greatscottgadgets_gsg_modules_terminalblock_4ucon_19963_02x3_5mm_straight_c728b1
+    oomp_key_simple: greatscottgadgets_gsg_modules_terminalblock_4ucon_19963_02x3_5mm_straight
+    original_filename: gsg-kicad-lib/gsg-modules.pretty/TerminalBlock_4UCON_19963_02x3.5mm_Straight.kicad_mod
+    owner_name: greatscottgadgets
   oomp_key: oomp_greatscottgadgets_gsg_modules_terminalblock_4ucon_19963_02x3_5mm_straight
+  oomp_key_full: oomp_footprint_greatscottgadgets_gsg_modules_terminalblock_4ucon_19963_02x3_5mm_straight
   oomp_key_simple: greatscottgadgets_gsg_modules_terminalblock_4ucon_19963_02x3_5mm_straight
   owner: greatscottgadgets
   repo:

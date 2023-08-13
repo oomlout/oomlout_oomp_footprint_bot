@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/peekpt_w_conn_screw_mors_10p/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/peekpt_w_conn_screw_mors_10p/working
-    oomp_doc: footprints/footprints/peekpt/w_conn_screw/mors_10p/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/peekpt/w_conn_screw/mors_10p/working
     oomp_src_flat: footprints_flat/footprints_flat/peekpt_w_conn_screw_mors_10p/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/peekpt_w_conn_screw_mors_10p/working
-    oomp_src_folder: footprints_folder/footprints_folder/peekpt/w_conn_screw/mors_10p/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/peekpt/w_conn_screw/mors_10p/working
   name: kicad_smisioto
+  oomp:
+    footprint_name: mors_10p
+    library_name: w_conn_screw
+    md5: 5cdcefe35109f3eae8e45f0e899a65a1
+    md5_10: 5cdcefe351
+    md5_5: 5cdce
+    md5_6: 5cdcef
+    oomp_key: oomp_peekpt_w_conn_screw_mors_10p
+    oomp_key_extra: oomp_footprint_peekpt_w_conn_screw_mors_10p
+    oomp_key_full: oomp_footprint_peekpt_w_conn_screw_mors_10p_5cdcef
+    oomp_key_simple: peekpt_w_conn_screw_mors_10p
+    original_filename: kicad_smisioto/modules/walter/w_conn_screw.pretty/mors_10p.kicad_mod
+    owner_name: peekpt
   oomp_key: oomp_peekpt_w_conn_screw_mors_10p
+  oomp_key_full: oomp_footprint_peekpt_w_conn_screw_mors_10p
   oomp_key_simple: peekpt_w_conn_screw_mors_10p
   owner: peekpt
   repo:

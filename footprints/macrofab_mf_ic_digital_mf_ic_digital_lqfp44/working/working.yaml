@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/MacroFab/EDALibraries
     oomp_bot: footprints/macrofab_mf_ic_digital_mf_ic_digital_lqfp44/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/macrofab_mf_ic_digital_mf_ic_digital_lqfp44/working
-    oomp_doc: footprints/footprints/MacroFab/MF_IC_Digital/MF_IC_Digital-LQFP44/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/MacroFab/MF_IC_Digital/MF_IC_Digital-LQFP44/working
     oomp_src_flat: footprints_flat/footprints_flat/macrofab_mf_ic_digital_mf_ic_digital_lqfp44/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/macrofab_mf_ic_digital_mf_ic_digital_lqfp44/working
-    oomp_src_folder: footprints_folder/footprints_folder/MacroFab/MF_IC_Digital/MF_IC_Digital-LQFP44/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/MacroFab/MF_IC_Digital/MF_IC_Digital-LQFP44/working
   name: EDALibraries
+  oomp:
+    footprint_name: mf_ic_digital_lqfp44
+    library_name: mf_ic_digital
+    md5: 92bb8f03458157c8a38006b2800278e6
+    md5_10: 92bb8f0345
+    md5_5: 92bb8
+    md5_6: 92bb8f
+    oomp_key: oomp_macrofab_mf_ic_digital_mf_ic_digital_lqfp44
+    oomp_key_extra: oomp_footprint_macrofab_mf_ic_digital_mf_ic_digital_lqfp44
+    oomp_key_full: oomp_footprint_macrofab_mf_ic_digital_mf_ic_digital_lqfp44_92bb8f
+    oomp_key_simple: macrofab_mf_ic_digital_mf_ic_digital_lqfp44
+    original_filename: EDALibraries/KiCad/Footprints/MF_IC_Digital.pretty/MF_IC_Digital-LQFP44.kicad_mod
+    owner_name: macrofab
   oomp_key: oomp_macrofab_mf_ic_digital_mf_ic_digital_lqfp44
+  oomp_key_full: oomp_footprint_macrofab_mf_ic_digital_mf_ic_digital_lqfp44
   oomp_key_simple: macrofab_mf_ic_digital_mf_ic_digital_lqfp44
   owner: MacroFab
   repo:

@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/rigidus_kicad_my_library_conn1pin/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/rigidus_kicad_my_library_conn1pin/working
-    oomp_doc: footprints/footprints/rigidus/kicad_my_library/conn1pin/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/rigidus/kicad_my_library/conn1pin/working
     oomp_src_flat: footprints_flat/footprints_flat/rigidus_kicad_my_library_conn1pin/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/rigidus_kicad_my_library_conn1pin/working
-    oomp_src_folder: footprints_folder/footprints_folder/rigidus/kicad_my_library/conn1pin/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/rigidus/kicad_my_library/conn1pin/working
   name: kicad_my_library.pretty
+  oomp:
+    footprint_name: conn1pin
+    library_name: kicad_my_library
+    md5: 857fc084cf0974a4b560ba4d2651f45e
+    md5_10: 857fc084cf
+    md5_5: 857fc
+    md5_6: 857fc0
+    oomp_key: oomp_rigidus_kicad_my_library_conn1pin
+    oomp_key_extra: oomp_footprint_rigidus_kicad_my_library_conn1pin
+    oomp_key_full: oomp_footprint_rigidus_kicad_my_library_conn1pin_857fc0
+    oomp_key_simple: rigidus_kicad_my_library_conn1pin
+    original_filename: kicad_my_library.pretty/conn1pin.kicad_mod
+    owner_name: rigidus
   oomp_key: oomp_rigidus_kicad_my_library_conn1pin
+  oomp_key_full: oomp_footprint_rigidus_kicad_my_library_conn1pin
   oomp_key_simple: rigidus_kicad_my_library_conn1pin
   owner: rigidus
   repo:

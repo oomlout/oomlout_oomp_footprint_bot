@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/Iangitpers/4a
     oomp_bot: footprints/iangitpers_tqfp_144_tqfp_144/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/iangitpers_tqfp_144_tqfp_144/working
-    oomp_doc: footprints/footprints/Iangitpers/TQFP-144.kicad_mod/TQFP-144/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Iangitpers/TQFP-144.kicad_mod/TQFP-144/working
     oomp_src_flat: footprints_flat/footprints_flat/iangitpers_tqfp_144_tqfp_144/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/iangitpers_tqfp_144_tqfp_144/working
-    oomp_src_folder: footprints_folder/footprints_folder/Iangitpers/TQFP-144.kicad_mod/TQFP-144/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Iangitpers/TQFP-144.kicad_mod/TQFP-144/working
   name: 4a
+  oomp:
+    footprint_name: tqfp_144
+    library_name: tqfp_144_kicad_mod
+    md5: affcc640bfb732d83d3c8acf48fcd3a1
+    md5_10: affcc640bf
+    md5_5: affcc
+    md5_6: affcc6
+    oomp_key: oomp_iangitpers_tqfp_144_tqfp_144
+    oomp_key_extra: oomp_footprint_iangitpers_tqfp_144_tqfp_144
+    oomp_key_full: oomp_footprint_iangitpers_tqfp_144_tqfp_144_affcc6
+    oomp_key_simple: iangitpers_tqfp_144_tqfp_144
+    original_filename: 4a/dp-microcontroller/TQFP-144.kicad_mod
+    owner_name: iangitpers
   oomp_key: oomp_iangitpers_tqfp_144_tqfp_144
+  oomp_key_full: oomp_footprint_iangitpers_tqfp_144_tqfp_144
   oomp_key_simple: iangitpers_tqfp_144_tqfp_144
   owner: Iangitpers
   repo:

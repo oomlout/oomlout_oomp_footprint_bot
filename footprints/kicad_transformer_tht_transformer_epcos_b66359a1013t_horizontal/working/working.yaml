@@ -11,17 +11,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_transformer_tht_transformer_epcos_b66359a1013t_horizontal/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_transformer_tht_transformer_epcos_b66359a1013t_horizontal/working
-    oomp_doc: footprints/footprints/kicad/Transformer_THT/Transformer_EPCOS_B66359A1013T_Horizontal/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Transformer_THT/Transformer_EPCOS_B66359A1013T_Horizontal/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_transformer_tht_transformer_epcos_b66359a1013t_horizontal/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_transformer_tht_transformer_epcos_b66359a1013t_horizontal/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Transformer_THT/Transformer_EPCOS_B66359A1013T_Horizontal/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Transformer_THT/Transformer_EPCOS_B66359A1013T_Horizontal/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: transformer_epcos_b66359a1013t_horizontal
+    library_name: transformer_tht
+    md5: 6b6b994fbc25deeb134a56c4150dea0a
+    md5_10: 6b6b994fbc
+    md5_5: 6b6b9
+    md5_6: 6b6b99
+    oomp_key: oomp_kicad_transformer_tht_transformer_epcos_b66359a1013t_horizontal
+    oomp_key_extra: oomp_footprint_kicad_transformer_tht_transformer_epcos_b66359a1013t_horizontal
+    oomp_key_full: oomp_footprint_kicad_transformer_tht_transformer_epcos_b66359a1013t_horizontal_6b6b99
+    oomp_key_simple: kicad_transformer_tht_transformer_epcos_b66359a1013t_horizontal
+    original_filename: libraries/kicad-footprints/Transformer_THT.pretty/Transformer_EPCOS_B66359A1013T_Horizontal.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_transformer_tht_transformer_epcos_b66359a1013t_horizontal
+  oomp_key_full: oomp_footprint_kicad_transformer_tht_transformer_epcos_b66359a1013t_horizontal
   oomp_key_simple: kicad_transformer_tht_transformer_epcos_b66359a1013t_horizontal
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

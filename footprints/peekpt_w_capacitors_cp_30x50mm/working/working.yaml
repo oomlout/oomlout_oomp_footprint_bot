@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/peekpt_w_capacitors_cp_30x50mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/peekpt_w_capacitors_cp_30x50mm/working
-    oomp_doc: footprints/footprints/peekpt/w_capacitors/CP_30x50mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/peekpt/w_capacitors/CP_30x50mm/working
     oomp_src_flat: footprints_flat/footprints_flat/peekpt_w_capacitors_cp_30x50mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/peekpt_w_capacitors_cp_30x50mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/peekpt/w_capacitors/CP_30x50mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/peekpt/w_capacitors/CP_30x50mm/working
   name: kicad_smisioto
+  oomp:
+    footprint_name: cp_30x50mm
+    library_name: w_capacitors
+    md5: d20c4ceeda6e0ac8d922c94d791135db
+    md5_10: d20c4ceeda
+    md5_5: d20c4
+    md5_6: d20c4c
+    oomp_key: oomp_peekpt_w_capacitors_cp_30x50mm
+    oomp_key_extra: oomp_footprint_peekpt_w_capacitors_cp_30x50mm
+    oomp_key_full: oomp_footprint_peekpt_w_capacitors_cp_30x50mm_d20c4c
+    oomp_key_simple: peekpt_w_capacitors_cp_30x50mm
+    original_filename: kicad_smisioto/modules/walter/w_capacitors.pretty/CP_30x50mm.kicad_mod
+    owner_name: peekpt
   oomp_key: oomp_peekpt_w_capacitors_cp_30x50mm
+  oomp_key_full: oomp_footprint_peekpt_w_capacitors_cp_30x50mm
   oomp_key_simple: peekpt_w_capacitors_cp_30x50mm
   owner: peekpt
   repo:

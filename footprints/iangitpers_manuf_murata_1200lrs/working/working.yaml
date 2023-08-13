@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/Iangitpers/4a
     oomp_bot: footprints/iangitpers_manuf_murata_1200lrs/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/iangitpers_manuf_murata_1200lrs/working
-    oomp_doc: footprints/footprints/Iangitpers/manuf/MURATA-1200LRS/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Iangitpers/manuf/MURATA-1200LRS/working
     oomp_src_flat: footprints_flat/footprints_flat/iangitpers_manuf_murata_1200lrs/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/iangitpers_manuf_murata_1200lrs/working
-    oomp_src_folder: footprints_folder/footprints_folder/Iangitpers/manuf/MURATA-1200LRS/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Iangitpers/manuf/MURATA-1200LRS/working
   name: 4a
+  oomp:
+    footprint_name: murata_1200lrs
+    library_name: manuf
+    md5: 061c469bff8f9f88ecdc9387e67102f6
+    md5_10: 061c469bff
+    md5_5: 061c4
+    md5_6: 061c46
+    oomp_key: oomp_iangitpers_manuf_murata_1200lrs
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_murata_1200lrs
+    oomp_key_full: oomp_footprint_iangitpers_manuf_murata_1200lrs_061c46
+    oomp_key_simple: iangitpers_manuf_murata_1200lrs
+    original_filename: 4a/manuf.pretty/MURATA-1200LRS.kicad_mod
+    owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_murata_1200lrs
+  oomp_key_full: oomp_footprint_iangitpers_manuf_murata_1200lrs
   oomp_key_simple: iangitpers_manuf_murata_1200lrs
   owner: Iangitpers
   repo:

@@ -12,17 +12,29 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/kicad_package_so_vishay_powerpak_1212_8_single/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_package_so_vishay_powerpak_1212_8_single/working
-    oomp_doc: footprints/footprints/kicad/Package_SO/Vishay_PowerPAK_1212-8_Single/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/kicad/Package_SO/Vishay_PowerPAK_1212-8_Single/working
     oomp_src_flat: footprints_flat/footprints_flat/kicad_package_so_vishay_powerpak_1212_8_single/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_package_so_vishay_powerpak_1212_8_single/working
-    oomp_src_folder: footprints_folder/footprints_folder/kicad/Package_SO/Vishay_PowerPAK_1212-8_Single/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/kicad/Package_SO/Vishay_PowerPAK_1212-8_Single/working
   name: libraries/kicad-footprints/
+  oomp:
+    footprint_name: vishay_powerpak_1212_8_single
+    library_name: package_so
+    md5: 31b076fd24173b09c9e3b0dc266ce9d7
+    md5_10: 31b076fd24
+    md5_5: 31b07
+    md5_6: 31b076
+    oomp_key: oomp_kicad_package_so_vishay_powerpak_1212_8_single
+    oomp_key_extra: oomp_footprint_kicad_package_so_vishay_powerpak_1212_8_single
+    oomp_key_full: oomp_footprint_kicad_package_so_vishay_powerpak_1212_8_single_31b076
+    oomp_key_simple: kicad_package_so_vishay_powerpak_1212_8_single
+    original_filename: libraries/kicad-footprints/Package_SO.pretty/Vishay_PowerPAK_1212-8_Single.kicad_mod
+    owner_name: kicad
   oomp_key: oomp_kicad_package_so_vishay_powerpak_1212_8_single
+  oomp_key_full: oomp_footprint_kicad_package_so_vishay_powerpak_1212_8_single
   oomp_key_simple: kicad_package_so_vishay_powerpak_1212_8_single
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-    message: Not Found
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://gitlab.com/kicad/libraries/kicad-footprints

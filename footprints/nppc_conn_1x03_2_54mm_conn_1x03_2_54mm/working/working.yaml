@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/nppc_conn_1x03_2_54mm_conn_1x03_2_54mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nppc_conn_1x03_2_54mm_conn_1x03_2_54mm/working
-    oomp_doc: footprints/footprints/nppc/Conn_1x03_2.54mm.kicad_mod/Conn_1x03_2.54mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/nppc/Conn_1x03_2.54mm.kicad_mod/Conn_1x03_2.54mm/working
     oomp_src_flat: footprints_flat/footprints_flat/nppc_conn_1x03_2_54mm_conn_1x03_2_54mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nppc_conn_1x03_2_54mm_conn_1x03_2_54mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/nppc/Conn_1x03_2.54mm.kicad_mod/Conn_1x03_2.54mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/nppc/Conn_1x03_2.54mm.kicad_mod/Conn_1x03_2.54mm/working
   name: KiCadCustomLibs
+  oomp:
+    footprint_name: conn_1x03_2_54mm
+    library_name: conn_1x03_2_54mm_kicad_mod
+    md5: 34a3d39a399947be305dc4507d549fd6
+    md5_10: 34a3d39a39
+    md5_5: 34a3d
+    md5_6: 34a3d3
+    oomp_key: oomp_nppc_conn_1x03_2_54mm_conn_1x03_2_54mm
+    oomp_key_extra: oomp_footprint_nppc_conn_1x03_2_54mm_conn_1x03_2_54mm
+    oomp_key_full: oomp_footprint_nppc_conn_1x03_2_54mm_conn_1x03_2_54mm_34a3d3
+    oomp_key_simple: nppc_conn_1x03_2_54mm_conn_1x03_2_54mm
+    original_filename: KiCadCustomLibs/Conn_1x03_2.54mm.kicad_mod
+    owner_name: nppc
   oomp_key: oomp_nppc_conn_1x03_2_54mm_conn_1x03_2_54mm
+  oomp_key_full: oomp_footprint_nppc_conn_1x03_2_54mm_conn_1x03_2_54mm
   oomp_key_simple: nppc_conn_1x03_2_54mm_conn_1x03_2_54mm
   owner: nppc
   repo:

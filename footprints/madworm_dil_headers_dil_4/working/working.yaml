@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/madworm/DIL-Headers.pretty
     oomp_bot: footprints/madworm_dil_headers_dil_4/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/madworm_dil_headers_dil_4/working
-    oomp_doc: footprints/footprints/madworm/DIL-Headers/DIL-4/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/madworm/DIL-Headers/DIL-4/working
     oomp_src_flat: footprints_flat/footprints_flat/madworm_dil_headers_dil_4/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/madworm_dil_headers_dil_4/working
-    oomp_src_folder: footprints_folder/footprints_folder/madworm/DIL-Headers/DIL-4/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/madworm/DIL-Headers/DIL-4/working
   name: DIL-Headers.pretty
+  oomp:
+    footprint_name: dil_4
+    library_name: dil_headers
+    md5: 0df2c92c60a8514d5d2fdce2f877f87d
+    md5_10: 0df2c92c60
+    md5_5: 0df2c
+    md5_6: 0df2c9
+    oomp_key: oomp_madworm_dil_headers_dil_4
+    oomp_key_extra: oomp_footprint_madworm_dil_headers_dil_4
+    oomp_key_full: oomp_footprint_madworm_dil_headers_dil_4_0df2c9
+    oomp_key_simple: madworm_dil_headers_dil_4
+    original_filename: DIL-Headers.pretty/DIL-4.kicad_mod
+    owner_name: madworm
   oomp_key: oomp_madworm_dil_headers_dil_4
+  oomp_key_full: oomp_footprint_madworm_dil_headers_dil_4
   oomp_key_simple: madworm_dil_headers_dil_4
   owner: madworm
   repo:

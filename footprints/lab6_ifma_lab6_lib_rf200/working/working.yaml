@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/lab6-ifma/LAB6-LIB.pretty
     oomp_bot: footprints/lab6_ifma_lab6_lib_rf200/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/lab6_ifma_lab6_lib_rf200/working
-    oomp_doc: footprints/footprints/lab6-ifma/LAB6-LIB/RF200/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/lab6-ifma/LAB6-LIB/RF200/working
     oomp_src_flat: footprints_flat/footprints_flat/lab6_ifma_lab6_lib_rf200/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/lab6_ifma_lab6_lib_rf200/working
-    oomp_src_folder: footprints_folder/footprints_folder/lab6-ifma/LAB6-LIB/RF200/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/lab6-ifma/LAB6-LIB/RF200/working
   name: LAB6-LIB.pretty
+  oomp:
+    footprint_name: rf200
+    library_name: lab6_lib
+    md5: 8a209ccc2204a91cd40764cc6cbf2025
+    md5_10: 8a209ccc22
+    md5_5: 8a209
+    md5_6: 8a209c
+    oomp_key: oomp_lab6_ifma_lab6_lib_rf200
+    oomp_key_extra: oomp_footprint_lab6_ifma_lab6_lib_rf200
+    oomp_key_full: oomp_footprint_lab6_ifma_lab6_lib_rf200_8a209c
+    oomp_key_simple: lab6_ifma_lab6_lib_rf200
+    original_filename: LAB6-LIB.pretty/RF200.kicad_mod
+    owner_name: lab6_ifma
   oomp_key: oomp_lab6_ifma_lab6_lib_rf200
+  oomp_key_full: oomp_footprint_lab6_ifma_lab6_lib_rf200
   oomp_key_simple: lab6_ifma_lab6_lib_rf200
   owner: lab6-ifma
   repo:

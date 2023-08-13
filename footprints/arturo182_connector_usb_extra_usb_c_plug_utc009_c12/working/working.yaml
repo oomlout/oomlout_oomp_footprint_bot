@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/arturo182/kicad-modules
     oomp_bot: footprints/arturo182_connector_usb_extra_usb_c_plug_utc009_c12/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/arturo182_connector_usb_extra_usb_c_plug_utc009_c12/working
-    oomp_doc: footprints/footprints/arturo182/Connector_USB_Extra/USB_C_Plug_UTC009-C12/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/arturo182/Connector_USB_Extra/USB_C_Plug_UTC009-C12/working
     oomp_src_flat: footprints_flat/footprints_flat/arturo182_connector_usb_extra_usb_c_plug_utc009_c12/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/arturo182_connector_usb_extra_usb_c_plug_utc009_c12/working
-    oomp_src_folder: footprints_folder/footprints_folder/arturo182/Connector_USB_Extra/USB_C_Plug_UTC009-C12/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/arturo182/Connector_USB_Extra/USB_C_Plug_UTC009-C12/working
   name: kicad-modules
+  oomp:
+    footprint_name: usb_c_plug_utc009_c12
+    library_name: connector_usb_extra
+    md5: 7f63b815b3c7ff2975ee14f0112cc45a
+    md5_10: 7f63b815b3
+    md5_5: 7f63b
+    md5_6: 7f63b8
+    oomp_key: oomp_arturo182_connector_usb_extra_usb_c_plug_utc009_c12
+    oomp_key_extra: oomp_footprint_arturo182_connector_usb_extra_usb_c_plug_utc009_c12
+    oomp_key_full: oomp_footprint_arturo182_connector_usb_extra_usb_c_plug_utc009_c12_7f63b8
+    oomp_key_simple: arturo182_connector_usb_extra_usb_c_plug_utc009_c12
+    original_filename: kicad-modules/Connector_USB_Extra.pretty/USB_C_Plug_UTC009-C12.kicad_mod
+    owner_name: arturo182
   oomp_key: oomp_arturo182_connector_usb_extra_usb_c_plug_utc009_c12
+  oomp_key_full: oomp_footprint_arturo182_connector_usb_extra_usb_c_plug_utc009_c12
   oomp_key_simple: arturo182_connector_usb_extra_usb_c_plug_utc009_c12
   owner: arturo182
   repo:

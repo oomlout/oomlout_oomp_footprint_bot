@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/codemercenary_os_kicad_module_plf3pc/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/codemercenary_os_kicad_module_plf3pc/working
-    oomp_doc: footprints/footprints/codemercenary-os/kicad/MODULE_PLF3PC/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/codemercenary-os/kicad/MODULE_PLF3PC/working
     oomp_src_flat: footprints_flat/footprints_flat/codemercenary_os_kicad_module_plf3pc/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/codemercenary_os_kicad_module_plf3pc/working
-    oomp_src_folder: footprints_folder/footprints_folder/codemercenary-os/kicad/MODULE_PLF3PC/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/codemercenary-os/kicad/MODULE_PLF3PC/working
   name: kicad.pretty
+  oomp:
+    footprint_name: module_plf3pc
+    library_name: kicad
+    md5: ec8acb45e5b19f4f8a45e07472fba26a
+    md5_10: ec8acb45e5
+    md5_5: ec8ac
+    md5_6: ec8acb
+    oomp_key: oomp_codemercenary_os_kicad_module_plf3pc
+    oomp_key_extra: oomp_footprint_codemercenary_os_kicad_module_plf3pc
+    oomp_key_full: oomp_footprint_codemercenary_os_kicad_module_plf3pc_ec8acb
+    oomp_key_simple: codemercenary_os_kicad_module_plf3pc
+    original_filename: kicad.pretty/MODULE_PLF3PC.kicad_mod
+    owner_name: codemercenary_os
   oomp_key: oomp_codemercenary_os_kicad_module_plf3pc
+  oomp_key_full: oomp_footprint_codemercenary_os_kicad_module_plf3pc
   oomp_key_simple: codemercenary_os_kicad_module_plf3pc
   owner: codemercenary-os
   repo:

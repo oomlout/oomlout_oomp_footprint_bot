@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/rohbotics_ipc7351_nominal_diom5538x262n/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/rohbotics_ipc7351_nominal_diom5538x262n/working
-    oomp_doc: footprints/footprints/rohbotics/IPC7351-Nominal/DIOM5538X262N/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/rohbotics/IPC7351-Nominal/DIOM5538X262N/working
     oomp_src_flat: footprints_flat/footprints_flat/rohbotics_ipc7351_nominal_diom5538x262n/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/rohbotics_ipc7351_nominal_diom5538x262n/working
-    oomp_src_folder: footprints_folder/footprints_folder/rohbotics/IPC7351-Nominal/DIOM5538X262N/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/rohbotics/IPC7351-Nominal/DIOM5538X262N/working
   name: IPC7351-Nominal.pretty
+  oomp:
+    footprint_name: diom5538x262n
+    library_name: ipc7351_nominal
+    md5: 2083be700b3571c3f1d15f73a880196a
+    md5_10: 2083be700b
+    md5_5: 2083b
+    md5_6: 2083be
+    oomp_key: oomp_rohbotics_ipc7351_nominal_diom5538x262n
+    oomp_key_extra: oomp_footprint_rohbotics_ipc7351_nominal_diom5538x262n
+    oomp_key_full: oomp_footprint_rohbotics_ipc7351_nominal_diom5538x262n_2083be
+    oomp_key_simple: rohbotics_ipc7351_nominal_diom5538x262n
+    original_filename: IPC7351-Nominal.pretty/DIOM5538X262N.kicad_mod
+    owner_name: rohbotics
   oomp_key: oomp_rohbotics_ipc7351_nominal_diom5538x262n
+  oomp_key_full: oomp_footprint_rohbotics_ipc7351_nominal_diom5538x262n
   oomp_key_simple: rohbotics_ipc7351_nominal_diom5538x262n
   owner: rohbotics
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cpavlina_conn_test_net_tie_1mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cpavlina_conn_test_net_tie_1mm/working
-    oomp_doc: footprints/footprints/cpavlina/conn-test/NET-TIE-1mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cpavlina/conn-test/NET-TIE-1mm/working
     oomp_src_flat: footprints_flat/footprints_flat/cpavlina_conn_test_net_tie_1mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cpavlina_conn_test_net_tie_1mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/cpavlina/conn-test/NET-TIE-1mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cpavlina/conn-test/NET-TIE-1mm/working
   name: kicad-pcblib
+  oomp:
+    footprint_name: net_tie_1mm
+    library_name: conn_test
+    md5: cf5f6400536f34a8d65d22340855fc55
+    md5_10: cf5f640053
+    md5_5: cf5f6
+    md5_6: cf5f64
+    oomp_key: oomp_cpavlina_conn_test_net_tie_1mm
+    oomp_key_extra: oomp_footprint_cpavlina_conn_test_net_tie_1mm
+    oomp_key_full: oomp_footprint_cpavlina_conn_test_net_tie_1mm_cf5f64
+    oomp_key_simple: cpavlina_conn_test_net_tie_1mm
+    original_filename: kicad-pcblib/conn-test.pretty/NET-TIE-1mm.kicad_mod
+    owner_name: cpavlina
   oomp_key: oomp_cpavlina_conn_test_net_tie_1mm
+  oomp_key_full: oomp_footprint_cpavlina_conn_test_net_tie_1mm
   oomp_key_simple: cpavlina_conn_test_net_tie_1mm
   owner: cpavlina
   repo:

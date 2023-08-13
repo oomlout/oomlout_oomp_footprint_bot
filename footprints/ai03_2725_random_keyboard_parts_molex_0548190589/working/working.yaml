@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/ai03-2725/random-keyboard-parts.pretty
     oomp_bot: footprints/ai03_2725_random_keyboard_parts_molex_0548190589/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ai03_2725_random_keyboard_parts_molex_0548190589/working
-    oomp_doc: footprints/footprints/ai03-2725/random-keyboard-parts/Molex-0548190589/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ai03-2725/random-keyboard-parts/Molex-0548190589/working
     oomp_src_flat: footprints_flat/footprints_flat/ai03_2725_random_keyboard_parts_molex_0548190589/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ai03_2725_random_keyboard_parts_molex_0548190589/working
-    oomp_src_folder: footprints_folder/footprints_folder/ai03-2725/random-keyboard-parts/Molex-0548190589/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ai03-2725/random-keyboard-parts/Molex-0548190589/working
   name: random-keyboard-parts.pretty
+  oomp:
+    footprint_name: molex_0548190589
+    library_name: random_keyboard_parts
+    md5: 5ba3306290da4e81361675b42ccfe204
+    md5_10: 5ba3306290
+    md5_5: 5ba33
+    md5_6: 5ba330
+    oomp_key: oomp_ai03_2725_random_keyboard_parts_molex_0548190589
+    oomp_key_extra: oomp_footprint_ai03_2725_random_keyboard_parts_molex_0548190589
+    oomp_key_full: oomp_footprint_ai03_2725_random_keyboard_parts_molex_0548190589_5ba330
+    oomp_key_simple: ai03_2725_random_keyboard_parts_molex_0548190589
+    original_filename: random-keyboard-parts.pretty/Molex-0548190589.kicad_mod
+    owner_name: ai03_2725
   oomp_key: oomp_ai03_2725_random_keyboard_parts_molex_0548190589
+  oomp_key_full: oomp_footprint_ai03_2725_random_keyboard_parts_molex_0548190589
   oomp_key_simple: ai03_2725_random_keyboard_parts_molex_0548190589
   owner: ai03-2725
   repo:

@@ -13,14 +13,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/electroniccats_pines_621x14245821/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/electroniccats_pines_621x14245821/working
-    oomp_doc: footprints/footprints/ElectronicCats/Pines/621X14245821/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/ElectronicCats/Pines/621X14245821/working
     oomp_src_flat: footprints_flat/footprints_flat/electroniccats_pines_621x14245821/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/electroniccats_pines_621x14245821/working
-    oomp_src_folder: footprints_folder/footprints_folder/ElectronicCats/Pines/621X14245821/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/ElectronicCats/Pines/621X14245821/working
   name: ComponentLibrariesKicadWurthElektronik
+  oomp:
+    footprint_name: 621x14245821
+    library_name: pines
+    md5: 836eb9822a503d4e4c292148757127a3
+    md5_10: 836eb9822a
+    md5_5: 836eb
+    md5_6: 836eb9
+    oomp_key: oomp_electroniccats_pines_621x14245821
+    oomp_key_extra: oomp_footprint_electroniccats_pines_621x14245821
+    oomp_key_full: oomp_footprint_electroniccats_pines_621x14245821_836eb9
+    oomp_key_simple: electroniccats_pines_621x14245821
+    original_filename: ComponentLibrariesKicadWurthElektronik/EAGLE-BOARD-TO-BOARD_CONNECTORS-rev16c/Pines.pretty/621X14245821.kicad_mod
+    owner_name: electroniccats
   oomp_key: oomp_electroniccats_pines_621x14245821
+  oomp_key_full: oomp_footprint_electroniccats_pines_621x14245821
   oomp_key_simple: electroniccats_pines_621x14245821
   owner: ElectronicCats
   repo:

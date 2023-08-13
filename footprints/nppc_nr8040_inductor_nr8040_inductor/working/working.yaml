@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/nppc_nr8040_inductor_nr8040_inductor/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nppc_nr8040_inductor_nr8040_inductor/working
-    oomp_doc: footprints/footprints/nppc/NR8040_Inductor.kicad_mod/NR8040_Inductor/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/nppc/NR8040_Inductor.kicad_mod/NR8040_Inductor/working
     oomp_src_flat: footprints_flat/footprints_flat/nppc_nr8040_inductor_nr8040_inductor/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nppc_nr8040_inductor_nr8040_inductor/working
-    oomp_src_folder: footprints_folder/footprints_folder/nppc/NR8040_Inductor.kicad_mod/NR8040_Inductor/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/nppc/NR8040_Inductor.kicad_mod/NR8040_Inductor/working
   name: KiCadCustomLibs
+  oomp:
+    footprint_name: nr8040_inductor
+    library_name: nr8040_inductor_kicad_mod
+    md5: 70dde41707bca38fad9ec93ba810dd0a
+    md5_10: 70dde41707
+    md5_5: 70dde
+    md5_6: 70dde4
+    oomp_key: oomp_nppc_nr8040_inductor_nr8040_inductor
+    oomp_key_extra: oomp_footprint_nppc_nr8040_inductor_nr8040_inductor
+    oomp_key_full: oomp_footprint_nppc_nr8040_inductor_nr8040_inductor_70dde4
+    oomp_key_simple: nppc_nr8040_inductor_nr8040_inductor
+    original_filename: KiCadCustomLibs/NR8040_Inductor.kicad_mod
+    owner_name: nppc
   oomp_key: oomp_nppc_nr8040_inductor_nr8040_inductor
+  oomp_key_full: oomp_footprint_nppc_nr8040_inductor_nr8040_inductor
   oomp_key_simple: nppc_nr8040_inductor_nr8040_inductor
   owner: nppc
   repo:

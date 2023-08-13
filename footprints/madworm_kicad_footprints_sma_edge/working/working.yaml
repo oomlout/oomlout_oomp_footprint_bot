@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/madworm/KiCad-Footprints.pretty
     oomp_bot: footprints/madworm_kicad_footprints_sma_edge/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/madworm_kicad_footprints_sma_edge/working
-    oomp_doc: footprints/footprints/madworm/KiCad-Footprints/SMA_EDGE/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/madworm/KiCad-Footprints/SMA_EDGE/working
     oomp_src_flat: footprints_flat/footprints_flat/madworm_kicad_footprints_sma_edge/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/madworm_kicad_footprints_sma_edge/working
-    oomp_src_folder: footprints_folder/footprints_folder/madworm/KiCad-Footprints/SMA_EDGE/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/madworm/KiCad-Footprints/SMA_EDGE/working
   name: KiCad-Footprints.pretty
+  oomp:
+    footprint_name: sma_edge
+    library_name: kicad_footprints
+    md5: 3e1d7e24520575dc6a9e0b2844236b02
+    md5_10: 3e1d7e2452
+    md5_5: 3e1d7
+    md5_6: 3e1d7e
+    oomp_key: oomp_madworm_kicad_footprints_sma_edge
+    oomp_key_extra: oomp_footprint_madworm_kicad_footprints_sma_edge
+    oomp_key_full: oomp_footprint_madworm_kicad_footprints_sma_edge_3e1d7e
+    oomp_key_simple: madworm_kicad_footprints_sma_edge
+    original_filename: KiCad-Footprints.pretty/SMA_EDGE.kicad_mod
+    owner_name: madworm
   oomp_key: oomp_madworm_kicad_footprints_sma_edge
+  oomp_key_full: oomp_footprint_madworm_kicad_footprints_sma_edge
   oomp_key_simple: madworm_kicad_footprints_sma_edge
   owner: madworm
   repo:

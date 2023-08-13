@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/keebio_keebio_parts_resistor_hybrid_back/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/keebio_keebio_parts_resistor_hybrid_back/working
-    oomp_doc: footprints/footprints/keebio/Keebio-Parts/Resistor-Hybrid-Back/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/keebio/Keebio-Parts/Resistor-Hybrid-Back/working
     oomp_src_flat: footprints_flat/footprints_flat/keebio_keebio_parts_resistor_hybrid_back/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/keebio_keebio_parts_resistor_hybrid_back/working
-    oomp_src_folder: footprints_folder/footprints_folder/keebio/Keebio-Parts/Resistor-Hybrid-Back/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/keebio/Keebio-Parts/Resistor-Hybrid-Back/working
   name: Keebio-Parts.pretty
+  oomp:
+    footprint_name: resistor_hybrid_back
+    library_name: keebio_parts
+    md5: 20dcf8899a9a4e5745a715772f93249b
+    md5_10: 20dcf8899a
+    md5_5: 20dcf
+    md5_6: 20dcf8
+    oomp_key: oomp_keebio_keebio_parts_resistor_hybrid_back
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_resistor_hybrid_back
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_resistor_hybrid_back_20dcf8
+    oomp_key_simple: keebio_keebio_parts_resistor_hybrid_back
+    original_filename: Keebio-Parts.pretty/Resistor-Hybrid-Back.kicad_mod
+    owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_resistor_hybrid_back
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_resistor_hybrid_back
   oomp_key_simple: keebio_keebio_parts_resistor_hybrid_back
   owner: keebio
   repo:

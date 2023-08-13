@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/thefork_solderjumpers_sj3/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/thefork_solderjumpers_sj3/working
-    oomp_doc: footprints/footprints/theFork/Solderjumpers/SJ3/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/theFork/Solderjumpers/SJ3/working
     oomp_src_flat: footprints_flat/footprints_flat/thefork_solderjumpers_sj3/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/thefork_solderjumpers_sj3/working
-    oomp_src_folder: footprints_folder/footprints_folder/theFork/Solderjumpers/SJ3/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/theFork/Solderjumpers/SJ3/working
   name: Solderjumpers.pretty
+  oomp:
+    footprint_name: sj3
+    library_name: solderjumpers
+    md5: e282418b265112bd31879a5313978c0c
+    md5_10: e282418b26
+    md5_5: e2824
+    md5_6: e28241
+    oomp_key: oomp_thefork_solderjumpers_sj3
+    oomp_key_extra: oomp_footprint_thefork_solderjumpers_sj3
+    oomp_key_full: oomp_footprint_thefork_solderjumpers_sj3_e28241
+    oomp_key_simple: thefork_solderjumpers_sj3
+    original_filename: Solderjumpers.pretty/SJ3.kicad_mod
+    owner_name: thefork
   oomp_key: oomp_thefork_solderjumpers_sj3
+  oomp_key_full: oomp_footprint_thefork_solderjumpers_sj3
   oomp_key_simple: thefork_solderjumpers_sj3
   owner: theFork
   repo:

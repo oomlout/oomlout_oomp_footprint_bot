@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_bateria_9v_bateria_9v/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_bateria_9v_bateria_9v/working
-    oomp_doc: footprints/footprints/brunoeagle/BATERIA_9V.kicad_mod/BATERIA_9V/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/BATERIA_9V.kicad_mod/BATERIA_9V/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_bateria_9v_bateria_9v/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_bateria_9v_bateria_9v/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/BATERIA_9V.kicad_mod/BATERIA_9V/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/BATERIA_9V.kicad_mod/BATERIA_9V/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: bateria_9v
+    library_name: bateria_9v_kicad_mod
+    md5: 8bd0cbf5582b4dfb46a64bf0f75c894b
+    md5_10: 8bd0cbf558
+    md5_5: 8bd0c
+    md5_6: 8bd0cb
+    oomp_key: oomp_brunoeagle_bateria_9v_bateria_9v
+    oomp_key_extra: oomp_footprint_brunoeagle_bateria_9v_bateria_9v
+    oomp_key_full: oomp_footprint_brunoeagle_bateria_9v_bateria_9v_8bd0cb
+    oomp_key_simple: brunoeagle_bateria_9v_bateria_9v
+    original_filename: kicad-open-modules/BATERIA_9V.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_bateria_9v_bateria_9v
+  oomp_key_full: oomp_footprint_brunoeagle_bateria_9v_bateria_9v
   oomp_key_simple: brunoeagle_bateria_9v_bateria_9v
   owner: brunoeagle
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/sasaplus1_kicad_footprints_sma_edge/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/sasaplus1_kicad_footprints_sma_edge/working
-    oomp_doc: footprints/footprints/sasaplus1/kicad-footprints/SMA_EDGE/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/sasaplus1/kicad-footprints/SMA_EDGE/working
     oomp_src_flat: footprints_flat/footprints_flat/sasaplus1_kicad_footprints_sma_edge/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/sasaplus1_kicad_footprints_sma_edge/working
-    oomp_src_folder: footprints_folder/footprints_folder/sasaplus1/kicad-footprints/SMA_EDGE/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/sasaplus1/kicad-footprints/SMA_EDGE/working
   name: kicad-footprints.pretty
+  oomp:
+    footprint_name: sma_edge
+    library_name: kicad_footprints
+    md5: 84c4b5d4670db2faecbec17adcbdf37d
+    md5_10: 84c4b5d467
+    md5_5: 84c4b
+    md5_6: 84c4b5
+    oomp_key: oomp_sasaplus1_kicad_footprints_sma_edge
+    oomp_key_extra: oomp_footprint_sasaplus1_kicad_footprints_sma_edge
+    oomp_key_full: oomp_footprint_sasaplus1_kicad_footprints_sma_edge_84c4b5
+    oomp_key_simple: sasaplus1_kicad_footprints_sma_edge
+    original_filename: kicad-footprints.pretty/SMA_EDGE.kicad_mod
+    owner_name: sasaplus1
   oomp_key: oomp_sasaplus1_kicad_footprints_sma_edge
+  oomp_key_full: oomp_footprint_sasaplus1_kicad_footprints_sma_edge
   oomp_key_simple: sasaplus1_kicad_footprints_sma_edge
   owner: sasaplus1
   repo:

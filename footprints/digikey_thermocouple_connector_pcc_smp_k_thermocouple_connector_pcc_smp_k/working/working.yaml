@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/digikey_thermocouple_connector_pcc_smp_k_thermocouple_connector_pcc_smp_k/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_thermocouple_connector_pcc_smp_k_thermocouple_connector_pcc_smp_k/working
-    oomp_doc: footprints/footprints/digikey/Thermocouple_Connector_PCC-SMP-K.kicad_mod/Thermocouple_Connector_PCC-SMP-K/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/digikey/Thermocouple_Connector_PCC-SMP-K.kicad_mod/Thermocouple_Connector_PCC-SMP-K/working
     oomp_src_flat: footprints_flat/footprints_flat/digikey_thermocouple_connector_pcc_smp_k_thermocouple_connector_pcc_smp_k/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/digikey_thermocouple_connector_pcc_smp_k_thermocouple_connector_pcc_smp_k/working
-    oomp_src_folder: footprints_folder/footprints_folder/digikey/Thermocouple_Connector_PCC-SMP-K.kicad_mod/Thermocouple_Connector_PCC-SMP-K/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/digikey/Thermocouple_Connector_PCC-SMP-K.kicad_mod/Thermocouple_Connector_PCC-SMP-K/working
   name: digikey-kicad-library
+  oomp:
+    footprint_name: thermocouple_connector_pcc_smp_k
+    library_name: thermocouple_connector_pcc_smp_k_kicad_mod
+    md5: db55b5ff750d456b473ca325c9f0a712
+    md5_10: db55b5ff75
+    md5_5: db55b
+    md5_6: db55b5
+    oomp_key: oomp_digikey_thermocouple_connector_pcc_smp_k_thermocouple_connector_pcc_smp_k
+    oomp_key_extra: oomp_footprint_digikey_thermocouple_connector_pcc_smp_k_thermocouple_connector_pcc_smp_k
+    oomp_key_full: oomp_footprint_digikey_thermocouple_connector_pcc_smp_k_thermocouple_connector_pcc_smp_k_db55b5
+    oomp_key_simple: digikey_thermocouple_connector_pcc_smp_k_thermocouple_connector_pcc_smp_k
+    original_filename: digikey-kicad-library/src/Source_Footprints/Thermocouple_Connector_PCC-SMP-K.kicad_mod
+    owner_name: digikey
   oomp_key: oomp_digikey_thermocouple_connector_pcc_smp_k_thermocouple_connector_pcc_smp_k
+  oomp_key_full: oomp_footprint_digikey_thermocouple_connector_pcc_smp_k_thermocouple_connector_pcc_smp_k
   oomp_key_simple: digikey_thermocouple_connector_pcc_smp_k_thermocouple_connector_pcc_smp_k
   owner: digikey
   repo:

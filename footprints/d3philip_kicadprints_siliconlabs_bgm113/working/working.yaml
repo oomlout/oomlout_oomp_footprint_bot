@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/d3philip_kicadprints_siliconlabs_bgm113/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/d3philip_kicadprints_siliconlabs_bgm113/working
-    oomp_doc: footprints/footprints/d3philip/kicadprints/SiliconLabs-BGM113/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/d3philip/kicadprints/SiliconLabs-BGM113/working
     oomp_src_flat: footprints_flat/footprints_flat/d3philip_kicadprints_siliconlabs_bgm113/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/d3philip_kicadprints_siliconlabs_bgm113/working
-    oomp_src_folder: footprints_folder/footprints_folder/d3philip/kicadprints/SiliconLabs-BGM113/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/d3philip/kicadprints/SiliconLabs-BGM113/working
   name: kicadprints.pretty
+  oomp:
+    footprint_name: siliconlabs_bgm113
+    library_name: kicadprints
+    md5: 68514bc2b255aa663420c4e3d4db2101
+    md5_10: 68514bc2b2
+    md5_5: '68514'
+    md5_6: 68514b
+    oomp_key: oomp_d3philip_kicadprints_siliconlabs_bgm113
+    oomp_key_extra: oomp_footprint_d3philip_kicadprints_siliconlabs_bgm113
+    oomp_key_full: oomp_footprint_d3philip_kicadprints_siliconlabs_bgm113_68514b
+    oomp_key_simple: d3philip_kicadprints_siliconlabs_bgm113
+    original_filename: kicadprints.pretty/SiliconLabs-BGM113.kicad_mod
+    owner_name: d3philip
   oomp_key: oomp_d3philip_kicadprints_siliconlabs_bgm113
+  oomp_key_full: oomp_footprint_d3philip_kicadprints_siliconlabs_bgm113
   oomp_key_simple: d3philip_kicadprints_siliconlabs_bgm113
   owner: d3philip
   repo:

@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pelrun_w_conn_pc_db_15f_vga/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pelrun_w_conn_pc_db_15f_vga/working
-    oomp_doc: footprints/footprints/pelrun/w_conn_pc/DB_15F-VGA/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/pelrun/w_conn_pc/DB_15F-VGA/working
     oomp_src_flat: footprints_flat/footprints_flat/pelrun_w_conn_pc_db_15f_vga/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pelrun_w_conn_pc_db_15f_vga/working
-    oomp_src_folder: footprints_folder/footprints_folder/pelrun/w_conn_pc/DB_15F-VGA/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/pelrun/w_conn_pc/DB_15F-VGA/working
   name: libKiCad
+  oomp:
+    footprint_name: db_15f_vga
+    library_name: w_conn_pc
+    md5: 54f7a711feb0af50f587c45b26ff04b4
+    md5_10: 54f7a711fe
+    md5_5: 54f7a
+    md5_6: 54f7a7
+    oomp_key: oomp_pelrun_w_conn_pc_db_15f_vga
+    oomp_key_extra: oomp_footprint_pelrun_w_conn_pc_db_15f_vga
+    oomp_key_full: oomp_footprint_pelrun_w_conn_pc_db_15f_vga_54f7a7
+    oomp_key_simple: pelrun_w_conn_pc_db_15f_vga
+    original_filename: libKiCad/footprint/w_conn_pc.pretty/DB_15F-VGA.kicad_mod
+    owner_name: pelrun
   oomp_key: oomp_pelrun_w_conn_pc_db_15f_vga
+  oomp_key_full: oomp_footprint_pelrun_w_conn_pc_db_15f_vga
   oomp_key_simple: pelrun_w_conn_pc_db_15f_vga
   owner: pelrun
   repo:

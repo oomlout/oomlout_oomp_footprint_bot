@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/rocketscream_rocketscreamkicadlibrary_ts_107a/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/rocketscream_rocketscreamkicadlibrary_ts_107a/working
-    oomp_doc: footprints/footprints/rocketscream/RocketScreamKicadLibrary/TS-107A/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/rocketscream/RocketScreamKicadLibrary/TS-107A/working
     oomp_src_flat: footprints_flat/footprints_flat/rocketscream_rocketscreamkicadlibrary_ts_107a/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/rocketscream_rocketscreamkicadlibrary_ts_107a/working
-    oomp_src_folder: footprints_folder/footprints_folder/rocketscream/RocketScreamKicadLibrary/TS-107A/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/rocketscream/RocketScreamKicadLibrary/TS-107A/working
   name: RocketScreamKicadLibrary
+  oomp:
+    footprint_name: ts_107a
+    library_name: rocketscreamkicadlibrary
+    md5: 9c5235e85f01a3005116706599c73f19
+    md5_10: 9c5235e85f
+    md5_5: 9c523
+    md5_6: 9c5235
+    oomp_key: oomp_rocketscream_rocketscreamkicadlibrary_ts_107a
+    oomp_key_extra: oomp_footprint_rocketscream_rocketscreamkicadlibrary_ts_107a
+    oomp_key_full: oomp_footprint_rocketscream_rocketscreamkicadlibrary_ts_107a_9c5235
+    oomp_key_simple: rocketscream_rocketscreamkicadlibrary_ts_107a
+    original_filename: RocketScreamKicadLibrary/RocketScreamKicadLibrary.pretty/TS-107A.kicad_mod
+    owner_name: rocketscream
   oomp_key: oomp_rocketscream_rocketscreamkicadlibrary_ts_107a
+  oomp_key_full: oomp_footprint_rocketscream_rocketscreamkicadlibrary_ts_107a
   oomp_key_simple: rocketscream_rocketscreamkicadlibrary_ts_107a
   owner: rocketscream
   repo:

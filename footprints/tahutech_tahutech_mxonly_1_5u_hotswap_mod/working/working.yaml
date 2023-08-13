@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/tahutech_tahutech_mxonly_1_5u_hotswap_mod/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/tahutech_tahutech_mxonly_1_5u_hotswap_mod/working
-    oomp_doc: footprints/footprints/TahuTech/tahutech/MXOnly-1.5U-Hotswap-Mod/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/TahuTech/tahutech/MXOnly-1.5U-Hotswap-Mod/working
     oomp_src_flat: footprints_flat/footprints_flat/tahutech_tahutech_mxonly_1_5u_hotswap_mod/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/tahutech_tahutech_mxonly_1_5u_hotswap_mod/working
-    oomp_src_folder: footprints_folder/footprints_folder/TahuTech/tahutech/MXOnly-1.5U-Hotswap-Mod/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/TahuTech/tahutech/MXOnly-1.5U-Hotswap-Mod/working
   name: tahutech.pretty
+  oomp:
+    footprint_name: mxonly_1_5u_hotswap_mod
+    library_name: tahutech
+    md5: b1242c4b6fdcf413a4f8a40355a1f705
+    md5_10: b1242c4b6f
+    md5_5: b1242
+    md5_6: b1242c
+    oomp_key: oomp_tahutech_tahutech_mxonly_1_5u_hotswap_mod
+    oomp_key_extra: oomp_footprint_tahutech_tahutech_mxonly_1_5u_hotswap_mod
+    oomp_key_full: oomp_footprint_tahutech_tahutech_mxonly_1_5u_hotswap_mod_b1242c
+    oomp_key_simple: tahutech_tahutech_mxonly_1_5u_hotswap_mod
+    original_filename: tahutech.pretty/MXOnly-1.5U-Hotswap-Mod.kicad_mod
+    owner_name: tahutech
   oomp_key: oomp_tahutech_tahutech_mxonly_1_5u_hotswap_mod
+  oomp_key_full: oomp_footprint_tahutech_tahutech_mxonly_1_5u_hotswap_mod
   oomp_key_simple: tahutech_tahutech_mxonly_1_5u_hotswap_mod
   owner: TahuTech
   repo:

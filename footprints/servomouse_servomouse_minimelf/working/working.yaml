@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/servomouse_servomouse_minimelf/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/servomouse_servomouse_minimelf/working
-    oomp_doc: footprints/footprints/servomouse/servomouse/MiniMELF/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/servomouse/servomouse/MiniMELF/working
     oomp_src_flat: footprints_flat/footprints_flat/servomouse_servomouse_minimelf/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/servomouse_servomouse_minimelf/working
-    oomp_src_folder: footprints_folder/footprints_folder/servomouse/servomouse/MiniMELF/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/servomouse/servomouse/MiniMELF/working
   name: servomouse.pretty
+  oomp:
+    footprint_name: minimelf
+    library_name: servomouse
+    md5: 6ef168a3f87ee94f2db219a618b97cfd
+    md5_10: 6ef168a3f8
+    md5_5: 6ef16
+    md5_6: 6ef168
+    oomp_key: oomp_servomouse_servomouse_minimelf
+    oomp_key_extra: oomp_footprint_servomouse_servomouse_minimelf
+    oomp_key_full: oomp_footprint_servomouse_servomouse_minimelf_6ef168
+    oomp_key_simple: servomouse_servomouse_minimelf
+    original_filename: servomouse.pretty/MiniMELF.kicad_mod
+    owner_name: servomouse
   oomp_key: oomp_servomouse_servomouse_minimelf
+  oomp_key_full: oomp_footprint_servomouse_servomouse_minimelf
   oomp_key_simple: servomouse_servomouse_minimelf
   owner: servomouse
   repo:

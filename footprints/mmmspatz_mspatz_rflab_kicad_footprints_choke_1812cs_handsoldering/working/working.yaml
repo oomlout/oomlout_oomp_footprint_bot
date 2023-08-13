@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/mmmspatz_mspatz_rflab_kicad_footprints_choke_1812cs_handsoldering/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/mmmspatz_mspatz_rflab_kicad_footprints_choke_1812cs_handsoldering/working
-    oomp_doc: footprints/footprints/mmmspatz/mspatz_RFlab_Kicad_footprints/CHOKE_1812CS_HANDSOLDERING/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/mmmspatz/mspatz_RFlab_Kicad_footprints/CHOKE_1812CS_HANDSOLDERING/working
     oomp_src_flat: footprints_flat/footprints_flat/mmmspatz_mspatz_rflab_kicad_footprints_choke_1812cs_handsoldering/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/mmmspatz_mspatz_rflab_kicad_footprints_choke_1812cs_handsoldering/working
-    oomp_src_folder: footprints_folder/footprints_folder/mmmspatz/mspatz_RFlab_Kicad_footprints/CHOKE_1812CS_HANDSOLDERING/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/mmmspatz/mspatz_RFlab_Kicad_footprints/CHOKE_1812CS_HANDSOLDERING/working
   name: mspatz_RFlab_Kicad_footprints.pretty
+  oomp:
+    footprint_name: choke_1812cs_handsoldering
+    library_name: mspatz_rflab_kicad_footprints
+    md5: c71981fa0b495011afbf08ee7271b2fd
+    md5_10: c71981fa0b
+    md5_5: c7198
+    md5_6: c71981
+    oomp_key: oomp_mmmspatz_mspatz_rflab_kicad_footprints_choke_1812cs_handsoldering
+    oomp_key_extra: oomp_footprint_mmmspatz_mspatz_rflab_kicad_footprints_choke_1812cs_handsoldering
+    oomp_key_full: oomp_footprint_mmmspatz_mspatz_rflab_kicad_footprints_choke_1812cs_handsoldering_c71981
+    oomp_key_simple: mmmspatz_mspatz_rflab_kicad_footprints_choke_1812cs_handsoldering
+    original_filename: mspatz_RFlab_Kicad_footprints.pretty/CHOKE_1812CS_HANDSOLDERING.kicad_mod
+    owner_name: mmmspatz
   oomp_key: oomp_mmmspatz_mspatz_rflab_kicad_footprints_choke_1812cs_handsoldering
+  oomp_key_full: oomp_footprint_mmmspatz_mspatz_rflab_kicad_footprints_choke_1812cs_handsoldering
   oomp_key_simple: mmmspatz_mspatz_rflab_kicad_footprints_choke_1812cs_handsoldering
   owner: mmmspatz
   repo:

@@ -12,14 +12,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/rohbotics_ipc7351_nominal_qfn50p500x500x100_29v1n/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/rohbotics_ipc7351_nominal_qfn50p500x500x100_29v1n/working
-    oomp_doc: footprints/footprints/rohbotics/IPC7351-Nominal/QFN50P500X500X100-29V1N/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/rohbotics/IPC7351-Nominal/QFN50P500X500X100-29V1N/working
     oomp_src_flat: footprints_flat/footprints_flat/rohbotics_ipc7351_nominal_qfn50p500x500x100_29v1n/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/rohbotics_ipc7351_nominal_qfn50p500x500x100_29v1n/working
-    oomp_src_folder: footprints_folder/footprints_folder/rohbotics/IPC7351-Nominal/QFN50P500X500X100-29V1N/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/rohbotics/IPC7351-Nominal/QFN50P500X500X100-29V1N/working
   name: IPC7351-Nominal.pretty
+  oomp:
+    footprint_name: qfn50p500x500x100_29v1n
+    library_name: ipc7351_nominal
+    md5: a869748c1a63fe6ef4b1f3af6b1f3a5b
+    md5_10: a869748c1a
+    md5_5: a8697
+    md5_6: a86974
+    oomp_key: oomp_rohbotics_ipc7351_nominal_qfn50p500x500x100_29v1n
+    oomp_key_extra: oomp_footprint_rohbotics_ipc7351_nominal_qfn50p500x500x100_29v1n
+    oomp_key_full: oomp_footprint_rohbotics_ipc7351_nominal_qfn50p500x500x100_29v1n_a86974
+    oomp_key_simple: rohbotics_ipc7351_nominal_qfn50p500x500x100_29v1n
+    original_filename: IPC7351-Nominal.pretty/QFN50P500X500X100-29V1N.kicad_mod
+    owner_name: rohbotics
   oomp_key: oomp_rohbotics_ipc7351_nominal_qfn50p500x500x100_29v1n
+  oomp_key_full: oomp_footprint_rohbotics_ipc7351_nominal_qfn50p500x500x100_29v1n
   oomp_key_simple: rohbotics_ipc7351_nominal_qfn50p500x500x100_29v1n
   owner: rohbotics
   repo:

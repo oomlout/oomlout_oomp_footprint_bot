@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/arturo182/kicad-modules
     oomp_bot: footprints/arturo182_rf_module_extra_esp32_s2_mini_1/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/arturo182_rf_module_extra_esp32_s2_mini_1/working
-    oomp_doc: footprints/footprints/arturo182/RF_Module_Extra/ESP32-S2-MINI-1/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/arturo182/RF_Module_Extra/ESP32-S2-MINI-1/working
     oomp_src_flat: footprints_flat/footprints_flat/arturo182_rf_module_extra_esp32_s2_mini_1/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/arturo182_rf_module_extra_esp32_s2_mini_1/working
-    oomp_src_folder: footprints_folder/footprints_folder/arturo182/RF_Module_Extra/ESP32-S2-MINI-1/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/arturo182/RF_Module_Extra/ESP32-S2-MINI-1/working
   name: kicad-modules
+  oomp:
+    footprint_name: esp32_s2_mini_1
+    library_name: rf_module_extra
+    md5: cb5e009f13243c4757f60d725e63901e
+    md5_10: cb5e009f13
+    md5_5: cb5e0
+    md5_6: cb5e00
+    oomp_key: oomp_arturo182_rf_module_extra_esp32_s2_mini_1
+    oomp_key_extra: oomp_footprint_arturo182_rf_module_extra_esp32_s2_mini_1
+    oomp_key_full: oomp_footprint_arturo182_rf_module_extra_esp32_s2_mini_1_cb5e00
+    oomp_key_simple: arturo182_rf_module_extra_esp32_s2_mini_1
+    original_filename: kicad-modules/RF_Module_Extra.pretty/ESP32-S2-MINI-1.kicad_mod
+    owner_name: arturo182
   oomp_key: oomp_arturo182_rf_module_extra_esp32_s2_mini_1
+  oomp_key_full: oomp_footprint_arturo182_rf_module_extra_esp32_s2_mini_1
   oomp_key_simple: arturo182_rf_module_extra_esp32_s2_mini_1
   owner: arturo182
   repo:

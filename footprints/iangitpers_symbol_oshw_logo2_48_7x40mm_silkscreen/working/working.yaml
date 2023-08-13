@@ -13,14 +13,24 @@
     github_src_repo: https://github.com/Iangitpers/4a
     oomp_bot: footprints/iangitpers_symbol_oshw_logo2_48_7x40mm_silkscreen/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/iangitpers_symbol_oshw_logo2_48_7x40mm_silkscreen/working
-    oomp_doc: footprints/footprints/Iangitpers/Symbol/OSHW-Logo2_48.7x40mm_SilkScreen/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/Iangitpers/Symbol/OSHW-Logo2_48.7x40mm_SilkScreen/working
     oomp_src_flat: footprints_flat/footprints_flat/iangitpers_symbol_oshw_logo2_48_7x40mm_silkscreen/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/iangitpers_symbol_oshw_logo2_48_7x40mm_silkscreen/working
-    oomp_src_folder: footprints_folder/footprints_folder/Iangitpers/Symbol/OSHW-Logo2_48.7x40mm_SilkScreen/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/Iangitpers/Symbol/OSHW-Logo2_48.7x40mm_SilkScreen/working
   name: 4a
+  oomp:
+    footprint_name: oshw_logo2_48_7x40mm_silkscreen
+    library_name: symbol
+    md5: 10cd9510fe720dfd518e75231ce4e467
+    md5_10: 10cd9510fe
+    md5_5: 10cd9
+    md5_6: 10cd95
+    oomp_key: oomp_iangitpers_symbol_oshw_logo2_48_7x40mm_silkscreen
+    oomp_key_extra: oomp_footprint_iangitpers_symbol_oshw_logo2_48_7x40mm_silkscreen
+    oomp_key_full: oomp_footprint_iangitpers_symbol_oshw_logo2_48_7x40mm_silkscreen_10cd95
+    oomp_key_simple: iangitpers_symbol_oshw_logo2_48_7x40mm_silkscreen
+    original_filename: 4a/Symbol.pretty/OSHW-Logo2_48.7x40mm_SilkScreen.kicad_mod
+    owner_name: iangitpers
   oomp_key: oomp_iangitpers_symbol_oshw_logo2_48_7x40mm_silkscreen
+  oomp_key_full: oomp_footprint_iangitpers_symbol_oshw_logo2_48_7x40mm_silkscreen
   oomp_key_simple: iangitpers_symbol_oshw_logo2_48_7x40mm_silkscreen
   owner: Iangitpers
   repo:

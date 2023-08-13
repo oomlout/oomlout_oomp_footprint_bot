@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/hairymnstr_nathan_tht_alps_rk09_vertical/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/hairymnstr_nathan_tht_alps_rk09_vertical/working
-    oomp_doc: footprints/footprints/hairymnstr/Nathan_THT/ALPS_RK09_VERTICAL/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/hairymnstr/Nathan_THT/ALPS_RK09_VERTICAL/working
     oomp_src_flat: footprints_flat/footprints_flat/hairymnstr_nathan_tht_alps_rk09_vertical/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/hairymnstr_nathan_tht_alps_rk09_vertical/working
-    oomp_src_folder: footprints_folder/footprints_folder/hairymnstr/Nathan_THT/ALPS_RK09_VERTICAL/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/hairymnstr/Nathan_THT/ALPS_RK09_VERTICAL/working
   name: Nathan_THT.pretty
+  oomp:
+    footprint_name: alps_rk09_vertical
+    library_name: nathan_tht
+    md5: e2235593f5c672e2a3e90c48f03525e7
+    md5_10: e2235593f5
+    md5_5: e2235
+    md5_6: e22355
+    oomp_key: oomp_hairymnstr_nathan_tht_alps_rk09_vertical
+    oomp_key_extra: oomp_footprint_hairymnstr_nathan_tht_alps_rk09_vertical
+    oomp_key_full: oomp_footprint_hairymnstr_nathan_tht_alps_rk09_vertical_e22355
+    oomp_key_simple: hairymnstr_nathan_tht_alps_rk09_vertical
+    original_filename: Nathan_THT.pretty/ALPS_RK09_VERTICAL.kicad_mod
+    owner_name: hairymnstr
   oomp_key: oomp_hairymnstr_nathan_tht_alps_rk09_vertical
+  oomp_key_full: oomp_footprint_hairymnstr_nathan_tht_alps_rk09_vertical
   oomp_key_simple: hairymnstr_nathan_tht_alps_rk09_vertical
   owner: hairymnstr
   repo:

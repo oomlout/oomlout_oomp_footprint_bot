@@ -11,14 +11,24 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/celeritous_kicad_lmr14006_module/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/celeritous_kicad_lmr14006_module/working
-    oomp_doc: footprints/footprints/celeritous/KiCad/LMR14006_MODULE/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/celeritous/KiCad/LMR14006_MODULE/working
     oomp_src_flat: footprints_flat/footprints_flat/celeritous_kicad_lmr14006_module/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/celeritous_kicad_lmr14006_module/working
-    oomp_src_folder: footprints_folder/footprints_folder/celeritous/KiCad/LMR14006_MODULE/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/celeritous/KiCad/LMR14006_MODULE/working
   name: KiCad.pretty
+  oomp:
+    footprint_name: lmr14006_module
+    library_name: kicad
+    md5: c964ee1cbd756355942e40fec5554cfa
+    md5_10: c964ee1cbd
+    md5_5: c964e
+    md5_6: c964ee
+    oomp_key: oomp_celeritous_kicad_lmr14006_module
+    oomp_key_extra: oomp_footprint_celeritous_kicad_lmr14006_module
+    oomp_key_full: oomp_footprint_celeritous_kicad_lmr14006_module_c964ee
+    oomp_key_simple: celeritous_kicad_lmr14006_module
+    original_filename: KiCad.pretty/LMR14006_MODULE.kicad_mod
+    owner_name: celeritous
   oomp_key: oomp_celeritous_kicad_lmr14006_module
+  oomp_key_full: oomp_footprint_celeritous_kicad_lmr14006_module
   oomp_key_simple: celeritous_kicad_lmr14006_module
   owner: celeritous
   repo:
