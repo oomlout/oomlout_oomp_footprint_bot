@@ -27,7 +27,7 @@ def main():
                     if count % 5000 == 0:
                         import oom_kicad
                         oom_kicad.push_to_git(count=count )
-
+    oom_kicad.push_to_git(count=count )
 
 
 

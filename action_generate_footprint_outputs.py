@@ -22,6 +22,7 @@ def go_through_directories():
                         #push to git using oom_kicad every 100 files
                         if count % 250 == 0:
                             oom_kicad.push_to_git(count=count)
+    oom_kicad.push_to_git(count=count)
                         
 
 

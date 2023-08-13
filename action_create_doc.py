@@ -3,7 +3,7 @@ import shutil
 import oom_base
 
 def main():
-    overwrite = False
+    overwrite = True
     directory_doc = "c:/gh/oomlout_oomp_footprint_doc"
     #if directory doesn't exist, create it
     if not os.path.exists(directory_doc):
