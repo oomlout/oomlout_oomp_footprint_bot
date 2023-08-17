@@ -12,7 +12,8 @@ def go_through_directories():
                 #if kicad_mod file
                 if file.endswith(".kicad_mod"):
                     filename = os.path.join(root, name, file)
-                    #filter = "kicad_libraries_kicad"
+                    #filter = "kicayyyyyC:\GH\oomlout_oomp_footprint_bot\footprints\alexisvl_ipc7351_least_qfn50p800x800x80_49w\working\working.pdf
+                    # yd_libraries_kicad"
                     filter = "kicad"
                     #filter = ""
                     # yr = "iangitpers"
