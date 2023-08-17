@@ -1,7 +1,10 @@
 import oomlout_oomp_footprint_bot as oom_f_b
 import os
+import oom_kicad
+
 
 def go_through_directories():
+    count = 1
     # go through all directories in projects
     for root, dirs, files in os.walk("footprints"):
         #go through all files
@@ -18,6 +21,14 @@ def go_through_directories():
                 #generate for all with a kicad_pcb file
                 if file.endswith(".kicad_mod"):
                     oom_f_b.generate_readme(filename=filename)
+                    count = count + 1
+                    print(f"{count}  ", end="", flush=True)
+        
+        #push every 5000
+        if count % 5000 == 0:
+            oom_kicad.push_to_git(count=count)
+    
+    oom_kicad.push_to_git(count=count)
 
 
 if __name__ == '__main__':

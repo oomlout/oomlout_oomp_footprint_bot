@@ -13,7 +13,8 @@ def go_through_directories():
                 if file.endswith(".kicad_mod"):
                     filename = os.path.join(root, name, file)
                     #filter = "kicad_libraries_kicad"
-                    filter = ""
+                    filter = "kicad"
+                    #filter = ""
                     # yr = "iangitpers"
                     if filter in filename.lower():
                         print("footprint output generating for: " + filename)
