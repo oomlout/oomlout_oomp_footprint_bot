@@ -1,0 +1,20 @@
+# OOMP Footprint  
+## OLD:1734753-1  by none  
+  
+oomp key: oomp_brunoeagle_1734753_1_1734753_1  
+  
+source repo at: [http://gitlab.com/brunoeagle/kicad-open-modules/blob/master/XH-2AW.kicad_mod](http://gitlab.com/brunoeagle/kicad-open-modules/blob/master/XH-2AW.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | OLD:1734753-1 | 
+| footprint description | None | 
+| number of pads | 8 | 
+| github path | http://github.com/brunoeagle/kicad-open-modules/blob/master/1734753-1.kicad_mod | 
+| oomp key | oomp_brunoeagle_1734753_1_1734753_1 | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_1734753_1_1734753_1/working | 
+## Images  

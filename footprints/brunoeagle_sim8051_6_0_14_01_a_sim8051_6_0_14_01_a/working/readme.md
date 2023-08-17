@@ -1,0 +1,20 @@
+# OOMP Footprint  
+## SIM8051-6-0-14-01-A  by none  
+  
+oomp key: oomp_brunoeagle_sim8051_6_0_14_01_a_sim8051_6_0_14_01_a  
+  
+source repo at: [http://gitlab.com/brunoeagle/kicad-open-modules/blob/master/XH-2AW.kicad_mod](http://gitlab.com/brunoeagle/kicad-open-modules/blob/master/XH-2AW.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | SIM8051-6-0-14-01-A | 
+| footprint description | None | 
+| number of pads | 10 | 
+| github path | http://github.com/brunoeagle/kicad-open-modules/blob/master/SIM8051-6-0-14-01-A.kicad_mod | 
+| oomp key | oomp_brunoeagle_sim8051_6_0_14_01_a_sim8051_6_0_14_01_a | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_sim8051_6_0_14_01_a_sim8051_6_0_14_01_a/working | 
+## Images  

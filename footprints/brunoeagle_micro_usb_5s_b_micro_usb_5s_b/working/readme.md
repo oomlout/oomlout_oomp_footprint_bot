@@ -1,0 +1,20 @@
+# OOMP Footprint  
+## MICRO USB 5S B  by none  
+  
+oomp key: oomp_brunoeagle_micro_usb_5s_b_micro_usb_5s_b  
+  
+source repo at: [http://gitlab.com/brunoeagle/kicad-open-modules/blob/master/XH-2AW.kicad_mod](http://gitlab.com/brunoeagle/kicad-open-modules/blob/master/XH-2AW.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | MICRO USB 5S B | 
+| footprint description | None | 
+| number of pads | 11 | 
+| github path | http://github.com/brunoeagle/kicad-open-modules/blob/master/MICRO USB 5S B.kicad_mod | 
+| oomp key | oomp_brunoeagle_micro_usb_5s_b_micro_usb_5s_b | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_micro_usb_5s_b_micro_usb_5s_b/working | 
+## Images  

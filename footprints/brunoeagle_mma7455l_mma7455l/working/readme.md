@@ -1,0 +1,20 @@
+# OOMP Footprint  
+## OLD:MMA7455L  by none  
+  
+oomp key: oomp_brunoeagle_mma7455l_mma7455l  
+  
+source repo at: [http://gitlab.com/brunoeagle/kicad-open-modules/blob/master/XH-2AW.kicad_mod](http://gitlab.com/brunoeagle/kicad-open-modules/blob/master/XH-2AW.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | OLD:MMA7455L | 
+| footprint description | None | 
+| number of pads | 14 | 
+| github path | http://github.com/brunoeagle/kicad-open-modules/blob/master/MMA7455L.kicad_mod | 
+| oomp key | oomp_brunoeagle_mma7455l_mma7455l | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_mma7455l_mma7455l/working | 
+## Images  

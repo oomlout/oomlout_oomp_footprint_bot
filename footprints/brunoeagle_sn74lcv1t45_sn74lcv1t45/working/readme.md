@@ -1,0 +1,20 @@
+# OOMP Footprint  
+## OLD:SN74LCV1T45  by none  
+  
+oomp key: oomp_brunoeagle_sn74lcv1t45_sn74lcv1t45  
+  
+source repo at: [http://gitlab.com/brunoeagle/kicad-open-modules/blob/master/XH-2AW.kicad_mod](http://gitlab.com/brunoeagle/kicad-open-modules/blob/master/XH-2AW.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | OLD:SN74LCV1T45 | 
+| footprint description | None | 
+| number of pads | 6 | 
+| github path | http://github.com/brunoeagle/kicad-open-modules/blob/master/SN74LCV1T45.kicad_mod | 
+| oomp key | oomp_brunoeagle_sn74lcv1t45_sn74lcv1t45 | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_sn74lcv1t45_sn74lcv1t45/working | 
+## Images  

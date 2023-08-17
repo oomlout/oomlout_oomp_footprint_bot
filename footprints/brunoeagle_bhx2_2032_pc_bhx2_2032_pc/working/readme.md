@@ -1,0 +1,20 @@
+# OOMP Footprint  
+## BHX2-2032-PC  by none  
+  
+oomp key: oomp_brunoeagle_bhx2_2032_pc_bhx2_2032_pc  
+  
+source repo at: [http://gitlab.com/brunoeagle/kicad-open-modules/blob/master/XH-2AW.kicad_mod](http://gitlab.com/brunoeagle/kicad-open-modules/blob/master/XH-2AW.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | BHX2-2032-PC | 
+| footprint description | None | 
+| number of pads | 3 | 
+| github path | http://github.com/brunoeagle/kicad-open-modules/blob/master/BHX2-2032-PC.kicad_mod | 
+| oomp key | oomp_brunoeagle_bhx2_2032_pc_bhx2_2032_pc | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_bhx2_2032_pc_bhx2_2032_pc/working | 
+## Images  
