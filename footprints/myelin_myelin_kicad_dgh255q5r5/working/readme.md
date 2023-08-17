@@ -1,0 +1,20 @@
+# OOMP Footprint  
+## dgh255q5r5  by none  
+  
+oomp key: oomp_myelin_myelin_kicad_dgh255q5r5  
+  
+source repo at: [http://gitlab.com/myelin/myelin-kicad.pretty/blob/master/xilinx_vqg64.kicad_mod](http://gitlab.com/myelin/myelin-kicad.pretty/blob/master/xilinx_vqg64.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | dgh255q5r5 | 
+| footprint description | dgh255q5r5 supercapacitor | 
+| number of pads | 2 | 
+| github path | http://github.com/myelin/myelin-kicad.pretty/blob/master/dgh255q5r5.kicad_mod | 
+| oomp key | oomp_myelin_myelin_kicad_dgh255q5r5 | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/myelin_myelin_kicad_dgh255q5r5/working | 
+## Images  
