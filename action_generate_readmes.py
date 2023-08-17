@@ -5,6 +5,7 @@ import oom_kicad
 
 def go_through_directories():
     count = 1
+    count2 = 1
     # go through all directories in projects
     for root, dirs, files in os.walk("footprints"):
         #go through all files
@@ -27,7 +28,8 @@ def go_through_directories():
         #push every 5000
         if count % 5000 == 0:
             oom_kicad.push_to_git(count=count)
-    
+            count = count + 1
+        
     oom_kicad.push_to_git(count=count)
 
 

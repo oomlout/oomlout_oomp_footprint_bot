@@ -3,6 +3,7 @@ import os
 
 def go_through_directories():
     count = 1
+    count2 = 1
     # go througyh all directories in footprints
     for root, dirs, files in os.walk("footprints"):
         #for each directory
@@ -25,6 +26,11 @@ def go_through_directories():
                         #push to git using oom_kicad every 100 files
                         if count % 250 == 0:
                             oom_kicad.push_to_git(count=count)
+                            count = count + 1
+            count2 = count2 + 1
+            if count % 5000 == 0:
+                #print a dot
+                print(".", end="", flush=True)
     oom_kicad.push_to_git(count=count)
                         
 
