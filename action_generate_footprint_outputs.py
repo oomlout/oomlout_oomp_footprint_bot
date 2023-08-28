@@ -21,11 +21,12 @@ def go_through_directories():
                     #filename = "footprints/alexisvl_ipc7351_least_qfn50p900x900x100_65c/working/working.kicad_mod"
                     #filter = "kicayyyyyC:\GH\oomlout_oomp_footprint_bot\footprints\alexisvl_ipc7351_least_qfn50p800x800x80_49w\working\working.pdf
                     # yd_libraries_kicad"
-                    filter = "kicad_"
+                    filter = "footprints\\kicad_connector"
                     #filter = ""C:\GH\oomlout_oomp_footprint_bot\footprints\alexisvl_ipc7351_least_qfn50p800x800x80_53w4\working\working.pdf
                     
                     # yr = "iangitpers"
-                    if filter in filename.lower():
+                    #if filter in filename.lower():
+                    if filename.lower().startswith(filter.lower()):
                         #print("footprint output generating for: " + filename)
                         counter = oom_kicad.generate_outputs_footprint(filename=filename, computer="surface")
                         count += counter
