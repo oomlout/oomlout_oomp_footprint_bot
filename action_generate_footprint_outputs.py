@@ -22,7 +22,7 @@ def go_through_directories():
                     #filter = "kicayyyyyC:\GH\oomlout_oomp_footprint_bot\footprints\alexisvl_ipc7351_least_qfn50p800x800x80_49w\working\working.pdf
                     # yd_libraries_kicad"
                     filter = "footprints\\kicad_connector"
-                    filter = "footprints\\kicad_switch"
+                    filter = "footprints\\kicad_button"
                     #filter = ""C:\GH\oomlout_oomp_footprint_bot\footprints\alexisvl_ipc7351_least_qfn50p800x800x80_53w4\working\working.pdf
                     
                     # yr = "iangitpers"
