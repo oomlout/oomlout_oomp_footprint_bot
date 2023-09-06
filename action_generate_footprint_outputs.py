@@ -23,9 +23,10 @@ def go_through_directories():
                     # yd_libraries_kicad"
                     
                     filter = "footprints\\kicad_connector"
+                    #filter = "footprints\\kicad_resistor"
                     #filter = "footprints\\kicad_button"
                     #filter = "footprints\\kicad_package"
-                    filter = "footprints\\esden_pkl_led_led_tri_1010"
+                    #filter = "footprints\\esden_pkl_led_led_tri_1010"
 
                     #filter = ""C:\GH\oomlout_oomp_footprint_bot\footprints\alexisvl_ipc7351_least_qfn50p800x800x80_53w4\working\working.pdf
                     
