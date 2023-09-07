@@ -24,6 +24,7 @@ def go_through_directories():
                     
                     filter = "footprints\\kicad_connector"
                     filter = "footprints\\kicad_led"
+                    filter = "oomlout"
                     #filter = "footprints\\kicad_resistor"
                     #filter = "footprints\\kicad_button"
                     #filter = "footprints\\kicad_package"
