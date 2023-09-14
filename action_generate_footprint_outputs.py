@@ -46,7 +46,7 @@ def go_through_directories():
             if count2 % 100 == 0:
                 #print a dot
                 print(".", end="", flush=True)
-    oom_kicad.push_to_git(count=count)
+    #oom_kicad.push_to_git(count=count)
                         
 
 
