@@ -28,7 +28,7 @@ def main():
                     #print a dot every 1000 files
                     if count2 % 100 == 0:
                         print(".", end="", flush=True)
-                    if count % 5000 == 0:
+                    if count % 10000 == 0:
                         import oom_kicad
                         oom_kicad.push_to_git(count=count )
     oom_kicad.push_to_git(count=count )
