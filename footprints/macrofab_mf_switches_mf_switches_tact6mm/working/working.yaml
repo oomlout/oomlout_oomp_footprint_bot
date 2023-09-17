@@ -1,20 +1,20 @@
-- file: EDALibraries/KiCad/Footprints/MF_Switches.pretty/MF_Switches-TACT6MM.kicad_mod
+- file: data//oomlout_oomp_footprint_src/EDALibraries/KiCad/Footprints/MF_Switches.pretty/MF_Switches-TACT6MM.kicad_mod
   footprint:
     description: 'DESCRIPTION: STANDARD 6MM TACT SWITCH PACKAGE.'
     libraryLink: MF_Switches-TACT6MM
     number_of_pads: 4
   footprint_library_directory: footprint_library_owner/MacroFab_EDALibraries
-  footprint_library_directory_flat: footprints_flat/macrofab_mf_switches_mf_switches_tact6mm/working
-  github_path: http://github.com/MacroFab/EDALibraries/blob/master/KiCad/Footprints/MF_Switches.pretty/MF_Switches-TACT6MM.kicad_mod
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/macrofab_mf_switches_mf_switches_tact6mm/working
+  github_path: http://github.com/MacroFab/EDALibraries/blob/master/tmp/data//oomlout_oomp_footprint_src/KiCad/Footprints/MF_Switches.pretty/MF_Switches-TACT6MM.kicad_mod
   links:
     github_owner: MacroFab
     github_repo_name: EDALibraries
-    github_src: http://github.com/MacroFab/EDALibraries/blob/master/KiCad/Footprints/MF_Switches.pretty/MF_Switches-TACT6MM.kicad_mod
+    github_src: http://github.com/MacroFab/EDALibraries/blob/master/tmp/data//oomlout_oomp_footprint_src/KiCad/Footprints/MF_Switches.pretty/MF_Switches-TACT6MM.kicad_mod
     github_src_repo: https://github.com/MacroFab/EDALibraries
-    oomp_bot: footprints/macrofab_mf_switches_mf_switches_tact6mm/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/macrofab_mf_switches_mf_switches_tact6mm/working
-    oomp_src_flat: footprints_flat/footprints_flat/macrofab_mf_switches_mf_switches_tact6mm/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/macrofab_mf_switches_mf_switches_tact6mm/working
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/macrofab_mf_switches_mf_switches_tact6mm/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/macrofab_mf_switches_mf_switches_tact6mm/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/macrofab_mf_switches_mf_switches_tact6mm/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/macrofab_mf_switches_mf_switches_tact6mm/working
   name: EDALibraries
   oomp:
     footprint_name: mf_switches_tact6mm
@@ -27,7 +27,7 @@
     oomp_key_extra: oomp_footprint_macrofab_mf_switches_mf_switches_tact6mm
     oomp_key_full: oomp_footprint_macrofab_mf_switches_mf_switches_tact6mm_9b2d53
     oomp_key_simple: macrofab_mf_switches_mf_switches_tact6mm
-    original_filename: EDALibraries/KiCad/Footprints/MF_Switches.pretty/MF_Switches-TACT6MM.kicad_mod
+    original_filename: data//oomlout_oomp_footprint_src/EDALibraries/KiCad/Footprints/MF_Switches.pretty/MF_Switches-TACT6MM.kicad_mod
     owner_name: macrofab
   oomp_key: oomp_macrofab_mf_switches_mf_switches_tact6mm
   oomp_key_full: oomp_footprint_macrofab_mf_switches_mf_switches_tact6mm

@@ -1,29 +1,20 @@
-# LivaModules.pretty by micliv  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://github.com/micliv/LivaModules.pretty  
-The original footprint can be found at:
-http://github.com/micliv/LivaModules.pretty/blob/master/WS2812B.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: None  
-* libraryLink: Series100_SPDT  
-* number_of_pads: 3  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | LivaModules.pretty/Series100_SPDT.kicad_mod |  
-| footprint | {'description': None, 'libraryLink': 'Series100_SPDT', 'number_of_pads': 3} |  
-| footprint_library_directory | footprint_library_owner/micliv_LivaModules.pretty |  
-| footprint_library_directory_flat | footprints_flat/micliv_livamodules_series100_spdt/working |  
-| github_path | http://github.com/micliv/LivaModules.pretty/blob/master/Series100_SPDT.kicad_mod |  
-| links | {'github_owner': 'micliv', 'github_repo_name': 'LivaModules.pretty', 'github_src': 'http://github.com/micliv/LivaModules.pretty/blob/master/WS2812B.kicad_mod', 'github_src_repo': 'https://github.com/micliv/LivaModules.pretty', 'oomp_bot': 'footprints/micliv_livamodules_series100_spdt/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/micliv_livamodules_series100_spdt/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/micliv_livamodules_series100_spdt/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/micliv_livamodules_series100_spdt/working'} |  
-| name | LivaModules.pretty |  
-| oomp | {'footprint_name': 'series100_spdt', 'library_name': 'livamodules', 'md5': '556e5c2ab3dc276d203b4b9f22d9f83a', 'md5_10': '556e5c2ab3', 'md5_5': '556e5', 'md5_6': '556e5c', 'oomp_key': 'oomp_micliv_livamodules_series100_spdt', 'oomp_key_extra': 'oomp_footprint_micliv_livamodules_series100_spdt', 'oomp_key_full': 'oomp_footprint_micliv_livamodules_series100_spdt_556e5c', 'oomp_key_simple': 'micliv_livamodules_series100_spdt', 'original_filename': 'LivaModules.pretty/Series100_SPDT.kicad_mod', 'owner_name': 'micliv'} |  
-| oomp_key | oomp_micliv_livamodules_series100_spdt |  
-| oomp_key_full | oomp_footprint_micliv_livamodules_series100_spdt |  
-| oomp_key_simple | micliv_livamodules_series100_spdt |  
-| owner | micliv |  
-| repo | {'allow_forking': True, 'archive_url': 'https://api.github.com/repos/micliv/LivaModules.pretty/{archive_format}{/ref}', 'archived': False, 'assignees_url': 'https://api.github.com/repos/micliv/LivaModules.pretty/assignees{/user}', 'blobs_url': 'https://api.github.com/repos/micliv/LivaModules.pretty/git/blobs{/sha}', 'branches_url': 'https://api.github.com/repos/micliv/LivaModules.pretty/branches{/branch}', 'clone_url': 'https://github.com/micliv/LivaModules.pretty.git', 'collaborators_url': 'https://api.github.com/repos/micliv/LivaModules.pretty/collaborators{/collaborator}', 'comments_url': 'https://api.github.com/repos/micliv/LivaModules.pretty/comments{/number}', 'commits_url': 'https://api.github.com/repos/micliv/LivaModules.pretty/commits{/sha}', 'compare_url': 'https://api.github.com/repos/micliv/LivaModules.pretty/compare/{base}...{head}', 'contents_url': 'https://api.github.com/repos/micliv/LivaModules.pretty/contents/{+path}', 'contributors_url': 'https://api.github.com/repos/micliv/LivaModules.pretty/contributors', 'created_at': '2016-12-29T15:51:46Z', 'default_branch': 'master', 'deployments_url': 'https://api.github.com/repos/micliv/LivaModules.pretty/deployments', 'description': 'My Kicad footprints', 'disabled': False, 'downloads_url': 'https://api.github.com/repos/micliv/LivaModules.pretty/downloads', 'events_url': 'https://api.github.com/repos/micliv/LivaModules.pretty/events', 'fork': False, 'forks': 0, 'forks_count': 0, 'forks_url': 'https://api.github.com/repos/micliv/LivaModules.pretty/forks', 'full_name': 'micliv/LivaModules.pretty', 'git_commits_url': 'https://api.github.com/repos/micliv/LivaModules.pretty/git/commits{/sha}', 'git_refs_url': 'https://api.github.com/repos/micliv/LivaModules.pretty/git/refs{/sha}', 'git_tags_url': 'https://api.github.com/repos/micliv/LivaModules.pretty/git/tags{/sha}', 'git_url': 'git://github.com/micliv/LivaModules.pretty.git', 'has_discussions': False, 'has_downloads': True, 'has_issues': True, 'has_pages': False, 'has_projects': True, 'has_wiki': True, 'homepage': None, 'hooks_url': 'https://api.github.com/repos/micliv/LivaModules.pretty/hooks', 'html_url': 'https://github.com/micliv/LivaModules.pretty', 'id': 77622904, 'is_template': False, 'issue_comment_url': 'https://api.github.com/repos/micliv/LivaModules.pretty/issues/comments{/number}', 'issue_events_url': 'https://api.github.com/repos/micliv/LivaModules.pretty/issues/events{/number}', 'issues_url': 'https://api.github.com/repos/micliv/LivaModules.pretty/issues{/number}', 'keys_url': 'https://api.github.com/repos/micliv/LivaModules.pretty/keys{/key_id}', 'labels_url': 'https://api.github.com/repos/micliv/LivaModules.pretty/labels{/name}', 'language': None, 'languages_url': 'https://api.github.com/repos/micliv/LivaModules.pretty/languages', 'license': None, 'merges_url': 'https://api.github.com/repos/micliv/LivaModules.pretty/merges', 'milestones_url': 'https://api.github.com/repos/micliv/LivaModules.pretty/milestones{/number}', 'mirror_url': None, 'name': 'LivaModules.pretty', 'network_count': 0, 'node_id': 'MDEwOlJlcG9zaXRvcnk3NzYyMjkwNA==', 'notifications_url': 'https://api.github.com/repos/micliv/LivaModules.pretty/notifications{?since,all,participating}', 'open_issues': 0, 'open_issues_count': 0, 'owner': {'avatar_url': 'https://avatars.githubusercontent.com/u/1717212?v=4', 'events_url': 'https://api.github.com/users/micliv/events{/privacy}', 'followers_url': 'https://api.github.com/users/micliv/followers', 'following_url': 'https://api.github.com/users/micliv/following{/other_user}', 'gists_url': 'https://api.github.com/users/micliv/gists{/gist_id}', 'gravatar_id': '', 'html_url': 'https://github.com/micliv', 'id': 1717212, 'login': 'micliv', 'node_id': 'MDQ6VXNlcjE3MTcyMTI=', 'organizations_url': 'https://api.github.com/users/micliv/orgs', 'received_events_url': 'https://api.github.com/users/micliv/received_events', 'repos_url': 'https://api.github.com/users/micliv/repos', 'site_admin': False, 'starred_url': 'https://api.github.com/users/micliv/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/micliv/subscriptions', 'type': 'User', 'url': 'https://api.github.com/users/micliv'}, 'private': False, 'pulls_url': 'https://api.github.com/repos/micliv/LivaModules.pretty/pulls{/number}', 'pushed_at': '2020-04-20T12:59:35Z', 'releases_url': 'https://api.github.com/repos/micliv/LivaModules.pretty/releases{/id}', 'size': 5, 'ssh_url': 'git@github.com:micliv/LivaModules.pretty.git', 'stargazers_count': 0, 'stargazers_url': 'https://api.github.com/repos/micliv/LivaModules.pretty/stargazers', 'statuses_url': 'https://api.github.com/repos/micliv/LivaModules.pretty/statuses/{sha}', 'subscribers_count': 1, 'subscribers_url': 'https://api.github.com/repos/micliv/LivaModules.pretty/subscribers', 'subscription_url': 'https://api.github.com/repos/micliv/LivaModules.pretty/subscription', 'svn_url': 'https://github.com/micliv/LivaModules.pretty', 'tags_url': 'https://api.github.com/repos/micliv/LivaModules.pretty/tags', 'teams_url': 'https://api.github.com/repos/micliv/LivaModules.pretty/teams', 'temp_clone_token': None, 'topics': [], 'trees_url': 'https://api.github.com/repos/micliv/LivaModules.pretty/git/trees{/sha}', 'updated_at': '2020-04-20T12:59:37Z', 'url': 'https://api.github.com/repos/micliv/LivaModules.pretty', 'visibility': 'public', 'watchers': 0, 'watchers_count': 0, 'web_commit_signoff_required': False} |  
-| url | http://github.com/micliv/LivaModules.pretty |  
-
+# OOMP Footprint  
+## Series100_SPDT  by micliv  
+  
+oomp key: oomp_micliv_livamodules_series100_spdt  
+  
+source repo at: [http://github.com/micliv/LivaModules.pretty/blob/master/WS2812B.kicad_mod](http://github.com/micliv/LivaModules.pretty/blob/master/WS2812B.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | Series100_SPDT | 
+| footprint description | None | 
+| number of pads | 3 | 
+| github path | http://github.com/micliv/LivaModules.pretty/blob/master/Series100_SPDT.kicad_mod | 
+| oomp key | oomp_micliv_livamodules_series100_spdt | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/micliv_livamodules_series100_spdt/working | 
+## Images  

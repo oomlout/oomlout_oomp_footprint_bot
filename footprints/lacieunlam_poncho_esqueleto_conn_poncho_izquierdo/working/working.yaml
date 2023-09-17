@@ -1,20 +1,20 @@
-- file: Poncho_Esqueleto.pretty/Conn_Poncho_Izquierdo.kicad_mod
+- file: data//oomlout_oomp_footprint_src/Poncho_Esqueleto.pretty/Conn_Poncho_Izquierdo.kicad_mod
   footprint:
     description: null
     libraryLink: Conn_Poncho_Izquierdo
     number_of_pads: 40
   footprint_library_directory: footprint_library_owner/LacieUnlam_Poncho_Esqueleto.pretty
-  footprint_library_directory_flat: footprints_flat/lacieunlam_poncho_esqueleto_conn_poncho_izquierdo/working
-  github_path: http://github.com/LacieUnlam/Poncho_Esqueleto.pretty/blob/master/Conn_Poncho_Izquierdo.kicad_mod
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/lacieunlam_poncho_esqueleto_conn_poncho_izquierdo/working
+  github_path: http://github.com/LacieUnlam/Poncho_Esqueleto.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Conn_Poncho_Izquierdo.kicad_mod
   links:
     github_owner: LacieUnlam
     github_repo_name: Poncho_Esqueleto.pretty
-    github_src: http://github.com/LacieUnlam/Poncho_Esqueleto.pretty/blob/master/Plantilla_EDU-CIAA.kicad_mod
+    github_src: http://github.com/LacieUnlam/Poncho_Esqueleto.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Plantilla_EDU-CIAA.kicad_mod
     github_src_repo: https://github.com/LacieUnlam/Poncho_Esqueleto.pretty
-    oomp_bot: footprints/lacieunlam_poncho_esqueleto_conn_poncho_izquierdo/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/lacieunlam_poncho_esqueleto_conn_poncho_izquierdo/working
-    oomp_src_flat: footprints_flat/footprints_flat/lacieunlam_poncho_esqueleto_conn_poncho_izquierdo/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/lacieunlam_poncho_esqueleto_conn_poncho_izquierdo/working
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/lacieunlam_poncho_esqueleto_conn_poncho_izquierdo/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/lacieunlam_poncho_esqueleto_conn_poncho_izquierdo/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/lacieunlam_poncho_esqueleto_conn_poncho_izquierdo/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/lacieunlam_poncho_esqueleto_conn_poncho_izquierdo/working
   name: Poncho_Esqueleto.pretty
   oomp:
     footprint_name: conn_poncho_izquierdo
@@ -27,7 +27,7 @@
     oomp_key_extra: oomp_footprint_lacieunlam_poncho_esqueleto_conn_poncho_izquierdo
     oomp_key_full: oomp_footprint_lacieunlam_poncho_esqueleto_conn_poncho_izquierdo_07c43c
     oomp_key_simple: lacieunlam_poncho_esqueleto_conn_poncho_izquierdo
-    original_filename: Poncho_Esqueleto.pretty/Conn_Poncho_Izquierdo.kicad_mod
+    original_filename: data//oomlout_oomp_footprint_src/Poncho_Esqueleto.pretty/Conn_Poncho_Izquierdo.kicad_mod
     owner_name: lacieunlam
   oomp_key: oomp_lacieunlam_poncho_esqueleto_conn_poncho_izquierdo
   oomp_key_full: oomp_footprint_lacieunlam_poncho_esqueleto_conn_poncho_izquierdo

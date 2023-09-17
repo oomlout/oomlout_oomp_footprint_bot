@@ -1,20 +1,20 @@
-- file: awallinKiCadFootprints.pretty/Oscillator_SMD_VCXO_Abracon_ABLNO.kicad_mod
+- file: data//oomlout_oomp_footprint_src/awallinKiCadFootprints.pretty/Oscillator_SMD_VCXO_Abracon_ABLNO.kicad_mod
   footprint:
     description: https://abracon.com/Precisiontiming/ABLNO.pdf
     libraryLink: Oscillator_SMD_VCXO_Abracon_ABLNO
     number_of_pads: 4
   footprint_library_directory: footprint_library_owner/aewallin_awallinKiCadFootprints.pretty
-  footprint_library_directory_flat: footprints_flat/aewallin_awallinkicadfootprints_oscillator_smd_vcxo_abracon_ablno/working
-  github_path: http://github.com/aewallin/awallinKiCadFootprints.pretty/blob/master/Oscillator_SMD_VCXO_Abracon_ABLNO.kicad_mod
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/aewallin_awallinkicadfootprints_oscillator_smd_vcxo_abracon_ablno/working
+  github_path: http://github.com/aewallin/awallinKiCadFootprints.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Oscillator_SMD_VCXO_Abracon_ABLNO.kicad_mod
   links:
     github_owner: aewallin
     github_repo_name: awallinKiCadFootprints.pretty
-    github_src: http://github.com/aewallin/awallinKiCadFootprints.pretty/blob/master/Y3split_0.350mm.kicad_mod
+    github_src: http://github.com/aewallin/awallinKiCadFootprints.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Y3split_0.350mm.kicad_mod
     github_src_repo: https://github.com/aewallin/awallinKiCadFootprints.pretty
-    oomp_bot: footprints/aewallin_awallinkicadfootprints_oscillator_smd_vcxo_abracon_ablno/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/aewallin_awallinkicadfootprints_oscillator_smd_vcxo_abracon_ablno/working
-    oomp_src_flat: footprints_flat/footprints_flat/aewallin_awallinkicadfootprints_oscillator_smd_vcxo_abracon_ablno/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/aewallin_awallinkicadfootprints_oscillator_smd_vcxo_abracon_ablno/working
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/aewallin_awallinkicadfootprints_oscillator_smd_vcxo_abracon_ablno/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/aewallin_awallinkicadfootprints_oscillator_smd_vcxo_abracon_ablno/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/aewallin_awallinkicadfootprints_oscillator_smd_vcxo_abracon_ablno/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/aewallin_awallinkicadfootprints_oscillator_smd_vcxo_abracon_ablno/working
   name: awallinKiCadFootprints.pretty
   oomp:
     footprint_name: oscillator_smd_vcxo_abracon_ablno
@@ -27,7 +27,7 @@
     oomp_key_extra: oomp_footprint_aewallin_awallinkicadfootprints_oscillator_smd_vcxo_abracon_ablno
     oomp_key_full: oomp_footprint_aewallin_awallinkicadfootprints_oscillator_smd_vcxo_abracon_ablno_adac5e
     oomp_key_simple: aewallin_awallinkicadfootprints_oscillator_smd_vcxo_abracon_ablno
-    original_filename: awallinKiCadFootprints.pretty/Oscillator_SMD_VCXO_Abracon_ABLNO.kicad_mod
+    original_filename: data//oomlout_oomp_footprint_src/awallinKiCadFootprints.pretty/Oscillator_SMD_VCXO_Abracon_ABLNO.kicad_mod
     owner_name: aewallin
   oomp_key: oomp_aewallin_awallinkicadfootprints_oscillator_smd_vcxo_abracon_ablno
   oomp_key_full: oomp_footprint_aewallin_awallinkicadfootprints_oscillator_smd_vcxo_abracon_ablno

@@ -1,29 +1,20 @@
-# libraries/kicad-footprints/ by kicad  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: 35-lead TH, EasyPIM 1B, https://www.infineon.com/dgdl/Infineon-FP10R06W1E3-DS-v02_01-en_de.pdf?fileId=db3a304412b407950112b43312285a63  
-* libraryLink: Infineon_EasyPIM-1B  
-* number_of_pads: 28  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | libraries/kicad-footprints/Transistor_Power_Module.pretty/Infineon_EasyPIM-1B.kicad_mod |  
-| footprint | {'description': '35-lead TH, EasyPIM 1B, https://www.infineon.com/dgdl/Infineon-FP10R06W1E3-DS-v02_01-en_de.pdf?fileId=db3a304412b407950112b43312285a63', 'libraryLink': 'Infineon_EasyPIM-1B', 'number_of_pads': 28} |  
-| footprint_library_directory | footprint_library_owner/kicad_libraries/kicad-footprints/ |  
-| footprint_library_directory_flat | footprints_flat/kicad_transistor_power_module_infineon_easypim_1b/working |  
-| github_path | http://github.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Transistor_Power_Module.pretty/Infineon_EasyPIM-1B.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/kicad_transistor_power_module_infineon_easypim_1b/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_transistor_power_module_infineon_easypim_1b/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/kicad_transistor_power_module_infineon_easypim_1b/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_transistor_power_module_infineon_easypim_1b/working'} |  
-| name | libraries/kicad-footprints/ |  
-| oomp | {'footprint_name': 'infineon_easypim_1b', 'library_name': 'transistor_power_module', 'md5': '9f68166f60fd76ae61f66156bd07ec7c', 'md5_10': '9f68166f60', 'md5_5': '9f681', 'md5_6': '9f6816', 'oomp_key': 'oomp_kicad_transistor_power_module_infineon_easypim_1b', 'oomp_key_extra': 'oomp_footprint_kicad_transistor_power_module_infineon_easypim_1b', 'oomp_key_full': 'oomp_footprint_kicad_transistor_power_module_infineon_easypim_1b_9f6816', 'oomp_key_simple': 'kicad_transistor_power_module_infineon_easypim_1b', 'original_filename': 'libraries/kicad-footprints/Transistor_Power_Module.pretty/Infineon_EasyPIM-1B.kicad_mod', 'owner_name': 'kicad'} |  
-| oomp_key | oomp_kicad_transistor_power_module_infineon_easypim_1b |  
-| oomp_key_full | oomp_footprint_kicad_transistor_power_module_infineon_easypim_1b |  
-| oomp_key_simple | kicad_transistor_power_module_infineon_easypim_1b |  
-| owner | kicad |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | https://gitlab.com/kicad/libraries/kicad-footprints |  
-
+# OOMP Footprint  
+## Infineon_EasyPIM-1B  by none  
+  
+oomp key: oomp_kicad_transistor_power_module_infineon_easypim_1b  
+  
+source repo at: [http://gitlab.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod](http://gitlab.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | Infineon_EasyPIM-1B | 
+| footprint description | 35-lead TH, EasyPIM 1B, https://www.infineon.com/dgdl/Infineon-FP10R06W1E3-DS-v02_01-en_de.pdf?fileId=db3a304412b407950112b43312285a63 | 
+| number of pads | 28 | 
+| github path | http://github.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Transistor_Power_Module.pretty/Infineon_EasyPIM-1B.kicad_mod | 
+| oomp key | oomp_kicad_transistor_power_module_infineon_easypim_1b | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_transistor_power_module_infineon_easypim_1b/working | 
+## Images  

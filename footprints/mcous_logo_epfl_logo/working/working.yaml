@@ -1,20 +1,20 @@
-- file: kicad-lib/footprints/_logo.pretty/EPFL-LOGO.kicad_mod
+- file: data//oomlout_oomp_footprint_src/kicad-lib/footprints/_logo.pretty/EPFL-LOGO.kicad_mod
   footprint:
     description: null
     libraryLink: LOGO
     number_of_pads: 0
   footprint_library_directory: footprint_library_owner/mcous_kicad-lib
-  footprint_library_directory_flat: footprints_flat/mcous_logo_epfl_logo/working
-  github_path: http://github.com/mcous/kicad-lib/blob/master/footprints/_logo.pretty/EPFL-LOGO.kicad_mod
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/mcous_logo_epfl_logo/working
+  github_path: http://github.com/mcous/kicad-lib/blob/master/tmp/data//oomlout_oomp_footprint_src/footprints/_logo.pretty/EPFL-LOGO.kicad_mod
   links:
     github_owner: mcous
     github_repo_name: kicad-lib
-    github_src: http://github.com/mcous/kicad-lib/blob/master/footprints/_switches.pretty/CFPA-1FB4-A2T.kicad_mod
+    github_src: http://github.com/mcous/kicad-lib/blob/master/tmp/data//oomlout_oomp_footprint_src/footprints/_switches.pretty/CFPA-1FB4-A2T.kicad_mod
     github_src_repo: https://github.com/mcous/kicad-lib
-    oomp_bot: footprints/mcous_logo_epfl_logo/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/mcous_logo_epfl_logo/working
-    oomp_src_flat: footprints_flat/footprints_flat/mcous_logo_epfl_logo/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/mcous_logo_epfl_logo/working
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/mcous_logo_epfl_logo/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/mcous_logo_epfl_logo/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/mcous_logo_epfl_logo/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/mcous_logo_epfl_logo/working
   name: kicad-lib
   oomp:
     footprint_name: epfl_logo
@@ -27,7 +27,7 @@
     oomp_key_extra: oomp_footprint_mcous_logo_epfl_logo
     oomp_key_full: oomp_footprint_mcous_logo_epfl_logo_c1133e
     oomp_key_simple: mcous_logo_epfl_logo
-    original_filename: kicad-lib/footprints/_logo.pretty/EPFL-LOGO.kicad_mod
+    original_filename: data//oomlout_oomp_footprint_src/kicad-lib/footprints/_logo.pretty/EPFL-LOGO.kicad_mod
     owner_name: mcous
   oomp_key: oomp_mcous_logo_epfl_logo
   oomp_key_full: oomp_footprint_mcous_logo_epfl_logo
@@ -55,8 +55,8 @@
     downloads_url: https://api.github.com/repos/mcous/kicad-lib/downloads
     events_url: https://api.github.com/repos/mcous/kicad-lib/events
     fork: false
-    forks: 42
-    forks_count: 42
+    forks: 43
+    forks_count: 43
     forks_url: https://api.github.com/repos/mcous/kicad-lib/forks
     full_name: mcous/kicad-lib
     git_commits_url: https://api.github.com/repos/mcous/kicad-lib/git/commits{/sha}
@@ -91,11 +91,11 @@
     milestones_url: https://api.github.com/repos/mcous/kicad-lib/milestones{/number}
     mirror_url: null
     name: kicad-lib
-    network_count: 42
+    network_count: 43
     node_id: MDEwOlJlcG9zaXRvcnk5ODU5ODg4
     notifications_url: https://api.github.com/repos/mcous/kicad-lib/notifications{?since,all,participating}
-    open_issues: 3
-    open_issues_count: 3
+    open_issues: 0
+    open_issues_count: 0
     owner:
       avatar_url: https://avatars.githubusercontent.com/u/2963448?v=4
       events_url: https://api.github.com/users/mcous/events{/privacy}

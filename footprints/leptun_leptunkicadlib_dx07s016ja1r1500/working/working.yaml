@@ -1,21 +1,21 @@
-- file: leptunKicadLib.pretty/DX07S016JA1R1500.kicad_mod
+- file: data//oomlout_oomp_footprint_src/leptunKicadLib.pretty/DX07S016JA1R1500.kicad_mod
   footprint:
     description: null
     libraryLink: DX07S016JA1R1500
     number_of_pads: 25
   footprint_library_directory: footprint_library_owner/leptun_leptunKicadLib.pretty
-  footprint_library_directory_flat: footprints_flat/leptun_leptunkicadlib_dx07s016ja1r1500/working
-  github_path: http://github.com/leptun/leptunKicadLib.pretty/blob/master/DX07S016JA1R1500.kicad_mod
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/leptun_leptunkicadlib_dx07s016ja1r1500/working
+  github_path: http://github.com/leptun/leptunKicadLib.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/DX07S016JA1R1500.kicad_mod
   links:
     github_owner: leptun
     github_repo_name: leptunKicadLib.pretty
-    github_src: http://github.com/leptun/leptunKicadLib.pretty/blob/master/Waveshare_3.2inch
+    github_src: http://github.com/leptun/leptunKicadLib.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Waveshare_3.2inch
       320x240 Touch LCD (C).kicad_mod
     github_src_repo: https://github.com/leptun/leptunKicadLib.pretty
-    oomp_bot: footprints/leptun_leptunkicadlib_dx07s016ja1r1500/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/leptun_leptunkicadlib_dx07s016ja1r1500/working
-    oomp_src_flat: footprints_flat/footprints_flat/leptun_leptunkicadlib_dx07s016ja1r1500/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/leptun_leptunkicadlib_dx07s016ja1r1500/working
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/leptun_leptunkicadlib_dx07s016ja1r1500/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/leptun_leptunkicadlib_dx07s016ja1r1500/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/leptun_leptunkicadlib_dx07s016ja1r1500/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/leptun_leptunkicadlib_dx07s016ja1r1500/working
   name: leptunKicadLib.pretty
   oomp:
     footprint_name: dx07s016ja1r1500
@@ -28,7 +28,7 @@
     oomp_key_extra: oomp_footprint_leptun_leptunkicadlib_dx07s016ja1r1500
     oomp_key_full: oomp_footprint_leptun_leptunkicadlib_dx07s016ja1r1500_c57a92
     oomp_key_simple: leptun_leptunkicadlib_dx07s016ja1r1500
-    original_filename: leptunKicadLib.pretty/DX07S016JA1R1500.kicad_mod
+    original_filename: data//oomlout_oomp_footprint_src/leptunKicadLib.pretty/DX07S016JA1R1500.kicad_mod
     owner_name: leptun
   oomp_key: oomp_leptun_leptunkicadlib_dx07s016ja1r1500
   oomp_key_full: oomp_footprint_leptun_leptunkicadlib_dx07s016ja1r1500
@@ -113,9 +113,9 @@
       url: https://api.github.com/users/leptun
     private: false
     pulls_url: https://api.github.com/repos/leptun/leptunKicadLib.pretty/pulls{/number}
-    pushed_at: '2022-06-13T18:33:46Z'
+    pushed_at: '2023-09-09T17:33:56Z'
     releases_url: https://api.github.com/repos/leptun/leptunKicadLib.pretty/releases{/id}
-    size: 1354
+    size: 3566
     ssh_url: git@github.com:leptun/leptunKicadLib.pretty.git
     stargazers_count: 0
     stargazers_url: https://api.github.com/repos/leptun/leptunKicadLib.pretty/stargazers

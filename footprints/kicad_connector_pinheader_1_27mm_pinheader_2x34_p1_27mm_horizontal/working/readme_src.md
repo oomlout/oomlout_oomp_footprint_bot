@@ -1,29 +1,20 @@
-# libraries/kicad-footprints/ by kicad  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: Through hole angled pin header, 2x34, 1.27mm pitch, 4.0mm pin length, double rows  
-* libraryLink: PinHeader_2x34_P1.27mm_Horizontal  
-* number_of_pads: 68  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | libraries/kicad-footprints/Connector_PinHeader_1.27mm.pretty/PinHeader_2x34_P1.27mm_Horizontal.kicad_mod |  
-| footprint | {'description': 'Through hole angled pin header, 2x34, 1.27mm pitch, 4.0mm pin length, double rows', 'libraryLink': 'PinHeader_2x34_P1.27mm_Horizontal', 'number_of_pads': 68} |  
-| footprint_library_directory | footprint_library_owner/kicad_libraries/kicad-footprints/ |  
-| footprint_library_directory_flat | footprints_flat/kicad_connector_pinheader_1_27mm_pinheader_2x34_p1_27mm_horizontal/working |  
-| github_path | http://github.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Connector_PinHeader_1.27mm.pretty/PinHeader_2x34_P1.27mm_Horizontal.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/kicad_connector_pinheader_1_27mm_pinheader_2x34_p1_27mm_horizontal/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_connector_pinheader_1_27mm_pinheader_2x34_p1_27mm_horizontal/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/kicad_connector_pinheader_1_27mm_pinheader_2x34_p1_27mm_horizontal/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_connector_pinheader_1_27mm_pinheader_2x34_p1_27mm_horizontal/working'} |  
-| name | libraries/kicad-footprints/ |  
-| oomp | {'footprint_name': 'pinheader_2x34_p1_27mm_horizontal', 'library_name': 'connector_pinheader_1_27mm', 'md5': 'e201ad4e8b98f560243d181d9fe76d4c', 'md5_10': 'e201ad4e8b', 'md5_5': 'e201a', 'md5_6': 'e201ad', 'oomp_key': 'oomp_kicad_connector_pinheader_1_27mm_pinheader_2x34_p1_27mm_horizontal', 'oomp_key_extra': 'oomp_footprint_kicad_connector_pinheader_1_27mm_pinheader_2x34_p1_27mm_horizontal', 'oomp_key_full': 'oomp_footprint_kicad_connector_pinheader_1_27mm_pinheader_2x34_p1_27mm_horizontal_e201ad', 'oomp_key_simple': 'kicad_connector_pinheader_1_27mm_pinheader_2x34_p1_27mm_horizontal', 'original_filename': 'libraries/kicad-footprints/Connector_PinHeader_1.27mm.pretty/PinHeader_2x34_P1.27mm_Horizontal.kicad_mod', 'owner_name': 'kicad'} |  
-| oomp_key | oomp_kicad_connector_pinheader_1_27mm_pinheader_2x34_p1_27mm_horizontal |  
-| oomp_key_full | oomp_footprint_kicad_connector_pinheader_1_27mm_pinheader_2x34_p1_27mm_horizontal |  
-| oomp_key_simple | kicad_connector_pinheader_1_27mm_pinheader_2x34_p1_27mm_horizontal |  
-| owner | kicad |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | https://gitlab.com/kicad/libraries/kicad-footprints |  
-
+# OOMP Footprint  
+## PinHeader_2x34_P1.27mm_Horizontal  by none  
+  
+oomp key: oomp_kicad_connector_pinheader_1_27mm_pinheader_2x34_p1_27mm_horizontal  
+  
+source repo at: [http://gitlab.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod](http://gitlab.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | PinHeader_2x34_P1.27mm_Horizontal | 
+| footprint description | Through hole angled pin header, 2x34, 1.27mm pitch, 4.0mm pin length, double rows | 
+| number of pads | 68 | 
+| github path | http://github.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Connector_PinHeader_1.27mm.pretty/PinHeader_2x34_P1.27mm_Horizontal.kicad_mod | 
+| oomp key | oomp_kicad_connector_pinheader_1_27mm_pinheader_2x34_p1_27mm_horizontal | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_connector_pinheader_1_27mm_pinheader_2x34_p1_27mm_horizontal/working | 
+## Images  

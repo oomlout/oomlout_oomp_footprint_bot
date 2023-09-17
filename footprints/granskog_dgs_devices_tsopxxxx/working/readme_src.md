@@ -1,29 +1,20 @@
-# DGS_Devices.pretty by granskog  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/granskog/DGS_Devices.pretty/blob/master/TSOPXXXX.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: TSOPXXXX family of IR remote rontrol receivers.  
-* libraryLink: TSOPXXXX  
-* number_of_pads: 3  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | DGS_Devices.pretty/TSOPXXXX.kicad_mod |  
-| footprint | {'description': 'TSOPXXXX family of IR remote rontrol receivers.', 'libraryLink': 'TSOPXXXX', 'number_of_pads': 3} |  
-| footprint_library_directory | footprint_library_owner/granskog_DGS_Devices.pretty |  
-| footprint_library_directory_flat | footprints_flat/granskog_dgs_devices_tsopxxxx/working |  
-| github_path | http://github.com/granskog/DGS_Devices.pretty/blob/master/TSOPXXXX.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/granskog/DGS_Devices.pretty/blob/master/TSOPXXXX.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/granskog_dgs_devices_tsopxxxx/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/granskog_dgs_devices_tsopxxxx/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/granskog_dgs_devices_tsopxxxx/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/granskog_dgs_devices_tsopxxxx/working'} |  
-| name | DGS_Devices.pretty |  
-| oomp | {'footprint_name': 'tsopxxxx', 'library_name': 'dgs_devices', 'md5': '334fc6147c834c546a63b40f66db05f2', 'md5_10': '334fc6147c', 'md5_5': '334fc', 'md5_6': '334fc6', 'oomp_key': 'oomp_granskog_dgs_devices_tsopxxxx', 'oomp_key_extra': 'oomp_footprint_granskog_dgs_devices_tsopxxxx', 'oomp_key_full': 'oomp_footprint_granskog_dgs_devices_tsopxxxx_334fc6', 'oomp_key_simple': 'granskog_dgs_devices_tsopxxxx', 'original_filename': 'DGS_Devices.pretty/TSOPXXXX.kicad_mod', 'owner_name': 'granskog'} |  
-| oomp_key | oomp_granskog_dgs_devices_tsopxxxx |  
-| oomp_key_full | oomp_footprint_granskog_dgs_devices_tsopxxxx |  
-| oomp_key_simple | granskog_dgs_devices_tsopxxxx |  
-| owner | granskog |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/granskog/DGS_Devices.pretty |  
-
+# OOMP Footprint  
+## TSOPXXXX  by none  
+  
+oomp key: oomp_granskog_dgs_devices_tsopxxxx  
+  
+source repo at: [http://gitlab.com/granskog/DGS_Devices.pretty/blob/master/TSOPXXXX.kicad_mod](http://gitlab.com/granskog/DGS_Devices.pretty/blob/master/TSOPXXXX.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | TSOPXXXX | 
+| footprint description | TSOPXXXX family of IR remote rontrol receivers. | 
+| number of pads | 3 | 
+| github path | http://github.com/granskog/DGS_Devices.pretty/blob/master/TSOPXXXX.kicad_mod | 
+| oomp key | oomp_granskog_dgs_devices_tsopxxxx | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/granskog_dgs_devices_tsopxxxx/working | 
+## Images  

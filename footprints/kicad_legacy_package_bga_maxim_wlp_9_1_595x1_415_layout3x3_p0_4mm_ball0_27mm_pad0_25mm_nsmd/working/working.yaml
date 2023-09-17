@@ -1,0 +1,39 @@
+- file: data//oomlout_oomp_footprint_src/kicad-footprints/Package_BGA.pretty/Maxim_WLP-9_1.595x1.415_Layout3x3_P0.4mm_Ball0.27mm_Pad0.25mm_NSMD.kicad_mod
+  footprint:
+    description: Maxim_WLP-9 W91C1+1 https://pdfserv.maximintegrated.com/package_dwgs/21-0459.PDF
+    libraryLink: Maxim_WLP-9_1.595x1.415_Layout3x3_P0.4mm_Ball0.27mm_Pad0.25mm_NSMD
+    number_of_pads: 9
+  footprint_library_directory: footprint_library_owner/kicad-legacy_kicad-footprints
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/kicad_legacy_package_bga_maxim_wlp_9_1_595x1_415_layout3x3_p0_4mm_ball0_27mm_pad0_25mm_nsmd/working
+  github_path: http://github.com/kicad-legacy/kicad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/Package_BGA.pretty/Maxim_WLP-9_1.595x1.415_Layout3x3_P0.4mm_Ball0.27mm_Pad0.25mm_NSMD.kicad_mod
+  links:
+    github_src: http://gitlab.com/kicad-legacy/kicad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod
+    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/kicad_legacy_package_bga_maxim_wlp_9_1_595x1_415_layout3x3_p0_4mm_ball0_27mm_pad0_25mm_nsmd/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/kicad_legacy_package_bga_maxim_wlp_9_1_595x1_415_layout3x3_p0_4mm_ball0_27mm_pad0_25mm_nsmd/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/kicad_legacy_package_bga_maxim_wlp_9_1_595x1_415_layout3x3_p0_4mm_ball0_27mm_pad0_25mm_nsmd/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/kicad_legacy_package_bga_maxim_wlp_9_1_595x1_415_layout3x3_p0_4mm_ball0_27mm_pad0_25mm_nsmd/working
+  name: kicad-footprints
+  oomp:
+    footprint_name: maxim_wlp_9_1_595x1_415_layout3x3_p0_4mm_ball0_27mm_pad0_25mm_nsmd
+    library_name: package_bga
+    md5: 99e53f6ac6f1061770b66d01927d4745
+    md5_10: 99e53f6ac6
+    md5_5: 99e53
+    md5_6: 99e53f
+    oomp_key: oomp_kicad_legacy_package_bga_maxim_wlp_9_1_595x1_415_layout3x3_p0_4mm_ball0_27mm_pad0_25mm_nsmd
+    oomp_key_extra: oomp_footprint_kicad_legacy_package_bga_maxim_wlp_9_1_595x1_415_layout3x3_p0_4mm_ball0_27mm_pad0_25mm_nsmd
+    oomp_key_full: oomp_footprint_kicad_legacy_package_bga_maxim_wlp_9_1_595x1_415_layout3x3_p0_4mm_ball0_27mm_pad0_25mm_nsmd_99e53f
+    oomp_key_simple: kicad_legacy_package_bga_maxim_wlp_9_1_595x1_415_layout3x3_p0_4mm_ball0_27mm_pad0_25mm_nsmd
+    original_filename: data//oomlout_oomp_footprint_src/kicad-footprints/Package_BGA.pretty/Maxim_WLP-9_1.595x1.415_Layout3x3_P0.4mm_Ball0.27mm_Pad0.25mm_NSMD.kicad_mod
+    owner_name: kicad_legacy
+  oomp_key: oomp_kicad_legacy_package_bga_maxim_wlp_9_1_595x1_415_layout3x3_p0_4mm_ball0_27mm_pad0_25mm_nsmd
+  oomp_key_full: oomp_footprint_kicad_legacy_package_bga_maxim_wlp_9_1_595x1_415_layout3x3_p0_4mm_ball0_27mm_pad0_25mm_nsmd
+  oomp_key_simple: kicad_legacy_package_bga_maxim_wlp_9_1_595x1_415_layout3x3_p0_4mm_ball0_27mm_pad0_25mm_nsmd
+  owner: kicad-legacy
+  repo:
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
+  url: http://github.com/kicad-legacy/kicad-footprints

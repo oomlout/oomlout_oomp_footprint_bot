@@ -1,29 +1,20 @@
-# SH_IC_Custom.pretty by StefanHamminga  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/StefanHamminga/SH_IC_Custom.pretty/blob/master/WSON-8_6x5mm.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: None  
-* libraryLink: ST_LPS25HB  
-* number_of_pads: 10  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | SH_IC_Custom.pretty/ST_LPS25HB.kicad_mod |  
-| footprint | {'description': None, 'libraryLink': 'ST_LPS25HB', 'number_of_pads': 10} |  
-| footprint_library_directory | footprint_library_owner/StefanHamminga_SH_IC_Custom.pretty |  
-| footprint_library_directory_flat | footprints_flat/stefanhamminga_sh_ic_custom_st_lps25hb/working |  
-| github_path | http://github.com/StefanHamminga/SH_IC_Custom.pretty/blob/master/ST_LPS25HB.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/StefanHamminga/SH_IC_Custom.pretty/blob/master/WSON-8_6x5mm.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/stefanhamminga_sh_ic_custom_st_lps25hb/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stefanhamminga_sh_ic_custom_st_lps25hb/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/stefanhamminga_sh_ic_custom_st_lps25hb/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/stefanhamminga_sh_ic_custom_st_lps25hb/working'} |  
-| name | SH_IC_Custom.pretty |  
-| oomp | {'footprint_name': 'st_lps25hb', 'library_name': 'sh_ic_custom', 'md5': '90d84e95a6c5e3a483924fb131b15add', 'md5_10': '90d84e95a6', 'md5_5': '90d84', 'md5_6': '90d84e', 'oomp_key': 'oomp_stefanhamminga_sh_ic_custom_st_lps25hb', 'oomp_key_extra': 'oomp_footprint_stefanhamminga_sh_ic_custom_st_lps25hb', 'oomp_key_full': 'oomp_footprint_stefanhamminga_sh_ic_custom_st_lps25hb_90d84e', 'oomp_key_simple': 'stefanhamminga_sh_ic_custom_st_lps25hb', 'original_filename': 'SH_IC_Custom.pretty/ST_LPS25HB.kicad_mod', 'owner_name': 'stefanhamminga'} |  
-| oomp_key | oomp_stefanhamminga_sh_ic_custom_st_lps25hb |  
-| oomp_key_full | oomp_footprint_stefanhamminga_sh_ic_custom_st_lps25hb |  
-| oomp_key_simple | stefanhamminga_sh_ic_custom_st_lps25hb |  
-| owner | StefanHamminga |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/StefanHamminga/SH_IC_Custom.pretty |  
-
+# OOMP Footprint  
+## ST_LPS25HB  by none  
+  
+oomp key: oomp_stefanhamminga_sh_ic_custom_st_lps25hb  
+  
+source repo at: [http://gitlab.com/StefanHamminga/SH_IC_Custom.pretty/blob/master/WSON-8_6x5mm.kicad_mod](http://gitlab.com/StefanHamminga/SH_IC_Custom.pretty/blob/master/WSON-8_6x5mm.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | ST_LPS25HB | 
+| footprint description | None | 
+| number of pads | 10 | 
+| github path | http://github.com/StefanHamminga/SH_IC_Custom.pretty/blob/master/ST_LPS25HB.kicad_mod | 
+| oomp key | oomp_stefanhamminga_sh_ic_custom_st_lps25hb | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stefanhamminga_sh_ic_custom_st_lps25hb/working | 
+## Images  

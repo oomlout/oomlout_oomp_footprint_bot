@@ -1,20 +1,20 @@
-- file: labitat_kicad_footprints.pretty/labitat_logo_30mm.kicad_mod
+- file: data//oomlout_oomp_footprint_src/labitat_kicad_footprints.pretty/labitat_logo_30mm.kicad_mod
   footprint:
     description: null
     libraryLink: LOGO
     number_of_pads: 0
   footprint_library_directory: footprint_library_owner/labitat_labitat_kicad_footprints.pretty
-  footprint_library_directory_flat: footprints_flat/labitat_labitat_kicad_footprints_labitat_logo_30mm/working
-  github_path: http://github.com/labitat/labitat_kicad_footprints.pretty/blob/master/labitat_logo_30mm.kicad_mod
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/labitat_labitat_kicad_footprints_labitat_logo_30mm/working
+  github_path: http://github.com/labitat/labitat_kicad_footprints.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/labitat_logo_30mm.kicad_mod
   links:
     github_owner: labitat
     github_repo_name: labitat_kicad_footprints.pretty
-    github_src: http://github.com/labitat/labitat_kicad_footprints.pretty/blob/master/oshw_logo_8mm.kicad_mod
+    github_src: http://github.com/labitat/labitat_kicad_footprints.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/oshw_logo_8mm.kicad_mod
     github_src_repo: https://github.com/labitat/labitat_kicad_footprints.pretty
-    oomp_bot: footprints/labitat_labitat_kicad_footprints_labitat_logo_30mm/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/labitat_labitat_kicad_footprints_labitat_logo_30mm/working
-    oomp_src_flat: footprints_flat/footprints_flat/labitat_labitat_kicad_footprints_labitat_logo_30mm/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/labitat_labitat_kicad_footprints_labitat_logo_30mm/working
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/labitat_labitat_kicad_footprints_labitat_logo_30mm/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/labitat_labitat_kicad_footprints_labitat_logo_30mm/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/labitat_labitat_kicad_footprints_labitat_logo_30mm/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/labitat_labitat_kicad_footprints_labitat_logo_30mm/working
   name: labitat_kicad_footprints.pretty
   oomp:
     footprint_name: labitat_logo_30mm
@@ -27,7 +27,7 @@
     oomp_key_extra: oomp_footprint_labitat_labitat_kicad_footprints_labitat_logo_30mm
     oomp_key_full: oomp_footprint_labitat_labitat_kicad_footprints_labitat_logo_30mm_8bcd2f
     oomp_key_simple: labitat_labitat_kicad_footprints_labitat_logo_30mm
-    original_filename: labitat_kicad_footprints.pretty/labitat_logo_30mm.kicad_mod
+    original_filename: data//oomlout_oomp_footprint_src/labitat_kicad_footprints.pretty/labitat_logo_30mm.kicad_mod
     owner_name: labitat
   oomp_key: oomp_labitat_labitat_kicad_footprints_labitat_logo_30mm
   oomp_key_full: oomp_footprint_labitat_labitat_kicad_footprints_labitat_logo_30mm

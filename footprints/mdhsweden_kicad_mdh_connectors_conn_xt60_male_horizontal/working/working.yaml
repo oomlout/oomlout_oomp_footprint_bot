@@ -1,20 +1,20 @@
-- file: KiCad-MDH-Connectors.pretty/CONN_XT60_Male_Horizontal.kicad_mod
+- file: data//oomlout_oomp_footprint_src/KiCad-MDH-Connectors.pretty/CONN_XT60_Male_Horizontal.kicad_mod
   footprint:
     description: null
     libraryLink: CONN_XT60_Male_Horizontal
     number_of_pads: 2
   footprint_library_directory: footprint_library_owner/MDHSweden_KiCad-MDH-Connectors.pretty
-  footprint_library_directory_flat: footprints_flat/mdhsweden_kicad_mdh_connectors_conn_xt60_male_horizontal/working
-  github_path: http://github.com/MDHSweden/KiCad-MDH-Connectors.pretty/blob/master/CONN_XT60_Male_Horizontal.kicad_mod
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/mdhsweden_kicad_mdh_connectors_conn_xt60_male_horizontal/working
+  github_path: http://github.com/MDHSweden/KiCad-MDH-Connectors.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/CONN_XT60_Male_Horizontal.kicad_mod
   links:
     github_owner: MDHSweden
     github_repo_name: KiCad-MDH-Connectors.pretty
-    github_src: http://github.com/MDHSweden/KiCad-MDH-Connectors.pretty/blob/master/XT60.kicad_mod
+    github_src: http://github.com/MDHSweden/KiCad-MDH-Connectors.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XT60.kicad_mod
     github_src_repo: https://github.com/MDHSweden/KiCad-MDH-Connectors.pretty
-    oomp_bot: footprints/mdhsweden_kicad_mdh_connectors_conn_xt60_male_horizontal/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/mdhsweden_kicad_mdh_connectors_conn_xt60_male_horizontal/working
-    oomp_src_flat: footprints_flat/footprints_flat/mdhsweden_kicad_mdh_connectors_conn_xt60_male_horizontal/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/mdhsweden_kicad_mdh_connectors_conn_xt60_male_horizontal/working
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/mdhsweden_kicad_mdh_connectors_conn_xt60_male_horizontal/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/mdhsweden_kicad_mdh_connectors_conn_xt60_male_horizontal/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/mdhsweden_kicad_mdh_connectors_conn_xt60_male_horizontal/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/mdhsweden_kicad_mdh_connectors_conn_xt60_male_horizontal/working
   name: KiCad-MDH-Connectors.pretty
   oomp:
     footprint_name: conn_xt60_male_horizontal
@@ -27,7 +27,7 @@
     oomp_key_extra: oomp_footprint_mdhsweden_kicad_mdh_connectors_conn_xt60_male_horizontal
     oomp_key_full: oomp_footprint_mdhsweden_kicad_mdh_connectors_conn_xt60_male_horizontal_1fa62c
     oomp_key_simple: mdhsweden_kicad_mdh_connectors_conn_xt60_male_horizontal
-    original_filename: KiCad-MDH-Connectors.pretty/CONN_XT60_Male_Horizontal.kicad_mod
+    original_filename: data//oomlout_oomp_footprint_src/KiCad-MDH-Connectors.pretty/CONN_XT60_Male_Horizontal.kicad_mod
     owner_name: mdhsweden
   oomp_key: oomp_mdhsweden_kicad_mdh_connectors_conn_xt60_male_horizontal
   oomp_key_full: oomp_footprint_mdhsweden_kicad_mdh_connectors_conn_xt60_male_horizontal

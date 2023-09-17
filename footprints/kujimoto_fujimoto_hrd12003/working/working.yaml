@@ -1,20 +1,20 @@
-- file: fujimoto.pretty/HRD12003.kicad_mod
+- file: data//oomlout_oomp_footprint_src/fujimoto.pretty/HRD12003.kicad_mod
   footprint:
     description: null
     libraryLink: HRD12003
     number_of_pads: 9
   footprint_library_directory: footprint_library_owner/Kujimoto_fujimoto.pretty
-  footprint_library_directory_flat: footprints_flat/kujimoto_fujimoto_hrd12003/working
-  github_path: http://github.com/Kujimoto/fujimoto.pretty/blob/master/HRD12003.kicad_mod
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/kujimoto_fujimoto_hrd12003/working
+  github_path: http://github.com/Kujimoto/fujimoto.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/HRD12003.kicad_mod
   links:
     github_owner: Kujimoto
     github_repo_name: fujimoto.pretty
-    github_src: http://github.com/Kujimoto/fujimoto.pretty/blob/master/USB_B.kicad_mod
+    github_src: http://github.com/Kujimoto/fujimoto.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/USB_B.kicad_mod
     github_src_repo: https://github.com/Kujimoto/fujimoto.pretty
-    oomp_bot: footprints/kujimoto_fujimoto_hrd12003/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kujimoto_fujimoto_hrd12003/working
-    oomp_src_flat: footprints_flat/footprints_flat/kujimoto_fujimoto_hrd12003/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kujimoto_fujimoto_hrd12003/working
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/kujimoto_fujimoto_hrd12003/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/kujimoto_fujimoto_hrd12003/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/kujimoto_fujimoto_hrd12003/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/kujimoto_fujimoto_hrd12003/working
   name: fujimoto.pretty
   oomp:
     footprint_name: hrd12003
@@ -27,7 +27,7 @@
     oomp_key_extra: oomp_footprint_kujimoto_fujimoto_hrd12003
     oomp_key_full: oomp_footprint_kujimoto_fujimoto_hrd12003_49ec7c
     oomp_key_simple: kujimoto_fujimoto_hrd12003
-    original_filename: fujimoto.pretty/HRD12003.kicad_mod
+    original_filename: data//oomlout_oomp_footprint_src/fujimoto.pretty/HRD12003.kicad_mod
     owner_name: kujimoto
   oomp_key: oomp_kujimoto_fujimoto_hrd12003
   oomp_key_full: oomp_footprint_kujimoto_fujimoto_hrd12003

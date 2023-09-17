@@ -1,29 +1,20 @@
-# kicad.pretty by cormoran  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/cormoran/kicad.pretty/blob/master/XTAL_7X5MM.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: None  
-* libraryLink: Inductor_7mm_Variable  
-* number_of_pads: 4  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | kicad.pretty/Inductor_7mm_Variable.kicad_mod |  
-| footprint | {'description': None, 'libraryLink': 'Inductor_7mm_Variable', 'number_of_pads': 4} |  
-| footprint_library_directory | footprint_library_owner/cormoran_kicad.pretty |  
-| footprint_library_directory_flat | footprints_flat/cormoran_kicad_inductor_7mm_variable/working |  
-| github_path | http://github.com/cormoran/kicad.pretty/blob/master/Inductor_7mm_Variable.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/cormoran/kicad.pretty/blob/master/XTAL_7X5MM.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/cormoran_kicad_inductor_7mm_variable/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cormoran_kicad_inductor_7mm_variable/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/cormoran_kicad_inductor_7mm_variable/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cormoran_kicad_inductor_7mm_variable/working'} |  
-| name | kicad.pretty |  
-| oomp | {'footprint_name': 'inductor_7mm_variable', 'library_name': 'kicad', 'md5': '8d4204f7a2f92352b63465ea854b163e', 'md5_10': '8d4204f7a2', 'md5_5': '8d420', 'md5_6': '8d4204', 'oomp_key': 'oomp_cormoran_kicad_inductor_7mm_variable', 'oomp_key_extra': 'oomp_footprint_cormoran_kicad_inductor_7mm_variable', 'oomp_key_full': 'oomp_footprint_cormoran_kicad_inductor_7mm_variable_8d4204', 'oomp_key_simple': 'cormoran_kicad_inductor_7mm_variable', 'original_filename': 'kicad.pretty/Inductor_7mm_Variable.kicad_mod', 'owner_name': 'cormoran'} |  
-| oomp_key | oomp_cormoran_kicad_inductor_7mm_variable |  
-| oomp_key_full | oomp_footprint_cormoran_kicad_inductor_7mm_variable |  
-| oomp_key_simple | cormoran_kicad_inductor_7mm_variable |  
-| owner | cormoran |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/cormoran/kicad.pretty |  
-
+# OOMP Footprint  
+## Inductor_7mm_Variable  by none  
+  
+oomp key: oomp_cormoran_kicad_inductor_7mm_variable  
+  
+source repo at: [http://gitlab.com/cormoran/kicad.pretty/blob/master/XTAL_7X5MM.kicad_mod](http://gitlab.com/cormoran/kicad.pretty/blob/master/XTAL_7X5MM.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | Inductor_7mm_Variable | 
+| footprint description | None | 
+| number of pads | 4 | 
+| github path | http://github.com/cormoran/kicad.pretty/blob/master/Inductor_7mm_Variable.kicad_mod | 
+| oomp key | oomp_cormoran_kicad_inductor_7mm_variable | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cormoran_kicad_inductor_7mm_variable/working | 
+## Images  

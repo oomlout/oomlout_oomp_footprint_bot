@@ -1,0 +1,39 @@
+- file: data//oomlout_oomp_footprint_src/kicad-footprints/Relay_THT.pretty/Relay_SPST_Panasonic_ALFG_FormA_CircularHoles.kicad_mod
+  footprint:
+    description: Panasonic Relay SPST, https://www3.panasonic.biz/ac/e_download/control/relay/power/catalog/mech_eng_lfg.pdf
+    libraryLink: Relay_SPST_Panasonic_ALFG_FormA_CircularHoles
+    number_of_pads: 4
+  footprint_library_directory: footprint_library_owner/kicad-legacy_kicad-footprints
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/kicad_legacy_relay_tht_relay_spst_panasonic_alfg_forma_circularholes/working
+  github_path: http://github.com/kicad-legacy/kicad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/Relay_THT.pretty/Relay_SPST_Panasonic_ALFG_FormA_CircularHoles.kicad_mod
+  links:
+    github_src: http://gitlab.com/kicad-legacy/kicad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod
+    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/kicad_legacy_relay_tht_relay_spst_panasonic_alfg_forma_circularholes/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/kicad_legacy_relay_tht_relay_spst_panasonic_alfg_forma_circularholes/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/kicad_legacy_relay_tht_relay_spst_panasonic_alfg_forma_circularholes/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/kicad_legacy_relay_tht_relay_spst_panasonic_alfg_forma_circularholes/working
+  name: kicad-footprints
+  oomp:
+    footprint_name: relay_spst_panasonic_alfg_forma_circularholes
+    library_name: relay_tht
+    md5: 6a4c6112dc411c84154dd264701872b6
+    md5_10: 6a4c6112dc
+    md5_5: 6a4c6
+    md5_6: 6a4c61
+    oomp_key: oomp_kicad_legacy_relay_tht_relay_spst_panasonic_alfg_forma_circularholes
+    oomp_key_extra: oomp_footprint_kicad_legacy_relay_tht_relay_spst_panasonic_alfg_forma_circularholes
+    oomp_key_full: oomp_footprint_kicad_legacy_relay_tht_relay_spst_panasonic_alfg_forma_circularholes_6a4c61
+    oomp_key_simple: kicad_legacy_relay_tht_relay_spst_panasonic_alfg_forma_circularholes
+    original_filename: data//oomlout_oomp_footprint_src/kicad-footprints/Relay_THT.pretty/Relay_SPST_Panasonic_ALFG_FormA_CircularHoles.kicad_mod
+    owner_name: kicad_legacy
+  oomp_key: oomp_kicad_legacy_relay_tht_relay_spst_panasonic_alfg_forma_circularholes
+  oomp_key_full: oomp_footprint_kicad_legacy_relay_tht_relay_spst_panasonic_alfg_forma_circularholes
+  oomp_key_simple: kicad_legacy_relay_tht_relay_spst_panasonic_alfg_forma_circularholes
+  owner: kicad-legacy
+  repo:
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
+  url: http://github.com/kicad-legacy/kicad-footprints

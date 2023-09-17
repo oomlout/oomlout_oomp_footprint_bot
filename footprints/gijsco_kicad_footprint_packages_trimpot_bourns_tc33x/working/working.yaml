@@ -1,18 +1,20 @@
-- file: Kicad_Footprint_Packages.pretty/Trimpot_Bourns_TC33X.kicad_mod
+- file: data//oomlout_oomp_footprint_src/Kicad_Footprint_Packages.pretty/Trimpot_Bourns_TC33X.kicad_mod
   footprint:
     description: null
     libraryLink: Trimpot Bourns TC33X
     number_of_pads: 3
   footprint_library_directory: footprint_library_owner/Gijsco_Kicad_Footprint_Packages.pretty
-  footprint_library_directory_flat: footprints_flat/gijsco_kicad_footprint_packages_trimpot_bourns_tc33x/working
-  github_path: http://github.com/Gijsco/Kicad_Footprint_Packages.pretty/blob/master/Trimpot_Bourns_TC33X.kicad_mod
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/gijsco_kicad_footprint_packages_trimpot_bourns_tc33x/working
+  github_path: http://github.com/Gijsco/Kicad_Footprint_Packages.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Trimpot_Bourns_TC33X.kicad_mod
   links:
-    github_src: http://gitlab.com/Gijsco/Kicad_Footprint_Packages.pretty/blob/master/Trimpot_Bourns_TC33X.kicad_mod
-    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
-    oomp_bot: footprints/gijsco_kicad_footprint_packages_trimpot_bourns_tc33x/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/gijsco_kicad_footprint_packages_trimpot_bourns_tc33x/working
-    oomp_src_flat: footprints_flat/footprints_flat/gijsco_kicad_footprint_packages_trimpot_bourns_tc33x/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/gijsco_kicad_footprint_packages_trimpot_bourns_tc33x/working
+    github_owner: Gijsco
+    github_repo_name: Kicad_Footprint_Packages.pretty
+    github_src: http://github.com/Gijsco/Kicad_Footprint_Packages.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Trimpot_Bourns_TC33X.kicad_mod
+    github_src_repo: https://github.com/Gijsco/Kicad_Footprint_Packages.pretty
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/gijsco_kicad_footprint_packages_trimpot_bourns_tc33x/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/gijsco_kicad_footprint_packages_trimpot_bourns_tc33x/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/gijsco_kicad_footprint_packages_trimpot_bourns_tc33x/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/gijsco_kicad_footprint_packages_trimpot_bourns_tc33x/working
   name: Kicad_Footprint_Packages.pretty
   oomp:
     footprint_name: trimpot_bourns_tc33x
@@ -25,15 +27,116 @@
     oomp_key_extra: oomp_footprint_gijsco_kicad_footprint_packages_trimpot_bourns_tc33x
     oomp_key_full: oomp_footprint_gijsco_kicad_footprint_packages_trimpot_bourns_tc33x_e07845
     oomp_key_simple: gijsco_kicad_footprint_packages_trimpot_bourns_tc33x
-    original_filename: Kicad_Footprint_Packages.pretty/Trimpot_Bourns_TC33X.kicad_mod
+    original_filename: data//oomlout_oomp_footprint_src/Kicad_Footprint_Packages.pretty/Trimpot_Bourns_TC33X.kicad_mod
     owner_name: gijsco
   oomp_key: oomp_gijsco_kicad_footprint_packages_trimpot_bourns_tc33x
   oomp_key_full: oomp_footprint_gijsco_kicad_footprint_packages_trimpot_bourns_tc33x
   oomp_key_simple: gijsco_kicad_footprint_packages_trimpot_bourns_tc33x
   owner: Gijsco
   repo:
-    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
-    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
-      Authenticated requests get a higher rate limit. Check out the documentation
-      for more details.)'
+    allow_forking: true
+    archive_url: https://api.github.com/repos/Gijsco/Kicad_Footprint_Packages.pretty/{archive_format}{/ref}
+    archived: false
+    assignees_url: https://api.github.com/repos/Gijsco/Kicad_Footprint_Packages.pretty/assignees{/user}
+    blobs_url: https://api.github.com/repos/Gijsco/Kicad_Footprint_Packages.pretty/git/blobs{/sha}
+    branches_url: https://api.github.com/repos/Gijsco/Kicad_Footprint_Packages.pretty/branches{/branch}
+    clone_url: https://github.com/Gijsco/Kicad_Footprint_Packages.pretty.git
+    collaborators_url: https://api.github.com/repos/Gijsco/Kicad_Footprint_Packages.pretty/collaborators{/collaborator}
+    comments_url: https://api.github.com/repos/Gijsco/Kicad_Footprint_Packages.pretty/comments{/number}
+    commits_url: https://api.github.com/repos/Gijsco/Kicad_Footprint_Packages.pretty/commits{/sha}
+    compare_url: https://api.github.com/repos/Gijsco/Kicad_Footprint_Packages.pretty/compare/{base}...{head}
+    contents_url: https://api.github.com/repos/Gijsco/Kicad_Footprint_Packages.pretty/contents/{+path}
+    contributors_url: https://api.github.com/repos/Gijsco/Kicad_Footprint_Packages.pretty/contributors
+    created_at: '2017-10-13T10:19:18Z'
+    default_branch: master
+    deployments_url: https://api.github.com/repos/Gijsco/Kicad_Footprint_Packages.pretty/deployments
+    description: Custom Made Packages for Kicad
+    disabled: false
+    downloads_url: https://api.github.com/repos/Gijsco/Kicad_Footprint_Packages.pretty/downloads
+    events_url: https://api.github.com/repos/Gijsco/Kicad_Footprint_Packages.pretty/events
+    fork: false
+    forks: 0
+    forks_count: 0
+    forks_url: https://api.github.com/repos/Gijsco/Kicad_Footprint_Packages.pretty/forks
+    full_name: Gijsco/Kicad_Footprint_Packages.pretty
+    git_commits_url: https://api.github.com/repos/Gijsco/Kicad_Footprint_Packages.pretty/git/commits{/sha}
+    git_refs_url: https://api.github.com/repos/Gijsco/Kicad_Footprint_Packages.pretty/git/refs{/sha}
+    git_tags_url: https://api.github.com/repos/Gijsco/Kicad_Footprint_Packages.pretty/git/tags{/sha}
+    git_url: git://github.com/Gijsco/Kicad_Footprint_Packages.pretty.git
+    has_discussions: false
+    has_downloads: true
+    has_issues: true
+    has_pages: false
+    has_projects: true
+    has_wiki: true
+    homepage: null
+    hooks_url: https://api.github.com/repos/Gijsco/Kicad_Footprint_Packages.pretty/hooks
+    html_url: https://github.com/Gijsco/Kicad_Footprint_Packages.pretty
+    id: 106810113
+    is_template: false
+    issue_comment_url: https://api.github.com/repos/Gijsco/Kicad_Footprint_Packages.pretty/issues/comments{/number}
+    issue_events_url: https://api.github.com/repos/Gijsco/Kicad_Footprint_Packages.pretty/issues/events{/number}
+    issues_url: https://api.github.com/repos/Gijsco/Kicad_Footprint_Packages.pretty/issues{/number}
+    keys_url: https://api.github.com/repos/Gijsco/Kicad_Footprint_Packages.pretty/keys{/key_id}
+    labels_url: https://api.github.com/repos/Gijsco/Kicad_Footprint_Packages.pretty/labels{/name}
+    language: null
+    languages_url: https://api.github.com/repos/Gijsco/Kicad_Footprint_Packages.pretty/languages
+    license:
+      key: mit
+      name: MIT License
+      node_id: MDc6TGljZW5zZTEz
+      spdx_id: MIT
+      url: https://api.github.com/licenses/mit
+    merges_url: https://api.github.com/repos/Gijsco/Kicad_Footprint_Packages.pretty/merges
+    milestones_url: https://api.github.com/repos/Gijsco/Kicad_Footprint_Packages.pretty/milestones{/number}
+    mirror_url: null
+    name: Kicad_Footprint_Packages.pretty
+    network_count: 0
+    node_id: MDEwOlJlcG9zaXRvcnkxMDY4MTAxMTM=
+    notifications_url: https://api.github.com/repos/Gijsco/Kicad_Footprint_Packages.pretty/notifications{?since,all,participating}
+    open_issues: 0
+    open_issues_count: 0
+    owner:
+      avatar_url: https://avatars.githubusercontent.com/u/28618968?v=4
+      events_url: https://api.github.com/users/Gijsco/events{/privacy}
+      followers_url: https://api.github.com/users/Gijsco/followers
+      following_url: https://api.github.com/users/Gijsco/following{/other_user}
+      gists_url: https://api.github.com/users/Gijsco/gists{/gist_id}
+      gravatar_id: ''
+      html_url: https://github.com/Gijsco
+      id: 28618968
+      login: Gijsco
+      node_id: MDQ6VXNlcjI4NjE4OTY4
+      organizations_url: https://api.github.com/users/Gijsco/orgs
+      received_events_url: https://api.github.com/users/Gijsco/received_events
+      repos_url: https://api.github.com/users/Gijsco/repos
+      site_admin: false
+      starred_url: https://api.github.com/users/Gijsco/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/Gijsco/subscriptions
+      type: User
+      url: https://api.github.com/users/Gijsco
+    private: false
+    pulls_url: https://api.github.com/repos/Gijsco/Kicad_Footprint_Packages.pretty/pulls{/number}
+    pushed_at: '2017-10-19T10:18:35Z'
+    releases_url: https://api.github.com/repos/Gijsco/Kicad_Footprint_Packages.pretty/releases{/id}
+    size: 2
+    ssh_url: git@github.com:Gijsco/Kicad_Footprint_Packages.pretty.git
+    stargazers_count: 0
+    stargazers_url: https://api.github.com/repos/Gijsco/Kicad_Footprint_Packages.pretty/stargazers
+    statuses_url: https://api.github.com/repos/Gijsco/Kicad_Footprint_Packages.pretty/statuses/{sha}
+    subscribers_count: 0
+    subscribers_url: https://api.github.com/repos/Gijsco/Kicad_Footprint_Packages.pretty/subscribers
+    subscription_url: https://api.github.com/repos/Gijsco/Kicad_Footprint_Packages.pretty/subscription
+    svn_url: https://github.com/Gijsco/Kicad_Footprint_Packages.pretty
+    tags_url: https://api.github.com/repos/Gijsco/Kicad_Footprint_Packages.pretty/tags
+    teams_url: https://api.github.com/repos/Gijsco/Kicad_Footprint_Packages.pretty/teams
+    temp_clone_token: null
+    topics: []
+    trees_url: https://api.github.com/repos/Gijsco/Kicad_Footprint_Packages.pretty/git/trees{/sha}
+    updated_at: '2017-10-13T10:24:13Z'
+    url: https://api.github.com/repos/Gijsco/Kicad_Footprint_Packages.pretty
+    visibility: public
+    watchers: 0
+    watchers_count: 0
+    web_commit_signoff_required: false
   url: http://github.com/Gijsco/Kicad_Footprint_Packages.pretty

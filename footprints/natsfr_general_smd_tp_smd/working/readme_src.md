@@ -1,29 +1,20 @@
-# kicad-components by natsfr  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/natsfr/kicad-components/blob/master/Pretty_Footprints/Xtal_SMD.pretty/XTAL_5.0x3.2mm.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: None  
-* libraryLink: TP_smd  
-* number_of_pads: 1  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | kicad-components/Pretty_Footprints/General_SMD.pretty/TP_smd.kicad_mod |  
-| footprint | {'description': None, 'libraryLink': 'TP_smd', 'number_of_pads': 1} |  
-| footprint_library_directory | footprint_library_owner/natsfr_kicad-components |  
-| footprint_library_directory_flat | footprints_flat/natsfr_general_smd_tp_smd/working |  
-| github_path | http://github.com/natsfr/kicad-components/blob/master/Pretty_Footprints/General_SMD.pretty/TP_smd.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/natsfr/kicad-components/blob/master/Pretty_Footprints/Xtal_SMD.pretty/XTAL_5.0x3.2mm.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/natsfr_general_smd_tp_smd/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/natsfr_general_smd_tp_smd/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/natsfr_general_smd_tp_smd/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/natsfr_general_smd_tp_smd/working'} |  
-| name | kicad-components |  
-| oomp | {'footprint_name': 'tp_smd', 'library_name': 'general_smd', 'md5': 'f40e83561afcfb5e43cbdcc9f31f1f0d', 'md5_10': 'f40e83561a', 'md5_5': 'f40e8', 'md5_6': 'f40e83', 'oomp_key': 'oomp_natsfr_general_smd_tp_smd', 'oomp_key_extra': 'oomp_footprint_natsfr_general_smd_tp_smd', 'oomp_key_full': 'oomp_footprint_natsfr_general_smd_tp_smd_f40e83', 'oomp_key_simple': 'natsfr_general_smd_tp_smd', 'original_filename': 'kicad-components/Pretty_Footprints/General_SMD.pretty/TP_smd.kicad_mod', 'owner_name': 'natsfr'} |  
-| oomp_key | oomp_natsfr_general_smd_tp_smd |  
-| oomp_key_full | oomp_footprint_natsfr_general_smd_tp_smd |  
-| oomp_key_simple | natsfr_general_smd_tp_smd |  
-| owner | natsfr |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/natsfr/kicad-components |  
-
+# OOMP Footprint  
+## TP_smd  by none  
+  
+oomp key: oomp_natsfr_general_smd_tp_smd  
+  
+source repo at: [http://gitlab.com/natsfr/kicad-components/blob/master/Pretty_Footprints/Xtal_SMD.pretty/XTAL_5.0x3.2mm.kicad_mod](http://gitlab.com/natsfr/kicad-components/blob/master/Pretty_Footprints/Xtal_SMD.pretty/XTAL_5.0x3.2mm.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | TP_smd | 
+| footprint description | None | 
+| number of pads | 1 | 
+| github path | http://github.com/natsfr/kicad-components/blob/master/Pretty_Footprints/General_SMD.pretty/TP_smd.kicad_mod | 
+| oomp key | oomp_natsfr_general_smd_tp_smd | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/natsfr_general_smd_tp_smd/working | 
+## Images  

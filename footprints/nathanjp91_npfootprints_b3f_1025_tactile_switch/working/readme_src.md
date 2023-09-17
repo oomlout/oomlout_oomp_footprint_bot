@@ -1,29 +1,20 @@
-# NPFootprints.pretty by Nathanjp91  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/Nathanjp91/NPFootprints.pretty/blob/master/Yatagarsu_Logo.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: None  
-* libraryLink: B3F-1025_Tactile_Switch  
-* number_of_pads: 4  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | NPFootprints.pretty/B3F-1025_Tactile_Switch.kicad_mod |  
-| footprint | {'description': None, 'libraryLink': 'B3F-1025_Tactile_Switch', 'number_of_pads': 4} |  
-| footprint_library_directory | footprint_library_owner/Nathanjp91_NPFootprints.pretty |  
-| footprint_library_directory_flat | footprints_flat/nathanjp91_npfootprints_b3f_1025_tactile_switch/working |  
-| github_path | http://github.com/Nathanjp91/NPFootprints.pretty/blob/master/B3F-1025_Tactile_Switch.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/Nathanjp91/NPFootprints.pretty/blob/master/Yatagarsu_Logo.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/nathanjp91_npfootprints_b3f_1025_tactile_switch/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nathanjp91_npfootprints_b3f_1025_tactile_switch/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/nathanjp91_npfootprints_b3f_1025_tactile_switch/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nathanjp91_npfootprints_b3f_1025_tactile_switch/working'} |  
-| name | NPFootprints.pretty |  
-| oomp | {'footprint_name': 'b3f_1025_tactile_switch', 'library_name': 'npfootprints', 'md5': 'd0eac7fae4546248f77882684428d2a8', 'md5_10': 'd0eac7fae4', 'md5_5': 'd0eac', 'md5_6': 'd0eac7', 'oomp_key': 'oomp_nathanjp91_npfootprints_b3f_1025_tactile_switch', 'oomp_key_extra': 'oomp_footprint_nathanjp91_npfootprints_b3f_1025_tactile_switch', 'oomp_key_full': 'oomp_footprint_nathanjp91_npfootprints_b3f_1025_tactile_switch_d0eac7', 'oomp_key_simple': 'nathanjp91_npfootprints_b3f_1025_tactile_switch', 'original_filename': 'NPFootprints.pretty/B3F-1025_Tactile_Switch.kicad_mod', 'owner_name': 'nathanjp91'} |  
-| oomp_key | oomp_nathanjp91_npfootprints_b3f_1025_tactile_switch |  
-| oomp_key_full | oomp_footprint_nathanjp91_npfootprints_b3f_1025_tactile_switch |  
-| oomp_key_simple | nathanjp91_npfootprints_b3f_1025_tactile_switch |  
-| owner | Nathanjp91 |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/Nathanjp91/NPFootprints.pretty |  
-
+# OOMP Footprint  
+## B3F-1025_Tactile_Switch  by none  
+  
+oomp key: oomp_nathanjp91_npfootprints_b3f_1025_tactile_switch  
+  
+source repo at: [http://gitlab.com/Nathanjp91/NPFootprints.pretty/blob/master/Yatagarsu_Logo.kicad_mod](http://gitlab.com/Nathanjp91/NPFootprints.pretty/blob/master/Yatagarsu_Logo.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | B3F-1025_Tactile_Switch | 
+| footprint description | None | 
+| number of pads | 4 | 
+| github path | http://github.com/Nathanjp91/NPFootprints.pretty/blob/master/B3F-1025_Tactile_Switch.kicad_mod | 
+| oomp key | oomp_nathanjp91_npfootprints_b3f_1025_tactile_switch | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nathanjp91_npfootprints_b3f_1025_tactile_switch/working | 
+## Images  

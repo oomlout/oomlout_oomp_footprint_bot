@@ -1,20 +1,20 @@
-- file: MXMountLP.pretty/MXMountLP-1.75U.kicad_mod
+- file: data//oomlout_oomp_footprint_src/MXMountLP.pretty/MXMountLP-1.75U.kicad_mod
   footprint:
     description: null
     libraryLink: MXMountLP-1.75U
     number_of_pads: 8
   footprint_library_directory: footprint_library_owner/Alasofia_MXMountLP.pretty
-  footprint_library_directory_flat: footprints_flat/alasofia_mxmountlp_mxmountlp_1_75u/working
-  github_path: http://github.com/Alasofia/MXMountLP.pretty/blob/master/MXMountLP-1.75U.kicad_mod
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/alasofia_mxmountlp_mxmountlp_1_75u/working
+  github_path: http://github.com/Alasofia/MXMountLP.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/MXMountLP-1.75U.kicad_mod
   links:
     github_owner: Alasofia
     github_repo_name: MXMountLP.pretty
-    github_src: http://github.com/Alasofia/MXMountLP.pretty/blob/master/MXMountLP-1U.kicad_mod
+    github_src: http://github.com/Alasofia/MXMountLP.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/MXMountLP-1U.kicad_mod
     github_src_repo: https://github.com/Alasofia/MXMountLP.pretty
-    oomp_bot: footprints/alasofia_mxmountlp_mxmountlp_1_75u/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/alasofia_mxmountlp_mxmountlp_1_75u/working
-    oomp_src_flat: footprints_flat/footprints_flat/alasofia_mxmountlp_mxmountlp_1_75u/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/alasofia_mxmountlp_mxmountlp_1_75u/working
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/alasofia_mxmountlp_mxmountlp_1_75u/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/alasofia_mxmountlp_mxmountlp_1_75u/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/alasofia_mxmountlp_mxmountlp_1_75u/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/alasofia_mxmountlp_mxmountlp_1_75u/working
   name: MXMountLP.pretty
   oomp:
     footprint_name: mxmountlp_1_75u
@@ -27,7 +27,7 @@
     oomp_key_extra: oomp_footprint_alasofia_mxmountlp_mxmountlp_1_75u
     oomp_key_full: oomp_footprint_alasofia_mxmountlp_mxmountlp_1_75u_126873
     oomp_key_simple: alasofia_mxmountlp_mxmountlp_1_75u
-    original_filename: MXMountLP.pretty/MXMountLP-1.75U.kicad_mod
+    original_filename: data//oomlout_oomp_footprint_src/MXMountLP.pretty/MXMountLP-1.75U.kicad_mod
     owner_name: alasofia
   oomp_key: oomp_alasofia_mxmountlp_mxmountlp_1_75u
   oomp_key_full: oomp_footprint_alasofia_mxmountlp_mxmountlp_1_75u
@@ -128,7 +128,7 @@
     temp_clone_token: null
     topics: []
     trees_url: https://api.github.com/repos/Alasofia/MXMountLP.pretty/git/trees{/sha}
-    updated_at: '2022-04-23T09:00:50Z'
+    updated_at: '2023-08-20T02:00:29Z'
     url: https://api.github.com/repos/Alasofia/MXMountLP.pretty
     visibility: public
     watchers: 3

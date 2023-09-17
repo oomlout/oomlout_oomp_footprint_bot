@@ -1,20 +1,20 @@
-- file: awallinKiCadFootprints.pretty/DIODE_DO-214BA.kicad_mod
+- file: data//oomlout_oomp_footprint_src/awallinKiCadFootprints.pretty/DIODE_DO-214BA.kicad_mod
   footprint:
     description: Microsemi LSM115J
     libraryLink: DIODE_DO-214BA
     number_of_pads: 2
   footprint_library_directory: footprint_library_owner/aewallin_awallinKiCadFootprints.pretty
-  footprint_library_directory_flat: footprints_flat/aewallin_awallinkicadfootprints_diode_do_214ba/working
-  github_path: http://github.com/aewallin/awallinKiCadFootprints.pretty/blob/master/DIODE_DO-214BA.kicad_mod
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/aewallin_awallinkicadfootprints_diode_do_214ba/working
+  github_path: http://github.com/aewallin/awallinKiCadFootprints.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/DIODE_DO-214BA.kicad_mod
   links:
     github_owner: aewallin
     github_repo_name: awallinKiCadFootprints.pretty
-    github_src: http://github.com/aewallin/awallinKiCadFootprints.pretty/blob/master/Y3split_0.350mm.kicad_mod
+    github_src: http://github.com/aewallin/awallinKiCadFootprints.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Y3split_0.350mm.kicad_mod
     github_src_repo: https://github.com/aewallin/awallinKiCadFootprints.pretty
-    oomp_bot: footprints/aewallin_awallinkicadfootprints_diode_do_214ba/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/aewallin_awallinkicadfootprints_diode_do_214ba/working
-    oomp_src_flat: footprints_flat/footprints_flat/aewallin_awallinkicadfootprints_diode_do_214ba/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/aewallin_awallinkicadfootprints_diode_do_214ba/working
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/aewallin_awallinkicadfootprints_diode_do_214ba/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/aewallin_awallinkicadfootprints_diode_do_214ba/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/aewallin_awallinkicadfootprints_diode_do_214ba/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/aewallin_awallinkicadfootprints_diode_do_214ba/working
   name: awallinKiCadFootprints.pretty
   oomp:
     footprint_name: diode_do_214ba
@@ -27,7 +27,7 @@
     oomp_key_extra: oomp_footprint_aewallin_awallinkicadfootprints_diode_do_214ba
     oomp_key_full: oomp_footprint_aewallin_awallinkicadfootprints_diode_do_214ba_5c6447
     oomp_key_simple: aewallin_awallinkicadfootprints_diode_do_214ba
-    original_filename: awallinKiCadFootprints.pretty/DIODE_DO-214BA.kicad_mod
+    original_filename: data//oomlout_oomp_footprint_src/awallinKiCadFootprints.pretty/DIODE_DO-214BA.kicad_mod
     owner_name: aewallin
   oomp_key: oomp_aewallin_awallinkicadfootprints_diode_do_214ba
   oomp_key_full: oomp_footprint_aewallin_awallinkicadfootprints_diode_do_214ba

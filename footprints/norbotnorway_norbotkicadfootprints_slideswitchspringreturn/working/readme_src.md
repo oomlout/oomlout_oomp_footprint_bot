@@ -1,29 +1,20 @@
-# NorBotKiCadFootprints.pretty by NorbotNorway  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/NorbotNorway/NorBotKiCadFootprints.pretty/blob/master/TSOP75x.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: None  
-* libraryLink: SlideSwitchSpringReturn  
-* number_of_pads: 10  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | NorBotKiCadFootprints.pretty/SlideSwitchSpringReturn.kicad_mod |  
-| footprint | {'description': None, 'libraryLink': 'SlideSwitchSpringReturn', 'number_of_pads': 10} |  
-| footprint_library_directory | footprint_library_owner/NorbotNorway_NorBotKiCadFootprints.pretty |  
-| footprint_library_directory_flat | footprints_flat/norbotnorway_norbotkicadfootprints_slideswitchspringreturn/working |  
-| github_path | http://github.com/NorbotNorway/NorBotKiCadFootprints.pretty/blob/master/SlideSwitchSpringReturn.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/NorbotNorway/NorBotKiCadFootprints.pretty/blob/master/TSOP75x.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/norbotnorway_norbotkicadfootprints_slideswitchspringreturn/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/norbotnorway_norbotkicadfootprints_slideswitchspringreturn/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/norbotnorway_norbotkicadfootprints_slideswitchspringreturn/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/norbotnorway_norbotkicadfootprints_slideswitchspringreturn/working'} |  
-| name | NorBotKiCadFootprints.pretty |  
-| oomp | {'footprint_name': 'slideswitchspringreturn', 'library_name': 'norbotkicadfootprints', 'md5': '38352a73591794412e6377cec83e4d0f', 'md5_10': '38352a7359', 'md5_5': '38352', 'md5_6': '38352a', 'oomp_key': 'oomp_norbotnorway_norbotkicadfootprints_slideswitchspringreturn', 'oomp_key_extra': 'oomp_footprint_norbotnorway_norbotkicadfootprints_slideswitchspringreturn', 'oomp_key_full': 'oomp_footprint_norbotnorway_norbotkicadfootprints_slideswitchspringreturn_38352a', 'oomp_key_simple': 'norbotnorway_norbotkicadfootprints_slideswitchspringreturn', 'original_filename': 'NorBotKiCadFootprints.pretty/SlideSwitchSpringReturn.kicad_mod', 'owner_name': 'norbotnorway'} |  
-| oomp_key | oomp_norbotnorway_norbotkicadfootprints_slideswitchspringreturn |  
-| oomp_key_full | oomp_footprint_norbotnorway_norbotkicadfootprints_slideswitchspringreturn |  
-| oomp_key_simple | norbotnorway_norbotkicadfootprints_slideswitchspringreturn |  
-| owner | NorbotNorway |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/NorbotNorway/NorBotKiCadFootprints.pretty |  
-
+# OOMP Footprint  
+## SlideSwitchSpringReturn  by none  
+  
+oomp key: oomp_norbotnorway_norbotkicadfootprints_slideswitchspringreturn  
+  
+source repo at: [http://gitlab.com/NorbotNorway/NorBotKiCadFootprints.pretty/blob/master/TSOP75x.kicad_mod](http://gitlab.com/NorbotNorway/NorBotKiCadFootprints.pretty/blob/master/TSOP75x.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | SlideSwitchSpringReturn | 
+| footprint description | None | 
+| number of pads | 10 | 
+| github path | http://github.com/NorbotNorway/NorBotKiCadFootprints.pretty/blob/master/SlideSwitchSpringReturn.kicad_mod | 
+| oomp key | oomp_norbotnorway_norbotkicadfootprints_slideswitchspringreturn | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/norbotnorway_norbotkicadfootprints_slideswitchspringreturn/working | 
+## Images  

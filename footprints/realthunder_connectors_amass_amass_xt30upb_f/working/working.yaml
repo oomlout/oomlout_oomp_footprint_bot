@@ -1,18 +1,20 @@
-- file: Connectors_Amass.pretty/Amass_XT30UPB-F.kicad_mod
+- file: data//oomlout_oomp_footprint_src/Connectors_Amass.pretty/Amass_XT30UPB-F.kicad_mod
   footprint:
     description: 'Amass XT30UPB-F Female 2-pin, 10.2x5.2mm, pitch 5mm '
     libraryLink: Amass_XT30UPB-F
     number_of_pads: 2
   footprint_library_directory: footprint_library_owner/realthunder_Connectors_Amass.pretty
-  footprint_library_directory_flat: footprints_flat/realthunder_connectors_amass_amass_xt30upb_f/working
-  github_path: http://github.com/realthunder/Connectors_Amass.pretty/blob/master/Amass_XT30UPB-F.kicad_mod
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/realthunder_connectors_amass_amass_xt30upb_f/working
+  github_path: http://github.com/realthunder/Connectors_Amass.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Amass_XT30UPB-F.kicad_mod
   links:
-    github_src: http://gitlab.com/realthunder/Connectors_Amass.pretty/blob/master/Amass_XT30UPB-M.kicad_mod
-    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
-    oomp_bot: footprints/realthunder_connectors_amass_amass_xt30upb_f/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/realthunder_connectors_amass_amass_xt30upb_f/working
-    oomp_src_flat: footprints_flat/footprints_flat/realthunder_connectors_amass_amass_xt30upb_f/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/realthunder_connectors_amass_amass_xt30upb_f/working
+    github_owner: realthunder
+    github_repo_name: Connectors_Amass.pretty
+    github_src: http://github.com/realthunder/Connectors_Amass.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Amass_XT30UPB-M.kicad_mod
+    github_src_repo: https://github.com/realthunder/Connectors_Amass.pretty
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/realthunder_connectors_amass_amass_xt30upb_f/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/realthunder_connectors_amass_amass_xt30upb_f/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/realthunder_connectors_amass_amass_xt30upb_f/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/realthunder_connectors_amass_amass_xt30upb_f/working
   name: Connectors_Amass.pretty
   oomp:
     footprint_name: amass_xt30upb_f
@@ -25,15 +27,111 @@
     oomp_key_extra: oomp_footprint_realthunder_connectors_amass_amass_xt30upb_f
     oomp_key_full: oomp_footprint_realthunder_connectors_amass_amass_xt30upb_f_4c4593
     oomp_key_simple: realthunder_connectors_amass_amass_xt30upb_f
-    original_filename: Connectors_Amass.pretty/Amass_XT30UPB-F.kicad_mod
+    original_filename: data//oomlout_oomp_footprint_src/Connectors_Amass.pretty/Amass_XT30UPB-F.kicad_mod
     owner_name: realthunder
   oomp_key: oomp_realthunder_connectors_amass_amass_xt30upb_f
   oomp_key_full: oomp_footprint_realthunder_connectors_amass_amass_xt30upb_f
   oomp_key_simple: realthunder_connectors_amass_amass_xt30upb_f
   owner: realthunder
   repo:
-    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
-    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
-      Authenticated requests get a higher rate limit. Check out the documentation
-      for more details.)'
+    allow_forking: true
+    archive_url: https://api.github.com/repos/realthunder/Connectors_Amass.pretty/{archive_format}{/ref}
+    archived: false
+    assignees_url: https://api.github.com/repos/realthunder/Connectors_Amass.pretty/assignees{/user}
+    blobs_url: https://api.github.com/repos/realthunder/Connectors_Amass.pretty/git/blobs{/sha}
+    branches_url: https://api.github.com/repos/realthunder/Connectors_Amass.pretty/branches{/branch}
+    clone_url: https://github.com/realthunder/Connectors_Amass.pretty.git
+    collaborators_url: https://api.github.com/repos/realthunder/Connectors_Amass.pretty/collaborators{/collaborator}
+    comments_url: https://api.github.com/repos/realthunder/Connectors_Amass.pretty/comments{/number}
+    commits_url: https://api.github.com/repos/realthunder/Connectors_Amass.pretty/commits{/sha}
+    compare_url: https://api.github.com/repos/realthunder/Connectors_Amass.pretty/compare/{base}...{head}
+    contents_url: https://api.github.com/repos/realthunder/Connectors_Amass.pretty/contents/{+path}
+    contributors_url: https://api.github.com/repos/realthunder/Connectors_Amass.pretty/contributors
+    created_at: '2016-10-19T04:54:37Z'
+    default_branch: master
+    deployments_url: https://api.github.com/repos/realthunder/Connectors_Amass.pretty/deployments
+    description: Kicad footprints for AMASS connectors
+    disabled: false
+    downloads_url: https://api.github.com/repos/realthunder/Connectors_Amass.pretty/downloads
+    events_url: https://api.github.com/repos/realthunder/Connectors_Amass.pretty/events
+    fork: false
+    forks: 0
+    forks_count: 0
+    forks_url: https://api.github.com/repos/realthunder/Connectors_Amass.pretty/forks
+    full_name: realthunder/Connectors_Amass.pretty
+    git_commits_url: https://api.github.com/repos/realthunder/Connectors_Amass.pretty/git/commits{/sha}
+    git_refs_url: https://api.github.com/repos/realthunder/Connectors_Amass.pretty/git/refs{/sha}
+    git_tags_url: https://api.github.com/repos/realthunder/Connectors_Amass.pretty/git/tags{/sha}
+    git_url: git://github.com/realthunder/Connectors_Amass.pretty.git
+    has_discussions: false
+    has_downloads: true
+    has_issues: true
+    has_pages: false
+    has_projects: true
+    has_wiki: true
+    homepage: null
+    hooks_url: https://api.github.com/repos/realthunder/Connectors_Amass.pretty/hooks
+    html_url: https://github.com/realthunder/Connectors_Amass.pretty
+    id: 71320246
+    is_template: false
+    issue_comment_url: https://api.github.com/repos/realthunder/Connectors_Amass.pretty/issues/comments{/number}
+    issue_events_url: https://api.github.com/repos/realthunder/Connectors_Amass.pretty/issues/events{/number}
+    issues_url: https://api.github.com/repos/realthunder/Connectors_Amass.pretty/issues{/number}
+    keys_url: https://api.github.com/repos/realthunder/Connectors_Amass.pretty/keys{/key_id}
+    labels_url: https://api.github.com/repos/realthunder/Connectors_Amass.pretty/labels{/name}
+    language: null
+    languages_url: https://api.github.com/repos/realthunder/Connectors_Amass.pretty/languages
+    license: null
+    merges_url: https://api.github.com/repos/realthunder/Connectors_Amass.pretty/merges
+    milestones_url: https://api.github.com/repos/realthunder/Connectors_Amass.pretty/milestones{/number}
+    mirror_url: null
+    name: Connectors_Amass.pretty
+    network_count: 0
+    node_id: MDEwOlJlcG9zaXRvcnk3MTMyMDI0Ng==
+    notifications_url: https://api.github.com/repos/realthunder/Connectors_Amass.pretty/notifications{?since,all,participating}
+    open_issues: 0
+    open_issues_count: 0
+    owner:
+      avatar_url: https://avatars.githubusercontent.com/u/1207888?v=4
+      events_url: https://api.github.com/users/realthunder/events{/privacy}
+      followers_url: https://api.github.com/users/realthunder/followers
+      following_url: https://api.github.com/users/realthunder/following{/other_user}
+      gists_url: https://api.github.com/users/realthunder/gists{/gist_id}
+      gravatar_id: ''
+      html_url: https://github.com/realthunder
+      id: 1207888
+      login: realthunder
+      node_id: MDQ6VXNlcjEyMDc4ODg=
+      organizations_url: https://api.github.com/users/realthunder/orgs
+      received_events_url: https://api.github.com/users/realthunder/received_events
+      repos_url: https://api.github.com/users/realthunder/repos
+      site_admin: false
+      starred_url: https://api.github.com/users/realthunder/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/realthunder/subscriptions
+      type: User
+      url: https://api.github.com/users/realthunder
+    private: false
+    pulls_url: https://api.github.com/repos/realthunder/Connectors_Amass.pretty/pulls{/number}
+    pushed_at: '2016-10-20T03:01:08Z'
+    releases_url: https://api.github.com/repos/realthunder/Connectors_Amass.pretty/releases{/id}
+    size: 2
+    ssh_url: git@github.com:realthunder/Connectors_Amass.pretty.git
+    stargazers_count: 0
+    stargazers_url: https://api.github.com/repos/realthunder/Connectors_Amass.pretty/stargazers
+    statuses_url: https://api.github.com/repos/realthunder/Connectors_Amass.pretty/statuses/{sha}
+    subscribers_count: 2
+    subscribers_url: https://api.github.com/repos/realthunder/Connectors_Amass.pretty/subscribers
+    subscription_url: https://api.github.com/repos/realthunder/Connectors_Amass.pretty/subscription
+    svn_url: https://github.com/realthunder/Connectors_Amass.pretty
+    tags_url: https://api.github.com/repos/realthunder/Connectors_Amass.pretty/tags
+    teams_url: https://api.github.com/repos/realthunder/Connectors_Amass.pretty/teams
+    temp_clone_token: null
+    topics: []
+    trees_url: https://api.github.com/repos/realthunder/Connectors_Amass.pretty/git/trees{/sha}
+    updated_at: '2016-10-19T04:54:37Z'
+    url: https://api.github.com/repos/realthunder/Connectors_Amass.pretty
+    visibility: public
+    watchers: 0
+    watchers_count: 0
+    web_commit_signoff_required: false
   url: http://github.com/realthunder/Connectors_Amass.pretty

@@ -1,0 +1,39 @@
+- file: data//oomlout_oomp_footprint_src/kicad-footprints/RF_Antenna.pretty/Molex_47948-0001_2.4Ghz.kicad_mod
+  footprint:
+    description: SMD antenna 2400-2500Mhz, 3.7dBi, https://www.molex.com/content/dam/molex/molex-dot-com/products/automated/en-us/productspecificationpdf/479/47948/PS-47948-001-001.pdf?inline
+    libraryLink: Molex_47948-0001_2.4Ghz
+    number_of_pads: 4
+  footprint_library_directory: footprint_library_owner/kicad-legacy_kicad-footprints
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/kicad_legacy_rf_antenna_molex_47948_0001_2_4ghz/working
+  github_path: http://github.com/kicad-legacy/kicad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/RF_Antenna.pretty/Molex_47948-0001_2.4Ghz.kicad_mod
+  links:
+    github_src: http://gitlab.com/kicad-legacy/kicad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod
+    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/kicad_legacy_rf_antenna_molex_47948_0001_2_4ghz/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/kicad_legacy_rf_antenna_molex_47948_0001_2_4ghz/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/kicad_legacy_rf_antenna_molex_47948_0001_2_4ghz/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/kicad_legacy_rf_antenna_molex_47948_0001_2_4ghz/working
+  name: kicad-footprints
+  oomp:
+    footprint_name: molex_47948_0001_2_4ghz
+    library_name: rf_antenna
+    md5: 07e357f37cd3293b6f0452c6099b093f
+    md5_10: 07e357f37c
+    md5_5: 07e35
+    md5_6: 07e357
+    oomp_key: oomp_kicad_legacy_rf_antenna_molex_47948_0001_2_4ghz
+    oomp_key_extra: oomp_footprint_kicad_legacy_rf_antenna_molex_47948_0001_2_4ghz
+    oomp_key_full: oomp_footprint_kicad_legacy_rf_antenna_molex_47948_0001_2_4ghz_07e357
+    oomp_key_simple: kicad_legacy_rf_antenna_molex_47948_0001_2_4ghz
+    original_filename: data//oomlout_oomp_footprint_src/kicad-footprints/RF_Antenna.pretty/Molex_47948-0001_2.4Ghz.kicad_mod
+    owner_name: kicad_legacy
+  oomp_key: oomp_kicad_legacy_rf_antenna_molex_47948_0001_2_4ghz
+  oomp_key_full: oomp_footprint_kicad_legacy_rf_antenna_molex_47948_0001_2_4ghz
+  oomp_key_simple: kicad_legacy_rf_antenna_molex_47948_0001_2_4ghz
+  owner: kicad-legacy
+  repo:
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
+  url: http://github.com/kicad-legacy/kicad-footprints

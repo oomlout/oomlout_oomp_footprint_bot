@@ -1,20 +1,20 @@
-- file: SIL-Headers.pretty/SIL-1.kicad_mod
+- file: data//oomlout_oomp_footprint_src/SIL-Headers.pretty/SIL-1.kicad_mod
   footprint:
     description: null
     libraryLink: SIL-1
     number_of_pads: 1
   footprint_library_directory: footprint_library_owner/madworm_SIL-Headers.pretty
-  footprint_library_directory_flat: footprints_flat/madworm_sil_headers_sil_1/working
-  github_path: http://github.com/madworm/SIL-Headers.pretty/blob/master/SIL-1.kicad_mod
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/madworm_sil_headers_sil_1/working
+  github_path: http://github.com/madworm/SIL-Headers.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/SIL-1.kicad_mod
   links:
     github_owner: madworm
     github_repo_name: SIL-Headers.pretty
-    github_src: http://github.com/madworm/SIL-Headers.pretty/blob/master/SIL-9.kicad_mod
+    github_src: http://github.com/madworm/SIL-Headers.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/SIL-9.kicad_mod
     github_src_repo: https://github.com/madworm/SIL-Headers.pretty
-    oomp_bot: footprints/madworm_sil_headers_sil_1/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/madworm_sil_headers_sil_1/working
-    oomp_src_flat: footprints_flat/footprints_flat/madworm_sil_headers_sil_1/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/madworm_sil_headers_sil_1/working
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/madworm_sil_headers_sil_1/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/madworm_sil_headers_sil_1/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/madworm_sil_headers_sil_1/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/madworm_sil_headers_sil_1/working
   name: SIL-Headers.pretty
   oomp:
     footprint_name: sil_1
@@ -27,7 +27,7 @@
     oomp_key_extra: oomp_footprint_madworm_sil_headers_sil_1
     oomp_key_full: oomp_footprint_madworm_sil_headers_sil_1_c22ae9
     oomp_key_simple: madworm_sil_headers_sil_1
-    original_filename: SIL-Headers.pretty/SIL-1.kicad_mod
+    original_filename: data//oomlout_oomp_footprint_src/SIL-Headers.pretty/SIL-1.kicad_mod
     owner_name: madworm
   oomp_key: oomp_madworm_sil_headers_sil_1
   oomp_key_full: oomp_footprint_madworm_sil_headers_sil_1

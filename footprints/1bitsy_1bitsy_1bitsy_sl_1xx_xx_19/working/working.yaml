@@ -1,20 +1,20 @@
-- file: 1bitsy-hardware-lib/kicad/1bitsy.pretty/1bitsy-sl-1xx-xx-19.kicad_mod
+- file: data//oomlout_oomp_footprint_src/1bitsy-hardware-lib/kicad/1bitsy.pretty/1bitsy-sl-1xx-xx-19.kicad_mod
   footprint:
     description: null
     libraryLink: 1bitsy-sl-1xx-xx-19
     number_of_pads: 44
   footprint_library_directory: footprint_library_owner/1Bitsy_1bitsy-hardware-lib
-  footprint_library_directory_flat: footprints_flat/1bitsy_1bitsy_1bitsy_sl_1xx_xx_19/working
-  github_path: http://github.com/1Bitsy/1bitsy-hardware-lib/blob/master/kicad/1bitsy.pretty/1bitsy-sl-1xx-xx-19.kicad_mod
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/1bitsy_1bitsy_1bitsy_sl_1xx_xx_19/working
+  github_path: http://github.com/1Bitsy/1bitsy-hardware-lib/blob/master/tmp/data//oomlout_oomp_footprint_src/kicad/1bitsy.pretty/1bitsy-sl-1xx-xx-19.kicad_mod
   links:
     github_owner: 1Bitsy
     github_repo_name: 1bitsy-hardware-lib
-    github_src: http://github.com/1Bitsy/1bitsy-hardware-lib/blob/master/kicad/1bitsy.pretty/1bitsy.kicad_mod
+    github_src: http://github.com/1Bitsy/1bitsy-hardware-lib/blob/master/tmp/data//oomlout_oomp_footprint_src/kicad/1bitsy.pretty/1bitsy.kicad_mod
     github_src_repo: https://github.com/1Bitsy/1bitsy-hardware-lib
-    oomp_bot: footprints/1bitsy_1bitsy_1bitsy_sl_1xx_xx_19/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/1bitsy_1bitsy_1bitsy_sl_1xx_xx_19/working
-    oomp_src_flat: footprints_flat/footprints_flat/1bitsy_1bitsy_1bitsy_sl_1xx_xx_19/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/1bitsy_1bitsy_1bitsy_sl_1xx_xx_19/working
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/1bitsy_1bitsy_1bitsy_sl_1xx_xx_19/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/1bitsy_1bitsy_1bitsy_sl_1xx_xx_19/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/1bitsy_1bitsy_1bitsy_sl_1xx_xx_19/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/1bitsy_1bitsy_1bitsy_sl_1xx_xx_19/working
   name: 1bitsy-hardware-lib
   oomp:
     footprint_name: 1bitsy_sl_1xx_xx_19
@@ -27,7 +27,7 @@
     oomp_key_extra: oomp_footprint_1bitsy_1bitsy_1bitsy_sl_1xx_xx_19
     oomp_key_full: oomp_footprint_1bitsy_1bitsy_1bitsy_sl_1xx_xx_19_06b6f5
     oomp_key_simple: 1bitsy_1bitsy_1bitsy_sl_1xx_xx_19
-    original_filename: 1bitsy-hardware-lib/kicad/1bitsy.pretty/1bitsy-sl-1xx-xx-19.kicad_mod
+    original_filename: data//oomlout_oomp_footprint_src/1bitsy-hardware-lib/kicad/1bitsy.pretty/1bitsy-sl-1xx-xx-19.kicad_mod
     owner_name: 1bitsy
   oomp_key: oomp_1bitsy_1bitsy_1bitsy_sl_1xx_xx_19
   oomp_key_full: oomp_footprint_1bitsy_1bitsy_1bitsy_sl_1xx_xx_19
@@ -136,7 +136,7 @@
     releases_url: https://api.github.com/repos/1Bitsy/1bitsy-hardware-lib/releases{/id}
     size: 12
     ssh_url: git@github.com:1Bitsy/1bitsy-hardware-lib.git
-    stargazers_count: 7
+    stargazers_count: 6
     stargazers_url: https://api.github.com/repos/1Bitsy/1bitsy-hardware-lib/stargazers
     statuses_url: https://api.github.com/repos/1Bitsy/1bitsy-hardware-lib/statuses/{sha}
     subscribers_count: 2
@@ -148,10 +148,10 @@
     temp_clone_token: null
     topics: []
     trees_url: https://api.github.com/repos/1Bitsy/1bitsy-hardware-lib/git/trees{/sha}
-    updated_at: '2022-07-09T15:25:49Z'
+    updated_at: '2023-09-08T17:14:11Z'
     url: https://api.github.com/repos/1Bitsy/1bitsy-hardware-lib
     visibility: public
-    watchers: 7
-    watchers_count: 7
+    watchers: 6
+    watchers_count: 6
     web_commit_signoff_required: false
   url: http://github.com/1Bitsy/1bitsy-hardware-lib

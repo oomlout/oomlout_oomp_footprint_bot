@@ -1,29 +1,20 @@
-# kicad_reinnovation by re-innovation  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/re-innovation/kicad_reinnovation/blob/master/KiCAD PRETTY/Transistors_SMD.pretty/VLM0806_Housing_Handsoldering.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: DD-PAK, TO263, Single Diode, Thermal Vias,  
-* libraryLink: DD-PAK_TO263_SingleDiode_ThermalVias  
-* number_of_pads: 47  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | kicad_reinnovation/KiCAD PRETTY/Diodes_SMD.pretty/DD-PAK_TO263_SingleDiode_ThermalVias.kicad_mod |  
-| footprint | {'description': 'DD-PAK, TO263, Single Diode, Thermal Vias,', 'libraryLink': 'DD-PAK_TO263_SingleDiode_ThermalVias', 'number_of_pads': 47} |  
-| footprint_library_directory | footprint_library_owner/re-innovation_kicad_reinnovation |  
-| footprint_library_directory_flat | footprints_flat/re_innovation_diodes_smd_dd_pak_to263_singlediode_thermalvias/working |  
-| github_path | http://github.com/re-innovation/kicad_reinnovation/blob/master/KiCAD PRETTY/Diodes_SMD.pretty/DD-PAK_TO263_SingleDiode_ThermalVias.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/re-innovation/kicad_reinnovation/blob/master/KiCAD PRETTY/Transistors_SMD.pretty/VLM0806_Housing_Handsoldering.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/re_innovation_diodes_smd_dd_pak_to263_singlediode_thermalvias/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/re_innovation_diodes_smd_dd_pak_to263_singlediode_thermalvias/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/re_innovation_diodes_smd_dd_pak_to263_singlediode_thermalvias/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/re_innovation_diodes_smd_dd_pak_to263_singlediode_thermalvias/working'} |  
-| name | kicad_reinnovation |  
-| oomp | {'footprint_name': 'dd_pak_to263_singlediode_thermalvias', 'library_name': 'diodes_smd', 'md5': '6cd161396127f2f4a94bde55ff492cdb', 'md5_10': '6cd1613961', 'md5_5': '6cd16', 'md5_6': '6cd161', 'oomp_key': 'oomp_re_innovation_diodes_smd_dd_pak_to263_singlediode_thermalvias', 'oomp_key_extra': 'oomp_footprint_re_innovation_diodes_smd_dd_pak_to263_singlediode_thermalvias', 'oomp_key_full': 'oomp_footprint_re_innovation_diodes_smd_dd_pak_to263_singlediode_thermalvias_6cd161', 'oomp_key_simple': 're_innovation_diodes_smd_dd_pak_to263_singlediode_thermalvias', 'original_filename': 'kicad_reinnovation/KiCAD PRETTY/Diodes_SMD.pretty/DD-PAK_TO263_SingleDiode_ThermalVias.kicad_mod', 'owner_name': 're_innovation'} |  
-| oomp_key | oomp_re_innovation_diodes_smd_dd_pak_to263_singlediode_thermalvias |  
-| oomp_key_full | oomp_footprint_re_innovation_diodes_smd_dd_pak_to263_singlediode_thermalvias |  
-| oomp_key_simple | re_innovation_diodes_smd_dd_pak_to263_singlediode_thermalvias |  
-| owner | re-innovation |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/re-innovation/kicad_reinnovation |  
-
+# OOMP Footprint  
+## DD-PAK_TO263_SingleDiode_ThermalVias  by none  
+  
+oomp key: oomp_re_innovation_diodes_smd_dd_pak_to263_singlediode_thermalvias  
+  
+source repo at: [http://gitlab.com/re-innovation/kicad_reinnovation/blob/master/KiCAD PRETTY/Transistors_SMD.pretty/VLM0806_Housing_Handsoldering.kicad_mod](http://gitlab.com/re-innovation/kicad_reinnovation/blob/master/KiCAD PRETTY/Transistors_SMD.pretty/VLM0806_Housing_Handsoldering.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | DD-PAK_TO263_SingleDiode_ThermalVias | 
+| footprint description | DD-PAK, TO263, Single Diode, Thermal Vias, | 
+| number of pads | 47 | 
+| github path | http://github.com/re-innovation/kicad_reinnovation/blob/master/KiCAD PRETTY/Diodes_SMD.pretty/DD-PAK_TO263_SingleDiode_ThermalVias.kicad_mod | 
+| oomp key | oomp_re_innovation_diodes_smd_dd_pak_to263_singlediode_thermalvias | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/re_innovation_diodes_smd_dd_pak_to263_singlediode_thermalvias/working | 
+## Images  

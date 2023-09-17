@@ -1,29 +1,20 @@
-# gsg-kicad-lib by greatscottgadgets  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/greatscottgadgets/gsg-kicad-lib/blob/master/gsg-modules.pretty/XTAL5.0x3.2mm.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: None  
-* libraryLink: DEA202484HT  
-* number_of_pads: 6  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | gsg-kicad-lib/gsg-modules.pretty/DEA202484HT.kicad_mod |  
-| footprint | {'description': None, 'libraryLink': 'DEA202484HT', 'number_of_pads': 6} |  
-| footprint_library_directory | footprint_library_owner/greatscottgadgets_gsg-kicad-lib |  
-| footprint_library_directory_flat | footprints_flat/greatscottgadgets_gsg_modules_dea202484ht/working |  
-| github_path | http://github.com/greatscottgadgets/gsg-kicad-lib/blob/master/gsg-modules.pretty/DEA202484HT.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/greatscottgadgets/gsg-kicad-lib/blob/master/gsg-modules.pretty/XTAL5.0x3.2mm.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/greatscottgadgets_gsg_modules_dea202484ht/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/greatscottgadgets_gsg_modules_dea202484ht/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/greatscottgadgets_gsg_modules_dea202484ht/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/greatscottgadgets_gsg_modules_dea202484ht/working'} |  
-| name | gsg-kicad-lib |  
-| oomp | {'footprint_name': 'dea202484ht', 'library_name': 'gsg_modules', 'md5': 'b0eeeeac9de0b9736ac70f9397b85bf7', 'md5_10': 'b0eeeeac9d', 'md5_5': 'b0eee', 'md5_6': 'b0eeee', 'oomp_key': 'oomp_greatscottgadgets_gsg_modules_dea202484ht', 'oomp_key_extra': 'oomp_footprint_greatscottgadgets_gsg_modules_dea202484ht', 'oomp_key_full': 'oomp_footprint_greatscottgadgets_gsg_modules_dea202484ht_b0eeee', 'oomp_key_simple': 'greatscottgadgets_gsg_modules_dea202484ht', 'original_filename': 'gsg-kicad-lib/gsg-modules.pretty/DEA202484HT.kicad_mod', 'owner_name': 'greatscottgadgets'} |  
-| oomp_key | oomp_greatscottgadgets_gsg_modules_dea202484ht |  
-| oomp_key_full | oomp_footprint_greatscottgadgets_gsg_modules_dea202484ht |  
-| oomp_key_simple | greatscottgadgets_gsg_modules_dea202484ht |  
-| owner | greatscottgadgets |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/greatscottgadgets/gsg-kicad-lib |  
-
+# OOMP Footprint  
+## DEA202484HT  by none  
+  
+oomp key: oomp_greatscottgadgets_gsg_modules_dea202484ht  
+  
+source repo at: [http://gitlab.com/greatscottgadgets/gsg-kicad-lib/blob/master/gsg-modules.pretty/XTAL5.0x3.2mm.kicad_mod](http://gitlab.com/greatscottgadgets/gsg-kicad-lib/blob/master/gsg-modules.pretty/XTAL5.0x3.2mm.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | DEA202484HT | 
+| footprint description | None | 
+| number of pads | 6 | 
+| github path | http://github.com/greatscottgadgets/gsg-kicad-lib/blob/master/gsg-modules.pretty/DEA202484HT.kicad_mod | 
+| oomp key | oomp_greatscottgadgets_gsg_modules_dea202484ht | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/greatscottgadgets_gsg_modules_dea202484ht/working | 
+## Images  

@@ -1,29 +1,20 @@
-# digikey-kicad-library by digikey  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/digikey/digikey-kicad-library/blob/master/src/Source_Footprints/Zigbee_Module_MRF24J40MD.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: http://www.st.com/content/ccc/resource/technical/document/datasheet/c1/e1/62/31/d2/b1/4d/bb/DM00042751.pdf/files/DM00042751.pdf/jcr:content/translations/en.DM00042751.pdf  
-* libraryLink: LGA-14_2x2mm  
-* number_of_pads: 14  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | digikey-kicad-library/digikey-footprints.pretty/LGA-14_2x2mm.kicad_mod |  
-| footprint | {'description': 'http://www.st.com/content/ccc/resource/technical/document/datasheet/c1/e1/62/31/d2/b1/4d/bb/DM00042751.pdf/files/DM00042751.pdf/jcr:content/translations/en.DM00042751.pdf', 'libraryLink': 'LGA-14_2x2mm', 'number_of_pads': 14} |  
-| footprint_library_directory | footprint_library_owner/digikey_digikey-kicad-library |  
-| footprint_library_directory_flat | footprints_flat/digikey_digikey_footprints_lga_14_2x2mm/working |  
-| github_path | http://github.com/digikey/digikey-kicad-library/blob/master/digikey-footprints.pretty/LGA-14_2x2mm.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/digikey/digikey-kicad-library/blob/master/src/Source_Footprints/Zigbee_Module_MRF24J40MD.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/digikey_digikey_footprints_lga_14_2x2mm/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_digikey_footprints_lga_14_2x2mm/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/digikey_digikey_footprints_lga_14_2x2mm/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/digikey_digikey_footprints_lga_14_2x2mm/working'} |  
-| name | digikey-kicad-library |  
-| oomp | {'footprint_name': 'lga_14_2x2mm', 'library_name': 'digikey_footprints', 'md5': '8ddfa4288b82cab52098f71c57c96ebf', 'md5_10': '8ddfa4288b', 'md5_5': '8ddfa', 'md5_6': '8ddfa4', 'oomp_key': 'oomp_digikey_digikey_footprints_lga_14_2x2mm', 'oomp_key_extra': 'oomp_footprint_digikey_digikey_footprints_lga_14_2x2mm', 'oomp_key_full': 'oomp_footprint_digikey_digikey_footprints_lga_14_2x2mm_8ddfa4', 'oomp_key_simple': 'digikey_digikey_footprints_lga_14_2x2mm', 'original_filename': 'digikey-kicad-library/digikey-footprints.pretty/LGA-14_2x2mm.kicad_mod', 'owner_name': 'digikey'} |  
-| oomp_key | oomp_digikey_digikey_footprints_lga_14_2x2mm |  
-| oomp_key_full | oomp_footprint_digikey_digikey_footprints_lga_14_2x2mm |  
-| oomp_key_simple | digikey_digikey_footprints_lga_14_2x2mm |  
-| owner | digikey |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/digikey/digikey-kicad-library |  
-
+# OOMP Footprint  
+## LGA-14_2x2mm  by none  
+  
+oomp key: oomp_digikey_digikey_footprints_lga_14_2x2mm  
+  
+source repo at: [http://gitlab.com/digikey/digikey-kicad-library/blob/master/src/Source_Footprints/Zigbee_Module_MRF24J40MD.kicad_mod](http://gitlab.com/digikey/digikey-kicad-library/blob/master/src/Source_Footprints/Zigbee_Module_MRF24J40MD.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | LGA-14_2x2mm | 
+| footprint description | http://www.st.com/content/ccc/resource/technical/document/datasheet/c1/e1/62/31/d2/b1/4d/bb/DM00042751.pdf/files/DM00042751.pdf/jcr:content/translations/en.DM00042751.pdf | 
+| number of pads | 14 | 
+| github path | http://github.com/digikey/digikey-kicad-library/blob/master/digikey-footprints.pretty/LGA-14_2x2mm.kicad_mod | 
+| oomp key | oomp_digikey_digikey_footprints_lga_14_2x2mm | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_digikey_footprints_lga_14_2x2mm/working | 
+## Images  

@@ -1,0 +1,38 @@
+- file: data//oomlout_oomp_footprint_src/kicad-footprints/Package_SO.pretty/HTSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.75x6.2mm_ThermalVias.kicad_mod
+  footprint:
+    description: HTSSOP, 28 Pin (https://www.trinamic.com/fileadmin/assets/Support/AppNotes/AN005x-IC_Package_PCB_Footprint_Guidelines_HTSSOP28_rev1.00.pdf),
+      generated with kicad-footprint-generator ipc_gullwing_generator.py
+    libraryLink: HTSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.75x6.2mm_ThermalVias
+    number_of_pads: 41
+  footprint_library_directory: footprint_library_owner/kicad_kicad-footprints/
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/kicad_package_so_htssop_28_1ep_4_4x9_7mm_p0_65mm_ep2_75x6_2mm_thermalvias/working
+  github_path: http://github.com/kicad/kicad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/Package_SO.pretty/HTSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.75x6.2mm_ThermalVias.kicad_mod
+  links:
+    github_src: http://gitlab.com/kicad/kicad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod
+    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/kicad_package_so_htssop_28_1ep_4_4x9_7mm_p0_65mm_ep2_75x6_2mm_thermalvias/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/kicad_package_so_htssop_28_1ep_4_4x9_7mm_p0_65mm_ep2_75x6_2mm_thermalvias/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/kicad_package_so_htssop_28_1ep_4_4x9_7mm_p0_65mm_ep2_75x6_2mm_thermalvias/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/kicad_package_so_htssop_28_1ep_4_4x9_7mm_p0_65mm_ep2_75x6_2mm_thermalvias/working
+  name: kicad-footprints
+  oomp:
+    footprint_name: htssop_28_1ep_4_4x9_7mm_p0_65mm_ep2_75x6_2mm_thermalvias
+    library_name: package_so
+    md5: 226c4a451db7251f0b749f1ac0189c1f
+    md5_10: 226c4a451d
+    md5_5: 226c4
+    md5_6: 226c4a
+    oomp_key: oomp_kicad_package_so_htssop_28_1ep_4_4x9_7mm_p0_65mm_ep2_75x6_2mm_thermalvias
+    oomp_key_extra: oomp_footprint_kicad_package_so_htssop_28_1ep_4_4x9_7mm_p0_65mm_ep2_75x6_2mm_thermalvias
+    oomp_key_full: oomp_footprint_kicad_package_so_htssop_28_1ep_4_4x9_7mm_p0_65mm_ep2_75x6_2mm_thermalvias_226c4a
+    oomp_key_simple: kicad_package_so_htssop_28_1ep_4_4x9_7mm_p0_65mm_ep2_75x6_2mm_thermalvias
+    original_filename: data//oomlout_oomp_footprint_src/kicad-footprints/Package_SO.pretty/HTSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.75x6.2mm_ThermalVias.kicad_mod
+    owner_name: kicad
+  oomp_key: oomp_kicad_package_so_htssop_28_1ep_4_4x9_7mm_p0_65mm_ep2_75x6_2mm_thermalvias
+  oomp_key_full: oomp_footprint_kicad_package_so_htssop_28_1ep_4_4x9_7mm_p0_65mm_ep2_75x6_2mm_thermalvias
+  oomp_key_simple: kicad_package_so_htssop_28_1ep_4_4x9_7mm_p0_65mm_ep2_75x6_2mm_thermalvias
+  owner: kicad
+  repo:
+    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
+    message: Not Found
+  url: https://gitlab.com/kicad/libraries/kicad-footprints

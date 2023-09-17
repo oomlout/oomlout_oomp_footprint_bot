@@ -1,20 +1,20 @@
-- file: KUT_Sensor.pretty/AE-GYSFDMAXB.kicad_mod
+- file: data//oomlout_oomp_footprint_src/KUT_Sensor.pretty/AE-GYSFDMAXB.kicad_mod
   footprint:
     description: null
     libraryLink: AE-GYSFDMAXB
     number_of_pads: 12
   footprint_library_directory: footprint_library_owner/KUT-KiCad_KUT_Sensor.pretty
-  footprint_library_directory_flat: footprints_flat/kut_kicad_kut_sensor_ae_gysfdmaxb/working
-  github_path: http://github.com/KUT-KiCad/KUT_Sensor.pretty/blob/master/AE-GYSFDMAXB.kicad_mod
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/kut_kicad_kut_sensor_ae_gysfdmaxb/working
+  github_path: http://github.com/KUT-KiCad/KUT_Sensor.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/AE-GYSFDMAXB.kicad_mod
   links:
     github_owner: KUT-KiCad
     github_repo_name: KUT_Sensor.pretty
-    github_src: http://github.com/KUT-KiCad/KUT_Sensor.pretty/blob/master/Strawberry-Linux_Module_8P_NoHole.kicad_mod
+    github_src: http://github.com/KUT-KiCad/KUT_Sensor.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Strawberry-Linux_Module_8P_NoHole.kicad_mod
     github_src_repo: https://github.com/KUT-KiCad/KUT_Sensor.pretty
-    oomp_bot: footprints/kut_kicad_kut_sensor_ae_gysfdmaxb/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kut_kicad_kut_sensor_ae_gysfdmaxb/working
-    oomp_src_flat: footprints_flat/footprints_flat/kut_kicad_kut_sensor_ae_gysfdmaxb/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kut_kicad_kut_sensor_ae_gysfdmaxb/working
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/kut_kicad_kut_sensor_ae_gysfdmaxb/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/kut_kicad_kut_sensor_ae_gysfdmaxb/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/kut_kicad_kut_sensor_ae_gysfdmaxb/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/kut_kicad_kut_sensor_ae_gysfdmaxb/working
   name: KUT_Sensor.pretty
   oomp:
     footprint_name: ae_gysfdmaxb
@@ -27,7 +27,7 @@
     oomp_key_extra: oomp_footprint_kut_kicad_kut_sensor_ae_gysfdmaxb
     oomp_key_full: oomp_footprint_kut_kicad_kut_sensor_ae_gysfdmaxb_7e7fb0
     oomp_key_simple: kut_kicad_kut_sensor_ae_gysfdmaxb
-    original_filename: KUT_Sensor.pretty/AE-GYSFDMAXB.kicad_mod
+    original_filename: data//oomlout_oomp_footprint_src/KUT_Sensor.pretty/AE-GYSFDMAXB.kicad_mod
     owner_name: kut_kicad
   oomp_key: oomp_kut_kicad_kut_sensor_ae_gysfdmaxb
   oomp_key_full: oomp_footprint_kut_kicad_kut_sensor_ae_gysfdmaxb

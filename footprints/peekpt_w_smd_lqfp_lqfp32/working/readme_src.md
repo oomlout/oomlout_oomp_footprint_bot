@@ -1,29 +1,20 @@
-# kicad_smisioto by peekpt  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/peekpt/kicad_smisioto/blob/master/modules/walter/w_vacuum.pretty/tube_gzc9-b.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: LQFP-32  
-* libraryLink: lqfp32  
-* number_of_pads: 32  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | kicad_smisioto/modules/walter/w_smd_lqfp.pretty/lqfp32.kicad_mod |  
-| footprint | {'description': 'LQFP-32', 'libraryLink': 'lqfp32', 'number_of_pads': 32} |  
-| footprint_library_directory | footprint_library_owner/peekpt_kicad_smisioto |  
-| footprint_library_directory_flat | footprints_flat/peekpt_w_smd_lqfp_lqfp32/working |  
-| github_path | http://github.com/peekpt/kicad_smisioto/blob/master/modules/walter/w_smd_lqfp.pretty/lqfp32.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/peekpt/kicad_smisioto/blob/master/modules/walter/w_vacuum.pretty/tube_gzc9-b.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/peekpt_w_smd_lqfp_lqfp32/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/peekpt_w_smd_lqfp_lqfp32/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/peekpt_w_smd_lqfp_lqfp32/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/peekpt_w_smd_lqfp_lqfp32/working'} |  
-| name | kicad_smisioto |  
-| oomp | {'footprint_name': 'lqfp32', 'library_name': 'w_smd_lqfp', 'md5': 'd1f63f07d26f69bbda9d8fdb290b9371', 'md5_10': 'd1f63f07d2', 'md5_5': 'd1f63', 'md5_6': 'd1f63f', 'oomp_key': 'oomp_peekpt_w_smd_lqfp_lqfp32', 'oomp_key_extra': 'oomp_footprint_peekpt_w_smd_lqfp_lqfp32', 'oomp_key_full': 'oomp_footprint_peekpt_w_smd_lqfp_lqfp32_d1f63f', 'oomp_key_simple': 'peekpt_w_smd_lqfp_lqfp32', 'original_filename': 'kicad_smisioto/modules/walter/w_smd_lqfp.pretty/lqfp32.kicad_mod', 'owner_name': 'peekpt'} |  
-| oomp_key | oomp_peekpt_w_smd_lqfp_lqfp32 |  
-| oomp_key_full | oomp_footprint_peekpt_w_smd_lqfp_lqfp32 |  
-| oomp_key_simple | peekpt_w_smd_lqfp_lqfp32 |  
-| owner | peekpt |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/peekpt/kicad_smisioto |  
-
+# OOMP Footprint  
+## lqfp32  by none  
+  
+oomp key: oomp_peekpt_w_smd_lqfp_lqfp32  
+  
+source repo at: [http://gitlab.com/peekpt/kicad_smisioto/blob/master/modules/walter/w_vacuum.pretty/tube_gzc9-b.kicad_mod](http://gitlab.com/peekpt/kicad_smisioto/blob/master/modules/walter/w_vacuum.pretty/tube_gzc9-b.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | lqfp32 | 
+| footprint description | LQFP-32 | 
+| number of pads | 32 | 
+| github path | http://github.com/peekpt/kicad_smisioto/blob/master/modules/walter/w_smd_lqfp.pretty/lqfp32.kicad_mod | 
+| oomp key | oomp_peekpt_w_smd_lqfp_lqfp32 | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/peekpt_w_smd_lqfp_lqfp32/working | 
+## Images  

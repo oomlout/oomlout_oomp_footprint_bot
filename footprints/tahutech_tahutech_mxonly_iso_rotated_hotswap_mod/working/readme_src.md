@@ -1,29 +1,20 @@
-# tahutech.pretty by TahuTech  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/TahuTech/tahutech.pretty/blob/master/tahutech.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: None  
-* libraryLink: MXOnly-ISO-ROTATED-Hotswap-Mod  
-* number_of_pads: 24  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | tahutech.pretty/MXOnly-ISO-ROTATED-Hotswap-Mod.kicad_mod |  
-| footprint | {'description': None, 'libraryLink': 'MXOnly-ISO-ROTATED-Hotswap-Mod', 'number_of_pads': 24} |  
-| footprint_library_directory | footprint_library_owner/TahuTech_tahutech.pretty |  
-| footprint_library_directory_flat | footprints_flat/tahutech_tahutech_mxonly_iso_rotated_hotswap_mod/working |  
-| github_path | http://github.com/TahuTech/tahutech.pretty/blob/master/MXOnly-ISO-ROTATED-Hotswap-Mod.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/TahuTech/tahutech.pretty/blob/master/tahutech.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/tahutech_tahutech_mxonly_iso_rotated_hotswap_mod/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/tahutech_tahutech_mxonly_iso_rotated_hotswap_mod/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/tahutech_tahutech_mxonly_iso_rotated_hotswap_mod/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/tahutech_tahutech_mxonly_iso_rotated_hotswap_mod/working'} |  
-| name | tahutech.pretty |  
-| oomp | {'footprint_name': 'mxonly_iso_rotated_hotswap_mod', 'library_name': 'tahutech', 'md5': 'a1dd57b7b7925cbe47bede6de6b7e762', 'md5_10': 'a1dd57b7b7', 'md5_5': 'a1dd5', 'md5_6': 'a1dd57', 'oomp_key': 'oomp_tahutech_tahutech_mxonly_iso_rotated_hotswap_mod', 'oomp_key_extra': 'oomp_footprint_tahutech_tahutech_mxonly_iso_rotated_hotswap_mod', 'oomp_key_full': 'oomp_footprint_tahutech_tahutech_mxonly_iso_rotated_hotswap_mod_a1dd57', 'oomp_key_simple': 'tahutech_tahutech_mxonly_iso_rotated_hotswap_mod', 'original_filename': 'tahutech.pretty/MXOnly-ISO-ROTATED-Hotswap-Mod.kicad_mod', 'owner_name': 'tahutech'} |  
-| oomp_key | oomp_tahutech_tahutech_mxonly_iso_rotated_hotswap_mod |  
-| oomp_key_full | oomp_footprint_tahutech_tahutech_mxonly_iso_rotated_hotswap_mod |  
-| oomp_key_simple | tahutech_tahutech_mxonly_iso_rotated_hotswap_mod |  
-| owner | TahuTech |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/TahuTech/tahutech.pretty |  
-
+# OOMP Footprint  
+## MXOnly-ISO-ROTATED-Hotswap-Mod  by none  
+  
+oomp key: oomp_tahutech_tahutech_mxonly_iso_rotated_hotswap_mod  
+  
+source repo at: [http://gitlab.com/TahuTech/tahutech.pretty/blob/master/tahutech.kicad_mod](http://gitlab.com/TahuTech/tahutech.pretty/blob/master/tahutech.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | MXOnly-ISO-ROTATED-Hotswap-Mod | 
+| footprint description | None | 
+| number of pads | 24 | 
+| github path | http://github.com/TahuTech/tahutech.pretty/blob/master/MXOnly-ISO-ROTATED-Hotswap-Mod.kicad_mod | 
+| oomp key | oomp_tahutech_tahutech_mxonly_iso_rotated_hotswap_mod | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/tahutech_tahutech_mxonly_iso_rotated_hotswap_mod/working | 
+## Images  

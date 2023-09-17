@@ -1,29 +1,28 @@
-# libraries/kicad-footprints/ by kicad  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: Broadcom  LGA, 8 Pin (https://docs.broadcom.com/docs/AV02-4755EN), generated with kicad-footprint-generator ipc_noLead_generator.py  
-* libraryLink: Broadcom_LGA-8_2x2mm_P0.53mm  
-* number_of_pads: 8  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | libraries/kicad-footprints/OptoDevice.pretty/Broadcom_LGA-8_2x2mm_P0.53mm.kicad_mod |  
-| footprint | {'description': 'Broadcom  LGA, 8 Pin (https://docs.broadcom.com/docs/AV02-4755EN), generated with kicad-footprint-generator ipc_noLead_generator.py', 'libraryLink': 'Broadcom_LGA-8_2x2mm_P0.53mm', 'number_of_pads': 8} |  
-| footprint_library_directory | footprint_library_owner/kicad_libraries/kicad-footprints/ |  
-| footprint_library_directory_flat | footprints_flat/kicad_optodevice_broadcom_lga_8_2x2mm_p0_53mm/working |  
-| github_path | http://github.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/OptoDevice.pretty/Broadcom_LGA-8_2x2mm_P0.53mm.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/kicad_optodevice_broadcom_lga_8_2x2mm_p0_53mm/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_optodevice_broadcom_lga_8_2x2mm_p0_53mm/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/kicad_optodevice_broadcom_lga_8_2x2mm_p0_53mm/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_optodevice_broadcom_lga_8_2x2mm_p0_53mm/working'} |  
-| name | libraries/kicad-footprints/ |  
-| oomp | {'footprint_name': 'broadcom_lga_8_2x2mm_p0_53mm', 'library_name': 'optodevice', 'md5': '4838304b7e307e2c03ff056c996f29be', 'md5_10': '4838304b7e', 'md5_5': '48383', 'md5_6': '483830', 'oomp_key': 'oomp_kicad_optodevice_broadcom_lga_8_2x2mm_p0_53mm', 'oomp_key_extra': 'oomp_footprint_kicad_optodevice_broadcom_lga_8_2x2mm_p0_53mm', 'oomp_key_full': 'oomp_footprint_kicad_optodevice_broadcom_lga_8_2x2mm_p0_53mm_483830', 'oomp_key_simple': 'kicad_optodevice_broadcom_lga_8_2x2mm_p0_53mm', 'original_filename': 'libraries/kicad-footprints/OptoDevice.pretty/Broadcom_LGA-8_2x2mm_P0.53mm.kicad_mod', 'owner_name': 'kicad'} |  
-| oomp_key | oomp_kicad_optodevice_broadcom_lga_8_2x2mm_p0_53mm |  
-| oomp_key_full | oomp_footprint_kicad_optodevice_broadcom_lga_8_2x2mm_p0_53mm |  
-| oomp_key_simple | kicad_optodevice_broadcom_lga_8_2x2mm_p0_53mm |  
-| owner | kicad |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | https://gitlab.com/kicad/libraries/kicad-footprints |  
-
+# OOMP Footprint  
+## Broadcom_LGA-8_2x2mm_P0.53mm  by none  
+  
+oomp key: oomp_kicad_optodevice_broadcom_lga_8_2x2mm_p0_53mm  
+  
+source repo at: [http://gitlab.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod](http://gitlab.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | Broadcom_LGA-8_2x2mm_P0.53mm | 
+| footprint description | Broadcom  LGA, 8 Pin (https://docs.broadcom.com/docs/AV02-4755EN), generated with kicad-footprint-generator ipc_noLead_generator.py | 
+| number of pads | 8 | 
+| github path | http://github.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/OptoDevice.pretty/Broadcom_LGA-8_2x2mm_P0.53mm.kicad_mod | 
+| oomp key | oomp_kicad_optodevice_broadcom_lga_8_2x2mm_p0_53mm | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_optodevice_broadcom_lga_8_2x2mm_p0_53mm/working | 
+## Images  
+  
+[![working.png](working_140.png)](working.png)  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_140.png)](working_kicad_pcb_3d.png)  
+  
+[![working_kicad_pcb_3d_back.png](working_kicad_pcb_3d_back_140.png)](working_kicad_pcb_3d_back.png)  
+  
+[![working_kicad_pcb_3d_front.png](working_kicad_pcb_3d_front_140.png)](working_kicad_pcb_3d_front.png)  

@@ -1,29 +1,20 @@
-# rhais_osc.pretty by DX-MON  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/DX-MON/rhais_osc.pretty/blob/master/SMD3225.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: None  
-* libraryLink: SMD2520  
-* number_of_pads: 4  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | rhais_osc.pretty/SMD2520.kicad_mod |  
-| footprint | {'description': None, 'libraryLink': 'SMD2520', 'number_of_pads': 4} |  
-| footprint_library_directory | footprint_library_owner/DX-MON_rhais_osc.pretty |  
-| footprint_library_directory_flat | footprints_flat/dx_mon_rhais_osc_smd2520/working |  
-| github_path | http://github.com/DX-MON/rhais_osc.pretty/blob/master/SMD2520.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/DX-MON/rhais_osc.pretty/blob/master/SMD3225.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/dx_mon_rhais_osc_smd2520/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/dx_mon_rhais_osc_smd2520/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/dx_mon_rhais_osc_smd2520/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/dx_mon_rhais_osc_smd2520/working'} |  
-| name | rhais_osc.pretty |  
-| oomp | {'footprint_name': 'smd2520', 'library_name': 'rhais_osc', 'md5': '6955a2cfe648ed6e150898d997d673d6', 'md5_10': '6955a2cfe6', 'md5_5': '6955a', 'md5_6': '6955a2', 'oomp_key': 'oomp_dx_mon_rhais_osc_smd2520', 'oomp_key_extra': 'oomp_footprint_dx_mon_rhais_osc_smd2520', 'oomp_key_full': 'oomp_footprint_dx_mon_rhais_osc_smd2520_6955a2', 'oomp_key_simple': 'dx_mon_rhais_osc_smd2520', 'original_filename': 'rhais_osc.pretty/SMD2520.kicad_mod', 'owner_name': 'dx_mon'} |  
-| oomp_key | oomp_dx_mon_rhais_osc_smd2520 |  
-| oomp_key_full | oomp_footprint_dx_mon_rhais_osc_smd2520 |  
-| oomp_key_simple | dx_mon_rhais_osc_smd2520 |  
-| owner | DX-MON |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/DX-MON/rhais_osc.pretty |  
-
+# OOMP Footprint  
+## SMD2520  by none  
+  
+oomp key: oomp_dx_mon_rhais_osc_smd2520  
+  
+source repo at: [http://gitlab.com/DX-MON/rhais_osc.pretty/blob/master/SMD3225.kicad_mod](http://gitlab.com/DX-MON/rhais_osc.pretty/blob/master/SMD3225.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | SMD2520 | 
+| footprint description | None | 
+| number of pads | 4 | 
+| github path | http://github.com/DX-MON/rhais_osc.pretty/blob/master/SMD2520.kicad_mod | 
+| oomp key | oomp_dx_mon_rhais_osc_smd2520 | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/dx_mon_rhais_osc_smd2520/working | 
+## Images  

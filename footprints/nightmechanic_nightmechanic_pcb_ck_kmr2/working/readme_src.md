@@ -1,29 +1,20 @@
-# nightmechanic_pcb.pretty by nightmechanic  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/nightmechanic/nightmechanic_pcb.pretty/blob/master/YAAJ_WeAct_BlackPill_SWD_2.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: None  
-* libraryLink: CK_KMR2  
-* number_of_pads: 4  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | nightmechanic_pcb.pretty/CK_KMR2.kicad_mod |  
-| footprint | {'description': None, 'libraryLink': 'CK_KMR2', 'number_of_pads': 4} |  
-| footprint_library_directory | footprint_library_owner/nightmechanic_nightmechanic_pcb.pretty |  
-| footprint_library_directory_flat | footprints_flat/nightmechanic_nightmechanic_pcb_ck_kmr2/working |  
-| github_path | http://github.com/nightmechanic/nightmechanic_pcb.pretty/blob/master/CK_KMR2.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/nightmechanic/nightmechanic_pcb.pretty/blob/master/YAAJ_WeAct_BlackPill_SWD_2.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/nightmechanic_nightmechanic_pcb_ck_kmr2/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nightmechanic_nightmechanic_pcb_ck_kmr2/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/nightmechanic_nightmechanic_pcb_ck_kmr2/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nightmechanic_nightmechanic_pcb_ck_kmr2/working'} |  
-| name | nightmechanic_pcb.pretty |  
-| oomp | {'footprint_name': 'ck_kmr2', 'library_name': 'nightmechanic_pcb', 'md5': '5b064bed0845fecc875469da4d66feab', 'md5_10': '5b064bed08', 'md5_5': '5b064', 'md5_6': '5b064b', 'oomp_key': 'oomp_nightmechanic_nightmechanic_pcb_ck_kmr2', 'oomp_key_extra': 'oomp_footprint_nightmechanic_nightmechanic_pcb_ck_kmr2', 'oomp_key_full': 'oomp_footprint_nightmechanic_nightmechanic_pcb_ck_kmr2_5b064b', 'oomp_key_simple': 'nightmechanic_nightmechanic_pcb_ck_kmr2', 'original_filename': 'nightmechanic_pcb.pretty/CK_KMR2.kicad_mod', 'owner_name': 'nightmechanic'} |  
-| oomp_key | oomp_nightmechanic_nightmechanic_pcb_ck_kmr2 |  
-| oomp_key_full | oomp_footprint_nightmechanic_nightmechanic_pcb_ck_kmr2 |  
-| oomp_key_simple | nightmechanic_nightmechanic_pcb_ck_kmr2 |  
-| owner | nightmechanic |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/nightmechanic/nightmechanic_pcb.pretty |  
-
+# OOMP Footprint  
+## CK_KMR2  by none  
+  
+oomp key: oomp_nightmechanic_nightmechanic_pcb_ck_kmr2  
+  
+source repo at: [http://gitlab.com/nightmechanic/nightmechanic_pcb.pretty/blob/master/YAAJ_WeAct_BlackPill_SWD_2.kicad_mod](http://gitlab.com/nightmechanic/nightmechanic_pcb.pretty/blob/master/YAAJ_WeAct_BlackPill_SWD_2.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | CK_KMR2 | 
+| footprint description | None | 
+| number of pads | 4 | 
+| github path | http://github.com/nightmechanic/nightmechanic_pcb.pretty/blob/master/CK_KMR2.kicad_mod | 
+| oomp key | oomp_nightmechanic_nightmechanic_pcb_ck_kmr2 | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nightmechanic_nightmechanic_pcb_ck_kmr2/working | 
+## Images  

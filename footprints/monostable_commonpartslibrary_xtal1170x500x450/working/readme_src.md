@@ -1,29 +1,20 @@
-# CommonPartsLibrary.pretty by monostable  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/monostable/CommonPartsLibrary.pretty/blob/master/XTAL_NC26LF-327.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: None  
-* libraryLink: XTAL1170X500X450  
-* number_of_pads: 2  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | CommonPartsLibrary.pretty/XTAL1170X500X450.kicad_mod |  
-| footprint | {'description': None, 'libraryLink': 'XTAL1170X500X450', 'number_of_pads': 2} |  
-| footprint_library_directory | footprint_library_owner/monostable_CommonPartsLibrary.pretty |  
-| footprint_library_directory_flat | footprints_flat/monostable_commonpartslibrary_xtal1170x500x450/working |  
-| github_path | http://github.com/monostable/CommonPartsLibrary.pretty/blob/master/XTAL1170X500X450.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/monostable/CommonPartsLibrary.pretty/blob/master/XTAL_NC26LF-327.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/monostable_commonpartslibrary_xtal1170x500x450/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/monostable_commonpartslibrary_xtal1170x500x450/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/monostable_commonpartslibrary_xtal1170x500x450/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/monostable_commonpartslibrary_xtal1170x500x450/working'} |  
-| name | CommonPartsLibrary.pretty |  
-| oomp | {'footprint_name': 'xtal1170x500x450', 'library_name': 'commonpartslibrary', 'md5': 'abd59ea88d4c57504f69cdf606510c2f', 'md5_10': 'abd59ea88d', 'md5_5': 'abd59', 'md5_6': 'abd59e', 'oomp_key': 'oomp_monostable_commonpartslibrary_xtal1170x500x450', 'oomp_key_extra': 'oomp_footprint_monostable_commonpartslibrary_xtal1170x500x450', 'oomp_key_full': 'oomp_footprint_monostable_commonpartslibrary_xtal1170x500x450_abd59e', 'oomp_key_simple': 'monostable_commonpartslibrary_xtal1170x500x450', 'original_filename': 'CommonPartsLibrary.pretty/XTAL1170X500X450.kicad_mod', 'owner_name': 'monostable'} |  
-| oomp_key | oomp_monostable_commonpartslibrary_xtal1170x500x450 |  
-| oomp_key_full | oomp_footprint_monostable_commonpartslibrary_xtal1170x500x450 |  
-| oomp_key_simple | monostable_commonpartslibrary_xtal1170x500x450 |  
-| owner | monostable |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/monostable/CommonPartsLibrary.pretty |  
-
+# OOMP Footprint  
+## XTAL1170X500X450  by none  
+  
+oomp key: oomp_monostable_commonpartslibrary_xtal1170x500x450  
+  
+source repo at: [http://gitlab.com/monostable/CommonPartsLibrary.pretty/blob/master/XTAL_NC26LF-327.kicad_mod](http://gitlab.com/monostable/CommonPartsLibrary.pretty/blob/master/XTAL_NC26LF-327.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | XTAL1170X500X450 | 
+| footprint description | None | 
+| number of pads | 2 | 
+| github path | http://github.com/monostable/CommonPartsLibrary.pretty/blob/master/XTAL1170X500X450.kicad_mod | 
+| oomp key | oomp_monostable_commonpartslibrary_xtal1170x500x450 | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/monostable_commonpartslibrary_xtal1170x500x450/working | 
+## Images  

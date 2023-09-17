@@ -1,29 +1,20 @@
-# kicad-pcblib by cpavlina  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/cpavlina/kicad-pcblib/blob/master/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: Resistor,Chip Array,0.80mm pitch;10 pin,1 pin X 4 pin,2.10mm L X 4.00mm W X 0.65mm H  
-* libraryLink: RESCAV80P210X400X65-10  
-* number_of_pads: 10  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | kicad-pcblib/IPC7351-Most.pretty/RESCAV80P210X400X65-10.kicad_mod |  
-| footprint | {'description': 'Resistor,Chip Array,0.80mm pitch;10 pin,1 pin X 4 pin,2.10mm L X 4.00mm W X 0.65mm H', 'libraryLink': 'RESCAV80P210X400X65-10', 'number_of_pads': 10} |  
-| footprint_library_directory | footprint_library_owner/cpavlina_kicad-pcblib |  
-| footprint_library_directory_flat | footprints_flat/cpavlina_ipc7351_most_rescav80p210x400x65_10/working |  
-| github_path | http://github.com/cpavlina/kicad-pcblib/blob/master/IPC7351-Most.pretty/RESCAV80P210X400X65-10.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/cpavlina/kicad-pcblib/blob/master/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/cpavlina_ipc7351_most_rescav80p210x400x65_10/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cpavlina_ipc7351_most_rescav80p210x400x65_10/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/cpavlina_ipc7351_most_rescav80p210x400x65_10/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cpavlina_ipc7351_most_rescav80p210x400x65_10/working'} |  
-| name | kicad-pcblib |  
-| oomp | {'footprint_name': 'rescav80p210x400x65_10', 'library_name': 'ipc7351_most', 'md5': '6508f44f08d4f7ab84abef9a44b32115', 'md5_10': '6508f44f08', 'md5_5': '6508f', 'md5_6': '6508f4', 'oomp_key': 'oomp_cpavlina_ipc7351_most_rescav80p210x400x65_10', 'oomp_key_extra': 'oomp_footprint_cpavlina_ipc7351_most_rescav80p210x400x65_10', 'oomp_key_full': 'oomp_footprint_cpavlina_ipc7351_most_rescav80p210x400x65_10_6508f4', 'oomp_key_simple': 'cpavlina_ipc7351_most_rescav80p210x400x65_10', 'original_filename': 'kicad-pcblib/IPC7351-Most.pretty/RESCAV80P210X400X65-10.kicad_mod', 'owner_name': 'cpavlina'} |  
-| oomp_key | oomp_cpavlina_ipc7351_most_rescav80p210x400x65_10 |  
-| oomp_key_full | oomp_footprint_cpavlina_ipc7351_most_rescav80p210x400x65_10 |  
-| oomp_key_simple | cpavlina_ipc7351_most_rescav80p210x400x65_10 |  
-| owner | cpavlina |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/cpavlina/kicad-pcblib |  
-
+# OOMP Footprint  
+## RESCAV80P210X400X65-10  by none  
+  
+oomp key: oomp_cpavlina_ipc7351_most_rescav80p210x400x65_10  
+  
+source repo at: [http://gitlab.com/cpavlina/kicad-pcblib/blob/master/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod](http://gitlab.com/cpavlina/kicad-pcblib/blob/master/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | RESCAV80P210X400X65-10 | 
+| footprint description | Resistor,Chip Array,0.80mm pitch;10 pin,1 pin X 4 pin,2.10mm L X 4.00mm W X 0.65mm H | 
+| number of pads | 10 | 
+| github path | http://github.com/cpavlina/kicad-pcblib/blob/master/IPC7351-Most.pretty/RESCAV80P210X400X65-10.kicad_mod | 
+| oomp key | oomp_cpavlina_ipc7351_most_rescav80p210x400x65_10 | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cpavlina_ipc7351_most_rescav80p210x400x65_10/working | 
+## Images  

@@ -1,29 +1,20 @@
-# libKiCad by pelrun  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/pelrun/libKiCad/blob/master/footprint/w_vacuum.pretty/tube_gzc9-b.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: trimmer, Piher PT6-xV  
-* libraryLink: trimmer_piher_pt6xv  
-* number_of_pads: 3  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | libKiCad/footprint/w_pth_resistors.pretty/trimmer_piher_pt6xv.kicad_mod |  
-| footprint | {'description': 'trimmer, Piher PT6-xV', 'libraryLink': 'trimmer_piher_pt6xv', 'number_of_pads': 3} |  
-| footprint_library_directory | footprint_library_owner/pelrun_libKiCad |  
-| footprint_library_directory_flat | footprints_flat/pelrun_w_pth_resistors_trimmer_piher_pt6xv/working |  
-| github_path | http://github.com/pelrun/libKiCad/blob/master/footprint/w_pth_resistors.pretty/trimmer_piher_pt6xv.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/pelrun/libKiCad/blob/master/footprint/w_vacuum.pretty/tube_gzc9-b.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/pelrun_w_pth_resistors_trimmer_piher_pt6xv/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pelrun_w_pth_resistors_trimmer_piher_pt6xv/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/pelrun_w_pth_resistors_trimmer_piher_pt6xv/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pelrun_w_pth_resistors_trimmer_piher_pt6xv/working'} |  
-| name | libKiCad |  
-| oomp | {'footprint_name': 'trimmer_piher_pt6xv', 'library_name': 'w_pth_resistors', 'md5': 'b3992f008c4c34428113ed44985306de', 'md5_10': 'b3992f008c', 'md5_5': 'b3992', 'md5_6': 'b3992f', 'oomp_key': 'oomp_pelrun_w_pth_resistors_trimmer_piher_pt6xv', 'oomp_key_extra': 'oomp_footprint_pelrun_w_pth_resistors_trimmer_piher_pt6xv', 'oomp_key_full': 'oomp_footprint_pelrun_w_pth_resistors_trimmer_piher_pt6xv_b3992f', 'oomp_key_simple': 'pelrun_w_pth_resistors_trimmer_piher_pt6xv', 'original_filename': 'libKiCad/footprint/w_pth_resistors.pretty/trimmer_piher_pt6xv.kicad_mod', 'owner_name': 'pelrun'} |  
-| oomp_key | oomp_pelrun_w_pth_resistors_trimmer_piher_pt6xv |  
-| oomp_key_full | oomp_footprint_pelrun_w_pth_resistors_trimmer_piher_pt6xv |  
-| oomp_key_simple | pelrun_w_pth_resistors_trimmer_piher_pt6xv |  
-| owner | pelrun |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/pelrun/libKiCad |  
-
+# OOMP Footprint  
+## trimmer_piher_pt6xv  by none  
+  
+oomp key: oomp_pelrun_w_pth_resistors_trimmer_piher_pt6xv  
+  
+source repo at: [http://gitlab.com/pelrun/libKiCad/blob/master/footprint/w_vacuum.pretty/tube_gzc9-b.kicad_mod](http://gitlab.com/pelrun/libKiCad/blob/master/footprint/w_vacuum.pretty/tube_gzc9-b.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | trimmer_piher_pt6xv | 
+| footprint description | trimmer, Piher PT6-xV | 
+| number of pads | 3 | 
+| github path | http://github.com/pelrun/libKiCad/blob/master/footprint/w_pth_resistors.pretty/trimmer_piher_pt6xv.kicad_mod | 
+| oomp key | oomp_pelrun_w_pth_resistors_trimmer_piher_pt6xv | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pelrun_w_pth_resistors_trimmer_piher_pt6xv/working | 
+## Images  

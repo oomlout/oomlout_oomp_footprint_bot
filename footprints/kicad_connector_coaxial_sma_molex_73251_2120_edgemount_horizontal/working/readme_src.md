@@ -1,29 +1,20 @@
-# libraries/kicad-footprints/ by kicad  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: Molex SMA RF Connector, Edge Mount, (http://www.molex.com/pdm_docs/sd/732512120_sd.pdf)  
-* libraryLink: SMA_Molex_73251-2120_EdgeMount_Horizontal  
-* number_of_pads: 7  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | libraries/kicad-footprints/Connector_Coaxial.pretty/SMA_Molex_73251-2120_EdgeMount_Horizontal.kicad_mod |  
-| footprint | {'description': 'Molex SMA RF Connector, Edge Mount, (http://www.molex.com/pdm_docs/sd/732512120_sd.pdf)', 'libraryLink': 'SMA_Molex_73251-2120_EdgeMount_Horizontal', 'number_of_pads': 7} |  
-| footprint_library_directory | footprint_library_owner/kicad_libraries/kicad-footprints/ |  
-| footprint_library_directory_flat | footprints_flat/kicad_connector_coaxial_sma_molex_73251_2120_edgemount_horizontal/working |  
-| github_path | http://github.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Connector_Coaxial.pretty/SMA_Molex_73251-2120_EdgeMount_Horizontal.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/kicad_connector_coaxial_sma_molex_73251_2120_edgemount_horizontal/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_connector_coaxial_sma_molex_73251_2120_edgemount_horizontal/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/kicad_connector_coaxial_sma_molex_73251_2120_edgemount_horizontal/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_connector_coaxial_sma_molex_73251_2120_edgemount_horizontal/working'} |  
-| name | libraries/kicad-footprints/ |  
-| oomp | {'footprint_name': 'sma_molex_73251_2120_edgemount_horizontal', 'library_name': 'connector_coaxial', 'md5': 'a6b1ae6450715bddae7b07417e72faa5', 'md5_10': 'a6b1ae6450', 'md5_5': 'a6b1a', 'md5_6': 'a6b1ae', 'oomp_key': 'oomp_kicad_connector_coaxial_sma_molex_73251_2120_edgemount_horizontal', 'oomp_key_extra': 'oomp_footprint_kicad_connector_coaxial_sma_molex_73251_2120_edgemount_horizontal', 'oomp_key_full': 'oomp_footprint_kicad_connector_coaxial_sma_molex_73251_2120_edgemount_horizontal_a6b1ae', 'oomp_key_simple': 'kicad_connector_coaxial_sma_molex_73251_2120_edgemount_horizontal', 'original_filename': 'libraries/kicad-footprints/Connector_Coaxial.pretty/SMA_Molex_73251-2120_EdgeMount_Horizontal.kicad_mod', 'owner_name': 'kicad'} |  
-| oomp_key | oomp_kicad_connector_coaxial_sma_molex_73251_2120_edgemount_horizontal |  
-| oomp_key_full | oomp_footprint_kicad_connector_coaxial_sma_molex_73251_2120_edgemount_horizontal |  
-| oomp_key_simple | kicad_connector_coaxial_sma_molex_73251_2120_edgemount_horizontal |  
-| owner | kicad |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | https://gitlab.com/kicad/libraries/kicad-footprints |  
-
+# OOMP Footprint  
+## SMA_Molex_73251-2120_EdgeMount_Horizontal  by none  
+  
+oomp key: oomp_kicad_connector_coaxial_sma_molex_73251_2120_edgemount_horizontal  
+  
+source repo at: [http://gitlab.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod](http://gitlab.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | SMA_Molex_73251-2120_EdgeMount_Horizontal | 
+| footprint description | Molex SMA RF Connector, Edge Mount, (http://www.molex.com/pdm_docs/sd/732512120_sd.pdf) | 
+| number of pads | 7 | 
+| github path | http://github.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Connector_Coaxial.pretty/SMA_Molex_73251-2120_EdgeMount_Horizontal.kicad_mod | 
+| oomp key | oomp_kicad_connector_coaxial_sma_molex_73251_2120_edgemount_horizontal | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_connector_coaxial_sma_molex_73251_2120_edgemount_horizontal/working | 
+## Images  

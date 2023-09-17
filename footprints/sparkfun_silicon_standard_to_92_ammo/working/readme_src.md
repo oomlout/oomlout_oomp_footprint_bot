@@ -1,29 +1,20 @@
-# SparkFun-KiCad-Libraries by sparkfun  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Pre_v7/Tools/SparkFun-Eagle-Libraries_Conversion/Export.pretty/DFN-6-3X3.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: TO-92 3-PIN PTH AMMO PACKAGE  
-* libraryLink: TO-92-AMMO  
-* number_of_pads: 3  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | SparkFun-KiCad-Libraries/Pre_v7/Footprints/Silicon-Standard.pretty/TO-92-AMMO.kicad_mod |  
-| footprint | {'description': 'TO-92 3-PIN PTH AMMO PACKAGE', 'libraryLink': 'TO-92-AMMO', 'number_of_pads': 3} |  
-| footprint_library_directory | footprint_library_owner/sparkfun_SparkFun-KiCad-Libraries |  
-| footprint_library_directory_flat | footprints_flat/sparkfun_silicon_standard_to_92_ammo/working |  
-| github_path | http://github.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Pre_v7/Footprints/Silicon-Standard.pretty/TO-92-AMMO.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Pre_v7/Tools/SparkFun-Eagle-Libraries_Conversion/Export.pretty/DFN-6-3X3.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/sparkfun_silicon_standard_to_92_ammo/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/sparkfun_silicon_standard_to_92_ammo/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/sparkfun_silicon_standard_to_92_ammo/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/sparkfun_silicon_standard_to_92_ammo/working'} |  
-| name | SparkFun-KiCad-Libraries |  
-| oomp | {'footprint_name': 'to_92_ammo', 'library_name': 'silicon_standard', 'md5': '371085385d8f49967a2ad431a9708921', 'md5_10': '371085385d', 'md5_5': '37108', 'md5_6': '371085', 'oomp_key': 'oomp_sparkfun_silicon_standard_to_92_ammo', 'oomp_key_extra': 'oomp_footprint_sparkfun_silicon_standard_to_92_ammo', 'oomp_key_full': 'oomp_footprint_sparkfun_silicon_standard_to_92_ammo_371085', 'oomp_key_simple': 'sparkfun_silicon_standard_to_92_ammo', 'original_filename': 'SparkFun-KiCad-Libraries/Pre_v7/Footprints/Silicon-Standard.pretty/TO-92-AMMO.kicad_mod', 'owner_name': 'sparkfun'} |  
-| oomp_key | oomp_sparkfun_silicon_standard_to_92_ammo |  
-| oomp_key_full | oomp_footprint_sparkfun_silicon_standard_to_92_ammo |  
-| oomp_key_simple | sparkfun_silicon_standard_to_92_ammo |  
-| owner | sparkfun |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/sparkfun/SparkFun-KiCad-Libraries |  
-
+# OOMP Footprint  
+## TO-92-AMMO  by none  
+  
+oomp key: oomp_sparkfun_silicon_standard_to_92_ammo  
+  
+source repo at: [http://gitlab.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Pre_v7/Tools/SparkFun-Eagle-Libraries_Conversion/Export.pretty/DFN-6-3X3.kicad_mod](http://gitlab.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Pre_v7/Tools/SparkFun-Eagle-Libraries_Conversion/Export.pretty/DFN-6-3X3.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | TO-92-AMMO | 
+| footprint description | TO-92 3-PIN PTH AMMO PACKAGE | 
+| number of pads | 3 | 
+| github path | http://github.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Pre_v7/Footprints/Silicon-Standard.pretty/TO-92-AMMO.kicad_mod | 
+| oomp key | oomp_sparkfun_silicon_standard_to_92_ammo | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/sparkfun_silicon_standard_to_92_ammo/working | 
+## Images  

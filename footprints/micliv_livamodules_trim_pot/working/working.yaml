@@ -1,21 +1,21 @@
-- file: LivaModules.pretty/Trim_POT.kicad_mod
+- file: data//oomlout_oomp_footprint_src/LivaModules.pretty/Trim_POT.kicad_mod
   footprint:
     description: Potentiometer, Trimmer, Spectrol Type 36T, Econtrim, Rev A, 02 Aug
       2010,
     libraryLink: Trim_POT
     number_of_pads: 3
   footprint_library_directory: footprint_library_owner/micliv_LivaModules.pretty
-  footprint_library_directory_flat: footprints_flat/micliv_livamodules_trim_pot/working
-  github_path: http://github.com/micliv/LivaModules.pretty/blob/master/Trim_POT.kicad_mod
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/micliv_livamodules_trim_pot/working
+  github_path: http://github.com/micliv/LivaModules.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Trim_POT.kicad_mod
   links:
     github_owner: micliv
     github_repo_name: LivaModules.pretty
-    github_src: http://github.com/micliv/LivaModules.pretty/blob/master/WS2812B.kicad_mod
+    github_src: http://github.com/micliv/LivaModules.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/WS2812B.kicad_mod
     github_src_repo: https://github.com/micliv/LivaModules.pretty
-    oomp_bot: footprints/micliv_livamodules_trim_pot/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/micliv_livamodules_trim_pot/working
-    oomp_src_flat: footprints_flat/footprints_flat/micliv_livamodules_trim_pot/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/micliv_livamodules_trim_pot/working
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/micliv_livamodules_trim_pot/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/micliv_livamodules_trim_pot/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/micliv_livamodules_trim_pot/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/micliv_livamodules_trim_pot/working
   name: LivaModules.pretty
   oomp:
     footprint_name: trim_pot
@@ -28,7 +28,7 @@
     oomp_key_extra: oomp_footprint_micliv_livamodules_trim_pot
     oomp_key_full: oomp_footprint_micliv_livamodules_trim_pot_02f8cb
     oomp_key_simple: micliv_livamodules_trim_pot
-    original_filename: LivaModules.pretty/Trim_POT.kicad_mod
+    original_filename: data//oomlout_oomp_footprint_src/LivaModules.pretty/Trim_POT.kicad_mod
     owner_name: micliv
   oomp_key: oomp_micliv_livamodules_trim_pot
   oomp_key_full: oomp_footprint_micliv_livamodules_trim_pot

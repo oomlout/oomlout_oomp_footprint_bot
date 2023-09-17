@@ -1,0 +1,41 @@
+- file: data//oomlout_oomp_footprint_src/oomlout_oomp_part_kicad_footprints/oomlout_oomp_part_footprints.pretty/r8o181_electronic_resistor_0805_180_ohm.kicad_mod
+  footprint:
+    description: 'Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal,
+      IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf),
+      generated with kicad-footprint-generator'
+    libraryLink: R_0805_2012Metric
+    number_of_pads: 2
+  footprint_library_directory: footprint_library_owner/oomlout_oomlout_oomp_part_kicad_footprints
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/oomlout_oomlout_oomp_part_footprints_r8o181_electronic_resistor_0805_180_ohm/working
+  github_path: http://github.com/oomlout/oomlout_oomp_part_kicad_footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/oomlout_oomp_part_footprints.pretty/r8o181_electronic_resistor_0805_180_ohm.kicad_mod
+  links:
+    github_src: http://gitlab.com/oomlout/oomlout_oomp_part_kicad_footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/oomlout_oomp_part_footprints.pretty/xcr3213mhz8_electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz.kicad_mod
+    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/oomlout_oomlout_oomp_part_footprints_r8o181_electronic_resistor_0805_180_ohm/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/oomlout_oomlout_oomp_part_footprints_r8o181_electronic_resistor_0805_180_ohm/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/oomlout_oomlout_oomp_part_footprints_r8o181_electronic_resistor_0805_180_ohm/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/oomlout_oomlout_oomp_part_footprints_r8o181_electronic_resistor_0805_180_ohm/working
+  name: oomlout_oomp_part_kicad_footprints
+  oomp:
+    footprint_name: r8o181_electronic_resistor_0805_180_ohm
+    library_name: oomlout_oomp_part_footprints
+    md5: 51a349802fdb4ec5f92c73d47ee98a19
+    md5_10: 51a349802f
+    md5_5: 51a34
+    md5_6: 51a349
+    oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_r8o181_electronic_resistor_0805_180_ohm
+    oomp_key_extra: oomp_footprint_oomlout_oomlout_oomp_part_footprints_r8o181_electronic_resistor_0805_180_ohm
+    oomp_key_full: oomp_footprint_oomlout_oomlout_oomp_part_footprints_r8o181_electronic_resistor_0805_180_ohm_51a349
+    oomp_key_simple: oomlout_oomlout_oomp_part_footprints_r8o181_electronic_resistor_0805_180_ohm
+    original_filename: data//oomlout_oomp_footprint_src/oomlout_oomp_part_kicad_footprints/oomlout_oomp_part_footprints.pretty/r8o181_electronic_resistor_0805_180_ohm.kicad_mod
+    owner_name: oomlout
+  oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_r8o181_electronic_resistor_0805_180_ohm
+  oomp_key_full: oomp_footprint_oomlout_oomlout_oomp_part_footprints_r8o181_electronic_resistor_0805_180_ohm
+  oomp_key_simple: oomlout_oomlout_oomp_part_footprints_r8o181_electronic_resistor_0805_180_ohm
+  owner: oomlout
+  repo:
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
+  url: https://github.com/oomlout/oomlout_oomp_part_kicad_footprints

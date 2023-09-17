@@ -1,29 +1,20 @@
-# gsg-kicad-lib by greatscottgadgets  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/greatscottgadgets/gsg-kicad-lib/blob/master/gsg-modules.pretty/XTAL5.0x3.2mm.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: None  
-* libraryLink: GREATFET-PROTO-AREA  
-* number_of_pads: 72  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | gsg-kicad-lib/gsg-modules.pretty/GREATFET-PROTO-AREA.kicad_mod |  
-| footprint | {'description': None, 'libraryLink': 'GREATFET-PROTO-AREA', 'number_of_pads': 72} |  
-| footprint_library_directory | footprint_library_owner/greatscottgadgets_gsg-kicad-lib |  
-| footprint_library_directory_flat | footprints_flat/greatscottgadgets_gsg_modules_greatfet_proto_area/working |  
-| github_path | http://github.com/greatscottgadgets/gsg-kicad-lib/blob/master/gsg-modules.pretty/GREATFET-PROTO-AREA.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/greatscottgadgets/gsg-kicad-lib/blob/master/gsg-modules.pretty/XTAL5.0x3.2mm.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/greatscottgadgets_gsg_modules_greatfet_proto_area/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/greatscottgadgets_gsg_modules_greatfet_proto_area/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/greatscottgadgets_gsg_modules_greatfet_proto_area/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/greatscottgadgets_gsg_modules_greatfet_proto_area/working'} |  
-| name | gsg-kicad-lib |  
-| oomp | {'footprint_name': 'greatfet_proto_area', 'library_name': 'gsg_modules', 'md5': '5dff05a817728cc209ba1db55beac4ac', 'md5_10': '5dff05a817', 'md5_5': '5dff0', 'md5_6': '5dff05', 'oomp_key': 'oomp_greatscottgadgets_gsg_modules_greatfet_proto_area', 'oomp_key_extra': 'oomp_footprint_greatscottgadgets_gsg_modules_greatfet_proto_area', 'oomp_key_full': 'oomp_footprint_greatscottgadgets_gsg_modules_greatfet_proto_area_5dff05', 'oomp_key_simple': 'greatscottgadgets_gsg_modules_greatfet_proto_area', 'original_filename': 'gsg-kicad-lib/gsg-modules.pretty/GREATFET-PROTO-AREA.kicad_mod', 'owner_name': 'greatscottgadgets'} |  
-| oomp_key | oomp_greatscottgadgets_gsg_modules_greatfet_proto_area |  
-| oomp_key_full | oomp_footprint_greatscottgadgets_gsg_modules_greatfet_proto_area |  
-| oomp_key_simple | greatscottgadgets_gsg_modules_greatfet_proto_area |  
-| owner | greatscottgadgets |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/greatscottgadgets/gsg-kicad-lib |  
-
+# OOMP Footprint  
+## GREATFET-PROTO-AREA  by none  
+  
+oomp key: oomp_greatscottgadgets_gsg_modules_greatfet_proto_area  
+  
+source repo at: [http://gitlab.com/greatscottgadgets/gsg-kicad-lib/blob/master/gsg-modules.pretty/XTAL5.0x3.2mm.kicad_mod](http://gitlab.com/greatscottgadgets/gsg-kicad-lib/blob/master/gsg-modules.pretty/XTAL5.0x3.2mm.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | GREATFET-PROTO-AREA | 
+| footprint description | None | 
+| number of pads | 72 | 
+| github path | http://github.com/greatscottgadgets/gsg-kicad-lib/blob/master/gsg-modules.pretty/GREATFET-PROTO-AREA.kicad_mod | 
+| oomp key | oomp_greatscottgadgets_gsg_modules_greatfet_proto_area | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/greatscottgadgets_gsg_modules_greatfet_proto_area/working | 
+## Images  

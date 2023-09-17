@@ -1,29 +1,20 @@
-# kicad-library by ruuvi  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/ruuvi/kicad-library/blob/master/RuuviTracker.pretty/BUZZER-75X75x25MM.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: Mounting Hole 3.2mm, M3  
-* libraryLink: MountingHole_3.2mm_M3_Pad_Via  
-* number_of_pads: 9  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | kicad-library/RuuviTag.pretty/MountingHole_3.2mm_M3_Pad_Via.kicad_mod |  
-| footprint | {'description': 'Mounting Hole 3.2mm, M3', 'libraryLink': 'MountingHole_3.2mm_M3_Pad_Via', 'number_of_pads': 9} |  
-| footprint_library_directory | footprint_library_owner/ruuvi_kicad-library |  
-| footprint_library_directory_flat | footprints_flat/ruuvi_ruuvitag_mountinghole_3_2mm_m3_pad_via/working |  
-| github_path | http://github.com/ruuvi/kicad-library/blob/master/RuuviTag.pretty/MountingHole_3.2mm_M3_Pad_Via.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/ruuvi/kicad-library/blob/master/RuuviTracker.pretty/BUZZER-75X75x25MM.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/ruuvi_ruuvitag_mountinghole_3_2mm_m3_pad_via/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ruuvi_ruuvitag_mountinghole_3_2mm_m3_pad_via/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/ruuvi_ruuvitag_mountinghole_3_2mm_m3_pad_via/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ruuvi_ruuvitag_mountinghole_3_2mm_m3_pad_via/working'} |  
-| name | kicad-library |  
-| oomp | {'footprint_name': 'mountinghole_3_2mm_m3_pad_via', 'library_name': 'ruuvitag', 'md5': '12a51d91e79c7ae653bf2c6601a3a519', 'md5_10': '12a51d91e7', 'md5_5': '12a51', 'md5_6': '12a51d', 'oomp_key': 'oomp_ruuvi_ruuvitag_mountinghole_3_2mm_m3_pad_via', 'oomp_key_extra': 'oomp_footprint_ruuvi_ruuvitag_mountinghole_3_2mm_m3_pad_via', 'oomp_key_full': 'oomp_footprint_ruuvi_ruuvitag_mountinghole_3_2mm_m3_pad_via_12a51d', 'oomp_key_simple': 'ruuvi_ruuvitag_mountinghole_3_2mm_m3_pad_via', 'original_filename': 'kicad-library/RuuviTag.pretty/MountingHole_3.2mm_M3_Pad_Via.kicad_mod', 'owner_name': 'ruuvi'} |  
-| oomp_key | oomp_ruuvi_ruuvitag_mountinghole_3_2mm_m3_pad_via |  
-| oomp_key_full | oomp_footprint_ruuvi_ruuvitag_mountinghole_3_2mm_m3_pad_via |  
-| oomp_key_simple | ruuvi_ruuvitag_mountinghole_3_2mm_m3_pad_via |  
-| owner | ruuvi |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/ruuvi/kicad-library |  
-
+# OOMP Footprint  
+## MountingHole_3.2mm_M3_Pad_Via  by none  
+  
+oomp key: oomp_ruuvi_ruuvitag_mountinghole_3_2mm_m3_pad_via  
+  
+source repo at: [http://gitlab.com/ruuvi/kicad-library/blob/master/RuuviTracker.pretty/BUZZER-75X75x25MM.kicad_mod](http://gitlab.com/ruuvi/kicad-library/blob/master/RuuviTracker.pretty/BUZZER-75X75x25MM.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | MountingHole_3.2mm_M3_Pad_Via | 
+| footprint description | Mounting Hole 3.2mm, M3 | 
+| number of pads | 9 | 
+| github path | http://github.com/ruuvi/kicad-library/blob/master/RuuviTag.pretty/MountingHole_3.2mm_M3_Pad_Via.kicad_mod | 
+| oomp key | oomp_ruuvi_ruuvitag_mountinghole_3_2mm_m3_pad_via | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ruuvi_ruuvitag_mountinghole_3_2mm_m3_pad_via/working | 
+## Images  

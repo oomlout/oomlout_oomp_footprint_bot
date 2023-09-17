@@ -1,20 +1,20 @@
-- file: acheron_Connectors.pretty/PinHeader_1x6_staggered_P2.54mm_Vertical.kicad_mod
+- file: data//oomlout_oomp_footprint_src/acheron_Connectors.pretty/PinHeader_1x6_staggered_P2.54mm_Vertical.kicad_mod
   footprint:
     description: Through hole straight pin header, 1x14, 2.54mm pitch, single row
     libraryLink: PinHeader_1x6_staggered_P2.54mm_Vertical
     number_of_pads: 6
   footprint_library_directory: footprint_library_owner/AcheronProject_acheron_Connectors.pretty
-  footprint_library_directory_flat: footprints_flat/acheronproject_acheron_connectors_pinheader_1x6_staggered_p2_54mm_vertical/working
-  github_path: http://github.com/AcheronProject/acheron_Connectors.pretty/blob/master/PinHeader_1x6_staggered_P2.54mm_Vertical.kicad_mod
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/acheronproject_acheron_connectors_pinheader_1x6_staggered_p2_54mm_vertical/working
+  github_path: http://github.com/AcheronProject/acheron_Connectors.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/PinHeader_1x6_staggered_P2.54mm_Vertical.kicad_mod
   links:
     github_owner: AcheronProject
     github_repo_name: acheron_Connectors.pretty
-    github_src: http://github.com/AcheronProject/acheron_Connectors.pretty/blob/master/XFCN_F1004-H-16-20G-R_P1.0mm_MountingReliefs.kicad_mod
+    github_src: http://github.com/AcheronProject/acheron_Connectors.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XFCN_F1004-H-16-20G-R_P1.0mm_MountingReliefs.kicad_mod
     github_src_repo: https://github.com/AcheronProject/acheron_Connectors.pretty
-    oomp_bot: footprints/acheronproject_acheron_connectors_pinheader_1x6_staggered_p2_54mm_vertical/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/acheronproject_acheron_connectors_pinheader_1x6_staggered_p2_54mm_vertical/working
-    oomp_src_flat: footprints_flat/footprints_flat/acheronproject_acheron_connectors_pinheader_1x6_staggered_p2_54mm_vertical/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/acheronproject_acheron_connectors_pinheader_1x6_staggered_p2_54mm_vertical/working
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/acheronproject_acheron_connectors_pinheader_1x6_staggered_p2_54mm_vertical/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/acheronproject_acheron_connectors_pinheader_1x6_staggered_p2_54mm_vertical/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/acheronproject_acheron_connectors_pinheader_1x6_staggered_p2_54mm_vertical/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/acheronproject_acheron_connectors_pinheader_1x6_staggered_p2_54mm_vertical/working
   name: acheron_Connectors.pretty
   oomp:
     footprint_name: pinheader_1x6_staggered_p2_54mm_vertical
@@ -27,7 +27,7 @@
     oomp_key_extra: oomp_footprint_acheronproject_acheron_connectors_pinheader_1x6_staggered_p2_54mm_vertical
     oomp_key_full: oomp_footprint_acheronproject_acheron_connectors_pinheader_1x6_staggered_p2_54mm_vertical_5a2fad
     oomp_key_simple: acheronproject_acheron_connectors_pinheader_1x6_staggered_p2_54mm_vertical
-    original_filename: acheron_Connectors.pretty/PinHeader_1x6_staggered_P2.54mm_Vertical.kicad_mod
+    original_filename: data//oomlout_oomp_footprint_src/acheron_Connectors.pretty/PinHeader_1x6_staggered_P2.54mm_Vertical.kicad_mod
     owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_connectors_pinheader_1x6_staggered_p2_54mm_vertical
   oomp_key_full: oomp_footprint_acheronproject_acheron_connectors_pinheader_1x6_staggered_p2_54mm_vertical
@@ -140,7 +140,7 @@
     releases_url: https://api.github.com/repos/AcheronProject/acheron_Connectors.pretty/releases{/id}
     size: 128
     ssh_url: git@github.com:AcheronProject/acheron_Connectors.pretty.git
-    stargazers_count: 3
+    stargazers_count: 4
     stargazers_url: https://api.github.com/repos/AcheronProject/acheron_Connectors.pretty/stargazers
     statuses_url: https://api.github.com/repos/AcheronProject/acheron_Connectors.pretty/statuses/{sha}
     subscribers_count: 1
@@ -152,10 +152,10 @@
     temp_clone_token: null
     topics: []
     trees_url: https://api.github.com/repos/AcheronProject/acheron_Connectors.pretty/git/trees{/sha}
-    updated_at: '2023-01-20T13:42:44Z'
+    updated_at: '2023-08-28T20:18:33Z'
     url: https://api.github.com/repos/AcheronProject/acheron_Connectors.pretty
     visibility: public
-    watchers: 3
-    watchers_count: 3
+    watchers: 4
+    watchers_count: 4
     web_commit_signoff_required: false
   url: http://github.com/AcheronProject/acheron_Connectors.pretty

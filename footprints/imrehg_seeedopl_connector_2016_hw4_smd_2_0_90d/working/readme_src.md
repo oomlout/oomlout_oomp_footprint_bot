@@ -1,29 +1,20 @@
-# kicalopl by imrehg  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/imrehg/kicalopl/blob/master/SeeedOPL-Transistor-2016.pretty/TO-220.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: None  
-* libraryLink: HW4-SMD-2.0-90D  
-* number_of_pads: 6  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | kicalopl/SeeedOPL-Connector-2016.pretty/HW4-SMD-2.0-90D.kicad_mod |  
-| footprint | {'description': None, 'libraryLink': 'HW4-SMD-2.0-90D', 'number_of_pads': 6} |  
-| footprint_library_directory | footprint_library_owner/imrehg_kicalopl |  
-| footprint_library_directory_flat | footprints_flat/imrehg_seeedopl_connector_2016_hw4_smd_2_0_90d/working |  
-| github_path | http://github.com/imrehg/kicalopl/blob/master/SeeedOPL-Connector-2016.pretty/HW4-SMD-2.0-90D.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/imrehg/kicalopl/blob/master/SeeedOPL-Transistor-2016.pretty/TO-220.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/imrehg_seeedopl_connector_2016_hw4_smd_2_0_90d/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/imrehg_seeedopl_connector_2016_hw4_smd_2_0_90d/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/imrehg_seeedopl_connector_2016_hw4_smd_2_0_90d/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/imrehg_seeedopl_connector_2016_hw4_smd_2_0_90d/working'} |  
-| name | kicalopl |  
-| oomp | {'footprint_name': 'hw4_smd_2_0_90d', 'library_name': 'seeedopl_connector_2016', 'md5': '5ba84d85dca6483548b6cbcbd130cc7a', 'md5_10': '5ba84d85dc', 'md5_5': '5ba84', 'md5_6': '5ba84d', 'oomp_key': 'oomp_imrehg_seeedopl_connector_2016_hw4_smd_2_0_90d', 'oomp_key_extra': 'oomp_footprint_imrehg_seeedopl_connector_2016_hw4_smd_2_0_90d', 'oomp_key_full': 'oomp_footprint_imrehg_seeedopl_connector_2016_hw4_smd_2_0_90d_5ba84d', 'oomp_key_simple': 'imrehg_seeedopl_connector_2016_hw4_smd_2_0_90d', 'original_filename': 'kicalopl/SeeedOPL-Connector-2016.pretty/HW4-SMD-2.0-90D.kicad_mod', 'owner_name': 'imrehg'} |  
-| oomp_key | oomp_imrehg_seeedopl_connector_2016_hw4_smd_2_0_90d |  
-| oomp_key_full | oomp_footprint_imrehg_seeedopl_connector_2016_hw4_smd_2_0_90d |  
-| oomp_key_simple | imrehg_seeedopl_connector_2016_hw4_smd_2_0_90d |  
-| owner | imrehg |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/imrehg/kicalopl |  
-
+# OOMP Footprint  
+## HW4-SMD-2.0-90D  by none  
+  
+oomp key: oomp_imrehg_seeedopl_connector_2016_hw4_smd_2_0_90d  
+  
+source repo at: [http://gitlab.com/imrehg/kicalopl/blob/master/SeeedOPL-Transistor-2016.pretty/TO-220.kicad_mod](http://gitlab.com/imrehg/kicalopl/blob/master/SeeedOPL-Transistor-2016.pretty/TO-220.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | HW4-SMD-2.0-90D | 
+| footprint description | None | 
+| number of pads | 6 | 
+| github path | http://github.com/imrehg/kicalopl/blob/master/SeeedOPL-Connector-2016.pretty/HW4-SMD-2.0-90D.kicad_mod | 
+| oomp key | oomp_imrehg_seeedopl_connector_2016_hw4_smd_2_0_90d | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/imrehg_seeedopl_connector_2016_hw4_smd_2_0_90d/working | 
+## Images  

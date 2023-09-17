@@ -1,21 +1,21 @@
-- file: EDALibraries/KiCad/Footprints/MF_Aesthetics.pretty/MF_Aesthetics-FIDUCIAL_100MIL.kicad_mod
+- file: data//oomlout_oomp_footprint_src/EDALibraries/KiCad/Footprints/MF_Aesthetics.pretty/MF_Aesthetics-FIDUCIAL_100MIL.kicad_mod
   footprint:
     description: 'DESCRIPTION: FOOTPRINT FOR FIDUCIAL MARKING FOR PCB ALIGNMENT INSIDE
       PNP AND OTHER MACHINES.'
     libraryLink: MF_Aesthetics-FIDUCIAL_100MIL
     number_of_pads: 1
   footprint_library_directory: footprint_library_owner/MacroFab_EDALibraries
-  footprint_library_directory_flat: footprints_flat/macrofab_mf_aesthetics_mf_aesthetics_fiducial_100mil/working
-  github_path: http://github.com/MacroFab/EDALibraries/blob/master/KiCad/Footprints/MF_Aesthetics.pretty/MF_Aesthetics-FIDUCIAL_100MIL.kicad_mod
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/macrofab_mf_aesthetics_mf_aesthetics_fiducial_100mil/working
+  github_path: http://github.com/MacroFab/EDALibraries/blob/master/tmp/data//oomlout_oomp_footprint_src/KiCad/Footprints/MF_Aesthetics.pretty/MF_Aesthetics-FIDUCIAL_100MIL.kicad_mod
   links:
     github_owner: MacroFab
     github_repo_name: EDALibraries
-    github_src: http://github.com/MacroFab/EDALibraries/blob/master/KiCad/Footprints/MF_Switches.pretty/MF_Switches-TACT6MM.kicad_mod
+    github_src: http://github.com/MacroFab/EDALibraries/blob/master/tmp/data//oomlout_oomp_footprint_src/KiCad/Footprints/MF_Switches.pretty/MF_Switches-TACT6MM.kicad_mod
     github_src_repo: https://github.com/MacroFab/EDALibraries
-    oomp_bot: footprints/macrofab_mf_aesthetics_mf_aesthetics_fiducial_100mil/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/macrofab_mf_aesthetics_mf_aesthetics_fiducial_100mil/working
-    oomp_src_flat: footprints_flat/footprints_flat/macrofab_mf_aesthetics_mf_aesthetics_fiducial_100mil/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/macrofab_mf_aesthetics_mf_aesthetics_fiducial_100mil/working
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/macrofab_mf_aesthetics_mf_aesthetics_fiducial_100mil/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/macrofab_mf_aesthetics_mf_aesthetics_fiducial_100mil/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/macrofab_mf_aesthetics_mf_aesthetics_fiducial_100mil/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/macrofab_mf_aesthetics_mf_aesthetics_fiducial_100mil/working
   name: EDALibraries
   oomp:
     footprint_name: mf_aesthetics_fiducial_100mil
@@ -28,7 +28,7 @@
     oomp_key_extra: oomp_footprint_macrofab_mf_aesthetics_mf_aesthetics_fiducial_100mil
     oomp_key_full: oomp_footprint_macrofab_mf_aesthetics_mf_aesthetics_fiducial_100mil_c2b26d
     oomp_key_simple: macrofab_mf_aesthetics_mf_aesthetics_fiducial_100mil
-    original_filename: EDALibraries/KiCad/Footprints/MF_Aesthetics.pretty/MF_Aesthetics-FIDUCIAL_100MIL.kicad_mod
+    original_filename: data//oomlout_oomp_footprint_src/EDALibraries/KiCad/Footprints/MF_Aesthetics.pretty/MF_Aesthetics-FIDUCIAL_100MIL.kicad_mod
     owner_name: macrofab
   oomp_key: oomp_macrofab_mf_aesthetics_mf_aesthetics_fiducial_100mil
   oomp_key_full: oomp_footprint_macrofab_mf_aesthetics_mf_aesthetics_fiducial_100mil

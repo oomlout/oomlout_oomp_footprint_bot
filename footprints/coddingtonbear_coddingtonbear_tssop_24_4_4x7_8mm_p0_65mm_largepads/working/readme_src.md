@@ -1,29 +1,20 @@
-# coddingtonbear-kicad-lib by coddingtonbear  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/coddingtonbear/coddingtonbear-kicad-lib/blob/master/coddingtonbear.pretty/USB_Thru_hole.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: TSSOP24: plastic thin shrink small outline package; 24 leads; body width 4.4 mm; (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot355-1_po.pdf)  
-* libraryLink: TSSOP-24_4.4x7.8mm_P0.65mm_LargePads  
-* number_of_pads: 24  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | coddingtonbear-kicad-lib/coddingtonbear.pretty/TSSOP-24_4.4x7.8mm_P0.65mm_LargePads.kicad_mod |  
-| footprint | {'description': 'TSSOP24: plastic thin shrink small outline package; 24 leads; body width 4.4 mm; (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot355-1_po.pdf)', 'libraryLink': 'TSSOP-24_4.4x7.8mm_P0.65mm_LargePads', 'number_of_pads': 24} |  
-| footprint_library_directory | footprint_library_owner/coddingtonbear_coddingtonbear-kicad-lib |  
-| footprint_library_directory_flat | footprints_flat/coddingtonbear_coddingtonbear_tssop_24_4_4x7_8mm_p0_65mm_largepads/working |  
-| github_path | http://github.com/coddingtonbear/coddingtonbear-kicad-lib/blob/master/coddingtonbear.pretty/TSSOP-24_4.4x7.8mm_P0.65mm_LargePads.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/coddingtonbear/coddingtonbear-kicad-lib/blob/master/coddingtonbear.pretty/USB_Thru_hole.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/coddingtonbear_coddingtonbear_tssop_24_4_4x7_8mm_p0_65mm_largepads/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/coddingtonbear_coddingtonbear_tssop_24_4_4x7_8mm_p0_65mm_largepads/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/coddingtonbear_coddingtonbear_tssop_24_4_4x7_8mm_p0_65mm_largepads/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/coddingtonbear_coddingtonbear_tssop_24_4_4x7_8mm_p0_65mm_largepads/working'} |  
-| name | coddingtonbear-kicad-lib |  
-| oomp | {'footprint_name': 'tssop_24_4_4x7_8mm_p0_65mm_largepads', 'library_name': 'coddingtonbear', 'md5': '87225f97caffb0700fca82cf5fe0c95f', 'md5_10': '87225f97ca', 'md5_5': '87225', 'md5_6': '87225f', 'oomp_key': 'oomp_coddingtonbear_coddingtonbear_tssop_24_4_4x7_8mm_p0_65mm_largepads', 'oomp_key_extra': 'oomp_footprint_coddingtonbear_coddingtonbear_tssop_24_4_4x7_8mm_p0_65mm_largepads', 'oomp_key_full': 'oomp_footprint_coddingtonbear_coddingtonbear_tssop_24_4_4x7_8mm_p0_65mm_largepads_87225f', 'oomp_key_simple': 'coddingtonbear_coddingtonbear_tssop_24_4_4x7_8mm_p0_65mm_largepads', 'original_filename': 'coddingtonbear-kicad-lib/coddingtonbear.pretty/TSSOP-24_4.4x7.8mm_P0.65mm_LargePads.kicad_mod', 'owner_name': 'coddingtonbear'} |  
-| oomp_key | oomp_coddingtonbear_coddingtonbear_tssop_24_4_4x7_8mm_p0_65mm_largepads |  
-| oomp_key_full | oomp_footprint_coddingtonbear_coddingtonbear_tssop_24_4_4x7_8mm_p0_65mm_largepads |  
-| oomp_key_simple | coddingtonbear_coddingtonbear_tssop_24_4_4x7_8mm_p0_65mm_largepads |  
-| owner | coddingtonbear |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/coddingtonbear/coddingtonbear-kicad-lib |  
-
+# OOMP Footprint  
+## TSSOP-24_4.4x7.8mm_P0.65mm_LargePads  by none  
+  
+oomp key: oomp_coddingtonbear_coddingtonbear_tssop_24_4_4x7_8mm_p0_65mm_largepads  
+  
+source repo at: [http://gitlab.com/coddingtonbear/coddingtonbear-kicad-lib/blob/master/coddingtonbear.pretty/USB_Thru_hole.kicad_mod](http://gitlab.com/coddingtonbear/coddingtonbear-kicad-lib/blob/master/coddingtonbear.pretty/USB_Thru_hole.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | TSSOP-24_4.4x7.8mm_P0.65mm_LargePads | 
+| footprint description | TSSOP24: plastic thin shrink small outline package; 24 leads; body width 4.4 mm; (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot355-1_po.pdf) | 
+| number of pads | 24 | 
+| github path | http://github.com/coddingtonbear/coddingtonbear-kicad-lib/blob/master/coddingtonbear.pretty/TSSOP-24_4.4x7.8mm_P0.65mm_LargePads.kicad_mod | 
+| oomp key | oomp_coddingtonbear_coddingtonbear_tssop_24_4_4x7_8mm_p0_65mm_largepads | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/coddingtonbear_coddingtonbear_tssop_24_4_4x7_8mm_p0_65mm_largepads/working | 
+## Images  

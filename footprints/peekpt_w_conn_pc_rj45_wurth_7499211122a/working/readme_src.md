@@ -1,29 +1,20 @@
-# kicad_smisioto by peekpt  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/peekpt/kicad_smisioto/blob/master/modules/walter/w_vacuum.pretty/tube_gzc9-b.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: RJ45 + led + 10/100BaseT mag + PoE, Wurth P/N 7499211122a  
-* libraryLink: rj45_wurth-7499211122a  
-* number_of_pads: 18  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | kicad_smisioto/modules/walter/w_conn_pc.pretty/rj45_wurth-7499211122a.kicad_mod |  
-| footprint | {'description': 'RJ45 + led + 10/100BaseT mag + PoE, Wurth P/N 7499211122a', 'libraryLink': 'rj45_wurth-7499211122a', 'number_of_pads': 18} |  
-| footprint_library_directory | footprint_library_owner/peekpt_kicad_smisioto |  
-| footprint_library_directory_flat | footprints_flat/peekpt_w_conn_pc_rj45_wurth_7499211122a/working |  
-| github_path | http://github.com/peekpt/kicad_smisioto/blob/master/modules/walter/w_conn_pc.pretty/rj45_wurth-7499211122a.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/peekpt/kicad_smisioto/blob/master/modules/walter/w_vacuum.pretty/tube_gzc9-b.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/peekpt_w_conn_pc_rj45_wurth_7499211122a/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/peekpt_w_conn_pc_rj45_wurth_7499211122a/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/peekpt_w_conn_pc_rj45_wurth_7499211122a/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/peekpt_w_conn_pc_rj45_wurth_7499211122a/working'} |  
-| name | kicad_smisioto |  
-| oomp | {'footprint_name': 'rj45_wurth_7499211122a', 'library_name': 'w_conn_pc', 'md5': '404821549129dce97e2d2a446f725753', 'md5_10': '4048215491', 'md5_5': '40482', 'md5_6': '404821', 'oomp_key': 'oomp_peekpt_w_conn_pc_rj45_wurth_7499211122a', 'oomp_key_extra': 'oomp_footprint_peekpt_w_conn_pc_rj45_wurth_7499211122a', 'oomp_key_full': 'oomp_footprint_peekpt_w_conn_pc_rj45_wurth_7499211122a_404821', 'oomp_key_simple': 'peekpt_w_conn_pc_rj45_wurth_7499211122a', 'original_filename': 'kicad_smisioto/modules/walter/w_conn_pc.pretty/rj45_wurth-7499211122a.kicad_mod', 'owner_name': 'peekpt'} |  
-| oomp_key | oomp_peekpt_w_conn_pc_rj45_wurth_7499211122a |  
-| oomp_key_full | oomp_footprint_peekpt_w_conn_pc_rj45_wurth_7499211122a |  
-| oomp_key_simple | peekpt_w_conn_pc_rj45_wurth_7499211122a |  
-| owner | peekpt |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/peekpt/kicad_smisioto |  
-
+# OOMP Footprint  
+## rj45_wurth-7499211122a  by none  
+  
+oomp key: oomp_peekpt_w_conn_pc_rj45_wurth_7499211122a  
+  
+source repo at: [http://gitlab.com/peekpt/kicad_smisioto/blob/master/modules/walter/w_vacuum.pretty/tube_gzc9-b.kicad_mod](http://gitlab.com/peekpt/kicad_smisioto/blob/master/modules/walter/w_vacuum.pretty/tube_gzc9-b.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | rj45_wurth-7499211122a | 
+| footprint description | RJ45 + led + 10/100BaseT mag + PoE, Wurth P/N 7499211122a | 
+| number of pads | 18 | 
+| github path | http://github.com/peekpt/kicad_smisioto/blob/master/modules/walter/w_conn_pc.pretty/rj45_wurth-7499211122a.kicad_mod | 
+| oomp key | oomp_peekpt_w_conn_pc_rj45_wurth_7499211122a | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/peekpt_w_conn_pc_rj45_wurth_7499211122a/working | 
+## Images  

@@ -1,29 +1,20 @@
-# libraries/kicad-footprints/ by kicad  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: http://www.molex.com/pdm_docs/sd/734151471_sd.pdf  
-* libraryLink: MMCX_Molex_73415-1471_Vertical  
-* number_of_pads: 5  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | libraries/kicad-footprints/Connector_Coaxial.pretty/MMCX_Molex_73415-1471_Vertical.kicad_mod |  
-| footprint | {'description': 'http://www.molex.com/pdm_docs/sd/734151471_sd.pdf', 'libraryLink': 'MMCX_Molex_73415-1471_Vertical', 'number_of_pads': 5} |  
-| footprint_library_directory | footprint_library_owner/kicad_libraries/kicad-footprints/ |  
-| footprint_library_directory_flat | footprints_flat/kicad_connector_coaxial_mmcx_molex_73415_1471_vertical/working |  
-| github_path | http://github.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Connector_Coaxial.pretty/MMCX_Molex_73415-1471_Vertical.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/kicad_connector_coaxial_mmcx_molex_73415_1471_vertical/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_connector_coaxial_mmcx_molex_73415_1471_vertical/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/kicad_connector_coaxial_mmcx_molex_73415_1471_vertical/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_connector_coaxial_mmcx_molex_73415_1471_vertical/working'} |  
-| name | libraries/kicad-footprints/ |  
-| oomp | {'footprint_name': 'mmcx_molex_73415_1471_vertical', 'library_name': 'connector_coaxial', 'md5': 'd9d1aa1a5f8213cac2bcf50d9ee454eb', 'md5_10': 'd9d1aa1a5f', 'md5_5': 'd9d1a', 'md5_6': 'd9d1aa', 'oomp_key': 'oomp_kicad_connector_coaxial_mmcx_molex_73415_1471_vertical', 'oomp_key_extra': 'oomp_footprint_kicad_connector_coaxial_mmcx_molex_73415_1471_vertical', 'oomp_key_full': 'oomp_footprint_kicad_connector_coaxial_mmcx_molex_73415_1471_vertical_d9d1aa', 'oomp_key_simple': 'kicad_connector_coaxial_mmcx_molex_73415_1471_vertical', 'original_filename': 'libraries/kicad-footprints/Connector_Coaxial.pretty/MMCX_Molex_73415-1471_Vertical.kicad_mod', 'owner_name': 'kicad'} |  
-| oomp_key | oomp_kicad_connector_coaxial_mmcx_molex_73415_1471_vertical |  
-| oomp_key_full | oomp_footprint_kicad_connector_coaxial_mmcx_molex_73415_1471_vertical |  
-| oomp_key_simple | kicad_connector_coaxial_mmcx_molex_73415_1471_vertical |  
-| owner | kicad |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | https://gitlab.com/kicad/libraries/kicad-footprints |  
-
+# OOMP Footprint  
+## MMCX_Molex_73415-1471_Vertical  by none  
+  
+oomp key: oomp_kicad_connector_coaxial_mmcx_molex_73415_1471_vertical  
+  
+source repo at: [http://gitlab.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod](http://gitlab.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | MMCX_Molex_73415-1471_Vertical | 
+| footprint description | http://www.molex.com/pdm_docs/sd/734151471_sd.pdf | 
+| number of pads | 5 | 
+| github path | http://github.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Connector_Coaxial.pretty/MMCX_Molex_73415-1471_Vertical.kicad_mod | 
+| oomp key | oomp_kicad_connector_coaxial_mmcx_molex_73415_1471_vertical | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_connector_coaxial_mmcx_molex_73415_1471_vertical/working | 
+## Images  

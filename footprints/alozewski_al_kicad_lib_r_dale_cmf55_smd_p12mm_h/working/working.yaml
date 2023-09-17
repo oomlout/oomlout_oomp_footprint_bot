@@ -1,20 +1,20 @@
-- file: al-kicad-lib.pretty/R_Dale_CMF55_SMD_P12mm_H.kicad_mod
+- file: data//oomlout_oomp_footprint_src/al-kicad-lib.pretty/R_Dale_CMF55_SMD_P12mm_H.kicad_mod
   footprint:
     description: null
     libraryLink: R_Dale_CMF55_SMD_P12mm_H
     number_of_pads: 2
   footprint_library_directory: footprint_library_owner/alozewski_al-kicad-lib.pretty
-  footprint_library_directory_flat: footprints_flat/alozewski_al_kicad_lib_r_dale_cmf55_smd_p12mm_h/working
-  github_path: http://github.com/alozewski/al-kicad-lib.pretty/blob/master/R_Dale_CMF55_SMD_P12mm_H.kicad_mod
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/alozewski_al_kicad_lib_r_dale_cmf55_smd_p12mm_h/working
+  github_path: http://github.com/alozewski/al-kicad-lib.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/R_Dale_CMF55_SMD_P12mm_H.kicad_mod
   links:
     github_owner: alozewski
     github_repo_name: al-kicad-lib.pretty
-    github_src: http://github.com/alozewski/al-kicad-lib.pretty/blob/master/Valve_ECC83_Conn.kicad_mod
+    github_src: http://github.com/alozewski/al-kicad-lib.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Valve_ECC83_Conn.kicad_mod
     github_src_repo: https://github.com/alozewski/al-kicad-lib.pretty
-    oomp_bot: footprints/alozewski_al_kicad_lib_r_dale_cmf55_smd_p12mm_h/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/alozewski_al_kicad_lib_r_dale_cmf55_smd_p12mm_h/working
-    oomp_src_flat: footprints_flat/footprints_flat/alozewski_al_kicad_lib_r_dale_cmf55_smd_p12mm_h/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/alozewski_al_kicad_lib_r_dale_cmf55_smd_p12mm_h/working
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/alozewski_al_kicad_lib_r_dale_cmf55_smd_p12mm_h/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/alozewski_al_kicad_lib_r_dale_cmf55_smd_p12mm_h/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/alozewski_al_kicad_lib_r_dale_cmf55_smd_p12mm_h/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/alozewski_al_kicad_lib_r_dale_cmf55_smd_p12mm_h/working
   name: al-kicad-lib.pretty
   oomp:
     footprint_name: r_dale_cmf55_smd_p12mm_h
@@ -27,7 +27,7 @@
     oomp_key_extra: oomp_footprint_alozewski_al_kicad_lib_r_dale_cmf55_smd_p12mm_h
     oomp_key_full: oomp_footprint_alozewski_al_kicad_lib_r_dale_cmf55_smd_p12mm_h_dfaa69
     oomp_key_simple: alozewski_al_kicad_lib_r_dale_cmf55_smd_p12mm_h
-    original_filename: al-kicad-lib.pretty/R_Dale_CMF55_SMD_P12mm_H.kicad_mod
+    original_filename: data//oomlout_oomp_footprint_src/al-kicad-lib.pretty/R_Dale_CMF55_SMD_P12mm_H.kicad_mod
     owner_name: alozewski
   oomp_key: oomp_alozewski_al_kicad_lib_r_dale_cmf55_smd_p12mm_h
   oomp_key_full: oomp_footprint_alozewski_al_kicad_lib_r_dale_cmf55_smd_p12mm_h

@@ -1,20 +1,20 @@
-- file: LAB6-LIB.pretty/SM200.kicad_mod
+- file: data//oomlout_oomp_footprint_src/LAB6-LIB.pretty/SM200.kicad_mod
   footprint:
     description: null
     libraryLink: LAB6:SM200
     number_of_pads: 64
   footprint_library_directory: footprint_library_owner/lab6-ifma_LAB6-LIB.pretty
-  footprint_library_directory_flat: footprints_flat/lab6_ifma_lab6_lib_sm200/working
-  github_path: http://github.com/lab6-ifma/LAB6-LIB.pretty/blob/master/SM200.kicad_mod
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/lab6_ifma_lab6_lib_sm200/working
+  github_path: http://github.com/lab6-ifma/LAB6-LIB.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/SM200.kicad_mod
   links:
     github_owner: lab6-ifma
     github_repo_name: LAB6-LIB.pretty
-    github_src: http://github.com/lab6-ifma/LAB6-LIB.pretty/blob/master/WS2812B_smallsilk.kicad_mod
+    github_src: http://github.com/lab6-ifma/LAB6-LIB.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/WS2812B_smallsilk.kicad_mod
     github_src_repo: https://github.com/lab6-ifma/LAB6-LIB.pretty
-    oomp_bot: footprints/lab6_ifma_lab6_lib_sm200/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/lab6_ifma_lab6_lib_sm200/working
-    oomp_src_flat: footprints_flat/footprints_flat/lab6_ifma_lab6_lib_sm200/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/lab6_ifma_lab6_lib_sm200/working
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/lab6_ifma_lab6_lib_sm200/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/lab6_ifma_lab6_lib_sm200/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/lab6_ifma_lab6_lib_sm200/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/lab6_ifma_lab6_lib_sm200/working
   name: LAB6-LIB.pretty
   oomp:
     footprint_name: sm200
@@ -27,7 +27,7 @@
     oomp_key_extra: oomp_footprint_lab6_ifma_lab6_lib_sm200
     oomp_key_full: oomp_footprint_lab6_ifma_lab6_lib_sm200_1be17d
     oomp_key_simple: lab6_ifma_lab6_lib_sm200
-    original_filename: LAB6-LIB.pretty/SM200.kicad_mod
+    original_filename: data//oomlout_oomp_footprint_src/LAB6-LIB.pretty/SM200.kicad_mod
     owner_name: lab6_ifma
   oomp_key: oomp_lab6_ifma_lab6_lib_sm200
   oomp_key_full: oomp_footprint_lab6_ifma_lab6_lib_sm200

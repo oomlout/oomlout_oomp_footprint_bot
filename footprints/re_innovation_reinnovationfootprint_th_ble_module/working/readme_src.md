@@ -1,29 +1,20 @@
-# kicad_reinnovation by re-innovation  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/re-innovation/kicad_reinnovation/blob/master/KiCAD PRETTY/Transistors_SMD.pretty/VLM0806_Housing_Handsoldering.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: Connecteur 6 pins  
-* libraryLink: TH_BLE_Module  
-* number_of_pads: 6  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | kicad_reinnovation/KiCAD PRETTY/REInnovationFootprint.pretty/TH_BLE_Module.kicad_mod |  
-| footprint | {'description': 'Connecteur 6 pins', 'libraryLink': 'TH_BLE_Module', 'number_of_pads': 6} |  
-| footprint_library_directory | footprint_library_owner/re-innovation_kicad_reinnovation |  
-| footprint_library_directory_flat | footprints_flat/re_innovation_reinnovationfootprint_th_ble_module/working |  
-| github_path | http://github.com/re-innovation/kicad_reinnovation/blob/master/KiCAD PRETTY/REInnovationFootprint.pretty/TH_BLE_Module.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/re-innovation/kicad_reinnovation/blob/master/KiCAD PRETTY/Transistors_SMD.pretty/VLM0806_Housing_Handsoldering.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/re_innovation_reinnovationfootprint_th_ble_module/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/re_innovation_reinnovationfootprint_th_ble_module/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/re_innovation_reinnovationfootprint_th_ble_module/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/re_innovation_reinnovationfootprint_th_ble_module/working'} |  
-| name | kicad_reinnovation |  
-| oomp | {'footprint_name': 'th_ble_module', 'library_name': 'reinnovationfootprint', 'md5': '851d196e1548b6b07257c9230c5ab62b', 'md5_10': '851d196e15', 'md5_5': '851d1', 'md5_6': '851d19', 'oomp_key': 'oomp_re_innovation_reinnovationfootprint_th_ble_module', 'oomp_key_extra': 'oomp_footprint_re_innovation_reinnovationfootprint_th_ble_module', 'oomp_key_full': 'oomp_footprint_re_innovation_reinnovationfootprint_th_ble_module_851d19', 'oomp_key_simple': 're_innovation_reinnovationfootprint_th_ble_module', 'original_filename': 'kicad_reinnovation/KiCAD PRETTY/REInnovationFootprint.pretty/TH_BLE_Module.kicad_mod', 'owner_name': 're_innovation'} |  
-| oomp_key | oomp_re_innovation_reinnovationfootprint_th_ble_module |  
-| oomp_key_full | oomp_footprint_re_innovation_reinnovationfootprint_th_ble_module |  
-| oomp_key_simple | re_innovation_reinnovationfootprint_th_ble_module |  
-| owner | re-innovation |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/re-innovation/kicad_reinnovation |  
-
+# OOMP Footprint  
+## TH_BLE_Module  by none  
+  
+oomp key: oomp_re_innovation_reinnovationfootprint_th_ble_module  
+  
+source repo at: [http://gitlab.com/re-innovation/kicad_reinnovation/blob/master/KiCAD PRETTY/Transistors_SMD.pretty/VLM0806_Housing_Handsoldering.kicad_mod](http://gitlab.com/re-innovation/kicad_reinnovation/blob/master/KiCAD PRETTY/Transistors_SMD.pretty/VLM0806_Housing_Handsoldering.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | TH_BLE_Module | 
+| footprint description | Connecteur 6 pins | 
+| number of pads | 6 | 
+| github path | http://github.com/re-innovation/kicad_reinnovation/blob/master/KiCAD PRETTY/REInnovationFootprint.pretty/TH_BLE_Module.kicad_mod | 
+| oomp key | oomp_re_innovation_reinnovationfootprint_th_ble_module | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/re_innovation_reinnovationfootprint_th_ble_module/working | 
+## Images  

@@ -1,0 +1,38 @@
+- file: data//oomlout_oomp_footprint_src/kicad-footprints/Package_DFN_QFN.pretty/QFN-24-1EP_4x4mm_P0.5mm_EP2.75x2.75mm_ThermalVias.kicad_mod
+  footprint:
+    description: QFN, 24 Pin (https://www.infineon.com/dgdl/Infineon-EZ-PD_BCR_Datasheet_USB_Type-C_Port_Controller_for_Power_Sinks-DataSheet-v03_00-EN.pdf?fileId=8ac78c8c7d0d8da4017d0ee7ce9d70ad),
+      generated with kicad-footprint-generator ipc_noLead_generator.py
+    libraryLink: QFN-24-1EP_4x4mm_P0.5mm_EP2.75x2.75mm_ThermalVias
+    number_of_pads: 39
+  footprint_library_directory: footprint_library_owner/kicad_kicad-footprints/
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/kicad_package_dfn_qfn_qfn_24_1ep_4x4mm_p0_5mm_ep2_75x2_75mm_thermalvias/working
+  github_path: http://github.com/kicad/kicad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/Package_DFN_QFN.pretty/QFN-24-1EP_4x4mm_P0.5mm_EP2.75x2.75mm_ThermalVias.kicad_mod
+  links:
+    github_src: http://gitlab.com/kicad/kicad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod
+    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/kicad_package_dfn_qfn_qfn_24_1ep_4x4mm_p0_5mm_ep2_75x2_75mm_thermalvias/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/kicad_package_dfn_qfn_qfn_24_1ep_4x4mm_p0_5mm_ep2_75x2_75mm_thermalvias/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/kicad_package_dfn_qfn_qfn_24_1ep_4x4mm_p0_5mm_ep2_75x2_75mm_thermalvias/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/kicad_package_dfn_qfn_qfn_24_1ep_4x4mm_p0_5mm_ep2_75x2_75mm_thermalvias/working
+  name: kicad-footprints
+  oomp:
+    footprint_name: qfn_24_1ep_4x4mm_p0_5mm_ep2_75x2_75mm_thermalvias
+    library_name: package_dfn_qfn
+    md5: 6b35ce0138906d8e91c8d9f307748543
+    md5_10: 6b35ce0138
+    md5_5: 6b35c
+    md5_6: 6b35ce
+    oomp_key: oomp_kicad_package_dfn_qfn_qfn_24_1ep_4x4mm_p0_5mm_ep2_75x2_75mm_thermalvias
+    oomp_key_extra: oomp_footprint_kicad_package_dfn_qfn_qfn_24_1ep_4x4mm_p0_5mm_ep2_75x2_75mm_thermalvias
+    oomp_key_full: oomp_footprint_kicad_package_dfn_qfn_qfn_24_1ep_4x4mm_p0_5mm_ep2_75x2_75mm_thermalvias_6b35ce
+    oomp_key_simple: kicad_package_dfn_qfn_qfn_24_1ep_4x4mm_p0_5mm_ep2_75x2_75mm_thermalvias
+    original_filename: data//oomlout_oomp_footprint_src/kicad-footprints/Package_DFN_QFN.pretty/QFN-24-1EP_4x4mm_P0.5mm_EP2.75x2.75mm_ThermalVias.kicad_mod
+    owner_name: kicad
+  oomp_key: oomp_kicad_package_dfn_qfn_qfn_24_1ep_4x4mm_p0_5mm_ep2_75x2_75mm_thermalvias
+  oomp_key_full: oomp_footprint_kicad_package_dfn_qfn_qfn_24_1ep_4x4mm_p0_5mm_ep2_75x2_75mm_thermalvias
+  oomp_key_simple: kicad_package_dfn_qfn_qfn_24_1ep_4x4mm_p0_5mm_ep2_75x2_75mm_thermalvias
+  owner: kicad
+  repo:
+    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
+    message: Not Found
+  url: https://gitlab.com/kicad/libraries/kicad-footprints

@@ -1,0 +1,39 @@
+- file: data//oomlout_oomp_footprint_src/kicad-components/Pretty_Footprints/Connectors_RJ45.pretty/ARJM11C7-114-BA-EW2.kicad_mod
+  footprint:
+    description: null
+    libraryLink: ARJM11C7-114-BA-EW2
+    number_of_pads: 18
+  footprint_library_directory: footprint_library_owner/natsfr_kicad-components
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/natsfr_connectors_rj45_arjm11c7_114_ba_ew2/working
+  github_path: http://github.com/natsfr/kicad-components/blob/master/tmp/data//oomlout_oomp_footprint_src/Pretty_Footprints/Connectors_RJ45.pretty/ARJM11C7-114-BA-EW2.kicad_mod
+  links:
+    github_src: http://gitlab.com/natsfr/kicad-components/blob/master/tmp/data//oomlout_oomp_footprint_src/Pretty_Footprints/Xtal_SMD.pretty/XTAL_5.0x3.2mm.kicad_mod
+    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/natsfr_connectors_rj45_arjm11c7_114_ba_ew2/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/natsfr_connectors_rj45_arjm11c7_114_ba_ew2/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/natsfr_connectors_rj45_arjm11c7_114_ba_ew2/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/natsfr_connectors_rj45_arjm11c7_114_ba_ew2/working
+  name: kicad-components
+  oomp:
+    footprint_name: arjm11c7_114_ba_ew2
+    library_name: connectors_rj45
+    md5: 33ec9524cd9addccdead4631552d88e2
+    md5_10: 33ec9524cd
+    md5_5: 33ec9
+    md5_6: 33ec95
+    oomp_key: oomp_natsfr_connectors_rj45_arjm11c7_114_ba_ew2
+    oomp_key_extra: oomp_footprint_natsfr_connectors_rj45_arjm11c7_114_ba_ew2
+    oomp_key_full: oomp_footprint_natsfr_connectors_rj45_arjm11c7_114_ba_ew2_33ec95
+    oomp_key_simple: natsfr_connectors_rj45_arjm11c7_114_ba_ew2
+    original_filename: data//oomlout_oomp_footprint_src/kicad-components/Pretty_Footprints/Connectors_RJ45.pretty/ARJM11C7-114-BA-EW2.kicad_mod
+    owner_name: natsfr
+  oomp_key: oomp_natsfr_connectors_rj45_arjm11c7_114_ba_ew2
+  oomp_key_full: oomp_footprint_natsfr_connectors_rj45_arjm11c7_114_ba_ew2
+  oomp_key_simple: natsfr_connectors_rj45_arjm11c7_114_ba_ew2
+  owner: natsfr
+  repo:
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
+  url: http://github.com/natsfr/kicad-components

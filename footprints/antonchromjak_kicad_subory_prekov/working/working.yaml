@@ -1,20 +1,20 @@
-- file: kicad_subory.pretty/prekov.kicad_mod
+- file: data//oomlout_oomp_footprint_src/kicad_subory.pretty/prekov.kicad_mod
   footprint:
     description: null
     libraryLink: prekov
     number_of_pads: 12
   footprint_library_directory: footprint_library_owner/antonchromjak_kicad_subory.pretty
-  footprint_library_directory_flat: footprints_flat/antonchromjak_kicad_subory_prekov/working
-  github_path: http://github.com/antonchromjak/kicad_subory.pretty/blob/master/prekov.kicad_mod
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/antonchromjak_kicad_subory_prekov/working
+  github_path: http://github.com/antonchromjak/kicad_subory.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/prekov.kicad_mod
   links:
     github_owner: antonchromjak
     github_repo_name: kicad_subory.pretty
-    github_src: http://github.com/antonchromjak/kicad_subory.pretty/blob/master/WSON10__.kicad_mod
+    github_src: http://github.com/antonchromjak/kicad_subory.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/WSON10__.kicad_mod
     github_src_repo: https://github.com/antonchromjak/kicad_subory.pretty
-    oomp_bot: footprints/antonchromjak_kicad_subory_prekov/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/antonchromjak_kicad_subory_prekov/working
-    oomp_src_flat: footprints_flat/footprints_flat/antonchromjak_kicad_subory_prekov/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/antonchromjak_kicad_subory_prekov/working
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/antonchromjak_kicad_subory_prekov/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/antonchromjak_kicad_subory_prekov/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/antonchromjak_kicad_subory_prekov/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/antonchromjak_kicad_subory_prekov/working
   name: kicad_subory.pretty
   oomp:
     footprint_name: prekov
@@ -27,7 +27,7 @@
     oomp_key_extra: oomp_footprint_antonchromjak_kicad_subory_prekov
     oomp_key_full: oomp_footprint_antonchromjak_kicad_subory_prekov_a7a219
     oomp_key_simple: antonchromjak_kicad_subory_prekov
-    original_filename: kicad_subory.pretty/prekov.kicad_mod
+    original_filename: data//oomlout_oomp_footprint_src/kicad_subory.pretty/prekov.kicad_mod
     owner_name: antonchromjak
   oomp_key: oomp_antonchromjak_kicad_subory_prekov
   oomp_key_full: oomp_footprint_antonchromjak_kicad_subory_prekov

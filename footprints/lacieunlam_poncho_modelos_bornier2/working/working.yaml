@@ -1,20 +1,20 @@
-- file: Poncho_Modelos.pretty/bornier2.kicad_mod
+- file: data//oomlout_oomp_footprint_src/Poncho_Modelos.pretty/bornier2.kicad_mod
   footprint:
     description: Bornier d'alimentation 2 pins
     libraryLink: Connect:bornier2
     number_of_pads: 2
   footprint_library_directory: footprint_library_owner/LacieUnlam_Poncho_Modelos.pretty
-  footprint_library_directory_flat: footprints_flat/lacieunlam_poncho_modelos_bornier2/working
-  github_path: http://github.com/LacieUnlam/Poncho_Modelos.pretty/blob/master/bornier2.kicad_mod
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/lacieunlam_poncho_modelos_bornier2/working
+  github_path: http://github.com/LacieUnlam/Poncho_Modelos.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/bornier2.kicad_mod
   links:
     github_owner: LacieUnlam
     github_repo_name: Poncho_Modelos.pretty
-    github_src: http://github.com/LacieUnlam/Poncho_Modelos.pretty/blob/master/Pin_Header_Straight_2x20.kicad_mod
+    github_src: http://github.com/LacieUnlam/Poncho_Modelos.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Pin_Header_Straight_2x20.kicad_mod
     github_src_repo: https://github.com/LacieUnlam/Poncho_Modelos.pretty
-    oomp_bot: footprints/lacieunlam_poncho_modelos_bornier2/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/lacieunlam_poncho_modelos_bornier2/working
-    oomp_src_flat: footprints_flat/footprints_flat/lacieunlam_poncho_modelos_bornier2/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/lacieunlam_poncho_modelos_bornier2/working
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/lacieunlam_poncho_modelos_bornier2/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/lacieunlam_poncho_modelos_bornier2/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/lacieunlam_poncho_modelos_bornier2/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/lacieunlam_poncho_modelos_bornier2/working
   name: Poncho_Modelos.pretty
   oomp:
     footprint_name: bornier2
@@ -27,7 +27,7 @@
     oomp_key_extra: oomp_footprint_lacieunlam_poncho_modelos_bornier2
     oomp_key_full: oomp_footprint_lacieunlam_poncho_modelos_bornier2_c5be61
     oomp_key_simple: lacieunlam_poncho_modelos_bornier2
-    original_filename: Poncho_Modelos.pretty/bornier2.kicad_mod
+    original_filename: data//oomlout_oomp_footprint_src/Poncho_Modelos.pretty/bornier2.kicad_mod
     owner_name: lacieunlam
   oomp_key: oomp_lacieunlam_poncho_modelos_bornier2
   oomp_key_full: oomp_footprint_lacieunlam_poncho_modelos_bornier2

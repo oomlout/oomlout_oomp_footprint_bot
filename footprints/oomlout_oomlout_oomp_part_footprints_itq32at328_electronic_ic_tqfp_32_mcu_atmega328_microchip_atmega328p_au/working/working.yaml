@@ -1,0 +1,40 @@
+- file: data//oomlout_oomp_footprint_src/oomlout_oomp_part_kicad_footprints/oomlout_oomp_part_footprints.pretty/itq32at328_electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au.kicad_mod
+  footprint:
+    description: 32-Lead Plastic Thin Quad Flatpack (PT) - 7x7x1.0 mm Body, 2.00 mm
+      [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
+    libraryLink: TQFP-32_7x7mm_P0.8mm
+    number_of_pads: 32
+  footprint_library_directory: footprint_library_owner/oomlout_oomlout_oomp_part_kicad_footprints
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/oomlout_oomlout_oomp_part_footprints_itq32at328_electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au/working
+  github_path: http://github.com/oomlout/oomlout_oomp_part_kicad_footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/oomlout_oomp_part_footprints.pretty/itq32at328_electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au.kicad_mod
+  links:
+    github_src: http://gitlab.com/oomlout/oomlout_oomp_part_kicad_footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/oomlout_oomp_part_footprints.pretty/xcr3213mhz8_electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz.kicad_mod
+    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/oomlout_oomlout_oomp_part_footprints_itq32at328_electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/oomlout_oomlout_oomp_part_footprints_itq32at328_electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/oomlout_oomlout_oomp_part_footprints_itq32at328_electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/oomlout_oomlout_oomp_part_footprints_itq32at328_electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au/working
+  name: oomlout_oomp_part_kicad_footprints
+  oomp:
+    footprint_name: itq32at328_electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au
+    library_name: oomlout_oomp_part_footprints
+    md5: a8dc759a88e69d730ec7e7e5fbf547fd
+    md5_10: a8dc759a88
+    md5_5: a8dc7
+    md5_6: a8dc75
+    oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_itq32at328_electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au
+    oomp_key_extra: oomp_footprint_oomlout_oomlout_oomp_part_footprints_itq32at328_electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au
+    oomp_key_full: oomp_footprint_oomlout_oomlout_oomp_part_footprints_itq32at328_electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au_a8dc75
+    oomp_key_simple: oomlout_oomlout_oomp_part_footprints_itq32at328_electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au
+    original_filename: data//oomlout_oomp_footprint_src/oomlout_oomp_part_kicad_footprints/oomlout_oomp_part_footprints.pretty/itq32at328_electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au.kicad_mod
+    owner_name: oomlout
+  oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_itq32at328_electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au
+  oomp_key_full: oomp_footprint_oomlout_oomlout_oomp_part_footprints_itq32at328_electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au
+  oomp_key_simple: oomlout_oomlout_oomp_part_footprints_itq32at328_electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au
+  owner: oomlout
+  repo:
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
+  url: https://github.com/oomlout/oomlout_oomp_part_kicad_footprints

@@ -1,0 +1,39 @@
+- file: data//oomlout_oomp_footprint_src/kicad-footprints/Display.pretty/EA_DOGXL160-7_Backlight.kicad_mod
+  footprint:
+    description: Grapchical,Display,LCD,160x104 http://www.lcd-module.com/eng/pdf/grafik/dogxl160-7e.pdf
+    libraryLink: EA_DOGXL160-7_Backlight
+    number_of_pads: 22
+  footprint_library_directory: footprint_library_owner/konspyre_kicad-footprints
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/konspyre_display_ea_dogxl160_7_backlight/working
+  github_path: http://github.com/konspyre/kicad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/Display.pretty/EA_DOGXL160-7_Backlight.kicad_mod
+  links:
+    github_src: http://gitlab.com/konspyre/kicad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod
+    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/konspyre_display_ea_dogxl160_7_backlight/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/konspyre_display_ea_dogxl160_7_backlight/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/konspyre_display_ea_dogxl160_7_backlight/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/konspyre_display_ea_dogxl160_7_backlight/working
+  name: kicad-footprints
+  oomp:
+    footprint_name: ea_dogxl160_7_backlight
+    library_name: display
+    md5: a1785025c74cbd845ca884643a3ac7e8
+    md5_10: a1785025c7
+    md5_5: a1785
+    md5_6: a17850
+    oomp_key: oomp_konspyre_display_ea_dogxl160_7_backlight
+    oomp_key_extra: oomp_footprint_konspyre_display_ea_dogxl160_7_backlight
+    oomp_key_full: oomp_footprint_konspyre_display_ea_dogxl160_7_backlight_a17850
+    oomp_key_simple: konspyre_display_ea_dogxl160_7_backlight
+    original_filename: data//oomlout_oomp_footprint_src/kicad-footprints/Display.pretty/EA_DOGXL160-7_Backlight.kicad_mod
+    owner_name: konspyre
+  oomp_key: oomp_konspyre_display_ea_dogxl160_7_backlight
+  oomp_key_full: oomp_footprint_konspyre_display_ea_dogxl160_7_backlight
+  oomp_key_simple: konspyre_display_ea_dogxl160_7_backlight
+  owner: konspyre
+  repo:
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
+  url: http://github.com/konspyre/kicad-footprints

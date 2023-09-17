@@ -1,29 +1,20 @@
-# kicad-open-modules by brunoeagle  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/brunoeagle/kicad-open-modules/blob/master/XH-2AW.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: None  
-* libraryLink: RECE.20279.001E.01  
-* number_of_pads: 3  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | kicad-open-modules/RECE.20279.001E.01.kicad_mod |  
-| footprint | {'description': None, 'libraryLink': 'RECE.20279.001E.01', 'number_of_pads': 3} |  
-| footprint_library_directory | footprint_library_owner/brunoeagle_kicad-open-modules |  
-| footprint_library_directory_flat | footprints_flat/brunoeagle_rece_20279_001e_01_rece_20279_001e_01/working |  
-| github_path | http://github.com/brunoeagle/kicad-open-modules/blob/master/RECE.20279.001E.01.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/brunoeagle/kicad-open-modules/blob/master/XH-2AW.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/brunoeagle_rece_20279_001e_01_rece_20279_001e_01/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_rece_20279_001e_01_rece_20279_001e_01/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/brunoeagle_rece_20279_001e_01_rece_20279_001e_01/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_rece_20279_001e_01_rece_20279_001e_01/working'} |  
-| name | kicad-open-modules |  
-| oomp | {'footprint_name': 'rece_20279_001e_01', 'library_name': 'rece_20279_001e_01_kicad_mod', 'md5': 'f5e45a1e1d41acc469ddd0019021cad6', 'md5_10': 'f5e45a1e1d', 'md5_5': 'f5e45', 'md5_6': 'f5e45a', 'oomp_key': 'oomp_brunoeagle_rece_20279_001e_01_rece_20279_001e_01', 'oomp_key_extra': 'oomp_footprint_brunoeagle_rece_20279_001e_01_rece_20279_001e_01', 'oomp_key_full': 'oomp_footprint_brunoeagle_rece_20279_001e_01_rece_20279_001e_01_f5e45a', 'oomp_key_simple': 'brunoeagle_rece_20279_001e_01_rece_20279_001e_01', 'original_filename': 'kicad-open-modules/RECE.20279.001E.01.kicad_mod', 'owner_name': 'brunoeagle'} |  
-| oomp_key | oomp_brunoeagle_rece_20279_001e_01_rece_20279_001e_01 |  
-| oomp_key_full | oomp_footprint_brunoeagle_rece_20279_001e_01_rece_20279_001e_01 |  
-| oomp_key_simple | brunoeagle_rece_20279_001e_01_rece_20279_001e_01 |  
-| owner | brunoeagle |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/brunoeagle/kicad-open-modules |  
-
+# OOMP Footprint  
+## RECE.20279.001E.01  by none  
+  
+oomp key: oomp_brunoeagle_rece_20279_001e_01_rece_20279_001e_01  
+  
+source repo at: [http://gitlab.com/brunoeagle/kicad-open-modules/blob/master/XH-2AW.kicad_mod](http://gitlab.com/brunoeagle/kicad-open-modules/blob/master/XH-2AW.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | RECE.20279.001E.01 | 
+| footprint description | None | 
+| number of pads | 3 | 
+| github path | http://github.com/brunoeagle/kicad-open-modules/blob/master/RECE.20279.001E.01.kicad_mod | 
+| oomp key | oomp_brunoeagle_rece_20279_001e_01_rece_20279_001e_01 | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_rece_20279_001e_01_rece_20279_001e_01/working | 
+## Images  

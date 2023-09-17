@@ -1,20 +1,18 @@
-- file: kicad-modules/Display_Extra.pretty/LH133T-IG01.kicad_mod
+- file: data//oomlout_oomp_footprint_src/kicad-modules/Display_Extra.pretty/LH133T-IG01.kicad_mod
   footprint:
     description: null
     libraryLink: LH133T-IG01
     number_of_pads: 12
   footprint_library_directory: footprint_library_owner/arturo182_kicad-modules
-  footprint_library_directory_flat: footprints_flat/arturo182_display_extra_lh133t_ig01/working
-  github_path: http://github.com/arturo182/kicad-modules/blob/master/Display_Extra.pretty/LH133T-IG01.kicad_mod
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/arturo182_display_extra_lh133t_ig01/working
+  github_path: http://github.com/arturo182/kicad-modules/blob/master/tmp/data//oomlout_oomp_footprint_src/Display_Extra.pretty/LH133T-IG01.kicad_mod
   links:
-    github_owner: arturo182
-    github_repo_name: kicad-modules
-    github_src: http://github.com/arturo182/kicad-modules/blob/master/Symbols_Extra.pretty/SolderParty-New-Logo_7.5x6.4mm_SilkScreen.kicad_mod
-    github_src_repo: https://github.com/arturo182/kicad-modules
-    oomp_bot: footprints/arturo182_display_extra_lh133t_ig01/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/arturo182_display_extra_lh133t_ig01/working
-    oomp_src_flat: footprints_flat/footprints_flat/arturo182_display_extra_lh133t_ig01/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/arturo182_display_extra_lh133t_ig01/working
+    github_src: http://gitlab.com/arturo182/kicad-modules/blob/master/tmp/data//oomlout_oomp_footprint_src/Symbols_Extra.pretty/SolderParty-New-Logo_7.5x6.4mm_SilkScreen.kicad_mod
+    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/arturo182_display_extra_lh133t_ig01/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/arturo182_display_extra_lh133t_ig01/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/arturo182_display_extra_lh133t_ig01/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/arturo182_display_extra_lh133t_ig01/working
   name: kicad-modules
   oomp:
     footprint_name: lh133t_ig01
@@ -27,116 +25,15 @@
     oomp_key_extra: oomp_footprint_arturo182_display_extra_lh133t_ig01
     oomp_key_full: oomp_footprint_arturo182_display_extra_lh133t_ig01_a899aa
     oomp_key_simple: arturo182_display_extra_lh133t_ig01
-    original_filename: kicad-modules/Display_Extra.pretty/LH133T-IG01.kicad_mod
+    original_filename: data//oomlout_oomp_footprint_src/kicad-modules/Display_Extra.pretty/LH133T-IG01.kicad_mod
     owner_name: arturo182
   oomp_key: oomp_arturo182_display_extra_lh133t_ig01
   oomp_key_full: oomp_footprint_arturo182_display_extra_lh133t_ig01
   oomp_key_simple: arturo182_display_extra_lh133t_ig01
   owner: arturo182
   repo:
-    allow_forking: true
-    archive_url: https://api.github.com/repos/arturo182/kicad-modules/{archive_format}{/ref}
-    archived: false
-    assignees_url: https://api.github.com/repos/arturo182/kicad-modules/assignees{/user}
-    blobs_url: https://api.github.com/repos/arturo182/kicad-modules/git/blobs{/sha}
-    branches_url: https://api.github.com/repos/arturo182/kicad-modules/branches{/branch}
-    clone_url: https://github.com/arturo182/kicad-modules.git
-    collaborators_url: https://api.github.com/repos/arturo182/kicad-modules/collaborators{/collaborator}
-    comments_url: https://api.github.com/repos/arturo182/kicad-modules/comments{/number}
-    commits_url: https://api.github.com/repos/arturo182/kicad-modules/commits{/sha}
-    compare_url: https://api.github.com/repos/arturo182/kicad-modules/compare/{base}...{head}
-    contents_url: https://api.github.com/repos/arturo182/kicad-modules/contents/{+path}
-    contributors_url: https://api.github.com/repos/arturo182/kicad-modules/contributors
-    created_at: '2019-03-24T21:03:47Z'
-    default_branch: master
-    deployments_url: https://api.github.com/repos/arturo182/kicad-modules/deployments
-    description: A repository with all my custom footprints and 3d models for KiCad
-    disabled: false
-    downloads_url: https://api.github.com/repos/arturo182/kicad-modules/downloads
-    events_url: https://api.github.com/repos/arturo182/kicad-modules/events
-    fork: false
-    forks: 2
-    forks_count: 2
-    forks_url: https://api.github.com/repos/arturo182/kicad-modules/forks
-    full_name: arturo182/kicad-modules
-    git_commits_url: https://api.github.com/repos/arturo182/kicad-modules/git/commits{/sha}
-    git_refs_url: https://api.github.com/repos/arturo182/kicad-modules/git/refs{/sha}
-    git_tags_url: https://api.github.com/repos/arturo182/kicad-modules/git/tags{/sha}
-    git_url: git://github.com/arturo182/kicad-modules.git
-    has_discussions: true
-    has_downloads: true
-    has_issues: true
-    has_pages: false
-    has_projects: true
-    has_wiki: true
-    homepage: null
-    hooks_url: https://api.github.com/repos/arturo182/kicad-modules/hooks
-    html_url: https://github.com/arturo182/kicad-modules
-    id: 177469139
-    is_template: false
-    issue_comment_url: https://api.github.com/repos/arturo182/kicad-modules/issues/comments{/number}
-    issue_events_url: https://api.github.com/repos/arturo182/kicad-modules/issues/events{/number}
-    issues_url: https://api.github.com/repos/arturo182/kicad-modules/issues{/number}
-    keys_url: https://api.github.com/repos/arturo182/kicad-modules/keys{/key_id}
-    labels_url: https://api.github.com/repos/arturo182/kicad-modules/labels{/name}
-    language: null
-    languages_url: https://api.github.com/repos/arturo182/kicad-modules/languages
-    license:
-      key: mit
-      name: MIT License
-      node_id: MDc6TGljZW5zZTEz
-      spdx_id: MIT
-      url: https://api.github.com/licenses/mit
-    merges_url: https://api.github.com/repos/arturo182/kicad-modules/merges
-    milestones_url: https://api.github.com/repos/arturo182/kicad-modules/milestones{/number}
-    mirror_url: null
-    name: kicad-modules
-    network_count: 2
-    node_id: MDEwOlJlcG9zaXRvcnkxNzc0NjkxMzk=
-    notifications_url: https://api.github.com/repos/arturo182/kicad-modules/notifications{?since,all,participating}
-    open_issues: 0
-    open_issues_count: 0
-    owner:
-      avatar_url: https://avatars.githubusercontent.com/u/249082?v=4
-      events_url: https://api.github.com/users/arturo182/events{/privacy}
-      followers_url: https://api.github.com/users/arturo182/followers
-      following_url: https://api.github.com/users/arturo182/following{/other_user}
-      gists_url: https://api.github.com/users/arturo182/gists{/gist_id}
-      gravatar_id: ''
-      html_url: https://github.com/arturo182
-      id: 249082
-      login: arturo182
-      node_id: MDQ6VXNlcjI0OTA4Mg==
-      organizations_url: https://api.github.com/users/arturo182/orgs
-      received_events_url: https://api.github.com/users/arturo182/received_events
-      repos_url: https://api.github.com/users/arturo182/repos
-      site_admin: false
-      starred_url: https://api.github.com/users/arturo182/starred{/owner}{/repo}
-      subscriptions_url: https://api.github.com/users/arturo182/subscriptions
-      type: User
-      url: https://api.github.com/users/arturo182
-    private: false
-    pulls_url: https://api.github.com/repos/arturo182/kicad-modules/pulls{/number}
-    pushed_at: '2023-05-18T23:30:01Z'
-    releases_url: https://api.github.com/repos/arturo182/kicad-modules/releases{/id}
-    size: 34164
-    ssh_url: git@github.com:arturo182/kicad-modules.git
-    stargazers_count: 23
-    stargazers_url: https://api.github.com/repos/arturo182/kicad-modules/stargazers
-    statuses_url: https://api.github.com/repos/arturo182/kicad-modules/statuses/{sha}
-    subscribers_count: 4
-    subscribers_url: https://api.github.com/repos/arturo182/kicad-modules/subscribers
-    subscription_url: https://api.github.com/repos/arturo182/kicad-modules/subscription
-    svn_url: https://github.com/arturo182/kicad-modules
-    tags_url: https://api.github.com/repos/arturo182/kicad-modules/tags
-    teams_url: https://api.github.com/repos/arturo182/kicad-modules/teams
-    temp_clone_token: null
-    topics: []
-    trees_url: https://api.github.com/repos/arturo182/kicad-modules/git/trees{/sha}
-    updated_at: '2023-06-14T22:18:18Z'
-    url: https://api.github.com/repos/arturo182/kicad-modules
-    visibility: public
-    watchers: 23
-    watchers_count: 23
-    web_commit_signoff_required: false
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: https://github.com/arturo182/kicad-modules

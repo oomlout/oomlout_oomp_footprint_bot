@@ -1,29 +1,20 @@
-# kicad-library by ruuvi  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/ruuvi/kicad-library/blob/master/RuuviTracker.pretty/BUZZER-75X75x25MM.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: None  
-* libraryLink: XLLGA-6-DUAL-MOSFET  
-* number_of_pads: 6  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | kicad-library/RuuviTag.pretty/XLLGA-6-DUAL-MOSFET.kicad_mod |  
-| footprint | {'description': None, 'libraryLink': 'XLLGA-6-DUAL-MOSFET', 'number_of_pads': 6} |  
-| footprint_library_directory | footprint_library_owner/ruuvi_kicad-library |  
-| footprint_library_directory_flat | footprints_flat/ruuvi_ruuvitag_xllga_6_dual_mosfet/working |  
-| github_path | http://github.com/ruuvi/kicad-library/blob/master/RuuviTag.pretty/XLLGA-6-DUAL-MOSFET.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/ruuvi/kicad-library/blob/master/RuuviTracker.pretty/BUZZER-75X75x25MM.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/ruuvi_ruuvitag_xllga_6_dual_mosfet/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ruuvi_ruuvitag_xllga_6_dual_mosfet/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/ruuvi_ruuvitag_xllga_6_dual_mosfet/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ruuvi_ruuvitag_xllga_6_dual_mosfet/working'} |  
-| name | kicad-library |  
-| oomp | {'footprint_name': 'xllga_6_dual_mosfet', 'library_name': 'ruuvitag', 'md5': '99636224a2c51d441c60f02f3e891c84', 'md5_10': '99636224a2', 'md5_5': '99636', 'md5_6': '996362', 'oomp_key': 'oomp_ruuvi_ruuvitag_xllga_6_dual_mosfet', 'oomp_key_extra': 'oomp_footprint_ruuvi_ruuvitag_xllga_6_dual_mosfet', 'oomp_key_full': 'oomp_footprint_ruuvi_ruuvitag_xllga_6_dual_mosfet_996362', 'oomp_key_simple': 'ruuvi_ruuvitag_xllga_6_dual_mosfet', 'original_filename': 'kicad-library/RuuviTag.pretty/XLLGA-6-DUAL-MOSFET.kicad_mod', 'owner_name': 'ruuvi'} |  
-| oomp_key | oomp_ruuvi_ruuvitag_xllga_6_dual_mosfet |  
-| oomp_key_full | oomp_footprint_ruuvi_ruuvitag_xllga_6_dual_mosfet |  
-| oomp_key_simple | ruuvi_ruuvitag_xllga_6_dual_mosfet |  
-| owner | ruuvi |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/ruuvi/kicad-library |  
-
+# OOMP Footprint  
+## XLLGA-6-DUAL-MOSFET  by none  
+  
+oomp key: oomp_ruuvi_ruuvitag_xllga_6_dual_mosfet  
+  
+source repo at: [http://gitlab.com/ruuvi/kicad-library/blob/master/RuuviTracker.pretty/BUZZER-75X75x25MM.kicad_mod](http://gitlab.com/ruuvi/kicad-library/blob/master/RuuviTracker.pretty/BUZZER-75X75x25MM.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | XLLGA-6-DUAL-MOSFET | 
+| footprint description | None | 
+| number of pads | 6 | 
+| github path | http://github.com/ruuvi/kicad-library/blob/master/RuuviTag.pretty/XLLGA-6-DUAL-MOSFET.kicad_mod | 
+| oomp key | oomp_ruuvi_ruuvitag_xllga_6_dual_mosfet | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ruuvi_ruuvitag_xllga_6_dual_mosfet/working | 
+## Images  

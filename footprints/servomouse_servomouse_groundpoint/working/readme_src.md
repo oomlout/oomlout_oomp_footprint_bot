@@ -1,29 +1,20 @@
-# servomouse.pretty by servomouse  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/servomouse/servomouse.pretty/blob/master/VQFN-48-1EP_7x7mm_P0.5mm_EP5.15x5.15mm.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: SMD pad as test Point, diameter 1.0mm  
-* libraryLink: GroundPoint  
-* number_of_pads: 1  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | servomouse.pretty/GroundPoint.kicad_mod |  
-| footprint | {'description': 'SMD pad as test Point, diameter 1.0mm', 'libraryLink': 'GroundPoint', 'number_of_pads': 1} |  
-| footprint_library_directory | footprint_library_owner/servomouse_servomouse.pretty |  
-| footprint_library_directory_flat | footprints_flat/servomouse_servomouse_groundpoint/working |  
-| github_path | http://github.com/servomouse/servomouse.pretty/blob/master/GroundPoint.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/servomouse/servomouse.pretty/blob/master/VQFN-48-1EP_7x7mm_P0.5mm_EP5.15x5.15mm.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/servomouse_servomouse_groundpoint/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/servomouse_servomouse_groundpoint/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/servomouse_servomouse_groundpoint/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/servomouse_servomouse_groundpoint/working'} |  
-| name | servomouse.pretty |  
-| oomp | {'footprint_name': 'groundpoint', 'library_name': 'servomouse', 'md5': '9992589226a202088c2c6d25ce835065', 'md5_10': '9992589226', 'md5_5': '99925', 'md5_6': '999258', 'oomp_key': 'oomp_servomouse_servomouse_groundpoint', 'oomp_key_extra': 'oomp_footprint_servomouse_servomouse_groundpoint', 'oomp_key_full': 'oomp_footprint_servomouse_servomouse_groundpoint_999258', 'oomp_key_simple': 'servomouse_servomouse_groundpoint', 'original_filename': 'servomouse.pretty/GroundPoint.kicad_mod', 'owner_name': 'servomouse'} |  
-| oomp_key | oomp_servomouse_servomouse_groundpoint |  
-| oomp_key_full | oomp_footprint_servomouse_servomouse_groundpoint |  
-| oomp_key_simple | servomouse_servomouse_groundpoint |  
-| owner | servomouse |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/servomouse/servomouse.pretty |  
-
+# OOMP Footprint  
+## GroundPoint  by none  
+  
+oomp key: oomp_servomouse_servomouse_groundpoint  
+  
+source repo at: [http://gitlab.com/servomouse/servomouse.pretty/blob/master/VQFN-48-1EP_7x7mm_P0.5mm_EP5.15x5.15mm.kicad_mod](http://gitlab.com/servomouse/servomouse.pretty/blob/master/VQFN-48-1EP_7x7mm_P0.5mm_EP5.15x5.15mm.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | GroundPoint | 
+| footprint description | SMD pad as test Point, diameter 1.0mm | 
+| number of pads | 1 | 
+| github path | http://github.com/servomouse/servomouse.pretty/blob/master/GroundPoint.kicad_mod | 
+| oomp key | oomp_servomouse_servomouse_groundpoint | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/servomouse_servomouse_groundpoint/working | 
+## Images  

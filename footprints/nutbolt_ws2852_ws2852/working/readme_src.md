@@ -1,29 +1,20 @@
-# WS2852.pretty by nutbolt  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/nutbolt/WS2852.pretty/blob/master/WS2852.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: None  
-* libraryLink: WS2852:WS2852  
-* number_of_pads: 4  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | WS2852.pretty/WS2852.kicad_mod |  
-| footprint | {'description': None, 'libraryLink': 'WS2852:WS2852', 'number_of_pads': 4} |  
-| footprint_library_directory | footprint_library_owner/nutbolt_WS2852.pretty |  
-| footprint_library_directory_flat | footprints_flat/nutbolt_ws2852_ws2852/working |  
-| github_path | http://github.com/nutbolt/WS2852.pretty/blob/master/WS2852.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/nutbolt/WS2852.pretty/blob/master/WS2852.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/nutbolt_ws2852_ws2852/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nutbolt_ws2852_ws2852/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/nutbolt_ws2852_ws2852/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nutbolt_ws2852_ws2852/working'} |  
-| name | WS2852.pretty |  
-| oomp | {'footprint_name': 'ws2852', 'library_name': 'ws2852', 'md5': 'a41b5d148a825803d7a8d0bf0d3587d2', 'md5_10': 'a41b5d148a', 'md5_5': 'a41b5', 'md5_6': 'a41b5d', 'oomp_key': 'oomp_nutbolt_ws2852_ws2852', 'oomp_key_extra': 'oomp_footprint_nutbolt_ws2852_ws2852', 'oomp_key_full': 'oomp_footprint_nutbolt_ws2852_ws2852_a41b5d', 'oomp_key_simple': 'nutbolt_ws2852_ws2852', 'original_filename': 'WS2852.pretty/WS2852.kicad_mod', 'owner_name': 'nutbolt'} |  
-| oomp_key | oomp_nutbolt_ws2852_ws2852 |  
-| oomp_key_full | oomp_footprint_nutbolt_ws2852_ws2852 |  
-| oomp_key_simple | nutbolt_ws2852_ws2852 |  
-| owner | nutbolt |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/nutbolt/WS2852.pretty |  
-
+# OOMP Footprint  
+## WS2852:WS2852  by none  
+  
+oomp key: oomp_nutbolt_ws2852_ws2852  
+  
+source repo at: [http://gitlab.com/nutbolt/WS2852.pretty/blob/master/WS2852.kicad_mod](http://gitlab.com/nutbolt/WS2852.pretty/blob/master/WS2852.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | WS2852:WS2852 | 
+| footprint description | None | 
+| number of pads | 4 | 
+| github path | http://github.com/nutbolt/WS2852.pretty/blob/master/WS2852.kicad_mod | 
+| oomp key | oomp_nutbolt_ws2852_ws2852 | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nutbolt_ws2852_ws2852/working | 
+## Images  

@@ -1,29 +1,20 @@
-# gsg-kicad-lib by greatscottgadgets  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/greatscottgadgets/gsg-kicad-lib/blob/master/gsg-modules.pretty/XTAL5.0x3.2mm.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: None  
-* libraryLink: 0603-JUMPER_3  
-* number_of_pads: 5  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | gsg-kicad-lib/gsg-modules.pretty/0603-JUMPER_3.kicad_mod |  
-| footprint | {'description': None, 'libraryLink': '0603-JUMPER_3', 'number_of_pads': 5} |  
-| footprint_library_directory | footprint_library_owner/greatscottgadgets_gsg-kicad-lib |  
-| footprint_library_directory_flat | footprints_flat/greatscottgadgets_gsg_modules_0603_jumper_3/working |  
-| github_path | http://github.com/greatscottgadgets/gsg-kicad-lib/blob/master/gsg-modules.pretty/0603-JUMPER_3.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/greatscottgadgets/gsg-kicad-lib/blob/master/gsg-modules.pretty/XTAL5.0x3.2mm.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/greatscottgadgets_gsg_modules_0603_jumper_3/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/greatscottgadgets_gsg_modules_0603_jumper_3/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/greatscottgadgets_gsg_modules_0603_jumper_3/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/greatscottgadgets_gsg_modules_0603_jumper_3/working'} |  
-| name | gsg-kicad-lib |  
-| oomp | {'footprint_name': '0603_jumper_3', 'library_name': 'gsg_modules', 'md5': '412ccc0a7ea67e4d6ab4070f4694612b', 'md5_10': '412ccc0a7e', 'md5_5': '412cc', 'md5_6': '412ccc', 'oomp_key': 'oomp_greatscottgadgets_gsg_modules_0603_jumper_3', 'oomp_key_extra': 'oomp_footprint_greatscottgadgets_gsg_modules_0603_jumper_3', 'oomp_key_full': 'oomp_footprint_greatscottgadgets_gsg_modules_0603_jumper_3_412ccc', 'oomp_key_simple': 'greatscottgadgets_gsg_modules_0603_jumper_3', 'original_filename': 'gsg-kicad-lib/gsg-modules.pretty/0603-JUMPER_3.kicad_mod', 'owner_name': 'greatscottgadgets'} |  
-| oomp_key | oomp_greatscottgadgets_gsg_modules_0603_jumper_3 |  
-| oomp_key_full | oomp_footprint_greatscottgadgets_gsg_modules_0603_jumper_3 |  
-| oomp_key_simple | greatscottgadgets_gsg_modules_0603_jumper_3 |  
-| owner | greatscottgadgets |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/greatscottgadgets/gsg-kicad-lib |  
-
+# OOMP Footprint  
+## 0603-JUMPER_3  by none  
+  
+oomp key: oomp_greatscottgadgets_gsg_modules_0603_jumper_3  
+  
+source repo at: [http://gitlab.com/greatscottgadgets/gsg-kicad-lib/blob/master/gsg-modules.pretty/XTAL5.0x3.2mm.kicad_mod](http://gitlab.com/greatscottgadgets/gsg-kicad-lib/blob/master/gsg-modules.pretty/XTAL5.0x3.2mm.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | 0603-JUMPER_3 | 
+| footprint description | None | 
+| number of pads | 5 | 
+| github path | http://github.com/greatscottgadgets/gsg-kicad-lib/blob/master/gsg-modules.pretty/0603-JUMPER_3.kicad_mod | 
+| oomp key | oomp_greatscottgadgets_gsg_modules_0603_jumper_3 | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/greatscottgadgets_gsg_modules_0603_jumper_3/working | 
+## Images  

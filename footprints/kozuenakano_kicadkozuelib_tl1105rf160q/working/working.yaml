@@ -1,20 +1,20 @@
-- file: KiCADKozueLib.pretty/TL1105RF160Q.kicad_mod
+- file: data//oomlout_oomp_footprint_src/KiCADKozueLib.pretty/TL1105RF160Q.kicad_mod
   footprint:
     description: null
     libraryLink: TL1105RF160Q
     number_of_pads: 4
   footprint_library_directory: footprint_library_owner/KozueNakano_KiCADKozueLib.pretty
-  footprint_library_directory_flat: footprints_flat/kozuenakano_kicadkozuelib_tl1105rf160q/working
-  github_path: http://github.com/KozueNakano/KiCADKozueLib.pretty/blob/master/TL1105RF160Q.kicad_mod
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/kozuenakano_kicadkozuelib_tl1105rf160q/working
+  github_path: http://github.com/KozueNakano/KiCADKozueLib.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/TL1105RF160Q.kicad_mod
   links:
     github_owner: KozueNakano
     github_repo_name: KiCADKozueLib.pretty
-    github_src: http://github.com/KozueNakano/KiCADKozueLib.pretty/blob/master/WSON.kicad_mod
+    github_src: http://github.com/KozueNakano/KiCADKozueLib.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/WSON.kicad_mod
     github_src_repo: https://github.com/KozueNakano/KiCADKozueLib.pretty
-    oomp_bot: footprints/kozuenakano_kicadkozuelib_tl1105rf160q/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kozuenakano_kicadkozuelib_tl1105rf160q/working
-    oomp_src_flat: footprints_flat/footprints_flat/kozuenakano_kicadkozuelib_tl1105rf160q/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kozuenakano_kicadkozuelib_tl1105rf160q/working
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/kozuenakano_kicadkozuelib_tl1105rf160q/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/kozuenakano_kicadkozuelib_tl1105rf160q/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/kozuenakano_kicadkozuelib_tl1105rf160q/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/kozuenakano_kicadkozuelib_tl1105rf160q/working
   name: KiCADKozueLib.pretty
   oomp:
     footprint_name: tl1105rf160q
@@ -27,7 +27,7 @@
     oomp_key_extra: oomp_footprint_kozuenakano_kicadkozuelib_tl1105rf160q
     oomp_key_full: oomp_footprint_kozuenakano_kicadkozuelib_tl1105rf160q_f470c4
     oomp_key_simple: kozuenakano_kicadkozuelib_tl1105rf160q
-    original_filename: KiCADKozueLib.pretty/TL1105RF160Q.kicad_mod
+    original_filename: data//oomlout_oomp_footprint_src/KiCADKozueLib.pretty/TL1105RF160Q.kicad_mod
     owner_name: kozuenakano
   oomp_key: oomp_kozuenakano_kicadkozuelib_tl1105rf160q
   oomp_key_full: oomp_footprint_kozuenakano_kicadkozuelib_tl1105rf160q

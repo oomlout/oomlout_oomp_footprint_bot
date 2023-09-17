@@ -1,29 +1,20 @@
-# Parts.pretty by pbrook  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/pbrook/Parts.pretty/blob/master/to252.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: Connecteur 6 pins  
-* libraryLink: SIL-6-ELL  
-* number_of_pads: 6  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | Parts.pretty/SIL-6-ELL.kicad_mod |  
-| footprint | {'description': 'Connecteur 6 pins', 'libraryLink': 'SIL-6-ELL', 'number_of_pads': 6} |  
-| footprint_library_directory | footprint_library_owner/pbrook_Parts.pretty |  
-| footprint_library_directory_flat | footprints_flat/pbrook_parts_sil_6_ell/working |  
-| github_path | http://github.com/pbrook/Parts.pretty/blob/master/SIL-6-ELL.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/pbrook/Parts.pretty/blob/master/to252.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/pbrook_parts_sil_6_ell/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pbrook_parts_sil_6_ell/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/pbrook_parts_sil_6_ell/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pbrook_parts_sil_6_ell/working'} |  
-| name | Parts.pretty |  
-| oomp | {'footprint_name': 'sil_6_ell', 'library_name': 'parts', 'md5': 'f2cc0f0cfaaa1103649eb4bf79ad9ab1', 'md5_10': 'f2cc0f0cfa', 'md5_5': 'f2cc0', 'md5_6': 'f2cc0f', 'oomp_key': 'oomp_pbrook_parts_sil_6_ell', 'oomp_key_extra': 'oomp_footprint_pbrook_parts_sil_6_ell', 'oomp_key_full': 'oomp_footprint_pbrook_parts_sil_6_ell_f2cc0f', 'oomp_key_simple': 'pbrook_parts_sil_6_ell', 'original_filename': 'Parts.pretty/SIL-6-ELL.kicad_mod', 'owner_name': 'pbrook'} |  
-| oomp_key | oomp_pbrook_parts_sil_6_ell |  
-| oomp_key_full | oomp_footprint_pbrook_parts_sil_6_ell |  
-| oomp_key_simple | pbrook_parts_sil_6_ell |  
-| owner | pbrook |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/pbrook/Parts.pretty |  
-
+# OOMP Footprint  
+## SIL-6-ELL  by none  
+  
+oomp key: oomp_pbrook_parts_sil_6_ell  
+  
+source repo at: [http://gitlab.com/pbrook/Parts.pretty/blob/master/to252.kicad_mod](http://gitlab.com/pbrook/Parts.pretty/blob/master/to252.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | SIL-6-ELL | 
+| footprint description | Connecteur 6 pins | 
+| number of pads | 6 | 
+| github path | http://github.com/pbrook/Parts.pretty/blob/master/SIL-6-ELL.kicad_mod | 
+| oomp key | oomp_pbrook_parts_sil_6_ell | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pbrook_parts_sil_6_ell/working | 
+## Images  

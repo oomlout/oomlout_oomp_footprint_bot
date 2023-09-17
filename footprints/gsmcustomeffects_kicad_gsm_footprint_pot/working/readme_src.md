@@ -1,29 +1,20 @@
-# Kicad_GSM_Footprint.pretty by GSMCustomEffects  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/GSMCustomEffects/Kicad_GSM_Footprint.pretty/blob/master/VerticalPOT.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: None  
-* libraryLink: POT  
-* number_of_pads: 3  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | Kicad_GSM_Footprint.pretty/POT.kicad_mod |  
-| footprint | {'description': None, 'libraryLink': 'POT', 'number_of_pads': 3} |  
-| footprint_library_directory | footprint_library_owner/GSMCustomEffects_Kicad_GSM_Footprint.pretty |  
-| footprint_library_directory_flat | footprints_flat/gsmcustomeffects_kicad_gsm_footprint_pot/working |  
-| github_path | http://github.com/GSMCustomEffects/Kicad_GSM_Footprint.pretty/blob/master/POT.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/GSMCustomEffects/Kicad_GSM_Footprint.pretty/blob/master/VerticalPOT.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/gsmcustomeffects_kicad_gsm_footprint_pot/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/gsmcustomeffects_kicad_gsm_footprint_pot/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/gsmcustomeffects_kicad_gsm_footprint_pot/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/gsmcustomeffects_kicad_gsm_footprint_pot/working'} |  
-| name | Kicad_GSM_Footprint.pretty |  
-| oomp | {'footprint_name': 'pot', 'library_name': 'kicad_gsm_footprint', 'md5': '4a73fe69b7a0122a8526e57bce6b2aad', 'md5_10': '4a73fe69b7', 'md5_5': '4a73f', 'md5_6': '4a73fe', 'oomp_key': 'oomp_gsmcustomeffects_kicad_gsm_footprint_pot', 'oomp_key_extra': 'oomp_footprint_gsmcustomeffects_kicad_gsm_footprint_pot', 'oomp_key_full': 'oomp_footprint_gsmcustomeffects_kicad_gsm_footprint_pot_4a73fe', 'oomp_key_simple': 'gsmcustomeffects_kicad_gsm_footprint_pot', 'original_filename': 'Kicad_GSM_Footprint.pretty/POT.kicad_mod', 'owner_name': 'gsmcustomeffects'} |  
-| oomp_key | oomp_gsmcustomeffects_kicad_gsm_footprint_pot |  
-| oomp_key_full | oomp_footprint_gsmcustomeffects_kicad_gsm_footprint_pot |  
-| oomp_key_simple | gsmcustomeffects_kicad_gsm_footprint_pot |  
-| owner | GSMCustomEffects |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/GSMCustomEffects/Kicad_GSM_Footprint.pretty |  
-
+# OOMP Footprint  
+## POT  by none  
+  
+oomp key: oomp_gsmcustomeffects_kicad_gsm_footprint_pot  
+  
+source repo at: [http://gitlab.com/GSMCustomEffects/Kicad_GSM_Footprint.pretty/blob/master/VerticalPOT.kicad_mod](http://gitlab.com/GSMCustomEffects/Kicad_GSM_Footprint.pretty/blob/master/VerticalPOT.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | POT | 
+| footprint description | None | 
+| number of pads | 3 | 
+| github path | http://github.com/GSMCustomEffects/Kicad_GSM_Footprint.pretty/blob/master/POT.kicad_mod | 
+| oomp key | oomp_gsmcustomeffects_kicad_gsm_footprint_pot | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/gsmcustomeffects_kicad_gsm_footprint_pot/working | 
+## Images  

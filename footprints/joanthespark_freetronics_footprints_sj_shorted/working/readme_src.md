@@ -1,29 +1,20 @@
-# KiCAD by JoanTheSpark  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/JoanTheSpark/KiCAD/blob/master/mods/RF.pretty/XMIT.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: <b>Solder jumper</b>  
-* libraryLink: SJ_SHORTED  
-* number_of_pads: 2  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | KiCAD/mods/freetronics_footprints.pretty/SJ_SHORTED.kicad_mod |  
-| footprint | {'description': '<b>Solder jumper</b>', 'libraryLink': 'SJ_SHORTED', 'number_of_pads': 2} |  
-| footprint_library_directory | footprint_library_owner/JoanTheSpark_KiCAD |  
-| footprint_library_directory_flat | footprints_flat/joanthespark_freetronics_footprints_sj_shorted/working |  
-| github_path | http://github.com/JoanTheSpark/KiCAD/blob/master/mods/freetronics_footprints.pretty/SJ_SHORTED.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/JoanTheSpark/KiCAD/blob/master/mods/RF.pretty/XMIT.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/joanthespark_freetronics_footprints_sj_shorted/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/joanthespark_freetronics_footprints_sj_shorted/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/joanthespark_freetronics_footprints_sj_shorted/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/joanthespark_freetronics_footprints_sj_shorted/working'} |  
-| name | KiCAD |  
-| oomp | {'footprint_name': 'sj_shorted', 'library_name': 'freetronics_footprints', 'md5': 'bf00a7a78d8d7a563e919c63557eafe8', 'md5_10': 'bf00a7a78d', 'md5_5': 'bf00a', 'md5_6': 'bf00a7', 'oomp_key': 'oomp_joanthespark_freetronics_footprints_sj_shorted', 'oomp_key_extra': 'oomp_footprint_joanthespark_freetronics_footprints_sj_shorted', 'oomp_key_full': 'oomp_footprint_joanthespark_freetronics_footprints_sj_shorted_bf00a7', 'oomp_key_simple': 'joanthespark_freetronics_footprints_sj_shorted', 'original_filename': 'KiCAD/mods/freetronics_footprints.pretty/SJ_SHORTED.kicad_mod', 'owner_name': 'joanthespark'} |  
-| oomp_key | oomp_joanthespark_freetronics_footprints_sj_shorted |  
-| oomp_key_full | oomp_footprint_joanthespark_freetronics_footprints_sj_shorted |  
-| oomp_key_simple | joanthespark_freetronics_footprints_sj_shorted |  
-| owner | JoanTheSpark |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/JoanTheSpark/KiCAD |  
-
+# OOMP Footprint  
+## SJ_SHORTED  by none  
+  
+oomp key: oomp_joanthespark_freetronics_footprints_sj_shorted  
+  
+source repo at: [http://gitlab.com/JoanTheSpark/KiCAD/blob/master/mods/RF.pretty/XMIT.kicad_mod](http://gitlab.com/JoanTheSpark/KiCAD/blob/master/mods/RF.pretty/XMIT.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | SJ_SHORTED | 
+| footprint description | <b>Solder jumper</b> | 
+| number of pads | 2 | 
+| github path | http://github.com/JoanTheSpark/KiCAD/blob/master/mods/freetronics_footprints.pretty/SJ_SHORTED.kicad_mod | 
+| oomp key | oomp_joanthespark_freetronics_footprints_sj_shorted | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/joanthespark_freetronics_footprints_sj_shorted/working | 
+## Images  

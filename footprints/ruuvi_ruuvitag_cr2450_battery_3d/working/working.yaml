@@ -1,18 +1,20 @@
-- file: kicad-library/RuuviTag.pretty/CR2450-BATTERY-3D.kicad_mod
+- file: data//oomlout_oomp_footprint_src/kicad-library/RuuviTag.pretty/CR2450-BATTERY-3D.kicad_mod
   footprint:
     description: null
     libraryLink: CR2450-BATTERY-3D
     number_of_pads: 0
   footprint_library_directory: footprint_library_owner/ruuvi_kicad-library
-  footprint_library_directory_flat: footprints_flat/ruuvi_ruuvitag_cr2450_battery_3d/working
-  github_path: http://github.com/ruuvi/kicad-library/blob/master/RuuviTag.pretty/CR2450-BATTERY-3D.kicad_mod
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/ruuvi_ruuvitag_cr2450_battery_3d/working
+  github_path: http://github.com/ruuvi/kicad-library/blob/master/tmp/data//oomlout_oomp_footprint_src/RuuviTag.pretty/CR2450-BATTERY-3D.kicad_mod
   links:
-    github_src: http://gitlab.com/ruuvi/kicad-library/blob/master/RuuviTracker.pretty/BUZZER-75X75x25MM.kicad_mod
-    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
-    oomp_bot: footprints/ruuvi_ruuvitag_cr2450_battery_3d/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ruuvi_ruuvitag_cr2450_battery_3d/working
-    oomp_src_flat: footprints_flat/footprints_flat/ruuvi_ruuvitag_cr2450_battery_3d/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ruuvi_ruuvitag_cr2450_battery_3d/working
+    github_owner: ruuvi
+    github_repo_name: kicad-library
+    github_src: http://github.com/ruuvi/kicad-library/blob/master/tmp/data//oomlout_oomp_footprint_src/RuuviTracker.pretty/BUZZER-75X75x25MM.kicad_mod
+    github_src_repo: https://github.com/ruuvi/kicad-library
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/ruuvi_ruuvitag_cr2450_battery_3d/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/ruuvi_ruuvitag_cr2450_battery_3d/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/ruuvi_ruuvitag_cr2450_battery_3d/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/ruuvi_ruuvitag_cr2450_battery_3d/working
   name: kicad-library
   oomp:
     footprint_name: cr2450_battery_3d
@@ -25,15 +27,130 @@
     oomp_key_extra: oomp_footprint_ruuvi_ruuvitag_cr2450_battery_3d
     oomp_key_full: oomp_footprint_ruuvi_ruuvitag_cr2450_battery_3d_4c13e0
     oomp_key_simple: ruuvi_ruuvitag_cr2450_battery_3d
-    original_filename: kicad-library/RuuviTag.pretty/CR2450-BATTERY-3D.kicad_mod
+    original_filename: data//oomlout_oomp_footprint_src/kicad-library/RuuviTag.pretty/CR2450-BATTERY-3D.kicad_mod
     owner_name: ruuvi
   oomp_key: oomp_ruuvi_ruuvitag_cr2450_battery_3d
   oomp_key_full: oomp_footprint_ruuvi_ruuvitag_cr2450_battery_3d
   oomp_key_simple: ruuvi_ruuvitag_cr2450_battery_3d
   owner: ruuvi
   repo:
-    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
-    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
-      Authenticated requests get a higher rate limit. Check out the documentation
-      for more details.)'
+    allow_forking: true
+    archive_url: https://api.github.com/repos/ruuvi/kicad-library/{archive_format}{/ref}
+    archived: false
+    assignees_url: https://api.github.com/repos/ruuvi/kicad-library/assignees{/user}
+    blobs_url: https://api.github.com/repos/ruuvi/kicad-library/git/blobs{/sha}
+    branches_url: https://api.github.com/repos/ruuvi/kicad-library/branches{/branch}
+    clone_url: https://github.com/ruuvi/kicad-library.git
+    collaborators_url: https://api.github.com/repos/ruuvi/kicad-library/collaborators{/collaborator}
+    comments_url: https://api.github.com/repos/ruuvi/kicad-library/comments{/number}
+    commits_url: https://api.github.com/repos/ruuvi/kicad-library/commits{/sha}
+    compare_url: https://api.github.com/repos/ruuvi/kicad-library/compare/{base}...{head}
+    contents_url: https://api.github.com/repos/ruuvi/kicad-library/contents/{+path}
+    contributors_url: https://api.github.com/repos/ruuvi/kicad-library/contributors
+    created_at: '2016-06-04T09:09:43Z'
+    default_branch: master
+    deployments_url: https://api.github.com/repos/ruuvi/kicad-library/deployments
+    description: KiCad library parts
+    disabled: false
+    downloads_url: https://api.github.com/repos/ruuvi/kicad-library/downloads
+    events_url: https://api.github.com/repos/ruuvi/kicad-library/events
+    fork: false
+    forks: 8
+    forks_count: 8
+    forks_url: https://api.github.com/repos/ruuvi/kicad-library/forks
+    full_name: ruuvi/kicad-library
+    git_commits_url: https://api.github.com/repos/ruuvi/kicad-library/git/commits{/sha}
+    git_refs_url: https://api.github.com/repos/ruuvi/kicad-library/git/refs{/sha}
+    git_tags_url: https://api.github.com/repos/ruuvi/kicad-library/git/tags{/sha}
+    git_url: git://github.com/ruuvi/kicad-library.git
+    has_discussions: false
+    has_downloads: true
+    has_issues: true
+    has_pages: false
+    has_projects: true
+    has_wiki: true
+    homepage: ''
+    hooks_url: https://api.github.com/repos/ruuvi/kicad-library/hooks
+    html_url: https://github.com/ruuvi/kicad-library
+    id: 60402317
+    is_template: false
+    issue_comment_url: https://api.github.com/repos/ruuvi/kicad-library/issues/comments{/number}
+    issue_events_url: https://api.github.com/repos/ruuvi/kicad-library/issues/events{/number}
+    issues_url: https://api.github.com/repos/ruuvi/kicad-library/issues{/number}
+    keys_url: https://api.github.com/repos/ruuvi/kicad-library/keys{/key_id}
+    labels_url: https://api.github.com/repos/ruuvi/kicad-library/labels{/name}
+    language: null
+    languages_url: https://api.github.com/repos/ruuvi/kicad-library/languages
+    license: null
+    merges_url: https://api.github.com/repos/ruuvi/kicad-library/merges
+    milestones_url: https://api.github.com/repos/ruuvi/kicad-library/milestones{/number}
+    mirror_url: null
+    name: kicad-library
+    network_count: 8
+    node_id: MDEwOlJlcG9zaXRvcnk2MDQwMjMxNw==
+    notifications_url: https://api.github.com/repos/ruuvi/kicad-library/notifications{?since,all,participating}
+    open_issues: 0
+    open_issues_count: 0
+    organization:
+      avatar_url: https://avatars.githubusercontent.com/u/12087190?v=4
+      events_url: https://api.github.com/users/ruuvi/events{/privacy}
+      followers_url: https://api.github.com/users/ruuvi/followers
+      following_url: https://api.github.com/users/ruuvi/following{/other_user}
+      gists_url: https://api.github.com/users/ruuvi/gists{/gist_id}
+      gravatar_id: ''
+      html_url: https://github.com/ruuvi
+      id: 12087190
+      login: ruuvi
+      node_id: MDEyOk9yZ2FuaXphdGlvbjEyMDg3MTkw
+      organizations_url: https://api.github.com/users/ruuvi/orgs
+      received_events_url: https://api.github.com/users/ruuvi/received_events
+      repos_url: https://api.github.com/users/ruuvi/repos
+      site_admin: false
+      starred_url: https://api.github.com/users/ruuvi/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/ruuvi/subscriptions
+      type: Organization
+      url: https://api.github.com/users/ruuvi
+    owner:
+      avatar_url: https://avatars.githubusercontent.com/u/12087190?v=4
+      events_url: https://api.github.com/users/ruuvi/events{/privacy}
+      followers_url: https://api.github.com/users/ruuvi/followers
+      following_url: https://api.github.com/users/ruuvi/following{/other_user}
+      gists_url: https://api.github.com/users/ruuvi/gists{/gist_id}
+      gravatar_id: ''
+      html_url: https://github.com/ruuvi
+      id: 12087190
+      login: ruuvi
+      node_id: MDEyOk9yZ2FuaXphdGlvbjEyMDg3MTkw
+      organizations_url: https://api.github.com/users/ruuvi/orgs
+      received_events_url: https://api.github.com/users/ruuvi/received_events
+      repos_url: https://api.github.com/users/ruuvi/repos
+      site_admin: false
+      starred_url: https://api.github.com/users/ruuvi/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/ruuvi/subscriptions
+      type: Organization
+      url: https://api.github.com/users/ruuvi
+    private: false
+    pulls_url: https://api.github.com/repos/ruuvi/kicad-library/pulls{/number}
+    pushed_at: '2023-02-19T07:33:50Z'
+    releases_url: https://api.github.com/repos/ruuvi/kicad-library/releases{/id}
+    size: 10809
+    ssh_url: git@github.com:ruuvi/kicad-library.git
+    stargazers_count: 14
+    stargazers_url: https://api.github.com/repos/ruuvi/kicad-library/stargazers
+    statuses_url: https://api.github.com/repos/ruuvi/kicad-library/statuses/{sha}
+    subscribers_count: 5
+    subscribers_url: https://api.github.com/repos/ruuvi/kicad-library/subscribers
+    subscription_url: https://api.github.com/repos/ruuvi/kicad-library/subscription
+    svn_url: https://github.com/ruuvi/kicad-library
+    tags_url: https://api.github.com/repos/ruuvi/kicad-library/tags
+    teams_url: https://api.github.com/repos/ruuvi/kicad-library/teams
+    temp_clone_token: null
+    topics: []
+    trees_url: https://api.github.com/repos/ruuvi/kicad-library/git/trees{/sha}
+    updated_at: '2023-07-03T10:18:47Z'
+    url: https://api.github.com/repos/ruuvi/kicad-library
+    visibility: public
+    watchers: 14
+    watchers_count: 14
+    web_commit_signoff_required: false
   url: http://github.com/ruuvi/kicad-library

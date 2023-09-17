@@ -1,29 +1,20 @@
-# libraries/kicad-footprints/ by kicad  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: http://www.cree.com/~/media/Files/Cree/LED-Components-and-Modules/XLamp/Data-and-Binning/XLampXBD.pdf  
-* libraryLink: LED_Cree-XB  
-* number_of_pads: 5  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | libraries/kicad-footprints/LED_SMD.pretty/LED_Cree-XB.kicad_mod |  
-| footprint | {'description': 'http://www.cree.com/~/media/Files/Cree/LED-Components-and-Modules/XLamp/Data-and-Binning/XLampXBD.pdf', 'libraryLink': 'LED_Cree-XB', 'number_of_pads': 5} |  
-| footprint_library_directory | footprint_library_owner/kicad_libraries/kicad-footprints/ |  
-| footprint_library_directory_flat | footprints_flat/kicad_led_smd_led_cree_xb/working |  
-| github_path | http://github.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/LED_SMD.pretty/LED_Cree-XB.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/kicad_led_smd_led_cree_xb/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_led_smd_led_cree_xb/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/kicad_led_smd_led_cree_xb/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_led_smd_led_cree_xb/working'} |  
-| name | libraries/kicad-footprints/ |  
-| oomp | {'footprint_name': 'led_cree_xb', 'library_name': 'led_smd', 'md5': '15e859ef52cb31de78ecf3fb172b3c47', 'md5_10': '15e859ef52', 'md5_5': '15e85', 'md5_6': '15e859', 'oomp_key': 'oomp_kicad_led_smd_led_cree_xb', 'oomp_key_extra': 'oomp_footprint_kicad_led_smd_led_cree_xb', 'oomp_key_full': 'oomp_footprint_kicad_led_smd_led_cree_xb_15e859', 'oomp_key_simple': 'kicad_led_smd_led_cree_xb', 'original_filename': 'libraries/kicad-footprints/LED_SMD.pretty/LED_Cree-XB.kicad_mod', 'owner_name': 'kicad'} |  
-| oomp_key | oomp_kicad_led_smd_led_cree_xb |  
-| oomp_key_full | oomp_footprint_kicad_led_smd_led_cree_xb |  
-| oomp_key_simple | kicad_led_smd_led_cree_xb |  
-| owner | kicad |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | https://gitlab.com/kicad/libraries/kicad-footprints |  
-
+# OOMP Footprint  
+## LED_Cree-XB  by none  
+  
+oomp key: oomp_kicad_led_smd_led_cree_xb  
+  
+source repo at: [http://gitlab.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod](http://gitlab.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | LED_Cree-XB | 
+| footprint description | http://www.cree.com/~/media/Files/Cree/LED-Components-and-Modules/XLamp/Data-and-Binning/XLampXBD.pdf | 
+| number of pads | 5 | 
+| github path | http://github.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/LED_SMD.pretty/LED_Cree-XB.kicad_mod | 
+| oomp key | oomp_kicad_led_smd_led_cree_xb | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_led_smd_led_cree_xb/working | 
+## Images  

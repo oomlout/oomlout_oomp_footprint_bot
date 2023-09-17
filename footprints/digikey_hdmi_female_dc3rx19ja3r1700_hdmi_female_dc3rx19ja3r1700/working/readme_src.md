@@ -1,29 +1,20 @@
-# digikey-kicad-library by digikey  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/digikey/digikey-kicad-library/blob/master/src/Source_Footprints/Zigbee_Module_MRF24J40MD.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: None  
-* libraryLink: HDMI_Female_DC3RX19JA3R1700  
-* number_of_pads: 23  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | digikey-kicad-library/src/Source_Footprints/HDMI_Female_DC3RX19JA3R1700.kicad_mod |  
-| footprint | {'description': None, 'libraryLink': 'HDMI_Female_DC3RX19JA3R1700', 'number_of_pads': 23} |  
-| footprint_library_directory | footprint_library_owner/digikey_digikey-kicad-library |  
-| footprint_library_directory_flat | footprints_flat/digikey_hdmi_female_dc3rx19ja3r1700_hdmi_female_dc3rx19ja3r1700/working |  
-| github_path | http://github.com/digikey/digikey-kicad-library/blob/master/src/Source_Footprints/HDMI_Female_DC3RX19JA3R1700.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/digikey/digikey-kicad-library/blob/master/src/Source_Footprints/Zigbee_Module_MRF24J40MD.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/digikey_hdmi_female_dc3rx19ja3r1700_hdmi_female_dc3rx19ja3r1700/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_hdmi_female_dc3rx19ja3r1700_hdmi_female_dc3rx19ja3r1700/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/digikey_hdmi_female_dc3rx19ja3r1700_hdmi_female_dc3rx19ja3r1700/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/digikey_hdmi_female_dc3rx19ja3r1700_hdmi_female_dc3rx19ja3r1700/working'} |  
-| name | digikey-kicad-library |  
-| oomp | {'footprint_name': 'hdmi_female_dc3rx19ja3r1700', 'library_name': 'hdmi_female_dc3rx19ja3r1700_kicad_mod', 'md5': '03ef2ab6ff1567d803c5738a42a3d653', 'md5_10': '03ef2ab6ff', 'md5_5': '03ef2', 'md5_6': '03ef2a', 'oomp_key': 'oomp_digikey_hdmi_female_dc3rx19ja3r1700_hdmi_female_dc3rx19ja3r1700', 'oomp_key_extra': 'oomp_footprint_digikey_hdmi_female_dc3rx19ja3r1700_hdmi_female_dc3rx19ja3r1700', 'oomp_key_full': 'oomp_footprint_digikey_hdmi_female_dc3rx19ja3r1700_hdmi_female_dc3rx19ja3r1700_03ef2a', 'oomp_key_simple': 'digikey_hdmi_female_dc3rx19ja3r1700_hdmi_female_dc3rx19ja3r1700', 'original_filename': 'digikey-kicad-library/src/Source_Footprints/HDMI_Female_DC3RX19JA3R1700.kicad_mod', 'owner_name': 'digikey'} |  
-| oomp_key | oomp_digikey_hdmi_female_dc3rx19ja3r1700_hdmi_female_dc3rx19ja3r1700 |  
-| oomp_key_full | oomp_footprint_digikey_hdmi_female_dc3rx19ja3r1700_hdmi_female_dc3rx19ja3r1700 |  
-| oomp_key_simple | digikey_hdmi_female_dc3rx19ja3r1700_hdmi_female_dc3rx19ja3r1700 |  
-| owner | digikey |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/digikey/digikey-kicad-library |  
-
+# OOMP Footprint  
+## HDMI_Female_DC3RX19JA3R1700  by none  
+  
+oomp key: oomp_digikey_hdmi_female_dc3rx19ja3r1700_hdmi_female_dc3rx19ja3r1700  
+  
+source repo at: [http://gitlab.com/digikey/digikey-kicad-library/blob/master/src/Source_Footprints/Zigbee_Module_MRF24J40MD.kicad_mod](http://gitlab.com/digikey/digikey-kicad-library/blob/master/src/Source_Footprints/Zigbee_Module_MRF24J40MD.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | HDMI_Female_DC3RX19JA3R1700 | 
+| footprint description | None | 
+| number of pads | 23 | 
+| github path | http://github.com/digikey/digikey-kicad-library/blob/master/src/Source_Footprints/HDMI_Female_DC3RX19JA3R1700.kicad_mod | 
+| oomp key | oomp_digikey_hdmi_female_dc3rx19ja3r1700_hdmi_female_dc3rx19ja3r1700 | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_hdmi_female_dc3rx19ja3r1700_hdmi_female_dc3rx19ja3r1700/working | 
+## Images  

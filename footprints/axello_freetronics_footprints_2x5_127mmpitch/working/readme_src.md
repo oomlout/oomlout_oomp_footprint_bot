@@ -1,29 +1,20 @@
-# kicad by axello  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/axello/kicad/blob/master/mods/RF.pretty/XMIT.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: None  
-* libraryLink: 2X5_127MMPITCH  
-* number_of_pads: 10  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | kicad/mods/freetronics_footprints.pretty/2X5_127MMPITCH.kicad_mod |  
-| footprint | {'description': None, 'libraryLink': '2X5_127MMPITCH', 'number_of_pads': 10} |  
-| footprint_library_directory | footprint_library_owner/axello_kicad |  
-| footprint_library_directory_flat | footprints_flat/axello_freetronics_footprints_2x5_127mmpitch/working |  
-| github_path | http://github.com/axello/kicad/blob/master/mods/freetronics_footprints.pretty/2X5_127MMPITCH.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/axello/kicad/blob/master/mods/RF.pretty/XMIT.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/axello_freetronics_footprints_2x5_127mmpitch/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/axello_freetronics_footprints_2x5_127mmpitch/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/axello_freetronics_footprints_2x5_127mmpitch/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/axello_freetronics_footprints_2x5_127mmpitch/working'} |  
-| name | kicad |  
-| oomp | {'footprint_name': '2x5_127mmpitch', 'library_name': 'freetronics_footprints', 'md5': '193e46c7d9f2dfc93d9a98c6c08f373d', 'md5_10': '193e46c7d9', 'md5_5': '193e4', 'md5_6': '193e46', 'oomp_key': 'oomp_axello_freetronics_footprints_2x5_127mmpitch', 'oomp_key_extra': 'oomp_footprint_axello_freetronics_footprints_2x5_127mmpitch', 'oomp_key_full': 'oomp_footprint_axello_freetronics_footprints_2x5_127mmpitch_193e46', 'oomp_key_simple': 'axello_freetronics_footprints_2x5_127mmpitch', 'original_filename': 'kicad/mods/freetronics_footprints.pretty/2X5_127MMPITCH.kicad_mod', 'owner_name': 'axello'} |  
-| oomp_key | oomp_axello_freetronics_footprints_2x5_127mmpitch |  
-| oomp_key_full | oomp_footprint_axello_freetronics_footprints_2x5_127mmpitch |  
-| oomp_key_simple | axello_freetronics_footprints_2x5_127mmpitch |  
-| owner | axello |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/axello/kicad |  
-
+# OOMP Footprint  
+## 2X5_127MMPITCH  by none  
+  
+oomp key: oomp_axello_freetronics_footprints_2x5_127mmpitch  
+  
+source repo at: [http://gitlab.com/axello/kicad/blob/master/mods/RF.pretty/XMIT.kicad_mod](http://gitlab.com/axello/kicad/blob/master/mods/RF.pretty/XMIT.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | 2X5_127MMPITCH | 
+| footprint description | None | 
+| number of pads | 10 | 
+| github path | http://github.com/axello/kicad/blob/master/mods/freetronics_footprints.pretty/2X5_127MMPITCH.kicad_mod | 
+| oomp key | oomp_axello_freetronics_footprints_2x5_127mmpitch | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/axello_freetronics_footprints_2x5_127mmpitch/working | 
+## Images  

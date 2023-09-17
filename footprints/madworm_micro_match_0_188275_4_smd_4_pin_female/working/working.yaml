@@ -1,20 +1,20 @@
-- file: micro-MaTch.pretty/0-188275-4_SMD_4-pin_female.kicad_mod
+- file: data//oomlout_oomp_footprint_src/micro-MaTch.pretty/0-188275-4_SMD_4-pin_female.kicad_mod
   footprint:
     description: ./Docs/ENG_CD_188275_S3_c-188275_drw.pdf
     libraryLink: 0-188275-4_SMD_4-pin_female
     number_of_pads: 4
   footprint_library_directory: footprint_library_owner/madworm_micro-MaTch.pretty
-  footprint_library_directory_flat: footprints_flat/madworm_micro_match_0_188275_4_smd_4_pin_female/working
-  github_path: http://github.com/madworm/micro-MaTch.pretty/blob/master/0-188275-4_SMD_4-pin_female.kicad_mod
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/madworm_micro_match_0_188275_4_smd_4_pin_female/working
+  github_path: http://github.com/madworm/micro-MaTch.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/0-188275-4_SMD_4-pin_female.kicad_mod
   links:
     github_owner: madworm
     github_repo_name: micro-MaTch.pretty
-    github_src: http://github.com/madworm/micro-MaTch.pretty/blob/master/0-215464-4_TH_4-pin_male.kicad_mod
+    github_src: http://github.com/madworm/micro-MaTch.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/0-215464-4_TH_4-pin_male.kicad_mod
     github_src_repo: https://github.com/madworm/micro-MaTch.pretty
-    oomp_bot: footprints/madworm_micro_match_0_188275_4_smd_4_pin_female/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/madworm_micro_match_0_188275_4_smd_4_pin_female/working
-    oomp_src_flat: footprints_flat/footprints_flat/madworm_micro_match_0_188275_4_smd_4_pin_female/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/madworm_micro_match_0_188275_4_smd_4_pin_female/working
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/madworm_micro_match_0_188275_4_smd_4_pin_female/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/madworm_micro_match_0_188275_4_smd_4_pin_female/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/madworm_micro_match_0_188275_4_smd_4_pin_female/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/madworm_micro_match_0_188275_4_smd_4_pin_female/working
   name: micro-MaTch.pretty
   oomp:
     footprint_name: 0_188275_4_smd_4_pin_female
@@ -27,7 +27,7 @@
     oomp_key_extra: oomp_footprint_madworm_micro_match_0_188275_4_smd_4_pin_female
     oomp_key_full: oomp_footprint_madworm_micro_match_0_188275_4_smd_4_pin_female_536590
     oomp_key_simple: madworm_micro_match_0_188275_4_smd_4_pin_female
-    original_filename: micro-MaTch.pretty/0-188275-4_SMD_4-pin_female.kicad_mod
+    original_filename: data//oomlout_oomp_footprint_src/micro-MaTch.pretty/0-188275-4_SMD_4-pin_female.kicad_mod
     owner_name: madworm
   oomp_key: oomp_madworm_micro_match_0_188275_4_smd_4_pin_female
   oomp_key_full: oomp_footprint_madworm_micro_match_0_188275_4_smd_4_pin_female

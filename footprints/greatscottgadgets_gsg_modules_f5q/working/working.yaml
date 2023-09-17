@@ -1,18 +1,20 @@
-- file: gsg-kicad-lib/gsg-modules.pretty/F5Q.kicad_mod
+- file: data//oomlout_oomp_footprint_src/gsg-kicad-lib/gsg-modules.pretty/F5Q.kicad_mod
   footprint:
     description: null
     libraryLink: F5Q
     number_of_pads: 5
   footprint_library_directory: footprint_library_owner/greatscottgadgets_gsg-kicad-lib
-  footprint_library_directory_flat: footprints_flat/greatscottgadgets_gsg_modules_f5q/working
-  github_path: http://github.com/greatscottgadgets/gsg-kicad-lib/blob/master/gsg-modules.pretty/F5Q.kicad_mod
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/greatscottgadgets_gsg_modules_f5q/working
+  github_path: http://github.com/greatscottgadgets/gsg-kicad-lib/blob/master/tmp/data//oomlout_oomp_footprint_src/gsg-modules.pretty/F5Q.kicad_mod
   links:
-    github_src: http://gitlab.com/greatscottgadgets/gsg-kicad-lib/blob/master/gsg-modules.pretty/XTAL5.0x3.2mm.kicad_mod
-    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
-    oomp_bot: footprints/greatscottgadgets_gsg_modules_f5q/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/greatscottgadgets_gsg_modules_f5q/working
-    oomp_src_flat: footprints_flat/footprints_flat/greatscottgadgets_gsg_modules_f5q/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/greatscottgadgets_gsg_modules_f5q/working
+    github_owner: greatscottgadgets
+    github_repo_name: gsg-kicad-lib
+    github_src: http://github.com/greatscottgadgets/gsg-kicad-lib/blob/master/tmp/data//oomlout_oomp_footprint_src/gsg-modules.pretty/XTAL5.0x3.2mm.kicad_mod
+    github_src_repo: https://github.com/greatscottgadgets/gsg-kicad-lib
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/greatscottgadgets_gsg_modules_f5q/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/greatscottgadgets_gsg_modules_f5q/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/greatscottgadgets_gsg_modules_f5q/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/greatscottgadgets_gsg_modules_f5q/working
   name: gsg-kicad-lib
   oomp:
     footprint_name: f5q
@@ -25,15 +27,135 @@
     oomp_key_extra: oomp_footprint_greatscottgadgets_gsg_modules_f5q
     oomp_key_full: oomp_footprint_greatscottgadgets_gsg_modules_f5q_bd872a
     oomp_key_simple: greatscottgadgets_gsg_modules_f5q
-    original_filename: gsg-kicad-lib/gsg-modules.pretty/F5Q.kicad_mod
+    original_filename: data//oomlout_oomp_footprint_src/gsg-kicad-lib/gsg-modules.pretty/F5Q.kicad_mod
     owner_name: greatscottgadgets
   oomp_key: oomp_greatscottgadgets_gsg_modules_f5q
   oomp_key_full: oomp_footprint_greatscottgadgets_gsg_modules_f5q
   oomp_key_simple: greatscottgadgets_gsg_modules_f5q
   owner: greatscottgadgets
   repo:
-    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
-    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
-      Authenticated requests get a higher rate limit. Check out the documentation
-      for more details.)'
+    allow_forking: true
+    archive_url: https://api.github.com/repos/greatscottgadgets/gsg-kicad-lib/{archive_format}{/ref}
+    archived: false
+    assignees_url: https://api.github.com/repos/greatscottgadgets/gsg-kicad-lib/assignees{/user}
+    blobs_url: https://api.github.com/repos/greatscottgadgets/gsg-kicad-lib/git/blobs{/sha}
+    branches_url: https://api.github.com/repos/greatscottgadgets/gsg-kicad-lib/branches{/branch}
+    clone_url: https://github.com/greatscottgadgets/gsg-kicad-lib.git
+    collaborators_url: https://api.github.com/repos/greatscottgadgets/gsg-kicad-lib/collaborators{/collaborator}
+    comments_url: https://api.github.com/repos/greatscottgadgets/gsg-kicad-lib/comments{/number}
+    commits_url: https://api.github.com/repos/greatscottgadgets/gsg-kicad-lib/commits{/sha}
+    compare_url: https://api.github.com/repos/greatscottgadgets/gsg-kicad-lib/compare/{base}...{head}
+    contents_url: https://api.github.com/repos/greatscottgadgets/gsg-kicad-lib/contents/{+path}
+    contributors_url: https://api.github.com/repos/greatscottgadgets/gsg-kicad-lib/contributors
+    created_at: '2015-08-29T16:39:05Z'
+    default_branch: master
+    deployments_url: https://api.github.com/repos/greatscottgadgets/gsg-kicad-lib/deployments
+    description: GSG's schematic symbols and modules for KiCad
+    disabled: false
+    downloads_url: https://api.github.com/repos/greatscottgadgets/gsg-kicad-lib/downloads
+    events_url: https://api.github.com/repos/greatscottgadgets/gsg-kicad-lib/events
+    fork: false
+    forks: 24
+    forks_count: 24
+    forks_url: https://api.github.com/repos/greatscottgadgets/gsg-kicad-lib/forks
+    full_name: greatscottgadgets/gsg-kicad-lib
+    git_commits_url: https://api.github.com/repos/greatscottgadgets/gsg-kicad-lib/git/commits{/sha}
+    git_refs_url: https://api.github.com/repos/greatscottgadgets/gsg-kicad-lib/git/refs{/sha}
+    git_tags_url: https://api.github.com/repos/greatscottgadgets/gsg-kicad-lib/git/tags{/sha}
+    git_url: git://github.com/greatscottgadgets/gsg-kicad-lib.git
+    has_discussions: false
+    has_downloads: true
+    has_issues: true
+    has_pages: false
+    has_projects: true
+    has_wiki: false
+    homepage: null
+    hooks_url: https://api.github.com/repos/greatscottgadgets/gsg-kicad-lib/hooks
+    html_url: https://github.com/greatscottgadgets/gsg-kicad-lib
+    id: 41599965
+    is_template: false
+    issue_comment_url: https://api.github.com/repos/greatscottgadgets/gsg-kicad-lib/issues/comments{/number}
+    issue_events_url: https://api.github.com/repos/greatscottgadgets/gsg-kicad-lib/issues/events{/number}
+    issues_url: https://api.github.com/repos/greatscottgadgets/gsg-kicad-lib/issues{/number}
+    keys_url: https://api.github.com/repos/greatscottgadgets/gsg-kicad-lib/keys{/key_id}
+    labels_url: https://api.github.com/repos/greatscottgadgets/gsg-kicad-lib/labels{/name}
+    language: null
+    languages_url: https://api.github.com/repos/greatscottgadgets/gsg-kicad-lib/languages
+    license:
+      key: gpl-2.0
+      name: GNU General Public License v2.0
+      node_id: MDc6TGljZW5zZTg=
+      spdx_id: GPL-2.0
+      url: https://api.github.com/licenses/gpl-2.0
+    merges_url: https://api.github.com/repos/greatscottgadgets/gsg-kicad-lib/merges
+    milestones_url: https://api.github.com/repos/greatscottgadgets/gsg-kicad-lib/milestones{/number}
+    mirror_url: null
+    name: gsg-kicad-lib
+    network_count: 24
+    node_id: MDEwOlJlcG9zaXRvcnk0MTU5OTk2NQ==
+    notifications_url: https://api.github.com/repos/greatscottgadgets/gsg-kicad-lib/notifications{?since,all,participating}
+    open_issues: 1
+    open_issues_count: 1
+    organization:
+      avatar_url: https://avatars.githubusercontent.com/u/5904722?v=4
+      events_url: https://api.github.com/users/greatscottgadgets/events{/privacy}
+      followers_url: https://api.github.com/users/greatscottgadgets/followers
+      following_url: https://api.github.com/users/greatscottgadgets/following{/other_user}
+      gists_url: https://api.github.com/users/greatscottgadgets/gists{/gist_id}
+      gravatar_id: ''
+      html_url: https://github.com/greatscottgadgets
+      id: 5904722
+      login: greatscottgadgets
+      node_id: MDEyOk9yZ2FuaXphdGlvbjU5MDQ3MjI=
+      organizations_url: https://api.github.com/users/greatscottgadgets/orgs
+      received_events_url: https://api.github.com/users/greatscottgadgets/received_events
+      repos_url: https://api.github.com/users/greatscottgadgets/repos
+      site_admin: false
+      starred_url: https://api.github.com/users/greatscottgadgets/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/greatscottgadgets/subscriptions
+      type: Organization
+      url: https://api.github.com/users/greatscottgadgets
+    owner:
+      avatar_url: https://avatars.githubusercontent.com/u/5904722?v=4
+      events_url: https://api.github.com/users/greatscottgadgets/events{/privacy}
+      followers_url: https://api.github.com/users/greatscottgadgets/followers
+      following_url: https://api.github.com/users/greatscottgadgets/following{/other_user}
+      gists_url: https://api.github.com/users/greatscottgadgets/gists{/gist_id}
+      gravatar_id: ''
+      html_url: https://github.com/greatscottgadgets
+      id: 5904722
+      login: greatscottgadgets
+      node_id: MDEyOk9yZ2FuaXphdGlvbjU5MDQ3MjI=
+      organizations_url: https://api.github.com/users/greatscottgadgets/orgs
+      received_events_url: https://api.github.com/users/greatscottgadgets/received_events
+      repos_url: https://api.github.com/users/greatscottgadgets/repos
+      site_admin: false
+      starred_url: https://api.github.com/users/greatscottgadgets/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/greatscottgadgets/subscriptions
+      type: Organization
+      url: https://api.github.com/users/greatscottgadgets
+    private: false
+    pulls_url: https://api.github.com/repos/greatscottgadgets/gsg-kicad-lib/pulls{/number}
+    pushed_at: '2022-10-30T13:39:39Z'
+    releases_url: https://api.github.com/repos/greatscottgadgets/gsg-kicad-lib/releases{/id}
+    size: 309
+    ssh_url: git@github.com:greatscottgadgets/gsg-kicad-lib.git
+    stargazers_count: 44
+    stargazers_url: https://api.github.com/repos/greatscottgadgets/gsg-kicad-lib/stargazers
+    statuses_url: https://api.github.com/repos/greatscottgadgets/gsg-kicad-lib/statuses/{sha}
+    subscribers_count: 15
+    subscribers_url: https://api.github.com/repos/greatscottgadgets/gsg-kicad-lib/subscribers
+    subscription_url: https://api.github.com/repos/greatscottgadgets/gsg-kicad-lib/subscription
+    svn_url: https://github.com/greatscottgadgets/gsg-kicad-lib
+    tags_url: https://api.github.com/repos/greatscottgadgets/gsg-kicad-lib/tags
+    teams_url: https://api.github.com/repos/greatscottgadgets/gsg-kicad-lib/teams
+    temp_clone_token: null
+    topics: []
+    trees_url: https://api.github.com/repos/greatscottgadgets/gsg-kicad-lib/git/trees{/sha}
+    updated_at: '2023-08-11T05:58:15Z'
+    url: https://api.github.com/repos/greatscottgadgets/gsg-kicad-lib
+    visibility: public
+    watchers: 44
+    watchers_count: 44
+    web_commit_signoff_required: false
   url: http://github.com/greatscottgadgets/gsg-kicad-lib

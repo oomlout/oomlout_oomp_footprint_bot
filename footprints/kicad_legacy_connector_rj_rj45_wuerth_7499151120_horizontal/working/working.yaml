@@ -1,0 +1,40 @@
+- file: data//oomlout_oomp_footprint_src/kicad-footprints/Connector_RJ.pretty/RJ45_Wuerth_7499151120_Horizontal.kicad_mod
+  footprint:
+    description: Wuerth 7499151120, LAN-Transformer WE-RJ45LAN 10/100/1000 BaseT,
+      Dual Ethernet Jack (http://katalog.we-online.de/pbs/datasheet/7499151120.pdf)
+    libraryLink: RJ45_Wuerth_7499151120_Horizontal
+    number_of_pads: 34
+  footprint_library_directory: footprint_library_owner/kicad-legacy_kicad-footprints
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/kicad_legacy_connector_rj_rj45_wuerth_7499151120_horizontal/working
+  github_path: http://github.com/kicad-legacy/kicad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/Connector_RJ.pretty/RJ45_Wuerth_7499151120_Horizontal.kicad_mod
+  links:
+    github_src: http://gitlab.com/kicad-legacy/kicad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod
+    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/kicad_legacy_connector_rj_rj45_wuerth_7499151120_horizontal/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/kicad_legacy_connector_rj_rj45_wuerth_7499151120_horizontal/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/kicad_legacy_connector_rj_rj45_wuerth_7499151120_horizontal/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/kicad_legacy_connector_rj_rj45_wuerth_7499151120_horizontal/working
+  name: kicad-footprints
+  oomp:
+    footprint_name: rj45_wuerth_7499151120_horizontal
+    library_name: connector_rj
+    md5: bc9e8f07145bfe07fc63b3f40e5f4859
+    md5_10: bc9e8f0714
+    md5_5: bc9e8
+    md5_6: bc9e8f
+    oomp_key: oomp_kicad_legacy_connector_rj_rj45_wuerth_7499151120_horizontal
+    oomp_key_extra: oomp_footprint_kicad_legacy_connector_rj_rj45_wuerth_7499151120_horizontal
+    oomp_key_full: oomp_footprint_kicad_legacy_connector_rj_rj45_wuerth_7499151120_horizontal_bc9e8f
+    oomp_key_simple: kicad_legacy_connector_rj_rj45_wuerth_7499151120_horizontal
+    original_filename: data//oomlout_oomp_footprint_src/kicad-footprints/Connector_RJ.pretty/RJ45_Wuerth_7499151120_Horizontal.kicad_mod
+    owner_name: kicad_legacy
+  oomp_key: oomp_kicad_legacy_connector_rj_rj45_wuerth_7499151120_horizontal
+  oomp_key_full: oomp_footprint_kicad_legacy_connector_rj_rj45_wuerth_7499151120_horizontal
+  oomp_key_simple: kicad_legacy_connector_rj_rj45_wuerth_7499151120_horizontal
+  owner: kicad-legacy
+  repo:
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
+  url: http://github.com/kicad-legacy/kicad-footprints

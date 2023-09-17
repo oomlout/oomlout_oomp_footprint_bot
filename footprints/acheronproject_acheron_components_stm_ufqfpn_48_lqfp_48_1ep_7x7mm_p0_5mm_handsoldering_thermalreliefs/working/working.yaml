@@ -1,21 +1,21 @@
-- file: acheron_Components.pretty/STM_UFQFPN-48_LQFP-48-1EP_7x7mm_P0.5mm_HandSoldering_ThermalReliefs.kicad_mod
+- file: data//oomlout_oomp_footprint_src/acheron_Components.pretty/STM_UFQFPN-48_LQFP-48-1EP_7x7mm_P0.5mm_HandSoldering_ThermalReliefs.kicad_mod
   footprint:
     description: QFN, 48 Pin (http://www.thatcorp.com/datashts/THAT_626x_Datasheet.pdf),
       generated with kicad-footprint-generator ipc_noLead_generator.py
     libraryLink: STM_UFQFPN-48_LQFP-48-1EP_7x7mm_P0.5mm_HandSoldering_ThermalReliefs
     number_of_pads: 90
   footprint_library_directory: footprint_library_owner/AcheronProject_acheron_Components.pretty
-  footprint_library_directory_flat: footprints_flat/acheronproject_acheron_components_stm_ufqfpn_48_lqfp_48_1ep_7x7mm_p0_5mm_handsoldering_thermalreliefs/working
-  github_path: http://github.com/AcheronProject/acheron_Components.pretty/blob/master/STM_UFQFPN-48_LQFP-48-1EP_7x7mm_P0.5mm_HandSoldering_ThermalReliefs.kicad_mod
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/acheronproject_acheron_components_stm_ufqfpn_48_lqfp_48_1ep_7x7mm_p0_5mm_handsoldering_thermalreliefs/working
+  github_path: http://github.com/AcheronProject/acheron_Components.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/STM_UFQFPN-48_LQFP-48-1EP_7x7mm_P0.5mm_HandSoldering_ThermalReliefs.kicad_mod
   links:
     github_owner: AcheronProject
     github_repo_name: acheron_Components.pretty
-    github_src: http://github.com/AcheronProject/acheron_Components.pretty/blob/master/VQFN-16-1EP_3x3mm_P0.5mm_EP1.6x1.6mm.kicad_mod
+    github_src: http://github.com/AcheronProject/acheron_Components.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/VQFN-16-1EP_3x3mm_P0.5mm_EP1.6x1.6mm.kicad_mod
     github_src_repo: https://github.com/AcheronProject/acheron_Components.pretty
-    oomp_bot: footprints/acheronproject_acheron_components_stm_ufqfpn_48_lqfp_48_1ep_7x7mm_p0_5mm_handsoldering_thermalreliefs/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/acheronproject_acheron_components_stm_ufqfpn_48_lqfp_48_1ep_7x7mm_p0_5mm_handsoldering_thermalreliefs/working
-    oomp_src_flat: footprints_flat/footprints_flat/acheronproject_acheron_components_stm_ufqfpn_48_lqfp_48_1ep_7x7mm_p0_5mm_handsoldering_thermalreliefs/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/acheronproject_acheron_components_stm_ufqfpn_48_lqfp_48_1ep_7x7mm_p0_5mm_handsoldering_thermalreliefs/working
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/acheronproject_acheron_components_stm_ufqfpn_48_lqfp_48_1ep_7x7mm_p0_5mm_handsoldering_thermalreliefs/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/acheronproject_acheron_components_stm_ufqfpn_48_lqfp_48_1ep_7x7mm_p0_5mm_handsoldering_thermalreliefs/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/acheronproject_acheron_components_stm_ufqfpn_48_lqfp_48_1ep_7x7mm_p0_5mm_handsoldering_thermalreliefs/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/acheronproject_acheron_components_stm_ufqfpn_48_lqfp_48_1ep_7x7mm_p0_5mm_handsoldering_thermalreliefs/working
   name: acheron_Components.pretty
   oomp:
     footprint_name: stm_ufqfpn_48_lqfp_48_1ep_7x7mm_p0_5mm_handsoldering_thermalreliefs
@@ -28,7 +28,7 @@
     oomp_key_extra: oomp_footprint_acheronproject_acheron_components_stm_ufqfpn_48_lqfp_48_1ep_7x7mm_p0_5mm_handsoldering_thermalreliefs
     oomp_key_full: oomp_footprint_acheronproject_acheron_components_stm_ufqfpn_48_lqfp_48_1ep_7x7mm_p0_5mm_handsoldering_thermalreliefs_e97e95
     oomp_key_simple: acheronproject_acheron_components_stm_ufqfpn_48_lqfp_48_1ep_7x7mm_p0_5mm_handsoldering_thermalreliefs
-    original_filename: acheron_Components.pretty/STM_UFQFPN-48_LQFP-48-1EP_7x7mm_P0.5mm_HandSoldering_ThermalReliefs.kicad_mod
+    original_filename: data//oomlout_oomp_footprint_src/acheron_Components.pretty/STM_UFQFPN-48_LQFP-48-1EP_7x7mm_P0.5mm_HandSoldering_ThermalReliefs.kicad_mod
     owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_components_stm_ufqfpn_48_lqfp_48_1ep_7x7mm_p0_5mm_handsoldering_thermalreliefs
   oomp_key_full: oomp_footprint_acheronproject_acheron_components_stm_ufqfpn_48_lqfp_48_1ep_7x7mm_p0_5mm_handsoldering_thermalreliefs
@@ -142,7 +142,7 @@
     releases_url: https://api.github.com/repos/AcheronProject/acheron_Components.pretty/releases{/id}
     size: 156
     ssh_url: git@github.com:AcheronProject/acheron_Components.pretty.git
-    stargazers_count: 2
+    stargazers_count: 3
     stargazers_url: https://api.github.com/repos/AcheronProject/acheron_Components.pretty/stargazers
     statuses_url: https://api.github.com/repos/AcheronProject/acheron_Components.pretty/statuses/{sha}
     subscribers_count: 1
@@ -154,10 +154,10 @@
     temp_clone_token: null
     topics: []
     trees_url: https://api.github.com/repos/AcheronProject/acheron_Components.pretty/git/trees{/sha}
-    updated_at: '2022-07-25T13:53:11Z'
+    updated_at: '2023-08-28T20:17:39Z'
     url: https://api.github.com/repos/AcheronProject/acheron_Components.pretty
     visibility: public
-    watchers: 2
-    watchers_count: 2
+    watchers: 3
+    watchers_count: 3
     web_commit_signoff_required: false
   url: http://github.com/AcheronProject/acheron_Components.pretty

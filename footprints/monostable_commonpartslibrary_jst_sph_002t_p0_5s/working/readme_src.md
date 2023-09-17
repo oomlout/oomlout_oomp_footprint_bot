@@ -1,29 +1,20 @@
-# CommonPartsLibrary.pretty by monostable  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/monostable/CommonPartsLibrary.pretty/blob/master/XTAL_NC26LF-327.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: None  
-* libraryLink: JST_SPH-002T-P0.5S  
-* number_of_pads: 1  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | CommonPartsLibrary.pretty/JST_SPH-002T-P0.5S.kicad_mod |  
-| footprint | {'description': None, 'libraryLink': 'JST_SPH-002T-P0.5S', 'number_of_pads': 1} |  
-| footprint_library_directory | footprint_library_owner/monostable_CommonPartsLibrary.pretty |  
-| footprint_library_directory_flat | footprints_flat/monostable_commonpartslibrary_jst_sph_002t_p0_5s/working |  
-| github_path | http://github.com/monostable/CommonPartsLibrary.pretty/blob/master/JST_SPH-002T-P0.5S.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/monostable/CommonPartsLibrary.pretty/blob/master/XTAL_NC26LF-327.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/monostable_commonpartslibrary_jst_sph_002t_p0_5s/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/monostable_commonpartslibrary_jst_sph_002t_p0_5s/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/monostable_commonpartslibrary_jst_sph_002t_p0_5s/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/monostable_commonpartslibrary_jst_sph_002t_p0_5s/working'} |  
-| name | CommonPartsLibrary.pretty |  
-| oomp | {'footprint_name': 'jst_sph_002t_p0_5s', 'library_name': 'commonpartslibrary', 'md5': '038974cb1d9afeb2193db9cbf3ac7106', 'md5_10': '038974cb1d', 'md5_5': '03897', 'md5_6': '038974', 'oomp_key': 'oomp_monostable_commonpartslibrary_jst_sph_002t_p0_5s', 'oomp_key_extra': 'oomp_footprint_monostable_commonpartslibrary_jst_sph_002t_p0_5s', 'oomp_key_full': 'oomp_footprint_monostable_commonpartslibrary_jst_sph_002t_p0_5s_038974', 'oomp_key_simple': 'monostable_commonpartslibrary_jst_sph_002t_p0_5s', 'original_filename': 'CommonPartsLibrary.pretty/JST_SPH-002T-P0.5S.kicad_mod', 'owner_name': 'monostable'} |  
-| oomp_key | oomp_monostable_commonpartslibrary_jst_sph_002t_p0_5s |  
-| oomp_key_full | oomp_footprint_monostable_commonpartslibrary_jst_sph_002t_p0_5s |  
-| oomp_key_simple | monostable_commonpartslibrary_jst_sph_002t_p0_5s |  
-| owner | monostable |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/monostable/CommonPartsLibrary.pretty |  
-
+# OOMP Footprint  
+## JST_SPH-002T-P0.5S  by none  
+  
+oomp key: oomp_monostable_commonpartslibrary_jst_sph_002t_p0_5s  
+  
+source repo at: [http://gitlab.com/monostable/CommonPartsLibrary.pretty/blob/master/XTAL_NC26LF-327.kicad_mod](http://gitlab.com/monostable/CommonPartsLibrary.pretty/blob/master/XTAL_NC26LF-327.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | JST_SPH-002T-P0.5S | 
+| footprint description | None | 
+| number of pads | 1 | 
+| github path | http://github.com/monostable/CommonPartsLibrary.pretty/blob/master/JST_SPH-002T-P0.5S.kicad_mod | 
+| oomp key | oomp_monostable_commonpartslibrary_jst_sph_002t_p0_5s | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/monostable_commonpartslibrary_jst_sph_002t_p0_5s/working | 
+## Images  

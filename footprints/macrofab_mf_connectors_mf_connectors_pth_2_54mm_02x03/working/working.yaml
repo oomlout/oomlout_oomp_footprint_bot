@@ -1,21 +1,21 @@
-- file: EDALibraries/KiCad/Footprints/MF_Connectors.pretty/MF_Connectors-PTH_2.54MM_02X03.kicad_mod
+- file: data//oomlout_oomp_footprint_src/EDALibraries/KiCad/Footprints/MF_Connectors.pretty/MF_Connectors-PTH_2.54MM_02X03.kicad_mod
   footprint:
     description: 'DESCRIPTION: PACKAGE FOR 2.54MM PITCH HEADER 2 ROW 6 POSITION. BASED
       ON 4UCON 00989.'
     libraryLink: MF_Connectors-PTH_2.54MM_02X03
     number_of_pads: 6
   footprint_library_directory: footprint_library_owner/MacroFab_EDALibraries
-  footprint_library_directory_flat: footprints_flat/macrofab_mf_connectors_mf_connectors_pth_2_54mm_02x03/working
-  github_path: http://github.com/MacroFab/EDALibraries/blob/master/KiCad/Footprints/MF_Connectors.pretty/MF_Connectors-PTH_2.54MM_02X03.kicad_mod
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/macrofab_mf_connectors_mf_connectors_pth_2_54mm_02x03/working
+  github_path: http://github.com/MacroFab/EDALibraries/blob/master/tmp/data//oomlout_oomp_footprint_src/KiCad/Footprints/MF_Connectors.pretty/MF_Connectors-PTH_2.54MM_02X03.kicad_mod
   links:
     github_owner: MacroFab
     github_repo_name: EDALibraries
-    github_src: http://github.com/MacroFab/EDALibraries/blob/master/KiCad/Footprints/MF_Switches.pretty/MF_Switches-TACT6MM.kicad_mod
+    github_src: http://github.com/MacroFab/EDALibraries/blob/master/tmp/data//oomlout_oomp_footprint_src/KiCad/Footprints/MF_Switches.pretty/MF_Switches-TACT6MM.kicad_mod
     github_src_repo: https://github.com/MacroFab/EDALibraries
-    oomp_bot: footprints/macrofab_mf_connectors_mf_connectors_pth_2_54mm_02x03/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/macrofab_mf_connectors_mf_connectors_pth_2_54mm_02x03/working
-    oomp_src_flat: footprints_flat/footprints_flat/macrofab_mf_connectors_mf_connectors_pth_2_54mm_02x03/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/macrofab_mf_connectors_mf_connectors_pth_2_54mm_02x03/working
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/macrofab_mf_connectors_mf_connectors_pth_2_54mm_02x03/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/macrofab_mf_connectors_mf_connectors_pth_2_54mm_02x03/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/macrofab_mf_connectors_mf_connectors_pth_2_54mm_02x03/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/macrofab_mf_connectors_mf_connectors_pth_2_54mm_02x03/working
   name: EDALibraries
   oomp:
     footprint_name: mf_connectors_pth_2_54mm_02x03
@@ -28,7 +28,7 @@
     oomp_key_extra: oomp_footprint_macrofab_mf_connectors_mf_connectors_pth_2_54mm_02x03
     oomp_key_full: oomp_footprint_macrofab_mf_connectors_mf_connectors_pth_2_54mm_02x03_b69b61
     oomp_key_simple: macrofab_mf_connectors_mf_connectors_pth_2_54mm_02x03
-    original_filename: EDALibraries/KiCad/Footprints/MF_Connectors.pretty/MF_Connectors-PTH_2.54MM_02X03.kicad_mod
+    original_filename: data//oomlout_oomp_footprint_src/EDALibraries/KiCad/Footprints/MF_Connectors.pretty/MF_Connectors-PTH_2.54MM_02X03.kicad_mod
     owner_name: macrofab
   oomp_key: oomp_macrofab_mf_connectors_mf_connectors_pth_2_54mm_02x03
   oomp_key_full: oomp_footprint_macrofab_mf_connectors_mf_connectors_pth_2_54mm_02x03

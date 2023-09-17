@@ -1,29 +1,20 @@
-# myelin-kicad.pretty by myelin  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/myelin/myelin-kicad.pretty/blob/master/xilinx_vqg64.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: ISSI 32-pin 450mil SOP - e.g. for IS62C1024AL-QLI  
-* libraryLink: issi_32l_450mil_sop  
-* number_of_pads: 32  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | myelin-kicad.pretty/issi_32l_450mil_sop.kicad_mod |  
-| footprint | {'description': 'ISSI 32-pin 450mil SOP - e.g. for IS62C1024AL-QLI', 'libraryLink': 'issi_32l_450mil_sop', 'number_of_pads': 32} |  
-| footprint_library_directory | footprint_library_owner/myelin_myelin-kicad.pretty |  
-| footprint_library_directory_flat | footprints_flat/myelin_myelin_kicad_issi_32l_450mil_sop/working |  
-| github_path | http://github.com/myelin/myelin-kicad.pretty/blob/master/issi_32l_450mil_sop.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/myelin/myelin-kicad.pretty/blob/master/xilinx_vqg64.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/myelin_myelin_kicad_issi_32l_450mil_sop/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/myelin_myelin_kicad_issi_32l_450mil_sop/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/myelin_myelin_kicad_issi_32l_450mil_sop/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/myelin_myelin_kicad_issi_32l_450mil_sop/working'} |  
-| name | myelin-kicad.pretty |  
-| oomp | {'footprint_name': 'issi_32l_450mil_sop', 'library_name': 'myelin_kicad', 'md5': '6d7912dcc2d441a92e77a02ebadfb964', 'md5_10': '6d7912dcc2', 'md5_5': '6d791', 'md5_6': '6d7912', 'oomp_key': 'oomp_myelin_myelin_kicad_issi_32l_450mil_sop', 'oomp_key_extra': 'oomp_footprint_myelin_myelin_kicad_issi_32l_450mil_sop', 'oomp_key_full': 'oomp_footprint_myelin_myelin_kicad_issi_32l_450mil_sop_6d7912', 'oomp_key_simple': 'myelin_myelin_kicad_issi_32l_450mil_sop', 'original_filename': 'myelin-kicad.pretty/issi_32l_450mil_sop.kicad_mod', 'owner_name': 'myelin'} |  
-| oomp_key | oomp_myelin_myelin_kicad_issi_32l_450mil_sop |  
-| oomp_key_full | oomp_footprint_myelin_myelin_kicad_issi_32l_450mil_sop |  
-| oomp_key_simple | myelin_myelin_kicad_issi_32l_450mil_sop |  
-| owner | myelin |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/myelin/myelin-kicad.pretty |  
-
+# OOMP Footprint  
+## issi_32l_450mil_sop  by none  
+  
+oomp key: oomp_myelin_myelin_kicad_issi_32l_450mil_sop  
+  
+source repo at: [http://gitlab.com/myelin/myelin-kicad.pretty/blob/master/xilinx_vqg64.kicad_mod](http://gitlab.com/myelin/myelin-kicad.pretty/blob/master/xilinx_vqg64.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | issi_32l_450mil_sop | 
+| footprint description | ISSI 32-pin 450mil SOP - e.g. for IS62C1024AL-QLI | 
+| number of pads | 32 | 
+| github path | http://github.com/myelin/myelin-kicad.pretty/blob/master/issi_32l_450mil_sop.kicad_mod | 
+| oomp key | oomp_myelin_myelin_kicad_issi_32l_450mil_sop | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/myelin_myelin_kicad_issi_32l_450mil_sop/working | 
+## Images  

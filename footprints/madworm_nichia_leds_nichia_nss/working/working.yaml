@@ -1,20 +1,20 @@
-- file: Nichia-LEDs.pretty/Nichia_NSS.kicad_mod
+- file: data//oomlout_oomp_footprint_src/Nichia-LEDs.pretty/Nichia_NSS.kicad_mod
   footprint:
     description: null
     libraryLink: Nichia_NSS
     number_of_pads: 4
   footprint_library_directory: footprint_library_owner/madworm_Nichia-LEDs.pretty
-  footprint_library_directory_flat: footprints_flat/madworm_nichia_leds_nichia_nss/working
-  github_path: http://github.com/madworm/Nichia-LEDs.pretty/blob/master/Nichia_NSS.kicad_mod
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/madworm_nichia_leds_nichia_nss/working
+  github_path: http://github.com/madworm/Nichia-LEDs.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Nichia_NSS.kicad_mod
   links:
     github_owner: madworm
     github_repo_name: Nichia-LEDs.pretty
-    github_src: http://github.com/madworm/Nichia-LEDs.pretty/blob/master/Nichia_NT2x757DT.kicad_mod
+    github_src: http://github.com/madworm/Nichia-LEDs.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Nichia_NT2x757DT.kicad_mod
     github_src_repo: https://github.com/madworm/Nichia-LEDs.pretty
-    oomp_bot: footprints/madworm_nichia_leds_nichia_nss/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/madworm_nichia_leds_nichia_nss/working
-    oomp_src_flat: footprints_flat/footprints_flat/madworm_nichia_leds_nichia_nss/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/madworm_nichia_leds_nichia_nss/working
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/madworm_nichia_leds_nichia_nss/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/madworm_nichia_leds_nichia_nss/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/madworm_nichia_leds_nichia_nss/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/madworm_nichia_leds_nichia_nss/working
   name: Nichia-LEDs.pretty
   oomp:
     footprint_name: nichia_nss
@@ -27,7 +27,7 @@
     oomp_key_extra: oomp_footprint_madworm_nichia_leds_nichia_nss
     oomp_key_full: oomp_footprint_madworm_nichia_leds_nichia_nss_59345f
     oomp_key_simple: madworm_nichia_leds_nichia_nss
-    original_filename: Nichia-LEDs.pretty/Nichia_NSS.kicad_mod
+    original_filename: data//oomlout_oomp_footprint_src/Nichia-LEDs.pretty/Nichia_NSS.kicad_mod
     owner_name: madworm
   oomp_key: oomp_madworm_nichia_leds_nichia_nss
   oomp_key_full: oomp_footprint_madworm_nichia_leds_nichia_nss

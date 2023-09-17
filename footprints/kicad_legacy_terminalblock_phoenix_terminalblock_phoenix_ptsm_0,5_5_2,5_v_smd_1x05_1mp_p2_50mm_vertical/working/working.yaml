@@ -1,0 +1,40 @@
+- file: data//oomlout_oomp_footprint_src/kicad-footprints/TerminalBlock_Phoenix.pretty/TerminalBlock_Phoenix_PTSM-0,5-5-2,5-V-SMD_1x05-1MP_P2.50mm_Vertical.kicad_mod
+  footprint:
+    description: PhoenixContact PTSM0,5 5 2,5mm vertical SMD spring clamp terminal
+      block connector http://www.phoenixcontact.com/us/products/1814731/pdf
+    libraryLink: TerminalBlock_Phoenix_PTSM-0,5-5-2,5-V-SMD_1x05-1MP_P2.50mm_Vertical
+    number_of_pads: 7
+  footprint_library_directory: footprint_library_owner/kicad-legacy_kicad-footprints
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/kicad_legacy_terminalblock_phoenix_terminalblock_phoenix_ptsm_0,5_5_2,5_v_smd_1x05_1mp_p2_50mm_vertical/working
+  github_path: http://github.com/kicad-legacy/kicad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/TerminalBlock_Phoenix.pretty/TerminalBlock_Phoenix_PTSM-0,5-5-2,5-V-SMD_1x05-1MP_P2.50mm_Vertical.kicad_mod
+  links:
+    github_src: http://gitlab.com/kicad-legacy/kicad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod
+    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/kicad_legacy_terminalblock_phoenix_terminalblock_phoenix_ptsm_0,5_5_2,5_v_smd_1x05_1mp_p2_50mm_vertical/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/kicad_legacy_terminalblock_phoenix_terminalblock_phoenix_ptsm_0,5_5_2,5_v_smd_1x05_1mp_p2_50mm_vertical/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/kicad_legacy_terminalblock_phoenix_terminalblock_phoenix_ptsm_0,5_5_2,5_v_smd_1x05_1mp_p2_50mm_vertical/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/kicad_legacy_terminalblock_phoenix_terminalblock_phoenix_ptsm_0,5_5_2,5_v_smd_1x05_1mp_p2_50mm_vertical/working
+  name: kicad-footprints
+  oomp:
+    footprint_name: terminalblock_phoenix_ptsm_0,5_5_2,5_v_smd_1x05_1mp_p2_50mm_vertical
+    library_name: terminalblock_phoenix
+    md5: 282319d7ae75c538ab12ffa8922e4ede
+    md5_10: 282319d7ae
+    md5_5: '28231'
+    md5_6: '282319'
+    oomp_key: oomp_kicad_legacy_terminalblock_phoenix_terminalblock_phoenix_ptsm_0,5_5_2,5_v_smd_1x05_1mp_p2_50mm_vertical
+    oomp_key_extra: oomp_footprint_kicad_legacy_terminalblock_phoenix_terminalblock_phoenix_ptsm_0,5_5_2,5_v_smd_1x05_1mp_p2_50mm_vertical
+    oomp_key_full: oomp_footprint_kicad_legacy_terminalblock_phoenix_terminalblock_phoenix_ptsm_0,5_5_2,5_v_smd_1x05_1mp_p2_50mm_vertical_282319
+    oomp_key_simple: kicad_legacy_terminalblock_phoenix_terminalblock_phoenix_ptsm_0,5_5_2,5_v_smd_1x05_1mp_p2_50mm_vertical
+    original_filename: data//oomlout_oomp_footprint_src/kicad-footprints/TerminalBlock_Phoenix.pretty/TerminalBlock_Phoenix_PTSM-0,5-5-2,5-V-SMD_1x05-1MP_P2.50mm_Vertical.kicad_mod
+    owner_name: kicad_legacy
+  oomp_key: oomp_kicad_legacy_terminalblock_phoenix_terminalblock_phoenix_ptsm_0,5_5_2,5_v_smd_1x05_1mp_p2_50mm_vertical
+  oomp_key_full: oomp_footprint_kicad_legacy_terminalblock_phoenix_terminalblock_phoenix_ptsm_0,5_5_2,5_v_smd_1x05_1mp_p2_50mm_vertical
+  oomp_key_simple: kicad_legacy_terminalblock_phoenix_terminalblock_phoenix_ptsm_0,5_5_2,5_v_smd_1x05_1mp_p2_50mm_vertical
+  owner: kicad-legacy
+  repo:
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
+  url: http://github.com/kicad-legacy/kicad-footprints

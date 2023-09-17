@@ -1,20 +1,20 @@
-- file: kicad-components.pretty/5V_POWER_MODULE.kicad_mod
+- file: data//oomlout_oomp_footprint_src/kicad-components.pretty/5V_POWER_MODULE.kicad_mod
   footprint:
     description: null
     libraryLink: 5V_POWER_MODULE
     number_of_pads: 4
   footprint_library_directory: footprint_library_owner/mamiksik_kicad-components.pretty
-  footprint_library_directory_flat: footprints_flat/mamiksik_kicad_components_5v_power_module/working
-  github_path: http://github.com/mamiksik/kicad-components.pretty/blob/master/5V_POWER_MODULE.kicad_mod
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/mamiksik_kicad_components_5v_power_module/working
+  github_path: http://github.com/mamiksik/kicad-components.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/5V_POWER_MODULE.kicad_mod
   links:
     github_owner: mamiksik
     github_repo_name: kicad-components.pretty
-    github_src: http://github.com/mamiksik/kicad-components.pretty/blob/master/5V_POWER_MODULE.kicad_mod
+    github_src: http://github.com/mamiksik/kicad-components.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/5V_POWER_MODULE.kicad_mod
     github_src_repo: https://github.com/mamiksik/kicad-components.pretty
-    oomp_bot: footprints/mamiksik_kicad_components_5v_power_module/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/mamiksik_kicad_components_5v_power_module/working
-    oomp_src_flat: footprints_flat/footprints_flat/mamiksik_kicad_components_5v_power_module/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/mamiksik_kicad_components_5v_power_module/working
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/mamiksik_kicad_components_5v_power_module/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/mamiksik_kicad_components_5v_power_module/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/mamiksik_kicad_components_5v_power_module/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/mamiksik_kicad_components_5v_power_module/working
   name: kicad-components.pretty
   oomp:
     footprint_name: 5v_power_module
@@ -27,7 +27,7 @@
     oomp_key_extra: oomp_footprint_mamiksik_kicad_components_5v_power_module
     oomp_key_full: oomp_footprint_mamiksik_kicad_components_5v_power_module_fadb83
     oomp_key_simple: mamiksik_kicad_components_5v_power_module
-    original_filename: kicad-components.pretty/5V_POWER_MODULE.kicad_mod
+    original_filename: data//oomlout_oomp_footprint_src/kicad-components.pretty/5V_POWER_MODULE.kicad_mod
     owner_name: mamiksik
   oomp_key: oomp_mamiksik_kicad_components_5v_power_module
   oomp_key_full: oomp_footprint_mamiksik_kicad_components_5v_power_module

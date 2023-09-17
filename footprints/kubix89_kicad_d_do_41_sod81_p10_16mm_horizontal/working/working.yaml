@@ -1,21 +1,21 @@
-- file: kiCAD.pretty/D_DO-41_SOD81_P10.16mm_Horizontal.kicad_mod
+- file: data//oomlout_oomp_footprint_src/kiCAD.pretty/D_DO-41_SOD81_P10.16mm_Horizontal.kicad_mod
   footprint:
     description: D, DO-41_SOD81 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2,
       , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf
     libraryLink: D_DO-41_SOD81_P10.16mm_Horizontal
     number_of_pads: 2
   footprint_library_directory: footprint_library_owner/kubiX89_kiCAD.pretty
-  footprint_library_directory_flat: footprints_flat/kubix89_kicad_d_do_41_sod81_p10_16mm_horizontal/working
-  github_path: http://github.com/kubiX89/kiCAD.pretty/blob/master/D_DO-41_SOD81_P10.16mm_Horizontal.kicad_mod
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/kubix89_kicad_d_do_41_sod81_p10_16mm_horizontal/working
+  github_path: http://github.com/kubiX89/kiCAD.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/D_DO-41_SOD81_P10.16mm_Horizontal.kicad_mod
   links:
     github_owner: kubiX89
     github_repo_name: kiCAD.pretty
-    github_src: http://github.com/kubiX89/kiCAD.pretty/blob/master/XTAL_7X5MM.kicad_mod
+    github_src: http://github.com/kubiX89/kiCAD.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XTAL_7X5MM.kicad_mod
     github_src_repo: https://github.com/kubiX89/kiCAD.pretty
-    oomp_bot: footprints/kubix89_kicad_d_do_41_sod81_p10_16mm_horizontal/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kubix89_kicad_d_do_41_sod81_p10_16mm_horizontal/working
-    oomp_src_flat: footprints_flat/footprints_flat/kubix89_kicad_d_do_41_sod81_p10_16mm_horizontal/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kubix89_kicad_d_do_41_sod81_p10_16mm_horizontal/working
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/kubix89_kicad_d_do_41_sod81_p10_16mm_horizontal/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/kubix89_kicad_d_do_41_sod81_p10_16mm_horizontal/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/kubix89_kicad_d_do_41_sod81_p10_16mm_horizontal/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/kubix89_kicad_d_do_41_sod81_p10_16mm_horizontal/working
   name: kiCAD.pretty
   oomp:
     footprint_name: d_do_41_sod81_p10_16mm_horizontal
@@ -28,7 +28,7 @@
     oomp_key_extra: oomp_footprint_kubix89_kicad_d_do_41_sod81_p10_16mm_horizontal
     oomp_key_full: oomp_footprint_kubix89_kicad_d_do_41_sod81_p10_16mm_horizontal_df0e49
     oomp_key_simple: kubix89_kicad_d_do_41_sod81_p10_16mm_horizontal
-    original_filename: kiCAD.pretty/D_DO-41_SOD81_P10.16mm_Horizontal.kicad_mod
+    original_filename: data//oomlout_oomp_footprint_src/kiCAD.pretty/D_DO-41_SOD81_P10.16mm_Horizontal.kicad_mod
     owner_name: kubix89
   oomp_key: oomp_kubix89_kicad_d_do_41_sod81_p10_16mm_horizontal
   oomp_key_full: oomp_footprint_kubix89_kicad_d_do_41_sod81_p10_16mm_horizontal

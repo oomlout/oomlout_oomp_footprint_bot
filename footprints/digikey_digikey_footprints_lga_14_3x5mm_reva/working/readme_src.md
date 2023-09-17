@@ -1,29 +1,20 @@
-# digikey-kicad-library by digikey  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/digikey/digikey-kicad-library/blob/master/src/Source_Footprints/Zigbee_Module_MRF24J40MD.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: http://www.analog.com/media/en/technical-documentation/data-sheets/ADXL343.pdf  
-* libraryLink: LGA-14_3x5mm_RevA  
-* number_of_pads: 14  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | digikey-kicad-library/digikey-footprints.pretty/LGA-14_3x5mm_RevA.kicad_mod |  
-| footprint | {'description': 'http://www.analog.com/media/en/technical-documentation/data-sheets/ADXL343.pdf', 'libraryLink': 'LGA-14_3x5mm_RevA', 'number_of_pads': 14} |  
-| footprint_library_directory | footprint_library_owner/digikey_digikey-kicad-library |  
-| footprint_library_directory_flat | footprints_flat/digikey_digikey_footprints_lga_14_3x5mm_reva/working |  
-| github_path | http://github.com/digikey/digikey-kicad-library/blob/master/digikey-footprints.pretty/LGA-14_3x5mm_RevA.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/digikey/digikey-kicad-library/blob/master/src/Source_Footprints/Zigbee_Module_MRF24J40MD.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/digikey_digikey_footprints_lga_14_3x5mm_reva/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_digikey_footprints_lga_14_3x5mm_reva/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/digikey_digikey_footprints_lga_14_3x5mm_reva/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/digikey_digikey_footprints_lga_14_3x5mm_reva/working'} |  
-| name | digikey-kicad-library |  
-| oomp | {'footprint_name': 'lga_14_3x5mm_reva', 'library_name': 'digikey_footprints', 'md5': 'df9164017f4327fcd67668cbba108436', 'md5_10': 'df9164017f', 'md5_5': 'df916', 'md5_6': 'df9164', 'oomp_key': 'oomp_digikey_digikey_footprints_lga_14_3x5mm_reva', 'oomp_key_extra': 'oomp_footprint_digikey_digikey_footprints_lga_14_3x5mm_reva', 'oomp_key_full': 'oomp_footprint_digikey_digikey_footprints_lga_14_3x5mm_reva_df9164', 'oomp_key_simple': 'digikey_digikey_footprints_lga_14_3x5mm_reva', 'original_filename': 'digikey-kicad-library/digikey-footprints.pretty/LGA-14_3x5mm_RevA.kicad_mod', 'owner_name': 'digikey'} |  
-| oomp_key | oomp_digikey_digikey_footprints_lga_14_3x5mm_reva |  
-| oomp_key_full | oomp_footprint_digikey_digikey_footprints_lga_14_3x5mm_reva |  
-| oomp_key_simple | digikey_digikey_footprints_lga_14_3x5mm_reva |  
-| owner | digikey |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/digikey/digikey-kicad-library |  
-
+# OOMP Footprint  
+## LGA-14_3x5mm_RevA  by none  
+  
+oomp key: oomp_digikey_digikey_footprints_lga_14_3x5mm_reva  
+  
+source repo at: [http://gitlab.com/digikey/digikey-kicad-library/blob/master/src/Source_Footprints/Zigbee_Module_MRF24J40MD.kicad_mod](http://gitlab.com/digikey/digikey-kicad-library/blob/master/src/Source_Footprints/Zigbee_Module_MRF24J40MD.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | LGA-14_3x5mm_RevA | 
+| footprint description | http://www.analog.com/media/en/technical-documentation/data-sheets/ADXL343.pdf | 
+| number of pads | 14 | 
+| github path | http://github.com/digikey/digikey-kicad-library/blob/master/digikey-footprints.pretty/LGA-14_3x5mm_RevA.kicad_mod | 
+| oomp key | oomp_digikey_digikey_footprints_lga_14_3x5mm_reva | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_digikey_footprints_lga_14_3x5mm_reva/working | 
+## Images  

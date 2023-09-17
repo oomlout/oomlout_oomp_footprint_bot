@@ -1,4 +1,4 @@
-- file: homebrew.pretty/SolderWire-12AWG_1x02.kicad_mod
+- file: data//oomlout_oomp_footprint_src/homebrew.pretty/SolderWire-12AWG_1x02.kicad_mod
   footprint:
     description: "Soldered wire connection, for 2 times 2.5 mm\xC2\xB2 wires, basic\
       \ insulation, conductor diameter 2.4mm, outer diameter 3.6mm, size source Multi-Contact\
@@ -7,16 +7,16 @@
     libraryLink: SolderWire-12AWG_1x02
     number_of_pads: 2
   footprint_library_directory: footprint_library_owner/candykingdom_homebrew.pretty
-  footprint_library_directory_flat: footprints_flat/candykingdom_homebrew_solderwire_12awg_1x02/working
-  github_path: http://github.com/candykingdom/homebrew.pretty/blob/master/SolderWire-12AWG_1x02.kicad_mod
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/candykingdom_homebrew_solderwire_12awg_1x02/working
+  github_path: http://github.com/candykingdom/homebrew.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/SolderWire-12AWG_1x02.kicad_mod
   links:
-    github_src: "http://gitlab.com/candykingdom/homebrew.pretty/blob/master/\u200E\
+    github_src: "http://gitlab.com/candykingdom/homebrew.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/\u200E\
       EG1206\u200E_SLIDE_SWITCH.kicad_mod"
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
-    oomp_bot: footprints/candykingdom_homebrew_solderwire_12awg_1x02/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/candykingdom_homebrew_solderwire_12awg_1x02/working
-    oomp_src_flat: footprints_flat/footprints_flat/candykingdom_homebrew_solderwire_12awg_1x02/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/candykingdom_homebrew_solderwire_12awg_1x02/working
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/candykingdom_homebrew_solderwire_12awg_1x02/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/candykingdom_homebrew_solderwire_12awg_1x02/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/candykingdom_homebrew_solderwire_12awg_1x02/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/candykingdom_homebrew_solderwire_12awg_1x02/working
   name: homebrew.pretty
   oomp:
     footprint_name: solderwire_12awg_1x02
@@ -29,7 +29,7 @@
     oomp_key_extra: oomp_footprint_candykingdom_homebrew_solderwire_12awg_1x02
     oomp_key_full: oomp_footprint_candykingdom_homebrew_solderwire_12awg_1x02_f8bb3c
     oomp_key_simple: candykingdom_homebrew_solderwire_12awg_1x02
-    original_filename: homebrew.pretty/SolderWire-12AWG_1x02.kicad_mod
+    original_filename: data//oomlout_oomp_footprint_src/homebrew.pretty/SolderWire-12AWG_1x02.kicad_mod
     owner_name: candykingdom
   oomp_key: oomp_candykingdom_homebrew_solderwire_12awg_1x02
   oomp_key_full: oomp_footprint_candykingdom_homebrew_solderwire_12awg_1x02
@@ -37,7 +37,7 @@
   owner: candykingdom
   repo:
     documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
-    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+    message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
       Authenticated requests get a higher rate limit. Check out the documentation
       for more details.)'
   url: http://github.com/candykingdom/homebrew.pretty

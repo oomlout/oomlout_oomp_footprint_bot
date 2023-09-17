@@ -1,20 +1,20 @@
-- file: kiCAD.pretty/QFN20X_4X4mm_.05.kicad_mod
+- file: data//oomlout_oomp_footprint_src/kiCAD.pretty/QFN20X_4X4mm_.05.kicad_mod
   footprint:
     description: Quad Flat, No pins, Exposed pad
     libraryLink: QFN20X_4X4mm_.05
     number_of_pads: 21
   footprint_library_directory: footprint_library_owner/kubiX89_kiCAD.pretty
-  footprint_library_directory_flat: footprints_flat/kubix89_kicad_qfn20x_4x4mm_05/working
-  github_path: http://github.com/kubiX89/kiCAD.pretty/blob/master/QFN20X_4X4mm_.05.kicad_mod
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/kubix89_kicad_qfn20x_4x4mm_05/working
+  github_path: http://github.com/kubiX89/kiCAD.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/QFN20X_4X4mm_.05.kicad_mod
   links:
     github_owner: kubiX89
     github_repo_name: kiCAD.pretty
-    github_src: http://github.com/kubiX89/kiCAD.pretty/blob/master/XTAL_7X5MM.kicad_mod
+    github_src: http://github.com/kubiX89/kiCAD.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XTAL_7X5MM.kicad_mod
     github_src_repo: https://github.com/kubiX89/kiCAD.pretty
-    oomp_bot: footprints/kubix89_kicad_qfn20x_4x4mm_05/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kubix89_kicad_qfn20x_4x4mm_05/working
-    oomp_src_flat: footprints_flat/footprints_flat/kubix89_kicad_qfn20x_4x4mm_05/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kubix89_kicad_qfn20x_4x4mm_05/working
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/kubix89_kicad_qfn20x_4x4mm_05/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/kubix89_kicad_qfn20x_4x4mm_05/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/kubix89_kicad_qfn20x_4x4mm_05/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/kubix89_kicad_qfn20x_4x4mm_05/working
   name: kiCAD.pretty
   oomp:
     footprint_name: qfn20x_4x4mm_05
@@ -27,7 +27,7 @@
     oomp_key_extra: oomp_footprint_kubix89_kicad_qfn20x_4x4mm_05
     oomp_key_full: oomp_footprint_kubix89_kicad_qfn20x_4x4mm_05_76c89c
     oomp_key_simple: kubix89_kicad_qfn20x_4x4mm_05
-    original_filename: kiCAD.pretty/QFN20X_4X4mm_.05.kicad_mod
+    original_filename: data//oomlout_oomp_footprint_src/kiCAD.pretty/QFN20X_4X4mm_.05.kicad_mod
     owner_name: kubix89
   oomp_key: oomp_kubix89_kicad_qfn20x_4x4mm_05
   oomp_key_full: oomp_footprint_kubix89_kicad_qfn20x_4x4mm_05

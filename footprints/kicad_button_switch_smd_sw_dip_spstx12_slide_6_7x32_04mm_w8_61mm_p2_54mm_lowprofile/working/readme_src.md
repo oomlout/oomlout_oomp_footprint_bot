@@ -1,29 +1,20 @@
-# libraries/kicad-footprints/ by kicad  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: SMD 12x-dip-switch SPST , Slide, row spacing 8.61 mm (338 mils), body size 6.7x32.04mm (see e.g. https://www.ctscorp.com/wp-content/uploads/219.pdf), SMD, LowProfile  
-* libraryLink: SW_DIP_SPSTx12_Slide_6.7x32.04mm_W8.61mm_P2.54mm_LowProfile  
-* number_of_pads: 24  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | libraries/kicad-footprints/Button_Switch_SMD.pretty/SW_DIP_SPSTx12_Slide_6.7x32.04mm_W8.61mm_P2.54mm_LowProfile.kicad_mod |  
-| footprint | {'description': 'SMD 12x-dip-switch SPST , Slide, row spacing 8.61 mm (338 mils), body size 6.7x32.04mm (see e.g. https://www.ctscorp.com/wp-content/uploads/219.pdf), SMD, LowProfile', 'libraryLink': 'SW_DIP_SPSTx12_Slide_6.7x32.04mm_W8.61mm_P2.54mm_LowProfile', 'number_of_pads': 24} |  
-| footprint_library_directory | footprint_library_owner/kicad_libraries/kicad-footprints/ |  
-| footprint_library_directory_flat | footprints_flat/kicad_button_switch_smd_sw_dip_spstx12_slide_6_7x32_04mm_w8_61mm_p2_54mm_lowprofile/working |  
-| github_path | http://github.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Button_Switch_SMD.pretty/SW_DIP_SPSTx12_Slide_6.7x32.04mm_W8.61mm_P2.54mm_LowProfile.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/kicad_button_switch_smd_sw_dip_spstx12_slide_6_7x32_04mm_w8_61mm_p2_54mm_lowprofile/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_button_switch_smd_sw_dip_spstx12_slide_6_7x32_04mm_w8_61mm_p2_54mm_lowprofile/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/kicad_button_switch_smd_sw_dip_spstx12_slide_6_7x32_04mm_w8_61mm_p2_54mm_lowprofile/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_button_switch_smd_sw_dip_spstx12_slide_6_7x32_04mm_w8_61mm_p2_54mm_lowprofile/working'} |  
-| name | libraries/kicad-footprints/ |  
-| oomp | {'footprint_name': 'sw_dip_spstx12_slide_6_7x32_04mm_w8_61mm_p2_54mm_lowprofile', 'library_name': 'button_switch_smd', 'md5': 'f20c975d60306c960edd5a73264da056', 'md5_10': 'f20c975d60', 'md5_5': 'f20c9', 'md5_6': 'f20c97', 'oomp_key': 'oomp_kicad_button_switch_smd_sw_dip_spstx12_slide_6_7x32_04mm_w8_61mm_p2_54mm_lowprofile', 'oomp_key_extra': 'oomp_footprint_kicad_button_switch_smd_sw_dip_spstx12_slide_6_7x32_04mm_w8_61mm_p2_54mm_lowprofile', 'oomp_key_full': 'oomp_footprint_kicad_button_switch_smd_sw_dip_spstx12_slide_6_7x32_04mm_w8_61mm_p2_54mm_lowprofile_f20c97', 'oomp_key_simple': 'kicad_button_switch_smd_sw_dip_spstx12_slide_6_7x32_04mm_w8_61mm_p2_54mm_lowprofile', 'original_filename': 'libraries/kicad-footprints/Button_Switch_SMD.pretty/SW_DIP_SPSTx12_Slide_6.7x32.04mm_W8.61mm_P2.54mm_LowProfile.kicad_mod', 'owner_name': 'kicad'} |  
-| oomp_key | oomp_kicad_button_switch_smd_sw_dip_spstx12_slide_6_7x32_04mm_w8_61mm_p2_54mm_lowprofile |  
-| oomp_key_full | oomp_footprint_kicad_button_switch_smd_sw_dip_spstx12_slide_6_7x32_04mm_w8_61mm_p2_54mm_lowprofile |  
-| oomp_key_simple | kicad_button_switch_smd_sw_dip_spstx12_slide_6_7x32_04mm_w8_61mm_p2_54mm_lowprofile |  
-| owner | kicad |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | https://gitlab.com/kicad/libraries/kicad-footprints |  
-
+# OOMP Footprint  
+## SW_DIP_SPSTx12_Slide_6.7x32.04mm_W8.61mm_P2.54mm_LowProfile  by none  
+  
+oomp key: oomp_kicad_button_switch_smd_sw_dip_spstx12_slide_6_7x32_04mm_w8_61mm_p2_54mm_lowprofile  
+  
+source repo at: [http://gitlab.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod](http://gitlab.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | SW_DIP_SPSTx12_Slide_6.7x32.04mm_W8.61mm_P2.54mm_LowProfile | 
+| footprint description | SMD 12x-dip-switch SPST , Slide, row spacing 8.61 mm (338 mils), body size 6.7x32.04mm (see e.g. https://www.ctscorp.com/wp-content/uploads/219.pdf), SMD, LowProfile | 
+| number of pads | 24 | 
+| github path | http://github.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Button_Switch_SMD.pretty/SW_DIP_SPSTx12_Slide_6.7x32.04mm_W8.61mm_P2.54mm_LowProfile.kicad_mod | 
+| oomp key | oomp_kicad_button_switch_smd_sw_dip_spstx12_slide_6_7x32_04mm_w8_61mm_p2_54mm_lowprofile | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_button_switch_smd_sw_dip_spstx12_slide_6_7x32_04mm_w8_61mm_p2_54mm_lowprofile/working | 
+## Images  

@@ -1,20 +1,20 @@
-- file: Resonators.pretty/murata-resonator_SMD_CSTCE16M0V53-R0.kicad_mod
+- file: data//oomlout_oomp_footprint_src/Resonators.pretty/murata-resonator_SMD_CSTCE16M0V53-R0.kicad_mod
   footprint:
     description: ./Docs/MURATA__p17e.pdf
     libraryLink: murata-resonator_SMD_CSTCE16M0V53-R0
     number_of_pads: 3
   footprint_library_directory: footprint_library_owner/madworm_Resonators.pretty
-  footprint_library_directory_flat: footprints_flat/madworm_resonators_murata_resonator_smd_cstce16m0v53_r0/working
-  github_path: http://github.com/madworm/Resonators.pretty/blob/master/murata-resonator_SMD_CSTCE16M0V53-R0.kicad_mod
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/madworm_resonators_murata_resonator_smd_cstce16m0v53_r0/working
+  github_path: http://github.com/madworm/Resonators.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/murata-resonator_SMD_CSTCE16M0V53-R0.kicad_mod
   links:
     github_owner: madworm
     github_repo_name: Resonators.pretty
-    github_src: http://github.com/madworm/Resonators.pretty/blob/master/murata-resonator_SMD_CSTCE8M00G55-R0.kicad_mod
+    github_src: http://github.com/madworm/Resonators.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/murata-resonator_SMD_CSTCE8M00G55-R0.kicad_mod
     github_src_repo: https://github.com/madworm/Resonators.pretty
-    oomp_bot: footprints/madworm_resonators_murata_resonator_smd_cstce16m0v53_r0/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/madworm_resonators_murata_resonator_smd_cstce16m0v53_r0/working
-    oomp_src_flat: footprints_flat/footprints_flat/madworm_resonators_murata_resonator_smd_cstce16m0v53_r0/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/madworm_resonators_murata_resonator_smd_cstce16m0v53_r0/working
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/madworm_resonators_murata_resonator_smd_cstce16m0v53_r0/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/madworm_resonators_murata_resonator_smd_cstce16m0v53_r0/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/madworm_resonators_murata_resonator_smd_cstce16m0v53_r0/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/madworm_resonators_murata_resonator_smd_cstce16m0v53_r0/working
   name: Resonators.pretty
   oomp:
     footprint_name: murata_resonator_smd_cstce16m0v53_r0
@@ -27,7 +27,7 @@
     oomp_key_extra: oomp_footprint_madworm_resonators_murata_resonator_smd_cstce16m0v53_r0
     oomp_key_full: oomp_footprint_madworm_resonators_murata_resonator_smd_cstce16m0v53_r0_bb4d14
     oomp_key_simple: madworm_resonators_murata_resonator_smd_cstce16m0v53_r0
-    original_filename: Resonators.pretty/murata-resonator_SMD_CSTCE16M0V53-R0.kicad_mod
+    original_filename: data//oomlout_oomp_footprint_src/Resonators.pretty/murata-resonator_SMD_CSTCE16M0V53-R0.kicad_mod
     owner_name: madworm
   oomp_key: oomp_madworm_resonators_murata_resonator_smd_cstce16m0v53_r0
   oomp_key_full: oomp_footprint_madworm_resonators_murata_resonator_smd_cstce16m0v53_r0

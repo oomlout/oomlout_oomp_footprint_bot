@@ -1,18 +1,20 @@
-- file: Nathan_THT_Other.pretty/RELAY_TE_OJ.kicad_mod
+- file: data//oomlout_oomp_footprint_src/Nathan_THT_Other.pretty/RELAY_TE_OJ.kicad_mod
   footprint:
     description: null
     libraryLink: RELAY_TE_OJ
     number_of_pads: 4
   footprint_library_directory: footprint_library_owner/hairymnstr_Nathan_THT_Other.pretty
-  footprint_library_directory_flat: footprints_flat/hairymnstr_nathan_tht_other_relay_te_oj/working
-  github_path: http://github.com/hairymnstr/Nathan_THT_Other.pretty/blob/master/RELAY_TE_OJ.kicad_mod
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/hairymnstr_nathan_tht_other_relay_te_oj/working
+  github_path: http://github.com/hairymnstr/Nathan_THT_Other.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/RELAY_TE_OJ.kicad_mod
   links:
-    github_src: http://gitlab.com/hairymnstr/Nathan_THT_Other.pretty/blob/master/TP_1.kicad_mod
-    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
-    oomp_bot: footprints/hairymnstr_nathan_tht_other_relay_te_oj/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/hairymnstr_nathan_tht_other_relay_te_oj/working
-    oomp_src_flat: footprints_flat/footprints_flat/hairymnstr_nathan_tht_other_relay_te_oj/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/hairymnstr_nathan_tht_other_relay_te_oj/working
+    github_owner: hairymnstr
+    github_repo_name: Nathan_THT_Other.pretty
+    github_src: http://github.com/hairymnstr/Nathan_THT_Other.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/TP_1.kicad_mod
+    github_src_repo: https://github.com/hairymnstr/Nathan_THT_Other.pretty
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/hairymnstr_nathan_tht_other_relay_te_oj/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/hairymnstr_nathan_tht_other_relay_te_oj/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/hairymnstr_nathan_tht_other_relay_te_oj/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/hairymnstr_nathan_tht_other_relay_te_oj/working
   name: Nathan_THT_Other.pretty
   oomp:
     footprint_name: relay_te_oj
@@ -25,15 +27,112 @@
     oomp_key_extra: oomp_footprint_hairymnstr_nathan_tht_other_relay_te_oj
     oomp_key_full: oomp_footprint_hairymnstr_nathan_tht_other_relay_te_oj_e729c2
     oomp_key_simple: hairymnstr_nathan_tht_other_relay_te_oj
-    original_filename: Nathan_THT_Other.pretty/RELAY_TE_OJ.kicad_mod
+    original_filename: data//oomlout_oomp_footprint_src/Nathan_THT_Other.pretty/RELAY_TE_OJ.kicad_mod
     owner_name: hairymnstr
   oomp_key: oomp_hairymnstr_nathan_tht_other_relay_te_oj
   oomp_key_full: oomp_footprint_hairymnstr_nathan_tht_other_relay_te_oj
   oomp_key_simple: hairymnstr_nathan_tht_other_relay_te_oj
   owner: hairymnstr
   repo:
-    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
-    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
-      Authenticated requests get a higher rate limit. Check out the documentation
-      for more details.)'
+    allow_forking: true
+    archive_url: https://api.github.com/repos/hairymnstr/Nathan_THT_Other.pretty/{archive_format}{/ref}
+    archived: false
+    assignees_url: https://api.github.com/repos/hairymnstr/Nathan_THT_Other.pretty/assignees{/user}
+    blobs_url: https://api.github.com/repos/hairymnstr/Nathan_THT_Other.pretty/git/blobs{/sha}
+    branches_url: https://api.github.com/repos/hairymnstr/Nathan_THT_Other.pretty/branches{/branch}
+    clone_url: https://github.com/hairymnstr/Nathan_THT_Other.pretty.git
+    collaborators_url: https://api.github.com/repos/hairymnstr/Nathan_THT_Other.pretty/collaborators{/collaborator}
+    comments_url: https://api.github.com/repos/hairymnstr/Nathan_THT_Other.pretty/comments{/number}
+    commits_url: https://api.github.com/repos/hairymnstr/Nathan_THT_Other.pretty/commits{/sha}
+    compare_url: https://api.github.com/repos/hairymnstr/Nathan_THT_Other.pretty/compare/{base}...{head}
+    contents_url: https://api.github.com/repos/hairymnstr/Nathan_THT_Other.pretty/contents/{+path}
+    contributors_url: https://api.github.com/repos/hairymnstr/Nathan_THT_Other.pretty/contributors
+    created_at: '2014-09-10T15:08:40Z'
+    default_branch: master
+    deployments_url: https://api.github.com/repos/hairymnstr/Nathan_THT_Other.pretty/deployments
+    description: KiCad footprints for through-hole components that aren't connectors,
+      semiconductors or passive devices.
+    disabled: false
+    downloads_url: https://api.github.com/repos/hairymnstr/Nathan_THT_Other.pretty/downloads
+    events_url: https://api.github.com/repos/hairymnstr/Nathan_THT_Other.pretty/events
+    fork: false
+    forks: 0
+    forks_count: 0
+    forks_url: https://api.github.com/repos/hairymnstr/Nathan_THT_Other.pretty/forks
+    full_name: hairymnstr/Nathan_THT_Other.pretty
+    git_commits_url: https://api.github.com/repos/hairymnstr/Nathan_THT_Other.pretty/git/commits{/sha}
+    git_refs_url: https://api.github.com/repos/hairymnstr/Nathan_THT_Other.pretty/git/refs{/sha}
+    git_tags_url: https://api.github.com/repos/hairymnstr/Nathan_THT_Other.pretty/git/tags{/sha}
+    git_url: git://github.com/hairymnstr/Nathan_THT_Other.pretty.git
+    has_discussions: false
+    has_downloads: true
+    has_issues: true
+    has_pages: false
+    has_projects: true
+    has_wiki: true
+    homepage: null
+    hooks_url: https://api.github.com/repos/hairymnstr/Nathan_THT_Other.pretty/hooks
+    html_url: https://github.com/hairymnstr/Nathan_THT_Other.pretty
+    id: 23879112
+    is_template: false
+    issue_comment_url: https://api.github.com/repos/hairymnstr/Nathan_THT_Other.pretty/issues/comments{/number}
+    issue_events_url: https://api.github.com/repos/hairymnstr/Nathan_THT_Other.pretty/issues/events{/number}
+    issues_url: https://api.github.com/repos/hairymnstr/Nathan_THT_Other.pretty/issues{/number}
+    keys_url: https://api.github.com/repos/hairymnstr/Nathan_THT_Other.pretty/keys{/key_id}
+    labels_url: https://api.github.com/repos/hairymnstr/Nathan_THT_Other.pretty/labels{/name}
+    language: null
+    languages_url: https://api.github.com/repos/hairymnstr/Nathan_THT_Other.pretty/languages
+    license: null
+    merges_url: https://api.github.com/repos/hairymnstr/Nathan_THT_Other.pretty/merges
+    milestones_url: https://api.github.com/repos/hairymnstr/Nathan_THT_Other.pretty/milestones{/number}
+    mirror_url: null
+    name: Nathan_THT_Other.pretty
+    network_count: 0
+    node_id: MDEwOlJlcG9zaXRvcnkyMzg3OTExMg==
+    notifications_url: https://api.github.com/repos/hairymnstr/Nathan_THT_Other.pretty/notifications{?since,all,participating}
+    open_issues: 0
+    open_issues_count: 0
+    owner:
+      avatar_url: https://avatars.githubusercontent.com/u/145487?v=4
+      events_url: https://api.github.com/users/hairymnstr/events{/privacy}
+      followers_url: https://api.github.com/users/hairymnstr/followers
+      following_url: https://api.github.com/users/hairymnstr/following{/other_user}
+      gists_url: https://api.github.com/users/hairymnstr/gists{/gist_id}
+      gravatar_id: ''
+      html_url: https://github.com/hairymnstr
+      id: 145487
+      login: hairymnstr
+      node_id: MDQ6VXNlcjE0NTQ4Nw==
+      organizations_url: https://api.github.com/users/hairymnstr/orgs
+      received_events_url: https://api.github.com/users/hairymnstr/received_events
+      repos_url: https://api.github.com/users/hairymnstr/repos
+      site_admin: false
+      starred_url: https://api.github.com/users/hairymnstr/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/hairymnstr/subscriptions
+      type: User
+      url: https://api.github.com/users/hairymnstr
+    private: false
+    pulls_url: https://api.github.com/repos/hairymnstr/Nathan_THT_Other.pretty/pulls{/number}
+    pushed_at: '2015-05-22T13:53:16Z'
+    releases_url: https://api.github.com/repos/hairymnstr/Nathan_THT_Other.pretty/releases{/id}
+    size: 172
+    ssh_url: git@github.com:hairymnstr/Nathan_THT_Other.pretty.git
+    stargazers_count: 0
+    stargazers_url: https://api.github.com/repos/hairymnstr/Nathan_THT_Other.pretty/stargazers
+    statuses_url: https://api.github.com/repos/hairymnstr/Nathan_THT_Other.pretty/statuses/{sha}
+    subscribers_count: 1
+    subscribers_url: https://api.github.com/repos/hairymnstr/Nathan_THT_Other.pretty/subscribers
+    subscription_url: https://api.github.com/repos/hairymnstr/Nathan_THT_Other.pretty/subscription
+    svn_url: https://github.com/hairymnstr/Nathan_THT_Other.pretty
+    tags_url: https://api.github.com/repos/hairymnstr/Nathan_THT_Other.pretty/tags
+    teams_url: https://api.github.com/repos/hairymnstr/Nathan_THT_Other.pretty/teams
+    temp_clone_token: null
+    topics: []
+    trees_url: https://api.github.com/repos/hairymnstr/Nathan_THT_Other.pretty/git/trees{/sha}
+    updated_at: '2014-09-10T15:08:40Z'
+    url: https://api.github.com/repos/hairymnstr/Nathan_THT_Other.pretty
+    visibility: public
+    watchers: 0
+    watchers_count: 0
+    web_commit_signoff_required: false
   url: http://github.com/hairymnstr/Nathan_THT_Other.pretty

@@ -1,18 +1,20 @@
-- file: septillion_device.pretty/G3MB-xxxx.kicad_mod
+- file: data//oomlout_oomp_footprint_src/septillion_device.pretty/G3MB-xxxx.kicad_mod
   footprint:
     description: null
     libraryLink: G3MB-xxxx
     number_of_pads: 4
   footprint_library_directory: footprint_library_owner/septillion-git_septillion_device.pretty
-  footprint_library_directory_flat: footprints_flat/septillion_git_septillion_device_g3mb_xxxx/working
-  github_path: http://github.com/septillion-git/septillion_device.pretty/blob/master/G3MB-xxxx.kicad_mod
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/septillion_git_septillion_device_g3mb_xxxx/working
+  github_path: http://github.com/septillion-git/septillion_device.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/G3MB-xxxx.kicad_mod
   links:
-    github_src: http://gitlab.com/septillion-git/septillion_device.pretty/blob/master/SSOT-3_GDS.kicad_mod
-    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
-    oomp_bot: footprints/septillion_git_septillion_device_g3mb_xxxx/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/septillion_git_septillion_device_g3mb_xxxx/working
-    oomp_src_flat: footprints_flat/footprints_flat/septillion_git_septillion_device_g3mb_xxxx/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/septillion_git_septillion_device_g3mb_xxxx/working
+    github_owner: septillion-git
+    github_repo_name: septillion_device.pretty
+    github_src: http://github.com/septillion-git/septillion_device.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/SSOT-3_GDS.kicad_mod
+    github_src_repo: https://github.com/septillion-git/septillion_device.pretty
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/septillion_git_septillion_device_g3mb_xxxx/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/septillion_git_septillion_device_g3mb_xxxx/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/septillion_git_septillion_device_g3mb_xxxx/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/septillion_git_septillion_device_g3mb_xxxx/working
   name: septillion_device.pretty
   oomp:
     footprint_name: g3mb_xxxx
@@ -25,15 +27,111 @@
     oomp_key_extra: oomp_footprint_septillion_git_septillion_device_g3mb_xxxx
     oomp_key_full: oomp_footprint_septillion_git_septillion_device_g3mb_xxxx_1ab1fa
     oomp_key_simple: septillion_git_septillion_device_g3mb_xxxx
-    original_filename: septillion_device.pretty/G3MB-xxxx.kicad_mod
+    original_filename: data//oomlout_oomp_footprint_src/septillion_device.pretty/G3MB-xxxx.kicad_mod
     owner_name: septillion_git
   oomp_key: oomp_septillion_git_septillion_device_g3mb_xxxx
   oomp_key_full: oomp_footprint_septillion_git_septillion_device_g3mb_xxxx
   oomp_key_simple: septillion_git_septillion_device_g3mb_xxxx
   owner: septillion-git
   repo:
-    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
-    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
-      Authenticated requests get a higher rate limit. Check out the documentation
-      for more details.)'
+    allow_forking: true
+    archive_url: https://api.github.com/repos/septillion-git/septillion_device.pretty/{archive_format}{/ref}
+    archived: false
+    assignees_url: https://api.github.com/repos/septillion-git/septillion_device.pretty/assignees{/user}
+    blobs_url: https://api.github.com/repos/septillion-git/septillion_device.pretty/git/blobs{/sha}
+    branches_url: https://api.github.com/repos/septillion-git/septillion_device.pretty/branches{/branch}
+    clone_url: https://github.com/septillion-git/septillion_device.pretty.git
+    collaborators_url: https://api.github.com/repos/septillion-git/septillion_device.pretty/collaborators{/collaborator}
+    comments_url: https://api.github.com/repos/septillion-git/septillion_device.pretty/comments{/number}
+    commits_url: https://api.github.com/repos/septillion-git/septillion_device.pretty/commits{/sha}
+    compare_url: https://api.github.com/repos/septillion-git/septillion_device.pretty/compare/{base}...{head}
+    contents_url: https://api.github.com/repos/septillion-git/septillion_device.pretty/contents/{+path}
+    contributors_url: https://api.github.com/repos/septillion-git/septillion_device.pretty/contributors
+    created_at: '2016-08-04T12:43:51Z'
+    default_branch: master
+    deployments_url: https://api.github.com/repos/septillion-git/septillion_device.pretty/deployments
+    description: KiCad footprint library of common items
+    disabled: false
+    downloads_url: https://api.github.com/repos/septillion-git/septillion_device.pretty/downloads
+    events_url: https://api.github.com/repos/septillion-git/septillion_device.pretty/events
+    fork: false
+    forks: 0
+    forks_count: 0
+    forks_url: https://api.github.com/repos/septillion-git/septillion_device.pretty/forks
+    full_name: septillion-git/septillion_device.pretty
+    git_commits_url: https://api.github.com/repos/septillion-git/septillion_device.pretty/git/commits{/sha}
+    git_refs_url: https://api.github.com/repos/septillion-git/septillion_device.pretty/git/refs{/sha}
+    git_tags_url: https://api.github.com/repos/septillion-git/septillion_device.pretty/git/tags{/sha}
+    git_url: git://github.com/septillion-git/septillion_device.pretty.git
+    has_discussions: false
+    has_downloads: true
+    has_issues: true
+    has_pages: false
+    has_projects: true
+    has_wiki: true
+    homepage: null
+    hooks_url: https://api.github.com/repos/septillion-git/septillion_device.pretty/hooks
+    html_url: https://github.com/septillion-git/septillion_device.pretty
+    id: 64933786
+    is_template: false
+    issue_comment_url: https://api.github.com/repos/septillion-git/septillion_device.pretty/issues/comments{/number}
+    issue_events_url: https://api.github.com/repos/septillion-git/septillion_device.pretty/issues/events{/number}
+    issues_url: https://api.github.com/repos/septillion-git/septillion_device.pretty/issues{/number}
+    keys_url: https://api.github.com/repos/septillion-git/septillion_device.pretty/keys{/key_id}
+    labels_url: https://api.github.com/repos/septillion-git/septillion_device.pretty/labels{/name}
+    language: null
+    languages_url: https://api.github.com/repos/septillion-git/septillion_device.pretty/languages
+    license: null
+    merges_url: https://api.github.com/repos/septillion-git/septillion_device.pretty/merges
+    milestones_url: https://api.github.com/repos/septillion-git/septillion_device.pretty/milestones{/number}
+    mirror_url: null
+    name: septillion_device.pretty
+    network_count: 0
+    node_id: MDEwOlJlcG9zaXRvcnk2NDkzMzc4Ng==
+    notifications_url: https://api.github.com/repos/septillion-git/septillion_device.pretty/notifications{?since,all,participating}
+    open_issues: 0
+    open_issues_count: 0
+    owner:
+      avatar_url: https://avatars.githubusercontent.com/u/12911072?v=4
+      events_url: https://api.github.com/users/septillion-git/events{/privacy}
+      followers_url: https://api.github.com/users/septillion-git/followers
+      following_url: https://api.github.com/users/septillion-git/following{/other_user}
+      gists_url: https://api.github.com/users/septillion-git/gists{/gist_id}
+      gravatar_id: ''
+      html_url: https://github.com/septillion-git
+      id: 12911072
+      login: septillion-git
+      node_id: MDQ6VXNlcjEyOTExMDcy
+      organizations_url: https://api.github.com/users/septillion-git/orgs
+      received_events_url: https://api.github.com/users/septillion-git/received_events
+      repos_url: https://api.github.com/users/septillion-git/repos
+      site_admin: false
+      starred_url: https://api.github.com/users/septillion-git/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/septillion-git/subscriptions
+      type: User
+      url: https://api.github.com/users/septillion-git
+    private: false
+    pulls_url: https://api.github.com/repos/septillion-git/septillion_device.pretty/pulls{/number}
+    pushed_at: '2016-08-04T12:48:23Z'
+    releases_url: https://api.github.com/repos/septillion-git/septillion_device.pretty/releases{/id}
+    size: 8
+    ssh_url: git@github.com:septillion-git/septillion_device.pretty.git
+    stargazers_count: 0
+    stargazers_url: https://api.github.com/repos/septillion-git/septillion_device.pretty/stargazers
+    statuses_url: https://api.github.com/repos/septillion-git/septillion_device.pretty/statuses/{sha}
+    subscribers_count: 1
+    subscribers_url: https://api.github.com/repos/septillion-git/septillion_device.pretty/subscribers
+    subscription_url: https://api.github.com/repos/septillion-git/septillion_device.pretty/subscription
+    svn_url: https://github.com/septillion-git/septillion_device.pretty
+    tags_url: https://api.github.com/repos/septillion-git/septillion_device.pretty/tags
+    teams_url: https://api.github.com/repos/septillion-git/septillion_device.pretty/teams
+    temp_clone_token: null
+    topics: []
+    trees_url: https://api.github.com/repos/septillion-git/septillion_device.pretty/git/trees{/sha}
+    updated_at: '2016-08-04T12:43:51Z'
+    url: https://api.github.com/repos/septillion-git/septillion_device.pretty
+    visibility: public
+    watchers: 0
+    watchers_count: 0
+    web_commit_signoff_required: false
   url: http://github.com/septillion-git/septillion_device.pretty

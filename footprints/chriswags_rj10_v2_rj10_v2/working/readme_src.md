@@ -1,29 +1,20 @@
-# KiCad by chriswags  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/chriswags/KiCad/blob/master/mods/RF.pretty/XMIT.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: <b>Modular Jack RJ10</b>  
-* libraryLink: rj10  
-* number_of_pads: 6  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | KiCad/6.0/projects/1w-grove-v0.1/rj10-v2.kicad_mod |  
-| footprint | {'description': '<b>Modular Jack RJ10</b>', 'libraryLink': 'rj10', 'number_of_pads': 6} |  
-| footprint_library_directory | footprint_library_owner/chriswags_KiCad |  
-| footprint_library_directory_flat | footprints_flat/chriswags_rj10_v2_rj10_v2/working |  
-| github_path | http://github.com/chriswags/KiCad/blob/master/6.0/projects/1w-grove-v0.1/rj10-v2.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/chriswags/KiCad/blob/master/mods/RF.pretty/XMIT.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/chriswags_rj10_v2_rj10_v2/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/chriswags_rj10_v2_rj10_v2/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/chriswags_rj10_v2_rj10_v2/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/chriswags_rj10_v2_rj10_v2/working'} |  
-| name | KiCad |  
-| oomp | {'footprint_name': 'rj10_v2', 'library_name': 'rj10_v2_kicad_mod', 'md5': '9520a6e71ce350e2344be58bd5bdab36', 'md5_10': '9520a6e71c', 'md5_5': '9520a', 'md5_6': '9520a6', 'oomp_key': 'oomp_chriswags_rj10_v2_rj10_v2', 'oomp_key_extra': 'oomp_footprint_chriswags_rj10_v2_rj10_v2', 'oomp_key_full': 'oomp_footprint_chriswags_rj10_v2_rj10_v2_9520a6', 'oomp_key_simple': 'chriswags_rj10_v2_rj10_v2', 'original_filename': 'KiCad/6.0/projects/1w-grove-v0.1/rj10-v2.kicad_mod', 'owner_name': 'chriswags'} |  
-| oomp_key | oomp_chriswags_rj10_v2_rj10_v2 |  
-| oomp_key_full | oomp_footprint_chriswags_rj10_v2_rj10_v2 |  
-| oomp_key_simple | chriswags_rj10_v2_rj10_v2 |  
-| owner | chriswags |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/chriswags/KiCad |  
-
+# OOMP Footprint  
+## rj10  by none  
+  
+oomp key: oomp_chriswags_rj10_v2_rj10_v2  
+  
+source repo at: [http://gitlab.com/chriswags/KiCad/blob/master/mods/RF.pretty/XMIT.kicad_mod](http://gitlab.com/chriswags/KiCad/blob/master/mods/RF.pretty/XMIT.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | rj10 | 
+| footprint description | <b>Modular Jack RJ10</b> | 
+| number of pads | 6 | 
+| github path | http://github.com/chriswags/KiCad/blob/master/6.0/projects/1w-grove-v0.1/rj10-v2.kicad_mod | 
+| oomp key | oomp_chriswags_rj10_v2_rj10_v2 | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/chriswags_rj10_v2_rj10_v2/working | 
+## Images  

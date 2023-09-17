@@ -1,29 +1,20 @@
-# USST-footprints.pretty by UofSSpaceTeam  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/UofSSpaceTeam/USST-footprints.pretty/blob/master/WRCOM_USB_A_VERT.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: None  
-* libraryLink: PTN7820H  
-* number_of_pads: 7  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | USST-footprints.pretty/PTN7820H.kicad_mod |  
-| footprint | {'description': None, 'libraryLink': 'PTN7820H', 'number_of_pads': 7} |  
-| footprint_library_directory | footprint_library_owner/UofSSpaceTeam_USST-footprints.pretty |  
-| footprint_library_directory_flat | footprints_flat/uofsspaceteam_usst_footprints_ptn7820h/working |  
-| github_path | http://github.com/UofSSpaceTeam/USST-footprints.pretty/blob/master/PTN7820H.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/UofSSpaceTeam/USST-footprints.pretty/blob/master/WRCOM_USB_A_VERT.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/uofsspaceteam_usst_footprints_ptn7820h/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/uofsspaceteam_usst_footprints_ptn7820h/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/uofsspaceteam_usst_footprints_ptn7820h/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/uofsspaceteam_usst_footprints_ptn7820h/working'} |  
-| name | USST-footprints.pretty |  
-| oomp | {'footprint_name': 'ptn7820h', 'library_name': 'usst_footprints', 'md5': '73b103ba14bc1aa905661be5504686ee', 'md5_10': '73b103ba14', 'md5_5': '73b10', 'md5_6': '73b103', 'oomp_key': 'oomp_uofsspaceteam_usst_footprints_ptn7820h', 'oomp_key_extra': 'oomp_footprint_uofsspaceteam_usst_footprints_ptn7820h', 'oomp_key_full': 'oomp_footprint_uofsspaceteam_usst_footprints_ptn7820h_73b103', 'oomp_key_simple': 'uofsspaceteam_usst_footprints_ptn7820h', 'original_filename': 'USST-footprints.pretty/PTN7820H.kicad_mod', 'owner_name': 'uofsspaceteam'} |  
-| oomp_key | oomp_uofsspaceteam_usst_footprints_ptn7820h |  
-| oomp_key_full | oomp_footprint_uofsspaceteam_usst_footprints_ptn7820h |  
-| oomp_key_simple | uofsspaceteam_usst_footprints_ptn7820h |  
-| owner | UofSSpaceTeam |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/UofSSpaceTeam/USST-footprints.pretty |  
-
+# OOMP Footprint  
+## PTN7820H  by none  
+  
+oomp key: oomp_uofsspaceteam_usst_footprints_ptn7820h  
+  
+source repo at: [http://gitlab.com/UofSSpaceTeam/USST-footprints.pretty/blob/master/WRCOM_USB_A_VERT.kicad_mod](http://gitlab.com/UofSSpaceTeam/USST-footprints.pretty/blob/master/WRCOM_USB_A_VERT.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | PTN7820H | 
+| footprint description | None | 
+| number of pads | 7 | 
+| github path | http://github.com/UofSSpaceTeam/USST-footprints.pretty/blob/master/PTN7820H.kicad_mod | 
+| oomp key | oomp_uofsspaceteam_usst_footprints_ptn7820h | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/uofsspaceteam_usst_footprints_ptn7820h/working | 
+## Images  

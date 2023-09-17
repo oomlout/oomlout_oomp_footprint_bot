@@ -1,18 +1,20 @@
-- file: CommonPartsLibrary.pretty/RC0603FR-0710KL_RESC1608X55.kicad_mod
+- file: data//oomlout_oomp_footprint_src/CommonPartsLibrary.pretty/RC0603FR-0710KL_RESC1608X55.kicad_mod
   footprint:
     description: <b>RESISTOR</b>
     libraryLink: RC0603FR-0710KL_RESC1608X55
     number_of_pads: 2
   footprint_library_directory: footprint_library_owner/monostable_CommonPartsLibrary.pretty
-  footprint_library_directory_flat: footprints_flat/monostable_commonpartslibrary_rc0603fr_0710kl_resc1608x55/working
-  github_path: http://github.com/monostable/CommonPartsLibrary.pretty/blob/master/RC0603FR-0710KL_RESC1608X55.kicad_mod
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/monostable_commonpartslibrary_rc0603fr_0710kl_resc1608x55/working
+  github_path: http://github.com/monostable/CommonPartsLibrary.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/RC0603FR-0710KL_RESC1608X55.kicad_mod
   links:
-    github_src: http://gitlab.com/monostable/CommonPartsLibrary.pretty/blob/master/XTAL_NC26LF-327.kicad_mod
-    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
-    oomp_bot: footprints/monostable_commonpartslibrary_rc0603fr_0710kl_resc1608x55/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/monostable_commonpartslibrary_rc0603fr_0710kl_resc1608x55/working
-    oomp_src_flat: footprints_flat/footprints_flat/monostable_commonpartslibrary_rc0603fr_0710kl_resc1608x55/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/monostable_commonpartslibrary_rc0603fr_0710kl_resc1608x55/working
+    github_owner: monostable
+    github_repo_name: CommonPartsLibrary.pretty
+    github_src: http://github.com/monostable/CommonPartsLibrary.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XTAL_NC26LF-327.kicad_mod
+    github_src_repo: https://github.com/monostable/CommonPartsLibrary.pretty
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/monostable_commonpartslibrary_rc0603fr_0710kl_resc1608x55/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/monostable_commonpartslibrary_rc0603fr_0710kl_resc1608x55/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/monostable_commonpartslibrary_rc0603fr_0710kl_resc1608x55/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/monostable_commonpartslibrary_rc0603fr_0710kl_resc1608x55/working
   name: CommonPartsLibrary.pretty
   oomp:
     footprint_name: rc0603fr_0710kl_resc1608x55
@@ -25,15 +27,131 @@
     oomp_key_extra: oomp_footprint_monostable_commonpartslibrary_rc0603fr_0710kl_resc1608x55
     oomp_key_full: oomp_footprint_monostable_commonpartslibrary_rc0603fr_0710kl_resc1608x55_380f6a
     oomp_key_simple: monostable_commonpartslibrary_rc0603fr_0710kl_resc1608x55
-    original_filename: CommonPartsLibrary.pretty/RC0603FR-0710KL_RESC1608X55.kicad_mod
+    original_filename: data//oomlout_oomp_footprint_src/CommonPartsLibrary.pretty/RC0603FR-0710KL_RESC1608X55.kicad_mod
     owner_name: monostable
   oomp_key: oomp_monostable_commonpartslibrary_rc0603fr_0710kl_resc1608x55
   oomp_key_full: oomp_footprint_monostable_commonpartslibrary_rc0603fr_0710kl_resc1608x55
   oomp_key_simple: monostable_commonpartslibrary_rc0603fr_0710kl_resc1608x55
   owner: monostable
   repo:
-    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
-    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
-      Authenticated requests get a higher rate limit. Check out the documentation
-      for more details.)'
+    allow_forking: true
+    archive_url: https://api.github.com/repos/monostable/CommonPartsLibrary.pretty/{archive_format}{/ref}
+    archived: false
+    assignees_url: https://api.github.com/repos/monostable/CommonPartsLibrary.pretty/assignees{/user}
+    blobs_url: https://api.github.com/repos/monostable/CommonPartsLibrary.pretty/git/blobs{/sha}
+    branches_url: https://api.github.com/repos/monostable/CommonPartsLibrary.pretty/branches{/branch}
+    clone_url: https://github.com/monostable/CommonPartsLibrary.pretty.git
+    collaborators_url: https://api.github.com/repos/monostable/CommonPartsLibrary.pretty/collaborators{/collaborator}
+    comments_url: https://api.github.com/repos/monostable/CommonPartsLibrary.pretty/comments{/number}
+    commits_url: https://api.github.com/repos/monostable/CommonPartsLibrary.pretty/commits{/sha}
+    compare_url: https://api.github.com/repos/monostable/CommonPartsLibrary.pretty/compare/{base}...{head}
+    contents_url: https://api.github.com/repos/monostable/CommonPartsLibrary.pretty/contents/{+path}
+    contributors_url: https://api.github.com/repos/monostable/CommonPartsLibrary.pretty/contributors
+    created_at: '2016-09-07T20:25:36Z'
+    default_branch: master
+    deployments_url: https://api.github.com/repos/monostable/CommonPartsLibrary.pretty/deployments
+    description: SnapEDA's Common Parts Library footprints converted to the new KiCAD
+      format
+    disabled: false
+    downloads_url: https://api.github.com/repos/monostable/CommonPartsLibrary.pretty/downloads
+    events_url: https://api.github.com/repos/monostable/CommonPartsLibrary.pretty/events
+    fork: false
+    forks: 6
+    forks_count: 6
+    forks_url: https://api.github.com/repos/monostable/CommonPartsLibrary.pretty/forks
+    full_name: monostable/CommonPartsLibrary.pretty
+    git_commits_url: https://api.github.com/repos/monostable/CommonPartsLibrary.pretty/git/commits{/sha}
+    git_refs_url: https://api.github.com/repos/monostable/CommonPartsLibrary.pretty/git/refs{/sha}
+    git_tags_url: https://api.github.com/repos/monostable/CommonPartsLibrary.pretty/git/tags{/sha}
+    git_url: git://github.com/monostable/CommonPartsLibrary.pretty.git
+    has_discussions: false
+    has_downloads: true
+    has_issues: true
+    has_pages: false
+    has_projects: true
+    has_wiki: true
+    homepage: https://www.snapeda.com/libraries/octopart/common-parts-library/
+    hooks_url: https://api.github.com/repos/monostable/CommonPartsLibrary.pretty/hooks
+    html_url: https://github.com/monostable/CommonPartsLibrary.pretty
+    id: 67640834
+    is_template: false
+    issue_comment_url: https://api.github.com/repos/monostable/CommonPartsLibrary.pretty/issues/comments{/number}
+    issue_events_url: https://api.github.com/repos/monostable/CommonPartsLibrary.pretty/issues/events{/number}
+    issues_url: https://api.github.com/repos/monostable/CommonPartsLibrary.pretty/issues{/number}
+    keys_url: https://api.github.com/repos/monostable/CommonPartsLibrary.pretty/keys{/key_id}
+    labels_url: https://api.github.com/repos/monostable/CommonPartsLibrary.pretty/labels{/name}
+    language: null
+    languages_url: https://api.github.com/repos/monostable/CommonPartsLibrary.pretty/languages
+    license: null
+    merges_url: https://api.github.com/repos/monostable/CommonPartsLibrary.pretty/merges
+    milestones_url: https://api.github.com/repos/monostable/CommonPartsLibrary.pretty/milestones{/number}
+    mirror_url: null
+    name: CommonPartsLibrary.pretty
+    network_count: 6
+    node_id: MDEwOlJlcG9zaXRvcnk2NzY0MDgzNA==
+    notifications_url: https://api.github.com/repos/monostable/CommonPartsLibrary.pretty/notifications{?since,all,participating}
+    open_issues: 0
+    open_issues_count: 0
+    organization:
+      avatar_url: https://avatars.githubusercontent.com/u/7317517?v=4
+      events_url: https://api.github.com/users/monostable/events{/privacy}
+      followers_url: https://api.github.com/users/monostable/followers
+      following_url: https://api.github.com/users/monostable/following{/other_user}
+      gists_url: https://api.github.com/users/monostable/gists{/gist_id}
+      gravatar_id: ''
+      html_url: https://github.com/monostable
+      id: 7317517
+      login: monostable
+      node_id: MDEyOk9yZ2FuaXphdGlvbjczMTc1MTc=
+      organizations_url: https://api.github.com/users/monostable/orgs
+      received_events_url: https://api.github.com/users/monostable/received_events
+      repos_url: https://api.github.com/users/monostable/repos
+      site_admin: false
+      starred_url: https://api.github.com/users/monostable/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/monostable/subscriptions
+      type: Organization
+      url: https://api.github.com/users/monostable
+    owner:
+      avatar_url: https://avatars.githubusercontent.com/u/7317517?v=4
+      events_url: https://api.github.com/users/monostable/events{/privacy}
+      followers_url: https://api.github.com/users/monostable/followers
+      following_url: https://api.github.com/users/monostable/following{/other_user}
+      gists_url: https://api.github.com/users/monostable/gists{/gist_id}
+      gravatar_id: ''
+      html_url: https://github.com/monostable
+      id: 7317517
+      login: monostable
+      node_id: MDEyOk9yZ2FuaXphdGlvbjczMTc1MTc=
+      organizations_url: https://api.github.com/users/monostable/orgs
+      received_events_url: https://api.github.com/users/monostable/received_events
+      repos_url: https://api.github.com/users/monostable/repos
+      site_admin: false
+      starred_url: https://api.github.com/users/monostable/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/monostable/subscriptions
+      type: Organization
+      url: https://api.github.com/users/monostable
+    private: false
+    pulls_url: https://api.github.com/repos/monostable/CommonPartsLibrary.pretty/pulls{/number}
+    pushed_at: '2017-11-26T20:36:14Z'
+    releases_url: https://api.github.com/repos/monostable/CommonPartsLibrary.pretty/releases{/id}
+    size: 155
+    ssh_url: git@github.com:monostable/CommonPartsLibrary.pretty.git
+    stargazers_count: 4
+    stargazers_url: https://api.github.com/repos/monostable/CommonPartsLibrary.pretty/stargazers
+    statuses_url: https://api.github.com/repos/monostable/CommonPartsLibrary.pretty/statuses/{sha}
+    subscribers_count: 6
+    subscribers_url: https://api.github.com/repos/monostable/CommonPartsLibrary.pretty/subscribers
+    subscription_url: https://api.github.com/repos/monostable/CommonPartsLibrary.pretty/subscription
+    svn_url: https://github.com/monostable/CommonPartsLibrary.pretty
+    tags_url: https://api.github.com/repos/monostable/CommonPartsLibrary.pretty/tags
+    teams_url: https://api.github.com/repos/monostable/CommonPartsLibrary.pretty/teams
+    temp_clone_token: null
+    topics: []
+    trees_url: https://api.github.com/repos/monostable/CommonPartsLibrary.pretty/git/trees{/sha}
+    updated_at: '2021-02-03T14:02:40Z'
+    url: https://api.github.com/repos/monostable/CommonPartsLibrary.pretty
+    visibility: public
+    watchers: 4
+    watchers_count: 4
+    web_commit_signoff_required: false
   url: http://github.com/monostable/CommonPartsLibrary.pretty

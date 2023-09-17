@@ -1,29 +1,20 @@
-# kicad-open-modules by brunoeagle  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/brunoeagle/kicad-open-modules/blob/master/XH-2AW.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: QFN, 24 Pin (http://www.ti.com/lit/ds/symlink/bq24133.pdf#page=40)  
-* libraryLink: Texas_RGY_R-PVQFN-N16_EP2.05x2.55mm  
-* number_of_pads: 21  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | kicad-open-modules/Texas_RGY_R-PVQFN-N16_EP2.05x2.55mm.kicad_mod |  
-| footprint | {'description': 'QFN, 24 Pin (http://www.ti.com/lit/ds/symlink/bq24133.pdf#page=40)', 'libraryLink': 'Texas_RGY_R-PVQFN-N16_EP2.05x2.55mm', 'number_of_pads': 21} |  
-| footprint_library_directory | footprint_library_owner/brunoeagle_kicad-open-modules |  
-| footprint_library_directory_flat | footprints_flat/brunoeagle_texas_rgy_r_pvqfn_n16_ep2_05x2_55mm_texas_rgy_r_pvqfn_n16_ep2_05x2_55mm/working |  
-| github_path | http://github.com/brunoeagle/kicad-open-modules/blob/master/Texas_RGY_R-PVQFN-N16_EP2.05x2.55mm.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/brunoeagle/kicad-open-modules/blob/master/XH-2AW.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/brunoeagle_texas_rgy_r_pvqfn_n16_ep2_05x2_55mm_texas_rgy_r_pvqfn_n16_ep2_05x2_55mm/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_texas_rgy_r_pvqfn_n16_ep2_05x2_55mm_texas_rgy_r_pvqfn_n16_ep2_05x2_55mm/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/brunoeagle_texas_rgy_r_pvqfn_n16_ep2_05x2_55mm_texas_rgy_r_pvqfn_n16_ep2_05x2_55mm/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_texas_rgy_r_pvqfn_n16_ep2_05x2_55mm_texas_rgy_r_pvqfn_n16_ep2_05x2_55mm/working'} |  
-| name | kicad-open-modules |  
-| oomp | {'footprint_name': 'texas_rgy_r_pvqfn_n16_ep2_05x2_55mm', 'library_name': 'texas_rgy_r_pvqfn_n16_ep2_05x2_55mm_kicad_mod', 'md5': 'b3ef4cbfec976a429f7eb5cceb7f7262', 'md5_10': 'b3ef4cbfec', 'md5_5': 'b3ef4', 'md5_6': 'b3ef4c', 'oomp_key': 'oomp_brunoeagle_texas_rgy_r_pvqfn_n16_ep2_05x2_55mm_texas_rgy_r_pvqfn_n16_ep2_05x2_55mm', 'oomp_key_extra': 'oomp_footprint_brunoeagle_texas_rgy_r_pvqfn_n16_ep2_05x2_55mm_texas_rgy_r_pvqfn_n16_ep2_05x2_55mm', 'oomp_key_full': 'oomp_footprint_brunoeagle_texas_rgy_r_pvqfn_n16_ep2_05x2_55mm_texas_rgy_r_pvqfn_n16_ep2_05x2_55mm_b3ef4c', 'oomp_key_simple': 'brunoeagle_texas_rgy_r_pvqfn_n16_ep2_05x2_55mm_texas_rgy_r_pvqfn_n16_ep2_05x2_55mm', 'original_filename': 'kicad-open-modules/Texas_RGY_R-PVQFN-N16_EP2.05x2.55mm.kicad_mod', 'owner_name': 'brunoeagle'} |  
-| oomp_key | oomp_brunoeagle_texas_rgy_r_pvqfn_n16_ep2_05x2_55mm_texas_rgy_r_pvqfn_n16_ep2_05x2_55mm |  
-| oomp_key_full | oomp_footprint_brunoeagle_texas_rgy_r_pvqfn_n16_ep2_05x2_55mm_texas_rgy_r_pvqfn_n16_ep2_05x2_55mm |  
-| oomp_key_simple | brunoeagle_texas_rgy_r_pvqfn_n16_ep2_05x2_55mm_texas_rgy_r_pvqfn_n16_ep2_05x2_55mm |  
-| owner | brunoeagle |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/brunoeagle/kicad-open-modules |  
-
+# OOMP Footprint  
+## Texas_RGY_R-PVQFN-N16_EP2.05x2.55mm  by none  
+  
+oomp key: oomp_brunoeagle_texas_rgy_r_pvqfn_n16_ep2_05x2_55mm_texas_rgy_r_pvqfn_n16_ep2_05x2_55mm  
+  
+source repo at: [http://gitlab.com/brunoeagle/kicad-open-modules/blob/master/XH-2AW.kicad_mod](http://gitlab.com/brunoeagle/kicad-open-modules/blob/master/XH-2AW.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | Texas_RGY_R-PVQFN-N16_EP2.05x2.55mm | 
+| footprint description | QFN, 24 Pin (http://www.ti.com/lit/ds/symlink/bq24133.pdf#page=40) | 
+| number of pads | 21 | 
+| github path | http://github.com/brunoeagle/kicad-open-modules/blob/master/Texas_RGY_R-PVQFN-N16_EP2.05x2.55mm.kicad_mod | 
+| oomp key | oomp_brunoeagle_texas_rgy_r_pvqfn_n16_ep2_05x2_55mm_texas_rgy_r_pvqfn_n16_ep2_05x2_55mm | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_texas_rgy_r_pvqfn_n16_ep2_05x2_55mm_texas_rgy_r_pvqfn_n16_ep2_05x2_55mm/working | 
+## Images  

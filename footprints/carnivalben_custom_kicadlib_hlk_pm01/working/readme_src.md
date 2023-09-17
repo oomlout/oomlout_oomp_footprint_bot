@@ -1,29 +1,20 @@
-# custom-kicadlib.pretty by CarnivalBen  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/CarnivalBen/custom-kicadlib.pretty/blob/master/SW_PUSH_6mm_4pin.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: None  
-* libraryLink: HLK-PM01  
-* number_of_pads: 4  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | custom-kicadlib.pretty/HLK-PM01.kicad_mod |  
-| footprint | {'description': None, 'libraryLink': 'HLK-PM01', 'number_of_pads': 4} |  
-| footprint_library_directory | footprint_library_owner/CarnivalBen_custom-kicadlib.pretty |  
-| footprint_library_directory_flat | footprints_flat/carnivalben_custom_kicadlib_hlk_pm01/working |  
-| github_path | http://github.com/CarnivalBen/custom-kicadlib.pretty/blob/master/HLK-PM01.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/CarnivalBen/custom-kicadlib.pretty/blob/master/SW_PUSH_6mm_4pin.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/carnivalben_custom_kicadlib_hlk_pm01/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/carnivalben_custom_kicadlib_hlk_pm01/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/carnivalben_custom_kicadlib_hlk_pm01/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/carnivalben_custom_kicadlib_hlk_pm01/working'} |  
-| name | custom-kicadlib.pretty |  
-| oomp | {'footprint_name': 'hlk_pm01', 'library_name': 'custom_kicadlib', 'md5': 'a935752a619fee673507620f04341cff', 'md5_10': 'a935752a61', 'md5_5': 'a9357', 'md5_6': 'a93575', 'oomp_key': 'oomp_carnivalben_custom_kicadlib_hlk_pm01', 'oomp_key_extra': 'oomp_footprint_carnivalben_custom_kicadlib_hlk_pm01', 'oomp_key_full': 'oomp_footprint_carnivalben_custom_kicadlib_hlk_pm01_a93575', 'oomp_key_simple': 'carnivalben_custom_kicadlib_hlk_pm01', 'original_filename': 'custom-kicadlib.pretty/HLK-PM01.kicad_mod', 'owner_name': 'carnivalben'} |  
-| oomp_key | oomp_carnivalben_custom_kicadlib_hlk_pm01 |  
-| oomp_key_full | oomp_footprint_carnivalben_custom_kicadlib_hlk_pm01 |  
-| oomp_key_simple | carnivalben_custom_kicadlib_hlk_pm01 |  
-| owner | CarnivalBen |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/CarnivalBen/custom-kicadlib.pretty |  
-
+# OOMP Footprint  
+## HLK-PM01  by none  
+  
+oomp key: oomp_carnivalben_custom_kicadlib_hlk_pm01  
+  
+source repo at: [http://gitlab.com/CarnivalBen/custom-kicadlib.pretty/blob/master/SW_PUSH_6mm_4pin.kicad_mod](http://gitlab.com/CarnivalBen/custom-kicadlib.pretty/blob/master/SW_PUSH_6mm_4pin.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | HLK-PM01 | 
+| footprint description | None | 
+| number of pads | 4 | 
+| github path | http://github.com/CarnivalBen/custom-kicadlib.pretty/blob/master/HLK-PM01.kicad_mod | 
+| oomp key | oomp_carnivalben_custom_kicadlib_hlk_pm01 | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/carnivalben_custom_kicadlib_hlk_pm01/working | 
+## Images  

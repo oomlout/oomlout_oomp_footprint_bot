@@ -1,0 +1,40 @@
+- file: data//oomlout_oomp_footprint_src/oomlout_oomp_part_kicad_footprints/oomlout_oomp_part_footprints.pretty/ro820_electronic_resistor_quarter_watt_through_hole_82_ohm.kicad_mod
+  footprint:
+    description: Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm,
+      0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf
+    libraryLink: R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+    number_of_pads: 2
+  footprint_library_directory: footprint_library_owner/oomlout_oomlout_oomp_part_kicad_footprints
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/oomlout_oomlout_oomp_part_footprints_ro820_electronic_resistor_quarter_watt_through_hole_82_ohm/working
+  github_path: http://github.com/oomlout/oomlout_oomp_part_kicad_footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/oomlout_oomp_part_footprints.pretty/ro820_electronic_resistor_quarter_watt_through_hole_82_ohm.kicad_mod
+  links:
+    github_src: http://gitlab.com/oomlout/oomlout_oomp_part_kicad_footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/oomlout_oomp_part_footprints.pretty/xcr3213mhz8_electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz.kicad_mod
+    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/oomlout_oomlout_oomp_part_footprints_ro820_electronic_resistor_quarter_watt_through_hole_82_ohm/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/oomlout_oomlout_oomp_part_footprints_ro820_electronic_resistor_quarter_watt_through_hole_82_ohm/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/oomlout_oomlout_oomp_part_footprints_ro820_electronic_resistor_quarter_watt_through_hole_82_ohm/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/oomlout_oomlout_oomp_part_footprints_ro820_electronic_resistor_quarter_watt_through_hole_82_ohm/working
+  name: oomlout_oomp_part_kicad_footprints
+  oomp:
+    footprint_name: ro820_electronic_resistor_quarter_watt_through_hole_82_ohm
+    library_name: oomlout_oomp_part_footprints
+    md5: 397d472f4912dcadceb011fb23072347
+    md5_10: 397d472f49
+    md5_5: 397d4
+    md5_6: 397d47
+    oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_ro820_electronic_resistor_quarter_watt_through_hole_82_ohm
+    oomp_key_extra: oomp_footprint_oomlout_oomlout_oomp_part_footprints_ro820_electronic_resistor_quarter_watt_through_hole_82_ohm
+    oomp_key_full: oomp_footprint_oomlout_oomlout_oomp_part_footprints_ro820_electronic_resistor_quarter_watt_through_hole_82_ohm_397d47
+    oomp_key_simple: oomlout_oomlout_oomp_part_footprints_ro820_electronic_resistor_quarter_watt_through_hole_82_ohm
+    original_filename: data//oomlout_oomp_footprint_src/oomlout_oomp_part_kicad_footprints/oomlout_oomp_part_footprints.pretty/ro820_electronic_resistor_quarter_watt_through_hole_82_ohm.kicad_mod
+    owner_name: oomlout
+  oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_ro820_electronic_resistor_quarter_watt_through_hole_82_ohm
+  oomp_key_full: oomp_footprint_oomlout_oomlout_oomp_part_footprints_ro820_electronic_resistor_quarter_watt_through_hole_82_ohm
+  oomp_key_simple: oomlout_oomlout_oomp_part_footprints_ro820_electronic_resistor_quarter_watt_through_hole_82_ohm
+  owner: oomlout
+  repo:
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
+  url: https://github.com/oomlout/oomlout_oomp_part_kicad_footprints

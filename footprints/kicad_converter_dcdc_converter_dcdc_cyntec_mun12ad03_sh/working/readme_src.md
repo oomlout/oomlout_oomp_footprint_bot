@@ -1,29 +1,28 @@
-# libraries/kicad-footprints/ by kicad  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: http://www.cyntec.com/upfile/products/download/Cyntec%20MUN12AD03-SH_Datasheet.pdf  
-* libraryLink: Converter_DCDC_Cyntec_MUN12AD03-SH  
-* number_of_pads: 19  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | libraries/kicad-footprints/Converter_DCDC.pretty/Converter_DCDC_Cyntec_MUN12AD03-SH.kicad_mod |  
-| footprint | {'description': 'http://www.cyntec.com/upfile/products/download/Cyntec%20MUN12AD03-SH_Datasheet.pdf', 'libraryLink': 'Converter_DCDC_Cyntec_MUN12AD03-SH', 'number_of_pads': 19} |  
-| footprint_library_directory | footprint_library_owner/kicad_libraries/kicad-footprints/ |  
-| footprint_library_directory_flat | footprints_flat/kicad_converter_dcdc_converter_dcdc_cyntec_mun12ad03_sh/working |  
-| github_path | http://github.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Converter_DCDC.pretty/Converter_DCDC_Cyntec_MUN12AD03-SH.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/kicad_converter_dcdc_converter_dcdc_cyntec_mun12ad03_sh/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_converter_dcdc_converter_dcdc_cyntec_mun12ad03_sh/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/kicad_converter_dcdc_converter_dcdc_cyntec_mun12ad03_sh/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_converter_dcdc_converter_dcdc_cyntec_mun12ad03_sh/working'} |  
-| name | libraries/kicad-footprints/ |  
-| oomp | {'footprint_name': 'converter_dcdc_cyntec_mun12ad03_sh', 'library_name': 'converter_dcdc', 'md5': '008102289671cf67c56b015ed868b7f6', 'md5_10': '0081022896', 'md5_5': '00810', 'md5_6': '008102', 'oomp_key': 'oomp_kicad_converter_dcdc_converter_dcdc_cyntec_mun12ad03_sh', 'oomp_key_extra': 'oomp_footprint_kicad_converter_dcdc_converter_dcdc_cyntec_mun12ad03_sh', 'oomp_key_full': 'oomp_footprint_kicad_converter_dcdc_converter_dcdc_cyntec_mun12ad03_sh_008102', 'oomp_key_simple': 'kicad_converter_dcdc_converter_dcdc_cyntec_mun12ad03_sh', 'original_filename': 'libraries/kicad-footprints/Converter_DCDC.pretty/Converter_DCDC_Cyntec_MUN12AD03-SH.kicad_mod', 'owner_name': 'kicad'} |  
-| oomp_key | oomp_kicad_converter_dcdc_converter_dcdc_cyntec_mun12ad03_sh |  
-| oomp_key_full | oomp_footprint_kicad_converter_dcdc_converter_dcdc_cyntec_mun12ad03_sh |  
-| oomp_key_simple | kicad_converter_dcdc_converter_dcdc_cyntec_mun12ad03_sh |  
-| owner | kicad |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | https://gitlab.com/kicad/libraries/kicad-footprints |  
-
+# OOMP Footprint  
+## Converter_DCDC_Cyntec_MUN12AD03-SH  by none  
+  
+oomp key: oomp_kicad_converter_dcdc_converter_dcdc_cyntec_mun12ad03_sh  
+  
+source repo at: [http://gitlab.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod](http://gitlab.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | Converter_DCDC_Cyntec_MUN12AD03-SH | 
+| footprint description | http://www.cyntec.com/upfile/products/download/Cyntec%20MUN12AD03-SH_Datasheet.pdf | 
+| number of pads | 19 | 
+| github path | http://github.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Converter_DCDC.pretty/Converter_DCDC_Cyntec_MUN12AD03-SH.kicad_mod | 
+| oomp key | oomp_kicad_converter_dcdc_converter_dcdc_cyntec_mun12ad03_sh | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_converter_dcdc_converter_dcdc_cyntec_mun12ad03_sh/working | 
+## Images  
+  
+[![working.png](working_140.png)](working.png)  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_140.png)](working_kicad_pcb_3d.png)  
+  
+[![working_kicad_pcb_3d_back.png](working_kicad_pcb_3d_back_140.png)](working_kicad_pcb_3d_back.png)  
+  
+[![working_kicad_pcb_3d_front.png](working_kicad_pcb_3d_front_140.png)](working_kicad_pcb_3d_front.png)  

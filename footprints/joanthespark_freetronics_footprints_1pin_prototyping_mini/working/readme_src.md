@@ -1,29 +1,20 @@
-# KiCAD by JoanTheSpark  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/JoanTheSpark/KiCAD/blob/master/mods/RF.pretty/XMIT.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: module 1 pin (ou trou mecanique de percage)  
-* libraryLink: 1pin_prototyping_mini  
-* number_of_pads: 1  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | KiCAD/mods/freetronics_footprints.pretty/1pin_prototyping_mini.kicad_mod |  
-| footprint | {'description': 'module 1 pin (ou trou mecanique de percage)', 'libraryLink': '1pin_prototyping_mini', 'number_of_pads': 1} |  
-| footprint_library_directory | footprint_library_owner/JoanTheSpark_KiCAD |  
-| footprint_library_directory_flat | footprints_flat/joanthespark_freetronics_footprints_1pin_prototyping_mini/working |  
-| github_path | http://github.com/JoanTheSpark/KiCAD/blob/master/mods/freetronics_footprints.pretty/1pin_prototyping_mini.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/JoanTheSpark/KiCAD/blob/master/mods/RF.pretty/XMIT.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/joanthespark_freetronics_footprints_1pin_prototyping_mini/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/joanthespark_freetronics_footprints_1pin_prototyping_mini/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/joanthespark_freetronics_footprints_1pin_prototyping_mini/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/joanthespark_freetronics_footprints_1pin_prototyping_mini/working'} |  
-| name | KiCAD |  
-| oomp | {'footprint_name': '1pin_prototyping_mini', 'library_name': 'freetronics_footprints', 'md5': '3ae5df3606ba0a17602bcfbdfbc2adb5', 'md5_10': '3ae5df3606', 'md5_5': '3ae5d', 'md5_6': '3ae5df', 'oomp_key': 'oomp_joanthespark_freetronics_footprints_1pin_prototyping_mini', 'oomp_key_extra': 'oomp_footprint_joanthespark_freetronics_footprints_1pin_prototyping_mini', 'oomp_key_full': 'oomp_footprint_joanthespark_freetronics_footprints_1pin_prototyping_mini_3ae5df', 'oomp_key_simple': 'joanthespark_freetronics_footprints_1pin_prototyping_mini', 'original_filename': 'KiCAD/mods/freetronics_footprints.pretty/1pin_prototyping_mini.kicad_mod', 'owner_name': 'joanthespark'} |  
-| oomp_key | oomp_joanthespark_freetronics_footprints_1pin_prototyping_mini |  
-| oomp_key_full | oomp_footprint_joanthespark_freetronics_footprints_1pin_prototyping_mini |  
-| oomp_key_simple | joanthespark_freetronics_footprints_1pin_prototyping_mini |  
-| owner | JoanTheSpark |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/JoanTheSpark/KiCAD |  
-
+# OOMP Footprint  
+## 1pin_prototyping_mini  by none  
+  
+oomp key: oomp_joanthespark_freetronics_footprints_1pin_prototyping_mini  
+  
+source repo at: [http://gitlab.com/JoanTheSpark/KiCAD/blob/master/mods/RF.pretty/XMIT.kicad_mod](http://gitlab.com/JoanTheSpark/KiCAD/blob/master/mods/RF.pretty/XMIT.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | 1pin_prototyping_mini | 
+| footprint description | module 1 pin (ou trou mecanique de percage) | 
+| number of pads | 1 | 
+| github path | http://github.com/JoanTheSpark/KiCAD/blob/master/mods/freetronics_footprints.pretty/1pin_prototyping_mini.kicad_mod | 
+| oomp key | oomp_joanthespark_freetronics_footprints_1pin_prototyping_mini | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/joanthespark_freetronics_footprints_1pin_prototyping_mini/working | 
+## Images  

@@ -1,20 +1,20 @@
-- file: KUT_CommIC.pretty/TWE-Lite.kicad_mod
+- file: data//oomlout_oomp_footprint_src/KUT_CommIC.pretty/TWE-Lite.kicad_mod
   footprint:
     description: null
     libraryLink: Communication:TWE-Lite
     number_of_pads: 33
   footprint_library_directory: footprint_library_owner/KUT-KiCad_KUT_CommIC.pretty
-  footprint_library_directory_flat: footprints_flat/kut_kicad_kut_commic_twe_lite/working
-  github_path: http://github.com/KUT-KiCad/KUT_CommIC.pretty/blob/master/TWE-Lite.kicad_mod
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/kut_kicad_kut_commic_twe_lite/working
+  github_path: http://github.com/KUT-KiCad/KUT_CommIC.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/TWE-Lite.kicad_mod
   links:
     github_owner: KUT-KiCad
     github_repo_name: KUT_CommIC.pretty
-    github_src: http://github.com/KUT-KiCad/KUT_CommIC.pretty/blob/master/TWE-Lite_DIP_28P.kicad_mod
+    github_src: http://github.com/KUT-KiCad/KUT_CommIC.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/TWE-Lite_DIP_28P.kicad_mod
     github_src_repo: https://github.com/KUT-KiCad/KUT_CommIC.pretty
-    oomp_bot: footprints/kut_kicad_kut_commic_twe_lite/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kut_kicad_kut_commic_twe_lite/working
-    oomp_src_flat: footprints_flat/footprints_flat/kut_kicad_kut_commic_twe_lite/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kut_kicad_kut_commic_twe_lite/working
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/kut_kicad_kut_commic_twe_lite/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/kut_kicad_kut_commic_twe_lite/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/kut_kicad_kut_commic_twe_lite/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/kut_kicad_kut_commic_twe_lite/working
   name: KUT_CommIC.pretty
   oomp:
     footprint_name: twe_lite
@@ -27,7 +27,7 @@
     oomp_key_extra: oomp_footprint_kut_kicad_kut_commic_twe_lite
     oomp_key_full: oomp_footprint_kut_kicad_kut_commic_twe_lite_d3c243
     oomp_key_simple: kut_kicad_kut_commic_twe_lite
-    original_filename: KUT_CommIC.pretty/TWE-Lite.kicad_mod
+    original_filename: data//oomlout_oomp_footprint_src/KUT_CommIC.pretty/TWE-Lite.kicad_mod
     owner_name: kut_kicad
   oomp_key: oomp_kut_kicad_kut_commic_twe_lite
   oomp_key_full: oomp_footprint_kut_kicad_kut_commic_twe_lite

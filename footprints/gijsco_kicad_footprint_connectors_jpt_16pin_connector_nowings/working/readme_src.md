@@ -1,29 +1,20 @@
-# Kicad_Footprint_Connectors.pretty by Gijsco  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/Gijsco/Kicad_Footprint_Connectors.pretty/blob/master/SMA_EDGE.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: None  
-* libraryLink: JPT_16pin_Connector_NoWings  
-* number_of_pads: 26  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | Kicad_Footprint_Connectors.pretty/JPT_16pin_Connector_NoWings.kicad_mod |  
-| footprint | {'description': None, 'libraryLink': 'JPT_16pin_Connector_NoWings', 'number_of_pads': 26} |  
-| footprint_library_directory | footprint_library_owner/Gijsco_Kicad_Footprint_Connectors.pretty |  
-| footprint_library_directory_flat | footprints_flat/gijsco_kicad_footprint_connectors_jpt_16pin_connector_nowings/working |  
-| github_path | http://github.com/Gijsco/Kicad_Footprint_Connectors.pretty/blob/master/JPT_16pin_Connector_NoWings.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/Gijsco/Kicad_Footprint_Connectors.pretty/blob/master/SMA_EDGE.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/gijsco_kicad_footprint_connectors_jpt_16pin_connector_nowings/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/gijsco_kicad_footprint_connectors_jpt_16pin_connector_nowings/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/gijsco_kicad_footprint_connectors_jpt_16pin_connector_nowings/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/gijsco_kicad_footprint_connectors_jpt_16pin_connector_nowings/working'} |  
-| name | Kicad_Footprint_Connectors.pretty |  
-| oomp | {'footprint_name': 'jpt_16pin_connector_nowings', 'library_name': 'kicad_footprint_connectors', 'md5': '932e25ea09479912b1debc09fb357f76', 'md5_10': '932e25ea09', 'md5_5': '932e2', 'md5_6': '932e25', 'oomp_key': 'oomp_gijsco_kicad_footprint_connectors_jpt_16pin_connector_nowings', 'oomp_key_extra': 'oomp_footprint_gijsco_kicad_footprint_connectors_jpt_16pin_connector_nowings', 'oomp_key_full': 'oomp_footprint_gijsco_kicad_footprint_connectors_jpt_16pin_connector_nowings_932e25', 'oomp_key_simple': 'gijsco_kicad_footprint_connectors_jpt_16pin_connector_nowings', 'original_filename': 'Kicad_Footprint_Connectors.pretty/JPT_16pin_Connector_NoWings.kicad_mod', 'owner_name': 'gijsco'} |  
-| oomp_key | oomp_gijsco_kicad_footprint_connectors_jpt_16pin_connector_nowings |  
-| oomp_key_full | oomp_footprint_gijsco_kicad_footprint_connectors_jpt_16pin_connector_nowings |  
-| oomp_key_simple | gijsco_kicad_footprint_connectors_jpt_16pin_connector_nowings |  
-| owner | Gijsco |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/Gijsco/Kicad_Footprint_Connectors.pretty |  
-
+# OOMP Footprint  
+## JPT_16pin_Connector_NoWings  by none  
+  
+oomp key: oomp_gijsco_kicad_footprint_connectors_jpt_16pin_connector_nowings  
+  
+source repo at: [http://gitlab.com/Gijsco/Kicad_Footprint_Connectors.pretty/blob/master/SMA_EDGE.kicad_mod](http://gitlab.com/Gijsco/Kicad_Footprint_Connectors.pretty/blob/master/SMA_EDGE.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | JPT_16pin_Connector_NoWings | 
+| footprint description | None | 
+| number of pads | 26 | 
+| github path | http://github.com/Gijsco/Kicad_Footprint_Connectors.pretty/blob/master/JPT_16pin_Connector_NoWings.kicad_mod | 
+| oomp key | oomp_gijsco_kicad_footprint_connectors_jpt_16pin_connector_nowings | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/gijsco_kicad_footprint_connectors_jpt_16pin_connector_nowings/working | 
+## Images  

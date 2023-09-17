@@ -1,20 +1,20 @@
-- file: apex-fuses.pretty/PTC_FUSE.kicad_mod
+- file: data//oomlout_oomp_footprint_src/apex-fuses.pretty/PTC_FUSE.kicad_mod
   footprint:
     description: null
     libraryLink: PTC_FUSE
     number_of_pads: 2
   footprint_library_directory: footprint_library_owner/apexelectrix_apex-fuses.pretty
-  footprint_library_directory_flat: footprints_flat/apexelectrix_apex_fuses_ptc_fuse/working
-  github_path: http://github.com/apexelectrix/apex-fuses.pretty/blob/master/PTC_FUSE.kicad_mod
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/apexelectrix_apex_fuses_ptc_fuse/working
+  github_path: http://github.com/apexelectrix/apex-fuses.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/PTC_FUSE.kicad_mod
   links:
     github_owner: apexelectrix
     github_repo_name: apex-fuses.pretty
-    github_src: http://github.com/apexelectrix/apex-fuses.pretty/blob/master/PTC_FUSE.kicad_mod
+    github_src: http://github.com/apexelectrix/apex-fuses.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/PTC_FUSE.kicad_mod
     github_src_repo: https://github.com/apexelectrix/apex-fuses.pretty
-    oomp_bot: footprints/apexelectrix_apex_fuses_ptc_fuse/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/apexelectrix_apex_fuses_ptc_fuse/working
-    oomp_src_flat: footprints_flat/footprints_flat/apexelectrix_apex_fuses_ptc_fuse/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/apexelectrix_apex_fuses_ptc_fuse/working
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/apexelectrix_apex_fuses_ptc_fuse/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/apexelectrix_apex_fuses_ptc_fuse/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/apexelectrix_apex_fuses_ptc_fuse/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/apexelectrix_apex_fuses_ptc_fuse/working
   name: apex-fuses.pretty
   oomp:
     footprint_name: ptc_fuse
@@ -27,7 +27,7 @@
     oomp_key_extra: oomp_footprint_apexelectrix_apex_fuses_ptc_fuse
     oomp_key_full: oomp_footprint_apexelectrix_apex_fuses_ptc_fuse_ff8335
     oomp_key_simple: apexelectrix_apex_fuses_ptc_fuse
-    original_filename: apex-fuses.pretty/PTC_FUSE.kicad_mod
+    original_filename: data//oomlout_oomp_footprint_src/apex-fuses.pretty/PTC_FUSE.kicad_mod
     owner_name: apexelectrix
   oomp_key: oomp_apexelectrix_apex_fuses_ptc_fuse
   oomp_key_full: oomp_footprint_apexelectrix_apex_fuses_ptc_fuse

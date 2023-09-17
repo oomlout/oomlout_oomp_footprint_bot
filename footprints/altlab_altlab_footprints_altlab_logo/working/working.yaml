@@ -1,20 +1,20 @@
-- file: altlab-footprints.pretty/ALTLAB_LOGO.kicad_mod
+- file: data//oomlout_oomp_footprint_src/altlab-footprints.pretty/ALTLAB_LOGO.kicad_mod
   footprint:
     description: null
     libraryLink: ALTLAB_LOGO
     number_of_pads: 0
   footprint_library_directory: footprint_library_owner/altLab_altlab-footprints.pretty
-  footprint_library_directory_flat: footprints_flat/altlab_altlab_footprints_altlab_logo/working
-  github_path: http://github.com/altLab/altlab-footprints.pretty/blob/master/ALTLAB_LOGO.kicad_mod
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/altlab_altlab_footprints_altlab_logo/working
+  github_path: http://github.com/altLab/altlab-footprints.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/ALTLAB_LOGO.kicad_mod
   links:
     github_owner: altLab
     github_repo_name: altlab-footprints.pretty
-    github_src: http://github.com/altLab/altlab-footprints.pretty/blob/master/ALTLAB_LOGO.kicad_mod
+    github_src: http://github.com/altLab/altlab-footprints.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/ALTLAB_LOGO.kicad_mod
     github_src_repo: https://github.com/altLab/altlab-footprints.pretty
-    oomp_bot: footprints/altlab_altlab_footprints_altlab_logo/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/altlab_altlab_footprints_altlab_logo/working
-    oomp_src_flat: footprints_flat/footprints_flat/altlab_altlab_footprints_altlab_logo/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/altlab_altlab_footprints_altlab_logo/working
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/altlab_altlab_footprints_altlab_logo/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/altlab_altlab_footprints_altlab_logo/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/altlab_altlab_footprints_altlab_logo/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/altlab_altlab_footprints_altlab_logo/working
   name: altlab-footprints.pretty
   oomp:
     footprint_name: altlab_logo
@@ -27,7 +27,7 @@
     oomp_key_extra: oomp_footprint_altlab_altlab_footprints_altlab_logo
     oomp_key_full: oomp_footprint_altlab_altlab_footprints_altlab_logo_f92d6d
     oomp_key_simple: altlab_altlab_footprints_altlab_logo
-    original_filename: altlab-footprints.pretty/ALTLAB_LOGO.kicad_mod
+    original_filename: data//oomlout_oomp_footprint_src/altlab-footprints.pretty/ALTLAB_LOGO.kicad_mod
     owner_name: altlab
   oomp_key: oomp_altlab_altlab_footprints_altlab_logo
   oomp_key_full: oomp_footprint_altlab_altlab_footprints_altlab_logo

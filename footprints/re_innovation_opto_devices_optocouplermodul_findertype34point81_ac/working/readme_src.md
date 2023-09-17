@@ -1,29 +1,20 @@
-# kicad_reinnovation by re-innovation  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/re-innovation/kicad_reinnovation/blob/master/KiCAD PRETTY/Transistors_SMD.pretty/VLM0806_Housing_Handsoldering.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: Optocoupler, Single Row, Einreihig, Standing, stehend, Finder Type34.81, AC, Wechselstrom Ausgang, RevA, Date 25Jun2010  
-* libraryLink: OptocouplerModul_FinderType34Point81-AC  
-* number_of_pads: 4  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | kicad_reinnovation/KiCAD PRETTY/Opto-Devices.pretty/OptocouplerModul_FinderType34Point81-AC.kicad_mod |  
-| footprint | {'description': 'Optocoupler, Single Row, Einreihig, Standing, stehend, Finder Type34.81, AC, Wechselstrom Ausgang, RevA, Date 25Jun2010', 'libraryLink': 'OptocouplerModul_FinderType34Point81-AC', 'number_of_pads': 4} |  
-| footprint_library_directory | footprint_library_owner/re-innovation_kicad_reinnovation |  
-| footprint_library_directory_flat | footprints_flat/re_innovation_opto_devices_optocouplermodul_findertype34point81_ac/working |  
-| github_path | http://github.com/re-innovation/kicad_reinnovation/blob/master/KiCAD PRETTY/Opto-Devices.pretty/OptocouplerModul_FinderType34Point81-AC.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/re-innovation/kicad_reinnovation/blob/master/KiCAD PRETTY/Transistors_SMD.pretty/VLM0806_Housing_Handsoldering.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/re_innovation_opto_devices_optocouplermodul_findertype34point81_ac/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/re_innovation_opto_devices_optocouplermodul_findertype34point81_ac/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/re_innovation_opto_devices_optocouplermodul_findertype34point81_ac/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/re_innovation_opto_devices_optocouplermodul_findertype34point81_ac/working'} |  
-| name | kicad_reinnovation |  
-| oomp | {'footprint_name': 'optocouplermodul_findertype34point81_ac', 'library_name': 'opto_devices', 'md5': 'e31bae6adf86d4efa3b376e5d326dc92', 'md5_10': 'e31bae6adf', 'md5_5': 'e31ba', 'md5_6': 'e31bae', 'oomp_key': 'oomp_re_innovation_opto_devices_optocouplermodul_findertype34point81_ac', 'oomp_key_extra': 'oomp_footprint_re_innovation_opto_devices_optocouplermodul_findertype34point81_ac', 'oomp_key_full': 'oomp_footprint_re_innovation_opto_devices_optocouplermodul_findertype34point81_ac_e31bae', 'oomp_key_simple': 're_innovation_opto_devices_optocouplermodul_findertype34point81_ac', 'original_filename': 'kicad_reinnovation/KiCAD PRETTY/Opto-Devices.pretty/OptocouplerModul_FinderType34Point81-AC.kicad_mod', 'owner_name': 're_innovation'} |  
-| oomp_key | oomp_re_innovation_opto_devices_optocouplermodul_findertype34point81_ac |  
-| oomp_key_full | oomp_footprint_re_innovation_opto_devices_optocouplermodul_findertype34point81_ac |  
-| oomp_key_simple | re_innovation_opto_devices_optocouplermodul_findertype34point81_ac |  
-| owner | re-innovation |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/re-innovation/kicad_reinnovation |  
-
+# OOMP Footprint  
+## OptocouplerModul_FinderType34Point81-AC  by none  
+  
+oomp key: oomp_re_innovation_opto_devices_optocouplermodul_findertype34point81_ac  
+  
+source repo at: [http://gitlab.com/re-innovation/kicad_reinnovation/blob/master/KiCAD PRETTY/Transistors_SMD.pretty/VLM0806_Housing_Handsoldering.kicad_mod](http://gitlab.com/re-innovation/kicad_reinnovation/blob/master/KiCAD PRETTY/Transistors_SMD.pretty/VLM0806_Housing_Handsoldering.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | OptocouplerModul_FinderType34Point81-AC | 
+| footprint description | Optocoupler, Single Row, Einreihig, Standing, stehend, Finder Type34.81, AC, Wechselstrom Ausgang, RevA, Date 25Jun2010 | 
+| number of pads | 4 | 
+| github path | http://github.com/re-innovation/kicad_reinnovation/blob/master/KiCAD PRETTY/Opto-Devices.pretty/OptocouplerModul_FinderType34Point81-AC.kicad_mod | 
+| oomp key | oomp_re_innovation_opto_devices_optocouplermodul_findertype34point81_ac | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/re_innovation_opto_devices_optocouplermodul_findertype34point81_ac/working | 
+## Images  

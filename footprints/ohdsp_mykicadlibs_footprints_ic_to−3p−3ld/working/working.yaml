@@ -1,22 +1,24 @@
-- file: "KiCad-Libs/MyKiCadLibs-Footprints.pretty/IC-TO\u22123P\u22123LD.kicad_mod"
+- file: "data//oomlout_oomp_footprint_src/KiCad-Libs/MyKiCadLibs-Footprints.pretty/IC-TO\u2212\
+    3P\u22123LD.kicad_mod"
   footprint:
     description: null
     libraryLink: "IC-TO\xE2\u02C6\u20193P\xE2\u02C6\u20193LD"
     number_of_pads: 3
   footprint_library_directory: footprint_library_owner/ohdsp_KiCad-Libs
-  footprint_library_directory_flat: "footprints_flat/ohdsp_mykicadlibs_footprints_ic_to\u2212\
+  footprint_library_directory_flat: "tmp/data//oomlout_oomp_footprint_src/footprints_flat/ohdsp_mykicadlibs_footprints_ic_to\u2212\
     3p\u22123ld/working"
-  github_path: "http://github.com/ohdsp/KiCad-Libs/blob/master/MyKiCadLibs-Footprints.pretty/IC-TO\u2212\
+  github_path: "http://github.com/ohdsp/KiCad-Libs/blob/master/tmp/data//oomlout_oomp_footprint_src/MyKiCadLibs-Footprints.pretty/IC-TO\u2212\
     3P\u22123LD.kicad_mod"
   links:
-    github_src: http://gitlab.com/ohdsp/KiCad-Libs/blob/master/MyKiCadLibs-Footprints.pretty/XTAL_HC49_TH.kicad_mod
+    github_src: http://gitlab.com/ohdsp/KiCad-Libs/blob/master/tmp/data//oomlout_oomp_footprint_src/MyKiCadLibs-Footprints.pretty/XTAL_HC49_TH.kicad_mod
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
-    oomp_bot: "footprints/ohdsp_mykicadlibs_footprints_ic_to\u22123p\u22123ld/working"
-    oomp_bot_github: "https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ohdsp_mykicadlibs_footprints_ic_to\u2212\
+    oomp_bot: "tmp/data//oomlout_oomp_footprint_src/footprints/ohdsp_mykicadlibs_footprints_ic_to\u2212\
       3p\u22123ld/working"
-    oomp_src_flat: "footprints_flat/footprints_flat/ohdsp_mykicadlibs_footprints_ic_to\u2212\
+    oomp_bot_github: "https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/ohdsp_mykicadlibs_footprints_ic_to\u2212\
       3p\u22123ld/working"
-    oomp_src_flat_github: "https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ohdsp_mykicadlibs_footprints_ic_to\u2212\
+    oomp_src_flat: "footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/ohdsp_mykicadlibs_footprints_ic_to\u2212\
+      3p\u22123ld/working"
+    oomp_src_flat_github: "https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/ohdsp_mykicadlibs_footprints_ic_to\u2212\
       3p\u22123ld/working"
   name: KiCad-Libs
   oomp:
@@ -32,8 +34,8 @@
     oomp_key_full: "oomp_footprint_ohdsp_mykicadlibs_footprints_ic_to\u22123p\u2212\
       3ld_bb6d69"
     oomp_key_simple: "ohdsp_mykicadlibs_footprints_ic_to\u22123p\u22123ld"
-    original_filename: "KiCad-Libs/MyKiCadLibs-Footprints.pretty/IC-TO\u22123P\u2212\
-      3LD.kicad_mod"
+    original_filename: "data//oomlout_oomp_footprint_src/KiCad-Libs/MyKiCadLibs-Footprints.pretty/IC-TO\u2212\
+      3P\u22123LD.kicad_mod"
     owner_name: ohdsp
   oomp_key: "oomp_ohdsp_mykicadlibs_footprints_ic_to\u22123p\u22123ld"
   oomp_key_full: "oomp_footprint_ohdsp_mykicadlibs_footprints_ic_to\u22123p\u2212\
@@ -42,7 +44,7 @@
   owner: ohdsp
   repo:
     documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
-    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+    message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
       Authenticated requests get a higher rate limit. Check out the documentation
       for more details.)'
   url: http://github.com/ohdsp/KiCad-Libs

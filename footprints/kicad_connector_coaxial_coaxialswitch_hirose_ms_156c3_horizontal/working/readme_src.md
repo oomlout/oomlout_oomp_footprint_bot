@@ -1,29 +1,28 @@
-# libraries/kicad-footprints/ by kicad  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: Subminiature Coaxial Switch 1.35mm High, DC to 11GHz  
-* libraryLink: CoaxialSwitch_Hirose_MS-156C3_Horizontal  
-* number_of_pads: 12  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | libraries/kicad-footprints/Connector_Coaxial.pretty/CoaxialSwitch_Hirose_MS-156C3_Horizontal.kicad_mod |  
-| footprint | {'description': 'Subminiature Coaxial Switch 1.35mm High, DC to 11GHz', 'libraryLink': 'CoaxialSwitch_Hirose_MS-156C3_Horizontal', 'number_of_pads': 12} |  
-| footprint_library_directory | footprint_library_owner/kicad_libraries/kicad-footprints/ |  
-| footprint_library_directory_flat | footprints_flat/kicad_connector_coaxial_coaxialswitch_hirose_ms_156c3_horizontal/working |  
-| github_path | http://github.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Connector_Coaxial.pretty/CoaxialSwitch_Hirose_MS-156C3_Horizontal.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/kicad_connector_coaxial_coaxialswitch_hirose_ms_156c3_horizontal/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_connector_coaxial_coaxialswitch_hirose_ms_156c3_horizontal/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/kicad_connector_coaxial_coaxialswitch_hirose_ms_156c3_horizontal/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_connector_coaxial_coaxialswitch_hirose_ms_156c3_horizontal/working'} |  
-| name | libraries/kicad-footprints/ |  
-| oomp | {'footprint_name': 'coaxialswitch_hirose_ms_156c3_horizontal', 'library_name': 'connector_coaxial', 'md5': '75208713ba14b5a142c9f8490cd0f0f3', 'md5_10': '75208713ba', 'md5_5': '75208', 'md5_6': '752087', 'oomp_key': 'oomp_kicad_connector_coaxial_coaxialswitch_hirose_ms_156c3_horizontal', 'oomp_key_extra': 'oomp_footprint_kicad_connector_coaxial_coaxialswitch_hirose_ms_156c3_horizontal', 'oomp_key_full': 'oomp_footprint_kicad_connector_coaxial_coaxialswitch_hirose_ms_156c3_horizontal_752087', 'oomp_key_simple': 'kicad_connector_coaxial_coaxialswitch_hirose_ms_156c3_horizontal', 'original_filename': 'libraries/kicad-footprints/Connector_Coaxial.pretty/CoaxialSwitch_Hirose_MS-156C3_Horizontal.kicad_mod', 'owner_name': 'kicad'} |  
-| oomp_key | oomp_kicad_connector_coaxial_coaxialswitch_hirose_ms_156c3_horizontal |  
-| oomp_key_full | oomp_footprint_kicad_connector_coaxial_coaxialswitch_hirose_ms_156c3_horizontal |  
-| oomp_key_simple | kicad_connector_coaxial_coaxialswitch_hirose_ms_156c3_horizontal |  
-| owner | kicad |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | https://gitlab.com/kicad/libraries/kicad-footprints |  
-
+# OOMP Footprint  
+## CoaxialSwitch_Hirose_MS-156C3_Horizontal  by none  
+  
+oomp key: oomp_kicad_connector_coaxial_coaxialswitch_hirose_ms_156c3_horizontal  
+  
+source repo at: [http://gitlab.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod](http://gitlab.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | CoaxialSwitch_Hirose_MS-156C3_Horizontal | 
+| footprint description | Subminiature Coaxial Switch 1.35mm High, DC to 11GHz | 
+| number of pads | 12 | 
+| github path | http://github.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Connector_Coaxial.pretty/CoaxialSwitch_Hirose_MS-156C3_Horizontal.kicad_mod | 
+| oomp key | oomp_kicad_connector_coaxial_coaxialswitch_hirose_ms_156c3_horizontal | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_connector_coaxial_coaxialswitch_hirose_ms_156c3_horizontal/working | 
+## Images  
+  
+[![working.png](working_140.png)](working.png)  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_140.png)](working_kicad_pcb_3d.png)  
+  
+[![working_kicad_pcb_3d_back.png](working_kicad_pcb_3d_back_140.png)](working_kicad_pcb_3d_back.png)  
+  
+[![working_kicad_pcb_3d_front.png](working_kicad_pcb_3d_front_140.png)](working_kicad_pcb_3d_front.png)  

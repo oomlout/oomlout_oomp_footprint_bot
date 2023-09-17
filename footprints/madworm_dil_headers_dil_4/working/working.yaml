@@ -1,20 +1,20 @@
-- file: DIL-Headers.pretty/DIL-4.kicad_mod
+- file: data//oomlout_oomp_footprint_src/DIL-Headers.pretty/DIL-4.kicad_mod
   footprint:
     description: Male 4x2 header with 2.54mm raster
     libraryLink: DIL-4
     number_of_pads: 8
   footprint_library_directory: footprint_library_owner/madworm_DIL-Headers.pretty
-  footprint_library_directory_flat: footprints_flat/madworm_dil_headers_dil_4/working
-  github_path: http://github.com/madworm/DIL-Headers.pretty/blob/master/DIL-4.kicad_mod
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/madworm_dil_headers_dil_4/working
+  github_path: http://github.com/madworm/DIL-Headers.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/DIL-4.kicad_mod
   links:
     github_owner: madworm
     github_repo_name: DIL-Headers.pretty
-    github_src: http://github.com/madworm/DIL-Headers.pretty/blob/master/DIL-5.kicad_mod
+    github_src: http://github.com/madworm/DIL-Headers.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/DIL-5.kicad_mod
     github_src_repo: https://github.com/madworm/DIL-Headers.pretty
-    oomp_bot: footprints/madworm_dil_headers_dil_4/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/madworm_dil_headers_dil_4/working
-    oomp_src_flat: footprints_flat/footprints_flat/madworm_dil_headers_dil_4/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/madworm_dil_headers_dil_4/working
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/madworm_dil_headers_dil_4/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/madworm_dil_headers_dil_4/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/madworm_dil_headers_dil_4/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/madworm_dil_headers_dil_4/working
   name: DIL-Headers.pretty
   oomp:
     footprint_name: dil_4
@@ -27,7 +27,7 @@
     oomp_key_extra: oomp_footprint_madworm_dil_headers_dil_4
     oomp_key_full: oomp_footprint_madworm_dil_headers_dil_4_0df2c9
     oomp_key_simple: madworm_dil_headers_dil_4
-    original_filename: DIL-Headers.pretty/DIL-4.kicad_mod
+    original_filename: data//oomlout_oomp_footprint_src/DIL-Headers.pretty/DIL-4.kicad_mod
     owner_name: madworm
   oomp_key: oomp_madworm_dil_headers_dil_4
   oomp_key_full: oomp_footprint_madworm_dil_headers_dil_4

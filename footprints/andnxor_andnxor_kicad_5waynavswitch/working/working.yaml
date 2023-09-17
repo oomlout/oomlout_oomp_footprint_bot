@@ -1,20 +1,20 @@
-- file: ANDnXOR-Kicad.pretty/5WayNavSwitch.kicad_mod
+- file: data//oomlout_oomp_footprint_src/ANDnXOR-Kicad.pretty/5WayNavSwitch.kicad_mod
   footprint:
     description: null
     libraryLink: 5WayNavSwitch
     number_of_pads: 10
   footprint_library_directory: footprint_library_owner/ANDnXOR_ANDnXOR-Kicad.pretty
-  footprint_library_directory_flat: footprints_flat/andnxor_andnxor_kicad_5waynavswitch/working
-  github_path: http://github.com/ANDnXOR/ANDnXOR-Kicad.pretty/blob/master/5WayNavSwitch.kicad_mod
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/andnxor_andnxor_kicad_5waynavswitch/working
+  github_path: http://github.com/ANDnXOR/ANDnXOR-Kicad.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/5WayNavSwitch.kicad_mod
   links:
     github_owner: ANDnXOR
     github_repo_name: ANDnXOR-Kicad.pretty
-    github_src: http://github.com/ANDnXOR/ANDnXOR-Kicad.pretty/blob/master/WS2812B.kicad_mod
+    github_src: http://github.com/ANDnXOR/ANDnXOR-Kicad.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/WS2812B.kicad_mod
     github_src_repo: https://github.com/ANDnXOR/ANDnXOR-Kicad.pretty
-    oomp_bot: footprints/andnxor_andnxor_kicad_5waynavswitch/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/andnxor_andnxor_kicad_5waynavswitch/working
-    oomp_src_flat: footprints_flat/footprints_flat/andnxor_andnxor_kicad_5waynavswitch/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/andnxor_andnxor_kicad_5waynavswitch/working
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/andnxor_andnxor_kicad_5waynavswitch/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/andnxor_andnxor_kicad_5waynavswitch/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/andnxor_andnxor_kicad_5waynavswitch/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/andnxor_andnxor_kicad_5waynavswitch/working
   name: ANDnXOR-Kicad.pretty
   oomp:
     footprint_name: 5waynavswitch
@@ -27,7 +27,7 @@
     oomp_key_extra: oomp_footprint_andnxor_andnxor_kicad_5waynavswitch
     oomp_key_full: oomp_footprint_andnxor_andnxor_kicad_5waynavswitch_7b679c
     oomp_key_simple: andnxor_andnxor_kicad_5waynavswitch
-    original_filename: ANDnXOR-Kicad.pretty/5WayNavSwitch.kicad_mod
+    original_filename: data//oomlout_oomp_footprint_src/ANDnXOR-Kicad.pretty/5WayNavSwitch.kicad_mod
     owner_name: andnxor
   oomp_key: oomp_andnxor_andnxor_kicad_5waynavswitch
   oomp_key_full: oomp_footprint_andnxor_andnxor_kicad_5waynavswitch
@@ -116,7 +116,7 @@
     releases_url: https://api.github.com/repos/ANDnXOR/ANDnXOR-Kicad.pretty/releases{/id}
     size: 19
     ssh_url: git@github.com:ANDnXOR/ANDnXOR-Kicad.pretty.git
-    stargazers_count: 2
+    stargazers_count: 3
     stargazers_url: https://api.github.com/repos/ANDnXOR/ANDnXOR-Kicad.pretty/stargazers
     statuses_url: https://api.github.com/repos/ANDnXOR/ANDnXOR-Kicad.pretty/statuses/{sha}
     subscribers_count: 2
@@ -128,10 +128,10 @@
     temp_clone_token: null
     topics: []
     trees_url: https://api.github.com/repos/ANDnXOR/ANDnXOR-Kicad.pretty/git/trees{/sha}
-    updated_at: '2018-08-17T02:47:50Z'
+    updated_at: '2023-09-14T12:36:41Z'
     url: https://api.github.com/repos/ANDnXOR/ANDnXOR-Kicad.pretty
     visibility: public
-    watchers: 2
-    watchers_count: 2
+    watchers: 3
+    watchers_count: 3
     web_commit_signoff_required: false
   url: http://github.com/ANDnXOR/ANDnXOR-Kicad.pretty

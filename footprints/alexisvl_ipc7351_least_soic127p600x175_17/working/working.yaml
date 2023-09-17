@@ -1,21 +1,21 @@
-- file: kicad-pcblib/IPC7351-Least.pretty/SOIC127P600X175-17.kicad_mod
+- file: data//oomlout_oomp_footprint_src/kicad-pcblib/IPC7351-Least.pretty/SOIC127P600X175-17.kicad_mod
   footprint:
     description: SOIC,1.27mm pitch;16 pin,4.00mm W X 10.00mm L X 1.75mm H body (w/thermal
       tab)
     libraryLink: SOIC127P600X175-17
     number_of_pads: 17
   footprint_library_directory: footprint_library_owner/cpavlina_kicad-pcblib
-  footprint_library_directory_flat: footprints_flat/alexisvl_ipc7351_least_soic127p600x175_17/working
-  github_path: http://github.com/cpavlina/kicad-pcblib/blob/master/IPC7351-Least.pretty/SOIC127P600X175-17.kicad_mod
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/alexisvl_ipc7351_least_soic127p600x175_17/working
+  github_path: http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data//oomlout_oomp_footprint_src/IPC7351-Least.pretty/SOIC127P600X175-17.kicad_mod
   links:
     github_owner: alexisvl
     github_repo_name: kicad-pcblib
-    github_src: http://github.com/cpavlina/kicad-pcblib/blob/master/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod
+    github_src: http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data//oomlout_oomp_footprint_src/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod
     github_src_repo: https://github.com/alexisvl/kicad-pcblib
-    oomp_bot: footprints/alexisvl_ipc7351_least_soic127p600x175_17/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/alexisvl_ipc7351_least_soic127p600x175_17/working
-    oomp_src_flat: footprints_flat/footprints_flat/alexisvl_ipc7351_least_soic127p600x175_17/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/alexisvl_ipc7351_least_soic127p600x175_17/working
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/alexisvl_ipc7351_least_soic127p600x175_17/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/alexisvl_ipc7351_least_soic127p600x175_17/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/alexisvl_ipc7351_least_soic127p600x175_17/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/alexisvl_ipc7351_least_soic127p600x175_17/working
   name: kicad-pcblib
   oomp:
     footprint_name: soic127p600x175_17
@@ -28,7 +28,7 @@
     oomp_key_extra: oomp_footprint_alexisvl_ipc7351_least_soic127p600x175_17
     oomp_key_full: oomp_footprint_alexisvl_ipc7351_least_soic127p600x175_17_160bc8
     oomp_key_simple: alexisvl_ipc7351_least_soic127p600x175_17
-    original_filename: kicad-pcblib/IPC7351-Least.pretty/SOIC127P600X175-17.kicad_mod
+    original_filename: data//oomlout_oomp_footprint_src/kicad-pcblib/IPC7351-Least.pretty/SOIC127P600X175-17.kicad_mod
     owner_name: alexisvl
   oomp_key: oomp_alexisvl_ipc7351_least_soic127p600x175_17
   oomp_key_full: oomp_footprint_alexisvl_ipc7351_least_soic127p600x175_17
@@ -122,7 +122,7 @@
     releases_url: https://api.github.com/repos/alexisvl/kicad-pcblib/releases{/id}
     size: 11365
     ssh_url: git@github.com:alexisvl/kicad-pcblib.git
-    stargazers_count: 66
+    stargazers_count: 67
     stargazers_url: https://api.github.com/repos/alexisvl/kicad-pcblib/stargazers
     statuses_url: https://api.github.com/repos/alexisvl/kicad-pcblib/statuses/{sha}
     subscribers_count: 17
@@ -134,10 +134,10 @@
     temp_clone_token: null
     topics: []
     trees_url: https://api.github.com/repos/alexisvl/kicad-pcblib/git/trees{/sha}
-    updated_at: '2023-06-02T15:03:36Z'
+    updated_at: '2023-08-17T07:50:03Z'
     url: https://api.github.com/repos/alexisvl/kicad-pcblib
     visibility: public
-    watchers: 66
-    watchers_count: 66
+    watchers: 67
+    watchers_count: 67
     web_commit_signoff_required: false
   url: http://github.com/cpavlina/kicad-pcblib

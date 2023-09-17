@@ -1,29 +1,20 @@
-# stdpads.pretty by garrettsworkshop  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/garrettsworkshop/stdpads.pretty/blob/master/ZipHole_3.048mm_NPTH.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: barrel jack connector (5.5mm outher diameter, inner diameter 2.05mm or 2.55mm depending on exact order number), See: http://katalog.we-online.de/em/datasheet/6941xx301002.pdf  
-* libraryLink: BOOMELE_DC-005_DC_5.5-2.0MM  
-* number_of_pads: 3  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | stdpads.pretty/BOOMELE_DC-005_DC_5.5-2.0MM.kicad_mod |  
-| footprint | {'description': 'barrel jack connector (5.5mm outher diameter, inner diameter 2.05mm or 2.55mm depending on exact order number), See: http://katalog.we-online.de/em/datasheet/6941xx301002.pdf', 'libraryLink': 'BOOMELE_DC-005_DC_5.5-2.0MM', 'number_of_pads': 3} |  
-| footprint_library_directory | footprint_library_owner/garrettsworkshop_stdpads.pretty |  
-| footprint_library_directory_flat | footprints_flat/garrettsworkshop_stdpads_boomele_dc_005_dc_5_5_2_0mm/working |  
-| github_path | http://github.com/garrettsworkshop/stdpads.pretty/blob/master/BOOMELE_DC-005_DC_5.5-2.0MM.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/garrettsworkshop/stdpads.pretty/blob/master/ZipHole_3.048mm_NPTH.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/garrettsworkshop_stdpads_boomele_dc_005_dc_5_5_2_0mm/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/garrettsworkshop_stdpads_boomele_dc_005_dc_5_5_2_0mm/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/garrettsworkshop_stdpads_boomele_dc_005_dc_5_5_2_0mm/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/garrettsworkshop_stdpads_boomele_dc_005_dc_5_5_2_0mm/working'} |  
-| name | stdpads.pretty |  
-| oomp | {'footprint_name': 'boomele_dc_005_dc_5_5_2_0mm', 'library_name': 'stdpads', 'md5': '98db82fa033c79e958e58f76f46a6c57', 'md5_10': '98db82fa03', 'md5_5': '98db8', 'md5_6': '98db82', 'oomp_key': 'oomp_garrettsworkshop_stdpads_boomele_dc_005_dc_5_5_2_0mm', 'oomp_key_extra': 'oomp_footprint_garrettsworkshop_stdpads_boomele_dc_005_dc_5_5_2_0mm', 'oomp_key_full': 'oomp_footprint_garrettsworkshop_stdpads_boomele_dc_005_dc_5_5_2_0mm_98db82', 'oomp_key_simple': 'garrettsworkshop_stdpads_boomele_dc_005_dc_5_5_2_0mm', 'original_filename': 'stdpads.pretty/BOOMELE_DC-005_DC_5.5-2.0MM.kicad_mod', 'owner_name': 'garrettsworkshop'} |  
-| oomp_key | oomp_garrettsworkshop_stdpads_boomele_dc_005_dc_5_5_2_0mm |  
-| oomp_key_full | oomp_footprint_garrettsworkshop_stdpads_boomele_dc_005_dc_5_5_2_0mm |  
-| oomp_key_simple | garrettsworkshop_stdpads_boomele_dc_005_dc_5_5_2_0mm |  
-| owner | garrettsworkshop |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/garrettsworkshop/stdpads.pretty |  
-
+# OOMP Footprint  
+## BOOMELE_DC-005_DC_5.5-2.0MM  by none  
+  
+oomp key: oomp_garrettsworkshop_stdpads_boomele_dc_005_dc_5_5_2_0mm  
+  
+source repo at: [http://gitlab.com/garrettsworkshop/stdpads.pretty/blob/master/ZipHole_3.048mm_NPTH.kicad_mod](http://gitlab.com/garrettsworkshop/stdpads.pretty/blob/master/ZipHole_3.048mm_NPTH.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | BOOMELE_DC-005_DC_5.5-2.0MM | 
+| footprint description | barrel jack connector (5.5mm outher diameter, inner diameter 2.05mm or 2.55mm depending on exact order number), See: http://katalog.we-online.de/em/datasheet/6941xx301002.pdf | 
+| number of pads | 3 | 
+| github path | http://github.com/garrettsworkshop/stdpads.pretty/blob/master/BOOMELE_DC-005_DC_5.5-2.0MM.kicad_mod | 
+| oomp key | oomp_garrettsworkshop_stdpads_boomele_dc_005_dc_5_5_2_0mm | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/garrettsworkshop_stdpads_boomele_dc_005_dc_5_5_2_0mm/working | 
+## Images  

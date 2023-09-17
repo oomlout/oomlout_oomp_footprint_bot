@@ -1,18 +1,20 @@
-- file: gtrzps.pretty/SW_PUSH_SPST_5mm_H5mm.kicad_mod
+- file: data//oomlout_oomp_footprint_src/gtrzps.pretty/SW_PUSH_SPST_5mm_H5mm.kicad_mod
   footprint:
     description: tactile push button, 5x5mm, two pins
     libraryLink: SW_PUSH_SPST_5mm_H5mm
     number_of_pads: 2
   footprint_library_directory: footprint_library_owner/gutierrezps_gtrzps.pretty
-  footprint_library_directory_flat: footprints_flat/gutierrezps_gtrzps_sw_push_spst_5mm_h5mm/working
-  github_path: http://github.com/gutierrezps/gtrzps.pretty/blob/master/SW_PUSH_SPST_5mm_H5mm.kicad_mod
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/gutierrezps_gtrzps_sw_push_spst_5mm_h5mm/working
+  github_path: http://github.com/gutierrezps/gtrzps.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/SW_PUSH_SPST_5mm_H5mm.kicad_mod
   links:
-    github_src: http://gitlab.com/gutierrezps/gtrzps.pretty/blob/master/Wemos_D1_Mini.kicad_mod
-    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
-    oomp_bot: footprints/gutierrezps_gtrzps_sw_push_spst_5mm_h5mm/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/gutierrezps_gtrzps_sw_push_spst_5mm_h5mm/working
-    oomp_src_flat: footprints_flat/footprints_flat/gutierrezps_gtrzps_sw_push_spst_5mm_h5mm/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/gutierrezps_gtrzps_sw_push_spst_5mm_h5mm/working
+    github_owner: gutierrezps
+    github_repo_name: gtrzps.pretty
+    github_src: http://github.com/gutierrezps/gtrzps.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Wemos_D1_Mini.kicad_mod
+    github_src_repo: https://github.com/gutierrezps/gtrzps.pretty
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/gutierrezps_gtrzps_sw_push_spst_5mm_h5mm/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/gutierrezps_gtrzps_sw_push_spst_5mm_h5mm/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/gutierrezps_gtrzps_sw_push_spst_5mm_h5mm/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/gutierrezps_gtrzps_sw_push_spst_5mm_h5mm/working
   name: gtrzps.pretty
   oomp:
     footprint_name: sw_push_spst_5mm_h5mm
@@ -25,15 +27,115 @@
     oomp_key_extra: oomp_footprint_gutierrezps_gtrzps_sw_push_spst_5mm_h5mm
     oomp_key_full: oomp_footprint_gutierrezps_gtrzps_sw_push_spst_5mm_h5mm_90571e
     oomp_key_simple: gutierrezps_gtrzps_sw_push_spst_5mm_h5mm
-    original_filename: gtrzps.pretty/SW_PUSH_SPST_5mm_H5mm.kicad_mod
+    original_filename: data//oomlout_oomp_footprint_src/gtrzps.pretty/SW_PUSH_SPST_5mm_H5mm.kicad_mod
     owner_name: gutierrezps
   oomp_key: oomp_gutierrezps_gtrzps_sw_push_spst_5mm_h5mm
   oomp_key_full: oomp_footprint_gutierrezps_gtrzps_sw_push_spst_5mm_h5mm
   oomp_key_simple: gutierrezps_gtrzps_sw_push_spst_5mm_h5mm
   owner: gutierrezps
   repo:
-    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
-    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
-      Authenticated requests get a higher rate limit. Check out the documentation
-      for more details.)'
+    allow_forking: true
+    archive_url: https://api.github.com/repos/gutierrezps/gtrzps.pretty/{archive_format}{/ref}
+    archived: false
+    assignees_url: https://api.github.com/repos/gutierrezps/gtrzps.pretty/assignees{/user}
+    blobs_url: https://api.github.com/repos/gutierrezps/gtrzps.pretty/git/blobs{/sha}
+    branches_url: https://api.github.com/repos/gutierrezps/gtrzps.pretty/branches{/branch}
+    clone_url: https://github.com/gutierrezps/gtrzps.pretty.git
+    collaborators_url: https://api.github.com/repos/gutierrezps/gtrzps.pretty/collaborators{/collaborator}
+    comments_url: https://api.github.com/repos/gutierrezps/gtrzps.pretty/comments{/number}
+    commits_url: https://api.github.com/repos/gutierrezps/gtrzps.pretty/commits{/sha}
+    compare_url: https://api.github.com/repos/gutierrezps/gtrzps.pretty/compare/{base}...{head}
+    contents_url: https://api.github.com/repos/gutierrezps/gtrzps.pretty/contents/{+path}
+    contributors_url: https://api.github.com/repos/gutierrezps/gtrzps.pretty/contributors
+    created_at: '2019-02-12T05:41:19Z'
+    default_branch: master
+    deployments_url: https://api.github.com/repos/gutierrezps/gtrzps.pretty/deployments
+    description: Personal KiCAD footprints library
+    disabled: false
+    downloads_url: https://api.github.com/repos/gutierrezps/gtrzps.pretty/downloads
+    events_url: https://api.github.com/repos/gutierrezps/gtrzps.pretty/events
+    fork: false
+    forks: 1
+    forks_count: 1
+    forks_url: https://api.github.com/repos/gutierrezps/gtrzps.pretty/forks
+    full_name: gutierrezps/gtrzps.pretty
+    git_commits_url: https://api.github.com/repos/gutierrezps/gtrzps.pretty/git/commits{/sha}
+    git_refs_url: https://api.github.com/repos/gutierrezps/gtrzps.pretty/git/refs{/sha}
+    git_tags_url: https://api.github.com/repos/gutierrezps/gtrzps.pretty/git/tags{/sha}
+    git_url: git://github.com/gutierrezps/gtrzps.pretty.git
+    has_discussions: false
+    has_downloads: true
+    has_issues: true
+    has_pages: false
+    has_projects: true
+    has_wiki: true
+    homepage: null
+    hooks_url: https://api.github.com/repos/gutierrezps/gtrzps.pretty/hooks
+    html_url: https://github.com/gutierrezps/gtrzps.pretty
+    id: 170259214
+    is_template: false
+    issue_comment_url: https://api.github.com/repos/gutierrezps/gtrzps.pretty/issues/comments{/number}
+    issue_events_url: https://api.github.com/repos/gutierrezps/gtrzps.pretty/issues/events{/number}
+    issues_url: https://api.github.com/repos/gutierrezps/gtrzps.pretty/issues{/number}
+    keys_url: https://api.github.com/repos/gutierrezps/gtrzps.pretty/keys{/key_id}
+    labels_url: https://api.github.com/repos/gutierrezps/gtrzps.pretty/labels{/name}
+    language: null
+    languages_url: https://api.github.com/repos/gutierrezps/gtrzps.pretty/languages
+    license: null
+    merges_url: https://api.github.com/repos/gutierrezps/gtrzps.pretty/merges
+    milestones_url: https://api.github.com/repos/gutierrezps/gtrzps.pretty/milestones{/number}
+    mirror_url: null
+    name: gtrzps.pretty
+    network_count: 1
+    node_id: MDEwOlJlcG9zaXRvcnkxNzAyNTkyMTQ=
+    notifications_url: https://api.github.com/repos/gutierrezps/gtrzps.pretty/notifications{?since,all,participating}
+    open_issues: 0
+    open_issues_count: 0
+    owner:
+      avatar_url: https://avatars.githubusercontent.com/u/5178460?v=4
+      events_url: https://api.github.com/users/gutierrezps/events{/privacy}
+      followers_url: https://api.github.com/users/gutierrezps/followers
+      following_url: https://api.github.com/users/gutierrezps/following{/other_user}
+      gists_url: https://api.github.com/users/gutierrezps/gists{/gist_id}
+      gravatar_id: ''
+      html_url: https://github.com/gutierrezps
+      id: 5178460
+      login: gutierrezps
+      node_id: MDQ6VXNlcjUxNzg0NjA=
+      organizations_url: https://api.github.com/users/gutierrezps/orgs
+      received_events_url: https://api.github.com/users/gutierrezps/received_events
+      repos_url: https://api.github.com/users/gutierrezps/repos
+      site_admin: false
+      starred_url: https://api.github.com/users/gutierrezps/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/gutierrezps/subscriptions
+      type: User
+      url: https://api.github.com/users/gutierrezps
+    private: false
+    pulls_url: https://api.github.com/repos/gutierrezps/gtrzps.pretty/pulls{/number}
+    pushed_at: '2019-11-27T15:59:28Z'
+    releases_url: https://api.github.com/repos/gutierrezps/gtrzps.pretty/releases{/id}
+    size: 10
+    ssh_url: git@github.com:gutierrezps/gtrzps.pretty.git
+    stargazers_count: 1
+    stargazers_url: https://api.github.com/repos/gutierrezps/gtrzps.pretty/stargazers
+    statuses_url: https://api.github.com/repos/gutierrezps/gtrzps.pretty/statuses/{sha}
+    subscribers_count: 2
+    subscribers_url: https://api.github.com/repos/gutierrezps/gtrzps.pretty/subscribers
+    subscription_url: https://api.github.com/repos/gutierrezps/gtrzps.pretty/subscription
+    svn_url: https://github.com/gutierrezps/gtrzps.pretty
+    tags_url: https://api.github.com/repos/gutierrezps/gtrzps.pretty/tags
+    teams_url: https://api.github.com/repos/gutierrezps/gtrzps.pretty/teams
+    temp_clone_token: null
+    topics:
+    - kicad
+    - kicad-footprints
+    - kicad-library
+    - kicad-pcb
+    trees_url: https://api.github.com/repos/gutierrezps/gtrzps.pretty/git/trees{/sha}
+    updated_at: '2023-09-08T17:50:22Z'
+    url: https://api.github.com/repos/gutierrezps/gtrzps.pretty
+    visibility: public
+    watchers: 1
+    watchers_count: 1
+    web_commit_signoff_required: false
   url: http://github.com/gutierrezps/gtrzps.pretty

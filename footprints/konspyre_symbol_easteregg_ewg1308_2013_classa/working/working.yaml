@@ -1,0 +1,39 @@
+- file: data//oomlout_oomp_footprint_src/kicad-footprints/Symbol.pretty/EasterEgg_EWG1308-2013_ClassA.kicad_mod
+  footprint:
+    description: Egg with 42x60mm Body-Size, ClassA, according to EWG1308/2013
+    libraryLink: EasterEgg_EWG1308-2013_ClassA
+    number_of_pads: 0
+  footprint_library_directory: footprint_library_owner/konspyre_kicad-footprints
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/konspyre_symbol_easteregg_ewg1308_2013_classa/working
+  github_path: http://github.com/konspyre/kicad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/Symbol.pretty/EasterEgg_EWG1308-2013_ClassA.kicad_mod
+  links:
+    github_src: http://gitlab.com/konspyre/kicad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod
+    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/konspyre_symbol_easteregg_ewg1308_2013_classa/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/konspyre_symbol_easteregg_ewg1308_2013_classa/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/konspyre_symbol_easteregg_ewg1308_2013_classa/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/konspyre_symbol_easteregg_ewg1308_2013_classa/working
+  name: kicad-footprints
+  oomp:
+    footprint_name: easteregg_ewg1308_2013_classa
+    library_name: symbol
+    md5: 6554c445b3903fb914a8e9fd65721c80
+    md5_10: 6554c445b3
+    md5_5: 6554c
+    md5_6: 6554c4
+    oomp_key: oomp_konspyre_symbol_easteregg_ewg1308_2013_classa
+    oomp_key_extra: oomp_footprint_konspyre_symbol_easteregg_ewg1308_2013_classa
+    oomp_key_full: oomp_footprint_konspyre_symbol_easteregg_ewg1308_2013_classa_6554c4
+    oomp_key_simple: konspyre_symbol_easteregg_ewg1308_2013_classa
+    original_filename: data//oomlout_oomp_footprint_src/kicad-footprints/Symbol.pretty/EasterEgg_EWG1308-2013_ClassA.kicad_mod
+    owner_name: konspyre
+  oomp_key: oomp_konspyre_symbol_easteregg_ewg1308_2013_classa
+  oomp_key_full: oomp_footprint_konspyre_symbol_easteregg_ewg1308_2013_classa
+  oomp_key_simple: konspyre_symbol_easteregg_ewg1308_2013_classa
+  owner: konspyre
+  repo:
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
+  url: http://github.com/konspyre/kicad-footprints

@@ -1,29 +1,20 @@
-# SMD_Diodes.pretty by ojousima  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/ojousima/SMD_Diodes.pretty/blob/master/SMA_WAVE.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: http://www.osram-os.com/Graphics/XPic8/00078896_0.pdf  
-* libraryLink: LED_0805_WAVE  
-* number_of_pads: 2  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | SMD_Diodes.pretty/LED_0805_REFLOW.kicad_mod |  
-| footprint | {'description': 'http://www.osram-os.com/Graphics/XPic8/00078896_0.pdf', 'libraryLink': 'LED_0805_WAVE', 'number_of_pads': 2} |  
-| footprint_library_directory | footprint_library_owner/ojousima_SMD_Diodes.pretty |  
-| footprint_library_directory_flat | footprints_flat/ojousima_smd_diodes_led_0805_reflow/working |  
-| github_path | http://github.com/ojousima/SMD_Diodes.pretty/blob/master/LED_0805_REFLOW.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/ojousima/SMD_Diodes.pretty/blob/master/SMA_WAVE.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/ojousima_smd_diodes_led_0805_reflow/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ojousima_smd_diodes_led_0805_reflow/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/ojousima_smd_diodes_led_0805_reflow/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ojousima_smd_diodes_led_0805_reflow/working'} |  
-| name | SMD_Diodes.pretty |  
-| oomp | {'footprint_name': 'led_0805_reflow', 'library_name': 'smd_diodes', 'md5': '85ae1ab447b0f94743aaafb337d72dbe', 'md5_10': '85ae1ab447', 'md5_5': '85ae1', 'md5_6': '85ae1a', 'oomp_key': 'oomp_ojousima_smd_diodes_led_0805_reflow', 'oomp_key_extra': 'oomp_footprint_ojousima_smd_diodes_led_0805_reflow', 'oomp_key_full': 'oomp_footprint_ojousima_smd_diodes_led_0805_reflow_85ae1a', 'oomp_key_simple': 'ojousima_smd_diodes_led_0805_reflow', 'original_filename': 'SMD_Diodes.pretty/LED_0805_REFLOW.kicad_mod', 'owner_name': 'ojousima'} |  
-| oomp_key | oomp_ojousima_smd_diodes_led_0805_reflow |  
-| oomp_key_full | oomp_footprint_ojousima_smd_diodes_led_0805_reflow |  
-| oomp_key_simple | ojousima_smd_diodes_led_0805_reflow |  
-| owner | ojousima |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/ojousima/SMD_Diodes.pretty |  
-
+# OOMP Footprint  
+## LED_0805_WAVE  by none  
+  
+oomp key: oomp_ojousima_smd_diodes_led_0805_reflow  
+  
+source repo at: [http://gitlab.com/ojousima/SMD_Diodes.pretty/blob/master/SMA_WAVE.kicad_mod](http://gitlab.com/ojousima/SMD_Diodes.pretty/blob/master/SMA_WAVE.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | LED_0805_WAVE | 
+| footprint description | http://www.osram-os.com/Graphics/XPic8/00078896_0.pdf | 
+| number of pads | 2 | 
+| github path | http://github.com/ojousima/SMD_Diodes.pretty/blob/master/LED_0805_REFLOW.kicad_mod | 
+| oomp key | oomp_ojousima_smd_diodes_led_0805_reflow | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ojousima_smd_diodes_led_0805_reflow/working | 
+## Images  

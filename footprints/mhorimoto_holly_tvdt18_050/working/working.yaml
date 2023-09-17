@@ -1,20 +1,20 @@
-- file: HOLLY.pretty/TVDT18-050.kicad_mod
+- file: data//oomlout_oomp_footprint_src/HOLLY.pretty/TVDT18-050.kicad_mod
   footprint:
     description: PUSH BUTTON SWITCH Akizukidenshi P-08080
     libraryLink: TVDT18-050
     number_of_pads: 2
   footprint_library_directory: footprint_library_owner/mhorimoto_HOLLY.pretty
-  footprint_library_directory_flat: footprints_flat/mhorimoto_holly_tvdt18_050/working
-  github_path: http://github.com/mhorimoto/HOLLY.pretty/blob/master/TVDT18-050.kicad_mod
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/mhorimoto_holly_tvdt18_050/working
+  github_path: http://github.com/mhorimoto/HOLLY.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/TVDT18-050.kicad_mod
   links:
     github_owner: mhorimoto
     github_repo_name: HOLLY.pretty
-    github_src: http://github.com/mhorimoto/HOLLY.pretty/blob/master/TVDT18-050.kicad_mod
+    github_src: http://github.com/mhorimoto/HOLLY.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/TVDT18-050.kicad_mod
     github_src_repo: https://github.com/mhorimoto/HOLLY.pretty
-    oomp_bot: footprints/mhorimoto_holly_tvdt18_050/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/mhorimoto_holly_tvdt18_050/working
-    oomp_src_flat: footprints_flat/footprints_flat/mhorimoto_holly_tvdt18_050/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/mhorimoto_holly_tvdt18_050/working
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/mhorimoto_holly_tvdt18_050/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/mhorimoto_holly_tvdt18_050/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/mhorimoto_holly_tvdt18_050/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/mhorimoto_holly_tvdt18_050/working
   name: HOLLY.pretty
   oomp:
     footprint_name: tvdt18_050
@@ -27,7 +27,7 @@
     oomp_key_extra: oomp_footprint_mhorimoto_holly_tvdt18_050
     oomp_key_full: oomp_footprint_mhorimoto_holly_tvdt18_050_894cdc
     oomp_key_simple: mhorimoto_holly_tvdt18_050
-    original_filename: HOLLY.pretty/TVDT18-050.kicad_mod
+    original_filename: data//oomlout_oomp_footprint_src/HOLLY.pretty/TVDT18-050.kicad_mod
     owner_name: mhorimoto
   oomp_key: oomp_mhorimoto_holly_tvdt18_050
   oomp_key_full: oomp_footprint_mhorimoto_holly_tvdt18_050

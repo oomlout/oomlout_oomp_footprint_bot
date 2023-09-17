@@ -1,29 +1,20 @@
-# SH_Shielding_Protection.pretty by StefanHamminga  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/StefanHamminga/SH_Shielding_Protection.pretty/blob/master/Spark_Gap_1.65x1.1.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: None  
-* libraryLink: Shield_Laird_BMI-S-103_26.21x26.21x5.08mm  
-* number_of_pads: 20  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | SH_Shielding_Protection.pretty/Shield_Laird_BMI-S-103_26.21x26.21x5.08mm.kicad_mod |  
-| footprint | {'description': None, 'libraryLink': 'Shield_Laird_BMI-S-103_26.21x26.21x5.08mm', 'number_of_pads': 20} |  
-| footprint_library_directory | footprint_library_owner/StefanHamminga_SH_Shielding_Protection.pretty |  
-| footprint_library_directory_flat | footprints_flat/stefanhamminga_sh_shielding_protection_shield_laird_bmi_s_103_26_21x26_21x5_08mm/working |  
-| github_path | http://github.com/StefanHamminga/SH_Shielding_Protection.pretty/blob/master/Shield_Laird_BMI-S-103_26.21x26.21x5.08mm.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/StefanHamminga/SH_Shielding_Protection.pretty/blob/master/Spark_Gap_1.65x1.1.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/stefanhamminga_sh_shielding_protection_shield_laird_bmi_s_103_26_21x26_21x5_08mm/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stefanhamminga_sh_shielding_protection_shield_laird_bmi_s_103_26_21x26_21x5_08mm/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/stefanhamminga_sh_shielding_protection_shield_laird_bmi_s_103_26_21x26_21x5_08mm/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/stefanhamminga_sh_shielding_protection_shield_laird_bmi_s_103_26_21x26_21x5_08mm/working'} |  
-| name | SH_Shielding_Protection.pretty |  
-| oomp | {'footprint_name': 'shield_laird_bmi_s_103_26_21x26_21x5_08mm', 'library_name': 'sh_shielding_protection', 'md5': 'a9f1afb9ffb61e2d2cb591eb4a7f4bb4', 'md5_10': 'a9f1afb9ff', 'md5_5': 'a9f1a', 'md5_6': 'a9f1af', 'oomp_key': 'oomp_stefanhamminga_sh_shielding_protection_shield_laird_bmi_s_103_26_21x26_21x5_08mm', 'oomp_key_extra': 'oomp_footprint_stefanhamminga_sh_shielding_protection_shield_laird_bmi_s_103_26_21x26_21x5_08mm', 'oomp_key_full': 'oomp_footprint_stefanhamminga_sh_shielding_protection_shield_laird_bmi_s_103_26_21x26_21x5_08mm_a9f1af', 'oomp_key_simple': 'stefanhamminga_sh_shielding_protection_shield_laird_bmi_s_103_26_21x26_21x5_08mm', 'original_filename': 'SH_Shielding_Protection.pretty/Shield_Laird_BMI-S-103_26.21x26.21x5.08mm.kicad_mod', 'owner_name': 'stefanhamminga'} |  
-| oomp_key | oomp_stefanhamminga_sh_shielding_protection_shield_laird_bmi_s_103_26_21x26_21x5_08mm |  
-| oomp_key_full | oomp_footprint_stefanhamminga_sh_shielding_protection_shield_laird_bmi_s_103_26_21x26_21x5_08mm |  
-| oomp_key_simple | stefanhamminga_sh_shielding_protection_shield_laird_bmi_s_103_26_21x26_21x5_08mm |  
-| owner | StefanHamminga |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/StefanHamminga/SH_Shielding_Protection.pretty |  
-
+# OOMP Footprint  
+## Shield_Laird_BMI-S-103_26.21x26.21x5.08mm  by none  
+  
+oomp key: oomp_stefanhamminga_sh_shielding_protection_shield_laird_bmi_s_103_26_21x26_21x5_08mm  
+  
+source repo at: [http://gitlab.com/StefanHamminga/SH_Shielding_Protection.pretty/blob/master/Spark_Gap_1.65x1.1.kicad_mod](http://gitlab.com/StefanHamminga/SH_Shielding_Protection.pretty/blob/master/Spark_Gap_1.65x1.1.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | Shield_Laird_BMI-S-103_26.21x26.21x5.08mm | 
+| footprint description | None | 
+| number of pads | 20 | 
+| github path | http://github.com/StefanHamminga/SH_Shielding_Protection.pretty/blob/master/Shield_Laird_BMI-S-103_26.21x26.21x5.08mm.kicad_mod | 
+| oomp key | oomp_stefanhamminga_sh_shielding_protection_shield_laird_bmi_s_103_26_21x26_21x5_08mm | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stefanhamminga_sh_shielding_protection_shield_laird_bmi_s_103_26_21x26_21x5_08mm/working | 
+## Images  

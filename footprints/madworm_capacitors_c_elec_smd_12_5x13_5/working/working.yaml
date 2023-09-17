@@ -1,20 +1,20 @@
-- file: Capacitors.pretty/c_elec_SMD_12.5x13.5.kicad_mod
+- file: data//oomlout_oomp_footprint_src/Capacitors.pretty/c_elec_SMD_12.5x13.5.kicad_mod
   footprint:
     description: SMT capacitor, aluminium electrolytic, 12.5x13.5
     libraryLink: c_elec_SMD_12.5x13.5
     number_of_pads: 2
   footprint_library_directory: footprint_library_owner/madworm_Capacitors.pretty
-  footprint_library_directory_flat: footprints_flat/madworm_capacitors_c_elec_smd_12_5x13_5/working
-  github_path: http://github.com/madworm/Capacitors.pretty/blob/master/c_elec_SMD_12.5x13.5.kicad_mod
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/madworm_capacitors_c_elec_smd_12_5x13_5/working
+  github_path: http://github.com/madworm/Capacitors.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/c_elec_SMD_12.5x13.5.kicad_mod
   links:
     github_owner: madworm
     github_repo_name: Capacitors.pretty
-    github_src: http://github.com/madworm/Capacitors.pretty/blob/master/c_elec_SMD_12.5x13.5.kicad_mod
+    github_src: http://github.com/madworm/Capacitors.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/c_elec_SMD_12.5x13.5.kicad_mod
     github_src_repo: https://github.com/madworm/Capacitors.pretty
-    oomp_bot: footprints/madworm_capacitors_c_elec_smd_12_5x13_5/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/madworm_capacitors_c_elec_smd_12_5x13_5/working
-    oomp_src_flat: footprints_flat/footprints_flat/madworm_capacitors_c_elec_smd_12_5x13_5/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/madworm_capacitors_c_elec_smd_12_5x13_5/working
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/madworm_capacitors_c_elec_smd_12_5x13_5/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/madworm_capacitors_c_elec_smd_12_5x13_5/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/madworm_capacitors_c_elec_smd_12_5x13_5/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/madworm_capacitors_c_elec_smd_12_5x13_5/working
   name: Capacitors.pretty
   oomp:
     footprint_name: c_elec_smd_12_5x13_5
@@ -27,7 +27,7 @@
     oomp_key_extra: oomp_footprint_madworm_capacitors_c_elec_smd_12_5x13_5
     oomp_key_full: oomp_footprint_madworm_capacitors_c_elec_smd_12_5x13_5_0f96fb
     oomp_key_simple: madworm_capacitors_c_elec_smd_12_5x13_5
-    original_filename: Capacitors.pretty/c_elec_SMD_12.5x13.5.kicad_mod
+    original_filename: data//oomlout_oomp_footprint_src/Capacitors.pretty/c_elec_SMD_12.5x13.5.kicad_mod
     owner_name: madworm
   oomp_key: oomp_madworm_capacitors_c_elec_smd_12_5x13_5
   oomp_key_full: oomp_footprint_madworm_capacitors_c_elec_smd_12_5x13_5

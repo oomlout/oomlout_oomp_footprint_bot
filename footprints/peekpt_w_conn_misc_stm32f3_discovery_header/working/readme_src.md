@@ -1,29 +1,20 @@
-# kicad_smisioto by peekpt  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/peekpt/kicad_smisioto/blob/master/modules/walter/w_vacuum.pretty/tube_gzc9-b.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: STM32 F3 Discovery Header  
-* libraryLink: stm32f3_discovery_header  
-* number_of_pads: 106  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | kicad_smisioto/modules/walter/w_conn_misc.pretty/stm32f3_discovery_header.kicad_mod |  
-| footprint | {'description': 'STM32 F3 Discovery Header', 'libraryLink': 'stm32f3_discovery_header', 'number_of_pads': 106} |  
-| footprint_library_directory | footprint_library_owner/peekpt_kicad_smisioto |  
-| footprint_library_directory_flat | footprints_flat/peekpt_w_conn_misc_stm32f3_discovery_header/working |  
-| github_path | http://github.com/peekpt/kicad_smisioto/blob/master/modules/walter/w_conn_misc.pretty/stm32f3_discovery_header.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/peekpt/kicad_smisioto/blob/master/modules/walter/w_vacuum.pretty/tube_gzc9-b.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/peekpt_w_conn_misc_stm32f3_discovery_header/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/peekpt_w_conn_misc_stm32f3_discovery_header/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/peekpt_w_conn_misc_stm32f3_discovery_header/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/peekpt_w_conn_misc_stm32f3_discovery_header/working'} |  
-| name | kicad_smisioto |  
-| oomp | {'footprint_name': 'stm32f3_discovery_header', 'library_name': 'w_conn_misc', 'md5': '8d64b5dc1716fe8e267702a189e5c774', 'md5_10': '8d64b5dc17', 'md5_5': '8d64b', 'md5_6': '8d64b5', 'oomp_key': 'oomp_peekpt_w_conn_misc_stm32f3_discovery_header', 'oomp_key_extra': 'oomp_footprint_peekpt_w_conn_misc_stm32f3_discovery_header', 'oomp_key_full': 'oomp_footprint_peekpt_w_conn_misc_stm32f3_discovery_header_8d64b5', 'oomp_key_simple': 'peekpt_w_conn_misc_stm32f3_discovery_header', 'original_filename': 'kicad_smisioto/modules/walter/w_conn_misc.pretty/stm32f3_discovery_header.kicad_mod', 'owner_name': 'peekpt'} |  
-| oomp_key | oomp_peekpt_w_conn_misc_stm32f3_discovery_header |  
-| oomp_key_full | oomp_footprint_peekpt_w_conn_misc_stm32f3_discovery_header |  
-| oomp_key_simple | peekpt_w_conn_misc_stm32f3_discovery_header |  
-| owner | peekpt |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/peekpt/kicad_smisioto |  
-
+# OOMP Footprint  
+## stm32f3_discovery_header  by none  
+  
+oomp key: oomp_peekpt_w_conn_misc_stm32f3_discovery_header  
+  
+source repo at: [http://gitlab.com/peekpt/kicad_smisioto/blob/master/modules/walter/w_vacuum.pretty/tube_gzc9-b.kicad_mod](http://gitlab.com/peekpt/kicad_smisioto/blob/master/modules/walter/w_vacuum.pretty/tube_gzc9-b.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | stm32f3_discovery_header | 
+| footprint description | STM32 F3 Discovery Header | 
+| number of pads | 106 | 
+| github path | http://github.com/peekpt/kicad_smisioto/blob/master/modules/walter/w_conn_misc.pretty/stm32f3_discovery_header.kicad_mod | 
+| oomp key | oomp_peekpt_w_conn_misc_stm32f3_discovery_header | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/peekpt_w_conn_misc_stm32f3_discovery_header/working | 
+## Images  

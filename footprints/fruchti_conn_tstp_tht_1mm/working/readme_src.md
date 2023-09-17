@@ -1,29 +1,20 @@
-# fruchtilib by fruchti  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/fruchti/fruchtilib/blob/master/mod/vssop.pretty/VSSOP8.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: None  
-* libraryLink: TSTP_THT_1mm  
-* number_of_pads: 1  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | fruchtilib/mod/conn.pretty/TSTP_THT_1mm.kicad_mod |  
-| footprint | {'description': None, 'libraryLink': 'TSTP_THT_1mm', 'number_of_pads': 1} |  
-| footprint_library_directory | footprint_library_owner/fruchti_fruchtilib |  
-| footprint_library_directory_flat | footprints_flat/fruchti_conn_tstp_tht_1mm/working |  
-| github_path | http://github.com/fruchti/fruchtilib/blob/master/mod/conn.pretty/TSTP_THT_1mm.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/fruchti/fruchtilib/blob/master/mod/vssop.pretty/VSSOP8.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/fruchti_conn_tstp_tht_1mm/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/fruchti_conn_tstp_tht_1mm/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/fruchti_conn_tstp_tht_1mm/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/fruchti_conn_tstp_tht_1mm/working'} |  
-| name | fruchtilib |  
-| oomp | {'footprint_name': 'tstp_tht_1mm', 'library_name': 'conn', 'md5': '99fa2e8bc714ee919e82422de97a2d36', 'md5_10': '99fa2e8bc7', 'md5_5': '99fa2', 'md5_6': '99fa2e', 'oomp_key': 'oomp_fruchti_conn_tstp_tht_1mm', 'oomp_key_extra': 'oomp_footprint_fruchti_conn_tstp_tht_1mm', 'oomp_key_full': 'oomp_footprint_fruchti_conn_tstp_tht_1mm_99fa2e', 'oomp_key_simple': 'fruchti_conn_tstp_tht_1mm', 'original_filename': 'fruchtilib/mod/conn.pretty/TSTP_THT_1mm.kicad_mod', 'owner_name': 'fruchti'} |  
-| oomp_key | oomp_fruchti_conn_tstp_tht_1mm |  
-| oomp_key_full | oomp_footprint_fruchti_conn_tstp_tht_1mm |  
-| oomp_key_simple | fruchti_conn_tstp_tht_1mm |  
-| owner | fruchti |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/fruchti/fruchtilib |  
-
+# OOMP Footprint  
+## TSTP_THT_1mm  by none  
+  
+oomp key: oomp_fruchti_conn_tstp_tht_1mm  
+  
+source repo at: [http://gitlab.com/fruchti/fruchtilib/blob/master/mod/vssop.pretty/VSSOP8.kicad_mod](http://gitlab.com/fruchti/fruchtilib/blob/master/mod/vssop.pretty/VSSOP8.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | TSTP_THT_1mm | 
+| footprint description | None | 
+| number of pads | 1 | 
+| github path | http://github.com/fruchti/fruchtilib/blob/master/mod/conn.pretty/TSTP_THT_1mm.kicad_mod | 
+| oomp key | oomp_fruchti_conn_tstp_tht_1mm | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/fruchti_conn_tstp_tht_1mm/working | 
+## Images  

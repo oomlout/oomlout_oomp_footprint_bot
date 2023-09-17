@@ -1,29 +1,20 @@
-# Zetaohm.pretty by cosmikwolf  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/cosmikwolf/Zetaohm.pretty/blob/master/Via.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: None  
-* libraryLink: afx-01:Via  
-* number_of_pads: 1  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | Zetaohm.pretty/Via.kicad_mod |  
-| footprint | {'description': None, 'libraryLink': 'afx-01:Via', 'number_of_pads': 1} |  
-| footprint_library_directory | footprint_library_owner/cosmikwolf_Zetaohm.pretty |  
-| footprint_library_directory_flat | footprints_flat/cosmikwolf_zetaohm_via/working |  
-| github_path | http://github.com/cosmikwolf/Zetaohm.pretty/blob/master/Via.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/cosmikwolf/Zetaohm.pretty/blob/master/Via.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/cosmikwolf_zetaohm_via/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cosmikwolf_zetaohm_via/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/cosmikwolf_zetaohm_via/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cosmikwolf_zetaohm_via/working'} |  
-| name | Zetaohm.pretty |  
-| oomp | {'footprint_name': 'via', 'library_name': 'zetaohm', 'md5': '17ab9b21022b6664b5bcc5a8ba55006a', 'md5_10': '17ab9b2102', 'md5_5': '17ab9', 'md5_6': '17ab9b', 'oomp_key': 'oomp_cosmikwolf_zetaohm_via', 'oomp_key_extra': 'oomp_footprint_cosmikwolf_zetaohm_via', 'oomp_key_full': 'oomp_footprint_cosmikwolf_zetaohm_via_17ab9b', 'oomp_key_simple': 'cosmikwolf_zetaohm_via', 'original_filename': 'Zetaohm.pretty/Via.kicad_mod', 'owner_name': 'cosmikwolf'} |  
-| oomp_key | oomp_cosmikwolf_zetaohm_via |  
-| oomp_key_full | oomp_footprint_cosmikwolf_zetaohm_via |  
-| oomp_key_simple | cosmikwolf_zetaohm_via |  
-| owner | cosmikwolf |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/cosmikwolf/Zetaohm.pretty |  
-
+# OOMP Footprint  
+## afx-01:Via  by none  
+  
+oomp key: oomp_cosmikwolf_zetaohm_via  
+  
+source repo at: [http://gitlab.com/cosmikwolf/Zetaohm.pretty/blob/master/Via.kicad_mod](http://gitlab.com/cosmikwolf/Zetaohm.pretty/blob/master/Via.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | afx-01:Via | 
+| footprint description | None | 
+| number of pads | 1 | 
+| github path | http://github.com/cosmikwolf/Zetaohm.pretty/blob/master/Via.kicad_mod | 
+| oomp key | oomp_cosmikwolf_zetaohm_via | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cosmikwolf_zetaohm_via/working | 
+## Images  

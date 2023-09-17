@@ -1,20 +1,20 @@
-- file: RC-Battery-Connectors.pretty/Deans_mini-T_female.kicad_mod
+- file: data//oomlout_oomp_footprint_src/RC-Battery-Connectors.pretty/Deans_mini-T_female.kicad_mod
   footprint:
     description: null
     libraryLink: Deans_mini-T_female
     number_of_pads: 2
   footprint_library_directory: footprint_library_owner/madworm_RC-Battery-Connectors.pretty
-  footprint_library_directory_flat: footprints_flat/madworm_rc_battery_connectors_deans_mini_t_female/working
-  github_path: http://github.com/madworm/RC-Battery-Connectors.pretty/blob/master/Deans_mini-T_female.kicad_mod
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/madworm_rc_battery_connectors_deans_mini_t_female/working
+  github_path: http://github.com/madworm/RC-Battery-Connectors.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Deans_mini-T_female.kicad_mod
   links:
     github_owner: madworm
     github_repo_name: RC-Battery-Connectors.pretty
-    github_src: http://github.com/madworm/RC-Battery-Connectors.pretty/blob/master/XT-60_male.kicad_mod
+    github_src: http://github.com/madworm/RC-Battery-Connectors.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XT-60_male.kicad_mod
     github_src_repo: https://github.com/madworm/RC-Battery-Connectors.pretty
-    oomp_bot: footprints/madworm_rc_battery_connectors_deans_mini_t_female/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/madworm_rc_battery_connectors_deans_mini_t_female/working
-    oomp_src_flat: footprints_flat/footprints_flat/madworm_rc_battery_connectors_deans_mini_t_female/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/madworm_rc_battery_connectors_deans_mini_t_female/working
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/madworm_rc_battery_connectors_deans_mini_t_female/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/madworm_rc_battery_connectors_deans_mini_t_female/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/madworm_rc_battery_connectors_deans_mini_t_female/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/madworm_rc_battery_connectors_deans_mini_t_female/working
   name: RC-Battery-Connectors.pretty
   oomp:
     footprint_name: deans_mini_t_female
@@ -27,7 +27,7 @@
     oomp_key_extra: oomp_footprint_madworm_rc_battery_connectors_deans_mini_t_female
     oomp_key_full: oomp_footprint_madworm_rc_battery_connectors_deans_mini_t_female_f1095b
     oomp_key_simple: madworm_rc_battery_connectors_deans_mini_t_female
-    original_filename: RC-Battery-Connectors.pretty/Deans_mini-T_female.kicad_mod
+    original_filename: data//oomlout_oomp_footprint_src/RC-Battery-Connectors.pretty/Deans_mini-T_female.kicad_mod
     owner_name: madworm
   oomp_key: oomp_madworm_rc_battery_connectors_deans_mini_t_female
   oomp_key_full: oomp_footprint_madworm_rc_battery_connectors_deans_mini_t_female
@@ -116,7 +116,7 @@
     releases_url: https://api.github.com/repos/madworm/RC-Battery-Connectors.pretty/releases{/id}
     size: 360
     ssh_url: git@github.com:madworm/RC-Battery-Connectors.pretty.git
-    stargazers_count: 0
+    stargazers_count: 1
     stargazers_url: https://api.github.com/repos/madworm/RC-Battery-Connectors.pretty/stargazers
     statuses_url: https://api.github.com/repos/madworm/RC-Battery-Connectors.pretty/statuses/{sha}
     subscribers_count: 2
@@ -128,10 +128,10 @@
     temp_clone_token: null
     topics: []
     trees_url: https://api.github.com/repos/madworm/RC-Battery-Connectors.pretty/git/trees{/sha}
-    updated_at: '2023-07-25T13:54:53Z'
+    updated_at: '2023-08-14T00:34:05Z'
     url: https://api.github.com/repos/madworm/RC-Battery-Connectors.pretty
     visibility: public
-    watchers: 0
-    watchers_count: 0
+    watchers: 1
+    watchers_count: 1
     web_commit_signoff_required: false
   url: http://github.com/madworm/RC-Battery-Connectors.pretty

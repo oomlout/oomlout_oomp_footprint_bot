@@ -1,29 +1,20 @@
-# Kicad_footprint.pretty by nickgagnon  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/nickgagnon/Kicad_footprint.pretty/blob/master/TVS_DIODE_5.0SMDJ_(DO-214AB).kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: None  
-* libraryLink: CONNECTOR_YEON-HP_SMAW250-06P  
-* number_of_pads: 6  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | Kicad_footprint.pretty/CONNECTOR_YEON-HP_SMAW250-06P.kicad_mod |  
-| footprint | {'description': None, 'libraryLink': 'CONNECTOR_YEON-HP_SMAW250-06P', 'number_of_pads': 6} |  
-| footprint_library_directory | footprint_library_owner/nickgagnon_Kicad_footprint.pretty |  
-| footprint_library_directory_flat | footprints_flat/nickgagnon_kicad_footprint_connector_yeon_hp_smaw250_06p/working |  
-| github_path | http://github.com/nickgagnon/Kicad_footprint.pretty/blob/master/CONNECTOR_YEON-HP_SMAW250-06P.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/nickgagnon/Kicad_footprint.pretty/blob/master/TVS_DIODE_5.0SMDJ_(DO-214AB).kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/nickgagnon_kicad_footprint_connector_yeon_hp_smaw250_06p/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nickgagnon_kicad_footprint_connector_yeon_hp_smaw250_06p/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/nickgagnon_kicad_footprint_connector_yeon_hp_smaw250_06p/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nickgagnon_kicad_footprint_connector_yeon_hp_smaw250_06p/working'} |  
-| name | Kicad_footprint.pretty |  
-| oomp | {'footprint_name': 'connector_yeon_hp_smaw250_06p', 'library_name': 'kicad_footprint', 'md5': '0196201f09ef7fa6f1d655dfaeac4ea6', 'md5_10': '0196201f09', 'md5_5': '01962', 'md5_6': '019620', 'oomp_key': 'oomp_nickgagnon_kicad_footprint_connector_yeon_hp_smaw250_06p', 'oomp_key_extra': 'oomp_footprint_nickgagnon_kicad_footprint_connector_yeon_hp_smaw250_06p', 'oomp_key_full': 'oomp_footprint_nickgagnon_kicad_footprint_connector_yeon_hp_smaw250_06p_019620', 'oomp_key_simple': 'nickgagnon_kicad_footprint_connector_yeon_hp_smaw250_06p', 'original_filename': 'Kicad_footprint.pretty/CONNECTOR_YEON-HP_SMAW250-06P.kicad_mod', 'owner_name': 'nickgagnon'} |  
-| oomp_key | oomp_nickgagnon_kicad_footprint_connector_yeon_hp_smaw250_06p |  
-| oomp_key_full | oomp_footprint_nickgagnon_kicad_footprint_connector_yeon_hp_smaw250_06p |  
-| oomp_key_simple | nickgagnon_kicad_footprint_connector_yeon_hp_smaw250_06p |  
-| owner | nickgagnon |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/nickgagnon/Kicad_footprint.pretty |  
-
+# OOMP Footprint  
+## CONNECTOR_YEON-HP_SMAW250-06P  by none  
+  
+oomp key: oomp_nickgagnon_kicad_footprint_connector_yeon_hp_smaw250_06p  
+  
+source repo at: [http://gitlab.com/nickgagnon/Kicad_footprint.pretty/blob/master/TVS_DIODE_5.0SMDJ_(DO-214AB).kicad_mod](http://gitlab.com/nickgagnon/Kicad_footprint.pretty/blob/master/TVS_DIODE_5.0SMDJ_(DO-214AB).kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | CONNECTOR_YEON-HP_SMAW250-06P | 
+| footprint description | None | 
+| number of pads | 6 | 
+| github path | http://github.com/nickgagnon/Kicad_footprint.pretty/blob/master/CONNECTOR_YEON-HP_SMAW250-06P.kicad_mod | 
+| oomp key | oomp_nickgagnon_kicad_footprint_connector_yeon_hp_smaw250_06p | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nickgagnon_kicad_footprint_connector_yeon_hp_smaw250_06p/working | 
+## Images  

@@ -1,29 +1,20 @@
-# libraries/kicad-footprints/ by kicad  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: RF transceiver SMD style https://www.rfsolutions.co.uk/downloads/1456219226DS-ZETA.pdf  
-* libraryLink: ZETA-433-SO_SMD  
-* number_of_pads: 12  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | libraries/kicad-footprints/RF_Module.pretty/ZETA-433-SO_SMD.kicad_mod |  
-| footprint | {'description': 'RF transceiver SMD style https://www.rfsolutions.co.uk/downloads/1456219226DS-ZETA.pdf', 'libraryLink': 'ZETA-433-SO_SMD', 'number_of_pads': 12} |  
-| footprint_library_directory | footprint_library_owner/kicad_libraries/kicad-footprints/ |  
-| footprint_library_directory_flat | footprints_flat/kicad_rf_module_zeta_433_so_smd/working |  
-| github_path | http://github.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/RF_Module.pretty/ZETA-433-SO_SMD.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/kicad_rf_module_zeta_433_so_smd/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_rf_module_zeta_433_so_smd/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/kicad_rf_module_zeta_433_so_smd/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_rf_module_zeta_433_so_smd/working'} |  
-| name | libraries/kicad-footprints/ |  
-| oomp | {'footprint_name': 'zeta_433_so_smd', 'library_name': 'rf_module', 'md5': 'e8b2260898ab717ce4d0ac4d801a2b9a', 'md5_10': 'e8b2260898', 'md5_5': 'e8b22', 'md5_6': 'e8b226', 'oomp_key': 'oomp_kicad_rf_module_zeta_433_so_smd', 'oomp_key_extra': 'oomp_footprint_kicad_rf_module_zeta_433_so_smd', 'oomp_key_full': 'oomp_footprint_kicad_rf_module_zeta_433_so_smd_e8b226', 'oomp_key_simple': 'kicad_rf_module_zeta_433_so_smd', 'original_filename': 'libraries/kicad-footprints/RF_Module.pretty/ZETA-433-SO_SMD.kicad_mod', 'owner_name': 'kicad'} |  
-| oomp_key | oomp_kicad_rf_module_zeta_433_so_smd |  
-| oomp_key_full | oomp_footprint_kicad_rf_module_zeta_433_so_smd |  
-| oomp_key_simple | kicad_rf_module_zeta_433_so_smd |  
-| owner | kicad |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | https://gitlab.com/kicad/libraries/kicad-footprints |  
-
+# OOMP Footprint  
+## ZETA-433-SO_SMD  by none  
+  
+oomp key: oomp_kicad_rf_module_zeta_433_so_smd  
+  
+source repo at: [http://gitlab.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod](http://gitlab.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | ZETA-433-SO_SMD | 
+| footprint description | RF transceiver SMD style https://www.rfsolutions.co.uk/downloads/1456219226DS-ZETA.pdf | 
+| number of pads | 12 | 
+| github path | http://github.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/RF_Module.pretty/ZETA-433-SO_SMD.kicad_mod | 
+| oomp key | oomp_kicad_rf_module_zeta_433_so_smd | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_rf_module_zeta_433_so_smd/working | 
+## Images  

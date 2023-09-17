@@ -1,29 +1,20 @@
-# libKiCad by pelrun  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/pelrun/libKiCad/blob/master/footprint/w_vacuum.pretty/tube_gzc9-b.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: 27 pin vert. connector, Molex KK100 series  
-* libraryLink: kk100_22-23-2271  
-* number_of_pads: 27  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | libKiCad/footprint/w_conn_kk100.pretty/kk100_22-23-2271.kicad_mod |  
-| footprint | {'description': '27 pin vert. connector, Molex KK100 series', 'libraryLink': 'kk100_22-23-2271', 'number_of_pads': 27} |  
-| footprint_library_directory | footprint_library_owner/pelrun_libKiCad |  
-| footprint_library_directory_flat | footprints_flat/pelrun_w_conn_kk100_kk100_22_23_2271/working |  
-| github_path | http://github.com/pelrun/libKiCad/blob/master/footprint/w_conn_kk100.pretty/kk100_22-23-2271.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/pelrun/libKiCad/blob/master/footprint/w_vacuum.pretty/tube_gzc9-b.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/pelrun_w_conn_kk100_kk100_22_23_2271/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pelrun_w_conn_kk100_kk100_22_23_2271/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/pelrun_w_conn_kk100_kk100_22_23_2271/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pelrun_w_conn_kk100_kk100_22_23_2271/working'} |  
-| name | libKiCad |  
-| oomp | {'footprint_name': 'kk100_22_23_2271', 'library_name': 'w_conn_kk100', 'md5': '51568421624cc8a90a51c7ae0bd39e8e', 'md5_10': '5156842162', 'md5_5': '51568', 'md5_6': '515684', 'oomp_key': 'oomp_pelrun_w_conn_kk100_kk100_22_23_2271', 'oomp_key_extra': 'oomp_footprint_pelrun_w_conn_kk100_kk100_22_23_2271', 'oomp_key_full': 'oomp_footprint_pelrun_w_conn_kk100_kk100_22_23_2271_515684', 'oomp_key_simple': 'pelrun_w_conn_kk100_kk100_22_23_2271', 'original_filename': 'libKiCad/footprint/w_conn_kk100.pretty/kk100_22-23-2271.kicad_mod', 'owner_name': 'pelrun'} |  
-| oomp_key | oomp_pelrun_w_conn_kk100_kk100_22_23_2271 |  
-| oomp_key_full | oomp_footprint_pelrun_w_conn_kk100_kk100_22_23_2271 |  
-| oomp_key_simple | pelrun_w_conn_kk100_kk100_22_23_2271 |  
-| owner | pelrun |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/pelrun/libKiCad |  
-
+# OOMP Footprint  
+## kk100_22-23-2271  by none  
+  
+oomp key: oomp_pelrun_w_conn_kk100_kk100_22_23_2271  
+  
+source repo at: [http://gitlab.com/pelrun/libKiCad/blob/master/footprint/w_vacuum.pretty/tube_gzc9-b.kicad_mod](http://gitlab.com/pelrun/libKiCad/blob/master/footprint/w_vacuum.pretty/tube_gzc9-b.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | kk100_22-23-2271 | 
+| footprint description | 27 pin vert. connector, Molex KK100 series | 
+| number of pads | 27 | 
+| github path | http://github.com/pelrun/libKiCad/blob/master/footprint/w_conn_kk100.pretty/kk100_22-23-2271.kicad_mod | 
+| oomp key | oomp_pelrun_w_conn_kk100_kk100_22_23_2271 | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pelrun_w_conn_kk100_kk100_22_23_2271/working | 
+## Images  

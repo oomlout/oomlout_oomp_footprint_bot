@@ -1,29 +1,20 @@
-# kicad-components by natsfr  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/natsfr/kicad-components/blob/master/Pretty_Footprints/Xtal_SMD.pretty/XTAL_5.0x3.2mm.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: None  
-* libraryLink: TI_TPS63700_QFN-0x5_EP_2.9x3.4_Pitch0.5mm  
-* number_of_pads: 18  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | kicad-components/Pretty_Footprints/QFN.pretty/TI_TPS63700_QFN-0x5_EP_2.9x3.4_Pitch0.5mm.kicad_mod |  
-| footprint | {'description': None, 'libraryLink': 'TI_TPS63700_QFN-0x5_EP_2.9x3.4_Pitch0.5mm', 'number_of_pads': 18} |  
-| footprint_library_directory | footprint_library_owner/natsfr_kicad-components |  
-| footprint_library_directory_flat | footprints_flat/natsfr_qfn_ti_tps63700_qfn_0x5_ep_2_9x3_4_pitch0_5mm/working |  
-| github_path | http://github.com/natsfr/kicad-components/blob/master/Pretty_Footprints/QFN.pretty/TI_TPS63700_QFN-0x5_EP_2.9x3.4_Pitch0.5mm.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/natsfr/kicad-components/blob/master/Pretty_Footprints/Xtal_SMD.pretty/XTAL_5.0x3.2mm.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/natsfr_qfn_ti_tps63700_qfn_0x5_ep_2_9x3_4_pitch0_5mm/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/natsfr_qfn_ti_tps63700_qfn_0x5_ep_2_9x3_4_pitch0_5mm/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/natsfr_qfn_ti_tps63700_qfn_0x5_ep_2_9x3_4_pitch0_5mm/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/natsfr_qfn_ti_tps63700_qfn_0x5_ep_2_9x3_4_pitch0_5mm/working'} |  
-| name | kicad-components |  
-| oomp | {'footprint_name': 'ti_tps63700_qfn_0x5_ep_2_9x3_4_pitch0_5mm', 'library_name': 'qfn', 'md5': '8858828db5d10291dd9f69ef6c2cbd9a', 'md5_10': '8858828db5', 'md5_5': '88588', 'md5_6': '885882', 'oomp_key': 'oomp_natsfr_qfn_ti_tps63700_qfn_0x5_ep_2_9x3_4_pitch0_5mm', 'oomp_key_extra': 'oomp_footprint_natsfr_qfn_ti_tps63700_qfn_0x5_ep_2_9x3_4_pitch0_5mm', 'oomp_key_full': 'oomp_footprint_natsfr_qfn_ti_tps63700_qfn_0x5_ep_2_9x3_4_pitch0_5mm_885882', 'oomp_key_simple': 'natsfr_qfn_ti_tps63700_qfn_0x5_ep_2_9x3_4_pitch0_5mm', 'original_filename': 'kicad-components/Pretty_Footprints/QFN.pretty/TI_TPS63700_QFN-0x5_EP_2.9x3.4_Pitch0.5mm.kicad_mod', 'owner_name': 'natsfr'} |  
-| oomp_key | oomp_natsfr_qfn_ti_tps63700_qfn_0x5_ep_2_9x3_4_pitch0_5mm |  
-| oomp_key_full | oomp_footprint_natsfr_qfn_ti_tps63700_qfn_0x5_ep_2_9x3_4_pitch0_5mm |  
-| oomp_key_simple | natsfr_qfn_ti_tps63700_qfn_0x5_ep_2_9x3_4_pitch0_5mm |  
-| owner | natsfr |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/natsfr/kicad-components |  
-
+# OOMP Footprint  
+## TI_TPS63700_QFN-0x5_EP_2.9x3.4_Pitch0.5mm  by none  
+  
+oomp key: oomp_natsfr_qfn_ti_tps63700_qfn_0x5_ep_2_9x3_4_pitch0_5mm  
+  
+source repo at: [http://gitlab.com/natsfr/kicad-components/blob/master/Pretty_Footprints/Xtal_SMD.pretty/XTAL_5.0x3.2mm.kicad_mod](http://gitlab.com/natsfr/kicad-components/blob/master/Pretty_Footprints/Xtal_SMD.pretty/XTAL_5.0x3.2mm.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | TI_TPS63700_QFN-0x5_EP_2.9x3.4_Pitch0.5mm | 
+| footprint description | None | 
+| number of pads | 18 | 
+| github path | http://github.com/natsfr/kicad-components/blob/master/Pretty_Footprints/QFN.pretty/TI_TPS63700_QFN-0x5_EP_2.9x3.4_Pitch0.5mm.kicad_mod | 
+| oomp key | oomp_natsfr_qfn_ti_tps63700_qfn_0x5_ep_2_9x3_4_pitch0_5mm | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/natsfr_qfn_ti_tps63700_qfn_0x5_ep_2_9x3_4_pitch0_5mm/working | 
+## Images  

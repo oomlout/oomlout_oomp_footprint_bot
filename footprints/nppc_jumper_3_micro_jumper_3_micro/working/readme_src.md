@@ -1,29 +1,20 @@
-# KiCadCustomLibs by nppc  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/nppc/KiCadCustomLibs/blob/master/XFL2006-inductor.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: SMD Solder 3-pad Jumper, open  
-* libraryLink: Jumper-3_micro  
-* number_of_pads: 3  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | KiCadCustomLibs/Jumper-3_micro.kicad_mod |  
-| footprint | {'description': 'SMD Solder 3-pad Jumper, open', 'libraryLink': 'Jumper-3_micro', 'number_of_pads': 3} |  
-| footprint_library_directory | footprint_library_owner/nppc_KiCadCustomLibs |  
-| footprint_library_directory_flat | footprints_flat/nppc_jumper_3_micro_jumper_3_micro/working |  
-| github_path | http://github.com/nppc/KiCadCustomLibs/blob/master/Jumper-3_micro.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/nppc/KiCadCustomLibs/blob/master/XFL2006-inductor.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/nppc_jumper_3_micro_jumper_3_micro/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nppc_jumper_3_micro_jumper_3_micro/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/nppc_jumper_3_micro_jumper_3_micro/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nppc_jumper_3_micro_jumper_3_micro/working'} |  
-| name | KiCadCustomLibs |  
-| oomp | {'footprint_name': 'jumper_3_micro', 'library_name': 'jumper_3_micro_kicad_mod', 'md5': '5dbfebca620b6d9df9abb3f31a70e87f', 'md5_10': '5dbfebca62', 'md5_5': '5dbfe', 'md5_6': '5dbfeb', 'oomp_key': 'oomp_nppc_jumper_3_micro_jumper_3_micro', 'oomp_key_extra': 'oomp_footprint_nppc_jumper_3_micro_jumper_3_micro', 'oomp_key_full': 'oomp_footprint_nppc_jumper_3_micro_jumper_3_micro_5dbfeb', 'oomp_key_simple': 'nppc_jumper_3_micro_jumper_3_micro', 'original_filename': 'KiCadCustomLibs/Jumper-3_micro.kicad_mod', 'owner_name': 'nppc'} |  
-| oomp_key | oomp_nppc_jumper_3_micro_jumper_3_micro |  
-| oomp_key_full | oomp_footprint_nppc_jumper_3_micro_jumper_3_micro |  
-| oomp_key_simple | nppc_jumper_3_micro_jumper_3_micro |  
-| owner | nppc |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/nppc/KiCadCustomLibs |  
-
+# OOMP Footprint  
+## Jumper-3_micro  by none  
+  
+oomp key: oomp_nppc_jumper_3_micro_jumper_3_micro  
+  
+source repo at: [http://gitlab.com/nppc/KiCadCustomLibs/blob/master/XFL2006-inductor.kicad_mod](http://gitlab.com/nppc/KiCadCustomLibs/blob/master/XFL2006-inductor.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | Jumper-3_micro | 
+| footprint description | SMD Solder 3-pad Jumper, open | 
+| number of pads | 3 | 
+| github path | http://github.com/nppc/KiCadCustomLibs/blob/master/Jumper-3_micro.kicad_mod | 
+| oomp key | oomp_nppc_jumper_3_micro_jumper_3_micro | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nppc_jumper_3_micro_jumper_3_micro/working | 
+## Images  

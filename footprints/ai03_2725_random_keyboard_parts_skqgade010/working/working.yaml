@@ -1,20 +1,20 @@
-- file: random-keyboard-parts.pretty/SKQGADE010.kicad_mod
+- file: data//oomlout_oomp_footprint_src/random-keyboard-parts.pretty/SKQGADE010.kicad_mod
   footprint:
     description: null
     libraryLink: SKQGADE010
     number_of_pads: 4
   footprint_library_directory: footprint_library_owner/ai03-2725_random-keyboard-parts.pretty
-  footprint_library_directory_flat: footprints_flat/ai03_2725_random_keyboard_parts_skqgade010/working
-  github_path: http://github.com/ai03-2725/random-keyboard-parts.pretty/blob/master/SKQGADE010.kicad_mod
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/ai03_2725_random_keyboard_parts_skqgade010/working
+  github_path: http://github.com/ai03-2725/random-keyboard-parts.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/SKQGADE010.kicad_mod
   links:
     github_owner: ai03-2725
     github_repo_name: random-keyboard-parts.pretty
-    github_src: http://github.com/ai03-2725/random-keyboard-parts.pretty/blob/master/USON-TPDxE05U06.kicad_mod
+    github_src: http://github.com/ai03-2725/random-keyboard-parts.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/USON-TPDxE05U06.kicad_mod
     github_src_repo: https://github.com/ai03-2725/random-keyboard-parts.pretty
-    oomp_bot: footprints/ai03_2725_random_keyboard_parts_skqgade010/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ai03_2725_random_keyboard_parts_skqgade010/working
-    oomp_src_flat: footprints_flat/footprints_flat/ai03_2725_random_keyboard_parts_skqgade010/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ai03_2725_random_keyboard_parts_skqgade010/working
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/ai03_2725_random_keyboard_parts_skqgade010/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/ai03_2725_random_keyboard_parts_skqgade010/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/ai03_2725_random_keyboard_parts_skqgade010/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/ai03_2725_random_keyboard_parts_skqgade010/working
   name: random-keyboard-parts.pretty
   oomp:
     footprint_name: skqgade010
@@ -27,7 +27,7 @@
     oomp_key_extra: oomp_footprint_ai03_2725_random_keyboard_parts_skqgade010
     oomp_key_full: oomp_footprint_ai03_2725_random_keyboard_parts_skqgade010_855384
     oomp_key_simple: ai03_2725_random_keyboard_parts_skqgade010
-    original_filename: random-keyboard-parts.pretty/SKQGADE010.kicad_mod
+    original_filename: data//oomlout_oomp_footprint_src/random-keyboard-parts.pretty/SKQGADE010.kicad_mod
     owner_name: ai03_2725
   oomp_key: oomp_ai03_2725_random_keyboard_parts_skqgade010
   oomp_key_full: oomp_footprint_ai03_2725_random_keyboard_parts_skqgade010
@@ -117,7 +117,7 @@
     releases_url: https://api.github.com/repos/ai03-2725/random-keyboard-parts.pretty/releases{/id}
     size: 116
     ssh_url: git@github.com:ai03-2725/random-keyboard-parts.pretty.git
-    stargazers_count: 122
+    stargazers_count: 123
     stargazers_url: https://api.github.com/repos/ai03-2725/random-keyboard-parts.pretty/stargazers
     statuses_url: https://api.github.com/repos/ai03-2725/random-keyboard-parts.pretty/statuses/{sha}
     subscribers_count: 2
@@ -129,10 +129,10 @@
     temp_clone_token: null
     topics: []
     trees_url: https://api.github.com/repos/ai03-2725/random-keyboard-parts.pretty/git/trees{/sha}
-    updated_at: '2023-06-03T15:17:23Z'
+    updated_at: '2023-08-31T01:00:36Z'
     url: https://api.github.com/repos/ai03-2725/random-keyboard-parts.pretty
     visibility: public
-    watchers: 122
-    watchers_count: 122
+    watchers: 123
+    watchers_count: 123
     web_commit_signoff_required: false
   url: http://github.com/ai03-2725/random-keyboard-parts.pretty

@@ -1,21 +1,21 @@
-- file: libraries/kicad-footprints/TerminalBlock_MetzConnect.pretty/TerminalBlock_MetzConnect_360425_1x01_Horizontal_ScrewM4.0_Boxed.kicad_mod
+- file: data//oomlout_oomp_footprint_src/kicad-footprints/TerminalBlock_MetzConnect.pretty/TerminalBlock_MetzConnect_360425_1x01_Horizontal_ScrewM4.0_Boxed.kicad_mod
   footprint:
     description: single screw terminal block Metz Connect 360425, block size 9x9mm^2,
       drill diamater 1.6mm, 4 pads, pad diameter 3.2mm, see http://www.metz-connect.com/de/system/files/METZ_CONNECT_U_Contact_Katalog_Anschlusssysteme_fuer_Leiterplatten_DE_31_07_2017_OFF_024803.pdf?language=en
       page 134, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
     libraryLink: TerminalBlock_MetzConnect_360425_1x01_Horizontal_ScrewM4.0_Boxed
     number_of_pads: 4
-  footprint_library_directory: footprint_library_owner/kicad_libraries/kicad-footprints/
-  footprint_library_directory_flat: footprints_flat/kicad_terminalblock_metzconnect_terminalblock_metzconnect_360425_1x01_horizontal_screwm4_0_boxed/working
-  github_path: http://github.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/TerminalBlock_MetzConnect.pretty/TerminalBlock_MetzConnect_360425_1x01_Horizontal_ScrewM4.0_Boxed.kicad_mod
+  footprint_library_directory: footprint_library_owner/kicad_kicad-footprints/
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/kicad_terminalblock_metzconnect_terminalblock_metzconnect_360425_1x01_horizontal_screwm4_0_boxed/working
+  github_path: http://github.com/kicad/kicad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/TerminalBlock_MetzConnect.pretty/TerminalBlock_MetzConnect_360425_1x01_Horizontal_ScrewM4.0_Boxed.kicad_mod
   links:
-    github_src: http://gitlab.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod
+    github_src: http://gitlab.com/kicad/kicad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
-    oomp_bot: footprints/kicad_terminalblock_metzconnect_terminalblock_metzconnect_360425_1x01_horizontal_screwm4_0_boxed/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_terminalblock_metzconnect_terminalblock_metzconnect_360425_1x01_horizontal_screwm4_0_boxed/working
-    oomp_src_flat: footprints_flat/footprints_flat/kicad_terminalblock_metzconnect_terminalblock_metzconnect_360425_1x01_horizontal_screwm4_0_boxed/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_terminalblock_metzconnect_terminalblock_metzconnect_360425_1x01_horizontal_screwm4_0_boxed/working
-  name: libraries/kicad-footprints/
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/kicad_terminalblock_metzconnect_terminalblock_metzconnect_360425_1x01_horizontal_screwm4_0_boxed/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/kicad_terminalblock_metzconnect_terminalblock_metzconnect_360425_1x01_horizontal_screwm4_0_boxed/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/kicad_terminalblock_metzconnect_terminalblock_metzconnect_360425_1x01_horizontal_screwm4_0_boxed/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/kicad_terminalblock_metzconnect_terminalblock_metzconnect_360425_1x01_horizontal_screwm4_0_boxed/working
+  name: kicad-footprints
   oomp:
     footprint_name: terminalblock_metzconnect_360425_1x01_horizontal_screwm4_0_boxed
     library_name: terminalblock_metzconnect
@@ -27,15 +27,13 @@
     oomp_key_extra: oomp_footprint_kicad_terminalblock_metzconnect_terminalblock_metzconnect_360425_1x01_horizontal_screwm4_0_boxed
     oomp_key_full: oomp_footprint_kicad_terminalblock_metzconnect_terminalblock_metzconnect_360425_1x01_horizontal_screwm4_0_boxed_2f7798
     oomp_key_simple: kicad_terminalblock_metzconnect_terminalblock_metzconnect_360425_1x01_horizontal_screwm4_0_boxed
-    original_filename: libraries/kicad-footprints/TerminalBlock_MetzConnect.pretty/TerminalBlock_MetzConnect_360425_1x01_Horizontal_ScrewM4.0_Boxed.kicad_mod
+    original_filename: data//oomlout_oomp_footprint_src/kicad-footprints/TerminalBlock_MetzConnect.pretty/TerminalBlock_MetzConnect_360425_1x01_Horizontal_ScrewM4.0_Boxed.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_terminalblock_metzconnect_terminalblock_metzconnect_360425_1x01_horizontal_screwm4_0_boxed
   oomp_key_full: oomp_footprint_kicad_terminalblock_metzconnect_terminalblock_metzconnect_360425_1x01_horizontal_screwm4_0_boxed
   oomp_key_simple: kicad_terminalblock_metzconnect_terminalblock_metzconnect_360425_1x01_horizontal_screwm4_0_boxed
   owner: kicad
   repo:
-    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
-    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
-      Authenticated requests get a higher rate limit. Check out the documentation
-      for more details.)'
+    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
+    message: Not Found
   url: https://gitlab.com/kicad/libraries/kicad-footprints

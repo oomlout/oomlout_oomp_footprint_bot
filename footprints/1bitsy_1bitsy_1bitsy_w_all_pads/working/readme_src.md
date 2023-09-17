@@ -1,29 +1,28 @@
-# 1bitsy-hardware-lib by 1Bitsy  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://github.com/1Bitsy/1bitsy-hardware-lib  
-The original footprint can be found at:
-http://github.com/1Bitsy/1bitsy-hardware-lib/blob/master/kicad/1bitsy.pretty/1bitsy.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: 1Bitsy with all pads. Can be used to connect to all exposed signals of the 1Bitsy  
-* libraryLink: 1bitsy-w-all-pads  
-* number_of_pads: 57  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | 1bitsy-hardware-lib/kicad/1bitsy.pretty/1bitsy-w-all-pads.kicad_mod |  
-| footprint | {'description': '1Bitsy with all pads. Can be used to connect to all exposed signals of the 1Bitsy', 'libraryLink': '1bitsy-w-all-pads', 'number_of_pads': 57} |  
-| footprint_library_directory | footprint_library_owner/1Bitsy_1bitsy-hardware-lib |  
-| footprint_library_directory_flat | footprints_flat/1bitsy_1bitsy_1bitsy_w_all_pads/working |  
-| github_path | http://github.com/1Bitsy/1bitsy-hardware-lib/blob/master/kicad/1bitsy.pretty/1bitsy-w-all-pads.kicad_mod |  
-| links | {'github_owner': '1Bitsy', 'github_repo_name': '1bitsy-hardware-lib', 'github_src': 'http://github.com/1Bitsy/1bitsy-hardware-lib/blob/master/kicad/1bitsy.pretty/1bitsy.kicad_mod', 'github_src_repo': 'https://github.com/1Bitsy/1bitsy-hardware-lib', 'oomp_bot': 'footprints/1bitsy_1bitsy_1bitsy_w_all_pads/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/1bitsy_1bitsy_1bitsy_w_all_pads/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/1bitsy_1bitsy_1bitsy_w_all_pads/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/1bitsy_1bitsy_1bitsy_w_all_pads/working'} |  
-| name | 1bitsy-hardware-lib |  
-| oomp | {'footprint_name': '1bitsy_w_all_pads', 'library_name': '1bitsy', 'md5': '148cf4c432387f22ba866903fbecf7a9', 'md5_10': '148cf4c432', 'md5_5': '148cf', 'md5_6': '148cf4', 'oomp_key': 'oomp_1bitsy_1bitsy_1bitsy_w_all_pads', 'oomp_key_extra': 'oomp_footprint_1bitsy_1bitsy_1bitsy_w_all_pads', 'oomp_key_full': 'oomp_footprint_1bitsy_1bitsy_1bitsy_w_all_pads_148cf4', 'oomp_key_simple': '1bitsy_1bitsy_1bitsy_w_all_pads', 'original_filename': '1bitsy-hardware-lib/kicad/1bitsy.pretty/1bitsy-w-all-pads.kicad_mod', 'owner_name': '1bitsy'} |  
-| oomp_key | oomp_1bitsy_1bitsy_1bitsy_w_all_pads |  
-| oomp_key_full | oomp_footprint_1bitsy_1bitsy_1bitsy_w_all_pads |  
-| oomp_key_simple | 1bitsy_1bitsy_1bitsy_w_all_pads |  
-| owner | 1Bitsy |  
-| repo | {'allow_forking': True, 'archive_url': 'https://api.github.com/repos/1Bitsy/1bitsy-hardware-lib/{archive_format}{/ref}', 'archived': False, 'assignees_url': 'https://api.github.com/repos/1Bitsy/1bitsy-hardware-lib/assignees{/user}', 'blobs_url': 'https://api.github.com/repos/1Bitsy/1bitsy-hardware-lib/git/blobs{/sha}', 'branches_url': 'https://api.github.com/repos/1Bitsy/1bitsy-hardware-lib/branches{/branch}', 'clone_url': 'https://github.com/1Bitsy/1bitsy-hardware-lib.git', 'collaborators_url': 'https://api.github.com/repos/1Bitsy/1bitsy-hardware-lib/collaborators{/collaborator}', 'comments_url': 'https://api.github.com/repos/1Bitsy/1bitsy-hardware-lib/comments{/number}', 'commits_url': 'https://api.github.com/repos/1Bitsy/1bitsy-hardware-lib/commits{/sha}', 'compare_url': 'https://api.github.com/repos/1Bitsy/1bitsy-hardware-lib/compare/{base}...{head}', 'contents_url': 'https://api.github.com/repos/1Bitsy/1bitsy-hardware-lib/contents/{+path}', 'contributors_url': 'https://api.github.com/repos/1Bitsy/1bitsy-hardware-lib/contributors', 'created_at': '2016-08-29T00:28:00Z', 'default_branch': 'master', 'deployments_url': 'https://api.github.com/repos/1Bitsy/1bitsy-hardware-lib/deployments', 'description': 'Libraries, templates and other resources for your next 1Bitsy based hardware project.', 'disabled': False, 'downloads_url': 'https://api.github.com/repos/1Bitsy/1bitsy-hardware-lib/downloads', 'events_url': 'https://api.github.com/repos/1Bitsy/1bitsy-hardware-lib/events', 'fork': False, 'forks': 2, 'forks_count': 2, 'forks_url': 'https://api.github.com/repos/1Bitsy/1bitsy-hardware-lib/forks', 'full_name': '1Bitsy/1bitsy-hardware-lib', 'git_commits_url': 'https://api.github.com/repos/1Bitsy/1bitsy-hardware-lib/git/commits{/sha}', 'git_refs_url': 'https://api.github.com/repos/1Bitsy/1bitsy-hardware-lib/git/refs{/sha}', 'git_tags_url': 'https://api.github.com/repos/1Bitsy/1bitsy-hardware-lib/git/tags{/sha}', 'git_url': 'git://github.com/1Bitsy/1bitsy-hardware-lib.git', 'has_discussions': False, 'has_downloads': True, 'has_issues': True, 'has_pages': False, 'has_projects': True, 'has_wiki': True, 'homepage': 'http://1bitsy.org', 'hooks_url': 'https://api.github.com/repos/1Bitsy/1bitsy-hardware-lib/hooks', 'html_url': 'https://github.com/1Bitsy/1bitsy-hardware-lib', 'id': 66798192, 'is_template': False, 'issue_comment_url': 'https://api.github.com/repos/1Bitsy/1bitsy-hardware-lib/issues/comments{/number}', 'issue_events_url': 'https://api.github.com/repos/1Bitsy/1bitsy-hardware-lib/issues/events{/number}', 'issues_url': 'https://api.github.com/repos/1Bitsy/1bitsy-hardware-lib/issues{/number}', 'keys_url': 'https://api.github.com/repos/1Bitsy/1bitsy-hardware-lib/keys{/key_id}', 'labels_url': 'https://api.github.com/repos/1Bitsy/1bitsy-hardware-lib/labels{/name}', 'language': None, 'languages_url': 'https://api.github.com/repos/1Bitsy/1bitsy-hardware-lib/languages', 'license': None, 'merges_url': 'https://api.github.com/repos/1Bitsy/1bitsy-hardware-lib/merges', 'milestones_url': 'https://api.github.com/repos/1Bitsy/1bitsy-hardware-lib/milestones{/number}', 'mirror_url': None, 'name': '1bitsy-hardware-lib', 'network_count': 2, 'node_id': 'MDEwOlJlcG9zaXRvcnk2Njc5ODE5Mg==', 'notifications_url': 'https://api.github.com/repos/1Bitsy/1bitsy-hardware-lib/notifications{?since,all,participating}', 'open_issues': 0, 'open_issues_count': 0, 'organization': {'avatar_url': 'https://avatars.githubusercontent.com/u/20505695?v=4', 'events_url': 'https://api.github.com/users/1Bitsy/events{/privacy}', 'followers_url': 'https://api.github.com/users/1Bitsy/followers', 'following_url': 'https://api.github.com/users/1Bitsy/following{/other_user}', 'gists_url': 'https://api.github.com/users/1Bitsy/gists{/gist_id}', 'gravatar_id': '', 'html_url': 'https://github.com/1Bitsy', 'id': 20505695, 'login': '1Bitsy', 'node_id': 'MDEyOk9yZ2FuaXphdGlvbjIwNTA1Njk1', 'organizations_url': 'https://api.github.com/users/1Bitsy/orgs', 'received_events_url': 'https://api.github.com/users/1Bitsy/received_events', 'repos_url': 'https://api.github.com/users/1Bitsy/repos', 'site_admin': False, 'starred_url': 'https://api.github.com/users/1Bitsy/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/1Bitsy/subscriptions', 'type': 'Organization', 'url': 'https://api.github.com/users/1Bitsy'}, 'owner': {'avatar_url': 'https://avatars.githubusercontent.com/u/20505695?v=4', 'events_url': 'https://api.github.com/users/1Bitsy/events{/privacy}', 'followers_url': 'https://api.github.com/users/1Bitsy/followers', 'following_url': 'https://api.github.com/users/1Bitsy/following{/other_user}', 'gists_url': 'https://api.github.com/users/1Bitsy/gists{/gist_id}', 'gravatar_id': '', 'html_url': 'https://github.com/1Bitsy', 'id': 20505695, 'login': '1Bitsy', 'node_id': 'MDEyOk9yZ2FuaXphdGlvbjIwNTA1Njk1', 'organizations_url': 'https://api.github.com/users/1Bitsy/orgs', 'received_events_url': 'https://api.github.com/users/1Bitsy/received_events', 'repos_url': 'https://api.github.com/users/1Bitsy/repos', 'site_admin': False, 'starred_url': 'https://api.github.com/users/1Bitsy/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/1Bitsy/subscriptions', 'type': 'Organization', 'url': 'https://api.github.com/users/1Bitsy'}, 'private': False, 'pulls_url': 'https://api.github.com/repos/1Bitsy/1bitsy-hardware-lib/pulls{/number}', 'pushed_at': '2017-06-25T08:46:43Z', 'releases_url': 'https://api.github.com/repos/1Bitsy/1bitsy-hardware-lib/releases{/id}', 'size': 12, 'ssh_url': 'git@github.com:1Bitsy/1bitsy-hardware-lib.git', 'stargazers_count': 7, 'stargazers_url': 'https://api.github.com/repos/1Bitsy/1bitsy-hardware-lib/stargazers', 'statuses_url': 'https://api.github.com/repos/1Bitsy/1bitsy-hardware-lib/statuses/{sha}', 'subscribers_count': 2, 'subscribers_url': 'https://api.github.com/repos/1Bitsy/1bitsy-hardware-lib/subscribers', 'subscription_url': 'https://api.github.com/repos/1Bitsy/1bitsy-hardware-lib/subscription', 'svn_url': 'https://github.com/1Bitsy/1bitsy-hardware-lib', 'tags_url': 'https://api.github.com/repos/1Bitsy/1bitsy-hardware-lib/tags', 'teams_url': 'https://api.github.com/repos/1Bitsy/1bitsy-hardware-lib/teams', 'temp_clone_token': None, 'topics': [], 'trees_url': 'https://api.github.com/repos/1Bitsy/1bitsy-hardware-lib/git/trees{/sha}', 'updated_at': '2022-07-09T15:25:49Z', 'url': 'https://api.github.com/repos/1Bitsy/1bitsy-hardware-lib', 'visibility': 'public', 'watchers': 7, 'watchers_count': 7, 'web_commit_signoff_required': False} |  
-| url | http://github.com/1Bitsy/1bitsy-hardware-lib |  
-
+# OOMP Footprint  
+## 1bitsy-w-all-pads  by 1Bitsy  
+  
+oomp key: oomp_1bitsy_1bitsy_1bitsy_w_all_pads  
+  
+source repo at: [http://github.com/1Bitsy/1bitsy-hardware-lib/blob/master/kicad/1bitsy.pretty/1bitsy.kicad_mod](http://github.com/1Bitsy/1bitsy-hardware-lib/blob/master/kicad/1bitsy.pretty/1bitsy.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | 1bitsy-w-all-pads | 
+| footprint description | 1Bitsy with all pads. Can be used to connect to all exposed signals of the 1Bitsy | 
+| number of pads | 57 | 
+| github path | http://github.com/1Bitsy/1bitsy-hardware-lib/blob/master/kicad/1bitsy.pretty/1bitsy-w-all-pads.kicad_mod | 
+| oomp key | oomp_1bitsy_1bitsy_1bitsy_w_all_pads | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/1bitsy_1bitsy_1bitsy_w_all_pads/working | 
+## Images  
+  
+[![working.png](working_140.png)](working.png)  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_140.png)](working_kicad_pcb_3d.png)  
+  
+[![working_kicad_pcb_3d_back.png](working_kicad_pcb_3d_back_140.png)](working_kicad_pcb_3d_back.png)  
+  
+[![working_kicad_pcb_3d_front.png](working_kicad_pcb_3d_front_140.png)](working_kicad_pcb_3d_front.png)  

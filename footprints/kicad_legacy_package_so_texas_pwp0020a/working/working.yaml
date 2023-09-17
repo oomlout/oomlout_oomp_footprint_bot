@@ -1,0 +1,40 @@
+- file: data//oomlout_oomp_footprint_src/kicad-footprints/Package_SO.pretty/Texas_PWP0020A.kicad_mod
+  footprint:
+    description: 20-Pin Thermally Enhanced Thin Shrink Small-Outline Package, Body
+      4.4x6.5x1.1mm, Pad 3.0x4.2mm, Texas Instruments (see http://www.ti.com/lit/ds/symlink/lm5118.pdf)
+    libraryLink: Texas_PWP0020A
+    number_of_pads: 25
+  footprint_library_directory: footprint_library_owner/kicad-legacy_kicad-footprints
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/kicad_legacy_package_so_texas_pwp0020a/working
+  github_path: http://github.com/kicad-legacy/kicad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/Package_SO.pretty/Texas_PWP0020A.kicad_mod
+  links:
+    github_src: http://gitlab.com/kicad-legacy/kicad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod
+    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/kicad_legacy_package_so_texas_pwp0020a/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/kicad_legacy_package_so_texas_pwp0020a/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/kicad_legacy_package_so_texas_pwp0020a/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/kicad_legacy_package_so_texas_pwp0020a/working
+  name: kicad-footprints
+  oomp:
+    footprint_name: texas_pwp0020a
+    library_name: package_so
+    md5: 610ddf8d4fa5d79b4971d23d4edfb50e
+    md5_10: 610ddf8d4f
+    md5_5: 610dd
+    md5_6: 610ddf
+    oomp_key: oomp_kicad_legacy_package_so_texas_pwp0020a
+    oomp_key_extra: oomp_footprint_kicad_legacy_package_so_texas_pwp0020a
+    oomp_key_full: oomp_footprint_kicad_legacy_package_so_texas_pwp0020a_610ddf
+    oomp_key_simple: kicad_legacy_package_so_texas_pwp0020a
+    original_filename: data//oomlout_oomp_footprint_src/kicad-footprints/Package_SO.pretty/Texas_PWP0020A.kicad_mod
+    owner_name: kicad_legacy
+  oomp_key: oomp_kicad_legacy_package_so_texas_pwp0020a
+  oomp_key_full: oomp_footprint_kicad_legacy_package_so_texas_pwp0020a
+  oomp_key_simple: kicad_legacy_package_so_texas_pwp0020a
+  owner: kicad-legacy
+  repo:
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
+  url: http://github.com/kicad-legacy/kicad-footprints

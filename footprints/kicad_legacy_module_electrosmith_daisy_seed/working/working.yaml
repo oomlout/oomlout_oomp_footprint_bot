@@ -1,0 +1,45 @@
+- file: data//oomlout_oomp_footprint_src/kicad-footprints/Module.pretty/Electrosmith_Daisy_Seed.kicad_mod
+  footprint:
+    description: Embedded platform for audio applications. 96kHz / 24-bit audio hardware.
+      64MB of SDRAM for up to 10 minute long audio. ARM Cortex-M7 MCU, running at
+      480MHz. 31 total GPIO pins with configurable functionality. 12-bit Digital to
+      Analog Converters (x2). SD card interfaces. PWM outputs. Serial Protocols for
+      connecting external sensors and devices (SPI, UART, I2S, I2C). Dedicated VIN
+      pin for power. Micro USB port, and additional USB pins for full OTG-support
+      as host and device. https://static1.squarespace.com/static/58d03fdc1b10e3bf442567b8/t/6227e6236f02fb68d1577146/1646781988478/Daisy_Seed_datasheet_v1.0.3.pdf
+    libraryLink: Electrosmith_Daisy_Seed
+    number_of_pads: 40
+  footprint_library_directory: footprint_library_owner/kicad-legacy_kicad-footprints
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/kicad_legacy_module_electrosmith_daisy_seed/working
+  github_path: http://github.com/kicad-legacy/kicad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/Module.pretty/Electrosmith_Daisy_Seed.kicad_mod
+  links:
+    github_src: http://gitlab.com/kicad-legacy/kicad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod
+    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/kicad_legacy_module_electrosmith_daisy_seed/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/kicad_legacy_module_electrosmith_daisy_seed/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/kicad_legacy_module_electrosmith_daisy_seed/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/kicad_legacy_module_electrosmith_daisy_seed/working
+  name: kicad-footprints
+  oomp:
+    footprint_name: electrosmith_daisy_seed
+    library_name: module
+    md5: 1c2066eb797d657f938e423f5bbc1a97
+    md5_10: 1c2066eb79
+    md5_5: 1c206
+    md5_6: 1c2066
+    oomp_key: oomp_kicad_legacy_module_electrosmith_daisy_seed
+    oomp_key_extra: oomp_footprint_kicad_legacy_module_electrosmith_daisy_seed
+    oomp_key_full: oomp_footprint_kicad_legacy_module_electrosmith_daisy_seed_1c2066
+    oomp_key_simple: kicad_legacy_module_electrosmith_daisy_seed
+    original_filename: data//oomlout_oomp_footprint_src/kicad-footprints/Module.pretty/Electrosmith_Daisy_Seed.kicad_mod
+    owner_name: kicad_legacy
+  oomp_key: oomp_kicad_legacy_module_electrosmith_daisy_seed
+  oomp_key_full: oomp_footprint_kicad_legacy_module_electrosmith_daisy_seed
+  oomp_key_simple: kicad_legacy_module_electrosmith_daisy_seed
+  owner: kicad-legacy
+  repo:
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
+  url: http://github.com/kicad-legacy/kicad-footprints

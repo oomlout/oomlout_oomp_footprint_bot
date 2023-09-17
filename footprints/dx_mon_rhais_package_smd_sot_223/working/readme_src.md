@@ -1,29 +1,20 @@
-# rhais_package-smd.pretty by DX-MON  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/DX-MON/rhais_package-smd.pretty/blob/master/SSOP-28_5.3x10.2mm_P0.65mm.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: module CMS SOT223 4 pins  
-* libraryLink: SOT-223  
-* number_of_pads: 4  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | rhais_package-smd.pretty/SOT-223.kicad_mod |  
-| footprint | {'description': 'module CMS SOT223 4 pins', 'libraryLink': 'SOT-223', 'number_of_pads': 4} |  
-| footprint_library_directory | footprint_library_owner/DX-MON_rhais_package-smd.pretty |  
-| footprint_library_directory_flat | footprints_flat/dx_mon_rhais_package_smd_sot_223/working |  
-| github_path | http://github.com/DX-MON/rhais_package-smd.pretty/blob/master/SOT-223.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/DX-MON/rhais_package-smd.pretty/blob/master/SSOP-28_5.3x10.2mm_P0.65mm.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/dx_mon_rhais_package_smd_sot_223/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/dx_mon_rhais_package_smd_sot_223/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/dx_mon_rhais_package_smd_sot_223/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/dx_mon_rhais_package_smd_sot_223/working'} |  
-| name | rhais_package-smd.pretty |  
-| oomp | {'footprint_name': 'sot_223', 'library_name': 'rhais_package_smd', 'md5': '809cd2a0ba5aa7d62051fc18d10c14a6', 'md5_10': '809cd2a0ba', 'md5_5': '809cd', 'md5_6': '809cd2', 'oomp_key': 'oomp_dx_mon_rhais_package_smd_sot_223', 'oomp_key_extra': 'oomp_footprint_dx_mon_rhais_package_smd_sot_223', 'oomp_key_full': 'oomp_footprint_dx_mon_rhais_package_smd_sot_223_809cd2', 'oomp_key_simple': 'dx_mon_rhais_package_smd_sot_223', 'original_filename': 'rhais_package-smd.pretty/SOT-223.kicad_mod', 'owner_name': 'dx_mon'} |  
-| oomp_key | oomp_dx_mon_rhais_package_smd_sot_223 |  
-| oomp_key_full | oomp_footprint_dx_mon_rhais_package_smd_sot_223 |  
-| oomp_key_simple | dx_mon_rhais_package_smd_sot_223 |  
-| owner | DX-MON |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/DX-MON/rhais_package-smd.pretty |  
-
+# OOMP Footprint  
+## SOT-223  by none  
+  
+oomp key: oomp_dx_mon_rhais_package_smd_sot_223  
+  
+source repo at: [http://gitlab.com/DX-MON/rhais_package-smd.pretty/blob/master/SSOP-28_5.3x10.2mm_P0.65mm.kicad_mod](http://gitlab.com/DX-MON/rhais_package-smd.pretty/blob/master/SSOP-28_5.3x10.2mm_P0.65mm.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | SOT-223 | 
+| footprint description | module CMS SOT223 4 pins | 
+| number of pads | 4 | 
+| github path | http://github.com/DX-MON/rhais_package-smd.pretty/blob/master/SOT-223.kicad_mod | 
+| oomp key | oomp_dx_mon_rhais_package_smd_sot_223 | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/dx_mon_rhais_package_smd_sot_223/working | 
+## Images  

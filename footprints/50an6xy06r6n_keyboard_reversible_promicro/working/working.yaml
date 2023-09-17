@@ -1,20 +1,20 @@
-- file: keyboard_reversible.pretty/ProMicro.kicad_mod
+- file: data//oomlout_oomp_footprint_src/keyboard_reversible.pretty/ProMicro.kicad_mod
   footprint:
     description: Solder-jumper reversible Pro Micro footprint
     libraryLink: ProMicro
     number_of_pads: 242
   footprint_library_directory: footprint_library_owner/50an6xy06r6n_keyboard_reversible.pretty
-  footprint_library_directory_flat: footprints_flat/50an6xy06r6n_keyboard_reversible_promicro/working
-  github_path: http://github.com/50an6xy06r6n/keyboard_reversible.pretty/blob/master/ProMicro.kicad_mod
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/50an6xy06r6n_keyboard_reversible_promicro/working
+  github_path: http://github.com/50an6xy06r6n/keyboard_reversible.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/ProMicro.kicad_mod
   links:
     github_owner: 50an6xy06r6n
     github_repo_name: keyboard_reversible.pretty
-    github_src: http://github.com/50an6xy06r6n/keyboard_reversible.pretty/blob/master/ProMicro_unrouted.kicad_mod
+    github_src: http://github.com/50an6xy06r6n/keyboard_reversible.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/ProMicro_unrouted.kicad_mod
     github_src_repo: https://github.com/50an6xy06r6n/keyboard_reversible.pretty
-    oomp_bot: footprints/50an6xy06r6n_keyboard_reversible_promicro/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/50an6xy06r6n_keyboard_reversible_promicro/working
-    oomp_src_flat: footprints_flat/footprints_flat/50an6xy06r6n_keyboard_reversible_promicro/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/50an6xy06r6n_keyboard_reversible_promicro/working
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/50an6xy06r6n_keyboard_reversible_promicro/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/50an6xy06r6n_keyboard_reversible_promicro/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/50an6xy06r6n_keyboard_reversible_promicro/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/50an6xy06r6n_keyboard_reversible_promicro/working
   name: keyboard_reversible.pretty
   oomp:
     footprint_name: promicro
@@ -27,7 +27,7 @@
     oomp_key_extra: oomp_footprint_50an6xy06r6n_keyboard_reversible_promicro
     oomp_key_full: oomp_footprint_50an6xy06r6n_keyboard_reversible_promicro_deb1a9
     oomp_key_simple: 50an6xy06r6n_keyboard_reversible_promicro
-    original_filename: keyboard_reversible.pretty/ProMicro.kicad_mod
+    original_filename: data//oomlout_oomp_footprint_src/keyboard_reversible.pretty/ProMicro.kicad_mod
     owner_name: 50an6xy06r6n
   oomp_key: oomp_50an6xy06r6n_keyboard_reversible_promicro
   oomp_key_full: oomp_footprint_50an6xy06r6n_keyboard_reversible_promicro
@@ -55,8 +55,8 @@
     downloads_url: https://api.github.com/repos/50an6xy06r6n/keyboard_reversible.pretty/downloads
     events_url: https://api.github.com/repos/50an6xy06r6n/keyboard_reversible.pretty/events
     fork: false
-    forks: 0
-    forks_count: 0
+    forks: 1
+    forks_count: 1
     forks_url: https://api.github.com/repos/50an6xy06r6n/keyboard_reversible.pretty/forks
     full_name: 50an6xy06r6n/keyboard_reversible.pretty
     git_commits_url: https://api.github.com/repos/50an6xy06r6n/keyboard_reversible.pretty/git/commits{/sha}
@@ -91,7 +91,7 @@
     milestones_url: https://api.github.com/repos/50an6xy06r6n/keyboard_reversible.pretty/milestones{/number}
     mirror_url: null
     name: keyboard_reversible.pretty
-    network_count: 0
+    network_count: 1
     node_id: MDEwOlJlcG9zaXRvcnk0MDM1MTI3NTU=
     notifications_url: https://api.github.com/repos/50an6xy06r6n/keyboard_reversible.pretty/notifications{?since,all,participating}
     open_issues: 1
@@ -121,7 +121,7 @@
     releases_url: https://api.github.com/repos/50an6xy06r6n/keyboard_reversible.pretty/releases{/id}
     size: 32
     ssh_url: git@github.com:50an6xy06r6n/keyboard_reversible.pretty.git
-    stargazers_count: 39
+    stargazers_count: 41
     stargazers_url: https://api.github.com/repos/50an6xy06r6n/keyboard_reversible.pretty/stargazers
     statuses_url: https://api.github.com/repos/50an6xy06r6n/keyboard_reversible.pretty/statuses/{sha}
     subscribers_count: 1
@@ -133,10 +133,10 @@
     temp_clone_token: null
     topics: []
     trees_url: https://api.github.com/repos/50an6xy06r6n/keyboard_reversible.pretty/git/trees{/sha}
-    updated_at: '2023-08-10T10:08:16Z'
+    updated_at: '2023-08-20T20:42:13Z'
     url: https://api.github.com/repos/50an6xy06r6n/keyboard_reversible.pretty
     visibility: public
-    watchers: 39
-    watchers_count: 39
+    watchers: 41
+    watchers_count: 41
     web_commit_signoff_required: false
   url: http://github.com/50an6xy06r6n/keyboard_reversible.pretty

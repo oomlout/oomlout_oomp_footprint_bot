@@ -1,5 +1,5 @@
 import tmp.data.oomlout_oomp_footprint_src.oomlout_oomp_footprint_src as oom_f_s
-
+import action_setup
 
 import oom_git
 
@@ -25,7 +25,8 @@ def main(**kwargs):
     #push footprint_src    
     oom_git.push_to_git(directory=directory)
 
-
+    # bot stuff
+    action_setup.main()
 
     #oomlout_oomp_symbol_src.clone_and_copy_symbols(test=test, dir_base="tmp/data/oomlout_oomp_symbol_src")
     #oomlout_oomp_symbol_src.make_symbols_readme()

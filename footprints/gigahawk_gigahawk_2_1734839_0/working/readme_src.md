@@ -1,29 +1,20 @@
-# Gigahawk.pretty by Gigahawk  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/Gigahawk/Gigahawk.pretty/blob/master/WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4.3mm.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: None  
-* libraryLink: 2-1734839-0  
-* number_of_pads: 22  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | Gigahawk.pretty/2-1734839-0.kicad_mod |  
-| footprint | {'description': None, 'libraryLink': '2-1734839-0', 'number_of_pads': 22} |  
-| footprint_library_directory | footprint_library_owner/Gigahawk_Gigahawk.pretty |  
-| footprint_library_directory_flat | footprints_flat/gigahawk_gigahawk_2_1734839_0/working |  
-| github_path | http://github.com/Gigahawk/Gigahawk.pretty/blob/master/2-1734839-0.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/Gigahawk/Gigahawk.pretty/blob/master/WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4.3mm.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/gigahawk_gigahawk_2_1734839_0/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/gigahawk_gigahawk_2_1734839_0/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/gigahawk_gigahawk_2_1734839_0/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/gigahawk_gigahawk_2_1734839_0/working'} |  
-| name | Gigahawk.pretty |  
-| oomp | {'footprint_name': '2_1734839_0', 'library_name': 'gigahawk', 'md5': '14e2c9509c95ddabdff4dc4fdffcc90a', 'md5_10': '14e2c9509c', 'md5_5': '14e2c', 'md5_6': '14e2c9', 'oomp_key': 'oomp_gigahawk_gigahawk_2_1734839_0', 'oomp_key_extra': 'oomp_footprint_gigahawk_gigahawk_2_1734839_0', 'oomp_key_full': 'oomp_footprint_gigahawk_gigahawk_2_1734839_0_14e2c9', 'oomp_key_simple': 'gigahawk_gigahawk_2_1734839_0', 'original_filename': 'Gigahawk.pretty/2-1734839-0.kicad_mod', 'owner_name': 'gigahawk'} |  
-| oomp_key | oomp_gigahawk_gigahawk_2_1734839_0 |  
-| oomp_key_full | oomp_footprint_gigahawk_gigahawk_2_1734839_0 |  
-| oomp_key_simple | gigahawk_gigahawk_2_1734839_0 |  
-| owner | Gigahawk |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/Gigahawk/Gigahawk.pretty |  
-
+# OOMP Footprint  
+## 2-1734839-0  by none  
+  
+oomp key: oomp_gigahawk_gigahawk_2_1734839_0  
+  
+source repo at: [http://gitlab.com/Gigahawk/Gigahawk.pretty/blob/master/WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4.3mm.kicad_mod](http://gitlab.com/Gigahawk/Gigahawk.pretty/blob/master/WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4.3mm.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | 2-1734839-0 | 
+| footprint description | None | 
+| number of pads | 22 | 
+| github path | http://github.com/Gigahawk/Gigahawk.pretty/blob/master/2-1734839-0.kicad_mod | 
+| oomp key | oomp_gigahawk_gigahawk_2_1734839_0 | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/gigahawk_gigahawk_2_1734839_0/working | 
+## Images  

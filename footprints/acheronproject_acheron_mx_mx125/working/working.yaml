@@ -1,20 +1,20 @@
-- file: acheron_MX.pretty/MX125.kicad_mod
+- file: data//oomlout_oomp_footprint_src/acheron_MX.pretty/MX125.kicad_mod
   footprint:
     description: null
     libraryLink: MX125
     number_of_pads: 5
   footprint_library_directory: footprint_library_owner/AcheronProject_acheron_MX.pretty
-  footprint_library_directory_flat: footprints_flat/acheronproject_acheron_mx_mx125/working
-  github_path: http://github.com/AcheronProject/acheron_MX.pretty/blob/master/MX125.kicad_mod
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/acheronproject_acheron_mx_mx125/working
+  github_path: http://github.com/AcheronProject/acheron_MX.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/MX125.kicad_mod
   links:
     github_owner: AcheronProject
     github_repo_name: acheron_MX.pretty
-    github_src: http://github.com/AcheronProject/acheron_MX.pretty/blob/master/MX_ISOEnter_LED.kicad_mod
+    github_src: http://github.com/AcheronProject/acheron_MX.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/MX_ISOEnter_LED.kicad_mod
     github_src_repo: https://github.com/AcheronProject/acheron_MX.pretty
-    oomp_bot: footprints/acheronproject_acheron_mx_mx125/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/acheronproject_acheron_mx_mx125/working
-    oomp_src_flat: footprints_flat/footprints_flat/acheronproject_acheron_mx_mx125/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/acheronproject_acheron_mx_mx125/working
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/acheronproject_acheron_mx_mx125/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/acheronproject_acheron_mx_mx125/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/acheronproject_acheron_mx_mx125/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/acheronproject_acheron_mx_mx125/working
   name: acheron_MX.pretty
   oomp:
     footprint_name: mx125
@@ -27,7 +27,7 @@
     oomp_key_extra: oomp_footprint_acheronproject_acheron_mx_mx125
     oomp_key_full: oomp_footprint_acheronproject_acheron_mx_mx125_c91691
     oomp_key_simple: acheronproject_acheron_mx_mx125
-    original_filename: acheron_MX.pretty/MX125.kicad_mod
+    original_filename: data//oomlout_oomp_footprint_src/acheron_MX.pretty/MX125.kicad_mod
     owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_mx_mx125
   oomp_key_full: oomp_footprint_acheronproject_acheron_mx_mx125

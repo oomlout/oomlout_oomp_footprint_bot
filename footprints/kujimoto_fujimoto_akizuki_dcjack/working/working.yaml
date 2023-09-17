@@ -1,20 +1,20 @@
-- file: fujimoto.pretty/Akizuki_DCJACK.kicad_mod
+- file: data//oomlout_oomp_footprint_src/fujimoto.pretty/Akizuki_DCJACK.kicad_mod
   footprint:
     description: module 1 pin (ou trou mecanique de percage)
     libraryLink: Akizuki_DCJACK
     number_of_pads: 3
   footprint_library_directory: footprint_library_owner/Kujimoto_fujimoto.pretty
-  footprint_library_directory_flat: footprints_flat/kujimoto_fujimoto_akizuki_dcjack/working
-  github_path: http://github.com/Kujimoto/fujimoto.pretty/blob/master/Akizuki_DCJACK.kicad_mod
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/kujimoto_fujimoto_akizuki_dcjack/working
+  github_path: http://github.com/Kujimoto/fujimoto.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Akizuki_DCJACK.kicad_mod
   links:
     github_owner: Kujimoto
     github_repo_name: fujimoto.pretty
-    github_src: http://github.com/Kujimoto/fujimoto.pretty/blob/master/USB_B.kicad_mod
+    github_src: http://github.com/Kujimoto/fujimoto.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/USB_B.kicad_mod
     github_src_repo: https://github.com/Kujimoto/fujimoto.pretty
-    oomp_bot: footprints/kujimoto_fujimoto_akizuki_dcjack/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kujimoto_fujimoto_akizuki_dcjack/working
-    oomp_src_flat: footprints_flat/footprints_flat/kujimoto_fujimoto_akizuki_dcjack/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kujimoto_fujimoto_akizuki_dcjack/working
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/kujimoto_fujimoto_akizuki_dcjack/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/kujimoto_fujimoto_akizuki_dcjack/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/kujimoto_fujimoto_akizuki_dcjack/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/kujimoto_fujimoto_akizuki_dcjack/working
   name: fujimoto.pretty
   oomp:
     footprint_name: akizuki_dcjack
@@ -27,7 +27,7 @@
     oomp_key_extra: oomp_footprint_kujimoto_fujimoto_akizuki_dcjack
     oomp_key_full: oomp_footprint_kujimoto_fujimoto_akizuki_dcjack_afbfff
     oomp_key_simple: kujimoto_fujimoto_akizuki_dcjack
-    original_filename: fujimoto.pretty/Akizuki_DCJACK.kicad_mod
+    original_filename: data//oomlout_oomp_footprint_src/fujimoto.pretty/Akizuki_DCJACK.kicad_mod
     owner_name: kujimoto
   oomp_key: oomp_kujimoto_fujimoto_akizuki_dcjack
   oomp_key_full: oomp_footprint_kujimoto_fujimoto_akizuki_dcjack

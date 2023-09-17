@@ -1,20 +1,20 @@
-- file: MechChurch-parts.pretty/Switch_Reset_THT.kicad_mod
+- file: data//oomlout_oomp_footprint_src/MechChurch-parts.pretty/Switch_Reset_THT.kicad_mod
   footprint:
     description: null
     libraryLink: Switch_Reset_THT
     number_of_pads: 2
   footprint_library_directory: footprint_library_owner/MechChurch_MechChurch-parts.pretty
-  footprint_library_directory_flat: footprints_flat/mechchurch_mechchurch_parts_switch_reset_tht/working
-  github_path: http://github.com/MechChurch/MechChurch-parts.pretty/blob/master/Switch_Reset_THT.kicad_mod
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/mechchurch_mechchurch_parts_switch_reset_tht/working
+  github_path: http://github.com/MechChurch/MechChurch-parts.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Switch_Reset_THT.kicad_mod
   links:
     github_owner: MechChurch
     github_repo_name: MechChurch-parts.pretty
-    github_src: http://github.com/MechChurch/MechChurch-parts.pretty/blob/master/TRSS_DUAL_THT.kicad_mod
+    github_src: http://github.com/MechChurch/MechChurch-parts.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/TRSS_DUAL_THT.kicad_mod
     github_src_repo: https://github.com/MechChurch/MechChurch-parts.pretty
-    oomp_bot: footprints/mechchurch_mechchurch_parts_switch_reset_tht/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/mechchurch_mechchurch_parts_switch_reset_tht/working
-    oomp_src_flat: footprints_flat/footprints_flat/mechchurch_mechchurch_parts_switch_reset_tht/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/mechchurch_mechchurch_parts_switch_reset_tht/working
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/mechchurch_mechchurch_parts_switch_reset_tht/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/mechchurch_mechchurch_parts_switch_reset_tht/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/mechchurch_mechchurch_parts_switch_reset_tht/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/mechchurch_mechchurch_parts_switch_reset_tht/working
   name: MechChurch-parts.pretty
   oomp:
     footprint_name: switch_reset_tht
@@ -27,7 +27,7 @@
     oomp_key_extra: oomp_footprint_mechchurch_mechchurch_parts_switch_reset_tht
     oomp_key_full: oomp_footprint_mechchurch_mechchurch_parts_switch_reset_tht_2836be
     oomp_key_simple: mechchurch_mechchurch_parts_switch_reset_tht
-    original_filename: MechChurch-parts.pretty/Switch_Reset_THT.kicad_mod
+    original_filename: data//oomlout_oomp_footprint_src/MechChurch-parts.pretty/Switch_Reset_THT.kicad_mod
     owner_name: mechchurch
   oomp_key: oomp_mechchurch_mechchurch_parts_switch_reset_tht
   oomp_key_full: oomp_footprint_mechchurch_mechchurch_parts_switch_reset_tht

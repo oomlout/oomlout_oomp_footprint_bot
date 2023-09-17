@@ -1,18 +1,20 @@
-- file: kicad-footprints-rchojetzki.pretty/36wire014mm2_test.kicad_mod
+- file: data//oomlout_oomp_footprint_src/kicad-footprints-rchojetzki.pretty/36wire014mm2_test.kicad_mod
   footprint:
     description: null
     libraryLink: 36wire014mm2_test
     number_of_pads: 40
   footprint_library_directory: footprint_library_owner/rchojetzki-kicad_kicad-footprints-rchojetzki.pretty
-  footprint_library_directory_flat: footprints_flat/rchojetzki_kicad_kicad_footprints_rchojetzki_36wire014mm2_test/working
-  github_path: http://github.com/rchojetzki-kicad/kicad-footprints-rchojetzki.pretty/blob/master/36wire014mm2_test.kicad_mod
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/rchojetzki_kicad_kicad_footprints_rchojetzki_36wire014mm2_test/working
+  github_path: http://github.com/rchojetzki-kicad/kicad-footprints-rchojetzki.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/36wire014mm2_test.kicad_mod
   links:
-    github_src: http://gitlab.com/rchojetzki-kicad/kicad-footprints-rchojetzki.pretty/blob/master/S_JUMPER_2_rchojetzki.kicad_mod
-    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
-    oomp_bot: footprints/rchojetzki_kicad_kicad_footprints_rchojetzki_36wire014mm2_test/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/rchojetzki_kicad_kicad_footprints_rchojetzki_36wire014mm2_test/working
-    oomp_src_flat: footprints_flat/footprints_flat/rchojetzki_kicad_kicad_footprints_rchojetzki_36wire014mm2_test/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/rchojetzki_kicad_kicad_footprints_rchojetzki_36wire014mm2_test/working
+    github_owner: rchojetzki-kicad
+    github_repo_name: kicad-footprints-rchojetzki.pretty
+    github_src: http://github.com/rchojetzki-kicad/kicad-footprints-rchojetzki.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/S_JUMPER_2_rchojetzki.kicad_mod
+    github_src_repo: https://github.com/rchojetzki-kicad/kicad-footprints-rchojetzki.pretty
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/rchojetzki_kicad_kicad_footprints_rchojetzki_36wire014mm2_test/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/rchojetzki_kicad_kicad_footprints_rchojetzki_36wire014mm2_test/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/rchojetzki_kicad_kicad_footprints_rchojetzki_36wire014mm2_test/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/rchojetzki_kicad_kicad_footprints_rchojetzki_36wire014mm2_test/working
   name: kicad-footprints-rchojetzki.pretty
   oomp:
     footprint_name: 36wire014mm2_test
@@ -25,15 +27,130 @@
     oomp_key_extra: oomp_footprint_rchojetzki_kicad_kicad_footprints_rchojetzki_36wire014mm2_test
     oomp_key_full: oomp_footprint_rchojetzki_kicad_kicad_footprints_rchojetzki_36wire014mm2_test_4b768d
     oomp_key_simple: rchojetzki_kicad_kicad_footprints_rchojetzki_36wire014mm2_test
-    original_filename: kicad-footprints-rchojetzki.pretty/36wire014mm2_test.kicad_mod
+    original_filename: data//oomlout_oomp_footprint_src/kicad-footprints-rchojetzki.pretty/36wire014mm2_test.kicad_mod
     owner_name: rchojetzki_kicad
   oomp_key: oomp_rchojetzki_kicad_kicad_footprints_rchojetzki_36wire014mm2_test
   oomp_key_full: oomp_footprint_rchojetzki_kicad_kicad_footprints_rchojetzki_36wire014mm2_test
   oomp_key_simple: rchojetzki_kicad_kicad_footprints_rchojetzki_36wire014mm2_test
   owner: rchojetzki-kicad
   repo:
-    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
-    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
-      Authenticated requests get a higher rate limit. Check out the documentation
-      for more details.)'
+    allow_forking: true
+    archive_url: https://api.github.com/repos/rchojetzki-kicad/kicad-footprints-rchojetzki.pretty/{archive_format}{/ref}
+    archived: false
+    assignees_url: https://api.github.com/repos/rchojetzki-kicad/kicad-footprints-rchojetzki.pretty/assignees{/user}
+    blobs_url: https://api.github.com/repos/rchojetzki-kicad/kicad-footprints-rchojetzki.pretty/git/blobs{/sha}
+    branches_url: https://api.github.com/repos/rchojetzki-kicad/kicad-footprints-rchojetzki.pretty/branches{/branch}
+    clone_url: https://github.com/rchojetzki-kicad/kicad-footprints-rchojetzki.pretty.git
+    collaborators_url: https://api.github.com/repos/rchojetzki-kicad/kicad-footprints-rchojetzki.pretty/collaborators{/collaborator}
+    comments_url: https://api.github.com/repos/rchojetzki-kicad/kicad-footprints-rchojetzki.pretty/comments{/number}
+    commits_url: https://api.github.com/repos/rchojetzki-kicad/kicad-footprints-rchojetzki.pretty/commits{/sha}
+    compare_url: https://api.github.com/repos/rchojetzki-kicad/kicad-footprints-rchojetzki.pretty/compare/{base}...{head}
+    contents_url: https://api.github.com/repos/rchojetzki-kicad/kicad-footprints-rchojetzki.pretty/contents/{+path}
+    contributors_url: https://api.github.com/repos/rchojetzki-kicad/kicad-footprints-rchojetzki.pretty/contributors
+    created_at: '2017-09-23T15:31:30Z'
+    default_branch: master
+    deployments_url: https://api.github.com/repos/rchojetzki-kicad/kicad-footprints-rchojetzki.pretty/deployments
+    description: all of my unorganized kicad foorptints
+    disabled: false
+    downloads_url: https://api.github.com/repos/rchojetzki-kicad/kicad-footprints-rchojetzki.pretty/downloads
+    events_url: https://api.github.com/repos/rchojetzki-kicad/kicad-footprints-rchojetzki.pretty/events
+    fork: false
+    forks: 0
+    forks_count: 0
+    forks_url: https://api.github.com/repos/rchojetzki-kicad/kicad-footprints-rchojetzki.pretty/forks
+    full_name: rchojetzki-kicad/kicad-footprints-rchojetzki.pretty
+    git_commits_url: https://api.github.com/repos/rchojetzki-kicad/kicad-footprints-rchojetzki.pretty/git/commits{/sha}
+    git_refs_url: https://api.github.com/repos/rchojetzki-kicad/kicad-footprints-rchojetzki.pretty/git/refs{/sha}
+    git_tags_url: https://api.github.com/repos/rchojetzki-kicad/kicad-footprints-rchojetzki.pretty/git/tags{/sha}
+    git_url: git://github.com/rchojetzki-kicad/kicad-footprints-rchojetzki.pretty.git
+    has_discussions: false
+    has_downloads: true
+    has_issues: true
+    has_pages: false
+    has_projects: true
+    has_wiki: true
+    homepage: null
+    hooks_url: https://api.github.com/repos/rchojetzki-kicad/kicad-footprints-rchojetzki.pretty/hooks
+    html_url: https://github.com/rchojetzki-kicad/kicad-footprints-rchojetzki.pretty
+    id: 104578010
+    is_template: false
+    issue_comment_url: https://api.github.com/repos/rchojetzki-kicad/kicad-footprints-rchojetzki.pretty/issues/comments{/number}
+    issue_events_url: https://api.github.com/repos/rchojetzki-kicad/kicad-footprints-rchojetzki.pretty/issues/events{/number}
+    issues_url: https://api.github.com/repos/rchojetzki-kicad/kicad-footprints-rchojetzki.pretty/issues{/number}
+    keys_url: https://api.github.com/repos/rchojetzki-kicad/kicad-footprints-rchojetzki.pretty/keys{/key_id}
+    labels_url: https://api.github.com/repos/rchojetzki-kicad/kicad-footprints-rchojetzki.pretty/labels{/name}
+    language: null
+    languages_url: https://api.github.com/repos/rchojetzki-kicad/kicad-footprints-rchojetzki.pretty/languages
+    license: null
+    merges_url: https://api.github.com/repos/rchojetzki-kicad/kicad-footprints-rchojetzki.pretty/merges
+    milestones_url: https://api.github.com/repos/rchojetzki-kicad/kicad-footprints-rchojetzki.pretty/milestones{/number}
+    mirror_url: null
+    name: kicad-footprints-rchojetzki.pretty
+    network_count: 0
+    node_id: MDEwOlJlcG9zaXRvcnkxMDQ1NzgwMTA=
+    notifications_url: https://api.github.com/repos/rchojetzki-kicad/kicad-footprints-rchojetzki.pretty/notifications{?since,all,participating}
+    open_issues: 0
+    open_issues_count: 0
+    organization:
+      avatar_url: https://avatars.githubusercontent.com/u/32223613?v=4
+      events_url: https://api.github.com/users/rchojetzki-kicad/events{/privacy}
+      followers_url: https://api.github.com/users/rchojetzki-kicad/followers
+      following_url: https://api.github.com/users/rchojetzki-kicad/following{/other_user}
+      gists_url: https://api.github.com/users/rchojetzki-kicad/gists{/gist_id}
+      gravatar_id: ''
+      html_url: https://github.com/rchojetzki-kicad
+      id: 32223613
+      login: rchojetzki-kicad
+      node_id: MDEyOk9yZ2FuaXphdGlvbjMyMjIzNjEz
+      organizations_url: https://api.github.com/users/rchojetzki-kicad/orgs
+      received_events_url: https://api.github.com/users/rchojetzki-kicad/received_events
+      repos_url: https://api.github.com/users/rchojetzki-kicad/repos
+      site_admin: false
+      starred_url: https://api.github.com/users/rchojetzki-kicad/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/rchojetzki-kicad/subscriptions
+      type: Organization
+      url: https://api.github.com/users/rchojetzki-kicad
+    owner:
+      avatar_url: https://avatars.githubusercontent.com/u/32223613?v=4
+      events_url: https://api.github.com/users/rchojetzki-kicad/events{/privacy}
+      followers_url: https://api.github.com/users/rchojetzki-kicad/followers
+      following_url: https://api.github.com/users/rchojetzki-kicad/following{/other_user}
+      gists_url: https://api.github.com/users/rchojetzki-kicad/gists{/gist_id}
+      gravatar_id: ''
+      html_url: https://github.com/rchojetzki-kicad
+      id: 32223613
+      login: rchojetzki-kicad
+      node_id: MDEyOk9yZ2FuaXphdGlvbjMyMjIzNjEz
+      organizations_url: https://api.github.com/users/rchojetzki-kicad/orgs
+      received_events_url: https://api.github.com/users/rchojetzki-kicad/received_events
+      repos_url: https://api.github.com/users/rchojetzki-kicad/repos
+      site_admin: false
+      starred_url: https://api.github.com/users/rchojetzki-kicad/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/rchojetzki-kicad/subscriptions
+      type: Organization
+      url: https://api.github.com/users/rchojetzki-kicad
+    private: false
+    pulls_url: https://api.github.com/repos/rchojetzki-kicad/kicad-footprints-rchojetzki.pretty/pulls{/number}
+    pushed_at: '2017-10-25T13:30:36Z'
+    releases_url: https://api.github.com/repos/rchojetzki-kicad/kicad-footprints-rchojetzki.pretty/releases{/id}
+    size: 237
+    ssh_url: git@github.com:rchojetzki-kicad/kicad-footprints-rchojetzki.pretty.git
+    stargazers_count: 0
+    stargazers_url: https://api.github.com/repos/rchojetzki-kicad/kicad-footprints-rchojetzki.pretty/stargazers
+    statuses_url: https://api.github.com/repos/rchojetzki-kicad/kicad-footprints-rchojetzki.pretty/statuses/{sha}
+    subscribers_count: 2
+    subscribers_url: https://api.github.com/repos/rchojetzki-kicad/kicad-footprints-rchojetzki.pretty/subscribers
+    subscription_url: https://api.github.com/repos/rchojetzki-kicad/kicad-footprints-rchojetzki.pretty/subscription
+    svn_url: https://github.com/rchojetzki-kicad/kicad-footprints-rchojetzki.pretty
+    tags_url: https://api.github.com/repos/rchojetzki-kicad/kicad-footprints-rchojetzki.pretty/tags
+    teams_url: https://api.github.com/repos/rchojetzki-kicad/kicad-footprints-rchojetzki.pretty/teams
+    temp_clone_token: null
+    topics: []
+    trees_url: https://api.github.com/repos/rchojetzki-kicad/kicad-footprints-rchojetzki.pretty/git/trees{/sha}
+    updated_at: '2018-01-03T14:06:14Z'
+    url: https://api.github.com/repos/rchojetzki-kicad/kicad-footprints-rchojetzki.pretty
+    visibility: public
+    watchers: 0
+    watchers_count: 0
+    web_commit_signoff_required: false
   url: http://github.com/rchojetzki-kicad/kicad-footprints-rchojetzki.pretty

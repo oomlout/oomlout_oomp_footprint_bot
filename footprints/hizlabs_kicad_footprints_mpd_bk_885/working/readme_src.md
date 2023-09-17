@@ -1,29 +1,20 @@
-# KiCad_Footprints.pretty by HiZLabs  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/HiZLabs/KiCad_Footprints.pretty/blob/master/TXC_9HT7_Crystal.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: None  
-* libraryLink: MPD_BK-885  
-* number_of_pads: 3  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | KiCad_Footprints.pretty/MPD_BK-885.kicad_mod |  
-| footprint | {'description': None, 'libraryLink': 'MPD_BK-885', 'number_of_pads': 3} |  
-| footprint_library_directory | footprint_library_owner/HiZLabs_KiCad_Footprints.pretty |  
-| footprint_library_directory_flat | footprints_flat/hizlabs_kicad_footprints_mpd_bk_885/working |  
-| github_path | http://github.com/HiZLabs/KiCad_Footprints.pretty/blob/master/MPD_BK-885.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/HiZLabs/KiCad_Footprints.pretty/blob/master/TXC_9HT7_Crystal.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/hizlabs_kicad_footprints_mpd_bk_885/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/hizlabs_kicad_footprints_mpd_bk_885/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/hizlabs_kicad_footprints_mpd_bk_885/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/hizlabs_kicad_footprints_mpd_bk_885/working'} |  
-| name | KiCad_Footprints.pretty |  
-| oomp | {'footprint_name': 'mpd_bk_885', 'library_name': 'kicad_footprints', 'md5': 'd6a9e53f98ef483feae318782edea4e1', 'md5_10': 'd6a9e53f98', 'md5_5': 'd6a9e', 'md5_6': 'd6a9e5', 'oomp_key': 'oomp_hizlabs_kicad_footprints_mpd_bk_885', 'oomp_key_extra': 'oomp_footprint_hizlabs_kicad_footprints_mpd_bk_885', 'oomp_key_full': 'oomp_footprint_hizlabs_kicad_footprints_mpd_bk_885_d6a9e5', 'oomp_key_simple': 'hizlabs_kicad_footprints_mpd_bk_885', 'original_filename': 'KiCad_Footprints.pretty/MPD_BK-885.kicad_mod', 'owner_name': 'hizlabs'} |  
-| oomp_key | oomp_hizlabs_kicad_footprints_mpd_bk_885 |  
-| oomp_key_full | oomp_footprint_hizlabs_kicad_footprints_mpd_bk_885 |  
-| oomp_key_simple | hizlabs_kicad_footprints_mpd_bk_885 |  
-| owner | HiZLabs |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/HiZLabs/KiCad_Footprints.pretty |  
-
+# OOMP Footprint  
+## MPD_BK-885  by none  
+  
+oomp key: oomp_hizlabs_kicad_footprints_mpd_bk_885  
+  
+source repo at: [http://gitlab.com/HiZLabs/KiCad_Footprints.pretty/blob/master/TXC_9HT7_Crystal.kicad_mod](http://gitlab.com/HiZLabs/KiCad_Footprints.pretty/blob/master/TXC_9HT7_Crystal.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | MPD_BK-885 | 
+| footprint description | None | 
+| number of pads | 3 | 
+| github path | http://github.com/HiZLabs/KiCad_Footprints.pretty/blob/master/MPD_BK-885.kicad_mod | 
+| oomp key | oomp_hizlabs_kicad_footprints_mpd_bk_885 | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/hizlabs_kicad_footprints_mpd_bk_885/working | 
+## Images  

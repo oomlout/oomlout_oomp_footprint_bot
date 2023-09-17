@@ -1,0 +1,40 @@
+- file: data//oomlout_oomp_footprint_src/kicad-footprints/Inductor_THT.pretty/L_Radial_L16.1mm_W16.1mm_Px7.62mm_Py12.70mm_Pulse_LP-44.kicad_mod
+  footprint:
+    description: Inductor, Radial series, Radial, pin pitch=7.62*12.70mm^2, , length*width=16.13*16.13mm^2,
+      Pulse, LP-44, http://datasheet.octopart.com/PE-54044NL-Pulse-datasheet-5313493.pdf
+    libraryLink: L_Radial_L16.1mm_W16.1mm_Px7.62mm_Py12.70mm_Pulse_LP-44
+    number_of_pads: 2
+  footprint_library_directory: footprint_library_owner/kicad-legacy_kicad-footprints
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/kicad_legacy_inductor_tht_l_radial_l16_1mm_w16_1mm_px7_62mm_py12_70mm_pulse_lp_44/working
+  github_path: http://github.com/kicad-legacy/kicad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/Inductor_THT.pretty/L_Radial_L16.1mm_W16.1mm_Px7.62mm_Py12.70mm_Pulse_LP-44.kicad_mod
+  links:
+    github_src: http://gitlab.com/kicad-legacy/kicad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod
+    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/kicad_legacy_inductor_tht_l_radial_l16_1mm_w16_1mm_px7_62mm_py12_70mm_pulse_lp_44/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/kicad_legacy_inductor_tht_l_radial_l16_1mm_w16_1mm_px7_62mm_py12_70mm_pulse_lp_44/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/kicad_legacy_inductor_tht_l_radial_l16_1mm_w16_1mm_px7_62mm_py12_70mm_pulse_lp_44/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/kicad_legacy_inductor_tht_l_radial_l16_1mm_w16_1mm_px7_62mm_py12_70mm_pulse_lp_44/working
+  name: kicad-footprints
+  oomp:
+    footprint_name: l_radial_l16_1mm_w16_1mm_px7_62mm_py12_70mm_pulse_lp_44
+    library_name: inductor_tht
+    md5: bc3b872cee4b1c5a34f6e1bc7b38a8c1
+    md5_10: bc3b872cee
+    md5_5: bc3b8
+    md5_6: bc3b87
+    oomp_key: oomp_kicad_legacy_inductor_tht_l_radial_l16_1mm_w16_1mm_px7_62mm_py12_70mm_pulse_lp_44
+    oomp_key_extra: oomp_footprint_kicad_legacy_inductor_tht_l_radial_l16_1mm_w16_1mm_px7_62mm_py12_70mm_pulse_lp_44
+    oomp_key_full: oomp_footprint_kicad_legacy_inductor_tht_l_radial_l16_1mm_w16_1mm_px7_62mm_py12_70mm_pulse_lp_44_bc3b87
+    oomp_key_simple: kicad_legacy_inductor_tht_l_radial_l16_1mm_w16_1mm_px7_62mm_py12_70mm_pulse_lp_44
+    original_filename: data//oomlout_oomp_footprint_src/kicad-footprints/Inductor_THT.pretty/L_Radial_L16.1mm_W16.1mm_Px7.62mm_Py12.70mm_Pulse_LP-44.kicad_mod
+    owner_name: kicad_legacy
+  oomp_key: oomp_kicad_legacy_inductor_tht_l_radial_l16_1mm_w16_1mm_px7_62mm_py12_70mm_pulse_lp_44
+  oomp_key_full: oomp_footprint_kicad_legacy_inductor_tht_l_radial_l16_1mm_w16_1mm_px7_62mm_py12_70mm_pulse_lp_44
+  oomp_key_simple: kicad_legacy_inductor_tht_l_radial_l16_1mm_w16_1mm_px7_62mm_py12_70mm_pulse_lp_44
+  owner: kicad-legacy
+  repo:
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
+  url: http://github.com/kicad-legacy/kicad-footprints

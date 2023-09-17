@@ -1,29 +1,20 @@
-# SparkFun-KiCad-Libraries by sparkfun  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Pre_v7/Tools/SparkFun-Eagle-Libraries_Conversion/Export.pretty/DFN-6-3X3.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: None  
-* libraryLink: ELECTRIC_IMP_IMP002  
-* number_of_pads: 35  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | SparkFun-KiCad-Libraries/Pre_v7/Footprints/Boards.pretty/ELECTRIC_IMP_IMP002.kicad_mod |  
-| footprint | {'description': None, 'libraryLink': 'ELECTRIC_IMP_IMP002', 'number_of_pads': 35} |  
-| footprint_library_directory | footprint_library_owner/sparkfun_SparkFun-KiCad-Libraries |  
-| footprint_library_directory_flat | footprints_flat/sparkfun_boards_electric_imp_imp002/working |  
-| github_path | http://github.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Pre_v7/Footprints/Boards.pretty/ELECTRIC_IMP_IMP002.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Pre_v7/Tools/SparkFun-Eagle-Libraries_Conversion/Export.pretty/DFN-6-3X3.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/sparkfun_boards_electric_imp_imp002/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/sparkfun_boards_electric_imp_imp002/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/sparkfun_boards_electric_imp_imp002/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/sparkfun_boards_electric_imp_imp002/working'} |  
-| name | SparkFun-KiCad-Libraries |  
-| oomp | {'footprint_name': 'electric_imp_imp002', 'library_name': 'boards', 'md5': '4dd8ba4878c6dc0f2093ee69aacc16cb', 'md5_10': '4dd8ba4878', 'md5_5': '4dd8b', 'md5_6': '4dd8ba', 'oomp_key': 'oomp_sparkfun_boards_electric_imp_imp002', 'oomp_key_extra': 'oomp_footprint_sparkfun_boards_electric_imp_imp002', 'oomp_key_full': 'oomp_footprint_sparkfun_boards_electric_imp_imp002_4dd8ba', 'oomp_key_simple': 'sparkfun_boards_electric_imp_imp002', 'original_filename': 'SparkFun-KiCad-Libraries/Pre_v7/Footprints/Boards.pretty/ELECTRIC_IMP_IMP002.kicad_mod', 'owner_name': 'sparkfun'} |  
-| oomp_key | oomp_sparkfun_boards_electric_imp_imp002 |  
-| oomp_key_full | oomp_footprint_sparkfun_boards_electric_imp_imp002 |  
-| oomp_key_simple | sparkfun_boards_electric_imp_imp002 |  
-| owner | sparkfun |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/sparkfun/SparkFun-KiCad-Libraries |  
-
+# OOMP Footprint  
+## ELECTRIC_IMP_IMP002  by none  
+  
+oomp key: oomp_sparkfun_boards_electric_imp_imp002  
+  
+source repo at: [http://gitlab.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Pre_v7/Tools/SparkFun-Eagle-Libraries_Conversion/Export.pretty/DFN-6-3X3.kicad_mod](http://gitlab.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Pre_v7/Tools/SparkFun-Eagle-Libraries_Conversion/Export.pretty/DFN-6-3X3.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | ELECTRIC_IMP_IMP002 | 
+| footprint description | None | 
+| number of pads | 35 | 
+| github path | http://github.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Pre_v7/Footprints/Boards.pretty/ELECTRIC_IMP_IMP002.kicad_mod | 
+| oomp key | oomp_sparkfun_boards_electric_imp_imp002 | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/sparkfun_boards_electric_imp_imp002/working | 
+## Images  

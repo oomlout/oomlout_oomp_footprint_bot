@@ -1,29 +1,20 @@
-# kicad_smisioto by peekpt  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/peekpt/kicad_smisioto/blob/master/modules/walter/w_vacuum.pretty/tube_gzc9-b.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: Smd dual-row strip connector, 35x2 pin, GCT BB080 series  
-* libraryLink: bb080_70  
-* number_of_pads: 70  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | kicad_smisioto/modules/walter/w_smd_strip.pretty/bb080_70.kicad_mod |  
-| footprint | {'description': 'Smd dual-row strip connector, 35x2 pin, GCT BB080 series', 'libraryLink': 'bb080_70', 'number_of_pads': 70} |  
-| footprint_library_directory | footprint_library_owner/peekpt_kicad_smisioto |  
-| footprint_library_directory_flat | footprints_flat/peekpt_w_smd_strip_bb080_70/working |  
-| github_path | http://github.com/peekpt/kicad_smisioto/blob/master/modules/walter/w_smd_strip.pretty/bb080_70.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/peekpt/kicad_smisioto/blob/master/modules/walter/w_vacuum.pretty/tube_gzc9-b.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/peekpt_w_smd_strip_bb080_70/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/peekpt_w_smd_strip_bb080_70/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/peekpt_w_smd_strip_bb080_70/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/peekpt_w_smd_strip_bb080_70/working'} |  
-| name | kicad_smisioto |  
-| oomp | {'footprint_name': 'bb080_70', 'library_name': 'w_smd_strip', 'md5': '7fa2165dae4195569bb5774a1b375fc3', 'md5_10': '7fa2165dae', 'md5_5': '7fa21', 'md5_6': '7fa216', 'oomp_key': 'oomp_peekpt_w_smd_strip_bb080_70', 'oomp_key_extra': 'oomp_footprint_peekpt_w_smd_strip_bb080_70', 'oomp_key_full': 'oomp_footprint_peekpt_w_smd_strip_bb080_70_7fa216', 'oomp_key_simple': 'peekpt_w_smd_strip_bb080_70', 'original_filename': 'kicad_smisioto/modules/walter/w_smd_strip.pretty/bb080_70.kicad_mod', 'owner_name': 'peekpt'} |  
-| oomp_key | oomp_peekpt_w_smd_strip_bb080_70 |  
-| oomp_key_full | oomp_footprint_peekpt_w_smd_strip_bb080_70 |  
-| oomp_key_simple | peekpt_w_smd_strip_bb080_70 |  
-| owner | peekpt |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/peekpt/kicad_smisioto |  
-
+# OOMP Footprint  
+## bb080_70  by none  
+  
+oomp key: oomp_peekpt_w_smd_strip_bb080_70  
+  
+source repo at: [http://gitlab.com/peekpt/kicad_smisioto/blob/master/modules/walter/w_vacuum.pretty/tube_gzc9-b.kicad_mod](http://gitlab.com/peekpt/kicad_smisioto/blob/master/modules/walter/w_vacuum.pretty/tube_gzc9-b.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | bb080_70 | 
+| footprint description | Smd dual-row strip connector, 35x2 pin, GCT BB080 series | 
+| number of pads | 70 | 
+| github path | http://github.com/peekpt/kicad_smisioto/blob/master/modules/walter/w_smd_strip.pretty/bb080_70.kicad_mod | 
+| oomp key | oomp_peekpt_w_smd_strip_bb080_70 | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/peekpt_w_smd_strip_bb080_70/working | 
+## Images  

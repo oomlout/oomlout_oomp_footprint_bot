@@ -1,0 +1,40 @@
+- file: data//oomlout_oomp_footprint_src/oomlout_oomp_part_kicad_footprints/oomlout_oomp_part_footprints.pretty/isp16ch340c_electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c.kicad_mod
+  footprint:
+    description: SOP, 16 Pin (https://www.diodes.com/assets/Datasheets/PAM8403.pdf),
+      generated with kicad-footprint-generator ipc_gullwing_generator.py
+    libraryLink: SOP-16_3.9x9.9mm_P1.27mm
+    number_of_pads: 16
+  footprint_library_directory: footprint_library_owner/oomlout_oomlout_oomp_part_kicad_footprints
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/oomlout_oomlout_oomp_part_footprints_isp16ch340c_electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c/working
+  github_path: http://github.com/oomlout/oomlout_oomp_part_kicad_footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/oomlout_oomp_part_footprints.pretty/isp16ch340c_electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c.kicad_mod
+  links:
+    github_src: http://gitlab.com/oomlout/oomlout_oomp_part_kicad_footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/oomlout_oomp_part_footprints.pretty/xcr3213mhz8_electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz.kicad_mod
+    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/oomlout_oomlout_oomp_part_footprints_isp16ch340c_electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/oomlout_oomlout_oomp_part_footprints_isp16ch340c_electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/oomlout_oomlout_oomp_part_footprints_isp16ch340c_electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/oomlout_oomlout_oomp_part_footprints_isp16ch340c_electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c/working
+  name: oomlout_oomp_part_kicad_footprints
+  oomp:
+    footprint_name: isp16ch340c_electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c
+    library_name: oomlout_oomp_part_footprints
+    md5: ca8a6edece0e9ece4fcb80d6f68abfc4
+    md5_10: ca8a6edece
+    md5_5: ca8a6
+    md5_6: ca8a6e
+    oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_isp16ch340c_electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c
+    oomp_key_extra: oomp_footprint_oomlout_oomlout_oomp_part_footprints_isp16ch340c_electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c
+    oomp_key_full: oomp_footprint_oomlout_oomlout_oomp_part_footprints_isp16ch340c_electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c_ca8a6e
+    oomp_key_simple: oomlout_oomlout_oomp_part_footprints_isp16ch340c_electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c
+    original_filename: data//oomlout_oomp_footprint_src/oomlout_oomp_part_kicad_footprints/oomlout_oomp_part_footprints.pretty/isp16ch340c_electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c.kicad_mod
+    owner_name: oomlout
+  oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_isp16ch340c_electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c
+  oomp_key_full: oomp_footprint_oomlout_oomlout_oomp_part_footprints_isp16ch340c_electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c
+  oomp_key_simple: oomlout_oomlout_oomp_part_footprints_isp16ch340c_electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c
+  owner: oomlout
+  repo:
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
+  url: https://github.com/oomlout/oomlout_oomp_part_kicad_footprints

@@ -1,20 +1,20 @@
-- file: acheron_EC.pretty/EC200.kicad_mod
+- file: data//oomlout_oomp_footprint_src/acheron_EC.pretty/EC200.kicad_mod
   footprint:
     description: null
     libraryLink: EC200
     number_of_pads: 7
   footprint_library_directory: footprint_library_owner/AcheronProject_acheron_EC.pretty
-  footprint_library_directory_flat: footprints_flat/acheronproject_acheron_ec_ec200/working
-  github_path: http://github.com/AcheronProject/acheron_EC.pretty/blob/master/EC200.kicad_mod
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/acheronproject_acheron_ec_ec200/working
+  github_path: http://github.com/AcheronProject/acheron_EC.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/EC200.kicad_mod
   links:
     github_owner: AcheronProject
     github_repo_name: acheron_EC.pretty
-    github_src: http://github.com/AcheronProject/acheron_EC.pretty/blob/master/EC625.kicad_mod
+    github_src: http://github.com/AcheronProject/acheron_EC.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/EC_unified_realforce_space_225_600_700.kicad_mod
     github_src_repo: https://github.com/AcheronProject/acheron_EC.pretty
-    oomp_bot: footprints/acheronproject_acheron_ec_ec200/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/acheronproject_acheron_ec_ec200/working
-    oomp_src_flat: footprints_flat/footprints_flat/acheronproject_acheron_ec_ec200/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/acheronproject_acheron_ec_ec200/working
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/acheronproject_acheron_ec_ec200/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/acheronproject_acheron_ec_ec200/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/acheronproject_acheron_ec_ec200/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/acheronproject_acheron_ec_ec200/working
   name: acheron_EC.pretty
   oomp:
     footprint_name: ec200
@@ -27,7 +27,7 @@
     oomp_key_extra: oomp_footprint_acheronproject_acheron_ec_ec200
     oomp_key_full: oomp_footprint_acheronproject_acheron_ec_ec200_e62055
     oomp_key_simple: acheronproject_acheron_ec_ec200
-    original_filename: acheron_EC.pretty/EC200.kicad_mod
+    original_filename: data//oomlout_oomp_footprint_src/acheron_EC.pretty/EC200.kicad_mod
     owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_ec_ec200
   oomp_key_full: oomp_footprint_acheronproject_acheron_ec_ec200
@@ -136,9 +136,9 @@
       url: https://api.github.com/users/AcheronProject
     private: false
     pulls_url: https://api.github.com/repos/AcheronProject/acheron_EC.pretty/pulls{/number}
-    pushed_at: '2022-04-17T22:52:16Z'
+    pushed_at: '2023-08-28T21:32:23Z'
     releases_url: https://api.github.com/repos/AcheronProject/acheron_EC.pretty/releases{/id}
-    size: 10
+    size: 42
     ssh_url: git@github.com:AcheronProject/acheron_EC.pretty.git
     stargazers_count: 0
     stargazers_url: https://api.github.com/repos/AcheronProject/acheron_EC.pretty/stargazers

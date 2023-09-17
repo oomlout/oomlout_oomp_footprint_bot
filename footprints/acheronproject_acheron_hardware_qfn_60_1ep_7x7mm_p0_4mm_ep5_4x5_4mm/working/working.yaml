@@ -1,20 +1,20 @@
-- file: acheron_Hardware.pretty/QFN-60-1EP_7x7mm_P0.4mm_EP5.4x5.4mm.kicad_mod
+- file: data//oomlout_oomp_footprint_src/acheron_Hardware.pretty/QFN-60-1EP_7x7mm_P0.4mm_EP5.4x5.4mm.kicad_mod
   footprint:
     description: QFN-60 7x7mm with 0.4mm pitch
     libraryLink: QFN-60-1EP_7x7mm_P0.4mm_EP5.4x5.4mm
     number_of_pads: 86
   footprint_library_directory: footprint_library_owner/AcheronProject_acheron_Hardware.pretty
-  footprint_library_directory_flat: footprints_flat/acheronproject_acheron_hardware_qfn_60_1ep_7x7mm_p0_4mm_ep5_4x5_4mm/working
-  github_path: http://github.com/AcheronProject/acheron_Hardware.pretty/blob/master/QFN-60-1EP_7x7mm_P0.4mm_EP5.4x5.4mm.kicad_mod
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/acheronproject_acheron_hardware_qfn_60_1ep_7x7mm_p0_4mm_ep5_4x5_4mm/working
+  github_path: http://github.com/AcheronProject/acheron_Hardware.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/QFN-60-1EP_7x7mm_P0.4mm_EP5.4x5.4mm.kicad_mod
   links:
     github_owner: AcheronProject
     github_repo_name: acheron_Hardware.pretty
-    github_src: http://github.com/AcheronProject/acheron_Hardware.pretty/blob/master/RKJXT1F.kicad_mod
+    github_src: http://github.com/AcheronProject/acheron_Hardware.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/RKJXT1F.kicad_mod
     github_src_repo: https://github.com/AcheronProject/acheron_Hardware.pretty
-    oomp_bot: footprints/acheronproject_acheron_hardware_qfn_60_1ep_7x7mm_p0_4mm_ep5_4x5_4mm/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/acheronproject_acheron_hardware_qfn_60_1ep_7x7mm_p0_4mm_ep5_4x5_4mm/working
-    oomp_src_flat: footprints_flat/footprints_flat/acheronproject_acheron_hardware_qfn_60_1ep_7x7mm_p0_4mm_ep5_4x5_4mm/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/acheronproject_acheron_hardware_qfn_60_1ep_7x7mm_p0_4mm_ep5_4x5_4mm/working
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/acheronproject_acheron_hardware_qfn_60_1ep_7x7mm_p0_4mm_ep5_4x5_4mm/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/acheronproject_acheron_hardware_qfn_60_1ep_7x7mm_p0_4mm_ep5_4x5_4mm/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/acheronproject_acheron_hardware_qfn_60_1ep_7x7mm_p0_4mm_ep5_4x5_4mm/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/acheronproject_acheron_hardware_qfn_60_1ep_7x7mm_p0_4mm_ep5_4x5_4mm/working
   name: acheron_Hardware.pretty
   oomp:
     footprint_name: qfn_60_1ep_7x7mm_p0_4mm_ep5_4x5_4mm
@@ -27,7 +27,7 @@
     oomp_key_extra: oomp_footprint_acheronproject_acheron_hardware_qfn_60_1ep_7x7mm_p0_4mm_ep5_4x5_4mm
     oomp_key_full: oomp_footprint_acheronproject_acheron_hardware_qfn_60_1ep_7x7mm_p0_4mm_ep5_4x5_4mm_01de2b
     oomp_key_simple: acheronproject_acheron_hardware_qfn_60_1ep_7x7mm_p0_4mm_ep5_4x5_4mm
-    original_filename: acheron_Hardware.pretty/QFN-60-1EP_7x7mm_P0.4mm_EP5.4x5.4mm.kicad_mod
+    original_filename: data//oomlout_oomp_footprint_src/acheron_Hardware.pretty/QFN-60-1EP_7x7mm_P0.4mm_EP5.4x5.4mm.kicad_mod
     owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_hardware_qfn_60_1ep_7x7mm_p0_4mm_ep5_4x5_4mm
   oomp_key_full: oomp_footprint_acheronproject_acheron_hardware_qfn_60_1ep_7x7mm_p0_4mm_ep5_4x5_4mm

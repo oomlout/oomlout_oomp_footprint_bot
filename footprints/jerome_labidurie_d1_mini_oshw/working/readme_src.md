@@ -1,29 +1,20 @@
-# d1_mini_kicad by jerome-labidurie  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/jerome-labidurie/d1_mini_kicad/blob/master/template/lib/D1_mini.pretty/OSHW.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: OSHW  
-* libraryLink: OSHW  
-* number_of_pads: 0  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | d1_mini_kicad/template/lib/D1_mini.pretty/OSHW.kicad_mod |  
-| footprint | {'description': 'OSHW', 'libraryLink': 'OSHW', 'number_of_pads': 0} |  
-| footprint_library_directory | footprint_library_owner/jerome-labidurie_d1_mini_kicad |  
-| footprint_library_directory_flat | footprints_flat/jerome_labidurie_d1_mini_oshw/working |  
-| github_path | http://github.com/jerome-labidurie/d1_mini_kicad/blob/master/template/lib/D1_mini.pretty/OSHW.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/jerome-labidurie/d1_mini_kicad/blob/master/template/lib/D1_mini.pretty/OSHW.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/jerome_labidurie_d1_mini_oshw/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/jerome_labidurie_d1_mini_oshw/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/jerome_labidurie_d1_mini_oshw/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/jerome_labidurie_d1_mini_oshw/working'} |  
-| name | d1_mini_kicad |  
-| oomp | {'footprint_name': 'oshw', 'library_name': 'd1_mini', 'md5': '25e29bae59ed0328f5f1be489bfe03fb', 'md5_10': '25e29bae59', 'md5_5': '25e29', 'md5_6': '25e29b', 'oomp_key': 'oomp_jerome_labidurie_d1_mini_oshw', 'oomp_key_extra': 'oomp_footprint_jerome_labidurie_d1_mini_oshw', 'oomp_key_full': 'oomp_footprint_jerome_labidurie_d1_mini_oshw_25e29b', 'oomp_key_simple': 'jerome_labidurie_d1_mini_oshw', 'original_filename': 'd1_mini_kicad/template/lib/D1_mini.pretty/OSHW.kicad_mod', 'owner_name': 'jerome_labidurie'} |  
-| oomp_key | oomp_jerome_labidurie_d1_mini_oshw |  
-| oomp_key_full | oomp_footprint_jerome_labidurie_d1_mini_oshw |  
-| oomp_key_simple | jerome_labidurie_d1_mini_oshw |  
-| owner | jerome-labidurie |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/jerome-labidurie/d1_mini_kicad |  
-
+# OOMP Footprint  
+## OSHW  by none  
+  
+oomp key: oomp_jerome_labidurie_d1_mini_oshw  
+  
+source repo at: [http://gitlab.com/jerome-labidurie/d1_mini_kicad/blob/master/template/lib/D1_mini.pretty/OSHW.kicad_mod](http://gitlab.com/jerome-labidurie/d1_mini_kicad/blob/master/template/lib/D1_mini.pretty/OSHW.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | OSHW | 
+| footprint description | OSHW | 
+| number of pads | 0 | 
+| github path | http://github.com/jerome-labidurie/d1_mini_kicad/blob/master/template/lib/D1_mini.pretty/OSHW.kicad_mod | 
+| oomp key | oomp_jerome_labidurie_d1_mini_oshw | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/jerome_labidurie_d1_mini_oshw/working | 
+## Images  

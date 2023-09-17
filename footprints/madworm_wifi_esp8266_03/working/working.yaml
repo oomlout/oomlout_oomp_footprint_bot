@@ -1,20 +1,20 @@
-- file: WiFi.pretty/ESP8266-03.kicad_mod
+- file: data//oomlout_oomp_footprint_src/WiFi.pretty/ESP8266-03.kicad_mod
   footprint:
     description: null
     libraryLink: ESP8266-03
     number_of_pads: 0
   footprint_library_directory: footprint_library_owner/madworm_WiFi.pretty
-  footprint_library_directory_flat: footprints_flat/madworm_wifi_esp8266_03/working
-  github_path: http://github.com/madworm/WiFi.pretty/blob/master/ESP8266-03.kicad_mod
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/madworm_wifi_esp8266_03/working
+  github_path: http://github.com/madworm/WiFi.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/ESP8266-03.kicad_mod
   links:
     github_owner: madworm
     github_repo_name: WiFi.pretty
-    github_src: http://github.com/madworm/WiFi.pretty/blob/master/ESP8266-03.kicad_mod
+    github_src: http://github.com/madworm/WiFi.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/ESP8266-03.kicad_mod
     github_src_repo: https://github.com/madworm/WiFi.pretty
-    oomp_bot: footprints/madworm_wifi_esp8266_03/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/madworm_wifi_esp8266_03/working
-    oomp_src_flat: footprints_flat/footprints_flat/madworm_wifi_esp8266_03/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/madworm_wifi_esp8266_03/working
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/madworm_wifi_esp8266_03/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/madworm_wifi_esp8266_03/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/madworm_wifi_esp8266_03/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/madworm_wifi_esp8266_03/working
   name: WiFi.pretty
   oomp:
     footprint_name: esp8266_03
@@ -27,7 +27,7 @@
     oomp_key_extra: oomp_footprint_madworm_wifi_esp8266_03
     oomp_key_full: oomp_footprint_madworm_wifi_esp8266_03_c48b67
     oomp_key_simple: madworm_wifi_esp8266_03
-    original_filename: WiFi.pretty/ESP8266-03.kicad_mod
+    original_filename: data//oomlout_oomp_footprint_src/WiFi.pretty/ESP8266-03.kicad_mod
     owner_name: madworm
   oomp_key: oomp_madworm_wifi_esp8266_03
   oomp_key_full: oomp_footprint_madworm_wifi_esp8266_03

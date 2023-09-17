@@ -1,20 +1,20 @@
-- file: spacestudio_components.pretty/KF301-3P.kicad_mod
+- file: data//oomlout_oomp_footprint_src/spacestudio_components.pretty/KF301-3P.kicad_mod
   footprint:
     description: Terminal block 3 pins
     libraryLink: screw terminal:mors_3p
     number_of_pads: 3
   footprint_library_directory: footprint_library_owner/alchy_spacestudio_components.pretty
-  footprint_library_directory_flat: footprints_flat/alchy_spacestudio_components_kf301_3p/working
-  github_path: http://github.com/alchy/spacestudio_components.pretty/blob/master/KF301-3P.kicad_mod
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/alchy_spacestudio_components_kf301_3p/working
+  github_path: http://github.com/alchy/spacestudio_components.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/KF301-3P.kicad_mod
   links:
     github_owner: alchy
     github_repo_name: spacestudio_components.pretty
-    github_src: http://github.com/alchy/spacestudio_components.pretty/blob/master/trimmer_alps-rk09k1130ah1.kicad_mod
+    github_src: http://github.com/alchy/spacestudio_components.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/trimmer_alps-rk09k1130ah1.kicad_mod
     github_src_repo: https://github.com/alchy/spacestudio_components.pretty
-    oomp_bot: footprints/alchy_spacestudio_components_kf301_3p/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/alchy_spacestudio_components_kf301_3p/working
-    oomp_src_flat: footprints_flat/footprints_flat/alchy_spacestudio_components_kf301_3p/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/alchy_spacestudio_components_kf301_3p/working
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/alchy_spacestudio_components_kf301_3p/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/alchy_spacestudio_components_kf301_3p/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/alchy_spacestudio_components_kf301_3p/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/alchy_spacestudio_components_kf301_3p/working
   name: spacestudio_components.pretty
   oomp:
     footprint_name: kf301_3p
@@ -27,7 +27,7 @@
     oomp_key_extra: oomp_footprint_alchy_spacestudio_components_kf301_3p
     oomp_key_full: oomp_footprint_alchy_spacestudio_components_kf301_3p_1ebbbc
     oomp_key_simple: alchy_spacestudio_components_kf301_3p
-    original_filename: spacestudio_components.pretty/KF301-3P.kicad_mod
+    original_filename: data//oomlout_oomp_footprint_src/spacestudio_components.pretty/KF301-3P.kicad_mod
     owner_name: alchy
   oomp_key: oomp_alchy_spacestudio_components_kf301_3p
   oomp_key_full: oomp_footprint_alchy_spacestudio_components_kf301_3p

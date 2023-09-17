@@ -1,29 +1,20 @@
-# SparkFun-KiCad-Libraries by sparkfun  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Pre_v7/Tools/SparkFun-Eagle-Libraries_Conversion/Export.pretty/DFN-6-3X3.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: None  
-* libraryLink: DIP12-HP-BUBBLE  
-* number_of_pads: 12  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | SparkFun-KiCad-Libraries/Pre_v7/Footprints/LED.pretty/DIP12-HP-BUBBLE.kicad_mod |  
-| footprint | {'description': None, 'libraryLink': 'DIP12-HP-BUBBLE', 'number_of_pads': 12} |  
-| footprint_library_directory | footprint_library_owner/sparkfun_SparkFun-KiCad-Libraries |  
-| footprint_library_directory_flat | footprints_flat/sparkfun_led_dip12_hp_bubble/working |  
-| github_path | http://github.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Pre_v7/Footprints/LED.pretty/DIP12-HP-BUBBLE.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Pre_v7/Tools/SparkFun-Eagle-Libraries_Conversion/Export.pretty/DFN-6-3X3.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/sparkfun_led_dip12_hp_bubble/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/sparkfun_led_dip12_hp_bubble/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/sparkfun_led_dip12_hp_bubble/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/sparkfun_led_dip12_hp_bubble/working'} |  
-| name | SparkFun-KiCad-Libraries |  
-| oomp | {'footprint_name': 'dip12_hp_bubble', 'library_name': 'led', 'md5': '03a37ec3a05707edd8aad089fc707193', 'md5_10': '03a37ec3a0', 'md5_5': '03a37', 'md5_6': '03a37e', 'oomp_key': 'oomp_sparkfun_led_dip12_hp_bubble', 'oomp_key_extra': 'oomp_footprint_sparkfun_led_dip12_hp_bubble', 'oomp_key_full': 'oomp_footprint_sparkfun_led_dip12_hp_bubble_03a37e', 'oomp_key_simple': 'sparkfun_led_dip12_hp_bubble', 'original_filename': 'SparkFun-KiCad-Libraries/Pre_v7/Footprints/LED.pretty/DIP12-HP-BUBBLE.kicad_mod', 'owner_name': 'sparkfun'} |  
-| oomp_key | oomp_sparkfun_led_dip12_hp_bubble |  
-| oomp_key_full | oomp_footprint_sparkfun_led_dip12_hp_bubble |  
-| oomp_key_simple | sparkfun_led_dip12_hp_bubble |  
-| owner | sparkfun |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/sparkfun/SparkFun-KiCad-Libraries |  
-
+# OOMP Footprint  
+## DIP12-HP-BUBBLE  by none  
+  
+oomp key: oomp_sparkfun_led_dip12_hp_bubble  
+  
+source repo at: [http://gitlab.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Pre_v7/Tools/SparkFun-Eagle-Libraries_Conversion/Export.pretty/DFN-6-3X3.kicad_mod](http://gitlab.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Pre_v7/Tools/SparkFun-Eagle-Libraries_Conversion/Export.pretty/DFN-6-3X3.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | DIP12-HP-BUBBLE | 
+| footprint description | None | 
+| number of pads | 12 | 
+| github path | http://github.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Pre_v7/Footprints/LED.pretty/DIP12-HP-BUBBLE.kicad_mod | 
+| oomp key | oomp_sparkfun_led_dip12_hp_bubble | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/sparkfun_led_dip12_hp_bubble/working | 
+## Images  

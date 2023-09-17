@@ -1,29 +1,20 @@
-# OPL_Kicad_Library by Seeed-Studio  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/Seeed-Studio/OPL_Kicad_Library/blob/master/Seeed_Fusion_PCBA_OPL_Component_Library_for_KiCad/OPL_Switch.pretty/SW7-SMD-L6.7X2.7X3.2MM.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: None  
-* libraryLink: RJ45-12+2P-16.3X15.4X11.5MM-IN  
-* number_of_pads: 14  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | OPL_Kicad_Library/Seeed_Fusion_PCBA_OPL_Component_Library_for_KiCad/OPL_Connector.pretty/RJ45-12+2P-16.3X15.4X11.5MM-IN.kicad_mod |  
-| footprint | {'description': None, 'libraryLink': 'RJ45-12+2P-16.3X15.4X11.5MM-IN', 'number_of_pads': 14} |  
-| footprint_library_directory | footprint_library_owner/Seeed-Studio_OPL_Kicad_Library |  
-| footprint_library_directory_flat | footprints_flat/seeed_studio_opl_connector_rj45_12_2p_16_3x15_4x11_5mm_in/working |  
-| github_path | http://github.com/Seeed-Studio/OPL_Kicad_Library/blob/master/Seeed_Fusion_PCBA_OPL_Component_Library_for_KiCad/OPL_Connector.pretty/RJ45-12+2P-16.3X15.4X11.5MM-IN.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/Seeed-Studio/OPL_Kicad_Library/blob/master/Seeed_Fusion_PCBA_OPL_Component_Library_for_KiCad/OPL_Switch.pretty/SW7-SMD-L6.7X2.7X3.2MM.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/seeed_studio_opl_connector_rj45_12_2p_16_3x15_4x11_5mm_in/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/seeed_studio_opl_connector_rj45_12_2p_16_3x15_4x11_5mm_in/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/seeed_studio_opl_connector_rj45_12_2p_16_3x15_4x11_5mm_in/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/seeed_studio_opl_connector_rj45_12_2p_16_3x15_4x11_5mm_in/working'} |  
-| name | OPL_Kicad_Library |  
-| oomp | {'footprint_name': 'rj45_12_2p_16_3x15_4x11_5mm_in', 'library_name': 'opl_connector', 'md5': 'd2ad47363cffc5021cee7e31a458b8b0', 'md5_10': 'd2ad47363c', 'md5_5': 'd2ad4', 'md5_6': 'd2ad47', 'oomp_key': 'oomp_seeed_studio_opl_connector_rj45_12_2p_16_3x15_4x11_5mm_in', 'oomp_key_extra': 'oomp_footprint_seeed_studio_opl_connector_rj45_12_2p_16_3x15_4x11_5mm_in', 'oomp_key_full': 'oomp_footprint_seeed_studio_opl_connector_rj45_12_2p_16_3x15_4x11_5mm_in_d2ad47', 'oomp_key_simple': 'seeed_studio_opl_connector_rj45_12_2p_16_3x15_4x11_5mm_in', 'original_filename': 'OPL_Kicad_Library/Seeed_Fusion_PCBA_OPL_Component_Library_for_KiCad/OPL_Connector.pretty/RJ45-12+2P-16.3X15.4X11.5MM-IN.kicad_mod', 'owner_name': 'seeed_studio'} |  
-| oomp_key | oomp_seeed_studio_opl_connector_rj45_12_2p_16_3x15_4x11_5mm_in |  
-| oomp_key_full | oomp_footprint_seeed_studio_opl_connector_rj45_12_2p_16_3x15_4x11_5mm_in |  
-| oomp_key_simple | seeed_studio_opl_connector_rj45_12_2p_16_3x15_4x11_5mm_in |  
-| owner | Seeed-Studio |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/Seeed-Studio/OPL_Kicad_Library |  
-
+# OOMP Footprint  
+## RJ45-12+2P-16.3X15.4X11.5MM-IN  by none  
+  
+oomp key: oomp_seeed_studio_opl_connector_rj45_12_2p_16_3x15_4x11_5mm_in  
+  
+source repo at: [http://gitlab.com/Seeed-Studio/OPL_Kicad_Library/blob/master/Seeed_Fusion_PCBA_OPL_Component_Library_for_KiCad/OPL_Switch.pretty/SW7-SMD-L6.7X2.7X3.2MM.kicad_mod](http://gitlab.com/Seeed-Studio/OPL_Kicad_Library/blob/master/Seeed_Fusion_PCBA_OPL_Component_Library_for_KiCad/OPL_Switch.pretty/SW7-SMD-L6.7X2.7X3.2MM.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | RJ45-12+2P-16.3X15.4X11.5MM-IN | 
+| footprint description | None | 
+| number of pads | 14 | 
+| github path | http://github.com/Seeed-Studio/OPL_Kicad_Library/blob/master/Seeed_Fusion_PCBA_OPL_Component_Library_for_KiCad/OPL_Connector.pretty/RJ45-12+2P-16.3X15.4X11.5MM-IN.kicad_mod | 
+| oomp key | oomp_seeed_studio_opl_connector_rj45_12_2p_16_3x15_4x11_5mm_in | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/seeed_studio_opl_connector_rj45_12_2p_16_3x15_4x11_5mm_in/working | 
+## Images  

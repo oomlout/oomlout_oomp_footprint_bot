@@ -1,20 +1,20 @@
-- file: spacestudio_components.pretty/SOT89-3_Housing_Handsoldering.kicad_mod
+- file: data//oomlout_oomp_footprint_src/spacestudio_components.pretty/SOT89-3_Housing_Handsoldering.kicad_mod
   footprint:
     description: SOT89-3, Housing, Handsoldering,
     libraryLink: Housings_SOT-89:SOT89-3_Housing_Handsoldering
     number_of_pads: 5
   footprint_library_directory: footprint_library_owner/alchy_spacestudio_components.pretty
-  footprint_library_directory_flat: footprints_flat/alchy_spacestudio_components_sot89_3_housing_handsoldering/working
-  github_path: http://github.com/alchy/spacestudio_components.pretty/blob/master/SOT89-3_Housing_Handsoldering.kicad_mod
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/alchy_spacestudio_components_sot89_3_housing_handsoldering/working
+  github_path: http://github.com/alchy/spacestudio_components.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/SOT89-3_Housing_Handsoldering.kicad_mod
   links:
     github_owner: alchy
     github_repo_name: spacestudio_components.pretty
-    github_src: http://github.com/alchy/spacestudio_components.pretty/blob/master/trimmer_alps-rk09k1130ah1.kicad_mod
+    github_src: http://github.com/alchy/spacestudio_components.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/trimmer_alps-rk09k1130ah1.kicad_mod
     github_src_repo: https://github.com/alchy/spacestudio_components.pretty
-    oomp_bot: footprints/alchy_spacestudio_components_sot89_3_housing_handsoldering/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/alchy_spacestudio_components_sot89_3_housing_handsoldering/working
-    oomp_src_flat: footprints_flat/footprints_flat/alchy_spacestudio_components_sot89_3_housing_handsoldering/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/alchy_spacestudio_components_sot89_3_housing_handsoldering/working
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/alchy_spacestudio_components_sot89_3_housing_handsoldering/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/alchy_spacestudio_components_sot89_3_housing_handsoldering/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/alchy_spacestudio_components_sot89_3_housing_handsoldering/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/alchy_spacestudio_components_sot89_3_housing_handsoldering/working
   name: spacestudio_components.pretty
   oomp:
     footprint_name: sot89_3_housing_handsoldering
@@ -27,7 +27,7 @@
     oomp_key_extra: oomp_footprint_alchy_spacestudio_components_sot89_3_housing_handsoldering
     oomp_key_full: oomp_footprint_alchy_spacestudio_components_sot89_3_housing_handsoldering_d24d54
     oomp_key_simple: alchy_spacestudio_components_sot89_3_housing_handsoldering
-    original_filename: spacestudio_components.pretty/SOT89-3_Housing_Handsoldering.kicad_mod
+    original_filename: data//oomlout_oomp_footprint_src/spacestudio_components.pretty/SOT89-3_Housing_Handsoldering.kicad_mod
     owner_name: alchy
   oomp_key: oomp_alchy_spacestudio_components_sot89_3_housing_handsoldering
   oomp_key_full: oomp_footprint_alchy_spacestudio_components_sot89_3_housing_handsoldering

@@ -1,29 +1,20 @@
-# kicad_reinnovation by re-innovation  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/re-innovation/kicad_reinnovation/blob/master/KiCAD PRETTY/Transistors_SMD.pretty/VLM0806_Housing_Handsoldering.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: Connecteur 5 pins  
-* libraryLink: TH_DCDC  
-* number_of_pads: 5  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | kicad_reinnovation/KiCAD PRETTY/REInnovationFootprint.pretty/TH_DCDC.kicad_mod |  
-| footprint | {'description': 'Connecteur 5 pins', 'libraryLink': 'TH_DCDC', 'number_of_pads': 5} |  
-| footprint_library_directory | footprint_library_owner/re-innovation_kicad_reinnovation |  
-| footprint_library_directory_flat | footprints_flat/re_innovation_reinnovationfootprint_th_dcdc/working |  
-| github_path | http://github.com/re-innovation/kicad_reinnovation/blob/master/KiCAD PRETTY/REInnovationFootprint.pretty/TH_DCDC.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/re-innovation/kicad_reinnovation/blob/master/KiCAD PRETTY/Transistors_SMD.pretty/VLM0806_Housing_Handsoldering.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/re_innovation_reinnovationfootprint_th_dcdc/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/re_innovation_reinnovationfootprint_th_dcdc/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/re_innovation_reinnovationfootprint_th_dcdc/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/re_innovation_reinnovationfootprint_th_dcdc/working'} |  
-| name | kicad_reinnovation |  
-| oomp | {'footprint_name': 'th_dcdc', 'library_name': 'reinnovationfootprint', 'md5': '599226d5062fc0cb8cee10d82ba95943', 'md5_10': '599226d506', 'md5_5': '59922', 'md5_6': '599226', 'oomp_key': 'oomp_re_innovation_reinnovationfootprint_th_dcdc', 'oomp_key_extra': 'oomp_footprint_re_innovation_reinnovationfootprint_th_dcdc', 'oomp_key_full': 'oomp_footprint_re_innovation_reinnovationfootprint_th_dcdc_599226', 'oomp_key_simple': 're_innovation_reinnovationfootprint_th_dcdc', 'original_filename': 'kicad_reinnovation/KiCAD PRETTY/REInnovationFootprint.pretty/TH_DCDC.kicad_mod', 'owner_name': 're_innovation'} |  
-| oomp_key | oomp_re_innovation_reinnovationfootprint_th_dcdc |  
-| oomp_key_full | oomp_footprint_re_innovation_reinnovationfootprint_th_dcdc |  
-| oomp_key_simple | re_innovation_reinnovationfootprint_th_dcdc |  
-| owner | re-innovation |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/re-innovation/kicad_reinnovation |  
-
+# OOMP Footprint  
+## TH_DCDC  by none  
+  
+oomp key: oomp_re_innovation_reinnovationfootprint_th_dcdc  
+  
+source repo at: [http://gitlab.com/re-innovation/kicad_reinnovation/blob/master/KiCAD PRETTY/Transistors_SMD.pretty/VLM0806_Housing_Handsoldering.kicad_mod](http://gitlab.com/re-innovation/kicad_reinnovation/blob/master/KiCAD PRETTY/Transistors_SMD.pretty/VLM0806_Housing_Handsoldering.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | TH_DCDC | 
+| footprint description | Connecteur 5 pins | 
+| number of pads | 5 | 
+| github path | http://github.com/re-innovation/kicad_reinnovation/blob/master/KiCAD PRETTY/REInnovationFootprint.pretty/TH_DCDC.kicad_mod | 
+| oomp key | oomp_re_innovation_reinnovationfootprint_th_dcdc | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/re_innovation_reinnovationfootprint_th_dcdc/working | 
+## Images  

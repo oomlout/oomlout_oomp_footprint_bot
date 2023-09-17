@@ -1,20 +1,20 @@
-- file: MX_Alps_Hybrid.pretty/MX_Only.pretty/MXOnly-2U-Hotswap-ReversedStabilizers.kicad_mod
+- file: data//oomlout_oomp_footprint_src/MX_Alps_Hybrid.pretty/MX_Only.pretty/MXOnly-2U-Hotswap-ReversedStabilizers.kicad_mod
   footprint:
     description: null
     libraryLink: MXOnly-2U-Hotswap-ReversedStabilizers
     number_of_pads: 11
   footprint_library_directory: footprint_library_owner/ai03-2725_MX_Alps_Hybrid.pretty
-  footprint_library_directory_flat: footprints_flat/ai03_2725_mx_alps_hybrid_mxonly_2u_hotswap_reversedstabilizers/working
-  github_path: http://github.com/ai03-2725/MX_Alps_Hybrid.pretty/blob/master/MX_Only.pretty/MXOnly-2U-Hotswap-ReversedStabilizers.kicad_mod
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/ai03_2725_mx_alps_hybrid_mxonly_2u_hotswap_reversedstabilizers/working
+  github_path: http://github.com/ai03-2725/MX_Alps_Hybrid.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/MX_Only.pretty/MXOnly-2U-Hotswap-ReversedStabilizers.kicad_mod
   links:
     github_owner: ai03-2725
     github_repo_name: MX_Alps_Hybrid
-    github_src: http://github.com/ai03-2725/MX_Alps_Hybrid.pretty/blob/master/MX_Only.pretty/MXOnly-LEDONLY.kicad_mod
+    github_src: http://github.com/ai03-2725/MX_Alps_Hybrid.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/MX_Only.pretty/MXOnly-LEDONLY.kicad_mod
     github_src_repo: https://github.com/ai03-2725/MX_Alps_Hybrid
-    oomp_bot: footprints/ai03_2725_mx_alps_hybrid_mxonly_2u_hotswap_reversedstabilizers/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ai03_2725_mx_alps_hybrid_mxonly_2u_hotswap_reversedstabilizers/working
-    oomp_src_flat: footprints_flat/footprints_flat/ai03_2725_mx_alps_hybrid_mxonly_2u_hotswap_reversedstabilizers/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ai03_2725_mx_alps_hybrid_mxonly_2u_hotswap_reversedstabilizers/working
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/ai03_2725_mx_alps_hybrid_mxonly_2u_hotswap_reversedstabilizers/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/ai03_2725_mx_alps_hybrid_mxonly_2u_hotswap_reversedstabilizers/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/ai03_2725_mx_alps_hybrid_mxonly_2u_hotswap_reversedstabilizers/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/ai03_2725_mx_alps_hybrid_mxonly_2u_hotswap_reversedstabilizers/working
   name: MX_Alps_Hybrid.pretty
   oomp:
     footprint_name: mxonly_2u_hotswap_reversedstabilizers
@@ -27,7 +27,7 @@
     oomp_key_extra: oomp_footprint_ai03_2725_mx_alps_hybrid_mxonly_2u_hotswap_reversedstabilizers
     oomp_key_full: oomp_footprint_ai03_2725_mx_alps_hybrid_mxonly_2u_hotswap_reversedstabilizers_4a18d8
     oomp_key_simple: ai03_2725_mx_alps_hybrid_mxonly_2u_hotswap_reversedstabilizers
-    original_filename: MX_Alps_Hybrid.pretty/MX_Only.pretty/MXOnly-2U-Hotswap-ReversedStabilizers.kicad_mod
+    original_filename: data//oomlout_oomp_footprint_src/MX_Alps_Hybrid.pretty/MX_Only.pretty/MXOnly-2U-Hotswap-ReversedStabilizers.kicad_mod
     owner_name: ai03_2725
   oomp_key: oomp_ai03_2725_mx_alps_hybrid_mxonly_2u_hotswap_reversedstabilizers
   oomp_key_full: oomp_footprint_ai03_2725_mx_alps_hybrid_mxonly_2u_hotswap_reversedstabilizers
@@ -55,8 +55,8 @@
     downloads_url: https://api.github.com/repos/ai03-2725/MX_Alps_Hybrid/downloads
     events_url: https://api.github.com/repos/ai03-2725/MX_Alps_Hybrid/events
     fork: false
-    forks: 134
-    forks_count: 134
+    forks: 135
+    forks_count: 135
     forks_url: https://api.github.com/repos/ai03-2725/MX_Alps_Hybrid/forks
     full_name: ai03-2725/MX_Alps_Hybrid
     git_commits_url: https://api.github.com/repos/ai03-2725/MX_Alps_Hybrid/git/commits{/sha}
@@ -91,7 +91,7 @@
     milestones_url: https://api.github.com/repos/ai03-2725/MX_Alps_Hybrid/milestones{/number}
     mirror_url: null
     name: MX_Alps_Hybrid
-    network_count: 134
+    network_count: 135
     node_id: MDEwOlJlcG9zaXRvcnk5MTI2OTgxNQ==
     notifications_url: https://api.github.com/repos/ai03-2725/MX_Alps_Hybrid/notifications{?since,all,participating}
     open_issues: 3
@@ -121,7 +121,7 @@
     releases_url: https://api.github.com/repos/ai03-2725/MX_Alps_Hybrid/releases{/id}
     size: 415
     ssh_url: git@github.com:ai03-2725/MX_Alps_Hybrid.git
-    stargazers_count: 326
+    stargazers_count: 327
     stargazers_url: https://api.github.com/repos/ai03-2725/MX_Alps_Hybrid/stargazers
     statuses_url: https://api.github.com/repos/ai03-2725/MX_Alps_Hybrid/statuses/{sha}
     subscribers_count: 4
@@ -140,10 +140,10 @@
     - mechanical-keyboard
     - mx-alps-hybrid
     trees_url: https://api.github.com/repos/ai03-2725/MX_Alps_Hybrid/git/trees{/sha}
-    updated_at: '2023-07-29T08:01:44Z'
+    updated_at: '2023-09-08T17:25:02Z'
     url: https://api.github.com/repos/ai03-2725/MX_Alps_Hybrid
     visibility: public
-    watchers: 326
-    watchers_count: 326
+    watchers: 327
+    watchers_count: 327
     web_commit_signoff_required: false
   url: http://github.com/ai03-2725/MX_Alps_Hybrid.pretty

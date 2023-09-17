@@ -1,29 +1,20 @@
-# pretty-kicad-libs by esden  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/esden/pretty-kicad-libs/blob/master/pkl_tag_connect.pretty/TC2050_SMALL.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: LFPAK www.nxp.com/documents/leaflet/939775016838_LR.pdf  
-* libraryLink: SOT-669_LFPAK  
-* number_of_pads: 19  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | pretty-kicad-libs/pkl_housings_power.pretty/SOT-669_LFPAK.kicad_mod |  
-| footprint | {'description': 'LFPAK www.nxp.com/documents/leaflet/939775016838_LR.pdf', 'libraryLink': 'SOT-669_LFPAK', 'number_of_pads': 19} |  
-| footprint_library_directory | footprint_library_owner/esden_pretty-kicad-libs |  
-| footprint_library_directory_flat | footprints_flat/esden_pkl_housings_power_sot_669_lfpak/working |  
-| github_path | http://github.com/esden/pretty-kicad-libs/blob/master/pkl_housings_power.pretty/SOT-669_LFPAK.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/esden/pretty-kicad-libs/blob/master/pkl_tag_connect.pretty/TC2050_SMALL.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/esden_pkl_housings_power_sot_669_lfpak/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/esden_pkl_housings_power_sot_669_lfpak/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/esden_pkl_housings_power_sot_669_lfpak/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/esden_pkl_housings_power_sot_669_lfpak/working'} |  
-| name | pretty-kicad-libs |  
-| oomp | {'footprint_name': 'sot_669_lfpak', 'library_name': 'pkl_housings_power', 'md5': '48aba48c2ec22aa52888d958fabf2108', 'md5_10': '48aba48c2e', 'md5_5': '48aba', 'md5_6': '48aba4', 'oomp_key': 'oomp_esden_pkl_housings_power_sot_669_lfpak', 'oomp_key_extra': 'oomp_footprint_esden_pkl_housings_power_sot_669_lfpak', 'oomp_key_full': 'oomp_footprint_esden_pkl_housings_power_sot_669_lfpak_48aba4', 'oomp_key_simple': 'esden_pkl_housings_power_sot_669_lfpak', 'original_filename': 'pretty-kicad-libs/pkl_housings_power.pretty/SOT-669_LFPAK.kicad_mod', 'owner_name': 'esden'} |  
-| oomp_key | oomp_esden_pkl_housings_power_sot_669_lfpak |  
-| oomp_key_full | oomp_footprint_esden_pkl_housings_power_sot_669_lfpak |  
-| oomp_key_simple | esden_pkl_housings_power_sot_669_lfpak |  
-| owner | esden |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/esden/pretty-kicad-libs |  
-
+# OOMP Footprint  
+## SOT-669_LFPAK  by none  
+  
+oomp key: oomp_esden_pkl_housings_power_sot_669_lfpak  
+  
+source repo at: [http://gitlab.com/esden/pretty-kicad-libs/blob/master/pkl_tag_connect.pretty/TC2050_SMALL.kicad_mod](http://gitlab.com/esden/pretty-kicad-libs/blob/master/pkl_tag_connect.pretty/TC2050_SMALL.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | SOT-669_LFPAK | 
+| footprint description | LFPAK www.nxp.com/documents/leaflet/939775016838_LR.pdf | 
+| number of pads | 19 | 
+| github path | http://github.com/esden/pretty-kicad-libs/blob/master/pkl_housings_power.pretty/SOT-669_LFPAK.kicad_mod | 
+| oomp key | oomp_esden_pkl_housings_power_sot_669_lfpak | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/esden_pkl_housings_power_sot_669_lfpak/working | 
+## Images  

@@ -1,20 +1,20 @@
-- file: WS2812B.pretty/WS2812B_data-bridgeable.kicad_mod
+- file: data//oomlout_oomp_footprint_src/WS2812B.pretty/WS2812B_data-bridgeable.kicad_mod
   footprint:
     description: null
     libraryLink: WS2812B_data-bridgeable
     number_of_pads: 12
   footprint_library_directory: footprint_library_owner/madworm_WS2812B.pretty
-  footprint_library_directory_flat: footprints_flat/madworm_ws2812b_ws2812b_data_bridgeable/working
-  github_path: http://github.com/madworm/WS2812B.pretty/blob/master/WS2812B_data-bridgeable.kicad_mod
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/madworm_ws2812b_ws2812b_data_bridgeable/working
+  github_path: http://github.com/madworm/WS2812B.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/WS2812B_data-bridgeable.kicad_mod
   links:
     github_owner: madworm
     github_repo_name: WS2812B.pretty
-    github_src: http://github.com/madworm/WS2812B.pretty/blob/master/WS2812B_data-bridgeable.kicad_mod
+    github_src: http://github.com/madworm/WS2812B.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/WS2812B_data-bridgeable.kicad_mod
     github_src_repo: https://github.com/madworm/WS2812B.pretty
-    oomp_bot: footprints/madworm_ws2812b_ws2812b_data_bridgeable/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/madworm_ws2812b_ws2812b_data_bridgeable/working
-    oomp_src_flat: footprints_flat/footprints_flat/madworm_ws2812b_ws2812b_data_bridgeable/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/madworm_ws2812b_ws2812b_data_bridgeable/working
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/madworm_ws2812b_ws2812b_data_bridgeable/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/madworm_ws2812b_ws2812b_data_bridgeable/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/madworm_ws2812b_ws2812b_data_bridgeable/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/madworm_ws2812b_ws2812b_data_bridgeable/working
   name: WS2812B.pretty
   oomp:
     footprint_name: ws2812b_data_bridgeable
@@ -27,7 +27,7 @@
     oomp_key_extra: oomp_footprint_madworm_ws2812b_ws2812b_data_bridgeable
     oomp_key_full: oomp_footprint_madworm_ws2812b_ws2812b_data_bridgeable_4f0d6c
     oomp_key_simple: madworm_ws2812b_ws2812b_data_bridgeable
-    original_filename: WS2812B.pretty/WS2812B_data-bridgeable.kicad_mod
+    original_filename: data//oomlout_oomp_footprint_src/WS2812B.pretty/WS2812B_data-bridgeable.kicad_mod
     owner_name: madworm
   oomp_key: oomp_madworm_ws2812b_ws2812b_data_bridgeable
   oomp_key_full: oomp_footprint_madworm_ws2812b_ws2812b_data_bridgeable
@@ -117,7 +117,7 @@
     releases_url: https://api.github.com/repos/madworm/WS2812B.pretty/releases{/id}
     size: 250
     ssh_url: git@github.com:madworm/WS2812B.pretty.git
-    stargazers_count: 17
+    stargazers_count: 18
     stargazers_url: https://api.github.com/repos/madworm/WS2812B.pretty/stargazers
     statuses_url: https://api.github.com/repos/madworm/WS2812B.pretty/statuses/{sha}
     subscribers_count: 5
@@ -129,10 +129,10 @@
     temp_clone_token: null
     topics: []
     trees_url: https://api.github.com/repos/madworm/WS2812B.pretty/git/trees{/sha}
-    updated_at: '2023-07-25T13:52:27Z'
+    updated_at: '2023-08-18T15:19:51Z'
     url: https://api.github.com/repos/madworm/WS2812B.pretty
     visibility: public
-    watchers: 17
-    watchers_count: 17
+    watchers: 18
+    watchers_count: 18
     web_commit_signoff_required: false
   url: http://github.com/madworm/WS2812B.pretty

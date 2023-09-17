@@ -1,29 +1,20 @@
-# SparkFun-KiCad-Libraries by sparkfun  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Pre_v7/Tools/SparkFun-Eagle-Libraries_Conversion/Export.pretty/DFN-6-3X3.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: None  
-* libraryLink: MLF32-PAD  
-* number_of_pads: 33  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | SparkFun-KiCad-Libraries/Pre_v7/Footprints/Silicon-Standard.pretty/MLF32-PAD.kicad_mod |  
-| footprint | {'description': None, 'libraryLink': 'MLF32-PAD', 'number_of_pads': 33} |  
-| footprint_library_directory | footprint_library_owner/sparkfun_SparkFun-KiCad-Libraries |  
-| footprint_library_directory_flat | footprints_flat/sparkfun_silicon_standard_mlf32_pad/working |  
-| github_path | http://github.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Pre_v7/Footprints/Silicon-Standard.pretty/MLF32-PAD.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Pre_v7/Tools/SparkFun-Eagle-Libraries_Conversion/Export.pretty/DFN-6-3X3.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/sparkfun_silicon_standard_mlf32_pad/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/sparkfun_silicon_standard_mlf32_pad/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/sparkfun_silicon_standard_mlf32_pad/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/sparkfun_silicon_standard_mlf32_pad/working'} |  
-| name | SparkFun-KiCad-Libraries |  
-| oomp | {'footprint_name': 'mlf32_pad', 'library_name': 'silicon_standard', 'md5': '53a3a458ce22244027a0e12af5d3bd13', 'md5_10': '53a3a458ce', 'md5_5': '53a3a', 'md5_6': '53a3a4', 'oomp_key': 'oomp_sparkfun_silicon_standard_mlf32_pad', 'oomp_key_extra': 'oomp_footprint_sparkfun_silicon_standard_mlf32_pad', 'oomp_key_full': 'oomp_footprint_sparkfun_silicon_standard_mlf32_pad_53a3a4', 'oomp_key_simple': 'sparkfun_silicon_standard_mlf32_pad', 'original_filename': 'SparkFun-KiCad-Libraries/Pre_v7/Footprints/Silicon-Standard.pretty/MLF32-PAD.kicad_mod', 'owner_name': 'sparkfun'} |  
-| oomp_key | oomp_sparkfun_silicon_standard_mlf32_pad |  
-| oomp_key_full | oomp_footprint_sparkfun_silicon_standard_mlf32_pad |  
-| oomp_key_simple | sparkfun_silicon_standard_mlf32_pad |  
-| owner | sparkfun |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/sparkfun/SparkFun-KiCad-Libraries |  
-
+# OOMP Footprint  
+## MLF32-PAD  by none  
+  
+oomp key: oomp_sparkfun_silicon_standard_mlf32_pad  
+  
+source repo at: [http://gitlab.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Pre_v7/Tools/SparkFun-Eagle-Libraries_Conversion/Export.pretty/DFN-6-3X3.kicad_mod](http://gitlab.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Pre_v7/Tools/SparkFun-Eagle-Libraries_Conversion/Export.pretty/DFN-6-3X3.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | MLF32-PAD | 
+| footprint description | None | 
+| number of pads | 33 | 
+| github path | http://github.com/sparkfun/SparkFun-KiCad-Libraries/blob/master/Pre_v7/Footprints/Silicon-Standard.pretty/MLF32-PAD.kicad_mod | 
+| oomp key | oomp_sparkfun_silicon_standard_mlf32_pad | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/sparkfun_silicon_standard_mlf32_pad/working | 
+## Images  

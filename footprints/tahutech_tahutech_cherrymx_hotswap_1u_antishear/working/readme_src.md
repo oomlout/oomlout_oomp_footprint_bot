@@ -1,29 +1,20 @@
-# tahutech.pretty by TahuTech  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/TahuTech/tahutech.pretty/blob/master/tahutech.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: created by modifying library "github.com/foostan/kbd/CherryMX_Hotswap.kicad_mod"  
-* libraryLink: CherryMX_Hotswap_1U_Antishear  
-* number_of_pads: 16  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | tahutech.pretty/CherryMX_Hotswap_1U_Antishear.kicad_mod |  
-| footprint | {'description': 'created by modifying library "github.com/foostan/kbd/CherryMX_Hotswap.kicad_mod"', 'libraryLink': 'CherryMX_Hotswap_1U_Antishear', 'number_of_pads': 16} |  
-| footprint_library_directory | footprint_library_owner/TahuTech_tahutech.pretty |  
-| footprint_library_directory_flat | footprints_flat/tahutech_tahutech_cherrymx_hotswap_1u_antishear/working |  
-| github_path | http://github.com/TahuTech/tahutech.pretty/blob/master/CherryMX_Hotswap_1U_Antishear.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/TahuTech/tahutech.pretty/blob/master/tahutech.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/tahutech_tahutech_cherrymx_hotswap_1u_antishear/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/tahutech_tahutech_cherrymx_hotswap_1u_antishear/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/tahutech_tahutech_cherrymx_hotswap_1u_antishear/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/tahutech_tahutech_cherrymx_hotswap_1u_antishear/working'} |  
-| name | tahutech.pretty |  
-| oomp | {'footprint_name': 'cherrymx_hotswap_1u_antishear', 'library_name': 'tahutech', 'md5': '59bf6a1ca82b5c7b49ffc10385b43005', 'md5_10': '59bf6a1ca8', 'md5_5': '59bf6', 'md5_6': '59bf6a', 'oomp_key': 'oomp_tahutech_tahutech_cherrymx_hotswap_1u_antishear', 'oomp_key_extra': 'oomp_footprint_tahutech_tahutech_cherrymx_hotswap_1u_antishear', 'oomp_key_full': 'oomp_footprint_tahutech_tahutech_cherrymx_hotswap_1u_antishear_59bf6a', 'oomp_key_simple': 'tahutech_tahutech_cherrymx_hotswap_1u_antishear', 'original_filename': 'tahutech.pretty/CherryMX_Hotswap_1U_Antishear.kicad_mod', 'owner_name': 'tahutech'} |  
-| oomp_key | oomp_tahutech_tahutech_cherrymx_hotswap_1u_antishear |  
-| oomp_key_full | oomp_footprint_tahutech_tahutech_cherrymx_hotswap_1u_antishear |  
-| oomp_key_simple | tahutech_tahutech_cherrymx_hotswap_1u_antishear |  
-| owner | TahuTech |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/TahuTech/tahutech.pretty |  
-
+# OOMP Footprint  
+## CherryMX_Hotswap_1U_Antishear  by none  
+  
+oomp key: oomp_tahutech_tahutech_cherrymx_hotswap_1u_antishear  
+  
+source repo at: [http://gitlab.com/TahuTech/tahutech.pretty/blob/master/tahutech.kicad_mod](http://gitlab.com/TahuTech/tahutech.pretty/blob/master/tahutech.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | CherryMX_Hotswap_1U_Antishear | 
+| footprint description | created by modifying library "github.com/foostan/kbd/CherryMX_Hotswap.kicad_mod" | 
+| number of pads | 16 | 
+| github path | http://github.com/TahuTech/tahutech.pretty/blob/master/CherryMX_Hotswap_1U_Antishear.kicad_mod | 
+| oomp key | oomp_tahutech_tahutech_cherrymx_hotswap_1u_antishear | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/tahutech_tahutech_cherrymx_hotswap_1u_antishear/working | 
+## Images  

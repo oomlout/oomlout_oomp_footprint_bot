@@ -1,29 +1,20 @@
-# footprints.pretty by jakobkg  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/jakobkg/footprints.pretty/blob/master/USB_Micro_FCI.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: LED 3mm round vertical  
-* libraryLink: LED-3MM  
-* number_of_pads: 2  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | footprints.pretty/LED-3MM.kicad_mod |  
-| footprint | {'description': 'LED 3mm round vertical', 'libraryLink': 'LED-3MM', 'number_of_pads': 2} |  
-| footprint_library_directory | footprint_library_owner/jakobkg_footprints.pretty |  
-| footprint_library_directory_flat | footprints_flat/jakobkg_footprints_led_3mm/working |  
-| github_path | http://github.com/jakobkg/footprints.pretty/blob/master/LED-3MM.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/jakobkg/footprints.pretty/blob/master/USB_Micro_FCI.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/jakobkg_footprints_led_3mm/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/jakobkg_footprints_led_3mm/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/jakobkg_footprints_led_3mm/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/jakobkg_footprints_led_3mm/working'} |  
-| name | footprints.pretty |  
-| oomp | {'footprint_name': 'led_3mm', 'library_name': 'footprints', 'md5': '6448af9646ae01440ca66e753631453f', 'md5_10': '6448af9646', 'md5_5': '6448a', 'md5_6': '6448af', 'oomp_key': 'oomp_jakobkg_footprints_led_3mm', 'oomp_key_extra': 'oomp_footprint_jakobkg_footprints_led_3mm', 'oomp_key_full': 'oomp_footprint_jakobkg_footprints_led_3mm_6448af', 'oomp_key_simple': 'jakobkg_footprints_led_3mm', 'original_filename': 'footprints.pretty/LED-3MM.kicad_mod', 'owner_name': 'jakobkg'} |  
-| oomp_key | oomp_jakobkg_footprints_led_3mm |  
-| oomp_key_full | oomp_footprint_jakobkg_footprints_led_3mm |  
-| oomp_key_simple | jakobkg_footprints_led_3mm |  
-| owner | jakobkg |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/jakobkg/footprints.pretty |  
-
+# OOMP Footprint  
+## LED-3MM  by none  
+  
+oomp key: oomp_jakobkg_footprints_led_3mm  
+  
+source repo at: [http://gitlab.com/jakobkg/footprints.pretty/blob/master/USB_Micro_FCI.kicad_mod](http://gitlab.com/jakobkg/footprints.pretty/blob/master/USB_Micro_FCI.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | LED-3MM | 
+| footprint description | LED 3mm round vertical | 
+| number of pads | 2 | 
+| github path | http://github.com/jakobkg/footprints.pretty/blob/master/LED-3MM.kicad_mod | 
+| oomp key | oomp_jakobkg_footprints_led_3mm | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/jakobkg_footprints_led_3mm/working | 
+## Images  

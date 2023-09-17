@@ -1,29 +1,20 @@
-# KiCad.pretty by celeritous  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/celeritous/KiCad.pretty/blob/master/XTAL_7X5MM.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: None  
-* libraryLink: CONN_DB15F_RA_TH  
-* number_of_pads: 17  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | KiCad.pretty/CONN_DB15F_RA_TH.kicad_mod |  
-| footprint | {'description': None, 'libraryLink': 'CONN_DB15F_RA_TH', 'number_of_pads': 17} |  
-| footprint_library_directory | footprint_library_owner/celeritous_KiCad.pretty |  
-| footprint_library_directory_flat | footprints_flat/celeritous_kicad_conn_db15f_ra_th/working |  
-| github_path | http://github.com/celeritous/KiCad.pretty/blob/master/CONN_DB15F_RA_TH.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/celeritous/KiCad.pretty/blob/master/XTAL_7X5MM.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/celeritous_kicad_conn_db15f_ra_th/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/celeritous_kicad_conn_db15f_ra_th/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/celeritous_kicad_conn_db15f_ra_th/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/celeritous_kicad_conn_db15f_ra_th/working'} |  
-| name | KiCad.pretty |  
-| oomp | {'footprint_name': 'conn_db15f_ra_th', 'library_name': 'kicad', 'md5': '37c532333e8aacb3e058cf525652d36d', 'md5_10': '37c532333e', 'md5_5': '37c53', 'md5_6': '37c532', 'oomp_key': 'oomp_celeritous_kicad_conn_db15f_ra_th', 'oomp_key_extra': 'oomp_footprint_celeritous_kicad_conn_db15f_ra_th', 'oomp_key_full': 'oomp_footprint_celeritous_kicad_conn_db15f_ra_th_37c532', 'oomp_key_simple': 'celeritous_kicad_conn_db15f_ra_th', 'original_filename': 'KiCad.pretty/CONN_DB15F_RA_TH.kicad_mod', 'owner_name': 'celeritous'} |  
-| oomp_key | oomp_celeritous_kicad_conn_db15f_ra_th |  
-| oomp_key_full | oomp_footprint_celeritous_kicad_conn_db15f_ra_th |  
-| oomp_key_simple | celeritous_kicad_conn_db15f_ra_th |  
-| owner | celeritous |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/celeritous/KiCad.pretty |  
-
+# OOMP Footprint  
+## CONN_DB15F_RA_TH  by none  
+  
+oomp key: oomp_celeritous_kicad_conn_db15f_ra_th  
+  
+source repo at: [http://gitlab.com/celeritous/KiCad.pretty/blob/master/XTAL_7X5MM.kicad_mod](http://gitlab.com/celeritous/KiCad.pretty/blob/master/XTAL_7X5MM.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | CONN_DB15F_RA_TH | 
+| footprint description | None | 
+| number of pads | 17 | 
+| github path | http://github.com/celeritous/KiCad.pretty/blob/master/CONN_DB15F_RA_TH.kicad_mod | 
+| oomp key | oomp_celeritous_kicad_conn_db15f_ra_th | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/celeritous_kicad_conn_db15f_ra_th/working | 
+## Images  

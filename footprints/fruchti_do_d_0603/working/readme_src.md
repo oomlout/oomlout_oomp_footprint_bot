@@ -1,29 +1,20 @@
-# fruchtilib by fruchti  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/fruchti/fruchtilib/blob/master/mod/vssop.pretty/VSSOP8.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: None  
-* libraryLink: D_0603  
-* number_of_pads: 2  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | fruchtilib/mod/do.pretty/D_0603.kicad_mod |  
-| footprint | {'description': None, 'libraryLink': 'D_0603', 'number_of_pads': 2} |  
-| footprint_library_directory | footprint_library_owner/fruchti_fruchtilib |  
-| footprint_library_directory_flat | footprints_flat/fruchti_do_d_0603/working |  
-| github_path | http://github.com/fruchti/fruchtilib/blob/master/mod/do.pretty/D_0603.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/fruchti/fruchtilib/blob/master/mod/vssop.pretty/VSSOP8.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/fruchti_do_d_0603/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/fruchti_do_d_0603/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/fruchti_do_d_0603/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/fruchti_do_d_0603/working'} |  
-| name | fruchtilib |  
-| oomp | {'footprint_name': 'd_0603', 'library_name': 'do', 'md5': '4cc302640d9a0458606d4f42bea421c7', 'md5_10': '4cc302640d', 'md5_5': '4cc30', 'md5_6': '4cc302', 'oomp_key': 'oomp_fruchti_do_d_0603', 'oomp_key_extra': 'oomp_footprint_fruchti_do_d_0603', 'oomp_key_full': 'oomp_footprint_fruchti_do_d_0603_4cc302', 'oomp_key_simple': 'fruchti_do_d_0603', 'original_filename': 'fruchtilib/mod/do.pretty/D_0603.kicad_mod', 'owner_name': 'fruchti'} |  
-| oomp_key | oomp_fruchti_do_d_0603 |  
-| oomp_key_full | oomp_footprint_fruchti_do_d_0603 |  
-| oomp_key_simple | fruchti_do_d_0603 |  
-| owner | fruchti |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/fruchti/fruchtilib |  
-
+# OOMP Footprint  
+## D_0603  by none  
+  
+oomp key: oomp_fruchti_do_d_0603  
+  
+source repo at: [http://gitlab.com/fruchti/fruchtilib/blob/master/mod/vssop.pretty/VSSOP8.kicad_mod](http://gitlab.com/fruchti/fruchtilib/blob/master/mod/vssop.pretty/VSSOP8.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | D_0603 | 
+| footprint description | None | 
+| number of pads | 2 | 
+| github path | http://github.com/fruchti/fruchtilib/blob/master/mod/do.pretty/D_0603.kicad_mod | 
+| oomp key | oomp_fruchti_do_d_0603 | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/fruchti_do_d_0603/working | 
+## Images  

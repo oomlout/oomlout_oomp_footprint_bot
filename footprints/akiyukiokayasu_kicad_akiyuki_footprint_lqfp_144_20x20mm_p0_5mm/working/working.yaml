@@ -1,21 +1,21 @@
-- file: Kicad_Akiyuki_Footprint.pretty/LQFP-144_20x20mm_P0.5mm.kicad_mod
+- file: data//oomlout_oomp_footprint_src/Kicad_Akiyuki_Footprint.pretty/LQFP-144_20x20mm_P0.5mm.kicad_mod
   footprint:
     description: LQFP, 144 Pin (http://ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf#page=425),
       generated with kicad-footprint-generator ipc_gullwing_generator.py
     libraryLink: LQFP-144_20x20mm_P0.5mm
     number_of_pads: 288
   footprint_library_directory: footprint_library_owner/AkiyukiOkayasu_Kicad_Akiyuki_Footprint.pretty
-  footprint_library_directory_flat: footprints_flat/akiyukiokayasu_kicad_akiyuki_footprint_lqfp_144_20x20mm_p0_5mm/working
-  github_path: http://github.com/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/blob/master/LQFP-144_20x20mm_P0.5mm.kicad_mod
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/akiyukiokayasu_kicad_akiyuki_footprint_lqfp_144_20x20mm_p0_5mm/working
+  github_path: http://github.com/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/LQFP-144_20x20mm_P0.5mm.kicad_mod
   links:
     github_owner: AkiyukiOkayasu
     github_repo_name: Kicad_Akiyuki_Footprint.pretty
-    github_src: http://github.com/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/blob/master/USB_MicroB_PowerOnly.kicad_mod
+    github_src: http://github.com/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/USB_MicroB_PowerOnly.kicad_mod
     github_src_repo: https://github.com/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty
-    oomp_bot: footprints/akiyukiokayasu_kicad_akiyuki_footprint_lqfp_144_20x20mm_p0_5mm/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/akiyukiokayasu_kicad_akiyuki_footprint_lqfp_144_20x20mm_p0_5mm/working
-    oomp_src_flat: footprints_flat/footprints_flat/akiyukiokayasu_kicad_akiyuki_footprint_lqfp_144_20x20mm_p0_5mm/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/akiyukiokayasu_kicad_akiyuki_footprint_lqfp_144_20x20mm_p0_5mm/working
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/akiyukiokayasu_kicad_akiyuki_footprint_lqfp_144_20x20mm_p0_5mm/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/akiyukiokayasu_kicad_akiyuki_footprint_lqfp_144_20x20mm_p0_5mm/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/akiyukiokayasu_kicad_akiyuki_footprint_lqfp_144_20x20mm_p0_5mm/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/akiyukiokayasu_kicad_akiyuki_footprint_lqfp_144_20x20mm_p0_5mm/working
   name: Kicad_Akiyuki_Footprint.pretty
   oomp:
     footprint_name: lqfp_144_20x20mm_p0_5mm
@@ -28,7 +28,7 @@
     oomp_key_extra: oomp_footprint_akiyukiokayasu_kicad_akiyuki_footprint_lqfp_144_20x20mm_p0_5mm
     oomp_key_full: oomp_footprint_akiyukiokayasu_kicad_akiyuki_footprint_lqfp_144_20x20mm_p0_5mm_037476
     oomp_key_simple: akiyukiokayasu_kicad_akiyuki_footprint_lqfp_144_20x20mm_p0_5mm
-    original_filename: Kicad_Akiyuki_Footprint.pretty/LQFP-144_20x20mm_P0.5mm.kicad_mod
+    original_filename: data//oomlout_oomp_footprint_src/Kicad_Akiyuki_Footprint.pretty/LQFP-144_20x20mm_P0.5mm.kicad_mod
     owner_name: akiyukiokayasu
   oomp_key: oomp_akiyukiokayasu_kicad_akiyuki_footprint_lqfp_144_20x20mm_p0_5mm
   oomp_key_full: oomp_footprint_akiyukiokayasu_kicad_akiyuki_footprint_lqfp_144_20x20mm_p0_5mm
@@ -113,9 +113,9 @@
       url: https://api.github.com/users/AkiyukiOkayasu
     private: false
     pulls_url: https://api.github.com/repos/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/pulls{/number}
-    pushed_at: '2023-07-26T05:18:41Z'
+    pushed_at: '2023-09-15T07:12:15Z'
     releases_url: https://api.github.com/repos/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/releases{/id}
-    size: 185
+    size: 199
     ssh_url: git@github.com:AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty.git
     stargazers_count: 2
     stargazers_url: https://api.github.com/repos/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/stargazers

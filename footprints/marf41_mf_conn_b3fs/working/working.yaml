@@ -1,20 +1,20 @@
-- file: MF-conn.pretty/B3FS.kicad_mod
+- file: data//oomlout_oomp_footprint_src/MF-conn.pretty/B3FS.kicad_mod
   footprint:
     description: null
     libraryLink: B3FS
     number_of_pads: 4
   footprint_library_directory: footprint_library_owner/marf41_MF-conn.pretty
-  footprint_library_directory_flat: footprints_flat/marf41_mf_conn_b3fs/working
-  github_path: http://github.com/marf41/MF-conn.pretty/blob/master/B3FS.kicad_mod
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/marf41_mf_conn_b3fs/working
+  github_path: http://github.com/marf41/MF-conn.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/B3FS.kicad_mod
   links:
     github_owner: marf41
     github_repo_name: MF-conn.pretty
-    github_src: http://github.com/marf41/MF-conn.pretty/blob/master/SWD-POGO.kicad_mod
+    github_src: http://github.com/marf41/MF-conn.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/SWD-POGO.kicad_mod
     github_src_repo: https://github.com/marf41/MF-conn.pretty
-    oomp_bot: footprints/marf41_mf_conn_b3fs/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/marf41_mf_conn_b3fs/working
-    oomp_src_flat: footprints_flat/footprints_flat/marf41_mf_conn_b3fs/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/marf41_mf_conn_b3fs/working
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/marf41_mf_conn_b3fs/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/marf41_mf_conn_b3fs/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/marf41_mf_conn_b3fs/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/marf41_mf_conn_b3fs/working
   name: MF-conn.pretty
   oomp:
     footprint_name: b3fs
@@ -27,7 +27,7 @@
     oomp_key_extra: oomp_footprint_marf41_mf_conn_b3fs
     oomp_key_full: oomp_footprint_marf41_mf_conn_b3fs_c07df4
     oomp_key_simple: marf41_mf_conn_b3fs
-    original_filename: MF-conn.pretty/B3FS.kicad_mod
+    original_filename: data//oomlout_oomp_footprint_src/MF-conn.pretty/B3FS.kicad_mod
     owner_name: marf41
   oomp_key: oomp_marf41_mf_conn_b3fs
   oomp_key_full: oomp_footprint_marf41_mf_conn_b3fs

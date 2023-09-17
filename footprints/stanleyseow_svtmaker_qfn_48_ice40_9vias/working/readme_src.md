@@ -1,29 +1,20 @@
-# SVTmaker.pretty by stanleyseow  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/stanleyseow/SVTmaker.pretty/blob/master/z_Drill_05x6.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: QFN, 48 Pin (http://www.st.com/resource/en/datasheet/stm32f042k6.pdf#page=94), generated with kicad-footprint-generator ipc_noLead_generator.py  
-* libraryLink: QFN-48-ice40-9vias  
-* number_of_pads: 70  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | SVTmaker.pretty/QFN-48-ice40-9vias.kicad_mod |  
-| footprint | {'description': 'QFN, 48 Pin (http://www.st.com/resource/en/datasheet/stm32f042k6.pdf#page=94), generated with kicad-footprint-generator ipc_noLead_generator.py', 'libraryLink': 'QFN-48-ice40-9vias', 'number_of_pads': 70} |  
-| footprint_library_directory | footprint_library_owner/stanleyseow_SVTmaker.pretty |  
-| footprint_library_directory_flat | footprints_flat/stanleyseow_svtmaker_qfn_48_ice40_9vias/working |  
-| github_path | http://github.com/stanleyseow/SVTmaker.pretty/blob/master/QFN-48-ice40-9vias.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/stanleyseow/SVTmaker.pretty/blob/master/z_Drill_05x6.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/stanleyseow_svtmaker_qfn_48_ice40_9vias/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stanleyseow_svtmaker_qfn_48_ice40_9vias/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/stanleyseow_svtmaker_qfn_48_ice40_9vias/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/stanleyseow_svtmaker_qfn_48_ice40_9vias/working'} |  
-| name | SVTmaker.pretty |  
-| oomp | {'footprint_name': 'qfn_48_ice40_9vias', 'library_name': 'svtmaker', 'md5': '942e840e8676ac25685b7df121b498b8', 'md5_10': '942e840e86', 'md5_5': '942e8', 'md5_6': '942e84', 'oomp_key': 'oomp_stanleyseow_svtmaker_qfn_48_ice40_9vias', 'oomp_key_extra': 'oomp_footprint_stanleyseow_svtmaker_qfn_48_ice40_9vias', 'oomp_key_full': 'oomp_footprint_stanleyseow_svtmaker_qfn_48_ice40_9vias_942e84', 'oomp_key_simple': 'stanleyseow_svtmaker_qfn_48_ice40_9vias', 'original_filename': 'SVTmaker.pretty/QFN-48-ice40-9vias.kicad_mod', 'owner_name': 'stanleyseow'} |  
-| oomp_key | oomp_stanleyseow_svtmaker_qfn_48_ice40_9vias |  
-| oomp_key_full | oomp_footprint_stanleyseow_svtmaker_qfn_48_ice40_9vias |  
-| oomp_key_simple | stanleyseow_svtmaker_qfn_48_ice40_9vias |  
-| owner | stanleyseow |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/stanleyseow/SVTmaker.pretty |  
-
+# OOMP Footprint  
+## QFN-48-ice40-9vias  by none  
+  
+oomp key: oomp_stanleyseow_svtmaker_qfn_48_ice40_9vias  
+  
+source repo at: [http://gitlab.com/stanleyseow/SVTmaker.pretty/blob/master/z_Drill_05x6.kicad_mod](http://gitlab.com/stanleyseow/SVTmaker.pretty/blob/master/z_Drill_05x6.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | QFN-48-ice40-9vias | 
+| footprint description | QFN, 48 Pin (http://www.st.com/resource/en/datasheet/stm32f042k6.pdf#page=94), generated with kicad-footprint-generator ipc_noLead_generator.py | 
+| number of pads | 70 | 
+| github path | http://github.com/stanleyseow/SVTmaker.pretty/blob/master/QFN-48-ice40-9vias.kicad_mod | 
+| oomp key | oomp_stanleyseow_svtmaker_qfn_48_ice40_9vias | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stanleyseow_svtmaker_qfn_48_ice40_9vias/working | 
+## Images  

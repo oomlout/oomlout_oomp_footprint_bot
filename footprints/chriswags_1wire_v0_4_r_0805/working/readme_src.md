@@ -1,29 +1,20 @@
-# KiCad by chriswags  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/chriswags/KiCad/blob/master/mods/RF.pretty/XMIT.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: Resistor SMD 0805, reflow soldering, Vishay (see dcrcw.pdf)  
-* libraryLink: resistor:R_0805  
-* number_of_pads: 2  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | KiCad/6.0/projects/1w-grove-v0.1/1wire-v0.4.pretty/R_0805.kicad_mod |  
-| footprint | {'description': 'Resistor SMD 0805, reflow soldering, Vishay (see dcrcw.pdf)', 'libraryLink': 'resistor:R_0805', 'number_of_pads': 2} |  
-| footprint_library_directory | footprint_library_owner/chriswags_KiCad |  
-| footprint_library_directory_flat | footprints_flat/chriswags_1wire_v0_4_r_0805/working |  
-| github_path | http://github.com/chriswags/KiCad/blob/master/6.0/projects/1w-grove-v0.1/1wire-v0.4.pretty/R_0805.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/chriswags/KiCad/blob/master/mods/RF.pretty/XMIT.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/chriswags_1wire_v0_4_r_0805/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/chriswags_1wire_v0_4_r_0805/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/chriswags_1wire_v0_4_r_0805/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/chriswags_1wire_v0_4_r_0805/working'} |  
-| name | KiCad |  
-| oomp | {'footprint_name': 'r_0805', 'library_name': '1wire_v0_4', 'md5': '7dcbe480d98f73c167c9cb36832becf2', 'md5_10': '7dcbe480d9', 'md5_5': '7dcbe', 'md5_6': '7dcbe4', 'oomp_key': 'oomp_chriswags_1wire_v0_4_r_0805', 'oomp_key_extra': 'oomp_footprint_chriswags_1wire_v0_4_r_0805', 'oomp_key_full': 'oomp_footprint_chriswags_1wire_v0_4_r_0805_7dcbe4', 'oomp_key_simple': 'chriswags_1wire_v0_4_r_0805', 'original_filename': 'KiCad/6.0/projects/1w-grove-v0.1/1wire-v0.4.pretty/R_0805.kicad_mod', 'owner_name': 'chriswags'} |  
-| oomp_key | oomp_chriswags_1wire_v0_4_r_0805 |  
-| oomp_key_full | oomp_footprint_chriswags_1wire_v0_4_r_0805 |  
-| oomp_key_simple | chriswags_1wire_v0_4_r_0805 |  
-| owner | chriswags |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/chriswags/KiCad |  
-
+# OOMP Footprint  
+## resistor:R_0805  by none  
+  
+oomp key: oomp_chriswags_1wire_v0_4_r_0805  
+  
+source repo at: [http://gitlab.com/chriswags/KiCad/blob/master/mods/RF.pretty/XMIT.kicad_mod](http://gitlab.com/chriswags/KiCad/blob/master/mods/RF.pretty/XMIT.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | resistor:R_0805 | 
+| footprint description | Resistor SMD 0805, reflow soldering, Vishay (see dcrcw.pdf) | 
+| number of pads | 2 | 
+| github path | http://github.com/chriswags/KiCad/blob/master/6.0/projects/1w-grove-v0.1/1wire-v0.4.pretty/R_0805.kicad_mod | 
+| oomp key | oomp_chriswags_1wire_v0_4_r_0805 | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/chriswags_1wire_v0_4_r_0805/working | 
+## Images  

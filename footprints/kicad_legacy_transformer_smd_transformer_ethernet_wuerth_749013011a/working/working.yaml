@@ -1,0 +1,39 @@
+- file: data//oomlout_oomp_footprint_src/kicad-footprints/Transformer_SMD.pretty/Transformer_Ethernet_Wuerth_749013011A.kicad_mod
+  footprint:
+    description: Ethernet Transformer, Wuerth 749013011A, https://www.we-online.com/katalog/datasheet/749013011A.pdf
+    libraryLink: Transformer_Ethernet_Wuerth_749013011A
+    number_of_pads: 16
+  footprint_library_directory: footprint_library_owner/kicad-legacy_kicad-footprints
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/kicad_legacy_transformer_smd_transformer_ethernet_wuerth_749013011a/working
+  github_path: http://github.com/kicad-legacy/kicad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/Transformer_SMD.pretty/Transformer_Ethernet_Wuerth_749013011A.kicad_mod
+  links:
+    github_src: http://gitlab.com/kicad-legacy/kicad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod
+    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/kicad_legacy_transformer_smd_transformer_ethernet_wuerth_749013011a/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/kicad_legacy_transformer_smd_transformer_ethernet_wuerth_749013011a/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/kicad_legacy_transformer_smd_transformer_ethernet_wuerth_749013011a/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/kicad_legacy_transformer_smd_transformer_ethernet_wuerth_749013011a/working
+  name: kicad-footprints
+  oomp:
+    footprint_name: transformer_ethernet_wuerth_749013011a
+    library_name: transformer_smd
+    md5: 09f2d03700229052e37f2b8a09e080bc
+    md5_10: 09f2d03700
+    md5_5: 09f2d
+    md5_6: 09f2d0
+    oomp_key: oomp_kicad_legacy_transformer_smd_transformer_ethernet_wuerth_749013011a
+    oomp_key_extra: oomp_footprint_kicad_legacy_transformer_smd_transformer_ethernet_wuerth_749013011a
+    oomp_key_full: oomp_footprint_kicad_legacy_transformer_smd_transformer_ethernet_wuerth_749013011a_09f2d0
+    oomp_key_simple: kicad_legacy_transformer_smd_transformer_ethernet_wuerth_749013011a
+    original_filename: data//oomlout_oomp_footprint_src/kicad-footprints/Transformer_SMD.pretty/Transformer_Ethernet_Wuerth_749013011A.kicad_mod
+    owner_name: kicad_legacy
+  oomp_key: oomp_kicad_legacy_transformer_smd_transformer_ethernet_wuerth_749013011a
+  oomp_key_full: oomp_footprint_kicad_legacy_transformer_smd_transformer_ethernet_wuerth_749013011a
+  oomp_key_simple: kicad_legacy_transformer_smd_transformer_ethernet_wuerth_749013011a
+  owner: kicad-legacy
+  repo:
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
+  url: http://github.com/kicad-legacy/kicad-footprints

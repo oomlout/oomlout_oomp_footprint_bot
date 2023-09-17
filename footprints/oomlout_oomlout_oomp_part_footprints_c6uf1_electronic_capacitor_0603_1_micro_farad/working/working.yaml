@@ -1,0 +1,41 @@
+- file: data//oomlout_oomp_footprint_src/oomlout_oomp_part_kicad_footprints/oomlout_oomp_part_footprints.pretty/c6uf1_electronic_capacitor_0603_1_micro_farad.kicad_mod
+  footprint:
+    description: 'Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal,
+      IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf),
+      generated with kicad-footprint-generator'
+    libraryLink: C_0603_1608Metric
+    number_of_pads: 2
+  footprint_library_directory: footprint_library_owner/oomlout_oomlout_oomp_part_kicad_footprints
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/oomlout_oomlout_oomp_part_footprints_c6uf1_electronic_capacitor_0603_1_micro_farad/working
+  github_path: http://github.com/oomlout/oomlout_oomp_part_kicad_footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/oomlout_oomp_part_footprints.pretty/c6uf1_electronic_capacitor_0603_1_micro_farad.kicad_mod
+  links:
+    github_src: http://gitlab.com/oomlout/oomlout_oomp_part_kicad_footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/oomlout_oomp_part_footprints.pretty/xcr3213mhz8_electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz.kicad_mod
+    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/oomlout_oomlout_oomp_part_footprints_c6uf1_electronic_capacitor_0603_1_micro_farad/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/oomlout_oomlout_oomp_part_footprints_c6uf1_electronic_capacitor_0603_1_micro_farad/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/oomlout_oomlout_oomp_part_footprints_c6uf1_electronic_capacitor_0603_1_micro_farad/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/oomlout_oomlout_oomp_part_footprints_c6uf1_electronic_capacitor_0603_1_micro_farad/working
+  name: oomlout_oomp_part_kicad_footprints
+  oomp:
+    footprint_name: c6uf1_electronic_capacitor_0603_1_micro_farad
+    library_name: oomlout_oomp_part_footprints
+    md5: e918fcca98f91ad816093612d7c7fdc1
+    md5_10: e918fcca98
+    md5_5: e918f
+    md5_6: e918fc
+    oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_c6uf1_electronic_capacitor_0603_1_micro_farad
+    oomp_key_extra: oomp_footprint_oomlout_oomlout_oomp_part_footprints_c6uf1_electronic_capacitor_0603_1_micro_farad
+    oomp_key_full: oomp_footprint_oomlout_oomlout_oomp_part_footprints_c6uf1_electronic_capacitor_0603_1_micro_farad_e918fc
+    oomp_key_simple: oomlout_oomlout_oomp_part_footprints_c6uf1_electronic_capacitor_0603_1_micro_farad
+    original_filename: data//oomlout_oomp_footprint_src/oomlout_oomp_part_kicad_footprints/oomlout_oomp_part_footprints.pretty/c6uf1_electronic_capacitor_0603_1_micro_farad.kicad_mod
+    owner_name: oomlout
+  oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_c6uf1_electronic_capacitor_0603_1_micro_farad
+  oomp_key_full: oomp_footprint_oomlout_oomlout_oomp_part_footprints_c6uf1_electronic_capacitor_0603_1_micro_farad
+  oomp_key_simple: oomlout_oomlout_oomp_part_footprints_c6uf1_electronic_capacitor_0603_1_micro_farad
+  owner: oomlout
+  repo:
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
+  url: https://github.com/oomlout/oomlout_oomp_part_kicad_footprints

@@ -1,0 +1,39 @@
+- file: data//oomlout_oomp_footprint_src/kicad-footprints/Package_DFN_QFN.pretty/Linear_DE14MA.kicad_mod
+  footprint:
+    description: 14-Lead Plastic DFN, 4mm x 3mm (http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-dfn/05081731_C_DE14MA.pdf)
+    libraryLink: Linear_DE14MA
+    number_of_pads: 14
+  footprint_library_directory: footprint_library_owner/kicad-legacy_kicad-footprints
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/kicad_legacy_package_dfn_qfn_linear_de14ma/working
+  github_path: http://github.com/kicad-legacy/kicad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/Package_DFN_QFN.pretty/Linear_DE14MA.kicad_mod
+  links:
+    github_src: http://gitlab.com/kicad-legacy/kicad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod
+    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/kicad_legacy_package_dfn_qfn_linear_de14ma/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/kicad_legacy_package_dfn_qfn_linear_de14ma/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/kicad_legacy_package_dfn_qfn_linear_de14ma/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/kicad_legacy_package_dfn_qfn_linear_de14ma/working
+  name: kicad-footprints
+  oomp:
+    footprint_name: linear_de14ma
+    library_name: package_dfn_qfn
+    md5: 0091e8652687f62c014af162d8f4006a
+    md5_10: 0091e86526
+    md5_5: 0091e
+    md5_6: 0091e8
+    oomp_key: oomp_kicad_legacy_package_dfn_qfn_linear_de14ma
+    oomp_key_extra: oomp_footprint_kicad_legacy_package_dfn_qfn_linear_de14ma
+    oomp_key_full: oomp_footprint_kicad_legacy_package_dfn_qfn_linear_de14ma_0091e8
+    oomp_key_simple: kicad_legacy_package_dfn_qfn_linear_de14ma
+    original_filename: data//oomlout_oomp_footprint_src/kicad-footprints/Package_DFN_QFN.pretty/Linear_DE14MA.kicad_mod
+    owner_name: kicad_legacy
+  oomp_key: oomp_kicad_legacy_package_dfn_qfn_linear_de14ma
+  oomp_key_full: oomp_footprint_kicad_legacy_package_dfn_qfn_linear_de14ma
+  oomp_key_simple: kicad_legacy_package_dfn_qfn_linear_de14ma
+  owner: kicad-legacy
+  repo:
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
+  url: http://github.com/kicad-legacy/kicad-footprints

@@ -1,4 +1,4 @@
-- file: Connectors_Phoenix.pretty/PhoenixContact_MSTBVA-G_05x5.08mm_Vertical.kicad_mod
+- file: data//oomlout_oomp_footprint_src/Connectors_Phoenix.pretty/PhoenixContact_MSTBVA-G_05x5.08mm_Vertical.kicad_mod
   footprint:
     description: 'Generic Phoenix Contact connector footprint for series: MSTBVA-G;
       number of pins: 05; pin pitch: 5.08mm; Vertical || order number: 1755765 12A
@@ -6,17 +6,17 @@
     libraryLink: PhoenixContact_MSTBVA-G_05x5.08mm_Vertical
     number_of_pads: 5
   footprint_library_directory: footprint_library_owner/mkleinschmidt_Connectors_Phoenix.pretty
-  footprint_library_directory_flat: footprints_flat/mkleinschmidt_connectors_phoenix_phoenixcontact_mstbva_g_05x5_08mm_vertical/working
-  github_path: http://github.com/mkleinschmidt/Connectors_Phoenix.pretty/blob/master/PhoenixContact_MSTBVA-G_05x5.08mm_Vertical.kicad_mod
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/mkleinschmidt_connectors_phoenix_phoenixcontact_mstbva_g_05x5_08mm_vertical/working
+  github_path: http://github.com/mkleinschmidt/Connectors_Phoenix.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/PhoenixContact_MSTBVA-G_05x5.08mm_Vertical.kicad_mod
   links:
     github_owner: mkleinschmidt
     github_repo_name: Connectors_Phoenix.pretty
-    github_src: http://github.com/mkleinschmidt/Connectors_Phoenix.pretty/blob/master/PhoenixContact_MSTBVA-G_16x5.08mm_Vertical.kicad_mod
+    github_src: http://github.com/mkleinschmidt/Connectors_Phoenix.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/PhoenixContact_MSTBVA-G_16x5.08mm_Vertical.kicad_mod
     github_src_repo: https://github.com/mkleinschmidt/Connectors_Phoenix.pretty
-    oomp_bot: footprints/mkleinschmidt_connectors_phoenix_phoenixcontact_mstbva_g_05x5_08mm_vertical/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/mkleinschmidt_connectors_phoenix_phoenixcontact_mstbva_g_05x5_08mm_vertical/working
-    oomp_src_flat: footprints_flat/footprints_flat/mkleinschmidt_connectors_phoenix_phoenixcontact_mstbva_g_05x5_08mm_vertical/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/mkleinschmidt_connectors_phoenix_phoenixcontact_mstbva_g_05x5_08mm_vertical/working
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/mkleinschmidt_connectors_phoenix_phoenixcontact_mstbva_g_05x5_08mm_vertical/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/mkleinschmidt_connectors_phoenix_phoenixcontact_mstbva_g_05x5_08mm_vertical/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/mkleinschmidt_connectors_phoenix_phoenixcontact_mstbva_g_05x5_08mm_vertical/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/mkleinschmidt_connectors_phoenix_phoenixcontact_mstbva_g_05x5_08mm_vertical/working
   name: Connectors_Phoenix.pretty
   oomp:
     footprint_name: phoenixcontact_mstbva_g_05x5_08mm_vertical
@@ -29,7 +29,7 @@
     oomp_key_extra: oomp_footprint_mkleinschmidt_connectors_phoenix_phoenixcontact_mstbva_g_05x5_08mm_vertical
     oomp_key_full: oomp_footprint_mkleinschmidt_connectors_phoenix_phoenixcontact_mstbva_g_05x5_08mm_vertical_045099
     oomp_key_simple: mkleinschmidt_connectors_phoenix_phoenixcontact_mstbva_g_05x5_08mm_vertical
-    original_filename: Connectors_Phoenix.pretty/PhoenixContact_MSTBVA-G_05x5.08mm_Vertical.kicad_mod
+    original_filename: data//oomlout_oomp_footprint_src/Connectors_Phoenix.pretty/PhoenixContact_MSTBVA-G_05x5.08mm_Vertical.kicad_mod
     owner_name: mkleinschmidt
   oomp_key: oomp_mkleinschmidt_connectors_phoenix_phoenixcontact_mstbva_g_05x5_08mm_vertical
   oomp_key_full: oomp_footprint_mkleinschmidt_connectors_phoenix_phoenixcontact_mstbva_g_05x5_08mm_vertical

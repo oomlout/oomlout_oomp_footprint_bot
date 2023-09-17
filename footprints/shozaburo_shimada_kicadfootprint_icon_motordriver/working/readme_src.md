@@ -1,29 +1,20 @@
-# KiCADfootprint.pretty by shozaburo-shimada  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/shozaburo-shimada/KiCADfootprint.pretty/blob/master/WSON10.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: None  
-* libraryLink: LOGO  
-* number_of_pads: 0  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | KiCADfootprint.pretty/ICON_MotorDriver.kicad_mod |  
-| footprint | {'description': None, 'libraryLink': 'LOGO', 'number_of_pads': 0} |  
-| footprint_library_directory | footprint_library_owner/shozaburo-shimada_KiCADfootprint.pretty |  
-| footprint_library_directory_flat | footprints_flat/shozaburo_shimada_kicadfootprint_icon_motordriver/working |  
-| github_path | http://github.com/shozaburo-shimada/KiCADfootprint.pretty/blob/master/ICON_MotorDriver.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/shozaburo-shimada/KiCADfootprint.pretty/blob/master/WSON10.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/shozaburo_shimada_kicadfootprint_icon_motordriver/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/shozaburo_shimada_kicadfootprint_icon_motordriver/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/shozaburo_shimada_kicadfootprint_icon_motordriver/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/shozaburo_shimada_kicadfootprint_icon_motordriver/working'} |  
-| name | KiCADfootprint.pretty |  
-| oomp | {'footprint_name': 'icon_motordriver', 'library_name': 'kicadfootprint', 'md5': 'dd1988e771616b8f2e051f1997f1ad64', 'md5_10': 'dd1988e771', 'md5_5': 'dd198', 'md5_6': 'dd1988', 'oomp_key': 'oomp_shozaburo_shimada_kicadfootprint_icon_motordriver', 'oomp_key_extra': 'oomp_footprint_shozaburo_shimada_kicadfootprint_icon_motordriver', 'oomp_key_full': 'oomp_footprint_shozaburo_shimada_kicadfootprint_icon_motordriver_dd1988', 'oomp_key_simple': 'shozaburo_shimada_kicadfootprint_icon_motordriver', 'original_filename': 'KiCADfootprint.pretty/ICON_MotorDriver.kicad_mod', 'owner_name': 'shozaburo_shimada'} |  
-| oomp_key | oomp_shozaburo_shimada_kicadfootprint_icon_motordriver |  
-| oomp_key_full | oomp_footprint_shozaburo_shimada_kicadfootprint_icon_motordriver |  
-| oomp_key_simple | shozaburo_shimada_kicadfootprint_icon_motordriver |  
-| owner | shozaburo-shimada |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/shozaburo-shimada/KiCADfootprint.pretty |  
-
+# OOMP Footprint  
+## LOGO  by none  
+  
+oomp key: oomp_shozaburo_shimada_kicadfootprint_icon_motordriver  
+  
+source repo at: [http://gitlab.com/shozaburo-shimada/KiCADfootprint.pretty/blob/master/WSON10.kicad_mod](http://gitlab.com/shozaburo-shimada/KiCADfootprint.pretty/blob/master/WSON10.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | LOGO | 
+| footprint description | None | 
+| number of pads | 0 | 
+| github path | http://github.com/shozaburo-shimada/KiCADfootprint.pretty/blob/master/ICON_MotorDriver.kicad_mod | 
+| oomp key | oomp_shozaburo_shimada_kicadfootprint_icon_motordriver | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/shozaburo_shimada_kicadfootprint_icon_motordriver/working | 
+## Images  

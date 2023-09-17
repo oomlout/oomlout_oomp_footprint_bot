@@ -1,29 +1,20 @@
-# kicad_smisioto by peekpt  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/peekpt/kicad_smisioto/blob/master/modules/walter/w_vacuum.pretty/tube_gzc9-b.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: Keystone type 105 battery holder  
-* libraryLink: keystone_105  
-* number_of_pads: 2  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | kicad_smisioto/modules/walter/w_battery_holders.pretty/keystone_105.kicad_mod |  
-| footprint | {'description': 'Keystone type 105 battery holder', 'libraryLink': 'keystone_105', 'number_of_pads': 2} |  
-| footprint_library_directory | footprint_library_owner/peekpt_kicad_smisioto |  
-| footprint_library_directory_flat | footprints_flat/peekpt_w_battery_holders_keystone_105/working |  
-| github_path | http://github.com/peekpt/kicad_smisioto/blob/master/modules/walter/w_battery_holders.pretty/keystone_105.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/peekpt/kicad_smisioto/blob/master/modules/walter/w_vacuum.pretty/tube_gzc9-b.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/peekpt_w_battery_holders_keystone_105/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/peekpt_w_battery_holders_keystone_105/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/peekpt_w_battery_holders_keystone_105/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/peekpt_w_battery_holders_keystone_105/working'} |  
-| name | kicad_smisioto |  
-| oomp | {'footprint_name': 'keystone_105', 'library_name': 'w_battery_holders', 'md5': 'fcb9928d0d8ae97d951865e569d5949a', 'md5_10': 'fcb9928d0d', 'md5_5': 'fcb99', 'md5_6': 'fcb992', 'oomp_key': 'oomp_peekpt_w_battery_holders_keystone_105', 'oomp_key_extra': 'oomp_footprint_peekpt_w_battery_holders_keystone_105', 'oomp_key_full': 'oomp_footprint_peekpt_w_battery_holders_keystone_105_fcb992', 'oomp_key_simple': 'peekpt_w_battery_holders_keystone_105', 'original_filename': 'kicad_smisioto/modules/walter/w_battery_holders.pretty/keystone_105.kicad_mod', 'owner_name': 'peekpt'} |  
-| oomp_key | oomp_peekpt_w_battery_holders_keystone_105 |  
-| oomp_key_full | oomp_footprint_peekpt_w_battery_holders_keystone_105 |  
-| oomp_key_simple | peekpt_w_battery_holders_keystone_105 |  
-| owner | peekpt |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/peekpt/kicad_smisioto |  
-
+# OOMP Footprint  
+## keystone_105  by none  
+  
+oomp key: oomp_peekpt_w_battery_holders_keystone_105  
+  
+source repo at: [http://gitlab.com/peekpt/kicad_smisioto/blob/master/modules/walter/w_vacuum.pretty/tube_gzc9-b.kicad_mod](http://gitlab.com/peekpt/kicad_smisioto/blob/master/modules/walter/w_vacuum.pretty/tube_gzc9-b.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | keystone_105 | 
+| footprint description | Keystone type 105 battery holder | 
+| number of pads | 2 | 
+| github path | http://github.com/peekpt/kicad_smisioto/blob/master/modules/walter/w_battery_holders.pretty/keystone_105.kicad_mod | 
+| oomp key | oomp_peekpt_w_battery_holders_keystone_105 | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/peekpt_w_battery_holders_keystone_105/working | 
+## Images  

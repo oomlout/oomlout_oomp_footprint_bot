@@ -1,19 +1,19 @@
-- file: KiCadCustomLibs/CC2500.kicad_mod
+- file: data//oomlout_oomp_footprint_src/KiCadCustomLibs/CC2500.kicad_mod
   footprint:
     description: 20-Lead Ultra Thin Plastic Quad Flat, No Lead Package (GZ) - 4x4x0.5
       mm Body [UQFN]; (see Microchip Packaging Specification 00000049BS.pdf)
     libraryLink: CC2500
     number_of_pads: 29
   footprint_library_directory: footprint_library_owner/nppc_KiCadCustomLibs
-  footprint_library_directory_flat: footprints_flat/nppc_cc2500_cc2500/working
-  github_path: http://github.com/nppc/KiCadCustomLibs/blob/master/CC2500.kicad_mod
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/nppc_cc2500_cc2500/working
+  github_path: http://github.com/nppc/KiCadCustomLibs/blob/master/tmp/data//oomlout_oomp_footprint_src/CC2500.kicad_mod
   links:
-    github_src: http://gitlab.com/nppc/KiCadCustomLibs/blob/master/XFL2006-inductor.kicad_mod
+    github_src: http://gitlab.com/nppc/KiCadCustomLibs/blob/master/tmp/data//oomlout_oomp_footprint_src/XFL2006-inductor.kicad_mod
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
-    oomp_bot: footprints/nppc_cc2500_cc2500/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nppc_cc2500_cc2500/working
-    oomp_src_flat: footprints_flat/footprints_flat/nppc_cc2500_cc2500/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nppc_cc2500_cc2500/working
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/nppc_cc2500_cc2500/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/nppc_cc2500_cc2500/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/nppc_cc2500_cc2500/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/nppc_cc2500_cc2500/working
   name: KiCadCustomLibs
   oomp:
     footprint_name: cc2500
@@ -26,7 +26,7 @@
     oomp_key_extra: oomp_footprint_nppc_cc2500_cc2500
     oomp_key_full: oomp_footprint_nppc_cc2500_cc2500_f6cc3a
     oomp_key_simple: nppc_cc2500_cc2500
-    original_filename: KiCadCustomLibs/CC2500.kicad_mod
+    original_filename: data//oomlout_oomp_footprint_src/KiCadCustomLibs/CC2500.kicad_mod
     owner_name: nppc
   oomp_key: oomp_nppc_cc2500_cc2500
   oomp_key_full: oomp_footprint_nppc_cc2500_cc2500
@@ -34,7 +34,7 @@
   owner: nppc
   repo:
     documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
-    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+    message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
       Authenticated requests get a higher rate limit. Check out the documentation
       for more details.)'
   url: http://github.com/nppc/KiCadCustomLibs

@@ -1,29 +1,20 @@
-# kxmx by recursinging  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/recursinging/kxmx/blob/master/kxmx_erack/kicad/kicad/libraries/krachmacher.pretty/TL1105SPF250Q.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: Through hole straight socket strip, 1x39, 2.54mm pitch, single row  
-* libraryLink: PinSocket39_M  
-* number_of_pads: 39  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | kxmx/kxmx_erack/kicad/kicad/libraries/krachmacher.pretty/PinSocket39_M.kicad_mod |  
-| footprint | {'description': 'Through hole straight socket strip, 1x39, 2.54mm pitch, single row', 'libraryLink': 'PinSocket39_M', 'number_of_pads': 39} |  
-| footprint_library_directory | footprint_library_owner/recursinging_kxmx |  
-| footprint_library_directory_flat | footprints_flat/recursinging_krachmacher_pinsocket39_m/working |  
-| github_path | http://github.com/recursinging/kxmx/blob/master/kxmx_erack/kicad/kicad/libraries/krachmacher.pretty/PinSocket39_M.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/recursinging/kxmx/blob/master/kxmx_erack/kicad/kicad/libraries/krachmacher.pretty/TL1105SPF250Q.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/recursinging_krachmacher_pinsocket39_m/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/recursinging_krachmacher_pinsocket39_m/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/recursinging_krachmacher_pinsocket39_m/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/recursinging_krachmacher_pinsocket39_m/working'} |  
-| name | kxmx |  
-| oomp | {'footprint_name': 'pinsocket39_m', 'library_name': 'krachmacher', 'md5': '96927fcc130522b318839374f42e51fb', 'md5_10': '96927fcc13', 'md5_5': '96927', 'md5_6': '96927f', 'oomp_key': 'oomp_recursinging_krachmacher_pinsocket39_m', 'oomp_key_extra': 'oomp_footprint_recursinging_krachmacher_pinsocket39_m', 'oomp_key_full': 'oomp_footprint_recursinging_krachmacher_pinsocket39_m_96927f', 'oomp_key_simple': 'recursinging_krachmacher_pinsocket39_m', 'original_filename': 'kxmx/kxmx_erack/kicad/kicad/libraries/krachmacher.pretty/PinSocket39_M.kicad_mod', 'owner_name': 'recursinging'} |  
-| oomp_key | oomp_recursinging_krachmacher_pinsocket39_m |  
-| oomp_key_full | oomp_footprint_recursinging_krachmacher_pinsocket39_m |  
-| oomp_key_simple | recursinging_krachmacher_pinsocket39_m |  
-| owner | recursinging |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/recursinging/kxmx |  
-
+# OOMP Footprint  
+## PinSocket39_M  by none  
+  
+oomp key: oomp_recursinging_krachmacher_pinsocket39_m  
+  
+source repo at: [http://gitlab.com/recursinging/kxmx/blob/master/kxmx_erack/kicad/kicad/libraries/krachmacher.pretty/TL1105SPF250Q.kicad_mod](http://gitlab.com/recursinging/kxmx/blob/master/kxmx_erack/kicad/kicad/libraries/krachmacher.pretty/TL1105SPF250Q.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | PinSocket39_M | 
+| footprint description | Through hole straight socket strip, 1x39, 2.54mm pitch, single row | 
+| number of pads | 39 | 
+| github path | http://github.com/recursinging/kxmx/blob/master/kxmx_erack/kicad/kicad/libraries/krachmacher.pretty/PinSocket39_M.kicad_mod | 
+| oomp key | oomp_recursinging_krachmacher_pinsocket39_m | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/recursinging_krachmacher_pinsocket39_m/working | 
+## Images  

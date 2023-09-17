@@ -1,18 +1,20 @@
-- file: IPC7351-Nominal.pretty/CAPC2012X135N.kicad_mod
+- file: data//oomlout_oomp_footprint_src/IPC7351-Nominal.pretty/CAPC2012X135N.kicad_mod
   footprint:
     description: Capacitor,non-polarized,Chip;2.00mm L X 1.25mm W X 1.35mm H
     libraryLink: CAPC2012X135N
     number_of_pads: 2
   footprint_library_directory: footprint_library_owner/rohbotics_IPC7351-Nominal.pretty
-  footprint_library_directory_flat: footprints_flat/rohbotics_ipc7351_nominal_capc2012x135n/working
-  github_path: http://github.com/rohbotics/IPC7351-Nominal.pretty/blob/master/CAPC2012X135N.kicad_mod
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/rohbotics_ipc7351_nominal_capc2012x135n/working
+  github_path: http://github.com/rohbotics/IPC7351-Nominal.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/CAPC2012X135N.kicad_mod
   links:
-    github_src: http://gitlab.com/rohbotics/IPC7351-Nominal.pretty/blob/master/XTAL1200X480X460N.kicad_mod
-    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
-    oomp_bot: footprints/rohbotics_ipc7351_nominal_capc2012x135n/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/rohbotics_ipc7351_nominal_capc2012x135n/working
-    oomp_src_flat: footprints_flat/footprints_flat/rohbotics_ipc7351_nominal_capc2012x135n/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/rohbotics_ipc7351_nominal_capc2012x135n/working
+    github_owner: rohbotics
+    github_repo_name: IPC7351-Nominal.pretty
+    github_src: http://github.com/rohbotics/IPC7351-Nominal.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XTAL1200X480X460N.kicad_mod
+    github_src_repo: https://github.com/rohbotics/IPC7351-Nominal.pretty
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/rohbotics_ipc7351_nominal_capc2012x135n/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/rohbotics_ipc7351_nominal_capc2012x135n/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/rohbotics_ipc7351_nominal_capc2012x135n/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/rohbotics_ipc7351_nominal_capc2012x135n/working
   name: IPC7351-Nominal.pretty
   oomp:
     footprint_name: capc2012x135n
@@ -25,15 +27,111 @@
     oomp_key_extra: oomp_footprint_rohbotics_ipc7351_nominal_capc2012x135n
     oomp_key_full: oomp_footprint_rohbotics_ipc7351_nominal_capc2012x135n_e2087d
     oomp_key_simple: rohbotics_ipc7351_nominal_capc2012x135n
-    original_filename: IPC7351-Nominal.pretty/CAPC2012X135N.kicad_mod
+    original_filename: data//oomlout_oomp_footprint_src/IPC7351-Nominal.pretty/CAPC2012X135N.kicad_mod
     owner_name: rohbotics
   oomp_key: oomp_rohbotics_ipc7351_nominal_capc2012x135n
   oomp_key_full: oomp_footprint_rohbotics_ipc7351_nominal_capc2012x135n
   oomp_key_simple: rohbotics_ipc7351_nominal_capc2012x135n
   owner: rohbotics
   repo:
-    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
-    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
-      Authenticated requests get a higher rate limit. Check out the documentation
-      for more details.)'
+    allow_forking: true
+    archive_url: https://api.github.com/repos/rohbotics/IPC7351-Nominal.pretty/{archive_format}{/ref}
+    archived: false
+    assignees_url: https://api.github.com/repos/rohbotics/IPC7351-Nominal.pretty/assignees{/user}
+    blobs_url: https://api.github.com/repos/rohbotics/IPC7351-Nominal.pretty/git/blobs{/sha}
+    branches_url: https://api.github.com/repos/rohbotics/IPC7351-Nominal.pretty/branches{/branch}
+    clone_url: https://github.com/rohbotics/IPC7351-Nominal.pretty.git
+    collaborators_url: https://api.github.com/repos/rohbotics/IPC7351-Nominal.pretty/collaborators{/collaborator}
+    comments_url: https://api.github.com/repos/rohbotics/IPC7351-Nominal.pretty/comments{/number}
+    commits_url: https://api.github.com/repos/rohbotics/IPC7351-Nominal.pretty/commits{/sha}
+    compare_url: https://api.github.com/repos/rohbotics/IPC7351-Nominal.pretty/compare/{base}...{head}
+    contents_url: https://api.github.com/repos/rohbotics/IPC7351-Nominal.pretty/contents/{+path}
+    contributors_url: https://api.github.com/repos/rohbotics/IPC7351-Nominal.pretty/contributors
+    created_at: '2014-12-25T00:04:56Z'
+    default_branch: master
+    deployments_url: https://api.github.com/repos/rohbotics/IPC7351-Nominal.pretty/deployments
+    description: IPC7351 Kicad Footprint Library
+    disabled: false
+    downloads_url: https://api.github.com/repos/rohbotics/IPC7351-Nominal.pretty/downloads
+    events_url: https://api.github.com/repos/rohbotics/IPC7351-Nominal.pretty/events
+    fork: false
+    forks: 1
+    forks_count: 1
+    forks_url: https://api.github.com/repos/rohbotics/IPC7351-Nominal.pretty/forks
+    full_name: rohbotics/IPC7351-Nominal.pretty
+    git_commits_url: https://api.github.com/repos/rohbotics/IPC7351-Nominal.pretty/git/commits{/sha}
+    git_refs_url: https://api.github.com/repos/rohbotics/IPC7351-Nominal.pretty/git/refs{/sha}
+    git_tags_url: https://api.github.com/repos/rohbotics/IPC7351-Nominal.pretty/git/tags{/sha}
+    git_url: git://github.com/rohbotics/IPC7351-Nominal.pretty.git
+    has_discussions: false
+    has_downloads: true
+    has_issues: true
+    has_pages: false
+    has_projects: true
+    has_wiki: true
+    homepage: null
+    hooks_url: https://api.github.com/repos/rohbotics/IPC7351-Nominal.pretty/hooks
+    html_url: https://github.com/rohbotics/IPC7351-Nominal.pretty
+    id: 28465231
+    is_template: false
+    issue_comment_url: https://api.github.com/repos/rohbotics/IPC7351-Nominal.pretty/issues/comments{/number}
+    issue_events_url: https://api.github.com/repos/rohbotics/IPC7351-Nominal.pretty/issues/events{/number}
+    issues_url: https://api.github.com/repos/rohbotics/IPC7351-Nominal.pretty/issues{/number}
+    keys_url: https://api.github.com/repos/rohbotics/IPC7351-Nominal.pretty/keys{/key_id}
+    labels_url: https://api.github.com/repos/rohbotics/IPC7351-Nominal.pretty/labels{/name}
+    language: null
+    languages_url: https://api.github.com/repos/rohbotics/IPC7351-Nominal.pretty/languages
+    license: null
+    merges_url: https://api.github.com/repos/rohbotics/IPC7351-Nominal.pretty/merges
+    milestones_url: https://api.github.com/repos/rohbotics/IPC7351-Nominal.pretty/milestones{/number}
+    mirror_url: null
+    name: IPC7351-Nominal.pretty
+    network_count: 1
+    node_id: MDEwOlJlcG9zaXRvcnkyODQ2NTIzMQ==
+    notifications_url: https://api.github.com/repos/rohbotics/IPC7351-Nominal.pretty/notifications{?since,all,participating}
+    open_issues: 0
+    open_issues_count: 0
+    owner:
+      avatar_url: https://avatars.githubusercontent.com/u/2825327?v=4
+      events_url: https://api.github.com/users/rohbotics/events{/privacy}
+      followers_url: https://api.github.com/users/rohbotics/followers
+      following_url: https://api.github.com/users/rohbotics/following{/other_user}
+      gists_url: https://api.github.com/users/rohbotics/gists{/gist_id}
+      gravatar_id: ''
+      html_url: https://github.com/rohbotics
+      id: 2825327
+      login: rohbotics
+      node_id: MDQ6VXNlcjI4MjUzMjc=
+      organizations_url: https://api.github.com/users/rohbotics/orgs
+      received_events_url: https://api.github.com/users/rohbotics/received_events
+      repos_url: https://api.github.com/users/rohbotics/repos
+      site_admin: false
+      starred_url: https://api.github.com/users/rohbotics/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/rohbotics/subscriptions
+      type: User
+      url: https://api.github.com/users/rohbotics
+    private: false
+    pulls_url: https://api.github.com/repos/rohbotics/IPC7351-Nominal.pretty/pulls{/number}
+    pushed_at: '2014-12-25T00:08:43Z'
+    releases_url: https://api.github.com/repos/rohbotics/IPC7351-Nominal.pretty/releases{/id}
+    size: 900
+    ssh_url: git@github.com:rohbotics/IPC7351-Nominal.pretty.git
+    stargazers_count: 3
+    stargazers_url: https://api.github.com/repos/rohbotics/IPC7351-Nominal.pretty/stargazers
+    statuses_url: https://api.github.com/repos/rohbotics/IPC7351-Nominal.pretty/statuses/{sha}
+    subscribers_count: 3
+    subscribers_url: https://api.github.com/repos/rohbotics/IPC7351-Nominal.pretty/subscribers
+    subscription_url: https://api.github.com/repos/rohbotics/IPC7351-Nominal.pretty/subscription
+    svn_url: https://github.com/rohbotics/IPC7351-Nominal.pretty
+    tags_url: https://api.github.com/repos/rohbotics/IPC7351-Nominal.pretty/tags
+    teams_url: https://api.github.com/repos/rohbotics/IPC7351-Nominal.pretty/teams
+    temp_clone_token: null
+    topics: []
+    trees_url: https://api.github.com/repos/rohbotics/IPC7351-Nominal.pretty/git/trees{/sha}
+    updated_at: '2019-05-20T15:23:18Z'
+    url: https://api.github.com/repos/rohbotics/IPC7351-Nominal.pretty
+    visibility: public
+    watchers: 3
+    watchers_count: 3
+    web_commit_signoff_required: false
   url: http://github.com/rohbotics/IPC7351-Nominal.pretty

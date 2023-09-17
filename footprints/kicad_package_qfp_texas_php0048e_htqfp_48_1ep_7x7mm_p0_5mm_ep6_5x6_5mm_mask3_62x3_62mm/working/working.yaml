@@ -1,0 +1,38 @@
+- file: data//oomlout_oomp_footprint_src/kicad-footprints/Package_QFP.pretty/Texas_PHP0048E_HTQFP-48-1EP_7x7mm_P0.5mm_EP6.5x6.5mm_Mask3.62x3.62mm.kicad_mod
+  footprint:
+    description: Texas PHP0048E HTQFP, 48 Pin (https://www.ti.com/lit/ds/symlink/tusb4020bi.pdf#page=42),
+      generated with kicad-footprint-generator ipc_gullwing_generator.py
+    libraryLink: Texas_PHP0048E_HTQFP-48-1EP_7x7mm_P0.5mm_EP6.5x6.5mm_Mask3.62x3.62mm
+    number_of_pads: 51
+  footprint_library_directory: footprint_library_owner/kicad_kicad-footprints/
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/kicad_package_qfp_texas_php0048e_htqfp_48_1ep_7x7mm_p0_5mm_ep6_5x6_5mm_mask3_62x3_62mm/working
+  github_path: http://github.com/kicad/kicad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/Package_QFP.pretty/Texas_PHP0048E_HTQFP-48-1EP_7x7mm_P0.5mm_EP6.5x6.5mm_Mask3.62x3.62mm.kicad_mod
+  links:
+    github_src: http://gitlab.com/kicad/kicad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod
+    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/kicad_package_qfp_texas_php0048e_htqfp_48_1ep_7x7mm_p0_5mm_ep6_5x6_5mm_mask3_62x3_62mm/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/kicad_package_qfp_texas_php0048e_htqfp_48_1ep_7x7mm_p0_5mm_ep6_5x6_5mm_mask3_62x3_62mm/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/kicad_package_qfp_texas_php0048e_htqfp_48_1ep_7x7mm_p0_5mm_ep6_5x6_5mm_mask3_62x3_62mm/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/kicad_package_qfp_texas_php0048e_htqfp_48_1ep_7x7mm_p0_5mm_ep6_5x6_5mm_mask3_62x3_62mm/working
+  name: kicad-footprints
+  oomp:
+    footprint_name: texas_php0048e_htqfp_48_1ep_7x7mm_p0_5mm_ep6_5x6_5mm_mask3_62x3_62mm
+    library_name: package_qfp
+    md5: 849b5e40e0ac1c2e90a4e548c2df4893
+    md5_10: 849b5e40e0
+    md5_5: 849b5
+    md5_6: 849b5e
+    oomp_key: oomp_kicad_package_qfp_texas_php0048e_htqfp_48_1ep_7x7mm_p0_5mm_ep6_5x6_5mm_mask3_62x3_62mm
+    oomp_key_extra: oomp_footprint_kicad_package_qfp_texas_php0048e_htqfp_48_1ep_7x7mm_p0_5mm_ep6_5x6_5mm_mask3_62x3_62mm
+    oomp_key_full: oomp_footprint_kicad_package_qfp_texas_php0048e_htqfp_48_1ep_7x7mm_p0_5mm_ep6_5x6_5mm_mask3_62x3_62mm_849b5e
+    oomp_key_simple: kicad_package_qfp_texas_php0048e_htqfp_48_1ep_7x7mm_p0_5mm_ep6_5x6_5mm_mask3_62x3_62mm
+    original_filename: data//oomlout_oomp_footprint_src/kicad-footprints/Package_QFP.pretty/Texas_PHP0048E_HTQFP-48-1EP_7x7mm_P0.5mm_EP6.5x6.5mm_Mask3.62x3.62mm.kicad_mod
+    owner_name: kicad
+  oomp_key: oomp_kicad_package_qfp_texas_php0048e_htqfp_48_1ep_7x7mm_p0_5mm_ep6_5x6_5mm_mask3_62x3_62mm
+  oomp_key_full: oomp_footprint_kicad_package_qfp_texas_php0048e_htqfp_48_1ep_7x7mm_p0_5mm_ep6_5x6_5mm_mask3_62x3_62mm
+  oomp_key_simple: kicad_package_qfp_texas_php0048e_htqfp_48_1ep_7x7mm_p0_5mm_ep6_5x6_5mm_mask3_62x3_62mm
+  owner: kicad
+  repo:
+    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
+    message: Not Found
+  url: https://gitlab.com/kicad/libraries/kicad-footprints

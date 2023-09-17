@@ -1,20 +1,20 @@
-- file: LivaModules.pretty/Nano_BackMount.kicad_mod
+- file: data//oomlout_oomp_footprint_src/LivaModules.pretty/Nano_BackMount.kicad_mod
   footprint:
     description: null
     libraryLink: Nano_BackMount
     number_of_pads: 30
   footprint_library_directory: footprint_library_owner/micliv_LivaModules.pretty
-  footprint_library_directory_flat: footprints_flat/micliv_livamodules_nano_backmount/working
-  github_path: http://github.com/micliv/LivaModules.pretty/blob/master/Nano_BackMount.kicad_mod
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/micliv_livamodules_nano_backmount/working
+  github_path: http://github.com/micliv/LivaModules.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Nano_BackMount.kicad_mod
   links:
     github_owner: micliv
     github_repo_name: LivaModules.pretty
-    github_src: http://github.com/micliv/LivaModules.pretty/blob/master/WS2812B.kicad_mod
+    github_src: http://github.com/micliv/LivaModules.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/WS2812B.kicad_mod
     github_src_repo: https://github.com/micliv/LivaModules.pretty
-    oomp_bot: footprints/micliv_livamodules_nano_backmount/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/micliv_livamodules_nano_backmount/working
-    oomp_src_flat: footprints_flat/footprints_flat/micliv_livamodules_nano_backmount/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/micliv_livamodules_nano_backmount/working
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/micliv_livamodules_nano_backmount/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/micliv_livamodules_nano_backmount/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/micliv_livamodules_nano_backmount/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/micliv_livamodules_nano_backmount/working
   name: LivaModules.pretty
   oomp:
     footprint_name: nano_backmount
@@ -27,7 +27,7 @@
     oomp_key_extra: oomp_footprint_micliv_livamodules_nano_backmount
     oomp_key_full: oomp_footprint_micliv_livamodules_nano_backmount_701da6
     oomp_key_simple: micliv_livamodules_nano_backmount
-    original_filename: LivaModules.pretty/Nano_BackMount.kicad_mod
+    original_filename: data//oomlout_oomp_footprint_src/LivaModules.pretty/Nano_BackMount.kicad_mod
     owner_name: micliv
   oomp_key: oomp_micliv_livamodules_nano_backmount
   oomp_key_full: oomp_footprint_micliv_livamodules_nano_backmount

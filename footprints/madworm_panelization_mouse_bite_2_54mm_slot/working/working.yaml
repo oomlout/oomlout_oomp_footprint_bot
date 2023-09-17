@@ -1,20 +1,20 @@
-- file: Panelization.pretty/mouse-bite-2.54mm-slot.kicad_mod
+- file: data//oomlout_oomp_footprint_src/Panelization.pretty/mouse-bite-2.54mm-slot.kicad_mod
   footprint:
     description: null
     libraryLink: mouse-bite-2.54mm-slot
     number_of_pads: 6
   footprint_library_directory: footprint_library_owner/madworm_Panelization.pretty
-  footprint_library_directory_flat: footprints_flat/madworm_panelization_mouse_bite_2_54mm_slot/working
-  github_path: http://github.com/madworm/Panelization.pretty/blob/master/mouse-bite-2.54mm-slot.kicad_mod
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/madworm_panelization_mouse_bite_2_54mm_slot/working
+  github_path: http://github.com/madworm/Panelization.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/mouse-bite-2.54mm-slot.kicad_mod
   links:
     github_owner: madworm
     github_repo_name: Panelization.pretty
-    github_src: http://github.com/madworm/Panelization.pretty/blob/master/mouse-bite-5mm-slot.kicad_mod
+    github_src: http://github.com/madworm/Panelization.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/mouse-bite-5mm-slot.kicad_mod
     github_src_repo: https://github.com/madworm/Panelization.pretty
-    oomp_bot: footprints/madworm_panelization_mouse_bite_2_54mm_slot/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/madworm_panelization_mouse_bite_2_54mm_slot/working
-    oomp_src_flat: footprints_flat/footprints_flat/madworm_panelization_mouse_bite_2_54mm_slot/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/madworm_panelization_mouse_bite_2_54mm_slot/working
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/madworm_panelization_mouse_bite_2_54mm_slot/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/madworm_panelization_mouse_bite_2_54mm_slot/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/madworm_panelization_mouse_bite_2_54mm_slot/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/madworm_panelization_mouse_bite_2_54mm_slot/working
   name: Panelization.pretty
   oomp:
     footprint_name: mouse_bite_2_54mm_slot
@@ -27,7 +27,7 @@
     oomp_key_extra: oomp_footprint_madworm_panelization_mouse_bite_2_54mm_slot
     oomp_key_full: oomp_footprint_madworm_panelization_mouse_bite_2_54mm_slot_8c9db9
     oomp_key_simple: madworm_panelization_mouse_bite_2_54mm_slot
-    original_filename: Panelization.pretty/mouse-bite-2.54mm-slot.kicad_mod
+    original_filename: data//oomlout_oomp_footprint_src/Panelization.pretty/mouse-bite-2.54mm-slot.kicad_mod
     owner_name: madworm
   oomp_key: oomp_madworm_panelization_mouse_bite_2_54mm_slot
   oomp_key_full: oomp_footprint_madworm_panelization_mouse_bite_2_54mm_slot
@@ -55,8 +55,8 @@
     downloads_url: https://api.github.com/repos/madworm/Panelization.pretty/downloads
     events_url: https://api.github.com/repos/madworm/Panelization.pretty/events
     fork: false
-    forks: 22
-    forks_count: 22
+    forks: 23
+    forks_count: 23
     forks_url: https://api.github.com/repos/madworm/Panelization.pretty/forks
     full_name: madworm/Panelization.pretty
     git_commits_url: https://api.github.com/repos/madworm/Panelization.pretty/git/commits{/sha}
@@ -86,7 +86,7 @@
     milestones_url: https://api.github.com/repos/madworm/Panelization.pretty/milestones{/number}
     mirror_url: null
     name: Panelization.pretty
-    network_count: 22
+    network_count: 23
     node_id: MDEwOlJlcG9zaXRvcnkyMTc2NzYxMA==
     notifications_url: https://api.github.com/repos/madworm/Panelization.pretty/notifications{?since,all,participating}
     open_issues: 1
@@ -116,7 +116,7 @@
     releases_url: https://api.github.com/repos/madworm/Panelization.pretty/releases{/id}
     size: 7
     ssh_url: git@github.com:madworm/Panelization.pretty.git
-    stargazers_count: 78
+    stargazers_count: 79
     stargazers_url: https://api.github.com/repos/madworm/Panelization.pretty/stargazers
     statuses_url: https://api.github.com/repos/madworm/Panelization.pretty/statuses/{sha}
     subscribers_count: 4
@@ -128,10 +128,10 @@
     temp_clone_token: null
     topics: []
     trees_url: https://api.github.com/repos/madworm/Panelization.pretty/git/trees{/sha}
-    updated_at: '2023-07-25T13:52:29Z'
+    updated_at: '2023-08-28T13:00:48Z'
     url: https://api.github.com/repos/madworm/Panelization.pretty
     visibility: public
-    watchers: 78
-    watchers_count: 78
+    watchers: 79
+    watchers_count: 79
     web_commit_signoff_required: false
   url: http://github.com/madworm/Panelization.pretty

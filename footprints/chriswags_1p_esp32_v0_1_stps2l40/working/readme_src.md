@@ -1,29 +1,20 @@
-# KiCad by chriswags  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/chriswags/KiCad/blob/master/mods/RF.pretty/XMIT.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: None  
-* libraryLink: STPS2L40  
-* number_of_pads: 2  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | KiCad/6.0/projects/1w-grove-v0.1/1p-esp32-v0.1.pretty/STPS2L40.kicad_mod |  
-| footprint | {'description': None, 'libraryLink': 'STPS2L40', 'number_of_pads': 2} |  
-| footprint_library_directory | footprint_library_owner/chriswags_KiCad |  
-| footprint_library_directory_flat | footprints_flat/chriswags_1p_esp32_v0_1_stps2l40/working |  
-| github_path | http://github.com/chriswags/KiCad/blob/master/6.0/projects/1w-grove-v0.1/1p-esp32-v0.1.pretty/STPS2L40.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/chriswags/KiCad/blob/master/mods/RF.pretty/XMIT.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/chriswags_1p_esp32_v0_1_stps2l40/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/chriswags_1p_esp32_v0_1_stps2l40/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/chriswags_1p_esp32_v0_1_stps2l40/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/chriswags_1p_esp32_v0_1_stps2l40/working'} |  
-| name | KiCad |  
-| oomp | {'footprint_name': 'stps2l40', 'library_name': '1p_esp32_v0_1', 'md5': '77c6975da2654ba39f3e62f7bc16946d', 'md5_10': '77c6975da2', 'md5_5': '77c69', 'md5_6': '77c697', 'oomp_key': 'oomp_chriswags_1p_esp32_v0_1_stps2l40', 'oomp_key_extra': 'oomp_footprint_chriswags_1p_esp32_v0_1_stps2l40', 'oomp_key_full': 'oomp_footprint_chriswags_1p_esp32_v0_1_stps2l40_77c697', 'oomp_key_simple': 'chriswags_1p_esp32_v0_1_stps2l40', 'original_filename': 'KiCad/6.0/projects/1w-grove-v0.1/1p-esp32-v0.1.pretty/STPS2L40.kicad_mod', 'owner_name': 'chriswags'} |  
-| oomp_key | oomp_chriswags_1p_esp32_v0_1_stps2l40 |  
-| oomp_key_full | oomp_footprint_chriswags_1p_esp32_v0_1_stps2l40 |  
-| oomp_key_simple | chriswags_1p_esp32_v0_1_stps2l40 |  
-| owner | chriswags |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/chriswags/KiCad |  
-
+# OOMP Footprint  
+## STPS2L40  by none  
+  
+oomp key: oomp_chriswags_1p_esp32_v0_1_stps2l40  
+  
+source repo at: [http://gitlab.com/chriswags/KiCad/blob/master/mods/RF.pretty/XMIT.kicad_mod](http://gitlab.com/chriswags/KiCad/blob/master/mods/RF.pretty/XMIT.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | STPS2L40 | 
+| footprint description | None | 
+| number of pads | 2 | 
+| github path | http://github.com/chriswags/KiCad/blob/master/6.0/projects/1w-grove-v0.1/1p-esp32-v0.1.pretty/STPS2L40.kicad_mod | 
+| oomp key | oomp_chriswags_1p_esp32_v0_1_stps2l40 | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/chriswags_1p_esp32_v0_1_stps2l40/working | 
+## Images  

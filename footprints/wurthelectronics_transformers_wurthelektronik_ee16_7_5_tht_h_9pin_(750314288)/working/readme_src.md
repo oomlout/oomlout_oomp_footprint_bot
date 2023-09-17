@@ -1,29 +1,20 @@
-# Transformers_WurthElektronik.pretty by WurthElectronics  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/WurthElectronics/Transformers_WurthElektronik.pretty/blob/master/TOR_HEADER_THT_4PIN_(WIDE).kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: PACKAGE STYLE: EE16/7/5MOUNTING: THTPINS: 10BOBBIN: 070-5278  
-* libraryLink: EE16_7_5_THT_H_9PIN_(750314288)  
-* number_of_pads: 9  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | Transformers_WurthElektronik.pretty/EE16_7_5_THT_H_9PIN_(750314288).kicad_mod |  
-| footprint | {'description': 'PACKAGE STYLE: EE16/7/5MOUNTING: THTPINS: 10BOBBIN: 070-5278', 'libraryLink': 'EE16_7_5_THT_H_9PIN_(750314288)', 'number_of_pads': 9} |  
-| footprint_library_directory | footprint_library_owner/WurthElectronics_Transformers_WurthElektronik.pretty |  
-| footprint_library_directory_flat | footprints_flat/wurthelectronics_transformers_wurthelektronik_ee16_7_5_tht_h_9pin_(750314288)/working |  
-| github_path | http://github.com/WurthElectronics/Transformers_WurthElektronik.pretty/blob/master/EE16_7_5_THT_H_9PIN_(750314288).kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/WurthElectronics/Transformers_WurthElektronik.pretty/blob/master/TOR_HEADER_THT_4PIN_(WIDE).kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/wurthelectronics_transformers_wurthelektronik_ee16_7_5_tht_h_9pin_(750314288)/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/wurthelectronics_transformers_wurthelektronik_ee16_7_5_tht_h_9pin_(750314288)/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/wurthelectronics_transformers_wurthelektronik_ee16_7_5_tht_h_9pin_(750314288)/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/wurthelectronics_transformers_wurthelektronik_ee16_7_5_tht_h_9pin_(750314288)/working'} |  
-| name | Transformers_WurthElektronik.pretty |  
-| oomp | {'footprint_name': 'ee16_7_5_tht_h_9pin_(750314288)', 'library_name': 'transformers_wurthelektronik', 'md5': '05bb6bbf4253a2ece8c6c6d109858eb7', 'md5_10': '05bb6bbf42', 'md5_5': '05bb6', 'md5_6': '05bb6b', 'oomp_key': 'oomp_wurthelectronics_transformers_wurthelektronik_ee16_7_5_tht_h_9pin_(750314288)', 'oomp_key_extra': 'oomp_footprint_wurthelectronics_transformers_wurthelektronik_ee16_7_5_tht_h_9pin_(750314288)', 'oomp_key_full': 'oomp_footprint_wurthelectronics_transformers_wurthelektronik_ee16_7_5_tht_h_9pin_(750314288)_05bb6b', 'oomp_key_simple': 'wurthelectronics_transformers_wurthelektronik_ee16_7_5_tht_h_9pin_(750314288)', 'original_filename': 'Transformers_WurthElektronik.pretty/EE16_7_5_THT_H_9PIN_(750314288).kicad_mod', 'owner_name': 'wurthelectronics'} |  
-| oomp_key | oomp_wurthelectronics_transformers_wurthelektronik_ee16_7_5_tht_h_9pin_(750314288) |  
-| oomp_key_full | oomp_footprint_wurthelectronics_transformers_wurthelektronik_ee16_7_5_tht_h_9pin_(750314288) |  
-| oomp_key_simple | wurthelectronics_transformers_wurthelektronik_ee16_7_5_tht_h_9pin_(750314288) |  
-| owner | WurthElectronics |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/WurthElectronics/Transformers_WurthElektronik.pretty |  
-
+# OOMP Footprint  
+## EE16_7_5_THT_H_9PIN_(750314288)  by none  
+  
+oomp key: oomp_wurthelectronics_transformers_wurthelektronik_ee16_7_5_tht_h_9pin_(750314288)  
+  
+source repo at: [http://gitlab.com/WurthElectronics/Transformers_WurthElektronik.pretty/blob/master/TOR_HEADER_THT_4PIN_(WIDE).kicad_mod](http://gitlab.com/WurthElectronics/Transformers_WurthElektronik.pretty/blob/master/TOR_HEADER_THT_4PIN_(WIDE).kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | EE16_7_5_THT_H_9PIN_(750314288) | 
+| footprint description | PACKAGE STYLE: EE16/7/5MOUNTING: THTPINS: 10BOBBIN: 070-5278 | 
+| number of pads | 9 | 
+| github path | http://github.com/WurthElectronics/Transformers_WurthElektronik.pretty/blob/master/EE16_7_5_THT_H_9PIN_(750314288).kicad_mod | 
+| oomp key | oomp_wurthelectronics_transformers_wurthelektronik_ee16_7_5_tht_h_9pin_(750314288) | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/wurthelectronics_transformers_wurthelektronik_ee16_7_5_tht_h_9pin_(750314288)/working | 
+## Images  

@@ -1,18 +1,18 @@
-- file: kicad-footprints.pretty/SMA_EDGE.kicad_mod
+- file: data//oomlout_oomp_footprint_src/kicad-footprints.pretty/SMA_EDGE.kicad_mod
   footprint:
     description: null
     libraryLink: SMA_EDGE
     number_of_pads: 5
   footprint_library_directory: footprint_library_owner/eblanton_kicad-footprints.pretty
-  footprint_library_directory_flat: footprints_flat/eblanton_kicad_footprints_sma_edge/working
-  github_path: http://github.com/eblanton/kicad-footprints.pretty/blob/master/SMA_EDGE.kicad_mod
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/eblanton_kicad_footprints_sma_edge/working
+  github_path: http://github.com/eblanton/kicad-footprints.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/SMA_EDGE.kicad_mod
   links:
-    github_src: http://gitlab.com/eblanton/kicad-footprints.pretty/blob/master/SMA_EDGE.kicad_mod
+    github_src: http://gitlab.com/eblanton/kicad-footprints.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/SMA_EDGE.kicad_mod
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
-    oomp_bot: footprints/eblanton_kicad_footprints_sma_edge/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/eblanton_kicad_footprints_sma_edge/working
-    oomp_src_flat: footprints_flat/footprints_flat/eblanton_kicad_footprints_sma_edge/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/eblanton_kicad_footprints_sma_edge/working
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/eblanton_kicad_footprints_sma_edge/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/eblanton_kicad_footprints_sma_edge/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/eblanton_kicad_footprints_sma_edge/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/eblanton_kicad_footprints_sma_edge/working
   name: kicad-footprints.pretty
   oomp:
     footprint_name: sma_edge
@@ -25,7 +25,7 @@
     oomp_key_extra: oomp_footprint_eblanton_kicad_footprints_sma_edge
     oomp_key_full: oomp_footprint_eblanton_kicad_footprints_sma_edge_7b7c9f
     oomp_key_simple: eblanton_kicad_footprints_sma_edge
-    original_filename: kicad-footprints.pretty/SMA_EDGE.kicad_mod
+    original_filename: data//oomlout_oomp_footprint_src/kicad-footprints.pretty/SMA_EDGE.kicad_mod
     owner_name: eblanton
   oomp_key: oomp_eblanton_kicad_footprints_sma_edge
   oomp_key_full: oomp_footprint_eblanton_kicad_footprints_sma_edge
@@ -33,7 +33,7 @@
   owner: eblanton
   repo:
     documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
-    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+    message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
       Authenticated requests get a higher rate limit. Check out the documentation
       for more details.)'
   url: http://github.com/eblanton/kicad-footprints.pretty
