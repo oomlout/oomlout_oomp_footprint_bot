@@ -1,6 +1,9 @@
 import tmp.data.oomlout_oomp_footprint_src.oomlout_oomp_footprint_src as oom_f_s
 import action_setup
-
+import action_generate_all_footprint_repo
+import action_generate_footprint_outputs
+import action_generate_readmes
+import action_generate_image_resolutions
 import oom_git
 
 
@@ -27,6 +30,16 @@ def main(**kwargs):
 
     # bot stuff
     action_setup.main()
+
+    action_generate_all_footprint_repo.main()
+
+    #action_generate_footprint_outputs.main()
+
+    action_generate_readmes.main()
+
+    action_generate_image_resolutions.main()
+
+    oom_git.push_to_git(comment="comitting after all generations")
 
     #oomlout_oomp_symbol_src.clone_and_copy_symbols(test=test, dir_base="tmp/data/oomlout_oomp_symbol_src")
     #oomlout_oomp_symbol_src.make_symbols_readme()
