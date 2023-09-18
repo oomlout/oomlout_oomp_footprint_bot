@@ -29,7 +29,7 @@ def go_through_directories():
                     print(f"{count}  ", end="", flush=True)
         
         #push every 5000
-        if count % 5000 == 0:
+        if count % 20000 == 0:
             oom_kicad.push_to_git(count=count)
             count = count + 1
         

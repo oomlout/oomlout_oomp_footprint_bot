@@ -29,7 +29,7 @@ def main():
                     #print a dot every 1000 files
                     if count2 % 100 == 0:
                         print(".", end="", flush=True)
-                    if count % 10000 == 0:                        
+                    if count % 20000 == 0:                        
                         oom_git.push_to_git(count=count )
     oom_git.push_to_git(count=count )
 
