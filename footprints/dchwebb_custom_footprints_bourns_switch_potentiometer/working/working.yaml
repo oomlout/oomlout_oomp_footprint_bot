@@ -7,8 +7,10 @@
   footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/dchwebb_custom_footprints_bourns_switch_potentiometer/working
   github_path: http://github.com/dchwebb/Custom_Footprints.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Bourns_Switch_Potentiometer.kicad_mod
   links:
-    github_src: http://gitlab.com/dchwebb/Custom_Footprints.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Wurth_2.4GHz_Filter_2.5mm_2.0mm.kicad_mod
-    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
+    github_owner: dchwebb
+    github_repo_name: Custom_Footprints.pretty
+    github_src: http://github.com/dchwebb/Custom_Footprints.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Wurth_2.4GHz_Filter_2.5mm_2.0mm.kicad_mod
+    github_src_repo: https://github.com/dchwebb/Custom_Footprints.pretty
     oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/dchwebb_custom_footprints_bourns_switch_potentiometer/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/dchwebb_custom_footprints_bourns_switch_potentiometer/working
     oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/dchwebb_custom_footprints_bourns_switch_potentiometer/working
@@ -32,8 +34,104 @@
   oomp_key_simple: dchwebb_custom_footprints_bourns_switch_potentiometer
   owner: dchwebb
   repo:
-    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
-    message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
-      Authenticated requests get a higher rate limit. Check out the documentation
-      for more details.)'
+    allow_forking: true
+    archive_url: https://api.github.com/repos/dchwebb/Custom_Footprints.pretty/{archive_format}{/ref}
+    archived: false
+    assignees_url: https://api.github.com/repos/dchwebb/Custom_Footprints.pretty/assignees{/user}
+    blobs_url: https://api.github.com/repos/dchwebb/Custom_Footprints.pretty/git/blobs{/sha}
+    branches_url: https://api.github.com/repos/dchwebb/Custom_Footprints.pretty/branches{/branch}
+    clone_url: https://github.com/dchwebb/Custom_Footprints.pretty.git
+    collaborators_url: https://api.github.com/repos/dchwebb/Custom_Footprints.pretty/collaborators{/collaborator}
+    comments_url: https://api.github.com/repos/dchwebb/Custom_Footprints.pretty/comments{/number}
+    commits_url: https://api.github.com/repos/dchwebb/Custom_Footprints.pretty/commits{/sha}
+    compare_url: https://api.github.com/repos/dchwebb/Custom_Footprints.pretty/compare/{base}...{head}
+    contents_url: https://api.github.com/repos/dchwebb/Custom_Footprints.pretty/contents/{+path}
+    contributors_url: https://api.github.com/repos/dchwebb/Custom_Footprints.pretty/contributors
+    created_at: '2019-03-28T15:43:42Z'
+    default_branch: master
+    deployments_url: https://api.github.com/repos/dchwebb/Custom_Footprints.pretty/deployments
+    description: KiCad custom footprints and 3d models
+    disabled: false
+    downloads_url: https://api.github.com/repos/dchwebb/Custom_Footprints.pretty/downloads
+    events_url: https://api.github.com/repos/dchwebb/Custom_Footprints.pretty/events
+    fork: false
+    forks: 0
+    forks_count: 0
+    forks_url: https://api.github.com/repos/dchwebb/Custom_Footprints.pretty/forks
+    full_name: dchwebb/Custom_Footprints.pretty
+    git_commits_url: https://api.github.com/repos/dchwebb/Custom_Footprints.pretty/git/commits{/sha}
+    git_refs_url: https://api.github.com/repos/dchwebb/Custom_Footprints.pretty/git/refs{/sha}
+    git_tags_url: https://api.github.com/repos/dchwebb/Custom_Footprints.pretty/git/tags{/sha}
+    git_url: git://github.com/dchwebb/Custom_Footprints.pretty.git
+    has_discussions: false
+    has_downloads: true
+    has_issues: true
+    has_pages: false
+    has_projects: true
+    has_wiki: true
+    homepage: null
+    hooks_url: https://api.github.com/repos/dchwebb/Custom_Footprints.pretty/hooks
+    html_url: https://github.com/dchwebb/Custom_Footprints.pretty
+    id: 178234355
+    is_template: false
+    issue_comment_url: https://api.github.com/repos/dchwebb/Custom_Footprints.pretty/issues/comments{/number}
+    issue_events_url: https://api.github.com/repos/dchwebb/Custom_Footprints.pretty/issues/events{/number}
+    issues_url: https://api.github.com/repos/dchwebb/Custom_Footprints.pretty/issues{/number}
+    keys_url: https://api.github.com/repos/dchwebb/Custom_Footprints.pretty/keys{/key_id}
+    labels_url: https://api.github.com/repos/dchwebb/Custom_Footprints.pretty/labels{/name}
+    language: null
+    languages_url: https://api.github.com/repos/dchwebb/Custom_Footprints.pretty/languages
+    license: null
+    merges_url: https://api.github.com/repos/dchwebb/Custom_Footprints.pretty/merges
+    milestones_url: https://api.github.com/repos/dchwebb/Custom_Footprints.pretty/milestones{/number}
+    mirror_url: null
+    name: Custom_Footprints.pretty
+    network_count: 0
+    node_id: MDEwOlJlcG9zaXRvcnkxNzgyMzQzNTU=
+    notifications_url: https://api.github.com/repos/dchwebb/Custom_Footprints.pretty/notifications{?since,all,participating}
+    open_issues: 0
+    open_issues_count: 0
+    owner:
+      avatar_url: https://avatars.githubusercontent.com/u/16348549?v=4
+      events_url: https://api.github.com/users/dchwebb/events{/privacy}
+      followers_url: https://api.github.com/users/dchwebb/followers
+      following_url: https://api.github.com/users/dchwebb/following{/other_user}
+      gists_url: https://api.github.com/users/dchwebb/gists{/gist_id}
+      gravatar_id: ''
+      html_url: https://github.com/dchwebb
+      id: 16348549
+      login: dchwebb
+      node_id: MDQ6VXNlcjE2MzQ4NTQ5
+      organizations_url: https://api.github.com/users/dchwebb/orgs
+      received_events_url: https://api.github.com/users/dchwebb/received_events
+      repos_url: https://api.github.com/users/dchwebb/repos
+      site_admin: false
+      starred_url: https://api.github.com/users/dchwebb/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/dchwebb/subscriptions
+      type: User
+      url: https://api.github.com/users/dchwebb
+    private: false
+    pulls_url: https://api.github.com/repos/dchwebb/Custom_Footprints.pretty/pulls{/number}
+    pushed_at: '2023-09-14T15:56:05Z'
+    releases_url: https://api.github.com/repos/dchwebb/Custom_Footprints.pretty/releases{/id}
+    size: 1035
+    ssh_url: git@github.com:dchwebb/Custom_Footprints.pretty.git
+    stargazers_count: 1
+    stargazers_url: https://api.github.com/repos/dchwebb/Custom_Footprints.pretty/stargazers
+    statuses_url: https://api.github.com/repos/dchwebb/Custom_Footprints.pretty/statuses/{sha}
+    subscribers_count: 2
+    subscribers_url: https://api.github.com/repos/dchwebb/Custom_Footprints.pretty/subscribers
+    subscription_url: https://api.github.com/repos/dchwebb/Custom_Footprints.pretty/subscription
+    svn_url: https://github.com/dchwebb/Custom_Footprints.pretty
+    tags_url: https://api.github.com/repos/dchwebb/Custom_Footprints.pretty/tags
+    teams_url: https://api.github.com/repos/dchwebb/Custom_Footprints.pretty/teams
+    temp_clone_token: null
+    topics: []
+    trees_url: https://api.github.com/repos/dchwebb/Custom_Footprints.pretty/git/trees{/sha}
+    updated_at: '2023-07-20T13:35:28Z'
+    url: https://api.github.com/repos/dchwebb/Custom_Footprints.pretty
+    visibility: public
+    watchers: 1
+    watchers_count: 1
+    web_commit_signoff_required: false
   url: http://github.com/dchwebb/Custom_Footprints.pretty

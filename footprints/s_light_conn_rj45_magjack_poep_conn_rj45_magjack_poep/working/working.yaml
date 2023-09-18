@@ -7,10 +7,8 @@
   footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/s_light_conn_rj45_magjack_poep_conn_rj45_magjack_poep/working
   github_path: http://github.com/s-light/CONN_RJ45_MagJack_POEp.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/CONN_RJ45_MagJack_POEp.kicad_mod
   links:
-    github_owner: s-light
-    github_repo_name: CONN_RJ45_MagJack_POEp.pretty
-    github_src: http://github.com/s-light/CONN_RJ45_MagJack_POEp.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/CONN_RJ45_MagJack_POEp.kicad_mod
-    github_src_repo: https://github.com/s-light/CONN_RJ45_MagJack_POEp.pretty
+    github_src: http://gitlab.com/s-light/CONN_RJ45_MagJack_POEp.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/CONN_RJ45_MagJack_POEp.kicad_mod
+    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/s_light_conn_rj45_magjack_poep_conn_rj45_magjack_poep/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/s_light_conn_rj45_magjack_poep_conn_rj45_magjack_poep/working
     oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/s_light_conn_rj45_magjack_poep_conn_rj45_magjack_poep/working
@@ -34,110 +32,8 @@
   oomp_key_simple: s_light_conn_rj45_magjack_poep_conn_rj45_magjack_poep
   owner: s-light
   repo:
-    allow_forking: true
-    archive_url: https://api.github.com/repos/s-light/CONN_RJ45_MagJack_POEp.pretty/{archive_format}{/ref}
-    archived: false
-    assignees_url: https://api.github.com/repos/s-light/CONN_RJ45_MagJack_POEp.pretty/assignees{/user}
-    blobs_url: https://api.github.com/repos/s-light/CONN_RJ45_MagJack_POEp.pretty/git/blobs{/sha}
-    branches_url: https://api.github.com/repos/s-light/CONN_RJ45_MagJack_POEp.pretty/branches{/branch}
-    clone_url: https://github.com/s-light/CONN_RJ45_MagJack_POEp.pretty.git
-    collaborators_url: https://api.github.com/repos/s-light/CONN_RJ45_MagJack_POEp.pretty/collaborators{/collaborator}
-    comments_url: https://api.github.com/repos/s-light/CONN_RJ45_MagJack_POEp.pretty/comments{/number}
-    commits_url: https://api.github.com/repos/s-light/CONN_RJ45_MagJack_POEp.pretty/commits{/sha}
-    compare_url: https://api.github.com/repos/s-light/CONN_RJ45_MagJack_POEp.pretty/compare/{base}...{head}
-    contents_url: https://api.github.com/repos/s-light/CONN_RJ45_MagJack_POEp.pretty/contents/{+path}
-    contributors_url: https://api.github.com/repos/s-light/CONN_RJ45_MagJack_POEp.pretty/contributors
-    created_at: '2016-02-15T19:28:53Z'
-    default_branch: master
-    deployments_url: https://api.github.com/repos/s-light/CONN_RJ45_MagJack_POEp.pretty/deployments
-    description: Bel Steward, RJ45, MagJack, 10/100MBit, POE+, Tab Up, Shielded, LED
-      Green Yellow, KiCad Footprint
-    disabled: false
-    downloads_url: https://api.github.com/repos/s-light/CONN_RJ45_MagJack_POEp.pretty/downloads
-    events_url: https://api.github.com/repos/s-light/CONN_RJ45_MagJack_POEp.pretty/events
-    fork: false
-    forks: 0
-    forks_count: 0
-    forks_url: https://api.github.com/repos/s-light/CONN_RJ45_MagJack_POEp.pretty/forks
-    full_name: s-light/CONN_RJ45_MagJack_POEp.pretty
-    git_commits_url: https://api.github.com/repos/s-light/CONN_RJ45_MagJack_POEp.pretty/git/commits{/sha}
-    git_refs_url: https://api.github.com/repos/s-light/CONN_RJ45_MagJack_POEp.pretty/git/refs{/sha}
-    git_tags_url: https://api.github.com/repos/s-light/CONN_RJ45_MagJack_POEp.pretty/git/tags{/sha}
-    git_url: git://github.com/s-light/CONN_RJ45_MagJack_POEp.pretty.git
-    has_discussions: false
-    has_downloads: true
-    has_issues: true
-    has_pages: false
-    has_projects: true
-    has_wiki: true
-    homepage: null
-    hooks_url: https://api.github.com/repos/s-light/CONN_RJ45_MagJack_POEp.pretty/hooks
-    html_url: https://github.com/s-light/CONN_RJ45_MagJack_POEp.pretty
-    id: 51779744
-    is_template: false
-    issue_comment_url: https://api.github.com/repos/s-light/CONN_RJ45_MagJack_POEp.pretty/issues/comments{/number}
-    issue_events_url: https://api.github.com/repos/s-light/CONN_RJ45_MagJack_POEp.pretty/issues/events{/number}
-    issues_url: https://api.github.com/repos/s-light/CONN_RJ45_MagJack_POEp.pretty/issues{/number}
-    keys_url: https://api.github.com/repos/s-light/CONN_RJ45_MagJack_POEp.pretty/keys{/key_id}
-    labels_url: https://api.github.com/repos/s-light/CONN_RJ45_MagJack_POEp.pretty/labels{/name}
-    language: null
-    languages_url: https://api.github.com/repos/s-light/CONN_RJ45_MagJack_POEp.pretty/languages
-    license:
-      key: mit
-      name: MIT License
-      node_id: MDc6TGljZW5zZTEz
-      spdx_id: MIT
-      url: https://api.github.com/licenses/mit
-    merges_url: https://api.github.com/repos/s-light/CONN_RJ45_MagJack_POEp.pretty/merges
-    milestones_url: https://api.github.com/repos/s-light/CONN_RJ45_MagJack_POEp.pretty/milestones{/number}
-    mirror_url: null
-    name: CONN_RJ45_MagJack_POEp.pretty
-    network_count: 0
-    node_id: MDEwOlJlcG9zaXRvcnk1MTc3OTc0NA==
-    notifications_url: https://api.github.com/repos/s-light/CONN_RJ45_MagJack_POEp.pretty/notifications{?since,all,participating}
-    open_issues: 0
-    open_issues_count: 0
-    owner:
-      avatar_url: https://avatars.githubusercontent.com/u/1340319?v=4
-      events_url: https://api.github.com/users/s-light/events{/privacy}
-      followers_url: https://api.github.com/users/s-light/followers
-      following_url: https://api.github.com/users/s-light/following{/other_user}
-      gists_url: https://api.github.com/users/s-light/gists{/gist_id}
-      gravatar_id: ''
-      html_url: https://github.com/s-light
-      id: 1340319
-      login: s-light
-      node_id: MDQ6VXNlcjEzNDAzMTk=
-      organizations_url: https://api.github.com/users/s-light/orgs
-      received_events_url: https://api.github.com/users/s-light/received_events
-      repos_url: https://api.github.com/users/s-light/repos
-      site_admin: false
-      starred_url: https://api.github.com/users/s-light/starred{/owner}{/repo}
-      subscriptions_url: https://api.github.com/users/s-light/subscriptions
-      type: User
-      url: https://api.github.com/users/s-light
-    private: false
-    pulls_url: https://api.github.com/repos/s-light/CONN_RJ45_MagJack_POEp.pretty/pulls{/number}
-    pushed_at: '2016-02-15T20:40:53Z'
-    releases_url: https://api.github.com/repos/s-light/CONN_RJ45_MagJack_POEp.pretty/releases{/id}
-    size: 2
-    ssh_url: git@github.com:s-light/CONN_RJ45_MagJack_POEp.pretty.git
-    stargazers_count: 0
-    stargazers_url: https://api.github.com/repos/s-light/CONN_RJ45_MagJack_POEp.pretty/stargazers
-    statuses_url: https://api.github.com/repos/s-light/CONN_RJ45_MagJack_POEp.pretty/statuses/{sha}
-    subscribers_count: 2
-    subscribers_url: https://api.github.com/repos/s-light/CONN_RJ45_MagJack_POEp.pretty/subscribers
-    subscription_url: https://api.github.com/repos/s-light/CONN_RJ45_MagJack_POEp.pretty/subscription
-    svn_url: https://github.com/s-light/CONN_RJ45_MagJack_POEp.pretty
-    tags_url: https://api.github.com/repos/s-light/CONN_RJ45_MagJack_POEp.pretty/tags
-    teams_url: https://api.github.com/repos/s-light/CONN_RJ45_MagJack_POEp.pretty/teams
-    temp_clone_token: null
-    topics: []
-    trees_url: https://api.github.com/repos/s-light/CONN_RJ45_MagJack_POEp.pretty/git/trees{/sha}
-    updated_at: '2016-02-15T19:28:53Z'
-    url: https://api.github.com/repos/s-light/CONN_RJ45_MagJack_POEp.pretty
-    visibility: public
-    watchers: 0
-    watchers_count: 0
-    web_commit_signoff_required: false
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: http://github.com/s-light/CONN_RJ45_MagJack_POEp.pretty

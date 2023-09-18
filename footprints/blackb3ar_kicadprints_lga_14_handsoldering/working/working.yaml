@@ -3,13 +3,13 @@
     description: null
     libraryLink: LGA-14_handsoldering
     number_of_pads: 14
-  footprint_library_directory: footprint_library_owner/phigleaf_kicadprints.pretty
+  footprint_library_directory: footprint_library_owner/d3philip_kicadprints.pretty
   footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/blackb3ar_kicadprints_lga_14_handsoldering/working
-  github_path: http://github.com/phigleaf/kicadprints.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/LGA-14_handsoldering.kicad_mod
+  github_path: http://github.com/d3philip/kicadprints.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/LGA-14_handsoldering.kicad_mod
   links:
     github_owner: blackb3ar
     github_repo_name: kicadprints.pretty
-    github_src: http://github.com/phigleaf/kicadprints.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/TestPad.kicad_mod
+    github_src: http://github.com/d3philip/kicadprints.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/TestPad.kicad_mod
     github_src_repo: https://github.com/blackb3ar/kicadprints.pretty
     oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/blackb3ar_kicadprints_lga_14_handsoldering/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/blackb3ar_kicadprints_lga_14_handsoldering/working
@@ -32,7 +32,7 @@
   oomp_key: oomp_blackb3ar_kicadprints_lga_14_handsoldering
   oomp_key_full: oomp_footprint_blackb3ar_kicadprints_lga_14_handsoldering
   oomp_key_simple: blackb3ar_kicadprints_lga_14_handsoldering
-  owner: phigleaf
+  owner: d3philip
   repo:
     allow_forking: true
     archive_url: https://api.github.com/repos/blackb3ar/kicadprints.pretty/{archive_format}{/ref}
@@ -139,4 +139,4 @@
     watchers: 0
     watchers_count: 0
     web_commit_signoff_required: false
-  url: http://github.com/phigleaf/kicadprints.pretty
+  url: http://github.com/d3philip/kicadprints.pretty

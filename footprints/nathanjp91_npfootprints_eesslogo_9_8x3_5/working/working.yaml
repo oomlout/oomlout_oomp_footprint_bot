@@ -7,8 +7,10 @@
   footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/nathanjp91_npfootprints_eesslogo_9_8x3_5/working
   github_path: http://github.com/Nathanjp91/NPFootprints.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/EESSLogo-9_8x3_5.kicad_mod
   links:
-    github_src: http://gitlab.com/Nathanjp91/NPFootprints.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Yatagarsu_Logo.kicad_mod
-    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
+    github_owner: Nathanjp91
+    github_repo_name: NPFootprints.pretty
+    github_src: http://github.com/Nathanjp91/NPFootprints.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Yatagarsu_Logo.kicad_mod
+    github_src_repo: https://github.com/Nathanjp91/NPFootprints.pretty
     oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/nathanjp91_npfootprints_eesslogo_9_8x3_5/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/nathanjp91_npfootprints_eesslogo_9_8x3_5/working
     oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/nathanjp91_npfootprints_eesslogo_9_8x3_5/working
@@ -32,8 +34,109 @@
   oomp_key_simple: nathanjp91_npfootprints_eesslogo_9_8x3_5
   owner: Nathanjp91
   repo:
-    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
-    message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
-      Authenticated requests get a higher rate limit. Check out the documentation
-      for more details.)'
+    allow_forking: true
+    archive_url: https://api.github.com/repos/Nathanjp91/NPFootprints.pretty/{archive_format}{/ref}
+    archived: false
+    assignees_url: https://api.github.com/repos/Nathanjp91/NPFootprints.pretty/assignees{/user}
+    blobs_url: https://api.github.com/repos/Nathanjp91/NPFootprints.pretty/git/blobs{/sha}
+    branches_url: https://api.github.com/repos/Nathanjp91/NPFootprints.pretty/branches{/branch}
+    clone_url: https://github.com/Nathanjp91/NPFootprints.pretty.git
+    collaborators_url: https://api.github.com/repos/Nathanjp91/NPFootprints.pretty/collaborators{/collaborator}
+    comments_url: https://api.github.com/repos/Nathanjp91/NPFootprints.pretty/comments{/number}
+    commits_url: https://api.github.com/repos/Nathanjp91/NPFootprints.pretty/commits{/sha}
+    compare_url: https://api.github.com/repos/Nathanjp91/NPFootprints.pretty/compare/{base}...{head}
+    contents_url: https://api.github.com/repos/Nathanjp91/NPFootprints.pretty/contents/{+path}
+    contributors_url: https://api.github.com/repos/Nathanjp91/NPFootprints.pretty/contributors
+    created_at: '2016-02-24T05:26:00Z'
+    default_branch: master
+    deployments_url: https://api.github.com/repos/Nathanjp91/NPFootprints.pretty/deployments
+    description: KiCAD footprints by Nathaniel Perkins
+    disabled: false
+    downloads_url: https://api.github.com/repos/Nathanjp91/NPFootprints.pretty/downloads
+    events_url: https://api.github.com/repos/Nathanjp91/NPFootprints.pretty/events
+    fork: false
+    forks: 0
+    forks_count: 0
+    forks_url: https://api.github.com/repos/Nathanjp91/NPFootprints.pretty/forks
+    full_name: Nathanjp91/NPFootprints.pretty
+    git_commits_url: https://api.github.com/repos/Nathanjp91/NPFootprints.pretty/git/commits{/sha}
+    git_refs_url: https://api.github.com/repos/Nathanjp91/NPFootprints.pretty/git/refs{/sha}
+    git_tags_url: https://api.github.com/repos/Nathanjp91/NPFootprints.pretty/git/tags{/sha}
+    git_url: git://github.com/Nathanjp91/NPFootprints.pretty.git
+    has_discussions: false
+    has_downloads: true
+    has_issues: true
+    has_pages: false
+    has_projects: true
+    has_wiki: true
+    homepage: null
+    hooks_url: https://api.github.com/repos/Nathanjp91/NPFootprints.pretty/hooks
+    html_url: https://github.com/Nathanjp91/NPFootprints.pretty
+    id: 52416702
+    is_template: false
+    issue_comment_url: https://api.github.com/repos/Nathanjp91/NPFootprints.pretty/issues/comments{/number}
+    issue_events_url: https://api.github.com/repos/Nathanjp91/NPFootprints.pretty/issues/events{/number}
+    issues_url: https://api.github.com/repos/Nathanjp91/NPFootprints.pretty/issues{/number}
+    keys_url: https://api.github.com/repos/Nathanjp91/NPFootprints.pretty/keys{/key_id}
+    labels_url: https://api.github.com/repos/Nathanjp91/NPFootprints.pretty/labels{/name}
+    language: null
+    languages_url: https://api.github.com/repos/Nathanjp91/NPFootprints.pretty/languages
+    license:
+      key: gpl-3.0
+      name: GNU General Public License v3.0
+      node_id: MDc6TGljZW5zZTk=
+      spdx_id: GPL-3.0
+      url: https://api.github.com/licenses/gpl-3.0
+    merges_url: https://api.github.com/repos/Nathanjp91/NPFootprints.pretty/merges
+    milestones_url: https://api.github.com/repos/Nathanjp91/NPFootprints.pretty/milestones{/number}
+    mirror_url: null
+    name: NPFootprints.pretty
+    network_count: 0
+    node_id: MDEwOlJlcG9zaXRvcnk1MjQxNjcwMg==
+    notifications_url: https://api.github.com/repos/Nathanjp91/NPFootprints.pretty/notifications{?since,all,participating}
+    open_issues: 0
+    open_issues_count: 0
+    owner:
+      avatar_url: https://avatars.githubusercontent.com/u/9366646?v=4
+      events_url: https://api.github.com/users/Nathanjp91/events{/privacy}
+      followers_url: https://api.github.com/users/Nathanjp91/followers
+      following_url: https://api.github.com/users/Nathanjp91/following{/other_user}
+      gists_url: https://api.github.com/users/Nathanjp91/gists{/gist_id}
+      gravatar_id: ''
+      html_url: https://github.com/Nathanjp91
+      id: 9366646
+      login: Nathanjp91
+      node_id: MDQ6VXNlcjkzNjY2NDY=
+      organizations_url: https://api.github.com/users/Nathanjp91/orgs
+      received_events_url: https://api.github.com/users/Nathanjp91/received_events
+      repos_url: https://api.github.com/users/Nathanjp91/repos
+      site_admin: false
+      starred_url: https://api.github.com/users/Nathanjp91/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/Nathanjp91/subscriptions
+      type: User
+      url: https://api.github.com/users/Nathanjp91
+    private: false
+    pulls_url: https://api.github.com/repos/Nathanjp91/NPFootprints.pretty/pulls{/number}
+    pushed_at: '2016-03-24T03:48:02Z'
+    releases_url: https://api.github.com/repos/Nathanjp91/NPFootprints.pretty/releases{/id}
+    size: 107
+    ssh_url: git@github.com:Nathanjp91/NPFootprints.pretty.git
+    stargazers_count: 0
+    stargazers_url: https://api.github.com/repos/Nathanjp91/NPFootprints.pretty/stargazers
+    statuses_url: https://api.github.com/repos/Nathanjp91/NPFootprints.pretty/statuses/{sha}
+    subscribers_count: 1
+    subscribers_url: https://api.github.com/repos/Nathanjp91/NPFootprints.pretty/subscribers
+    subscription_url: https://api.github.com/repos/Nathanjp91/NPFootprints.pretty/subscription
+    svn_url: https://github.com/Nathanjp91/NPFootprints.pretty
+    tags_url: https://api.github.com/repos/Nathanjp91/NPFootprints.pretty/tags
+    teams_url: https://api.github.com/repos/Nathanjp91/NPFootprints.pretty/teams
+    temp_clone_token: null
+    topics: []
+    trees_url: https://api.github.com/repos/Nathanjp91/NPFootprints.pretty/git/trees{/sha}
+    updated_at: '2016-02-24T05:26:00Z'
+    url: https://api.github.com/repos/Nathanjp91/NPFootprints.pretty
+    visibility: public
+    watchers: 0
+    watchers_count: 0
+    web_commit_signoff_required: false
   url: http://github.com/Nathanjp91/NPFootprints.pretty

@@ -1,20 +1,20 @@
-- file: digikey-kicad-library/digikey-footprints.pretty/VFLGA-12_2x2mm.kicad_mod
+- file: data//oomlout_oomp_footprint_src/digikey-kicad-library/digikey-footprints.pretty/VFLGA-12_2x2mm.kicad_mod
   footprint:
     description: http://www.st.com/content/ccc/resource/technical/document/datasheet/54/2a/85/76/e3/97/42/18/DM00075867.pdf/files/DM00075867.pdf/jcr:content/translations/en.DM00075867.pdf
     libraryLink: VFLGA-12_2x2mm
     number_of_pads: 12
   footprint_library_directory: footprint_library_owner/digikey_digikey-kicad-library
-  footprint_library_directory_flat: footprints_flat/digi_key_digikey_footprints_vflga_12_2x2mm/working
-  github_path: http://github.com/digikey/digikey-kicad-library/blob/master/digikey-footprints.pretty/VFLGA-12_2x2mm.kicad_mod
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/digi_key_digikey_footprints_vflga_12_2x2mm/working
+  github_path: http://github.com/digikey/digikey-kicad-library/blob/master/tmp/data//oomlout_oomp_footprint_src/digikey-footprints.pretty/VFLGA-12_2x2mm.kicad_mod
   links:
     github_owner: Digi-Key
     github_repo_name: digikey-kicad-library
-    github_src: http://github.com/digikey/digikey-kicad-library/blob/master/src/Source_Footprints/Zigbee_Module_MRF24J40MD.kicad_mod
+    github_src: http://github.com/digikey/digikey-kicad-library/blob/master/tmp/data//oomlout_oomp_footprint_src/src/Source_Footprints/Zigbee_Module_MRF24J40MD.kicad_mod
     github_src_repo: https://github.com/Digi-Key/digikey-kicad-library
-    oomp_bot: footprints/digi_key_digikey_footprints_vflga_12_2x2mm/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digi_key_digikey_footprints_vflga_12_2x2mm/working
-    oomp_src_flat: footprints_flat/footprints_flat/digi_key_digikey_footprints_vflga_12_2x2mm/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/digi_key_digikey_footprints_vflga_12_2x2mm/working
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/digi_key_digikey_footprints_vflga_12_2x2mm/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/digi_key_digikey_footprints_vflga_12_2x2mm/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/digi_key_digikey_footprints_vflga_12_2x2mm/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/digi_key_digikey_footprints_vflga_12_2x2mm/working
   name: digikey-kicad-library
   oomp:
     footprint_name: vflga_12_2x2mm
@@ -27,7 +27,7 @@
     oomp_key_extra: oomp_footprint_digi_key_digikey_footprints_vflga_12_2x2mm
     oomp_key_full: oomp_footprint_digi_key_digikey_footprints_vflga_12_2x2mm_d6a214
     oomp_key_simple: digi_key_digikey_footprints_vflga_12_2x2mm
-    original_filename: digikey-kicad-library/digikey-footprints.pretty/VFLGA-12_2x2mm.kicad_mod
+    original_filename: data//oomlout_oomp_footprint_src/digikey-kicad-library/digikey-footprints.pretty/VFLGA-12_2x2mm.kicad_mod
     owner_name: digi_key
   oomp_key: oomp_digi_key_digikey_footprints_vflga_12_2x2mm
   oomp_key_full: oomp_footprint_digi_key_digikey_footprints_vflga_12_2x2mm
@@ -55,8 +55,8 @@
     downloads_url: https://api.github.com/repos/Digi-Key/digikey-kicad-library/downloads
     events_url: https://api.github.com/repos/Digi-Key/digikey-kicad-library/events
     fork: false
-    forks: 327
-    forks_count: 327
+    forks: 332
+    forks_count: 332
     forks_url: https://api.github.com/repos/Digi-Key/digikey-kicad-library/forks
     full_name: Digi-Key/digikey-kicad-library
     git_commits_url: https://api.github.com/repos/Digi-Key/digikey-kicad-library/git/commits{/sha}
@@ -91,7 +91,7 @@
     milestones_url: https://api.github.com/repos/Digi-Key/digikey-kicad-library/milestones{/number}
     mirror_url: null
     name: digikey-kicad-library
-    network_count: 327
+    network_count: 332
     node_id: MDEwOlJlcG9zaXRvcnkxMTAwMjg1MzQ=
     notifications_url: https://api.github.com/repos/Digi-Key/digikey-kicad-library/notifications{?since,all,participating}
     open_issues: 52
@@ -140,7 +140,7 @@
     releases_url: https://api.github.com/repos/Digi-Key/digikey-kicad-library/releases{/id}
     size: 2487
     ssh_url: git@github.com:Digi-Key/digikey-kicad-library.git
-    stargazers_count: 1480
+    stargazers_count: 1488
     stargazers_url: https://api.github.com/repos/Digi-Key/digikey-kicad-library/stargazers
     statuses_url: https://api.github.com/repos/Digi-Key/digikey-kicad-library/statuses/{sha}
     subscribers_count: 110
@@ -152,10 +152,10 @@
     temp_clone_token: null
     topics: []
     trees_url: https://api.github.com/repos/Digi-Key/digikey-kicad-library/git/trees{/sha}
-    updated_at: '2023-08-11T15:38:42Z'
+    updated_at: '2023-09-16T22:22:45Z'
     url: https://api.github.com/repos/Digi-Key/digikey-kicad-library
     visibility: public
-    watchers: 1480
-    watchers_count: 1480
+    watchers: 1488
+    watchers_count: 1488
     web_commit_signoff_required: false
   url: http://github.com/digikey/digikey-kicad-library

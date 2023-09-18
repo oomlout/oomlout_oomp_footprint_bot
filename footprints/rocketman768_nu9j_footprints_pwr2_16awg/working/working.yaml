@@ -7,10 +7,8 @@
   footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/rocketman768_nu9j_footprints_pwr2_16awg/working
   github_path: http://github.com/rocketman768/nu9j-footprints.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/PWR2-16AWG.kicad_mod
   links:
-    github_owner: rocketman768
-    github_repo_name: nu9j-footprints.pretty
-    github_src: http://github.com/rocketman768/nu9j-footprints.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/WE-SUCKW.kicad_mod
-    github_src_repo: https://github.com/rocketman768/nu9j-footprints.pretty
+    github_src: http://gitlab.com/rocketman768/nu9j-footprints.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/WE-SUCKW.kicad_mod
+    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/rocketman768_nu9j_footprints_pwr2_16awg/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/rocketman768_nu9j_footprints_pwr2_16awg/working
     oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/rocketman768_nu9j_footprints_pwr2_16awg/working
@@ -34,109 +32,8 @@
   oomp_key_simple: rocketman768_nu9j_footprints_pwr2_16awg
   owner: rocketman768
   repo:
-    allow_forking: true
-    archive_url: https://api.github.com/repos/rocketman768/nu9j-footprints.pretty/{archive_format}{/ref}
-    archived: false
-    assignees_url: https://api.github.com/repos/rocketman768/nu9j-footprints.pretty/assignees{/user}
-    blobs_url: https://api.github.com/repos/rocketman768/nu9j-footprints.pretty/git/blobs{/sha}
-    branches_url: https://api.github.com/repos/rocketman768/nu9j-footprints.pretty/branches{/branch}
-    clone_url: https://github.com/rocketman768/nu9j-footprints.pretty.git
-    collaborators_url: https://api.github.com/repos/rocketman768/nu9j-footprints.pretty/collaborators{/collaborator}
-    comments_url: https://api.github.com/repos/rocketman768/nu9j-footprints.pretty/comments{/number}
-    commits_url: https://api.github.com/repos/rocketman768/nu9j-footprints.pretty/commits{/sha}
-    compare_url: https://api.github.com/repos/rocketman768/nu9j-footprints.pretty/compare/{base}...{head}
-    contents_url: https://api.github.com/repos/rocketman768/nu9j-footprints.pretty/contents/{+path}
-    contributors_url: https://api.github.com/repos/rocketman768/nu9j-footprints.pretty/contributors
-    created_at: '2014-05-27T18:33:20Z'
-    default_branch: master
-    deployments_url: https://api.github.com/repos/rocketman768/nu9j-footprints.pretty/deployments
-    description: KiCad footprints for my circuits
-    disabled: false
-    downloads_url: https://api.github.com/repos/rocketman768/nu9j-footprints.pretty/downloads
-    events_url: https://api.github.com/repos/rocketman768/nu9j-footprints.pretty/events
-    fork: false
-    forks: 0
-    forks_count: 0
-    forks_url: https://api.github.com/repos/rocketman768/nu9j-footprints.pretty/forks
-    full_name: rocketman768/nu9j-footprints.pretty
-    git_commits_url: https://api.github.com/repos/rocketman768/nu9j-footprints.pretty/git/commits{/sha}
-    git_refs_url: https://api.github.com/repos/rocketman768/nu9j-footprints.pretty/git/refs{/sha}
-    git_tags_url: https://api.github.com/repos/rocketman768/nu9j-footprints.pretty/git/tags{/sha}
-    git_url: git://github.com/rocketman768/nu9j-footprints.pretty.git
-    has_discussions: false
-    has_downloads: true
-    has_issues: true
-    has_pages: false
-    has_projects: true
-    has_wiki: true
-    homepage: null
-    hooks_url: https://api.github.com/repos/rocketman768/nu9j-footprints.pretty/hooks
-    html_url: https://github.com/rocketman768/nu9j-footprints.pretty
-    id: 20230762
-    is_template: false
-    issue_comment_url: https://api.github.com/repos/rocketman768/nu9j-footprints.pretty/issues/comments{/number}
-    issue_events_url: https://api.github.com/repos/rocketman768/nu9j-footprints.pretty/issues/events{/number}
-    issues_url: https://api.github.com/repos/rocketman768/nu9j-footprints.pretty/issues{/number}
-    keys_url: https://api.github.com/repos/rocketman768/nu9j-footprints.pretty/keys{/key_id}
-    labels_url: https://api.github.com/repos/rocketman768/nu9j-footprints.pretty/labels{/name}
-    language: null
-    languages_url: https://api.github.com/repos/rocketman768/nu9j-footprints.pretty/languages
-    license:
-      key: other
-      name: Other
-      node_id: MDc6TGljZW5zZTA=
-      spdx_id: NOASSERTION
-      url: null
-    merges_url: https://api.github.com/repos/rocketman768/nu9j-footprints.pretty/merges
-    milestones_url: https://api.github.com/repos/rocketman768/nu9j-footprints.pretty/milestones{/number}
-    mirror_url: null
-    name: nu9j-footprints.pretty
-    network_count: 0
-    node_id: MDEwOlJlcG9zaXRvcnkyMDIzMDc2Mg==
-    notifications_url: https://api.github.com/repos/rocketman768/nu9j-footprints.pretty/notifications{?since,all,participating}
-    open_issues: 0
-    open_issues_count: 0
-    owner:
-      avatar_url: https://avatars.githubusercontent.com/u/752558?v=4
-      events_url: https://api.github.com/users/rocketman768/events{/privacy}
-      followers_url: https://api.github.com/users/rocketman768/followers
-      following_url: https://api.github.com/users/rocketman768/following{/other_user}
-      gists_url: https://api.github.com/users/rocketman768/gists{/gist_id}
-      gravatar_id: ''
-      html_url: https://github.com/rocketman768
-      id: 752558
-      login: rocketman768
-      node_id: MDQ6VXNlcjc1MjU1OA==
-      organizations_url: https://api.github.com/users/rocketman768/orgs
-      received_events_url: https://api.github.com/users/rocketman768/received_events
-      repos_url: https://api.github.com/users/rocketman768/repos
-      site_admin: false
-      starred_url: https://api.github.com/users/rocketman768/starred{/owner}{/repo}
-      subscriptions_url: https://api.github.com/users/rocketman768/subscriptions
-      type: User
-      url: https://api.github.com/users/rocketman768
-    private: false
-    pulls_url: https://api.github.com/repos/rocketman768/nu9j-footprints.pretty/pulls{/number}
-    pushed_at: '2015-03-08T18:19:08Z'
-    releases_url: https://api.github.com/repos/rocketman768/nu9j-footprints.pretty/releases{/id}
-    size: 216
-    ssh_url: git@github.com:rocketman768/nu9j-footprints.pretty.git
-    stargazers_count: 0
-    stargazers_url: https://api.github.com/repos/rocketman768/nu9j-footprints.pretty/stargazers
-    statuses_url: https://api.github.com/repos/rocketman768/nu9j-footprints.pretty/statuses/{sha}
-    subscribers_count: 2
-    subscribers_url: https://api.github.com/repos/rocketman768/nu9j-footprints.pretty/subscribers
-    subscription_url: https://api.github.com/repos/rocketman768/nu9j-footprints.pretty/subscription
-    svn_url: https://github.com/rocketman768/nu9j-footprints.pretty
-    tags_url: https://api.github.com/repos/rocketman768/nu9j-footprints.pretty/tags
-    teams_url: https://api.github.com/repos/rocketman768/nu9j-footprints.pretty/teams
-    temp_clone_token: null
-    topics: []
-    trees_url: https://api.github.com/repos/rocketman768/nu9j-footprints.pretty/git/trees{/sha}
-    updated_at: '2014-11-28T20:44:35Z'
-    url: https://api.github.com/repos/rocketman768/nu9j-footprints.pretty
-    visibility: public
-    watchers: 0
-    watchers_count: 0
-    web_commit_signoff_required: false
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: http://github.com/rocketman768/nu9j-footprints.pretty

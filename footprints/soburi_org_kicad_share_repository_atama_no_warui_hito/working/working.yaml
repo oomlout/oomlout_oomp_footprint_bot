@@ -7,10 +7,8 @@
   footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/soburi_org_kicad_share_repository_atama_no_warui_hito/working
   github_path: http://github.com/soburi-org/kicad_share_repository.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/atama_no_warui_hito.kicad_mod
   links:
-    github_owner: soburi-org
-    github_repo_name: kicad_share_repository.pretty
-    github_src: http://github.com/soburi-org/kicad_share_repository.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/atama_no_warui_hito.kicad_mod
-    github_src_repo: https://github.com/soburi-org/kicad_share_repository.pretty
+    github_src: http://gitlab.com/soburi-org/kicad_share_repository.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/atama_no_warui_hito.kicad_mod
+    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/soburi_org_kicad_share_repository_atama_no_warui_hito/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/soburi_org_kicad_share_repository_atama_no_warui_hito/working
     oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/soburi_org_kicad_share_repository_atama_no_warui_hito/working
@@ -34,123 +32,8 @@
   oomp_key_simple: soburi_org_kicad_share_repository_atama_no_warui_hito
   owner: soburi-org
   repo:
-    allow_forking: true
-    archive_url: https://api.github.com/repos/soburi-org/kicad_share_repository.pretty/{archive_format}{/ref}
-    archived: false
-    assignees_url: https://api.github.com/repos/soburi-org/kicad_share_repository.pretty/assignees{/user}
-    blobs_url: https://api.github.com/repos/soburi-org/kicad_share_repository.pretty/git/blobs{/sha}
-    branches_url: https://api.github.com/repos/soburi-org/kicad_share_repository.pretty/branches{/branch}
-    clone_url: https://github.com/soburi-org/kicad_share_repository.pretty.git
-    collaborators_url: https://api.github.com/repos/soburi-org/kicad_share_repository.pretty/collaborators{/collaborator}
-    comments_url: https://api.github.com/repos/soburi-org/kicad_share_repository.pretty/comments{/number}
-    commits_url: https://api.github.com/repos/soburi-org/kicad_share_repository.pretty/commits{/sha}
-    compare_url: https://api.github.com/repos/soburi-org/kicad_share_repository.pretty/compare/{base}...{head}
-    contents_url: https://api.github.com/repos/soburi-org/kicad_share_repository.pretty/contents/{+path}
-    contributors_url: https://api.github.com/repos/soburi-org/kicad_share_repository.pretty/contributors
-    created_at: '2017-09-27T12:01:18Z'
-    default_branch: master
-    deployments_url: https://api.github.com/repos/soburi-org/kicad_share_repository.pretty/deployments
-    description: Private KiCad Git repository demo
-    disabled: false
-    downloads_url: https://api.github.com/repos/soburi-org/kicad_share_repository.pretty/downloads
-    events_url: https://api.github.com/repos/soburi-org/kicad_share_repository.pretty/events
-    fork: false
-    forks: 0
-    forks_count: 0
-    forks_url: https://api.github.com/repos/soburi-org/kicad_share_repository.pretty/forks
-    full_name: soburi-org/kicad_share_repository.pretty
-    git_commits_url: https://api.github.com/repos/soburi-org/kicad_share_repository.pretty/git/commits{/sha}
-    git_refs_url: https://api.github.com/repos/soburi-org/kicad_share_repository.pretty/git/refs{/sha}
-    git_tags_url: https://api.github.com/repos/soburi-org/kicad_share_repository.pretty/git/tags{/sha}
-    git_url: git://github.com/soburi-org/kicad_share_repository.pretty.git
-    has_discussions: false
-    has_downloads: true
-    has_issues: true
-    has_pages: false
-    has_projects: true
-    has_wiki: true
-    homepage: null
-    hooks_url: https://api.github.com/repos/soburi-org/kicad_share_repository.pretty/hooks
-    html_url: https://github.com/soburi-org/kicad_share_repository.pretty
-    id: 105012793
-    is_template: false
-    issue_comment_url: https://api.github.com/repos/soburi-org/kicad_share_repository.pretty/issues/comments{/number}
-    issue_events_url: https://api.github.com/repos/soburi-org/kicad_share_repository.pretty/issues/events{/number}
-    issues_url: https://api.github.com/repos/soburi-org/kicad_share_repository.pretty/issues{/number}
-    keys_url: https://api.github.com/repos/soburi-org/kicad_share_repository.pretty/keys{/key_id}
-    labels_url: https://api.github.com/repos/soburi-org/kicad_share_repository.pretty/labels{/name}
-    language: null
-    languages_url: https://api.github.com/repos/soburi-org/kicad_share_repository.pretty/languages
-    license: null
-    merges_url: https://api.github.com/repos/soburi-org/kicad_share_repository.pretty/merges
-    milestones_url: https://api.github.com/repos/soburi-org/kicad_share_repository.pretty/milestones{/number}
-    mirror_url: null
-    name: kicad_share_repository.pretty
-    network_count: 0
-    node_id: MDEwOlJlcG9zaXRvcnkxMDUwMTI3OTM=
-    notifications_url: https://api.github.com/repos/soburi-org/kicad_share_repository.pretty/notifications{?since,all,participating}
-    open_issues: 0
-    open_issues_count: 0
-    organization:
-      avatar_url: https://avatars.githubusercontent.com/u/19362511?v=4
-      events_url: https://api.github.com/users/soburi-org/events{/privacy}
-      followers_url: https://api.github.com/users/soburi-org/followers
-      following_url: https://api.github.com/users/soburi-org/following{/other_user}
-      gists_url: https://api.github.com/users/soburi-org/gists{/gist_id}
-      gravatar_id: ''
-      html_url: https://github.com/soburi-org
-      id: 19362511
-      login: soburi-org
-      node_id: MDEyOk9yZ2FuaXphdGlvbjE5MzYyNTEx
-      organizations_url: https://api.github.com/users/soburi-org/orgs
-      received_events_url: https://api.github.com/users/soburi-org/received_events
-      repos_url: https://api.github.com/users/soburi-org/repos
-      site_admin: false
-      starred_url: https://api.github.com/users/soburi-org/starred{/owner}{/repo}
-      subscriptions_url: https://api.github.com/users/soburi-org/subscriptions
-      type: Organization
-      url: https://api.github.com/users/soburi-org
-    owner:
-      avatar_url: https://avatars.githubusercontent.com/u/19362511?v=4
-      events_url: https://api.github.com/users/soburi-org/events{/privacy}
-      followers_url: https://api.github.com/users/soburi-org/followers
-      following_url: https://api.github.com/users/soburi-org/following{/other_user}
-      gists_url: https://api.github.com/users/soburi-org/gists{/gist_id}
-      gravatar_id: ''
-      html_url: https://github.com/soburi-org
-      id: 19362511
-      login: soburi-org
-      node_id: MDEyOk9yZ2FuaXphdGlvbjE5MzYyNTEx
-      organizations_url: https://api.github.com/users/soburi-org/orgs
-      received_events_url: https://api.github.com/users/soburi-org/received_events
-      repos_url: https://api.github.com/users/soburi-org/repos
-      site_admin: false
-      starred_url: https://api.github.com/users/soburi-org/starred{/owner}{/repo}
-      subscriptions_url: https://api.github.com/users/soburi-org/subscriptions
-      type: Organization
-      url: https://api.github.com/users/soburi-org
-    private: false
-    pulls_url: https://api.github.com/repos/soburi-org/kicad_share_repository.pretty/pulls{/number}
-    pushed_at: '2017-09-27T12:02:56Z'
-    releases_url: https://api.github.com/repos/soburi-org/kicad_share_repository.pretty/releases{/id}
-    size: 5
-    ssh_url: git@github.com:soburi-org/kicad_share_repository.pretty.git
-    stargazers_count: 0
-    stargazers_url: https://api.github.com/repos/soburi-org/kicad_share_repository.pretty/stargazers
-    statuses_url: https://api.github.com/repos/soburi-org/kicad_share_repository.pretty/statuses/{sha}
-    subscribers_count: 2
-    subscribers_url: https://api.github.com/repos/soburi-org/kicad_share_repository.pretty/subscribers
-    subscription_url: https://api.github.com/repos/soburi-org/kicad_share_repository.pretty/subscription
-    svn_url: https://github.com/soburi-org/kicad_share_repository.pretty
-    tags_url: https://api.github.com/repos/soburi-org/kicad_share_repository.pretty/tags
-    teams_url: https://api.github.com/repos/soburi-org/kicad_share_repository.pretty/teams
-    temp_clone_token: null
-    topics: []
-    trees_url: https://api.github.com/repos/soburi-org/kicad_share_repository.pretty/git/trees{/sha}
-    updated_at: '2017-09-27T12:12:54Z'
-    url: https://api.github.com/repos/soburi-org/kicad_share_repository.pretty
-    visibility: public
-    watchers: 0
-    watchers_count: 0
-    web_commit_signoff_required: false
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: http://github.com/soburi-org/kicad_share_repository.pretty

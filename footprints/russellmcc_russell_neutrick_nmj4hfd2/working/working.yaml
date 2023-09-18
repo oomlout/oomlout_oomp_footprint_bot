@@ -7,10 +7,8 @@
   footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/russellmcc_russell_neutrick_nmj4hfd2/working
   github_path: http://github.com/russellmcc/russell_kicad/blob/master/tmp/data//oomlout_oomp_footprint_src/russell.pretty/Neutrick_NMJ4HFD2.kicad_mod
   links:
-    github_owner: russellmcc
-    github_repo_name: russell_kicad
-    github_src: http://github.com/russellmcc/russell_kicad/blob/master/tmp/data//oomlout_oomp_footprint_src/russell.pretty/Neutrick_NMJ4HHD2.kicad_mod
-    github_src_repo: https://github.com/russellmcc/russell_kicad
+    github_src: http://gitlab.com/russellmcc/russell_kicad/blob/master/tmp/data//oomlout_oomp_footprint_src/russell.pretty/Neutrick_NMJ4HHD2.kicad_mod
+    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/russellmcc_russell_neutrick_nmj4hfd2/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/russellmcc_russell_neutrick_nmj4hfd2/working
     oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/russellmcc_russell_neutrick_nmj4hfd2/working
@@ -34,104 +32,8 @@
   oomp_key_simple: russellmcc_russell_neutrick_nmj4hfd2
   owner: russellmcc
   repo:
-    allow_forking: true
-    archive_url: https://api.github.com/repos/russellmcc/russell_kicad/{archive_format}{/ref}
-    archived: false
-    assignees_url: https://api.github.com/repos/russellmcc/russell_kicad/assignees{/user}
-    blobs_url: https://api.github.com/repos/russellmcc/russell_kicad/git/blobs{/sha}
-    branches_url: https://api.github.com/repos/russellmcc/russell_kicad/branches{/branch}
-    clone_url: https://github.com/russellmcc/russell_kicad.git
-    collaborators_url: https://api.github.com/repos/russellmcc/russell_kicad/collaborators{/collaborator}
-    comments_url: https://api.github.com/repos/russellmcc/russell_kicad/comments{/number}
-    commits_url: https://api.github.com/repos/russellmcc/russell_kicad/commits{/sha}
-    compare_url: https://api.github.com/repos/russellmcc/russell_kicad/compare/{base}...{head}
-    contents_url: https://api.github.com/repos/russellmcc/russell_kicad/contents/{+path}
-    contributors_url: https://api.github.com/repos/russellmcc/russell_kicad/contributors
-    created_at: '2017-06-08T03:09:07Z'
-    default_branch: master
-    deployments_url: https://api.github.com/repos/russellmcc/russell_kicad/deployments
-    description: null
-    disabled: false
-    downloads_url: https://api.github.com/repos/russellmcc/russell_kicad/downloads
-    events_url: https://api.github.com/repos/russellmcc/russell_kicad/events
-    fork: false
-    forks: 0
-    forks_count: 0
-    forks_url: https://api.github.com/repos/russellmcc/russell_kicad/forks
-    full_name: russellmcc/russell_kicad
-    git_commits_url: https://api.github.com/repos/russellmcc/russell_kicad/git/commits{/sha}
-    git_refs_url: https://api.github.com/repos/russellmcc/russell_kicad/git/refs{/sha}
-    git_tags_url: https://api.github.com/repos/russellmcc/russell_kicad/git/tags{/sha}
-    git_url: git://github.com/russellmcc/russell_kicad.git
-    has_discussions: false
-    has_downloads: true
-    has_issues: true
-    has_pages: false
-    has_projects: true
-    has_wiki: true
-    homepage: null
-    hooks_url: https://api.github.com/repos/russellmcc/russell_kicad/hooks
-    html_url: https://github.com/russellmcc/russell_kicad
-    id: 93702296
-    is_template: false
-    issue_comment_url: https://api.github.com/repos/russellmcc/russell_kicad/issues/comments{/number}
-    issue_events_url: https://api.github.com/repos/russellmcc/russell_kicad/issues/events{/number}
-    issues_url: https://api.github.com/repos/russellmcc/russell_kicad/issues{/number}
-    keys_url: https://api.github.com/repos/russellmcc/russell_kicad/keys{/key_id}
-    labels_url: https://api.github.com/repos/russellmcc/russell_kicad/labels{/name}
-    language: null
-    languages_url: https://api.github.com/repos/russellmcc/russell_kicad/languages
-    license: null
-    merges_url: https://api.github.com/repos/russellmcc/russell_kicad/merges
-    milestones_url: https://api.github.com/repos/russellmcc/russell_kicad/milestones{/number}
-    mirror_url: null
-    name: russell_kicad
-    network_count: 0
-    node_id: MDEwOlJlcG9zaXRvcnk5MzcwMjI5Ng==
-    notifications_url: https://api.github.com/repos/russellmcc/russell_kicad/notifications{?since,all,participating}
-    open_issues: 0
-    open_issues_count: 0
-    owner:
-      avatar_url: https://avatars.githubusercontent.com/u/603279?v=4
-      events_url: https://api.github.com/users/russellmcc/events{/privacy}
-      followers_url: https://api.github.com/users/russellmcc/followers
-      following_url: https://api.github.com/users/russellmcc/following{/other_user}
-      gists_url: https://api.github.com/users/russellmcc/gists{/gist_id}
-      gravatar_id: ''
-      html_url: https://github.com/russellmcc
-      id: 603279
-      login: russellmcc
-      node_id: MDQ6VXNlcjYwMzI3OQ==
-      organizations_url: https://api.github.com/users/russellmcc/orgs
-      received_events_url: https://api.github.com/users/russellmcc/received_events
-      repos_url: https://api.github.com/users/russellmcc/repos
-      site_admin: false
-      starred_url: https://api.github.com/users/russellmcc/starred{/owner}{/repo}
-      subscriptions_url: https://api.github.com/users/russellmcc/subscriptions
-      type: User
-      url: https://api.github.com/users/russellmcc
-    private: false
-    pulls_url: https://api.github.com/repos/russellmcc/russell_kicad/pulls{/number}
-    pushed_at: '2017-06-08T03:09:49Z'
-    releases_url: https://api.github.com/repos/russellmcc/russell_kicad/releases{/id}
-    size: 2
-    ssh_url: git@github.com:russellmcc/russell_kicad.git
-    stargazers_count: 2
-    stargazers_url: https://api.github.com/repos/russellmcc/russell_kicad/stargazers
-    statuses_url: https://api.github.com/repos/russellmcc/russell_kicad/statuses/{sha}
-    subscribers_count: 2
-    subscribers_url: https://api.github.com/repos/russellmcc/russell_kicad/subscribers
-    subscription_url: https://api.github.com/repos/russellmcc/russell_kicad/subscription
-    svn_url: https://github.com/russellmcc/russell_kicad
-    tags_url: https://api.github.com/repos/russellmcc/russell_kicad/tags
-    teams_url: https://api.github.com/repos/russellmcc/russell_kicad/teams
-    temp_clone_token: null
-    topics: []
-    trees_url: https://api.github.com/repos/russellmcc/russell_kicad/git/trees{/sha}
-    updated_at: '2021-01-20T15:00:08Z'
-    url: https://api.github.com/repos/russellmcc/russell_kicad
-    visibility: public
-    watchers: 2
-    watchers_count: 2
-    web_commit_signoff_required: false
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: http://github.com/russellmcc/russell_kicad

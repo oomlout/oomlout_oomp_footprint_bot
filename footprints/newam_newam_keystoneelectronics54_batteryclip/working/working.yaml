@@ -7,8 +7,10 @@
   footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/newam_newam_keystoneelectronics54_batteryclip/working
   github_path: http://github.com/newAM/newam.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/KeystoneElectronics54_BatteryClip.kicad_mod
   links:
-    github_src: http://gitlab.com/newAM/newam.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/via.kicad_mod
-    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
+    github_owner: newAM
+    github_repo_name: newam.pretty
+    github_src: http://github.com/newAM/newam.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/via.kicad_mod
+    github_src_repo: https://github.com/newAM/newam.pretty
     oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/newam_newam_keystoneelectronics54_batteryclip/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/newam_newam_keystoneelectronics54_batteryclip/working
     oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/newam_newam_keystoneelectronics54_batteryclip/working
@@ -32,8 +34,110 @@
   oomp_key_simple: newam_newam_keystoneelectronics54_batteryclip
   owner: newAM
   repo:
-    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
-    message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
-      Authenticated requests get a higher rate limit. Check out the documentation
-      for more details.)'
+    allow_forking: true
+    archive_url: https://api.github.com/repos/newAM/newam.pretty/{archive_format}{/ref}
+    archived: false
+    assignees_url: https://api.github.com/repos/newAM/newam.pretty/assignees{/user}
+    blobs_url: https://api.github.com/repos/newAM/newam.pretty/git/blobs{/sha}
+    branches_url: https://api.github.com/repos/newAM/newam.pretty/branches{/branch}
+    clone_url: https://github.com/newAM/newam.pretty.git
+    collaborators_url: https://api.github.com/repos/newAM/newam.pretty/collaborators{/collaborator}
+    comments_url: https://api.github.com/repos/newAM/newam.pretty/comments{/number}
+    commits_url: https://api.github.com/repos/newAM/newam.pretty/commits{/sha}
+    compare_url: https://api.github.com/repos/newAM/newam.pretty/compare/{base}...{head}
+    contents_url: https://api.github.com/repos/newAM/newam.pretty/contents/{+path}
+    contributors_url: https://api.github.com/repos/newAM/newam.pretty/contributors
+    created_at: '2021-12-26T16:59:45Z'
+    default_branch: main
+    deployments_url: https://api.github.com/repos/newAM/newam.pretty/deployments
+    description: My KiCad footprints
+    disabled: false
+    downloads_url: https://api.github.com/repos/newAM/newam.pretty/downloads
+    events_url: https://api.github.com/repos/newAM/newam.pretty/events
+    fork: false
+    forks: 0
+    forks_count: 0
+    forks_url: https://api.github.com/repos/newAM/newam.pretty/forks
+    full_name: newAM/newam.pretty
+    git_commits_url: https://api.github.com/repos/newAM/newam.pretty/git/commits{/sha}
+    git_refs_url: https://api.github.com/repos/newAM/newam.pretty/git/refs{/sha}
+    git_tags_url: https://api.github.com/repos/newAM/newam.pretty/git/tags{/sha}
+    git_url: git://github.com/newAM/newam.pretty.git
+    has_discussions: false
+    has_downloads: true
+    has_issues: true
+    has_pages: false
+    has_projects: true
+    has_wiki: true
+    homepage: ''
+    hooks_url: https://api.github.com/repos/newAM/newam.pretty/hooks
+    html_url: https://github.com/newAM/newam.pretty
+    id: 441941612
+    is_template: false
+    issue_comment_url: https://api.github.com/repos/newAM/newam.pretty/issues/comments{/number}
+    issue_events_url: https://api.github.com/repos/newAM/newam.pretty/issues/events{/number}
+    issues_url: https://api.github.com/repos/newAM/newam.pretty/issues{/number}
+    keys_url: https://api.github.com/repos/newAM/newam.pretty/keys{/key_id}
+    labels_url: https://api.github.com/repos/newAM/newam.pretty/labels{/name}
+    language: OpenSCAD
+    languages_url: https://api.github.com/repos/newAM/newam.pretty/languages
+    license:
+      key: other
+      name: Other
+      node_id: MDc6TGljZW5zZTA=
+      spdx_id: NOASSERTION
+      url: null
+    merges_url: https://api.github.com/repos/newAM/newam.pretty/merges
+    milestones_url: https://api.github.com/repos/newAM/newam.pretty/milestones{/number}
+    mirror_url: null
+    name: newam.pretty
+    network_count: 0
+    node_id: R_kgDOGld-bA
+    notifications_url: https://api.github.com/repos/newAM/newam.pretty/notifications{?since,all,participating}
+    open_issues: 0
+    open_issues_count: 0
+    owner:
+      avatar_url: https://avatars.githubusercontent.com/u/7845120?v=4
+      events_url: https://api.github.com/users/newAM/events{/privacy}
+      followers_url: https://api.github.com/users/newAM/followers
+      following_url: https://api.github.com/users/newAM/following{/other_user}
+      gists_url: https://api.github.com/users/newAM/gists{/gist_id}
+      gravatar_id: ''
+      html_url: https://github.com/newAM
+      id: 7845120
+      login: newAM
+      node_id: MDQ6VXNlcjc4NDUxMjA=
+      organizations_url: https://api.github.com/users/newAM/orgs
+      received_events_url: https://api.github.com/users/newAM/received_events
+      repos_url: https://api.github.com/users/newAM/repos
+      site_admin: false
+      starred_url: https://api.github.com/users/newAM/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/newAM/subscriptions
+      type: User
+      url: https://api.github.com/users/newAM
+    private: false
+    pulls_url: https://api.github.com/repos/newAM/newam.pretty/pulls{/number}
+    pushed_at: '2022-07-01T18:18:48Z'
+    releases_url: https://api.github.com/repos/newAM/newam.pretty/releases{/id}
+    size: 7100
+    ssh_url: git@github.com:newAM/newam.pretty.git
+    stargazers_count: 0
+    stargazers_url: https://api.github.com/repos/newAM/newam.pretty/stargazers
+    statuses_url: https://api.github.com/repos/newAM/newam.pretty/statuses/{sha}
+    subscribers_count: 2
+    subscribers_url: https://api.github.com/repos/newAM/newam.pretty/subscribers
+    subscription_url: https://api.github.com/repos/newAM/newam.pretty/subscription
+    svn_url: https://github.com/newAM/newam.pretty
+    tags_url: https://api.github.com/repos/newAM/newam.pretty/tags
+    teams_url: https://api.github.com/repos/newAM/newam.pretty/teams
+    temp_clone_token: null
+    topics:
+    - kicad-footprints
+    trees_url: https://api.github.com/repos/newAM/newam.pretty/git/trees{/sha}
+    updated_at: '2022-06-25T18:16:36Z'
+    url: https://api.github.com/repos/newAM/newam.pretty
+    visibility: public
+    watchers: 0
+    watchers_count: 0
+    web_commit_signoff_required: false
   url: http://github.com/newAM/newam.pretty

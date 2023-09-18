@@ -7,10 +7,8 @@
   footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/ruriwo_kicad_cherrymx_cherrymx_pcbmount_led/working
   github_path: http://github.com/ruriwo/KiCad_CherryMx.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/CherryMX_PCBmount_LED.kicad_mod
   links:
-    github_owner: ruriwo
-    github_repo_name: KiCad_CherryMx.pretty
-    github_src: http://github.com/ruriwo/KiCad_CherryMx.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/CherryMX_PlateMount_LED.kicad_mod
-    github_src_repo: https://github.com/ruriwo/KiCad_CherryMx.pretty
+    github_src: http://gitlab.com/ruriwo/KiCad_CherryMx.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/CherryMX_PlateMount_LED.kicad_mod
+    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/ruriwo_kicad_cherrymx_cherrymx_pcbmount_led/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/ruriwo_kicad_cherrymx_cherrymx_pcbmount_led/working
     oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/ruriwo_kicad_cherrymx_cherrymx_pcbmount_led/working
@@ -34,104 +32,8 @@
   oomp_key_simple: ruriwo_kicad_cherrymx_cherrymx_pcbmount_led
   owner: ruriwo
   repo:
-    allow_forking: true
-    archive_url: https://api.github.com/repos/ruriwo/KiCad_CherryMx.pretty/{archive_format}{/ref}
-    archived: false
-    assignees_url: https://api.github.com/repos/ruriwo/KiCad_CherryMx.pretty/assignees{/user}
-    blobs_url: https://api.github.com/repos/ruriwo/KiCad_CherryMx.pretty/git/blobs{/sha}
-    branches_url: https://api.github.com/repos/ruriwo/KiCad_CherryMx.pretty/branches{/branch}
-    clone_url: https://github.com/ruriwo/KiCad_CherryMx.pretty.git
-    collaborators_url: https://api.github.com/repos/ruriwo/KiCad_CherryMx.pretty/collaborators{/collaborator}
-    comments_url: https://api.github.com/repos/ruriwo/KiCad_CherryMx.pretty/comments{/number}
-    commits_url: https://api.github.com/repos/ruriwo/KiCad_CherryMx.pretty/commits{/sha}
-    compare_url: https://api.github.com/repos/ruriwo/KiCad_CherryMx.pretty/compare/{base}...{head}
-    contents_url: https://api.github.com/repos/ruriwo/KiCad_CherryMx.pretty/contents/{+path}
-    contributors_url: https://api.github.com/repos/ruriwo/KiCad_CherryMx.pretty/contributors
-    created_at: '2016-01-25T15:11:58Z'
-    default_branch: master
-    deployments_url: https://api.github.com/repos/ruriwo/KiCad_CherryMx.pretty/deployments
-    description: CherryMx footprints
-    disabled: false
-    downloads_url: https://api.github.com/repos/ruriwo/KiCad_CherryMx.pretty/downloads
-    events_url: https://api.github.com/repos/ruriwo/KiCad_CherryMx.pretty/events
-    fork: false
-    forks: 0
-    forks_count: 0
-    forks_url: https://api.github.com/repos/ruriwo/KiCad_CherryMx.pretty/forks
-    full_name: ruriwo/KiCad_CherryMx.pretty
-    git_commits_url: https://api.github.com/repos/ruriwo/KiCad_CherryMx.pretty/git/commits{/sha}
-    git_refs_url: https://api.github.com/repos/ruriwo/KiCad_CherryMx.pretty/git/refs{/sha}
-    git_tags_url: https://api.github.com/repos/ruriwo/KiCad_CherryMx.pretty/git/tags{/sha}
-    git_url: git://github.com/ruriwo/KiCad_CherryMx.pretty.git
-    has_discussions: false
-    has_downloads: true
-    has_issues: false
-    has_pages: false
-    has_projects: true
-    has_wiki: false
-    homepage: null
-    hooks_url: https://api.github.com/repos/ruriwo/KiCad_CherryMx.pretty/hooks
-    html_url: https://github.com/ruriwo/KiCad_CherryMx.pretty
-    id: 50358780
-    is_template: false
-    issue_comment_url: https://api.github.com/repos/ruriwo/KiCad_CherryMx.pretty/issues/comments{/number}
-    issue_events_url: https://api.github.com/repos/ruriwo/KiCad_CherryMx.pretty/issues/events{/number}
-    issues_url: https://api.github.com/repos/ruriwo/KiCad_CherryMx.pretty/issues{/number}
-    keys_url: https://api.github.com/repos/ruriwo/KiCad_CherryMx.pretty/keys{/key_id}
-    labels_url: https://api.github.com/repos/ruriwo/KiCad_CherryMx.pretty/labels{/name}
-    language: null
-    languages_url: https://api.github.com/repos/ruriwo/KiCad_CherryMx.pretty/languages
-    license: null
-    merges_url: https://api.github.com/repos/ruriwo/KiCad_CherryMx.pretty/merges
-    milestones_url: https://api.github.com/repos/ruriwo/KiCad_CherryMx.pretty/milestones{/number}
-    mirror_url: null
-    name: KiCad_CherryMx.pretty
-    network_count: 0
-    node_id: MDEwOlJlcG9zaXRvcnk1MDM1ODc4MA==
-    notifications_url: https://api.github.com/repos/ruriwo/KiCad_CherryMx.pretty/notifications{?since,all,participating}
-    open_issues: 0
-    open_issues_count: 0
-    owner:
-      avatar_url: https://avatars.githubusercontent.com/u/14037454?v=4
-      events_url: https://api.github.com/users/ruriwo/events{/privacy}
-      followers_url: https://api.github.com/users/ruriwo/followers
-      following_url: https://api.github.com/users/ruriwo/following{/other_user}
-      gists_url: https://api.github.com/users/ruriwo/gists{/gist_id}
-      gravatar_id: ''
-      html_url: https://github.com/ruriwo
-      id: 14037454
-      login: ruriwo
-      node_id: MDQ6VXNlcjE0MDM3NDU0
-      organizations_url: https://api.github.com/users/ruriwo/orgs
-      received_events_url: https://api.github.com/users/ruriwo/received_events
-      repos_url: https://api.github.com/users/ruriwo/repos
-      site_admin: false
-      starred_url: https://api.github.com/users/ruriwo/starred{/owner}{/repo}
-      subscriptions_url: https://api.github.com/users/ruriwo/subscriptions
-      type: User
-      url: https://api.github.com/users/ruriwo
-    private: false
-    pulls_url: https://api.github.com/repos/ruriwo/KiCad_CherryMx.pretty/pulls{/number}
-    pushed_at: '2016-09-03T14:47:47Z'
-    releases_url: https://api.github.com/repos/ruriwo/KiCad_CherryMx.pretty/releases{/id}
-    size: 9
-    ssh_url: git@github.com:ruriwo/KiCad_CherryMx.pretty.git
-    stargazers_count: 0
-    stargazers_url: https://api.github.com/repos/ruriwo/KiCad_CherryMx.pretty/stargazers
-    statuses_url: https://api.github.com/repos/ruriwo/KiCad_CherryMx.pretty/statuses/{sha}
-    subscribers_count: 1
-    subscribers_url: https://api.github.com/repos/ruriwo/KiCad_CherryMx.pretty/subscribers
-    subscription_url: https://api.github.com/repos/ruriwo/KiCad_CherryMx.pretty/subscription
-    svn_url: https://github.com/ruriwo/KiCad_CherryMx.pretty
-    tags_url: https://api.github.com/repos/ruriwo/KiCad_CherryMx.pretty/tags
-    teams_url: https://api.github.com/repos/ruriwo/KiCad_CherryMx.pretty/teams
-    temp_clone_token: null
-    topics: []
-    trees_url: https://api.github.com/repos/ruriwo/KiCad_CherryMx.pretty/git/trees{/sha}
-    updated_at: '2016-01-25T15:12:23Z'
-    url: https://api.github.com/repos/ruriwo/KiCad_CherryMx.pretty
-    visibility: public
-    watchers: 0
-    watchers_count: 0
-    web_commit_signoff_required: false
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: http://github.com/ruriwo/KiCad_CherryMx.pretty

@@ -7,8 +7,10 @@
   footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/nebs_eurocad_tl1105spf250q/working
   github_path: http://github.com/nebs/eurocad/blob/master/tmp/data//oomlout_oomp_footprint_src/Eurocad.pretty/TL1105SPF250Q.kicad_mod
   links:
-    github_src: http://gitlab.com/nebs/eurocad/blob/master/tmp/data//oomlout_oomp_footprint_src/Eurocad.pretty/TL1105SPF250Q.kicad_mod
-    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
+    github_owner: nebs
+    github_repo_name: eurocad
+    github_src: http://github.com/nebs/eurocad/blob/master/tmp/data//oomlout_oomp_footprint_src/Eurocad.pretty/TL1105SPF250Q.kicad_mod
+    github_src_repo: https://github.com/nebs/eurocad
     oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/nebs_eurocad_tl1105spf250q/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/nebs_eurocad_tl1105spf250q/working
     oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/nebs_eurocad_tl1105spf250q/working
@@ -32,8 +34,104 @@
   oomp_key_simple: nebs_eurocad_tl1105spf250q
   owner: nebs
   repo:
-    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
-    message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
-      Authenticated requests get a higher rate limit. Check out the documentation
-      for more details.)'
+    allow_forking: true
+    archive_url: https://api.github.com/repos/nebs/eurocad/{archive_format}{/ref}
+    archived: false
+    assignees_url: https://api.github.com/repos/nebs/eurocad/assignees{/user}
+    blobs_url: https://api.github.com/repos/nebs/eurocad/git/blobs{/sha}
+    branches_url: https://api.github.com/repos/nebs/eurocad/branches{/branch}
+    clone_url: https://github.com/nebs/eurocad.git
+    collaborators_url: https://api.github.com/repos/nebs/eurocad/collaborators{/collaborator}
+    comments_url: https://api.github.com/repos/nebs/eurocad/comments{/number}
+    commits_url: https://api.github.com/repos/nebs/eurocad/commits{/sha}
+    compare_url: https://api.github.com/repos/nebs/eurocad/compare/{base}...{head}
+    contents_url: https://api.github.com/repos/nebs/eurocad/contents/{+path}
+    contributors_url: https://api.github.com/repos/nebs/eurocad/contributors
+    created_at: '2016-07-04T14:59:07Z'
+    default_branch: master
+    deployments_url: https://api.github.com/repos/nebs/eurocad/deployments
+    description: A set of KiCad components and footprints I use in Eurorack modules.
+    disabled: false
+    downloads_url: https://api.github.com/repos/nebs/eurocad/downloads
+    events_url: https://api.github.com/repos/nebs/eurocad/events
+    fork: false
+    forks: 15
+    forks_count: 15
+    forks_url: https://api.github.com/repos/nebs/eurocad/forks
+    full_name: nebs/eurocad
+    git_commits_url: https://api.github.com/repos/nebs/eurocad/git/commits{/sha}
+    git_refs_url: https://api.github.com/repos/nebs/eurocad/git/refs{/sha}
+    git_tags_url: https://api.github.com/repos/nebs/eurocad/git/tags{/sha}
+    git_url: git://github.com/nebs/eurocad.git
+    has_discussions: false
+    has_downloads: true
+    has_issues: true
+    has_pages: false
+    has_projects: true
+    has_wiki: true
+    homepage: null
+    hooks_url: https://api.github.com/repos/nebs/eurocad/hooks
+    html_url: https://github.com/nebs/eurocad
+    id: 62570140
+    is_template: false
+    issue_comment_url: https://api.github.com/repos/nebs/eurocad/issues/comments{/number}
+    issue_events_url: https://api.github.com/repos/nebs/eurocad/issues/events{/number}
+    issues_url: https://api.github.com/repos/nebs/eurocad/issues{/number}
+    keys_url: https://api.github.com/repos/nebs/eurocad/keys{/key_id}
+    labels_url: https://api.github.com/repos/nebs/eurocad/labels{/name}
+    language: null
+    languages_url: https://api.github.com/repos/nebs/eurocad/languages
+    license: null
+    merges_url: https://api.github.com/repos/nebs/eurocad/merges
+    milestones_url: https://api.github.com/repos/nebs/eurocad/milestones{/number}
+    mirror_url: null
+    name: eurocad
+    network_count: 15
+    node_id: MDEwOlJlcG9zaXRvcnk2MjU3MDE0MA==
+    notifications_url: https://api.github.com/repos/nebs/eurocad/notifications{?since,all,participating}
+    open_issues: 2
+    open_issues_count: 2
+    owner:
+      avatar_url: https://avatars.githubusercontent.com/u/2637098?v=4
+      events_url: https://api.github.com/users/nebs/events{/privacy}
+      followers_url: https://api.github.com/users/nebs/followers
+      following_url: https://api.github.com/users/nebs/following{/other_user}
+      gists_url: https://api.github.com/users/nebs/gists{/gist_id}
+      gravatar_id: ''
+      html_url: https://github.com/nebs
+      id: 2637098
+      login: nebs
+      node_id: MDQ6VXNlcjI2MzcwOTg=
+      organizations_url: https://api.github.com/users/nebs/orgs
+      received_events_url: https://api.github.com/users/nebs/received_events
+      repos_url: https://api.github.com/users/nebs/repos
+      site_admin: false
+      starred_url: https://api.github.com/users/nebs/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/nebs/subscriptions
+      type: User
+      url: https://api.github.com/users/nebs
+    private: false
+    pulls_url: https://api.github.com/repos/nebs/eurocad/pulls{/number}
+    pushed_at: '2020-09-21T08:05:11Z'
+    releases_url: https://api.github.com/repos/nebs/eurocad/releases{/id}
+    size: 18
+    ssh_url: git@github.com:nebs/eurocad.git
+    stargazers_count: 101
+    stargazers_url: https://api.github.com/repos/nebs/eurocad/stargazers
+    statuses_url: https://api.github.com/repos/nebs/eurocad/statuses/{sha}
+    subscribers_count: 10
+    subscribers_url: https://api.github.com/repos/nebs/eurocad/subscribers
+    subscription_url: https://api.github.com/repos/nebs/eurocad/subscription
+    svn_url: https://github.com/nebs/eurocad
+    tags_url: https://api.github.com/repos/nebs/eurocad/tags
+    teams_url: https://api.github.com/repos/nebs/eurocad/teams
+    temp_clone_token: null
+    topics: []
+    trees_url: https://api.github.com/repos/nebs/eurocad/git/trees{/sha}
+    updated_at: '2023-09-07T05:53:04Z'
+    url: https://api.github.com/repos/nebs/eurocad
+    visibility: public
+    watchers: 101
+    watchers_count: 101
+    web_commit_signoff_required: false
   url: http://github.com/nebs/eurocad

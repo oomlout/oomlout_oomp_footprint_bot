@@ -8,11 +8,9 @@
   github_path: http://github.com/re-innovation/kicad_reinnovation/blob/master/tmp/data//oomlout_oomp_footprint_src/KiCAD
     PRETTY/TO_SOT_Packages_SMD.pretty/SC-70.kicad_mod
   links:
-    github_owner: re-innovation
-    github_repo_name: kicad_reinnovation
-    github_src: http://github.com/re-innovation/kicad_reinnovation/blob/master/tmp/data//oomlout_oomp_footprint_src/KiCAD
+    github_src: http://gitlab.com/re-innovation/kicad_reinnovation/blob/master/tmp/data//oomlout_oomp_footprint_src/KiCAD
       PRETTY/Transistors_SMD.pretty/VLM0806_Housing_Handsoldering.kicad_mod
-    github_src_repo: https://github.com/re-innovation/kicad_reinnovation
+    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/re_innovation_to_sot_packages_smd_sc_70/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/re_innovation_to_sot_packages_smd_sc_70/working
     oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/re_innovation_to_sot_packages_smd_sc_70/working
@@ -36,104 +34,8 @@
   oomp_key_simple: re_innovation_to_sot_packages_smd_sc_70
   owner: re-innovation
   repo:
-    allow_forking: true
-    archive_url: https://api.github.com/repos/re-innovation/kicad_reinnovation/{archive_format}{/ref}
-    archived: false
-    assignees_url: https://api.github.com/repos/re-innovation/kicad_reinnovation/assignees{/user}
-    blobs_url: https://api.github.com/repos/re-innovation/kicad_reinnovation/git/blobs{/sha}
-    branches_url: https://api.github.com/repos/re-innovation/kicad_reinnovation/branches{/branch}
-    clone_url: https://github.com/re-innovation/kicad_reinnovation.git
-    collaborators_url: https://api.github.com/repos/re-innovation/kicad_reinnovation/collaborators{/collaborator}
-    comments_url: https://api.github.com/repos/re-innovation/kicad_reinnovation/comments{/number}
-    commits_url: https://api.github.com/repos/re-innovation/kicad_reinnovation/commits{/sha}
-    compare_url: https://api.github.com/repos/re-innovation/kicad_reinnovation/compare/{base}...{head}
-    contents_url: https://api.github.com/repos/re-innovation/kicad_reinnovation/contents/{+path}
-    contributors_url: https://api.github.com/repos/re-innovation/kicad_reinnovation/contributors
-    created_at: '2017-04-12T08:14:54Z'
-    default_branch: master
-    deployments_url: https://api.github.com/repos/re-innovation/kicad_reinnovation/deployments
-    description: Kicad Lib and pretty files for RE-Innovation
-    disabled: false
-    downloads_url: https://api.github.com/repos/re-innovation/kicad_reinnovation/downloads
-    events_url: https://api.github.com/repos/re-innovation/kicad_reinnovation/events
-    fork: false
-    forks: 0
-    forks_count: 0
-    forks_url: https://api.github.com/repos/re-innovation/kicad_reinnovation/forks
-    full_name: re-innovation/kicad_reinnovation
-    git_commits_url: https://api.github.com/repos/re-innovation/kicad_reinnovation/git/commits{/sha}
-    git_refs_url: https://api.github.com/repos/re-innovation/kicad_reinnovation/git/refs{/sha}
-    git_tags_url: https://api.github.com/repos/re-innovation/kicad_reinnovation/git/tags{/sha}
-    git_url: git://github.com/re-innovation/kicad_reinnovation.git
-    has_discussions: false
-    has_downloads: true
-    has_issues: true
-    has_pages: false
-    has_projects: true
-    has_wiki: true
-    homepage: null
-    hooks_url: https://api.github.com/repos/re-innovation/kicad_reinnovation/hooks
-    html_url: https://github.com/re-innovation/kicad_reinnovation
-    id: 88026991
-    is_template: false
-    issue_comment_url: https://api.github.com/repos/re-innovation/kicad_reinnovation/issues/comments{/number}
-    issue_events_url: https://api.github.com/repos/re-innovation/kicad_reinnovation/issues/events{/number}
-    issues_url: https://api.github.com/repos/re-innovation/kicad_reinnovation/issues{/number}
-    keys_url: https://api.github.com/repos/re-innovation/kicad_reinnovation/keys{/key_id}
-    labels_url: https://api.github.com/repos/re-innovation/kicad_reinnovation/labels{/name}
-    language: null
-    languages_url: https://api.github.com/repos/re-innovation/kicad_reinnovation/languages
-    license: null
-    merges_url: https://api.github.com/repos/re-innovation/kicad_reinnovation/merges
-    milestones_url: https://api.github.com/repos/re-innovation/kicad_reinnovation/milestones{/number}
-    mirror_url: null
-    name: kicad_reinnovation
-    network_count: 0
-    node_id: MDEwOlJlcG9zaXRvcnk4ODAyNjk5MQ==
-    notifications_url: https://api.github.com/repos/re-innovation/kicad_reinnovation/notifications{?since,all,participating}
-    open_issues: 0
-    open_issues_count: 0
-    owner:
-      avatar_url: https://avatars.githubusercontent.com/u/910639?v=4
-      events_url: https://api.github.com/users/re-innovation/events{/privacy}
-      followers_url: https://api.github.com/users/re-innovation/followers
-      following_url: https://api.github.com/users/re-innovation/following{/other_user}
-      gists_url: https://api.github.com/users/re-innovation/gists{/gist_id}
-      gravatar_id: ''
-      html_url: https://github.com/re-innovation
-      id: 910639
-      login: re-innovation
-      node_id: MDQ6VXNlcjkxMDYzOQ==
-      organizations_url: https://api.github.com/users/re-innovation/orgs
-      received_events_url: https://api.github.com/users/re-innovation/received_events
-      repos_url: https://api.github.com/users/re-innovation/repos
-      site_admin: false
-      starred_url: https://api.github.com/users/re-innovation/starred{/owner}{/repo}
-      subscriptions_url: https://api.github.com/users/re-innovation/subscriptions
-      type: User
-      url: https://api.github.com/users/re-innovation
-    private: false
-    pulls_url: https://api.github.com/repos/re-innovation/kicad_reinnovation/pulls{/number}
-    pushed_at: '2017-04-12T08:56:52Z'
-    releases_url: https://api.github.com/repos/re-innovation/kicad_reinnovation/releases{/id}
-    size: 4785
-    ssh_url: git@github.com:re-innovation/kicad_reinnovation.git
-    stargazers_count: 0
-    stargazers_url: https://api.github.com/repos/re-innovation/kicad_reinnovation/stargazers
-    statuses_url: https://api.github.com/repos/re-innovation/kicad_reinnovation/statuses/{sha}
-    subscribers_count: 2
-    subscribers_url: https://api.github.com/repos/re-innovation/kicad_reinnovation/subscribers
-    subscription_url: https://api.github.com/repos/re-innovation/kicad_reinnovation/subscription
-    svn_url: https://github.com/re-innovation/kicad_reinnovation
-    tags_url: https://api.github.com/repos/re-innovation/kicad_reinnovation/tags
-    teams_url: https://api.github.com/repos/re-innovation/kicad_reinnovation/teams
-    temp_clone_token: null
-    topics: []
-    trees_url: https://api.github.com/repos/re-innovation/kicad_reinnovation/git/trees{/sha}
-    updated_at: '2017-04-12T08:14:54Z'
-    url: https://api.github.com/repos/re-innovation/kicad_reinnovation
-    visibility: public
-    watchers: 0
-    watchers_count: 0
-    web_commit_signoff_required: false
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: http://github.com/re-innovation/kicad_reinnovation

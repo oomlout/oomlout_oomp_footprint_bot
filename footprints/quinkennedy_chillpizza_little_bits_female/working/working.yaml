@@ -7,10 +7,8 @@
   footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/quinkennedy_chillpizza_little_bits_female/working
   github_path: http://github.com/quinkennedy/chillpizza.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/LITTLE_BITS_FEMALE.kicad_mod
   links:
-    github_owner: quinkennedy
-    github_repo_name: chillpizza.pretty
-    github_src: http://github.com/quinkennedy/chillpizza.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/THONKICONN_mill_kicad.kicad_mod
-    github_src_repo: https://github.com/quinkennedy/chillpizza.pretty
+    github_src: http://gitlab.com/quinkennedy/chillpizza.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/THONKICONN_mill_kicad.kicad_mod
+    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/quinkennedy_chillpizza_little_bits_female/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/quinkennedy_chillpizza_little_bits_female/working
     oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/quinkennedy_chillpizza_little_bits_female/working
@@ -34,104 +32,8 @@
   oomp_key_simple: quinkennedy_chillpizza_little_bits_female
   owner: quinkennedy
   repo:
-    allow_forking: true
-    archive_url: https://api.github.com/repos/quinkennedy/chillpizza.pretty/{archive_format}{/ref}
-    archived: false
-    assignees_url: https://api.github.com/repos/quinkennedy/chillpizza.pretty/assignees{/user}
-    blobs_url: https://api.github.com/repos/quinkennedy/chillpizza.pretty/git/blobs{/sha}
-    branches_url: https://api.github.com/repos/quinkennedy/chillpizza.pretty/branches{/branch}
-    clone_url: https://github.com/quinkennedy/chillpizza.pretty.git
-    collaborators_url: https://api.github.com/repos/quinkennedy/chillpizza.pretty/collaborators{/collaborator}
-    comments_url: https://api.github.com/repos/quinkennedy/chillpizza.pretty/comments{/number}
-    commits_url: https://api.github.com/repos/quinkennedy/chillpizza.pretty/commits{/sha}
-    compare_url: https://api.github.com/repos/quinkennedy/chillpizza.pretty/compare/{base}...{head}
-    contents_url: https://api.github.com/repos/quinkennedy/chillpizza.pretty/contents/{+path}
-    contributors_url: https://api.github.com/repos/quinkennedy/chillpizza.pretty/contributors
-    created_at: '2019-12-12T16:58:31Z'
-    default_branch: master
-    deployments_url: https://api.github.com/repos/quinkennedy/chillpizza.pretty/deployments
-    description: kicad footprint library
-    disabled: false
-    downloads_url: https://api.github.com/repos/quinkennedy/chillpizza.pretty/downloads
-    events_url: https://api.github.com/repos/quinkennedy/chillpizza.pretty/events
-    fork: false
-    forks: 0
-    forks_count: 0
-    forks_url: https://api.github.com/repos/quinkennedy/chillpizza.pretty/forks
-    full_name: quinkennedy/chillpizza.pretty
-    git_commits_url: https://api.github.com/repos/quinkennedy/chillpizza.pretty/git/commits{/sha}
-    git_refs_url: https://api.github.com/repos/quinkennedy/chillpizza.pretty/git/refs{/sha}
-    git_tags_url: https://api.github.com/repos/quinkennedy/chillpizza.pretty/git/tags{/sha}
-    git_url: git://github.com/quinkennedy/chillpizza.pretty.git
-    has_discussions: false
-    has_downloads: true
-    has_issues: true
-    has_pages: false
-    has_projects: true
-    has_wiki: true
-    homepage: null
-    hooks_url: https://api.github.com/repos/quinkennedy/chillpizza.pretty/hooks
-    html_url: https://github.com/quinkennedy/chillpizza.pretty
-    id: 227655420
-    is_template: false
-    issue_comment_url: https://api.github.com/repos/quinkennedy/chillpizza.pretty/issues/comments{/number}
-    issue_events_url: https://api.github.com/repos/quinkennedy/chillpizza.pretty/issues/events{/number}
-    issues_url: https://api.github.com/repos/quinkennedy/chillpizza.pretty/issues{/number}
-    keys_url: https://api.github.com/repos/quinkennedy/chillpizza.pretty/keys{/key_id}
-    labels_url: https://api.github.com/repos/quinkennedy/chillpizza.pretty/labels{/name}
-    language: null
-    languages_url: https://api.github.com/repos/quinkennedy/chillpizza.pretty/languages
-    license: null
-    merges_url: https://api.github.com/repos/quinkennedy/chillpizza.pretty/merges
-    milestones_url: https://api.github.com/repos/quinkennedy/chillpizza.pretty/milestones{/number}
-    mirror_url: null
-    name: chillpizza.pretty
-    network_count: 0
-    node_id: MDEwOlJlcG9zaXRvcnkyMjc2NTU0MjA=
-    notifications_url: https://api.github.com/repos/quinkennedy/chillpizza.pretty/notifications{?since,all,participating}
-    open_issues: 0
-    open_issues_count: 0
-    owner:
-      avatar_url: https://avatars.githubusercontent.com/u/1174430?v=4
-      events_url: https://api.github.com/users/quinkennedy/events{/privacy}
-      followers_url: https://api.github.com/users/quinkennedy/followers
-      following_url: https://api.github.com/users/quinkennedy/following{/other_user}
-      gists_url: https://api.github.com/users/quinkennedy/gists{/gist_id}
-      gravatar_id: ''
-      html_url: https://github.com/quinkennedy
-      id: 1174430
-      login: quinkennedy
-      node_id: MDQ6VXNlcjExNzQ0MzA=
-      organizations_url: https://api.github.com/users/quinkennedy/orgs
-      received_events_url: https://api.github.com/users/quinkennedy/received_events
-      repos_url: https://api.github.com/users/quinkennedy/repos
-      site_admin: false
-      starred_url: https://api.github.com/users/quinkennedy/starred{/owner}{/repo}
-      subscriptions_url: https://api.github.com/users/quinkennedy/subscriptions
-      type: User
-      url: https://api.github.com/users/quinkennedy
-    private: false
-    pulls_url: https://api.github.com/repos/quinkennedy/chillpizza.pretty/pulls{/number}
-    pushed_at: '2021-03-15T00:09:51Z'
-    releases_url: https://api.github.com/repos/quinkennedy/chillpizza.pretty/releases{/id}
-    size: 8
-    ssh_url: git@github.com:quinkennedy/chillpizza.pretty.git
-    stargazers_count: 0
-    stargazers_url: https://api.github.com/repos/quinkennedy/chillpizza.pretty/stargazers
-    statuses_url: https://api.github.com/repos/quinkennedy/chillpizza.pretty/statuses/{sha}
-    subscribers_count: 3
-    subscribers_url: https://api.github.com/repos/quinkennedy/chillpizza.pretty/subscribers
-    subscription_url: https://api.github.com/repos/quinkennedy/chillpizza.pretty/subscription
-    svn_url: https://github.com/quinkennedy/chillpizza.pretty
-    tags_url: https://api.github.com/repos/quinkennedy/chillpizza.pretty/tags
-    teams_url: https://api.github.com/repos/quinkennedy/chillpizza.pretty/teams
-    temp_clone_token: null
-    topics: []
-    trees_url: https://api.github.com/repos/quinkennedy/chillpizza.pretty/git/trees{/sha}
-    updated_at: '2021-03-15T00:09:52Z'
-    url: https://api.github.com/repos/quinkennedy/chillpizza.pretty
-    visibility: public
-    watchers: 0
-    watchers_count: 0
-    web_commit_signoff_required: false
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: http://github.com/quinkennedy/chillpizza.pretty

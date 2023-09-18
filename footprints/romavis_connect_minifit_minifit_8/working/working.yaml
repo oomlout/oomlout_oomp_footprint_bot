@@ -7,10 +7,8 @@
   footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/romavis_connect_minifit_minifit_8/working
   github_path: http://github.com/RomaVis/connect-minifit.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/minifit-8.kicad_mod
   links:
-    github_owner: romavis
-    github_repo_name: connect-minifit.pretty
-    github_src: http://github.com/RomaVis/connect-minifit.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/minifit-8.kicad_mod
-    github_src_repo: https://github.com/romavis/connect-minifit.pretty
+    github_src: http://gitlab.com/RomaVis/connect-minifit.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/minifit-8.kicad_mod
+    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/romavis_connect_minifit_minifit_8/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/romavis_connect_minifit_minifit_8/working
     oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/romavis_connect_minifit_minifit_8/working
@@ -34,104 +32,8 @@
   oomp_key_simple: romavis_connect_minifit_minifit_8
   owner: RomaVis
   repo:
-    allow_forking: true
-    archive_url: https://api.github.com/repos/romavis/connect-minifit.pretty/{archive_format}{/ref}
-    archived: false
-    assignees_url: https://api.github.com/repos/romavis/connect-minifit.pretty/assignees{/user}
-    blobs_url: https://api.github.com/repos/romavis/connect-minifit.pretty/git/blobs{/sha}
-    branches_url: https://api.github.com/repos/romavis/connect-minifit.pretty/branches{/branch}
-    clone_url: https://github.com/romavis/connect-minifit.pretty.git
-    collaborators_url: https://api.github.com/repos/romavis/connect-minifit.pretty/collaborators{/collaborator}
-    comments_url: https://api.github.com/repos/romavis/connect-minifit.pretty/comments{/number}
-    commits_url: https://api.github.com/repos/romavis/connect-minifit.pretty/commits{/sha}
-    compare_url: https://api.github.com/repos/romavis/connect-minifit.pretty/compare/{base}...{head}
-    contents_url: https://api.github.com/repos/romavis/connect-minifit.pretty/contents/{+path}
-    contributors_url: https://api.github.com/repos/romavis/connect-minifit.pretty/contributors
-    created_at: '2014-01-25T19:26:21Z'
-    default_branch: master
-    deployments_url: https://api.github.com/repos/romavis/connect-minifit.pretty/deployments
-    description: 'KiCad Pcbnew modules: Molex Mini-Fit-like connectors'
-    disabled: false
-    downloads_url: https://api.github.com/repos/romavis/connect-minifit.pretty/downloads
-    events_url: https://api.github.com/repos/romavis/connect-minifit.pretty/events
-    fork: false
-    forks: 0
-    forks_count: 0
-    forks_url: https://api.github.com/repos/romavis/connect-minifit.pretty/forks
-    full_name: romavis/connect-minifit.pretty
-    git_commits_url: https://api.github.com/repos/romavis/connect-minifit.pretty/git/commits{/sha}
-    git_refs_url: https://api.github.com/repos/romavis/connect-minifit.pretty/git/refs{/sha}
-    git_tags_url: https://api.github.com/repos/romavis/connect-minifit.pretty/git/tags{/sha}
-    git_url: git://github.com/romavis/connect-minifit.pretty.git
-    has_discussions: false
-    has_downloads: true
-    has_issues: true
-    has_pages: false
-    has_projects: true
-    has_wiki: true
-    homepage: null
-    hooks_url: https://api.github.com/repos/romavis/connect-minifit.pretty/hooks
-    html_url: https://github.com/romavis/connect-minifit.pretty
-    id: 16238090
-    is_template: false
-    issue_comment_url: https://api.github.com/repos/romavis/connect-minifit.pretty/issues/comments{/number}
-    issue_events_url: https://api.github.com/repos/romavis/connect-minifit.pretty/issues/events{/number}
-    issues_url: https://api.github.com/repos/romavis/connect-minifit.pretty/issues{/number}
-    keys_url: https://api.github.com/repos/romavis/connect-minifit.pretty/keys{/key_id}
-    labels_url: https://api.github.com/repos/romavis/connect-minifit.pretty/labels{/name}
-    language: null
-    languages_url: https://api.github.com/repos/romavis/connect-minifit.pretty/languages
-    license: null
-    merges_url: https://api.github.com/repos/romavis/connect-minifit.pretty/merges
-    milestones_url: https://api.github.com/repos/romavis/connect-minifit.pretty/milestones{/number}
-    mirror_url: null
-    name: connect-minifit.pretty
-    network_count: 0
-    node_id: MDEwOlJlcG9zaXRvcnkxNjIzODA5MA==
-    notifications_url: https://api.github.com/repos/romavis/connect-minifit.pretty/notifications{?since,all,participating}
-    open_issues: 0
-    open_issues_count: 0
-    owner:
-      avatar_url: https://avatars.githubusercontent.com/u/2202451?v=4
-      events_url: https://api.github.com/users/romavis/events{/privacy}
-      followers_url: https://api.github.com/users/romavis/followers
-      following_url: https://api.github.com/users/romavis/following{/other_user}
-      gists_url: https://api.github.com/users/romavis/gists{/gist_id}
-      gravatar_id: ''
-      html_url: https://github.com/romavis
-      id: 2202451
-      login: romavis
-      node_id: MDQ6VXNlcjIyMDI0NTE=
-      organizations_url: https://api.github.com/users/romavis/orgs
-      received_events_url: https://api.github.com/users/romavis/received_events
-      repos_url: https://api.github.com/users/romavis/repos
-      site_admin: false
-      starred_url: https://api.github.com/users/romavis/starred{/owner}{/repo}
-      subscriptions_url: https://api.github.com/users/romavis/subscriptions
-      type: User
-      url: https://api.github.com/users/romavis
-    private: false
-    pulls_url: https://api.github.com/repos/romavis/connect-minifit.pretty/pulls{/number}
-    pushed_at: '2014-03-15T18:57:31Z'
-    releases_url: https://api.github.com/repos/romavis/connect-minifit.pretty/releases{/id}
-    size: 152
-    ssh_url: git@github.com:romavis/connect-minifit.pretty.git
-    stargazers_count: 0
-    stargazers_url: https://api.github.com/repos/romavis/connect-minifit.pretty/stargazers
-    statuses_url: https://api.github.com/repos/romavis/connect-minifit.pretty/statuses/{sha}
-    subscribers_count: 2
-    subscribers_url: https://api.github.com/repos/romavis/connect-minifit.pretty/subscribers
-    subscription_url: https://api.github.com/repos/romavis/connect-minifit.pretty/subscription
-    svn_url: https://github.com/romavis/connect-minifit.pretty
-    tags_url: https://api.github.com/repos/romavis/connect-minifit.pretty/tags
-    teams_url: https://api.github.com/repos/romavis/connect-minifit.pretty/teams
-    temp_clone_token: null
-    topics: []
-    trees_url: https://api.github.com/repos/romavis/connect-minifit.pretty/git/trees{/sha}
-    updated_at: '2014-03-15T18:57:32Z'
-    url: https://api.github.com/repos/romavis/connect-minifit.pretty
-    visibility: public
-    watchers: 0
-    watchers_count: 0
-    web_commit_signoff_required: false
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: http://github.com/RomaVis/connect-minifit.pretty
