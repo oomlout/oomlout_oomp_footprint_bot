@@ -3,6 +3,9 @@ import os
 import oom_kicad
 
 
+def main():
+    go_through_directories()
+
 def go_through_directories():
     count = 1
     count2 = 1

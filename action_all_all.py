@@ -19,21 +19,21 @@ def main(**kwargs):
     directory = dir_src
 
     #make the repo.yaml file not really needed very often
-    oom_f_s.make_footprint_yaml(directory=directory, test=test)
+    #oom_f_s.make_footprint_yaml(directory=directory, test=test)
 
-    oom_f_s.clone_and_copy_footprints(directory=directory, test=test)
+    #oom_f_s.clone_and_copy_footprints(directory=directory, test=test)
    
-    #oom_f_s.make_footprints_readme()
+    ##oom_f_s.make_footprints_readme()
 
     #push footprint_src    
-    oom_git.push_to_git(directory=directory)
+    #oom_git.push_to_git(directory=directory)
 
     # bot stuff
-    action_setup.main()
+    #action_setup.main()
 
-    action_generate_all_footprint_repo.main()
+    #action_generate_all_footprint_repo.main()
 
-    #action_generate_footprint_outputs.main()
+    ##action_generate_footprint_outputs.main()
 
     action_generate_readmes.main()
 

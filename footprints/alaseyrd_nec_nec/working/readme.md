@@ -1,0 +1,28 @@
+# OOMP Footprint  
+## NEC  by Alasofia  
+  
+oomp key: oomp_alaseyrd_nec_nec  
+  
+source repo at: [http://github.com/AlasEyrd/nec.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/nec.kicad_mod](http://github.com/AlasEyrd/nec.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/nec.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | NEC | 
+| footprint description | None | 
+| number of pads | 2 | 
+| github path | http://github.com/AlasEyrd/nec.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/nec.kicad_mod | 
+| oomp key | oomp_alaseyrd_nec_nec | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/alaseyrd_nec_nec/working | 
+## Images  
+  
+[![working.png](working_140.png)](working.png)  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_140.png)](working_kicad_pcb_3d.png)  
+  
+[![working_kicad_pcb_3d_back.png](working_kicad_pcb_3d_back_140.png)](working_kicad_pcb_3d_back.png)  
+  
+[![working_kicad_pcb_3d_front.png](working_kicad_pcb_3d_front_140.png)](working_kicad_pcb_3d_front.png)  
