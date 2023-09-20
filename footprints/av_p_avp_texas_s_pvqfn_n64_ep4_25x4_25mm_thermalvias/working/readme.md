@@ -1,0 +1,20 @@
+# OOMP Footprint  
+## Texas_S-PVQFN-N64_EP4.25x4.25mm_ThermalVias  by none  
+  
+oomp key: oomp_av_p_avp_texas_s_pvqfn_n64_ep4_25x4_25mm_thermalvias  
+  
+source repo at: [http://gitlab.com/av-p/Avp.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XTAL-3215.kicad_mod](http://gitlab.com/av-p/Avp.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XTAL-3215.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | Texas_S-PVQFN-N64_EP4.25x4.25mm_ThermalVias | 
+| footprint description | QFN, 64 Pin (http://www.ti.com/lit/ds/symlink/msp430f5217.pdf), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py | 
+| number of pads | 127 | 
+| github path | http://github.com/av-p/Avp.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Texas_S-PVQFN-N64_EP4.25x4.25mm_ThermalVias.kicad_mod | 
+| oomp key | oomp_av_p_avp_texas_s_pvqfn_n64_ep4_25x4_25mm_thermalvias | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/av_p_avp_texas_s_pvqfn_n64_ep4_25x4_25mm_thermalvias/working | 
+## Images  

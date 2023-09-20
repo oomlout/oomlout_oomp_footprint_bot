@@ -117,6 +117,11 @@ def get_readme(**kwargs):
         #if yaml dict is a list then take the first element
         if isinstance(yaml_dict, list):
             yaml_dict = yaml_dict[0]
+        
+        if yaml_dict == None:
+            print("yaml file error")
+            readme += "yaml file error"
+            return readme
 
         ## from repo
         repo = yaml_dict.get("repo", "none")
