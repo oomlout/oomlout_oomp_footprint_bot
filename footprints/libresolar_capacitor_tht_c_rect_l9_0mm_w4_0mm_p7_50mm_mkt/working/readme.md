@@ -1,0 +1,20 @@
+# OOMP Footprint  
+## C_Rect_L9.0mm_W4.0mm_P7.50mm_MKT  by LibreSolar  
+  
+oomp key: oomp_libresolar_capacitor_tht_c_rect_l9_0mm_w4_0mm_p7_50mm_mkt  
+  
+source repo at: [http://github.com/LibreSolar/KiCad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod](http://github.com/LibreSolar/KiCad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | C_Rect_L9.0mm_W4.0mm_P7.50mm_MKT | 
+| footprint description | C, Rect series, Radial, pin pitch=7.50mm, , length*width=9*4.0mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf | 
+| number of pads | 2 | 
+| github path | http://github.com/LibreSolar/KiCad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/Capacitor_THT.pretty/C_Rect_L9.0mm_W4.0mm_P7.50mm_MKT.kicad_mod | 
+| oomp key | oomp_libresolar_capacitor_tht_c_rect_l9_0mm_w4_0mm_p7_50mm_mkt | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/libresolar_capacitor_tht_c_rect_l9_0mm_w4_0mm_p7_50mm_mkt/working | 
+## Images  
