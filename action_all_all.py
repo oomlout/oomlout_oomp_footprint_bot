@@ -10,7 +10,7 @@ import oom_git
 
 def main(**kwargs):
     import time
-    #time_start 
+    time_start = time.time()
     test=False
     dir_src = "tmp/data/"
     src_github = "https://github.com/oomlout/oomlout_oomp_footprint_src"
@@ -20,42 +20,34 @@ def main(**kwargs):
     directory = dir_src
 
     #make the repo.yaml file not really needed very often
-    #oom_f_s.make_footprint_yaml(directory=directory, test=test)
+    oom_f_s.make_footprint_yaml(directory=directory, test=test)
 
-    #oom_f_s.clone_and_copy_footprints(directory=directory, test=test)
+    oom_f_s.clone_and_copy_footprints(directory=directory, test=test)
    
-    ##oom_f_s.make_footprints_readme()
+    oom_f_s.make_footprints_readme()
 
     #push footprint_src    
-    #oom_git.push_to_git(directory=directory)
+    oom_git.push_to_git(directory=directory)
 
     # bot stuff
-    #action_setup.main()
+    action_setup.main()
 
-    #action_generate_all_footprint_repo.main()
+    action_generate_all_footprint_repo.main()
 
     ##action_generate_footprint_outputs.main()
 
-    #action_generate_readmes.main()
+    action_generate_readmes.main()
 
-    #action_generate_image_resolutions.main()
+    action_generate_image_resolutions.main()
 
 
     action_create_doc.main()
 
     oom_git.push_to_git(comment="comitting after all generations")
 
-
-
-    #oomlout_oomp_symbol_src.clone_and_copy_symbols(test=test, dir_base="tmp/data/oomlout_oomp_symbol_src")
-    #oomlout_oomp_symbol_src.make_symbols_readme()
-    #dir_all_symbols = "tmp/data/oomlout_oomp_symbol_all_the_kicad_symbols"
-    #oom_git.push_to_git(directory=dir_all_symbols)
-    #action_setup.main()
-    #action_generate_symbol_outputs.main()
-    #action_generate_readmes.main()
-    #action_generate_image_resolutions.main()
-
+    time_end = time.time()
+    time_end_hours_and_minutes = time.strftime("%H:%M:%S", time.gmtime(time_end - time_start))
+    print(f"Total time: {time_end_hours_and_minutes}")
 
 if __name__ == '__main__':
     main()
