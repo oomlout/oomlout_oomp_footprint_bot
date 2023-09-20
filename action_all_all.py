@@ -38,7 +38,7 @@ def main(**kwargs):
 
     #action_generate_readmes.main()
 
-    action_generate_image_resolutions.main()
+    #action_generate_image_resolutions.main()
 
 
     action_create_doc.main()
