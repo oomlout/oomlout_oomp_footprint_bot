@@ -7,10 +7,8 @@
   footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/bveenema_usb_usb_c_1054500101/working
   github_path: http://github.com/bveenema/USB.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/USB-C-1054500101.kicad_mod
   links:
-    github_owner: bveenema
-    github_repo_name: USB.pretty
-    github_src: http://github.com/bveenema/USB.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/USB-C-1054500101.kicad_mod
-    github_src_repo: https://github.com/bveenema/USB.pretty
+    github_src: http://gitlab.com/bveenema/USB.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/USB-C-1054500101.kicad_mod
+    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/bveenema_usb_usb_c_1054500101/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/bveenema_usb_usb_c_1054500101/working
     oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/bveenema_usb_usb_c_1054500101/working
@@ -34,104 +32,8 @@
   oomp_key_simple: bveenema_usb_usb_c_1054500101
   owner: bveenema
   repo:
-    allow_forking: true
-    archive_url: https://api.github.com/repos/bveenema/USB.pretty/{archive_format}{/ref}
-    archived: false
-    assignees_url: https://api.github.com/repos/bveenema/USB.pretty/assignees{/user}
-    blobs_url: https://api.github.com/repos/bveenema/USB.pretty/git/blobs{/sha}
-    branches_url: https://api.github.com/repos/bveenema/USB.pretty/branches{/branch}
-    clone_url: https://github.com/bveenema/USB.pretty.git
-    collaborators_url: https://api.github.com/repos/bveenema/USB.pretty/collaborators{/collaborator}
-    comments_url: https://api.github.com/repos/bveenema/USB.pretty/comments{/number}
-    commits_url: https://api.github.com/repos/bveenema/USB.pretty/commits{/sha}
-    compare_url: https://api.github.com/repos/bveenema/USB.pretty/compare/{base}...{head}
-    contents_url: https://api.github.com/repos/bveenema/USB.pretty/contents/{+path}
-    contributors_url: https://api.github.com/repos/bveenema/USB.pretty/contributors
-    created_at: '2017-07-20T18:33:29Z'
-    default_branch: master
-    deployments_url: https://api.github.com/repos/bveenema/USB.pretty/deployments
-    description: Kicad USB Footprints
-    disabled: false
-    downloads_url: https://api.github.com/repos/bveenema/USB.pretty/downloads
-    events_url: https://api.github.com/repos/bveenema/USB.pretty/events
-    fork: false
-    forks: 0
-    forks_count: 0
-    forks_url: https://api.github.com/repos/bveenema/USB.pretty/forks
-    full_name: bveenema/USB.pretty
-    git_commits_url: https://api.github.com/repos/bveenema/USB.pretty/git/commits{/sha}
-    git_refs_url: https://api.github.com/repos/bveenema/USB.pretty/git/refs{/sha}
-    git_tags_url: https://api.github.com/repos/bveenema/USB.pretty/git/tags{/sha}
-    git_url: git://github.com/bveenema/USB.pretty.git
-    has_discussions: false
-    has_downloads: true
-    has_issues: true
-    has_pages: false
-    has_projects: true
-    has_wiki: true
-    homepage: null
-    hooks_url: https://api.github.com/repos/bveenema/USB.pretty/hooks
-    html_url: https://github.com/bveenema/USB.pretty
-    id: 97866957
-    is_template: false
-    issue_comment_url: https://api.github.com/repos/bveenema/USB.pretty/issues/comments{/number}
-    issue_events_url: https://api.github.com/repos/bveenema/USB.pretty/issues/events{/number}
-    issues_url: https://api.github.com/repos/bveenema/USB.pretty/issues{/number}
-    keys_url: https://api.github.com/repos/bveenema/USB.pretty/keys{/key_id}
-    labels_url: https://api.github.com/repos/bveenema/USB.pretty/labels{/name}
-    language: null
-    languages_url: https://api.github.com/repos/bveenema/USB.pretty/languages
-    license: null
-    merges_url: https://api.github.com/repos/bveenema/USB.pretty/merges
-    milestones_url: https://api.github.com/repos/bveenema/USB.pretty/milestones{/number}
-    mirror_url: null
-    name: USB.pretty
-    network_count: 0
-    node_id: MDEwOlJlcG9zaXRvcnk5Nzg2Njk1Nw==
-    notifications_url: https://api.github.com/repos/bveenema/USB.pretty/notifications{?since,all,participating}
-    open_issues: 0
-    open_issues_count: 0
-    owner:
-      avatar_url: https://avatars.githubusercontent.com/u/6935674?v=4
-      events_url: https://api.github.com/users/bveenema/events{/privacy}
-      followers_url: https://api.github.com/users/bveenema/followers
-      following_url: https://api.github.com/users/bveenema/following{/other_user}
-      gists_url: https://api.github.com/users/bveenema/gists{/gist_id}
-      gravatar_id: ''
-      html_url: https://github.com/bveenema
-      id: 6935674
-      login: bveenema
-      node_id: MDQ6VXNlcjY5MzU2NzQ=
-      organizations_url: https://api.github.com/users/bveenema/orgs
-      received_events_url: https://api.github.com/users/bveenema/received_events
-      repos_url: https://api.github.com/users/bveenema/repos
-      site_admin: false
-      starred_url: https://api.github.com/users/bveenema/starred{/owner}{/repo}
-      subscriptions_url: https://api.github.com/users/bveenema/subscriptions
-      type: User
-      url: https://api.github.com/users/bveenema
-    private: false
-    pulls_url: https://api.github.com/repos/bveenema/USB.pretty/pulls{/number}
-    pushed_at: '2017-07-21T09:47:02Z'
-    releases_url: https://api.github.com/repos/bveenema/USB.pretty/releases{/id}
-    size: 1
-    ssh_url: git@github.com:bveenema/USB.pretty.git
-    stargazers_count: 0
-    stargazers_url: https://api.github.com/repos/bveenema/USB.pretty/stargazers
-    statuses_url: https://api.github.com/repos/bveenema/USB.pretty/statuses/{sha}
-    subscribers_count: 2
-    subscribers_url: https://api.github.com/repos/bveenema/USB.pretty/subscribers
-    subscription_url: https://api.github.com/repos/bveenema/USB.pretty/subscription
-    svn_url: https://github.com/bveenema/USB.pretty
-    tags_url: https://api.github.com/repos/bveenema/USB.pretty/tags
-    teams_url: https://api.github.com/repos/bveenema/USB.pretty/teams
-    temp_clone_token: null
-    topics: []
-    trees_url: https://api.github.com/repos/bveenema/USB.pretty/git/trees{/sha}
-    updated_at: '2017-07-20T18:33:29Z'
-    url: https://api.github.com/repos/bveenema/USB.pretty
-    visibility: public
-    watchers: 0
-    watchers_count: 0
-    web_commit_signoff_required: false
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: http://github.com/bveenema/USB.pretty

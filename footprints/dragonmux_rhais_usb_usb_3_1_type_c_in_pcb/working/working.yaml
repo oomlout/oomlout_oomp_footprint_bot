@@ -7,8 +7,10 @@
   footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/dragonmux_rhais_usb_usb_3_1_type_c_in_pcb/working
   github_path: http://github.com/dragonmux/rhais_usb.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/USB-3.1-Type-C_In-PCB.kicad_mod
   links:
-    github_src: http://gitlab.com/dragonmux/rhais_usb.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/USB_C_Receptacle_HRO_TYPE-C-31-M-12.kicad_mod
-    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
+    github_owner: dragonmux
+    github_repo_name: rhais_usb.pretty
+    github_src: http://github.com/dragonmux/rhais_usb.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/USB_C_Receptacle_HRO_TYPE-C-31-M-12.kicad_mod
+    github_src_repo: https://github.com/dragonmux/rhais_usb.pretty
     oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/dragonmux_rhais_usb_usb_3_1_type_c_in_pcb/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/dragonmux_rhais_usb_usb_3_1_type_c_in_pcb/working
     oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/dragonmux_rhais_usb_usb_3_1_type_c_in_pcb/working
@@ -32,8 +34,109 @@
   oomp_key_simple: dragonmux_rhais_usb_usb_3_1_type_c_in_pcb
   owner: dragonmux
   repo:
-    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
-    message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
-      Authenticated requests get a higher rate limit. Check out the documentation
-      for more details.)'
+    allow_forking: true
+    archive_url: https://api.github.com/repos/dragonmux/rhais_usb.pretty/{archive_format}{/ref}
+    archived: false
+    assignees_url: https://api.github.com/repos/dragonmux/rhais_usb.pretty/assignees{/user}
+    blobs_url: https://api.github.com/repos/dragonmux/rhais_usb.pretty/git/blobs{/sha}
+    branches_url: https://api.github.com/repos/dragonmux/rhais_usb.pretty/branches{/branch}
+    clone_url: https://github.com/dragonmux/rhais_usb.pretty.git
+    collaborators_url: https://api.github.com/repos/dragonmux/rhais_usb.pretty/collaborators{/collaborator}
+    comments_url: https://api.github.com/repos/dragonmux/rhais_usb.pretty/comments{/number}
+    commits_url: https://api.github.com/repos/dragonmux/rhais_usb.pretty/commits{/sha}
+    compare_url: https://api.github.com/repos/dragonmux/rhais_usb.pretty/compare/{base}...{head}
+    contents_url: https://api.github.com/repos/dragonmux/rhais_usb.pretty/contents/{+path}
+    contributors_url: https://api.github.com/repos/dragonmux/rhais_usb.pretty/contributors
+    created_at: '2020-09-21T23:05:14Z'
+    default_branch: main
+    deployments_url: https://api.github.com/repos/dragonmux/rhais_usb.pretty/deployments
+    description: DX-MON's USB connector footprints KiCad library
+    disabled: false
+    downloads_url: https://api.github.com/repos/dragonmux/rhais_usb.pretty/downloads
+    events_url: https://api.github.com/repos/dragonmux/rhais_usb.pretty/events
+    fork: false
+    forks: 0
+    forks_count: 0
+    forks_url: https://api.github.com/repos/dragonmux/rhais_usb.pretty/forks
+    full_name: dragonmux/rhais_usb.pretty
+    git_commits_url: https://api.github.com/repos/dragonmux/rhais_usb.pretty/git/commits{/sha}
+    git_refs_url: https://api.github.com/repos/dragonmux/rhais_usb.pretty/git/refs{/sha}
+    git_tags_url: https://api.github.com/repos/dragonmux/rhais_usb.pretty/git/tags{/sha}
+    git_url: git://github.com/dragonmux/rhais_usb.pretty.git
+    has_discussions: false
+    has_downloads: true
+    has_issues: true
+    has_pages: false
+    has_projects: true
+    has_wiki: true
+    homepage: ''
+    hooks_url: https://api.github.com/repos/dragonmux/rhais_usb.pretty/hooks
+    html_url: https://github.com/dragonmux/rhais_usb.pretty
+    id: 297481028
+    is_template: false
+    issue_comment_url: https://api.github.com/repos/dragonmux/rhais_usb.pretty/issues/comments{/number}
+    issue_events_url: https://api.github.com/repos/dragonmux/rhais_usb.pretty/issues/events{/number}
+    issues_url: https://api.github.com/repos/dragonmux/rhais_usb.pretty/issues{/number}
+    keys_url: https://api.github.com/repos/dragonmux/rhais_usb.pretty/keys{/key_id}
+    labels_url: https://api.github.com/repos/dragonmux/rhais_usb.pretty/labels{/name}
+    language: null
+    languages_url: https://api.github.com/repos/dragonmux/rhais_usb.pretty/languages
+    license:
+      key: other
+      name: Other
+      node_id: MDc6TGljZW5zZTA=
+      spdx_id: NOASSERTION
+      url: null
+    merges_url: https://api.github.com/repos/dragonmux/rhais_usb.pretty/merges
+    milestones_url: https://api.github.com/repos/dragonmux/rhais_usb.pretty/milestones{/number}
+    mirror_url: null
+    name: rhais_usb.pretty
+    network_count: 0
+    node_id: MDEwOlJlcG9zaXRvcnkyOTc0ODEwMjg=
+    notifications_url: https://api.github.com/repos/dragonmux/rhais_usb.pretty/notifications{?since,all,participating}
+    open_issues: 0
+    open_issues_count: 0
+    owner:
+      avatar_url: https://avatars.githubusercontent.com/u/691140?v=4
+      events_url: https://api.github.com/users/dragonmux/events{/privacy}
+      followers_url: https://api.github.com/users/dragonmux/followers
+      following_url: https://api.github.com/users/dragonmux/following{/other_user}
+      gists_url: https://api.github.com/users/dragonmux/gists{/gist_id}
+      gravatar_id: ''
+      html_url: https://github.com/dragonmux
+      id: 691140
+      login: dragonmux
+      node_id: MDQ6VXNlcjY5MTE0MA==
+      organizations_url: https://api.github.com/users/dragonmux/orgs
+      received_events_url: https://api.github.com/users/dragonmux/received_events
+      repos_url: https://api.github.com/users/dragonmux/repos
+      site_admin: false
+      starred_url: https://api.github.com/users/dragonmux/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/dragonmux/subscriptions
+      type: User
+      url: https://api.github.com/users/dragonmux
+    private: false
+    pulls_url: https://api.github.com/repos/dragonmux/rhais_usb.pretty/pulls{/number}
+    pushed_at: '2022-02-24T14:57:50Z'
+    releases_url: https://api.github.com/repos/dragonmux/rhais_usb.pretty/releases{/id}
+    size: 19
+    ssh_url: git@github.com:dragonmux/rhais_usb.pretty.git
+    stargazers_count: 0
+    stargazers_url: https://api.github.com/repos/dragonmux/rhais_usb.pretty/stargazers
+    statuses_url: https://api.github.com/repos/dragonmux/rhais_usb.pretty/statuses/{sha}
+    subscribers_count: 1
+    subscribers_url: https://api.github.com/repos/dragonmux/rhais_usb.pretty/subscribers
+    subscription_url: https://api.github.com/repos/dragonmux/rhais_usb.pretty/subscription
+    svn_url: https://github.com/dragonmux/rhais_usb.pretty
+    tags_url: https://api.github.com/repos/dragonmux/rhais_usb.pretty/tags
+    teams_url: https://api.github.com/repos/dragonmux/rhais_usb.pretty/teams
+    temp_clone_token: null
+    topics: []
+    trees_url: https://api.github.com/repos/dragonmux/rhais_usb.pretty/git/trees{/sha}
+    updated_at: '2022-02-24T04:25:13Z'
+    url: https://api.github.com/repos/dragonmux/rhais_usb.pretty
+    visibility: public
+    watchers: 0
+    watchers_count: 0
+    web_commit_signoff_required: false
   url: http://github.com/dragonmux/rhais_usb.pretty

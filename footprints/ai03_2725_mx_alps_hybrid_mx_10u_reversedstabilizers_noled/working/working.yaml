@@ -7,10 +7,8 @@
   footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/ai03_2725_mx_alps_hybrid_mx_10u_reversedstabilizers_noled/working
   github_path: http://github.com/ai03-2725/MX_Alps_Hybrid.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/MX_Alps_Hybrid.pretty/MX-10U-ReversedStabilizers-NoLED.kicad_mod
   links:
-    github_owner: ai03-2725
-    github_repo_name: MX_Alps_Hybrid
-    github_src: http://github.com/ai03-2725/MX_Alps_Hybrid.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/MX_Only.pretty/MXOnly-LEDONLY.kicad_mod
-    github_src_repo: https://github.com/ai03-2725/MX_Alps_Hybrid
+    github_src: http://gitlab.com/ai03-2725/MX_Alps_Hybrid.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/MX_Only.pretty/MXOnly-LEDONLY.kicad_mod
+    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/ai03_2725_mx_alps_hybrid_mx_10u_reversedstabilizers_noled/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/ai03_2725_mx_alps_hybrid_mx_10u_reversedstabilizers_noled/working
     oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/ai03_2725_mx_alps_hybrid_mx_10u_reversedstabilizers_noled/working
@@ -34,116 +32,8 @@
   oomp_key_simple: ai03_2725_mx_alps_hybrid_mx_10u_reversedstabilizers_noled
   owner: ai03-2725
   repo:
-    allow_forking: true
-    archive_url: https://api.github.com/repos/ai03-2725/MX_Alps_Hybrid/{archive_format}{/ref}
-    archived: false
-    assignees_url: https://api.github.com/repos/ai03-2725/MX_Alps_Hybrid/assignees{/user}
-    blobs_url: https://api.github.com/repos/ai03-2725/MX_Alps_Hybrid/git/blobs{/sha}
-    branches_url: https://api.github.com/repos/ai03-2725/MX_Alps_Hybrid/branches{/branch}
-    clone_url: https://github.com/ai03-2725/MX_Alps_Hybrid.git
-    collaborators_url: https://api.github.com/repos/ai03-2725/MX_Alps_Hybrid/collaborators{/collaborator}
-    comments_url: https://api.github.com/repos/ai03-2725/MX_Alps_Hybrid/comments{/number}
-    commits_url: https://api.github.com/repos/ai03-2725/MX_Alps_Hybrid/commits{/sha}
-    compare_url: https://api.github.com/repos/ai03-2725/MX_Alps_Hybrid/compare/{base}...{head}
-    contents_url: https://api.github.com/repos/ai03-2725/MX_Alps_Hybrid/contents/{+path}
-    contributors_url: https://api.github.com/repos/ai03-2725/MX_Alps_Hybrid/contributors
-    created_at: '2017-05-14T20:33:20Z'
-    default_branch: master
-    deployments_url: https://api.github.com/repos/ai03-2725/MX_Alps_Hybrid/deployments
-    description: KiCad Library of custom MX-Alps footprints
-    disabled: false
-    downloads_url: https://api.github.com/repos/ai03-2725/MX_Alps_Hybrid/downloads
-    events_url: https://api.github.com/repos/ai03-2725/MX_Alps_Hybrid/events
-    fork: false
-    forks: 135
-    forks_count: 135
-    forks_url: https://api.github.com/repos/ai03-2725/MX_Alps_Hybrid/forks
-    full_name: ai03-2725/MX_Alps_Hybrid
-    git_commits_url: https://api.github.com/repos/ai03-2725/MX_Alps_Hybrid/git/commits{/sha}
-    git_refs_url: https://api.github.com/repos/ai03-2725/MX_Alps_Hybrid/git/refs{/sha}
-    git_tags_url: https://api.github.com/repos/ai03-2725/MX_Alps_Hybrid/git/tags{/sha}
-    git_url: git://github.com/ai03-2725/MX_Alps_Hybrid.git
-    has_discussions: false
-    has_downloads: true
-    has_issues: true
-    has_pages: false
-    has_projects: true
-    has_wiki: true
-    homepage: null
-    hooks_url: https://api.github.com/repos/ai03-2725/MX_Alps_Hybrid/hooks
-    html_url: https://github.com/ai03-2725/MX_Alps_Hybrid
-    id: 91269815
-    is_template: false
-    issue_comment_url: https://api.github.com/repos/ai03-2725/MX_Alps_Hybrid/issues/comments{/number}
-    issue_events_url: https://api.github.com/repos/ai03-2725/MX_Alps_Hybrid/issues/events{/number}
-    issues_url: https://api.github.com/repos/ai03-2725/MX_Alps_Hybrid/issues{/number}
-    keys_url: https://api.github.com/repos/ai03-2725/MX_Alps_Hybrid/keys{/key_id}
-    labels_url: https://api.github.com/repos/ai03-2725/MX_Alps_Hybrid/labels{/name}
-    language: null
-    languages_url: https://api.github.com/repos/ai03-2725/MX_Alps_Hybrid/languages
-    license:
-      key: mit
-      name: MIT License
-      node_id: MDc6TGljZW5zZTEz
-      spdx_id: MIT
-      url: https://api.github.com/licenses/mit
-    merges_url: https://api.github.com/repos/ai03-2725/MX_Alps_Hybrid/merges
-    milestones_url: https://api.github.com/repos/ai03-2725/MX_Alps_Hybrid/milestones{/number}
-    mirror_url: null
-    name: MX_Alps_Hybrid
-    network_count: 135
-    node_id: MDEwOlJlcG9zaXRvcnk5MTI2OTgxNQ==
-    notifications_url: https://api.github.com/repos/ai03-2725/MX_Alps_Hybrid/notifications{?since,all,participating}
-    open_issues: 3
-    open_issues_count: 3
-    owner:
-      avatar_url: https://avatars.githubusercontent.com/u/26614352?v=4
-      events_url: https://api.github.com/users/ai03-2725/events{/privacy}
-      followers_url: https://api.github.com/users/ai03-2725/followers
-      following_url: https://api.github.com/users/ai03-2725/following{/other_user}
-      gists_url: https://api.github.com/users/ai03-2725/gists{/gist_id}
-      gravatar_id: ''
-      html_url: https://github.com/ai03-2725
-      id: 26614352
-      login: ai03-2725
-      node_id: MDQ6VXNlcjI2NjE0MzUy
-      organizations_url: https://api.github.com/users/ai03-2725/orgs
-      received_events_url: https://api.github.com/users/ai03-2725/received_events
-      repos_url: https://api.github.com/users/ai03-2725/repos
-      site_admin: false
-      starred_url: https://api.github.com/users/ai03-2725/starred{/owner}{/repo}
-      subscriptions_url: https://api.github.com/users/ai03-2725/subscriptions
-      type: User
-      url: https://api.github.com/users/ai03-2725
-    private: false
-    pulls_url: https://api.github.com/repos/ai03-2725/MX_Alps_Hybrid/pulls{/number}
-    pushed_at: '2022-11-10T02:10:15Z'
-    releases_url: https://api.github.com/repos/ai03-2725/MX_Alps_Hybrid/releases{/id}
-    size: 415
-    ssh_url: git@github.com:ai03-2725/MX_Alps_Hybrid.git
-    stargazers_count: 327
-    stargazers_url: https://api.github.com/repos/ai03-2725/MX_Alps_Hybrid/stargazers
-    statuses_url: https://api.github.com/repos/ai03-2725/MX_Alps_Hybrid/statuses/{sha}
-    subscribers_count: 4
-    subscribers_url: https://api.github.com/repos/ai03-2725/MX_Alps_Hybrid/subscribers
-    subscription_url: https://api.github.com/repos/ai03-2725/MX_Alps_Hybrid/subscription
-    svn_url: https://github.com/ai03-2725/MX_Alps_Hybrid
-    tags_url: https://api.github.com/repos/ai03-2725/MX_Alps_Hybrid/tags
-    teams_url: https://api.github.com/repos/ai03-2725/MX_Alps_Hybrid/teams
-    temp_clone_token: null
-    topics:
-    - alps
-    - cherry-mx
-    - footprint
-    - keyboard
-    - kicad-library
-    - mechanical-keyboard
-    - mx-alps-hybrid
-    trees_url: https://api.github.com/repos/ai03-2725/MX_Alps_Hybrid/git/trees{/sha}
-    updated_at: '2023-09-08T17:25:02Z'
-    url: https://api.github.com/repos/ai03-2725/MX_Alps_Hybrid
-    visibility: public
-    watchers: 327
-    watchers_count: 327
-    web_commit_signoff_required: false
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: http://github.com/ai03-2725/MX_Alps_Hybrid.pretty

@@ -7,10 +7,8 @@
   footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/4ms_4ms_legacy_footprints_tsop_54_w400/working
   github_path: http://github.com/4ms/4ms-kicad-lib/blob/master/tmp/data//oomlout_oomp_footprint_src/footprints-legacy/4ms-legacy-footprints.pretty/TSOP-54_W400.kicad_mod
   links:
-    github_owner: 4ms
-    github_repo_name: 4ms-kicad-lib
-    github_src: http://github.com/4ms/4ms-kicad-lib/blob/master/tmp/data//oomlout_oomp_footprint_src/footprints-legacy/4ms-legacy-footprints.pretty/wire-hole.kicad_mod
-    github_src_repo: https://github.com/4ms/4ms-kicad-lib
+    github_src: http://gitlab.com/4ms/4ms-kicad-lib/blob/master/tmp/data//oomlout_oomp_footprint_src/footprints-legacy/4ms-legacy-footprints.pretty/wire-hole.kicad_mod
+    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/4ms_4ms_legacy_footprints_tsop_54_w400/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/4ms_4ms_legacy_footprints_tsop_54_w400/working
     oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/4ms_4ms_legacy_footprints_tsop_54_w400/working
@@ -34,129 +32,8 @@
   oomp_key_simple: 4ms_4ms_legacy_footprints_tsop_54_w400
   owner: 4ms
   repo:
-    allow_forking: true
-    archive_url: https://api.github.com/repos/4ms/4ms-kicad-lib/{archive_format}{/ref}
-    archived: false
-    assignees_url: https://api.github.com/repos/4ms/4ms-kicad-lib/assignees{/user}
-    blobs_url: https://api.github.com/repos/4ms/4ms-kicad-lib/git/blobs{/sha}
-    branches_url: https://api.github.com/repos/4ms/4ms-kicad-lib/branches{/branch}
-    clone_url: https://github.com/4ms/4ms-kicad-lib.git
-    collaborators_url: https://api.github.com/repos/4ms/4ms-kicad-lib/collaborators{/collaborator}
-    comments_url: https://api.github.com/repos/4ms/4ms-kicad-lib/comments{/number}
-    commits_url: https://api.github.com/repos/4ms/4ms-kicad-lib/commits{/sha}
-    compare_url: https://api.github.com/repos/4ms/4ms-kicad-lib/compare/{base}...{head}
-    contents_url: https://api.github.com/repos/4ms/4ms-kicad-lib/contents/{+path}
-    contributors_url: https://api.github.com/repos/4ms/4ms-kicad-lib/contributors
-    created_at: '2016-11-19T00:56:15Z'
-    default_branch: master
-    deployments_url: https://api.github.com/repos/4ms/4ms-kicad-lib/deployments
-    description: libraries for KiCAD schematics and footprints
-    disabled: false
-    downloads_url: https://api.github.com/repos/4ms/4ms-kicad-lib/downloads
-    events_url: https://api.github.com/repos/4ms/4ms-kicad-lib/events
-    fork: false
-    forks: 14
-    forks_count: 14
-    forks_url: https://api.github.com/repos/4ms/4ms-kicad-lib/forks
-    full_name: 4ms/4ms-kicad-lib
-    git_commits_url: https://api.github.com/repos/4ms/4ms-kicad-lib/git/commits{/sha}
-    git_refs_url: https://api.github.com/repos/4ms/4ms-kicad-lib/git/refs{/sha}
-    git_tags_url: https://api.github.com/repos/4ms/4ms-kicad-lib/git/tags{/sha}
-    git_url: git://github.com/4ms/4ms-kicad-lib.git
-    has_discussions: false
-    has_downloads: true
-    has_issues: true
-    has_pages: false
-    has_projects: true
-    has_wiki: true
-    homepage: null
-    hooks_url: https://api.github.com/repos/4ms/4ms-kicad-lib/hooks
-    html_url: https://github.com/4ms/4ms-kicad-lib
-    id: 74178117
-    is_template: false
-    issue_comment_url: https://api.github.com/repos/4ms/4ms-kicad-lib/issues/comments{/number}
-    issue_events_url: https://api.github.com/repos/4ms/4ms-kicad-lib/issues/events{/number}
-    issues_url: https://api.github.com/repos/4ms/4ms-kicad-lib/issues{/number}
-    keys_url: https://api.github.com/repos/4ms/4ms-kicad-lib/keys{/key_id}
-    labels_url: https://api.github.com/repos/4ms/4ms-kicad-lib/labels{/name}
-    language: Shell
-    languages_url: https://api.github.com/repos/4ms/4ms-kicad-lib/languages
-    license:
-      key: unlicense
-      name: The Unlicense
-      node_id: MDc6TGljZW5zZTE1
-      spdx_id: Unlicense
-      url: https://api.github.com/licenses/unlicense
-    merges_url: https://api.github.com/repos/4ms/4ms-kicad-lib/merges
-    milestones_url: https://api.github.com/repos/4ms/4ms-kicad-lib/milestones{/number}
-    mirror_url: null
-    name: 4ms-kicad-lib
-    network_count: 14
-    node_id: MDEwOlJlcG9zaXRvcnk3NDE3ODExNw==
-    notifications_url: https://api.github.com/repos/4ms/4ms-kicad-lib/notifications{?since,all,participating}
-    open_issues: 4
-    open_issues_count: 4
-    organization:
-      avatar_url: https://avatars.githubusercontent.com/u/1482615?v=4
-      events_url: https://api.github.com/users/4ms/events{/privacy}
-      followers_url: https://api.github.com/users/4ms/followers
-      following_url: https://api.github.com/users/4ms/following{/other_user}
-      gists_url: https://api.github.com/users/4ms/gists{/gist_id}
-      gravatar_id: ''
-      html_url: https://github.com/4ms
-      id: 1482615
-      login: 4ms
-      node_id: MDEyOk9yZ2FuaXphdGlvbjE0ODI2MTU=
-      organizations_url: https://api.github.com/users/4ms/orgs
-      received_events_url: https://api.github.com/users/4ms/received_events
-      repos_url: https://api.github.com/users/4ms/repos
-      site_admin: false
-      starred_url: https://api.github.com/users/4ms/starred{/owner}{/repo}
-      subscriptions_url: https://api.github.com/users/4ms/subscriptions
-      type: Organization
-      url: https://api.github.com/users/4ms
-    owner:
-      avatar_url: https://avatars.githubusercontent.com/u/1482615?v=4
-      events_url: https://api.github.com/users/4ms/events{/privacy}
-      followers_url: https://api.github.com/users/4ms/followers
-      following_url: https://api.github.com/users/4ms/following{/other_user}
-      gists_url: https://api.github.com/users/4ms/gists{/gist_id}
-      gravatar_id: ''
-      html_url: https://github.com/4ms
-      id: 1482615
-      login: 4ms
-      node_id: MDEyOk9yZ2FuaXphdGlvbjE0ODI2MTU=
-      organizations_url: https://api.github.com/users/4ms/orgs
-      received_events_url: https://api.github.com/users/4ms/received_events
-      repos_url: https://api.github.com/users/4ms/repos
-      site_admin: false
-      starred_url: https://api.github.com/users/4ms/starred{/owner}{/repo}
-      subscriptions_url: https://api.github.com/users/4ms/subscriptions
-      type: Organization
-      url: https://api.github.com/users/4ms
-    private: false
-    pulls_url: https://api.github.com/repos/4ms/4ms-kicad-lib/pulls{/number}
-    pushed_at: '2023-09-14T00:09:09Z'
-    releases_url: https://api.github.com/repos/4ms/4ms-kicad-lib/releases{/id}
-    size: 22708
-    ssh_url: git@github.com:4ms/4ms-kicad-lib.git
-    stargazers_count: 53
-    stargazers_url: https://api.github.com/repos/4ms/4ms-kicad-lib/stargazers
-    statuses_url: https://api.github.com/repos/4ms/4ms-kicad-lib/statuses/{sha}
-    subscribers_count: 3
-    subscribers_url: https://api.github.com/repos/4ms/4ms-kicad-lib/subscribers
-    subscription_url: https://api.github.com/repos/4ms/4ms-kicad-lib/subscription
-    svn_url: https://github.com/4ms/4ms-kicad-lib
-    tags_url: https://api.github.com/repos/4ms/4ms-kicad-lib/tags
-    teams_url: https://api.github.com/repos/4ms/4ms-kicad-lib/teams
-    temp_clone_token: null
-    topics:
-    - kicad
-    trees_url: https://api.github.com/repos/4ms/4ms-kicad-lib/git/trees{/sha}
-    updated_at: '2023-08-26T11:24:54Z'
-    url: https://api.github.com/repos/4ms/4ms-kicad-lib
-    visibility: public
-    watchers: 53
-    watchers_count: 53
-    web_commit_signoff_required: false
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: http://github.com/4ms/4ms-kicad-lib

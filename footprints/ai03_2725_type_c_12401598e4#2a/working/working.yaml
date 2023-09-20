@@ -7,10 +7,8 @@
   footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/ai03_2725_type_c_12401598e4#2a/working
   github_path: http://github.com/ai03-2725/Type-C.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/12401598E4#2A.kicad_mod
   links:
-    github_owner: ai03-2725
-    github_repo_name: Type-C.pretty
-    github_src: http://github.com/ai03-2725/Type-C.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Wurth-632723300011.kicad_mod
-    github_src_repo: https://github.com/ai03-2725/Type-C.pretty
+    github_src: http://gitlab.com/ai03-2725/Type-C.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Wurth-632723300011.kicad_mod
+    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/ai03_2725_type_c_12401598e4#2a/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/ai03_2725_type_c_12401598e4#2a/working
     oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/ai03_2725_type_c_12401598e4#2a/working
@@ -34,108 +32,8 @@
   oomp_key_simple: ai03_2725_type_c_12401598e4#2a
   owner: ai03-2725
   repo:
-    allow_forking: true
-    archive_url: https://api.github.com/repos/ai03-2725/Type-C.pretty/{archive_format}{/ref}
-    archived: false
-    assignees_url: https://api.github.com/repos/ai03-2725/Type-C.pretty/assignees{/user}
-    blobs_url: https://api.github.com/repos/ai03-2725/Type-C.pretty/git/blobs{/sha}
-    branches_url: https://api.github.com/repos/ai03-2725/Type-C.pretty/branches{/branch}
-    clone_url: https://github.com/ai03-2725/Type-C.pretty.git
-    collaborators_url: https://api.github.com/repos/ai03-2725/Type-C.pretty/collaborators{/collaborator}
-    comments_url: https://api.github.com/repos/ai03-2725/Type-C.pretty/comments{/number}
-    commits_url: https://api.github.com/repos/ai03-2725/Type-C.pretty/commits{/sha}
-    compare_url: https://api.github.com/repos/ai03-2725/Type-C.pretty/compare/{base}...{head}
-    contents_url: https://api.github.com/repos/ai03-2725/Type-C.pretty/contents/{+path}
-    contributors_url: https://api.github.com/repos/ai03-2725/Type-C.pretty/contributors
-    created_at: '2018-02-06T20:04:28Z'
-    default_branch: master
-    deployments_url: https://api.github.com/repos/ai03-2725/Type-C.pretty/deployments
-    description: KiCad library for various Type-C USB connectors
-    disabled: false
-    downloads_url: https://api.github.com/repos/ai03-2725/Type-C.pretty/downloads
-    events_url: https://api.github.com/repos/ai03-2725/Type-C.pretty/events
-    fork: false
-    forks: 50
-    forks_count: 50
-    forks_url: https://api.github.com/repos/ai03-2725/Type-C.pretty/forks
-    full_name: ai03-2725/Type-C.pretty
-    git_commits_url: https://api.github.com/repos/ai03-2725/Type-C.pretty/git/commits{/sha}
-    git_refs_url: https://api.github.com/repos/ai03-2725/Type-C.pretty/git/refs{/sha}
-    git_tags_url: https://api.github.com/repos/ai03-2725/Type-C.pretty/git/tags{/sha}
-    git_url: git://github.com/ai03-2725/Type-C.pretty.git
-    has_discussions: false
-    has_downloads: true
-    has_issues: true
-    has_pages: false
-    has_projects: true
-    has_wiki: true
-    homepage: ''
-    hooks_url: https://api.github.com/repos/ai03-2725/Type-C.pretty/hooks
-    html_url: https://github.com/ai03-2725/Type-C.pretty
-    id: 120516652
-    is_template: false
-    issue_comment_url: https://api.github.com/repos/ai03-2725/Type-C.pretty/issues/comments{/number}
-    issue_events_url: https://api.github.com/repos/ai03-2725/Type-C.pretty/issues/events{/number}
-    issues_url: https://api.github.com/repos/ai03-2725/Type-C.pretty/issues{/number}
-    keys_url: https://api.github.com/repos/ai03-2725/Type-C.pretty/keys{/key_id}
-    labels_url: https://api.github.com/repos/ai03-2725/Type-C.pretty/labels{/name}
-    language: null
-    languages_url: https://api.github.com/repos/ai03-2725/Type-C.pretty/languages
-    license: null
-    merges_url: https://api.github.com/repos/ai03-2725/Type-C.pretty/merges
-    milestones_url: https://api.github.com/repos/ai03-2725/Type-C.pretty/milestones{/number}
-    mirror_url: null
-    name: Type-C.pretty
-    network_count: 50
-    node_id: MDEwOlJlcG9zaXRvcnkxMjA1MTY2NTI=
-    notifications_url: https://api.github.com/repos/ai03-2725/Type-C.pretty/notifications{?since,all,participating}
-    open_issues: 7
-    open_issues_count: 7
-    owner:
-      avatar_url: https://avatars.githubusercontent.com/u/26614352?v=4
-      events_url: https://api.github.com/users/ai03-2725/events{/privacy}
-      followers_url: https://api.github.com/users/ai03-2725/followers
-      following_url: https://api.github.com/users/ai03-2725/following{/other_user}
-      gists_url: https://api.github.com/users/ai03-2725/gists{/gist_id}
-      gravatar_id: ''
-      html_url: https://github.com/ai03-2725
-      id: 26614352
-      login: ai03-2725
-      node_id: MDQ6VXNlcjI2NjE0MzUy
-      organizations_url: https://api.github.com/users/ai03-2725/orgs
-      received_events_url: https://api.github.com/users/ai03-2725/received_events
-      repos_url: https://api.github.com/users/ai03-2725/repos
-      site_admin: false
-      starred_url: https://api.github.com/users/ai03-2725/starred{/owner}{/repo}
-      subscriptions_url: https://api.github.com/users/ai03-2725/subscriptions
-      type: User
-      url: https://api.github.com/users/ai03-2725
-    private: false
-    pulls_url: https://api.github.com/repos/ai03-2725/Type-C.pretty/pulls{/number}
-    pushed_at: '2022-01-31T17:15:44Z'
-    releases_url: https://api.github.com/repos/ai03-2725/Type-C.pretty/releases{/id}
-    size: 146
-    ssh_url: git@github.com:ai03-2725/Type-C.pretty.git
-    stargazers_count: 214
-    stargazers_url: https://api.github.com/repos/ai03-2725/Type-C.pretty/stargazers
-    statuses_url: https://api.github.com/repos/ai03-2725/Type-C.pretty/statuses/{sha}
-    subscribers_count: 10
-    subscribers_url: https://api.github.com/repos/ai03-2725/Type-C.pretty/subscribers
-    subscription_url: https://api.github.com/repos/ai03-2725/Type-C.pretty/subscription
-    svn_url: https://github.com/ai03-2725/Type-C.pretty
-    tags_url: https://api.github.com/repos/ai03-2725/Type-C.pretty/tags
-    teams_url: https://api.github.com/repos/ai03-2725/Type-C.pretty/teams
-    temp_clone_token: null
-    topics:
-    - footprint
-    - kicad-library
-    - type-c
-    - usb-c
-    trees_url: https://api.github.com/repos/ai03-2725/Type-C.pretty/git/trees{/sha}
-    updated_at: '2023-09-08T17:36:17Z'
-    url: https://api.github.com/repos/ai03-2725/Type-C.pretty
-    visibility: public
-    watchers: 214
-    watchers_count: 214
-    web_commit_signoff_required: false
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: http://github.com/ai03-2725/Type-C.pretty

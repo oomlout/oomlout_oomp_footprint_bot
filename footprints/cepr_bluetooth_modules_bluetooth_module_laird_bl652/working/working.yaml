@@ -7,10 +7,8 @@
   footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/cepr_bluetooth_modules_bluetooth_module_laird_bl652/working
   github_path: http://github.com/cepr/Bluetooth_Modules.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Bluetooth_Module_Laird_BL652.kicad_mod
   links:
-    github_owner: cepr
-    github_repo_name: Bluetooth_Modules.pretty
-    github_src: http://github.com/cepr/Bluetooth_Modules.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Bluetooth_Module_Laird_BL652.kicad_mod
-    github_src_repo: https://github.com/cepr/Bluetooth_Modules.pretty
+    github_src: http://gitlab.com/cepr/Bluetooth_Modules.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Bluetooth_Module_Laird_BL652.kicad_mod
+    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/cepr_bluetooth_modules_bluetooth_module_laird_bl652/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/cepr_bluetooth_modules_bluetooth_module_laird_bl652/working
     oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/cepr_bluetooth_modules_bluetooth_module_laird_bl652/working
@@ -34,104 +32,8 @@
   oomp_key_simple: cepr_bluetooth_modules_bluetooth_module_laird_bl652
   owner: cepr
   repo:
-    allow_forking: true
-    archive_url: https://api.github.com/repos/cepr/Bluetooth_Modules.pretty/{archive_format}{/ref}
-    archived: false
-    assignees_url: https://api.github.com/repos/cepr/Bluetooth_Modules.pretty/assignees{/user}
-    blobs_url: https://api.github.com/repos/cepr/Bluetooth_Modules.pretty/git/blobs{/sha}
-    branches_url: https://api.github.com/repos/cepr/Bluetooth_Modules.pretty/branches{/branch}
-    clone_url: https://github.com/cepr/Bluetooth_Modules.pretty.git
-    collaborators_url: https://api.github.com/repos/cepr/Bluetooth_Modules.pretty/collaborators{/collaborator}
-    comments_url: https://api.github.com/repos/cepr/Bluetooth_Modules.pretty/comments{/number}
-    commits_url: https://api.github.com/repos/cepr/Bluetooth_Modules.pretty/commits{/sha}
-    compare_url: https://api.github.com/repos/cepr/Bluetooth_Modules.pretty/compare/{base}...{head}
-    contents_url: https://api.github.com/repos/cepr/Bluetooth_Modules.pretty/contents/{+path}
-    contributors_url: https://api.github.com/repos/cepr/Bluetooth_Modules.pretty/contributors
-    created_at: '2016-12-27T19:32:14Z'
-    default_branch: master
-    deployments_url: https://api.github.com/repos/cepr/Bluetooth_Modules.pretty/deployments
-    description: KiCad footprints
-    disabled: false
-    downloads_url: https://api.github.com/repos/cepr/Bluetooth_Modules.pretty/downloads
-    events_url: https://api.github.com/repos/cepr/Bluetooth_Modules.pretty/events
-    fork: false
-    forks: 0
-    forks_count: 0
-    forks_url: https://api.github.com/repos/cepr/Bluetooth_Modules.pretty/forks
-    full_name: cepr/Bluetooth_Modules.pretty
-    git_commits_url: https://api.github.com/repos/cepr/Bluetooth_Modules.pretty/git/commits{/sha}
-    git_refs_url: https://api.github.com/repos/cepr/Bluetooth_Modules.pretty/git/refs{/sha}
-    git_tags_url: https://api.github.com/repos/cepr/Bluetooth_Modules.pretty/git/tags{/sha}
-    git_url: git://github.com/cepr/Bluetooth_Modules.pretty.git
-    has_discussions: false
-    has_downloads: true
-    has_issues: true
-    has_pages: false
-    has_projects: true
-    has_wiki: true
-    homepage: null
-    hooks_url: https://api.github.com/repos/cepr/Bluetooth_Modules.pretty/hooks
-    html_url: https://github.com/cepr/Bluetooth_Modules.pretty
-    id: 77478218
-    is_template: false
-    issue_comment_url: https://api.github.com/repos/cepr/Bluetooth_Modules.pretty/issues/comments{/number}
-    issue_events_url: https://api.github.com/repos/cepr/Bluetooth_Modules.pretty/issues/events{/number}
-    issues_url: https://api.github.com/repos/cepr/Bluetooth_Modules.pretty/issues{/number}
-    keys_url: https://api.github.com/repos/cepr/Bluetooth_Modules.pretty/keys{/key_id}
-    labels_url: https://api.github.com/repos/cepr/Bluetooth_Modules.pretty/labels{/name}
-    language: null
-    languages_url: https://api.github.com/repos/cepr/Bluetooth_Modules.pretty/languages
-    license: null
-    merges_url: https://api.github.com/repos/cepr/Bluetooth_Modules.pretty/merges
-    milestones_url: https://api.github.com/repos/cepr/Bluetooth_Modules.pretty/milestones{/number}
-    mirror_url: null
-    name: Bluetooth_Modules.pretty
-    network_count: 0
-    node_id: MDEwOlJlcG9zaXRvcnk3NzQ3ODIxOA==
-    notifications_url: https://api.github.com/repos/cepr/Bluetooth_Modules.pretty/notifications{?since,all,participating}
-    open_issues: 0
-    open_issues_count: 0
-    owner:
-      avatar_url: https://avatars.githubusercontent.com/u/213173?v=4
-      events_url: https://api.github.com/users/cepr/events{/privacy}
-      followers_url: https://api.github.com/users/cepr/followers
-      following_url: https://api.github.com/users/cepr/following{/other_user}
-      gists_url: https://api.github.com/users/cepr/gists{/gist_id}
-      gravatar_id: ''
-      html_url: https://github.com/cepr
-      id: 213173
-      login: cepr
-      node_id: MDQ6VXNlcjIxMzE3Mw==
-      organizations_url: https://api.github.com/users/cepr/orgs
-      received_events_url: https://api.github.com/users/cepr/received_events
-      repos_url: https://api.github.com/users/cepr/repos
-      site_admin: false
-      starred_url: https://api.github.com/users/cepr/starred{/owner}{/repo}
-      subscriptions_url: https://api.github.com/users/cepr/subscriptions
-      type: User
-      url: https://api.github.com/users/cepr
-    private: false
-    pulls_url: https://api.github.com/repos/cepr/Bluetooth_Modules.pretty/pulls{/number}
-    pushed_at: '2016-12-27T19:59:54Z'
-    releases_url: https://api.github.com/repos/cepr/Bluetooth_Modules.pretty/releases{/id}
-    size: 1
-    ssh_url: git@github.com:cepr/Bluetooth_Modules.pretty.git
-    stargazers_count: 0
-    stargazers_url: https://api.github.com/repos/cepr/Bluetooth_Modules.pretty/stargazers
-    statuses_url: https://api.github.com/repos/cepr/Bluetooth_Modules.pretty/statuses/{sha}
-    subscribers_count: 2
-    subscribers_url: https://api.github.com/repos/cepr/Bluetooth_Modules.pretty/subscribers
-    subscription_url: https://api.github.com/repos/cepr/Bluetooth_Modules.pretty/subscription
-    svn_url: https://github.com/cepr/Bluetooth_Modules.pretty
-    tags_url: https://api.github.com/repos/cepr/Bluetooth_Modules.pretty/tags
-    teams_url: https://api.github.com/repos/cepr/Bluetooth_Modules.pretty/teams
-    temp_clone_token: null
-    topics: []
-    trees_url: https://api.github.com/repos/cepr/Bluetooth_Modules.pretty/git/trees{/sha}
-    updated_at: '2016-12-27T19:32:14Z'
-    url: https://api.github.com/repos/cepr/Bluetooth_Modules.pretty
-    visibility: public
-    watchers: 0
-    watchers_count: 0
-    web_commit_signoff_required: false
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: http://github.com/cepr/Bluetooth_Modules.pretty

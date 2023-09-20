@@ -7,8 +7,10 @@
   footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/dragonmux_rhais_package_to_to_220_3_vertical/working
   github_path: http://github.com/dragonmux/rhais_package-to.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/TO-220-3_Vertical.kicad_mod
   links:
-    github_src: http://gitlab.com/dragonmux/rhais_package-to.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/TO-220-3_Vertical.kicad_mod
-    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
+    github_owner: dragonmux
+    github_repo_name: rhais_package-to.pretty
+    github_src: http://github.com/dragonmux/rhais_package-to.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/TO-220-3_Vertical.kicad_mod
+    github_src_repo: https://github.com/dragonmux/rhais_package-to.pretty
     oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/dragonmux_rhais_package_to_to_220_3_vertical/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/dragonmux_rhais_package_to_to_220_3_vertical/working
     oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/dragonmux_rhais_package_to_to_220_3_vertical/working
@@ -32,8 +34,109 @@
   oomp_key_simple: dragonmux_rhais_package_to_to_220_3_vertical
   owner: dragonmux
   repo:
-    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
-    message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
-      Authenticated requests get a higher rate limit. Check out the documentation
-      for more details.)'
+    allow_forking: true
+    archive_url: https://api.github.com/repos/dragonmux/rhais_package-to.pretty/{archive_format}{/ref}
+    archived: false
+    assignees_url: https://api.github.com/repos/dragonmux/rhais_package-to.pretty/assignees{/user}
+    blobs_url: https://api.github.com/repos/dragonmux/rhais_package-to.pretty/git/blobs{/sha}
+    branches_url: https://api.github.com/repos/dragonmux/rhais_package-to.pretty/branches{/branch}
+    clone_url: https://github.com/dragonmux/rhais_package-to.pretty.git
+    collaborators_url: https://api.github.com/repos/dragonmux/rhais_package-to.pretty/collaborators{/collaborator}
+    comments_url: https://api.github.com/repos/dragonmux/rhais_package-to.pretty/comments{/number}
+    commits_url: https://api.github.com/repos/dragonmux/rhais_package-to.pretty/commits{/sha}
+    compare_url: https://api.github.com/repos/dragonmux/rhais_package-to.pretty/compare/{base}...{head}
+    contents_url: https://api.github.com/repos/dragonmux/rhais_package-to.pretty/contents/{+path}
+    contributors_url: https://api.github.com/repos/dragonmux/rhais_package-to.pretty/contributors
+    created_at: '2022-02-24T04:43:43Z'
+    default_branch: main
+    deployments_url: https://api.github.com/repos/dragonmux/rhais_package-to.pretty/deployments
+    description: DX-MON's transistor outline footprints KiCad library
+    disabled: false
+    downloads_url: https://api.github.com/repos/dragonmux/rhais_package-to.pretty/downloads
+    events_url: https://api.github.com/repos/dragonmux/rhais_package-to.pretty/events
+    fork: false
+    forks: 0
+    forks_count: 0
+    forks_url: https://api.github.com/repos/dragonmux/rhais_package-to.pretty/forks
+    full_name: dragonmux/rhais_package-to.pretty
+    git_commits_url: https://api.github.com/repos/dragonmux/rhais_package-to.pretty/git/commits{/sha}
+    git_refs_url: https://api.github.com/repos/dragonmux/rhais_package-to.pretty/git/refs{/sha}
+    git_tags_url: https://api.github.com/repos/dragonmux/rhais_package-to.pretty/git/tags{/sha}
+    git_url: git://github.com/dragonmux/rhais_package-to.pretty.git
+    has_discussions: false
+    has_downloads: true
+    has_issues: true
+    has_pages: false
+    has_projects: true
+    has_wiki: true
+    homepage: null
+    hooks_url: https://api.github.com/repos/dragonmux/rhais_package-to.pretty/hooks
+    html_url: https://github.com/dragonmux/rhais_package-to.pretty
+    id: 463010828
+    is_template: false
+    issue_comment_url: https://api.github.com/repos/dragonmux/rhais_package-to.pretty/issues/comments{/number}
+    issue_events_url: https://api.github.com/repos/dragonmux/rhais_package-to.pretty/issues/events{/number}
+    issues_url: https://api.github.com/repos/dragonmux/rhais_package-to.pretty/issues{/number}
+    keys_url: https://api.github.com/repos/dragonmux/rhais_package-to.pretty/keys{/key_id}
+    labels_url: https://api.github.com/repos/dragonmux/rhais_package-to.pretty/labels{/name}
+    language: null
+    languages_url: https://api.github.com/repos/dragonmux/rhais_package-to.pretty/languages
+    license:
+      key: other
+      name: Other
+      node_id: MDc6TGljZW5zZTA=
+      spdx_id: NOASSERTION
+      url: null
+    merges_url: https://api.github.com/repos/dragonmux/rhais_package-to.pretty/merges
+    milestones_url: https://api.github.com/repos/dragonmux/rhais_package-to.pretty/milestones{/number}
+    mirror_url: null
+    name: rhais_package-to.pretty
+    network_count: 0
+    node_id: R_kgDOG5j8DA
+    notifications_url: https://api.github.com/repos/dragonmux/rhais_package-to.pretty/notifications{?since,all,participating}
+    open_issues: 0
+    open_issues_count: 0
+    owner:
+      avatar_url: https://avatars.githubusercontent.com/u/691140?v=4
+      events_url: https://api.github.com/users/dragonmux/events{/privacy}
+      followers_url: https://api.github.com/users/dragonmux/followers
+      following_url: https://api.github.com/users/dragonmux/following{/other_user}
+      gists_url: https://api.github.com/users/dragonmux/gists{/gist_id}
+      gravatar_id: ''
+      html_url: https://github.com/dragonmux
+      id: 691140
+      login: dragonmux
+      node_id: MDQ6VXNlcjY5MTE0MA==
+      organizations_url: https://api.github.com/users/dragonmux/orgs
+      received_events_url: https://api.github.com/users/dragonmux/received_events
+      repos_url: https://api.github.com/users/dragonmux/repos
+      site_admin: false
+      starred_url: https://api.github.com/users/dragonmux/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/dragonmux/subscriptions
+      type: User
+      url: https://api.github.com/users/dragonmux
+    private: false
+    pulls_url: https://api.github.com/repos/dragonmux/rhais_package-to.pretty/pulls{/number}
+    pushed_at: '2022-02-24T04:45:05Z'
+    releases_url: https://api.github.com/repos/dragonmux/rhais_package-to.pretty/releases{/id}
+    size: 6
+    ssh_url: git@github.com:dragonmux/rhais_package-to.pretty.git
+    stargazers_count: 1
+    stargazers_url: https://api.github.com/repos/dragonmux/rhais_package-to.pretty/stargazers
+    statuses_url: https://api.github.com/repos/dragonmux/rhais_package-to.pretty/statuses/{sha}
+    subscribers_count: 1
+    subscribers_url: https://api.github.com/repos/dragonmux/rhais_package-to.pretty/subscribers
+    subscription_url: https://api.github.com/repos/dragonmux/rhais_package-to.pretty/subscription
+    svn_url: https://github.com/dragonmux/rhais_package-to.pretty
+    tags_url: https://api.github.com/repos/dragonmux/rhais_package-to.pretty/tags
+    teams_url: https://api.github.com/repos/dragonmux/rhais_package-to.pretty/teams
+    temp_clone_token: null
+    topics: []
+    trees_url: https://api.github.com/repos/dragonmux/rhais_package-to.pretty/git/trees{/sha}
+    updated_at: '2022-02-24T21:31:30Z'
+    url: https://api.github.com/repos/dragonmux/rhais_package-to.pretty
+    visibility: public
+    watchers: 1
+    watchers_count: 1
+    web_commit_signoff_required: false
   url: http://github.com/dragonmux/rhais_package-to.pretty

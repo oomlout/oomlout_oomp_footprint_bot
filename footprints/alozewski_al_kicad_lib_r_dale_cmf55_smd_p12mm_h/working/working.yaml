@@ -7,10 +7,8 @@
   footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/alozewski_al_kicad_lib_r_dale_cmf55_smd_p12mm_h/working
   github_path: http://github.com/alozewski/al-kicad-lib.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/R_Dale_CMF55_SMD_P12mm_H.kicad_mod
   links:
-    github_owner: alozewski
-    github_repo_name: al-kicad-lib.pretty
-    github_src: http://github.com/alozewski/al-kicad-lib.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Valve_ECC83_Conn.kicad_mod
-    github_src_repo: https://github.com/alozewski/al-kicad-lib.pretty
+    github_src: http://gitlab.com/alozewski/al-kicad-lib.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Valve_ECC83_Conn.kicad_mod
+    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/alozewski_al_kicad_lib_r_dale_cmf55_smd_p12mm_h/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/alozewski_al_kicad_lib_r_dale_cmf55_smd_p12mm_h/working
     oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/alozewski_al_kicad_lib_r_dale_cmf55_smd_p12mm_h/working
@@ -34,109 +32,8 @@
   oomp_key_simple: alozewski_al_kicad_lib_r_dale_cmf55_smd_p12mm_h
   owner: alozewski
   repo:
-    allow_forking: true
-    archive_url: https://api.github.com/repos/alozewski/al-kicad-lib.pretty/{archive_format}{/ref}
-    archived: false
-    assignees_url: https://api.github.com/repos/alozewski/al-kicad-lib.pretty/assignees{/user}
-    blobs_url: https://api.github.com/repos/alozewski/al-kicad-lib.pretty/git/blobs{/sha}
-    branches_url: https://api.github.com/repos/alozewski/al-kicad-lib.pretty/branches{/branch}
-    clone_url: https://github.com/alozewski/al-kicad-lib.pretty.git
-    collaborators_url: https://api.github.com/repos/alozewski/al-kicad-lib.pretty/collaborators{/collaborator}
-    comments_url: https://api.github.com/repos/alozewski/al-kicad-lib.pretty/comments{/number}
-    commits_url: https://api.github.com/repos/alozewski/al-kicad-lib.pretty/commits{/sha}
-    compare_url: https://api.github.com/repos/alozewski/al-kicad-lib.pretty/compare/{base}...{head}
-    contents_url: https://api.github.com/repos/alozewski/al-kicad-lib.pretty/contents/{+path}
-    contributors_url: https://api.github.com/repos/alozewski/al-kicad-lib.pretty/contributors
-    created_at: '2017-07-28T15:49:31Z'
-    default_branch: master
-    deployments_url: https://api.github.com/repos/alozewski/al-kicad-lib.pretty/deployments
-    description: My KiCad footprint library
-    disabled: false
-    downloads_url: https://api.github.com/repos/alozewski/al-kicad-lib.pretty/downloads
-    events_url: https://api.github.com/repos/alozewski/al-kicad-lib.pretty/events
-    fork: false
-    forks: 0
-    forks_count: 0
-    forks_url: https://api.github.com/repos/alozewski/al-kicad-lib.pretty/forks
-    full_name: alozewski/al-kicad-lib.pretty
-    git_commits_url: https://api.github.com/repos/alozewski/al-kicad-lib.pretty/git/commits{/sha}
-    git_refs_url: https://api.github.com/repos/alozewski/al-kicad-lib.pretty/git/refs{/sha}
-    git_tags_url: https://api.github.com/repos/alozewski/al-kicad-lib.pretty/git/tags{/sha}
-    git_url: git://github.com/alozewski/al-kicad-lib.pretty.git
-    has_discussions: false
-    has_downloads: true
-    has_issues: true
-    has_pages: false
-    has_projects: true
-    has_wiki: true
-    homepage: null
-    hooks_url: https://api.github.com/repos/alozewski/al-kicad-lib.pretty/hooks
-    html_url: https://github.com/alozewski/al-kicad-lib.pretty
-    id: 98664668
-    is_template: false
-    issue_comment_url: https://api.github.com/repos/alozewski/al-kicad-lib.pretty/issues/comments{/number}
-    issue_events_url: https://api.github.com/repos/alozewski/al-kicad-lib.pretty/issues/events{/number}
-    issues_url: https://api.github.com/repos/alozewski/al-kicad-lib.pretty/issues{/number}
-    keys_url: https://api.github.com/repos/alozewski/al-kicad-lib.pretty/keys{/key_id}
-    labels_url: https://api.github.com/repos/alozewski/al-kicad-lib.pretty/labels{/name}
-    language: null
-    languages_url: https://api.github.com/repos/alozewski/al-kicad-lib.pretty/languages
-    license:
-      key: mit
-      name: MIT License
-      node_id: MDc6TGljZW5zZTEz
-      spdx_id: MIT
-      url: https://api.github.com/licenses/mit
-    merges_url: https://api.github.com/repos/alozewski/al-kicad-lib.pretty/merges
-    milestones_url: https://api.github.com/repos/alozewski/al-kicad-lib.pretty/milestones{/number}
-    mirror_url: null
-    name: al-kicad-lib.pretty
-    network_count: 0
-    node_id: MDEwOlJlcG9zaXRvcnk5ODY2NDY2OA==
-    notifications_url: https://api.github.com/repos/alozewski/al-kicad-lib.pretty/notifications{?since,all,participating}
-    open_issues: 0
-    open_issues_count: 0
-    owner:
-      avatar_url: https://avatars.githubusercontent.com/u/3020527?v=4
-      events_url: https://api.github.com/users/alozewski/events{/privacy}
-      followers_url: https://api.github.com/users/alozewski/followers
-      following_url: https://api.github.com/users/alozewski/following{/other_user}
-      gists_url: https://api.github.com/users/alozewski/gists{/gist_id}
-      gravatar_id: ''
-      html_url: https://github.com/alozewski
-      id: 3020527
-      login: alozewski
-      node_id: MDQ6VXNlcjMwMjA1Mjc=
-      organizations_url: https://api.github.com/users/alozewski/orgs
-      received_events_url: https://api.github.com/users/alozewski/received_events
-      repos_url: https://api.github.com/users/alozewski/repos
-      site_admin: false
-      starred_url: https://api.github.com/users/alozewski/starred{/owner}{/repo}
-      subscriptions_url: https://api.github.com/users/alozewski/subscriptions
-      type: User
-      url: https://api.github.com/users/alozewski
-    private: false
-    pulls_url: https://api.github.com/repos/alozewski/al-kicad-lib.pretty/pulls{/number}
-    pushed_at: '2020-01-05T13:31:31Z'
-    releases_url: https://api.github.com/repos/alozewski/al-kicad-lib.pretty/releases{/id}
-    size: 6
-    ssh_url: git@github.com:alozewski/al-kicad-lib.pretty.git
-    stargazers_count: 0
-    stargazers_url: https://api.github.com/repos/alozewski/al-kicad-lib.pretty/stargazers
-    statuses_url: https://api.github.com/repos/alozewski/al-kicad-lib.pretty/statuses/{sha}
-    subscribers_count: 2
-    subscribers_url: https://api.github.com/repos/alozewski/al-kicad-lib.pretty/subscribers
-    subscription_url: https://api.github.com/repos/alozewski/al-kicad-lib.pretty/subscription
-    svn_url: https://github.com/alozewski/al-kicad-lib.pretty
-    tags_url: https://api.github.com/repos/alozewski/al-kicad-lib.pretty/tags
-    teams_url: https://api.github.com/repos/alozewski/al-kicad-lib.pretty/teams
-    temp_clone_token: null
-    topics: []
-    trees_url: https://api.github.com/repos/alozewski/al-kicad-lib.pretty/git/trees{/sha}
-    updated_at: '2020-01-05T13:31:34Z'
-    url: https://api.github.com/repos/alozewski/al-kicad-lib.pretty
-    visibility: public
-    watchers: 0
-    watchers_count: 0
-    web_commit_signoff_required: false
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: http://github.com/alozewski/al-kicad-lib.pretty

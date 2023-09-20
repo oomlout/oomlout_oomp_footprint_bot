@@ -7,10 +7,8 @@
   footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/aaronw2_torex_semi_cl_2025_02/working
   github_path: http://github.com/aaronw2/Torex_Semi.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/CL-2025-02.kicad_mod
   links:
-    github_owner: aaronw2
-    github_repo_name: Torex_Semi.pretty
-    github_src: http://github.com/aaronw2/Torex_Semi.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/CL-2025-02.kicad_mod
-    github_src_repo: https://github.com/aaronw2/Torex_Semi.pretty
+    github_src: http://gitlab.com/aaronw2/Torex_Semi.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/CL-2025-02.kicad_mod
+    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/aaronw2_torex_semi_cl_2025_02/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/aaronw2_torex_semi_cl_2025_02/working
     oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/aaronw2_torex_semi_cl_2025_02/working
@@ -34,109 +32,8 @@
   oomp_key_simple: aaronw2_torex_semi_cl_2025_02
   owner: aaronw2
   repo:
-    allow_forking: true
-    archive_url: https://api.github.com/repos/aaronw2/Torex_Semi.pretty/{archive_format}{/ref}
-    archived: false
-    assignees_url: https://api.github.com/repos/aaronw2/Torex_Semi.pretty/assignees{/user}
-    blobs_url: https://api.github.com/repos/aaronw2/Torex_Semi.pretty/git/blobs{/sha}
-    branches_url: https://api.github.com/repos/aaronw2/Torex_Semi.pretty/branches{/branch}
-    clone_url: https://github.com/aaronw2/Torex_Semi.pretty.git
-    collaborators_url: https://api.github.com/repos/aaronw2/Torex_Semi.pretty/collaborators{/collaborator}
-    comments_url: https://api.github.com/repos/aaronw2/Torex_Semi.pretty/comments{/number}
-    commits_url: https://api.github.com/repos/aaronw2/Torex_Semi.pretty/commits{/sha}
-    compare_url: https://api.github.com/repos/aaronw2/Torex_Semi.pretty/compare/{base}...{head}
-    contents_url: https://api.github.com/repos/aaronw2/Torex_Semi.pretty/contents/{+path}
-    contributors_url: https://api.github.com/repos/aaronw2/Torex_Semi.pretty/contributors
-    created_at: '2018-09-05T06:53:51Z'
-    default_branch: master
-    deployments_url: https://api.github.com/repos/aaronw2/Torex_Semi.pretty/deployments
-    description: Kicad 5 footprints for Torex Semiconductor
-    disabled: false
-    downloads_url: https://api.github.com/repos/aaronw2/Torex_Semi.pretty/downloads
-    events_url: https://api.github.com/repos/aaronw2/Torex_Semi.pretty/events
-    fork: false
-    forks: 0
-    forks_count: 0
-    forks_url: https://api.github.com/repos/aaronw2/Torex_Semi.pretty/forks
-    full_name: aaronw2/Torex_Semi.pretty
-    git_commits_url: https://api.github.com/repos/aaronw2/Torex_Semi.pretty/git/commits{/sha}
-    git_refs_url: https://api.github.com/repos/aaronw2/Torex_Semi.pretty/git/refs{/sha}
-    git_tags_url: https://api.github.com/repos/aaronw2/Torex_Semi.pretty/git/tags{/sha}
-    git_url: git://github.com/aaronw2/Torex_Semi.pretty.git
-    has_discussions: false
-    has_downloads: true
-    has_issues: true
-    has_pages: false
-    has_projects: true
-    has_wiki: true
-    homepage: null
-    hooks_url: https://api.github.com/repos/aaronw2/Torex_Semi.pretty/hooks
-    html_url: https://github.com/aaronw2/Torex_Semi.pretty
-    id: 147473459
-    is_template: false
-    issue_comment_url: https://api.github.com/repos/aaronw2/Torex_Semi.pretty/issues/comments{/number}
-    issue_events_url: https://api.github.com/repos/aaronw2/Torex_Semi.pretty/issues/events{/number}
-    issues_url: https://api.github.com/repos/aaronw2/Torex_Semi.pretty/issues{/number}
-    keys_url: https://api.github.com/repos/aaronw2/Torex_Semi.pretty/keys{/key_id}
-    labels_url: https://api.github.com/repos/aaronw2/Torex_Semi.pretty/labels{/name}
-    language: null
-    languages_url: https://api.github.com/repos/aaronw2/Torex_Semi.pretty/languages
-    license:
-      key: bsd-2-clause
-      name: BSD 2-Clause "Simplified" License
-      node_id: MDc6TGljZW5zZTQ=
-      spdx_id: BSD-2-Clause
-      url: https://api.github.com/licenses/bsd-2-clause
-    merges_url: https://api.github.com/repos/aaronw2/Torex_Semi.pretty/merges
-    milestones_url: https://api.github.com/repos/aaronw2/Torex_Semi.pretty/milestones{/number}
-    mirror_url: null
-    name: Torex_Semi.pretty
-    network_count: 0
-    node_id: MDEwOlJlcG9zaXRvcnkxNDc0NzM0NTk=
-    notifications_url: https://api.github.com/repos/aaronw2/Torex_Semi.pretty/notifications{?since,all,participating}
-    open_issues: 0
-    open_issues_count: 0
-    owner:
-      avatar_url: https://avatars.githubusercontent.com/u/13844499?v=4
-      events_url: https://api.github.com/users/aaronw2/events{/privacy}
-      followers_url: https://api.github.com/users/aaronw2/followers
-      following_url: https://api.github.com/users/aaronw2/following{/other_user}
-      gists_url: https://api.github.com/users/aaronw2/gists{/gist_id}
-      gravatar_id: ''
-      html_url: https://github.com/aaronw2
-      id: 13844499
-      login: aaronw2
-      node_id: MDQ6VXNlcjEzODQ0NDk5
-      organizations_url: https://api.github.com/users/aaronw2/orgs
-      received_events_url: https://api.github.com/users/aaronw2/received_events
-      repos_url: https://api.github.com/users/aaronw2/repos
-      site_admin: false
-      starred_url: https://api.github.com/users/aaronw2/starred{/owner}{/repo}
-      subscriptions_url: https://api.github.com/users/aaronw2/subscriptions
-      type: User
-      url: https://api.github.com/users/aaronw2
-    private: false
-    pulls_url: https://api.github.com/repos/aaronw2/Torex_Semi.pretty/pulls{/number}
-    pushed_at: '2018-09-20T11:43:05Z'
-    releases_url: https://api.github.com/repos/aaronw2/Torex_Semi.pretty/releases{/id}
-    size: 6
-    ssh_url: git@github.com:aaronw2/Torex_Semi.pretty.git
-    stargazers_count: 1
-    stargazers_url: https://api.github.com/repos/aaronw2/Torex_Semi.pretty/stargazers
-    statuses_url: https://api.github.com/repos/aaronw2/Torex_Semi.pretty/statuses/{sha}
-    subscribers_count: 2
-    subscribers_url: https://api.github.com/repos/aaronw2/Torex_Semi.pretty/subscribers
-    subscription_url: https://api.github.com/repos/aaronw2/Torex_Semi.pretty/subscription
-    svn_url: https://github.com/aaronw2/Torex_Semi.pretty
-    tags_url: https://api.github.com/repos/aaronw2/Torex_Semi.pretty/tags
-    teams_url: https://api.github.com/repos/aaronw2/Torex_Semi.pretty/teams
-    temp_clone_token: null
-    topics: []
-    trees_url: https://api.github.com/repos/aaronw2/Torex_Semi.pretty/git/trees{/sha}
-    updated_at: '2019-12-04T14:11:03Z'
-    url: https://api.github.com/repos/aaronw2/Torex_Semi.pretty
-    visibility: public
-    watchers: 1
-    watchers_count: 1
-    web_commit_signoff_required: false
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: http://github.com/aaronw2/Torex_Semi.pretty
