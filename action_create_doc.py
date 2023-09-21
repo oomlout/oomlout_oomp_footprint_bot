@@ -29,68 +29,68 @@ def main():
                 if isinstance(yaml_dict, list):
                     yaml_dict = yaml_dict[0]
                 
-                
-                owner = yaml_dict.get("owner", "")
-                owner = owner.lower()
+                if yaml_dict is not None:
+                    owner = yaml_dict.get("owner", "")
+                    owner = owner.lower()
 
-                footprint = yaml_dict.get("footprint", "")
-                footprint_name = ""
-                if footprint != "":
-                    footprint_name = str(footprint.get("libraryLink", ""))
-                    footprint_name = footprint_name.lower()
-                    #remove special characters
-                    footprint_name = oom_base.remove_special_characters(footprint_name)
-                    library = yaml_dict.get("oomp_key", "")
-                    library = library.replace(f"oomp_{owner}_", "")
-                    library = library.replace(f"_{footprint_name}", "")
-                    last_library = library
+                    footprint = yaml_dict.get("footprint", "")
+                    footprint_name = ""
+                    if footprint != "":
+                        footprint_name = str(footprint.get("libraryLink", ""))
+                        footprint_name = footprint_name.lower()
+                        #remove special characters
+                        footprint_name = oom_base.remove_special_characters(footprint_name)
+                        library = yaml_dict.get("oomp_key", "")
+                        library = library.replace(f"oomp_{owner}_", "")
+                        library = library.replace(f"_{footprint_name}", "")
+                        last_library = library
 
-                else: # if no footprint to get foorprint name   from, use the last library
-                    library = last_library
+                    else: # if no footprint to get foorprint name   from, use the last library
+                        library = last_library
 
-                    footprint_name = yaml_dict.get("oomp_key", "")
-                    footprint_name = footprint_name.replace(f"oomp_{owner}_{library}_", "")    
-                    pass
-                
-                
-                
-                dst = f"c:/gh/oomlout_oomp_footprint_doc/footprints/{owner}/{library}/{footprint_name}"
+                        footprint_name = yaml_dict.get("oomp_key", "")
+                        footprint_name = footprint_name.replace(f"oomp_{owner}_{library}_", "")    
+                        pass
+                    
+                    
+                    
+                    dst = f"c:/gh/oomlout_oomp_footprint_doc/footprints/{owner}/{library}/{footprint_name}"
 
-                #copy all files in source directory inclusion subfodlers to dst directory using shutil
-                
-                if not os.path.exists(dst) or overwrite:
-                    #print(f"Copying {src} to {dst}")
-                    #copy all
-                    #shutil.copytree(directory, dst, dirs_exist_ok=True)
-                    file_list = []
-                    file_list.append("readme.md")
-                    file_list.append("working_600.png")
-                    file_list.append("working.png")
-                    file_list.append("working_kicad_pcb_3d_600.png")
-                    file_list.append("working_kicad_pcb_3d_140.png")
-                    file_list.append("working_kicad_pcb_3d.png")
-                    file_list.append("working_kicad_pcb_3d_back_140.png")
-                    file_list.append("working_kicad_pcb_3d_back.png")
-                    file_list.append("working_kicad_pcb_3d_front_140.png")
-                    file_list.append("working_kicad_pcb_3d_front.png")
-                    file_list.append("working.yaml")
-                    file_list.append("working.kicad_mod")
-                    #make directory if it doesn't exist
-                    if not os.path.exists(dst):
-                        os.makedirs(dst)
-                    for file in file_list:
-                        src_file = f"{directory}/{file}"
-                        dst_file = f"{dst}/{file}"
-                        if os.path.exists(src_file):
-                            if not os.path.exists(dst_file) or overwrite:
-                                
-                                shutil.copy(src_file, dst_file)
-                        else:
-                            pass
-                            #print(f"file not found: {src_file}")
+                    #copy all files in source directory inclusion subfodlers to dst directory using shutil
+                    
+                    if not os.path.exists(dst) or overwrite:
+                        #print(f"Copying {src} to {dst}")
+                        #copy all
+                        #shutil.copytree(directory, dst, dirs_exist_ok=True)
+                        file_list = []
+                        file_list.append("readme.md")
+                        file_list.append("working_600.png")
+                        file_list.append("working.png")
+                        file_list.append("working_kicad_pcb_3d_600.png")
+                        file_list.append("working_kicad_pcb_3d_140.png")
+                        file_list.append("working_kicad_pcb_3d.png")
+                        file_list.append("working_kicad_pcb_3d_back_140.png")
+                        file_list.append("working_kicad_pcb_3d_back.png")
+                        file_list.append("working_kicad_pcb_3d_front_140.png")
+                        file_list.append("working_kicad_pcb_3d_front.png")
+                        file_list.append("working.yaml")
+                        file_list.append("working.kicad_mod")
+                        #make directory if it doesn't exist
+                        if not os.path.exists(dst):
+                            os.makedirs(dst)
+                        for file in file_list:
+                            src_file = f"{directory}/{file}"
+                            dst_file = f"{dst}/{file}"
+                            if os.path.exists(src_file):
+                                if not os.path.exists(dst_file) or overwrite:
+                                    
+                                    shutil.copy(src_file, dst_file)
+                            else:
+                                pass
+                                #print(f"file not found: {src_file}")
 
 
-                    pass
+                        pass
                 else:
                     #print(f"Skipping {src} to {dst}")
                     pass

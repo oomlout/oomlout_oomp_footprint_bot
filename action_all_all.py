@@ -9,30 +9,37 @@ import oom_git
 
 
 def main(**kwargs):
+    repo_filter = "part_template"
+
+    #repo_filter = ""
+    
+    
+    
+    
     import time
     time_start = time.time()
     test=False
     dir_src = "tmp/data/"
     src_github = "https://github.com/oomlout/oomlout_oomp_footprint_src"
-    #oom_git.clone(repo = src_github, directory=dir_src)    
+    oom_git.clone(repo = src_github, directory=dir_src)    
     dir_src = f"{dir_src}/oomlout_oomp_footprint_src"
     
     directory = dir_src
 
     #make the repo.yaml file not really needed very often
-    #oom_f_s.make_footprint_yaml(directory=directory, test=test)
+    oom_f_s.make_footprint_yaml(directory=directory, test=test)
 
-    #oom_f_s.clone_and_copy_footprints(directory=directory, test=test)
+    oom_f_s.clone_and_copy_footprints(directory=directory, test=test, repo_filter = repo_filter)
    
-    #oom_f_s.make_footprints_readme()
+    oom_f_s.make_footprints_readme()
 
     #push footprint_src    
-    #oom_git.push_to_git(directory=directory)
+    oom_git.push_to_git(directory=directory)
 
     # bot stuff
-    #action_setup.main()
+    action_setup.main()
 
-    #action_generate_all_footprint_repo.main()
+    action_generate_all_footprint_repo.main()
 
     ##action_generate_footprint_outputs.main()
 
