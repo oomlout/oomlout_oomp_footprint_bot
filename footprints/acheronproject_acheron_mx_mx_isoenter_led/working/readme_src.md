@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## MX_ISOEnter_LED  by AcheronProject  
+## MX_ISOEnter_LED  by none  
   
 oomp key: oomp_acheronproject_acheron_mx_mx_isoenter_led  
   
-source repo at: [http://github.com/AcheronProject/acheron_MX.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/MX_ISOEnter_LED.kicad_mod](http://github.com/AcheronProject/acheron_MX.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/MX_ISOEnter_LED.kicad_mod)  
+source repo at: [http://gitlab.com/AcheronProject/acheron_MX.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/MX_ISOEnter_LED.kicad_mod](http://gitlab.com/AcheronProject/acheron_MX.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/MX_ISOEnter_LED.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  

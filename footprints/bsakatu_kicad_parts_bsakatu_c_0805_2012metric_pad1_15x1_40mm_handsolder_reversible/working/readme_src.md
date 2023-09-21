@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## C_0805_2012Metric_Pad1.15x1.40mm_HandSolder_Reversible  by bsakatu  
+## C_0805_2012Metric_Pad1.15x1.40mm_HandSolder_Reversible  by none  
   
 oomp key: oomp_bsakatu_kicad_parts_bsakatu_c_0805_2012metric_pad1_15x1_40mm_handsolder_reversible  
   
-source repo at: [http://github.com/bsakatu/kicad_parts_bsakatu.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/USB_C_HRO-TYPE-C-31-M-14_HandSoldering.kicad_mod](http://github.com/bsakatu/kicad_parts_bsakatu.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/USB_C_HRO-TYPE-C-31-M-14_HandSoldering.kicad_mod)  
+source repo at: [http://gitlab.com/bsakatu/kicad_parts_bsakatu.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/USB_C_HRO-TYPE-C-31-M-14_HandSoldering.kicad_mod](http://gitlab.com/bsakatu/kicad_parts_bsakatu.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/USB_C_HRO-TYPE-C-31-M-14_HandSoldering.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  

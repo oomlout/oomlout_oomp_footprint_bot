@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## USB_C_Receptacle_Nelton_5077CR-16-SMC2-BK-TR  by AkiyukiOkayasu  
+## USB_C_Receptacle_Nelton_5077CR-16-SMC2-BK-TR  by none  
   
 oomp key: oomp_akiyukiokayasu_kicad_akiyuki_footprint_usb_c_receptacle_nelton_5077cr_16_smc2_bk_tr  
   
-source repo at: [http://github.com/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/USB_MicroB_PowerOnly.kicad_mod](http://github.com/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/USB_MicroB_PowerOnly.kicad_mod)  
+source repo at: [http://gitlab.com/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/USB_MicroB_PowerOnly.kicad_mod](http://gitlab.com/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/USB_MicroB_PowerOnly.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  

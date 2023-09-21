@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## Hitek725-2U  by Alasofia  
+## Hitek725-2U  by none  
   
 oomp key: oomp_alasofia_hitek725_hitek725_2u  
   
-source repo at: [http://github.com/Alasofia/hitek725.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Hitek725-BigAssEnter.kicad_mod](http://github.com/Alasofia/hitek725.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Hitek725-BigAssEnter.kicad_mod)  
+source repo at: [http://gitlab.com/Alasofia/hitek725.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Hitek725-BigAssEnter.kicad_mod](http://gitlab.com/Alasofia/hitek725.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Hitek725-BigAssEnter.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  

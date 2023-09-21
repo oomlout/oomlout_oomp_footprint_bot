@@ -12,7 +12,7 @@ source repo at: [http://github.com/LibreSolar/KiCad-footprints/blob/master/tmp/d
 | name | value | 
 | --- | --- | 
 | footprint name | L_Mount_Lodestone_VTM254 | 
-| footprint description | Lodestone Pacific, 64.51mm diameter vertical toroid mount, 16AWG/1.27mm holes, http://www.lodestonepacific.com/CatKpdf/VTM_Series.pdf | 
+| footprint description | Lodestone Pacific, 64.51mm diameter vertical toroid mount, 16AWG/1.27mm holes, https://www.lodestonepacific.com/wp-content/uploads/2020/07/VTM-Series-Full-Page.pdf | 
 | number of pads | 4 | 
 | github path | http://github.com/LibreSolar/KiCad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/Inductor_THT.pretty/L_Mount_Lodestone_VTM254.kicad_mod | 
 | oomp key | oomp_libresolar_inductor_tht_l_mount_lodestone_vtm254 | 

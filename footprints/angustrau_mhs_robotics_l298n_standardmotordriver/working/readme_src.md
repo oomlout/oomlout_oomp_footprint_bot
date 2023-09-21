@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## L298N_StandardMotorDriver  by emilytrau  
+## L298N_StandardMotorDriver  by none  
   
 oomp key: oomp_angustrau_mhs_robotics_l298n_standardmotordriver  
   
-source repo at: [http://github.com/angustrau/MHS_Robotics.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Tronixlabs_L298N.kicad_mod](http://github.com/angustrau/MHS_Robotics.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Tronixlabs_L298N.kicad_mod)  
+source repo at: [http://gitlab.com/angustrau/MHS_Robotics.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Tronixlabs_L298N.kicad_mod](http://gitlab.com/angustrau/MHS_Robotics.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Tronixlabs_L298N.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  

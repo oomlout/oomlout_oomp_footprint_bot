@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## 1bitsy-w-all-pads  by 1Bitsy  
+## 1bitsy-w-all-pads  by none  
   
 oomp key: oomp_1bitsy_1bitsy_1bitsy_w_all_pads  
   
-source repo at: [http://github.com/1Bitsy/1bitsy-hardware-lib/blob/master/tmp/data//oomlout_oomp_footprint_src/kicad/1bitsy.pretty/1bitsy.kicad_mod](http://github.com/1Bitsy/1bitsy-hardware-lib/blob/master/tmp/data//oomlout_oomp_footprint_src/kicad/1bitsy.pretty/1bitsy.kicad_mod)  
+source repo at: [http://gitlab.com/1Bitsy/1bitsy-hardware-lib/blob/master/tmp/data//oomlout_oomp_footprint_src/kicad/1bitsy.pretty/1bitsy.kicad_mod](http://gitlab.com/1Bitsy/1bitsy-hardware-lib/blob/master/tmp/data//oomlout_oomp_footprint_src/kicad/1bitsy.pretty/1bitsy.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  

@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## CP_Elec_6.3x11_Board_Edge_Mirrored  by chriswags  
+## CP_Elec_6.3x11_Board_Edge_Mirrored  by none  
   
 oomp key: oomp_chriswags_footprints_cp_elec_6_3x11_board_edge_mirrored  
   
-source repo at: [http://github.com/chriswags/KiCad/blob/master/tmp/data//oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod](http://github.com/chriswags/KiCad/blob/master/tmp/data//oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod)  
+source repo at: [http://gitlab.com/chriswags/KiCad/blob/master/tmp/data//oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod](http://gitlab.com/chriswags/KiCad/blob/master/tmp/data//oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  

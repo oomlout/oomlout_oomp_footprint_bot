@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## ESP-32S  by adamjvr  
+## ESP-32S  by none  
   
 oomp key: oomp_adamjvr_esp32_footprints_lib_esp_32s  
   
-source repo at: [http://github.com/adamjvr/ESP32-kiCAD-Footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/ESP32-Footprints/ESP32-footprints-Lib.pretty/ESP3212.kicad_mod](http://github.com/adamjvr/ESP32-kiCAD-Footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/ESP32-Footprints/ESP32-footprints-Lib.pretty/ESP3212.kicad_mod)  
+source repo at: [http://gitlab.com/adamjvr/ESP32-kiCAD-Footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/ESP32-Footprints/ESP32-footprints-Lib.pretty/ESP3212.kicad_mod](http://gitlab.com/adamjvr/ESP32-kiCAD-Footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/ESP32-Footprints/ESP32-footprints-Lib.pretty/ESP3212.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  

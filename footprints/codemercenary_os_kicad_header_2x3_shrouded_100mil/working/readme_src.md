@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## Header_2x3_Shrouded_100mil  by codemercenary-os  
+## Header_2x3_Shrouded_100mil  by none  
   
 oomp key: oomp_codemercenary_os_kicad_header_2x3_shrouded_100mil  
   
-source repo at: [http://github.com/codemercenary-os/kicad.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XTAL_7X5MM.kicad_mod](http://github.com/codemercenary-os/kicad.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XTAL_7X5MM.kicad_mod)  
+source repo at: [http://gitlab.com/codemercenary-os/kicad.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XTAL_7X5MM.kicad_mod](http://gitlab.com/codemercenary-os/kicad.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XTAL_7X5MM.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  

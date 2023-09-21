@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## LED_XINGLIGHT_WS2812B_PLCC4_5.0x5.0mm_P3.2mm  by candykingdom  
+## LED_XINGLIGHT_WS2812B_PLCC4_5.0x5.0mm_P3.2mm  by none  
   
 oomp key: oomp_candykingdom_homebrew_led_xinglight_ws2812b_plcc4_5_0x5_0mm_p3_2mm  
   
-source repo at: [http://github.com/candykingdom/homebrew.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/‎EG1206‎_SLIDE_SWITCH.kicad_mod](http://github.com/candykingdom/homebrew.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/‎EG1206‎_SLIDE_SWITCH.kicad_mod)  
+source repo at: [http://gitlab.com/candykingdom/homebrew.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/‎EG1206‎_SLIDE_SWITCH.kicad_mod](http://gitlab.com/candykingdom/homebrew.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/‎EG1206‎_SLIDE_SWITCH.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  

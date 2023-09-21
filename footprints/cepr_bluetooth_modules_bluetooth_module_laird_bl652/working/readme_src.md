@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## Bluetooth_Module_Laird_BL652  by cepr  
+## Bluetooth_Module_Laird_BL652  by none  
   
 oomp key: oomp_cepr_bluetooth_modules_bluetooth_module_laird_bl652  
   
-source repo at: [http://github.com/cepr/Bluetooth_Modules.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Bluetooth_Module_Laird_BL652.kicad_mod](http://github.com/cepr/Bluetooth_Modules.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Bluetooth_Module_Laird_BL652.kicad_mod)  
+source repo at: [http://gitlab.com/cepr/Bluetooth_Modules.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Bluetooth_Module_Laird_BL652.kicad_mod](http://gitlab.com/cepr/Bluetooth_Modules.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Bluetooth_Module_Laird_BL652.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  

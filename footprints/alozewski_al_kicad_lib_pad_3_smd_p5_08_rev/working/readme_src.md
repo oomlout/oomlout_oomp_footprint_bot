@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## Pad_3_SMD_P5.08_Rev  by alozewski  
+## Pad_3_SMD_P5.08_Rev  by none  
   
 oomp key: oomp_alozewski_al_kicad_lib_pad_3_smd_p5_08_rev  
   
-source repo at: [http://github.com/alozewski/al-kicad-lib.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Valve_ECC83_Conn.kicad_mod](http://github.com/alozewski/al-kicad-lib.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Valve_ECC83_Conn.kicad_mod)  
+source repo at: [http://gitlab.com/alozewski/al-kicad-lib.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Valve_ECC83_Conn.kicad_mod](http://gitlab.com/alozewski/al-kicad-lib.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Valve_ECC83_Conn.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  

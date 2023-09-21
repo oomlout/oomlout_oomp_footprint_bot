@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## 1_PIN_CONNECTOR  by blackb3ar  
+## 1_PIN_CONNECTOR  by none  
   
 oomp key: oomp_blackb3ar_kicadprints_1_pin_connector  
   
-source repo at: [http://github.com/blackb3ar/kicadprints.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/TestPad.kicad_mod](http://github.com/blackb3ar/kicadprints.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/TestPad.kicad_mod)  
+source repo at: [http://gitlab.com/blackb3ar/kicadprints.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/TestPad.kicad_mod](http://gitlab.com/blackb3ar/kicadprints.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/TestPad.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  

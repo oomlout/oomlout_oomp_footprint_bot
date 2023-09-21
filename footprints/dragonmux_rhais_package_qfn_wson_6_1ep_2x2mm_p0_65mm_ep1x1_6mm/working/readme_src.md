@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm  by none  
+## WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm  by dragonmux  
   
 oomp key: oomp_dragonmux_rhais_package_qfn_wson_6_1ep_2x2mm_p0_65mm_ep1x1_6mm  
   
-source repo at: [http://gitlab.com/dragonmux/rhais_package-qfn.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4mm.kicad_mod](http://gitlab.com/dragonmux/rhais_package-qfn.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4mm.kicad_mod)  
+source repo at: [http://github.com/dragonmux/rhais_package-qfn.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4mm.kicad_mod](http://github.com/dragonmux/rhais_package-qfn.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4mm.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  

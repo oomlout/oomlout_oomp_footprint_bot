@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## MXMountLP-1.75U  by Alasofia  
+## MXMountLP-1.75U  by none  
   
 oomp key: oomp_alasofia_mxmountlp_mxmountlp_1_75u  
   
-source repo at: [http://github.com/Alasofia/MXMountLP.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/MXMountLP-1U.kicad_mod](http://github.com/Alasofia/MXMountLP.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/MXMountLP-1U.kicad_mod)  
+source repo at: [http://gitlab.com/Alasofia/MXMountLP.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/MXMountLP-1U.kicad_mod](http://gitlab.com/Alasofia/MXMountLP.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/MXMountLP-1U.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  

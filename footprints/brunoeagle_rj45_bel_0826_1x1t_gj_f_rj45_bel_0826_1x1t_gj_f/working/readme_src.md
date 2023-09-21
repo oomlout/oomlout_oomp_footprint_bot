@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## RJ45_Bel_0826-1X1T-GJ-F  by brunoeagle  
+## RJ45_Bel_0826-1X1T-GJ-F  by none  
   
 oomp key: oomp_brunoeagle_rj45_bel_0826_1x1t_gj_f_rj45_bel_0826_1x1t_gj_f  
   
-source repo at: [http://github.com/brunoeagle/kicad-open-modules/blob/master/tmp/data//oomlout_oomp_footprint_src/XH-2AW.kicad_mod](http://github.com/brunoeagle/kicad-open-modules/blob/master/tmp/data//oomlout_oomp_footprint_src/XH-2AW.kicad_mod)  
+source repo at: [http://gitlab.com/brunoeagle/kicad-open-modules/blob/master/tmp/data//oomlout_oomp_footprint_src/XH-2AW.kicad_mod](http://gitlab.com/brunoeagle/kicad-open-modules/blob/master/tmp/data//oomlout_oomp_footprint_src/XH-2AW.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  

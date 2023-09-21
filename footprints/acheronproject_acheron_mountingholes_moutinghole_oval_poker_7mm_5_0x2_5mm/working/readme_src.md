@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## MoutingHole_Oval_Poker_7mm_5.0x2.5mm  by AcheronProject  
+## MoutingHole_Oval_Poker_7mm_5.0x2.5mm  by none  
   
 oomp key: oomp_acheronproject_acheron_mountingholes_moutinghole_oval_poker_7mm_5_0x2_5mm  
   
-source repo at: [http://github.com/AcheronProject/acheron_MountingHoles.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/ToolingHole_1.152mm_(for_JLCPCB_SMT).kicad_mod](http://github.com/AcheronProject/acheron_MountingHoles.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/ToolingHole_1.152mm_(for_JLCPCB_SMT).kicad_mod)  
+source repo at: [http://gitlab.com/AcheronProject/acheron_MountingHoles.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/ToolingHole_1.152mm_(for_JLCPCB_SMT).kicad_mod](http://gitlab.com/AcheronProject/acheron_MountingHoles.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/ToolingHole_1.152mm_(for_JLCPCB_SMT).kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  

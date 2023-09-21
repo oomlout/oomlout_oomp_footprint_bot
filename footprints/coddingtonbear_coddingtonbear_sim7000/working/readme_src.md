@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## SIM7000  by coddingtonbear  
+## SIM7000  by none  
   
 oomp key: oomp_coddingtonbear_coddingtonbear_sim7000  
   
-source repo at: [http://github.com/coddingtonbear/coddingtonbear-kicad-lib/blob/master/tmp/data//oomlout_oomp_footprint_src/coddingtonbear.pretty/USB_Thru_hole.kicad_mod](http://github.com/coddingtonbear/coddingtonbear-kicad-lib/blob/master/tmp/data//oomlout_oomp_footprint_src/coddingtonbear.pretty/USB_Thru_hole.kicad_mod)  
+source repo at: [http://gitlab.com/coddingtonbear/coddingtonbear-kicad-lib/blob/master/tmp/data//oomlout_oomp_footprint_src/coddingtonbear.pretty/USB_Thru_hole.kicad_mod](http://gitlab.com/coddingtonbear/coddingtonbear-kicad-lib/blob/master/tmp/data//oomlout_oomp_footprint_src/coddingtonbear.pretty/USB_Thru_hole.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  

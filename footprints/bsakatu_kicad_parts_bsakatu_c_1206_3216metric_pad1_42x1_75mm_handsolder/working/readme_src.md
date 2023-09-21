@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## C_1206_3216Metric_Pad1.42x1.75mm_HandSolder  by bsakatu  
+## C_1206_3216Metric_Pad1.42x1.75mm_HandSolder  by none  
   
 oomp key: oomp_bsakatu_kicad_parts_bsakatu_c_1206_3216metric_pad1_42x1_75mm_handsolder  
   
-source repo at: [http://github.com/bsakatu/kicad_parts_bsakatu.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/USB_C_HRO-TYPE-C-31-M-14_HandSoldering.kicad_mod](http://github.com/bsakatu/kicad_parts_bsakatu.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/USB_C_HRO-TYPE-C-31-M-14_HandSoldering.kicad_mod)  
+source repo at: [http://gitlab.com/bsakatu/kicad_parts_bsakatu.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/USB_C_HRO-TYPE-C-31-M-14_HandSoldering.kicad_mod](http://gitlab.com/bsakatu/kicad_parts_bsakatu.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/USB_C_HRO-TYPE-C-31-M-14_HandSoldering.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  

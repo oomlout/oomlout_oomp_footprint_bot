@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## MXO625R  by AcheronProject  
+## MXO625R  by none  
   
 oomp key: oomp_acheronproject_acheron_mxo_mxo625r  
   
-source repo at: [http://github.com/AcheronProject/acheron_MXO.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/MXO_ISOEnter_Horizontal_Reversed.kicad_mod](http://github.com/AcheronProject/acheron_MXO.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/MXO_ISOEnter_Horizontal_Reversed.kicad_mod)  
+source repo at: [http://gitlab.com/AcheronProject/acheron_MXO.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/MXO_ISOEnter_Horizontal_Reversed.kicad_mod](http://gitlab.com/AcheronProject/acheron_MXO.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/MXO_ISOEnter_Horizontal_Reversed.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  

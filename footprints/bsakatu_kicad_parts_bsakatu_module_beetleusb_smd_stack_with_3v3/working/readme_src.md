@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## Module_BeetleUSB_SMD_stack_with_3V3  by bsakatu  
+## Module_BeetleUSB_SMD_stack_with_3V3  by none  
   
 oomp key: oomp_bsakatu_kicad_parts_bsakatu_module_beetleusb_smd_stack_with_3v3  
   
-source repo at: [http://github.com/bsakatu/kicad_parts_bsakatu.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/USB_C_HRO-TYPE-C-31-M-14_HandSoldering.kicad_mod](http://github.com/bsakatu/kicad_parts_bsakatu.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/USB_C_HRO-TYPE-C-31-M-14_HandSoldering.kicad_mod)  
+source repo at: [http://gitlab.com/bsakatu/kicad_parts_bsakatu.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/USB_C_HRO-TYPE-C-31-M-14_HandSoldering.kicad_mod](http://gitlab.com/bsakatu/kicad_parts_bsakatu.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/USB_C_HRO-TYPE-C-31-M-14_HandSoldering.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  

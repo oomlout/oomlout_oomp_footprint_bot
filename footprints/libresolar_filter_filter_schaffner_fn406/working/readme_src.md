@@ -12,7 +12,7 @@ source repo at: [http://github.com/LibreSolar/KiCad-footprints/blob/master/tmp/d
 | name | value | 
 | --- | --- | 
 | footprint name | Filter_Schaffner_FN406 | 
-| footprint description | Ultra Compact EMC Filter (https://www.schaffner.com/products/download/product/datasheet/fn-406-ultra-compact-emc-filter/) | 
+| footprint description | Ultra Compact EMC Filter (https://www.schaffner.com/product/FN406/Schaffner_datasheet_FN406.pdf) | 
 | number of pads | 5 | 
 | github path | http://github.com/LibreSolar/KiCad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/Filter.pretty/Filter_Schaffner_FN406.kicad_mod | 
 | oomp key | oomp_libresolar_filter_filter_schaffner_fn406 | 

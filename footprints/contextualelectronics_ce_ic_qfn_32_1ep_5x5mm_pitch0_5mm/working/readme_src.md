@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## QFN-32-1EP_5x5mm_Pitch0.5mm  by ContextualElectronics  
+## QFN-32-1EP_5x5mm_Pitch0.5mm  by none  
   
 oomp key: oomp_contextualelectronics_ce_ic_qfn_32_1ep_5x5mm_pitch0_5mm  
   
-source repo at: [http://github.com/ContextualElectronics/CE_KiCadLib/blob/master/tmp/data//oomlout_oomp_footprint_src/Footprint/CE_Switch.pretty/FSM2JSMAA-ND.kicad_mod](http://github.com/ContextualElectronics/CE_KiCadLib/blob/master/tmp/data//oomlout_oomp_footprint_src/Footprint/CE_Switch.pretty/FSM2JSMAA-ND.kicad_mod)  
+source repo at: [http://gitlab.com/ContextualElectronics/CE_KiCadLib/blob/master/tmp/data//oomlout_oomp_footprint_src/Footprint/CE_Switch.pretty/FSM2JSMAA-ND.kicad_mod](http://gitlab.com/ContextualElectronics/CE_KiCadLib/blob/master/tmp/data//oomlout_oomp_footprint_src/Footprint/CE_Switch.pretty/FSM2JSMAA-ND.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  

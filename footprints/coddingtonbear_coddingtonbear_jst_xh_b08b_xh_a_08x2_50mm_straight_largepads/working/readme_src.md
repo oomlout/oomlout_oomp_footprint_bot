@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## JST_XH_B08B-XH-A_08x2.50mm_Straight_LargePads  by coddingtonbear  
+## JST_XH_B08B-XH-A_08x2.50mm_Straight_LargePads  by none  
   
 oomp key: oomp_coddingtonbear_coddingtonbear_jst_xh_b08b_xh_a_08x2_50mm_straight_largepads  
   
-source repo at: [http://github.com/coddingtonbear/coddingtonbear-kicad-lib/blob/master/tmp/data//oomlout_oomp_footprint_src/coddingtonbear.pretty/USB_Thru_hole.kicad_mod](http://github.com/coddingtonbear/coddingtonbear-kicad-lib/blob/master/tmp/data//oomlout_oomp_footprint_src/coddingtonbear.pretty/USB_Thru_hole.kicad_mod)  
+source repo at: [http://gitlab.com/coddingtonbear/coddingtonbear-kicad-lib/blob/master/tmp/data//oomlout_oomp_footprint_src/coddingtonbear.pretty/USB_Thru_hole.kicad_mod](http://gitlab.com/coddingtonbear/coddingtonbear-kicad-lib/blob/master/tmp/data//oomlout_oomp_footprint_src/coddingtonbear.pretty/USB_Thru_hole.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  

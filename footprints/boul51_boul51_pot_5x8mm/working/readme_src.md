@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## Pot_5x8mm  by boul51  
+## Pot_5x8mm  by none  
   
 oomp key: oomp_boul51_boul51_pot_5x8mm  
   
-source repo at: [http://github.com/boul51/boul51.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/TO-92_1.kicad_mod](http://github.com/boul51/boul51.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/TO-92_1.kicad_mod)  
+source repo at: [http://gitlab.com/boul51/boul51.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/TO-92_1.kicad_mod](http://gitlab.com/boul51/boul51.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/TO-92_1.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  

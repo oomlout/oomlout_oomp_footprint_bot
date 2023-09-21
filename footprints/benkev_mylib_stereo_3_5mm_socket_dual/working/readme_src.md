@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## Stereo_3.5mm_Socket_Dual  by benkev  
+## Stereo_3.5mm_Socket_Dual  by none  
   
 oomp key: oomp_benkev_mylib_stereo_3_5mm_socket_dual  
   
-source repo at: [http://github.com/benkev/myLib.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XS3868module.kicad_mod](http://github.com/benkev/myLib.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XS3868module.kicad_mod)  
+source repo at: [http://gitlab.com/benkev/myLib.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XS3868module.kicad_mod](http://gitlab.com/benkev/myLib.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XS3868module.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  

@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## Hiroise_DF33C-2P-3.3DSA(24)  by andresmanelli  
+## Hiroise_DF33C-2P-3.3DSA(24)  by none  
   
 oomp key: oomp_andresmanelli_toroid_kicad_hiroise_df33c_2p_3_3dsa(24)  
   
-source repo at: [http://github.com/andresmanelli/TOROID-KiCad.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XT60.kicad_mod](http://github.com/andresmanelli/TOROID-KiCad.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XT60.kicad_mod)  
+source repo at: [http://gitlab.com/andresmanelli/TOROID-KiCad.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XT60.kicad_mod](http://gitlab.com/andresmanelli/TOROID-KiCad.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XT60.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  

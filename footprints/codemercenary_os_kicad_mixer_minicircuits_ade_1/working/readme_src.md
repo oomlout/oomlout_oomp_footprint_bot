@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## Mixer_Minicircuits_ADE-1  by codemercenary-os  
+## Mixer_Minicircuits_ADE-1  by none  
   
 oomp key: oomp_codemercenary_os_kicad_mixer_minicircuits_ade_1  
   
-source repo at: [http://github.com/codemercenary-os/kicad.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XTAL_7X5MM.kicad_mod](http://github.com/codemercenary-os/kicad.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XTAL_7X5MM.kicad_mod)  
+source repo at: [http://gitlab.com/codemercenary-os/kicad.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XTAL_7X5MM.kicad_mod](http://gitlab.com/codemercenary-os/kicad.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XTAL_7X5MM.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  

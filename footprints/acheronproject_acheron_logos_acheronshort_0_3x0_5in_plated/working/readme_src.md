@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## acheronShort_0.3x0.5in_Plated  by AcheronProject  
+## acheronShort_0.3x0.5in_Plated  by none  
   
 oomp key: oomp_acheronproject_acheron_logos_acheronshort_0_3x0_5in_plated  
   
-source repo at: [http://github.com/AcheronProject/acheron_Logos.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/acheronShort_15.2x21mm_Plated.kicad_mod](http://github.com/AcheronProject/acheron_Logos.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/acheronShort_15.2x21mm_Plated.kicad_mod)  
+source repo at: [http://gitlab.com/AcheronProject/acheron_Logos.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/acheronShort_15.2x21mm_Plated.kicad_mod](http://gitlab.com/AcheronProject/acheron_Logos.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/acheronShort_15.2x21mm_Plated.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  

@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## SW_PUSH_6mm_4pin  by CarnivalBen  
+## SW_PUSH_6mm_4pin  by none  
   
 oomp key: oomp_carnivalben_custom_kicadlib_sw_push_6mm_4pin  
   
-source repo at: [http://github.com/CarnivalBen/custom-kicadlib.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/SW_PUSH_6mm_4pin.kicad_mod](http://github.com/CarnivalBen/custom-kicadlib.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/SW_PUSH_6mm_4pin.kicad_mod)  
+source repo at: [http://gitlab.com/CarnivalBen/custom-kicadlib.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/SW_PUSH_6mm_4pin.kicad_mod](http://gitlab.com/CarnivalBen/custom-kicadlib.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/SW_PUSH_6mm_4pin.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  

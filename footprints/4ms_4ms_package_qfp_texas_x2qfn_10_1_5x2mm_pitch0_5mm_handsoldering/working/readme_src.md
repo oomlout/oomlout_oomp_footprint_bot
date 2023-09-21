@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## Texas-X2QFN-10_1.5x2mm_Pitch0.5mm_Handsoldering  by 4ms  
+## Texas-X2QFN-10_1.5x2mm_Pitch0.5mm_Handsoldering  by none  
   
 oomp key: oomp_4ms_4ms_package_qfp_texas_x2qfn_10_1_5x2mm_pitch0_5mm_handsoldering  
   
-source repo at: [http://github.com/4ms/4ms-kicad-lib/blob/master/tmp/data//oomlout_oomp_footprint_src/footprints-legacy/4ms-legacy-footprints.pretty/wire-hole.kicad_mod](http://github.com/4ms/4ms-kicad-lib/blob/master/tmp/data//oomlout_oomp_footprint_src/footprints-legacy/4ms-legacy-footprints.pretty/wire-hole.kicad_mod)  
+source repo at: [http://gitlab.com/4ms/4ms-kicad-lib/blob/master/tmp/data//oomlout_oomp_footprint_src/footprints-legacy/4ms-legacy-footprints.pretty/wire-hole.kicad_mod](http://gitlab.com/4ms/4ms-kicad-lib/blob/master/tmp/data//oomlout_oomp_footprint_src/footprints-legacy/4ms-legacy-footprints.pretty/wire-hole.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  

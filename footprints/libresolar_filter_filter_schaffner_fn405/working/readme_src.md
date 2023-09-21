@@ -12,7 +12,7 @@ source repo at: [http://github.com/LibreSolar/KiCad-footprints/blob/master/tmp/d
 | name | value | 
 | --- | --- | 
 | footprint name | Filter_Schaffner_FN405 | 
-| footprint description | Compact PCB mounting EMI filter (https://www.schaffner.com/de/produkte/download/product/datasheet/fn-405-pcb-mounting-filter/) | 
+| footprint description | Compact PCB mounting EMI filter (https://www.schaffner.com/product/FN405/Schaffner_datasheet_FN405.pdf) | 
 | number of pads | 5 | 
 | github path | http://github.com/LibreSolar/KiCad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/Filter.pretty/Filter_Schaffner_FN405.kicad_mod | 
 | oomp key | oomp_libresolar_filter_filter_schaffner_fn405 | 

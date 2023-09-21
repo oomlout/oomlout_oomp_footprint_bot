@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## HLK-PM01  by CarnivalBen  
+## HLK-PM01  by none  
   
 oomp key: oomp_carnivalben_custom_kicadlib_hlk_pm01  
   
-source repo at: [http://github.com/CarnivalBen/custom-kicadlib.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/SW_PUSH_6mm_4pin.kicad_mod](http://github.com/CarnivalBen/custom-kicadlib.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/SW_PUSH_6mm_4pin.kicad_mod)  
+source repo at: [http://gitlab.com/CarnivalBen/custom-kicadlib.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/SW_PUSH_6mm_4pin.kicad_mod](http://gitlab.com/CarnivalBen/custom-kicadlib.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/SW_PUSH_6mm_4pin.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  

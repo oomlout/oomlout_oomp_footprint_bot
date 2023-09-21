@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## MX700H  by AcheronProject  
+## MX700H  by none  
   
 oomp key: oomp_acheronproject_acheron_mxh_mx700h  
   
-source repo at: [http://github.com/AcheronProject/acheron_MXH.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/MX_ISOEnterH.kicad_mod](http://github.com/AcheronProject/acheron_MXH.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/MX_ISOEnterH.kicad_mod)  
+source repo at: [http://gitlab.com/AcheronProject/acheron_MXH.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/MX_ISOEnterH.kicad_mod](http://gitlab.com/AcheronProject/acheron_MXH.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/MX_ISOEnterH.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  

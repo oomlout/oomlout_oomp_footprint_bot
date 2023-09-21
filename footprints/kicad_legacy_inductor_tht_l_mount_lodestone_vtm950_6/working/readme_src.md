@@ -12,7 +12,7 @@ source repo at: [http://gitlab.com/kicad-legacy/kicad-footprints/blob/master/tmp
 | name | value | 
 | --- | --- | 
 | footprint name | L_Mount_Lodestone_VTM950-6 | 
-| footprint description | Lodestone Pacific, vertical toroid mount, 11x19mm, 6 pins, http://www.lodestonepacific.com/CatKpdf/VTM950-6.pdf | 
+| footprint description | Lodestone Pacific, vertical toroid mount, 11x19mm, 6 pins, https://www.lodestonepacific.com/wp-content/uploads/2021/05/VTM950-6.pdf | 
 | number of pads | 6 | 
 | github path | http://github.com/kicad-legacy/kicad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/Inductor_THT.pretty/L_Mount_Lodestone_VTM950-6.kicad_mod | 
 | oomp key | oomp_kicad_legacy_inductor_tht_l_mount_lodestone_vtm950_6 | 

@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## NEC  by Alasofia  
+## NEC  by none  
   
 oomp key: oomp_alaseyrd_nec_nec  
   
-source repo at: [http://github.com/AlasEyrd/nec.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/nec.kicad_mod](http://github.com/AlasEyrd/nec.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/nec.kicad_mod)  
+source repo at: [http://gitlab.com/AlasEyrd/nec.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/nec.kicad_mod](http://gitlab.com/AlasEyrd/nec.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/nec.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  

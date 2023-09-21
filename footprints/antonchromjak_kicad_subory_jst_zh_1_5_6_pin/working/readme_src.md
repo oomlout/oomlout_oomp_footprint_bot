@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## JST_ZH_1.5_6-Pin  by antonchromjak  
+## JST_ZH_1.5_6-Pin  by none  
   
 oomp key: oomp_antonchromjak_kicad_subory_jst_zh_1_5_6_pin  
   
-source repo at: [http://github.com/antonchromjak/kicad_subory.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/WSON10__.kicad_mod](http://github.com/antonchromjak/kicad_subory.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/WSON10__.kicad_mod)  
+source repo at: [http://gitlab.com/antonchromjak/kicad_subory.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/WSON10__.kicad_mod](http://gitlab.com/antonchromjak/kicad_subory.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/WSON10__.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  

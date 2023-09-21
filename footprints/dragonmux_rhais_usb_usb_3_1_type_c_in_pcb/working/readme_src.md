@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## USB-3.1-Type-C_In-PCB  by none  
+## USB-3.1-Type-C_In-PCB  by dragonmux  
   
 oomp key: oomp_dragonmux_rhais_usb_usb_3_1_type_c_in_pcb  
   
-source repo at: [http://gitlab.com/dragonmux/rhais_usb.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/USB_C_Receptacle_HRO_TYPE-C-31-M-12.kicad_mod](http://gitlab.com/dragonmux/rhais_usb.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/USB_C_Receptacle_HRO_TYPE-C-31-M-12.kicad_mod)  
+source repo at: [http://github.com/dragonmux/rhais_usb.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/USB_C_Receptacle_HRO_TYPE-C-31-M-12.kicad_mod](http://github.com/dragonmux/rhais_usb.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/USB_C_Receptacle_HRO_TYPE-C-31-M-12.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  

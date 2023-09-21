@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## Pin_Header_Straight_1x04_Pitch2.54mm_LargePads  by coddingtonbear  
+## Pin_Header_Straight_1x04_Pitch2.54mm_LargePads  by none  
   
 oomp key: oomp_coddingtonbear_coddingtonbear_pin_header_straight_1x04_pitch2_54mm_largepads  
   
-source repo at: [http://github.com/coddingtonbear/coddingtonbear-kicad-lib/blob/master/tmp/data//oomlout_oomp_footprint_src/coddingtonbear.pretty/USB_Thru_hole.kicad_mod](http://github.com/coddingtonbear/coddingtonbear-kicad-lib/blob/master/tmp/data//oomlout_oomp_footprint_src/coddingtonbear.pretty/USB_Thru_hole.kicad_mod)  
+source repo at: [http://gitlab.com/coddingtonbear/coddingtonbear-kicad-lib/blob/master/tmp/data//oomlout_oomp_footprint_src/coddingtonbear.pretty/USB_Thru_hole.kicad_mod](http://gitlab.com/coddingtonbear/coddingtonbear-kicad-lib/blob/master/tmp/data//oomlout_oomp_footprint_src/coddingtonbear.pretty/USB_Thru_hole.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  

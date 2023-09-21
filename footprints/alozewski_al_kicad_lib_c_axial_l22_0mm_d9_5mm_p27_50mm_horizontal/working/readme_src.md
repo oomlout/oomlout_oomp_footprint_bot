@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## C_Axial_L22.0mm_D9.5mm_P27.50mm_Horizontal  by alozewski  
+## C_Axial_L22.0mm_D9.5mm_P27.50mm_Horizontal  by none  
   
 oomp key: oomp_alozewski_al_kicad_lib_c_axial_l22_0mm_d9_5mm_p27_50mm_horizontal  
   
-source repo at: [http://github.com/alozewski/al-kicad-lib.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Valve_ECC83_Conn.kicad_mod](http://github.com/alozewski/al-kicad-lib.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Valve_ECC83_Conn.kicad_mod)  
+source repo at: [http://gitlab.com/alozewski/al-kicad-lib.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Valve_ECC83_Conn.kicad_mod](http://gitlab.com/alozewski/al-kicad-lib.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Valve_ECC83_Conn.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  

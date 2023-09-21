@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## HSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.1mm_ThermalVias_0.3mm_Holes  by brunoeagle  
+## HSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.1mm_ThermalVias_0.3mm_Holes  by none  
   
 oomp key: oomp_brunoeagle_hsop_8_1ep_3_9x4_9mm_p1_27mm_ep2_41x3_1mm_thermalvias_0_3mm_holes_hsop_8_1ep_3_9x4_9mm_p1_27mm_ep2_41x3_1mm_thermalvias_0_3mm_holes  
   
-source repo at: [http://github.com/brunoeagle/kicad-open-modules/blob/master/tmp/data//oomlout_oomp_footprint_src/XH-2AW.kicad_mod](http://github.com/brunoeagle/kicad-open-modules/blob/master/tmp/data//oomlout_oomp_footprint_src/XH-2AW.kicad_mod)  
+source repo at: [http://gitlab.com/brunoeagle/kicad-open-modules/blob/master/tmp/data//oomlout_oomp_footprint_src/XH-2AW.kicad_mod](http://gitlab.com/brunoeagle/kicad-open-modules/blob/master/tmp/data//oomlout_oomp_footprint_src/XH-2AW.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  

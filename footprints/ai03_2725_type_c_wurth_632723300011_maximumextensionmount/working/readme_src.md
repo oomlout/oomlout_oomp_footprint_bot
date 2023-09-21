@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## Wurth-632723300011-MaximumExtensionMount  by ai03-2725  
+## Wurth-632723300011-MaximumExtensionMount  by none  
   
 oomp key: oomp_ai03_2725_type_c_wurth_632723300011_maximumextensionmount  
   
-source repo at: [http://github.com/ai03-2725/Type-C.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Wurth-632723300011.kicad_mod](http://github.com/ai03-2725/Type-C.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Wurth-632723300011.kicad_mod)  
+source repo at: [http://gitlab.com/ai03-2725/Type-C.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Wurth-632723300011.kicad_mod](http://gitlab.com/ai03-2725/Type-C.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Wurth-632723300011.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  

@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## Inductor_7mm_Slot7_Variable  by codemercenary-os  
+## Inductor_7mm_Slot7_Variable  by none  
   
 oomp key: oomp_codemercenary_os_kicad_inductor_7mm_slot7_variable  
   
-source repo at: [http://github.com/codemercenary-os/kicad.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XTAL_7X5MM.kicad_mod](http://github.com/codemercenary-os/kicad.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XTAL_7X5MM.kicad_mod)  
+source repo at: [http://gitlab.com/codemercenary-os/kicad.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XTAL_7X5MM.kicad_mod](http://gitlab.com/codemercenary-os/kicad.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XTAL_7X5MM.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  

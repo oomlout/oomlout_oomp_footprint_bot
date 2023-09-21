@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## Relay_DPDT_Kemet_EC2_DoubleCoil  by none  
+## Relay_DPDT_Kemet_EC2_DoubleCoil  by dragonmux  
   
 oomp key: oomp_dragonmux_rhais_relay_relay_dpdt_kemet_ec2_doublecoil  
   
-source repo at: [http://gitlab.com/dragonmux/rhais_relay.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Relay_DPDT_Kemet_EC2_DoubleCoil.kicad_mod](http://gitlab.com/dragonmux/rhais_relay.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Relay_DPDT_Kemet_EC2_DoubleCoil.kicad_mod)  
+source repo at: [http://github.com/dragonmux/rhais_relay.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Relay_DPDT_Kemet_EC2_DoubleCoil.kicad_mod](http://github.com/dragonmux/rhais_relay.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Relay_DPDT_Kemet_EC2_DoubleCoil.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  

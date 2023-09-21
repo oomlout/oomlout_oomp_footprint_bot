@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## MiniPV_69167-X04XXX_1x04_P2.54mm_Polarized_Vertical  by candykingdom  
+## MiniPV_69167-X04XXX_1x04_P2.54mm_Polarized_Vertical  by none  
   
 oomp key: oomp_candykingdom_homebrew_minipv_69167_x04xxx_1x04_p2_54mm_polarized_vertical  
   
-source repo at: [http://github.com/candykingdom/homebrew.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/‎EG1206‎_SLIDE_SWITCH.kicad_mod](http://github.com/candykingdom/homebrew.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/‎EG1206‎_SLIDE_SWITCH.kicad_mod)  
+source repo at: [http://gitlab.com/candykingdom/homebrew.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/‎EG1206‎_SLIDE_SWITCH.kicad_mod](http://gitlab.com/candykingdom/homebrew.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/‎EG1206‎_SLIDE_SWITCH.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  

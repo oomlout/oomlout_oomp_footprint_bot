@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## WOM_BRIDGE  by aniline  
+## WOM_BRIDGE  by none  
   
 oomp key: oomp_aniline_akn_misc_wom_bridge  
   
-source repo at: [http://github.com/aniline/akn_misc.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/WOM_BRIDGE.kicad_mod](http://github.com/aniline/akn_misc.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/WOM_BRIDGE.kicad_mod)  
+source repo at: [http://gitlab.com/aniline/akn_misc.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/WOM_BRIDGE.kicad_mod](http://gitlab.com/aniline/akn_misc.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/WOM_BRIDGE.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  

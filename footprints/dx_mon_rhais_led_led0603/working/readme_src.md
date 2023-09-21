@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## LED0603  by none  
+## LED0603  by dragonmux  
   
 oomp key: oomp_dx_mon_rhais_led_led0603  
   
-source repo at: [http://gitlab.com/DX-MON/rhais_led.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/LED0606_Clockwise.kicad_mod](http://gitlab.com/DX-MON/rhais_led.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/LED0606_Clockwise.kicad_mod)  
+source repo at: [http://github.com/DX-MON/rhais_led.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/LED0606_Clockwise.kicad_mod](http://github.com/DX-MON/rhais_led.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/LED0606_Clockwise.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  

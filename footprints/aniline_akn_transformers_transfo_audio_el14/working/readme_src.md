@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## TRANSFO-AUDIO-EL14  by aniline  
+## TRANSFO-AUDIO-EL14  by none  
   
 oomp key: oomp_aniline_akn_transformers_transfo_audio_el14  
   
-source repo at: [http://github.com/aniline/akn_transformers.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/TRANSFO-AUDIO-EL14.kicad_mod](http://github.com/aniline/akn_transformers.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/TRANSFO-AUDIO-EL14.kicad_mod)  
+source repo at: [http://gitlab.com/aniline/akn_transformers.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/TRANSFO-AUDIO-EL14.kicad_mod](http://gitlab.com/aniline/akn_transformers.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/TRANSFO-AUDIO-EL14.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  

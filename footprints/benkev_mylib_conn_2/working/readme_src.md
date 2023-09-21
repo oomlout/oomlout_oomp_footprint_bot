@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## CONN_2  by benkev  
+## CONN_2  by none  
   
 oomp key: oomp_benkev_mylib_conn_2  
   
-source repo at: [http://github.com/benkev/myLib.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XS3868module.kicad_mod](http://github.com/benkev/myLib.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XS3868module.kicad_mod)  
+source repo at: [http://gitlab.com/benkev/myLib.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XS3868module.kicad_mod](http://gitlab.com/benkev/myLib.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XS3868module.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  

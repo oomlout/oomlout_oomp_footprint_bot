@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## Lerche__Mini_HDMI_CNCTech_2001-1-2-21-00-BK  by ChristianLerche  
+## Lerche__Mini_HDMI_CNCTech_2001-1-2-21-00-BK  by none  
   
 oomp key: oomp_christianlerche_lerchetech_lerche_mini_hdmi_cnctech_2001_1_2_21_00_bk  
   
-source repo at: [http://github.com/ChristianLerche/LercheTech_KiCAD/blob/master/tmp/data//oomlout_oomp_footprint_src/LercheTech.pretty/WQFN_40_EP.kicad_mod](http://github.com/ChristianLerche/LercheTech_KiCAD/blob/master/tmp/data//oomlout_oomp_footprint_src/LercheTech.pretty/WQFN_40_EP.kicad_mod)  
+source repo at: [http://gitlab.com/ChristianLerche/LercheTech_KiCAD/blob/master/tmp/data//oomlout_oomp_footprint_src/LercheTech.pretty/WQFN_40_EP.kicad_mod](http://gitlab.com/ChristianLerche/LercheTech_KiCAD/blob/master/tmp/data//oomlout_oomp_footprint_src/LercheTech.pretty/WQFN_40_EP.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  

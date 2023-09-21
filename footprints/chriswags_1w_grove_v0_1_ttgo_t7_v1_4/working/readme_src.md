@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## TTGO_T7-v1.4.brd:TTGO_T7-V1.4  by chriswags  
+## TTGO_T7-v1.4.brd:TTGO_T7-V1.4  by none  
   
 oomp key: oomp_chriswags_1w_grove_v0_1_ttgo_t7_v1_4  
   
-source repo at: [http://github.com/chriswags/KiCad/blob/master/tmp/data//oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod](http://github.com/chriswags/KiCad/blob/master/tmp/data//oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod)  
+source repo at: [http://gitlab.com/chriswags/KiCad/blob/master/tmp/data//oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod](http://gitlab.com/chriswags/KiCad/blob/master/tmp/data//oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  

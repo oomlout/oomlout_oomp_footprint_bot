@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## QFN-60-1EP_7x7mm_P0.4mm_EP5.4x5.4mm_ThermalReliefs  by AcheronProject  
+## QFN-60-1EP_7x7mm_P0.4mm_EP5.4x5.4mm_ThermalReliefs  by none  
   
 oomp key: oomp_acheronproject_acheron_hardware_qfn_60_1ep_7x7mm_p0_4mm_ep5_4x5_4mm_thermalreliefs  
   
-source repo at: [http://github.com/AcheronProject/acheron_Hardware.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/RKJXT1F.kicad_mod](http://github.com/AcheronProject/acheron_Hardware.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/RKJXT1F.kicad_mod)  
+source repo at: [http://gitlab.com/AcheronProject/acheron_Hardware.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/RKJXT1F.kicad_mod](http://gitlab.com/AcheronProject/acheron_Hardware.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/RKJXT1F.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  

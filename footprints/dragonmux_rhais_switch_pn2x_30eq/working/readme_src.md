@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## PN2x-30EQ  by none  
+## PN2x-30EQ  by dragonmux  
   
 oomp key: oomp_dragonmux_rhais_switch_pn2x_30eq  
   
-source repo at: [http://gitlab.com/dragonmux/rhais_switch.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/PN2x-30EQ.kicad_mod](http://gitlab.com/dragonmux/rhais_switch.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/PN2x-30EQ.kicad_mod)  
+source repo at: [http://github.com/dragonmux/rhais_switch.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/PN2x-30EQ.kicad_mod](http://github.com/dragonmux/rhais_switch.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/PN2x-30EQ.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  

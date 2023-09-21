@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## kicad-cbase:c-base-logo-ceva  by c-base  
+## kicad-cbase:c-base-logo-ceva  by none  
   
 oomp key: oomp_c_base_kicad_cbase_c_base_logo_ceva  
   
-source repo at: [http://github.com/c-base/kicad-cbase.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/logos/c-base.kicad_mod](http://github.com/c-base/kicad-cbase.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/logos/c-base.kicad_mod)  
+source repo at: [http://gitlab.com/c-base/kicad-cbase.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/logos/c-base.kicad_mod](http://gitlab.com/c-base/kicad-cbase.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/logos/c-base.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  

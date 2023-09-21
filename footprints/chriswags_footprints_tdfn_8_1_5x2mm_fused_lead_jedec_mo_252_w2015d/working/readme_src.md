@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## TDFN-8_1.5x2mm_Fused-Lead_JEDEC_MO-252_W2015D  by chriswags  
+## TDFN-8_1.5x2mm_Fused-Lead_JEDEC_MO-252_W2015D  by none  
   
 oomp key: oomp_chriswags_footprints_tdfn_8_1_5x2mm_fused_lead_jedec_mo_252_w2015d  
   
-source repo at: [http://github.com/chriswags/KiCad/blob/master/tmp/data//oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod](http://github.com/chriswags/KiCad/blob/master/tmp/data//oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod)  
+source repo at: [http://gitlab.com/chriswags/KiCad/blob/master/tmp/data//oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod](http://gitlab.com/chriswags/KiCad/blob/master/tmp/data//oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  

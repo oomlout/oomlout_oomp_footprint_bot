@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## Zetaohm:THONKICONN  by cmos-droner  
+## Zetaohm:THONKICONN  by none  
   
 oomp key: oomp_cmos_droner_kicad_sdiy_jack_pj301m  
   
-source repo at: [http://github.com/cmos-droner/KiCAD-SDIY.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/resistor_horizontal-7mm--wide.kicad_mod](http://github.com/cmos-droner/KiCAD-SDIY.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/resistor_horizontal-7mm--wide.kicad_mod)  
+source repo at: [http://gitlab.com/cmos-droner/KiCAD-SDIY.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/resistor_horizontal-7mm--wide.kicad_mod](http://gitlab.com/cmos-droner/KiCAD-SDIY.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/resistor_horizontal-7mm--wide.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  

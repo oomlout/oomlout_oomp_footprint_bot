@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## B3U-1000P-B  by none  
+## B3U-1000P-B  by dragonmux  
   
 oomp key: oomp_dx_mon_rhais_button_smd_b3u_1000p_b  
   
-source repo at: [http://gitlab.com/DX-MON/rhais_button-smd.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/B3U-1000P-B.kicad_mod](http://gitlab.com/DX-MON/rhais_button-smd.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/B3U-1000P-B.kicad_mod)  
+source repo at: [http://github.com/DX-MON/rhais_button-smd.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/B3U-1000P-B.kicad_mod](http://github.com/DX-MON/rhais_button-smd.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/B3U-1000P-B.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  

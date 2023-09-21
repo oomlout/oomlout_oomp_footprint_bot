@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## aesora:PMT9123  by m-byte  
+## aesora:PMT9123  by none  
   
 oomp key: oomp_aesora_aesora_pmt9123  
   
-source repo at: [http://github.com/aesora/aesora.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/PMT9123.kicad_mod](http://github.com/aesora/aesora.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/PMT9123.kicad_mod)  
+source repo at: [http://gitlab.com/aesora/aesora.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/PMT9123.kicad_mod](http://gitlab.com/aesora/aesora.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/PMT9123.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  

@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## QFN40_6X6MM_0.5MM  by celeritous  
+## QFN40_6X6MM_0.5MM  by none  
   
 oomp key: oomp_celeritous_kicad_qfn40_6x6mm_0_5mm  
   
-source repo at: [http://github.com/celeritous/KiCad.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XTAL_7X5MM.kicad_mod](http://github.com/celeritous/KiCad.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XTAL_7X5MM.kicad_mod)  
+source repo at: [http://gitlab.com/celeritous/KiCad.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XTAL_7X5MM.kicad_mod](http://gitlab.com/celeritous/KiCad.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XTAL_7X5MM.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  

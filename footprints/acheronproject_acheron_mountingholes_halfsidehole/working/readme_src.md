@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## halfSideHole  by AcheronProject  
+## halfSideHole  by none  
   
 oomp key: oomp_acheronproject_acheron_mountingholes_halfsidehole  
   
-source repo at: [http://github.com/AcheronProject/acheron_MountingHoles.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/ToolingHole_1.152mm_(for_JLCPCB_SMT).kicad_mod](http://github.com/AcheronProject/acheron_MountingHoles.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/ToolingHole_1.152mm_(for_JLCPCB_SMT).kicad_mod)  
+source repo at: [http://gitlab.com/AcheronProject/acheron_MountingHoles.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/ToolingHole_1.152mm_(for_JLCPCB_SMT).kicad_mod](http://gitlab.com/AcheronProject/acheron_MountingHoles.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/ToolingHole_1.152mm_(for_JLCPCB_SMT).kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  

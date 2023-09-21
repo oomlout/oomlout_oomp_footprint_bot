@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## R_Axial_DIN0204_L3.6mm_D1.6mm_P10.0mm_Horizontal  by celeritous  
+## R_Axial_DIN0204_L3.6mm_D1.6mm_P10.0mm_Horizontal  by none  
   
 oomp key: oomp_celeritous_kicad_r_axial_din0204_l3_6mm_d1_6mm_p10_0mm_horizontal  
   
-source repo at: [http://github.com/celeritous/KiCad.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XTAL_7X5MM.kicad_mod](http://github.com/celeritous/KiCad.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XTAL_7X5MM.kicad_mod)  
+source repo at: [http://gitlab.com/celeritous/KiCad.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XTAL_7X5MM.kicad_mod](http://gitlab.com/celeritous/KiCad.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XTAL_7X5MM.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  

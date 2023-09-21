@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## MSOP-16-1EP_3x4mm_P0.5mm_EP1.65x2.85mm_4pinsRemoved_HandSolder  by AkiyukiOkayasu  
+## MSOP-16-1EP_3x4mm_P0.5mm_EP1.65x2.85mm_4pinsRemoved_HandSolder  by none  
   
 oomp key: oomp_akiyukiokayasu_kicad_akiyuki_footprint_msop_16_1ep_3x4mm_p0_5mm_ep1_65x2_85mm_4pinsremoved_handsolder  
   
-source repo at: [http://github.com/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/USB_MicroB_PowerOnly.kicad_mod](http://github.com/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/USB_MicroB_PowerOnly.kicad_mod)  
+source repo at: [http://gitlab.com/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/USB_MicroB_PowerOnly.kicad_mod](http://gitlab.com/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/USB_MicroB_PowerOnly.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  

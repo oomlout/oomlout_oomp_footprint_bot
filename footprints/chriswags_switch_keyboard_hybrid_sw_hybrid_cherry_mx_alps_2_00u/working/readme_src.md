@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## SW_Hybrid_Cherry_MX_Alps_2.00u  by chriswags  
+## SW_Hybrid_Cherry_MX_Alps_2.00u  by none  
   
 oomp key: oomp_chriswags_switch_keyboard_hybrid_sw_hybrid_cherry_mx_alps_2_00u  
   
-source repo at: [http://github.com/chriswags/KiCad/blob/master/tmp/data//oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod](http://github.com/chriswags/KiCad/blob/master/tmp/data//oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod)  
+source repo at: [http://gitlab.com/chriswags/KiCad/blob/master/tmp/data//oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod](http://gitlab.com/chriswags/KiCad/blob/master/tmp/data//oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  

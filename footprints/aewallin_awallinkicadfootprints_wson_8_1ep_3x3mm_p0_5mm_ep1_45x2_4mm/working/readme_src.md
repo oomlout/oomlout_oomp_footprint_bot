@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## WSON-8-1EP_3x3mm_P0.5mm_EP1.45x2.4mm  by aewallin  
+## WSON-8-1EP_3x3mm_P0.5mm_EP1.45x2.4mm  by none  
   
 oomp key: oomp_aewallin_awallinkicadfootprints_wson_8_1ep_3x3mm_p0_5mm_ep1_45x2_4mm  
   
-source repo at: [http://github.com/aewallin/awallinKiCadFootprints.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Y3split_0.350mm.kicad_mod](http://github.com/aewallin/awallinKiCadFootprints.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Y3split_0.350mm.kicad_mod)  
+source repo at: [http://gitlab.com/aewallin/awallinKiCadFootprints.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Y3split_0.350mm.kicad_mod](http://gitlab.com/aewallin/awallinKiCadFootprints.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Y3split_0.350mm.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  

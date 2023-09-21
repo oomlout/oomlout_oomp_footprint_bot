@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## Crystal_HC49-U_Vertical  by ContextualElectronics  
+## Crystal_HC49-U_Vertical  by none  
   
 oomp key: oomp_contextualelectronics_ce_crystal_crystal_hc49_u_vertical  
   
-source repo at: [http://github.com/ContextualElectronics/CE_KiCadLib/blob/master/tmp/data//oomlout_oomp_footprint_src/Footprint/CE_Switch.pretty/FSM2JSMAA-ND.kicad_mod](http://github.com/ContextualElectronics/CE_KiCadLib/blob/master/tmp/data//oomlout_oomp_footprint_src/Footprint/CE_Switch.pretty/FSM2JSMAA-ND.kicad_mod)  
+source repo at: [http://gitlab.com/ContextualElectronics/CE_KiCadLib/blob/master/tmp/data//oomlout_oomp_footprint_src/Footprint/CE_Switch.pretty/FSM2JSMAA-ND.kicad_mod](http://gitlab.com/ContextualElectronics/CE_KiCadLib/blob/master/tmp/data//oomlout_oomp_footprint_src/Footprint/CE_Switch.pretty/FSM2JSMAA-ND.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  

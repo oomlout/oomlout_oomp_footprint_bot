@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## Duo_LED_1.6x0.8_Kingbright_APHB1608LZGKSURKC  by chriswags  
+## Duo_LED_1.6x0.8_Kingbright_APHB1608LZGKSURKC  by none  
   
 oomp key: oomp_chriswags_footprints_duo_led_1_6x0_8_kingbright_aphb1608lzgksurkc  
   
-source repo at: [http://github.com/chriswags/KiCad/blob/master/tmp/data//oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod](http://github.com/chriswags/KiCad/blob/master/tmp/data//oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod)  
+source repo at: [http://gitlab.com/chriswags/KiCad/blob/master/tmp/data//oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod](http://gitlab.com/chriswags/KiCad/blob/master/tmp/data//oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  

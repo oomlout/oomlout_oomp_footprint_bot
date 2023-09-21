@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## PCap12mm  by benkev  
+## PCap12mm  by none  
   
 oomp key: oomp_benkev_mylib_pcap12mm  
   
-source repo at: [http://github.com/benkev/myLib.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XS3868module.kicad_mod](http://github.com/benkev/myLib.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XS3868module.kicad_mod)  
+source repo at: [http://gitlab.com/benkev/myLib.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XS3868module.kicad_mod](http://gitlab.com/benkev/myLib.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XS3868module.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  

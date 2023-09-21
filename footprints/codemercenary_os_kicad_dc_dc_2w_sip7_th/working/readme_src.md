@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## DC_DC_2W_SIP7_TH  by codemercenary-os  
+## DC_DC_2W_SIP7_TH  by none  
   
 oomp key: oomp_codemercenary_os_kicad_dc_dc_2w_sip7_th  
   
-source repo at: [http://github.com/codemercenary-os/kicad.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XTAL_7X5MM.kicad_mod](http://github.com/codemercenary-os/kicad.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XTAL_7X5MM.kicad_mod)  
+source repo at: [http://gitlab.com/codemercenary-os/kicad.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XTAL_7X5MM.kicad_mod](http://gitlab.com/codemercenary-os/kicad.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XTAL_7X5MM.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  

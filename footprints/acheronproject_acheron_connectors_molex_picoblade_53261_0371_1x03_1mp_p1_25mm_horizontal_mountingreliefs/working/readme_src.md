@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## Molex_PicoBlade_53261-0371_1x03-1MP_P1.25mm_Horizontal_MountingReliefs  by AcheronProject  
+## Molex_PicoBlade_53261-0371_1x03-1MP_P1.25mm_Horizontal_MountingReliefs  by none  
   
 oomp key: oomp_acheronproject_acheron_connectors_molex_picoblade_53261_0371_1x03_1mp_p1_25mm_horizontal_mountingreliefs  
   
-source repo at: [http://github.com/AcheronProject/acheron_Connectors.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XFCN_F1004-H-16-20G-R_P1.0mm_MountingReliefs.kicad_mod](http://github.com/AcheronProject/acheron_Connectors.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XFCN_F1004-H-16-20G-R_P1.0mm_MountingReliefs.kicad_mod)  
+source repo at: [http://gitlab.com/AcheronProject/acheron_Connectors.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XFCN_F1004-H-16-20G-R_P1.0mm_MountingReliefs.kicad_mod](http://gitlab.com/AcheronProject/acheron_Connectors.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XFCN_F1004-H-16-20G-R_P1.0mm_MountingReliefs.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  

@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## Capacitors_ThroughHole:C_Rect_L7_W2.5_P5  by cmos-droner  
+## Capacitors_ThroughHole:C_Rect_L7_W2.5_P5  by none  
   
 oomp key: oomp_cmos_droner_kicad_sdiy_capacitor_rect_l4_5_w2_5  
   
-source repo at: [http://github.com/cmos-droner/KiCAD-SDIY.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/resistor_horizontal-7mm--wide.kicad_mod](http://github.com/cmos-droner/KiCAD-SDIY.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/resistor_horizontal-7mm--wide.kicad_mod)  
+source repo at: [http://gitlab.com/cmos-droner/KiCAD-SDIY.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/resistor_horizontal-7mm--wide.kicad_mod](http://gitlab.com/cmos-droner/KiCAD-SDIY.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/resistor_horizontal-7mm--wide.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  

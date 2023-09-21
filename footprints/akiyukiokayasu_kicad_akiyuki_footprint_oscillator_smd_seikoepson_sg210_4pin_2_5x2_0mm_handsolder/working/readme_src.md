@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## Oscillator_SMD_SeikoEpson_SG210-4Pin_2.5x2.0mm_HandSolder  by AkiyukiOkayasu  
+## Oscillator_SMD_SeikoEpson_SG210-4Pin_2.5x2.0mm_HandSolder  by none  
   
 oomp key: oomp_akiyukiokayasu_kicad_akiyuki_footprint_oscillator_smd_seikoepson_sg210_4pin_2_5x2_0mm_handsolder  
   
-source repo at: [http://github.com/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/USB_MicroB_PowerOnly.kicad_mod](http://github.com/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/USB_MicroB_PowerOnly.kicad_mod)  
+source repo at: [http://gitlab.com/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/USB_MicroB_PowerOnly.kicad_mod](http://gitlab.com/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/USB_MicroB_PowerOnly.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
