@@ -104,7 +104,7 @@ def main():
                     print(".", end="", flush=True)
                 if count % 2000 == 0:
                     print(f"count: {count}  ")
-                if count % 5000 == 0:
+                if count % 20000 == 0:
                     #push doc to git
                     import oom_kicad
                     oom_kicad.push_to_git(repo_directory = "c:/gh/oomlout_oomp_footprint_doc/", count=count )

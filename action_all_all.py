@@ -7,7 +7,7 @@ import action_generate_image_resolutions
 import action_create_doc
 import oom_git
 
-
+ # test oomlout_oomlout_oomp_footprint_templates_oobb_connector_basic_triple
 def main(**kwargs):
     repo_filter = "part_template"
     filter = "oomp_footprint_template"
@@ -40,7 +40,7 @@ def main(**kwargs):
     oom_f_s.clone_and_copy_footprints(**kwargs)
     
     print("making readme files")
-    oom_f_s.make_footprints_readme(**kwargs)
+    #oom_f_s.make_footprints_readme(**kwargs)
 
     #push footprint_src    
     if git:
@@ -51,9 +51,14 @@ def main(**kwargs):
     print("bot stuff")
     action_setup.main(**kwargs)
 
-    #kwargs["make_library"] = True
-    kwargs["make_library"] = False
+    
+    
     print("making library")
+    kwargs["make_library"] = True ##all the footprints one library
+    #kwargs["make_library"] = False
+
+    kwargs["git"] = True
+
     action_generate_all_footprint_repo.main(**kwargs)
 
     ##action_generate_footprint_outputs.main()
@@ -64,7 +69,7 @@ def main(**kwargs):
     print("generating images")
     action_generate_image_resolutions.main(**kwargs)
 
-
+    print("creating doc")
     action_create_doc.main()
 
     if git:

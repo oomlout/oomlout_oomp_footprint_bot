@@ -24,7 +24,8 @@ def copy_data(**kwargs):
     print("renaming readme to readme_src.md")
     #rename readme to readme_src.md in all directories in footprint
     count = 0
-    print("Renaming readme to readme_src.md")
+    print("Renaming readme to readme_src.md currently skipping")
+    """
     for root, dirs, files in os.walk("footprints"):
         for name in dirs:
             #rename readme to readme_src.md
@@ -40,6 +41,7 @@ def copy_data(**kwargs):
             if count % 1000 == 0:
                 print(".", end="", flush=True)
     print("Done")
+    """
 
     
     
