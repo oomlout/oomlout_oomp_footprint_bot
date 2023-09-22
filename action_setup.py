@@ -4,10 +4,12 @@ import oom_kicad
 
 
 
-def main():
-    oom_ofb.load_data()
-    oom_ofb.copy_data()    
-    oom_kicad.push_to_git()
+def main(**kwargs):
+    git = kwargs.get("git", True)
+    oom_ofb.load_data(**kwargs)
+    oom_ofb.copy_data(**kwargs)  
+    if git:  
+        oom_kicad.push_to_git(**kwargs)
     
 
 

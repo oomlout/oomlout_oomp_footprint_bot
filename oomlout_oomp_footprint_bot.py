@@ -2,7 +2,7 @@ import os
 import oom_kicad
 import oom_markdown
 
-def load_data():
+def load_data(**kwargs):
     github_data = "https://github.com/oomlout/oomlout_oomp_footprint_src"
 
     #make tmp/data directory if it doesn't already exist
@@ -12,7 +12,7 @@ def load_data():
     os.system("git clone " + github_data + " tmp/data/oomlout_oomp_footprint_src")
 
 
-def copy_data():
+def copy_data(**kwargs):
     print("Copying data to footprints directory")
     directory_src = rf"tmp/data/oomlout_oomp_footprint_src/footprints_flat"
     directory_dst = rf"footprints"
@@ -48,7 +48,7 @@ def open_footprint_window():
     oom_kicad.open_footprint_window()
 
 
-def make_temporary_library():
+def make_temporary_library(**kwargs):
     print("Making temporary library")
     #footprint_directory_tmp = "tmp\\footprints.pretty"
     footprint_directory_tmp = "c:/gh/oomlout_oomp_footprint_all_the_kicad_footprints/all_the_kicad_footprints_one_library.pretty"

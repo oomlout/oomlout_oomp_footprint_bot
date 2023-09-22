@@ -36,23 +36,32 @@ def main(**kwargs):
         oom_f_s.make_footprint_yaml(**kwargs)
 
     #uses repo_filter
+    print("Copying data to footprints directory")
     oom_f_s.clone_and_copy_footprints(**kwargs)
-   
+    
+    print("making readme files")
     oom_f_s.make_footprints_readme(**kwargs)
 
     #push footprint_src    
     if git:
+        print("pushing to git")
         oom_git.push_to_git(directory=directory)
 
     # bot stuff
-    action_setup.main()
+    print("bot stuff")
+    action_setup.main(**kwargs)
 
-    action_generate_all_footprint_repo.main()
+    #kwargs["make_library"] = True
+    kwargs["make_library"] = False
+    print("making library")
+    action_generate_all_footprint_repo.main(**kwargs)
 
     ##action_generate_footprint_outputs.main()
 
+    print("generating readmes")
     action_generate_readmes.main(**kwargs)
 
+    print("generating images")
     action_generate_image_resolutions.main(**kwargs)
 
 

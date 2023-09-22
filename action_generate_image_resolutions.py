@@ -31,15 +31,15 @@ def main(**kwargs):
                             #print(filename)
                             counter = oom_base.generate_image(filename=filename, resolution=resolution)
                             pass
-                        count2 += 1
-                        count += counter
-                        counter = 0
-                        #print a dot every 1000 files
-                        if count2 % 100 == 0:
-                            print(".", end="", flush=True)
-                        if count % 20000 == 0: 
-                            if git:                       
-                                oom_git.push_to_git(count=count )
+                count2 += 1
+                count += counter
+                counter = 0
+                #print a dot every 1000 files
+                if count2 % 1000 == 0:
+                    print(".", end="", flush=True)
+                if count % 20000 == 0: 
+                    if git:                       
+                        oom_git.push_to_git(count=count )
     if git:
         oom_git.push_to_git(count=count )
 

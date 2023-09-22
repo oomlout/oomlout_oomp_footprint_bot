@@ -26,12 +26,12 @@ def go_through_directories(**kwargs):
                 #check for a brd file
                 
                 filename = os.path.join(root, file)
-                filter = ["sparkfun","adafruit","omerk"]
-                filter = ["omerk"]
-                filter = [""]
+                #filter = ["sparkfun","adafruit","omerk"]
+                #filter = ["omerk"]
+                #filter = [""]
                 #filter = ["microsd_yamaichi_pjs_vert"]
                 #if any of filter is in filename
-                if any(x in filename for x in filter):
+                if any(x in full_filename for x in filter):
                     #generate for all with a kicad_pcb file
                     if file.endswith(".kicad_mod"):
                         oom_f_b.generate_readme(filename=filename)
