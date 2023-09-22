@@ -17,11 +17,14 @@ def copy_data():
     directory_src = rf"tmp/data/oomlout_oomp_footprint_src/footprints_flat"
     directory_dst = rf"footprints"
     #copy the directory with overwite if the file already exists
-    import shutil
-    shutil.copytree(directory_src, directory_dst, dirs_exist_ok=True)
+    #import shutil
+    #shutil.copytree(directory_src, directory_dst, dirs_exist_ok=True)
+    #us os.system call to xcopy no prompt only overwrite if newer
+    os.system(f"xcopy {directory_src} {directory_dst} /E /Y /D")
     print("renaming readme to readme_src.md")
     #rename readme to readme_src.md in all directories in footprint
     count = 0
+    print("Renaming readme to readme_src.md")
     for root, dirs, files in os.walk("footprints"):
         for name in dirs:
             #rename readme to readme_src.md

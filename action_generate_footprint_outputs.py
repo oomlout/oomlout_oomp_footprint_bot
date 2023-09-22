@@ -2,7 +2,8 @@ import oom_kicad
 import os
 import oomBase
 
-def go_through_directories():
+def go_through_directories(**kwargs):
+    filter = kwargs.get("filter", "")
     oomBase.oomSendAltTab(delay=5)
     count = 1
     count2 = 1
@@ -22,22 +23,26 @@ def go_through_directories():
                     #filter = "kicayyyyyC:\GH\oomlout_oomp_footprint_bot\footprints\alexisvl_ipc7351_least_qfn50p800x800x80_49w\working\working.pdf
                     # yd_libraries_kicad"
                     
-                    #filter = "footprints\\kicad_connector"
+                    #filter = "footprints\\krrr
+                    # rrrrrrr
+                    # icad_connector"
                     #filter = "footprints\\kicad_led"
                     #filter = "oomlout"
                     #filter = "footprints\\kicad_resistor"
                     #filter = "footprints\\kicad_button"
                     #filter = "footprints\\kicad_package"
                     #filter = "footprints\\esden_pkl_led_led_tri_1010"
-                    filter = "footprints\\kicad_"
+                    #filter = "footprints\\kicad_"
                     #filter = "footprints\\oomlout_"
-                    filter = "footprints\\kicad_mountinghole"
+                    filter = "oomp_footprint_template"
+                    #filter = "footprints\\kicad_mountinghole"
 
                     #filter = ""C:\GH\oomlout_oomp_footprint_bot\footprints\alexisvl_ipc7351_least_qfn50p800x800x80_53w4\working\working.pdf
-                    
-                    # yr = "iangitpers"
-                    #if filter in filename.lower():
-                    if filename.lower().startswith(filter.lower()):
+                    #if filter isn't an array make it one
+                    if not isinstance(filter, list):
+                        filter = [filter]
+                                    
+                    if any(x in filename for x in filter):                    
                         #print("footprint output generating for: " + filename)
                         counter = oom_kicad.generate_outputs_footprint(filename=filename, computer="surface")
                         count += counter
@@ -60,5 +65,5 @@ def go_through_directories():
 
 
 if __name__ == '__main__':
-    go_through_directories()
+    go_through_directories(**kwargs)
     

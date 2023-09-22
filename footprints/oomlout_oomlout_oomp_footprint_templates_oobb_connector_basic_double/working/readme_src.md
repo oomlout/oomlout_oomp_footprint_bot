@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## oobb_connector_basic_double  by none  
+## oobb_connector_basic_double  by oomlout  
   
 oomp key: oomp_oomlout_oomlout_oomp_footprint_templates_oobb_connector_basic_double  
   
-source repo at: [http://gitlab.com/oomlout/oomlout_oomp_part_templates/blob/master/tmp/data//oomlout_oomp_footprint_src/oomlout_oomp_footprint_templates.pretty/oobb_connector_i2c_triple.kicad_mod](http://gitlab.com/oomlout/oomlout_oomp_part_templates/blob/master/tmp/data//oomlout_oomp_footprint_src/oomlout_oomp_footprint_templates.pretty/oobb_connector_i2c_triple.kicad_mod)  
+source repo at: [http://github.com/oomlout/oomlout_oomp_part_templates/blob/master/tmp/data//oomlout_oomp_footprint_src/oomlout_oomp_footprint_templates.pretty/oobb_connector_i2c_triple.kicad_mod](http://github.com/oomlout/oomlout_oomp_part_templates/blob/master/tmp/data//oomlout_oomp_footprint_src/oomlout_oomp_footprint_templates.pretty/oobb_connector_i2c_triple.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
