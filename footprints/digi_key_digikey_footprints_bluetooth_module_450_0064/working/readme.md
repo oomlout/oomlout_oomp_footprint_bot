@@ -1,0 +1,20 @@
+# OOMP Footprint  
+## Bluetooth_Module_450-0064  by Digi-Key  
+  
+oomp key: oomp_digi_key_digikey_footprints_bluetooth_module_450_0064  
+  
+source repo at: [http://github.com/digikey/digikey-kicad-library/blob/master/tmp/data//oomlout_oomp_footprint_src/src/Source_Footprints/Zigbee_Module_MRF24J40MD.kicad_mod](http://github.com/digikey/digikey-kicad-library/blob/master/tmp/data//oomlout_oomp_footprint_src/src/Source_Footprints/Zigbee_Module_MRF24J40MD.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | Bluetooth_Module_450-0064 | 
+| footprint description | http://www.lsr.com/downloads/products/330-0087.pdf | 
+| number of pads | 165 | 
+| github path | http://github.com/digikey/digikey-kicad-library/blob/master/tmp/data//oomlout_oomp_footprint_src/digikey-footprints.pretty/Bluetooth_Module_450-0064.kicad_mod | 
+| oomp key | oomp_digi_key_digikey_footprints_bluetooth_module_450_0064 | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/digi_key_digikey_footprints_bluetooth_module_450_0064/working | 
+## Images  

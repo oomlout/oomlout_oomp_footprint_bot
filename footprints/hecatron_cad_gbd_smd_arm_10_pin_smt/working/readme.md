@@ -1,0 +1,20 @@
+# OOMP Footprint  
+## ARM_10_PIN_SMT  by Hecatron-Cad  
+  
+oomp key: oomp_hecatron_cad_gbd_smd_arm_10_pin_smt  
+  
+source repo at: [http://github.com/ASoftTech/CAD.KiCad.Libs/blob/master/tmp/data//oomlout_oomp_footprint_src/modules/w_switch.pretty/switch_mmp122-r.kicad_mod](http://github.com/ASoftTech/CAD.KiCad.Libs/blob/master/tmp/data//oomlout_oomp_footprint_src/modules/w_switch.pretty/switch_mmp122-r.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | ARM_10_PIN_SMT | 
+| footprint description | None | 
+| number of pads | 10 | 
+| github path | http://github.com/ASoftTech/CAD.KiCad.Libs/blob/master/tmp/data//oomlout_oomp_footprint_src/modules/GBD-SMD.pretty/ARM_10_PIN_SMT.kicad_mod | 
+| oomp key | oomp_hecatron_cad_gbd_smd_arm_10_pin_smt | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/hecatron_cad_gbd_smd_arm_10_pin_smt/working | 
+## Images  
