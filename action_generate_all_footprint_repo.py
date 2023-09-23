@@ -3,9 +3,9 @@ import oom_kicad
 
 def main(**kwargs):
     git = kwargs.get("git", True)
-    make_library = kwargs.get("make_library", True)
-    if make_library:
-        oom_ofb.make_temporary_library(**kwargs)
+    all = kwargs.get("all", True)
+    if all:
+        oom_ofb.make_temporary_library(**kwargs) #all the footpritns one library generation
     if git:  
         oom_kicad.push_to_git(repo_directory = "c:/gh/oomlout_oomp_footprint_all_the_kicad_footprints/")
 

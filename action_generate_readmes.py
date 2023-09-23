@@ -38,10 +38,15 @@ def go_through_directories(**kwargs):
                         count = count + 1
                         print(f"{count}  ", end="", flush=True)
             
-            #push every 5000
-            if count % 20000 == 0:
-                oom_kicad.push_to_git(count=count)
+                #push every 5000
+                if count % 20000 == 0:
+                    if git:
+                        oom_kicad.push_to_git(count=count)
                 count = count + 1
+            count2 = count2 + 1
+            #print a dot every 1000 files
+            if count2 % 100000 == 0:
+                print(".", end="", flush=True)
     if git:    
         oom_kicad.push_to_git(count=count)
 

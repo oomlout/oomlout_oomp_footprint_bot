@@ -9,42 +9,68 @@ import oom_git
 
  # test oomlout_oomlout_oomp_footprint_templates_oobb_connector_basic_triple
 def main(**kwargs):
-    repo_filter = "oomlout"
-    filter = "oomlout"
-    git = False
-    #repo_filter = ""   
     
+    
+    #### run settings
+    repo_filter = "oomlout"
+    #repo_filter = ""
+    
+    filter = "oomlout"
+    #filter = ""
+    
+    git = False
+    #git = True
+      
+    test=False
+    #test=True
+
+      
+    
+
+    ###### load into kwargs
+    directory = "tmp/data/oomlout_oomp_footprint_src"
+    all = False#if repo and repofilter both equal [""] then all is true
+    if repo_filter == [""] and filter == [""]:
+        print("repo_filter and filter both equal [''] so all is true")
+        all = True
+    kwargs["all"] = all
+    #if repo_filter isn't a list make it one
+    if type(repo_filter) != list:
+        repo_filter = [repo_filter]
     kwargs["repo_filter"] = repo_filter
+    #if filter isn't a list make it one
+    if type(filter) != list:
+        filter = [filter]
     kwargs["filter"] = filter
     kwargs["git"] = git
+    kwargs["directory"] = directory
+    kwargs["test"] = test
     
     
     import time
     time_start = time.time()
-    test=False
-    dir_src = "tmp/data"
-    src_github = "https://github.com/oomlout/oomlout_oomp_footprint_src"
-    oom_git.clone(repo = src_github, directory=dir_src)    
-    dir_src = f"{dir_src}/oomlout_oomp_footprint_src"
     
-    directory = dir_src
-    kwargs["directory"] = directory
-    kwargs["test"] = test
-
+    src_github = "https://github.com/oomlout/oomlout_oomp_footprint_src"
+    oom_git.clone(repo = src_github, directory="tmp/data")    
+    
+    
+    
     #make the repo.yaml file not really needed very often
     if git:
+        print
+        print(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Making repo.yaml file pulling libraries from mega library repo")
         oom_f_s.make_footprint_yaml(**kwargs)
 
     #uses repo_filter
-    print("Copying data to footprints directory")
+    print(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Copying data to footprints directory")
     oom_f_s.clone_and_copy_footprints(**kwargs)
     
-    print("making readme files")
+    print(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Making  src readme.md files")
     oom_f_s.make_footprints_readme(**kwargs)
 
     #push footprint_src    
     if git:
-        print("pushing to git")
+        print(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Pushing to git")
         oom_git.push_to_git(directory=directory)
 
     # bot stuff
@@ -52,23 +78,19 @@ def main(**kwargs):
     action_setup.main(**kwargs)
 
     
-    
-    print("making library")
-    kwargs["make_library"] = True ##all the footprints one library
-    #kwargs["make_library"] = False
-    kwargs["git"] = True
+    print(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> making the all footprints repo")
     action_generate_all_footprint_repo.main(**kwargs)
 
     ##action_generate_footprint_outputs.main()
 
-    print("generating readmes")
+    print(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>> generating bot readmes")
     action_generate_readmes.main(**kwargs)
 
-    print("generating images")
+    print(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>> generating image resolutions")
     action_generate_image_resolutions.main(**kwargs)
 
-    print("creating doc")
-    action_create_doc.main()
+    print(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>> creating doc")
+    action_create_doc.main(**kwargs)
 
     if git:
         oom_git.push_to_git(comment="comitting after all generations")
