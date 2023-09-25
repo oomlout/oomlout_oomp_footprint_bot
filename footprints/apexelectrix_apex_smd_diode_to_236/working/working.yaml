@@ -1,18 +1,20 @@
-- file: data//oomlout_oomp_footprint_src/apex-smd-diode.pretty/TO-236.kicad_mod
+- file: data/oomlout_oomp_footprint_src/apex-smd-diode.pretty/TO-236.kicad_mod
   footprint:
     description: null
     libraryLink: TO-236
     number_of_pads: 3
   footprint_library_directory: footprint_library_owner/apexelectrix_apex-smd-diode.pretty
-  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/apexelectrix_apex_smd_diode_to_236/working
-  github_path: http://github.com/apexelectrix/apex-smd-diode.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/TO-236.kicad_mod
+  footprint_library_directory_flat: tmp/data/oomlout_oomp_footprint_src/footprints_flat/apexelectrix_apex_smd_diode_to_236/working
+  github_path: http://github.com/apexelectrix/apex-smd-diode.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/TO-236.kicad_mod
   links:
-    github_src: http://gitlab.com/apexelectrix/apex-smd-diode.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/TO-236.kicad_mod
-    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
-    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/apexelectrix_apex_smd_diode_to_236/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/apexelectrix_apex_smd_diode_to_236/working
-    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/apexelectrix_apex_smd_diode_to_236/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/apexelectrix_apex_smd_diode_to_236/working
+    github_owner: apexelectrix
+    github_repo_name: apex-smd-diode.pretty
+    github_src: http://github.com/apexelectrix/apex-smd-diode.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/TO-236.kicad_mod
+    github_src_repo: https://github.com/apexelectrix/apex-smd-diode.pretty
+    oomp_bot: tmp/data/oomlout_oomp_footprint_src/footprints/apexelectrix_apex_smd_diode_to_236/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/apexelectrix_apex_smd_diode_to_236/working
+    oomp_src_flat: footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/apexelectrix_apex_smd_diode_to_236/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/apexelectrix_apex_smd_diode_to_236/working
   name: apex-smd-diode.pretty
   oomp:
     footprint_name: to_236
@@ -25,15 +27,135 @@
     oomp_key_extra: oomp_footprint_apexelectrix_apex_smd_diode_to_236
     oomp_key_full: oomp_footprint_apexelectrix_apex_smd_diode_to_236_35eec3
     oomp_key_simple: apexelectrix_apex_smd_diode_to_236
-    original_filename: data//oomlout_oomp_footprint_src/apex-smd-diode.pretty/TO-236.kicad_mod
+    original_filename: data/oomlout_oomp_footprint_src/apex-smd-diode.pretty/TO-236.kicad_mod
     owner_name: apexelectrix
   oomp_key: oomp_apexelectrix_apex_smd_diode_to_236
   oomp_key_full: oomp_footprint_apexelectrix_apex_smd_diode_to_236
   oomp_key_simple: apexelectrix_apex_smd_diode_to_236
   owner: apexelectrix
   repo:
-    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
-    message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
-      Authenticated requests get a higher rate limit. Check out the documentation
-      for more details.)'
+    allow_forking: true
+    archive_url: https://api.github.com/repos/apexelectrix/apex-smd-diode.pretty/{archive_format}{/ref}
+    archived: false
+    assignees_url: https://api.github.com/repos/apexelectrix/apex-smd-diode.pretty/assignees{/user}
+    blobs_url: https://api.github.com/repos/apexelectrix/apex-smd-diode.pretty/git/blobs{/sha}
+    branches_url: https://api.github.com/repos/apexelectrix/apex-smd-diode.pretty/branches{/branch}
+    clone_url: https://github.com/apexelectrix/apex-smd-diode.pretty.git
+    collaborators_url: https://api.github.com/repos/apexelectrix/apex-smd-diode.pretty/collaborators{/collaborator}
+    comments_url: https://api.github.com/repos/apexelectrix/apex-smd-diode.pretty/comments{/number}
+    commits_url: https://api.github.com/repos/apexelectrix/apex-smd-diode.pretty/commits{/sha}
+    compare_url: https://api.github.com/repos/apexelectrix/apex-smd-diode.pretty/compare/{base}...{head}
+    contents_url: https://api.github.com/repos/apexelectrix/apex-smd-diode.pretty/contents/{+path}
+    contributors_url: https://api.github.com/repos/apexelectrix/apex-smd-diode.pretty/contributors
+    created_at: '2015-08-04T19:17:08Z'
+    default_branch: master
+    deployments_url: https://api.github.com/repos/apexelectrix/apex-smd-diode.pretty/deployments
+    description: Smd diode footprints for Kicad
+    disabled: false
+    downloads_url: https://api.github.com/repos/apexelectrix/apex-smd-diode.pretty/downloads
+    events_url: https://api.github.com/repos/apexelectrix/apex-smd-diode.pretty/events
+    fork: false
+    forks: 0
+    forks_count: 0
+    forks_url: https://api.github.com/repos/apexelectrix/apex-smd-diode.pretty/forks
+    full_name: apexelectrix/apex-smd-diode.pretty
+    git_commits_url: https://api.github.com/repos/apexelectrix/apex-smd-diode.pretty/git/commits{/sha}
+    git_refs_url: https://api.github.com/repos/apexelectrix/apex-smd-diode.pretty/git/refs{/sha}
+    git_tags_url: https://api.github.com/repos/apexelectrix/apex-smd-diode.pretty/git/tags{/sha}
+    git_url: git://github.com/apexelectrix/apex-smd-diode.pretty.git
+    has_discussions: false
+    has_downloads: true
+    has_issues: true
+    has_pages: false
+    has_projects: true
+    has_wiki: true
+    homepage: null
+    hooks_url: https://api.github.com/repos/apexelectrix/apex-smd-diode.pretty/hooks
+    html_url: https://github.com/apexelectrix/apex-smd-diode.pretty
+    id: 40204397
+    is_template: false
+    issue_comment_url: https://api.github.com/repos/apexelectrix/apex-smd-diode.pretty/issues/comments{/number}
+    issue_events_url: https://api.github.com/repos/apexelectrix/apex-smd-diode.pretty/issues/events{/number}
+    issues_url: https://api.github.com/repos/apexelectrix/apex-smd-diode.pretty/issues{/number}
+    keys_url: https://api.github.com/repos/apexelectrix/apex-smd-diode.pretty/keys{/key_id}
+    labels_url: https://api.github.com/repos/apexelectrix/apex-smd-diode.pretty/labels{/name}
+    language: null
+    languages_url: https://api.github.com/repos/apexelectrix/apex-smd-diode.pretty/languages
+    license:
+      key: gpl-2.0
+      name: GNU General Public License v2.0
+      node_id: MDc6TGljZW5zZTg=
+      spdx_id: GPL-2.0
+      url: https://api.github.com/licenses/gpl-2.0
+    merges_url: https://api.github.com/repos/apexelectrix/apex-smd-diode.pretty/merges
+    milestones_url: https://api.github.com/repos/apexelectrix/apex-smd-diode.pretty/milestones{/number}
+    mirror_url: null
+    name: apex-smd-diode.pretty
+    network_count: 0
+    node_id: MDEwOlJlcG9zaXRvcnk0MDIwNDM5Nw==
+    notifications_url: https://api.github.com/repos/apexelectrix/apex-smd-diode.pretty/notifications{?since,all,participating}
+    open_issues: 0
+    open_issues_count: 0
+    organization:
+      avatar_url: https://avatars.githubusercontent.com/u/6211642?v=4
+      events_url: https://api.github.com/users/apexelectrix/events{/privacy}
+      followers_url: https://api.github.com/users/apexelectrix/followers
+      following_url: https://api.github.com/users/apexelectrix/following{/other_user}
+      gists_url: https://api.github.com/users/apexelectrix/gists{/gist_id}
+      gravatar_id: ''
+      html_url: https://github.com/apexelectrix
+      id: 6211642
+      login: apexelectrix
+      node_id: MDEyOk9yZ2FuaXphdGlvbjYyMTE2NDI=
+      organizations_url: https://api.github.com/users/apexelectrix/orgs
+      received_events_url: https://api.github.com/users/apexelectrix/received_events
+      repos_url: https://api.github.com/users/apexelectrix/repos
+      site_admin: false
+      starred_url: https://api.github.com/users/apexelectrix/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/apexelectrix/subscriptions
+      type: Organization
+      url: https://api.github.com/users/apexelectrix
+    owner:
+      avatar_url: https://avatars.githubusercontent.com/u/6211642?v=4
+      events_url: https://api.github.com/users/apexelectrix/events{/privacy}
+      followers_url: https://api.github.com/users/apexelectrix/followers
+      following_url: https://api.github.com/users/apexelectrix/following{/other_user}
+      gists_url: https://api.github.com/users/apexelectrix/gists{/gist_id}
+      gravatar_id: ''
+      html_url: https://github.com/apexelectrix
+      id: 6211642
+      login: apexelectrix
+      node_id: MDEyOk9yZ2FuaXphdGlvbjYyMTE2NDI=
+      organizations_url: https://api.github.com/users/apexelectrix/orgs
+      received_events_url: https://api.github.com/users/apexelectrix/received_events
+      repos_url: https://api.github.com/users/apexelectrix/repos
+      site_admin: false
+      starred_url: https://api.github.com/users/apexelectrix/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/apexelectrix/subscriptions
+      type: Organization
+      url: https://api.github.com/users/apexelectrix
+    private: false
+    pulls_url: https://api.github.com/repos/apexelectrix/apex-smd-diode.pretty/pulls{/number}
+    pushed_at: '2015-08-27T23:30:46Z'
+    releases_url: https://api.github.com/repos/apexelectrix/apex-smd-diode.pretty/releases{/id}
+    size: 140
+    ssh_url: git@github.com:apexelectrix/apex-smd-diode.pretty.git
+    stargazers_count: 0
+    stargazers_url: https://api.github.com/repos/apexelectrix/apex-smd-diode.pretty/stargazers
+    statuses_url: https://api.github.com/repos/apexelectrix/apex-smd-diode.pretty/statuses/{sha}
+    subscribers_count: 2
+    subscribers_url: https://api.github.com/repos/apexelectrix/apex-smd-diode.pretty/subscribers
+    subscription_url: https://api.github.com/repos/apexelectrix/apex-smd-diode.pretty/subscription
+    svn_url: https://github.com/apexelectrix/apex-smd-diode.pretty
+    tags_url: https://api.github.com/repos/apexelectrix/apex-smd-diode.pretty/tags
+    teams_url: https://api.github.com/repos/apexelectrix/apex-smd-diode.pretty/teams
+    temp_clone_token: null
+    topics: []
+    trees_url: https://api.github.com/repos/apexelectrix/apex-smd-diode.pretty/git/trees{/sha}
+    updated_at: '2015-08-04T19:17:08Z'
+    url: https://api.github.com/repos/apexelectrix/apex-smd-diode.pretty
+    visibility: public
+    watchers: 0
+    watchers_count: 0
+    web_commit_signoff_required: false
   url: http://github.com/apexelectrix/apex-smd-diode.pretty

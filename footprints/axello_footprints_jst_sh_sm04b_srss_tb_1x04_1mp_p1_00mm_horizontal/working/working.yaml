@@ -1,19 +1,19 @@
-- file: data//oomlout_oomp_footprint_src/kicad/demos/stickhub/footprints.pretty/JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal.kicad_mod
+- file: data/oomlout_oomp_footprint_src/kicad/demos/stickhub/footprints.pretty/JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal.kicad_mod
   footprint:
     description: JST SH series connector, SM04B-SRSS-TB (http://www.jst-mfg.com/product/pdf/eng/eSH.pdf),
       generated with kicad-footprint-generator
     libraryLink: JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal
     number_of_pads: 6
   footprint_library_directory: footprint_library_owner/axello_kicad
-  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/axello_footprints_jst_sh_sm04b_srss_tb_1x04_1mp_p1_00mm_horizontal/working
-  github_path: http://github.com/axello/kicad/blob/master/tmp/data//oomlout_oomp_footprint_src/demos/stickhub/footprints.pretty/JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal.kicad_mod
+  footprint_library_directory_flat: tmp/data/oomlout_oomp_footprint_src/footprints_flat/axello_footprints_jst_sh_sm04b_srss_tb_1x04_1mp_p1_00mm_horizontal/working
+  github_path: http://github.com/axello/kicad/blob/master/tmp/data/oomlout_oomp_footprint_src/demos/stickhub/footprints.pretty/JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal.kicad_mod
   links:
-    github_src: http://gitlab.com/axello/kicad/blob/master/tmp/data//oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod
+    github_src: http://gitlab.com/axello/kicad/blob/master/tmp/data/oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
-    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/axello_footprints_jst_sh_sm04b_srss_tb_1x04_1mp_p1_00mm_horizontal/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/axello_footprints_jst_sh_sm04b_srss_tb_1x04_1mp_p1_00mm_horizontal/working
-    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/axello_footprints_jst_sh_sm04b_srss_tb_1x04_1mp_p1_00mm_horizontal/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/axello_footprints_jst_sh_sm04b_srss_tb_1x04_1mp_p1_00mm_horizontal/working
+    oomp_bot: tmp/data/oomlout_oomp_footprint_src/footprints/axello_footprints_jst_sh_sm04b_srss_tb_1x04_1mp_p1_00mm_horizontal/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/axello_footprints_jst_sh_sm04b_srss_tb_1x04_1mp_p1_00mm_horizontal/working
+    oomp_src_flat: footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/axello_footprints_jst_sh_sm04b_srss_tb_1x04_1mp_p1_00mm_horizontal/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/axello_footprints_jst_sh_sm04b_srss_tb_1x04_1mp_p1_00mm_horizontal/working
   name: kicad
   oomp:
     footprint_name: jst_sh_sm04b_srss_tb_1x04_1mp_p1_00mm_horizontal
@@ -26,7 +26,7 @@
     oomp_key_extra: oomp_footprint_axello_footprints_jst_sh_sm04b_srss_tb_1x04_1mp_p1_00mm_horizontal
     oomp_key_full: oomp_footprint_axello_footprints_jst_sh_sm04b_srss_tb_1x04_1mp_p1_00mm_horizontal_f81084
     oomp_key_simple: axello_footprints_jst_sh_sm04b_srss_tb_1x04_1mp_p1_00mm_horizontal
-    original_filename: data//oomlout_oomp_footprint_src/kicad/demos/stickhub/footprints.pretty/JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal.kicad_mod
+    original_filename: data/oomlout_oomp_footprint_src/kicad/demos/stickhub/footprints.pretty/JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_footprints_jst_sh_sm04b_srss_tb_1x04_1mp_p1_00mm_horizontal
   oomp_key_full: oomp_footprint_axello_footprints_jst_sh_sm04b_srss_tb_1x04_1mp_p1_00mm_horizontal

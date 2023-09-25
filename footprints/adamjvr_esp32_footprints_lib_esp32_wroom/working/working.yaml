@@ -1,18 +1,20 @@
-- file: data//oomlout_oomp_footprint_src/ESP32-kiCAD-Footprints/ESP32-Footprints/ESP32-footprints-Lib.pretty/ESP32-WROOM.kicad_mod
+- file: data/oomlout_oomp_footprint_src/ESP32-kiCAD-Footprints/ESP32-Footprints/ESP32-footprints-Lib.pretty/ESP32-WROOM.kicad_mod
   footprint:
     description: null
     libraryLink: ESP32-WROOM
     number_of_pads: 39
   footprint_library_directory: footprint_library_owner/adamjvr_ESP32-kiCAD-Footprints
-  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/adamjvr_esp32_footprints_lib_esp32_wroom/working
-  github_path: http://github.com/adamjvr/ESP32-kiCAD-Footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/ESP32-Footprints/ESP32-footprints-Lib.pretty/ESP32-WROOM.kicad_mod
+  footprint_library_directory_flat: tmp/data/oomlout_oomp_footprint_src/footprints_flat/adamjvr_esp32_footprints_lib_esp32_wroom/working
+  github_path: http://github.com/adamjvr/ESP32-kiCAD-Footprints/blob/master/tmp/data/oomlout_oomp_footprint_src/ESP32-Footprints/ESP32-footprints-Lib.pretty/ESP32-WROOM.kicad_mod
   links:
-    github_src: http://gitlab.com/adamjvr/ESP32-kiCAD-Footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/ESP32-Footprints/ESP32-footprints-Lib.pretty/ESP3212.kicad_mod
-    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
-    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/adamjvr_esp32_footprints_lib_esp32_wroom/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/adamjvr_esp32_footprints_lib_esp32_wroom/working
-    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/adamjvr_esp32_footprints_lib_esp32_wroom/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/adamjvr_esp32_footprints_lib_esp32_wroom/working
+    github_owner: adamjvr
+    github_repo_name: ESP32-kiCAD-Footprints
+    github_src: http://github.com/adamjvr/ESP32-kiCAD-Footprints/blob/master/tmp/data/oomlout_oomp_footprint_src/ESP32-Footprints/ESP32-footprints-Lib.pretty/ESP3212.kicad_mod
+    github_src_repo: https://github.com/adamjvr/ESP32-kiCAD-Footprints
+    oomp_bot: tmp/data/oomlout_oomp_footprint_src/footprints/adamjvr_esp32_footprints_lib_esp32_wroom/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/adamjvr_esp32_footprints_lib_esp32_wroom/working
+    oomp_src_flat: footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/adamjvr_esp32_footprints_lib_esp32_wroom/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/adamjvr_esp32_footprints_lib_esp32_wroom/working
   name: ESP32-kiCAD-Footprints
   oomp:
     footprint_name: esp32_wroom
@@ -25,15 +27,112 @@
     oomp_key_extra: oomp_footprint_adamjvr_esp32_footprints_lib_esp32_wroom
     oomp_key_full: oomp_footprint_adamjvr_esp32_footprints_lib_esp32_wroom_870f7b
     oomp_key_simple: adamjvr_esp32_footprints_lib_esp32_wroom
-    original_filename: data//oomlout_oomp_footprint_src/ESP32-kiCAD-Footprints/ESP32-Footprints/ESP32-footprints-Lib.pretty/ESP32-WROOM.kicad_mod
+    original_filename: data/oomlout_oomp_footprint_src/ESP32-kiCAD-Footprints/ESP32-Footprints/ESP32-footprints-Lib.pretty/ESP32-WROOM.kicad_mod
     owner_name: adamjvr
   oomp_key: oomp_adamjvr_esp32_footprints_lib_esp32_wroom
   oomp_key_full: oomp_footprint_adamjvr_esp32_footprints_lib_esp32_wroom
   oomp_key_simple: adamjvr_esp32_footprints_lib_esp32_wroom
   owner: adamjvr
   repo:
-    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
-    message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
-      Authenticated requests get a higher rate limit. Check out the documentation
-      for more details.)'
+    allow_forking: true
+    archive_url: https://api.github.com/repos/adamjvr/ESP32-kiCAD-Footprints/{archive_format}{/ref}
+    archived: false
+    assignees_url: https://api.github.com/repos/adamjvr/ESP32-kiCAD-Footprints/assignees{/user}
+    blobs_url: https://api.github.com/repos/adamjvr/ESP32-kiCAD-Footprints/git/blobs{/sha}
+    branches_url: https://api.github.com/repos/adamjvr/ESP32-kiCAD-Footprints/branches{/branch}
+    clone_url: https://github.com/adamjvr/ESP32-kiCAD-Footprints.git
+    collaborators_url: https://api.github.com/repos/adamjvr/ESP32-kiCAD-Footprints/collaborators{/collaborator}
+    comments_url: https://api.github.com/repos/adamjvr/ESP32-kiCAD-Footprints/comments{/number}
+    commits_url: https://api.github.com/repos/adamjvr/ESP32-kiCAD-Footprints/commits{/sha}
+    compare_url: https://api.github.com/repos/adamjvr/ESP32-kiCAD-Footprints/compare/{base}...{head}
+    contents_url: https://api.github.com/repos/adamjvr/ESP32-kiCAD-Footprints/contents/{+path}
+    contributors_url: https://api.github.com/repos/adamjvr/ESP32-kiCAD-Footprints/contributors
+    created_at: '2016-09-06T06:39:42Z'
+    default_branch: master
+    deployments_url: https://api.github.com/repos/adamjvr/ESP32-kiCAD-Footprints/deployments
+    description: 'Footprints for the Espressif ESP32 WiFi/BLE Chip and ESP3212 module,
+      for KiCAD EDA '
+    disabled: false
+    downloads_url: https://api.github.com/repos/adamjvr/ESP32-kiCAD-Footprints/downloads
+    events_url: https://api.github.com/repos/adamjvr/ESP32-kiCAD-Footprints/events
+    fork: false
+    forks: 37
+    forks_count: 37
+    forks_url: https://api.github.com/repos/adamjvr/ESP32-kiCAD-Footprints/forks
+    full_name: adamjvr/ESP32-kiCAD-Footprints
+    git_commits_url: https://api.github.com/repos/adamjvr/ESP32-kiCAD-Footprints/git/commits{/sha}
+    git_refs_url: https://api.github.com/repos/adamjvr/ESP32-kiCAD-Footprints/git/refs{/sha}
+    git_tags_url: https://api.github.com/repos/adamjvr/ESP32-kiCAD-Footprints/git/tags{/sha}
+    git_url: git://github.com/adamjvr/ESP32-kiCAD-Footprints.git
+    has_discussions: false
+    has_downloads: true
+    has_issues: true
+    has_pages: false
+    has_projects: true
+    has_wiki: true
+    homepage: null
+    hooks_url: https://api.github.com/repos/adamjvr/ESP32-kiCAD-Footprints/hooks
+    html_url: https://github.com/adamjvr/ESP32-kiCAD-Footprints
+    id: 67480664
+    is_template: false
+    issue_comment_url: https://api.github.com/repos/adamjvr/ESP32-kiCAD-Footprints/issues/comments{/number}
+    issue_events_url: https://api.github.com/repos/adamjvr/ESP32-kiCAD-Footprints/issues/events{/number}
+    issues_url: https://api.github.com/repos/adamjvr/ESP32-kiCAD-Footprints/issues{/number}
+    keys_url: https://api.github.com/repos/adamjvr/ESP32-kiCAD-Footprints/keys{/key_id}
+    labels_url: https://api.github.com/repos/adamjvr/ESP32-kiCAD-Footprints/labels{/name}
+    language: KiCad
+    languages_url: https://api.github.com/repos/adamjvr/ESP32-kiCAD-Footprints/languages
+    license: null
+    merges_url: https://api.github.com/repos/adamjvr/ESP32-kiCAD-Footprints/merges
+    milestones_url: https://api.github.com/repos/adamjvr/ESP32-kiCAD-Footprints/milestones{/number}
+    mirror_url: null
+    name: ESP32-kiCAD-Footprints
+    network_count: 37
+    node_id: MDEwOlJlcG9zaXRvcnk2NzQ4MDY2NA==
+    notifications_url: https://api.github.com/repos/adamjvr/ESP32-kiCAD-Footprints/notifications{?since,all,participating}
+    open_issues: 5
+    open_issues_count: 5
+    owner:
+      avatar_url: https://avatars.githubusercontent.com/u/3782102?v=4
+      events_url: https://api.github.com/users/adamjvr/events{/privacy}
+      followers_url: https://api.github.com/users/adamjvr/followers
+      following_url: https://api.github.com/users/adamjvr/following{/other_user}
+      gists_url: https://api.github.com/users/adamjvr/gists{/gist_id}
+      gravatar_id: ''
+      html_url: https://github.com/adamjvr
+      id: 3782102
+      login: adamjvr
+      node_id: MDQ6VXNlcjM3ODIxMDI=
+      organizations_url: https://api.github.com/users/adamjvr/orgs
+      received_events_url: https://api.github.com/users/adamjvr/received_events
+      repos_url: https://api.github.com/users/adamjvr/repos
+      site_admin: false
+      starred_url: https://api.github.com/users/adamjvr/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/adamjvr/subscriptions
+      type: User
+      url: https://api.github.com/users/adamjvr
+    private: false
+    pulls_url: https://api.github.com/repos/adamjvr/ESP32-kiCAD-Footprints/pulls{/number}
+    pushed_at: '2018-11-19T03:35:01Z'
+    releases_url: https://api.github.com/repos/adamjvr/ESP32-kiCAD-Footprints/releases{/id}
+    size: 2558
+    ssh_url: git@github.com:adamjvr/ESP32-kiCAD-Footprints.git
+    stargazers_count: 191
+    stargazers_url: https://api.github.com/repos/adamjvr/ESP32-kiCAD-Footprints/stargazers
+    statuses_url: https://api.github.com/repos/adamjvr/ESP32-kiCAD-Footprints/statuses/{sha}
+    subscribers_count: 20
+    subscribers_url: https://api.github.com/repos/adamjvr/ESP32-kiCAD-Footprints/subscribers
+    subscription_url: https://api.github.com/repos/adamjvr/ESP32-kiCAD-Footprints/subscription
+    svn_url: https://github.com/adamjvr/ESP32-kiCAD-Footprints
+    tags_url: https://api.github.com/repos/adamjvr/ESP32-kiCAD-Footprints/tags
+    teams_url: https://api.github.com/repos/adamjvr/ESP32-kiCAD-Footprints/teams
+    temp_clone_token: null
+    topics: []
+    trees_url: https://api.github.com/repos/adamjvr/ESP32-kiCAD-Footprints/git/trees{/sha}
+    updated_at: '2023-09-08T17:14:29Z'
+    url: https://api.github.com/repos/adamjvr/ESP32-kiCAD-Footprints
+    visibility: public
+    watchers: 191
+    watchers_count: 191
+    web_commit_signoff_required: false
   url: http://github.com/adamjvr/ESP32-kiCAD-Footprints

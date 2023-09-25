@@ -1,18 +1,20 @@
-- file: data//oomlout_oomp_footprint_src/safety_pin.pretty/safety_pin_2.5_3.5_4.5mm.kicad_mod
+- file: data/oomlout_oomp_footprint_src/safety_pin.pretty/safety_pin_2.5_3.5_4.5mm.kicad_mod
   footprint:
     description: null
     libraryLink: safety_pin_2.5_3.5_4.5mm
     number_of_pads: 6
   footprint_library_directory: footprint_library_owner/aylons_safety_pin.pretty
-  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/aylons_safety_pin_safety_pin_2_5_3_5_4_5mm/working
-  github_path: http://github.com/aylons/safety_pin.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/safety_pin_2.5_3.5_4.5mm.kicad_mod
+  footprint_library_directory_flat: tmp/data/oomlout_oomp_footprint_src/footprints_flat/aylons_safety_pin_safety_pin_2_5_3_5_4_5mm/working
+  github_path: http://github.com/aylons/safety_pin.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/safety_pin_2.5_3.5_4.5mm.kicad_mod
   links:
-    github_src: http://gitlab.com/aylons/safety_pin.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/safety_pin_2.5_3.5_4.5mm.kicad_mod
-    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
-    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/aylons_safety_pin_safety_pin_2_5_3_5_4_5mm/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/aylons_safety_pin_safety_pin_2_5_3_5_4_5mm/working
-    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/aylons_safety_pin_safety_pin_2_5_3_5_4_5mm/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/aylons_safety_pin_safety_pin_2_5_3_5_4_5mm/working
+    github_owner: aylons
+    github_repo_name: safety_pin.pretty
+    github_src: http://github.com/aylons/safety_pin.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/safety_pin_2.5_3.5_4.5mm.kicad_mod
+    github_src_repo: https://github.com/aylons/safety_pin.pretty
+    oomp_bot: tmp/data/oomlout_oomp_footprint_src/footprints/aylons_safety_pin_safety_pin_2_5_3_5_4_5mm/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/aylons_safety_pin_safety_pin_2_5_3_5_4_5mm/working
+    oomp_src_flat: footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/aylons_safety_pin_safety_pin_2_5_3_5_4_5mm/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/aylons_safety_pin_safety_pin_2_5_3_5_4_5mm/working
   name: safety_pin.pretty
   oomp:
     footprint_name: safety_pin_2_5_3_5_4_5mm
@@ -25,15 +27,116 @@
     oomp_key_extra: oomp_footprint_aylons_safety_pin_safety_pin_2_5_3_5_4_5mm
     oomp_key_full: oomp_footprint_aylons_safety_pin_safety_pin_2_5_3_5_4_5mm_cfd122
     oomp_key_simple: aylons_safety_pin_safety_pin_2_5_3_5_4_5mm
-    original_filename: data//oomlout_oomp_footprint_src/safety_pin.pretty/safety_pin_2.5_3.5_4.5mm.kicad_mod
+    original_filename: data/oomlout_oomp_footprint_src/safety_pin.pretty/safety_pin_2.5_3.5_4.5mm.kicad_mod
     owner_name: aylons
   oomp_key: oomp_aylons_safety_pin_safety_pin_2_5_3_5_4_5mm
   oomp_key_full: oomp_footprint_aylons_safety_pin_safety_pin_2_5_3_5_4_5mm
   oomp_key_simple: aylons_safety_pin_safety_pin_2_5_3_5_4_5mm
   owner: aylons
   repo:
-    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
-    message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
-      Authenticated requests get a higher rate limit. Check out the documentation
-      for more details.)'
+    allow_forking: true
+    archive_url: https://api.github.com/repos/aylons/safety_pin.pretty/{archive_format}{/ref}
+    archived: false
+    assignees_url: https://api.github.com/repos/aylons/safety_pin.pretty/assignees{/user}
+    blobs_url: https://api.github.com/repos/aylons/safety_pin.pretty/git/blobs{/sha}
+    branches_url: https://api.github.com/repos/aylons/safety_pin.pretty/branches{/branch}
+    clone_url: https://github.com/aylons/safety_pin.pretty.git
+    collaborators_url: https://api.github.com/repos/aylons/safety_pin.pretty/collaborators{/collaborator}
+    comments_url: https://api.github.com/repos/aylons/safety_pin.pretty/comments{/number}
+    commits_url: https://api.github.com/repos/aylons/safety_pin.pretty/commits{/sha}
+    compare_url: https://api.github.com/repos/aylons/safety_pin.pretty/compare/{base}...{head}
+    contents_url: https://api.github.com/repos/aylons/safety_pin.pretty/contents/{+path}
+    contributors_url: https://api.github.com/repos/aylons/safety_pin.pretty/contributors
+    created_at: '2016-08-10T00:36:59Z'
+    default_branch: master
+    deployments_url: https://api.github.com/repos/aylons/safety_pin.pretty/deployments
+    description: Kicad library for soldering safety pins in a PCB
+    disabled: false
+    downloads_url: https://api.github.com/repos/aylons/safety_pin.pretty/downloads
+    events_url: https://api.github.com/repos/aylons/safety_pin.pretty/events
+    fork: false
+    forks: 0
+    forks_count: 0
+    forks_url: https://api.github.com/repos/aylons/safety_pin.pretty/forks
+    full_name: aylons/safety_pin.pretty
+    git_commits_url: https://api.github.com/repos/aylons/safety_pin.pretty/git/commits{/sha}
+    git_refs_url: https://api.github.com/repos/aylons/safety_pin.pretty/git/refs{/sha}
+    git_tags_url: https://api.github.com/repos/aylons/safety_pin.pretty/git/tags{/sha}
+    git_url: git://github.com/aylons/safety_pin.pretty.git
+    has_discussions: false
+    has_downloads: true
+    has_issues: true
+    has_pages: false
+    has_projects: true
+    has_wiki: true
+    homepage: null
+    hooks_url: https://api.github.com/repos/aylons/safety_pin.pretty/hooks
+    html_url: https://github.com/aylons/safety_pin.pretty
+    id: 65337803
+    is_template: false
+    issue_comment_url: https://api.github.com/repos/aylons/safety_pin.pretty/issues/comments{/number}
+    issue_events_url: https://api.github.com/repos/aylons/safety_pin.pretty/issues/events{/number}
+    issues_url: https://api.github.com/repos/aylons/safety_pin.pretty/issues{/number}
+    keys_url: https://api.github.com/repos/aylons/safety_pin.pretty/keys{/key_id}
+    labels_url: https://api.github.com/repos/aylons/safety_pin.pretty/labels{/name}
+    language: null
+    languages_url: https://api.github.com/repos/aylons/safety_pin.pretty/languages
+    license:
+      key: other
+      name: Other
+      node_id: MDc6TGljZW5zZTA=
+      spdx_id: NOASSERTION
+      url: null
+    merges_url: https://api.github.com/repos/aylons/safety_pin.pretty/merges
+    milestones_url: https://api.github.com/repos/aylons/safety_pin.pretty/milestones{/number}
+    mirror_url: null
+    name: safety_pin.pretty
+    network_count: 0
+    node_id: MDEwOlJlcG9zaXRvcnk2NTMzNzgwMw==
+    notifications_url: https://api.github.com/repos/aylons/safety_pin.pretty/notifications{?since,all,participating}
+    open_issues: 0
+    open_issues_count: 0
+    owner:
+      avatar_url: https://avatars.githubusercontent.com/u/720443?v=4
+      events_url: https://api.github.com/users/aylons/events{/privacy}
+      followers_url: https://api.github.com/users/aylons/followers
+      following_url: https://api.github.com/users/aylons/following{/other_user}
+      gists_url: https://api.github.com/users/aylons/gists{/gist_id}
+      gravatar_id: ''
+      html_url: https://github.com/aylons
+      id: 720443
+      login: aylons
+      node_id: MDQ6VXNlcjcyMDQ0Mw==
+      organizations_url: https://api.github.com/users/aylons/orgs
+      received_events_url: https://api.github.com/users/aylons/received_events
+      repos_url: https://api.github.com/users/aylons/repos
+      site_admin: false
+      starred_url: https://api.github.com/users/aylons/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/aylons/subscriptions
+      type: User
+      url: https://api.github.com/users/aylons
+    private: false
+    pulls_url: https://api.github.com/repos/aylons/safety_pin.pretty/pulls{/number}
+    pushed_at: '2016-08-10T01:14:18Z'
+    releases_url: https://api.github.com/repos/aylons/safety_pin.pretty/releases{/id}
+    size: 4
+    ssh_url: git@github.com:aylons/safety_pin.pretty.git
+    stargazers_count: 0
+    stargazers_url: https://api.github.com/repos/aylons/safety_pin.pretty/stargazers
+    statuses_url: https://api.github.com/repos/aylons/safety_pin.pretty/statuses/{sha}
+    subscribers_count: 2
+    subscribers_url: https://api.github.com/repos/aylons/safety_pin.pretty/subscribers
+    subscription_url: https://api.github.com/repos/aylons/safety_pin.pretty/subscription
+    svn_url: https://github.com/aylons/safety_pin.pretty
+    tags_url: https://api.github.com/repos/aylons/safety_pin.pretty/tags
+    teams_url: https://api.github.com/repos/aylons/safety_pin.pretty/teams
+    temp_clone_token: null
+    topics: []
+    trees_url: https://api.github.com/repos/aylons/safety_pin.pretty/git/trees{/sha}
+    updated_at: '2016-08-10T00:36:59Z'
+    url: https://api.github.com/repos/aylons/safety_pin.pretty
+    visibility: public
+    watchers: 0
+    watchers_count: 0
+    web_commit_signoff_required: false
   url: http://github.com/aylons/safety_pin.pretty

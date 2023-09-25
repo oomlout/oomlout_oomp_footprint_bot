@@ -1,18 +1,20 @@
-- file: data//oomlout_oomp_footprint_src/TOROID-KiCad.pretty/Logo_11_4mm_FSilk.kicad_mod
+- file: data/oomlout_oomp_footprint_src/TOROID-KiCad.pretty/Logo_11_4mm_FSilk.kicad_mod
   footprint:
     description: null
     libraryLink: LOGO
     number_of_pads: 0
   footprint_library_directory: footprint_library_owner/andresmanelli_TOROID-KiCad.pretty
-  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/andresmanelli_toroid_kicad_logo_11_4mm_fsilk/working
-  github_path: http://github.com/andresmanelli/TOROID-KiCad.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Logo_11_4mm_FSilk.kicad_mod
+  footprint_library_directory_flat: tmp/data/oomlout_oomp_footprint_src/footprints_flat/andresmanelli_toroid_kicad_logo_11_4mm_fsilk/working
+  github_path: http://github.com/andresmanelli/TOROID-KiCad.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/Logo_11_4mm_FSilk.kicad_mod
   links:
-    github_src: http://gitlab.com/andresmanelli/TOROID-KiCad.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XT60.kicad_mod
-    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
-    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/andresmanelli_toroid_kicad_logo_11_4mm_fsilk/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/andresmanelli_toroid_kicad_logo_11_4mm_fsilk/working
-    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/andresmanelli_toroid_kicad_logo_11_4mm_fsilk/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/andresmanelli_toroid_kicad_logo_11_4mm_fsilk/working
+    github_owner: andresmanelli
+    github_repo_name: TOROID-KiCad.pretty
+    github_src: http://github.com/andresmanelli/TOROID-KiCad.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/XT60.kicad_mod
+    github_src_repo: https://github.com/andresmanelli/TOROID-KiCad.pretty
+    oomp_bot: tmp/data/oomlout_oomp_footprint_src/footprints/andresmanelli_toroid_kicad_logo_11_4mm_fsilk/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/andresmanelli_toroid_kicad_logo_11_4mm_fsilk/working
+    oomp_src_flat: footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/andresmanelli_toroid_kicad_logo_11_4mm_fsilk/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/andresmanelli_toroid_kicad_logo_11_4mm_fsilk/working
   name: TOROID-KiCad.pretty
   oomp:
     footprint_name: logo_11_4mm_fsilk
@@ -25,15 +27,111 @@
     oomp_key_extra: oomp_footprint_andresmanelli_toroid_kicad_logo_11_4mm_fsilk
     oomp_key_full: oomp_footprint_andresmanelli_toroid_kicad_logo_11_4mm_fsilk_c7676f
     oomp_key_simple: andresmanelli_toroid_kicad_logo_11_4mm_fsilk
-    original_filename: data//oomlout_oomp_footprint_src/TOROID-KiCad.pretty/Logo_11_4mm_FSilk.kicad_mod
+    original_filename: data/oomlout_oomp_footprint_src/TOROID-KiCad.pretty/Logo_11_4mm_FSilk.kicad_mod
     owner_name: andresmanelli
   oomp_key: oomp_andresmanelli_toroid_kicad_logo_11_4mm_fsilk
   oomp_key_full: oomp_footprint_andresmanelli_toroid_kicad_logo_11_4mm_fsilk
   oomp_key_simple: andresmanelli_toroid_kicad_logo_11_4mm_fsilk
   owner: andresmanelli
   repo:
-    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
-    message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
-      Authenticated requests get a higher rate limit. Check out the documentation
-      for more details.)'
+    allow_forking: true
+    archive_url: https://api.github.com/repos/andresmanelli/TOROID-KiCad.pretty/{archive_format}{/ref}
+    archived: false
+    assignees_url: https://api.github.com/repos/andresmanelli/TOROID-KiCad.pretty/assignees{/user}
+    blobs_url: https://api.github.com/repos/andresmanelli/TOROID-KiCad.pretty/git/blobs{/sha}
+    branches_url: https://api.github.com/repos/andresmanelli/TOROID-KiCad.pretty/branches{/branch}
+    clone_url: https://github.com/andresmanelli/TOROID-KiCad.pretty.git
+    collaborators_url: https://api.github.com/repos/andresmanelli/TOROID-KiCad.pretty/collaborators{/collaborator}
+    comments_url: https://api.github.com/repos/andresmanelli/TOROID-KiCad.pretty/comments{/number}
+    commits_url: https://api.github.com/repos/andresmanelli/TOROID-KiCad.pretty/commits{/sha}
+    compare_url: https://api.github.com/repos/andresmanelli/TOROID-KiCad.pretty/compare/{base}...{head}
+    contents_url: https://api.github.com/repos/andresmanelli/TOROID-KiCad.pretty/contents/{+path}
+    contributors_url: https://api.github.com/repos/andresmanelli/TOROID-KiCad.pretty/contributors
+    created_at: '2016-10-31T00:22:47Z'
+    default_branch: master
+    deployments_url: https://api.github.com/repos/andresmanelli/TOROID-KiCad.pretty/deployments
+    description: KiCad Footprints
+    disabled: false
+    downloads_url: https://api.github.com/repos/andresmanelli/TOROID-KiCad.pretty/downloads
+    events_url: https://api.github.com/repos/andresmanelli/TOROID-KiCad.pretty/events
+    fork: false
+    forks: 0
+    forks_count: 0
+    forks_url: https://api.github.com/repos/andresmanelli/TOROID-KiCad.pretty/forks
+    full_name: andresmanelli/TOROID-KiCad.pretty
+    git_commits_url: https://api.github.com/repos/andresmanelli/TOROID-KiCad.pretty/git/commits{/sha}
+    git_refs_url: https://api.github.com/repos/andresmanelli/TOROID-KiCad.pretty/git/refs{/sha}
+    git_tags_url: https://api.github.com/repos/andresmanelli/TOROID-KiCad.pretty/git/tags{/sha}
+    git_url: git://github.com/andresmanelli/TOROID-KiCad.pretty.git
+    has_discussions: false
+    has_downloads: true
+    has_issues: true
+    has_pages: false
+    has_projects: true
+    has_wiki: true
+    homepage: null
+    hooks_url: https://api.github.com/repos/andresmanelli/TOROID-KiCad.pretty/hooks
+    html_url: https://github.com/andresmanelli/TOROID-KiCad.pretty
+    id: 72384066
+    is_template: false
+    issue_comment_url: https://api.github.com/repos/andresmanelli/TOROID-KiCad.pretty/issues/comments{/number}
+    issue_events_url: https://api.github.com/repos/andresmanelli/TOROID-KiCad.pretty/issues/events{/number}
+    issues_url: https://api.github.com/repos/andresmanelli/TOROID-KiCad.pretty/issues{/number}
+    keys_url: https://api.github.com/repos/andresmanelli/TOROID-KiCad.pretty/keys{/key_id}
+    labels_url: https://api.github.com/repos/andresmanelli/TOROID-KiCad.pretty/labels{/name}
+    language: null
+    languages_url: https://api.github.com/repos/andresmanelli/TOROID-KiCad.pretty/languages
+    license: null
+    merges_url: https://api.github.com/repos/andresmanelli/TOROID-KiCad.pretty/merges
+    milestones_url: https://api.github.com/repos/andresmanelli/TOROID-KiCad.pretty/milestones{/number}
+    mirror_url: null
+    name: TOROID-KiCad.pretty
+    network_count: 0
+    node_id: MDEwOlJlcG9zaXRvcnk3MjM4NDA2Ng==
+    notifications_url: https://api.github.com/repos/andresmanelli/TOROID-KiCad.pretty/notifications{?since,all,participating}
+    open_issues: 0
+    open_issues_count: 0
+    owner:
+      avatar_url: https://avatars.githubusercontent.com/u/7302217?v=4
+      events_url: https://api.github.com/users/andresmanelli/events{/privacy}
+      followers_url: https://api.github.com/users/andresmanelli/followers
+      following_url: https://api.github.com/users/andresmanelli/following{/other_user}
+      gists_url: https://api.github.com/users/andresmanelli/gists{/gist_id}
+      gravatar_id: ''
+      html_url: https://github.com/andresmanelli
+      id: 7302217
+      login: andresmanelli
+      node_id: MDQ6VXNlcjczMDIyMTc=
+      organizations_url: https://api.github.com/users/andresmanelli/orgs
+      received_events_url: https://api.github.com/users/andresmanelli/received_events
+      repos_url: https://api.github.com/users/andresmanelli/repos
+      site_admin: false
+      starred_url: https://api.github.com/users/andresmanelli/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/andresmanelli/subscriptions
+      type: User
+      url: https://api.github.com/users/andresmanelli
+    private: false
+    pulls_url: https://api.github.com/repos/andresmanelli/TOROID-KiCad.pretty/pulls{/number}
+    pushed_at: '2017-01-02T14:50:29Z'
+    releases_url: https://api.github.com/repos/andresmanelli/TOROID-KiCad.pretty/releases{/id}
+    size: 44
+    ssh_url: git@github.com:andresmanelli/TOROID-KiCad.pretty.git
+    stargazers_count: 0
+    stargazers_url: https://api.github.com/repos/andresmanelli/TOROID-KiCad.pretty/stargazers
+    statuses_url: https://api.github.com/repos/andresmanelli/TOROID-KiCad.pretty/statuses/{sha}
+    subscribers_count: 2
+    subscribers_url: https://api.github.com/repos/andresmanelli/TOROID-KiCad.pretty/subscribers
+    subscription_url: https://api.github.com/repos/andresmanelli/TOROID-KiCad.pretty/subscription
+    svn_url: https://github.com/andresmanelli/TOROID-KiCad.pretty
+    tags_url: https://api.github.com/repos/andresmanelli/TOROID-KiCad.pretty/tags
+    teams_url: https://api.github.com/repos/andresmanelli/TOROID-KiCad.pretty/teams
+    temp_clone_token: null
+    topics: []
+    trees_url: https://api.github.com/repos/andresmanelli/TOROID-KiCad.pretty/git/trees{/sha}
+    updated_at: '2016-10-31T01:37:38Z'
+    url: https://api.github.com/repos/andresmanelli/TOROID-KiCad.pretty
+    visibility: public
+    watchers: 0
+    watchers_count: 0
+    web_commit_signoff_required: false
   url: http://github.com/andresmanelli/TOROID-KiCad.pretty

@@ -1,18 +1,20 @@
-- file: data//oomlout_oomp_footprint_src/awallinKiCadFootprints.pretty/Connector_DIN_41612_H_11.kicad_mod
+- file: data/oomlout_oomp_footprint_src/awallinKiCadFootprints.pretty/Connector_DIN_41612_H_11.kicad_mod
   footprint:
     description: null
     libraryLink: DIN_41612_H_11
     number_of_pads: 13
   footprint_library_directory: footprint_library_owner/aewallin_awallinKiCadFootprints.pretty
-  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/aewallin_awallinkicadfootprints_connector_din_41612_h_11/working
-  github_path: http://github.com/aewallin/awallinKiCadFootprints.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Connector_DIN_41612_H_11.kicad_mod
+  footprint_library_directory_flat: tmp/data/oomlout_oomp_footprint_src/footprints_flat/aewallin_awallinkicadfootprints_connector_din_41612_h_11/working
+  github_path: http://github.com/aewallin/awallinKiCadFootprints.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/Connector_DIN_41612_H_11.kicad_mod
   links:
-    github_src: http://gitlab.com/aewallin/awallinKiCadFootprints.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Y3split_0.350mm.kicad_mod
-    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
-    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/aewallin_awallinkicadfootprints_connector_din_41612_h_11/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/aewallin_awallinkicadfootprints_connector_din_41612_h_11/working
-    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/aewallin_awallinkicadfootprints_connector_din_41612_h_11/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/aewallin_awallinkicadfootprints_connector_din_41612_h_11/working
+    github_owner: aewallin
+    github_repo_name: awallinKiCadFootprints.pretty
+    github_src: http://github.com/aewallin/awallinKiCadFootprints.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/Y3split_0.350mm.kicad_mod
+    github_src_repo: https://github.com/aewallin/awallinKiCadFootprints.pretty
+    oomp_bot: tmp/data/oomlout_oomp_footprint_src/footprints/aewallin_awallinkicadfootprints_connector_din_41612_h_11/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/aewallin_awallinkicadfootprints_connector_din_41612_h_11/working
+    oomp_src_flat: footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/aewallin_awallinkicadfootprints_connector_din_41612_h_11/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/aewallin_awallinkicadfootprints_connector_din_41612_h_11/working
   name: awallinKiCadFootprints.pretty
   oomp:
     footprint_name: connector_din_41612_h_11
@@ -25,15 +27,111 @@
     oomp_key_extra: oomp_footprint_aewallin_awallinkicadfootprints_connector_din_41612_h_11
     oomp_key_full: oomp_footprint_aewallin_awallinkicadfootprints_connector_din_41612_h_11_7d9d64
     oomp_key_simple: aewallin_awallinkicadfootprints_connector_din_41612_h_11
-    original_filename: data//oomlout_oomp_footprint_src/awallinKiCadFootprints.pretty/Connector_DIN_41612_H_11.kicad_mod
+    original_filename: data/oomlout_oomp_footprint_src/awallinKiCadFootprints.pretty/Connector_DIN_41612_H_11.kicad_mod
     owner_name: aewallin
   oomp_key: oomp_aewallin_awallinkicadfootprints_connector_din_41612_h_11
   oomp_key_full: oomp_footprint_aewallin_awallinkicadfootprints_connector_din_41612_h_11
   oomp_key_simple: aewallin_awallinkicadfootprints_connector_din_41612_h_11
   owner: aewallin
   repo:
-    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
-    message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
-      Authenticated requests get a higher rate limit. Check out the documentation
-      for more details.)'
+    allow_forking: true
+    archive_url: https://api.github.com/repos/aewallin/awallinKiCadFootprints.pretty/{archive_format}{/ref}
+    archived: false
+    assignees_url: https://api.github.com/repos/aewallin/awallinKiCadFootprints.pretty/assignees{/user}
+    blobs_url: https://api.github.com/repos/aewallin/awallinKiCadFootprints.pretty/git/blobs{/sha}
+    branches_url: https://api.github.com/repos/aewallin/awallinKiCadFootprints.pretty/branches{/branch}
+    clone_url: https://github.com/aewallin/awallinKiCadFootprints.pretty.git
+    collaborators_url: https://api.github.com/repos/aewallin/awallinKiCadFootprints.pretty/collaborators{/collaborator}
+    comments_url: https://api.github.com/repos/aewallin/awallinKiCadFootprints.pretty/comments{/number}
+    commits_url: https://api.github.com/repos/aewallin/awallinKiCadFootprints.pretty/commits{/sha}
+    compare_url: https://api.github.com/repos/aewallin/awallinKiCadFootprints.pretty/compare/{base}...{head}
+    contents_url: https://api.github.com/repos/aewallin/awallinKiCadFootprints.pretty/contents/{+path}
+    contributors_url: https://api.github.com/repos/aewallin/awallinKiCadFootprints.pretty/contributors
+    created_at: '2015-10-25T17:28:30Z'
+    default_branch: master
+    deployments_url: https://api.github.com/repos/aewallin/awallinKiCadFootprints.pretty/deployments
+    description: collection of KiCad footprints
+    disabled: false
+    downloads_url: https://api.github.com/repos/aewallin/awallinKiCadFootprints.pretty/downloads
+    events_url: https://api.github.com/repos/aewallin/awallinKiCadFootprints.pretty/events
+    fork: false
+    forks: 1
+    forks_count: 1
+    forks_url: https://api.github.com/repos/aewallin/awallinKiCadFootprints.pretty/forks
+    full_name: aewallin/awallinKiCadFootprints.pretty
+    git_commits_url: https://api.github.com/repos/aewallin/awallinKiCadFootprints.pretty/git/commits{/sha}
+    git_refs_url: https://api.github.com/repos/aewallin/awallinKiCadFootprints.pretty/git/refs{/sha}
+    git_tags_url: https://api.github.com/repos/aewallin/awallinKiCadFootprints.pretty/git/tags{/sha}
+    git_url: git://github.com/aewallin/awallinKiCadFootprints.pretty.git
+    has_discussions: false
+    has_downloads: true
+    has_issues: true
+    has_pages: false
+    has_projects: true
+    has_wiki: true
+    homepage: null
+    hooks_url: https://api.github.com/repos/aewallin/awallinKiCadFootprints.pretty/hooks
+    html_url: https://github.com/aewallin/awallinKiCadFootprints.pretty
+    id: 44920848
+    is_template: false
+    issue_comment_url: https://api.github.com/repos/aewallin/awallinKiCadFootprints.pretty/issues/comments{/number}
+    issue_events_url: https://api.github.com/repos/aewallin/awallinKiCadFootprints.pretty/issues/events{/number}
+    issues_url: https://api.github.com/repos/aewallin/awallinKiCadFootprints.pretty/issues{/number}
+    keys_url: https://api.github.com/repos/aewallin/awallinKiCadFootprints.pretty/keys{/key_id}
+    labels_url: https://api.github.com/repos/aewallin/awallinKiCadFootprints.pretty/labels{/name}
+    language: null
+    languages_url: https://api.github.com/repos/aewallin/awallinKiCadFootprints.pretty/languages
+    license: null
+    merges_url: https://api.github.com/repos/aewallin/awallinKiCadFootprints.pretty/merges
+    milestones_url: https://api.github.com/repos/aewallin/awallinKiCadFootprints.pretty/milestones{/number}
+    mirror_url: null
+    name: awallinKiCadFootprints.pretty
+    network_count: 1
+    node_id: MDEwOlJlcG9zaXRvcnk0NDkyMDg0OA==
+    notifications_url: https://api.github.com/repos/aewallin/awallinKiCadFootprints.pretty/notifications{?since,all,participating}
+    open_issues: 0
+    open_issues_count: 0
+    owner:
+      avatar_url: https://avatars.githubusercontent.com/u/909509?v=4
+      events_url: https://api.github.com/users/aewallin/events{/privacy}
+      followers_url: https://api.github.com/users/aewallin/followers
+      following_url: https://api.github.com/users/aewallin/following{/other_user}
+      gists_url: https://api.github.com/users/aewallin/gists{/gist_id}
+      gravatar_id: ''
+      html_url: https://github.com/aewallin
+      id: 909509
+      login: aewallin
+      node_id: MDQ6VXNlcjkwOTUwOQ==
+      organizations_url: https://api.github.com/users/aewallin/orgs
+      received_events_url: https://api.github.com/users/aewallin/received_events
+      repos_url: https://api.github.com/users/aewallin/repos
+      site_admin: false
+      starred_url: https://api.github.com/users/aewallin/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/aewallin/subscriptions
+      type: User
+      url: https://api.github.com/users/aewallin
+    private: false
+    pulls_url: https://api.github.com/repos/aewallin/awallinKiCadFootprints.pretty/pulls{/number}
+    pushed_at: '2020-07-21T08:21:05Z'
+    releases_url: https://api.github.com/repos/aewallin/awallinKiCadFootprints.pretty/releases{/id}
+    size: 80
+    ssh_url: git@github.com:aewallin/awallinKiCadFootprints.pretty.git
+    stargazers_count: 0
+    stargazers_url: https://api.github.com/repos/aewallin/awallinKiCadFootprints.pretty/stargazers
+    statuses_url: https://api.github.com/repos/aewallin/awallinKiCadFootprints.pretty/statuses/{sha}
+    subscribers_count: 2
+    subscribers_url: https://api.github.com/repos/aewallin/awallinKiCadFootprints.pretty/subscribers
+    subscription_url: https://api.github.com/repos/aewallin/awallinKiCadFootprints.pretty/subscription
+    svn_url: https://github.com/aewallin/awallinKiCadFootprints.pretty
+    tags_url: https://api.github.com/repos/aewallin/awallinKiCadFootprints.pretty/tags
+    teams_url: https://api.github.com/repos/aewallin/awallinKiCadFootprints.pretty/teams
+    temp_clone_token: null
+    topics: []
+    trees_url: https://api.github.com/repos/aewallin/awallinKiCadFootprints.pretty/git/trees{/sha}
+    updated_at: '2020-07-21T08:21:07Z'
+    url: https://api.github.com/repos/aewallin/awallinKiCadFootprints.pretty
+    visibility: public
+    watchers: 0
+    watchers_count: 0
+    web_commit_signoff_required: false
   url: http://github.com/aewallin/awallinKiCadFootprints.pretty

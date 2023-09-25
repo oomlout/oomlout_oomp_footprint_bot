@@ -1,21 +1,21 @@
-- file: data//oomlout_oomp_footprint_src/kicad-pcblib/IPC7351-Most.pretty/QFP40P3060X3060X410-256.kicad_mod
+- file: data/oomlout_oomp_footprint_src/kicad-pcblib/IPC7351-Most.pretty/QFP40P3060X3060X410-256.kicad_mod
   footprint:
     description: QFP,0.40mm pitch,square;64 pin X 64 pin, 28.20mm X 28.20mm X 4.10mm
       H Body
     libraryLink: QFP40P3060X3060X410-256
     number_of_pads: 256
   footprint_library_directory: footprint_library_owner/cpavlina_kicad-pcblib
-  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/alexisvl_ipc7351_most_qfp40p3060x3060x410_256/working
-  github_path: http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data//oomlout_oomp_footprint_src/IPC7351-Most.pretty/QFP40P3060X3060X410-256.kicad_mod
+  footprint_library_directory_flat: tmp/data/oomlout_oomp_footprint_src/footprints_flat/alexisvl_ipc7351_most_qfp40p3060x3060x410_256/working
+  github_path: http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data/oomlout_oomp_footprint_src/IPC7351-Most.pretty/QFP40P3060X3060X410-256.kicad_mod
   links:
     github_owner: alexisvl
     github_repo_name: kicad-pcblib
-    github_src: http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data//oomlout_oomp_footprint_src/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod
+    github_src: http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data/oomlout_oomp_footprint_src/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod
     github_src_repo: https://github.com/alexisvl/kicad-pcblib
-    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/alexisvl_ipc7351_most_qfp40p3060x3060x410_256/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/alexisvl_ipc7351_most_qfp40p3060x3060x410_256/working
-    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/alexisvl_ipc7351_most_qfp40p3060x3060x410_256/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/alexisvl_ipc7351_most_qfp40p3060x3060x410_256/working
+    oomp_bot: tmp/data/oomlout_oomp_footprint_src/footprints/alexisvl_ipc7351_most_qfp40p3060x3060x410_256/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/alexisvl_ipc7351_most_qfp40p3060x3060x410_256/working
+    oomp_src_flat: footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/alexisvl_ipc7351_most_qfp40p3060x3060x410_256/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/alexisvl_ipc7351_most_qfp40p3060x3060x410_256/working
   name: kicad-pcblib
   oomp:
     footprint_name: qfp40p3060x3060x410_256
@@ -28,7 +28,7 @@
     oomp_key_extra: oomp_footprint_alexisvl_ipc7351_most_qfp40p3060x3060x410_256
     oomp_key_full: oomp_footprint_alexisvl_ipc7351_most_qfp40p3060x3060x410_256_b057ba
     oomp_key_simple: alexisvl_ipc7351_most_qfp40p3060x3060x410_256
-    original_filename: data//oomlout_oomp_footprint_src/kicad-pcblib/IPC7351-Most.pretty/QFP40P3060X3060X410-256.kicad_mod
+    original_filename: data/oomlout_oomp_footprint_src/kicad-pcblib/IPC7351-Most.pretty/QFP40P3060X3060X410-256.kicad_mod
     owner_name: alexisvl
   oomp_key: oomp_alexisvl_ipc7351_most_qfp40p3060x3060x410_256
   oomp_key_full: oomp_footprint_alexisvl_ipc7351_most_qfp40p3060x3060x410_256

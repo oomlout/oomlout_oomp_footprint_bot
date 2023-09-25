@@ -1,18 +1,20 @@
-- file: data//oomlout_oomp_footprint_src/akn_misc.pretty/WOM_BRIDGE.kicad_mod
+- file: data/oomlout_oomp_footprint_src/akn_misc.pretty/WOM_BRIDGE.kicad_mod
   footprint:
     description: null
     libraryLink: WOM_BRIDGE
     number_of_pads: 4
   footprint_library_directory: footprint_library_owner/aniline_akn_misc.pretty
-  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/aniline_akn_misc_wom_bridge/working
-  github_path: http://github.com/aniline/akn_misc.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/WOM_BRIDGE.kicad_mod
+  footprint_library_directory_flat: tmp/data/oomlout_oomp_footprint_src/footprints_flat/aniline_akn_misc_wom_bridge/working
+  github_path: http://github.com/aniline/akn_misc.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/WOM_BRIDGE.kicad_mod
   links:
-    github_src: http://gitlab.com/aniline/akn_misc.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/WOM_BRIDGE.kicad_mod
-    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
-    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/aniline_akn_misc_wom_bridge/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/aniline_akn_misc_wom_bridge/working
-    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/aniline_akn_misc_wom_bridge/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/aniline_akn_misc_wom_bridge/working
+    github_owner: aniline
+    github_repo_name: akn_misc.pretty
+    github_src: http://github.com/aniline/akn_misc.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/WOM_BRIDGE.kicad_mod
+    github_src_repo: https://github.com/aniline/akn_misc.pretty
+    oomp_bot: tmp/data/oomlout_oomp_footprint_src/footprints/aniline_akn_misc_wom_bridge/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/aniline_akn_misc_wom_bridge/working
+    oomp_src_flat: footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/aniline_akn_misc_wom_bridge/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/aniline_akn_misc_wom_bridge/working
   name: akn_misc.pretty
   oomp:
     footprint_name: wom_bridge
@@ -25,15 +27,111 @@
     oomp_key_extra: oomp_footprint_aniline_akn_misc_wom_bridge
     oomp_key_full: oomp_footprint_aniline_akn_misc_wom_bridge_554caa
     oomp_key_simple: aniline_akn_misc_wom_bridge
-    original_filename: data//oomlout_oomp_footprint_src/akn_misc.pretty/WOM_BRIDGE.kicad_mod
+    original_filename: data/oomlout_oomp_footprint_src/akn_misc.pretty/WOM_BRIDGE.kicad_mod
     owner_name: aniline
   oomp_key: oomp_aniline_akn_misc_wom_bridge
   oomp_key_full: oomp_footprint_aniline_akn_misc_wom_bridge
   oomp_key_simple: aniline_akn_misc_wom_bridge
   owner: aniline
   repo:
-    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
-    message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
-      Authenticated requests get a higher rate limit. Check out the documentation
-      for more details.)'
+    allow_forking: true
+    archive_url: https://api.github.com/repos/aniline/akn_misc.pretty/{archive_format}{/ref}
+    archived: false
+    assignees_url: https://api.github.com/repos/aniline/akn_misc.pretty/assignees{/user}
+    blobs_url: https://api.github.com/repos/aniline/akn_misc.pretty/git/blobs{/sha}
+    branches_url: https://api.github.com/repos/aniline/akn_misc.pretty/branches{/branch}
+    clone_url: https://github.com/aniline/akn_misc.pretty.git
+    collaborators_url: https://api.github.com/repos/aniline/akn_misc.pretty/collaborators{/collaborator}
+    comments_url: https://api.github.com/repos/aniline/akn_misc.pretty/comments{/number}
+    commits_url: https://api.github.com/repos/aniline/akn_misc.pretty/commits{/sha}
+    compare_url: https://api.github.com/repos/aniline/akn_misc.pretty/compare/{base}...{head}
+    contents_url: https://api.github.com/repos/aniline/akn_misc.pretty/contents/{+path}
+    contributors_url: https://api.github.com/repos/aniline/akn_misc.pretty/contributors
+    created_at: '2015-12-06T14:47:09Z'
+    default_branch: master
+    deployments_url: https://api.github.com/repos/aniline/akn_misc.pretty/deployments
+    description: Kicad modules (uncategorized)
+    disabled: false
+    downloads_url: https://api.github.com/repos/aniline/akn_misc.pretty/downloads
+    events_url: https://api.github.com/repos/aniline/akn_misc.pretty/events
+    fork: false
+    forks: 1
+    forks_count: 1
+    forks_url: https://api.github.com/repos/aniline/akn_misc.pretty/forks
+    full_name: aniline/akn_misc.pretty
+    git_commits_url: https://api.github.com/repos/aniline/akn_misc.pretty/git/commits{/sha}
+    git_refs_url: https://api.github.com/repos/aniline/akn_misc.pretty/git/refs{/sha}
+    git_tags_url: https://api.github.com/repos/aniline/akn_misc.pretty/git/tags{/sha}
+    git_url: git://github.com/aniline/akn_misc.pretty.git
+    has_discussions: false
+    has_downloads: true
+    has_issues: true
+    has_pages: false
+    has_projects: true
+    has_wiki: true
+    homepage: null
+    hooks_url: https://api.github.com/repos/aniline/akn_misc.pretty/hooks
+    html_url: https://github.com/aniline/akn_misc.pretty
+    id: 47500596
+    is_template: false
+    issue_comment_url: https://api.github.com/repos/aniline/akn_misc.pretty/issues/comments{/number}
+    issue_events_url: https://api.github.com/repos/aniline/akn_misc.pretty/issues/events{/number}
+    issues_url: https://api.github.com/repos/aniline/akn_misc.pretty/issues{/number}
+    keys_url: https://api.github.com/repos/aniline/akn_misc.pretty/keys{/key_id}
+    labels_url: https://api.github.com/repos/aniline/akn_misc.pretty/labels{/name}
+    language: null
+    languages_url: https://api.github.com/repos/aniline/akn_misc.pretty/languages
+    license: null
+    merges_url: https://api.github.com/repos/aniline/akn_misc.pretty/merges
+    milestones_url: https://api.github.com/repos/aniline/akn_misc.pretty/milestones{/number}
+    mirror_url: null
+    name: akn_misc.pretty
+    network_count: 1
+    node_id: MDEwOlJlcG9zaXRvcnk0NzUwMDU5Ng==
+    notifications_url: https://api.github.com/repos/aniline/akn_misc.pretty/notifications{?since,all,participating}
+    open_issues: 1
+    open_issues_count: 1
+    owner:
+      avatar_url: https://avatars.githubusercontent.com/u/1270653?v=4
+      events_url: https://api.github.com/users/aniline/events{/privacy}
+      followers_url: https://api.github.com/users/aniline/followers
+      following_url: https://api.github.com/users/aniline/following{/other_user}
+      gists_url: https://api.github.com/users/aniline/gists{/gist_id}
+      gravatar_id: ''
+      html_url: https://github.com/aniline
+      id: 1270653
+      login: aniline
+      node_id: MDQ6VXNlcjEyNzA2NTM=
+      organizations_url: https://api.github.com/users/aniline/orgs
+      received_events_url: https://api.github.com/users/aniline/received_events
+      repos_url: https://api.github.com/users/aniline/repos
+      site_admin: false
+      starred_url: https://api.github.com/users/aniline/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/aniline/subscriptions
+      type: User
+      url: https://api.github.com/users/aniline
+    private: false
+    pulls_url: https://api.github.com/repos/aniline/akn_misc.pretty/pulls{/number}
+    pushed_at: '2019-02-09T11:13:12Z'
+    releases_url: https://api.github.com/repos/aniline/akn_misc.pretty/releases{/id}
+    size: 6
+    ssh_url: git@github.com:aniline/akn_misc.pretty.git
+    stargazers_count: 1
+    stargazers_url: https://api.github.com/repos/aniline/akn_misc.pretty/stargazers
+    statuses_url: https://api.github.com/repos/aniline/akn_misc.pretty/statuses/{sha}
+    subscribers_count: 2
+    subscribers_url: https://api.github.com/repos/aniline/akn_misc.pretty/subscribers
+    subscription_url: https://api.github.com/repos/aniline/akn_misc.pretty/subscription
+    svn_url: https://github.com/aniline/akn_misc.pretty
+    tags_url: https://api.github.com/repos/aniline/akn_misc.pretty/tags
+    teams_url: https://api.github.com/repos/aniline/akn_misc.pretty/teams
+    temp_clone_token: null
+    topics: []
+    trees_url: https://api.github.com/repos/aniline/akn_misc.pretty/git/trees{/sha}
+    updated_at: '2022-02-19T14:12:34Z'
+    url: https://api.github.com/repos/aniline/akn_misc.pretty
+    visibility: public
+    watchers: 1
+    watchers_count: 1
+    web_commit_signoff_required: false
   url: http://github.com/aniline/akn_misc.pretty

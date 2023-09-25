@@ -1,18 +1,20 @@
-- file: data//oomlout_oomp_footprint_src/kicad_subory.pretty/2512Rv2.kicad_mod
+- file: data/oomlout_oomp_footprint_src/kicad_subory.pretty/2512Rv2.kicad_mod
   footprint:
     description: null
     libraryLink: 2512Rv2
     number_of_pads: 4
   footprint_library_directory: footprint_library_owner/antonchromjak_kicad_subory.pretty
-  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/antonchromjak_kicad_subory_2512rv2/working
-  github_path: http://github.com/antonchromjak/kicad_subory.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/2512Rv2.kicad_mod
+  footprint_library_directory_flat: tmp/data/oomlout_oomp_footprint_src/footprints_flat/antonchromjak_kicad_subory_2512rv2/working
+  github_path: http://github.com/antonchromjak/kicad_subory.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/2512Rv2.kicad_mod
   links:
-    github_src: http://gitlab.com/antonchromjak/kicad_subory.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/WSON10__.kicad_mod
-    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
-    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/antonchromjak_kicad_subory_2512rv2/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/antonchromjak_kicad_subory_2512rv2/working
-    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/antonchromjak_kicad_subory_2512rv2/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/antonchromjak_kicad_subory_2512rv2/working
+    github_owner: antonchromjak
+    github_repo_name: kicad_subory.pretty
+    github_src: http://github.com/antonchromjak/kicad_subory.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/WSON10__.kicad_mod
+    github_src_repo: https://github.com/antonchromjak/kicad_subory.pretty
+    oomp_bot: tmp/data/oomlout_oomp_footprint_src/footprints/antonchromjak_kicad_subory_2512rv2/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/antonchromjak_kicad_subory_2512rv2/working
+    oomp_src_flat: footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/antonchromjak_kicad_subory_2512rv2/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/antonchromjak_kicad_subory_2512rv2/working
   name: kicad_subory.pretty
   oomp:
     footprint_name: 2512rv2
@@ -25,15 +27,111 @@
     oomp_key_extra: oomp_footprint_antonchromjak_kicad_subory_2512rv2
     oomp_key_full: oomp_footprint_antonchromjak_kicad_subory_2512rv2_547b59
     oomp_key_simple: antonchromjak_kicad_subory_2512rv2
-    original_filename: data//oomlout_oomp_footprint_src/kicad_subory.pretty/2512Rv2.kicad_mod
+    original_filename: data/oomlout_oomp_footprint_src/kicad_subory.pretty/2512Rv2.kicad_mod
     owner_name: antonchromjak
   oomp_key: oomp_antonchromjak_kicad_subory_2512rv2
   oomp_key_full: oomp_footprint_antonchromjak_kicad_subory_2512rv2
   oomp_key_simple: antonchromjak_kicad_subory_2512rv2
   owner: antonchromjak
   repo:
-    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
-    message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
-      Authenticated requests get a higher rate limit. Check out the documentation
-      for more details.)'
+    allow_forking: true
+    archive_url: https://api.github.com/repos/antonchromjak/kicad_subory.pretty/{archive_format}{/ref}
+    archived: false
+    assignees_url: https://api.github.com/repos/antonchromjak/kicad_subory.pretty/assignees{/user}
+    blobs_url: https://api.github.com/repos/antonchromjak/kicad_subory.pretty/git/blobs{/sha}
+    branches_url: https://api.github.com/repos/antonchromjak/kicad_subory.pretty/branches{/branch}
+    clone_url: https://github.com/antonchromjak/kicad_subory.pretty.git
+    collaborators_url: https://api.github.com/repos/antonchromjak/kicad_subory.pretty/collaborators{/collaborator}
+    comments_url: https://api.github.com/repos/antonchromjak/kicad_subory.pretty/comments{/number}
+    commits_url: https://api.github.com/repos/antonchromjak/kicad_subory.pretty/commits{/sha}
+    compare_url: https://api.github.com/repos/antonchromjak/kicad_subory.pretty/compare/{base}...{head}
+    contents_url: https://api.github.com/repos/antonchromjak/kicad_subory.pretty/contents/{+path}
+    contributors_url: https://api.github.com/repos/antonchromjak/kicad_subory.pretty/contributors
+    created_at: '2018-01-16T15:55:23Z'
+    default_branch: master
+    deployments_url: https://api.github.com/repos/antonchromjak/kicad_subory.pretty/deployments
+    description: null
+    disabled: false
+    downloads_url: https://api.github.com/repos/antonchromjak/kicad_subory.pretty/downloads
+    events_url: https://api.github.com/repos/antonchromjak/kicad_subory.pretty/events
+    fork: false
+    forks: 0
+    forks_count: 0
+    forks_url: https://api.github.com/repos/antonchromjak/kicad_subory.pretty/forks
+    full_name: antonchromjak/kicad_subory.pretty
+    git_commits_url: https://api.github.com/repos/antonchromjak/kicad_subory.pretty/git/commits{/sha}
+    git_refs_url: https://api.github.com/repos/antonchromjak/kicad_subory.pretty/git/refs{/sha}
+    git_tags_url: https://api.github.com/repos/antonchromjak/kicad_subory.pretty/git/tags{/sha}
+    git_url: git://github.com/antonchromjak/kicad_subory.pretty.git
+    has_discussions: false
+    has_downloads: true
+    has_issues: true
+    has_pages: false
+    has_projects: true
+    has_wiki: true
+    homepage: null
+    hooks_url: https://api.github.com/repos/antonchromjak/kicad_subory.pretty/hooks
+    html_url: https://github.com/antonchromjak/kicad_subory.pretty
+    id: 117705237
+    is_template: false
+    issue_comment_url: https://api.github.com/repos/antonchromjak/kicad_subory.pretty/issues/comments{/number}
+    issue_events_url: https://api.github.com/repos/antonchromjak/kicad_subory.pretty/issues/events{/number}
+    issues_url: https://api.github.com/repos/antonchromjak/kicad_subory.pretty/issues{/number}
+    keys_url: https://api.github.com/repos/antonchromjak/kicad_subory.pretty/keys{/key_id}
+    labels_url: https://api.github.com/repos/antonchromjak/kicad_subory.pretty/labels{/name}
+    language: null
+    languages_url: https://api.github.com/repos/antonchromjak/kicad_subory.pretty/languages
+    license: null
+    merges_url: https://api.github.com/repos/antonchromjak/kicad_subory.pretty/merges
+    milestones_url: https://api.github.com/repos/antonchromjak/kicad_subory.pretty/milestones{/number}
+    mirror_url: null
+    name: kicad_subory.pretty
+    network_count: 0
+    node_id: MDEwOlJlcG9zaXRvcnkxMTc3MDUyMzc=
+    notifications_url: https://api.github.com/repos/antonchromjak/kicad_subory.pretty/notifications{?since,all,participating}
+    open_issues: 0
+    open_issues_count: 0
+    owner:
+      avatar_url: https://avatars.githubusercontent.com/u/2141285?v=4
+      events_url: https://api.github.com/users/antonchromjak/events{/privacy}
+      followers_url: https://api.github.com/users/antonchromjak/followers
+      following_url: https://api.github.com/users/antonchromjak/following{/other_user}
+      gists_url: https://api.github.com/users/antonchromjak/gists{/gist_id}
+      gravatar_id: ''
+      html_url: https://github.com/antonchromjak
+      id: 2141285
+      login: antonchromjak
+      node_id: MDQ6VXNlcjIxNDEyODU=
+      organizations_url: https://api.github.com/users/antonchromjak/orgs
+      received_events_url: https://api.github.com/users/antonchromjak/received_events
+      repos_url: https://api.github.com/users/antonchromjak/repos
+      site_admin: false
+      starred_url: https://api.github.com/users/antonchromjak/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/antonchromjak/subscriptions
+      type: User
+      url: https://api.github.com/users/antonchromjak
+    private: false
+    pulls_url: https://api.github.com/repos/antonchromjak/kicad_subory.pretty/pulls{/number}
+    pushed_at: '2018-01-16T15:55:28Z'
+    releases_url: https://api.github.com/repos/antonchromjak/kicad_subory.pretty/releases{/id}
+    size: 3
+    ssh_url: git@github.com:antonchromjak/kicad_subory.pretty.git
+    stargazers_count: 0
+    stargazers_url: https://api.github.com/repos/antonchromjak/kicad_subory.pretty/stargazers
+    statuses_url: https://api.github.com/repos/antonchromjak/kicad_subory.pretty/statuses/{sha}
+    subscribers_count: 2
+    subscribers_url: https://api.github.com/repos/antonchromjak/kicad_subory.pretty/subscribers
+    subscription_url: https://api.github.com/repos/antonchromjak/kicad_subory.pretty/subscription
+    svn_url: https://github.com/antonchromjak/kicad_subory.pretty
+    tags_url: https://api.github.com/repos/antonchromjak/kicad_subory.pretty/tags
+    teams_url: https://api.github.com/repos/antonchromjak/kicad_subory.pretty/teams
+    temp_clone_token: null
+    topics: []
+    trees_url: https://api.github.com/repos/antonchromjak/kicad_subory.pretty/git/trees{/sha}
+    updated_at: '2018-01-16T15:55:23Z'
+    url: https://api.github.com/repos/antonchromjak/kicad_subory.pretty
+    visibility: public
+    watchers: 0
+    watchers_count: 0
+    web_commit_signoff_required: false
   url: http://github.com/antonchromjak/kicad_subory.pretty

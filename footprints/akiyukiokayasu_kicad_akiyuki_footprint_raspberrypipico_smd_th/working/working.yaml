@@ -1,18 +1,20 @@
-- file: data//oomlout_oomp_footprint_src/Kicad_Akiyuki_Footprint.pretty/RaspberryPiPico_SMD_TH.kicad_mod
+- file: data/oomlout_oomp_footprint_src/Kicad_Akiyuki_Footprint.pretty/RaspberryPiPico_SMD_TH.kicad_mod
   footprint:
     description: Through hole straight pin header, 2x20, 2.54mm pitch, double rows
     libraryLink: RaspberryPiPico_SMD_TH
     number_of_pads: 96
   footprint_library_directory: footprint_library_owner/AkiyukiOkayasu_Kicad_Akiyuki_Footprint.pretty
-  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/akiyukiokayasu_kicad_akiyuki_footprint_raspberrypipico_smd_th/working
-  github_path: http://github.com/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/RaspberryPiPico_SMD_TH.kicad_mod
+  footprint_library_directory_flat: tmp/data/oomlout_oomp_footprint_src/footprints_flat/akiyukiokayasu_kicad_akiyuki_footprint_raspberrypipico_smd_th/working
+  github_path: http://github.com/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/RaspberryPiPico_SMD_TH.kicad_mod
   links:
-    github_src: http://gitlab.com/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/USB_MicroB_PowerOnly.kicad_mod
-    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
-    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/akiyukiokayasu_kicad_akiyuki_footprint_raspberrypipico_smd_th/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/akiyukiokayasu_kicad_akiyuki_footprint_raspberrypipico_smd_th/working
-    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/akiyukiokayasu_kicad_akiyuki_footprint_raspberrypipico_smd_th/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/akiyukiokayasu_kicad_akiyuki_footprint_raspberrypipico_smd_th/working
+    github_owner: AkiyukiOkayasu
+    github_repo_name: Kicad_Akiyuki_Footprint.pretty
+    github_src: http://github.com/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/USB_MicroB_PowerOnly.kicad_mod
+    github_src_repo: https://github.com/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty
+    oomp_bot: tmp/data/oomlout_oomp_footprint_src/footprints/akiyukiokayasu_kicad_akiyuki_footprint_raspberrypipico_smd_th/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/akiyukiokayasu_kicad_akiyuki_footprint_raspberrypipico_smd_th/working
+    oomp_src_flat: footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/akiyukiokayasu_kicad_akiyuki_footprint_raspberrypipico_smd_th/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/akiyukiokayasu_kicad_akiyuki_footprint_raspberrypipico_smd_th/working
   name: Kicad_Akiyuki_Footprint.pretty
   oomp:
     footprint_name: raspberrypipico_smd_th
@@ -25,15 +27,112 @@
     oomp_key_extra: oomp_footprint_akiyukiokayasu_kicad_akiyuki_footprint_raspberrypipico_smd_th
     oomp_key_full: oomp_footprint_akiyukiokayasu_kicad_akiyuki_footprint_raspberrypipico_smd_th_b35e42
     oomp_key_simple: akiyukiokayasu_kicad_akiyuki_footprint_raspberrypipico_smd_th
-    original_filename: data//oomlout_oomp_footprint_src/Kicad_Akiyuki_Footprint.pretty/RaspberryPiPico_SMD_TH.kicad_mod
+    original_filename: data/oomlout_oomp_footprint_src/Kicad_Akiyuki_Footprint.pretty/RaspberryPiPico_SMD_TH.kicad_mod
     owner_name: akiyukiokayasu
   oomp_key: oomp_akiyukiokayasu_kicad_akiyuki_footprint_raspberrypipico_smd_th
   oomp_key_full: oomp_footprint_akiyukiokayasu_kicad_akiyuki_footprint_raspberrypipico_smd_th
   oomp_key_simple: akiyukiokayasu_kicad_akiyuki_footprint_raspberrypipico_smd_th
   owner: AkiyukiOkayasu
   repo:
-    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
-    message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
-      Authenticated requests get a higher rate limit. Check out the documentation
-      for more details.)'
+    allow_forking: true
+    archive_url: https://api.github.com/repos/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/{archive_format}{/ref}
+    archived: false
+    assignees_url: https://api.github.com/repos/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/assignees{/user}
+    blobs_url: https://api.github.com/repos/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/git/blobs{/sha}
+    branches_url: https://api.github.com/repos/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/branches{/branch}
+    clone_url: https://github.com/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty.git
+    collaborators_url: https://api.github.com/repos/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/collaborators{/collaborator}
+    comments_url: https://api.github.com/repos/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/comments{/number}
+    commits_url: https://api.github.com/repos/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/commits{/sha}
+    compare_url: https://api.github.com/repos/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/compare/{base}...{head}
+    contents_url: https://api.github.com/repos/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/contents/{+path}
+    contributors_url: https://api.github.com/repos/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/contributors
+    created_at: '2018-07-03T00:17:24Z'
+    default_branch: master
+    deployments_url: https://api.github.com/repos/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/deployments
+    description: null
+    disabled: false
+    downloads_url: https://api.github.com/repos/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/downloads
+    events_url: https://api.github.com/repos/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/events
+    fork: false
+    forks: 0
+    forks_count: 0
+    forks_url: https://api.github.com/repos/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/forks
+    full_name: AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty
+    git_commits_url: https://api.github.com/repos/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/git/commits{/sha}
+    git_refs_url: https://api.github.com/repos/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/git/refs{/sha}
+    git_tags_url: https://api.github.com/repos/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/git/tags{/sha}
+    git_url: git://github.com/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty.git
+    has_discussions: false
+    has_downloads: true
+    has_issues: true
+    has_pages: false
+    has_projects: true
+    has_wiki: true
+    homepage: null
+    hooks_url: https://api.github.com/repos/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/hooks
+    html_url: https://github.com/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty
+    id: 139507795
+    is_template: false
+    issue_comment_url: https://api.github.com/repos/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/issues/comments{/number}
+    issue_events_url: https://api.github.com/repos/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/issues/events{/number}
+    issues_url: https://api.github.com/repos/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/issues{/number}
+    keys_url: https://api.github.com/repos/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/keys{/key_id}
+    labels_url: https://api.github.com/repos/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/labels{/name}
+    language: null
+    languages_url: https://api.github.com/repos/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/languages
+    license: null
+    merges_url: https://api.github.com/repos/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/merges
+    milestones_url: https://api.github.com/repos/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/milestones{/number}
+    mirror_url: null
+    name: Kicad_Akiyuki_Footprint.pretty
+    network_count: 0
+    node_id: MDEwOlJlcG9zaXRvcnkxMzk1MDc3OTU=
+    notifications_url: https://api.github.com/repos/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/notifications{?since,all,participating}
+    open_issues: 0
+    open_issues_count: 0
+    owner:
+      avatar_url: https://avatars.githubusercontent.com/u/6957368?v=4
+      events_url: https://api.github.com/users/AkiyukiOkayasu/events{/privacy}
+      followers_url: https://api.github.com/users/AkiyukiOkayasu/followers
+      following_url: https://api.github.com/users/AkiyukiOkayasu/following{/other_user}
+      gists_url: https://api.github.com/users/AkiyukiOkayasu/gists{/gist_id}
+      gravatar_id: ''
+      html_url: https://github.com/AkiyukiOkayasu
+      id: 6957368
+      login: AkiyukiOkayasu
+      node_id: MDQ6VXNlcjY5NTczNjg=
+      organizations_url: https://api.github.com/users/AkiyukiOkayasu/orgs
+      received_events_url: https://api.github.com/users/AkiyukiOkayasu/received_events
+      repos_url: https://api.github.com/users/AkiyukiOkayasu/repos
+      site_admin: false
+      starred_url: https://api.github.com/users/AkiyukiOkayasu/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/AkiyukiOkayasu/subscriptions
+      type: User
+      url: https://api.github.com/users/AkiyukiOkayasu
+    private: false
+    pulls_url: https://api.github.com/repos/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/pulls{/number}
+    pushed_at: '2023-09-19T01:17:17Z'
+    releases_url: https://api.github.com/repos/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/releases{/id}
+    size: 203
+    ssh_url: git@github.com:AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty.git
+    stargazers_count: 2
+    stargazers_url: https://api.github.com/repos/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/stargazers
+    statuses_url: https://api.github.com/repos/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/statuses/{sha}
+    subscribers_count: 2
+    subscribers_url: https://api.github.com/repos/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/subscribers
+    subscription_url: https://api.github.com/repos/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/subscription
+    svn_url: https://github.com/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty
+    tags_url: https://api.github.com/repos/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/tags
+    teams_url: https://api.github.com/repos/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/teams
+    temp_clone_token: null
+    topics:
+    - kicad
+    trees_url: https://api.github.com/repos/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/git/trees{/sha}
+    updated_at: '2022-12-21T20:10:35Z'
+    url: https://api.github.com/repos/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty
+    visibility: public
+    watchers: 2
+    watchers_count: 2
+    web_commit_signoff_required: false
   url: http://github.com/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty

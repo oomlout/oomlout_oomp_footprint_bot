@@ -1,18 +1,20 @@
-- file: data//oomlout_oomp_footprint_src/boul51.pretty/TO-92_1.kicad_mod
+- file: data/oomlout_oomp_footprint_src/boul51.pretty/TO-92_1.kicad_mod
   footprint:
     description: null
     libraryLink: TO-92_1
     number_of_pads: 3
   footprint_library_directory: footprint_library_owner/boul51_boul51.pretty
-  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/boul51_boul51_to_92_1/working
-  github_path: http://github.com/boul51/boul51.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/TO-92_1.kicad_mod
+  footprint_library_directory_flat: tmp/data/oomlout_oomp_footprint_src/footprints_flat/boul51_boul51_to_92_1/working
+  github_path: http://github.com/boul51/boul51.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/TO-92_1.kicad_mod
   links:
-    github_src: http://gitlab.com/boul51/boul51.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/TO-92_1.kicad_mod
-    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
-    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/boul51_boul51_to_92_1/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/boul51_boul51_to_92_1/working
-    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/boul51_boul51_to_92_1/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/boul51_boul51_to_92_1/working
+    github_owner: boul51
+    github_repo_name: boul51.pretty
+    github_src: http://github.com/boul51/boul51.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/TO-92_1.kicad_mod
+    github_src_repo: https://github.com/boul51/boul51.pretty
+    oomp_bot: tmp/data/oomlout_oomp_footprint_src/footprints/boul51_boul51_to_92_1/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/boul51_boul51_to_92_1/working
+    oomp_src_flat: footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/boul51_boul51_to_92_1/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/boul51_boul51_to_92_1/working
   name: boul51.pretty
   oomp:
     footprint_name: to_92_1
@@ -25,15 +27,111 @@
     oomp_key_extra: oomp_footprint_boul51_boul51_to_92_1
     oomp_key_full: oomp_footprint_boul51_boul51_to_92_1_076312
     oomp_key_simple: boul51_boul51_to_92_1
-    original_filename: data//oomlout_oomp_footprint_src/boul51.pretty/TO-92_1.kicad_mod
+    original_filename: data/oomlout_oomp_footprint_src/boul51.pretty/TO-92_1.kicad_mod
     owner_name: boul51
   oomp_key: oomp_boul51_boul51_to_92_1
   oomp_key_full: oomp_footprint_boul51_boul51_to_92_1
   oomp_key_simple: boul51_boul51_to_92_1
   owner: boul51
   repo:
-    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
-    message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
-      Authenticated requests get a higher rate limit. Check out the documentation
-      for more details.)'
+    allow_forking: true
+    archive_url: https://api.github.com/repos/boul51/boul51.pretty/{archive_format}{/ref}
+    archived: false
+    assignees_url: https://api.github.com/repos/boul51/boul51.pretty/assignees{/user}
+    blobs_url: https://api.github.com/repos/boul51/boul51.pretty/git/blobs{/sha}
+    branches_url: https://api.github.com/repos/boul51/boul51.pretty/branches{/branch}
+    clone_url: https://github.com/boul51/boul51.pretty.git
+    collaborators_url: https://api.github.com/repos/boul51/boul51.pretty/collaborators{/collaborator}
+    comments_url: https://api.github.com/repos/boul51/boul51.pretty/comments{/number}
+    commits_url: https://api.github.com/repos/boul51/boul51.pretty/commits{/sha}
+    compare_url: https://api.github.com/repos/boul51/boul51.pretty/compare/{base}...{head}
+    contents_url: https://api.github.com/repos/boul51/boul51.pretty/contents/{+path}
+    contributors_url: https://api.github.com/repos/boul51/boul51.pretty/contributors
+    created_at: '2016-12-11T10:40:22Z'
+    default_branch: master
+    deployments_url: https://api.github.com/repos/boul51/boul51.pretty/deployments
+    description: boul51 Kicad symbols
+    disabled: false
+    downloads_url: https://api.github.com/repos/boul51/boul51.pretty/downloads
+    events_url: https://api.github.com/repos/boul51/boul51.pretty/events
+    fork: false
+    forks: 0
+    forks_count: 0
+    forks_url: https://api.github.com/repos/boul51/boul51.pretty/forks
+    full_name: boul51/boul51.pretty
+    git_commits_url: https://api.github.com/repos/boul51/boul51.pretty/git/commits{/sha}
+    git_refs_url: https://api.github.com/repos/boul51/boul51.pretty/git/refs{/sha}
+    git_tags_url: https://api.github.com/repos/boul51/boul51.pretty/git/tags{/sha}
+    git_url: git://github.com/boul51/boul51.pretty.git
+    has_discussions: false
+    has_downloads: true
+    has_issues: true
+    has_pages: false
+    has_projects: true
+    has_wiki: true
+    homepage: null
+    hooks_url: https://api.github.com/repos/boul51/boul51.pretty/hooks
+    html_url: https://github.com/boul51/boul51.pretty
+    id: 76168033
+    is_template: false
+    issue_comment_url: https://api.github.com/repos/boul51/boul51.pretty/issues/comments{/number}
+    issue_events_url: https://api.github.com/repos/boul51/boul51.pretty/issues/events{/number}
+    issues_url: https://api.github.com/repos/boul51/boul51.pretty/issues{/number}
+    keys_url: https://api.github.com/repos/boul51/boul51.pretty/keys{/key_id}
+    labels_url: https://api.github.com/repos/boul51/boul51.pretty/labels{/name}
+    language: null
+    languages_url: https://api.github.com/repos/boul51/boul51.pretty/languages
+    license: null
+    merges_url: https://api.github.com/repos/boul51/boul51.pretty/merges
+    milestones_url: https://api.github.com/repos/boul51/boul51.pretty/milestones{/number}
+    mirror_url: null
+    name: boul51.pretty
+    network_count: 0
+    node_id: MDEwOlJlcG9zaXRvcnk3NjE2ODAzMw==
+    notifications_url: https://api.github.com/repos/boul51/boul51.pretty/notifications{?since,all,participating}
+    open_issues: 0
+    open_issues_count: 0
+    owner:
+      avatar_url: https://avatars.githubusercontent.com/u/1953963?v=4
+      events_url: https://api.github.com/users/boul51/events{/privacy}
+      followers_url: https://api.github.com/users/boul51/followers
+      following_url: https://api.github.com/users/boul51/following{/other_user}
+      gists_url: https://api.github.com/users/boul51/gists{/gist_id}
+      gravatar_id: ''
+      html_url: https://github.com/boul51
+      id: 1953963
+      login: boul51
+      node_id: MDQ6VXNlcjE5NTM5NjM=
+      organizations_url: https://api.github.com/users/boul51/orgs
+      received_events_url: https://api.github.com/users/boul51/received_events
+      repos_url: https://api.github.com/users/boul51/repos
+      site_admin: false
+      starred_url: https://api.github.com/users/boul51/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/boul51/subscriptions
+      type: User
+      url: https://api.github.com/users/boul51
+    private: false
+    pulls_url: https://api.github.com/repos/boul51/boul51.pretty/pulls{/number}
+    pushed_at: '2016-12-12T13:32:46Z'
+    releases_url: https://api.github.com/repos/boul51/boul51.pretty/releases{/id}
+    size: 4
+    ssh_url: git@github.com:boul51/boul51.pretty.git
+    stargazers_count: 0
+    stargazers_url: https://api.github.com/repos/boul51/boul51.pretty/stargazers
+    statuses_url: https://api.github.com/repos/boul51/boul51.pretty/statuses/{sha}
+    subscribers_count: 2
+    subscribers_url: https://api.github.com/repos/boul51/boul51.pretty/subscribers
+    subscription_url: https://api.github.com/repos/boul51/boul51.pretty/subscription
+    svn_url: https://github.com/boul51/boul51.pretty
+    tags_url: https://api.github.com/repos/boul51/boul51.pretty/tags
+    teams_url: https://api.github.com/repos/boul51/boul51.pretty/teams
+    temp_clone_token: null
+    topics: []
+    trees_url: https://api.github.com/repos/boul51/boul51.pretty/git/trees{/sha}
+    updated_at: '2016-12-11T10:40:22Z'
+    url: https://api.github.com/repos/boul51/boul51.pretty
+    visibility: public
+    watchers: 0
+    watchers_count: 0
+    web_commit_signoff_required: false
   url: http://github.com/boul51/boul51.pretty

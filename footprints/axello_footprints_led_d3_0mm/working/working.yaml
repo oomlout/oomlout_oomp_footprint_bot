@@ -1,18 +1,18 @@
-- file: data//oomlout_oomp_footprint_src/kicad/demos/video/libs/footprints.pretty/LED_D3.0mm.kicad_mod
+- file: data/oomlout_oomp_footprint_src/kicad/demos/video/libs/footprints.pretty/LED_D3.0mm.kicad_mod
   footprint:
     description: LED, diameter 3.0mm, 2 pins
     libraryLink: LED_D3.0mm
     number_of_pads: 2
   footprint_library_directory: footprint_library_owner/axello_kicad
-  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/axello_footprints_led_d3_0mm/working
-  github_path: http://github.com/axello/kicad/blob/master/tmp/data//oomlout_oomp_footprint_src/demos/video/libs/footprints.pretty/LED_D3.0mm.kicad_mod
+  footprint_library_directory_flat: tmp/data/oomlout_oomp_footprint_src/footprints_flat/axello_footprints_led_d3_0mm/working
+  github_path: http://github.com/axello/kicad/blob/master/tmp/data/oomlout_oomp_footprint_src/demos/video/libs/footprints.pretty/LED_D3.0mm.kicad_mod
   links:
-    github_src: http://gitlab.com/axello/kicad/blob/master/tmp/data//oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod
+    github_src: http://gitlab.com/axello/kicad/blob/master/tmp/data/oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
-    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/axello_footprints_led_d3_0mm/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/axello_footprints_led_d3_0mm/working
-    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/axello_footprints_led_d3_0mm/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/axello_footprints_led_d3_0mm/working
+    oomp_bot: tmp/data/oomlout_oomp_footprint_src/footprints/axello_footprints_led_d3_0mm/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/axello_footprints_led_d3_0mm/working
+    oomp_src_flat: footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/axello_footprints_led_d3_0mm/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/axello_footprints_led_d3_0mm/working
   name: kicad
   oomp:
     footprint_name: led_d3_0mm
@@ -25,7 +25,7 @@
     oomp_key_extra: oomp_footprint_axello_footprints_led_d3_0mm
     oomp_key_full: oomp_footprint_axello_footprints_led_d3_0mm_2b0c77
     oomp_key_simple: axello_footprints_led_d3_0mm
-    original_filename: data//oomlout_oomp_footprint_src/kicad/demos/video/libs/footprints.pretty/LED_D3.0mm.kicad_mod
+    original_filename: data/oomlout_oomp_footprint_src/kicad/demos/video/libs/footprints.pretty/LED_D3.0mm.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_footprints_led_d3_0mm
   oomp_key_full: oomp_footprint_axello_footprints_led_d3_0mm

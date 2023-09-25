@@ -1,18 +1,20 @@
-- file: data//oomlout_oomp_footprint_src/CAD.KiCad.Libs/modules/GBD-SMD.pretty/ARM_10_PIN.kicad_mod
+- file: data/oomlout_oomp_footprint_src/CAD.KiCad.Libs/modules/GBD-SMD.pretty/ARM_10_PIN.kicad_mod
   footprint:
     description: null
     libraryLink: ARM_10_PIN
     number_of_pads: 10
   footprint_library_directory: footprint_library_owner/ASoftTech_CAD.KiCad.Libs
-  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/asofttech_gbd_smd_arm_10_pin/working
-  github_path: http://github.com/ASoftTech/CAD.KiCad.Libs/blob/master/tmp/data//oomlout_oomp_footprint_src/modules/GBD-SMD.pretty/ARM_10_PIN.kicad_mod
+  footprint_library_directory_flat: tmp/data/oomlout_oomp_footprint_src/footprints_flat/asofttech_gbd_smd_arm_10_pin/working
+  github_path: http://github.com/ASoftTech/CAD.KiCad.Libs/blob/master/tmp/data/oomlout_oomp_footprint_src/modules/GBD-SMD.pretty/ARM_10_PIN.kicad_mod
   links:
-    github_src: http://gitlab.com/ASoftTech/CAD.KiCad.Libs/blob/master/tmp/data//oomlout_oomp_footprint_src/modules/w_switch.pretty/switch_mmp122-r.kicad_mod
-    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
-    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/asofttech_gbd_smd_arm_10_pin/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/asofttech_gbd_smd_arm_10_pin/working
-    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/asofttech_gbd_smd_arm_10_pin/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/asofttech_gbd_smd_arm_10_pin/working
+    github_owner: Hecatron-Cad
+    github_repo_name: Hecatron.Kicad.Libs
+    github_src: http://github.com/ASoftTech/CAD.KiCad.Libs/blob/master/tmp/data/oomlout_oomp_footprint_src/modules/w_switch.pretty/switch_mmp122-r.kicad_mod
+    github_src_repo: https://github.com/Hecatron-Cad/Hecatron.Kicad.Libs
+    oomp_bot: tmp/data/oomlout_oomp_footprint_src/footprints/asofttech_gbd_smd_arm_10_pin/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/asofttech_gbd_smd_arm_10_pin/working
+    oomp_src_flat: footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/asofttech_gbd_smd_arm_10_pin/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/asofttech_gbd_smd_arm_10_pin/working
   name: CAD.KiCad.Libs
   oomp:
     footprint_name: arm_10_pin
@@ -25,15 +27,139 @@
     oomp_key_extra: oomp_footprint_asofttech_gbd_smd_arm_10_pin
     oomp_key_full: oomp_footprint_asofttech_gbd_smd_arm_10_pin_61da98
     oomp_key_simple: asofttech_gbd_smd_arm_10_pin
-    original_filename: data//oomlout_oomp_footprint_src/CAD.KiCad.Libs/modules/GBD-SMD.pretty/ARM_10_PIN.kicad_mod
-    owner_name: asofttech
+    original_filename: data/oomlout_oomp_footprint_src/CAD.KiCad.Libs/modules/GBD-SMD.pretty/ARM_10_PIN.kicad_mod
+    owner_name: hecatron_cad
   oomp_key: oomp_asofttech_gbd_smd_arm_10_pin
   oomp_key_full: oomp_footprint_asofttech_gbd_smd_arm_10_pin
   oomp_key_simple: asofttech_gbd_smd_arm_10_pin
   owner: ASoftTech
   repo:
-    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
-    message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
-      Authenticated requests get a higher rate limit. Check out the documentation
-      for more details.)'
+    allow_forking: true
+    archive_url: https://api.github.com/repos/Hecatron-Cad/Hecatron.Kicad.Libs/{archive_format}{/ref}
+    archived: false
+    assignees_url: https://api.github.com/repos/Hecatron-Cad/Hecatron.Kicad.Libs/assignees{/user}
+    blobs_url: https://api.github.com/repos/Hecatron-Cad/Hecatron.Kicad.Libs/git/blobs{/sha}
+    branches_url: https://api.github.com/repos/Hecatron-Cad/Hecatron.Kicad.Libs/branches{/branch}
+    clone_url: https://github.com/Hecatron-Cad/Hecatron.Kicad.Libs.git
+    collaborators_url: https://api.github.com/repos/Hecatron-Cad/Hecatron.Kicad.Libs/collaborators{/collaborator}
+    comments_url: https://api.github.com/repos/Hecatron-Cad/Hecatron.Kicad.Libs/comments{/number}
+    commits_url: https://api.github.com/repos/Hecatron-Cad/Hecatron.Kicad.Libs/commits{/sha}
+    compare_url: https://api.github.com/repos/Hecatron-Cad/Hecatron.Kicad.Libs/compare/{base}...{head}
+    contents_url: https://api.github.com/repos/Hecatron-Cad/Hecatron.Kicad.Libs/contents/{+path}
+    contributors_url: https://api.github.com/repos/Hecatron-Cad/Hecatron.Kicad.Libs/contributors
+    created_at: '2015-12-16T15:03:19Z'
+    default_branch: master
+    deployments_url: https://api.github.com/repos/Hecatron-Cad/Hecatron.Kicad.Libs/deployments
+    description: A place to store useful libs for kicad
+    disabled: false
+    downloads_url: https://api.github.com/repos/Hecatron-Cad/Hecatron.Kicad.Libs/downloads
+    events_url: https://api.github.com/repos/Hecatron-Cad/Hecatron.Kicad.Libs/events
+    fork: false
+    forks: 0
+    forks_count: 0
+    forks_url: https://api.github.com/repos/Hecatron-Cad/Hecatron.Kicad.Libs/forks
+    full_name: Hecatron-Cad/Hecatron.Kicad.Libs
+    git_commits_url: https://api.github.com/repos/Hecatron-Cad/Hecatron.Kicad.Libs/git/commits{/sha}
+    git_refs_url: https://api.github.com/repos/Hecatron-Cad/Hecatron.Kicad.Libs/git/refs{/sha}
+    git_tags_url: https://api.github.com/repos/Hecatron-Cad/Hecatron.Kicad.Libs/git/tags{/sha}
+    git_url: git://github.com/Hecatron-Cad/Hecatron.Kicad.Libs.git
+    has_discussions: false
+    has_downloads: true
+    has_issues: true
+    has_pages: false
+    has_projects: true
+    has_wiki: true
+    homepage: null
+    hooks_url: https://api.github.com/repos/Hecatron-Cad/Hecatron.Kicad.Libs/hooks
+    html_url: https://github.com/Hecatron-Cad/Hecatron.Kicad.Libs
+    id: 48117111
+    is_template: false
+    issue_comment_url: https://api.github.com/repos/Hecatron-Cad/Hecatron.Kicad.Libs/issues/comments{/number}
+    issue_events_url: https://api.github.com/repos/Hecatron-Cad/Hecatron.Kicad.Libs/issues/events{/number}
+    issues_url: https://api.github.com/repos/Hecatron-Cad/Hecatron.Kicad.Libs/issues{/number}
+    keys_url: https://api.github.com/repos/Hecatron-Cad/Hecatron.Kicad.Libs/keys{/key_id}
+    labels_url: https://api.github.com/repos/Hecatron-Cad/Hecatron.Kicad.Libs/labels{/name}
+    language: null
+    languages_url: https://api.github.com/repos/Hecatron-Cad/Hecatron.Kicad.Libs/languages
+    license:
+      key: mit
+      name: MIT License
+      node_id: MDc6TGljZW5zZTEz
+      spdx_id: MIT
+      url: https://api.github.com/licenses/mit
+    merges_url: https://api.github.com/repos/Hecatron-Cad/Hecatron.Kicad.Libs/merges
+    milestones_url: https://api.github.com/repos/Hecatron-Cad/Hecatron.Kicad.Libs/milestones{/number}
+    mirror_url: null
+    name: Hecatron.Kicad.Libs
+    network_count: 0
+    node_id: MDEwOlJlcG9zaXRvcnk0ODExNzExMQ==
+    notifications_url: https://api.github.com/repos/Hecatron-Cad/Hecatron.Kicad.Libs/notifications{?since,all,participating}
+    open_issues: 0
+    open_issues_count: 0
+    organization:
+      avatar_url: https://avatars.githubusercontent.com/u/46205693?v=4
+      events_url: https://api.github.com/users/Hecatron-Cad/events{/privacy}
+      followers_url: https://api.github.com/users/Hecatron-Cad/followers
+      following_url: https://api.github.com/users/Hecatron-Cad/following{/other_user}
+      gists_url: https://api.github.com/users/Hecatron-Cad/gists{/gist_id}
+      gravatar_id: ''
+      html_url: https://github.com/Hecatron-Cad
+      id: 46205693
+      login: Hecatron-Cad
+      node_id: MDEyOk9yZ2FuaXphdGlvbjQ2MjA1Njkz
+      organizations_url: https://api.github.com/users/Hecatron-Cad/orgs
+      received_events_url: https://api.github.com/users/Hecatron-Cad/received_events
+      repos_url: https://api.github.com/users/Hecatron-Cad/repos
+      site_admin: false
+      starred_url: https://api.github.com/users/Hecatron-Cad/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/Hecatron-Cad/subscriptions
+      type: Organization
+      url: https://api.github.com/users/Hecatron-Cad
+    owner:
+      avatar_url: https://avatars.githubusercontent.com/u/46205693?v=4
+      events_url: https://api.github.com/users/Hecatron-Cad/events{/privacy}
+      followers_url: https://api.github.com/users/Hecatron-Cad/followers
+      following_url: https://api.github.com/users/Hecatron-Cad/following{/other_user}
+      gists_url: https://api.github.com/users/Hecatron-Cad/gists{/gist_id}
+      gravatar_id: ''
+      html_url: https://github.com/Hecatron-Cad
+      id: 46205693
+      login: Hecatron-Cad
+      node_id: MDEyOk9yZ2FuaXphdGlvbjQ2MjA1Njkz
+      organizations_url: https://api.github.com/users/Hecatron-Cad/orgs
+      received_events_url: https://api.github.com/users/Hecatron-Cad/received_events
+      repos_url: https://api.github.com/users/Hecatron-Cad/repos
+      site_admin: false
+      starred_url: https://api.github.com/users/Hecatron-Cad/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/Hecatron-Cad/subscriptions
+      type: Organization
+      url: https://api.github.com/users/Hecatron-Cad
+    private: false
+    pulls_url: https://api.github.com/repos/Hecatron-Cad/Hecatron.Kicad.Libs/pulls{/number}
+    pushed_at: '2020-01-02T02:53:46Z'
+    releases_url: https://api.github.com/repos/Hecatron-Cad/Hecatron.Kicad.Libs/releases{/id}
+    size: 45
+    ssh_url: git@github.com:Hecatron-Cad/Hecatron.Kicad.Libs.git
+    stargazers_count: 0
+    stargazers_url: https://api.github.com/repos/Hecatron-Cad/Hecatron.Kicad.Libs/stargazers
+    statuses_url: https://api.github.com/repos/Hecatron-Cad/Hecatron.Kicad.Libs/statuses/{sha}
+    subscribers_count: 2
+    subscribers_url: https://api.github.com/repos/Hecatron-Cad/Hecatron.Kicad.Libs/subscribers
+    subscription_url: https://api.github.com/repos/Hecatron-Cad/Hecatron.Kicad.Libs/subscription
+    svn_url: https://github.com/Hecatron-Cad/Hecatron.Kicad.Libs
+    tags_url: https://api.github.com/repos/Hecatron-Cad/Hecatron.Kicad.Libs/tags
+    teams_url: https://api.github.com/repos/Hecatron-Cad/Hecatron.Kicad.Libs/teams
+    temp_clone_token: null
+    topics:
+    - cad
+    - kicad
+    - kicad-footprints
+    - kicad-libraries
+    trees_url: https://api.github.com/repos/Hecatron-Cad/Hecatron.Kicad.Libs/git/trees{/sha}
+    updated_at: '2020-01-02T02:53:48Z'
+    url: https://api.github.com/repos/Hecatron-Cad/Hecatron.Kicad.Libs
+    visibility: public
+    watchers: 0
+    watchers_count: 0
+    web_commit_signoff_required: false
   url: http://github.com/ASoftTech/CAD.KiCad.Libs

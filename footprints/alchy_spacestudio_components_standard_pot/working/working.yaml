@@ -1,18 +1,20 @@
-- file: data//oomlout_oomp_footprint_src/spacestudio_components.pretty/standard_pot.kicad_mod
+- file: data/oomlout_oomp_footprint_src/spacestudio_components.pretty/standard_pot.kicad_mod
   footprint:
     description: null
     libraryLink: standard_pot
     number_of_pads: 5
   footprint_library_directory: footprint_library_owner/alchy_spacestudio_components.pretty
-  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/alchy_spacestudio_components_standard_pot/working
-  github_path: http://github.com/alchy/spacestudio_components.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/standard_pot.kicad_mod
+  footprint_library_directory_flat: tmp/data/oomlout_oomp_footprint_src/footprints_flat/alchy_spacestudio_components_standard_pot/working
+  github_path: http://github.com/alchy/spacestudio_components.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/standard_pot.kicad_mod
   links:
-    github_src: http://gitlab.com/alchy/spacestudio_components.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/trimmer_alps-rk09k1130ah1.kicad_mod
-    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
-    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/alchy_spacestudio_components_standard_pot/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/alchy_spacestudio_components_standard_pot/working
-    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/alchy_spacestudio_components_standard_pot/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/alchy_spacestudio_components_standard_pot/working
+    github_owner: alchy
+    github_repo_name: spacestudio_components.pretty
+    github_src: http://github.com/alchy/spacestudio_components.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/trimmer_alps-rk09k1130ah1.kicad_mod
+    github_src_repo: https://github.com/alchy/spacestudio_components.pretty
+    oomp_bot: tmp/data/oomlout_oomp_footprint_src/footprints/alchy_spacestudio_components_standard_pot/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/alchy_spacestudio_components_standard_pot/working
+    oomp_src_flat: footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/alchy_spacestudio_components_standard_pot/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/alchy_spacestudio_components_standard_pot/working
   name: spacestudio_components.pretty
   oomp:
     footprint_name: standard_pot
@@ -25,15 +27,111 @@
     oomp_key_extra: oomp_footprint_alchy_spacestudio_components_standard_pot
     oomp_key_full: oomp_footprint_alchy_spacestudio_components_standard_pot_df497d
     oomp_key_simple: alchy_spacestudio_components_standard_pot
-    original_filename: data//oomlout_oomp_footprint_src/spacestudio_components.pretty/standard_pot.kicad_mod
+    original_filename: data/oomlout_oomp_footprint_src/spacestudio_components.pretty/standard_pot.kicad_mod
     owner_name: alchy
   oomp_key: oomp_alchy_spacestudio_components_standard_pot
   oomp_key_full: oomp_footprint_alchy_spacestudio_components_standard_pot
   oomp_key_simple: alchy_spacestudio_components_standard_pot
   owner: alchy
   repo:
-    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
-    message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
-      Authenticated requests get a higher rate limit. Check out the documentation
-      for more details.)'
+    allow_forking: true
+    archive_url: https://api.github.com/repos/alchy/spacestudio_components.pretty/{archive_format}{/ref}
+    archived: false
+    assignees_url: https://api.github.com/repos/alchy/spacestudio_components.pretty/assignees{/user}
+    blobs_url: https://api.github.com/repos/alchy/spacestudio_components.pretty/git/blobs{/sha}
+    branches_url: https://api.github.com/repos/alchy/spacestudio_components.pretty/branches{/branch}
+    clone_url: https://github.com/alchy/spacestudio_components.pretty.git
+    collaborators_url: https://api.github.com/repos/alchy/spacestudio_components.pretty/collaborators{/collaborator}
+    comments_url: https://api.github.com/repos/alchy/spacestudio_components.pretty/comments{/number}
+    commits_url: https://api.github.com/repos/alchy/spacestudio_components.pretty/commits{/sha}
+    compare_url: https://api.github.com/repos/alchy/spacestudio_components.pretty/compare/{base}...{head}
+    contents_url: https://api.github.com/repos/alchy/spacestudio_components.pretty/contents/{+path}
+    contributors_url: https://api.github.com/repos/alchy/spacestudio_components.pretty/contributors
+    created_at: '2015-02-08T11:58:16Z'
+    default_branch: master
+    deployments_url: https://api.github.com/repos/alchy/spacestudio_components.pretty/deployments
+    description: EDA KICAD spacestudio's library
+    disabled: false
+    downloads_url: https://api.github.com/repos/alchy/spacestudio_components.pretty/downloads
+    events_url: https://api.github.com/repos/alchy/spacestudio_components.pretty/events
+    fork: false
+    forks: 0
+    forks_count: 0
+    forks_url: https://api.github.com/repos/alchy/spacestudio_components.pretty/forks
+    full_name: alchy/spacestudio_components.pretty
+    git_commits_url: https://api.github.com/repos/alchy/spacestudio_components.pretty/git/commits{/sha}
+    git_refs_url: https://api.github.com/repos/alchy/spacestudio_components.pretty/git/refs{/sha}
+    git_tags_url: https://api.github.com/repos/alchy/spacestudio_components.pretty/git/tags{/sha}
+    git_url: git://github.com/alchy/spacestudio_components.pretty.git
+    has_discussions: false
+    has_downloads: true
+    has_issues: true
+    has_pages: false
+    has_projects: true
+    has_wiki: true
+    homepage: http://spacestudio.org
+    hooks_url: https://api.github.com/repos/alchy/spacestudio_components.pretty/hooks
+    html_url: https://github.com/alchy/spacestudio_components.pretty
+    id: 30489704
+    is_template: false
+    issue_comment_url: https://api.github.com/repos/alchy/spacestudio_components.pretty/issues/comments{/number}
+    issue_events_url: https://api.github.com/repos/alchy/spacestudio_components.pretty/issues/events{/number}
+    issues_url: https://api.github.com/repos/alchy/spacestudio_components.pretty/issues{/number}
+    keys_url: https://api.github.com/repos/alchy/spacestudio_components.pretty/keys{/key_id}
+    labels_url: https://api.github.com/repos/alchy/spacestudio_components.pretty/labels{/name}
+    language: null
+    languages_url: https://api.github.com/repos/alchy/spacestudio_components.pretty/languages
+    license: null
+    merges_url: https://api.github.com/repos/alchy/spacestudio_components.pretty/merges
+    milestones_url: https://api.github.com/repos/alchy/spacestudio_components.pretty/milestones{/number}
+    mirror_url: null
+    name: spacestudio_components.pretty
+    network_count: 0
+    node_id: MDEwOlJlcG9zaXRvcnkzMDQ4OTcwNA==
+    notifications_url: https://api.github.com/repos/alchy/spacestudio_components.pretty/notifications{?since,all,participating}
+    open_issues: 0
+    open_issues_count: 0
+    owner:
+      avatar_url: https://avatars.githubusercontent.com/u/2835812?v=4
+      events_url: https://api.github.com/users/alchy/events{/privacy}
+      followers_url: https://api.github.com/users/alchy/followers
+      following_url: https://api.github.com/users/alchy/following{/other_user}
+      gists_url: https://api.github.com/users/alchy/gists{/gist_id}
+      gravatar_id: ''
+      html_url: https://github.com/alchy
+      id: 2835812
+      login: alchy
+      node_id: MDQ6VXNlcjI4MzU4MTI=
+      organizations_url: https://api.github.com/users/alchy/orgs
+      received_events_url: https://api.github.com/users/alchy/received_events
+      repos_url: https://api.github.com/users/alchy/repos
+      site_admin: false
+      starred_url: https://api.github.com/users/alchy/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/alchy/subscriptions
+      type: User
+      url: https://api.github.com/users/alchy
+    private: false
+    pulls_url: https://api.github.com/repos/alchy/spacestudio_components.pretty/pulls{/number}
+    pushed_at: '2016-10-13T19:00:00Z'
+    releases_url: https://api.github.com/repos/alchy/spacestudio_components.pretty/releases{/id}
+    size: 734
+    ssh_url: git@github.com:alchy/spacestudio_components.pretty.git
+    stargazers_count: 0
+    stargazers_url: https://api.github.com/repos/alchy/spacestudio_components.pretty/stargazers
+    statuses_url: https://api.github.com/repos/alchy/spacestudio_components.pretty/statuses/{sha}
+    subscribers_count: 2
+    subscribers_url: https://api.github.com/repos/alchy/spacestudio_components.pretty/subscribers
+    subscription_url: https://api.github.com/repos/alchy/spacestudio_components.pretty/subscription
+    svn_url: https://github.com/alchy/spacestudio_components.pretty
+    tags_url: https://api.github.com/repos/alchy/spacestudio_components.pretty/tags
+    teams_url: https://api.github.com/repos/alchy/spacestudio_components.pretty/teams
+    temp_clone_token: null
+    topics: []
+    trees_url: https://api.github.com/repos/alchy/spacestudio_components.pretty/git/trees{/sha}
+    updated_at: '2016-04-24T09:38:10Z'
+    url: https://api.github.com/repos/alchy/spacestudio_components.pretty
+    visibility: public
+    watchers: 0
+    watchers_count: 0
+    web_commit_signoff_required: false
   url: http://github.com/alchy/spacestudio_components.pretty

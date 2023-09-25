@@ -1,18 +1,20 @@
-- file: data//oomlout_oomp_footprint_src/acheron_Components.pretty/EXC14CG-CE.kicad_mod
+- file: data/oomlout_oomp_footprint_src/acheron_Components.pretty/EXC14CG-CE.kicad_mod
   footprint:
     description: null
     libraryLink: EXC14CG-CE
     number_of_pads: 4
   footprint_library_directory: footprint_library_owner/AcheronProject_acheron_Components.pretty
-  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/acheronproject_acheron_components_exc14cg_ce/working
-  github_path: http://github.com/AcheronProject/acheron_Components.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/EXC14CG-CE.kicad_mod
+  footprint_library_directory_flat: tmp/data/oomlout_oomp_footprint_src/footprints_flat/acheronproject_acheron_components_exc14cg_ce/working
+  github_path: http://github.com/AcheronProject/acheron_Components.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/EXC14CG-CE.kicad_mod
   links:
-    github_src: http://gitlab.com/AcheronProject/acheron_Components.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/VQFN-16-1EP_3x3mm_P0.5mm_EP1.6x1.6mm.kicad_mod
-    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
-    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/acheronproject_acheron_components_exc14cg_ce/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/acheronproject_acheron_components_exc14cg_ce/working
-    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/acheronproject_acheron_components_exc14cg_ce/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/acheronproject_acheron_components_exc14cg_ce/working
+    github_owner: AcheronProject
+    github_repo_name: acheron_Components.pretty
+    github_src: http://github.com/AcheronProject/acheron_Components.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/VQFN-16-1EP_3x3mm_P0.5mm_EP1.6x1.6mm.kicad_mod
+    github_src_repo: https://github.com/AcheronProject/acheron_Components.pretty
+    oomp_bot: tmp/data/oomlout_oomp_footprint_src/footprints/acheronproject_acheron_components_exc14cg_ce/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/acheronproject_acheron_components_exc14cg_ce/working
+    oomp_src_flat: footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/acheronproject_acheron_components_exc14cg_ce/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/acheronproject_acheron_components_exc14cg_ce/working
   name: acheron_Components.pretty
   oomp:
     footprint_name: exc14cg_ce
@@ -25,15 +27,136 @@
     oomp_key_extra: oomp_footprint_acheronproject_acheron_components_exc14cg_ce
     oomp_key_full: oomp_footprint_acheronproject_acheron_components_exc14cg_ce_d1fc28
     oomp_key_simple: acheronproject_acheron_components_exc14cg_ce
-    original_filename: data//oomlout_oomp_footprint_src/acheron_Components.pretty/EXC14CG-CE.kicad_mod
+    original_filename: data/oomlout_oomp_footprint_src/acheron_Components.pretty/EXC14CG-CE.kicad_mod
     owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_components_exc14cg_ce
   oomp_key_full: oomp_footprint_acheronproject_acheron_components_exc14cg_ce
   oomp_key_simple: acheronproject_acheron_components_exc14cg_ce
   owner: AcheronProject
   repo:
-    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
-    message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
-      Authenticated requests get a higher rate limit. Check out the documentation
-      for more details.)'
+    allow_forking: true
+    archive_url: https://api.github.com/repos/AcheronProject/acheron_Components.pretty/{archive_format}{/ref}
+    archived: false
+    assignees_url: https://api.github.com/repos/AcheronProject/acheron_Components.pretty/assignees{/user}
+    blobs_url: https://api.github.com/repos/AcheronProject/acheron_Components.pretty/git/blobs{/sha}
+    branches_url: https://api.github.com/repos/AcheronProject/acheron_Components.pretty/branches{/branch}
+    clone_url: https://github.com/AcheronProject/acheron_Components.pretty.git
+    collaborators_url: https://api.github.com/repos/AcheronProject/acheron_Components.pretty/collaborators{/collaborator}
+    comments_url: https://api.github.com/repos/AcheronProject/acheron_Components.pretty/comments{/number}
+    commits_url: https://api.github.com/repos/AcheronProject/acheron_Components.pretty/commits{/sha}
+    compare_url: https://api.github.com/repos/AcheronProject/acheron_Components.pretty/compare/{base}...{head}
+    contents_url: https://api.github.com/repos/AcheronProject/acheron_Components.pretty/contents/{+path}
+    contributors_url: https://api.github.com/repos/AcheronProject/acheron_Components.pretty/contributors
+    created_at: '2021-03-25T18:37:21Z'
+    default_branch: master
+    deployments_url: https://api.github.com/repos/AcheronProject/acheron_Components.pretty/deployments
+    description: AcheronProject's KiCad footprint library for general components like
+      resistors, capacitors, ICs and LEDs.
+    disabled: false
+    downloads_url: https://api.github.com/repos/AcheronProject/acheron_Components.pretty/downloads
+    events_url: https://api.github.com/repos/AcheronProject/acheron_Components.pretty/events
+    fork: false
+    forks: 0
+    forks_count: 0
+    forks_url: https://api.github.com/repos/AcheronProject/acheron_Components.pretty/forks
+    full_name: AcheronProject/acheron_Components.pretty
+    git_commits_url: https://api.github.com/repos/AcheronProject/acheron_Components.pretty/git/commits{/sha}
+    git_refs_url: https://api.github.com/repos/AcheronProject/acheron_Components.pretty/git/refs{/sha}
+    git_tags_url: https://api.github.com/repos/AcheronProject/acheron_Components.pretty/git/tags{/sha}
+    git_url: git://github.com/AcheronProject/acheron_Components.pretty.git
+    has_discussions: false
+    has_downloads: true
+    has_issues: true
+    has_pages: false
+    has_projects: true
+    has_wiki: true
+    homepage: null
+    hooks_url: https://api.github.com/repos/AcheronProject/acheron_Components.pretty/hooks
+    html_url: https://github.com/AcheronProject/acheron_Components.pretty
+    id: 351539470
+    is_template: false
+    issue_comment_url: https://api.github.com/repos/AcheronProject/acheron_Components.pretty/issues/comments{/number}
+    issue_events_url: https://api.github.com/repos/AcheronProject/acheron_Components.pretty/issues/events{/number}
+    issues_url: https://api.github.com/repos/AcheronProject/acheron_Components.pretty/issues{/number}
+    keys_url: https://api.github.com/repos/AcheronProject/acheron_Components.pretty/keys{/key_id}
+    labels_url: https://api.github.com/repos/AcheronProject/acheron_Components.pretty/labels{/name}
+    language: null
+    languages_url: https://api.github.com/repos/AcheronProject/acheron_Components.pretty/languages
+    license:
+      key: other
+      name: Other
+      node_id: MDc6TGljZW5zZTA=
+      spdx_id: NOASSERTION
+      url: null
+    merges_url: https://api.github.com/repos/AcheronProject/acheron_Components.pretty/merges
+    milestones_url: https://api.github.com/repos/AcheronProject/acheron_Components.pretty/milestones{/number}
+    mirror_url: null
+    name: acheron_Components.pretty
+    network_count: 0
+    node_id: MDEwOlJlcG9zaXRvcnkzNTE1Mzk0NzA=
+    notifications_url: https://api.github.com/repos/AcheronProject/acheron_Components.pretty/notifications{?since,all,participating}
+    open_issues: 0
+    open_issues_count: 0
+    organization:
+      avatar_url: https://avatars.githubusercontent.com/u/63755935?v=4
+      events_url: https://api.github.com/users/AcheronProject/events{/privacy}
+      followers_url: https://api.github.com/users/AcheronProject/followers
+      following_url: https://api.github.com/users/AcheronProject/following{/other_user}
+      gists_url: https://api.github.com/users/AcheronProject/gists{/gist_id}
+      gravatar_id: ''
+      html_url: https://github.com/AcheronProject
+      id: 63755935
+      login: AcheronProject
+      node_id: MDEyOk9yZ2FuaXphdGlvbjYzNzU1OTM1
+      organizations_url: https://api.github.com/users/AcheronProject/orgs
+      received_events_url: https://api.github.com/users/AcheronProject/received_events
+      repos_url: https://api.github.com/users/AcheronProject/repos
+      site_admin: false
+      starred_url: https://api.github.com/users/AcheronProject/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/AcheronProject/subscriptions
+      type: Organization
+      url: https://api.github.com/users/AcheronProject
+    owner:
+      avatar_url: https://avatars.githubusercontent.com/u/63755935?v=4
+      events_url: https://api.github.com/users/AcheronProject/events{/privacy}
+      followers_url: https://api.github.com/users/AcheronProject/followers
+      following_url: https://api.github.com/users/AcheronProject/following{/other_user}
+      gists_url: https://api.github.com/users/AcheronProject/gists{/gist_id}
+      gravatar_id: ''
+      html_url: https://github.com/AcheronProject
+      id: 63755935
+      login: AcheronProject
+      node_id: MDEyOk9yZ2FuaXphdGlvbjYzNzU1OTM1
+      organizations_url: https://api.github.com/users/AcheronProject/orgs
+      received_events_url: https://api.github.com/users/AcheronProject/received_events
+      repos_url: https://api.github.com/users/AcheronProject/repos
+      site_admin: false
+      starred_url: https://api.github.com/users/AcheronProject/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/AcheronProject/subscriptions
+      type: Organization
+      url: https://api.github.com/users/AcheronProject
+    private: false
+    pulls_url: https://api.github.com/repos/AcheronProject/acheron_Components.pretty/pulls{/number}
+    pushed_at: '2023-06-28T04:24:01Z'
+    releases_url: https://api.github.com/repos/AcheronProject/acheron_Components.pretty/releases{/id}
+    size: 156
+    ssh_url: git@github.com:AcheronProject/acheron_Components.pretty.git
+    stargazers_count: 3
+    stargazers_url: https://api.github.com/repos/AcheronProject/acheron_Components.pretty/stargazers
+    statuses_url: https://api.github.com/repos/AcheronProject/acheron_Components.pretty/statuses/{sha}
+    subscribers_count: 1
+    subscribers_url: https://api.github.com/repos/AcheronProject/acheron_Components.pretty/subscribers
+    subscription_url: https://api.github.com/repos/AcheronProject/acheron_Components.pretty/subscription
+    svn_url: https://github.com/AcheronProject/acheron_Components.pretty
+    tags_url: https://api.github.com/repos/AcheronProject/acheron_Components.pretty/tags
+    teams_url: https://api.github.com/repos/AcheronProject/acheron_Components.pretty/teams
+    temp_clone_token: null
+    topics: []
+    trees_url: https://api.github.com/repos/AcheronProject/acheron_Components.pretty/git/trees{/sha}
+    updated_at: '2023-08-28T20:17:39Z'
+    url: https://api.github.com/repos/AcheronProject/acheron_Components.pretty
+    visibility: public
+    watchers: 3
+    watchers_count: 3
+    web_commit_signoff_required: false
   url: http://github.com/AcheronProject/acheron_Components.pretty

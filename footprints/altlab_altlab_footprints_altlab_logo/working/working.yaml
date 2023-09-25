@@ -1,18 +1,20 @@
-- file: data//oomlout_oomp_footprint_src/altlab-footprints.pretty/ALTLAB_LOGO.kicad_mod
+- file: data/oomlout_oomp_footprint_src/altlab-footprints.pretty/ALTLAB_LOGO.kicad_mod
   footprint:
     description: null
     libraryLink: ALTLAB_LOGO
     number_of_pads: 0
   footprint_library_directory: footprint_library_owner/altLab_altlab-footprints.pretty
-  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/altlab_altlab_footprints_altlab_logo/working
-  github_path: http://github.com/altLab/altlab-footprints.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/ALTLAB_LOGO.kicad_mod
+  footprint_library_directory_flat: tmp/data/oomlout_oomp_footprint_src/footprints_flat/altlab_altlab_footprints_altlab_logo/working
+  github_path: http://github.com/altLab/altlab-footprints.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/ALTLAB_LOGO.kicad_mod
   links:
-    github_src: http://gitlab.com/altLab/altlab-footprints.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/ALTLAB_LOGO.kicad_mod
-    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
-    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/altlab_altlab_footprints_altlab_logo/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/altlab_altlab_footprints_altlab_logo/working
-    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/altlab_altlab_footprints_altlab_logo/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/altlab_altlab_footprints_altlab_logo/working
+    github_owner: altLab
+    github_repo_name: altlab-footprints.pretty
+    github_src: http://github.com/altLab/altlab-footprints.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/ALTLAB_LOGO.kicad_mod
+    github_src_repo: https://github.com/altLab/altlab-footprints.pretty
+    oomp_bot: tmp/data/oomlout_oomp_footprint_src/footprints/altlab_altlab_footprints_altlab_logo/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/altlab_altlab_footprints_altlab_logo/working
+    oomp_src_flat: footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/altlab_altlab_footprints_altlab_logo/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/altlab_altlab_footprints_altlab_logo/working
   name: altlab-footprints.pretty
   oomp:
     footprint_name: altlab_logo
@@ -25,15 +27,135 @@
     oomp_key_extra: oomp_footprint_altlab_altlab_footprints_altlab_logo
     oomp_key_full: oomp_footprint_altlab_altlab_footprints_altlab_logo_f92d6d
     oomp_key_simple: altlab_altlab_footprints_altlab_logo
-    original_filename: data//oomlout_oomp_footprint_src/altlab-footprints.pretty/ALTLAB_LOGO.kicad_mod
+    original_filename: data/oomlout_oomp_footprint_src/altlab-footprints.pretty/ALTLAB_LOGO.kicad_mod
     owner_name: altlab
   oomp_key: oomp_altlab_altlab_footprints_altlab_logo
   oomp_key_full: oomp_footprint_altlab_altlab_footprints_altlab_logo
   oomp_key_simple: altlab_altlab_footprints_altlab_logo
   owner: altLab
   repo:
-    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
-    message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
-      Authenticated requests get a higher rate limit. Check out the documentation
-      for more details.)'
+    allow_forking: true
+    archive_url: https://api.github.com/repos/altLab/altlab-footprints.pretty/{archive_format}{/ref}
+    archived: false
+    assignees_url: https://api.github.com/repos/altLab/altlab-footprints.pretty/assignees{/user}
+    blobs_url: https://api.github.com/repos/altLab/altlab-footprints.pretty/git/blobs{/sha}
+    branches_url: https://api.github.com/repos/altLab/altlab-footprints.pretty/branches{/branch}
+    clone_url: https://github.com/altLab/altlab-footprints.pretty.git
+    collaborators_url: https://api.github.com/repos/altLab/altlab-footprints.pretty/collaborators{/collaborator}
+    comments_url: https://api.github.com/repos/altLab/altlab-footprints.pretty/comments{/number}
+    commits_url: https://api.github.com/repos/altLab/altlab-footprints.pretty/commits{/sha}
+    compare_url: https://api.github.com/repos/altLab/altlab-footprints.pretty/compare/{base}...{head}
+    contents_url: https://api.github.com/repos/altLab/altlab-footprints.pretty/contents/{+path}
+    contributors_url: https://api.github.com/repos/altLab/altlab-footprints.pretty/contributors
+    created_at: '2016-05-13T01:48:27Z'
+    default_branch: master
+    deployments_url: https://api.github.com/repos/altLab/altlab-footprints.pretty/deployments
+    description: altLab Kicad Custom Footprints
+    disabled: false
+    downloads_url: https://api.github.com/repos/altLab/altlab-footprints.pretty/downloads
+    events_url: https://api.github.com/repos/altLab/altlab-footprints.pretty/events
+    fork: false
+    forks: 0
+    forks_count: 0
+    forks_url: https://api.github.com/repos/altLab/altlab-footprints.pretty/forks
+    full_name: altLab/altlab-footprints.pretty
+    git_commits_url: https://api.github.com/repos/altLab/altlab-footprints.pretty/git/commits{/sha}
+    git_refs_url: https://api.github.com/repos/altLab/altlab-footprints.pretty/git/refs{/sha}
+    git_tags_url: https://api.github.com/repos/altLab/altlab-footprints.pretty/git/tags{/sha}
+    git_url: git://github.com/altLab/altlab-footprints.pretty.git
+    has_discussions: false
+    has_downloads: true
+    has_issues: true
+    has_pages: false
+    has_projects: true
+    has_wiki: true
+    homepage: null
+    hooks_url: https://api.github.com/repos/altLab/altlab-footprints.pretty/hooks
+    html_url: https://github.com/altLab/altlab-footprints.pretty
+    id: 58690386
+    is_template: false
+    issue_comment_url: https://api.github.com/repos/altLab/altlab-footprints.pretty/issues/comments{/number}
+    issue_events_url: https://api.github.com/repos/altLab/altlab-footprints.pretty/issues/events{/number}
+    issues_url: https://api.github.com/repos/altLab/altlab-footprints.pretty/issues{/number}
+    keys_url: https://api.github.com/repos/altLab/altlab-footprints.pretty/keys{/key_id}
+    labels_url: https://api.github.com/repos/altLab/altlab-footprints.pretty/labels{/name}
+    language: null
+    languages_url: https://api.github.com/repos/altLab/altlab-footprints.pretty/languages
+    license:
+      key: apache-2.0
+      name: Apache License 2.0
+      node_id: MDc6TGljZW5zZTI=
+      spdx_id: Apache-2.0
+      url: https://api.github.com/licenses/apache-2.0
+    merges_url: https://api.github.com/repos/altLab/altlab-footprints.pretty/merges
+    milestones_url: https://api.github.com/repos/altLab/altlab-footprints.pretty/milestones{/number}
+    mirror_url: null
+    name: altlab-footprints.pretty
+    network_count: 0
+    node_id: MDEwOlJlcG9zaXRvcnk1ODY5MDM4Ng==
+    notifications_url: https://api.github.com/repos/altLab/altlab-footprints.pretty/notifications{?since,all,participating}
+    open_issues: 0
+    open_issues_count: 0
+    organization:
+      avatar_url: https://avatars.githubusercontent.com/u/5864781?v=4
+      events_url: https://api.github.com/users/altLab/events{/privacy}
+      followers_url: https://api.github.com/users/altLab/followers
+      following_url: https://api.github.com/users/altLab/following{/other_user}
+      gists_url: https://api.github.com/users/altLab/gists{/gist_id}
+      gravatar_id: ''
+      html_url: https://github.com/altLab
+      id: 5864781
+      login: altLab
+      node_id: MDEyOk9yZ2FuaXphdGlvbjU4NjQ3ODE=
+      organizations_url: https://api.github.com/users/altLab/orgs
+      received_events_url: https://api.github.com/users/altLab/received_events
+      repos_url: https://api.github.com/users/altLab/repos
+      site_admin: false
+      starred_url: https://api.github.com/users/altLab/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/altLab/subscriptions
+      type: Organization
+      url: https://api.github.com/users/altLab
+    owner:
+      avatar_url: https://avatars.githubusercontent.com/u/5864781?v=4
+      events_url: https://api.github.com/users/altLab/events{/privacy}
+      followers_url: https://api.github.com/users/altLab/followers
+      following_url: https://api.github.com/users/altLab/following{/other_user}
+      gists_url: https://api.github.com/users/altLab/gists{/gist_id}
+      gravatar_id: ''
+      html_url: https://github.com/altLab
+      id: 5864781
+      login: altLab
+      node_id: MDEyOk9yZ2FuaXphdGlvbjU4NjQ3ODE=
+      organizations_url: https://api.github.com/users/altLab/orgs
+      received_events_url: https://api.github.com/users/altLab/received_events
+      repos_url: https://api.github.com/users/altLab/repos
+      site_admin: false
+      starred_url: https://api.github.com/users/altLab/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/altLab/subscriptions
+      type: Organization
+      url: https://api.github.com/users/altLab
+    private: false
+    pulls_url: https://api.github.com/repos/altLab/altlab-footprints.pretty/pulls{/number}
+    pushed_at: '2016-05-13T01:49:11Z'
+    releases_url: https://api.github.com/repos/altLab/altlab-footprints.pretty/releases{/id}
+    size: 11
+    ssh_url: git@github.com:altLab/altlab-footprints.pretty.git
+    stargazers_count: 0
+    stargazers_url: https://api.github.com/repos/altLab/altlab-footprints.pretty/stargazers
+    statuses_url: https://api.github.com/repos/altLab/altlab-footprints.pretty/statuses/{sha}
+    subscribers_count: 3
+    subscribers_url: https://api.github.com/repos/altLab/altlab-footprints.pretty/subscribers
+    subscription_url: https://api.github.com/repos/altLab/altlab-footprints.pretty/subscription
+    svn_url: https://github.com/altLab/altlab-footprints.pretty
+    tags_url: https://api.github.com/repos/altLab/altlab-footprints.pretty/tags
+    teams_url: https://api.github.com/repos/altLab/altlab-footprints.pretty/teams
+    temp_clone_token: null
+    topics: []
+    trees_url: https://api.github.com/repos/altLab/altlab-footprints.pretty/git/trees{/sha}
+    updated_at: '2016-05-13T01:48:27Z'
+    url: https://api.github.com/repos/altLab/altlab-footprints.pretty
+    visibility: public
+    watchers: 0
+    watchers_count: 0
+    web_commit_signoff_required: false
   url: http://github.com/altLab/altlab-footprints.pretty

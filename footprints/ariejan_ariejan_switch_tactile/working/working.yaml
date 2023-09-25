@@ -1,18 +1,20 @@
-- file: data//oomlout_oomp_footprint_src/ariejan.pretty/SWITCH_TACTILE.kicad_mod
+- file: data/oomlout_oomp_footprint_src/ariejan.pretty/SWITCH_TACTILE.kicad_mod
   footprint:
     description: null
     libraryLink: SWITCH_TACTILE
     number_of_pads: 4
   footprint_library_directory: footprint_library_owner/ariejan_ariejan.pretty
-  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/ariejan_ariejan_switch_tactile/working
-  github_path: http://github.com/ariejan/ariejan.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/SWITCH_TACTILE.kicad_mod
+  footprint_library_directory_flat: tmp/data/oomlout_oomp_footprint_src/footprints_flat/ariejan_ariejan_switch_tactile/working
+  github_path: http://github.com/ariejan/ariejan.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/SWITCH_TACTILE.kicad_mod
   links:
-    github_src: http://gitlab.com/ariejan/ariejan.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/TRIMMER-TC33X-2.kicad_mod
-    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
-    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/ariejan_ariejan_switch_tactile/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/ariejan_ariejan_switch_tactile/working
-    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/ariejan_ariejan_switch_tactile/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/ariejan_ariejan_switch_tactile/working
+    github_owner: ariejan
+    github_repo_name: ariejan.pretty
+    github_src: http://github.com/ariejan/ariejan.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/TRIMMER-TC33X-2.kicad_mod
+    github_src_repo: https://github.com/ariejan/ariejan.pretty
+    oomp_bot: tmp/data/oomlout_oomp_footprint_src/footprints/ariejan_ariejan_switch_tactile/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/ariejan_ariejan_switch_tactile/working
+    oomp_src_flat: footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/ariejan_ariejan_switch_tactile/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/ariejan_ariejan_switch_tactile/working
   name: ariejan.pretty
   oomp:
     footprint_name: switch_tactile
@@ -25,15 +27,111 @@
     oomp_key_extra: oomp_footprint_ariejan_ariejan_switch_tactile
     oomp_key_full: oomp_footprint_ariejan_ariejan_switch_tactile_4c25c2
     oomp_key_simple: ariejan_ariejan_switch_tactile
-    original_filename: data//oomlout_oomp_footprint_src/ariejan.pretty/SWITCH_TACTILE.kicad_mod
+    original_filename: data/oomlout_oomp_footprint_src/ariejan.pretty/SWITCH_TACTILE.kicad_mod
     owner_name: ariejan
   oomp_key: oomp_ariejan_ariejan_switch_tactile
   oomp_key_full: oomp_footprint_ariejan_ariejan_switch_tactile
   oomp_key_simple: ariejan_ariejan_switch_tactile
   owner: ariejan
   repo:
-    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
-    message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
-      Authenticated requests get a higher rate limit. Check out the documentation
-      for more details.)'
+    allow_forking: true
+    archive_url: https://api.github.com/repos/ariejan/ariejan.pretty/{archive_format}{/ref}
+    archived: false
+    assignees_url: https://api.github.com/repos/ariejan/ariejan.pretty/assignees{/user}
+    blobs_url: https://api.github.com/repos/ariejan/ariejan.pretty/git/blobs{/sha}
+    branches_url: https://api.github.com/repos/ariejan/ariejan.pretty/branches{/branch}
+    clone_url: https://github.com/ariejan/ariejan.pretty.git
+    collaborators_url: https://api.github.com/repos/ariejan/ariejan.pretty/collaborators{/collaborator}
+    comments_url: https://api.github.com/repos/ariejan/ariejan.pretty/comments{/number}
+    commits_url: https://api.github.com/repos/ariejan/ariejan.pretty/commits{/sha}
+    compare_url: https://api.github.com/repos/ariejan/ariejan.pretty/compare/{base}...{head}
+    contents_url: https://api.github.com/repos/ariejan/ariejan.pretty/contents/{+path}
+    contributors_url: https://api.github.com/repos/ariejan/ariejan.pretty/contributors
+    created_at: '2015-03-12T19:10:48Z'
+    default_branch: master
+    deployments_url: https://api.github.com/repos/ariejan/ariejan.pretty/deployments
+    description: Personal Library of KiCAD Footprints
+    disabled: false
+    downloads_url: https://api.github.com/repos/ariejan/ariejan.pretty/downloads
+    events_url: https://api.github.com/repos/ariejan/ariejan.pretty/events
+    fork: false
+    forks: 0
+    forks_count: 0
+    forks_url: https://api.github.com/repos/ariejan/ariejan.pretty/forks
+    full_name: ariejan/ariejan.pretty
+    git_commits_url: https://api.github.com/repos/ariejan/ariejan.pretty/git/commits{/sha}
+    git_refs_url: https://api.github.com/repos/ariejan/ariejan.pretty/git/refs{/sha}
+    git_tags_url: https://api.github.com/repos/ariejan/ariejan.pretty/git/tags{/sha}
+    git_url: git://github.com/ariejan/ariejan.pretty.git
+    has_discussions: false
+    has_downloads: true
+    has_issues: true
+    has_pages: false
+    has_projects: true
+    has_wiki: true
+    homepage: ''
+    hooks_url: https://api.github.com/repos/ariejan/ariejan.pretty/hooks
+    html_url: https://github.com/ariejan/ariejan.pretty
+    id: 32096669
+    is_template: false
+    issue_comment_url: https://api.github.com/repos/ariejan/ariejan.pretty/issues/comments{/number}
+    issue_events_url: https://api.github.com/repos/ariejan/ariejan.pretty/issues/events{/number}
+    issues_url: https://api.github.com/repos/ariejan/ariejan.pretty/issues{/number}
+    keys_url: https://api.github.com/repos/ariejan/ariejan.pretty/keys{/key_id}
+    labels_url: https://api.github.com/repos/ariejan/ariejan.pretty/labels{/name}
+    language: null
+    languages_url: https://api.github.com/repos/ariejan/ariejan.pretty/languages
+    license: null
+    merges_url: https://api.github.com/repos/ariejan/ariejan.pretty/merges
+    milestones_url: https://api.github.com/repos/ariejan/ariejan.pretty/milestones{/number}
+    mirror_url: null
+    name: ariejan.pretty
+    network_count: 0
+    node_id: MDEwOlJlcG9zaXRvcnkzMjA5NjY2OQ==
+    notifications_url: https://api.github.com/repos/ariejan/ariejan.pretty/notifications{?since,all,participating}
+    open_issues: 0
+    open_issues_count: 0
+    owner:
+      avatar_url: https://avatars.githubusercontent.com/u/1913?v=4
+      events_url: https://api.github.com/users/ariejan/events{/privacy}
+      followers_url: https://api.github.com/users/ariejan/followers
+      following_url: https://api.github.com/users/ariejan/following{/other_user}
+      gists_url: https://api.github.com/users/ariejan/gists{/gist_id}
+      gravatar_id: ''
+      html_url: https://github.com/ariejan
+      id: 1913
+      login: ariejan
+      node_id: MDQ6VXNlcjE5MTM=
+      organizations_url: https://api.github.com/users/ariejan/orgs
+      received_events_url: https://api.github.com/users/ariejan/received_events
+      repos_url: https://api.github.com/users/ariejan/repos
+      site_admin: false
+      starred_url: https://api.github.com/users/ariejan/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/ariejan/subscriptions
+      type: User
+      url: https://api.github.com/users/ariejan
+    private: false
+    pulls_url: https://api.github.com/repos/ariejan/ariejan.pretty/pulls{/number}
+    pushed_at: '2015-11-03T10:28:21Z'
+    releases_url: https://api.github.com/repos/ariejan/ariejan.pretty/releases{/id}
+    size: 272
+    ssh_url: git@github.com:ariejan/ariejan.pretty.git
+    stargazers_count: 1
+    stargazers_url: https://api.github.com/repos/ariejan/ariejan.pretty/stargazers
+    statuses_url: https://api.github.com/repos/ariejan/ariejan.pretty/statuses/{sha}
+    subscribers_count: 2
+    subscribers_url: https://api.github.com/repos/ariejan/ariejan.pretty/subscribers
+    subscription_url: https://api.github.com/repos/ariejan/ariejan.pretty/subscription
+    svn_url: https://github.com/ariejan/ariejan.pretty
+    tags_url: https://api.github.com/repos/ariejan/ariejan.pretty/tags
+    teams_url: https://api.github.com/repos/ariejan/ariejan.pretty/teams
+    temp_clone_token: null
+    topics: []
+    trees_url: https://api.github.com/repos/ariejan/ariejan.pretty/git/trees{/sha}
+    updated_at: '2018-08-07T07:26:37Z'
+    url: https://api.github.com/repos/ariejan/ariejan.pretty
+    visibility: public
+    watchers: 1
+    watchers_count: 1
+    web_commit_signoff_required: false
   url: http://github.com/ariejan/ariejan.pretty

@@ -1,18 +1,20 @@
-- file: data//oomlout_oomp_footprint_src/kicad-open-modules/1473005-1.kicad_mod
+- file: data/oomlout_oomp_footprint_src/kicad-open-modules/1473005-1.kicad_mod
   footprint:
     description: null
     libraryLink: 1473005-1
     number_of_pads: 210
   footprint_library_directory: footprint_library_owner/brunoeagle_kicad-open-modules
-  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/brunoeagle_1473005_1_1473005_1/working
-  github_path: http://github.com/brunoeagle/kicad-open-modules/blob/master/tmp/data//oomlout_oomp_footprint_src/1473005-1.kicad_mod
+  footprint_library_directory_flat: tmp/data/oomlout_oomp_footprint_src/footprints_flat/brunoeagle_1473005_1_1473005_1/working
+  github_path: http://github.com/brunoeagle/kicad-open-modules/blob/master/tmp/data/oomlout_oomp_footprint_src/1473005-1.kicad_mod
   links:
-    github_src: http://gitlab.com/brunoeagle/kicad-open-modules/blob/master/tmp/data//oomlout_oomp_footprint_src/XH-2AW.kicad_mod
-    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
-    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/brunoeagle_1473005_1_1473005_1/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/brunoeagle_1473005_1_1473005_1/working
-    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/brunoeagle_1473005_1_1473005_1/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/brunoeagle_1473005_1_1473005_1/working
+    github_owner: brunoeagle
+    github_repo_name: kicad-open-modules
+    github_src: http://github.com/brunoeagle/kicad-open-modules/blob/master/tmp/data/oomlout_oomp_footprint_src/XH-2AW.kicad_mod
+    github_src_repo: https://github.com/brunoeagle/kicad-open-modules
+    oomp_bot: tmp/data/oomlout_oomp_footprint_src/footprints/brunoeagle_1473005_1_1473005_1/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/brunoeagle_1473005_1_1473005_1/working
+    oomp_src_flat: footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/brunoeagle_1473005_1_1473005_1/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/brunoeagle_1473005_1_1473005_1/working
   name: kicad-open-modules
   oomp:
     footprint_name: '1473005_1'
@@ -25,15 +27,111 @@
     oomp_key_extra: oomp_footprint_brunoeagle_1473005_1_1473005_1
     oomp_key_full: oomp_footprint_brunoeagle_1473005_1_1473005_1_b6c8ba
     oomp_key_simple: brunoeagle_1473005_1_1473005_1
-    original_filename: data//oomlout_oomp_footprint_src/kicad-open-modules/1473005-1.kicad_mod
+    original_filename: data/oomlout_oomp_footprint_src/kicad-open-modules/1473005-1.kicad_mod
     owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_1473005_1_1473005_1
   oomp_key_full: oomp_footprint_brunoeagle_1473005_1_1473005_1
   oomp_key_simple: brunoeagle_1473005_1_1473005_1
   owner: brunoeagle
   repo:
-    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
-    message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
-      Authenticated requests get a higher rate limit. Check out the documentation
-      for more details.)'
+    allow_forking: true
+    archive_url: https://api.github.com/repos/brunoeagle/kicad-open-modules/{archive_format}{/ref}
+    archived: false
+    assignees_url: https://api.github.com/repos/brunoeagle/kicad-open-modules/assignees{/user}
+    blobs_url: https://api.github.com/repos/brunoeagle/kicad-open-modules/git/blobs{/sha}
+    branches_url: https://api.github.com/repos/brunoeagle/kicad-open-modules/branches{/branch}
+    clone_url: https://github.com/brunoeagle/kicad-open-modules.git
+    collaborators_url: https://api.github.com/repos/brunoeagle/kicad-open-modules/collaborators{/collaborator}
+    comments_url: https://api.github.com/repos/brunoeagle/kicad-open-modules/comments{/number}
+    commits_url: https://api.github.com/repos/brunoeagle/kicad-open-modules/commits{/sha}
+    compare_url: https://api.github.com/repos/brunoeagle/kicad-open-modules/compare/{base}...{head}
+    contents_url: https://api.github.com/repos/brunoeagle/kicad-open-modules/contents/{+path}
+    contributors_url: https://api.github.com/repos/brunoeagle/kicad-open-modules/contributors
+    created_at: '2011-12-16T03:49:26Z'
+    default_branch: master
+    deployments_url: https://api.github.com/repos/brunoeagle/kicad-open-modules/deployments
+    description: Modules for kicad
+    disabled: false
+    downloads_url: https://api.github.com/repos/brunoeagle/kicad-open-modules/downloads
+    events_url: https://api.github.com/repos/brunoeagle/kicad-open-modules/events
+    fork: false
+    forks: 9
+    forks_count: 9
+    forks_url: https://api.github.com/repos/brunoeagle/kicad-open-modules/forks
+    full_name: brunoeagle/kicad-open-modules
+    git_commits_url: https://api.github.com/repos/brunoeagle/kicad-open-modules/git/commits{/sha}
+    git_refs_url: https://api.github.com/repos/brunoeagle/kicad-open-modules/git/refs{/sha}
+    git_tags_url: https://api.github.com/repos/brunoeagle/kicad-open-modules/git/tags{/sha}
+    git_url: git://github.com/brunoeagle/kicad-open-modules.git
+    has_discussions: false
+    has_downloads: true
+    has_issues: true
+    has_pages: false
+    has_projects: true
+    has_wiki: true
+    homepage: ''
+    hooks_url: https://api.github.com/repos/brunoeagle/kicad-open-modules/hooks
+    html_url: https://github.com/brunoeagle/kicad-open-modules
+    id: 2992480
+    is_template: false
+    issue_comment_url: https://api.github.com/repos/brunoeagle/kicad-open-modules/issues/comments{/number}
+    issue_events_url: https://api.github.com/repos/brunoeagle/kicad-open-modules/issues/events{/number}
+    issues_url: https://api.github.com/repos/brunoeagle/kicad-open-modules/issues{/number}
+    keys_url: https://api.github.com/repos/brunoeagle/kicad-open-modules/keys{/key_id}
+    labels_url: https://api.github.com/repos/brunoeagle/kicad-open-modules/labels{/name}
+    language: null
+    languages_url: https://api.github.com/repos/brunoeagle/kicad-open-modules/languages
+    license: null
+    merges_url: https://api.github.com/repos/brunoeagle/kicad-open-modules/merges
+    milestones_url: https://api.github.com/repos/brunoeagle/kicad-open-modules/milestones{/number}
+    mirror_url: null
+    name: kicad-open-modules
+    network_count: 9
+    node_id: MDEwOlJlcG9zaXRvcnkyOTkyNDgw
+    notifications_url: https://api.github.com/repos/brunoeagle/kicad-open-modules/notifications{?since,all,participating}
+    open_issues: 1
+    open_issues_count: 1
+    owner:
+      avatar_url: https://avatars.githubusercontent.com/u/566310?v=4
+      events_url: https://api.github.com/users/brunoeagle/events{/privacy}
+      followers_url: https://api.github.com/users/brunoeagle/followers
+      following_url: https://api.github.com/users/brunoeagle/following{/other_user}
+      gists_url: https://api.github.com/users/brunoeagle/gists{/gist_id}
+      gravatar_id: ''
+      html_url: https://github.com/brunoeagle
+      id: 566310
+      login: brunoeagle
+      node_id: MDQ6VXNlcjU2NjMxMA==
+      organizations_url: https://api.github.com/users/brunoeagle/orgs
+      received_events_url: https://api.github.com/users/brunoeagle/received_events
+      repos_url: https://api.github.com/users/brunoeagle/repos
+      site_admin: false
+      starred_url: https://api.github.com/users/brunoeagle/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/brunoeagle/subscriptions
+      type: User
+      url: https://api.github.com/users/brunoeagle
+    private: false
+    pulls_url: https://api.github.com/repos/brunoeagle/kicad-open-modules/pulls{/number}
+    pushed_at: '2022-07-04T03:22:17Z'
+    releases_url: https://api.github.com/repos/brunoeagle/kicad-open-modules/releases{/id}
+    size: 409
+    ssh_url: git@github.com:brunoeagle/kicad-open-modules.git
+    stargazers_count: 12
+    stargazers_url: https://api.github.com/repos/brunoeagle/kicad-open-modules/stargazers
+    statuses_url: https://api.github.com/repos/brunoeagle/kicad-open-modules/statuses/{sha}
+    subscribers_count: 4
+    subscribers_url: https://api.github.com/repos/brunoeagle/kicad-open-modules/subscribers
+    subscription_url: https://api.github.com/repos/brunoeagle/kicad-open-modules/subscription
+    svn_url: https://github.com/brunoeagle/kicad-open-modules
+    tags_url: https://api.github.com/repos/brunoeagle/kicad-open-modules/tags
+    teams_url: https://api.github.com/repos/brunoeagle/kicad-open-modules/teams
+    temp_clone_token: null
+    topics: []
+    trees_url: https://api.github.com/repos/brunoeagle/kicad-open-modules/git/trees{/sha}
+    updated_at: '2023-08-03T06:55:35Z'
+    url: https://api.github.com/repos/brunoeagle/kicad-open-modules
+    visibility: public
+    watchers: 12
+    watchers_count: 12
+    web_commit_signoff_required: false
   url: http://github.com/brunoeagle/kicad-open-modules

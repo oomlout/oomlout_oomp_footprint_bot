@@ -1,18 +1,20 @@
-- file: data//oomlout_oomp_footprint_src/acheron_MXO.pretty/MXO600R.kicad_mod
+- file: data/oomlout_oomp_footprint_src/acheron_MXO.pretty/MXO600R.kicad_mod
   footprint:
     description: null
     libraryLink: MXO600R
     number_of_pads: 4
   footprint_library_directory: footprint_library_owner/AcheronProject_acheron_MXO.pretty
-  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/acheronproject_acheron_mxo_mxo600r/working
-  github_path: http://github.com/AcheronProject/acheron_MXO.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/MXO600R.kicad_mod
+  footprint_library_directory_flat: tmp/data/oomlout_oomp_footprint_src/footprints_flat/acheronproject_acheron_mxo_mxo600r/working
+  github_path: http://github.com/AcheronProject/acheron_MXO.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/MXO600R.kicad_mod
   links:
-    github_src: http://gitlab.com/AcheronProject/acheron_MXO.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/MXO_ISOEnter_Horizontal_Reversed.kicad_mod
-    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
-    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/acheronproject_acheron_mxo_mxo600r/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/acheronproject_acheron_mxo_mxo600r/working
-    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/acheronproject_acheron_mxo_mxo600r/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/acheronproject_acheron_mxo_mxo600r/working
+    github_owner: AcheronProject
+    github_repo_name: acheron_MXO.pretty
+    github_src: http://github.com/AcheronProject/acheron_MXO.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/MXO_ISOEnter_Horizontal_Reversed.kicad_mod
+    github_src_repo: https://github.com/AcheronProject/acheron_MXO.pretty
+    oomp_bot: tmp/data/oomlout_oomp_footprint_src/footprints/acheronproject_acheron_mxo_mxo600r/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/acheronproject_acheron_mxo_mxo600r/working
+    oomp_src_flat: footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/acheronproject_acheron_mxo_mxo600r/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/acheronproject_acheron_mxo_mxo600r/working
   name: acheron_MXO.pretty
   oomp:
     footprint_name: mxo600r
@@ -25,15 +27,136 @@
     oomp_key_extra: oomp_footprint_acheronproject_acheron_mxo_mxo600r
     oomp_key_full: oomp_footprint_acheronproject_acheron_mxo_mxo600r_941ff3
     oomp_key_simple: acheronproject_acheron_mxo_mxo600r
-    original_filename: data//oomlout_oomp_footprint_src/acheron_MXO.pretty/MXO600R.kicad_mod
+    original_filename: data/oomlout_oomp_footprint_src/acheron_MXO.pretty/MXO600R.kicad_mod
     owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_mxo_mxo600r
   oomp_key_full: oomp_footprint_acheronproject_acheron_mxo_mxo600r
   oomp_key_simple: acheronproject_acheron_mxo_mxo600r
   owner: AcheronProject
   repo:
-    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
-    message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
-      Authenticated requests get a higher rate limit. Check out the documentation
-      for more details.)'
+    allow_forking: true
+    archive_url: https://api.github.com/repos/AcheronProject/acheron_MXO.pretty/{archive_format}{/ref}
+    archived: false
+    assignees_url: https://api.github.com/repos/AcheronProject/acheron_MXO.pretty/assignees{/user}
+    blobs_url: https://api.github.com/repos/AcheronProject/acheron_MXO.pretty/git/blobs{/sha}
+    branches_url: https://api.github.com/repos/AcheronProject/acheron_MXO.pretty/branches{/branch}
+    clone_url: https://github.com/AcheronProject/acheron_MXO.pretty.git
+    collaborators_url: https://api.github.com/repos/AcheronProject/acheron_MXO.pretty/collaborators{/collaborator}
+    comments_url: https://api.github.com/repos/AcheronProject/acheron_MXO.pretty/comments{/number}
+    commits_url: https://api.github.com/repos/AcheronProject/acheron_MXO.pretty/commits{/sha}
+    compare_url: https://api.github.com/repos/AcheronProject/acheron_MXO.pretty/compare/{base}...{head}
+    contents_url: https://api.github.com/repos/AcheronProject/acheron_MXO.pretty/contents/{+path}
+    contributors_url: https://api.github.com/repos/AcheronProject/acheron_MXO.pretty/contributors
+    created_at: '2022-02-19T22:17:19Z'
+    default_branch: main
+    deployments_url: https://api.github.com/repos/AcheronProject/acheron_MXO.pretty/deployments
+    description: Acheron Project's KiCAD library for MX-compatible optical switch
+      footprints
+    disabled: false
+    downloads_url: https://api.github.com/repos/AcheronProject/acheron_MXO.pretty/downloads
+    events_url: https://api.github.com/repos/AcheronProject/acheron_MXO.pretty/events
+    fork: false
+    forks: 0
+    forks_count: 0
+    forks_url: https://api.github.com/repos/AcheronProject/acheron_MXO.pretty/forks
+    full_name: AcheronProject/acheron_MXO.pretty
+    git_commits_url: https://api.github.com/repos/AcheronProject/acheron_MXO.pretty/git/commits{/sha}
+    git_refs_url: https://api.github.com/repos/AcheronProject/acheron_MXO.pretty/git/refs{/sha}
+    git_tags_url: https://api.github.com/repos/AcheronProject/acheron_MXO.pretty/git/tags{/sha}
+    git_url: git://github.com/AcheronProject/acheron_MXO.pretty.git
+    has_discussions: false
+    has_downloads: true
+    has_issues: true
+    has_pages: false
+    has_projects: true
+    has_wiki: true
+    homepage: null
+    hooks_url: https://api.github.com/repos/AcheronProject/acheron_MXO.pretty/hooks
+    html_url: https://github.com/AcheronProject/acheron_MXO.pretty
+    id: 461326513
+    is_template: false
+    issue_comment_url: https://api.github.com/repos/AcheronProject/acheron_MXO.pretty/issues/comments{/number}
+    issue_events_url: https://api.github.com/repos/AcheronProject/acheron_MXO.pretty/issues/events{/number}
+    issues_url: https://api.github.com/repos/AcheronProject/acheron_MXO.pretty/issues{/number}
+    keys_url: https://api.github.com/repos/AcheronProject/acheron_MXO.pretty/keys{/key_id}
+    labels_url: https://api.github.com/repos/AcheronProject/acheron_MXO.pretty/labels{/name}
+    language: null
+    languages_url: https://api.github.com/repos/AcheronProject/acheron_MXO.pretty/languages
+    license:
+      key: other
+      name: Other
+      node_id: MDc6TGljZW5zZTA=
+      spdx_id: NOASSERTION
+      url: null
+    merges_url: https://api.github.com/repos/AcheronProject/acheron_MXO.pretty/merges
+    milestones_url: https://api.github.com/repos/AcheronProject/acheron_MXO.pretty/milestones{/number}
+    mirror_url: null
+    name: acheron_MXO.pretty
+    network_count: 0
+    node_id: R_kgDOG39IsQ
+    notifications_url: https://api.github.com/repos/AcheronProject/acheron_MXO.pretty/notifications{?since,all,participating}
+    open_issues: 0
+    open_issues_count: 0
+    organization:
+      avatar_url: https://avatars.githubusercontent.com/u/63755935?v=4
+      events_url: https://api.github.com/users/AcheronProject/events{/privacy}
+      followers_url: https://api.github.com/users/AcheronProject/followers
+      following_url: https://api.github.com/users/AcheronProject/following{/other_user}
+      gists_url: https://api.github.com/users/AcheronProject/gists{/gist_id}
+      gravatar_id: ''
+      html_url: https://github.com/AcheronProject
+      id: 63755935
+      login: AcheronProject
+      node_id: MDEyOk9yZ2FuaXphdGlvbjYzNzU1OTM1
+      organizations_url: https://api.github.com/users/AcheronProject/orgs
+      received_events_url: https://api.github.com/users/AcheronProject/received_events
+      repos_url: https://api.github.com/users/AcheronProject/repos
+      site_admin: false
+      starred_url: https://api.github.com/users/AcheronProject/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/AcheronProject/subscriptions
+      type: Organization
+      url: https://api.github.com/users/AcheronProject
+    owner:
+      avatar_url: https://avatars.githubusercontent.com/u/63755935?v=4
+      events_url: https://api.github.com/users/AcheronProject/events{/privacy}
+      followers_url: https://api.github.com/users/AcheronProject/followers
+      following_url: https://api.github.com/users/AcheronProject/following{/other_user}
+      gists_url: https://api.github.com/users/AcheronProject/gists{/gist_id}
+      gravatar_id: ''
+      html_url: https://github.com/AcheronProject
+      id: 63755935
+      login: AcheronProject
+      node_id: MDEyOk9yZ2FuaXphdGlvbjYzNzU1OTM1
+      organizations_url: https://api.github.com/users/AcheronProject/orgs
+      received_events_url: https://api.github.com/users/AcheronProject/received_events
+      repos_url: https://api.github.com/users/AcheronProject/repos
+      site_admin: false
+      starred_url: https://api.github.com/users/AcheronProject/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/AcheronProject/subscriptions
+      type: Organization
+      url: https://api.github.com/users/AcheronProject
+    private: false
+    pulls_url: https://api.github.com/repos/AcheronProject/acheron_MXO.pretty/pulls{/number}
+    pushed_at: '2022-02-19T22:17:42Z'
+    releases_url: https://api.github.com/repos/AcheronProject/acheron_MXO.pretty/releases{/id}
+    size: 76
+    ssh_url: git@github.com:AcheronProject/acheron_MXO.pretty.git
+    stargazers_count: 1
+    stargazers_url: https://api.github.com/repos/AcheronProject/acheron_MXO.pretty/stargazers
+    statuses_url: https://api.github.com/repos/AcheronProject/acheron_MXO.pretty/statuses/{sha}
+    subscribers_count: 1
+    subscribers_url: https://api.github.com/repos/AcheronProject/acheron_MXO.pretty/subscribers
+    subscription_url: https://api.github.com/repos/AcheronProject/acheron_MXO.pretty/subscription
+    svn_url: https://github.com/AcheronProject/acheron_MXO.pretty
+    tags_url: https://api.github.com/repos/AcheronProject/acheron_MXO.pretty/tags
+    teams_url: https://api.github.com/repos/AcheronProject/acheron_MXO.pretty/teams
+    temp_clone_token: null
+    topics: []
+    trees_url: https://api.github.com/repos/AcheronProject/acheron_MXO.pretty/git/trees{/sha}
+    updated_at: '2022-06-11T00:22:49Z'
+    url: https://api.github.com/repos/AcheronProject/acheron_MXO.pretty
+    visibility: public
+    watchers: 1
+    watchers_count: 1
+    web_commit_signoff_required: false
   url: http://github.com/AcheronProject/acheron_MXO.pretty
