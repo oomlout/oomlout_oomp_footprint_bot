@@ -1,0 +1,38 @@
+- file: data/oomlout_oomp_footprint_src/kicad-footprints/RF_Antenna.pretty/Pulse_W3000.kicad_mod
+  footprint:
+    description: Pulse Electronics W3000 tri-band antenna for GPS (1.575Ghz), 868Mhz
+      and 2.4Ghz ISM bands, https://productfinder.pulseeng.com/products/datasheets/W3000.pdf
+    libraryLink: Pulse_W3000
+    number_of_pads: 2
+  footprint_library_directory: footprint_library_owner/kicad-legacy_kicad-footprints
+  footprint_library_directory_flat: tmp/data/oomlout_oomp_footprint_src/footprints_flat/kicad_legacy_rf_antenna_pulse_w3000/working
+  github_path: http://github.com/kicad-legacy/kicad-footprints/blob/master/tmp/data/oomlout_oomp_footprint_src/RF_Antenna.pretty/Pulse_W3000.kicad_mod
+  links:
+    github_src: http://gitlab.com/kicad-legacy/kicad-footprints/blob/master/tmp/data/oomlout_oomp_footprint_src/Socket.pretty/Wells_648-0482211SA01.kicad_mod
+    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
+    oomp_bot: tmp/data/oomlout_oomp_footprint_src/footprints/kicad_legacy_rf_antenna_pulse_w3000/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/kicad_legacy_rf_antenna_pulse_w3000/working
+    oomp_src_flat: footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/kicad_legacy_rf_antenna_pulse_w3000/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/kicad_legacy_rf_antenna_pulse_w3000/working
+  name: kicad-footprints
+  oomp:
+    footprint_name: pulse_w3000
+    library_name: rf_antenna
+    md5: 9d71d6e1fc31b6d82a1bdfe2887e9794
+    md5_10: 9d71d6e1fc
+    md5_5: 9d71d
+    md5_6: 9d71d6
+    oomp_key: oomp_kicad_legacy_rf_antenna_pulse_w3000
+    oomp_key_extra: oomp_footprint_kicad_legacy_rf_antenna_pulse_w3000
+    oomp_key_full: oomp_footprint_kicad_legacy_rf_antenna_pulse_w3000_9d71d6
+    oomp_key_simple: kicad_legacy_rf_antenna_pulse_w3000
+    original_filename: data/oomlout_oomp_footprint_src/kicad-footprints/RF_Antenna.pretty/Pulse_W3000.kicad_mod
+    owner_name: kicad_legacy
+  oomp_key: oomp_kicad_legacy_rf_antenna_pulse_w3000
+  oomp_key_full: oomp_footprint_kicad_legacy_rf_antenna_pulse_w3000
+  oomp_key_simple: kicad_legacy_rf_antenna_pulse_w3000
+  owner: kicad-legacy
+  repo:
+    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
+    message: Not Found
+  url: http://github.com/kicad-legacy/kicad-footprints

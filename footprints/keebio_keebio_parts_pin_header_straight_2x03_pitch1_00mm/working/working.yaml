@@ -1,18 +1,20 @@
-- file: data//oomlout_oomp_footprint_src/Keebio-Parts.pretty/Pin_Header_Straight_2x03_Pitch1.00mm.kicad_mod
+- file: data/oomlout_oomp_footprint_src/Keebio-Parts.pretty/Pin_Header_Straight_2x03_Pitch1.00mm.kicad_mod
   footprint:
     description: Through hole straight pin header, 2x03, 1.00mm pitch, double rows
     libraryLink: Pin_Header_Straight_2x03_Pitch1.00mm
     number_of_pads: 6
   footprint_library_directory: footprint_library_owner/keebio_Keebio-Parts.pretty
-  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/keebio_keebio_parts_pin_header_straight_2x03_pitch1_00mm/working
-  github_path: http://github.com/keebio/Keebio-Parts.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Pin_Header_Straight_2x03_Pitch1.00mm.kicad_mod
+  footprint_library_directory_flat: tmp/data/oomlout_oomp_footprint_src/footprints_flat/keebio_keebio_parts_pin_header_straight_2x03_pitch1_00mm/working
+  github_path: http://github.com/keebio/Keebio-Parts.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/Pin_Header_Straight_2x03_Pitch1.00mm.kicad_mod
   links:
-    github_src: http://gitlab.com/keebio/Keebio-Parts.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/WS2812B.kicad_mod
-    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
-    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/keebio_keebio_parts_pin_header_straight_2x03_pitch1_00mm/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/keebio_keebio_parts_pin_header_straight_2x03_pitch1_00mm/working
-    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/keebio_keebio_parts_pin_header_straight_2x03_pitch1_00mm/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/keebio_keebio_parts_pin_header_straight_2x03_pitch1_00mm/working
+    github_owner: keebio
+    github_repo_name: Keebio-Parts.pretty
+    github_src: http://github.com/keebio/Keebio-Parts.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/WS2812B.kicad_mod
+    github_src_repo: https://github.com/keebio/Keebio-Parts.pretty
+    oomp_bot: tmp/data/oomlout_oomp_footprint_src/footprints/keebio_keebio_parts_pin_header_straight_2x03_pitch1_00mm/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/keebio_keebio_parts_pin_header_straight_2x03_pitch1_00mm/working
+    oomp_src_flat: footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/keebio_keebio_parts_pin_header_straight_2x03_pitch1_00mm/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/keebio_keebio_parts_pin_header_straight_2x03_pitch1_00mm/working
   name: Keebio-Parts.pretty
   oomp:
     footprint_name: pin_header_straight_2x03_pitch1_00mm
@@ -25,15 +27,135 @@
     oomp_key_extra: oomp_footprint_keebio_keebio_parts_pin_header_straight_2x03_pitch1_00mm
     oomp_key_full: oomp_footprint_keebio_keebio_parts_pin_header_straight_2x03_pitch1_00mm_839064
     oomp_key_simple: keebio_keebio_parts_pin_header_straight_2x03_pitch1_00mm
-    original_filename: data//oomlout_oomp_footprint_src/Keebio-Parts.pretty/Pin_Header_Straight_2x03_Pitch1.00mm.kicad_mod
+    original_filename: data/oomlout_oomp_footprint_src/Keebio-Parts.pretty/Pin_Header_Straight_2x03_Pitch1.00mm.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_pin_header_straight_2x03_pitch1_00mm
   oomp_key_full: oomp_footprint_keebio_keebio_parts_pin_header_straight_2x03_pitch1_00mm
   oomp_key_simple: keebio_keebio_parts_pin_header_straight_2x03_pitch1_00mm
   owner: keebio
   repo:
-    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
-    message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
-      Authenticated requests get a higher rate limit. Check out the documentation
-      for more details.)'
+    allow_forking: true
+    archive_url: https://api.github.com/repos/keebio/Keebio-Parts.pretty/{archive_format}{/ref}
+    archived: false
+    assignees_url: https://api.github.com/repos/keebio/Keebio-Parts.pretty/assignees{/user}
+    blobs_url: https://api.github.com/repos/keebio/Keebio-Parts.pretty/git/blobs{/sha}
+    branches_url: https://api.github.com/repos/keebio/Keebio-Parts.pretty/branches{/branch}
+    clone_url: https://github.com/keebio/Keebio-Parts.pretty.git
+    collaborators_url: https://api.github.com/repos/keebio/Keebio-Parts.pretty/collaborators{/collaborator}
+    comments_url: https://api.github.com/repos/keebio/Keebio-Parts.pretty/comments{/number}
+    commits_url: https://api.github.com/repos/keebio/Keebio-Parts.pretty/commits{/sha}
+    compare_url: https://api.github.com/repos/keebio/Keebio-Parts.pretty/compare/{base}...{head}
+    contents_url: https://api.github.com/repos/keebio/Keebio-Parts.pretty/contents/{+path}
+    contributors_url: https://api.github.com/repos/keebio/Keebio-Parts.pretty/contributors
+    created_at: '2018-01-05T01:45:08Z'
+    default_branch: master
+    deployments_url: https://api.github.com/repos/keebio/Keebio-Parts.pretty/deployments
+    description: Various KiCAD footprints for mechanical keyboard parts
+    disabled: false
+    downloads_url: https://api.github.com/repos/keebio/Keebio-Parts.pretty/downloads
+    events_url: https://api.github.com/repos/keebio/Keebio-Parts.pretty/events
+    fork: false
+    forks: 66
+    forks_count: 66
+    forks_url: https://api.github.com/repos/keebio/Keebio-Parts.pretty/forks
+    full_name: keebio/Keebio-Parts.pretty
+    git_commits_url: https://api.github.com/repos/keebio/Keebio-Parts.pretty/git/commits{/sha}
+    git_refs_url: https://api.github.com/repos/keebio/Keebio-Parts.pretty/git/refs{/sha}
+    git_tags_url: https://api.github.com/repos/keebio/Keebio-Parts.pretty/git/tags{/sha}
+    git_url: git://github.com/keebio/Keebio-Parts.pretty.git
+    has_discussions: false
+    has_downloads: true
+    has_issues: true
+    has_pages: false
+    has_projects: true
+    has_wiki: true
+    homepage: null
+    hooks_url: https://api.github.com/repos/keebio/Keebio-Parts.pretty/hooks
+    html_url: https://github.com/keebio/Keebio-Parts.pretty
+    id: 116326774
+    is_template: false
+    issue_comment_url: https://api.github.com/repos/keebio/Keebio-Parts.pretty/issues/comments{/number}
+    issue_events_url: https://api.github.com/repos/keebio/Keebio-Parts.pretty/issues/events{/number}
+    issues_url: https://api.github.com/repos/keebio/Keebio-Parts.pretty/issues{/number}
+    keys_url: https://api.github.com/repos/keebio/Keebio-Parts.pretty/keys{/key_id}
+    labels_url: https://api.github.com/repos/keebio/Keebio-Parts.pretty/labels{/name}
+    language: null
+    languages_url: https://api.github.com/repos/keebio/Keebio-Parts.pretty/languages
+    license:
+      key: mit
+      name: MIT License
+      node_id: MDc6TGljZW5zZTEz
+      spdx_id: MIT
+      url: https://api.github.com/licenses/mit
+    merges_url: https://api.github.com/repos/keebio/Keebio-Parts.pretty/merges
+    milestones_url: https://api.github.com/repos/keebio/Keebio-Parts.pretty/milestones{/number}
+    mirror_url: null
+    name: Keebio-Parts.pretty
+    network_count: 66
+    node_id: MDEwOlJlcG9zaXRvcnkxMTYzMjY3NzQ=
+    notifications_url: https://api.github.com/repos/keebio/Keebio-Parts.pretty/notifications{?since,all,participating}
+    open_issues: 2
+    open_issues_count: 2
+    organization:
+      avatar_url: https://avatars.githubusercontent.com/u/29069092?v=4
+      events_url: https://api.github.com/users/keebio/events{/privacy}
+      followers_url: https://api.github.com/users/keebio/followers
+      following_url: https://api.github.com/users/keebio/following{/other_user}
+      gists_url: https://api.github.com/users/keebio/gists{/gist_id}
+      gravatar_id: ''
+      html_url: https://github.com/keebio
+      id: 29069092
+      login: keebio
+      node_id: MDEyOk9yZ2FuaXphdGlvbjI5MDY5MDky
+      organizations_url: https://api.github.com/users/keebio/orgs
+      received_events_url: https://api.github.com/users/keebio/received_events
+      repos_url: https://api.github.com/users/keebio/repos
+      site_admin: false
+      starred_url: https://api.github.com/users/keebio/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/keebio/subscriptions
+      type: Organization
+      url: https://api.github.com/users/keebio
+    owner:
+      avatar_url: https://avatars.githubusercontent.com/u/29069092?v=4
+      events_url: https://api.github.com/users/keebio/events{/privacy}
+      followers_url: https://api.github.com/users/keebio/followers
+      following_url: https://api.github.com/users/keebio/following{/other_user}
+      gists_url: https://api.github.com/users/keebio/gists{/gist_id}
+      gravatar_id: ''
+      html_url: https://github.com/keebio
+      id: 29069092
+      login: keebio
+      node_id: MDEyOk9yZ2FuaXphdGlvbjI5MDY5MDky
+      organizations_url: https://api.github.com/users/keebio/orgs
+      received_events_url: https://api.github.com/users/keebio/received_events
+      repos_url: https://api.github.com/users/keebio/repos
+      site_admin: false
+      starred_url: https://api.github.com/users/keebio/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/keebio/subscriptions
+      type: Organization
+      url: https://api.github.com/users/keebio
+    private: false
+    pulls_url: https://api.github.com/repos/keebio/Keebio-Parts.pretty/pulls{/number}
+    pushed_at: '2022-08-13T00:03:14Z'
+    releases_url: https://api.github.com/repos/keebio/Keebio-Parts.pretty/releases{/id}
+    size: 886
+    ssh_url: git@github.com:keebio/Keebio-Parts.pretty.git
+    stargazers_count: 459
+    stargazers_url: https://api.github.com/repos/keebio/Keebio-Parts.pretty/stargazers
+    statuses_url: https://api.github.com/repos/keebio/Keebio-Parts.pretty/statuses/{sha}
+    subscribers_count: 8
+    subscribers_url: https://api.github.com/repos/keebio/Keebio-Parts.pretty/subscribers
+    subscription_url: https://api.github.com/repos/keebio/Keebio-Parts.pretty/subscription
+    svn_url: https://github.com/keebio/Keebio-Parts.pretty
+    tags_url: https://api.github.com/repos/keebio/Keebio-Parts.pretty/tags
+    teams_url: https://api.github.com/repos/keebio/Keebio-Parts.pretty/teams
+    temp_clone_token: null
+    topics: []
+    trees_url: https://api.github.com/repos/keebio/Keebio-Parts.pretty/git/trees{/sha}
+    updated_at: '2023-09-22T14:30:36Z'
+    url: https://api.github.com/repos/keebio/Keebio-Parts.pretty
+    visibility: public
+    watchers: 459
+    watchers_count: 459
+    web_commit_signoff_required: false
   url: http://github.com/keebio/Keebio-Parts.pretty
