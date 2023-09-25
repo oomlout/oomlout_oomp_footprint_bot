@@ -1,21 +1,21 @@
-- file: data//oomlout_oomp_footprint_src/rhais_connector-jack.pretty/BarrelJack_GCT_DCJ200-10-A_Horizontal.kicad_mod
+- file: data/oomlout_oomp_footprint_src/rhais_connector-jack.pretty/BarrelJack_GCT_DCJ200-10-A_Horizontal.kicad_mod
   footprint:
     description: Barrel jack connector (5.5 mm outer diameter, 2.05 inner diameter
       ), https://gct.co/files/drawings/dcj200-10.pdf
     libraryLink: BarrelJack_GCT_DCJ200-10-A_Horizontal
     number_of_pads: 3
   footprint_library_directory: footprint_library_owner/dragonmux_rhais_connector-jack.pretty
-  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/dragonmux_rhais_connector_jack_barreljack_gct_dcj200_10_a_horizontal/working
-  github_path: http://github.com/dragonmux/rhais_connector-jack.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/BarrelJack_GCT_DCJ200-10-A_Horizontal.kicad_mod
+  footprint_library_directory_flat: tmp/data/oomlout_oomp_footprint_src/footprints_flat/dragonmux_rhais_connector_jack_barreljack_gct_dcj200_10_a_horizontal/working
+  github_path: http://github.com/dragonmux/rhais_connector-jack.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/BarrelJack_GCT_DCJ200-10-A_Horizontal.kicad_mod
   links:
     github_owner: dragonmux
     github_repo_name: rhais_connector-jack.pretty
-    github_src: http://github.com/dragonmux/rhais_connector-jack.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/BarrelJack_GCT_DCJ200-10-A_Horizontal.kicad_mod
+    github_src: http://github.com/dragonmux/rhais_connector-jack.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/BarrelJack_GCT_DCJ200-10-A_Horizontal.kicad_mod
     github_src_repo: https://github.com/dragonmux/rhais_connector-jack.pretty
-    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/dragonmux_rhais_connector_jack_barreljack_gct_dcj200_10_a_horizontal/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/dragonmux_rhais_connector_jack_barreljack_gct_dcj200_10_a_horizontal/working
-    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/dragonmux_rhais_connector_jack_barreljack_gct_dcj200_10_a_horizontal/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/dragonmux_rhais_connector_jack_barreljack_gct_dcj200_10_a_horizontal/working
+    oomp_bot: tmp/data/oomlout_oomp_footprint_src/footprints/dragonmux_rhais_connector_jack_barreljack_gct_dcj200_10_a_horizontal/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/dragonmux_rhais_connector_jack_barreljack_gct_dcj200_10_a_horizontal/working
+    oomp_src_flat: footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/dragonmux_rhais_connector_jack_barreljack_gct_dcj200_10_a_horizontal/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/dragonmux_rhais_connector_jack_barreljack_gct_dcj200_10_a_horizontal/working
   name: rhais_connector-jack.pretty
   oomp:
     footprint_name: barreljack_gct_dcj200_10_a_horizontal
@@ -28,7 +28,7 @@
     oomp_key_extra: oomp_footprint_dragonmux_rhais_connector_jack_barreljack_gct_dcj200_10_a_horizontal
     oomp_key_full: oomp_footprint_dragonmux_rhais_connector_jack_barreljack_gct_dcj200_10_a_horizontal_f93bce
     oomp_key_simple: dragonmux_rhais_connector_jack_barreljack_gct_dcj200_10_a_horizontal
-    original_filename: data//oomlout_oomp_footprint_src/rhais_connector-jack.pretty/BarrelJack_GCT_DCJ200-10-A_Horizontal.kicad_mod
+    original_filename: data/oomlout_oomp_footprint_src/rhais_connector-jack.pretty/BarrelJack_GCT_DCJ200-10-A_Horizontal.kicad_mod
     owner_name: dragonmux
   oomp_key: oomp_dragonmux_rhais_connector_jack_barreljack_gct_dcj200_10_a_horizontal
   oomp_key_full: oomp_footprint_dragonmux_rhais_connector_jack_barreljack_gct_dcj200_10_a_horizontal

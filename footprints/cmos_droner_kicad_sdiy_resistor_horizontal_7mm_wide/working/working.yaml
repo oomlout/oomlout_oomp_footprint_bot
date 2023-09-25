@@ -1,18 +1,20 @@
-- file: data//oomlout_oomp_footprint_src/KiCAD-SDIY.pretty/resistor_horizontal-7mm--wide.kicad_mod
+- file: data/oomlout_oomp_footprint_src/KiCAD-SDIY.pretty/resistor_horizontal-7mm--wide.kicad_mod
   footprint:
     description: Resistor, Axial,  RM 7.62mm, 1/3W,
     libraryLink: Resistor_Horizontal_RM7mm_Wide
     number_of_pads: 2
   footprint_library_directory: footprint_library_owner/cmos-droner_KiCAD-SDIY.pretty
-  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/cmos_droner_kicad_sdiy_resistor_horizontal_7mm_wide/working
-  github_path: http://github.com/cmos-droner/KiCAD-SDIY.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/resistor_horizontal-7mm--wide.kicad_mod
+  footprint_library_directory_flat: tmp/data/oomlout_oomp_footprint_src/footprints_flat/cmos_droner_kicad_sdiy_resistor_horizontal_7mm_wide/working
+  github_path: http://github.com/cmos-droner/KiCAD-SDIY.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/resistor_horizontal-7mm--wide.kicad_mod
   links:
-    github_src: http://gitlab.com/cmos-droner/KiCAD-SDIY.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/resistor_horizontal-7mm--wide.kicad_mod
-    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
-    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/cmos_droner_kicad_sdiy_resistor_horizontal_7mm_wide/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/cmos_droner_kicad_sdiy_resistor_horizontal_7mm_wide/working
-    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/cmos_droner_kicad_sdiy_resistor_horizontal_7mm_wide/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/cmos_droner_kicad_sdiy_resistor_horizontal_7mm_wide/working
+    github_owner: cmos-droner
+    github_repo_name: KiCAD-SDIY.pretty
+    github_src: http://github.com/cmos-droner/KiCAD-SDIY.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/resistor_horizontal-7mm--wide.kicad_mod
+    github_src_repo: https://github.com/cmos-droner/KiCAD-SDIY.pretty
+    oomp_bot: tmp/data/oomlout_oomp_footprint_src/footprints/cmos_droner_kicad_sdiy_resistor_horizontal_7mm_wide/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/cmos_droner_kicad_sdiy_resistor_horizontal_7mm_wide/working
+    oomp_src_flat: footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/cmos_droner_kicad_sdiy_resistor_horizontal_7mm_wide/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/cmos_droner_kicad_sdiy_resistor_horizontal_7mm_wide/working
   name: KiCAD-SDIY.pretty
   oomp:
     footprint_name: resistor_horizontal_7mm_wide
@@ -25,15 +27,116 @@
     oomp_key_extra: oomp_footprint_cmos_droner_kicad_sdiy_resistor_horizontal_7mm_wide
     oomp_key_full: oomp_footprint_cmos_droner_kicad_sdiy_resistor_horizontal_7mm_wide_0cf1dd
     oomp_key_simple: cmos_droner_kicad_sdiy_resistor_horizontal_7mm_wide
-    original_filename: data//oomlout_oomp_footprint_src/KiCAD-SDIY.pretty/resistor_horizontal-7mm--wide.kicad_mod
+    original_filename: data/oomlout_oomp_footprint_src/KiCAD-SDIY.pretty/resistor_horizontal-7mm--wide.kicad_mod
     owner_name: cmos_droner
   oomp_key: oomp_cmos_droner_kicad_sdiy_resistor_horizontal_7mm_wide
   oomp_key_full: oomp_footprint_cmos_droner_kicad_sdiy_resistor_horizontal_7mm_wide
   oomp_key_simple: cmos_droner_kicad_sdiy_resistor_horizontal_7mm_wide
   owner: cmos-droner
   repo:
-    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
-    message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
-      Authenticated requests get a higher rate limit. Check out the documentation
-      for more details.)'
+    allow_forking: true
+    archive_url: https://api.github.com/repos/cmos-droner/KiCAD-SDIY.pretty/{archive_format}{/ref}
+    archived: false
+    assignees_url: https://api.github.com/repos/cmos-droner/KiCAD-SDIY.pretty/assignees{/user}
+    blobs_url: https://api.github.com/repos/cmos-droner/KiCAD-SDIY.pretty/git/blobs{/sha}
+    branches_url: https://api.github.com/repos/cmos-droner/KiCAD-SDIY.pretty/branches{/branch}
+    clone_url: https://github.com/cmos-droner/KiCAD-SDIY.pretty.git
+    collaborators_url: https://api.github.com/repos/cmos-droner/KiCAD-SDIY.pretty/collaborators{/collaborator}
+    comments_url: https://api.github.com/repos/cmos-droner/KiCAD-SDIY.pretty/comments{/number}
+    commits_url: https://api.github.com/repos/cmos-droner/KiCAD-SDIY.pretty/commits{/sha}
+    compare_url: https://api.github.com/repos/cmos-droner/KiCAD-SDIY.pretty/compare/{base}...{head}
+    contents_url: https://api.github.com/repos/cmos-droner/KiCAD-SDIY.pretty/contents/{+path}
+    contributors_url: https://api.github.com/repos/cmos-droner/KiCAD-SDIY.pretty/contributors
+    created_at: '2016-10-31T12:02:38Z'
+    default_branch: master
+    deployments_url: https://api.github.com/repos/cmos-droner/KiCAD-SDIY.pretty/deployments
+    description: KiCad files for SDIY-parts
+    disabled: false
+    downloads_url: https://api.github.com/repos/cmos-droner/KiCAD-SDIY.pretty/downloads
+    events_url: https://api.github.com/repos/cmos-droner/KiCAD-SDIY.pretty/events
+    fork: false
+    forks: 0
+    forks_count: 0
+    forks_url: https://api.github.com/repos/cmos-droner/KiCAD-SDIY.pretty/forks
+    full_name: cmos-droner/KiCAD-SDIY.pretty
+    git_commits_url: https://api.github.com/repos/cmos-droner/KiCAD-SDIY.pretty/git/commits{/sha}
+    git_refs_url: https://api.github.com/repos/cmos-droner/KiCAD-SDIY.pretty/git/refs{/sha}
+    git_tags_url: https://api.github.com/repos/cmos-droner/KiCAD-SDIY.pretty/git/tags{/sha}
+    git_url: git://github.com/cmos-droner/KiCAD-SDIY.pretty.git
+    has_discussions: false
+    has_downloads: true
+    has_issues: true
+    has_pages: false
+    has_projects: true
+    has_wiki: true
+    homepage: null
+    hooks_url: https://api.github.com/repos/cmos-droner/KiCAD-SDIY.pretty/hooks
+    html_url: https://github.com/cmos-droner/KiCAD-SDIY.pretty
+    id: 72432454
+    is_template: false
+    issue_comment_url: https://api.github.com/repos/cmos-droner/KiCAD-SDIY.pretty/issues/comments{/number}
+    issue_events_url: https://api.github.com/repos/cmos-droner/KiCAD-SDIY.pretty/issues/events{/number}
+    issues_url: https://api.github.com/repos/cmos-droner/KiCAD-SDIY.pretty/issues{/number}
+    keys_url: https://api.github.com/repos/cmos-droner/KiCAD-SDIY.pretty/keys{/key_id}
+    labels_url: https://api.github.com/repos/cmos-droner/KiCAD-SDIY.pretty/labels{/name}
+    language: null
+    languages_url: https://api.github.com/repos/cmos-droner/KiCAD-SDIY.pretty/languages
+    license:
+      key: gpl-3.0
+      name: GNU General Public License v3.0
+      node_id: MDc6TGljZW5zZTk=
+      spdx_id: GPL-3.0
+      url: https://api.github.com/licenses/gpl-3.0
+    merges_url: https://api.github.com/repos/cmos-droner/KiCAD-SDIY.pretty/merges
+    milestones_url: https://api.github.com/repos/cmos-droner/KiCAD-SDIY.pretty/milestones{/number}
+    mirror_url: null
+    name: KiCAD-SDIY.pretty
+    network_count: 0
+    node_id: MDEwOlJlcG9zaXRvcnk3MjQzMjQ1NA==
+    notifications_url: https://api.github.com/repos/cmos-droner/KiCAD-SDIY.pretty/notifications{?since,all,participating}
+    open_issues: 0
+    open_issues_count: 0
+    owner:
+      avatar_url: https://avatars.githubusercontent.com/u/36418055?v=4
+      events_url: https://api.github.com/users/cmos-droner/events{/privacy}
+      followers_url: https://api.github.com/users/cmos-droner/followers
+      following_url: https://api.github.com/users/cmos-droner/following{/other_user}
+      gists_url: https://api.github.com/users/cmos-droner/gists{/gist_id}
+      gravatar_id: ''
+      html_url: https://github.com/cmos-droner
+      id: 36418055
+      login: cmos-droner
+      node_id: MDQ6VXNlcjM2NDE4MDU1
+      organizations_url: https://api.github.com/users/cmos-droner/orgs
+      received_events_url: https://api.github.com/users/cmos-droner/received_events
+      repos_url: https://api.github.com/users/cmos-droner/repos
+      site_admin: false
+      starred_url: https://api.github.com/users/cmos-droner/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/cmos-droner/subscriptions
+      type: User
+      url: https://api.github.com/users/cmos-droner
+    private: false
+    pulls_url: https://api.github.com/repos/cmos-droner/KiCAD-SDIY.pretty/pulls{/number}
+    pushed_at: '2016-10-31T12:36:32Z'
+    releases_url: https://api.github.com/repos/cmos-droner/KiCAD-SDIY.pretty/releases{/id}
+    size: 16
+    ssh_url: git@github.com:cmos-droner/KiCAD-SDIY.pretty.git
+    stargazers_count: 0
+    stargazers_url: https://api.github.com/repos/cmos-droner/KiCAD-SDIY.pretty/stargazers
+    statuses_url: https://api.github.com/repos/cmos-droner/KiCAD-SDIY.pretty/statuses/{sha}
+    subscribers_count: 1
+    subscribers_url: https://api.github.com/repos/cmos-droner/KiCAD-SDIY.pretty/subscribers
+    subscription_url: https://api.github.com/repos/cmos-droner/KiCAD-SDIY.pretty/subscription
+    svn_url: https://github.com/cmos-droner/KiCAD-SDIY.pretty
+    tags_url: https://api.github.com/repos/cmos-droner/KiCAD-SDIY.pretty/tags
+    teams_url: https://api.github.com/repos/cmos-droner/KiCAD-SDIY.pretty/teams
+    temp_clone_token: null
+    topics: []
+    trees_url: https://api.github.com/repos/cmos-droner/KiCAD-SDIY.pretty/git/trees{/sha}
+    updated_at: '2018-02-12T17:46:00Z'
+    url: https://api.github.com/repos/cmos-droner/KiCAD-SDIY.pretty
+    visibility: public
+    watchers: 0
+    watchers_count: 0
+    web_commit_signoff_required: false
   url: http://github.com/cmos-droner/KiCAD-SDIY.pretty

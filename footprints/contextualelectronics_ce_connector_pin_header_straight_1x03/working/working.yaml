@@ -1,18 +1,20 @@
-- file: data//oomlout_oomp_footprint_src/CE_KiCadLib/Footprint/CE_Connector.pretty/Pin_Header_Straight_1x03.kicad_mod
+- file: data/oomlout_oomp_footprint_src/CE_KiCadLib/Footprint/CE_Connector.pretty/Pin_Header_Straight_1x03.kicad_mod
   footprint:
     description: Through hole pin header
     libraryLink: Pin_Header_Straight_1x03
     number_of_pads: 3
   footprint_library_directory: footprint_library_owner/ContextualElectronics_CE_KiCadLib
-  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/contextualelectronics_ce_connector_pin_header_straight_1x03/working
-  github_path: http://github.com/ContextualElectronics/CE_KiCadLib/blob/master/tmp/data//oomlout_oomp_footprint_src/Footprint/CE_Connector.pretty/Pin_Header_Straight_1x03.kicad_mod
+  footprint_library_directory_flat: tmp/data/oomlout_oomp_footprint_src/footprints_flat/contextualelectronics_ce_connector_pin_header_straight_1x03/working
+  github_path: http://github.com/ContextualElectronics/CE_KiCadLib/blob/master/tmp/data/oomlout_oomp_footprint_src/Footprint/CE_Connector.pretty/Pin_Header_Straight_1x03.kicad_mod
   links:
-    github_src: http://gitlab.com/ContextualElectronics/CE_KiCadLib/blob/master/tmp/data//oomlout_oomp_footprint_src/Footprint/CE_Switch.pretty/FSM2JSMAA-ND.kicad_mod
-    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
-    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/contextualelectronics_ce_connector_pin_header_straight_1x03/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/contextualelectronics_ce_connector_pin_header_straight_1x03/working
-    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/contextualelectronics_ce_connector_pin_header_straight_1x03/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/contextualelectronics_ce_connector_pin_header_straight_1x03/working
+    github_owner: ContextualElectronics
+    github_repo_name: CE_KiCadLib
+    github_src: http://github.com/ContextualElectronics/CE_KiCadLib/blob/master/tmp/data/oomlout_oomp_footprint_src/Footprint/CE_Switch.pretty/FSM2JSMAA-ND.kicad_mod
+    github_src_repo: https://github.com/ContextualElectronics/CE_KiCadLib
+    oomp_bot: tmp/data/oomlout_oomp_footprint_src/footprints/contextualelectronics_ce_connector_pin_header_straight_1x03/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/contextualelectronics_ce_connector_pin_header_straight_1x03/working
+    oomp_src_flat: footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/contextualelectronics_ce_connector_pin_header_straight_1x03/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/contextualelectronics_ce_connector_pin_header_straight_1x03/working
   name: CE_KiCadLib
   oomp:
     footprint_name: pin_header_straight_1x03
@@ -25,15 +27,131 @@
     oomp_key_extra: oomp_footprint_contextualelectronics_ce_connector_pin_header_straight_1x03
     oomp_key_full: oomp_footprint_contextualelectronics_ce_connector_pin_header_straight_1x03_b5dd44
     oomp_key_simple: contextualelectronics_ce_connector_pin_header_straight_1x03
-    original_filename: data//oomlout_oomp_footprint_src/CE_KiCadLib/Footprint/CE_Connector.pretty/Pin_Header_Straight_1x03.kicad_mod
+    original_filename: data/oomlout_oomp_footprint_src/CE_KiCadLib/Footprint/CE_Connector.pretty/Pin_Header_Straight_1x03.kicad_mod
     owner_name: contextualelectronics
   oomp_key: oomp_contextualelectronics_ce_connector_pin_header_straight_1x03
   oomp_key_full: oomp_footprint_contextualelectronics_ce_connector_pin_header_straight_1x03
   oomp_key_simple: contextualelectronics_ce_connector_pin_header_straight_1x03
   owner: ContextualElectronics
   repo:
-    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
-    message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
-      Authenticated requests get a higher rate limit. Check out the documentation
-      for more details.)'
+    allow_forking: true
+    archive_url: https://api.github.com/repos/ContextualElectronics/CE_KiCadLib/{archive_format}{/ref}
+    archived: false
+    assignees_url: https://api.github.com/repos/ContextualElectronics/CE_KiCadLib/assignees{/user}
+    blobs_url: https://api.github.com/repos/ContextualElectronics/CE_KiCadLib/git/blobs{/sha}
+    branches_url: https://api.github.com/repos/ContextualElectronics/CE_KiCadLib/branches{/branch}
+    clone_url: https://github.com/ContextualElectronics/CE_KiCadLib.git
+    collaborators_url: https://api.github.com/repos/ContextualElectronics/CE_KiCadLib/collaborators{/collaborator}
+    comments_url: https://api.github.com/repos/ContextualElectronics/CE_KiCadLib/comments{/number}
+    commits_url: https://api.github.com/repos/ContextualElectronics/CE_KiCadLib/commits{/sha}
+    compare_url: https://api.github.com/repos/ContextualElectronics/CE_KiCadLib/compare/{base}...{head}
+    contents_url: https://api.github.com/repos/ContextualElectronics/CE_KiCadLib/contents/{+path}
+    contributors_url: https://api.github.com/repos/ContextualElectronics/CE_KiCadLib/contributors
+    created_at: '2016-07-29T15:11:00Z'
+    default_branch: master
+    deployments_url: https://api.github.com/repos/ContextualElectronics/CE_KiCadLib/deployments
+    description: Contextual Electronics Official KiCad schematic components, footprints,
+      3D models and templates
+    disabled: false
+    downloads_url: https://api.github.com/repos/ContextualElectronics/CE_KiCadLib/downloads
+    events_url: https://api.github.com/repos/ContextualElectronics/CE_KiCadLib/events
+    fork: false
+    forks: 0
+    forks_count: 0
+    forks_url: https://api.github.com/repos/ContextualElectronics/CE_KiCadLib/forks
+    full_name: ContextualElectronics/CE_KiCadLib
+    git_commits_url: https://api.github.com/repos/ContextualElectronics/CE_KiCadLib/git/commits{/sha}
+    git_refs_url: https://api.github.com/repos/ContextualElectronics/CE_KiCadLib/git/refs{/sha}
+    git_tags_url: https://api.github.com/repos/ContextualElectronics/CE_KiCadLib/git/tags{/sha}
+    git_url: git://github.com/ContextualElectronics/CE_KiCadLib.git
+    has_discussions: false
+    has_downloads: true
+    has_issues: true
+    has_pages: false
+    has_projects: true
+    has_wiki: true
+    homepage: https://contextualelectronics.com/
+    hooks_url: https://api.github.com/repos/ContextualElectronics/CE_KiCadLib/hooks
+    html_url: https://github.com/ContextualElectronics/CE_KiCadLib
+    id: 64489761
+    is_template: false
+    issue_comment_url: https://api.github.com/repos/ContextualElectronics/CE_KiCadLib/issues/comments{/number}
+    issue_events_url: https://api.github.com/repos/ContextualElectronics/CE_KiCadLib/issues/events{/number}
+    issues_url: https://api.github.com/repos/ContextualElectronics/CE_KiCadLib/issues{/number}
+    keys_url: https://api.github.com/repos/ContextualElectronics/CE_KiCadLib/keys{/key_id}
+    labels_url: https://api.github.com/repos/ContextualElectronics/CE_KiCadLib/labels{/name}
+    language: null
+    languages_url: https://api.github.com/repos/ContextualElectronics/CE_KiCadLib/languages
+    license: null
+    merges_url: https://api.github.com/repos/ContextualElectronics/CE_KiCadLib/merges
+    milestones_url: https://api.github.com/repos/ContextualElectronics/CE_KiCadLib/milestones{/number}
+    mirror_url: null
+    name: CE_KiCadLib
+    network_count: 0
+    node_id: MDEwOlJlcG9zaXRvcnk2NDQ4OTc2MQ==
+    notifications_url: https://api.github.com/repos/ContextualElectronics/CE_KiCadLib/notifications{?since,all,participating}
+    open_issues: 0
+    open_issues_count: 0
+    organization:
+      avatar_url: https://avatars.githubusercontent.com/u/5359486?v=4
+      events_url: https://api.github.com/users/ContextualElectronics/events{/privacy}
+      followers_url: https://api.github.com/users/ContextualElectronics/followers
+      following_url: https://api.github.com/users/ContextualElectronics/following{/other_user}
+      gists_url: https://api.github.com/users/ContextualElectronics/gists{/gist_id}
+      gravatar_id: ''
+      html_url: https://github.com/ContextualElectronics
+      id: 5359486
+      login: ContextualElectronics
+      node_id: MDEyOk9yZ2FuaXphdGlvbjUzNTk0ODY=
+      organizations_url: https://api.github.com/users/ContextualElectronics/orgs
+      received_events_url: https://api.github.com/users/ContextualElectronics/received_events
+      repos_url: https://api.github.com/users/ContextualElectronics/repos
+      site_admin: false
+      starred_url: https://api.github.com/users/ContextualElectronics/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/ContextualElectronics/subscriptions
+      type: Organization
+      url: https://api.github.com/users/ContextualElectronics
+    owner:
+      avatar_url: https://avatars.githubusercontent.com/u/5359486?v=4
+      events_url: https://api.github.com/users/ContextualElectronics/events{/privacy}
+      followers_url: https://api.github.com/users/ContextualElectronics/followers
+      following_url: https://api.github.com/users/ContextualElectronics/following{/other_user}
+      gists_url: https://api.github.com/users/ContextualElectronics/gists{/gist_id}
+      gravatar_id: ''
+      html_url: https://github.com/ContextualElectronics
+      id: 5359486
+      login: ContextualElectronics
+      node_id: MDEyOk9yZ2FuaXphdGlvbjUzNTk0ODY=
+      organizations_url: https://api.github.com/users/ContextualElectronics/orgs
+      received_events_url: https://api.github.com/users/ContextualElectronics/received_events
+      repos_url: https://api.github.com/users/ContextualElectronics/repos
+      site_admin: false
+      starred_url: https://api.github.com/users/ContextualElectronics/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/ContextualElectronics/subscriptions
+      type: Organization
+      url: https://api.github.com/users/ContextualElectronics
+    private: false
+    pulls_url: https://api.github.com/repos/ContextualElectronics/CE_KiCadLib/pulls{/number}
+    pushed_at: '2016-10-12T14:12:00Z'
+    releases_url: https://api.github.com/repos/ContextualElectronics/CE_KiCadLib/releases{/id}
+    size: 330
+    ssh_url: git@github.com:ContextualElectronics/CE_KiCadLib.git
+    stargazers_count: 6
+    stargazers_url: https://api.github.com/repos/ContextualElectronics/CE_KiCadLib/stargazers
+    statuses_url: https://api.github.com/repos/ContextualElectronics/CE_KiCadLib/statuses/{sha}
+    subscribers_count: 3
+    subscribers_url: https://api.github.com/repos/ContextualElectronics/CE_KiCadLib/subscribers
+    subscription_url: https://api.github.com/repos/ContextualElectronics/CE_KiCadLib/subscription
+    svn_url: https://github.com/ContextualElectronics/CE_KiCadLib
+    tags_url: https://api.github.com/repos/ContextualElectronics/CE_KiCadLib/tags
+    teams_url: https://api.github.com/repos/ContextualElectronics/CE_KiCadLib/teams
+    temp_clone_token: null
+    topics: []
+    trees_url: https://api.github.com/repos/ContextualElectronics/CE_KiCadLib/git/trees{/sha}
+    updated_at: '2018-12-21T08:07:24Z'
+    url: https://api.github.com/repos/ContextualElectronics/CE_KiCadLib
+    visibility: public
+    watchers: 6
+    watchers_count: 6
+    web_commit_signoff_required: false
   url: http://github.com/ContextualElectronics/CE_KiCadLib

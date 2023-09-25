@@ -1,20 +1,20 @@
-- file: data//oomlout_oomp_footprint_src/digikey-kicad-library/src/Source_Footprints/PinHeader_2x5_P2.54mm_Drill1.2mm.kicad_mod
+- file: data/oomlout_oomp_footprint_src/digikey-kicad-library/src/Source_Footprints/PinHeader_2x5_P2.54mm_Drill1.2mm.kicad_mod
   footprint:
     description: http://www.on-shore.com/wp-content/uploads/2015/09/302-sxxx.pdf
     libraryLink: PinHeader_2x5_P2.54mm_Drill1.2mm
     number_of_pads: 10
   footprint_library_directory: footprint_library_owner/digikey_digikey-kicad-library
-  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/digi_key_pinheader_2x5_p2_54mm_drill1_2mm_pinheader_2x5_p2_54mm_drill1_2mm/working
-  github_path: http://github.com/digikey/digikey-kicad-library/blob/master/tmp/data//oomlout_oomp_footprint_src/src/Source_Footprints/PinHeader_2x5_P2.54mm_Drill1.2mm.kicad_mod
+  footprint_library_directory_flat: tmp/data/oomlout_oomp_footprint_src/footprints_flat/digi_key_pinheader_2x5_p2_54mm_drill1_2mm_pinheader_2x5_p2_54mm_drill1_2mm/working
+  github_path: http://github.com/digikey/digikey-kicad-library/blob/master/tmp/data/oomlout_oomp_footprint_src/src/Source_Footprints/PinHeader_2x5_P2.54mm_Drill1.2mm.kicad_mod
   links:
     github_owner: Digi-Key
     github_repo_name: digikey-kicad-library
-    github_src: http://github.com/digikey/digikey-kicad-library/blob/master/tmp/data//oomlout_oomp_footprint_src/src/Source_Footprints/Zigbee_Module_MRF24J40MD.kicad_mod
+    github_src: http://github.com/digikey/digikey-kicad-library/blob/master/tmp/data/oomlout_oomp_footprint_src/src/Source_Footprints/Zigbee_Module_MRF24J40MD.kicad_mod
     github_src_repo: https://github.com/Digi-Key/digikey-kicad-library
-    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/digi_key_pinheader_2x5_p2_54mm_drill1_2mm_pinheader_2x5_p2_54mm_drill1_2mm/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/digi_key_pinheader_2x5_p2_54mm_drill1_2mm_pinheader_2x5_p2_54mm_drill1_2mm/working
-    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/digi_key_pinheader_2x5_p2_54mm_drill1_2mm_pinheader_2x5_p2_54mm_drill1_2mm/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/digi_key_pinheader_2x5_p2_54mm_drill1_2mm_pinheader_2x5_p2_54mm_drill1_2mm/working
+    oomp_bot: tmp/data/oomlout_oomp_footprint_src/footprints/digi_key_pinheader_2x5_p2_54mm_drill1_2mm_pinheader_2x5_p2_54mm_drill1_2mm/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/digi_key_pinheader_2x5_p2_54mm_drill1_2mm_pinheader_2x5_p2_54mm_drill1_2mm/working
+    oomp_src_flat: footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/digi_key_pinheader_2x5_p2_54mm_drill1_2mm_pinheader_2x5_p2_54mm_drill1_2mm/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/digi_key_pinheader_2x5_p2_54mm_drill1_2mm_pinheader_2x5_p2_54mm_drill1_2mm/working
   name: digikey-kicad-library
   oomp:
     footprint_name: pinheader_2x5_p2_54mm_drill1_2mm
@@ -27,7 +27,7 @@
     oomp_key_extra: oomp_footprint_digi_key_pinheader_2x5_p2_54mm_drill1_2mm_pinheader_2x5_p2_54mm_drill1_2mm
     oomp_key_full: oomp_footprint_digi_key_pinheader_2x5_p2_54mm_drill1_2mm_pinheader_2x5_p2_54mm_drill1_2mm_c4c8c6
     oomp_key_simple: digi_key_pinheader_2x5_p2_54mm_drill1_2mm_pinheader_2x5_p2_54mm_drill1_2mm
-    original_filename: data//oomlout_oomp_footprint_src/digikey-kicad-library/src/Source_Footprints/PinHeader_2x5_P2.54mm_Drill1.2mm.kicad_mod
+    original_filename: data/oomlout_oomp_footprint_src/digikey-kicad-library/src/Source_Footprints/PinHeader_2x5_P2.54mm_Drill1.2mm.kicad_mod
     owner_name: digi_key
   oomp_key: oomp_digi_key_pinheader_2x5_p2_54mm_drill1_2mm_pinheader_2x5_p2_54mm_drill1_2mm
   oomp_key_full: oomp_footprint_digi_key_pinheader_2x5_p2_54mm_drill1_2mm_pinheader_2x5_p2_54mm_drill1_2mm
@@ -94,8 +94,8 @@
     network_count: 332
     node_id: MDEwOlJlcG9zaXRvcnkxMTAwMjg1MzQ=
     notifications_url: https://api.github.com/repos/Digi-Key/digikey-kicad-library/notifications{?since,all,participating}
-    open_issues: 52
-    open_issues_count: 52
+    open_issues: 53
+    open_issues_count: 53
     organization:
       avatar_url: https://avatars.githubusercontent.com/u/23041789?v=4
       events_url: https://api.github.com/users/Digi-Key/events{/privacy}
@@ -140,7 +140,7 @@
     releases_url: https://api.github.com/repos/Digi-Key/digikey-kicad-library/releases{/id}
     size: 2487
     ssh_url: git@github.com:Digi-Key/digikey-kicad-library.git
-    stargazers_count: 1490
+    stargazers_count: 1491
     stargazers_url: https://api.github.com/repos/Digi-Key/digikey-kicad-library/stargazers
     statuses_url: https://api.github.com/repos/Digi-Key/digikey-kicad-library/statuses/{sha}
     subscribers_count: 110
@@ -152,10 +152,10 @@
     temp_clone_token: null
     topics: []
     trees_url: https://api.github.com/repos/Digi-Key/digikey-kicad-library/git/trees{/sha}
-    updated_at: '2023-09-19T15:38:52Z'
+    updated_at: '2023-09-23T14:52:23Z'
     url: https://api.github.com/repos/Digi-Key/digikey-kicad-library
     visibility: public
-    watchers: 1490
-    watchers_count: 1490
+    watchers: 1491
+    watchers_count: 1491
     web_commit_signoff_required: false
   url: http://github.com/digikey/digikey-kicad-library

@@ -1,21 +1,21 @@
-- file: data//oomlout_oomp_footprint_src/Custom_Footprints.pretty/SSOP-20_4.4x6.5mm_Pitch0.65mm_Round_Pads.kicad_mod
+- file: data/oomlout_oomp_footprint_src/Custom_Footprints.pretty/SSOP-20_4.4x6.5mm_Pitch0.65mm_Round_Pads.kicad_mod
   footprint:
     description: 'SSOP20: plastic shrink small outline package; 20 leads; body width
       4.4 mm; (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot266-1_po.pdf)'
     libraryLink: SSOP-20_4.4x6.5mm_Pitch0.65mm_Round_Pads
     number_of_pads: 20
   footprint_library_directory: footprint_library_owner/dchwebb_Custom_Footprints.pretty
-  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/dchwebb_custom_footprints_ssop_20_4_4x6_5mm_pitch0_65mm_round_pads/working
-  github_path: http://github.com/dchwebb/Custom_Footprints.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/SSOP-20_4.4x6.5mm_Pitch0.65mm_Round_Pads.kicad_mod
+  footprint_library_directory_flat: tmp/data/oomlout_oomp_footprint_src/footprints_flat/dchwebb_custom_footprints_ssop_20_4_4x6_5mm_pitch0_65mm_round_pads/working
+  github_path: http://github.com/dchwebb/Custom_Footprints.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/SSOP-20_4.4x6.5mm_Pitch0.65mm_Round_Pads.kicad_mod
   links:
     github_owner: dchwebb
     github_repo_name: Custom_Footprints.pretty
-    github_src: http://github.com/dchwebb/Custom_Footprints.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Wurth_2.4GHz_Filter_2.5mm_2.0mm.kicad_mod
+    github_src: http://github.com/dchwebb/Custom_Footprints.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/Wurth_2.4GHz_Filter_2.5mm_2.0mm.kicad_mod
     github_src_repo: https://github.com/dchwebb/Custom_Footprints.pretty
-    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/dchwebb_custom_footprints_ssop_20_4_4x6_5mm_pitch0_65mm_round_pads/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/dchwebb_custom_footprints_ssop_20_4_4x6_5mm_pitch0_65mm_round_pads/working
-    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/dchwebb_custom_footprints_ssop_20_4_4x6_5mm_pitch0_65mm_round_pads/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/dchwebb_custom_footprints_ssop_20_4_4x6_5mm_pitch0_65mm_round_pads/working
+    oomp_bot: tmp/data/oomlout_oomp_footprint_src/footprints/dchwebb_custom_footprints_ssop_20_4_4x6_5mm_pitch0_65mm_round_pads/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/dchwebb_custom_footprints_ssop_20_4_4x6_5mm_pitch0_65mm_round_pads/working
+    oomp_src_flat: footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/dchwebb_custom_footprints_ssop_20_4_4x6_5mm_pitch0_65mm_round_pads/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/dchwebb_custom_footprints_ssop_20_4_4x6_5mm_pitch0_65mm_round_pads/working
   name: Custom_Footprints.pretty
   oomp:
     footprint_name: ssop_20_4_4x6_5mm_pitch0_65mm_round_pads
@@ -28,7 +28,7 @@
     oomp_key_extra: oomp_footprint_dchwebb_custom_footprints_ssop_20_4_4x6_5mm_pitch0_65mm_round_pads
     oomp_key_full: oomp_footprint_dchwebb_custom_footprints_ssop_20_4_4x6_5mm_pitch0_65mm_round_pads_327b75
     oomp_key_simple: dchwebb_custom_footprints_ssop_20_4_4x6_5mm_pitch0_65mm_round_pads
-    original_filename: data//oomlout_oomp_footprint_src/Custom_Footprints.pretty/SSOP-20_4.4x6.5mm_Pitch0.65mm_Round_Pads.kicad_mod
+    original_filename: data/oomlout_oomp_footprint_src/Custom_Footprints.pretty/SSOP-20_4.4x6.5mm_Pitch0.65mm_Round_Pads.kicad_mod
     owner_name: dchwebb
   oomp_key: oomp_dchwebb_custom_footprints_ssop_20_4_4x6_5mm_pitch0_65mm_round_pads
   oomp_key_full: oomp_footprint_dchwebb_custom_footprints_ssop_20_4_4x6_5mm_pitch0_65mm_round_pads

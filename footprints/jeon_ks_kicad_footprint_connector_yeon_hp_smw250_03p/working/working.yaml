@@ -1,16 +1,18 @@
 - error: '''charmap'' codec can''t decode byte 0x90 in position 1338: character maps
     to <undefined>'
-  file: data//oomlout_oomp_footprint_src/Kicad_Footprint.pretty/CONNECTOR_YEON-HP_SMW250-03P.kicad_mod
+  file: data/oomlout_oomp_footprint_src/Kicad_Footprint.pretty/CONNECTOR_YEON-HP_SMW250-03P.kicad_mod
   footprint_library_directory: footprint_library_owner/JEON-KS_Kicad_Footprint.pretty
-  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/jeon_ks_kicad_footprint_connector_yeon_hp_smw250_03p/working
-  github_path: http://github.com/JEON-KS/Kicad_Footprint.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/CONNECTOR_YEON-HP_SMW250-03P.kicad_mod
+  footprint_library_directory_flat: tmp/data/oomlout_oomp_footprint_src/footprints_flat/jeon_ks_kicad_footprint_connector_yeon_hp_smw250_03p/working
+  github_path: http://github.com/JEON-KS/Kicad_Footprint.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/CONNECTOR_YEON-HP_SMW250-03P.kicad_mod
   links:
-    github_src: http://gitlab.com/JEON-KS/Kicad_Footprint.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/TVS_DIODE_5.0SMDJ_(DO-214AB).kicad_mod
-    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
-    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/jeon_ks_kicad_footprint_connector_yeon_hp_smw250_03p/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/jeon_ks_kicad_footprint_connector_yeon_hp_smw250_03p/working
-    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/jeon_ks_kicad_footprint_connector_yeon_hp_smw250_03p/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/jeon_ks_kicad_footprint_connector_yeon_hp_smw250_03p/working
+    github_owner: JEON-KS
+    github_repo_name: Kicad_Footprint.pretty
+    github_src: http://github.com/JEON-KS/Kicad_Footprint.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/TVS_DIODE_5.0SMDJ_(DO-214AB).kicad_mod
+    github_src_repo: https://github.com/JEON-KS/Kicad_Footprint.pretty
+    oomp_bot: tmp/data/oomlout_oomp_footprint_src/footprints/jeon_ks_kicad_footprint_connector_yeon_hp_smw250_03p/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/jeon_ks_kicad_footprint_connector_yeon_hp_smw250_03p/working
+    oomp_src_flat: footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/jeon_ks_kicad_footprint_connector_yeon_hp_smw250_03p/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/jeon_ks_kicad_footprint_connector_yeon_hp_smw250_03p/working
   name: Kicad_Footprint.pretty
   oomp:
     footprint_name: connector_yeon_hp_smw250_03p
@@ -23,15 +25,111 @@
     oomp_key_extra: oomp_footprint_jeon_ks_kicad_footprint_connector_yeon_hp_smw250_03p
     oomp_key_full: oomp_footprint_jeon_ks_kicad_footprint_connector_yeon_hp_smw250_03p_048643
     oomp_key_simple: jeon_ks_kicad_footprint_connector_yeon_hp_smw250_03p
-    original_filename: data//oomlout_oomp_footprint_src/Kicad_Footprint.pretty/CONNECTOR_YEON-HP_SMW250-03P.kicad_mod
+    original_filename: data/oomlout_oomp_footprint_src/Kicad_Footprint.pretty/CONNECTOR_YEON-HP_SMW250-03P.kicad_mod
     owner_name: jeon_ks
   oomp_key: oomp_jeon_ks_kicad_footprint_connector_yeon_hp_smw250_03p
   oomp_key_full: oomp_footprint_jeon_ks_kicad_footprint_connector_yeon_hp_smw250_03p
   oomp_key_simple: jeon_ks_kicad_footprint_connector_yeon_hp_smw250_03p
   owner: JEON-KS
   repo:
-    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
-    message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
-      Authenticated requests get a higher rate limit. Check out the documentation
-      for more details.)'
+    allow_forking: true
+    archive_url: https://api.github.com/repos/JEON-KS/Kicad_Footprint.pretty/{archive_format}{/ref}
+    archived: false
+    assignees_url: https://api.github.com/repos/JEON-KS/Kicad_Footprint.pretty/assignees{/user}
+    blobs_url: https://api.github.com/repos/JEON-KS/Kicad_Footprint.pretty/git/blobs{/sha}
+    branches_url: https://api.github.com/repos/JEON-KS/Kicad_Footprint.pretty/branches{/branch}
+    clone_url: https://github.com/JEON-KS/Kicad_Footprint.pretty.git
+    collaborators_url: https://api.github.com/repos/JEON-KS/Kicad_Footprint.pretty/collaborators{/collaborator}
+    comments_url: https://api.github.com/repos/JEON-KS/Kicad_Footprint.pretty/comments{/number}
+    commits_url: https://api.github.com/repos/JEON-KS/Kicad_Footprint.pretty/commits{/sha}
+    compare_url: https://api.github.com/repos/JEON-KS/Kicad_Footprint.pretty/compare/{base}...{head}
+    contents_url: https://api.github.com/repos/JEON-KS/Kicad_Footprint.pretty/contents/{+path}
+    contributors_url: https://api.github.com/repos/JEON-KS/Kicad_Footprint.pretty/contributors
+    created_at: '2022-07-04T08:52:27Z'
+    default_branch: main
+    deployments_url: https://api.github.com/repos/JEON-KS/Kicad_Footprint.pretty/deployments
+    description: null
+    disabled: false
+    downloads_url: https://api.github.com/repos/JEON-KS/Kicad_Footprint.pretty/downloads
+    events_url: https://api.github.com/repos/JEON-KS/Kicad_Footprint.pretty/events
+    fork: false
+    forks: 0
+    forks_count: 0
+    forks_url: https://api.github.com/repos/JEON-KS/Kicad_Footprint.pretty/forks
+    full_name: JEON-KS/Kicad_Footprint.pretty
+    git_commits_url: https://api.github.com/repos/JEON-KS/Kicad_Footprint.pretty/git/commits{/sha}
+    git_refs_url: https://api.github.com/repos/JEON-KS/Kicad_Footprint.pretty/git/refs{/sha}
+    git_tags_url: https://api.github.com/repos/JEON-KS/Kicad_Footprint.pretty/git/tags{/sha}
+    git_url: git://github.com/JEON-KS/Kicad_Footprint.pretty.git
+    has_discussions: false
+    has_downloads: true
+    has_issues: true
+    has_pages: false
+    has_projects: true
+    has_wiki: true
+    homepage: null
+    hooks_url: https://api.github.com/repos/JEON-KS/Kicad_Footprint.pretty/hooks
+    html_url: https://github.com/JEON-KS/Kicad_Footprint.pretty
+    id: 510282067
+    is_template: false
+    issue_comment_url: https://api.github.com/repos/JEON-KS/Kicad_Footprint.pretty/issues/comments{/number}
+    issue_events_url: https://api.github.com/repos/JEON-KS/Kicad_Footprint.pretty/issues/events{/number}
+    issues_url: https://api.github.com/repos/JEON-KS/Kicad_Footprint.pretty/issues{/number}
+    keys_url: https://api.github.com/repos/JEON-KS/Kicad_Footprint.pretty/keys{/key_id}
+    labels_url: https://api.github.com/repos/JEON-KS/Kicad_Footprint.pretty/labels{/name}
+    language: null
+    languages_url: https://api.github.com/repos/JEON-KS/Kicad_Footprint.pretty/languages
+    license: null
+    merges_url: https://api.github.com/repos/JEON-KS/Kicad_Footprint.pretty/merges
+    milestones_url: https://api.github.com/repos/JEON-KS/Kicad_Footprint.pretty/milestones{/number}
+    mirror_url: null
+    name: Kicad_Footprint.pretty
+    network_count: 0
+    node_id: R_kgDOHmpJUw
+    notifications_url: https://api.github.com/repos/JEON-KS/Kicad_Footprint.pretty/notifications{?since,all,participating}
+    open_issues: 0
+    open_issues_count: 0
+    owner:
+      avatar_url: https://avatars.githubusercontent.com/u/108606742?v=4
+      events_url: https://api.github.com/users/JEON-KS/events{/privacy}
+      followers_url: https://api.github.com/users/JEON-KS/followers
+      following_url: https://api.github.com/users/JEON-KS/following{/other_user}
+      gists_url: https://api.github.com/users/JEON-KS/gists{/gist_id}
+      gravatar_id: ''
+      html_url: https://github.com/JEON-KS
+      id: 108606742
+      login: JEON-KS
+      node_id: U_kgDOBnk1Fg
+      organizations_url: https://api.github.com/users/JEON-KS/orgs
+      received_events_url: https://api.github.com/users/JEON-KS/received_events
+      repos_url: https://api.github.com/users/JEON-KS/repos
+      site_admin: false
+      starred_url: https://api.github.com/users/JEON-KS/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/JEON-KS/subscriptions
+      type: User
+      url: https://api.github.com/users/JEON-KS
+    private: false
+    pulls_url: https://api.github.com/repos/JEON-KS/Kicad_Footprint.pretty/pulls{/number}
+    pushed_at: '2022-07-04T08:58:54Z'
+    releases_url: https://api.github.com/repos/JEON-KS/Kicad_Footprint.pretty/releases{/id}
+    size: 37
+    ssh_url: git@github.com:JEON-KS/Kicad_Footprint.pretty.git
+    stargazers_count: 0
+    stargazers_url: https://api.github.com/repos/JEON-KS/Kicad_Footprint.pretty/stargazers
+    statuses_url: https://api.github.com/repos/JEON-KS/Kicad_Footprint.pretty/statuses/{sha}
+    subscribers_count: 1
+    subscribers_url: https://api.github.com/repos/JEON-KS/Kicad_Footprint.pretty/subscribers
+    subscription_url: https://api.github.com/repos/JEON-KS/Kicad_Footprint.pretty/subscription
+    svn_url: https://github.com/JEON-KS/Kicad_Footprint.pretty
+    tags_url: https://api.github.com/repos/JEON-KS/Kicad_Footprint.pretty/tags
+    teams_url: https://api.github.com/repos/JEON-KS/Kicad_Footprint.pretty/teams
+    temp_clone_token: null
+    topics: []
+    trees_url: https://api.github.com/repos/JEON-KS/Kicad_Footprint.pretty/git/trees{/sha}
+    updated_at: '2022-07-04T13:19:28Z'
+    url: https://api.github.com/repos/JEON-KS/Kicad_Footprint.pretty
+    visibility: public
+    watchers: 0
+    watchers_count: 0
+    web_commit_signoff_required: false
   url: http://github.com/JEON-KS/Kicad_Footprint.pretty

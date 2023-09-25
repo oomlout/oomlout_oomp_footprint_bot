@@ -1,19 +1,19 @@
-- file: data//oomlout_oomp_footprint_src/gsg-kicad-lib/gsg-modules.pretty/JST_PH_S2B-PH-SM4-TB_02x2.00mm_Angled.kicad_mod
+- file: data/oomlout_oomp_footprint_src/gsg-kicad-lib/gsg-modules.pretty/JST_PH_S2B-PH-SM4-TB_02x2.00mm_Angled.kicad_mod
   footprint:
     description: 'JST PH series connector, S2B-PH-SM4-TB, side entry type, surface
       mount, Datasheet: http://www.jst-mfg.com/product/pdf/eng/ePH.pdf'
     libraryLink: JST_PH_S2B-PH-SM4-TB_02x2.00mm_Angled
     number_of_pads: 4
   footprint_library_directory: footprint_library_owner/greatscottgadgets_gsg-kicad-lib
-  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/greatscottgadgets_gsg_modules_jst_ph_s2b_ph_sm4_tb_02x2_00mm_angled/working
-  github_path: http://github.com/greatscottgadgets/gsg-kicad-lib/blob/master/tmp/data//oomlout_oomp_footprint_src/gsg-modules.pretty/JST_PH_S2B-PH-SM4-TB_02x2.00mm_Angled.kicad_mod
+  footprint_library_directory_flat: tmp/data/oomlout_oomp_footprint_src/footprints_flat/greatscottgadgets_gsg_modules_jst_ph_s2b_ph_sm4_tb_02x2_00mm_angled/working
+  github_path: http://github.com/greatscottgadgets/gsg-kicad-lib/blob/master/tmp/data/oomlout_oomp_footprint_src/gsg-modules.pretty/JST_PH_S2B-PH-SM4-TB_02x2.00mm_Angled.kicad_mod
   links:
-    github_src: http://gitlab.com/greatscottgadgets/gsg-kicad-lib/blob/master/tmp/data//oomlout_oomp_footprint_src/gsg-modules.pretty/XTAL5.0x3.2mm.kicad_mod
+    github_src: http://gitlab.com/greatscottgadgets/gsg-kicad-lib/blob/master/tmp/data/oomlout_oomp_footprint_src/gsg-modules.pretty/XTAL5.0x3.2mm.kicad_mod
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
-    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/greatscottgadgets_gsg_modules_jst_ph_s2b_ph_sm4_tb_02x2_00mm_angled/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/greatscottgadgets_gsg_modules_jst_ph_s2b_ph_sm4_tb_02x2_00mm_angled/working
-    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/greatscottgadgets_gsg_modules_jst_ph_s2b_ph_sm4_tb_02x2_00mm_angled/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/greatscottgadgets_gsg_modules_jst_ph_s2b_ph_sm4_tb_02x2_00mm_angled/working
+    oomp_bot: tmp/data/oomlout_oomp_footprint_src/footprints/greatscottgadgets_gsg_modules_jst_ph_s2b_ph_sm4_tb_02x2_00mm_angled/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/greatscottgadgets_gsg_modules_jst_ph_s2b_ph_sm4_tb_02x2_00mm_angled/working
+    oomp_src_flat: footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/greatscottgadgets_gsg_modules_jst_ph_s2b_ph_sm4_tb_02x2_00mm_angled/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/greatscottgadgets_gsg_modules_jst_ph_s2b_ph_sm4_tb_02x2_00mm_angled/working
   name: gsg-kicad-lib
   oomp:
     footprint_name: jst_ph_s2b_ph_sm4_tb_02x2_00mm_angled
@@ -26,7 +26,7 @@
     oomp_key_extra: oomp_footprint_greatscottgadgets_gsg_modules_jst_ph_s2b_ph_sm4_tb_02x2_00mm_angled
     oomp_key_full: oomp_footprint_greatscottgadgets_gsg_modules_jst_ph_s2b_ph_sm4_tb_02x2_00mm_angled_9883d4
     oomp_key_simple: greatscottgadgets_gsg_modules_jst_ph_s2b_ph_sm4_tb_02x2_00mm_angled
-    original_filename: data//oomlout_oomp_footprint_src/gsg-kicad-lib/gsg-modules.pretty/JST_PH_S2B-PH-SM4-TB_02x2.00mm_Angled.kicad_mod
+    original_filename: data/oomlout_oomp_footprint_src/gsg-kicad-lib/gsg-modules.pretty/JST_PH_S2B-PH-SM4-TB_02x2.00mm_Angled.kicad_mod
     owner_name: greatscottgadgets
   oomp_key: oomp_greatscottgadgets_gsg_modules_jst_ph_s2b_ph_sm4_tb_02x2_00mm_angled
   oomp_key_full: oomp_footprint_greatscottgadgets_gsg_modules_jst_ph_s2b_ph_sm4_tb_02x2_00mm_angled

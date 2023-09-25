@@ -1,18 +1,20 @@
-- file: data//oomlout_oomp_footprint_src/coddingtonbear-kicad-lib/coddingtonbear.pretty/FGPMMOPA6C.kicad_mod
+- file: data/oomlout_oomp_footprint_src/coddingtonbear-kicad-lib/coddingtonbear.pretty/FGPMMOPA6C.kicad_mod
   footprint:
     description: null
     libraryLink: FGPMMOPA6C
     number_of_pads: 13
   footprint_library_directory: footprint_library_owner/coddingtonbear_coddingtonbear-kicad-lib
-  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/coddingtonbear_coddingtonbear_fgpmmopa6c/working
-  github_path: http://github.com/coddingtonbear/coddingtonbear-kicad-lib/blob/master/tmp/data//oomlout_oomp_footprint_src/coddingtonbear.pretty/FGPMMOPA6C.kicad_mod
+  footprint_library_directory_flat: tmp/data/oomlout_oomp_footprint_src/footprints_flat/coddingtonbear_coddingtonbear_fgpmmopa6c/working
+  github_path: http://github.com/coddingtonbear/coddingtonbear-kicad-lib/blob/master/tmp/data/oomlout_oomp_footprint_src/coddingtonbear.pretty/FGPMMOPA6C.kicad_mod
   links:
-    github_src: http://gitlab.com/coddingtonbear/coddingtonbear-kicad-lib/blob/master/tmp/data//oomlout_oomp_footprint_src/coddingtonbear.pretty/USB_Thru_hole.kicad_mod
-    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
-    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/coddingtonbear_coddingtonbear_fgpmmopa6c/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/coddingtonbear_coddingtonbear_fgpmmopa6c/working
-    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/coddingtonbear_coddingtonbear_fgpmmopa6c/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/coddingtonbear_coddingtonbear_fgpmmopa6c/working
+    github_owner: coddingtonbear
+    github_repo_name: coddingtonbear-kicad-lib
+    github_src: http://github.com/coddingtonbear/coddingtonbear-kicad-lib/blob/master/tmp/data/oomlout_oomp_footprint_src/coddingtonbear.pretty/USB_Thru_hole.kicad_mod
+    github_src_repo: https://github.com/coddingtonbear/coddingtonbear-kicad-lib
+    oomp_bot: tmp/data/oomlout_oomp_footprint_src/footprints/coddingtonbear_coddingtonbear_fgpmmopa6c/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/coddingtonbear_coddingtonbear_fgpmmopa6c/working
+    oomp_src_flat: footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/coddingtonbear_coddingtonbear_fgpmmopa6c/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/coddingtonbear_coddingtonbear_fgpmmopa6c/working
   name: coddingtonbear-kicad-lib
   oomp:
     footprint_name: fgpmmopa6c
@@ -25,15 +27,111 @@
     oomp_key_extra: oomp_footprint_coddingtonbear_coddingtonbear_fgpmmopa6c
     oomp_key_full: oomp_footprint_coddingtonbear_coddingtonbear_fgpmmopa6c_f0dbfd
     oomp_key_simple: coddingtonbear_coddingtonbear_fgpmmopa6c
-    original_filename: data//oomlout_oomp_footprint_src/coddingtonbear-kicad-lib/coddingtonbear.pretty/FGPMMOPA6C.kicad_mod
+    original_filename: data/oomlout_oomp_footprint_src/coddingtonbear-kicad-lib/coddingtonbear.pretty/FGPMMOPA6C.kicad_mod
     owner_name: coddingtonbear
   oomp_key: oomp_coddingtonbear_coddingtonbear_fgpmmopa6c
   oomp_key_full: oomp_footprint_coddingtonbear_coddingtonbear_fgpmmopa6c
   oomp_key_simple: coddingtonbear_coddingtonbear_fgpmmopa6c
   owner: coddingtonbear
   repo:
-    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
-    message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
-      Authenticated requests get a higher rate limit. Check out the documentation
-      for more details.)'
+    allow_forking: true
+    archive_url: https://api.github.com/repos/coddingtonbear/coddingtonbear-kicad-lib/{archive_format}{/ref}
+    archived: false
+    assignees_url: https://api.github.com/repos/coddingtonbear/coddingtonbear-kicad-lib/assignees{/user}
+    blobs_url: https://api.github.com/repos/coddingtonbear/coddingtonbear-kicad-lib/git/blobs{/sha}
+    branches_url: https://api.github.com/repos/coddingtonbear/coddingtonbear-kicad-lib/branches{/branch}
+    clone_url: https://github.com/coddingtonbear/coddingtonbear-kicad-lib.git
+    collaborators_url: https://api.github.com/repos/coddingtonbear/coddingtonbear-kicad-lib/collaborators{/collaborator}
+    comments_url: https://api.github.com/repos/coddingtonbear/coddingtonbear-kicad-lib/comments{/number}
+    commits_url: https://api.github.com/repos/coddingtonbear/coddingtonbear-kicad-lib/commits{/sha}
+    compare_url: https://api.github.com/repos/coddingtonbear/coddingtonbear-kicad-lib/compare/{base}...{head}
+    contents_url: https://api.github.com/repos/coddingtonbear/coddingtonbear-kicad-lib/contents/{+path}
+    contributors_url: https://api.github.com/repos/coddingtonbear/coddingtonbear-kicad-lib/contributors
+    created_at: '2017-09-06T00:41:38Z'
+    default_branch: master
+    deployments_url: https://api.github.com/repos/coddingtonbear/coddingtonbear-kicad-lib/deployments
+    description: KiCad Footprints
+    disabled: false
+    downloads_url: https://api.github.com/repos/coddingtonbear/coddingtonbear-kicad-lib/downloads
+    events_url: https://api.github.com/repos/coddingtonbear/coddingtonbear-kicad-lib/events
+    fork: false
+    forks: 0
+    forks_count: 0
+    forks_url: https://api.github.com/repos/coddingtonbear/coddingtonbear-kicad-lib/forks
+    full_name: coddingtonbear/coddingtonbear-kicad-lib
+    git_commits_url: https://api.github.com/repos/coddingtonbear/coddingtonbear-kicad-lib/git/commits{/sha}
+    git_refs_url: https://api.github.com/repos/coddingtonbear/coddingtonbear-kicad-lib/git/refs{/sha}
+    git_tags_url: https://api.github.com/repos/coddingtonbear/coddingtonbear-kicad-lib/git/tags{/sha}
+    git_url: git://github.com/coddingtonbear/coddingtonbear-kicad-lib.git
+    has_discussions: false
+    has_downloads: true
+    has_issues: true
+    has_pages: false
+    has_projects: true
+    has_wiki: true
+    homepage: null
+    hooks_url: https://api.github.com/repos/coddingtonbear/coddingtonbear-kicad-lib/hooks
+    html_url: https://github.com/coddingtonbear/coddingtonbear-kicad-lib
+    id: 102544128
+    is_template: false
+    issue_comment_url: https://api.github.com/repos/coddingtonbear/coddingtonbear-kicad-lib/issues/comments{/number}
+    issue_events_url: https://api.github.com/repos/coddingtonbear/coddingtonbear-kicad-lib/issues/events{/number}
+    issues_url: https://api.github.com/repos/coddingtonbear/coddingtonbear-kicad-lib/issues{/number}
+    keys_url: https://api.github.com/repos/coddingtonbear/coddingtonbear-kicad-lib/keys{/key_id}
+    labels_url: https://api.github.com/repos/coddingtonbear/coddingtonbear-kicad-lib/labels{/name}
+    language: null
+    languages_url: https://api.github.com/repos/coddingtonbear/coddingtonbear-kicad-lib/languages
+    license: null
+    merges_url: https://api.github.com/repos/coddingtonbear/coddingtonbear-kicad-lib/merges
+    milestones_url: https://api.github.com/repos/coddingtonbear/coddingtonbear-kicad-lib/milestones{/number}
+    mirror_url: null
+    name: coddingtonbear-kicad-lib
+    network_count: 0
+    node_id: MDEwOlJlcG9zaXRvcnkxMDI1NDQxMjg=
+    notifications_url: https://api.github.com/repos/coddingtonbear/coddingtonbear-kicad-lib/notifications{?since,all,participating}
+    open_issues: 0
+    open_issues_count: 0
+    owner:
+      avatar_url: https://avatars.githubusercontent.com/u/527661?v=4
+      events_url: https://api.github.com/users/coddingtonbear/events{/privacy}
+      followers_url: https://api.github.com/users/coddingtonbear/followers
+      following_url: https://api.github.com/users/coddingtonbear/following{/other_user}
+      gists_url: https://api.github.com/users/coddingtonbear/gists{/gist_id}
+      gravatar_id: ''
+      html_url: https://github.com/coddingtonbear
+      id: 527661
+      login: coddingtonbear
+      node_id: MDQ6VXNlcjUyNzY2MQ==
+      organizations_url: https://api.github.com/users/coddingtonbear/orgs
+      received_events_url: https://api.github.com/users/coddingtonbear/received_events
+      repos_url: https://api.github.com/users/coddingtonbear/repos
+      site_admin: false
+      starred_url: https://api.github.com/users/coddingtonbear/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/coddingtonbear/subscriptions
+      type: User
+      url: https://api.github.com/users/coddingtonbear
+    private: false
+    pulls_url: https://api.github.com/repos/coddingtonbear/coddingtonbear-kicad-lib/pulls{/number}
+    pushed_at: '2019-02-23T04:10:06Z'
+    releases_url: https://api.github.com/repos/coddingtonbear/coddingtonbear-kicad-lib/releases{/id}
+    size: 72
+    ssh_url: git@github.com:coddingtonbear/coddingtonbear-kicad-lib.git
+    stargazers_count: 3
+    stargazers_url: https://api.github.com/repos/coddingtonbear/coddingtonbear-kicad-lib/stargazers
+    statuses_url: https://api.github.com/repos/coddingtonbear/coddingtonbear-kicad-lib/statuses/{sha}
+    subscribers_count: 1
+    subscribers_url: https://api.github.com/repos/coddingtonbear/coddingtonbear-kicad-lib/subscribers
+    subscription_url: https://api.github.com/repos/coddingtonbear/coddingtonbear-kicad-lib/subscription
+    svn_url: https://github.com/coddingtonbear/coddingtonbear-kicad-lib
+    tags_url: https://api.github.com/repos/coddingtonbear/coddingtonbear-kicad-lib/tags
+    teams_url: https://api.github.com/repos/coddingtonbear/coddingtonbear-kicad-lib/teams
+    temp_clone_token: null
+    topics: []
+    trees_url: https://api.github.com/repos/coddingtonbear/coddingtonbear-kicad-lib/git/trees{/sha}
+    updated_at: '2022-12-17T16:36:20Z'
+    url: https://api.github.com/repos/coddingtonbear/coddingtonbear-kicad-lib
+    visibility: public
+    watchers: 3
+    watchers_count: 3
+    web_commit_signoff_required: false
   url: http://github.com/coddingtonbear/coddingtonbear-kicad-lib

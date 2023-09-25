@@ -1,22 +1,22 @@
-- file: data//oomlout_oomp_footprint_src/donutbrary.pretty/AT90USB1286_TQFP_14mm.kicad_mod
+- file: data/oomlout_oomp_footprint_src/donutbrary.pretty/AT90USB1286_TQFP_14mm.kicad_mod
   footprint:
     description: 64-Lead Plastic Thin Quad Flatpack (PF) - 14x14x1 mm Body, 2.00 mm
       [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
     libraryLink: AT90USB1286_TQFP_14mm
     number_of_pads: 64
   footprint_library_directory: footprint_library_owner/DonutCables_donutbrary.pretty
-  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/donutcables_donutbrary_at90usb1286_tqfp_14mm/working
-  github_path: http://github.com/DonutCables/donutbrary.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/AT90USB1286_TQFP_14mm.kicad_mod
+  footprint_library_directory_flat: tmp/data/oomlout_oomp_footprint_src/footprints_flat/donutcables_donutbrary_at90usb1286_tqfp_14mm/working
+  github_path: http://github.com/DonutCables/donutbrary.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/AT90USB1286_TQFP_14mm.kicad_mod
   links:
     github_owner: DonutCables
     github_repo_name: donutbrary.pretty
-    github_src: http://github.com/DonutCables/donutbrary.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XIAO
+    github_src: http://github.com/DonutCables/donutbrary.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/XIAO
       QTPY RP2040.kicad_mod
     github_src_repo: https://github.com/DonutCables/donutbrary.pretty
-    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/donutcables_donutbrary_at90usb1286_tqfp_14mm/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/donutcables_donutbrary_at90usb1286_tqfp_14mm/working
-    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/donutcables_donutbrary_at90usb1286_tqfp_14mm/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/donutcables_donutbrary_at90usb1286_tqfp_14mm/working
+    oomp_bot: tmp/data/oomlout_oomp_footprint_src/footprints/donutcables_donutbrary_at90usb1286_tqfp_14mm/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/donutcables_donutbrary_at90usb1286_tqfp_14mm/working
+    oomp_src_flat: footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/donutcables_donutbrary_at90usb1286_tqfp_14mm/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/donutcables_donutbrary_at90usb1286_tqfp_14mm/working
   name: donutbrary.pretty
   oomp:
     footprint_name: at90usb1286_tqfp_14mm
@@ -29,7 +29,7 @@
     oomp_key_extra: oomp_footprint_donutcables_donutbrary_at90usb1286_tqfp_14mm
     oomp_key_full: oomp_footprint_donutcables_donutbrary_at90usb1286_tqfp_14mm_a15e12
     oomp_key_simple: donutcables_donutbrary_at90usb1286_tqfp_14mm
-    original_filename: data//oomlout_oomp_footprint_src/donutbrary.pretty/AT90USB1286_TQFP_14mm.kicad_mod
+    original_filename: data/oomlout_oomp_footprint_src/donutbrary.pretty/AT90USB1286_TQFP_14mm.kicad_mod
     owner_name: donutcables
   oomp_key: oomp_donutcables_donutbrary_at90usb1286_tqfp_14mm
   oomp_key_full: oomp_footprint_donutcables_donutbrary_at90usb1286_tqfp_14mm

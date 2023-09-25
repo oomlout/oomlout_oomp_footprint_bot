@@ -1,18 +1,20 @@
-- file: data//oomlout_oomp_footprint_src/kicad_arbitrary_pad_example/jolly_roger.kicad_mod
+- file: data/oomlout_oomp_footprint_src/kicad_arbitrary_pad_example/jolly_roger.kicad_mod
   footprint:
     description: null
     libraryLink: jolly_roger
     number_of_pads: 5
   footprint_library_directory: footprint_library_owner/Junes-PhD_kicad_arbitrary_pad_example
-  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/junes_phd_jolly_roger_jolly_roger/working
-  github_path: http://github.com/Junes-PhD/kicad_arbitrary_pad_example/blob/master/tmp/data//oomlout_oomp_footprint_src/jolly_roger.kicad_mod
+  footprint_library_directory_flat: tmp/data/oomlout_oomp_footprint_src/footprints_flat/junes_phd_jolly_roger_jolly_roger/working
+  github_path: http://github.com/Junes-PhD/kicad_arbitrary_pad_example/blob/master/tmp/data/oomlout_oomp_footprint_src/jolly_roger.kicad_mod
   links:
-    github_src: http://gitlab.com/Junes-PhD/kicad_arbitrary_pad_example/blob/master/tmp/data//oomlout_oomp_footprint_src/jolly_roger.kicad_mod
-    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
-    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/junes_phd_jolly_roger_jolly_roger/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/junes_phd_jolly_roger_jolly_roger/working
-    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/junes_phd_jolly_roger_jolly_roger/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/junes_phd_jolly_roger_jolly_roger/working
+    github_owner: Junes-PhD
+    github_repo_name: kicad_arbitrary_pad_example
+    github_src: http://github.com/Junes-PhD/kicad_arbitrary_pad_example/blob/master/tmp/data/oomlout_oomp_footprint_src/jolly_roger.kicad_mod
+    github_src_repo: https://github.com/Junes-PhD/kicad_arbitrary_pad_example
+    oomp_bot: tmp/data/oomlout_oomp_footprint_src/footprints/junes_phd_jolly_roger_jolly_roger/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/junes_phd_jolly_roger_jolly_roger/working
+    oomp_src_flat: footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/junes_phd_jolly_roger_jolly_roger/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/junes_phd_jolly_roger_jolly_roger/working
   name: kicad_arbitrary_pad_example
   oomp:
     footprint_name: jolly_roger
@@ -25,15 +27,116 @@
     oomp_key_extra: oomp_footprint_junes_phd_jolly_roger_jolly_roger
     oomp_key_full: oomp_footprint_junes_phd_jolly_roger_jolly_roger_985415
     oomp_key_simple: junes_phd_jolly_roger_jolly_roger
-    original_filename: data//oomlout_oomp_footprint_src/kicad_arbitrary_pad_example/jolly_roger.kicad_mod
+    original_filename: data/oomlout_oomp_footprint_src/kicad_arbitrary_pad_example/jolly_roger.kicad_mod
     owner_name: junes_phd
   oomp_key: oomp_junes_phd_jolly_roger_jolly_roger
   oomp_key_full: oomp_footprint_junes_phd_jolly_roger_jolly_roger
   oomp_key_simple: junes_phd_jolly_roger_jolly_roger
   owner: Junes-PhD
   repo:
-    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
-    message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
-      Authenticated requests get a higher rate limit. Check out the documentation
-      for more details.)'
+    allow_forking: true
+    archive_url: https://api.github.com/repos/Junes-PhD/kicad_arbitrary_pad_example/{archive_format}{/ref}
+    archived: false
+    assignees_url: https://api.github.com/repos/Junes-PhD/kicad_arbitrary_pad_example/assignees{/user}
+    blobs_url: https://api.github.com/repos/Junes-PhD/kicad_arbitrary_pad_example/git/blobs{/sha}
+    branches_url: https://api.github.com/repos/Junes-PhD/kicad_arbitrary_pad_example/branches{/branch}
+    clone_url: https://github.com/Junes-PhD/kicad_arbitrary_pad_example.git
+    collaborators_url: https://api.github.com/repos/Junes-PhD/kicad_arbitrary_pad_example/collaborators{/collaborator}
+    comments_url: https://api.github.com/repos/Junes-PhD/kicad_arbitrary_pad_example/comments{/number}
+    commits_url: https://api.github.com/repos/Junes-PhD/kicad_arbitrary_pad_example/commits{/sha}
+    compare_url: https://api.github.com/repos/Junes-PhD/kicad_arbitrary_pad_example/compare/{base}...{head}
+    contents_url: https://api.github.com/repos/Junes-PhD/kicad_arbitrary_pad_example/contents/{+path}
+    contributors_url: https://api.github.com/repos/Junes-PhD/kicad_arbitrary_pad_example/contributors
+    created_at: '2018-04-20T16:32:12Z'
+    default_branch: master
+    deployments_url: https://api.github.com/repos/Junes-PhD/kicad_arbitrary_pad_example/deployments
+    description: Using bitmap convert to create complex shaped footprints
+    disabled: false
+    downloads_url: https://api.github.com/repos/Junes-PhD/kicad_arbitrary_pad_example/downloads
+    events_url: https://api.github.com/repos/Junes-PhD/kicad_arbitrary_pad_example/events
+    fork: false
+    forks: 0
+    forks_count: 0
+    forks_url: https://api.github.com/repos/Junes-PhD/kicad_arbitrary_pad_example/forks
+    full_name: Junes-PhD/kicad_arbitrary_pad_example
+    git_commits_url: https://api.github.com/repos/Junes-PhD/kicad_arbitrary_pad_example/git/commits{/sha}
+    git_refs_url: https://api.github.com/repos/Junes-PhD/kicad_arbitrary_pad_example/git/refs{/sha}
+    git_tags_url: https://api.github.com/repos/Junes-PhD/kicad_arbitrary_pad_example/git/tags{/sha}
+    git_url: git://github.com/Junes-PhD/kicad_arbitrary_pad_example.git
+    has_discussions: false
+    has_downloads: true
+    has_issues: true
+    has_pages: false
+    has_projects: true
+    has_wiki: true
+    homepage: null
+    hooks_url: https://api.github.com/repos/Junes-PhD/kicad_arbitrary_pad_example/hooks
+    html_url: https://github.com/Junes-PhD/kicad_arbitrary_pad_example
+    id: 130388130
+    is_template: false
+    issue_comment_url: https://api.github.com/repos/Junes-PhD/kicad_arbitrary_pad_example/issues/comments{/number}
+    issue_events_url: https://api.github.com/repos/Junes-PhD/kicad_arbitrary_pad_example/issues/events{/number}
+    issues_url: https://api.github.com/repos/Junes-PhD/kicad_arbitrary_pad_example/issues{/number}
+    keys_url: https://api.github.com/repos/Junes-PhD/kicad_arbitrary_pad_example/keys{/key_id}
+    labels_url: https://api.github.com/repos/Junes-PhD/kicad_arbitrary_pad_example/labels{/name}
+    language: null
+    languages_url: https://api.github.com/repos/Junes-PhD/kicad_arbitrary_pad_example/languages
+    license:
+      key: mit
+      name: MIT License
+      node_id: MDc6TGljZW5zZTEz
+      spdx_id: MIT
+      url: https://api.github.com/licenses/mit
+    merges_url: https://api.github.com/repos/Junes-PhD/kicad_arbitrary_pad_example/merges
+    milestones_url: https://api.github.com/repos/Junes-PhD/kicad_arbitrary_pad_example/milestones{/number}
+    mirror_url: null
+    name: kicad_arbitrary_pad_example
+    network_count: 0
+    node_id: MDEwOlJlcG9zaXRvcnkxMzAzODgxMzA=
+    notifications_url: https://api.github.com/repos/Junes-PhD/kicad_arbitrary_pad_example/notifications{?since,all,participating}
+    open_issues: 0
+    open_issues_count: 0
+    owner:
+      avatar_url: https://avatars.githubusercontent.com/u/7798238?v=4
+      events_url: https://api.github.com/users/Junes-PhD/events{/privacy}
+      followers_url: https://api.github.com/users/Junes-PhD/followers
+      following_url: https://api.github.com/users/Junes-PhD/following{/other_user}
+      gists_url: https://api.github.com/users/Junes-PhD/gists{/gist_id}
+      gravatar_id: ''
+      html_url: https://github.com/Junes-PhD
+      id: 7798238
+      login: Junes-PhD
+      node_id: MDQ6VXNlcjc3OTgyMzg=
+      organizations_url: https://api.github.com/users/Junes-PhD/orgs
+      received_events_url: https://api.github.com/users/Junes-PhD/received_events
+      repos_url: https://api.github.com/users/Junes-PhD/repos
+      site_admin: false
+      starred_url: https://api.github.com/users/Junes-PhD/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/Junes-PhD/subscriptions
+      type: User
+      url: https://api.github.com/users/Junes-PhD
+    private: false
+    pulls_url: https://api.github.com/repos/Junes-PhD/kicad_arbitrary_pad_example/pulls{/number}
+    pushed_at: '2018-04-20T16:33:00Z'
+    releases_url: https://api.github.com/repos/Junes-PhD/kicad_arbitrary_pad_example/releases{/id}
+    size: 7
+    ssh_url: git@github.com:Junes-PhD/kicad_arbitrary_pad_example.git
+    stargazers_count: 2
+    stargazers_url: https://api.github.com/repos/Junes-PhD/kicad_arbitrary_pad_example/stargazers
+    statuses_url: https://api.github.com/repos/Junes-PhD/kicad_arbitrary_pad_example/statuses/{sha}
+    subscribers_count: 3
+    subscribers_url: https://api.github.com/repos/Junes-PhD/kicad_arbitrary_pad_example/subscribers
+    subscription_url: https://api.github.com/repos/Junes-PhD/kicad_arbitrary_pad_example/subscription
+    svn_url: https://github.com/Junes-PhD/kicad_arbitrary_pad_example
+    tags_url: https://api.github.com/repos/Junes-PhD/kicad_arbitrary_pad_example/tags
+    teams_url: https://api.github.com/repos/Junes-PhD/kicad_arbitrary_pad_example/teams
+    temp_clone_token: null
+    topics: []
+    trees_url: https://api.github.com/repos/Junes-PhD/kicad_arbitrary_pad_example/git/trees{/sha}
+    updated_at: '2018-04-20T23:03:57Z'
+    url: https://api.github.com/repos/Junes-PhD/kicad_arbitrary_pad_example
+    visibility: public
+    watchers: 2
+    watchers_count: 2
+    web_commit_signoff_required: false
   url: http://github.com/Junes-PhD/kicad_arbitrary_pad_example

@@ -1,19 +1,21 @@
-- file: data//oomlout_oomp_footprint_src/Connectors_Anderson.pretty/45A-VERT-PAIR.kicad_mod
+- file: data/oomlout_oomp_footprint_src/Connectors_Anderson.pretty/45A-VERT-PAIR.kicad_mod
   footprint:
     description: Use through-hole center to align with adjacent PowerPole connectors.  Do
       not rely on housing outlines.
     libraryLink: 45A-VERT-PAIR
     number_of_pads: 2
   footprint_library_directory: footprint_library_owner/imuli_Connectors_Anderson.pretty
-  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/imuli_connectors_anderson_45a_vert_pair/working
-  github_path: http://github.com/imuli/Connectors_Anderson.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/45A-VERT-PAIR.kicad_mod
+  footprint_library_directory_flat: tmp/data/oomlout_oomp_footprint_src/footprints_flat/imuli_connectors_anderson_45a_vert_pair/working
+  github_path: http://github.com/imuli/Connectors_Anderson.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/45A-VERT-PAIR.kicad_mod
   links:
-    github_src: http://gitlab.com/imuli/Connectors_Anderson.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/45A-VERT-PAIR.kicad_mod
-    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
-    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/imuli_connectors_anderson_45a_vert_pair/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/imuli_connectors_anderson_45a_vert_pair/working
-    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/imuli_connectors_anderson_45a_vert_pair/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/imuli_connectors_anderson_45a_vert_pair/working
+    github_owner: imuli
+    github_repo_name: Connectors_Anderson.pretty
+    github_src: http://github.com/imuli/Connectors_Anderson.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/45A-VERT-PAIR.kicad_mod
+    github_src_repo: https://github.com/imuli/Connectors_Anderson.pretty
+    oomp_bot: tmp/data/oomlout_oomp_footprint_src/footprints/imuli_connectors_anderson_45a_vert_pair/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/imuli_connectors_anderson_45a_vert_pair/working
+    oomp_src_flat: footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/imuli_connectors_anderson_45a_vert_pair/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/imuli_connectors_anderson_45a_vert_pair/working
   name: Connectors_Anderson.pretty
   oomp:
     footprint_name: 45a_vert_pair
@@ -26,15 +28,111 @@
     oomp_key_extra: oomp_footprint_imuli_connectors_anderson_45a_vert_pair
     oomp_key_full: oomp_footprint_imuli_connectors_anderson_45a_vert_pair_0a843d
     oomp_key_simple: imuli_connectors_anderson_45a_vert_pair
-    original_filename: data//oomlout_oomp_footprint_src/Connectors_Anderson.pretty/45A-VERT-PAIR.kicad_mod
+    original_filename: data/oomlout_oomp_footprint_src/Connectors_Anderson.pretty/45A-VERT-PAIR.kicad_mod
     owner_name: imuli
   oomp_key: oomp_imuli_connectors_anderson_45a_vert_pair
   oomp_key_full: oomp_footprint_imuli_connectors_anderson_45a_vert_pair
   oomp_key_simple: imuli_connectors_anderson_45a_vert_pair
   owner: imuli
   repo:
-    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
-    message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
-      Authenticated requests get a higher rate limit. Check out the documentation
-      for more details.)'
+    allow_forking: true
+    archive_url: https://api.github.com/repos/imuli/Connectors_Anderson.pretty/{archive_format}{/ref}
+    archived: false
+    assignees_url: https://api.github.com/repos/imuli/Connectors_Anderson.pretty/assignees{/user}
+    blobs_url: https://api.github.com/repos/imuli/Connectors_Anderson.pretty/git/blobs{/sha}
+    branches_url: https://api.github.com/repos/imuli/Connectors_Anderson.pretty/branches{/branch}
+    clone_url: https://github.com/imuli/Connectors_Anderson.pretty.git
+    collaborators_url: https://api.github.com/repos/imuli/Connectors_Anderson.pretty/collaborators{/collaborator}
+    comments_url: https://api.github.com/repos/imuli/Connectors_Anderson.pretty/comments{/number}
+    commits_url: https://api.github.com/repos/imuli/Connectors_Anderson.pretty/commits{/sha}
+    compare_url: https://api.github.com/repos/imuli/Connectors_Anderson.pretty/compare/{base}...{head}
+    contents_url: https://api.github.com/repos/imuli/Connectors_Anderson.pretty/contents/{+path}
+    contributors_url: https://api.github.com/repos/imuli/Connectors_Anderson.pretty/contributors
+    created_at: '2018-04-03T23:48:41Z'
+    default_branch: master
+    deployments_url: https://api.github.com/repos/imuli/Connectors_Anderson.pretty/deployments
+    description: KICAD models for Anderson Powerpole PCB Connectors
+    disabled: false
+    downloads_url: https://api.github.com/repos/imuli/Connectors_Anderson.pretty/downloads
+    events_url: https://api.github.com/repos/imuli/Connectors_Anderson.pretty/events
+    fork: false
+    forks: 2
+    forks_count: 2
+    forks_url: https://api.github.com/repos/imuli/Connectors_Anderson.pretty/forks
+    full_name: imuli/Connectors_Anderson.pretty
+    git_commits_url: https://api.github.com/repos/imuli/Connectors_Anderson.pretty/git/commits{/sha}
+    git_refs_url: https://api.github.com/repos/imuli/Connectors_Anderson.pretty/git/refs{/sha}
+    git_tags_url: https://api.github.com/repos/imuli/Connectors_Anderson.pretty/git/tags{/sha}
+    git_url: git://github.com/imuli/Connectors_Anderson.pretty.git
+    has_discussions: false
+    has_downloads: true
+    has_issues: true
+    has_pages: false
+    has_projects: true
+    has_wiki: true
+    homepage: null
+    hooks_url: https://api.github.com/repos/imuli/Connectors_Anderson.pretty/hooks
+    html_url: https://github.com/imuli/Connectors_Anderson.pretty
+    id: 127981758
+    is_template: false
+    issue_comment_url: https://api.github.com/repos/imuli/Connectors_Anderson.pretty/issues/comments{/number}
+    issue_events_url: https://api.github.com/repos/imuli/Connectors_Anderson.pretty/issues/events{/number}
+    issues_url: https://api.github.com/repos/imuli/Connectors_Anderson.pretty/issues{/number}
+    keys_url: https://api.github.com/repos/imuli/Connectors_Anderson.pretty/keys{/key_id}
+    labels_url: https://api.github.com/repos/imuli/Connectors_Anderson.pretty/labels{/name}
+    language: OpenSCAD
+    languages_url: https://api.github.com/repos/imuli/Connectors_Anderson.pretty/languages
+    license: null
+    merges_url: https://api.github.com/repos/imuli/Connectors_Anderson.pretty/merges
+    milestones_url: https://api.github.com/repos/imuli/Connectors_Anderson.pretty/milestones{/number}
+    mirror_url: null
+    name: Connectors_Anderson.pretty
+    network_count: 2
+    node_id: MDEwOlJlcG9zaXRvcnkxMjc5ODE3NTg=
+    notifications_url: https://api.github.com/repos/imuli/Connectors_Anderson.pretty/notifications{?since,all,participating}
+    open_issues: 0
+    open_issues_count: 0
+    owner:
+      avatar_url: https://avatars.githubusercontent.com/u/4085046?v=4
+      events_url: https://api.github.com/users/imuli/events{/privacy}
+      followers_url: https://api.github.com/users/imuli/followers
+      following_url: https://api.github.com/users/imuli/following{/other_user}
+      gists_url: https://api.github.com/users/imuli/gists{/gist_id}
+      gravatar_id: ''
+      html_url: https://github.com/imuli
+      id: 4085046
+      login: imuli
+      node_id: MDQ6VXNlcjQwODUwNDY=
+      organizations_url: https://api.github.com/users/imuli/orgs
+      received_events_url: https://api.github.com/users/imuli/received_events
+      repos_url: https://api.github.com/users/imuli/repos
+      site_admin: false
+      starred_url: https://api.github.com/users/imuli/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/imuli/subscriptions
+      type: User
+      url: https://api.github.com/users/imuli
+    private: false
+    pulls_url: https://api.github.com/repos/imuli/Connectors_Anderson.pretty/pulls{/number}
+    pushed_at: '2018-04-03T23:49:38Z'
+    releases_url: https://api.github.com/repos/imuli/Connectors_Anderson.pretty/releases{/id}
+    size: 84
+    ssh_url: git@github.com:imuli/Connectors_Anderson.pretty.git
+    stargazers_count: 1
+    stargazers_url: https://api.github.com/repos/imuli/Connectors_Anderson.pretty/stargazers
+    statuses_url: https://api.github.com/repos/imuli/Connectors_Anderson.pretty/statuses/{sha}
+    subscribers_count: 3
+    subscribers_url: https://api.github.com/repos/imuli/Connectors_Anderson.pretty/subscribers
+    subscription_url: https://api.github.com/repos/imuli/Connectors_Anderson.pretty/subscription
+    svn_url: https://github.com/imuli/Connectors_Anderson.pretty
+    tags_url: https://api.github.com/repos/imuli/Connectors_Anderson.pretty/tags
+    teams_url: https://api.github.com/repos/imuli/Connectors_Anderson.pretty/teams
+    temp_clone_token: null
+    topics: []
+    trees_url: https://api.github.com/repos/imuli/Connectors_Anderson.pretty/git/trees{/sha}
+    updated_at: '2021-02-15T19:12:41Z'
+    url: https://api.github.com/repos/imuli/Connectors_Anderson.pretty
+    visibility: public
+    watchers: 1
+    watchers_count: 1
+    web_commit_signoff_required: false
   url: http://github.com/imuli/Connectors_Anderson.pretty

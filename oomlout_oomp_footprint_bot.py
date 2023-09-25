@@ -9,18 +9,32 @@ def load_data(**kwargs):
     if not os.path.exists("tmp/data/oomlout_oomp_footprint_src"):
         os.makedirs("tmp/data/oomlout_oomp_footprint_src")
     #clone to tmp/
-    os.system("git clone " + github_data + " tmp/data/oomlout_oomp_footprint_src")
+    import oom_git
+    #oom_git.clone(repo = github_data, directory="tmp/data")
+    #os.system("git clone " + github_data + " tmp/data/oomlout_oomp_footprint_src")
 
 
 def copy_data(**kwargs):
     print("Copying data to footprints directory")
     directory_src = rf"tmp/data/oomlout_oomp_footprint_src/footprints_flat"
     directory_dst = rf"footprints"
+    #replace / with \\
+    directory_src = directory_src.replace("/", "\\")
+    directory_dst = directory_dst.replace("/", "\\")
     #copy the directory with overwite if the file already exists
     #import shutil
     #shutil.copytree(directory_src, directory_dst, dirs_exist_ok=True)
     #us os.system call to xcopy no prompt only overwrite if newer do it so there isn't a invalid number of parameters error
-    os.system(f'xcopy "{directory_src}" "{directory_dst}" /E /Y /D')
+    
+    #command = f'xcopy "{directory_src}" "{directory_dst}" /E /Y /D'
+    #use robo copy for command
+    # ai 
+    command = f'robocopy "{directory_src}" "{directory_dst}" /E /XO /COPY:DAT /R:1 /W:1 /NFL /NDL /NJH /NJS /NC /NS /NP /MT:8'
+    # chat gp
+    #command = f'robocopy "{directory_src}" "{directory_dst}" /E /COPYALL /R:0 /W:0 /LOG:"tmp\\robocopy_log.txt"'
+
+    print(f"command = {command}")
+    os.system(command)
     
     
     #print("renaming readme to readme_src.md")

@@ -1,18 +1,20 @@
-- file: data//oomlout_oomp_footprint_src/KiCAD/6.0/3rdparty/footprints/com_github_perigoso_keyswitch-kicad-library/Switch_Keyboard_Kailh.pretty/SW_Kailh_Choc_V2.kicad_mod
+- file: data/oomlout_oomp_footprint_src/KiCAD/6.0/3rdparty/footprints/com_github_perigoso_keyswitch-kicad-library/Switch_Keyboard_Kailh.pretty/SW_Kailh_Choc_V2.kicad_mod
   footprint:
     description: Kailh Choc keyswitch CPG1353 V2
     libraryLink: SW_Kailh_Choc_V2
     number_of_pads: 4
   footprint_library_directory: footprint_library_owner/JoanTheSpark_KiCAD
-  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/joanthespark_switch_keyboard_kailh_sw_kailh_choc_v2/working
-  github_path: http://github.com/JoanTheSpark/KiCAD/blob/master/tmp/data//oomlout_oomp_footprint_src/6.0/3rdparty/footprints/com_github_perigoso_keyswitch-kicad-library/Switch_Keyboard_Kailh.pretty/SW_Kailh_Choc_V2.kicad_mod
+  footprint_library_directory_flat: tmp/data/oomlout_oomp_footprint_src/footprints_flat/joanthespark_switch_keyboard_kailh_sw_kailh_choc_v2/working
+  github_path: http://github.com/JoanTheSpark/KiCAD/blob/master/tmp/data/oomlout_oomp_footprint_src/6.0/3rdparty/footprints/com_github_perigoso_keyswitch-kicad-library/Switch_Keyboard_Kailh.pretty/SW_Kailh_Choc_V2.kicad_mod
   links:
-    github_src: http://gitlab.com/JoanTheSpark/KiCAD/blob/master/tmp/data//oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod
-    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
-    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/joanthespark_switch_keyboard_kailh_sw_kailh_choc_v2/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/joanthespark_switch_keyboard_kailh_sw_kailh_choc_v2/working
-    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/joanthespark_switch_keyboard_kailh_sw_kailh_choc_v2/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/joanthespark_switch_keyboard_kailh_sw_kailh_choc_v2/working
+    github_owner: JoanTheSpark
+    github_repo_name: KiCAD
+    github_src: http://github.com/JoanTheSpark/KiCAD/blob/master/tmp/data/oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod
+    github_src_repo: https://github.com/JoanTheSpark/KiCAD
+    oomp_bot: tmp/data/oomlout_oomp_footprint_src/footprints/joanthespark_switch_keyboard_kailh_sw_kailh_choc_v2/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/joanthespark_switch_keyboard_kailh_sw_kailh_choc_v2/working
+    oomp_src_flat: footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/joanthespark_switch_keyboard_kailh_sw_kailh_choc_v2/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/joanthespark_switch_keyboard_kailh_sw_kailh_choc_v2/working
   name: KiCAD
   oomp:
     footprint_name: sw_kailh_choc_v2
@@ -25,15 +27,111 @@
     oomp_key_extra: oomp_footprint_joanthespark_switch_keyboard_kailh_sw_kailh_choc_v2
     oomp_key_full: oomp_footprint_joanthespark_switch_keyboard_kailh_sw_kailh_choc_v2_0a11ec
     oomp_key_simple: joanthespark_switch_keyboard_kailh_sw_kailh_choc_v2
-    original_filename: data//oomlout_oomp_footprint_src/KiCAD/6.0/3rdparty/footprints/com_github_perigoso_keyswitch-kicad-library/Switch_Keyboard_Kailh.pretty/SW_Kailh_Choc_V2.kicad_mod
+    original_filename: data/oomlout_oomp_footprint_src/KiCAD/6.0/3rdparty/footprints/com_github_perigoso_keyswitch-kicad-library/Switch_Keyboard_Kailh.pretty/SW_Kailh_Choc_V2.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_switch_keyboard_kailh_sw_kailh_choc_v2
   oomp_key_full: oomp_footprint_joanthespark_switch_keyboard_kailh_sw_kailh_choc_v2
   oomp_key_simple: joanthespark_switch_keyboard_kailh_sw_kailh_choc_v2
   owner: JoanTheSpark
   repo:
-    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
-    message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
-      Authenticated requests get a higher rate limit. Check out the documentation
-      for more details.)'
+    allow_forking: true
+    archive_url: https://api.github.com/repos/JoanTheSpark/KiCAD/{archive_format}{/ref}
+    archived: false
+    assignees_url: https://api.github.com/repos/JoanTheSpark/KiCAD/assignees{/user}
+    blobs_url: https://api.github.com/repos/JoanTheSpark/KiCAD/git/blobs{/sha}
+    branches_url: https://api.github.com/repos/JoanTheSpark/KiCAD/branches{/branch}
+    clone_url: https://github.com/JoanTheSpark/KiCAD.git
+    collaborators_url: https://api.github.com/repos/JoanTheSpark/KiCAD/collaborators{/collaborator}
+    comments_url: https://api.github.com/repos/JoanTheSpark/KiCAD/comments{/number}
+    commits_url: https://api.github.com/repos/JoanTheSpark/KiCAD/commits{/sha}
+    compare_url: https://api.github.com/repos/JoanTheSpark/KiCAD/compare/{base}...{head}
+    contents_url: https://api.github.com/repos/JoanTheSpark/KiCAD/contents/{+path}
+    contributors_url: https://api.github.com/repos/JoanTheSpark/KiCAD/contributors
+    created_at: '2015-12-01T12:23:10Z'
+    default_branch: master
+    deployments_url: https://api.github.com/repos/JoanTheSpark/KiCAD/deployments
+    description: all things relevant to KiCAD
+    disabled: false
+    downloads_url: https://api.github.com/repos/JoanTheSpark/KiCAD/downloads
+    events_url: https://api.github.com/repos/JoanTheSpark/KiCAD/events
+    fork: false
+    forks: 10
+    forks_count: 10
+    forks_url: https://api.github.com/repos/JoanTheSpark/KiCAD/forks
+    full_name: JoanTheSpark/KiCAD
+    git_commits_url: https://api.github.com/repos/JoanTheSpark/KiCAD/git/commits{/sha}
+    git_refs_url: https://api.github.com/repos/JoanTheSpark/KiCAD/git/refs{/sha}
+    git_tags_url: https://api.github.com/repos/JoanTheSpark/KiCAD/git/tags{/sha}
+    git_url: git://github.com/JoanTheSpark/KiCAD.git
+    has_discussions: false
+    has_downloads: true
+    has_issues: true
+    has_pages: false
+    has_projects: true
+    has_wiki: true
+    homepage: null
+    hooks_url: https://api.github.com/repos/JoanTheSpark/KiCAD/hooks
+    html_url: https://github.com/JoanTheSpark/KiCAD
+    id: 47187684
+    is_template: false
+    issue_comment_url: https://api.github.com/repos/JoanTheSpark/KiCAD/issues/comments{/number}
+    issue_events_url: https://api.github.com/repos/JoanTheSpark/KiCAD/issues/events{/number}
+    issues_url: https://api.github.com/repos/JoanTheSpark/KiCAD/issues{/number}
+    keys_url: https://api.github.com/repos/JoanTheSpark/KiCAD/keys{/key_id}
+    labels_url: https://api.github.com/repos/JoanTheSpark/KiCAD/labels{/name}
+    language: Python
+    languages_url: https://api.github.com/repos/JoanTheSpark/KiCAD/languages
+    license: null
+    merges_url: https://api.github.com/repos/JoanTheSpark/KiCAD/merges
+    milestones_url: https://api.github.com/repos/JoanTheSpark/KiCAD/milestones{/number}
+    mirror_url: null
+    name: KiCAD
+    network_count: 10
+    node_id: MDEwOlJlcG9zaXRvcnk0NzE4NzY4NA==
+    notifications_url: https://api.github.com/repos/JoanTheSpark/KiCAD/notifications{?since,all,participating}
+    open_issues: 0
+    open_issues_count: 0
+    owner:
+      avatar_url: https://avatars.githubusercontent.com/u/14078073?v=4
+      events_url: https://api.github.com/users/JoanTheSpark/events{/privacy}
+      followers_url: https://api.github.com/users/JoanTheSpark/followers
+      following_url: https://api.github.com/users/JoanTheSpark/following{/other_user}
+      gists_url: https://api.github.com/users/JoanTheSpark/gists{/gist_id}
+      gravatar_id: ''
+      html_url: https://github.com/JoanTheSpark
+      id: 14078073
+      login: JoanTheSpark
+      node_id: MDQ6VXNlcjE0MDc4MDcz
+      organizations_url: https://api.github.com/users/JoanTheSpark/orgs
+      received_events_url: https://api.github.com/users/JoanTheSpark/received_events
+      repos_url: https://api.github.com/users/JoanTheSpark/repos
+      site_admin: false
+      starred_url: https://api.github.com/users/JoanTheSpark/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/JoanTheSpark/subscriptions
+      type: User
+      url: https://api.github.com/users/JoanTheSpark
+    private: false
+    pulls_url: https://api.github.com/repos/JoanTheSpark/KiCAD/pulls{/number}
+    pushed_at: '2017-02-26T13:24:34Z'
+    releases_url: https://api.github.com/repos/JoanTheSpark/KiCAD/releases{/id}
+    size: 58165
+    ssh_url: git@github.com:JoanTheSpark/KiCAD.git
+    stargazers_count: 41
+    stargazers_url: https://api.github.com/repos/JoanTheSpark/KiCAD/stargazers
+    statuses_url: https://api.github.com/repos/JoanTheSpark/KiCAD/statuses/{sha}
+    subscribers_count: 15
+    subscribers_url: https://api.github.com/repos/JoanTheSpark/KiCAD/subscribers
+    subscription_url: https://api.github.com/repos/JoanTheSpark/KiCAD/subscription
+    svn_url: https://github.com/JoanTheSpark/KiCAD
+    tags_url: https://api.github.com/repos/JoanTheSpark/KiCAD/tags
+    teams_url: https://api.github.com/repos/JoanTheSpark/KiCAD/teams
+    temp_clone_token: null
+    topics: []
+    trees_url: https://api.github.com/repos/JoanTheSpark/KiCAD/git/trees{/sha}
+    updated_at: '2023-04-12T15:41:20Z'
+    url: https://api.github.com/repos/JoanTheSpark/KiCAD
+    visibility: public
+    watchers: 41
+    watchers_count: 41
+    web_commit_signoff_required: false
   url: http://github.com/JoanTheSpark/KiCAD

@@ -1,18 +1,18 @@
-- file: data//oomlout_oomp_footprint_src/Gigahawk.pretty/Crystal_SMD_AWSZT-CV-2Pin_3.7x3.1mm.kicad_mod
+- file: data/oomlout_oomp_footprint_src/Gigahawk.pretty/Crystal_SMD_AWSZT-CV-2Pin_3.7x3.1mm.kicad_mod
   footprint:
     description: SMD Crystal FC-135 https://support.epson.biz/td/api/doc_check.php?dl=brief_FC-135R_en.pdf
     libraryLink: Crystal_SMD_AWSZT-CV-2Pin_3.7x3.1mm
     number_of_pads: 2
   footprint_library_directory: footprint_library_owner/Gigahawk_Gigahawk.pretty
-  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/gigahawk_gigahawk_crystal_smd_awszt_cv_2pin_3_7x3_1mm/working
-  github_path: http://github.com/Gigahawk/Gigahawk.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Crystal_SMD_AWSZT-CV-2Pin_3.7x3.1mm.kicad_mod
+  footprint_library_directory_flat: tmp/data/oomlout_oomp_footprint_src/footprints_flat/gigahawk_gigahawk_crystal_smd_awszt_cv_2pin_3_7x3_1mm/working
+  github_path: http://github.com/Gigahawk/Gigahawk.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/Crystal_SMD_AWSZT-CV-2Pin_3.7x3.1mm.kicad_mod
   links:
-    github_src: http://gitlab.com/Gigahawk/Gigahawk.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4.3mm.kicad_mod
+    github_src: http://gitlab.com/Gigahawk/Gigahawk.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4.3mm.kicad_mod
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
-    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/gigahawk_gigahawk_crystal_smd_awszt_cv_2pin_3_7x3_1mm/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/gigahawk_gigahawk_crystal_smd_awszt_cv_2pin_3_7x3_1mm/working
-    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/gigahawk_gigahawk_crystal_smd_awszt_cv_2pin_3_7x3_1mm/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/gigahawk_gigahawk_crystal_smd_awszt_cv_2pin_3_7x3_1mm/working
+    oomp_bot: tmp/data/oomlout_oomp_footprint_src/footprints/gigahawk_gigahawk_crystal_smd_awszt_cv_2pin_3_7x3_1mm/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/gigahawk_gigahawk_crystal_smd_awszt_cv_2pin_3_7x3_1mm/working
+    oomp_src_flat: footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/gigahawk_gigahawk_crystal_smd_awszt_cv_2pin_3_7x3_1mm/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/gigahawk_gigahawk_crystal_smd_awszt_cv_2pin_3_7x3_1mm/working
   name: Gigahawk.pretty
   oomp:
     footprint_name: crystal_smd_awszt_cv_2pin_3_7x3_1mm
@@ -25,7 +25,7 @@
     oomp_key_extra: oomp_footprint_gigahawk_gigahawk_crystal_smd_awszt_cv_2pin_3_7x3_1mm
     oomp_key_full: oomp_footprint_gigahawk_gigahawk_crystal_smd_awszt_cv_2pin_3_7x3_1mm_10696e
     oomp_key_simple: gigahawk_gigahawk_crystal_smd_awszt_cv_2pin_3_7x3_1mm
-    original_filename: data//oomlout_oomp_footprint_src/Gigahawk.pretty/Crystal_SMD_AWSZT-CV-2Pin_3.7x3.1mm.kicad_mod
+    original_filename: data/oomlout_oomp_footprint_src/Gigahawk.pretty/Crystal_SMD_AWSZT-CV-2Pin_3.7x3.1mm.kicad_mod
     owner_name: gigahawk
   oomp_key: oomp_gigahawk_gigahawk_crystal_smd_awszt_cv_2pin_3_7x3_1mm
   oomp_key_full: oomp_footprint_gigahawk_gigahawk_crystal_smd_awszt_cv_2pin_3_7x3_1mm

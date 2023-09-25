@@ -1,18 +1,20 @@
-- file: data//oomlout_oomp_footprint_src/bjh-kicad-switches-fp.pretty/IR-MicroSSRelay-6Pin-SMT.kicad_mod
+- file: data/oomlout_oomp_footprint_src/bjh-kicad-switches-fp.pretty/IR-MicroSSRelay-6Pin-SMT.kicad_mod
   footprint:
     description: null
     libraryLink: IR-MicroSSRelay-6Pin-SMT
     number_of_pads: 6
   footprint_library_directory: footprint_library_owner/hoskinstech_bjh-kicad-switches-fp.pretty
-  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/hoskinstech_bjh_kicad_switches_fp_ir_microssrelay_6pin_smt/working
-  github_path: http://github.com/hoskinstech/bjh-kicad-switches-fp.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/IR-MicroSSRelay-6Pin-SMT.kicad_mod
+  footprint_library_directory_flat: tmp/data/oomlout_oomp_footprint_src/footprints_flat/hoskinstech_bjh_kicad_switches_fp_ir_microssrelay_6pin_smt/working
+  github_path: http://github.com/hoskinstech/bjh-kicad-switches-fp.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/IR-MicroSSRelay-6Pin-SMT.kicad_mod
   links:
-    github_src: http://gitlab.com/hoskinstech/bjh-kicad-switches-fp.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/PushButton-OMRON-B3FS.kicad_mod
-    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
-    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/hoskinstech_bjh_kicad_switches_fp_ir_microssrelay_6pin_smt/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/hoskinstech_bjh_kicad_switches_fp_ir_microssrelay_6pin_smt/working
-    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/hoskinstech_bjh_kicad_switches_fp_ir_microssrelay_6pin_smt/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/hoskinstech_bjh_kicad_switches_fp_ir_microssrelay_6pin_smt/working
+    github_owner: hoskinstech
+    github_repo_name: bjh-kicad-switches-fp.pretty
+    github_src: http://github.com/hoskinstech/bjh-kicad-switches-fp.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/PushButton-OMRON-B3FS.kicad_mod
+    github_src_repo: https://github.com/hoskinstech/bjh-kicad-switches-fp.pretty
+    oomp_bot: tmp/data/oomlout_oomp_footprint_src/footprints/hoskinstech_bjh_kicad_switches_fp_ir_microssrelay_6pin_smt/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/hoskinstech_bjh_kicad_switches_fp_ir_microssrelay_6pin_smt/working
+    oomp_src_flat: footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/hoskinstech_bjh_kicad_switches_fp_ir_microssrelay_6pin_smt/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/hoskinstech_bjh_kicad_switches_fp_ir_microssrelay_6pin_smt/working
   name: bjh-kicad-switches-fp.pretty
   oomp:
     footprint_name: ir_microssrelay_6pin_smt
@@ -25,15 +27,135 @@
     oomp_key_extra: oomp_footprint_hoskinstech_bjh_kicad_switches_fp_ir_microssrelay_6pin_smt
     oomp_key_full: oomp_footprint_hoskinstech_bjh_kicad_switches_fp_ir_microssrelay_6pin_smt_e3b400
     oomp_key_simple: hoskinstech_bjh_kicad_switches_fp_ir_microssrelay_6pin_smt
-    original_filename: data//oomlout_oomp_footprint_src/bjh-kicad-switches-fp.pretty/IR-MicroSSRelay-6Pin-SMT.kicad_mod
+    original_filename: data/oomlout_oomp_footprint_src/bjh-kicad-switches-fp.pretty/IR-MicroSSRelay-6Pin-SMT.kicad_mod
     owner_name: hoskinstech
   oomp_key: oomp_hoskinstech_bjh_kicad_switches_fp_ir_microssrelay_6pin_smt
   oomp_key_full: oomp_footprint_hoskinstech_bjh_kicad_switches_fp_ir_microssrelay_6pin_smt
   oomp_key_simple: hoskinstech_bjh_kicad_switches_fp_ir_microssrelay_6pin_smt
   owner: hoskinstech
   repo:
-    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
-    message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
-      Authenticated requests get a higher rate limit. Check out the documentation
-      for more details.)'
+    allow_forking: true
+    archive_url: https://api.github.com/repos/hoskinstech/bjh-kicad-switches-fp.pretty/{archive_format}{/ref}
+    archived: false
+    assignees_url: https://api.github.com/repos/hoskinstech/bjh-kicad-switches-fp.pretty/assignees{/user}
+    blobs_url: https://api.github.com/repos/hoskinstech/bjh-kicad-switches-fp.pretty/git/blobs{/sha}
+    branches_url: https://api.github.com/repos/hoskinstech/bjh-kicad-switches-fp.pretty/branches{/branch}
+    clone_url: https://github.com/hoskinstech/bjh-kicad-switches-fp.pretty.git
+    collaborators_url: https://api.github.com/repos/hoskinstech/bjh-kicad-switches-fp.pretty/collaborators{/collaborator}
+    comments_url: https://api.github.com/repos/hoskinstech/bjh-kicad-switches-fp.pretty/comments{/number}
+    commits_url: https://api.github.com/repos/hoskinstech/bjh-kicad-switches-fp.pretty/commits{/sha}
+    compare_url: https://api.github.com/repos/hoskinstech/bjh-kicad-switches-fp.pretty/compare/{base}...{head}
+    contents_url: https://api.github.com/repos/hoskinstech/bjh-kicad-switches-fp.pretty/contents/{+path}
+    contributors_url: https://api.github.com/repos/hoskinstech/bjh-kicad-switches-fp.pretty/contributors
+    created_at: '2015-05-23T19:09:09Z'
+    default_branch: master
+    deployments_url: https://api.github.com/repos/hoskinstech/bjh-kicad-switches-fp.pretty/deployments
+    description: KiCAD switch and push button footprints by BJH (bh4017).
+    disabled: false
+    downloads_url: https://api.github.com/repos/hoskinstech/bjh-kicad-switches-fp.pretty/downloads
+    events_url: https://api.github.com/repos/hoskinstech/bjh-kicad-switches-fp.pretty/events
+    fork: false
+    forks: 0
+    forks_count: 0
+    forks_url: https://api.github.com/repos/hoskinstech/bjh-kicad-switches-fp.pretty/forks
+    full_name: hoskinstech/bjh-kicad-switches-fp.pretty
+    git_commits_url: https://api.github.com/repos/hoskinstech/bjh-kicad-switches-fp.pretty/git/commits{/sha}
+    git_refs_url: https://api.github.com/repos/hoskinstech/bjh-kicad-switches-fp.pretty/git/refs{/sha}
+    git_tags_url: https://api.github.com/repos/hoskinstech/bjh-kicad-switches-fp.pretty/git/tags{/sha}
+    git_url: git://github.com/hoskinstech/bjh-kicad-switches-fp.pretty.git
+    has_discussions: false
+    has_downloads: true
+    has_issues: true
+    has_pages: false
+    has_projects: true
+    has_wiki: true
+    homepage: null
+    hooks_url: https://api.github.com/repos/hoskinstech/bjh-kicad-switches-fp.pretty/hooks
+    html_url: https://github.com/hoskinstech/bjh-kicad-switches-fp.pretty
+    id: 36138232
+    is_template: false
+    issue_comment_url: https://api.github.com/repos/hoskinstech/bjh-kicad-switches-fp.pretty/issues/comments{/number}
+    issue_events_url: https://api.github.com/repos/hoskinstech/bjh-kicad-switches-fp.pretty/issues/events{/number}
+    issues_url: https://api.github.com/repos/hoskinstech/bjh-kicad-switches-fp.pretty/issues{/number}
+    keys_url: https://api.github.com/repos/hoskinstech/bjh-kicad-switches-fp.pretty/keys{/key_id}
+    labels_url: https://api.github.com/repos/hoskinstech/bjh-kicad-switches-fp.pretty/labels{/name}
+    language: null
+    languages_url: https://api.github.com/repos/hoskinstech/bjh-kicad-switches-fp.pretty/languages
+    license:
+      key: cc0-1.0
+      name: Creative Commons Zero v1.0 Universal
+      node_id: MDc6TGljZW5zZTY=
+      spdx_id: CC0-1.0
+      url: https://api.github.com/licenses/cc0-1.0
+    merges_url: https://api.github.com/repos/hoskinstech/bjh-kicad-switches-fp.pretty/merges
+    milestones_url: https://api.github.com/repos/hoskinstech/bjh-kicad-switches-fp.pretty/milestones{/number}
+    mirror_url: null
+    name: bjh-kicad-switches-fp.pretty
+    network_count: 0
+    node_id: MDEwOlJlcG9zaXRvcnkzNjEzODIzMg==
+    notifications_url: https://api.github.com/repos/hoskinstech/bjh-kicad-switches-fp.pretty/notifications{?since,all,participating}
+    open_issues: 0
+    open_issues_count: 0
+    organization:
+      avatar_url: https://avatars.githubusercontent.com/u/12068223?v=4
+      events_url: https://api.github.com/users/hoskinstech/events{/privacy}
+      followers_url: https://api.github.com/users/hoskinstech/followers
+      following_url: https://api.github.com/users/hoskinstech/following{/other_user}
+      gists_url: https://api.github.com/users/hoskinstech/gists{/gist_id}
+      gravatar_id: ''
+      html_url: https://github.com/hoskinstech
+      id: 12068223
+      login: hoskinstech
+      node_id: MDEyOk9yZ2FuaXphdGlvbjEyMDY4MjIz
+      organizations_url: https://api.github.com/users/hoskinstech/orgs
+      received_events_url: https://api.github.com/users/hoskinstech/received_events
+      repos_url: https://api.github.com/users/hoskinstech/repos
+      site_admin: false
+      starred_url: https://api.github.com/users/hoskinstech/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/hoskinstech/subscriptions
+      type: Organization
+      url: https://api.github.com/users/hoskinstech
+    owner:
+      avatar_url: https://avatars.githubusercontent.com/u/12068223?v=4
+      events_url: https://api.github.com/users/hoskinstech/events{/privacy}
+      followers_url: https://api.github.com/users/hoskinstech/followers
+      following_url: https://api.github.com/users/hoskinstech/following{/other_user}
+      gists_url: https://api.github.com/users/hoskinstech/gists{/gist_id}
+      gravatar_id: ''
+      html_url: https://github.com/hoskinstech
+      id: 12068223
+      login: hoskinstech
+      node_id: MDEyOk9yZ2FuaXphdGlvbjEyMDY4MjIz
+      organizations_url: https://api.github.com/users/hoskinstech/orgs
+      received_events_url: https://api.github.com/users/hoskinstech/received_events
+      repos_url: https://api.github.com/users/hoskinstech/repos
+      site_admin: false
+      starred_url: https://api.github.com/users/hoskinstech/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/hoskinstech/subscriptions
+      type: Organization
+      url: https://api.github.com/users/hoskinstech
+    private: false
+    pulls_url: https://api.github.com/repos/hoskinstech/bjh-kicad-switches-fp.pretty/pulls{/number}
+    pushed_at: '2015-07-27T21:06:10Z'
+    releases_url: https://api.github.com/repos/hoskinstech/bjh-kicad-switches-fp.pretty/releases{/id}
+    size: 524
+    ssh_url: git@github.com:hoskinstech/bjh-kicad-switches-fp.pretty.git
+    stargazers_count: 0
+    stargazers_url: https://api.github.com/repos/hoskinstech/bjh-kicad-switches-fp.pretty/stargazers
+    statuses_url: https://api.github.com/repos/hoskinstech/bjh-kicad-switches-fp.pretty/statuses/{sha}
+    subscribers_count: 2
+    subscribers_url: https://api.github.com/repos/hoskinstech/bjh-kicad-switches-fp.pretty/subscribers
+    subscription_url: https://api.github.com/repos/hoskinstech/bjh-kicad-switches-fp.pretty/subscription
+    svn_url: https://github.com/hoskinstech/bjh-kicad-switches-fp.pretty
+    tags_url: https://api.github.com/repos/hoskinstech/bjh-kicad-switches-fp.pretty/tags
+    teams_url: https://api.github.com/repos/hoskinstech/bjh-kicad-switches-fp.pretty/teams
+    temp_clone_token: null
+    topics: []
+    trees_url: https://api.github.com/repos/hoskinstech/bjh-kicad-switches-fp.pretty/git/trees{/sha}
+    updated_at: '2015-05-23T19:09:09Z'
+    url: https://api.github.com/repos/hoskinstech/bjh-kicad-switches-fp.pretty
+    visibility: public
+    watchers: 0
+    watchers_count: 0
+    web_commit_signoff_required: false
   url: http://github.com/hoskinstech/bjh-kicad-switches-fp.pretty

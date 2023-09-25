@@ -1,18 +1,20 @@
-- file: data//oomlout_oomp_footprint_src/d1_mini_kicad/template/lib/D1_mini.pretty/D1_mini_Pin_Header.kicad_mod
+- file: data/oomlout_oomp_footprint_src/d1_mini_kicad/template/lib/D1_mini.pretty/D1_mini_Pin_Header.kicad_mod
   footprint:
     description: Through hole pin header
     libraryLink: Pin_Headers:Pin_Header_Straight_1x08
     number_of_pads: 8
   footprint_library_directory: footprint_library_owner/jerome-labidurie_d1_mini_kicad
-  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/jerome_labidurie_d1_mini_d1_mini_pin_header/working
-  github_path: http://github.com/jerome-labidurie/d1_mini_kicad/blob/master/tmp/data//oomlout_oomp_footprint_src/template/lib/D1_mini.pretty/D1_mini_Pin_Header.kicad_mod
+  footprint_library_directory_flat: tmp/data/oomlout_oomp_footprint_src/footprints_flat/jerome_labidurie_d1_mini_d1_mini_pin_header/working
+  github_path: http://github.com/jerome-labidurie/d1_mini_kicad/blob/master/tmp/data/oomlout_oomp_footprint_src/template/lib/D1_mini.pretty/D1_mini_Pin_Header.kicad_mod
   links:
-    github_src: http://gitlab.com/jerome-labidurie/d1_mini_kicad/blob/master/tmp/data//oomlout_oomp_footprint_src/template/lib/D1_mini.pretty/OSHW.kicad_mod
-    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
-    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/jerome_labidurie_d1_mini_d1_mini_pin_header/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/jerome_labidurie_d1_mini_d1_mini_pin_header/working
-    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/jerome_labidurie_d1_mini_d1_mini_pin_header/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/jerome_labidurie_d1_mini_d1_mini_pin_header/working
+    github_owner: jerome-labidurie
+    github_repo_name: d1_mini_kicad
+    github_src: http://github.com/jerome-labidurie/d1_mini_kicad/blob/master/tmp/data/oomlout_oomp_footprint_src/template/lib/D1_mini.pretty/OSHW.kicad_mod
+    github_src_repo: https://github.com/jerome-labidurie/d1_mini_kicad
+    oomp_bot: tmp/data/oomlout_oomp_footprint_src/footprints/jerome_labidurie_d1_mini_d1_mini_pin_header/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/jerome_labidurie_d1_mini_d1_mini_pin_header/working
+    oomp_src_flat: footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/jerome_labidurie_d1_mini_d1_mini_pin_header/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/jerome_labidurie_d1_mini_d1_mini_pin_header/working
   name: d1_mini_kicad
   oomp:
     footprint_name: d1_mini_pin_header
@@ -25,15 +27,116 @@
     oomp_key_extra: oomp_footprint_jerome_labidurie_d1_mini_d1_mini_pin_header
     oomp_key_full: oomp_footprint_jerome_labidurie_d1_mini_d1_mini_pin_header_c638c8
     oomp_key_simple: jerome_labidurie_d1_mini_d1_mini_pin_header
-    original_filename: data//oomlout_oomp_footprint_src/d1_mini_kicad/template/lib/D1_mini.pretty/D1_mini_Pin_Header.kicad_mod
+    original_filename: data/oomlout_oomp_footprint_src/d1_mini_kicad/template/lib/D1_mini.pretty/D1_mini_Pin_Header.kicad_mod
     owner_name: jerome_labidurie
   oomp_key: oomp_jerome_labidurie_d1_mini_d1_mini_pin_header
   oomp_key_full: oomp_footprint_jerome_labidurie_d1_mini_d1_mini_pin_header
   oomp_key_simple: jerome_labidurie_d1_mini_d1_mini_pin_header
   owner: jerome-labidurie
   repo:
-    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
-    message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
-      Authenticated requests get a higher rate limit. Check out the documentation
-      for more details.)'
+    allow_forking: true
+    archive_url: https://api.github.com/repos/jerome-labidurie/d1_mini_kicad/{archive_format}{/ref}
+    archived: false
+    assignees_url: https://api.github.com/repos/jerome-labidurie/d1_mini_kicad/assignees{/user}
+    blobs_url: https://api.github.com/repos/jerome-labidurie/d1_mini_kicad/git/blobs{/sha}
+    branches_url: https://api.github.com/repos/jerome-labidurie/d1_mini_kicad/branches{/branch}
+    clone_url: https://github.com/jerome-labidurie/d1_mini_kicad.git
+    collaborators_url: https://api.github.com/repos/jerome-labidurie/d1_mini_kicad/collaborators{/collaborator}
+    comments_url: https://api.github.com/repos/jerome-labidurie/d1_mini_kicad/comments{/number}
+    commits_url: https://api.github.com/repos/jerome-labidurie/d1_mini_kicad/commits{/sha}
+    compare_url: https://api.github.com/repos/jerome-labidurie/d1_mini_kicad/compare/{base}...{head}
+    contents_url: https://api.github.com/repos/jerome-labidurie/d1_mini_kicad/contents/{+path}
+    contributors_url: https://api.github.com/repos/jerome-labidurie/d1_mini_kicad/contributors
+    created_at: '2016-06-19T15:54:35Z'
+    default_branch: master
+    deployments_url: https://api.github.com/repos/jerome-labidurie/d1_mini_kicad/deployments
+    description: Kicad footrpints and templates for wemos D1 mini board
+    disabled: false
+    downloads_url: https://api.github.com/repos/jerome-labidurie/d1_mini_kicad/downloads
+    events_url: https://api.github.com/repos/jerome-labidurie/d1_mini_kicad/events
+    fork: false
+    forks: 18
+    forks_count: 18
+    forks_url: https://api.github.com/repos/jerome-labidurie/d1_mini_kicad/forks
+    full_name: jerome-labidurie/d1_mini_kicad
+    git_commits_url: https://api.github.com/repos/jerome-labidurie/d1_mini_kicad/git/commits{/sha}
+    git_refs_url: https://api.github.com/repos/jerome-labidurie/d1_mini_kicad/git/refs{/sha}
+    git_tags_url: https://api.github.com/repos/jerome-labidurie/d1_mini_kicad/git/tags{/sha}
+    git_url: git://github.com/jerome-labidurie/d1_mini_kicad.git
+    has_discussions: false
+    has_downloads: true
+    has_issues: true
+    has_pages: false
+    has_projects: true
+    has_wiki: true
+    homepage: null
+    hooks_url: https://api.github.com/repos/jerome-labidurie/d1_mini_kicad/hooks
+    html_url: https://github.com/jerome-labidurie/d1_mini_kicad
+    id: 61487898
+    is_template: false
+    issue_comment_url: https://api.github.com/repos/jerome-labidurie/d1_mini_kicad/issues/comments{/number}
+    issue_events_url: https://api.github.com/repos/jerome-labidurie/d1_mini_kicad/issues/events{/number}
+    issues_url: https://api.github.com/repos/jerome-labidurie/d1_mini_kicad/issues{/number}
+    keys_url: https://api.github.com/repos/jerome-labidurie/d1_mini_kicad/keys{/key_id}
+    labels_url: https://api.github.com/repos/jerome-labidurie/d1_mini_kicad/labels{/name}
+    language: HTML
+    languages_url: https://api.github.com/repos/jerome-labidurie/d1_mini_kicad/languages
+    license:
+      key: other
+      name: Other
+      node_id: MDc6TGljZW5zZTA=
+      spdx_id: NOASSERTION
+      url: null
+    merges_url: https://api.github.com/repos/jerome-labidurie/d1_mini_kicad/merges
+    milestones_url: https://api.github.com/repos/jerome-labidurie/d1_mini_kicad/milestones{/number}
+    mirror_url: null
+    name: d1_mini_kicad
+    network_count: 18
+    node_id: MDEwOlJlcG9zaXRvcnk2MTQ4Nzg5OA==
+    notifications_url: https://api.github.com/repos/jerome-labidurie/d1_mini_kicad/notifications{?since,all,participating}
+    open_issues: 1
+    open_issues_count: 1
+    owner:
+      avatar_url: https://avatars.githubusercontent.com/u/3443155?v=4
+      events_url: https://api.github.com/users/jerome-labidurie/events{/privacy}
+      followers_url: https://api.github.com/users/jerome-labidurie/followers
+      following_url: https://api.github.com/users/jerome-labidurie/following{/other_user}
+      gists_url: https://api.github.com/users/jerome-labidurie/gists{/gist_id}
+      gravatar_id: ''
+      html_url: https://github.com/jerome-labidurie
+      id: 3443155
+      login: jerome-labidurie
+      node_id: MDQ6VXNlcjM0NDMxNTU=
+      organizations_url: https://api.github.com/users/jerome-labidurie/orgs
+      received_events_url: https://api.github.com/users/jerome-labidurie/received_events
+      repos_url: https://api.github.com/users/jerome-labidurie/repos
+      site_admin: false
+      starred_url: https://api.github.com/users/jerome-labidurie/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/jerome-labidurie/subscriptions
+      type: User
+      url: https://api.github.com/users/jerome-labidurie
+    private: false
+    pulls_url: https://api.github.com/repos/jerome-labidurie/d1_mini_kicad/pulls{/number}
+    pushed_at: '2021-06-21T07:20:55Z'
+    releases_url: https://api.github.com/repos/jerome-labidurie/d1_mini_kicad/releases{/id}
+    size: 456
+    ssh_url: git@github.com:jerome-labidurie/d1_mini_kicad.git
+    stargazers_count: 76
+    stargazers_url: https://api.github.com/repos/jerome-labidurie/d1_mini_kicad/stargazers
+    statuses_url: https://api.github.com/repos/jerome-labidurie/d1_mini_kicad/statuses/{sha}
+    subscribers_count: 10
+    subscribers_url: https://api.github.com/repos/jerome-labidurie/d1_mini_kicad/subscribers
+    subscription_url: https://api.github.com/repos/jerome-labidurie/d1_mini_kicad/subscription
+    svn_url: https://github.com/jerome-labidurie/d1_mini_kicad
+    tags_url: https://api.github.com/repos/jerome-labidurie/d1_mini_kicad/tags
+    teams_url: https://api.github.com/repos/jerome-labidurie/d1_mini_kicad/teams
+    temp_clone_token: null
+    topics: []
+    trees_url: https://api.github.com/repos/jerome-labidurie/d1_mini_kicad/git/trees{/sha}
+    updated_at: '2023-08-25T23:17:20Z'
+    url: https://api.github.com/repos/jerome-labidurie/d1_mini_kicad
+    visibility: public
+    watchers: 76
+    watchers_count: 76
+    web_commit_signoff_required: false
   url: http://github.com/jerome-labidurie/d1_mini_kicad
