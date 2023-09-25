@@ -1,0 +1,29 @@
+# KiCAD-SDIY.pretty by cmos-droner  
+This is a harvested standardized copy of a footprint from github.  
+The original project can be found at:  
+https://gitlab.com/kicad/libraries/kicad-footprints  
+The original footprint can be found at:
+http://gitlab.com/cmos-droner/KiCAD-SDIY.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/resistor_horizontal-7mm--wide.kicad_mod
+Please consult that link for additional, details, files, and license information.  
+## Footprint Details
+* description: Alpha Potentiometer 16mm Horizontal  
+* libraryLink: diy_pots:R_POT_ALPHA_16MM_H  
+* number_of_pads: 3  
+## yaml dump  
+| Key | Value |  
+| --- | --- |  
+| file | data//oomlout_oomp_footprint_src/KiCAD-SDIY.pretty/pot_alpha-16mm--holes_only.kicad_mod |  
+| footprint | {'description': 'Alpha Potentiometer 16mm Horizontal', 'libraryLink': 'diy_pots:R_POT_ALPHA_16MM_H', 'number_of_pads': 3} |  
+| footprint_library_directory | footprint_library_owner/cmos-droner_KiCAD-SDIY.pretty |  
+| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/cmos_droner_kicad_sdiy_pot_alpha_16mm_holes_only/working |  
+| github_path | http://github.com/cmos-droner/KiCAD-SDIY.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/pot_alpha-16mm--holes_only.kicad_mod |  
+| links | {'github_src': 'http://gitlab.com/cmos-droner/KiCAD-SDIY.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/resistor_horizontal-7mm--wide.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/cmos_droner_kicad_sdiy_pot_alpha_16mm_holes_only/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/cmos_droner_kicad_sdiy_pot_alpha_16mm_holes_only/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/cmos_droner_kicad_sdiy_pot_alpha_16mm_holes_only/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/cmos_droner_kicad_sdiy_pot_alpha_16mm_holes_only/working'} |  
+| name | KiCAD-SDIY.pretty |  
+| oomp | {'footprint_name': 'pot_alpha_16mm_holes_only', 'library_name': 'kicad_sdiy', 'md5': 'b095fd1db1bec3e7a130986ee45402f7', 'md5_10': 'b095fd1db1', 'md5_5': 'b095f', 'md5_6': 'b095fd', 'oomp_key': 'oomp_cmos_droner_kicad_sdiy_pot_alpha_16mm_holes_only', 'oomp_key_extra': 'oomp_footprint_cmos_droner_kicad_sdiy_pot_alpha_16mm_holes_only', 'oomp_key_full': 'oomp_footprint_cmos_droner_kicad_sdiy_pot_alpha_16mm_holes_only_b095fd', 'oomp_key_simple': 'cmos_droner_kicad_sdiy_pot_alpha_16mm_holes_only', 'original_filename': 'data//oomlout_oomp_footprint_src/KiCAD-SDIY.pretty/pot_alpha-16mm--holes_only.kicad_mod', 'owner_name': 'cmos_droner'} |  
+| oomp_key | oomp_cmos_droner_kicad_sdiy_pot_alpha_16mm_holes_only |  
+| oomp_key_full | oomp_footprint_cmos_droner_kicad_sdiy_pot_alpha_16mm_holes_only |  
+| oomp_key_simple | cmos_droner_kicad_sdiy_pot_alpha_16mm_holes_only |  
+| owner | cmos-droner |  
+| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.142.224. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
+| url | http://github.com/cmos-droner/KiCAD-SDIY.pretty |  
+

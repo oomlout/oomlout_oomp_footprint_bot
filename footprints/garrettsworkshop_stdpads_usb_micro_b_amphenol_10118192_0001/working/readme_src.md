@@ -1,0 +1,29 @@
+# stdpads.pretty by garrettsworkshop  
+This is a harvested standardized copy of a footprint from github.  
+The original project can be found at:  
+https://gitlab.com/kicad/libraries/kicad-footprints  
+The original footprint can be found at:
+http://gitlab.com/garrettsworkshop/stdpads.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/ZipHole_3.048mm_NPTH.kicad_mod
+Please consult that link for additional, details, files, and license information.  
+## Footprint Details
+* description: Micro USB B receptable with flange, bottom-mount, SMD, right-angle (http://www.molex.com/pdm_docs/sd/473460001_sd.pdf)  
+* libraryLink: USB_Micro-B_Amphenol_10118192-0001  
+* number_of_pads: 11  
+## yaml dump  
+| Key | Value |  
+| --- | --- |  
+| file | data//oomlout_oomp_footprint_src/stdpads.pretty/USB_Micro-B_Amphenol_10118192-0001.kicad_mod |  
+| footprint | {'description': 'Micro USB B receptable with flange, bottom-mount, SMD, right-angle (http://www.molex.com/pdm_docs/sd/473460001_sd.pdf)', 'libraryLink': 'USB_Micro-B_Amphenol_10118192-0001', 'number_of_pads': 11} |  
+| footprint_library_directory | footprint_library_owner/garrettsworkshop_stdpads.pretty |  
+| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/garrettsworkshop_stdpads_usb_micro_b_amphenol_10118192_0001/working |  
+| github_path | http://github.com/garrettsworkshop/stdpads.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/USB_Micro-B_Amphenol_10118192-0001.kicad_mod |  
+| links | {'github_src': 'http://gitlab.com/garrettsworkshop/stdpads.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/ZipHole_3.048mm_NPTH.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/garrettsworkshop_stdpads_usb_micro_b_amphenol_10118192_0001/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/garrettsworkshop_stdpads_usb_micro_b_amphenol_10118192_0001/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/garrettsworkshop_stdpads_usb_micro_b_amphenol_10118192_0001/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/garrettsworkshop_stdpads_usb_micro_b_amphenol_10118192_0001/working'} |  
+| name | stdpads.pretty |  
+| oomp | {'footprint_name': 'usb_micro_b_amphenol_10118192_0001', 'library_name': 'stdpads', 'md5': '98c428f0609c7a6a3087541f8eaba849', 'md5_10': '98c428f060', 'md5_5': '98c42', 'md5_6': '98c428', 'oomp_key': 'oomp_garrettsworkshop_stdpads_usb_micro_b_amphenol_10118192_0001', 'oomp_key_extra': 'oomp_footprint_garrettsworkshop_stdpads_usb_micro_b_amphenol_10118192_0001', 'oomp_key_full': 'oomp_footprint_garrettsworkshop_stdpads_usb_micro_b_amphenol_10118192_0001_98c428', 'oomp_key_simple': 'garrettsworkshop_stdpads_usb_micro_b_amphenol_10118192_0001', 'original_filename': 'data//oomlout_oomp_footprint_src/stdpads.pretty/USB_Micro-B_Amphenol_10118192-0001.kicad_mod', 'owner_name': 'garrettsworkshop'} |  
+| oomp_key | oomp_garrettsworkshop_stdpads_usb_micro_b_amphenol_10118192_0001 |  
+| oomp_key_full | oomp_footprint_garrettsworkshop_stdpads_usb_micro_b_amphenol_10118192_0001 |  
+| oomp_key_simple | garrettsworkshop_stdpads_usb_micro_b_amphenol_10118192_0001 |  
+| owner | garrettsworkshop |  
+| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.142.224. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
+| url | http://github.com/garrettsworkshop/stdpads.pretty |  
+

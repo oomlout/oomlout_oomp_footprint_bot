@@ -18,12 +18,14 @@ def main(**kwargs):
     filter = "oomlout"
     #filter = ""
     
-    git = False
-    #git = True
+    #git = False
+    git = True
       
     test=False
     #test=True
 
+    overwrite = False       #whetether to do all or just the missing ones
+    #overwrite = True
       
     
 
@@ -45,6 +47,7 @@ def main(**kwargs):
     kwargs["git"] = git
     kwargs["directory"] = directory
     kwargs["test"] = test
+    kwargs["overwrite"] = overwrite
     
     
     import time

@@ -1,0 +1,29 @@
+# kicad-footprints by kicad  
+This is a harvested standardized copy of a footprint from github.  
+The original project can be found at:  
+https://gitlab.com/kicad/libraries/kicad-footprints  
+The original footprint can be found at:
+http://gitlab.com/kicad/kicad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod
+Please consult that link for additional, details, files, and license information.  
+## Footprint Details
+* description: WLCSP-8, 2.284x1.551mm, 8 Ball, 2x4 Layout, 0.5mm Pitch, https://www.adestotech.com/wp-content/uploads/AT25SL321_112.pdf#page=75  
+* libraryLink: WLCSP-8_1.551x2.284mm_P0.5mm  
+* number_of_pads: 8  
+## yaml dump  
+| Key | Value |  
+| --- | --- |  
+| file | data//oomlout_oomp_footprint_src/kicad-footprints/Package_CSP.pretty/WLCSP-8_1.551x2.284mm_P0.5mm.kicad_mod |  
+| footprint | {'description': 'WLCSP-8, 2.284x1.551mm, 8 Ball, 2x4 Layout, 0.5mm Pitch, https://www.adestotech.com/wp-content/uploads/AT25SL321_112.pdf#page=75', 'libraryLink': 'WLCSP-8_1.551x2.284mm_P0.5mm', 'number_of_pads': 8} |  
+| footprint_library_directory | footprint_library_owner/kicad_kicad-footprints/ |  
+| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/kicad_package_csp_wlcsp_8_1_551x2_284mm_p0_5mm/working |  
+| github_path | http://github.com/kicad/kicad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/Package_CSP.pretty/WLCSP-8_1.551x2.284mm_P0.5mm.kicad_mod |  
+| links | {'github_src': 'http://gitlab.com/kicad/kicad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/kicad_package_csp_wlcsp_8_1_551x2_284mm_p0_5mm/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/kicad_package_csp_wlcsp_8_1_551x2_284mm_p0_5mm/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/kicad_package_csp_wlcsp_8_1_551x2_284mm_p0_5mm/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/kicad_package_csp_wlcsp_8_1_551x2_284mm_p0_5mm/working'} |  
+| name | kicad-footprints |  
+| oomp | {'footprint_name': 'wlcsp_8_1_551x2_284mm_p0_5mm', 'library_name': 'package_csp', 'md5': '93fe35f46b2a399536a1768f5fe2485c', 'md5_10': '93fe35f46b', 'md5_5': '93fe3', 'md5_6': '93fe35', 'oomp_key': 'oomp_kicad_package_csp_wlcsp_8_1_551x2_284mm_p0_5mm', 'oomp_key_extra': 'oomp_footprint_kicad_package_csp_wlcsp_8_1_551x2_284mm_p0_5mm', 'oomp_key_full': 'oomp_footprint_kicad_package_csp_wlcsp_8_1_551x2_284mm_p0_5mm_93fe35', 'oomp_key_simple': 'kicad_package_csp_wlcsp_8_1_551x2_284mm_p0_5mm', 'original_filename': 'data//oomlout_oomp_footprint_src/kicad-footprints/Package_CSP.pretty/WLCSP-8_1.551x2.284mm_P0.5mm.kicad_mod', 'owner_name': 'kicad'} |  
+| oomp_key | oomp_kicad_package_csp_wlcsp_8_1_551x2_284mm_p0_5mm |  
+| oomp_key_full | oomp_footprint_kicad_package_csp_wlcsp_8_1_551x2_284mm_p0_5mm |  
+| oomp_key_simple | kicad_package_csp_wlcsp_8_1_551x2_284mm_p0_5mm |  
+| owner | kicad |  
+| repo | {'documentation_url': 'https://docs.github.com/rest/repos/repos#get-a-repository', 'message': 'Not Found'} |  
+| url | https://gitlab.com/kicad/libraries/kicad-footprints |  
+

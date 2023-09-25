@@ -1,0 +1,29 @@
+# kicad-footprints by kicad  
+This is a harvested standardized copy of a footprint from github.  
+The original project can be found at:  
+https://gitlab.com/kicad/libraries/kicad-footprints  
+The original footprint can be found at:
+http://gitlab.com/kicad/kicad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod
+Please consult that link for additional, details, files, and license information.  
+## Footprint Details
+* description: PowerPAK SO-8 Dual (https://www.vishay.com/docs/71655/powerpak.pdf, https://www.vishay.com/docs/72600/72600.pdf)  
+* libraryLink: PowerPAK_SO-8_Dual  
+* number_of_pads: 10  
+## yaml dump  
+| Key | Value |  
+| --- | --- |  
+| file | data//oomlout_oomp_footprint_src/kicad-footprints/Package_SO.pretty/PowerPAK_SO-8_Dual.kicad_mod |  
+| footprint | {'description': 'PowerPAK SO-8 Dual (https://www.vishay.com/docs/71655/powerpak.pdf, https://www.vishay.com/docs/72600/72600.pdf)', 'libraryLink': 'PowerPAK_SO-8_Dual', 'number_of_pads': 10} |  
+| footprint_library_directory | footprint_library_owner/kicad_kicad-footprints/ |  
+| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/kicad_package_so_powerpak_so_8_dual/working |  
+| github_path | http://github.com/kicad/kicad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/Package_SO.pretty/PowerPAK_SO-8_Dual.kicad_mod |  
+| links | {'github_src': 'http://gitlab.com/kicad/kicad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/kicad_package_so_powerpak_so_8_dual/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/kicad_package_so_powerpak_so_8_dual/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/kicad_package_so_powerpak_so_8_dual/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/kicad_package_so_powerpak_so_8_dual/working'} |  
+| name | kicad-footprints |  
+| oomp | {'footprint_name': 'powerpak_so_8_dual', 'library_name': 'package_so', 'md5': 'eafc419ee16c5c787e91cd1492ac3a78', 'md5_10': 'eafc419ee1', 'md5_5': 'eafc4', 'md5_6': 'eafc41', 'oomp_key': 'oomp_kicad_package_so_powerpak_so_8_dual', 'oomp_key_extra': 'oomp_footprint_kicad_package_so_powerpak_so_8_dual', 'oomp_key_full': 'oomp_footprint_kicad_package_so_powerpak_so_8_dual_eafc41', 'oomp_key_simple': 'kicad_package_so_powerpak_so_8_dual', 'original_filename': 'data//oomlout_oomp_footprint_src/kicad-footprints/Package_SO.pretty/PowerPAK_SO-8_Dual.kicad_mod', 'owner_name': 'kicad'} |  
+| oomp_key | oomp_kicad_package_so_powerpak_so_8_dual |  
+| oomp_key_full | oomp_footprint_kicad_package_so_powerpak_so_8_dual |  
+| oomp_key_simple | kicad_package_so_powerpak_so_8_dual |  
+| owner | kicad |  
+| repo | {'documentation_url': 'https://docs.github.com/rest/repos/repos#get-a-repository', 'message': 'Not Found'} |  
+| url | https://gitlab.com/kicad/libraries/kicad-footprints |  
+

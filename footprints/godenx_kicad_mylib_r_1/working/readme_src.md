@@ -1,0 +1,29 @@
+# KiCAD_MyLib.pretty by GodenX  
+This is a harvested standardized copy of a footprint from github.  
+The original project can be found at:  
+https://gitlab.com/kicad/libraries/kicad-footprints  
+The original footprint can be found at:
+http://gitlab.com/GodenX/KiCAD_MyLib.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/R_1.kicad_mod
+Please consult that link for additional, details, files, and license information.  
+## Footprint Details
+* description: None  
+* libraryLink: R_1  
+* number_of_pads: 2  
+## yaml dump  
+| Key | Value |  
+| --- | --- |  
+| file | data//oomlout_oomp_footprint_src/KiCAD_MyLib.pretty/R_1.kicad_mod |  
+| footprint | {'description': None, 'libraryLink': 'R_1', 'number_of_pads': 2} |  
+| footprint_library_directory | footprint_library_owner/GodenX_KiCAD_MyLib.pretty |  
+| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/godenx_kicad_mylib_r_1/working |  
+| github_path | http://github.com/GodenX/KiCAD_MyLib.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/R_1.kicad_mod |  
+| links | {'github_src': 'http://gitlab.com/GodenX/KiCAD_MyLib.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/R_1.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/godenx_kicad_mylib_r_1/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/godenx_kicad_mylib_r_1/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/godenx_kicad_mylib_r_1/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/godenx_kicad_mylib_r_1/working'} |  
+| name | KiCAD_MyLib.pretty |  
+| oomp | {'footprint_name': 'r_1', 'library_name': 'kicad_mylib', 'md5': '543d5035daeb5dcc230152eb25ebcc0d', 'md5_10': '543d5035da', 'md5_5': '543d5', 'md5_6': '543d50', 'oomp_key': 'oomp_godenx_kicad_mylib_r_1', 'oomp_key_extra': 'oomp_footprint_godenx_kicad_mylib_r_1', 'oomp_key_full': 'oomp_footprint_godenx_kicad_mylib_r_1_543d50', 'oomp_key_simple': 'godenx_kicad_mylib_r_1', 'original_filename': 'data//oomlout_oomp_footprint_src/KiCAD_MyLib.pretty/R_1.kicad_mod', 'owner_name': 'godenx'} |  
+| oomp_key | oomp_godenx_kicad_mylib_r_1 |  
+| oomp_key_full | oomp_footprint_godenx_kicad_mylib_r_1 |  
+| oomp_key_simple | godenx_kicad_mylib_r_1 |  
+| owner | GodenX |  
+| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.142.224. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
+| url | http://github.com/GodenX/KiCAD_MyLib.pretty |  
+

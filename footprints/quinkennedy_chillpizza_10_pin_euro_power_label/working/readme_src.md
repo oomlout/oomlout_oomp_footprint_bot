@@ -1,0 +1,29 @@
+# chillpizza.pretty by quinkennedy  
+This is a harvested standardized copy of a footprint from github.  
+The original project can be found at:  
+https://gitlab.com/kicad/libraries/kicad-footprints  
+The original footprint can be found at:
+http://gitlab.com/quinkennedy/chillpizza.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/THONKICONN_mill_kicad.kicad_mod
+Please consult that link for additional, details, files, and license information.  
+## Footprint Details
+* description: None  
+* libraryLink: LOGO  
+* number_of_pads: 0  
+## yaml dump  
+| Key | Value |  
+| --- | --- |  
+| file | data//oomlout_oomp_footprint_src/chillpizza.pretty/10-pin euro power label.kicad_mod |  
+| footprint | {'description': None, 'libraryLink': 'LOGO', 'number_of_pads': 0} |  
+| footprint_library_directory | footprint_library_owner/quinkennedy_chillpizza.pretty |  
+| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/quinkennedy_chillpizza_10_pin_euro_power_label/working |  
+| github_path | http://github.com/quinkennedy/chillpizza.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/10-pin euro power label.kicad_mod |  
+| links | {'github_src': 'http://gitlab.com/quinkennedy/chillpizza.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/THONKICONN_mill_kicad.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/quinkennedy_chillpizza_10_pin_euro_power_label/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/quinkennedy_chillpizza_10_pin_euro_power_label/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/quinkennedy_chillpizza_10_pin_euro_power_label/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/quinkennedy_chillpizza_10_pin_euro_power_label/working'} |  
+| name | chillpizza.pretty |  
+| oomp | {'footprint_name': '10_pin_euro_power_label', 'library_name': 'chillpizza', 'md5': '4e7b55711bff5d1d68bf3f39e1749184', 'md5_10': '4e7b55711b', 'md5_5': '4e7b5', 'md5_6': '4e7b55', 'oomp_key': 'oomp_quinkennedy_chillpizza_10_pin_euro_power_label', 'oomp_key_extra': 'oomp_footprint_quinkennedy_chillpizza_10_pin_euro_power_label', 'oomp_key_full': 'oomp_footprint_quinkennedy_chillpizza_10_pin_euro_power_label_4e7b55', 'oomp_key_simple': 'quinkennedy_chillpizza_10_pin_euro_power_label', 'original_filename': 'data//oomlout_oomp_footprint_src/chillpizza.pretty/10-pin euro power label.kicad_mod', 'owner_name': 'quinkennedy'} |  
+| oomp_key | oomp_quinkennedy_chillpizza_10_pin_euro_power_label |  
+| oomp_key_full | oomp_footprint_quinkennedy_chillpizza_10_pin_euro_power_label |  
+| oomp_key_simple | quinkennedy_chillpizza_10_pin_euro_power_label |  
+| owner | quinkennedy |  
+| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.142.224. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
+| url | http://github.com/quinkennedy/chillpizza.pretty |  
+

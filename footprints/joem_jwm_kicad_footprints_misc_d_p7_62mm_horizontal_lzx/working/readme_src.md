@@ -1,0 +1,29 @@
+# jwm_kicad_footprints_misc.pretty by joem  
+This is a harvested standardized copy of a footprint from github.  
+The original project can be found at:  
+https://gitlab.com/kicad/libraries/kicad-footprints  
+The original footprint can be found at:
+http://gitlab.com/joem/jwm_kicad_footprints_misc.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Switch_Toggle_Mountain-Switch_10TF230_Horizontal.kicad_mod
+Please consult that link for additional, details, files, and license information.  
+## Footprint Details
+* description: Diode, DO-34_SOD68 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=3.04*1.6mm^2, , https://www.nxp.com/docs/en/data-sheet/KTY83_SER.pdf  
+* libraryLink: D_P7.62mm_Horizontal_LZX  
+* number_of_pads: 2  
+## yaml dump  
+| Key | Value |  
+| --- | --- |  
+| file | data//oomlout_oomp_footprint_src/jwm_kicad_footprints_misc.pretty/D_P7.62mm_Horizontal_LZX.kicad_mod |  
+| footprint | {'description': 'Diode, DO-34_SOD68 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=3.04*1.6mm^2, , https://www.nxp.com/docs/en/data-sheet/KTY83_SER.pdf', 'libraryLink': 'D_P7.62mm_Horizontal_LZX', 'number_of_pads': 2} |  
+| footprint_library_directory | footprint_library_owner/joem_jwm_kicad_footprints_misc.pretty |  
+| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/joem_jwm_kicad_footprints_misc_d_p7_62mm_horizontal_lzx/working |  
+| github_path | http://github.com/joem/jwm_kicad_footprints_misc.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/D_P7.62mm_Horizontal_LZX.kicad_mod |  
+| links | {'github_src': 'http://gitlab.com/joem/jwm_kicad_footprints_misc.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Switch_Toggle_Mountain-Switch_10TF230_Horizontal.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/joem_jwm_kicad_footprints_misc_d_p7_62mm_horizontal_lzx/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/joem_jwm_kicad_footprints_misc_d_p7_62mm_horizontal_lzx/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/joem_jwm_kicad_footprints_misc_d_p7_62mm_horizontal_lzx/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/joem_jwm_kicad_footprints_misc_d_p7_62mm_horizontal_lzx/working'} |  
+| name | jwm_kicad_footprints_misc.pretty |  
+| oomp | {'footprint_name': 'd_p7_62mm_horizontal_lzx', 'library_name': 'jwm_kicad_footprints_misc', 'md5': '2e9eb0df63d8f7f51fd44cbcac56ad95', 'md5_10': '2e9eb0df63', 'md5_5': '2e9eb', 'md5_6': '2e9eb0', 'oomp_key': 'oomp_joem_jwm_kicad_footprints_misc_d_p7_62mm_horizontal_lzx', 'oomp_key_extra': 'oomp_footprint_joem_jwm_kicad_footprints_misc_d_p7_62mm_horizontal_lzx', 'oomp_key_full': 'oomp_footprint_joem_jwm_kicad_footprints_misc_d_p7_62mm_horizontal_lzx_2e9eb0', 'oomp_key_simple': 'joem_jwm_kicad_footprints_misc_d_p7_62mm_horizontal_lzx', 'original_filename': 'data//oomlout_oomp_footprint_src/jwm_kicad_footprints_misc.pretty/D_P7.62mm_Horizontal_LZX.kicad_mod', 'owner_name': 'joem'} |  
+| oomp_key | oomp_joem_jwm_kicad_footprints_misc_d_p7_62mm_horizontal_lzx |  
+| oomp_key_full | oomp_footprint_joem_jwm_kicad_footprints_misc_d_p7_62mm_horizontal_lzx |  
+| oomp_key_simple | joem_jwm_kicad_footprints_misc_d_p7_62mm_horizontal_lzx |  
+| owner | joem |  
+| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.142.224. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
+| url | http://github.com/joem/jwm_kicad_footprints_misc.pretty |  
+

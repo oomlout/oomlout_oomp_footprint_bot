@@ -1,0 +1,29 @@
+# kicad_reinnovation by re-innovation  
+This is a harvested standardized copy of a footprint from github.  
+The original project can be found at:  
+https://gitlab.com/kicad/libraries/kicad-footprints  
+The original footprint can be found at:
+http://gitlab.com/re-innovation/kicad_reinnovation/blob/master/tmp/data//oomlout_oomp_footprint_src/KiCAD PRETTY/Transistors_SMD.pretty/VLM0806_Housing_Handsoldering.kicad_mod
+Please consult that link for additional, details, files, and license information.  
+## Footprint Details
+* description: Connecteur 6 pins  
+* libraryLink: SIL-5_P5_08mm  
+* number_of_pads: 5  
+## yaml dump  
+| Key | Value |  
+| --- | --- |  
+| file | data//oomlout_oomp_footprint_src/kicad_reinnovation/KiCAD PRETTY/REInnovationFootprint.pretty/SIL-5_P5_08mm.kicad_mod |  
+| footprint | {'description': 'Connecteur 6 pins', 'libraryLink': 'SIL-5_P5_08mm', 'number_of_pads': 5} |  
+| footprint_library_directory | footprint_library_owner/re-innovation_kicad_reinnovation |  
+| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/re_innovation_reinnovationfootprint_sil_5_p5_08mm/working |  
+| github_path | http://github.com/re-innovation/kicad_reinnovation/blob/master/tmp/data//oomlout_oomp_footprint_src/KiCAD PRETTY/REInnovationFootprint.pretty/SIL-5_P5_08mm.kicad_mod |  
+| links | {'github_src': 'http://gitlab.com/re-innovation/kicad_reinnovation/blob/master/tmp/data//oomlout_oomp_footprint_src/KiCAD PRETTY/Transistors_SMD.pretty/VLM0806_Housing_Handsoldering.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/re_innovation_reinnovationfootprint_sil_5_p5_08mm/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/re_innovation_reinnovationfootprint_sil_5_p5_08mm/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/re_innovation_reinnovationfootprint_sil_5_p5_08mm/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/re_innovation_reinnovationfootprint_sil_5_p5_08mm/working'} |  
+| name | kicad_reinnovation |  
+| oomp | {'footprint_name': 'sil_5_p5_08mm', 'library_name': 'reinnovationfootprint', 'md5': '8ad54e0717913978deb130b98c455399', 'md5_10': '8ad54e0717', 'md5_5': '8ad54', 'md5_6': '8ad54e', 'oomp_key': 'oomp_re_innovation_reinnovationfootprint_sil_5_p5_08mm', 'oomp_key_extra': 'oomp_footprint_re_innovation_reinnovationfootprint_sil_5_p5_08mm', 'oomp_key_full': 'oomp_footprint_re_innovation_reinnovationfootprint_sil_5_p5_08mm_8ad54e', 'oomp_key_simple': 're_innovation_reinnovationfootprint_sil_5_p5_08mm', 'original_filename': 'data//oomlout_oomp_footprint_src/kicad_reinnovation/KiCAD PRETTY/REInnovationFootprint.pretty/SIL-5_P5_08mm.kicad_mod', 'owner_name': 're_innovation'} |  
+| oomp_key | oomp_re_innovation_reinnovationfootprint_sil_5_p5_08mm |  
+| oomp_key_full | oomp_footprint_re_innovation_reinnovationfootprint_sil_5_p5_08mm |  
+| oomp_key_simple | re_innovation_reinnovationfootprint_sil_5_p5_08mm |  
+| owner | re-innovation |  
+| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.142.224. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
+| url | http://github.com/re-innovation/kicad_reinnovation |  
+

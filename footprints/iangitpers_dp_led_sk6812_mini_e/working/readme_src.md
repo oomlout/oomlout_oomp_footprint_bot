@@ -1,0 +1,29 @@
+# 4a by Iangitpers  
+This is a harvested standardized copy of a footprint from github.  
+The original project can be found at:  
+https://gitlab.com/kicad/libraries/kicad-footprints  
+The original footprint can be found at:
+http://gitlab.com/Iangitpers/4a/blob/master/tmp/data//oomlout_oomp_footprint_src/TYPE-C-31-M-12/HRO_TYPE-C-31-M-12.kicad_mod
+Please consult that link for additional, details, files, and license information.  
+## Footprint Details
+* description: make a rectangular cutout of 3.3 x 2.9 mm on the middle  
+* libraryLink: SK6812-mini-e  
+* number_of_pads: 4  
+## yaml dump  
+| Key | Value |  
+| --- | --- |  
+| file | data//oomlout_oomp_footprint_src/4a/dp-LED/dp-LED.pretty/SK6812-mini-e.kicad_mod |  
+| footprint | {'description': 'make a rectangular cutout of 3.3 x 2.9 mm on the middle', 'libraryLink': 'SK6812-mini-e', 'number_of_pads': 4} |  
+| footprint_library_directory | footprint_library_owner/Iangitpers_4a |  
+| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/iangitpers_dp_led_sk6812_mini_e/working |  
+| github_path | http://github.com/Iangitpers/4a/blob/master/tmp/data//oomlout_oomp_footprint_src/dp-LED/dp-LED.pretty/SK6812-mini-e.kicad_mod |  
+| links | {'github_src': 'http://gitlab.com/Iangitpers/4a/blob/master/tmp/data//oomlout_oomp_footprint_src/TYPE-C-31-M-12/HRO_TYPE-C-31-M-12.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/iangitpers_dp_led_sk6812_mini_e/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/iangitpers_dp_led_sk6812_mini_e/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/iangitpers_dp_led_sk6812_mini_e/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/iangitpers_dp_led_sk6812_mini_e/working'} |  
+| name | 4a |  
+| oomp | {'footprint_name': 'sk6812_mini_e', 'library_name': 'dp_led', 'md5': 'a940ed17d76761a78efb8d51c8259f3b', 'md5_10': 'a940ed17d7', 'md5_5': 'a940e', 'md5_6': 'a940ed', 'oomp_key': 'oomp_iangitpers_dp_led_sk6812_mini_e', 'oomp_key_extra': 'oomp_footprint_iangitpers_dp_led_sk6812_mini_e', 'oomp_key_full': 'oomp_footprint_iangitpers_dp_led_sk6812_mini_e_a940ed', 'oomp_key_simple': 'iangitpers_dp_led_sk6812_mini_e', 'original_filename': 'data//oomlout_oomp_footprint_src/4a/dp-LED/dp-LED.pretty/SK6812-mini-e.kicad_mod', 'owner_name': 'iangitpers'} |  
+| oomp_key | oomp_iangitpers_dp_led_sk6812_mini_e |  
+| oomp_key_full | oomp_footprint_iangitpers_dp_led_sk6812_mini_e |  
+| oomp_key_simple | iangitpers_dp_led_sk6812_mini_e |  
+| owner | Iangitpers |  
+| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.142.224. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
+| url | https://github.com/Iangitpers/4a |  
+

@@ -1,0 +1,29 @@
+# digikey-kicad-library by digikey  
+This is a harvested standardized copy of a footprint from github.  
+The original project can be found at:  
+https://gitlab.com/kicad/libraries/kicad-footprints  
+The original footprint can be found at:
+http://gitlab.com/digikey/digikey-kicad-library/blob/master/tmp/data//oomlout_oomp_footprint_src/src/Source_Footprints/Zigbee_Module_MRF24J40MD.kicad_mod
+Please consult that link for additional, details, files, and license information.  
+## Footprint Details
+* description: http://www.cui.com/product/resource/sj1-2503a.pdf  
+* libraryLink: Headphone_Jack_2.5mm_SJ1-2503A  
+* number_of_pads: 5  
+## yaml dump  
+| Key | Value |  
+| --- | --- |  
+| file | data//oomlout_oomp_footprint_src/digikey-kicad-library/digikey-footprints.pretty/Headphone_Jack_2.5mm_SJ1-2503A.kicad_mod |  
+| footprint | {'description': 'http://www.cui.com/product/resource/sj1-2503a.pdf', 'libraryLink': 'Headphone_Jack_2.5mm_SJ1-2503A', 'number_of_pads': 5} |  
+| footprint_library_directory | footprint_library_owner/digikey_digikey-kicad-library |  
+| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/digikey_digikey_footprints_headphone_jack_2_5mm_sj1_2503a/working |  
+| github_path | http://github.com/digikey/digikey-kicad-library/blob/master/tmp/data//oomlout_oomp_footprint_src/digikey-footprints.pretty/Headphone_Jack_2.5mm_SJ1-2503A.kicad_mod |  
+| links | {'github_src': 'http://gitlab.com/digikey/digikey-kicad-library/blob/master/tmp/data//oomlout_oomp_footprint_src/src/Source_Footprints/Zigbee_Module_MRF24J40MD.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/digikey_digikey_footprints_headphone_jack_2_5mm_sj1_2503a/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/digikey_digikey_footprints_headphone_jack_2_5mm_sj1_2503a/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/digikey_digikey_footprints_headphone_jack_2_5mm_sj1_2503a/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/digikey_digikey_footprints_headphone_jack_2_5mm_sj1_2503a/working'} |  
+| name | digikey-kicad-library |  
+| oomp | {'footprint_name': 'headphone_jack_2_5mm_sj1_2503a', 'library_name': 'digikey_footprints', 'md5': 'd1eb0ee3c105a6f7e759b7d57ccf2cb4', 'md5_10': 'd1eb0ee3c1', 'md5_5': 'd1eb0', 'md5_6': 'd1eb0e', 'oomp_key': 'oomp_digikey_digikey_footprints_headphone_jack_2_5mm_sj1_2503a', 'oomp_key_extra': 'oomp_footprint_digikey_digikey_footprints_headphone_jack_2_5mm_sj1_2503a', 'oomp_key_full': 'oomp_footprint_digikey_digikey_footprints_headphone_jack_2_5mm_sj1_2503a_d1eb0e', 'oomp_key_simple': 'digikey_digikey_footprints_headphone_jack_2_5mm_sj1_2503a', 'original_filename': 'data//oomlout_oomp_footprint_src/digikey-kicad-library/digikey-footprints.pretty/Headphone_Jack_2.5mm_SJ1-2503A.kicad_mod', 'owner_name': 'digikey'} |  
+| oomp_key | oomp_digikey_digikey_footprints_headphone_jack_2_5mm_sj1_2503a |  
+| oomp_key_full | oomp_footprint_digikey_digikey_footprints_headphone_jack_2_5mm_sj1_2503a |  
+| oomp_key_simple | digikey_digikey_footprints_headphone_jack_2_5mm_sj1_2503a |  
+| owner | digikey |  
+| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.142.224. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
+| url | http://github.com/digikey/digikey-kicad-library |  
+

@@ -1,0 +1,29 @@
+# kicad_subory.pretty by antonchromjak  
+This is a harvested standardized copy of a footprint from github.  
+The original project can be found at:  
+https://gitlab.com/kicad/libraries/kicad-footprints  
+The original footprint can be found at:
+http://gitlab.com/antonchromjak/kicad_subory.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/WSON10__.kicad_mod
+Please consult that link for additional, details, files, and license information.  
+## Footprint Details
+* description: None  
+* libraryLink: JST_ZH_1.5_6-Pin  
+* number_of_pads: 6  
+## yaml dump  
+| Key | Value |  
+| --- | --- |  
+| file | data//oomlout_oomp_footprint_src/kicad_subory.pretty/JST_ZH_1.5_6-Pin.kicad_mod |  
+| footprint | {'description': None, 'libraryLink': 'JST_ZH_1.5_6-Pin', 'number_of_pads': 6} |  
+| footprint_library_directory | footprint_library_owner/antonchromjak_kicad_subory.pretty |  
+| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/antonchromjak_kicad_subory_jst_zh_1_5_6_pin/working |  
+| github_path | http://github.com/antonchromjak/kicad_subory.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/JST_ZH_1.5_6-Pin.kicad_mod |  
+| links | {'github_src': 'http://gitlab.com/antonchromjak/kicad_subory.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/WSON10__.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/antonchromjak_kicad_subory_jst_zh_1_5_6_pin/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/antonchromjak_kicad_subory_jst_zh_1_5_6_pin/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/antonchromjak_kicad_subory_jst_zh_1_5_6_pin/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/antonchromjak_kicad_subory_jst_zh_1_5_6_pin/working'} |  
+| name | kicad_subory.pretty |  
+| oomp | {'footprint_name': 'jst_zh_1_5_6_pin', 'library_name': 'kicad_subory', 'md5': '156971db857a8d4606477d7aaf177a4f', 'md5_10': '156971db85', 'md5_5': '15697', 'md5_6': '156971', 'oomp_key': 'oomp_antonchromjak_kicad_subory_jst_zh_1_5_6_pin', 'oomp_key_extra': 'oomp_footprint_antonchromjak_kicad_subory_jst_zh_1_5_6_pin', 'oomp_key_full': 'oomp_footprint_antonchromjak_kicad_subory_jst_zh_1_5_6_pin_156971', 'oomp_key_simple': 'antonchromjak_kicad_subory_jst_zh_1_5_6_pin', 'original_filename': 'data//oomlout_oomp_footprint_src/kicad_subory.pretty/JST_ZH_1.5_6-Pin.kicad_mod', 'owner_name': 'antonchromjak'} |  
+| oomp_key | oomp_antonchromjak_kicad_subory_jst_zh_1_5_6_pin |  
+| oomp_key_full | oomp_footprint_antonchromjak_kicad_subory_jst_zh_1_5_6_pin |  
+| oomp_key_simple | antonchromjak_kicad_subory_jst_zh_1_5_6_pin |  
+| owner | antonchromjak |  
+| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.142.224. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
+| url | http://github.com/antonchromjak/kicad_subory.pretty |  
+

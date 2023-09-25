@@ -1,0 +1,29 @@
+# MHS_Robotics.pretty by emilytrau  
+This is a harvested standardized copy of a footprint from github.  
+The original project can be found at:  
+https://gitlab.com/kicad/libraries/kicad-footprints  
+The original footprint can be found at:
+http://gitlab.com/emilytrau/MHS_Robotics.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Tronixlabs_L298N.kicad_mod
+Please consult that link for additional, details, files, and license information.  
+## Footprint Details
+* description: None  
+* libraryLink: Tronixlabs_L298N  
+* number_of_pads: 23  
+## yaml dump  
+| Key | Value |  
+| --- | --- |  
+| file | data//oomlout_oomp_footprint_src/MHS_Robotics.pretty/Tronixlabs_L298N.kicad_mod |  
+| footprint | {'description': None, 'libraryLink': 'Tronixlabs_L298N', 'number_of_pads': 23} |  
+| footprint_library_directory | footprint_library_owner/emilytrau_MHS_Robotics.pretty |  
+| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/emilytrau_mhs_robotics_tronixlabs_l298n/working |  
+| github_path | http://github.com/emilytrau/MHS_Robotics.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Tronixlabs_L298N.kicad_mod |  
+| links | {'github_src': 'http://gitlab.com/emilytrau/MHS_Robotics.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Tronixlabs_L298N.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/emilytrau_mhs_robotics_tronixlabs_l298n/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/emilytrau_mhs_robotics_tronixlabs_l298n/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/emilytrau_mhs_robotics_tronixlabs_l298n/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/emilytrau_mhs_robotics_tronixlabs_l298n/working'} |  
+| name | MHS_Robotics.pretty |  
+| oomp | {'footprint_name': 'tronixlabs_l298n', 'library_name': 'mhs_robotics', 'md5': '39ada64875127adb1e53d122b9a63d59', 'md5_10': '39ada64875', 'md5_5': '39ada', 'md5_6': '39ada6', 'oomp_key': 'oomp_emilytrau_mhs_robotics_tronixlabs_l298n', 'oomp_key_extra': 'oomp_footprint_emilytrau_mhs_robotics_tronixlabs_l298n', 'oomp_key_full': 'oomp_footprint_emilytrau_mhs_robotics_tronixlabs_l298n_39ada6', 'oomp_key_simple': 'emilytrau_mhs_robotics_tronixlabs_l298n', 'original_filename': 'data//oomlout_oomp_footprint_src/MHS_Robotics.pretty/Tronixlabs_L298N.kicad_mod', 'owner_name': 'emilytrau'} |  
+| oomp_key | oomp_emilytrau_mhs_robotics_tronixlabs_l298n |  
+| oomp_key_full | oomp_footprint_emilytrau_mhs_robotics_tronixlabs_l298n |  
+| oomp_key_simple | emilytrau_mhs_robotics_tronixlabs_l298n |  
+| owner | emilytrau |  
+| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.142.224. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
+| url | http://github.com/emilytrau/MHS_Robotics.pretty |  
+

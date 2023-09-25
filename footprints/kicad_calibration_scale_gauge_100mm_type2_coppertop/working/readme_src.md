@@ -1,0 +1,29 @@
+# kicad-footprints by kicad  
+This is a harvested standardized copy of a footprint from github.  
+The original project can be found at:  
+https://gitlab.com/kicad/libraries/kicad-footprints  
+The original footprint can be found at:
+http://gitlab.com/kicad/kicad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod
+Please consult that link for additional, details, files, and license information.  
+## Footprint Details
+* description: Gauge, Massstab, 100mm, CopperTop, Type 2,  
+* libraryLink: Gauge_100mm_Type2_CopperTop  
+* number_of_pads: 0  
+## yaml dump  
+| Key | Value |  
+| --- | --- |  
+| file | data//oomlout_oomp_footprint_src/kicad-footprints/Calibration_Scale.pretty/Gauge_100mm_Type2_CopperTop.kicad_mod |  
+| footprint | {'description': 'Gauge, Massstab, 100mm, CopperTop, Type 2,', 'libraryLink': 'Gauge_100mm_Type2_CopperTop', 'number_of_pads': 0} |  
+| footprint_library_directory | footprint_library_owner/kicad_kicad-footprints/ |  
+| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/kicad_calibration_scale_gauge_100mm_type2_coppertop/working |  
+| github_path | http://github.com/kicad/kicad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/Calibration_Scale.pretty/Gauge_100mm_Type2_CopperTop.kicad_mod |  
+| links | {'github_src': 'http://gitlab.com/kicad/kicad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/kicad_calibration_scale_gauge_100mm_type2_coppertop/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/kicad_calibration_scale_gauge_100mm_type2_coppertop/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/kicad_calibration_scale_gauge_100mm_type2_coppertop/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/kicad_calibration_scale_gauge_100mm_type2_coppertop/working'} |  
+| name | kicad-footprints |  
+| oomp | {'footprint_name': 'gauge_100mm_type2_coppertop', 'library_name': 'calibration_scale', 'md5': '48c16b005035f30e820e6c6992a6e986', 'md5_10': '48c16b0050', 'md5_5': '48c16', 'md5_6': '48c16b', 'oomp_key': 'oomp_kicad_calibration_scale_gauge_100mm_type2_coppertop', 'oomp_key_extra': 'oomp_footprint_kicad_calibration_scale_gauge_100mm_type2_coppertop', 'oomp_key_full': 'oomp_footprint_kicad_calibration_scale_gauge_100mm_type2_coppertop_48c16b', 'oomp_key_simple': 'kicad_calibration_scale_gauge_100mm_type2_coppertop', 'original_filename': 'data//oomlout_oomp_footprint_src/kicad-footprints/Calibration_Scale.pretty/Gauge_100mm_Type2_CopperTop.kicad_mod', 'owner_name': 'kicad'} |  
+| oomp_key | oomp_kicad_calibration_scale_gauge_100mm_type2_coppertop |  
+| oomp_key_full | oomp_footprint_kicad_calibration_scale_gauge_100mm_type2_coppertop |  
+| oomp_key_simple | kicad_calibration_scale_gauge_100mm_type2_coppertop |  
+| owner | kicad |  
+| repo | {'documentation_url': 'https://docs.github.com/rest/repos/repos#get-a-repository', 'message': 'Not Found'} |  
+| url | https://gitlab.com/kicad/libraries/kicad-footprints |  
+

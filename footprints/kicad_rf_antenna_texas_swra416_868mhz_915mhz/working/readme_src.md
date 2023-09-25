@@ -1,0 +1,29 @@
+# kicad-footprints by kicad  
+This is a harvested standardized copy of a footprint from github.  
+The original project can be found at:  
+https://gitlab.com/kicad/libraries/kicad-footprints  
+The original footprint can be found at:
+http://gitlab.com/kicad/kicad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod
+Please consult that link for additional, details, files, and license information.  
+## Footprint Details
+* description: http://www.ti.com/lit/an/swra416/swra416.pdf  
+* libraryLink: Texas_SWRA416_868MHz_915MHz  
+* number_of_pads: 20  
+## yaml dump  
+| Key | Value |  
+| --- | --- |  
+| file | data//oomlout_oomp_footprint_src/kicad-footprints/RF_Antenna.pretty/Texas_SWRA416_868MHz_915MHz.kicad_mod |  
+| footprint | {'description': 'http://www.ti.com/lit/an/swra416/swra416.pdf', 'libraryLink': 'Texas_SWRA416_868MHz_915MHz', 'number_of_pads': 20} |  
+| footprint_library_directory | footprint_library_owner/kicad_kicad-footprints/ |  
+| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/kicad_rf_antenna_texas_swra416_868mhz_915mhz/working |  
+| github_path | http://github.com/kicad/kicad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/RF_Antenna.pretty/Texas_SWRA416_868MHz_915MHz.kicad_mod |  
+| links | {'github_src': 'http://gitlab.com/kicad/kicad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/kicad_rf_antenna_texas_swra416_868mhz_915mhz/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/kicad_rf_antenna_texas_swra416_868mhz_915mhz/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/kicad_rf_antenna_texas_swra416_868mhz_915mhz/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/kicad_rf_antenna_texas_swra416_868mhz_915mhz/working'} |  
+| name | kicad-footprints |  
+| oomp | {'footprint_name': 'texas_swra416_868mhz_915mhz', 'library_name': 'rf_antenna', 'md5': '45cec2a526243412bb46f038be67f36b', 'md5_10': '45cec2a526', 'md5_5': '45cec', 'md5_6': '45cec2', 'oomp_key': 'oomp_kicad_rf_antenna_texas_swra416_868mhz_915mhz', 'oomp_key_extra': 'oomp_footprint_kicad_rf_antenna_texas_swra416_868mhz_915mhz', 'oomp_key_full': 'oomp_footprint_kicad_rf_antenna_texas_swra416_868mhz_915mhz_45cec2', 'oomp_key_simple': 'kicad_rf_antenna_texas_swra416_868mhz_915mhz', 'original_filename': 'data//oomlout_oomp_footprint_src/kicad-footprints/RF_Antenna.pretty/Texas_SWRA416_868MHz_915MHz.kicad_mod', 'owner_name': 'kicad'} |  
+| oomp_key | oomp_kicad_rf_antenna_texas_swra416_868mhz_915mhz |  
+| oomp_key_full | oomp_footprint_kicad_rf_antenna_texas_swra416_868mhz_915mhz |  
+| oomp_key_simple | kicad_rf_antenna_texas_swra416_868mhz_915mhz |  
+| owner | kicad |  
+| repo | {'documentation_url': 'https://docs.github.com/rest/repos/repos#get-a-repository', 'message': 'Not Found'} |  
+| url | https://gitlab.com/kicad/libraries/kicad-footprints |  
+

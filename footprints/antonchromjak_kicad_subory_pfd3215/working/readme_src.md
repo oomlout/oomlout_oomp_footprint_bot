@@ -1,0 +1,29 @@
+# kicad_subory.pretty by antonchromjak  
+This is a harvested standardized copy of a footprint from github.  
+The original project can be found at:  
+https://gitlab.com/kicad/libraries/kicad-footprints  
+The original footprint can be found at:
+http://gitlab.com/antonchromjak/kicad_subory.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/WSON10__.kicad_mod
+Please consult that link for additional, details, files, and license information.  
+## Footprint Details
+* description: None  
+* libraryLink: PFD3215  
+* number_of_pads: 4  
+## yaml dump  
+| Key | Value |  
+| --- | --- |  
+| file | data//oomlout_oomp_footprint_src/kicad_subory.pretty/PFD3215.kicad_mod |  
+| footprint | {'description': None, 'libraryLink': 'PFD3215', 'number_of_pads': 4} |  
+| footprint_library_directory | footprint_library_owner/antonchromjak_kicad_subory.pretty |  
+| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/antonchromjak_kicad_subory_pfd3215/working |  
+| github_path | http://github.com/antonchromjak/kicad_subory.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/PFD3215.kicad_mod |  
+| links | {'github_src': 'http://gitlab.com/antonchromjak/kicad_subory.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/WSON10__.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/antonchromjak_kicad_subory_pfd3215/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/antonchromjak_kicad_subory_pfd3215/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/antonchromjak_kicad_subory_pfd3215/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/antonchromjak_kicad_subory_pfd3215/working'} |  
+| name | kicad_subory.pretty |  
+| oomp | {'footprint_name': 'pfd3215', 'library_name': 'kicad_subory', 'md5': 'bedf0ca6a91d1affa67596f0e3a69862', 'md5_10': 'bedf0ca6a9', 'md5_5': 'bedf0', 'md5_6': 'bedf0c', 'oomp_key': 'oomp_antonchromjak_kicad_subory_pfd3215', 'oomp_key_extra': 'oomp_footprint_antonchromjak_kicad_subory_pfd3215', 'oomp_key_full': 'oomp_footprint_antonchromjak_kicad_subory_pfd3215_bedf0c', 'oomp_key_simple': 'antonchromjak_kicad_subory_pfd3215', 'original_filename': 'data//oomlout_oomp_footprint_src/kicad_subory.pretty/PFD3215.kicad_mod', 'owner_name': 'antonchromjak'} |  
+| oomp_key | oomp_antonchromjak_kicad_subory_pfd3215 |  
+| oomp_key_full | oomp_footprint_antonchromjak_kicad_subory_pfd3215 |  
+| oomp_key_simple | antonchromjak_kicad_subory_pfd3215 |  
+| owner | antonchromjak |  
+| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.142.224. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
+| url | http://github.com/antonchromjak/kicad_subory.pretty |  
+

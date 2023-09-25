@@ -1,0 +1,29 @@
+# awallinKiCadFootprints.pretty by aewallin  
+This is a harvested standardized copy of a footprint from github.  
+The original project can be found at:  
+https://gitlab.com/kicad/libraries/kicad-footprints  
+The original footprint can be found at:
+http://gitlab.com/aewallin/awallinKiCadFootprints.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Y3split_0.350mm.kicad_mod
+Please consult that link for additional, details, files, and license information.  
+## Footprint Details
+* description: http://www.conwin.com/datasheets/cx/cx282.pdf  
+* libraryLink: Oscillator_SMD_OCXO_ConnorWinfield_OH300  
+* number_of_pads: 7  
+## yaml dump  
+| Key | Value |  
+| --- | --- |  
+| file | data//oomlout_oomp_footprint_src/awallinKiCadFootprints.pretty/Oscillator_SMD_OCXO_ConnorWinfield_OH300.kicad_mod |  
+| footprint | {'description': 'http://www.conwin.com/datasheets/cx/cx282.pdf', 'libraryLink': 'Oscillator_SMD_OCXO_ConnorWinfield_OH300', 'number_of_pads': 7} |  
+| footprint_library_directory | footprint_library_owner/aewallin_awallinKiCadFootprints.pretty |  
+| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/aewallin_awallinkicadfootprints_oscillator_smd_ocxo_connorwinfield_oh300/working |  
+| github_path | http://github.com/aewallin/awallinKiCadFootprints.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Oscillator_SMD_OCXO_ConnorWinfield_OH300.kicad_mod |  
+| links | {'github_src': 'http://gitlab.com/aewallin/awallinKiCadFootprints.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Y3split_0.350mm.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/aewallin_awallinkicadfootprints_oscillator_smd_ocxo_connorwinfield_oh300/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/aewallin_awallinkicadfootprints_oscillator_smd_ocxo_connorwinfield_oh300/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/aewallin_awallinkicadfootprints_oscillator_smd_ocxo_connorwinfield_oh300/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/aewallin_awallinkicadfootprints_oscillator_smd_ocxo_connorwinfield_oh300/working'} |  
+| name | awallinKiCadFootprints.pretty |  
+| oomp | {'footprint_name': 'oscillator_smd_ocxo_connorwinfield_oh300', 'library_name': 'awallinkicadfootprints', 'md5': 'cbc4da86b62efaa5c96be574f9fb0a57', 'md5_10': 'cbc4da86b6', 'md5_5': 'cbc4d', 'md5_6': 'cbc4da', 'oomp_key': 'oomp_aewallin_awallinkicadfootprints_oscillator_smd_ocxo_connorwinfield_oh300', 'oomp_key_extra': 'oomp_footprint_aewallin_awallinkicadfootprints_oscillator_smd_ocxo_connorwinfield_oh300', 'oomp_key_full': 'oomp_footprint_aewallin_awallinkicadfootprints_oscillator_smd_ocxo_connorwinfield_oh300_cbc4da', 'oomp_key_simple': 'aewallin_awallinkicadfootprints_oscillator_smd_ocxo_connorwinfield_oh300', 'original_filename': 'data//oomlout_oomp_footprint_src/awallinKiCadFootprints.pretty/Oscillator_SMD_OCXO_ConnorWinfield_OH300.kicad_mod', 'owner_name': 'aewallin'} |  
+| oomp_key | oomp_aewallin_awallinkicadfootprints_oscillator_smd_ocxo_connorwinfield_oh300 |  
+| oomp_key_full | oomp_footprint_aewallin_awallinkicadfootprints_oscillator_smd_ocxo_connorwinfield_oh300 |  
+| oomp_key_simple | aewallin_awallinkicadfootprints_oscillator_smd_ocxo_connorwinfield_oh300 |  
+| owner | aewallin |  
+| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.142.224. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
+| url | http://github.com/aewallin/awallinKiCadFootprints.pretty |  
+

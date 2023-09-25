@@ -1,0 +1,29 @@
+# kicad-libraries by espressif  
+This is a harvested standardized copy of a footprint from github.  
+The original project can be found at:  
+https://gitlab.com/kicad/libraries/kicad-footprints  
+The original footprint can be found at:
+http://gitlab.com/espressif/kicad-libraries/blob/master/tmp/data//oomlout_oomp_footprint_src/footprints/Espressif.pretty/ESP32-WROVER-E_ThermalVias.kicad_mod
+Please consult that link for additional, details, files, and license information.  
+## Footprint Details
+* description: ESP32-C6 general-purpose development board, based on ESP32-2-WROOM-1,It has all the ESP32-C6 pins exposed and is easy to connect and use.  
+* libraryLink: ESP32-C6-DevKitC-1  
+* number_of_pads: 32  
+## yaml dump  
+| Key | Value |  
+| --- | --- |  
+| file | data//oomlout_oomp_footprint_src/kicad-libraries/footprints/Espressif.pretty/ESP32-C6-DevKitC-1.kicad_mod |  
+| footprint | {'description': 'ESP32-C6 general-purpose development board, based on ESP32-2-WROOM-1,It has all the ESP32-C6 pins exposed and is easy to connect and use.', 'libraryLink': 'ESP32-C6-DevKitC-1', 'number_of_pads': 32} |  
+| footprint_library_directory | footprint_library_owner/espressif_kicad-libraries |  
+| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/espressif_espressif_esp32_c6_devkitc_1/working |  
+| github_path | http://github.com/espressif/kicad-libraries/blob/master/tmp/data//oomlout_oomp_footprint_src/footprints/Espressif.pretty/ESP32-C6-DevKitC-1.kicad_mod |  
+| links | {'github_src': 'http://gitlab.com/espressif/kicad-libraries/blob/master/tmp/data//oomlout_oomp_footprint_src/footprints/Espressif.pretty/ESP32-WROVER-E_ThermalVias.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/espressif_espressif_esp32_c6_devkitc_1/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/espressif_espressif_esp32_c6_devkitc_1/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/espressif_espressif_esp32_c6_devkitc_1/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/espressif_espressif_esp32_c6_devkitc_1/working'} |  
+| name | kicad-libraries |  
+| oomp | {'footprint_name': 'esp32_c6_devkitc_1', 'library_name': 'espressif', 'md5': '1bd64997411b00d071038e8a71bbf0db', 'md5_10': '1bd6499741', 'md5_5': '1bd64', 'md5_6': '1bd649', 'oomp_key': 'oomp_espressif_espressif_esp32_c6_devkitc_1', 'oomp_key_extra': 'oomp_footprint_espressif_espressif_esp32_c6_devkitc_1', 'oomp_key_full': 'oomp_footprint_espressif_espressif_esp32_c6_devkitc_1_1bd649', 'oomp_key_simple': 'espressif_espressif_esp32_c6_devkitc_1', 'original_filename': 'data//oomlout_oomp_footprint_src/kicad-libraries/footprints/Espressif.pretty/ESP32-C6-DevKitC-1.kicad_mod', 'owner_name': 'espressif'} |  
+| oomp_key | oomp_espressif_espressif_esp32_c6_devkitc_1 |  
+| oomp_key_full | oomp_footprint_espressif_espressif_esp32_c6_devkitc_1 |  
+| oomp_key_simple | espressif_espressif_esp32_c6_devkitc_1 |  
+| owner | espressif |  
+| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.142.224. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
+| url | http://github.com/espressif/kicad-libraries |  
+

@@ -1,0 +1,29 @@
+# kicad-footprints by kicad  
+This is a harvested standardized copy of a footprint from github.  
+The original project can be found at:  
+https://gitlab.com/kicad/libraries/kicad-footprints  
+The original footprint can be found at:
+http://gitlab.com/kicad/kicad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod
+Please consult that link for additional, details, files, and license information.  
+## Footprint Details
+* description: XDFN4 footprint (as found on the https://www.onsemi.com/pub/Collateral/NCP115-D.PDF)  
+* libraryLink: OnSemi_XDFN4-1EP_1.0x1.0mm_EP0.52x0.52mm  
+* number_of_pads: 5  
+## yaml dump  
+| Key | Value |  
+| --- | --- |  
+| file | data//oomlout_oomp_footprint_src/kicad-footprints/Package_DFN_QFN.pretty/OnSemi_XDFN4-1EP_1.0x1.0mm_EP0.52x0.52mm.kicad_mod |  
+| footprint | {'description': 'XDFN4 footprint (as found on the https://www.onsemi.com/pub/Collateral/NCP115-D.PDF)', 'libraryLink': 'OnSemi_XDFN4-1EP_1.0x1.0mm_EP0.52x0.52mm', 'number_of_pads': 5} |  
+| footprint_library_directory | footprint_library_owner/kicad_kicad-footprints/ |  
+| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/kicad_package_dfn_qfn_onsemi_xdfn4_1ep_1_0x1_0mm_ep0_52x0_52mm/working |  
+| github_path | http://github.com/kicad/kicad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/Package_DFN_QFN.pretty/OnSemi_XDFN4-1EP_1.0x1.0mm_EP0.52x0.52mm.kicad_mod |  
+| links | {'github_src': 'http://gitlab.com/kicad/kicad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/kicad_package_dfn_qfn_onsemi_xdfn4_1ep_1_0x1_0mm_ep0_52x0_52mm/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/kicad_package_dfn_qfn_onsemi_xdfn4_1ep_1_0x1_0mm_ep0_52x0_52mm/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/kicad_package_dfn_qfn_onsemi_xdfn4_1ep_1_0x1_0mm_ep0_52x0_52mm/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/kicad_package_dfn_qfn_onsemi_xdfn4_1ep_1_0x1_0mm_ep0_52x0_52mm/working'} |  
+| name | kicad-footprints |  
+| oomp | {'footprint_name': 'onsemi_xdfn4_1ep_1_0x1_0mm_ep0_52x0_52mm', 'library_name': 'package_dfn_qfn', 'md5': '48a983198574f9bb46ed230de54fbfb0', 'md5_10': '48a9831985', 'md5_5': '48a98', 'md5_6': '48a983', 'oomp_key': 'oomp_kicad_package_dfn_qfn_onsemi_xdfn4_1ep_1_0x1_0mm_ep0_52x0_52mm', 'oomp_key_extra': 'oomp_footprint_kicad_package_dfn_qfn_onsemi_xdfn4_1ep_1_0x1_0mm_ep0_52x0_52mm', 'oomp_key_full': 'oomp_footprint_kicad_package_dfn_qfn_onsemi_xdfn4_1ep_1_0x1_0mm_ep0_52x0_52mm_48a983', 'oomp_key_simple': 'kicad_package_dfn_qfn_onsemi_xdfn4_1ep_1_0x1_0mm_ep0_52x0_52mm', 'original_filename': 'data//oomlout_oomp_footprint_src/kicad-footprints/Package_DFN_QFN.pretty/OnSemi_XDFN4-1EP_1.0x1.0mm_EP0.52x0.52mm.kicad_mod', 'owner_name': 'kicad'} |  
+| oomp_key | oomp_kicad_package_dfn_qfn_onsemi_xdfn4_1ep_1_0x1_0mm_ep0_52x0_52mm |  
+| oomp_key_full | oomp_footprint_kicad_package_dfn_qfn_onsemi_xdfn4_1ep_1_0x1_0mm_ep0_52x0_52mm |  
+| oomp_key_simple | kicad_package_dfn_qfn_onsemi_xdfn4_1ep_1_0x1_0mm_ep0_52x0_52mm |  
+| owner | kicad |  
+| repo | {'documentation_url': 'https://docs.github.com/rest/repos/repos#get-a-repository', 'message': 'Not Found'} |  
+| url | https://gitlab.com/kicad/libraries/kicad-footprints |  
+

@@ -1,0 +1,29 @@
+# kicad-footprints-rchojetzki.pretty by rchojetzki-kicad  
+This is a harvested standardized copy of a footprint from github.  
+The original project can be found at:  
+https://gitlab.com/kicad/libraries/kicad-footprints  
+The original footprint can be found at:
+http://gitlab.com/rchojetzki-kicad/kicad-footprints-rchojetzki.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/S_JUMPER_2_rchojetzki.kicad_mod
+Please consult that link for additional, details, files, and license information.  
+## Footprint Details
+* description: None  
+* libraryLink: LOGO_Viper_116mm_34mm_inverted  
+* number_of_pads: 0  
+## yaml dump  
+| Key | Value |  
+| --- | --- |  
+| file | data//oomlout_oomp_footprint_src/kicad-footprints-rchojetzki.pretty/LOGO_Viper_116mm_34mm_inverted.kicad_mod |  
+| footprint | {'description': None, 'libraryLink': 'LOGO_Viper_116mm_34mm_inverted', 'number_of_pads': 0} |  
+| footprint_library_directory | footprint_library_owner/rchojetzki-kicad_kicad-footprints-rchojetzki.pretty |  
+| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/rchojetzki_kicad_kicad_footprints_rchojetzki_logo_viper_116mm_34mm_inverted/working |  
+| github_path | http://github.com/rchojetzki-kicad/kicad-footprints-rchojetzki.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/LOGO_Viper_116mm_34mm_inverted.kicad_mod |  
+| links | {'github_src': 'http://gitlab.com/rchojetzki-kicad/kicad-footprints-rchojetzki.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/S_JUMPER_2_rchojetzki.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/rchojetzki_kicad_kicad_footprints_rchojetzki_logo_viper_116mm_34mm_inverted/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/rchojetzki_kicad_kicad_footprints_rchojetzki_logo_viper_116mm_34mm_inverted/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/rchojetzki_kicad_kicad_footprints_rchojetzki_logo_viper_116mm_34mm_inverted/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/rchojetzki_kicad_kicad_footprints_rchojetzki_logo_viper_116mm_34mm_inverted/working'} |  
+| name | kicad-footprints-rchojetzki.pretty |  
+| oomp | {'footprint_name': 'logo_viper_116mm_34mm_inverted', 'library_name': 'kicad_footprints_rchojetzki', 'md5': '8ce7b5f8a1be097543dce0493bd9c1f1', 'md5_10': '8ce7b5f8a1', 'md5_5': '8ce7b', 'md5_6': '8ce7b5', 'oomp_key': 'oomp_rchojetzki_kicad_kicad_footprints_rchojetzki_logo_viper_116mm_34mm_inverted', 'oomp_key_extra': 'oomp_footprint_rchojetzki_kicad_kicad_footprints_rchojetzki_logo_viper_116mm_34mm_inverted', 'oomp_key_full': 'oomp_footprint_rchojetzki_kicad_kicad_footprints_rchojetzki_logo_viper_116mm_34mm_inverted_8ce7b5', 'oomp_key_simple': 'rchojetzki_kicad_kicad_footprints_rchojetzki_logo_viper_116mm_34mm_inverted', 'original_filename': 'data//oomlout_oomp_footprint_src/kicad-footprints-rchojetzki.pretty/LOGO_Viper_116mm_34mm_inverted.kicad_mod', 'owner_name': 'rchojetzki_kicad'} |  
+| oomp_key | oomp_rchojetzki_kicad_kicad_footprints_rchojetzki_logo_viper_116mm_34mm_inverted |  
+| oomp_key_full | oomp_footprint_rchojetzki_kicad_kicad_footprints_rchojetzki_logo_viper_116mm_34mm_inverted |  
+| oomp_key_simple | rchojetzki_kicad_kicad_footprints_rchojetzki_logo_viper_116mm_34mm_inverted |  
+| owner | rchojetzki-kicad |  
+| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.142.224. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
+| url | http://github.com/rchojetzki-kicad/kicad-footprints-rchojetzki.pretty |  
+

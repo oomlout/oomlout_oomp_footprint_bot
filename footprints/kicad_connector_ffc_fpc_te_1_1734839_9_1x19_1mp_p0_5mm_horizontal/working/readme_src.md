@@ -1,0 +1,29 @@
+# kicad-footprints by kicad  
+This is a harvested standardized copy of a footprint from github.  
+The original project can be found at:  
+https://gitlab.com/kicad/libraries/kicad-footprints  
+The original footprint can be found at:
+http://gitlab.com/kicad/kicad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod
+Please consult that link for additional, details, files, and license information.  
+## Footprint Details
+* description: TE FPC connector, 19 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0  
+* libraryLink: TE_1-1734839-9_1x19-1MP_P0.5mm_Horizontal  
+* number_of_pads: 21  
+## yaml dump  
+| Key | Value |  
+| --- | --- |  
+| file | data//oomlout_oomp_footprint_src/kicad-footprints/Connector_FFC-FPC.pretty/TE_1-1734839-9_1x19-1MP_P0.5mm_Horizontal.kicad_mod |  
+| footprint | {'description': 'TE FPC connector, 19 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0', 'libraryLink': 'TE_1-1734839-9_1x19-1MP_P0.5mm_Horizontal', 'number_of_pads': 21} |  
+| footprint_library_directory | footprint_library_owner/kicad_kicad-footprints/ |  
+| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/kicad_connector_ffc_fpc_te_1_1734839_9_1x19_1mp_p0_5mm_horizontal/working |  
+| github_path | http://github.com/kicad/kicad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/Connector_FFC-FPC.pretty/TE_1-1734839-9_1x19-1MP_P0.5mm_Horizontal.kicad_mod |  
+| links | {'github_src': 'http://gitlab.com/kicad/kicad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/kicad_connector_ffc_fpc_te_1_1734839_9_1x19_1mp_p0_5mm_horizontal/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/kicad_connector_ffc_fpc_te_1_1734839_9_1x19_1mp_p0_5mm_horizontal/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/kicad_connector_ffc_fpc_te_1_1734839_9_1x19_1mp_p0_5mm_horizontal/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/kicad_connector_ffc_fpc_te_1_1734839_9_1x19_1mp_p0_5mm_horizontal/working'} |  
+| name | kicad-footprints |  
+| oomp | {'footprint_name': 'te_1_1734839_9_1x19_1mp_p0_5mm_horizontal', 'library_name': 'connector_ffc_fpc', 'md5': '304f67a61a8eea9ec7aff15d99989f2e', 'md5_10': '304f67a61a', 'md5_5': '304f6', 'md5_6': '304f67', 'oomp_key': 'oomp_kicad_connector_ffc_fpc_te_1_1734839_9_1x19_1mp_p0_5mm_horizontal', 'oomp_key_extra': 'oomp_footprint_kicad_connector_ffc_fpc_te_1_1734839_9_1x19_1mp_p0_5mm_horizontal', 'oomp_key_full': 'oomp_footprint_kicad_connector_ffc_fpc_te_1_1734839_9_1x19_1mp_p0_5mm_horizontal_304f67', 'oomp_key_simple': 'kicad_connector_ffc_fpc_te_1_1734839_9_1x19_1mp_p0_5mm_horizontal', 'original_filename': 'data//oomlout_oomp_footprint_src/kicad-footprints/Connector_FFC-FPC.pretty/TE_1-1734839-9_1x19-1MP_P0.5mm_Horizontal.kicad_mod', 'owner_name': 'kicad'} |  
+| oomp_key | oomp_kicad_connector_ffc_fpc_te_1_1734839_9_1x19_1mp_p0_5mm_horizontal |  
+| oomp_key_full | oomp_footprint_kicad_connector_ffc_fpc_te_1_1734839_9_1x19_1mp_p0_5mm_horizontal |  
+| oomp_key_simple | kicad_connector_ffc_fpc_te_1_1734839_9_1x19_1mp_p0_5mm_horizontal |  
+| owner | kicad |  
+| repo | {'documentation_url': 'https://docs.github.com/rest/repos/repos#get-a-repository', 'message': 'Not Found'} |  
+| url | https://gitlab.com/kicad/libraries/kicad-footprints |  
+

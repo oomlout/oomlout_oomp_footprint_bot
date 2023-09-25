@@ -19,12 +19,14 @@ def copy_data(**kwargs):
     #copy the directory with overwite if the file already exists
     #import shutil
     #shutil.copytree(directory_src, directory_dst, dirs_exist_ok=True)
-    #us os.system call to xcopy no prompt only overwrite if newer
-    os.system(f"xcopy {directory_src} {directory_dst} /E /Y /D")
-    print("renaming readme to readme_src.md")
+    #us os.system call to xcopy no prompt only overwrite if newer do it so there isn't a invalid number of parameters error
+    os.system(f'xcopy "{directory_src}" "{directory_dst}" /E /Y /D')
+    
+    
+    #print("renaming readme to readme_src.md")
     #rename readme to readme_src.md in all directories in footprint
     count = 0
-    print("Renaming readme to readme_src.md currently skipping")
+    #print("Renaming readme to readme_src.md currently skipping")
     """
     for root, dirs, files in os.walk("footprints"):
         for name in dirs:

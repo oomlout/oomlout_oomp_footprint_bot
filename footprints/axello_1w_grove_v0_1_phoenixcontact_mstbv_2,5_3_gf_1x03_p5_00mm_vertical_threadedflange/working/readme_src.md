@@ -1,0 +1,29 @@
+# kicad by axello  
+This is a harvested standardized copy of a footprint from github.  
+The original project can be found at:  
+https://gitlab.com/kicad/libraries/kicad-footprints  
+The original footprint can be found at:
+http://gitlab.com/axello/kicad/blob/master/tmp/data//oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod
+Please consult that link for additional, details, files, and license information.  
+## Footprint Details
+* description: Generic Phoenix Contact connector footprint for: MSTBV_2,5/3-GF; number of pins: 03; pin pitch: 5.00mm; Vertical; threaded flange || order number: 1776896 12A || order number: 1924428 16A (HC)  
+* libraryLink: PhoenixContact_MSTBV_2,5_3-GF_1x03_P5.00mm_Vertical_ThreadedFlange  
+* number_of_pads: 3  
+## yaml dump  
+| Key | Value |  
+| --- | --- |  
+| file | data//oomlout_oomp_footprint_src/kicad/6.0/projects/1w-grove-v0.1/1w-grove-v0.1.pretty/PhoenixContact_MSTBV_2,5_3-GF_1x03_P5.00mm_Vertical_ThreadedFlange.kicad_mod |  
+| footprint | {'description': 'Generic Phoenix Contact connector footprint for: MSTBV_2,5/3-GF; number of pins: 03; pin pitch: 5.00mm; Vertical; threaded flange || order number: 1776896 12A || order number: 1924428 16A (HC)', 'libraryLink': 'PhoenixContact_MSTBV_2,5_3-GF_1x03_P5.00mm_Vertical_ThreadedFlange', 'number_of_pads': 3} |  
+| footprint_library_directory | footprint_library_owner/axello_kicad |  
+| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/axello_1w_grove_v0_1_phoenixcontact_mstbv_2,5_3_gf_1x03_p5_00mm_vertical_threadedflange/working |  
+| github_path | http://github.com/axello/kicad/blob/master/tmp/data//oomlout_oomp_footprint_src/6.0/projects/1w-grove-v0.1/1w-grove-v0.1.pretty/PhoenixContact_MSTBV_2,5_3-GF_1x03_P5.00mm_Vertical_ThreadedFlange.kicad_mod |  
+| links | {'github_src': 'http://gitlab.com/axello/kicad/blob/master/tmp/data//oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/axello_1w_grove_v0_1_phoenixcontact_mstbv_2,5_3_gf_1x03_p5_00mm_vertical_threadedflange/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/axello_1w_grove_v0_1_phoenixcontact_mstbv_2,5_3_gf_1x03_p5_00mm_vertical_threadedflange/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/axello_1w_grove_v0_1_phoenixcontact_mstbv_2,5_3_gf_1x03_p5_00mm_vertical_threadedflange/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/axello_1w_grove_v0_1_phoenixcontact_mstbv_2,5_3_gf_1x03_p5_00mm_vertical_threadedflange/working'} |  
+| name | kicad |  
+| oomp | {'footprint_name': 'phoenixcontact_mstbv_2,5_3_gf_1x03_p5_00mm_vertical_threadedflange', 'library_name': '1w_grove_v0_1', 'md5': 'bb8db2e89172b5b277eb4ab478453651', 'md5_10': 'bb8db2e891', 'md5_5': 'bb8db', 'md5_6': 'bb8db2', 'oomp_key': 'oomp_axello_1w_grove_v0_1_phoenixcontact_mstbv_2,5_3_gf_1x03_p5_00mm_vertical_threadedflange', 'oomp_key_extra': 'oomp_footprint_axello_1w_grove_v0_1_phoenixcontact_mstbv_2,5_3_gf_1x03_p5_00mm_vertical_threadedflange', 'oomp_key_full': 'oomp_footprint_axello_1w_grove_v0_1_phoenixcontact_mstbv_2,5_3_gf_1x03_p5_00mm_vertical_threadedflange_bb8db2', 'oomp_key_simple': 'axello_1w_grove_v0_1_phoenixcontact_mstbv_2,5_3_gf_1x03_p5_00mm_vertical_threadedflange', 'original_filename': 'data//oomlout_oomp_footprint_src/kicad/6.0/projects/1w-grove-v0.1/1w-grove-v0.1.pretty/PhoenixContact_MSTBV_2,5_3-GF_1x03_P5.00mm_Vertical_ThreadedFlange.kicad_mod', 'owner_name': 'axello'} |  
+| oomp_key | oomp_axello_1w_grove_v0_1_phoenixcontact_mstbv_2,5_3_gf_1x03_p5_00mm_vertical_threadedflange |  
+| oomp_key_full | oomp_footprint_axello_1w_grove_v0_1_phoenixcontact_mstbv_2,5_3_gf_1x03_p5_00mm_vertical_threadedflange |  
+| oomp_key_simple | axello_1w_grove_v0_1_phoenixcontact_mstbv_2,5_3_gf_1x03_p5_00mm_vertical_threadedflange |  
+| owner | axello |  
+| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.142.224. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
+| url | http://github.com/axello/kicad |  
+

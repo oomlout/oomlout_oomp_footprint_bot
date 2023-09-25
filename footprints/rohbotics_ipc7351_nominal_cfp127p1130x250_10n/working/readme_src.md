@@ -1,0 +1,29 @@
+# IPC7351-Nominal.pretty by rohbotics  
+This is a harvested standardized copy of a footprint from github.  
+The original project can be found at:  
+https://gitlab.com/kicad/libraries/kicad-footprints  
+The original footprint can be found at:
+http://gitlab.com/rohbotics/IPC7351-Nominal.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XTAL1200X480X460N.kicad_mod
+Please consult that link for additional, details, files, and license information.  
+## Footprint Details
+* description: Ceramic Flat Pack,1.27mm pitch;10 pin,7.62mm W X 7.36mm L X 2.50mm H Body  
+* libraryLink: CFP127P1130X250-10N  
+* number_of_pads: 10  
+## yaml dump  
+| Key | Value |  
+| --- | --- |  
+| file | data//oomlout_oomp_footprint_src/IPC7351-Nominal.pretty/CFP127P1130X250-10N.kicad_mod |  
+| footprint | {'description': 'Ceramic Flat Pack,1.27mm pitch;10 pin,7.62mm W X 7.36mm L X 2.50mm H Body', 'libraryLink': 'CFP127P1130X250-10N', 'number_of_pads': 10} |  
+| footprint_library_directory | footprint_library_owner/rohbotics_IPC7351-Nominal.pretty |  
+| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/rohbotics_ipc7351_nominal_cfp127p1130x250_10n/working |  
+| github_path | http://github.com/rohbotics/IPC7351-Nominal.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/CFP127P1130X250-10N.kicad_mod |  
+| links | {'github_src': 'http://gitlab.com/rohbotics/IPC7351-Nominal.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XTAL1200X480X460N.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/rohbotics_ipc7351_nominal_cfp127p1130x250_10n/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/rohbotics_ipc7351_nominal_cfp127p1130x250_10n/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/rohbotics_ipc7351_nominal_cfp127p1130x250_10n/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/rohbotics_ipc7351_nominal_cfp127p1130x250_10n/working'} |  
+| name | IPC7351-Nominal.pretty |  
+| oomp | {'footprint_name': 'cfp127p1130x250_10n', 'library_name': 'ipc7351_nominal', 'md5': '4f1e3c7a03821e4043aab4e0743784e6', 'md5_10': '4f1e3c7a03', 'md5_5': '4f1e3', 'md5_6': '4f1e3c', 'oomp_key': 'oomp_rohbotics_ipc7351_nominal_cfp127p1130x250_10n', 'oomp_key_extra': 'oomp_footprint_rohbotics_ipc7351_nominal_cfp127p1130x250_10n', 'oomp_key_full': 'oomp_footprint_rohbotics_ipc7351_nominal_cfp127p1130x250_10n_4f1e3c', 'oomp_key_simple': 'rohbotics_ipc7351_nominal_cfp127p1130x250_10n', 'original_filename': 'data//oomlout_oomp_footprint_src/IPC7351-Nominal.pretty/CFP127P1130X250-10N.kicad_mod', 'owner_name': 'rohbotics'} |  
+| oomp_key | oomp_rohbotics_ipc7351_nominal_cfp127p1130x250_10n |  
+| oomp_key_full | oomp_footprint_rohbotics_ipc7351_nominal_cfp127p1130x250_10n |  
+| oomp_key_simple | rohbotics_ipc7351_nominal_cfp127p1130x250_10n |  
+| owner | rohbotics |  
+| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.142.224. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
+| url | http://github.com/rohbotics/IPC7351-Nominal.pretty |  
+

@@ -1,0 +1,29 @@
+# akn_misc.pretty by aniline  
+This is a harvested standardized copy of a footprint from github.  
+The original project can be found at:  
+https://gitlab.com/kicad/libraries/kicad-footprints  
+The original footprint can be found at:
+http://gitlab.com/aniline/akn_misc.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/WOM_BRIDGE.kicad_mod
+Please consult that link for additional, details, files, and license information.  
+## Footprint Details
+* description: None  
+* libraryLink: RJ11_PTH_6P4C_STAG  
+* number_of_pads: 6  
+## yaml dump  
+| Key | Value |  
+| --- | --- |  
+| file | data//oomlout_oomp_footprint_src/akn_misc.pretty/RJ11_PTH_6P4C_STAG.kicad_mod |  
+| footprint | {'description': None, 'libraryLink': 'RJ11_PTH_6P4C_STAG', 'number_of_pads': 6} |  
+| footprint_library_directory | footprint_library_owner/aniline_akn_misc.pretty |  
+| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/aniline_akn_misc_rj11_pth_6p4c_stag/working |  
+| github_path | http://github.com/aniline/akn_misc.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/RJ11_PTH_6P4C_STAG.kicad_mod |  
+| links | {'github_src': 'http://gitlab.com/aniline/akn_misc.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/WOM_BRIDGE.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/aniline_akn_misc_rj11_pth_6p4c_stag/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/aniline_akn_misc_rj11_pth_6p4c_stag/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/aniline_akn_misc_rj11_pth_6p4c_stag/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/aniline_akn_misc_rj11_pth_6p4c_stag/working'} |  
+| name | akn_misc.pretty |  
+| oomp | {'footprint_name': 'rj11_pth_6p4c_stag', 'library_name': 'akn_misc', 'md5': '7ec5f67012fbf93f17c3398bc2a7ce5b', 'md5_10': '7ec5f67012', 'md5_5': '7ec5f', 'md5_6': '7ec5f6', 'oomp_key': 'oomp_aniline_akn_misc_rj11_pth_6p4c_stag', 'oomp_key_extra': 'oomp_footprint_aniline_akn_misc_rj11_pth_6p4c_stag', 'oomp_key_full': 'oomp_footprint_aniline_akn_misc_rj11_pth_6p4c_stag_7ec5f6', 'oomp_key_simple': 'aniline_akn_misc_rj11_pth_6p4c_stag', 'original_filename': 'data//oomlout_oomp_footprint_src/akn_misc.pretty/RJ11_PTH_6P4C_STAG.kicad_mod', 'owner_name': 'aniline'} |  
+| oomp_key | oomp_aniline_akn_misc_rj11_pth_6p4c_stag |  
+| oomp_key_full | oomp_footprint_aniline_akn_misc_rj11_pth_6p4c_stag |  
+| oomp_key_simple | aniline_akn_misc_rj11_pth_6p4c_stag |  
+| owner | aniline |  
+| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.142.224. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
+| url | http://github.com/aniline/akn_misc.pretty |  
+

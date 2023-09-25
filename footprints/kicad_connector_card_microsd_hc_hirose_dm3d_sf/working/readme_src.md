@@ -1,0 +1,29 @@
+# kicad-footprints by kicad  
+This is a harvested standardized copy of a footprint from github.  
+The original project can be found at:  
+https://gitlab.com/kicad/libraries/kicad-footprints  
+The original footprint can be found at:
+http://gitlab.com/kicad/kicad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod
+Please consult that link for additional, details, files, and license information.  
+## Footprint Details
+* description: Micro SD, SMD, right-angle, push-pull (https://media.digikey.com/PDF/Data%20Sheets/Hirose%20PDFs/DM3D-SF.pdf)  
+* libraryLink: microSD_HC_Hirose_DM3D-SF  
+* number_of_pads: 14  
+## yaml dump  
+| Key | Value |  
+| --- | --- |  
+| file | data//oomlout_oomp_footprint_src/kicad-footprints/Connector_Card.pretty/microSD_HC_Hirose_DM3D-SF.kicad_mod |  
+| footprint | {'description': 'Micro SD, SMD, right-angle, push-pull (https://media.digikey.com/PDF/Data%20Sheets/Hirose%20PDFs/DM3D-SF.pdf)', 'libraryLink': 'microSD_HC_Hirose_DM3D-SF', 'number_of_pads': 14} |  
+| footprint_library_directory | footprint_library_owner/kicad_kicad-footprints/ |  
+| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/kicad_connector_card_microsd_hc_hirose_dm3d_sf/working |  
+| github_path | http://github.com/kicad/kicad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/Connector_Card.pretty/microSD_HC_Hirose_DM3D-SF.kicad_mod |  
+| links | {'github_src': 'http://gitlab.com/kicad/kicad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/kicad_connector_card_microsd_hc_hirose_dm3d_sf/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/kicad_connector_card_microsd_hc_hirose_dm3d_sf/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/kicad_connector_card_microsd_hc_hirose_dm3d_sf/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/kicad_connector_card_microsd_hc_hirose_dm3d_sf/working'} |  
+| name | kicad-footprints |  
+| oomp | {'footprint_name': 'microsd_hc_hirose_dm3d_sf', 'library_name': 'connector_card', 'md5': '3262d24d122e3b3f8e296e671bd4665c', 'md5_10': '3262d24d12', 'md5_5': '3262d', 'md5_6': '3262d2', 'oomp_key': 'oomp_kicad_connector_card_microsd_hc_hirose_dm3d_sf', 'oomp_key_extra': 'oomp_footprint_kicad_connector_card_microsd_hc_hirose_dm3d_sf', 'oomp_key_full': 'oomp_footprint_kicad_connector_card_microsd_hc_hirose_dm3d_sf_3262d2', 'oomp_key_simple': 'kicad_connector_card_microsd_hc_hirose_dm3d_sf', 'original_filename': 'data//oomlout_oomp_footprint_src/kicad-footprints/Connector_Card.pretty/microSD_HC_Hirose_DM3D-SF.kicad_mod', 'owner_name': 'kicad'} |  
+| oomp_key | oomp_kicad_connector_card_microsd_hc_hirose_dm3d_sf |  
+| oomp_key_full | oomp_footprint_kicad_connector_card_microsd_hc_hirose_dm3d_sf |  
+| oomp_key_simple | kicad_connector_card_microsd_hc_hirose_dm3d_sf |  
+| owner | kicad |  
+| repo | {'documentation_url': 'https://docs.github.com/rest/repos/repos#get-a-repository', 'message': 'Not Found'} |  
+| url | https://gitlab.com/kicad/libraries/kicad-footprints |  
+

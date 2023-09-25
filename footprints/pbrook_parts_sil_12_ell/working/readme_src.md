@@ -1,0 +1,29 @@
+# Parts.pretty by pbrook  
+This is a harvested standardized copy of a footprint from github.  
+The original project can be found at:  
+https://gitlab.com/kicad/libraries/kicad-footprints  
+The original footprint can be found at:
+http://gitlab.com/pbrook/Parts.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/to252.kicad_mod
+Please consult that link for additional, details, files, and license information.  
+## Footprint Details
+* description: Connecteur 12 pins  
+* libraryLink: SIL-12-ELL  
+* number_of_pads: 12  
+## yaml dump  
+| Key | Value |  
+| --- | --- |  
+| file | data//oomlout_oomp_footprint_src/Parts.pretty/SIL-12-ELL.kicad_mod |  
+| footprint | {'description': 'Connecteur 12 pins', 'libraryLink': 'SIL-12-ELL', 'number_of_pads': 12} |  
+| footprint_library_directory | footprint_library_owner/pbrook_Parts.pretty |  
+| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/pbrook_parts_sil_12_ell/working |  
+| github_path | http://github.com/pbrook/Parts.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/SIL-12-ELL.kicad_mod |  
+| links | {'github_src': 'http://gitlab.com/pbrook/Parts.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/to252.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/pbrook_parts_sil_12_ell/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/pbrook_parts_sil_12_ell/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/pbrook_parts_sil_12_ell/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/pbrook_parts_sil_12_ell/working'} |  
+| name | Parts.pretty |  
+| oomp | {'footprint_name': 'sil_12_ell', 'library_name': 'parts', 'md5': 'b620440c4ce9e7d735e27b2710e92316', 'md5_10': 'b620440c4c', 'md5_5': 'b6204', 'md5_6': 'b62044', 'oomp_key': 'oomp_pbrook_parts_sil_12_ell', 'oomp_key_extra': 'oomp_footprint_pbrook_parts_sil_12_ell', 'oomp_key_full': 'oomp_footprint_pbrook_parts_sil_12_ell_b62044', 'oomp_key_simple': 'pbrook_parts_sil_12_ell', 'original_filename': 'data//oomlout_oomp_footprint_src/Parts.pretty/SIL-12-ELL.kicad_mod', 'owner_name': 'pbrook'} |  
+| oomp_key | oomp_pbrook_parts_sil_12_ell |  
+| oomp_key_full | oomp_footprint_pbrook_parts_sil_12_ell |  
+| oomp_key_simple | pbrook_parts_sil_12_ell |  
+| owner | pbrook |  
+| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.142.224. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
+| url | http://github.com/pbrook/Parts.pretty |  
+

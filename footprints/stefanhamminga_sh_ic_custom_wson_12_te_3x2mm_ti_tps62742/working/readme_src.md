@@ -1,0 +1,29 @@
+# SH_IC_Custom.pretty by StefanHamminga  
+This is a harvested standardized copy of a footprint from github.  
+The original project can be found at:  
+https://gitlab.com/kicad/libraries/kicad-footprints  
+The original footprint can be found at:
+http://gitlab.com/StefanHamminga/SH_IC_Custom.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/WSON-8_6x5mm.kicad_mod
+Please consult that link for additional, details, files, and license information.  
+## Footprint Details
+* description: None  
+* libraryLink: WSON-12-TE_3x2mm_TI_TPS62742  
+* number_of_pads: 23  
+## yaml dump  
+| Key | Value |  
+| --- | --- |  
+| file | data//oomlout_oomp_footprint_src/SH_IC_Custom.pretty/WSON-12-TE_3x2mm_TI_TPS62742.kicad_mod |  
+| footprint | {'description': None, 'libraryLink': 'WSON-12-TE_3x2mm_TI_TPS62742', 'number_of_pads': 23} |  
+| footprint_library_directory | footprint_library_owner/StefanHamminga_SH_IC_Custom.pretty |  
+| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/stefanhamminga_sh_ic_custom_wson_12_te_3x2mm_ti_tps62742/working |  
+| github_path | http://github.com/StefanHamminga/SH_IC_Custom.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/WSON-12-TE_3x2mm_TI_TPS62742.kicad_mod |  
+| links | {'github_src': 'http://gitlab.com/StefanHamminga/SH_IC_Custom.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/WSON-8_6x5mm.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/stefanhamminga_sh_ic_custom_wson_12_te_3x2mm_ti_tps62742/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/stefanhamminga_sh_ic_custom_wson_12_te_3x2mm_ti_tps62742/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/stefanhamminga_sh_ic_custom_wson_12_te_3x2mm_ti_tps62742/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/stefanhamminga_sh_ic_custom_wson_12_te_3x2mm_ti_tps62742/working'} |  
+| name | SH_IC_Custom.pretty |  
+| oomp | {'footprint_name': 'wson_12_te_3x2mm_ti_tps62742', 'library_name': 'sh_ic_custom', 'md5': '864e543b7400960c14e0fac83ba8acd9', 'md5_10': '864e543b74', 'md5_5': '864e5', 'md5_6': '864e54', 'oomp_key': 'oomp_stefanhamminga_sh_ic_custom_wson_12_te_3x2mm_ti_tps62742', 'oomp_key_extra': 'oomp_footprint_stefanhamminga_sh_ic_custom_wson_12_te_3x2mm_ti_tps62742', 'oomp_key_full': 'oomp_footprint_stefanhamminga_sh_ic_custom_wson_12_te_3x2mm_ti_tps62742_864e54', 'oomp_key_simple': 'stefanhamminga_sh_ic_custom_wson_12_te_3x2mm_ti_tps62742', 'original_filename': 'data//oomlout_oomp_footprint_src/SH_IC_Custom.pretty/WSON-12-TE_3x2mm_TI_TPS62742.kicad_mod', 'owner_name': 'stefanhamminga'} |  
+| oomp_key | oomp_stefanhamminga_sh_ic_custom_wson_12_te_3x2mm_ti_tps62742 |  
+| oomp_key_full | oomp_footprint_stefanhamminga_sh_ic_custom_wson_12_te_3x2mm_ti_tps62742 |  
+| oomp_key_simple | stefanhamminga_sh_ic_custom_wson_12_te_3x2mm_ti_tps62742 |  
+| owner | StefanHamminga |  
+| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.142.224. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
+| url | http://github.com/StefanHamminga/SH_IC_Custom.pretty |  
+

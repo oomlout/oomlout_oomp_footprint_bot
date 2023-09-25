@@ -1,0 +1,29 @@
+# kicad-footprints by kicad  
+This is a harvested standardized copy of a footprint from github.  
+The original project can be found at:  
+https://gitlab.com/kicad/libraries/kicad-footprints  
+The original footprint can be found at:
+http://gitlab.com/kicad/kicad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod
+Please consult that link for additional, details, files, and license information.  
+## Footprint Details
+* description: TO-50-4 Power Macro Package Style M234  
+* libraryLink: PowerMacro_M234_WithHole  
+* number_of_pads: 5  
+## yaml dump  
+| Key | Value |  
+| --- | --- |  
+| file | data//oomlout_oomp_footprint_src/kicad-footprints/Package_TO_SOT_SMD.pretty/PowerMacro_M234_WithHole.kicad_mod |  
+| footprint | {'description': 'TO-50-4 Power Macro Package Style M234', 'libraryLink': 'PowerMacro_M234_WithHole', 'number_of_pads': 5} |  
+| footprint_library_directory | footprint_library_owner/kicad_kicad-footprints/ |  
+| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/kicad_package_to_sot_smd_powermacro_m234_withhole/working |  
+| github_path | http://github.com/kicad/kicad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/Package_TO_SOT_SMD.pretty/PowerMacro_M234_WithHole.kicad_mod |  
+| links | {'github_src': 'http://gitlab.com/kicad/kicad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/kicad_package_to_sot_smd_powermacro_m234_withhole/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/kicad_package_to_sot_smd_powermacro_m234_withhole/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/kicad_package_to_sot_smd_powermacro_m234_withhole/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/kicad_package_to_sot_smd_powermacro_m234_withhole/working'} |  
+| name | kicad-footprints |  
+| oomp | {'footprint_name': 'powermacro_m234_withhole', 'library_name': 'package_to_sot_smd', 'md5': 'd5679c9a1215b32c25ec74b5fdb61151', 'md5_10': 'd5679c9a12', 'md5_5': 'd5679', 'md5_6': 'd5679c', 'oomp_key': 'oomp_kicad_package_to_sot_smd_powermacro_m234_withhole', 'oomp_key_extra': 'oomp_footprint_kicad_package_to_sot_smd_powermacro_m234_withhole', 'oomp_key_full': 'oomp_footprint_kicad_package_to_sot_smd_powermacro_m234_withhole_d5679c', 'oomp_key_simple': 'kicad_package_to_sot_smd_powermacro_m234_withhole', 'original_filename': 'data//oomlout_oomp_footprint_src/kicad-footprints/Package_TO_SOT_SMD.pretty/PowerMacro_M234_WithHole.kicad_mod', 'owner_name': 'kicad'} |  
+| oomp_key | oomp_kicad_package_to_sot_smd_powermacro_m234_withhole |  
+| oomp_key_full | oomp_footprint_kicad_package_to_sot_smd_powermacro_m234_withhole |  
+| oomp_key_simple | kicad_package_to_sot_smd_powermacro_m234_withhole |  
+| owner | kicad |  
+| repo | {'documentation_url': 'https://docs.github.com/rest/repos/repos#get-a-repository', 'message': 'Not Found'} |  
+| url | https://gitlab.com/kicad/libraries/kicad-footprints |  
+

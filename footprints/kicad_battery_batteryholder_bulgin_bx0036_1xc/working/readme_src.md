@@ -1,0 +1,29 @@
+# kicad-footprints by kicad  
+This is a harvested standardized copy of a footprint from github.  
+The original project can be found at:  
+https://gitlab.com/kicad/libraries/kicad-footprints  
+The original footprint can be found at:
+http://gitlab.com/kicad/kicad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod
+Please consult that link for additional, details, files, and license information.  
+## Footprint Details
+* description: Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)  
+* libraryLink: BatteryHolder_Bulgin_BX0036_1xC  
+* number_of_pads: 4  
+## yaml dump  
+| Key | Value |  
+| --- | --- |  
+| file | data//oomlout_oomp_footprint_src/kicad-footprints/Battery.pretty/BatteryHolder_Bulgin_BX0036_1xC.kicad_mod |  
+| footprint | {'description': 'Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)', 'libraryLink': 'BatteryHolder_Bulgin_BX0036_1xC', 'number_of_pads': 4} |  
+| footprint_library_directory | footprint_library_owner/kicad_kicad-footprints/ |  
+| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/kicad_battery_batteryholder_bulgin_bx0036_1xc/working |  
+| github_path | http://github.com/kicad/kicad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/Battery.pretty/BatteryHolder_Bulgin_BX0036_1xC.kicad_mod |  
+| links | {'github_src': 'http://gitlab.com/kicad/kicad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/kicad_battery_batteryholder_bulgin_bx0036_1xc/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/kicad_battery_batteryholder_bulgin_bx0036_1xc/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/kicad_battery_batteryholder_bulgin_bx0036_1xc/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/kicad_battery_batteryholder_bulgin_bx0036_1xc/working'} |  
+| name | kicad-footprints |  
+| oomp | {'footprint_name': 'batteryholder_bulgin_bx0036_1xc', 'library_name': 'battery', 'md5': '362ded415ea8ebdce3e760c696efddf1', 'md5_10': '362ded415e', 'md5_5': '362de', 'md5_6': '362ded', 'oomp_key': 'oomp_kicad_battery_batteryholder_bulgin_bx0036_1xc', 'oomp_key_extra': 'oomp_footprint_kicad_battery_batteryholder_bulgin_bx0036_1xc', 'oomp_key_full': 'oomp_footprint_kicad_battery_batteryholder_bulgin_bx0036_1xc_362ded', 'oomp_key_simple': 'kicad_battery_batteryholder_bulgin_bx0036_1xc', 'original_filename': 'data//oomlout_oomp_footprint_src/kicad-footprints/Battery.pretty/BatteryHolder_Bulgin_BX0036_1xC.kicad_mod', 'owner_name': 'kicad'} |  
+| oomp_key | oomp_kicad_battery_batteryholder_bulgin_bx0036_1xc |  
+| oomp_key_full | oomp_footprint_kicad_battery_batteryholder_bulgin_bx0036_1xc |  
+| oomp_key_simple | kicad_battery_batteryholder_bulgin_bx0036_1xc |  
+| owner | kicad |  
+| repo | {'documentation_url': 'https://docs.github.com/rest/repos/repos#get-a-repository', 'message': 'Not Found'} |  
+| url | https://gitlab.com/kicad/libraries/kicad-footprints |  
+
