@@ -1,29 +1,28 @@
-# 4ms-kicad-lib by 4ms  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/4ms/4ms-kicad-lib/blob/master/tmp/data//oomlout_oomp_footprint_src/footprints-legacy/4ms-legacy-footprints.pretty/wire-hole.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: None  
-* libraryLink: ER-TFTM1.54-1_BREAKOUT  
-* number_of_pads: 12  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | data//oomlout_oomp_footprint_src/4ms-kicad-lib/footprints/4ms_Display.pretty/ER-TFTM1.54-1_BREAKOUT.kicad_mod |  
-| footprint | {'description': None, 'libraryLink': 'ER-TFTM1.54-1_BREAKOUT', 'number_of_pads': 12} |  
-| footprint_library_directory | footprint_library_owner/4ms_4ms-kicad-lib |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/4ms_4ms_display_er_tftm1_54_1_breakout/working |  
-| github_path | http://github.com/4ms/4ms-kicad-lib/blob/master/tmp/data//oomlout_oomp_footprint_src/footprints/4ms_Display.pretty/ER-TFTM1.54-1_BREAKOUT.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/4ms/4ms-kicad-lib/blob/master/tmp/data//oomlout_oomp_footprint_src/footprints-legacy/4ms-legacy-footprints.pretty/wire-hole.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/4ms_4ms_display_er_tftm1_54_1_breakout/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/4ms_4ms_display_er_tftm1_54_1_breakout/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/4ms_4ms_display_er_tftm1_54_1_breakout/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/4ms_4ms_display_er_tftm1_54_1_breakout/working'} |  
-| name | 4ms-kicad-lib |  
-| oomp | {'footprint_name': 'er_tftm1_54_1_breakout', 'library_name': '4ms_display', 'md5': '471a8b25bd56bd85f7672a0a23ad0378', 'md5_10': '471a8b25bd', 'md5_5': '471a8', 'md5_6': '471a8b', 'oomp_key': 'oomp_4ms_4ms_display_er_tftm1_54_1_breakout', 'oomp_key_extra': 'oomp_footprint_4ms_4ms_display_er_tftm1_54_1_breakout', 'oomp_key_full': 'oomp_footprint_4ms_4ms_display_er_tftm1_54_1_breakout_471a8b', 'oomp_key_simple': '4ms_4ms_display_er_tftm1_54_1_breakout', 'original_filename': 'data//oomlout_oomp_footprint_src/4ms-kicad-lib/footprints/4ms_Display.pretty/ER-TFTM1.54-1_BREAKOUT.kicad_mod', 'owner_name': '4ms'} |  
-| oomp_key | oomp_4ms_4ms_display_er_tftm1_54_1_breakout |  
-| oomp_key_full | oomp_footprint_4ms_4ms_display_er_tftm1_54_1_breakout |  
-| oomp_key_simple | 4ms_4ms_display_er_tftm1_54_1_breakout |  
-| owner | 4ms |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.142.224. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/4ms/4ms-kicad-lib |  
-
+# OOMP Footprint  
+## ER-TFTM1.54-1_BREAKOUT  by 4ms  
+  
+oomp key: oomp_4ms_4ms_display_er_tftm1_54_1_breakout  
+  
+source repo at: [http://github.com/4ms/4ms-kicad-lib/blob/master/tmp/data/oomlout_oomp_footprint_src/footprints-legacy/4ms-legacy-footprints.pretty/wire-hole.kicad_mod](http://github.com/4ms/4ms-kicad-lib/blob/master/tmp/data/oomlout_oomp_footprint_src/footprints-legacy/4ms-legacy-footprints.pretty/wire-hole.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | ER-TFTM1.54-1_BREAKOUT | 
+| footprint description | None | 
+| number of pads | 12 | 
+| github path | http://github.com/4ms/4ms-kicad-lib/blob/master/tmp/data/oomlout_oomp_footprint_src/footprints/4ms_Display.pretty/ER-TFTM1.54-1_BREAKOUT.kicad_mod | 
+| oomp key | oomp_4ms_4ms_display_er_tftm1_54_1_breakout | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/4ms_4ms_display_er_tftm1_54_1_breakout/working | 
+## Images  
+  
+[![working.png](working_140.png)](working.png)  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_140.png)](working_kicad_pcb_3d.png)  
+  
+[![working_kicad_pcb_3d_back.png](working_kicad_pcb_3d_back_140.png)](working_kicad_pcb_3d_back.png)  
+  
+[![working_kicad_pcb_3d_front.png](working_kicad_pcb_3d_front_140.png)](working_kicad_pcb_3d_front.png)  

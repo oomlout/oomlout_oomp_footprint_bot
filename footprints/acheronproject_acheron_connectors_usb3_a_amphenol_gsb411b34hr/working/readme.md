@@ -1,29 +1,28 @@
-# acheron_Connectors.pretty by AcheronProject  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/AcheronProject/acheron_Connectors.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XFCN_F1004-H-16-20G-R_P1.0mm_MountingReliefs.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: USB 3.0, type A, right angle (http://www.molex.com/pdm_docs/sd/483930003_sd.pdf)  
-* libraryLink: USB3_A_Amphenol_GSB411B34HR  
-* number_of_pads: 19  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | data//oomlout_oomp_footprint_src/acheron_Connectors.pretty/USB3_A_Amphenol_GSB411B34HR.kicad_mod |  
-| footprint | {'description': 'USB 3.0, type A, right angle (http://www.molex.com/pdm_docs/sd/483930003_sd.pdf)', 'libraryLink': 'USB3_A_Amphenol_GSB411B34HR', 'number_of_pads': 19} |  
-| footprint_library_directory | footprint_library_owner/AcheronProject_acheron_Connectors.pretty |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/acheronproject_acheron_connectors_usb3_a_amphenol_gsb411b34hr/working |  
-| github_path | http://github.com/AcheronProject/acheron_Connectors.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/USB3_A_Amphenol_GSB411B34HR.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/AcheronProject/acheron_Connectors.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XFCN_F1004-H-16-20G-R_P1.0mm_MountingReliefs.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/acheronproject_acheron_connectors_usb3_a_amphenol_gsb411b34hr/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/acheronproject_acheron_connectors_usb3_a_amphenol_gsb411b34hr/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/acheronproject_acheron_connectors_usb3_a_amphenol_gsb411b34hr/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/acheronproject_acheron_connectors_usb3_a_amphenol_gsb411b34hr/working'} |  
-| name | acheron_Connectors.pretty |  
-| oomp | {'footprint_name': 'usb3_a_amphenol_gsb411b34hr', 'library_name': 'acheron_connectors', 'md5': '4d477665bb86f0d5847f11206ac95282', 'md5_10': '4d477665bb', 'md5_5': '4d477', 'md5_6': '4d4776', 'oomp_key': 'oomp_acheronproject_acheron_connectors_usb3_a_amphenol_gsb411b34hr', 'oomp_key_extra': 'oomp_footprint_acheronproject_acheron_connectors_usb3_a_amphenol_gsb411b34hr', 'oomp_key_full': 'oomp_footprint_acheronproject_acheron_connectors_usb3_a_amphenol_gsb411b34hr_4d4776', 'oomp_key_simple': 'acheronproject_acheron_connectors_usb3_a_amphenol_gsb411b34hr', 'original_filename': 'data//oomlout_oomp_footprint_src/acheron_Connectors.pretty/USB3_A_Amphenol_GSB411B34HR.kicad_mod', 'owner_name': 'acheronproject'} |  
-| oomp_key | oomp_acheronproject_acheron_connectors_usb3_a_amphenol_gsb411b34hr |  
-| oomp_key_full | oomp_footprint_acheronproject_acheron_connectors_usb3_a_amphenol_gsb411b34hr |  
-| oomp_key_simple | acheronproject_acheron_connectors_usb3_a_amphenol_gsb411b34hr |  
-| owner | AcheronProject |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.142.224. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/AcheronProject/acheron_Connectors.pretty |  
-
+# OOMP Footprint  
+## USB3_A_Amphenol_GSB411B34HR  by AcheronProject  
+  
+oomp key: oomp_acheronproject_acheron_connectors_usb3_a_amphenol_gsb411b34hr  
+  
+source repo at: [http://github.com/AcheronProject/acheron_Connectors.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/XFCN_F1004-H-16-20G-R_P1.0mm_MountingReliefs.kicad_mod](http://github.com/AcheronProject/acheron_Connectors.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/XFCN_F1004-H-16-20G-R_P1.0mm_MountingReliefs.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | USB3_A_Amphenol_GSB411B34HR | 
+| footprint description | USB 3.0, type A, right angle (http://www.molex.com/pdm_docs/sd/483930003_sd.pdf) | 
+| number of pads | 19 | 
+| github path | http://github.com/AcheronProject/acheron_Connectors.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/USB3_A_Amphenol_GSB411B34HR.kicad_mod | 
+| oomp key | oomp_acheronproject_acheron_connectors_usb3_a_amphenol_gsb411b34hr | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/acheronproject_acheron_connectors_usb3_a_amphenol_gsb411b34hr/working | 
+## Images  
+  
+[![working.png](working_140.png)](working.png)  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_140.png)](working_kicad_pcb_3d.png)  
+  
+[![working_kicad_pcb_3d_back.png](working_kicad_pcb_3d_back_140.png)](working_kicad_pcb_3d_back.png)  
+  
+[![working_kicad_pcb_3d_front.png](working_kicad_pcb_3d_front_140.png)](working_kicad_pcb_3d_front.png)  

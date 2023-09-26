@@ -1,29 +1,28 @@
-# acheron_MountingHoles.pretty by AcheronProject  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/AcheronProject/acheron_MountingHoles.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/ToolingHole_1.152mm_(for_JLCPCB_SMT).kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: None  
-* libraryLink: MountingHole_2.5x5.0mm  
-* number_of_pads: 1  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | data//oomlout_oomp_footprint_src/acheron_MountingHoles.pretty/MountingHole_2.5x5.0mm.kicad_mod |  
-| footprint | {'description': None, 'libraryLink': 'MountingHole_2.5x5.0mm', 'number_of_pads': 1} |  
-| footprint_library_directory | footprint_library_owner/AcheronProject_acheron_MountingHoles.pretty |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/acheronproject_acheron_mountingholes_mountinghole_2_5x5_0mm/working |  
-| github_path | http://github.com/AcheronProject/acheron_MountingHoles.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/MountingHole_2.5x5.0mm.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/AcheronProject/acheron_MountingHoles.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/ToolingHole_1.152mm_(for_JLCPCB_SMT).kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/acheronproject_acheron_mountingholes_mountinghole_2_5x5_0mm/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/acheronproject_acheron_mountingholes_mountinghole_2_5x5_0mm/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/acheronproject_acheron_mountingholes_mountinghole_2_5x5_0mm/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/acheronproject_acheron_mountingholes_mountinghole_2_5x5_0mm/working'} |  
-| name | acheron_MountingHoles.pretty |  
-| oomp | {'footprint_name': 'mountinghole_2_5x5_0mm', 'library_name': 'acheron_mountingholes', 'md5': 'b3f85f287eaed12bb475a2d0ee2b22da', 'md5_10': 'b3f85f287e', 'md5_5': 'b3f85', 'md5_6': 'b3f85f', 'oomp_key': 'oomp_acheronproject_acheron_mountingholes_mountinghole_2_5x5_0mm', 'oomp_key_extra': 'oomp_footprint_acheronproject_acheron_mountingholes_mountinghole_2_5x5_0mm', 'oomp_key_full': 'oomp_footprint_acheronproject_acheron_mountingholes_mountinghole_2_5x5_0mm_b3f85f', 'oomp_key_simple': 'acheronproject_acheron_mountingholes_mountinghole_2_5x5_0mm', 'original_filename': 'data//oomlout_oomp_footprint_src/acheron_MountingHoles.pretty/MountingHole_2.5x5.0mm.kicad_mod', 'owner_name': 'acheronproject'} |  
-| oomp_key | oomp_acheronproject_acheron_mountingholes_mountinghole_2_5x5_0mm |  
-| oomp_key_full | oomp_footprint_acheronproject_acheron_mountingholes_mountinghole_2_5x5_0mm |  
-| oomp_key_simple | acheronproject_acheron_mountingholes_mountinghole_2_5x5_0mm |  
-| owner | AcheronProject |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.142.224. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/AcheronProject/acheron_MountingHoles.pretty |  
-
+# OOMP Footprint  
+## MountingHole_2.5x5.0mm  by AcheronProject  
+  
+oomp key: oomp_acheronproject_acheron_mountingholes_mountinghole_2_5x5_0mm  
+  
+source repo at: [http://github.com/AcheronProject/acheron_MountingHoles.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/ToolingHole_1.152mm_(for_JLCPCB_SMT).kicad_mod](http://github.com/AcheronProject/acheron_MountingHoles.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/ToolingHole_1.152mm_(for_JLCPCB_SMT).kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | MountingHole_2.5x5.0mm | 
+| footprint description | None | 
+| number of pads | 1 | 
+| github path | http://github.com/AcheronProject/acheron_MountingHoles.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/MountingHole_2.5x5.0mm.kicad_mod | 
+| oomp key | oomp_acheronproject_acheron_mountingholes_mountinghole_2_5x5_0mm | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/acheronproject_acheron_mountingholes_mountinghole_2_5x5_0mm/working | 
+## Images  
+  
+[![working.png](working_140.png)](working.png)  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_140.png)](working_kicad_pcb_3d.png)  
+  
+[![working_kicad_pcb_3d_back.png](working_kicad_pcb_3d_back_140.png)](working_kicad_pcb_3d_back.png)  
+  
+[![working_kicad_pcb_3d_front.png](working_kicad_pcb_3d_front_140.png)](working_kicad_pcb_3d_front.png)  
