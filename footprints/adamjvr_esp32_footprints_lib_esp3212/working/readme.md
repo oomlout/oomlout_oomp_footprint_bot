@@ -1,29 +1,28 @@
-# ESP32-kiCAD-Footprints by adamjvr  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/adamjvr/ESP32-kiCAD-Footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/ESP32-Footprints/ESP32-footprints-Lib.pretty/ESP3212.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: None  
-* libraryLink: ESP3212  
-* number_of_pads: 31  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | data//oomlout_oomp_footprint_src/ESP32-kiCAD-Footprints/ESP32-Footprints/ESP32-footprints-Lib.pretty/ESP3212.kicad_mod |  
-| footprint | {'description': None, 'libraryLink': 'ESP3212', 'number_of_pads': 31} |  
-| footprint_library_directory | footprint_library_owner/adamjvr_ESP32-kiCAD-Footprints |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/adamjvr_esp32_footprints_lib_esp3212/working |  
-| github_path | http://github.com/adamjvr/ESP32-kiCAD-Footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/ESP32-Footprints/ESP32-footprints-Lib.pretty/ESP3212.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/adamjvr/ESP32-kiCAD-Footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/ESP32-Footprints/ESP32-footprints-Lib.pretty/ESP3212.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/adamjvr_esp32_footprints_lib_esp3212/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/adamjvr_esp32_footprints_lib_esp3212/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/adamjvr_esp32_footprints_lib_esp3212/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/adamjvr_esp32_footprints_lib_esp3212/working'} |  
-| name | ESP32-kiCAD-Footprints |  
-| oomp | {'footprint_name': 'esp3212', 'library_name': 'esp32_footprints_lib', 'md5': 'f97ad311b61f98affb2b9f50dbcc0d55', 'md5_10': 'f97ad311b6', 'md5_5': 'f97ad', 'md5_6': 'f97ad3', 'oomp_key': 'oomp_adamjvr_esp32_footprints_lib_esp3212', 'oomp_key_extra': 'oomp_footprint_adamjvr_esp32_footprints_lib_esp3212', 'oomp_key_full': 'oomp_footprint_adamjvr_esp32_footprints_lib_esp3212_f97ad3', 'oomp_key_simple': 'adamjvr_esp32_footprints_lib_esp3212', 'original_filename': 'data//oomlout_oomp_footprint_src/ESP32-kiCAD-Footprints/ESP32-Footprints/ESP32-footprints-Lib.pretty/ESP3212.kicad_mod', 'owner_name': 'adamjvr'} |  
-| oomp_key | oomp_adamjvr_esp32_footprints_lib_esp3212 |  
-| oomp_key_full | oomp_footprint_adamjvr_esp32_footprints_lib_esp3212 |  
-| oomp_key_simple | adamjvr_esp32_footprints_lib_esp3212 |  
-| owner | adamjvr |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.142.224. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/adamjvr/ESP32-kiCAD-Footprints |  
-
+# OOMP Footprint  
+## ESP3212  by adamjvr  
+  
+oomp key: oomp_adamjvr_esp32_footprints_lib_esp3212  
+  
+source repo at: [http://github.com/adamjvr/ESP32-kiCAD-Footprints/blob/master/tmp/data/oomlout_oomp_footprint_src/ESP32-Footprints/ESP32-footprints-Lib.pretty/ESP3212.kicad_mod](http://github.com/adamjvr/ESP32-kiCAD-Footprints/blob/master/tmp/data/oomlout_oomp_footprint_src/ESP32-Footprints/ESP32-footprints-Lib.pretty/ESP3212.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | ESP3212 | 
+| footprint description | None | 
+| number of pads | 31 | 
+| github path | http://github.com/adamjvr/ESP32-kiCAD-Footprints/blob/master/tmp/data/oomlout_oomp_footprint_src/ESP32-Footprints/ESP32-footprints-Lib.pretty/ESP3212.kicad_mod | 
+| oomp key | oomp_adamjvr_esp32_footprints_lib_esp3212 | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/adamjvr_esp32_footprints_lib_esp3212/working | 
+## Images  
+  
+[![working.png](working_140.png)](working.png)  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_140.png)](working_kicad_pcb_3d.png)  
+  
+[![working_kicad_pcb_3d_back.png](working_kicad_pcb_3d_back_140.png)](working_kicad_pcb_3d_back.png)  
+  
+[![working_kicad_pcb_3d_front.png](working_kicad_pcb_3d_front_140.png)](working_kicad_pcb_3d_front.png)  

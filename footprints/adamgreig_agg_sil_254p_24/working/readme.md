@@ -1,29 +1,28 @@
-# agg-kicad by adamgreig  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/adamgreig/agg-kicad/blob/master/tmp/data//oomlout_oomp_footprint_src/agg.pretty/unchecked.pretty/XTAL50x32.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: None  
-* libraryLink: SIL-254P-24  
-* number_of_pads: 24  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | data//oomlout_oomp_footprint_src/agg-kicad/agg.pretty/SIL-254P-24.kicad_mod |  
-| footprint | {'description': None, 'libraryLink': 'SIL-254P-24', 'number_of_pads': 24} |  
-| footprint_library_directory | footprint_library_owner/adamgreig_agg-kicad |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/adamgreig_agg_sil_254p_24/working |  
-| github_path | http://github.com/adamgreig/agg-kicad/blob/master/tmp/data//oomlout_oomp_footprint_src/agg.pretty/SIL-254P-24.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/adamgreig/agg-kicad/blob/master/tmp/data//oomlout_oomp_footprint_src/agg.pretty/unchecked.pretty/XTAL50x32.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/adamgreig_agg_sil_254p_24/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/adamgreig_agg_sil_254p_24/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/adamgreig_agg_sil_254p_24/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/adamgreig_agg_sil_254p_24/working'} |  
-| name | agg-kicad |  
-| oomp | {'footprint_name': 'sil_254p_24', 'library_name': 'agg', 'md5': 'aa540f24fe68425daf4b81a9606ed4bf', 'md5_10': 'aa540f24fe', 'md5_5': 'aa540', 'md5_6': 'aa540f', 'oomp_key': 'oomp_adamgreig_agg_sil_254p_24', 'oomp_key_extra': 'oomp_footprint_adamgreig_agg_sil_254p_24', 'oomp_key_full': 'oomp_footprint_adamgreig_agg_sil_254p_24_aa540f', 'oomp_key_simple': 'adamgreig_agg_sil_254p_24', 'original_filename': 'data//oomlout_oomp_footprint_src/agg-kicad/agg.pretty/SIL-254P-24.kicad_mod', 'owner_name': 'adamgreig'} |  
-| oomp_key | oomp_adamgreig_agg_sil_254p_24 |  
-| oomp_key_full | oomp_footprint_adamgreig_agg_sil_254p_24 |  
-| oomp_key_simple | adamgreig_agg_sil_254p_24 |  
-| owner | adamgreig |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.142.224. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/adamgreig/agg-kicad |  
-
+# OOMP Footprint  
+## SIL-254P-24  by adamgreig  
+  
+oomp key: oomp_adamgreig_agg_sil_254p_24  
+  
+source repo at: [http://github.com/adamgreig/agg-kicad/blob/master/tmp/data/oomlout_oomp_footprint_src/agg.pretty/unchecked.pretty/XTAL50x32.kicad_mod](http://github.com/adamgreig/agg-kicad/blob/master/tmp/data/oomlout_oomp_footprint_src/agg.pretty/unchecked.pretty/XTAL50x32.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | SIL-254P-24 | 
+| footprint description | None | 
+| number of pads | 24 | 
+| github path | http://github.com/adamgreig/agg-kicad/blob/master/tmp/data/oomlout_oomp_footprint_src/agg.pretty/SIL-254P-24.kicad_mod | 
+| oomp key | oomp_adamgreig_agg_sil_254p_24 | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/adamgreig_agg_sil_254p_24/working | 
+## Images  
+  
+[![working.png](working_140.png)](working.png)  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_140.png)](working_kicad_pcb_3d.png)  
+  
+[![working_kicad_pcb_3d_back.png](working_kicad_pcb_3d_back_140.png)](working_kicad_pcb_3d_back.png)  
+  
+[![working_kicad_pcb_3d_front.png](working_kicad_pcb_3d_front_140.png)](working_kicad_pcb_3d_front.png)  
