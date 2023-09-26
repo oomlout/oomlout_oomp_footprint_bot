@@ -1,0 +1,20 @@
+# OOMP Footprint  
+## BatteryHolder_ComfortableElectronic_CH273-2450_1x2450  by konspyre  
+  
+oomp key: oomp_konspyre_battery_batteryholder_comfortableelectronic_ch273_2450_1x2450  
+  
+source repo at: [http://github.com/konspyre/kicad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod](http://github.com/konspyre/kicad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | BatteryHolder_ComfortableElectronic_CH273-2450_1x2450 | 
+| footprint description | Comfortable Electronic CR2450 battery holder, http://www.comf.com.tw/ProductDetail.asp?no=148 | 
+| number of pads | 2 | 
+| github path | http://github.com/konspyre/kicad-footprints/blob/master/tmp/data//oomlout_oomp_footprint_src/Battery.pretty/BatteryHolder_ComfortableElectronic_CH273-2450_1x2450.kicad_mod | 
+| oomp key | oomp_konspyre_battery_batteryholder_comfortableelectronic_ch273_2450_1x2450 | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/konspyre_battery_batteryholder_comfortableelectronic_ch273_2450_1x2450/working | 
+## Images  
