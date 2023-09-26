@@ -1,29 +1,28 @@
-# Kicad_Akiyuki_Footprint.pretty by AkiyukiOkayasu  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/USB_MicroB_PowerOnly.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: USB Type-C receptacle for USB 2.0 and PD, http://www.krhro.com/uploads/soft/180320/1-1P320120243.pdf  
-* libraryLink: USB_C_Receptacle_Nelton_5077CR-16-SMC2-BK-TR_HandSolder  
-* number_of_pads: 22  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | data//oomlout_oomp_footprint_src/Kicad_Akiyuki_Footprint.pretty/USB_C_Receptacle_Nelton_5077CR-16-SMC2-BK-TR_HandSolder.kicad_mod |  
-| footprint | {'description': 'USB Type-C receptacle for USB 2.0 and PD, http://www.krhro.com/uploads/soft/180320/1-1P320120243.pdf', 'libraryLink': 'USB_C_Receptacle_Nelton_5077CR-16-SMC2-BK-TR_HandSolder', 'number_of_pads': 22} |  
-| footprint_library_directory | footprint_library_owner/AkiyukiOkayasu_Kicad_Akiyuki_Footprint.pretty |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/akiyukiokayasu_kicad_akiyuki_footprint_usb_c_receptacle_nelton_5077cr_16_smc2_bk_tr_handsolder/working |  
-| github_path | http://github.com/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/USB_C_Receptacle_Nelton_5077CR-16-SMC2-BK-TR_HandSolder.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/USB_MicroB_PowerOnly.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/akiyukiokayasu_kicad_akiyuki_footprint_usb_c_receptacle_nelton_5077cr_16_smc2_bk_tr_handsolder/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/akiyukiokayasu_kicad_akiyuki_footprint_usb_c_receptacle_nelton_5077cr_16_smc2_bk_tr_handsolder/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/akiyukiokayasu_kicad_akiyuki_footprint_usb_c_receptacle_nelton_5077cr_16_smc2_bk_tr_handsolder/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/akiyukiokayasu_kicad_akiyuki_footprint_usb_c_receptacle_nelton_5077cr_16_smc2_bk_tr_handsolder/working'} |  
-| name | Kicad_Akiyuki_Footprint.pretty |  
-| oomp | {'footprint_name': 'usb_c_receptacle_nelton_5077cr_16_smc2_bk_tr_handsolder', 'library_name': 'kicad_akiyuki_footprint', 'md5': 'e335bef7ed1fde8f4c7087f2bdae401d', 'md5_10': 'e335bef7ed', 'md5_5': 'e335b', 'md5_6': 'e335be', 'oomp_key': 'oomp_akiyukiokayasu_kicad_akiyuki_footprint_usb_c_receptacle_nelton_5077cr_16_smc2_bk_tr_handsolder', 'oomp_key_extra': 'oomp_footprint_akiyukiokayasu_kicad_akiyuki_footprint_usb_c_receptacle_nelton_5077cr_16_smc2_bk_tr_handsolder', 'oomp_key_full': 'oomp_footprint_akiyukiokayasu_kicad_akiyuki_footprint_usb_c_receptacle_nelton_5077cr_16_smc2_bk_tr_handsolder_e335be', 'oomp_key_simple': 'akiyukiokayasu_kicad_akiyuki_footprint_usb_c_receptacle_nelton_5077cr_16_smc2_bk_tr_handsolder', 'original_filename': 'data//oomlout_oomp_footprint_src/Kicad_Akiyuki_Footprint.pretty/USB_C_Receptacle_Nelton_5077CR-16-SMC2-BK-TR_HandSolder.kicad_mod', 'owner_name': 'akiyukiokayasu'} |  
-| oomp_key | oomp_akiyukiokayasu_kicad_akiyuki_footprint_usb_c_receptacle_nelton_5077cr_16_smc2_bk_tr_handsolder |  
-| oomp_key_full | oomp_footprint_akiyukiokayasu_kicad_akiyuki_footprint_usb_c_receptacle_nelton_5077cr_16_smc2_bk_tr_handsolder |  
-| oomp_key_simple | akiyukiokayasu_kicad_akiyuki_footprint_usb_c_receptacle_nelton_5077cr_16_smc2_bk_tr_handsolder |  
-| owner | AkiyukiOkayasu |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.142.224. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty |  
-
+# OOMP Footprint  
+## USB_C_Receptacle_Nelton_5077CR-16-SMC2-BK-TR_HandSolder  by AkiyukiOkayasu  
+  
+oomp key: oomp_akiyukiokayasu_kicad_akiyuki_footprint_usb_c_receptacle_nelton_5077cr_16_smc2_bk_tr_handsolder  
+  
+source repo at: [http://github.com/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/USB_MicroB_PowerOnly.kicad_mod](http://github.com/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/USB_MicroB_PowerOnly.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | USB_C_Receptacle_Nelton_5077CR-16-SMC2-BK-TR_HandSolder | 
+| footprint description | USB Type-C receptacle for USB 2.0 and PD, http://www.krhro.com/uploads/soft/180320/1-1P320120243.pdf | 
+| number of pads | 22 | 
+| github path | http://github.com/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/USB_C_Receptacle_Nelton_5077CR-16-SMC2-BK-TR_HandSolder.kicad_mod | 
+| oomp key | oomp_akiyukiokayasu_kicad_akiyuki_footprint_usb_c_receptacle_nelton_5077cr_16_smc2_bk_tr_handsolder | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/akiyukiokayasu_kicad_akiyuki_footprint_usb_c_receptacle_nelton_5077cr_16_smc2_bk_tr_handsolder/working | 
+## Images  
+  
+[![working.png](working_140.png)](working.png)  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_140.png)](working_kicad_pcb_3d.png)  
+  
+[![working_kicad_pcb_3d_back.png](working_kicad_pcb_3d_back_140.png)](working_kicad_pcb_3d_back.png)  
+  
+[![working_kicad_pcb_3d_front.png](working_kicad_pcb_3d_front_140.png)](working_kicad_pcb_3d_front.png)  

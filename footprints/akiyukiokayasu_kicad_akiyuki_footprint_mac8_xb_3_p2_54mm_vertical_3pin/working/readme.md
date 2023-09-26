@@ -1,29 +1,28 @@
-# Kicad_Akiyuki_Footprint.pretty by AkiyukiOkayasu  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/USB_MicroB_PowerOnly.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: Through hole straight pin header, 1x05, 1.27mm pitch, single row  
-* libraryLink: Mac8_XB-3_P2.54mm_Vertical_3pin  
-* number_of_pads: 3  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | data//oomlout_oomp_footprint_src/Kicad_Akiyuki_Footprint.pretty/Mac8_XB-3_P2.54mm_Vertical_3pin.kicad_mod |  
-| footprint | {'description': 'Through hole straight pin header, 1x05, 1.27mm pitch, single row', 'libraryLink': 'Mac8_XB-3_P2.54mm_Vertical_3pin', 'number_of_pads': 3} |  
-| footprint_library_directory | footprint_library_owner/AkiyukiOkayasu_Kicad_Akiyuki_Footprint.pretty |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/akiyukiokayasu_kicad_akiyuki_footprint_mac8_xb_3_p2_54mm_vertical_3pin/working |  
-| github_path | http://github.com/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Mac8_XB-3_P2.54mm_Vertical_3pin.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/USB_MicroB_PowerOnly.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/akiyukiokayasu_kicad_akiyuki_footprint_mac8_xb_3_p2_54mm_vertical_3pin/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/akiyukiokayasu_kicad_akiyuki_footprint_mac8_xb_3_p2_54mm_vertical_3pin/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/akiyukiokayasu_kicad_akiyuki_footprint_mac8_xb_3_p2_54mm_vertical_3pin/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/akiyukiokayasu_kicad_akiyuki_footprint_mac8_xb_3_p2_54mm_vertical_3pin/working'} |  
-| name | Kicad_Akiyuki_Footprint.pretty |  
-| oomp | {'footprint_name': 'mac8_xb_3_p2_54mm_vertical_3pin', 'library_name': 'kicad_akiyuki_footprint', 'md5': 'd2cb77796c9e7a74b61dc4fdcc4014f5', 'md5_10': 'd2cb77796c', 'md5_5': 'd2cb7', 'md5_6': 'd2cb77', 'oomp_key': 'oomp_akiyukiokayasu_kicad_akiyuki_footprint_mac8_xb_3_p2_54mm_vertical_3pin', 'oomp_key_extra': 'oomp_footprint_akiyukiokayasu_kicad_akiyuki_footprint_mac8_xb_3_p2_54mm_vertical_3pin', 'oomp_key_full': 'oomp_footprint_akiyukiokayasu_kicad_akiyuki_footprint_mac8_xb_3_p2_54mm_vertical_3pin_d2cb77', 'oomp_key_simple': 'akiyukiokayasu_kicad_akiyuki_footprint_mac8_xb_3_p2_54mm_vertical_3pin', 'original_filename': 'data//oomlout_oomp_footprint_src/Kicad_Akiyuki_Footprint.pretty/Mac8_XB-3_P2.54mm_Vertical_3pin.kicad_mod', 'owner_name': 'akiyukiokayasu'} |  
-| oomp_key | oomp_akiyukiokayasu_kicad_akiyuki_footprint_mac8_xb_3_p2_54mm_vertical_3pin |  
-| oomp_key_full | oomp_footprint_akiyukiokayasu_kicad_akiyuki_footprint_mac8_xb_3_p2_54mm_vertical_3pin |  
-| oomp_key_simple | akiyukiokayasu_kicad_akiyuki_footprint_mac8_xb_3_p2_54mm_vertical_3pin |  
-| owner | AkiyukiOkayasu |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.142.224. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty |  
-
+# OOMP Footprint  
+## Mac8_XB-3_P2.54mm_Vertical_3pin  by AkiyukiOkayasu  
+  
+oomp key: oomp_akiyukiokayasu_kicad_akiyuki_footprint_mac8_xb_3_p2_54mm_vertical_3pin  
+  
+source repo at: [http://github.com/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/USB_MicroB_PowerOnly.kicad_mod](http://github.com/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/USB_MicroB_PowerOnly.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | Mac8_XB-3_P2.54mm_Vertical_3pin | 
+| footprint description | Through hole straight pin header, 1x05, 1.27mm pitch, single row | 
+| number of pads | 3 | 
+| github path | http://github.com/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/Mac8_XB-3_P2.54mm_Vertical_3pin.kicad_mod | 
+| oomp key | oomp_akiyukiokayasu_kicad_akiyuki_footprint_mac8_xb_3_p2_54mm_vertical_3pin | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/akiyukiokayasu_kicad_akiyuki_footprint_mac8_xb_3_p2_54mm_vertical_3pin/working | 
+## Images  
+  
+[![working.png](working_140.png)](working.png)  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_140.png)](working_kicad_pcb_3d.png)  
+  
+[![working_kicad_pcb_3d_back.png](working_kicad_pcb_3d_back_140.png)](working_kicad_pcb_3d_back.png)  
+  
+[![working_kicad_pcb_3d_front.png](working_kicad_pcb_3d_front_140.png)](working_kicad_pcb_3d_front.png)  

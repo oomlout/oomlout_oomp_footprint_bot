@@ -1,29 +1,28 @@
-# Kicad_Akiyuki_Footprint.pretty by AkiyukiOkayasu  
-This is a harvested standardized copy of a footprint from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-footprints  
-The original footprint can be found at:
-http://gitlab.com/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/USB_MicroB_PowerOnly.kicad_mod
-Please consult that link for additional, details, files, and license information.  
-## Footprint Details
-* description: Audio line output transformer  
-* libraryLink: OEP_CUI30A02E  
-* number_of_pads: 12  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| file | data//oomlout_oomp_footprint_src/Kicad_Akiyuki_Footprint.pretty/OEP_CUI30A02E.kicad_mod |  
-| footprint | {'description': 'Audio line output transformer', 'libraryLink': 'OEP_CUI30A02E', 'number_of_pads': 12} |  
-| footprint_library_directory | footprint_library_owner/AkiyukiOkayasu_Kicad_Akiyuki_Footprint.pretty |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/akiyukiokayasu_kicad_akiyuki_footprint_oep_cui30a02e/working |  
-| github_path | http://github.com/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/OEP_CUI30A02E.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/USB_MicroB_PowerOnly.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/akiyukiokayasu_kicad_akiyuki_footprint_oep_cui30a02e/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/akiyukiokayasu_kicad_akiyuki_footprint_oep_cui30a02e/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/akiyukiokayasu_kicad_akiyuki_footprint_oep_cui30a02e/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/akiyukiokayasu_kicad_akiyuki_footprint_oep_cui30a02e/working'} |  
-| name | Kicad_Akiyuki_Footprint.pretty |  
-| oomp | {'footprint_name': 'oep_cui30a02e', 'library_name': 'kicad_akiyuki_footprint', 'md5': 'a24d66df96a73ec9283a150089520eaf', 'md5_10': 'a24d66df96', 'md5_5': 'a24d6', 'md5_6': 'a24d66', 'oomp_key': 'oomp_akiyukiokayasu_kicad_akiyuki_footprint_oep_cui30a02e', 'oomp_key_extra': 'oomp_footprint_akiyukiokayasu_kicad_akiyuki_footprint_oep_cui30a02e', 'oomp_key_full': 'oomp_footprint_akiyukiokayasu_kicad_akiyuki_footprint_oep_cui30a02e_a24d66', 'oomp_key_simple': 'akiyukiokayasu_kicad_akiyuki_footprint_oep_cui30a02e', 'original_filename': 'data//oomlout_oomp_footprint_src/Kicad_Akiyuki_Footprint.pretty/OEP_CUI30A02E.kicad_mod', 'owner_name': 'akiyukiokayasu'} |  
-| oomp_key | oomp_akiyukiokayasu_kicad_akiyuki_footprint_oep_cui30a02e |  
-| oomp_key_full | oomp_footprint_akiyukiokayasu_kicad_akiyuki_footprint_oep_cui30a02e |  
-| oomp_key_simple | akiyukiokayasu_kicad_akiyuki_footprint_oep_cui30a02e |  
-| owner | AkiyukiOkayasu |  
-| repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.142.224. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
-| url | http://github.com/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty |  
-
+# OOMP Footprint  
+## OEP_CUI30A02E  by AkiyukiOkayasu  
+  
+oomp key: oomp_akiyukiokayasu_kicad_akiyuki_footprint_oep_cui30a02e  
+  
+source repo at: [http://github.com/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/USB_MicroB_PowerOnly.kicad_mod](http://github.com/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/USB_MicroB_PowerOnly.kicad_mod)  
+## Footprint  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| footprint name | OEP_CUI30A02E | 
+| footprint description | Audio line output transformer | 
+| number of pads | 12 | 
+| github path | http://github.com/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/OEP_CUI30A02E.kicad_mod | 
+| oomp key | oomp_akiyukiokayasu_kicad_akiyuki_footprint_oep_cui30a02e | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/akiyukiokayasu_kicad_akiyuki_footprint_oep_cui30a02e/working | 
+## Images  
+  
+[![working.png](working_140.png)](working.png)  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_140.png)](working_kicad_pcb_3d.png)  
+  
+[![working_kicad_pcb_3d_back.png](working_kicad_pcb_3d_back_140.png)](working_kicad_pcb_3d_back.png)  
+  
+[![working_kicad_pcb_3d_front.png](working_kicad_pcb_3d_front_140.png)](working_kicad_pcb_3d_front.png)  
