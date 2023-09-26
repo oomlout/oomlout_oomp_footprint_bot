@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://gitlab.com/kicad/libraries/kicad-footprints  
 The original footprint can be found at:
-http://gitlab.com/av-p/Avp.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XTAL-3215.kicad_mod
+http://gitlab.com/av-p/Avp.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/XTAL-3215.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: http://www.ti.com/general/docs/lit/getliterature.tsp?baseLiteratureNumber=MPQF122&fileType=pdf  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/Avp.pretty/Texas_VQFN-RGW-20.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/Avp.pretty/Texas_VQFN-RGW-20.kicad_mod |  
 | footprint | {'description': 'http://www.ti.com/general/docs/lit/getliterature.tsp?baseLiteratureNumber=MPQF122&fileType=pdf', 'libraryLink': 'Texas_VQFN-RGW-20', 'number_of_pads': 24} |  
 | footprint_library_directory | footprint_library_owner/av-p_Avp.pretty |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/av_p_avp_texas_vqfn_rgw_20/working |  
-| github_path | http://github.com/av-p/Avp.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Texas_VQFN-RGW-20.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/av-p/Avp.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XTAL-3215.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/av_p_avp_texas_vqfn_rgw_20/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/av_p_avp_texas_vqfn_rgw_20/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/av_p_avp_texas_vqfn_rgw_20/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/av_p_avp_texas_vqfn_rgw_20/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/av_p_avp_texas_vqfn_rgw_20/working |  
+| github_path | http://github.com/av-p/Avp.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/Texas_VQFN-RGW-20.kicad_mod |  
+| links | {'github_src': 'http://gitlab.com/av-p/Avp.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/XTAL-3215.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/av_p_avp_texas_vqfn_rgw_20/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/av_p_avp_texas_vqfn_rgw_20/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/av_p_avp_texas_vqfn_rgw_20/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/av_p_avp_texas_vqfn_rgw_20/working'} |  
 | name | Avp.pretty |  
-| oomp | {'footprint_name': 'texas_vqfn_rgw_20', 'library_name': 'avp', 'md5': '49c7743882b92d4b46bf2e554f9c7338', 'md5_10': '49c7743882', 'md5_5': '49c77', 'md5_6': '49c774', 'oomp_key': 'oomp_av_p_avp_texas_vqfn_rgw_20', 'oomp_key_extra': 'oomp_footprint_av_p_avp_texas_vqfn_rgw_20', 'oomp_key_full': 'oomp_footprint_av_p_avp_texas_vqfn_rgw_20_49c774', 'oomp_key_simple': 'av_p_avp_texas_vqfn_rgw_20', 'original_filename': 'data//oomlout_oomp_footprint_src/Avp.pretty/Texas_VQFN-RGW-20.kicad_mod', 'owner_name': 'av_p'} |  
+| oomp | {'footprint_name': 'texas_vqfn_rgw_20', 'library_name': 'avp', 'md5': '49c7743882b92d4b46bf2e554f9c7338', 'md5_10': '49c7743882', 'md5_5': '49c77', 'md5_6': '49c774', 'oomp_key': 'oomp_av_p_avp_texas_vqfn_rgw_20', 'oomp_key_extra': 'oomp_footprint_av_p_avp_texas_vqfn_rgw_20', 'oomp_key_full': 'oomp_footprint_av_p_avp_texas_vqfn_rgw_20_49c774', 'oomp_key_simple': 'av_p_avp_texas_vqfn_rgw_20', 'original_filename': 'data/oomlout_oomp_footprint_src/Avp.pretty/Texas_VQFN-RGW-20.kicad_mod', 'owner_name': 'av_p'} |  
 | oomp_key | oomp_av_p_avp_texas_vqfn_rgw_20 |  
 | oomp_key_full | oomp_footprint_av_p_avp_texas_vqfn_rgw_20 |  
 | oomp_key_simple | av_p_avp_texas_vqfn_rgw_20 |  

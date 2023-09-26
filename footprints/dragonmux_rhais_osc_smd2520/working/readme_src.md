@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://github.com/dragonmux/rhais_osc.pretty  
 The original footprint can be found at:
-http://github.com/dragonmux/rhais_osc.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/SMD3225.kicad_mod
+http://github.com/dragonmux/rhais_osc.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/SMD3225.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: None  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/rhais_osc.pretty/SMD2520.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/rhais_osc.pretty/SMD2520.kicad_mod |  
 | footprint | {'description': None, 'libraryLink': 'SMD2520', 'number_of_pads': 4} |  
 | footprint_library_directory | footprint_library_owner/dragonmux_rhais_osc.pretty |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/dragonmux_rhais_osc_smd2520/working |  
-| github_path | http://github.com/dragonmux/rhais_osc.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/SMD2520.kicad_mod |  
-| links | {'github_owner': 'dragonmux', 'github_repo_name': 'rhais_osc.pretty', 'github_src': 'http://github.com/dragonmux/rhais_osc.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/SMD3225.kicad_mod', 'github_src_repo': 'https://github.com/dragonmux/rhais_osc.pretty', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/dragonmux_rhais_osc_smd2520/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/dragonmux_rhais_osc_smd2520/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/dragonmux_rhais_osc_smd2520/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/dragonmux_rhais_osc_smd2520/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/dragonmux_rhais_osc_smd2520/working |  
+| github_path | http://github.com/dragonmux/rhais_osc.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/SMD2520.kicad_mod |  
+| links | {'github_owner': 'dragonmux', 'github_repo_name': 'rhais_osc.pretty', 'github_src': 'http://github.com/dragonmux/rhais_osc.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/SMD3225.kicad_mod', 'github_src_repo': 'https://github.com/dragonmux/rhais_osc.pretty', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/dragonmux_rhais_osc_smd2520/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/dragonmux_rhais_osc_smd2520/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/dragonmux_rhais_osc_smd2520/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/dragonmux_rhais_osc_smd2520/working'} |  
 | name | rhais_osc.pretty |  
-| oomp | {'footprint_name': 'smd2520', 'library_name': 'rhais_osc', 'md5': '12c74533ae9640fca4c808a683f87337', 'md5_10': '12c74533ae', 'md5_5': '12c74', 'md5_6': '12c745', 'oomp_key': 'oomp_dragonmux_rhais_osc_smd2520', 'oomp_key_extra': 'oomp_footprint_dragonmux_rhais_osc_smd2520', 'oomp_key_full': 'oomp_footprint_dragonmux_rhais_osc_smd2520_12c745', 'oomp_key_simple': 'dragonmux_rhais_osc_smd2520', 'original_filename': 'data//oomlout_oomp_footprint_src/rhais_osc.pretty/SMD2520.kicad_mod', 'owner_name': 'dragonmux'} |  
+| oomp | {'footprint_name': 'smd2520', 'library_name': 'rhais_osc', 'md5': '12c74533ae9640fca4c808a683f87337', 'md5_10': '12c74533ae', 'md5_5': '12c74', 'md5_6': '12c745', 'oomp_key': 'oomp_dragonmux_rhais_osc_smd2520', 'oomp_key_extra': 'oomp_footprint_dragonmux_rhais_osc_smd2520', 'oomp_key_full': 'oomp_footprint_dragonmux_rhais_osc_smd2520_12c745', 'oomp_key_simple': 'dragonmux_rhais_osc_smd2520', 'original_filename': 'data/oomlout_oomp_footprint_src/rhais_osc.pretty/SMD2520.kicad_mod', 'owner_name': 'dragonmux'} |  
 | oomp_key | oomp_dragonmux_rhais_osc_smd2520 |  
 | oomp_key_full | oomp_footprint_dragonmux_rhais_osc_smd2520 |  
 | oomp_key_simple | dragonmux_rhais_osc_smd2520 |  

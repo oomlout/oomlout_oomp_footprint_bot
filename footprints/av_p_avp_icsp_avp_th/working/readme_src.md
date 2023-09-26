@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://gitlab.com/kicad/libraries/kicad-footprints  
 The original footprint can be found at:
-http://gitlab.com/av-p/Avp.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XTAL-3215.kicad_mod
+http://gitlab.com/av-p/Avp.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/XTAL-3215.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description:   
@@ -13,13 +13,13 @@ Please consult that link for additional, details, files, and license information
 | Key | Value |  
 | --- | --- |  
 | error | Expression does not have the correct type |  
-| file | data//oomlout_oomp_footprint_src/Avp.pretty/ICSP_AVP_TH.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/Avp.pretty/ICSP_AVP_TH.kicad_mod |  
 | footprint_library_directory | footprint_library_owner/av-p_Avp.pretty |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/av_p_avp_icsp_avp_th/working |  
-| github_path | http://github.com/av-p/Avp.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/ICSP_AVP_TH.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/av-p/Avp.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XTAL-3215.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/av_p_avp_icsp_avp_th/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/av_p_avp_icsp_avp_th/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/av_p_avp_icsp_avp_th/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/av_p_avp_icsp_avp_th/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/av_p_avp_icsp_avp_th/working |  
+| github_path | http://github.com/av-p/Avp.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/ICSP_AVP_TH.kicad_mod |  
+| links | {'github_src': 'http://gitlab.com/av-p/Avp.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/XTAL-3215.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/av_p_avp_icsp_avp_th/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/av_p_avp_icsp_avp_th/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/av_p_avp_icsp_avp_th/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/av_p_avp_icsp_avp_th/working'} |  
 | name | Avp.pretty |  
-| oomp | {'footprint_name': 'icsp_avp_th', 'library_name': 'avp', 'md5': '2e41afecb4e21ed1f967aa8f111197f1', 'md5_10': '2e41afecb4', 'md5_5': '2e41a', 'md5_6': '2e41af', 'oomp_key': 'oomp_av_p_avp_icsp_avp_th', 'oomp_key_extra': 'oomp_footprint_av_p_avp_icsp_avp_th', 'oomp_key_full': 'oomp_footprint_av_p_avp_icsp_avp_th_2e41af', 'oomp_key_simple': 'av_p_avp_icsp_avp_th', 'original_filename': 'data//oomlout_oomp_footprint_src/Avp.pretty/ICSP_AVP_TH.kicad_mod', 'owner_name': 'av_p'} |  
+| oomp | {'footprint_name': 'icsp_avp_th', 'library_name': 'avp', 'md5': '2e41afecb4e21ed1f967aa8f111197f1', 'md5_10': '2e41afecb4', 'md5_5': '2e41a', 'md5_6': '2e41af', 'oomp_key': 'oomp_av_p_avp_icsp_avp_th', 'oomp_key_extra': 'oomp_footprint_av_p_avp_icsp_avp_th', 'oomp_key_full': 'oomp_footprint_av_p_avp_icsp_avp_th_2e41af', 'oomp_key_simple': 'av_p_avp_icsp_avp_th', 'original_filename': 'data/oomlout_oomp_footprint_src/Avp.pretty/ICSP_AVP_TH.kicad_mod', 'owner_name': 'av_p'} |  
 | oomp_key | oomp_av_p_avp_icsp_avp_th |  
 | oomp_key_full | oomp_footprint_av_p_avp_icsp_avp_th |  
 | oomp_key_simple | av_p_avp_icsp_avp_th |  

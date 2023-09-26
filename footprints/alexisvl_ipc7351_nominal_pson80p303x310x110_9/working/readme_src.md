@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://github.com/alexisvl/kicad-pcblib  
 The original footprint can be found at:
-http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data//oomlout_oomp_footprint_src/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod
+http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data/oomlout_oomp_footprint_src/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: PSON,0.80mm pitch;8 pin,3.10mm W X 3.10mm L X 1.10mm H body (pullback leads) (w/thermal tab)  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/kicad-pcblib/IPC7351-Nominal.pretty/PSON80P303X310X110-9.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/kicad-pcblib/IPC7351-Nominal.pretty/PSON80P303X310X110-9.kicad_mod |  
 | footprint | {'description': 'PSON,0.80mm pitch;8 pin,3.10mm W X 3.10mm L X 1.10mm H body (pullback leads) (w/thermal tab)', 'libraryLink': 'PSON80P303X310X110-9', 'number_of_pads': 9} |  
 | footprint_library_directory | footprint_library_owner/cpavlina_kicad-pcblib |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/alexisvl_ipc7351_nominal_pson80p303x310x110_9/working |  
-| github_path | http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data//oomlout_oomp_footprint_src/IPC7351-Nominal.pretty/PSON80P303X310X110-9.kicad_mod |  
-| links | {'github_owner': 'alexisvl', 'github_repo_name': 'kicad-pcblib', 'github_src': 'http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data//oomlout_oomp_footprint_src/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod', 'github_src_repo': 'https://github.com/alexisvl/kicad-pcblib', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/alexisvl_ipc7351_nominal_pson80p303x310x110_9/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/alexisvl_ipc7351_nominal_pson80p303x310x110_9/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/alexisvl_ipc7351_nominal_pson80p303x310x110_9/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/alexisvl_ipc7351_nominal_pson80p303x310x110_9/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/alexisvl_ipc7351_nominal_pson80p303x310x110_9/working |  
+| github_path | http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data/oomlout_oomp_footprint_src/IPC7351-Nominal.pretty/PSON80P303X310X110-9.kicad_mod |  
+| links | {'github_owner': 'alexisvl', 'github_repo_name': 'kicad-pcblib', 'github_src': 'http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data/oomlout_oomp_footprint_src/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod', 'github_src_repo': 'https://github.com/alexisvl/kicad-pcblib', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/alexisvl_ipc7351_nominal_pson80p303x310x110_9/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/alexisvl_ipc7351_nominal_pson80p303x310x110_9/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/alexisvl_ipc7351_nominal_pson80p303x310x110_9/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/alexisvl_ipc7351_nominal_pson80p303x310x110_9/working'} |  
 | name | kicad-pcblib |  
-| oomp | {'footprint_name': 'pson80p303x310x110_9', 'library_name': 'ipc7351_nominal', 'md5': '01b8329a3f74ba2606dfd901241102db', 'md5_10': '01b8329a3f', 'md5_5': '01b83', 'md5_6': '01b832', 'oomp_key': 'oomp_alexisvl_ipc7351_nominal_pson80p303x310x110_9', 'oomp_key_extra': 'oomp_footprint_alexisvl_ipc7351_nominal_pson80p303x310x110_9', 'oomp_key_full': 'oomp_footprint_alexisvl_ipc7351_nominal_pson80p303x310x110_9_01b832', 'oomp_key_simple': 'alexisvl_ipc7351_nominal_pson80p303x310x110_9', 'original_filename': 'data//oomlout_oomp_footprint_src/kicad-pcblib/IPC7351-Nominal.pretty/PSON80P303X310X110-9.kicad_mod', 'owner_name': 'alexisvl'} |  
+| oomp | {'footprint_name': 'pson80p303x310x110_9', 'library_name': 'ipc7351_nominal', 'md5': '01b8329a3f74ba2606dfd901241102db', 'md5_10': '01b8329a3f', 'md5_5': '01b83', 'md5_6': '01b832', 'oomp_key': 'oomp_alexisvl_ipc7351_nominal_pson80p303x310x110_9', 'oomp_key_extra': 'oomp_footprint_alexisvl_ipc7351_nominal_pson80p303x310x110_9', 'oomp_key_full': 'oomp_footprint_alexisvl_ipc7351_nominal_pson80p303x310x110_9_01b832', 'oomp_key_simple': 'alexisvl_ipc7351_nominal_pson80p303x310x110_9', 'original_filename': 'data/oomlout_oomp_footprint_src/kicad-pcblib/IPC7351-Nominal.pretty/PSON80P303X310X110-9.kicad_mod', 'owner_name': 'alexisvl'} |  
 | oomp_key | oomp_alexisvl_ipc7351_nominal_pson80p303x310x110_9 |  
 | oomp_key_full | oomp_footprint_alexisvl_ipc7351_nominal_pson80p303x310x110_9 |  
 | oomp_key_simple | alexisvl_ipc7351_nominal_pson80p303x310x110_9 |  

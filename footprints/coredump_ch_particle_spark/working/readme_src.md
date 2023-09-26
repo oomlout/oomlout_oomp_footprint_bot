@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://github.com/coredump-ch/particle.pretty  
 The original footprint can be found at:
-http://github.com/coredump-ch/particle.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/spark.kicad_mod
+http://github.com/coredump-ch/particle.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/spark.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: None  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/particle.pretty/spark.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/particle.pretty/spark.kicad_mod |  
 | footprint | {'description': None, 'libraryLink': 'spark', 'number_of_pads': 24} |  
 | footprint_library_directory | footprint_library_owner/coredump-ch_particle.pretty |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/coredump_ch_particle_spark/working |  
-| github_path | http://github.com/coredump-ch/particle.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/spark.kicad_mod |  
-| links | {'github_owner': 'coredump-ch', 'github_repo_name': 'particle.pretty', 'github_src': 'http://github.com/coredump-ch/particle.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/spark.kicad_mod', 'github_src_repo': 'https://github.com/coredump-ch/particle.pretty', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/coredump_ch_particle_spark/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/coredump_ch_particle_spark/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/coredump_ch_particle_spark/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/coredump_ch_particle_spark/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/coredump_ch_particle_spark/working |  
+| github_path | http://github.com/coredump-ch/particle.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/spark.kicad_mod |  
+| links | {'github_owner': 'coredump-ch', 'github_repo_name': 'particle.pretty', 'github_src': 'http://github.com/coredump-ch/particle.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/spark.kicad_mod', 'github_src_repo': 'https://github.com/coredump-ch/particle.pretty', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/coredump_ch_particle_spark/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/coredump_ch_particle_spark/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/coredump_ch_particle_spark/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/coredump_ch_particle_spark/working'} |  
 | name | particle.pretty |  
-| oomp | {'footprint_name': 'spark', 'library_name': 'particle', 'md5': '4ffec1bd8f0ed553179a949e3ce9868b', 'md5_10': '4ffec1bd8f', 'md5_5': '4ffec', 'md5_6': '4ffec1', 'oomp_key': 'oomp_coredump_ch_particle_spark', 'oomp_key_extra': 'oomp_footprint_coredump_ch_particle_spark', 'oomp_key_full': 'oomp_footprint_coredump_ch_particle_spark_4ffec1', 'oomp_key_simple': 'coredump_ch_particle_spark', 'original_filename': 'data//oomlout_oomp_footprint_src/particle.pretty/spark.kicad_mod', 'owner_name': 'coredump_ch'} |  
+| oomp | {'footprint_name': 'spark', 'library_name': 'particle', 'md5': '4ffec1bd8f0ed553179a949e3ce9868b', 'md5_10': '4ffec1bd8f', 'md5_5': '4ffec', 'md5_6': '4ffec1', 'oomp_key': 'oomp_coredump_ch_particle_spark', 'oomp_key_extra': 'oomp_footprint_coredump_ch_particle_spark', 'oomp_key_full': 'oomp_footprint_coredump_ch_particle_spark_4ffec1', 'oomp_key_simple': 'coredump_ch_particle_spark', 'original_filename': 'data/oomlout_oomp_footprint_src/particle.pretty/spark.kicad_mod', 'owner_name': 'coredump_ch'} |  
 | oomp_key | oomp_coredump_ch_particle_spark |  
 | oomp_key_full | oomp_footprint_coredump_ch_particle_spark |  
 | oomp_key_simple | coredump_ch_particle_spark |  

@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://github.com/dragonmux/rhais_connector-lumberg.pretty  
 The original footprint can be found at:
-http://github.com/dragonmux/rhais_connector-lumberg.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/TM 0508 A_6.kicad_mod
+http://github.com/dragonmux/rhais_connector-lumberg.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/TM 0508 A_6.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: None  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/rhais_connector-lumberg.pretty/TM 0508 A_4.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/rhais_connector-lumberg.pretty/TM 0508 A_4.kicad_mod |  
 | footprint | {'description': None, 'libraryLink': 'TM 0508 A_4', 'number_of_pads': 7} |  
 | footprint_library_directory | footprint_library_owner/dragonmux_rhais_connector-lumberg.pretty |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/dragonmux_rhais_connector_lumberg_tm_0508_a_4/working |  
-| github_path | http://github.com/dragonmux/rhais_connector-lumberg.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/TM 0508 A_4.kicad_mod |  
-| links | {'github_owner': 'dragonmux', 'github_repo_name': 'rhais_connector-lumberg.pretty', 'github_src': 'http://github.com/dragonmux/rhais_connector-lumberg.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/TM 0508 A_6.kicad_mod', 'github_src_repo': 'https://github.com/dragonmux/rhais_connector-lumberg.pretty', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/dragonmux_rhais_connector_lumberg_tm_0508_a_4/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/dragonmux_rhais_connector_lumberg_tm_0508_a_4/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/dragonmux_rhais_connector_lumberg_tm_0508_a_4/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/dragonmux_rhais_connector_lumberg_tm_0508_a_4/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/dragonmux_rhais_connector_lumberg_tm_0508_a_4/working |  
+| github_path | http://github.com/dragonmux/rhais_connector-lumberg.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/TM 0508 A_4.kicad_mod |  
+| links | {'github_owner': 'dragonmux', 'github_repo_name': 'rhais_connector-lumberg.pretty', 'github_src': 'http://github.com/dragonmux/rhais_connector-lumberg.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/TM 0508 A_6.kicad_mod', 'github_src_repo': 'https://github.com/dragonmux/rhais_connector-lumberg.pretty', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/dragonmux_rhais_connector_lumberg_tm_0508_a_4/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/dragonmux_rhais_connector_lumberg_tm_0508_a_4/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/dragonmux_rhais_connector_lumberg_tm_0508_a_4/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/dragonmux_rhais_connector_lumberg_tm_0508_a_4/working'} |  
 | name | rhais_connector-lumberg.pretty |  
-| oomp | {'footprint_name': 'tm_0508_a_4', 'library_name': 'rhais_connector_lumberg', 'md5': '0ec01e6494f722d7e71e8ebf3c761caf', 'md5_10': '0ec01e6494', 'md5_5': '0ec01', 'md5_6': '0ec01e', 'oomp_key': 'oomp_dragonmux_rhais_connector_lumberg_tm_0508_a_4', 'oomp_key_extra': 'oomp_footprint_dragonmux_rhais_connector_lumberg_tm_0508_a_4', 'oomp_key_full': 'oomp_footprint_dragonmux_rhais_connector_lumberg_tm_0508_a_4_0ec01e', 'oomp_key_simple': 'dragonmux_rhais_connector_lumberg_tm_0508_a_4', 'original_filename': 'data//oomlout_oomp_footprint_src/rhais_connector-lumberg.pretty/TM 0508 A_4.kicad_mod', 'owner_name': 'dragonmux'} |  
+| oomp | {'footprint_name': 'tm_0508_a_4', 'library_name': 'rhais_connector_lumberg', 'md5': '0ec01e6494f722d7e71e8ebf3c761caf', 'md5_10': '0ec01e6494', 'md5_5': '0ec01', 'md5_6': '0ec01e', 'oomp_key': 'oomp_dragonmux_rhais_connector_lumberg_tm_0508_a_4', 'oomp_key_extra': 'oomp_footprint_dragonmux_rhais_connector_lumberg_tm_0508_a_4', 'oomp_key_full': 'oomp_footprint_dragonmux_rhais_connector_lumberg_tm_0508_a_4_0ec01e', 'oomp_key_simple': 'dragonmux_rhais_connector_lumberg_tm_0508_a_4', 'original_filename': 'data/oomlout_oomp_footprint_src/rhais_connector-lumberg.pretty/TM 0508 A_4.kicad_mod', 'owner_name': 'dragonmux'} |  
 | oomp_key | oomp_dragonmux_rhais_connector_lumberg_tm_0508_a_4 |  
 | oomp_key_full | oomp_footprint_dragonmux_rhais_connector_lumberg_tm_0508_a_4 |  
 | oomp_key_simple | dragonmux_rhais_connector_lumberg_tm_0508_a_4 |  

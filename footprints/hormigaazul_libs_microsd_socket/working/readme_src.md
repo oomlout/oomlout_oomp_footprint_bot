@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://gitlab.com/kicad/libraries/kicad-footprints  
 The original footprint can be found at:
-http://gitlab.com/hormigaAzul/libs.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/TO-220_Neutral123_Horizontal_Reverse_LargePads.kicad_mod
+http://gitlab.com/hormigaAzul/libs.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/TO-220_Neutral123_Horizontal_Reverse_LargePads.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: MicroSD Card socket, Molex P/N 502774-0811  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/libs.pretty/microsd_socket.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/libs.pretty/microsd_socket.kicad_mod |  
 | footprint | {'description': 'MicroSD Card socket, Molex P/N 502774-0811', 'libraryLink': 'microsd_socket', 'number_of_pads': 14} |  
 | footprint_library_directory | footprint_library_owner/hormigaAzul_libs.pretty |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/hormigaazul_libs_microsd_socket/working |  
-| github_path | http://github.com/hormigaAzul/libs.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/microsd_socket.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/hormigaAzul/libs.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/TO-220_Neutral123_Horizontal_Reverse_LargePads.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/hormigaazul_libs_microsd_socket/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/hormigaazul_libs_microsd_socket/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/hormigaazul_libs_microsd_socket/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/hormigaazul_libs_microsd_socket/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/hormigaazul_libs_microsd_socket/working |  
+| github_path | http://github.com/hormigaAzul/libs.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/microsd_socket.kicad_mod |  
+| links | {'github_src': 'http://gitlab.com/hormigaAzul/libs.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/TO-220_Neutral123_Horizontal_Reverse_LargePads.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/hormigaazul_libs_microsd_socket/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/hormigaazul_libs_microsd_socket/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/hormigaazul_libs_microsd_socket/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/hormigaazul_libs_microsd_socket/working'} |  
 | name | libs.pretty |  
-| oomp | {'footprint_name': 'microsd_socket', 'library_name': 'libs', 'md5': 'dc514cacaa74105759e44973690b8b8f', 'md5_10': 'dc514cacaa', 'md5_5': 'dc514', 'md5_6': 'dc514c', 'oomp_key': 'oomp_hormigaazul_libs_microsd_socket', 'oomp_key_extra': 'oomp_footprint_hormigaazul_libs_microsd_socket', 'oomp_key_full': 'oomp_footprint_hormigaazul_libs_microsd_socket_dc514c', 'oomp_key_simple': 'hormigaazul_libs_microsd_socket', 'original_filename': 'data//oomlout_oomp_footprint_src/libs.pretty/microsd_socket.kicad_mod', 'owner_name': 'hormigaazul'} |  
+| oomp | {'footprint_name': 'microsd_socket', 'library_name': 'libs', 'md5': 'dc514cacaa74105759e44973690b8b8f', 'md5_10': 'dc514cacaa', 'md5_5': 'dc514', 'md5_6': 'dc514c', 'oomp_key': 'oomp_hormigaazul_libs_microsd_socket', 'oomp_key_extra': 'oomp_footprint_hormigaazul_libs_microsd_socket', 'oomp_key_full': 'oomp_footprint_hormigaazul_libs_microsd_socket_dc514c', 'oomp_key_simple': 'hormigaazul_libs_microsd_socket', 'original_filename': 'data/oomlout_oomp_footprint_src/libs.pretty/microsd_socket.kicad_mod', 'owner_name': 'hormigaazul'} |  
 | oomp_key | oomp_hormigaazul_libs_microsd_socket |  
 | oomp_key_full | oomp_footprint_hormigaazul_libs_microsd_socket |  
 | oomp_key_simple | hormigaazul_libs_microsd_socket |  

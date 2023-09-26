@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://gitlab.com/kicad/libraries/kicad-footprints  
 The original footprint can be found at:
-http://gitlab.com/espressif/kicad-libraries/blob/master/tmp/data//oomlout_oomp_footprint_src/footprints/Espressif.pretty/ESP32-WROVER-E_ThermalVias.kicad_mod
+http://gitlab.com/espressif/kicad-libraries/blob/master/tmp/data/oomlout_oomp_footprint_src/footprints/Espressif.pretty/ESP32-WROVER-E_ThermalVias.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: ESP32-S2-WROOM and ESP32-S2-WROOM-I: https://www.espressif.com/sites/default/files/documentation/esp32-s2-wroom_esp32-s2-wroom-i_datasheet_en.pdf  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/kicad-libraries/footprints/Espressif.pretty/ESP32-S2-WROOM.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/kicad-libraries/footprints/Espressif.pretty/ESP32-S2-WROOM.kicad_mod |  
 | footprint | {'description': 'ESP32-S2-WROOM and ESP32-S2-WROOM-I: https://www.espressif.com/sites/default/files/documentation/esp32-s2-wroom_esp32-s2-wroom-i_datasheet_en.pdf', 'libraryLink': 'ESP32-S2-WROOM', 'number_of_pads': 51} |  
 | footprint_library_directory | footprint_library_owner/espressif_kicad-libraries |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/espressif_espressif_esp32_s2_wroom/working |  
-| github_path | http://github.com/espressif/kicad-libraries/blob/master/tmp/data//oomlout_oomp_footprint_src/footprints/Espressif.pretty/ESP32-S2-WROOM.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/espressif/kicad-libraries/blob/master/tmp/data//oomlout_oomp_footprint_src/footprints/Espressif.pretty/ESP32-WROVER-E_ThermalVias.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/espressif_espressif_esp32_s2_wroom/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/espressif_espressif_esp32_s2_wroom/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/espressif_espressif_esp32_s2_wroom/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/espressif_espressif_esp32_s2_wroom/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/espressif_espressif_esp32_s2_wroom/working |  
+| github_path | http://github.com/espressif/kicad-libraries/blob/master/tmp/data/oomlout_oomp_footprint_src/footprints/Espressif.pretty/ESP32-S2-WROOM.kicad_mod |  
+| links | {'github_src': 'http://gitlab.com/espressif/kicad-libraries/blob/master/tmp/data/oomlout_oomp_footprint_src/footprints/Espressif.pretty/ESP32-WROVER-E_ThermalVias.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/espressif_espressif_esp32_s2_wroom/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/espressif_espressif_esp32_s2_wroom/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/espressif_espressif_esp32_s2_wroom/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/espressif_espressif_esp32_s2_wroom/working'} |  
 | name | kicad-libraries |  
-| oomp | {'footprint_name': 'esp32_s2_wroom', 'library_name': 'espressif', 'md5': '7b2867835d3570c77249415abf1dd4e9', 'md5_10': '7b2867835d', 'md5_5': '7b286', 'md5_6': '7b2867', 'oomp_key': 'oomp_espressif_espressif_esp32_s2_wroom', 'oomp_key_extra': 'oomp_footprint_espressif_espressif_esp32_s2_wroom', 'oomp_key_full': 'oomp_footprint_espressif_espressif_esp32_s2_wroom_7b2867', 'oomp_key_simple': 'espressif_espressif_esp32_s2_wroom', 'original_filename': 'data//oomlout_oomp_footprint_src/kicad-libraries/footprints/Espressif.pretty/ESP32-S2-WROOM.kicad_mod', 'owner_name': 'espressif'} |  
+| oomp | {'footprint_name': 'esp32_s2_wroom', 'library_name': 'espressif', 'md5': '7b2867835d3570c77249415abf1dd4e9', 'md5_10': '7b2867835d', 'md5_5': '7b286', 'md5_6': '7b2867', 'oomp_key': 'oomp_espressif_espressif_esp32_s2_wroom', 'oomp_key_extra': 'oomp_footprint_espressif_espressif_esp32_s2_wroom', 'oomp_key_full': 'oomp_footprint_espressif_espressif_esp32_s2_wroom_7b2867', 'oomp_key_simple': 'espressif_espressif_esp32_s2_wroom', 'original_filename': 'data/oomlout_oomp_footprint_src/kicad-libraries/footprints/Espressif.pretty/ESP32-S2-WROOM.kicad_mod', 'owner_name': 'espressif'} |  
 | oomp_key | oomp_espressif_espressif_esp32_s2_wroom |  
 | oomp_key_full | oomp_footprint_espressif_espressif_esp32_s2_wroom |  
 | oomp_key_simple | espressif_espressif_esp32_s2_wroom |  

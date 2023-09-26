@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://github.com/descampsa/CreativeCommon.pretty  
 The original footprint can be found at:
-http://github.com/descampsa/CreativeCommon.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/CreativeCommonShareAlikeCopperSmall.kicad_mod
+http://github.com/descampsa/CreativeCommon.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/CreativeCommonShareAlikeCopperSmall.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: None  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/CreativeCommon.pretty/CreativeCommonCopperSmall.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/CreativeCommon.pretty/CreativeCommonCopperSmall.kicad_mod |  
 | footprint | {'description': None, 'libraryLink': 'CreativeCommonCopperSmall', 'number_of_pads': 0} |  
 | footprint_library_directory | footprint_library_owner/descampsa_CreativeCommon.pretty |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/descampsa_creativecommon_creativecommoncoppersmall/working |  
-| github_path | http://github.com/descampsa/CreativeCommon.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/CreativeCommonCopperSmall.kicad_mod |  
-| links | {'github_owner': 'descampsa', 'github_repo_name': 'CreativeCommon.pretty', 'github_src': 'http://github.com/descampsa/CreativeCommon.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/CreativeCommonShareAlikeCopperSmall.kicad_mod', 'github_src_repo': 'https://github.com/descampsa/CreativeCommon.pretty', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/descampsa_creativecommon_creativecommoncoppersmall/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/descampsa_creativecommon_creativecommoncoppersmall/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/descampsa_creativecommon_creativecommoncoppersmall/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/descampsa_creativecommon_creativecommoncoppersmall/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/descampsa_creativecommon_creativecommoncoppersmall/working |  
+| github_path | http://github.com/descampsa/CreativeCommon.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/CreativeCommonCopperSmall.kicad_mod |  
+| links | {'github_owner': 'descampsa', 'github_repo_name': 'CreativeCommon.pretty', 'github_src': 'http://github.com/descampsa/CreativeCommon.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/CreativeCommonShareAlikeCopperSmall.kicad_mod', 'github_src_repo': 'https://github.com/descampsa/CreativeCommon.pretty', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/descampsa_creativecommon_creativecommoncoppersmall/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/descampsa_creativecommon_creativecommoncoppersmall/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/descampsa_creativecommon_creativecommoncoppersmall/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/descampsa_creativecommon_creativecommoncoppersmall/working'} |  
 | name | CreativeCommon.pretty |  
-| oomp | {'footprint_name': 'creativecommoncoppersmall', 'library_name': 'creativecommon', 'md5': '11d8c8e28e60f6e3dacebdc669c89c63', 'md5_10': '11d8c8e28e', 'md5_5': '11d8c', 'md5_6': '11d8c8', 'oomp_key': 'oomp_descampsa_creativecommon_creativecommoncoppersmall', 'oomp_key_extra': 'oomp_footprint_descampsa_creativecommon_creativecommoncoppersmall', 'oomp_key_full': 'oomp_footprint_descampsa_creativecommon_creativecommoncoppersmall_11d8c8', 'oomp_key_simple': 'descampsa_creativecommon_creativecommoncoppersmall', 'original_filename': 'data//oomlout_oomp_footprint_src/CreativeCommon.pretty/CreativeCommonCopperSmall.kicad_mod', 'owner_name': 'descampsa'} |  
+| oomp | {'footprint_name': 'creativecommoncoppersmall', 'library_name': 'creativecommon', 'md5': '11d8c8e28e60f6e3dacebdc669c89c63', 'md5_10': '11d8c8e28e', 'md5_5': '11d8c', 'md5_6': '11d8c8', 'oomp_key': 'oomp_descampsa_creativecommon_creativecommoncoppersmall', 'oomp_key_extra': 'oomp_footprint_descampsa_creativecommon_creativecommoncoppersmall', 'oomp_key_full': 'oomp_footprint_descampsa_creativecommon_creativecommoncoppersmall_11d8c8', 'oomp_key_simple': 'descampsa_creativecommon_creativecommoncoppersmall', 'original_filename': 'data/oomlout_oomp_footprint_src/CreativeCommon.pretty/CreativeCommonCopperSmall.kicad_mod', 'owner_name': 'descampsa'} |  
 | oomp_key | oomp_descampsa_creativecommon_creativecommoncoppersmall |  
 | oomp_key_full | oomp_footprint_descampsa_creativecommon_creativecommoncoppersmall |  
 | oomp_key_simple | descampsa_creativecommon_creativecommoncoppersmall |  

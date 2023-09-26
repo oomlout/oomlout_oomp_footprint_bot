@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://github.com/daprice/keyswitches.pretty  
 The original footprint can be found at:
-http://github.com/daprice/keyswitches.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/SW_PG1350_reversible_rotatable.kicad_mod
+http://github.com/daprice/keyswitches.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/SW_PG1350_reversible_rotatable.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: MX-style keyswitch with support for optional Kailh socket  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/keyswitches.pretty/Kailh_socket_MX_optional.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/keyswitches.pretty/Kailh_socket_MX_optional.kicad_mod |  
 | footprint | {'description': 'MX-style keyswitch with support for optional Kailh socket', 'libraryLink': 'Kailh_socket_MX_optional', 'number_of_pads': 9} |  
 | footprint_library_directory | footprint_library_owner/daprice_keyswitches.pretty |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/daprice_keyswitches_kailh_socket_mx_optional/working |  
-| github_path | http://github.com/daprice/keyswitches.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Kailh_socket_MX_optional.kicad_mod |  
-| links | {'github_owner': 'daprice', 'github_repo_name': 'keyswitches.pretty', 'github_src': 'http://github.com/daprice/keyswitches.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/SW_PG1350_reversible_rotatable.kicad_mod', 'github_src_repo': 'https://github.com/daprice/keyswitches.pretty', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/daprice_keyswitches_kailh_socket_mx_optional/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/daprice_keyswitches_kailh_socket_mx_optional/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/daprice_keyswitches_kailh_socket_mx_optional/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/daprice_keyswitches_kailh_socket_mx_optional/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/daprice_keyswitches_kailh_socket_mx_optional/working |  
+| github_path | http://github.com/daprice/keyswitches.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/Kailh_socket_MX_optional.kicad_mod |  
+| links | {'github_owner': 'daprice', 'github_repo_name': 'keyswitches.pretty', 'github_src': 'http://github.com/daprice/keyswitches.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/SW_PG1350_reversible_rotatable.kicad_mod', 'github_src_repo': 'https://github.com/daprice/keyswitches.pretty', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/daprice_keyswitches_kailh_socket_mx_optional/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/daprice_keyswitches_kailh_socket_mx_optional/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/daprice_keyswitches_kailh_socket_mx_optional/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/daprice_keyswitches_kailh_socket_mx_optional/working'} |  
 | name | keyswitches.pretty |  
-| oomp | {'footprint_name': 'kailh_socket_mx_optional', 'library_name': 'keyswitches', 'md5': '3307bfb879eb636440487646c244af7b', 'md5_10': '3307bfb879', 'md5_5': '3307b', 'md5_6': '3307bf', 'oomp_key': 'oomp_daprice_keyswitches_kailh_socket_mx_optional', 'oomp_key_extra': 'oomp_footprint_daprice_keyswitches_kailh_socket_mx_optional', 'oomp_key_full': 'oomp_footprint_daprice_keyswitches_kailh_socket_mx_optional_3307bf', 'oomp_key_simple': 'daprice_keyswitches_kailh_socket_mx_optional', 'original_filename': 'data//oomlout_oomp_footprint_src/keyswitches.pretty/Kailh_socket_MX_optional.kicad_mod', 'owner_name': 'daprice'} |  
+| oomp | {'footprint_name': 'kailh_socket_mx_optional', 'library_name': 'keyswitches', 'md5': '3307bfb879eb636440487646c244af7b', 'md5_10': '3307bfb879', 'md5_5': '3307b', 'md5_6': '3307bf', 'oomp_key': 'oomp_daprice_keyswitches_kailh_socket_mx_optional', 'oomp_key_extra': 'oomp_footprint_daprice_keyswitches_kailh_socket_mx_optional', 'oomp_key_full': 'oomp_footprint_daprice_keyswitches_kailh_socket_mx_optional_3307bf', 'oomp_key_simple': 'daprice_keyswitches_kailh_socket_mx_optional', 'original_filename': 'data/oomlout_oomp_footprint_src/keyswitches.pretty/Kailh_socket_MX_optional.kicad_mod', 'owner_name': 'daprice'} |  
 | oomp_key | oomp_daprice_keyswitches_kailh_socket_mx_optional |  
 | oomp_key_full | oomp_footprint_daprice_keyswitches_kailh_socket_mx_optional |  
 | oomp_key_simple | daprice_keyswitches_kailh_socket_mx_optional |  

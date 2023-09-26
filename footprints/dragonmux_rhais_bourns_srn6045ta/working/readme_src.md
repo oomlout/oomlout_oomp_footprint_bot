@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://github.com/dragonmux/rhais_bourns.pretty  
 The original footprint can be found at:
-http://github.com/dragonmux/rhais_bourns.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/SRN6045TA.kicad_mod
+http://github.com/dragonmux/rhais_bourns.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/SRN6045TA.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: None  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/rhais_bourns.pretty/SRN6045TA.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/rhais_bourns.pretty/SRN6045TA.kicad_mod |  
 | footprint | {'description': None, 'libraryLink': 'SRN6045TA', 'number_of_pads': 2} |  
 | footprint_library_directory | footprint_library_owner/dragonmux_rhais_bourns.pretty |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/dragonmux_rhais_bourns_srn6045ta/working |  
-| github_path | http://github.com/dragonmux/rhais_bourns.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/SRN6045TA.kicad_mod |  
-| links | {'github_owner': 'dragonmux', 'github_repo_name': 'rhais_bourns.pretty', 'github_src': 'http://github.com/dragonmux/rhais_bourns.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/SRN6045TA.kicad_mod', 'github_src_repo': 'https://github.com/dragonmux/rhais_bourns.pretty', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/dragonmux_rhais_bourns_srn6045ta/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/dragonmux_rhais_bourns_srn6045ta/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/dragonmux_rhais_bourns_srn6045ta/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/dragonmux_rhais_bourns_srn6045ta/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/dragonmux_rhais_bourns_srn6045ta/working |  
+| github_path | http://github.com/dragonmux/rhais_bourns.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/SRN6045TA.kicad_mod |  
+| links | {'github_owner': 'dragonmux', 'github_repo_name': 'rhais_bourns.pretty', 'github_src': 'http://github.com/dragonmux/rhais_bourns.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/SRN6045TA.kicad_mod', 'github_src_repo': 'https://github.com/dragonmux/rhais_bourns.pretty', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/dragonmux_rhais_bourns_srn6045ta/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/dragonmux_rhais_bourns_srn6045ta/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/dragonmux_rhais_bourns_srn6045ta/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/dragonmux_rhais_bourns_srn6045ta/working'} |  
 | name | rhais_bourns.pretty |  
-| oomp | {'footprint_name': 'srn6045ta', 'library_name': 'rhais_bourns', 'md5': '4a3300872fd3916e8093c4ee283e1915', 'md5_10': '4a3300872f', 'md5_5': '4a330', 'md5_6': '4a3300', 'oomp_key': 'oomp_dragonmux_rhais_bourns_srn6045ta', 'oomp_key_extra': 'oomp_footprint_dragonmux_rhais_bourns_srn6045ta', 'oomp_key_full': 'oomp_footprint_dragonmux_rhais_bourns_srn6045ta_4a3300', 'oomp_key_simple': 'dragonmux_rhais_bourns_srn6045ta', 'original_filename': 'data//oomlout_oomp_footprint_src/rhais_bourns.pretty/SRN6045TA.kicad_mod', 'owner_name': 'dragonmux'} |  
+| oomp | {'footprint_name': 'srn6045ta', 'library_name': 'rhais_bourns', 'md5': '4a3300872fd3916e8093c4ee283e1915', 'md5_10': '4a3300872f', 'md5_5': '4a330', 'md5_6': '4a3300', 'oomp_key': 'oomp_dragonmux_rhais_bourns_srn6045ta', 'oomp_key_extra': 'oomp_footprint_dragonmux_rhais_bourns_srn6045ta', 'oomp_key_full': 'oomp_footprint_dragonmux_rhais_bourns_srn6045ta_4a3300', 'oomp_key_simple': 'dragonmux_rhais_bourns_srn6045ta', 'original_filename': 'data/oomlout_oomp_footprint_src/rhais_bourns.pretty/SRN6045TA.kicad_mod', 'owner_name': 'dragonmux'} |  
 | oomp_key | oomp_dragonmux_rhais_bourns_srn6045ta |  
 | oomp_key_full | oomp_footprint_dragonmux_rhais_bourns_srn6045ta |  
 | oomp_key_simple | dragonmux_rhais_bourns_srn6045ta |  

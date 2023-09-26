@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://github.com/dqmcdonald/DQM_kicad_new.pretty  
 The original footprint can be found at:
-http://github.com/dqmcdonald/DQM_kicad_new.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/SOT-23_J201_JFET.kicad_mod
+http://github.com/dqmcdonald/DQM_kicad_new.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/SOT-23_J201_JFET.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: None  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/DQM_kicad_new.pretty/LoRaSx1276.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/DQM_kicad_new.pretty/LoRaSx1276.kicad_mod |  
 | footprint | {'description': None, 'libraryLink': 'LoRaSx1276', 'number_of_pads': 14} |  
 | footprint_library_directory | footprint_library_owner/dqmcdonald_DQM_kicad_new.pretty |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/dqmcdonald_dqm_kicad_new_lorasx1276/working |  
-| github_path | http://github.com/dqmcdonald/DQM_kicad_new.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/LoRaSx1276.kicad_mod |  
-| links | {'github_owner': 'dqmcdonald', 'github_repo_name': 'DQM_kicad_new.pretty', 'github_src': 'http://github.com/dqmcdonald/DQM_kicad_new.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/SOT-23_J201_JFET.kicad_mod', 'github_src_repo': 'https://github.com/dqmcdonald/DQM_kicad_new.pretty', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/dqmcdonald_dqm_kicad_new_lorasx1276/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/dqmcdonald_dqm_kicad_new_lorasx1276/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/dqmcdonald_dqm_kicad_new_lorasx1276/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/dqmcdonald_dqm_kicad_new_lorasx1276/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/dqmcdonald_dqm_kicad_new_lorasx1276/working |  
+| github_path | http://github.com/dqmcdonald/DQM_kicad_new.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/LoRaSx1276.kicad_mod |  
+| links | {'github_owner': 'dqmcdonald', 'github_repo_name': 'DQM_kicad_new.pretty', 'github_src': 'http://github.com/dqmcdonald/DQM_kicad_new.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/SOT-23_J201_JFET.kicad_mod', 'github_src_repo': 'https://github.com/dqmcdonald/DQM_kicad_new.pretty', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/dqmcdonald_dqm_kicad_new_lorasx1276/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/dqmcdonald_dqm_kicad_new_lorasx1276/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/dqmcdonald_dqm_kicad_new_lorasx1276/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/dqmcdonald_dqm_kicad_new_lorasx1276/working'} |  
 | name | DQM_kicad_new.pretty |  
-| oomp | {'footprint_name': 'lorasx1276', 'library_name': 'dqm_kicad_new', 'md5': '3d75fbc53ca29ed88fca6262a94599ba', 'md5_10': '3d75fbc53c', 'md5_5': '3d75f', 'md5_6': '3d75fb', 'oomp_key': 'oomp_dqmcdonald_dqm_kicad_new_lorasx1276', 'oomp_key_extra': 'oomp_footprint_dqmcdonald_dqm_kicad_new_lorasx1276', 'oomp_key_full': 'oomp_footprint_dqmcdonald_dqm_kicad_new_lorasx1276_3d75fb', 'oomp_key_simple': 'dqmcdonald_dqm_kicad_new_lorasx1276', 'original_filename': 'data//oomlout_oomp_footprint_src/DQM_kicad_new.pretty/LoRaSx1276.kicad_mod', 'owner_name': 'dqmcdonald'} |  
+| oomp | {'footprint_name': 'lorasx1276', 'library_name': 'dqm_kicad_new', 'md5': '3d75fbc53ca29ed88fca6262a94599ba', 'md5_10': '3d75fbc53c', 'md5_5': '3d75f', 'md5_6': '3d75fb', 'oomp_key': 'oomp_dqmcdonald_dqm_kicad_new_lorasx1276', 'oomp_key_extra': 'oomp_footprint_dqmcdonald_dqm_kicad_new_lorasx1276', 'oomp_key_full': 'oomp_footprint_dqmcdonald_dqm_kicad_new_lorasx1276_3d75fb', 'oomp_key_simple': 'dqmcdonald_dqm_kicad_new_lorasx1276', 'original_filename': 'data/oomlout_oomp_footprint_src/DQM_kicad_new.pretty/LoRaSx1276.kicad_mod', 'owner_name': 'dqmcdonald'} |  
 | oomp_key | oomp_dqmcdonald_dqm_kicad_new_lorasx1276 |  
 | oomp_key_full | oomp_footprint_dqmcdonald_dqm_kicad_new_lorasx1276 |  
 | oomp_key_simple | dqmcdonald_dqm_kicad_new_lorasx1276 |  

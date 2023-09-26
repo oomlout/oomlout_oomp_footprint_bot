@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://gitlab.com/kicad/libraries/kicad-footprints  
 The original footprint can be found at:
-http://gitlab.com/ElectronicCats/ComponentLibrariesKicadWurthElektronik/blob/master/tmp/data//oomlout_oomp_footprint_src/WIRE-TO-BOARD(rev17b)/heder box.pretty/690207102672.kicad_mod
+http://gitlab.com/ElectronicCats/ComponentLibrariesKicadWurthElektronik/blob/master/tmp/data/oomlout_oomp_footprint_src/WIRE-TO-BOARD(rev17b)/heder box.pretty/690207102672.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: <b>WR-MJ_Modular Jack_Tab UP_6P6C_Assembly\n</b><br>6P6C Tab UP_Pre-Assembly 1x2  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/ComponentLibrariesKicadWurthElektronik/INPUT_OUTPUT_CONNECTORS-rev17b/RJ.pretty/615012149421.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/ComponentLibrariesKicadWurthElektronik/INPUT_OUTPUT_CONNECTORS-rev17b/RJ.pretty/615012149421.kicad_mod |  
 | footprint | {'description': '<b>WR-MJ_Modular Jack_Tab UP_6P6C_Assembly\\n</b><br>6P6C Tab UP_Pre-Assembly 1x2', 'libraryLink': '615012149421', 'number_of_pads': 15} |  
 | footprint_library_directory | footprint_library_owner/ElectronicCats_ComponentLibrariesKicadWurthElektronik |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/electroniccats_rj_615012149421/working |  
-| github_path | http://github.com/ElectronicCats/ComponentLibrariesKicadWurthElektronik/blob/master/tmp/data//oomlout_oomp_footprint_src/INPUT_OUTPUT_CONNECTORS-rev17b/RJ.pretty/615012149421.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/ElectronicCats/ComponentLibrariesKicadWurthElektronik/blob/master/tmp/data//oomlout_oomp_footprint_src/WIRE-TO-BOARD(rev17b)/heder box.pretty/690207102672.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/electroniccats_rj_615012149421/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/electroniccats_rj_615012149421/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/electroniccats_rj_615012149421/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/electroniccats_rj_615012149421/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/electroniccats_rj_615012149421/working |  
+| github_path | http://github.com/ElectronicCats/ComponentLibrariesKicadWurthElektronik/blob/master/tmp/data/oomlout_oomp_footprint_src/INPUT_OUTPUT_CONNECTORS-rev17b/RJ.pretty/615012149421.kicad_mod |  
+| links | {'github_src': 'http://gitlab.com/ElectronicCats/ComponentLibrariesKicadWurthElektronik/blob/master/tmp/data/oomlout_oomp_footprint_src/WIRE-TO-BOARD(rev17b)/heder box.pretty/690207102672.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/electroniccats_rj_615012149421/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/electroniccats_rj_615012149421/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/electroniccats_rj_615012149421/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/electroniccats_rj_615012149421/working'} |  
 | name | ComponentLibrariesKicadWurthElektronik |  
-| oomp | {'footprint_name': '615012149421', 'library_name': 'rj', 'md5': '6d6e1abe93625825cf03406de5bfcca4', 'md5_10': '6d6e1abe93', 'md5_5': '6d6e1', 'md5_6': '6d6e1a', 'oomp_key': 'oomp_electroniccats_rj_615012149421', 'oomp_key_extra': 'oomp_footprint_electroniccats_rj_615012149421', 'oomp_key_full': 'oomp_footprint_electroniccats_rj_615012149421_6d6e1a', 'oomp_key_simple': 'electroniccats_rj_615012149421', 'original_filename': 'data//oomlout_oomp_footprint_src/ComponentLibrariesKicadWurthElektronik/INPUT_OUTPUT_CONNECTORS-rev17b/RJ.pretty/615012149421.kicad_mod', 'owner_name': 'electroniccats'} |  
+| oomp | {'footprint_name': '615012149421', 'library_name': 'rj', 'md5': '6d6e1abe93625825cf03406de5bfcca4', 'md5_10': '6d6e1abe93', 'md5_5': '6d6e1', 'md5_6': '6d6e1a', 'oomp_key': 'oomp_electroniccats_rj_615012149421', 'oomp_key_extra': 'oomp_footprint_electroniccats_rj_615012149421', 'oomp_key_full': 'oomp_footprint_electroniccats_rj_615012149421_6d6e1a', 'oomp_key_simple': 'electroniccats_rj_615012149421', 'original_filename': 'data/oomlout_oomp_footprint_src/ComponentLibrariesKicadWurthElektronik/INPUT_OUTPUT_CONNECTORS-rev17b/RJ.pretty/615012149421.kicad_mod', 'owner_name': 'electroniccats'} |  
 | oomp_key | oomp_electroniccats_rj_615012149421 |  
 | oomp_key_full | oomp_footprint_electroniccats_rj_615012149421 |  
 | oomp_key_simple | electroniccats_rj_615012149421 |  

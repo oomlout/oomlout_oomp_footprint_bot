@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://gitlab.com/kicad/libraries/kicad-footprints  
 The original footprint can be found at:
-http://gitlab.com/axello/kicad/blob/master/tmp/data//oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod
+http://gitlab.com/axello/kicad/blob/master/tmp/data/oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: None  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/kicad/mods/freetronics_footprints.pretty/OLED-128C128-FPC-BOT.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/kicad/mods/freetronics_footprints.pretty/OLED-128C128-FPC-BOT.kicad_mod |  
 | footprint | {'description': None, 'libraryLink': 'OLED-128C128-FPC-BOT', 'number_of_pads': 32} |  
 | footprint_library_directory | footprint_library_owner/axello_kicad |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/axello_freetronics_footprints_oled_128c128_fpc_bot/working |  
-| github_path | http://github.com/axello/kicad/blob/master/tmp/data//oomlout_oomp_footprint_src/mods/freetronics_footprints.pretty/OLED-128C128-FPC-BOT.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/axello/kicad/blob/master/tmp/data//oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/axello_freetronics_footprints_oled_128c128_fpc_bot/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/axello_freetronics_footprints_oled_128c128_fpc_bot/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/axello_freetronics_footprints_oled_128c128_fpc_bot/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/axello_freetronics_footprints_oled_128c128_fpc_bot/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/axello_freetronics_footprints_oled_128c128_fpc_bot/working |  
+| github_path | http://github.com/axello/kicad/blob/master/tmp/data/oomlout_oomp_footprint_src/mods/freetronics_footprints.pretty/OLED-128C128-FPC-BOT.kicad_mod |  
+| links | {'github_src': 'http://gitlab.com/axello/kicad/blob/master/tmp/data/oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/axello_freetronics_footprints_oled_128c128_fpc_bot/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/axello_freetronics_footprints_oled_128c128_fpc_bot/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/axello_freetronics_footprints_oled_128c128_fpc_bot/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/axello_freetronics_footprints_oled_128c128_fpc_bot/working'} |  
 | name | kicad |  
-| oomp | {'footprint_name': 'oled_128c128_fpc_bot', 'library_name': 'freetronics_footprints', 'md5': '26d0b23d9dd4bd8c4dd61dca770b06fa', 'md5_10': '26d0b23d9d', 'md5_5': '26d0b', 'md5_6': '26d0b2', 'oomp_key': 'oomp_axello_freetronics_footprints_oled_128c128_fpc_bot', 'oomp_key_extra': 'oomp_footprint_axello_freetronics_footprints_oled_128c128_fpc_bot', 'oomp_key_full': 'oomp_footprint_axello_freetronics_footprints_oled_128c128_fpc_bot_26d0b2', 'oomp_key_simple': 'axello_freetronics_footprints_oled_128c128_fpc_bot', 'original_filename': 'data//oomlout_oomp_footprint_src/kicad/mods/freetronics_footprints.pretty/OLED-128C128-FPC-BOT.kicad_mod', 'owner_name': 'axello'} |  
+| oomp | {'footprint_name': 'oled_128c128_fpc_bot', 'library_name': 'freetronics_footprints', 'md5': '26d0b23d9dd4bd8c4dd61dca770b06fa', 'md5_10': '26d0b23d9d', 'md5_5': '26d0b', 'md5_6': '26d0b2', 'oomp_key': 'oomp_axello_freetronics_footprints_oled_128c128_fpc_bot', 'oomp_key_extra': 'oomp_footprint_axello_freetronics_footprints_oled_128c128_fpc_bot', 'oomp_key_full': 'oomp_footprint_axello_freetronics_footprints_oled_128c128_fpc_bot_26d0b2', 'oomp_key_simple': 'axello_freetronics_footprints_oled_128c128_fpc_bot', 'original_filename': 'data/oomlout_oomp_footprint_src/kicad/mods/freetronics_footprints.pretty/OLED-128C128-FPC-BOT.kicad_mod', 'owner_name': 'axello'} |  
 | oomp_key | oomp_axello_freetronics_footprints_oled_128c128_fpc_bot |  
 | oomp_key_full | oomp_footprint_axello_freetronics_footprints_oled_128c128_fpc_bot |  
 | oomp_key_simple | axello_freetronics_footprints_oled_128c128_fpc_bot |  

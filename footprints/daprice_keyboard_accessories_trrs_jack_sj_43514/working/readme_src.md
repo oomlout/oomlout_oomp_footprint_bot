@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://github.com/daprice/keyboard_accessories.pretty  
 The original footprint can be found at:
-http://github.com/daprice/keyboard_accessories.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/TRRS_Jack_SJ-43514_reversible.kicad_mod
+http://github.com/daprice/keyboard_accessories.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/TRRS_Jack_SJ-43514_reversible.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: None  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/keyboard_accessories.pretty/TRRS_Jack_SJ-43514.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/keyboard_accessories.pretty/TRRS_Jack_SJ-43514.kicad_mod |  
 | footprint | {'description': None, 'libraryLink': 'TRRS_Jack_SJ-43514', 'number_of_pads': 6} |  
 | footprint_library_directory | footprint_library_owner/daprice_keyboard_accessories.pretty |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/daprice_keyboard_accessories_trrs_jack_sj_43514/working |  
-| github_path | http://github.com/daprice/keyboard_accessories.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/TRRS_Jack_SJ-43514.kicad_mod |  
-| links | {'github_owner': 'daprice', 'github_repo_name': 'keyboard_accessories.pretty', 'github_src': 'http://github.com/daprice/keyboard_accessories.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/TRRS_Jack_SJ-43514_reversible.kicad_mod', 'github_src_repo': 'https://github.com/daprice/keyboard_accessories.pretty', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/daprice_keyboard_accessories_trrs_jack_sj_43514/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/daprice_keyboard_accessories_trrs_jack_sj_43514/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/daprice_keyboard_accessories_trrs_jack_sj_43514/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/daprice_keyboard_accessories_trrs_jack_sj_43514/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/daprice_keyboard_accessories_trrs_jack_sj_43514/working |  
+| github_path | http://github.com/daprice/keyboard_accessories.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/TRRS_Jack_SJ-43514.kicad_mod |  
+| links | {'github_owner': 'daprice', 'github_repo_name': 'keyboard_accessories.pretty', 'github_src': 'http://github.com/daprice/keyboard_accessories.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/TRRS_Jack_SJ-43514_reversible.kicad_mod', 'github_src_repo': 'https://github.com/daprice/keyboard_accessories.pretty', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/daprice_keyboard_accessories_trrs_jack_sj_43514/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/daprice_keyboard_accessories_trrs_jack_sj_43514/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/daprice_keyboard_accessories_trrs_jack_sj_43514/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/daprice_keyboard_accessories_trrs_jack_sj_43514/working'} |  
 | name | keyboard_accessories.pretty |  
-| oomp | {'footprint_name': 'trrs_jack_sj_43514', 'library_name': 'keyboard_accessories', 'md5': '056eac1f9e4fa79a4ad0b6dc96785bef', 'md5_10': '056eac1f9e', 'md5_5': '056ea', 'md5_6': '056eac', 'oomp_key': 'oomp_daprice_keyboard_accessories_trrs_jack_sj_43514', 'oomp_key_extra': 'oomp_footprint_daprice_keyboard_accessories_trrs_jack_sj_43514', 'oomp_key_full': 'oomp_footprint_daprice_keyboard_accessories_trrs_jack_sj_43514_056eac', 'oomp_key_simple': 'daprice_keyboard_accessories_trrs_jack_sj_43514', 'original_filename': 'data//oomlout_oomp_footprint_src/keyboard_accessories.pretty/TRRS_Jack_SJ-43514.kicad_mod', 'owner_name': 'daprice'} |  
+| oomp | {'footprint_name': 'trrs_jack_sj_43514', 'library_name': 'keyboard_accessories', 'md5': '056eac1f9e4fa79a4ad0b6dc96785bef', 'md5_10': '056eac1f9e', 'md5_5': '056ea', 'md5_6': '056eac', 'oomp_key': 'oomp_daprice_keyboard_accessories_trrs_jack_sj_43514', 'oomp_key_extra': 'oomp_footprint_daprice_keyboard_accessories_trrs_jack_sj_43514', 'oomp_key_full': 'oomp_footprint_daprice_keyboard_accessories_trrs_jack_sj_43514_056eac', 'oomp_key_simple': 'daprice_keyboard_accessories_trrs_jack_sj_43514', 'original_filename': 'data/oomlout_oomp_footprint_src/keyboard_accessories.pretty/TRRS_Jack_SJ-43514.kicad_mod', 'owner_name': 'daprice'} |  
 | oomp_key | oomp_daprice_keyboard_accessories_trrs_jack_sj_43514 |  
 | oomp_key_full | oomp_footprint_daprice_keyboard_accessories_trrs_jack_sj_43514 |  
 | oomp_key_simple | daprice_keyboard_accessories_trrs_jack_sj_43514 |  

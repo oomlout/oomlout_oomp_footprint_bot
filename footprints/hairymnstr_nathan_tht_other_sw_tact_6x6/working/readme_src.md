@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://gitlab.com/kicad/libraries/kicad-footprints  
 The original footprint can be found at:
-http://gitlab.com/hairymnstr/Nathan_THT_Other.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/TP_1.kicad_mod
+http://gitlab.com/hairymnstr/Nathan_THT_Other.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/TP_1.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: None  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/Nathan_THT_Other.pretty/SW_TACT_6X6.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/Nathan_THT_Other.pretty/SW_TACT_6X6.kicad_mod |  
 | footprint | {'description': None, 'libraryLink': 'SW_TACT_6X6', 'number_of_pads': 4} |  
 | footprint_library_directory | footprint_library_owner/hairymnstr_Nathan_THT_Other.pretty |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/hairymnstr_nathan_tht_other_sw_tact_6x6/working |  
-| github_path | http://github.com/hairymnstr/Nathan_THT_Other.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/SW_TACT_6X6.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/hairymnstr/Nathan_THT_Other.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/TP_1.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/hairymnstr_nathan_tht_other_sw_tact_6x6/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/hairymnstr_nathan_tht_other_sw_tact_6x6/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/hairymnstr_nathan_tht_other_sw_tact_6x6/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/hairymnstr_nathan_tht_other_sw_tact_6x6/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/hairymnstr_nathan_tht_other_sw_tact_6x6/working |  
+| github_path | http://github.com/hairymnstr/Nathan_THT_Other.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/SW_TACT_6X6.kicad_mod |  
+| links | {'github_src': 'http://gitlab.com/hairymnstr/Nathan_THT_Other.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/TP_1.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/hairymnstr_nathan_tht_other_sw_tact_6x6/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/hairymnstr_nathan_tht_other_sw_tact_6x6/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/hairymnstr_nathan_tht_other_sw_tact_6x6/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/hairymnstr_nathan_tht_other_sw_tact_6x6/working'} |  
 | name | Nathan_THT_Other.pretty |  
-| oomp | {'footprint_name': 'sw_tact_6x6', 'library_name': 'nathan_tht_other', 'md5': 'b17d2e38b7557935c2032df449abb87b', 'md5_10': 'b17d2e38b7', 'md5_5': 'b17d2', 'md5_6': 'b17d2e', 'oomp_key': 'oomp_hairymnstr_nathan_tht_other_sw_tact_6x6', 'oomp_key_extra': 'oomp_footprint_hairymnstr_nathan_tht_other_sw_tact_6x6', 'oomp_key_full': 'oomp_footprint_hairymnstr_nathan_tht_other_sw_tact_6x6_b17d2e', 'oomp_key_simple': 'hairymnstr_nathan_tht_other_sw_tact_6x6', 'original_filename': 'data//oomlout_oomp_footprint_src/Nathan_THT_Other.pretty/SW_TACT_6X6.kicad_mod', 'owner_name': 'hairymnstr'} |  
+| oomp | {'footprint_name': 'sw_tact_6x6', 'library_name': 'nathan_tht_other', 'md5': 'b17d2e38b7557935c2032df449abb87b', 'md5_10': 'b17d2e38b7', 'md5_5': 'b17d2', 'md5_6': 'b17d2e', 'oomp_key': 'oomp_hairymnstr_nathan_tht_other_sw_tact_6x6', 'oomp_key_extra': 'oomp_footprint_hairymnstr_nathan_tht_other_sw_tact_6x6', 'oomp_key_full': 'oomp_footprint_hairymnstr_nathan_tht_other_sw_tact_6x6_b17d2e', 'oomp_key_simple': 'hairymnstr_nathan_tht_other_sw_tact_6x6', 'original_filename': 'data/oomlout_oomp_footprint_src/Nathan_THT_Other.pretty/SW_TACT_6X6.kicad_mod', 'owner_name': 'hairymnstr'} |  
 | oomp_key | oomp_hairymnstr_nathan_tht_other_sw_tact_6x6 |  
 | oomp_key_full | oomp_footprint_hairymnstr_nathan_tht_other_sw_tact_6x6 |  
 | oomp_key_simple | hairymnstr_nathan_tht_other_sw_tact_6x6 |  

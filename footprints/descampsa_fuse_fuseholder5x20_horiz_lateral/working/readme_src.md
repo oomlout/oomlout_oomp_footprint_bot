@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://github.com/descampsa/fuse.pretty  
 The original footprint can be found at:
-http://github.com/descampsa/fuse.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Fuseholder5x20_horiz_lateral.kicad_mod
+http://github.com/descampsa/fuse.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/Fuseholder5x20_horiz_lateral.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: Fuseholder, 5x20, open, horizontal, Type-II, lateral,  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/fuse.pretty/Fuseholder5x20_horiz_lateral.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/fuse.pretty/Fuseholder5x20_horiz_lateral.kicad_mod |  
 | footprint | {'description': 'Fuseholder, 5x20, open, horizontal, Type-II, lateral,', 'libraryLink': 'Fuseholder5x20_horiz_lateral', 'number_of_pads': 4} |  
 | footprint_library_directory | footprint_library_owner/descampsa_fuse.pretty |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/descampsa_fuse_fuseholder5x20_horiz_lateral/working |  
-| github_path | http://github.com/descampsa/fuse.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Fuseholder5x20_horiz_lateral.kicad_mod |  
-| links | {'github_owner': 'descampsa', 'github_repo_name': 'fuse.pretty', 'github_src': 'http://github.com/descampsa/fuse.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Fuseholder5x20_horiz_lateral.kicad_mod', 'github_src_repo': 'https://github.com/descampsa/fuse.pretty', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/descampsa_fuse_fuseholder5x20_horiz_lateral/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/descampsa_fuse_fuseholder5x20_horiz_lateral/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/descampsa_fuse_fuseholder5x20_horiz_lateral/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/descampsa_fuse_fuseholder5x20_horiz_lateral/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/descampsa_fuse_fuseholder5x20_horiz_lateral/working |  
+| github_path | http://github.com/descampsa/fuse.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/Fuseholder5x20_horiz_lateral.kicad_mod |  
+| links | {'github_owner': 'descampsa', 'github_repo_name': 'fuse.pretty', 'github_src': 'http://github.com/descampsa/fuse.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/Fuseholder5x20_horiz_lateral.kicad_mod', 'github_src_repo': 'https://github.com/descampsa/fuse.pretty', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/descampsa_fuse_fuseholder5x20_horiz_lateral/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/descampsa_fuse_fuseholder5x20_horiz_lateral/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/descampsa_fuse_fuseholder5x20_horiz_lateral/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/descampsa_fuse_fuseholder5x20_horiz_lateral/working'} |  
 | name | fuse.pretty |  
-| oomp | {'footprint_name': 'fuseholder5x20_horiz_lateral', 'library_name': 'fuse', 'md5': 'e677d6a07baf460ca4465f3e48533d14', 'md5_10': 'e677d6a07b', 'md5_5': 'e677d', 'md5_6': 'e677d6', 'oomp_key': 'oomp_descampsa_fuse_fuseholder5x20_horiz_lateral', 'oomp_key_extra': 'oomp_footprint_descampsa_fuse_fuseholder5x20_horiz_lateral', 'oomp_key_full': 'oomp_footprint_descampsa_fuse_fuseholder5x20_horiz_lateral_e677d6', 'oomp_key_simple': 'descampsa_fuse_fuseholder5x20_horiz_lateral', 'original_filename': 'data//oomlout_oomp_footprint_src/fuse.pretty/Fuseholder5x20_horiz_lateral.kicad_mod', 'owner_name': 'descampsa'} |  
+| oomp | {'footprint_name': 'fuseholder5x20_horiz_lateral', 'library_name': 'fuse', 'md5': 'e677d6a07baf460ca4465f3e48533d14', 'md5_10': 'e677d6a07b', 'md5_5': 'e677d', 'md5_6': 'e677d6', 'oomp_key': 'oomp_descampsa_fuse_fuseholder5x20_horiz_lateral', 'oomp_key_extra': 'oomp_footprint_descampsa_fuse_fuseholder5x20_horiz_lateral', 'oomp_key_full': 'oomp_footprint_descampsa_fuse_fuseholder5x20_horiz_lateral_e677d6', 'oomp_key_simple': 'descampsa_fuse_fuseholder5x20_horiz_lateral', 'original_filename': 'data/oomlout_oomp_footprint_src/fuse.pretty/Fuseholder5x20_horiz_lateral.kicad_mod', 'owner_name': 'descampsa'} |  
 | oomp_key | oomp_descampsa_fuse_fuseholder5x20_horiz_lateral |  
 | oomp_key_full | oomp_footprint_descampsa_fuse_fuseholder5x20_horiz_lateral |  
 | oomp_key_simple | descampsa_fuse_fuseholder5x20_horiz_lateral |  

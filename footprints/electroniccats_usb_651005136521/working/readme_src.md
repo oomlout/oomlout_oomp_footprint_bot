@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://gitlab.com/kicad/libraries/kicad-footprints  
 The original footprint can be found at:
-http://gitlab.com/ElectronicCats/ComponentLibrariesKicadWurthElektronik/blob/master/tmp/data//oomlout_oomp_footprint_src/WIRE-TO-BOARD(rev17b)/heder box.pretty/690207102672.kicad_mod
+http://gitlab.com/ElectronicCats/ComponentLibrariesKicadWurthElektronik/blob/master/tmp/data/oomlout_oomp_footprint_src/WIRE-TO-BOARD(rev17b)/heder box.pretty/690207102672.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: WR-COM Horizontal 5 Contacts Mini USB Typ B  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/ComponentLibrariesKicadWurthElektronik/INPUT_OUTPUT_CONNECTORS-rev17b/USB.pretty/651005136521.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/ComponentLibrariesKicadWurthElektronik/INPUT_OUTPUT_CONNECTORS-rev17b/USB.pretty/651005136521.kicad_mod |  
 | footprint | {'description': 'WR-COM Horizontal 5 Contacts Mini USB Typ B', 'libraryLink': '651005136521', 'number_of_pads': 9} |  
 | footprint_library_directory | footprint_library_owner/ElectronicCats_ComponentLibrariesKicadWurthElektronik |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/electroniccats_usb_651005136521/working |  
-| github_path | http://github.com/ElectronicCats/ComponentLibrariesKicadWurthElektronik/blob/master/tmp/data//oomlout_oomp_footprint_src/INPUT_OUTPUT_CONNECTORS-rev17b/USB.pretty/651005136521.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/ElectronicCats/ComponentLibrariesKicadWurthElektronik/blob/master/tmp/data//oomlout_oomp_footprint_src/WIRE-TO-BOARD(rev17b)/heder box.pretty/690207102672.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/electroniccats_usb_651005136521/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/electroniccats_usb_651005136521/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/electroniccats_usb_651005136521/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/electroniccats_usb_651005136521/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/electroniccats_usb_651005136521/working |  
+| github_path | http://github.com/ElectronicCats/ComponentLibrariesKicadWurthElektronik/blob/master/tmp/data/oomlout_oomp_footprint_src/INPUT_OUTPUT_CONNECTORS-rev17b/USB.pretty/651005136521.kicad_mod |  
+| links | {'github_src': 'http://gitlab.com/ElectronicCats/ComponentLibrariesKicadWurthElektronik/blob/master/tmp/data/oomlout_oomp_footprint_src/WIRE-TO-BOARD(rev17b)/heder box.pretty/690207102672.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/electroniccats_usb_651005136521/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/electroniccats_usb_651005136521/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/electroniccats_usb_651005136521/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/electroniccats_usb_651005136521/working'} |  
 | name | ComponentLibrariesKicadWurthElektronik |  
-| oomp | {'footprint_name': '651005136521', 'library_name': 'usb', 'md5': '0ad8f6c87663de2869ef6a6fd5d0248e', 'md5_10': '0ad8f6c876', 'md5_5': '0ad8f', 'md5_6': '0ad8f6', 'oomp_key': 'oomp_electroniccats_usb_651005136521', 'oomp_key_extra': 'oomp_footprint_electroniccats_usb_651005136521', 'oomp_key_full': 'oomp_footprint_electroniccats_usb_651005136521_0ad8f6', 'oomp_key_simple': 'electroniccats_usb_651005136521', 'original_filename': 'data//oomlout_oomp_footprint_src/ComponentLibrariesKicadWurthElektronik/INPUT_OUTPUT_CONNECTORS-rev17b/USB.pretty/651005136521.kicad_mod', 'owner_name': 'electroniccats'} |  
+| oomp | {'footprint_name': '651005136521', 'library_name': 'usb', 'md5': '0ad8f6c87663de2869ef6a6fd5d0248e', 'md5_10': '0ad8f6c876', 'md5_5': '0ad8f', 'md5_6': '0ad8f6', 'oomp_key': 'oomp_electroniccats_usb_651005136521', 'oomp_key_extra': 'oomp_footprint_electroniccats_usb_651005136521', 'oomp_key_full': 'oomp_footprint_electroniccats_usb_651005136521_0ad8f6', 'oomp_key_simple': 'electroniccats_usb_651005136521', 'original_filename': 'data/oomlout_oomp_footprint_src/ComponentLibrariesKicadWurthElektronik/INPUT_OUTPUT_CONNECTORS-rev17b/USB.pretty/651005136521.kicad_mod', 'owner_name': 'electroniccats'} |  
 | oomp_key | oomp_electroniccats_usb_651005136521 |  
 | oomp_key_full | oomp_footprint_electroniccats_usb_651005136521 |  
 | oomp_key_simple | electroniccats_usb_651005136521 |  

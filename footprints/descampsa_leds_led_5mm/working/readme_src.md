@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://github.com/descampsa/LEDs.pretty  
 The original footprint can be found at:
-http://github.com/descampsa/LEDs.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/LED_WS2812B-PLCC4.kicad_mod
+http://github.com/descampsa/LEDs.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/LED_WS2812B-PLCC4.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: LED 5mm round vertical  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/LEDs.pretty/LED-5MM.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/LEDs.pretty/LED-5MM.kicad_mod |  
 | footprint | {'description': 'LED 5mm round vertical', 'libraryLink': 'LED-5MM', 'number_of_pads': 2} |  
 | footprint_library_directory | footprint_library_owner/descampsa_LEDs.pretty |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/descampsa_leds_led_5mm/working |  
-| github_path | http://github.com/descampsa/LEDs.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/LED-5MM.kicad_mod |  
-| links | {'github_owner': 'descampsa', 'github_repo_name': 'LEDs.pretty', 'github_src': 'http://github.com/descampsa/LEDs.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/LED_WS2812B-PLCC4.kicad_mod', 'github_src_repo': 'https://github.com/descampsa/LEDs.pretty', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/descampsa_leds_led_5mm/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/descampsa_leds_led_5mm/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/descampsa_leds_led_5mm/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/descampsa_leds_led_5mm/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/descampsa_leds_led_5mm/working |  
+| github_path | http://github.com/descampsa/LEDs.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/LED-5MM.kicad_mod |  
+| links | {'github_owner': 'descampsa', 'github_repo_name': 'LEDs.pretty', 'github_src': 'http://github.com/descampsa/LEDs.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/LED_WS2812B-PLCC4.kicad_mod', 'github_src_repo': 'https://github.com/descampsa/LEDs.pretty', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/descampsa_leds_led_5mm/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/descampsa_leds_led_5mm/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/descampsa_leds_led_5mm/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/descampsa_leds_led_5mm/working'} |  
 | name | LEDs.pretty |  
-| oomp | {'footprint_name': 'led_5mm', 'library_name': 'leds', 'md5': 'e83aec3a8f16211dfdb3829cd4fea3d0', 'md5_10': 'e83aec3a8f', 'md5_5': 'e83ae', 'md5_6': 'e83aec', 'oomp_key': 'oomp_descampsa_leds_led_5mm', 'oomp_key_extra': 'oomp_footprint_descampsa_leds_led_5mm', 'oomp_key_full': 'oomp_footprint_descampsa_leds_led_5mm_e83aec', 'oomp_key_simple': 'descampsa_leds_led_5mm', 'original_filename': 'data//oomlout_oomp_footprint_src/LEDs.pretty/LED-5MM.kicad_mod', 'owner_name': 'descampsa'} |  
+| oomp | {'footprint_name': 'led_5mm', 'library_name': 'leds', 'md5': 'e83aec3a8f16211dfdb3829cd4fea3d0', 'md5_10': 'e83aec3a8f', 'md5_5': 'e83ae', 'md5_6': 'e83aec', 'oomp_key': 'oomp_descampsa_leds_led_5mm', 'oomp_key_extra': 'oomp_footprint_descampsa_leds_led_5mm', 'oomp_key_full': 'oomp_footprint_descampsa_leds_led_5mm_e83aec', 'oomp_key_simple': 'descampsa_leds_led_5mm', 'original_filename': 'data/oomlout_oomp_footprint_src/LEDs.pretty/LED-5MM.kicad_mod', 'owner_name': 'descampsa'} |  
 | oomp_key | oomp_descampsa_leds_led_5mm |  
 | oomp_key_full | oomp_footprint_descampsa_leds_led_5mm |  
 | oomp_key_simple | descampsa_leds_led_5mm |  

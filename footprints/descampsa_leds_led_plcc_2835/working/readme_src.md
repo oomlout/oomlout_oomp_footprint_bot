@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://github.com/descampsa/LEDs.pretty  
 The original footprint can be found at:
-http://github.com/descampsa/LEDs.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/LED_WS2812B-PLCC4.kicad_mod
+http://github.com/descampsa/LEDs.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/LED_WS2812B-PLCC4.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: http://www.everlight.com/file/ProductFile/67-21S-KK2C-H4040QAR32835Z15-2T.pdf  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/LEDs.pretty/LED_PLCC_2835.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/LEDs.pretty/LED_PLCC_2835.kicad_mod |  
 | footprint | {'description': 'http://www.everlight.com/file/ProductFile/67-21S-KK2C-H4040QAR32835Z15-2T.pdf', 'libraryLink': 'LED_PLCC_2835', 'number_of_pads': 2} |  
 | footprint_library_directory | footprint_library_owner/descampsa_LEDs.pretty |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/descampsa_leds_led_plcc_2835/working |  
-| github_path | http://github.com/descampsa/LEDs.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/LED_PLCC_2835.kicad_mod |  
-| links | {'github_owner': 'descampsa', 'github_repo_name': 'LEDs.pretty', 'github_src': 'http://github.com/descampsa/LEDs.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/LED_WS2812B-PLCC4.kicad_mod', 'github_src_repo': 'https://github.com/descampsa/LEDs.pretty', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/descampsa_leds_led_plcc_2835/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/descampsa_leds_led_plcc_2835/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/descampsa_leds_led_plcc_2835/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/descampsa_leds_led_plcc_2835/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/descampsa_leds_led_plcc_2835/working |  
+| github_path | http://github.com/descampsa/LEDs.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/LED_PLCC_2835.kicad_mod |  
+| links | {'github_owner': 'descampsa', 'github_repo_name': 'LEDs.pretty', 'github_src': 'http://github.com/descampsa/LEDs.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/LED_WS2812B-PLCC4.kicad_mod', 'github_src_repo': 'https://github.com/descampsa/LEDs.pretty', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/descampsa_leds_led_plcc_2835/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/descampsa_leds_led_plcc_2835/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/descampsa_leds_led_plcc_2835/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/descampsa_leds_led_plcc_2835/working'} |  
 | name | LEDs.pretty |  
-| oomp | {'footprint_name': 'led_plcc_2835', 'library_name': 'leds', 'md5': '7968dbc1d123af0b9f83a6b06cbc8246', 'md5_10': '7968dbc1d1', 'md5_5': '7968d', 'md5_6': '7968db', 'oomp_key': 'oomp_descampsa_leds_led_plcc_2835', 'oomp_key_extra': 'oomp_footprint_descampsa_leds_led_plcc_2835', 'oomp_key_full': 'oomp_footprint_descampsa_leds_led_plcc_2835_7968db', 'oomp_key_simple': 'descampsa_leds_led_plcc_2835', 'original_filename': 'data//oomlout_oomp_footprint_src/LEDs.pretty/LED_PLCC_2835.kicad_mod', 'owner_name': 'descampsa'} |  
+| oomp | {'footprint_name': 'led_plcc_2835', 'library_name': 'leds', 'md5': '7968dbc1d123af0b9f83a6b06cbc8246', 'md5_10': '7968dbc1d1', 'md5_5': '7968d', 'md5_6': '7968db', 'oomp_key': 'oomp_descampsa_leds_led_plcc_2835', 'oomp_key_extra': 'oomp_footprint_descampsa_leds_led_plcc_2835', 'oomp_key_full': 'oomp_footprint_descampsa_leds_led_plcc_2835_7968db', 'oomp_key_simple': 'descampsa_leds_led_plcc_2835', 'original_filename': 'data/oomlout_oomp_footprint_src/LEDs.pretty/LED_PLCC_2835.kicad_mod', 'owner_name': 'descampsa'} |  
 | oomp_key | oomp_descampsa_leds_led_plcc_2835 |  
 | oomp_key_full | oomp_footprint_descampsa_leds_led_plcc_2835 |  
 | oomp_key_simple | descampsa_leds_led_plcc_2835 |  

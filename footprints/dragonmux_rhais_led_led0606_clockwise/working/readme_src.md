@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://github.com/dragonmux/rhais_led.pretty  
 The original footprint can be found at:
-http://github.com/DX-MON/rhais_led.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/LED0606_Clockwise.kicad_mod
+http://github.com/DX-MON/rhais_led.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/LED0606_Clockwise.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: None  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/rhais_led.pretty/LED0606_Clockwise.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/rhais_led.pretty/LED0606_Clockwise.kicad_mod |  
 | footprint | {'description': None, 'libraryLink': 'LED0606_Clockwise', 'number_of_pads': 4} |  
 | footprint_library_directory | footprint_library_owner/DX-MON_rhais_led.pretty |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/dragonmux_rhais_led_led0606_clockwise/working |  
-| github_path | http://github.com/DX-MON/rhais_led.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/LED0606_Clockwise.kicad_mod |  
-| links | {'github_owner': 'dragonmux', 'github_repo_name': 'rhais_led.pretty', 'github_src': 'http://github.com/DX-MON/rhais_led.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/LED0606_Clockwise.kicad_mod', 'github_src_repo': 'https://github.com/dragonmux/rhais_led.pretty', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/dragonmux_rhais_led_led0606_clockwise/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/dragonmux_rhais_led_led0606_clockwise/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/dragonmux_rhais_led_led0606_clockwise/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/dragonmux_rhais_led_led0606_clockwise/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/dragonmux_rhais_led_led0606_clockwise/working |  
+| github_path | http://github.com/DX-MON/rhais_led.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/LED0606_Clockwise.kicad_mod |  
+| links | {'github_owner': 'dragonmux', 'github_repo_name': 'rhais_led.pretty', 'github_src': 'http://github.com/DX-MON/rhais_led.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/LED0606_Clockwise.kicad_mod', 'github_src_repo': 'https://github.com/dragonmux/rhais_led.pretty', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/dragonmux_rhais_led_led0606_clockwise/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/dragonmux_rhais_led_led0606_clockwise/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/dragonmux_rhais_led_led0606_clockwise/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/dragonmux_rhais_led_led0606_clockwise/working'} |  
 | name | rhais_led.pretty |  
-| oomp | {'footprint_name': 'led0606_clockwise', 'library_name': 'rhais_led', 'md5': '155263ad26b8bd739ed7cdcf637cde17', 'md5_10': '155263ad26', 'md5_5': '15526', 'md5_6': '155263', 'oomp_key': 'oomp_dragonmux_rhais_led_led0606_clockwise', 'oomp_key_extra': 'oomp_footprint_dragonmux_rhais_led_led0606_clockwise', 'oomp_key_full': 'oomp_footprint_dragonmux_rhais_led_led0606_clockwise_155263', 'oomp_key_simple': 'dragonmux_rhais_led_led0606_clockwise', 'original_filename': 'data//oomlout_oomp_footprint_src/rhais_led.pretty/LED0606_Clockwise.kicad_mod', 'owner_name': 'dragonmux'} |  
+| oomp | {'footprint_name': 'led0606_clockwise', 'library_name': 'rhais_led', 'md5': '155263ad26b8bd739ed7cdcf637cde17', 'md5_10': '155263ad26', 'md5_5': '15526', 'md5_6': '155263', 'oomp_key': 'oomp_dragonmux_rhais_led_led0606_clockwise', 'oomp_key_extra': 'oomp_footprint_dragonmux_rhais_led_led0606_clockwise', 'oomp_key_full': 'oomp_footprint_dragonmux_rhais_led_led0606_clockwise_155263', 'oomp_key_simple': 'dragonmux_rhais_led_led0606_clockwise', 'original_filename': 'data/oomlout_oomp_footprint_src/rhais_led.pretty/LED0606_Clockwise.kicad_mod', 'owner_name': 'dragonmux'} |  
 | oomp_key | oomp_dragonmux_rhais_led_led0606_clockwise |  
 | oomp_key_full | oomp_footprint_dragonmux_rhais_led_led0606_clockwise |  
 | oomp_key_simple | dragonmux_rhais_led_led0606_clockwise |  

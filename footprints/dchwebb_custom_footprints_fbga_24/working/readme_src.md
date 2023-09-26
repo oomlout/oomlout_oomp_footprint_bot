@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://github.com/dchwebb/Custom_Footprints.pretty  
 The original footprint can be found at:
-http://github.com/dchwebb/Custom_Footprints.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Wurth_2.4GHz_Filter_2.5mm_2.0mm.kicad_mod
+http://github.com/dchwebb/Custom_Footprints.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/Wurth_2.4GHz_Filter_2.5mm_2.0mm.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: None  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/Custom_Footprints.pretty/FBGA-24.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/Custom_Footprints.pretty/FBGA-24.kicad_mod |  
 | footprint | {'description': None, 'libraryLink': 'pkl_housings_bga:BGA-24_5x5_6.0x8.0mm', 'number_of_pads': 24} |  
 | footprint_library_directory | footprint_library_owner/dchwebb_Custom_Footprints.pretty |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/dchwebb_custom_footprints_fbga_24/working |  
-| github_path | http://github.com/dchwebb/Custom_Footprints.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/FBGA-24.kicad_mod |  
-| links | {'github_owner': 'dchwebb', 'github_repo_name': 'Custom_Footprints.pretty', 'github_src': 'http://github.com/dchwebb/Custom_Footprints.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Wurth_2.4GHz_Filter_2.5mm_2.0mm.kicad_mod', 'github_src_repo': 'https://github.com/dchwebb/Custom_Footprints.pretty', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/dchwebb_custom_footprints_fbga_24/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/dchwebb_custom_footprints_fbga_24/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/dchwebb_custom_footprints_fbga_24/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/dchwebb_custom_footprints_fbga_24/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/dchwebb_custom_footprints_fbga_24/working |  
+| github_path | http://github.com/dchwebb/Custom_Footprints.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/FBGA-24.kicad_mod |  
+| links | {'github_owner': 'dchwebb', 'github_repo_name': 'Custom_Footprints.pretty', 'github_src': 'http://github.com/dchwebb/Custom_Footprints.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/Wurth_2.4GHz_Filter_2.5mm_2.0mm.kicad_mod', 'github_src_repo': 'https://github.com/dchwebb/Custom_Footprints.pretty', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/dchwebb_custom_footprints_fbga_24/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/dchwebb_custom_footprints_fbga_24/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/dchwebb_custom_footprints_fbga_24/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/dchwebb_custom_footprints_fbga_24/working'} |  
 | name | Custom_Footprints.pretty |  
-| oomp | {'footprint_name': 'fbga_24', 'library_name': 'custom_footprints', 'md5': '8cdecea9cf8436b6dfa34b0b793179ac', 'md5_10': '8cdecea9cf', 'md5_5': '8cdec', 'md5_6': '8cdece', 'oomp_key': 'oomp_dchwebb_custom_footprints_fbga_24', 'oomp_key_extra': 'oomp_footprint_dchwebb_custom_footprints_fbga_24', 'oomp_key_full': 'oomp_footprint_dchwebb_custom_footprints_fbga_24_8cdece', 'oomp_key_simple': 'dchwebb_custom_footprints_fbga_24', 'original_filename': 'data//oomlout_oomp_footprint_src/Custom_Footprints.pretty/FBGA-24.kicad_mod', 'owner_name': 'dchwebb'} |  
+| oomp | {'footprint_name': 'fbga_24', 'library_name': 'custom_footprints', 'md5': '8cdecea9cf8436b6dfa34b0b793179ac', 'md5_10': '8cdecea9cf', 'md5_5': '8cdec', 'md5_6': '8cdece', 'oomp_key': 'oomp_dchwebb_custom_footprints_fbga_24', 'oomp_key_extra': 'oomp_footprint_dchwebb_custom_footprints_fbga_24', 'oomp_key_full': 'oomp_footprint_dchwebb_custom_footprints_fbga_24_8cdece', 'oomp_key_simple': 'dchwebb_custom_footprints_fbga_24', 'original_filename': 'data/oomlout_oomp_footprint_src/Custom_Footprints.pretty/FBGA-24.kicad_mod', 'owner_name': 'dchwebb'} |  
 | oomp_key | oomp_dchwebb_custom_footprints_fbga_24 |  
 | oomp_key_full | oomp_footprint_dchwebb_custom_footprints_fbga_24 |  
 | oomp_key_simple | dchwebb_custom_footprints_fbga_24 |  

@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://github.com/cschopfer/digipict-kicad-footprint.pretty  
 The original footprint can be found at:
-http://github.com/cschopfer/digipict-kicad-footprint.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Solder_jumper.kicad_mod
+http://github.com/cschopfer/digipict-kicad-footprint.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/Solder_jumper.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: None  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/digipict-kicad-footprint.pretty/CON_RND_PCB_Terminal_5.08_3p.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/digipict-kicad-footprint.pretty/CON_RND_PCB_Terminal_5.08_3p.kicad_mod |  
 | footprint | {'description': None, 'libraryLink': 'RND_PCB_Terminal_3p', 'number_of_pads': 3} |  
 | footprint_library_directory | footprint_library_owner/cschopfer_digipict-kicad-footprint.pretty |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/cschopfer_digipict_kicad_footprint_con_rnd_pcb_terminal_5_08_3p/working |  
-| github_path | http://github.com/cschopfer/digipict-kicad-footprint.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/CON_RND_PCB_Terminal_5.08_3p.kicad_mod |  
-| links | {'github_owner': 'cschopfer', 'github_repo_name': 'digipict-kicad-footprint.pretty', 'github_src': 'http://github.com/cschopfer/digipict-kicad-footprint.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Solder_jumper.kicad_mod', 'github_src_repo': 'https://github.com/cschopfer/digipict-kicad-footprint.pretty', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/cschopfer_digipict_kicad_footprint_con_rnd_pcb_terminal_5_08_3p/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/cschopfer_digipict_kicad_footprint_con_rnd_pcb_terminal_5_08_3p/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/cschopfer_digipict_kicad_footprint_con_rnd_pcb_terminal_5_08_3p/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/cschopfer_digipict_kicad_footprint_con_rnd_pcb_terminal_5_08_3p/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/cschopfer_digipict_kicad_footprint_con_rnd_pcb_terminal_5_08_3p/working |  
+| github_path | http://github.com/cschopfer/digipict-kicad-footprint.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/CON_RND_PCB_Terminal_5.08_3p.kicad_mod |  
+| links | {'github_owner': 'cschopfer', 'github_repo_name': 'digipict-kicad-footprint.pretty', 'github_src': 'http://github.com/cschopfer/digipict-kicad-footprint.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/Solder_jumper.kicad_mod', 'github_src_repo': 'https://github.com/cschopfer/digipict-kicad-footprint.pretty', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/cschopfer_digipict_kicad_footprint_con_rnd_pcb_terminal_5_08_3p/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/cschopfer_digipict_kicad_footprint_con_rnd_pcb_terminal_5_08_3p/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/cschopfer_digipict_kicad_footprint_con_rnd_pcb_terminal_5_08_3p/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/cschopfer_digipict_kicad_footprint_con_rnd_pcb_terminal_5_08_3p/working'} |  
 | name | digipict-kicad-footprint.pretty |  
-| oomp | {'footprint_name': 'con_rnd_pcb_terminal_5_08_3p', 'library_name': 'digipict_kicad_footprint', 'md5': '0437f7577b9f7a27e8345a86f84f3e78', 'md5_10': '0437f7577b', 'md5_5': '0437f', 'md5_6': '0437f7', 'oomp_key': 'oomp_cschopfer_digipict_kicad_footprint_con_rnd_pcb_terminal_5_08_3p', 'oomp_key_extra': 'oomp_footprint_cschopfer_digipict_kicad_footprint_con_rnd_pcb_terminal_5_08_3p', 'oomp_key_full': 'oomp_footprint_cschopfer_digipict_kicad_footprint_con_rnd_pcb_terminal_5_08_3p_0437f7', 'oomp_key_simple': 'cschopfer_digipict_kicad_footprint_con_rnd_pcb_terminal_5_08_3p', 'original_filename': 'data//oomlout_oomp_footprint_src/digipict-kicad-footprint.pretty/CON_RND_PCB_Terminal_5.08_3p.kicad_mod', 'owner_name': 'cschopfer'} |  
+| oomp | {'footprint_name': 'con_rnd_pcb_terminal_5_08_3p', 'library_name': 'digipict_kicad_footprint', 'md5': '0437f7577b9f7a27e8345a86f84f3e78', 'md5_10': '0437f7577b', 'md5_5': '0437f', 'md5_6': '0437f7', 'oomp_key': 'oomp_cschopfer_digipict_kicad_footprint_con_rnd_pcb_terminal_5_08_3p', 'oomp_key_extra': 'oomp_footprint_cschopfer_digipict_kicad_footprint_con_rnd_pcb_terminal_5_08_3p', 'oomp_key_full': 'oomp_footprint_cschopfer_digipict_kicad_footprint_con_rnd_pcb_terminal_5_08_3p_0437f7', 'oomp_key_simple': 'cschopfer_digipict_kicad_footprint_con_rnd_pcb_terminal_5_08_3p', 'original_filename': 'data/oomlout_oomp_footprint_src/digipict-kicad-footprint.pretty/CON_RND_PCB_Terminal_5.08_3p.kicad_mod', 'owner_name': 'cschopfer'} |  
 | oomp_key | oomp_cschopfer_digipict_kicad_footprint_con_rnd_pcb_terminal_5_08_3p |  
 | oomp_key_full | oomp_footprint_cschopfer_digipict_kicad_footprint_con_rnd_pcb_terminal_5_08_3p |  
 | oomp_key_simple | cschopfer_digipict_kicad_footprint_con_rnd_pcb_terminal_5_08_3p |  

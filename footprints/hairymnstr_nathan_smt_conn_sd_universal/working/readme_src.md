@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://gitlab.com/kicad/libraries/kicad-footprints  
 The original footprint can be found at:
-http://gitlab.com/hairymnstr/Nathan_SMT_Conn.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/uSD_1686452.kicad_mod
+http://gitlab.com/hairymnstr/Nathan_SMT_Conn.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/uSD_1686452.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: None  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/Nathan_SMT_Conn.pretty/SD_UNIVERSAL.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/Nathan_SMT_Conn.pretty/SD_UNIVERSAL.kicad_mod |  
 | footprint | {'description': None, 'libraryLink': 'SD_UNIVERSAL', 'number_of_pads': 19} |  
 | footprint_library_directory | footprint_library_owner/hairymnstr_Nathan_SMT_Conn.pretty |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/hairymnstr_nathan_smt_conn_sd_universal/working |  
-| github_path | http://github.com/hairymnstr/Nathan_SMT_Conn.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/SD_UNIVERSAL.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/hairymnstr/Nathan_SMT_Conn.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/uSD_1686452.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/hairymnstr_nathan_smt_conn_sd_universal/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/hairymnstr_nathan_smt_conn_sd_universal/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/hairymnstr_nathan_smt_conn_sd_universal/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/hairymnstr_nathan_smt_conn_sd_universal/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/hairymnstr_nathan_smt_conn_sd_universal/working |  
+| github_path | http://github.com/hairymnstr/Nathan_SMT_Conn.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/SD_UNIVERSAL.kicad_mod |  
+| links | {'github_src': 'http://gitlab.com/hairymnstr/Nathan_SMT_Conn.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/uSD_1686452.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/hairymnstr_nathan_smt_conn_sd_universal/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/hairymnstr_nathan_smt_conn_sd_universal/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/hairymnstr_nathan_smt_conn_sd_universal/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/hairymnstr_nathan_smt_conn_sd_universal/working'} |  
 | name | Nathan_SMT_Conn.pretty |  
-| oomp | {'footprint_name': 'sd_universal', 'library_name': 'nathan_smt_conn', 'md5': '441f2bbb394ce8209eddc7f14634979e', 'md5_10': '441f2bbb39', 'md5_5': '441f2', 'md5_6': '441f2b', 'oomp_key': 'oomp_hairymnstr_nathan_smt_conn_sd_universal', 'oomp_key_extra': 'oomp_footprint_hairymnstr_nathan_smt_conn_sd_universal', 'oomp_key_full': 'oomp_footprint_hairymnstr_nathan_smt_conn_sd_universal_441f2b', 'oomp_key_simple': 'hairymnstr_nathan_smt_conn_sd_universal', 'original_filename': 'data//oomlout_oomp_footprint_src/Nathan_SMT_Conn.pretty/SD_UNIVERSAL.kicad_mod', 'owner_name': 'hairymnstr'} |  
+| oomp | {'footprint_name': 'sd_universal', 'library_name': 'nathan_smt_conn', 'md5': '441f2bbb394ce8209eddc7f14634979e', 'md5_10': '441f2bbb39', 'md5_5': '441f2', 'md5_6': '441f2b', 'oomp_key': 'oomp_hairymnstr_nathan_smt_conn_sd_universal', 'oomp_key_extra': 'oomp_footprint_hairymnstr_nathan_smt_conn_sd_universal', 'oomp_key_full': 'oomp_footprint_hairymnstr_nathan_smt_conn_sd_universal_441f2b', 'oomp_key_simple': 'hairymnstr_nathan_smt_conn_sd_universal', 'original_filename': 'data/oomlout_oomp_footprint_src/Nathan_SMT_Conn.pretty/SD_UNIVERSAL.kicad_mod', 'owner_name': 'hairymnstr'} |  
 | oomp_key | oomp_hairymnstr_nathan_smt_conn_sd_universal |  
 | oomp_key_full | oomp_footprint_hairymnstr_nathan_smt_conn_sd_universal |  
 | oomp_key_simple | hairymnstr_nathan_smt_conn_sd_universal |  

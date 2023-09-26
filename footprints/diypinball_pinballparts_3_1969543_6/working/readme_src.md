@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://github.com/diypinball/PinballParts.pretty  
 The original footprint can be found at:
-http://github.com/diypinball/PinballParts.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/SOLENOID-CONNECTOR-V.kicad_mod
+http://github.com/diypinball/PinballParts.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/SOLENOID-CONNECTOR-V.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: None  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/PinballParts.pretty/3-1969543-6.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/PinballParts.pretty/3-1969543-6.kicad_mod |  
 | footprint | {'description': None, 'libraryLink': '3-1969543-6', 'number_of_pads': 37} |  
 | footprint_library_directory | footprint_library_owner/diypinball_PinballParts.pretty |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/diypinball_pinballparts_3_1969543_6/working |  
-| github_path | http://github.com/diypinball/PinballParts.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/3-1969543-6.kicad_mod |  
-| links | {'github_owner': 'diypinball', 'github_repo_name': 'PinballParts.pretty', 'github_src': 'http://github.com/diypinball/PinballParts.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/SOLENOID-CONNECTOR-V.kicad_mod', 'github_src_repo': 'https://github.com/diypinball/PinballParts.pretty', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/diypinball_pinballparts_3_1969543_6/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/diypinball_pinballparts_3_1969543_6/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/diypinball_pinballparts_3_1969543_6/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/diypinball_pinballparts_3_1969543_6/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/diypinball_pinballparts_3_1969543_6/working |  
+| github_path | http://github.com/diypinball/PinballParts.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/3-1969543-6.kicad_mod |  
+| links | {'github_owner': 'diypinball', 'github_repo_name': 'PinballParts.pretty', 'github_src': 'http://github.com/diypinball/PinballParts.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/SOLENOID-CONNECTOR-V.kicad_mod', 'github_src_repo': 'https://github.com/diypinball/PinballParts.pretty', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/diypinball_pinballparts_3_1969543_6/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/diypinball_pinballparts_3_1969543_6/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/diypinball_pinballparts_3_1969543_6/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/diypinball_pinballparts_3_1969543_6/working'} |  
 | name | PinballParts.pretty |  
-| oomp | {'footprint_name': '3_1969543_6', 'library_name': 'pinballparts', 'md5': 'b903f0c7d0015351c75e753dcc81fec2', 'md5_10': 'b903f0c7d0', 'md5_5': 'b903f', 'md5_6': 'b903f0', 'oomp_key': 'oomp_diypinball_pinballparts_3_1969543_6', 'oomp_key_extra': 'oomp_footprint_diypinball_pinballparts_3_1969543_6', 'oomp_key_full': 'oomp_footprint_diypinball_pinballparts_3_1969543_6_b903f0', 'oomp_key_simple': 'diypinball_pinballparts_3_1969543_6', 'original_filename': 'data//oomlout_oomp_footprint_src/PinballParts.pretty/3-1969543-6.kicad_mod', 'owner_name': 'diypinball'} |  
+| oomp | {'footprint_name': '3_1969543_6', 'library_name': 'pinballparts', 'md5': 'b903f0c7d0015351c75e753dcc81fec2', 'md5_10': 'b903f0c7d0', 'md5_5': 'b903f', 'md5_6': 'b903f0', 'oomp_key': 'oomp_diypinball_pinballparts_3_1969543_6', 'oomp_key_extra': 'oomp_footprint_diypinball_pinballparts_3_1969543_6', 'oomp_key_full': 'oomp_footprint_diypinball_pinballparts_3_1969543_6_b903f0', 'oomp_key_simple': 'diypinball_pinballparts_3_1969543_6', 'original_filename': 'data/oomlout_oomp_footprint_src/PinballParts.pretty/3-1969543-6.kicad_mod', 'owner_name': 'diypinball'} |  
 | oomp_key | oomp_diypinball_pinballparts_3_1969543_6 |  
 | oomp_key_full | oomp_footprint_diypinball_pinballparts_3_1969543_6 |  
 | oomp_key_simple | diypinball_pinballparts_3_1969543_6 |  

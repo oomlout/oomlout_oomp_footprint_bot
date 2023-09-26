@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://github.com/alexisvl/kicad-pcblib  
 The original footprint can be found at:
-http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data//oomlout_oomp_footprint_src/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod
+http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data/oomlout_oomp_footprint_src/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: QFP,0.50mm pitch,square;76 pin X 76 pin, 40.20mm X 40.20mm X 4.23mm H body  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/kicad-pcblib/IPC7351-Least.pretty/QFP50P4260X4260X423-304.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/kicad-pcblib/IPC7351-Least.pretty/QFP50P4260X4260X423-304.kicad_mod |  
 | footprint | {'description': 'QFP,0.50mm pitch,square;76 pin X 76 pin, 40.20mm X 40.20mm X 4.23mm H body', 'libraryLink': 'QFP50P4260X4260X423-304', 'number_of_pads': 304} |  
 | footprint_library_directory | footprint_library_owner/cpavlina_kicad-pcblib |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/alexisvl_ipc7351_least_qfp50p4260x4260x423_304/working |  
-| github_path | http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data//oomlout_oomp_footprint_src/IPC7351-Least.pretty/QFP50P4260X4260X423-304.kicad_mod |  
-| links | {'github_owner': 'alexisvl', 'github_repo_name': 'kicad-pcblib', 'github_src': 'http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data//oomlout_oomp_footprint_src/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod', 'github_src_repo': 'https://github.com/alexisvl/kicad-pcblib', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/alexisvl_ipc7351_least_qfp50p4260x4260x423_304/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/alexisvl_ipc7351_least_qfp50p4260x4260x423_304/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/alexisvl_ipc7351_least_qfp50p4260x4260x423_304/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/alexisvl_ipc7351_least_qfp50p4260x4260x423_304/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/alexisvl_ipc7351_least_qfp50p4260x4260x423_304/working |  
+| github_path | http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data/oomlout_oomp_footprint_src/IPC7351-Least.pretty/QFP50P4260X4260X423-304.kicad_mod |  
+| links | {'github_owner': 'alexisvl', 'github_repo_name': 'kicad-pcblib', 'github_src': 'http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data/oomlout_oomp_footprint_src/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod', 'github_src_repo': 'https://github.com/alexisvl/kicad-pcblib', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/alexisvl_ipc7351_least_qfp50p4260x4260x423_304/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/alexisvl_ipc7351_least_qfp50p4260x4260x423_304/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/alexisvl_ipc7351_least_qfp50p4260x4260x423_304/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/alexisvl_ipc7351_least_qfp50p4260x4260x423_304/working'} |  
 | name | kicad-pcblib |  
-| oomp | {'footprint_name': 'qfp50p4260x4260x423_304', 'library_name': 'ipc7351_least', 'md5': 'e8abd0f21629d2bd823cf2b5469e0124', 'md5_10': 'e8abd0f216', 'md5_5': 'e8abd', 'md5_6': 'e8abd0', 'oomp_key': 'oomp_alexisvl_ipc7351_least_qfp50p4260x4260x423_304', 'oomp_key_extra': 'oomp_footprint_alexisvl_ipc7351_least_qfp50p4260x4260x423_304', 'oomp_key_full': 'oomp_footprint_alexisvl_ipc7351_least_qfp50p4260x4260x423_304_e8abd0', 'oomp_key_simple': 'alexisvl_ipc7351_least_qfp50p4260x4260x423_304', 'original_filename': 'data//oomlout_oomp_footprint_src/kicad-pcblib/IPC7351-Least.pretty/QFP50P4260X4260X423-304.kicad_mod', 'owner_name': 'alexisvl'} |  
+| oomp | {'footprint_name': 'qfp50p4260x4260x423_304', 'library_name': 'ipc7351_least', 'md5': 'e8abd0f21629d2bd823cf2b5469e0124', 'md5_10': 'e8abd0f216', 'md5_5': 'e8abd', 'md5_6': 'e8abd0', 'oomp_key': 'oomp_alexisvl_ipc7351_least_qfp50p4260x4260x423_304', 'oomp_key_extra': 'oomp_footprint_alexisvl_ipc7351_least_qfp50p4260x4260x423_304', 'oomp_key_full': 'oomp_footprint_alexisvl_ipc7351_least_qfp50p4260x4260x423_304_e8abd0', 'oomp_key_simple': 'alexisvl_ipc7351_least_qfp50p4260x4260x423_304', 'original_filename': 'data/oomlout_oomp_footprint_src/kicad-pcblib/IPC7351-Least.pretty/QFP50P4260X4260X423-304.kicad_mod', 'owner_name': 'alexisvl'} |  
 | oomp_key | oomp_alexisvl_ipc7351_least_qfp50p4260x4260x423_304 |  
 | oomp_key_full | oomp_footprint_alexisvl_ipc7351_least_qfp50p4260x4260x423_304 |  
 | oomp_key_simple | alexisvl_ipc7351_least_qfp50p4260x4260x423_304 |  

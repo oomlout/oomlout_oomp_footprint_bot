@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://gitlab.com/kicad/libraries/kicad-footprints  
 The original footprint can be found at:
-http://gitlab.com/Gijsco/Kicad_Footprint_Connectors.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/SMA_EDGE.kicad_mod
+http://gitlab.com/Gijsco/Kicad_Footprint_Connectors.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/SMA_EDGE.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: None  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/Kicad_Footprint_Connectors.pretty/SMA_EDGE.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/Kicad_Footprint_Connectors.pretty/SMA_EDGE.kicad_mod |  
 | footprint | {'description': None, 'libraryLink': 'SMA_EDGE', 'number_of_pads': 5} |  
 | footprint_library_directory | footprint_library_owner/Gijsco_Kicad_Footprint_Connectors.pretty |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/gijsco_kicad_footprint_connectors_sma_edge/working |  
-| github_path | http://github.com/Gijsco/Kicad_Footprint_Connectors.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/SMA_EDGE.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/Gijsco/Kicad_Footprint_Connectors.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/SMA_EDGE.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/gijsco_kicad_footprint_connectors_sma_edge/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/gijsco_kicad_footprint_connectors_sma_edge/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/gijsco_kicad_footprint_connectors_sma_edge/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/gijsco_kicad_footprint_connectors_sma_edge/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/gijsco_kicad_footprint_connectors_sma_edge/working |  
+| github_path | http://github.com/Gijsco/Kicad_Footprint_Connectors.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/SMA_EDGE.kicad_mod |  
+| links | {'github_src': 'http://gitlab.com/Gijsco/Kicad_Footprint_Connectors.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/SMA_EDGE.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/gijsco_kicad_footprint_connectors_sma_edge/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/gijsco_kicad_footprint_connectors_sma_edge/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/gijsco_kicad_footprint_connectors_sma_edge/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/gijsco_kicad_footprint_connectors_sma_edge/working'} |  
 | name | Kicad_Footprint_Connectors.pretty |  
-| oomp | {'footprint_name': 'sma_edge', 'library_name': 'kicad_footprint_connectors', 'md5': 'f02f7eece496c9bdde0495656e3ad818', 'md5_10': 'f02f7eece4', 'md5_5': 'f02f7', 'md5_6': 'f02f7e', 'oomp_key': 'oomp_gijsco_kicad_footprint_connectors_sma_edge', 'oomp_key_extra': 'oomp_footprint_gijsco_kicad_footprint_connectors_sma_edge', 'oomp_key_full': 'oomp_footprint_gijsco_kicad_footprint_connectors_sma_edge_f02f7e', 'oomp_key_simple': 'gijsco_kicad_footprint_connectors_sma_edge', 'original_filename': 'data//oomlout_oomp_footprint_src/Kicad_Footprint_Connectors.pretty/SMA_EDGE.kicad_mod', 'owner_name': 'gijsco'} |  
+| oomp | {'footprint_name': 'sma_edge', 'library_name': 'kicad_footprint_connectors', 'md5': 'f02f7eece496c9bdde0495656e3ad818', 'md5_10': 'f02f7eece4', 'md5_5': 'f02f7', 'md5_6': 'f02f7e', 'oomp_key': 'oomp_gijsco_kicad_footprint_connectors_sma_edge', 'oomp_key_extra': 'oomp_footprint_gijsco_kicad_footprint_connectors_sma_edge', 'oomp_key_full': 'oomp_footprint_gijsco_kicad_footprint_connectors_sma_edge_f02f7e', 'oomp_key_simple': 'gijsco_kicad_footprint_connectors_sma_edge', 'original_filename': 'data/oomlout_oomp_footprint_src/Kicad_Footprint_Connectors.pretty/SMA_EDGE.kicad_mod', 'owner_name': 'gijsco'} |  
 | oomp_key | oomp_gijsco_kicad_footprint_connectors_sma_edge |  
 | oomp_key_full | oomp_footprint_gijsco_kicad_footprint_connectors_sma_edge |  
 | oomp_key_simple | gijsco_kicad_footprint_connectors_sma_edge |  

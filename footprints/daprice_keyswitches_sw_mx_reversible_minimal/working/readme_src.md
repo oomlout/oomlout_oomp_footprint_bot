@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://github.com/daprice/keyswitches.pretty  
 The original footprint can be found at:
-http://github.com/daprice/keyswitches.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/SW_PG1350_reversible_rotatable.kicad_mod
+http://github.com/daprice/keyswitches.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/SW_PG1350_reversible_rotatable.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: MX-style keyswitch, reversible, without pcb-mount holes  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/keyswitches.pretty/SW_MX_reversible_minimal.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/keyswitches.pretty/SW_MX_reversible_minimal.kicad_mod |  
 | footprint | {'description': 'MX-style keyswitch, reversible, without pcb-mount holes', 'libraryLink': 'SW_MX_reversible_minimal', 'number_of_pads': 5} |  
 | footprint_library_directory | footprint_library_owner/daprice_keyswitches.pretty |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/daprice_keyswitches_sw_mx_reversible_minimal/working |  
-| github_path | http://github.com/daprice/keyswitches.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/SW_MX_reversible_minimal.kicad_mod |  
-| links | {'github_owner': 'daprice', 'github_repo_name': 'keyswitches.pretty', 'github_src': 'http://github.com/daprice/keyswitches.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/SW_PG1350_reversible_rotatable.kicad_mod', 'github_src_repo': 'https://github.com/daprice/keyswitches.pretty', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/daprice_keyswitches_sw_mx_reversible_minimal/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/daprice_keyswitches_sw_mx_reversible_minimal/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/daprice_keyswitches_sw_mx_reversible_minimal/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/daprice_keyswitches_sw_mx_reversible_minimal/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/daprice_keyswitches_sw_mx_reversible_minimal/working |  
+| github_path | http://github.com/daprice/keyswitches.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/SW_MX_reversible_minimal.kicad_mod |  
+| links | {'github_owner': 'daprice', 'github_repo_name': 'keyswitches.pretty', 'github_src': 'http://github.com/daprice/keyswitches.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/SW_PG1350_reversible_rotatable.kicad_mod', 'github_src_repo': 'https://github.com/daprice/keyswitches.pretty', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/daprice_keyswitches_sw_mx_reversible_minimal/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/daprice_keyswitches_sw_mx_reversible_minimal/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/daprice_keyswitches_sw_mx_reversible_minimal/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/daprice_keyswitches_sw_mx_reversible_minimal/working'} |  
 | name | keyswitches.pretty |  
-| oomp | {'footprint_name': 'sw_mx_reversible_minimal', 'library_name': 'keyswitches', 'md5': '620b63c15ed57fe2c7717e4d55bf0798', 'md5_10': '620b63c15e', 'md5_5': '620b6', 'md5_6': '620b63', 'oomp_key': 'oomp_daprice_keyswitches_sw_mx_reversible_minimal', 'oomp_key_extra': 'oomp_footprint_daprice_keyswitches_sw_mx_reversible_minimal', 'oomp_key_full': 'oomp_footprint_daprice_keyswitches_sw_mx_reversible_minimal_620b63', 'oomp_key_simple': 'daprice_keyswitches_sw_mx_reversible_minimal', 'original_filename': 'data//oomlout_oomp_footprint_src/keyswitches.pretty/SW_MX_reversible_minimal.kicad_mod', 'owner_name': 'daprice'} |  
+| oomp | {'footprint_name': 'sw_mx_reversible_minimal', 'library_name': 'keyswitches', 'md5': '620b63c15ed57fe2c7717e4d55bf0798', 'md5_10': '620b63c15e', 'md5_5': '620b6', 'md5_6': '620b63', 'oomp_key': 'oomp_daprice_keyswitches_sw_mx_reversible_minimal', 'oomp_key_extra': 'oomp_footprint_daprice_keyswitches_sw_mx_reversible_minimal', 'oomp_key_full': 'oomp_footprint_daprice_keyswitches_sw_mx_reversible_minimal_620b63', 'oomp_key_simple': 'daprice_keyswitches_sw_mx_reversible_minimal', 'original_filename': 'data/oomlout_oomp_footprint_src/keyswitches.pretty/SW_MX_reversible_minimal.kicad_mod', 'owner_name': 'daprice'} |  
 | oomp_key | oomp_daprice_keyswitches_sw_mx_reversible_minimal |  
 | oomp_key_full | oomp_footprint_daprice_keyswitches_sw_mx_reversible_minimal |  
 | oomp_key_simple | daprice_keyswitches_sw_mx_reversible_minimal |  

@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://github.com/alexisvl/kicad-pcblib  
 The original footprint can be found at:
-http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data//oomlout_oomp_footprint_src/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod
+http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data/oomlout_oomp_footprint_src/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: Capacitor,Aluminum Electrolytic;6.60mm L X 6.60mm W X 4.60mm H  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/kicad-pcblib/IPC7351-Least.pretty/CAPAE660X460.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/kicad-pcblib/IPC7351-Least.pretty/CAPAE660X460.kicad_mod |  
 | footprint | {'description': 'Capacitor,Aluminum Electrolytic;6.60mm L X 6.60mm W X 4.60mm H', 'libraryLink': 'CAPAE660X460', 'number_of_pads': 2} |  
 | footprint_library_directory | footprint_library_owner/cpavlina_kicad-pcblib |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/alexisvl_ipc7351_least_capae660x460/working |  
-| github_path | http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data//oomlout_oomp_footprint_src/IPC7351-Least.pretty/CAPAE660X460.kicad_mod |  
-| links | {'github_owner': 'alexisvl', 'github_repo_name': 'kicad-pcblib', 'github_src': 'http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data//oomlout_oomp_footprint_src/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod', 'github_src_repo': 'https://github.com/alexisvl/kicad-pcblib', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/alexisvl_ipc7351_least_capae660x460/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/alexisvl_ipc7351_least_capae660x460/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/alexisvl_ipc7351_least_capae660x460/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/alexisvl_ipc7351_least_capae660x460/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/alexisvl_ipc7351_least_capae660x460/working |  
+| github_path | http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data/oomlout_oomp_footprint_src/IPC7351-Least.pretty/CAPAE660X460.kicad_mod |  
+| links | {'github_owner': 'alexisvl', 'github_repo_name': 'kicad-pcblib', 'github_src': 'http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data/oomlout_oomp_footprint_src/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod', 'github_src_repo': 'https://github.com/alexisvl/kicad-pcblib', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/alexisvl_ipc7351_least_capae660x460/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/alexisvl_ipc7351_least_capae660x460/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/alexisvl_ipc7351_least_capae660x460/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/alexisvl_ipc7351_least_capae660x460/working'} |  
 | name | kicad-pcblib |  
-| oomp | {'footprint_name': 'capae660x460', 'library_name': 'ipc7351_least', 'md5': 'e85ed588b9e7f039eb1e2750af28c00a', 'md5_10': 'e85ed588b9', 'md5_5': 'e85ed', 'md5_6': 'e85ed5', 'oomp_key': 'oomp_alexisvl_ipc7351_least_capae660x460', 'oomp_key_extra': 'oomp_footprint_alexisvl_ipc7351_least_capae660x460', 'oomp_key_full': 'oomp_footprint_alexisvl_ipc7351_least_capae660x460_e85ed5', 'oomp_key_simple': 'alexisvl_ipc7351_least_capae660x460', 'original_filename': 'data//oomlout_oomp_footprint_src/kicad-pcblib/IPC7351-Least.pretty/CAPAE660X460.kicad_mod', 'owner_name': 'alexisvl'} |  
+| oomp | {'footprint_name': 'capae660x460', 'library_name': 'ipc7351_least', 'md5': 'e85ed588b9e7f039eb1e2750af28c00a', 'md5_10': 'e85ed588b9', 'md5_5': 'e85ed', 'md5_6': 'e85ed5', 'oomp_key': 'oomp_alexisvl_ipc7351_least_capae660x460', 'oomp_key_extra': 'oomp_footprint_alexisvl_ipc7351_least_capae660x460', 'oomp_key_full': 'oomp_footprint_alexisvl_ipc7351_least_capae660x460_e85ed5', 'oomp_key_simple': 'alexisvl_ipc7351_least_capae660x460', 'original_filename': 'data/oomlout_oomp_footprint_src/kicad-pcblib/IPC7351-Least.pretty/CAPAE660X460.kicad_mod', 'owner_name': 'alexisvl'} |  
 | oomp_key | oomp_alexisvl_ipc7351_least_capae660x460 |  
 | oomp_key_full | oomp_footprint_alexisvl_ipc7351_least_capae660x460 |  
 | oomp_key_simple | alexisvl_ipc7351_least_capae660x460 |  

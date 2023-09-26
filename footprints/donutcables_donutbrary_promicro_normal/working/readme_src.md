@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://github.com/DonutCables/donutbrary.pretty  
 The original footprint can be found at:
-http://github.com/DonutCables/donutbrary.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XIAO QTPY RP2040.kicad_mod
+http://github.com/DonutCables/donutbrary.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/XIAO QTPY RP2040.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: Pro Micro normal 32u4 version  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/donutbrary.pretty/ProMicro_Normal.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/donutbrary.pretty/ProMicro_Normal.kicad_mod |  
 | footprint | {'description': 'Pro Micro normal 32u4 version', 'libraryLink': 'ProMicro_Normal', 'number_of_pads': 24} |  
 | footprint_library_directory | footprint_library_owner/DonutCables_donutbrary.pretty |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/donutcables_donutbrary_promicro_normal/working |  
-| github_path | http://github.com/DonutCables/donutbrary.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/ProMicro_Normal.kicad_mod |  
-| links | {'github_owner': 'DonutCables', 'github_repo_name': 'donutbrary.pretty', 'github_src': 'http://github.com/DonutCables/donutbrary.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XIAO QTPY RP2040.kicad_mod', 'github_src_repo': 'https://github.com/DonutCables/donutbrary.pretty', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/donutcables_donutbrary_promicro_normal/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/donutcables_donutbrary_promicro_normal/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/donutcables_donutbrary_promicro_normal/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/donutcables_donutbrary_promicro_normal/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/donutcables_donutbrary_promicro_normal/working |  
+| github_path | http://github.com/DonutCables/donutbrary.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/ProMicro_Normal.kicad_mod |  
+| links | {'github_owner': 'DonutCables', 'github_repo_name': 'donutbrary.pretty', 'github_src': 'http://github.com/DonutCables/donutbrary.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/XIAO QTPY RP2040.kicad_mod', 'github_src_repo': 'https://github.com/DonutCables/donutbrary.pretty', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/donutcables_donutbrary_promicro_normal/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/donutcables_donutbrary_promicro_normal/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/donutcables_donutbrary_promicro_normal/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/donutcables_donutbrary_promicro_normal/working'} |  
 | name | donutbrary.pretty |  
-| oomp | {'footprint_name': 'promicro_normal', 'library_name': 'donutbrary', 'md5': '0c481d5090f898a6c8f44ec9df1be438', 'md5_10': '0c481d5090', 'md5_5': '0c481', 'md5_6': '0c481d', 'oomp_key': 'oomp_donutcables_donutbrary_promicro_normal', 'oomp_key_extra': 'oomp_footprint_donutcables_donutbrary_promicro_normal', 'oomp_key_full': 'oomp_footprint_donutcables_donutbrary_promicro_normal_0c481d', 'oomp_key_simple': 'donutcables_donutbrary_promicro_normal', 'original_filename': 'data//oomlout_oomp_footprint_src/donutbrary.pretty/ProMicro_Normal.kicad_mod', 'owner_name': 'donutcables'} |  
+| oomp | {'footprint_name': 'promicro_normal', 'library_name': 'donutbrary', 'md5': '0c481d5090f898a6c8f44ec9df1be438', 'md5_10': '0c481d5090', 'md5_5': '0c481', 'md5_6': '0c481d', 'oomp_key': 'oomp_donutcables_donutbrary_promicro_normal', 'oomp_key_extra': 'oomp_footprint_donutcables_donutbrary_promicro_normal', 'oomp_key_full': 'oomp_footprint_donutcables_donutbrary_promicro_normal_0c481d', 'oomp_key_simple': 'donutcables_donutbrary_promicro_normal', 'original_filename': 'data/oomlout_oomp_footprint_src/donutbrary.pretty/ProMicro_Normal.kicad_mod', 'owner_name': 'donutcables'} |  
 | oomp_key | oomp_donutcables_donutbrary_promicro_normal |  
 | oomp_key_full | oomp_footprint_donutcables_donutbrary_promicro_normal |  
 | oomp_key_simple | donutcables_donutbrary_promicro_normal |  

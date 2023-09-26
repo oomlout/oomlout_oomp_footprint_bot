@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://github.com/daprice/keyswitches.pretty  
 The original footprint can be found at:
-http://github.com/daprice/keyswitches.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/SW_PG1350_reversible_rotatable.kicad_mod
+http://github.com/daprice/keyswitches.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/SW_PG1350_reversible_rotatable.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: Kailh "Choc" PG1350 keyswitch, able to be mounted on front or back of PCB and/or rotated 90 degrees (see README)  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/keyswitches.pretty/SW_PG1350_reversible_rotatable.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/keyswitches.pretty/SW_PG1350_reversible_rotatable.kicad_mod |  
 | footprint | {'description': 'Kailh "Choc" PG1350 keyswitch, able to be mounted on front or back of PCB and/or rotated 90 degrees (see README)', 'libraryLink': 'SW_PG1350_reversible_rotatable', 'number_of_pads': 13} |  
 | footprint_library_directory | footprint_library_owner/daprice_keyswitches.pretty |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/daprice_keyswitches_sw_pg1350_reversible_rotatable/working |  
-| github_path | http://github.com/daprice/keyswitches.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/SW_PG1350_reversible_rotatable.kicad_mod |  
-| links | {'github_owner': 'daprice', 'github_repo_name': 'keyswitches.pretty', 'github_src': 'http://github.com/daprice/keyswitches.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/SW_PG1350_reversible_rotatable.kicad_mod', 'github_src_repo': 'https://github.com/daprice/keyswitches.pretty', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/daprice_keyswitches_sw_pg1350_reversible_rotatable/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/daprice_keyswitches_sw_pg1350_reversible_rotatable/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/daprice_keyswitches_sw_pg1350_reversible_rotatable/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/daprice_keyswitches_sw_pg1350_reversible_rotatable/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/daprice_keyswitches_sw_pg1350_reversible_rotatable/working |  
+| github_path | http://github.com/daprice/keyswitches.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/SW_PG1350_reversible_rotatable.kicad_mod |  
+| links | {'github_owner': 'daprice', 'github_repo_name': 'keyswitches.pretty', 'github_src': 'http://github.com/daprice/keyswitches.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/SW_PG1350_reversible_rotatable.kicad_mod', 'github_src_repo': 'https://github.com/daprice/keyswitches.pretty', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/daprice_keyswitches_sw_pg1350_reversible_rotatable/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/daprice_keyswitches_sw_pg1350_reversible_rotatable/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/daprice_keyswitches_sw_pg1350_reversible_rotatable/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/daprice_keyswitches_sw_pg1350_reversible_rotatable/working'} |  
 | name | keyswitches.pretty |  
-| oomp | {'footprint_name': 'sw_pg1350_reversible_rotatable', 'library_name': 'keyswitches', 'md5': 'bf115bcb4407dc78ed9aa1f798e1c1c9', 'md5_10': 'bf115bcb44', 'md5_5': 'bf115', 'md5_6': 'bf115b', 'oomp_key': 'oomp_daprice_keyswitches_sw_pg1350_reversible_rotatable', 'oomp_key_extra': 'oomp_footprint_daprice_keyswitches_sw_pg1350_reversible_rotatable', 'oomp_key_full': 'oomp_footprint_daprice_keyswitches_sw_pg1350_reversible_rotatable_bf115b', 'oomp_key_simple': 'daprice_keyswitches_sw_pg1350_reversible_rotatable', 'original_filename': 'data//oomlout_oomp_footprint_src/keyswitches.pretty/SW_PG1350_reversible_rotatable.kicad_mod', 'owner_name': 'daprice'} |  
+| oomp | {'footprint_name': 'sw_pg1350_reversible_rotatable', 'library_name': 'keyswitches', 'md5': 'bf115bcb4407dc78ed9aa1f798e1c1c9', 'md5_10': 'bf115bcb44', 'md5_5': 'bf115', 'md5_6': 'bf115b', 'oomp_key': 'oomp_daprice_keyswitches_sw_pg1350_reversible_rotatable', 'oomp_key_extra': 'oomp_footprint_daprice_keyswitches_sw_pg1350_reversible_rotatable', 'oomp_key_full': 'oomp_footprint_daprice_keyswitches_sw_pg1350_reversible_rotatable_bf115b', 'oomp_key_simple': 'daprice_keyswitches_sw_pg1350_reversible_rotatable', 'original_filename': 'data/oomlout_oomp_footprint_src/keyswitches.pretty/SW_PG1350_reversible_rotatable.kicad_mod', 'owner_name': 'daprice'} |  
 | oomp_key | oomp_daprice_keyswitches_sw_pg1350_reversible_rotatable |  
 | oomp_key_full | oomp_footprint_daprice_keyswitches_sw_pg1350_reversible_rotatable |  
 | oomp_key_simple | daprice_keyswitches_sw_pg1350_reversible_rotatable |  

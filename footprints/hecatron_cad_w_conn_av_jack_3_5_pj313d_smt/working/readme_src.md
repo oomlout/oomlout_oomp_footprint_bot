@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://github.com/Hecatron-Cad/Hecatron.Kicad.Libs  
 The original footprint can be found at:
-http://github.com/ASoftTech/CAD.KiCad.Libs/blob/master/tmp/data//oomlout_oomp_footprint_src/modules/w_switch.pretty/switch_mmp122-r.kicad_mod
+http://github.com/ASoftTech/CAD.KiCad.Libs/blob/master/tmp/data/oomlout_oomp_footprint_src/modules/w_switch.pretty/switch_mmp122-r.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: 3.5mm jack, HK RTL PJ313D  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/CAD.KiCad.Libs/modules/w_conn_av.pretty/jack_3.5_pj313d-smt.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/CAD.KiCad.Libs/modules/w_conn_av.pretty/jack_3.5_pj313d-smt.kicad_mod |  
 | footprint | {'description': '3.5mm jack, HK RTL PJ313D', 'libraryLink': 'jack_3.5_pj313d-smt', 'number_of_pads': 8} |  
 | footprint_library_directory | footprint_library_owner/ASoftTech_CAD.KiCad.Libs |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/hecatron_cad_w_conn_av_jack_3_5_pj313d_smt/working |  
-| github_path | http://github.com/ASoftTech/CAD.KiCad.Libs/blob/master/tmp/data//oomlout_oomp_footprint_src/modules/w_conn_av.pretty/jack_3.5_pj313d-smt.kicad_mod |  
-| links | {'github_owner': 'Hecatron-Cad', 'github_repo_name': 'Hecatron.Kicad.Libs', 'github_src': 'http://github.com/ASoftTech/CAD.KiCad.Libs/blob/master/tmp/data//oomlout_oomp_footprint_src/modules/w_switch.pretty/switch_mmp122-r.kicad_mod', 'github_src_repo': 'https://github.com/Hecatron-Cad/Hecatron.Kicad.Libs', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/hecatron_cad_w_conn_av_jack_3_5_pj313d_smt/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/hecatron_cad_w_conn_av_jack_3_5_pj313d_smt/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/hecatron_cad_w_conn_av_jack_3_5_pj313d_smt/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/hecatron_cad_w_conn_av_jack_3_5_pj313d_smt/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/hecatron_cad_w_conn_av_jack_3_5_pj313d_smt/working |  
+| github_path | http://github.com/ASoftTech/CAD.KiCad.Libs/blob/master/tmp/data/oomlout_oomp_footprint_src/modules/w_conn_av.pretty/jack_3.5_pj313d-smt.kicad_mod |  
+| links | {'github_owner': 'Hecatron-Cad', 'github_repo_name': 'Hecatron.Kicad.Libs', 'github_src': 'http://github.com/ASoftTech/CAD.KiCad.Libs/blob/master/tmp/data/oomlout_oomp_footprint_src/modules/w_switch.pretty/switch_mmp122-r.kicad_mod', 'github_src_repo': 'https://github.com/Hecatron-Cad/Hecatron.Kicad.Libs', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/hecatron_cad_w_conn_av_jack_3_5_pj313d_smt/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/hecatron_cad_w_conn_av_jack_3_5_pj313d_smt/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/hecatron_cad_w_conn_av_jack_3_5_pj313d_smt/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/hecatron_cad_w_conn_av_jack_3_5_pj313d_smt/working'} |  
 | name | CAD.KiCad.Libs |  
-| oomp | {'footprint_name': 'jack_3_5_pj313d_smt', 'library_name': 'w_conn_av', 'md5': 'e1ee3b0c1c814fe89b901b01ea38740b', 'md5_10': 'e1ee3b0c1c', 'md5_5': 'e1ee3', 'md5_6': 'e1ee3b', 'oomp_key': 'oomp_hecatron_cad_w_conn_av_jack_3_5_pj313d_smt', 'oomp_key_extra': 'oomp_footprint_hecatron_cad_w_conn_av_jack_3_5_pj313d_smt', 'oomp_key_full': 'oomp_footprint_hecatron_cad_w_conn_av_jack_3_5_pj313d_smt_e1ee3b', 'oomp_key_simple': 'hecatron_cad_w_conn_av_jack_3_5_pj313d_smt', 'original_filename': 'data//oomlout_oomp_footprint_src/CAD.KiCad.Libs/modules/w_conn_av.pretty/jack_3.5_pj313d-smt.kicad_mod', 'owner_name': 'hecatron_cad'} |  
+| oomp | {'footprint_name': 'jack_3_5_pj313d_smt', 'library_name': 'w_conn_av', 'md5': 'e1ee3b0c1c814fe89b901b01ea38740b', 'md5_10': 'e1ee3b0c1c', 'md5_5': 'e1ee3', 'md5_6': 'e1ee3b', 'oomp_key': 'oomp_hecatron_cad_w_conn_av_jack_3_5_pj313d_smt', 'oomp_key_extra': 'oomp_footprint_hecatron_cad_w_conn_av_jack_3_5_pj313d_smt', 'oomp_key_full': 'oomp_footprint_hecatron_cad_w_conn_av_jack_3_5_pj313d_smt_e1ee3b', 'oomp_key_simple': 'hecatron_cad_w_conn_av_jack_3_5_pj313d_smt', 'original_filename': 'data/oomlout_oomp_footprint_src/CAD.KiCad.Libs/modules/w_conn_av.pretty/jack_3.5_pj313d-smt.kicad_mod', 'owner_name': 'hecatron_cad'} |  
 | oomp_key | oomp_hecatron_cad_w_conn_av_jack_3_5_pj313d_smt |  
 | oomp_key_full | oomp_footprint_hecatron_cad_w_conn_av_jack_3_5_pj313d_smt |  
 | oomp_key_simple | hecatron_cad_w_conn_av_jack_3_5_pj313d_smt |  

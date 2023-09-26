@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://github.com/alexisvl/kicad-pcblib  
 The original footprint can be found at:
-http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data//oomlout_oomp_footprint_src/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod
+http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data/oomlout_oomp_footprint_src/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: None  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/kicad-pcblib/conn-test.pretty/TEST-SMD.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/kicad-pcblib/conn-test.pretty/TEST-SMD.kicad_mod |  
 | footprint | {'description': None, 'libraryLink': 'TEST-SMD', 'number_of_pads': 1} |  
 | footprint_library_directory | footprint_library_owner/cpavlina_kicad-pcblib |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/alexisvl_conn_test_test_smd/working |  
-| github_path | http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data//oomlout_oomp_footprint_src/conn-test.pretty/TEST-SMD.kicad_mod |  
-| links | {'github_owner': 'alexisvl', 'github_repo_name': 'kicad-pcblib', 'github_src': 'http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data//oomlout_oomp_footprint_src/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod', 'github_src_repo': 'https://github.com/alexisvl/kicad-pcblib', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/alexisvl_conn_test_test_smd/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/alexisvl_conn_test_test_smd/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/alexisvl_conn_test_test_smd/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/alexisvl_conn_test_test_smd/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/alexisvl_conn_test_test_smd/working |  
+| github_path | http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data/oomlout_oomp_footprint_src/conn-test.pretty/TEST-SMD.kicad_mod |  
+| links | {'github_owner': 'alexisvl', 'github_repo_name': 'kicad-pcblib', 'github_src': 'http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data/oomlout_oomp_footprint_src/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod', 'github_src_repo': 'https://github.com/alexisvl/kicad-pcblib', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/alexisvl_conn_test_test_smd/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/alexisvl_conn_test_test_smd/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/alexisvl_conn_test_test_smd/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/alexisvl_conn_test_test_smd/working'} |  
 | name | kicad-pcblib |  
-| oomp | {'footprint_name': 'test_smd', 'library_name': 'conn_test', 'md5': '037d68d76c37dac44b73ade9044ed0be', 'md5_10': '037d68d76c', 'md5_5': '037d6', 'md5_6': '037d68', 'oomp_key': 'oomp_alexisvl_conn_test_test_smd', 'oomp_key_extra': 'oomp_footprint_alexisvl_conn_test_test_smd', 'oomp_key_full': 'oomp_footprint_alexisvl_conn_test_test_smd_037d68', 'oomp_key_simple': 'alexisvl_conn_test_test_smd', 'original_filename': 'data//oomlout_oomp_footprint_src/kicad-pcblib/conn-test.pretty/TEST-SMD.kicad_mod', 'owner_name': 'alexisvl'} |  
+| oomp | {'footprint_name': 'test_smd', 'library_name': 'conn_test', 'md5': '037d68d76c37dac44b73ade9044ed0be', 'md5_10': '037d68d76c', 'md5_5': '037d6', 'md5_6': '037d68', 'oomp_key': 'oomp_alexisvl_conn_test_test_smd', 'oomp_key_extra': 'oomp_footprint_alexisvl_conn_test_test_smd', 'oomp_key_full': 'oomp_footprint_alexisvl_conn_test_test_smd_037d68', 'oomp_key_simple': 'alexisvl_conn_test_test_smd', 'original_filename': 'data/oomlout_oomp_footprint_src/kicad-pcblib/conn-test.pretty/TEST-SMD.kicad_mod', 'owner_name': 'alexisvl'} |  
 | oomp_key | oomp_alexisvl_conn_test_test_smd |  
 | oomp_key_full | oomp_footprint_alexisvl_conn_test_test_smd |  
 | oomp_key_simple | alexisvl_conn_test_test_smd |  

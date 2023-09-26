@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://gitlab.com/kicad/libraries/kicad-footprints  
 The original footprint can be found at:
-http://gitlab.com/ElectronicCats/ComponentLibrariesKicadWurthElektronik/blob/master/tmp/data//oomlout_oomp_footprint_src/WIRE-TO-BOARD(rev17b)/heder box.pretty/690207102672.kicad_mod
+http://gitlab.com/ElectronicCats/ComponentLibrariesKicadWurthElektronik/blob/master/tmp/data/oomlout_oomp_footprint_src/WIRE-TO-BOARD(rev17b)/heder box.pretty/690207102672.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: <B>WR-CRD</B><BR>\nMICRO SD CARD CONNECTOR<BR>\nPUSH & PUSH<BR>\nWITH CARD DETECTION<BR>\n8PINS  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/ComponentLibrariesKicadWurthElektronik/INPUT_OUTPUT_CONNECTORS-rev17b/SD.pretty/693071010811.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/ComponentLibrariesKicadWurthElektronik/INPUT_OUTPUT_CONNECTORS-rev17b/SD.pretty/693071010811.kicad_mod |  
 | footprint | {'description': '<B>WR-CRD</B><BR>\\nMICRO SD CARD CONNECTOR<BR>\\nPUSH & PUSH<BR>\\nWITH CARD DETECTION<BR>\\n8PINS', 'libraryLink': '693071010811', 'number_of_pads': 12} |  
 | footprint_library_directory | footprint_library_owner/ElectronicCats_ComponentLibrariesKicadWurthElektronik |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/electroniccats_sd_693071010811/working |  
-| github_path | http://github.com/ElectronicCats/ComponentLibrariesKicadWurthElektronik/blob/master/tmp/data//oomlout_oomp_footprint_src/INPUT_OUTPUT_CONNECTORS-rev17b/SD.pretty/693071010811.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/ElectronicCats/ComponentLibrariesKicadWurthElektronik/blob/master/tmp/data//oomlout_oomp_footprint_src/WIRE-TO-BOARD(rev17b)/heder box.pretty/690207102672.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/electroniccats_sd_693071010811/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/electroniccats_sd_693071010811/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/electroniccats_sd_693071010811/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/electroniccats_sd_693071010811/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/electroniccats_sd_693071010811/working |  
+| github_path | http://github.com/ElectronicCats/ComponentLibrariesKicadWurthElektronik/blob/master/tmp/data/oomlout_oomp_footprint_src/INPUT_OUTPUT_CONNECTORS-rev17b/SD.pretty/693071010811.kicad_mod |  
+| links | {'github_src': 'http://gitlab.com/ElectronicCats/ComponentLibrariesKicadWurthElektronik/blob/master/tmp/data/oomlout_oomp_footprint_src/WIRE-TO-BOARD(rev17b)/heder box.pretty/690207102672.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/electroniccats_sd_693071010811/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/electroniccats_sd_693071010811/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/electroniccats_sd_693071010811/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/electroniccats_sd_693071010811/working'} |  
 | name | ComponentLibrariesKicadWurthElektronik |  
-| oomp | {'footprint_name': '693071010811', 'library_name': 'sd', 'md5': 'ea4de5b71da147add71182e8ebcac51a', 'md5_10': 'ea4de5b71d', 'md5_5': 'ea4de', 'md5_6': 'ea4de5', 'oomp_key': 'oomp_electroniccats_sd_693071010811', 'oomp_key_extra': 'oomp_footprint_electroniccats_sd_693071010811', 'oomp_key_full': 'oomp_footprint_electroniccats_sd_693071010811_ea4de5', 'oomp_key_simple': 'electroniccats_sd_693071010811', 'original_filename': 'data//oomlout_oomp_footprint_src/ComponentLibrariesKicadWurthElektronik/INPUT_OUTPUT_CONNECTORS-rev17b/SD.pretty/693071010811.kicad_mod', 'owner_name': 'electroniccats'} |  
+| oomp | {'footprint_name': '693071010811', 'library_name': 'sd', 'md5': 'ea4de5b71da147add71182e8ebcac51a', 'md5_10': 'ea4de5b71d', 'md5_5': 'ea4de', 'md5_6': 'ea4de5', 'oomp_key': 'oomp_electroniccats_sd_693071010811', 'oomp_key_extra': 'oomp_footprint_electroniccats_sd_693071010811', 'oomp_key_full': 'oomp_footprint_electroniccats_sd_693071010811_ea4de5', 'oomp_key_simple': 'electroniccats_sd_693071010811', 'original_filename': 'data/oomlout_oomp_footprint_src/ComponentLibrariesKicadWurthElektronik/INPUT_OUTPUT_CONNECTORS-rev17b/SD.pretty/693071010811.kicad_mod', 'owner_name': 'electroniccats'} |  
 | oomp_key | oomp_electroniccats_sd_693071010811 |  
 | oomp_key_full | oomp_footprint_electroniccats_sd_693071010811 |  
 | oomp_key_simple | electroniccats_sd_693071010811 |  

@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://github.com/dchwebb/Custom_Footprints.pretty  
 The original footprint can be found at:
-http://github.com/dchwebb/Custom_Footprints.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Wurth_2.4GHz_Filter_2.5mm_2.0mm.kicad_mod
+http://github.com/dchwebb/Custom_Footprints.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/Wurth_2.4GHz_Filter_2.5mm_2.0mm.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: MIDI_DIN, standard DIN connector, 5 pins, midi  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/Custom_Footprints.pretty/MIDI_DIN.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/Custom_Footprints.pretty/MIDI_DIN.kicad_mod |  
 | footprint | {'description': 'MIDI_DIN, standard DIN connector, 5 pins, midi', 'libraryLink': 'MIDI_DIN', 'number_of_pads': 6} |  
 | footprint_library_directory | footprint_library_owner/dchwebb_Custom_Footprints.pretty |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/dchwebb_custom_footprints_midi_din/working |  
-| github_path | http://github.com/dchwebb/Custom_Footprints.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/MIDI_DIN.kicad_mod |  
-| links | {'github_owner': 'dchwebb', 'github_repo_name': 'Custom_Footprints.pretty', 'github_src': 'http://github.com/dchwebb/Custom_Footprints.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Wurth_2.4GHz_Filter_2.5mm_2.0mm.kicad_mod', 'github_src_repo': 'https://github.com/dchwebb/Custom_Footprints.pretty', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/dchwebb_custom_footprints_midi_din/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/dchwebb_custom_footprints_midi_din/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/dchwebb_custom_footprints_midi_din/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/dchwebb_custom_footprints_midi_din/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/dchwebb_custom_footprints_midi_din/working |  
+| github_path | http://github.com/dchwebb/Custom_Footprints.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/MIDI_DIN.kicad_mod |  
+| links | {'github_owner': 'dchwebb', 'github_repo_name': 'Custom_Footprints.pretty', 'github_src': 'http://github.com/dchwebb/Custom_Footprints.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/Wurth_2.4GHz_Filter_2.5mm_2.0mm.kicad_mod', 'github_src_repo': 'https://github.com/dchwebb/Custom_Footprints.pretty', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/dchwebb_custom_footprints_midi_din/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/dchwebb_custom_footprints_midi_din/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/dchwebb_custom_footprints_midi_din/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/dchwebb_custom_footprints_midi_din/working'} |  
 | name | Custom_Footprints.pretty |  
-| oomp | {'footprint_name': 'midi_din', 'library_name': 'custom_footprints', 'md5': '5e4e3f84f266536d4347bedddacb7277', 'md5_10': '5e4e3f84f2', 'md5_5': '5e4e3', 'md5_6': '5e4e3f', 'oomp_key': 'oomp_dchwebb_custom_footprints_midi_din', 'oomp_key_extra': 'oomp_footprint_dchwebb_custom_footprints_midi_din', 'oomp_key_full': 'oomp_footprint_dchwebb_custom_footprints_midi_din_5e4e3f', 'oomp_key_simple': 'dchwebb_custom_footprints_midi_din', 'original_filename': 'data//oomlout_oomp_footprint_src/Custom_Footprints.pretty/MIDI_DIN.kicad_mod', 'owner_name': 'dchwebb'} |  
+| oomp | {'footprint_name': 'midi_din', 'library_name': 'custom_footprints', 'md5': '5e4e3f84f266536d4347bedddacb7277', 'md5_10': '5e4e3f84f2', 'md5_5': '5e4e3', 'md5_6': '5e4e3f', 'oomp_key': 'oomp_dchwebb_custom_footprints_midi_din', 'oomp_key_extra': 'oomp_footprint_dchwebb_custom_footprints_midi_din', 'oomp_key_full': 'oomp_footprint_dchwebb_custom_footprints_midi_din_5e4e3f', 'oomp_key_simple': 'dchwebb_custom_footprints_midi_din', 'original_filename': 'data/oomlout_oomp_footprint_src/Custom_Footprints.pretty/MIDI_DIN.kicad_mod', 'owner_name': 'dchwebb'} |  
 | oomp_key | oomp_dchwebb_custom_footprints_midi_din |  
 | oomp_key_full | oomp_footprint_dchwebb_custom_footprints_midi_din |  
 | oomp_key_simple | dchwebb_custom_footprints_midi_din |  

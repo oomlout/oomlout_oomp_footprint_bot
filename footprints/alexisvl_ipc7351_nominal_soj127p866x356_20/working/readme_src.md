@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://github.com/alexisvl/kicad-pcblib  
 The original footprint can be found at:
-http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data//oomlout_oomp_footprint_src/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod
+http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data/oomlout_oomp_footprint_src/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: SO J-Lead,1.27mm pitch (300mil Body);20 pin,7.62mm W X 13.00mm L X 3.56mm H Body  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/kicad-pcblib/IPC7351-Nominal.pretty/SOJ127P866X356-20.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/kicad-pcblib/IPC7351-Nominal.pretty/SOJ127P866X356-20.kicad_mod |  
 | footprint | {'description': 'SO J-Lead,1.27mm pitch (300mil Body);20 pin,7.62mm W X 13.00mm L X 3.56mm H Body', 'libraryLink': 'SOJ127P866X356-20', 'number_of_pads': 20} |  
 | footprint_library_directory | footprint_library_owner/cpavlina_kicad-pcblib |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/alexisvl_ipc7351_nominal_soj127p866x356_20/working |  
-| github_path | http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data//oomlout_oomp_footprint_src/IPC7351-Nominal.pretty/SOJ127P866X356-20.kicad_mod |  
-| links | {'github_owner': 'alexisvl', 'github_repo_name': 'kicad-pcblib', 'github_src': 'http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data//oomlout_oomp_footprint_src/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod', 'github_src_repo': 'https://github.com/alexisvl/kicad-pcblib', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/alexisvl_ipc7351_nominal_soj127p866x356_20/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/alexisvl_ipc7351_nominal_soj127p866x356_20/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/alexisvl_ipc7351_nominal_soj127p866x356_20/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/alexisvl_ipc7351_nominal_soj127p866x356_20/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/alexisvl_ipc7351_nominal_soj127p866x356_20/working |  
+| github_path | http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data/oomlout_oomp_footprint_src/IPC7351-Nominal.pretty/SOJ127P866X356-20.kicad_mod |  
+| links | {'github_owner': 'alexisvl', 'github_repo_name': 'kicad-pcblib', 'github_src': 'http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data/oomlout_oomp_footprint_src/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod', 'github_src_repo': 'https://github.com/alexisvl/kicad-pcblib', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/alexisvl_ipc7351_nominal_soj127p866x356_20/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/alexisvl_ipc7351_nominal_soj127p866x356_20/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/alexisvl_ipc7351_nominal_soj127p866x356_20/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/alexisvl_ipc7351_nominal_soj127p866x356_20/working'} |  
 | name | kicad-pcblib |  
-| oomp | {'footprint_name': 'soj127p866x356_20', 'library_name': 'ipc7351_nominal', 'md5': '6918a74d886d3f2b958d8772162c66f9', 'md5_10': '6918a74d88', 'md5_5': '6918a', 'md5_6': '6918a7', 'oomp_key': 'oomp_alexisvl_ipc7351_nominal_soj127p866x356_20', 'oomp_key_extra': 'oomp_footprint_alexisvl_ipc7351_nominal_soj127p866x356_20', 'oomp_key_full': 'oomp_footprint_alexisvl_ipc7351_nominal_soj127p866x356_20_6918a7', 'oomp_key_simple': 'alexisvl_ipc7351_nominal_soj127p866x356_20', 'original_filename': 'data//oomlout_oomp_footprint_src/kicad-pcblib/IPC7351-Nominal.pretty/SOJ127P866X356-20.kicad_mod', 'owner_name': 'alexisvl'} |  
+| oomp | {'footprint_name': 'soj127p866x356_20', 'library_name': 'ipc7351_nominal', 'md5': '6918a74d886d3f2b958d8772162c66f9', 'md5_10': '6918a74d88', 'md5_5': '6918a', 'md5_6': '6918a7', 'oomp_key': 'oomp_alexisvl_ipc7351_nominal_soj127p866x356_20', 'oomp_key_extra': 'oomp_footprint_alexisvl_ipc7351_nominal_soj127p866x356_20', 'oomp_key_full': 'oomp_footprint_alexisvl_ipc7351_nominal_soj127p866x356_20_6918a7', 'oomp_key_simple': 'alexisvl_ipc7351_nominal_soj127p866x356_20', 'original_filename': 'data/oomlout_oomp_footprint_src/kicad-pcblib/IPC7351-Nominal.pretty/SOJ127P866X356-20.kicad_mod', 'owner_name': 'alexisvl'} |  
 | oomp_key | oomp_alexisvl_ipc7351_nominal_soj127p866x356_20 |  
 | oomp_key_full | oomp_footprint_alexisvl_ipc7351_nominal_soj127p866x356_20 |  
 | oomp_key_simple | alexisvl_ipc7351_nominal_soj127p866x356_20 |  

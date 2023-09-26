@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://github.com/blackb3ar/kicadprints.pretty  
 The original footprint can be found at:
-http://github.com/d3philip/kicadprints.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/TestPad.kicad_mod
+http://github.com/d3philip/kicadprints.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/TestPad.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: None  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/kicadprints.pretty/LGA-14_handsoldering.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/kicadprints.pretty/LGA-14_handsoldering.kicad_mod |  
 | footprint | {'description': None, 'libraryLink': 'LGA-14_handsoldering', 'number_of_pads': 14} |  
 | footprint_library_directory | footprint_library_owner/d3philip_kicadprints.pretty |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/blackb3ar_kicadprints_lga_14_handsoldering/working |  
-| github_path | http://github.com/d3philip/kicadprints.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/LGA-14_handsoldering.kicad_mod |  
-| links | {'github_owner': 'blackb3ar', 'github_repo_name': 'kicadprints.pretty', 'github_src': 'http://github.com/d3philip/kicadprints.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/TestPad.kicad_mod', 'github_src_repo': 'https://github.com/blackb3ar/kicadprints.pretty', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/blackb3ar_kicadprints_lga_14_handsoldering/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/blackb3ar_kicadprints_lga_14_handsoldering/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/blackb3ar_kicadprints_lga_14_handsoldering/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/blackb3ar_kicadprints_lga_14_handsoldering/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/blackb3ar_kicadprints_lga_14_handsoldering/working |  
+| github_path | http://github.com/d3philip/kicadprints.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/LGA-14_handsoldering.kicad_mod |  
+| links | {'github_owner': 'blackb3ar', 'github_repo_name': 'kicadprints.pretty', 'github_src': 'http://github.com/d3philip/kicadprints.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/TestPad.kicad_mod', 'github_src_repo': 'https://github.com/blackb3ar/kicadprints.pretty', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/blackb3ar_kicadprints_lga_14_handsoldering/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/blackb3ar_kicadprints_lga_14_handsoldering/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/blackb3ar_kicadprints_lga_14_handsoldering/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/blackb3ar_kicadprints_lga_14_handsoldering/working'} |  
 | name | kicadprints.pretty |  
-| oomp | {'footprint_name': 'lga_14_handsoldering', 'library_name': 'kicadprints', 'md5': '554cc85f6976494904e8b259c5115d95', 'md5_10': '554cc85f69', 'md5_5': '554cc', 'md5_6': '554cc8', 'oomp_key': 'oomp_blackb3ar_kicadprints_lga_14_handsoldering', 'oomp_key_extra': 'oomp_footprint_blackb3ar_kicadprints_lga_14_handsoldering', 'oomp_key_full': 'oomp_footprint_blackb3ar_kicadprints_lga_14_handsoldering_554cc8', 'oomp_key_simple': 'blackb3ar_kicadprints_lga_14_handsoldering', 'original_filename': 'data//oomlout_oomp_footprint_src/kicadprints.pretty/LGA-14_handsoldering.kicad_mod', 'owner_name': 'blackb3ar'} |  
+| oomp | {'footprint_name': 'lga_14_handsoldering', 'library_name': 'kicadprints', 'md5': '554cc85f6976494904e8b259c5115d95', 'md5_10': '554cc85f69', 'md5_5': '554cc', 'md5_6': '554cc8', 'oomp_key': 'oomp_blackb3ar_kicadprints_lga_14_handsoldering', 'oomp_key_extra': 'oomp_footprint_blackb3ar_kicadprints_lga_14_handsoldering', 'oomp_key_full': 'oomp_footprint_blackb3ar_kicadprints_lga_14_handsoldering_554cc8', 'oomp_key_simple': 'blackb3ar_kicadprints_lga_14_handsoldering', 'original_filename': 'data/oomlout_oomp_footprint_src/kicadprints.pretty/LGA-14_handsoldering.kicad_mod', 'owner_name': 'blackb3ar'} |  
 | oomp_key | oomp_blackb3ar_kicadprints_lga_14_handsoldering |  
 | oomp_key_full | oomp_footprint_blackb3ar_kicadprints_lga_14_handsoldering |  
 | oomp_key_simple | blackb3ar_kicadprints_lga_14_handsoldering |  

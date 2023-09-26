@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://gitlab.com/kicad/libraries/kicad-footprints  
 The original footprint can be found at:
-http://gitlab.com/audrentis/MX_Plate_Footprints.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/TKL_Bottom_Row.kicad_mod
+http://gitlab.com/audrentis/MX_Plate_Footprints.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/TKL_Bottom_Row.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: None  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/MX_Plate_Footprints.pretty/2.75u.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/MX_Plate_Footprints.pretty/2.75u.kicad_mod |  
 | footprint | {'description': None, 'libraryLink': '2.75u', 'number_of_pads': 0} |  
 | footprint_library_directory | footprint_library_owner/audrentis_MX_Plate_Footprints.pretty |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/audrentis_mx_plate_footprints_2_75u/working |  
-| github_path | http://github.com/audrentis/MX_Plate_Footprints.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/2.75u.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/audrentis/MX_Plate_Footprints.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/TKL_Bottom_Row.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/audrentis_mx_plate_footprints_2_75u/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/audrentis_mx_plate_footprints_2_75u/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/audrentis_mx_plate_footprints_2_75u/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/audrentis_mx_plate_footprints_2_75u/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/audrentis_mx_plate_footprints_2_75u/working |  
+| github_path | http://github.com/audrentis/MX_Plate_Footprints.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/2.75u.kicad_mod |  
+| links | {'github_src': 'http://gitlab.com/audrentis/MX_Plate_Footprints.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/TKL_Bottom_Row.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/audrentis_mx_plate_footprints_2_75u/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/audrentis_mx_plate_footprints_2_75u/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/audrentis_mx_plate_footprints_2_75u/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/audrentis_mx_plate_footprints_2_75u/working'} |  
 | name | MX_Plate_Footprints.pretty |  
-| oomp | {'footprint_name': '2_75u', 'library_name': 'mx_plate_footprints', 'md5': '508d92d9497905e1c5ef41d1227b8536', 'md5_10': '508d92d949', 'md5_5': '508d9', 'md5_6': '508d92', 'oomp_key': 'oomp_audrentis_mx_plate_footprints_2_75u', 'oomp_key_extra': 'oomp_footprint_audrentis_mx_plate_footprints_2_75u', 'oomp_key_full': 'oomp_footprint_audrentis_mx_plate_footprints_2_75u_508d92', 'oomp_key_simple': 'audrentis_mx_plate_footprints_2_75u', 'original_filename': 'data//oomlout_oomp_footprint_src/MX_Plate_Footprints.pretty/2.75u.kicad_mod', 'owner_name': 'audrentis'} |  
+| oomp | {'footprint_name': '2_75u', 'library_name': 'mx_plate_footprints', 'md5': '508d92d9497905e1c5ef41d1227b8536', 'md5_10': '508d92d949', 'md5_5': '508d9', 'md5_6': '508d92', 'oomp_key': 'oomp_audrentis_mx_plate_footprints_2_75u', 'oomp_key_extra': 'oomp_footprint_audrentis_mx_plate_footprints_2_75u', 'oomp_key_full': 'oomp_footprint_audrentis_mx_plate_footprints_2_75u_508d92', 'oomp_key_simple': 'audrentis_mx_plate_footprints_2_75u', 'original_filename': 'data/oomlout_oomp_footprint_src/MX_Plate_Footprints.pretty/2.75u.kicad_mod', 'owner_name': 'audrentis'} |  
 | oomp_key | oomp_audrentis_mx_plate_footprints_2_75u |  
 | oomp_key_full | oomp_footprint_audrentis_mx_plate_footprints_2_75u |  
 | oomp_key_simple | audrentis_mx_plate_footprints_2_75u |  

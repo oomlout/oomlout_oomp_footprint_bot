@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://github.com/dragonmux/rhais_package-to.pretty  
 The original footprint can be found at:
-http://github.com/dragonmux/rhais_package-to.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/TO-220-3_Vertical.kicad_mod
+http://github.com/dragonmux/rhais_package-to.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/TO-220-3_Vertical.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: TO-220-3, Vertical, RM 2.54mm, see https://www.vishay.com/docs/66542/to-220-1.pdf  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/rhais_package-to.pretty/TO-220-3_Vertical.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/rhais_package-to.pretty/TO-220-3_Vertical.kicad_mod |  
 | footprint | {'description': 'TO-220-3, Vertical, RM 2.54mm, see https://www.vishay.com/docs/66542/to-220-1.pdf', 'libraryLink': 'TO-220-3_Vertical', 'number_of_pads': 3} |  
 | footprint_library_directory | footprint_library_owner/dragonmux_rhais_package-to.pretty |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/dragonmux_rhais_package_to_to_220_3_vertical/working |  
-| github_path | http://github.com/dragonmux/rhais_package-to.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/TO-220-3_Vertical.kicad_mod |  
-| links | {'github_owner': 'dragonmux', 'github_repo_name': 'rhais_package-to.pretty', 'github_src': 'http://github.com/dragonmux/rhais_package-to.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/TO-220-3_Vertical.kicad_mod', 'github_src_repo': 'https://github.com/dragonmux/rhais_package-to.pretty', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/dragonmux_rhais_package_to_to_220_3_vertical/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/dragonmux_rhais_package_to_to_220_3_vertical/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/dragonmux_rhais_package_to_to_220_3_vertical/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/dragonmux_rhais_package_to_to_220_3_vertical/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/dragonmux_rhais_package_to_to_220_3_vertical/working |  
+| github_path | http://github.com/dragonmux/rhais_package-to.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/TO-220-3_Vertical.kicad_mod |  
+| links | {'github_owner': 'dragonmux', 'github_repo_name': 'rhais_package-to.pretty', 'github_src': 'http://github.com/dragonmux/rhais_package-to.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/TO-220-3_Vertical.kicad_mod', 'github_src_repo': 'https://github.com/dragonmux/rhais_package-to.pretty', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/dragonmux_rhais_package_to_to_220_3_vertical/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/dragonmux_rhais_package_to_to_220_3_vertical/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/dragonmux_rhais_package_to_to_220_3_vertical/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/dragonmux_rhais_package_to_to_220_3_vertical/working'} |  
 | name | rhais_package-to.pretty |  
-| oomp | {'footprint_name': 'to_220_3_vertical', 'library_name': 'rhais_package_to', 'md5': '65f2e1514ad573a8fcc4d057cad32205', 'md5_10': '65f2e1514a', 'md5_5': '65f2e', 'md5_6': '65f2e1', 'oomp_key': 'oomp_dragonmux_rhais_package_to_to_220_3_vertical', 'oomp_key_extra': 'oomp_footprint_dragonmux_rhais_package_to_to_220_3_vertical', 'oomp_key_full': 'oomp_footprint_dragonmux_rhais_package_to_to_220_3_vertical_65f2e1', 'oomp_key_simple': 'dragonmux_rhais_package_to_to_220_3_vertical', 'original_filename': 'data//oomlout_oomp_footprint_src/rhais_package-to.pretty/TO-220-3_Vertical.kicad_mod', 'owner_name': 'dragonmux'} |  
+| oomp | {'footprint_name': 'to_220_3_vertical', 'library_name': 'rhais_package_to', 'md5': '65f2e1514ad573a8fcc4d057cad32205', 'md5_10': '65f2e1514a', 'md5_5': '65f2e', 'md5_6': '65f2e1', 'oomp_key': 'oomp_dragonmux_rhais_package_to_to_220_3_vertical', 'oomp_key_extra': 'oomp_footprint_dragonmux_rhais_package_to_to_220_3_vertical', 'oomp_key_full': 'oomp_footprint_dragonmux_rhais_package_to_to_220_3_vertical_65f2e1', 'oomp_key_simple': 'dragonmux_rhais_package_to_to_220_3_vertical', 'original_filename': 'data/oomlout_oomp_footprint_src/rhais_package-to.pretty/TO-220-3_Vertical.kicad_mod', 'owner_name': 'dragonmux'} |  
 | oomp_key | oomp_dragonmux_rhais_package_to_to_220_3_vertical |  
 | oomp_key_full | oomp_footprint_dragonmux_rhais_package_to_to_220_3_vertical |  
 | oomp_key_simple | dragonmux_rhais_package_to_to_220_3_vertical |  

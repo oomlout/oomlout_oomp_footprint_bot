@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://github.com/alexisvl/kicad-pcblib  
 The original footprint can be found at:
-http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data//oomlout_oomp_footprint_src/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod
+http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data/oomlout_oomp_footprint_src/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: Oscillator,side,concave;6 Pin,5.00mm L X 7.00mm W X 2.00mm H  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/kicad-pcblib/IPC7351-Nominal.pretty/OSCSC254P500X700X200-6A.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/kicad-pcblib/IPC7351-Nominal.pretty/OSCSC254P500X700X200-6A.kicad_mod |  
 | footprint | {'description': 'Oscillator,side,concave;6 Pin,5.00mm L X 7.00mm W X 2.00mm H', 'libraryLink': 'OSCSC254P500X700X200-6A', 'number_of_pads': 6} |  
 | footprint_library_directory | footprint_library_owner/cpavlina_kicad-pcblib |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/alexisvl_ipc7351_nominal_oscsc254p500x700x200_6a/working |  
-| github_path | http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data//oomlout_oomp_footprint_src/IPC7351-Nominal.pretty/OSCSC254P500X700X200-6A.kicad_mod |  
-| links | {'github_owner': 'alexisvl', 'github_repo_name': 'kicad-pcblib', 'github_src': 'http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data//oomlout_oomp_footprint_src/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod', 'github_src_repo': 'https://github.com/alexisvl/kicad-pcblib', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/alexisvl_ipc7351_nominal_oscsc254p500x700x200_6a/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/alexisvl_ipc7351_nominal_oscsc254p500x700x200_6a/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/alexisvl_ipc7351_nominal_oscsc254p500x700x200_6a/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/alexisvl_ipc7351_nominal_oscsc254p500x700x200_6a/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/alexisvl_ipc7351_nominal_oscsc254p500x700x200_6a/working |  
+| github_path | http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data/oomlout_oomp_footprint_src/IPC7351-Nominal.pretty/OSCSC254P500X700X200-6A.kicad_mod |  
+| links | {'github_owner': 'alexisvl', 'github_repo_name': 'kicad-pcblib', 'github_src': 'http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data/oomlout_oomp_footprint_src/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod', 'github_src_repo': 'https://github.com/alexisvl/kicad-pcblib', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/alexisvl_ipc7351_nominal_oscsc254p500x700x200_6a/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/alexisvl_ipc7351_nominal_oscsc254p500x700x200_6a/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/alexisvl_ipc7351_nominal_oscsc254p500x700x200_6a/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/alexisvl_ipc7351_nominal_oscsc254p500x700x200_6a/working'} |  
 | name | kicad-pcblib |  
-| oomp | {'footprint_name': 'oscsc254p500x700x200_6a', 'library_name': 'ipc7351_nominal', 'md5': 'e209dc368aff1cb98782da9ade35c601', 'md5_10': 'e209dc368a', 'md5_5': 'e209d', 'md5_6': 'e209dc', 'oomp_key': 'oomp_alexisvl_ipc7351_nominal_oscsc254p500x700x200_6a', 'oomp_key_extra': 'oomp_footprint_alexisvl_ipc7351_nominal_oscsc254p500x700x200_6a', 'oomp_key_full': 'oomp_footprint_alexisvl_ipc7351_nominal_oscsc254p500x700x200_6a_e209dc', 'oomp_key_simple': 'alexisvl_ipc7351_nominal_oscsc254p500x700x200_6a', 'original_filename': 'data//oomlout_oomp_footprint_src/kicad-pcblib/IPC7351-Nominal.pretty/OSCSC254P500X700X200-6A.kicad_mod', 'owner_name': 'alexisvl'} |  
+| oomp | {'footprint_name': 'oscsc254p500x700x200_6a', 'library_name': 'ipc7351_nominal', 'md5': 'e209dc368aff1cb98782da9ade35c601', 'md5_10': 'e209dc368a', 'md5_5': 'e209d', 'md5_6': 'e209dc', 'oomp_key': 'oomp_alexisvl_ipc7351_nominal_oscsc254p500x700x200_6a', 'oomp_key_extra': 'oomp_footprint_alexisvl_ipc7351_nominal_oscsc254p500x700x200_6a', 'oomp_key_full': 'oomp_footprint_alexisvl_ipc7351_nominal_oscsc254p500x700x200_6a_e209dc', 'oomp_key_simple': 'alexisvl_ipc7351_nominal_oscsc254p500x700x200_6a', 'original_filename': 'data/oomlout_oomp_footprint_src/kicad-pcblib/IPC7351-Nominal.pretty/OSCSC254P500X700X200-6A.kicad_mod', 'owner_name': 'alexisvl'} |  
 | oomp_key | oomp_alexisvl_ipc7351_nominal_oscsc254p500x700x200_6a |  
 | oomp_key_full | oomp_footprint_alexisvl_ipc7351_nominal_oscsc254p500x700x200_6a |  
 | oomp_key_simple | alexisvl_ipc7351_nominal_oscsc254p500x700x200_6a |  

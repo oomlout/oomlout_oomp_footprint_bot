@@ -1,0 +1,37 @@
+- file: data/oomlout_oomp_footprint_src/kicad-footprints/Connector_USB.pretty/USB_A_Molex_48037-2200_Horizontal.kicad_mod
+  footprint:
+    description: USB type A Plug, Horizontal, https://www.molex.com/pdm_docs/sd/480372200_sd.pdf
+    libraryLink: USB_A_Molex_48037-2200_Horizontal
+    number_of_pads: 8
+  footprint_library_directory: footprint_library_owner/kicad-legacy_kicad-footprints
+  footprint_library_directory_flat: tmp/data/oomlout_oomp_footprint_src/footprints_flat/kicad_legacy_connector_usb_usb_a_molex_48037_2200_horizontal/working
+  github_path: http://github.com/kicad-legacy/kicad-footprints/blob/master/tmp/data/oomlout_oomp_footprint_src/Connector_USB.pretty/USB_A_Molex_48037-2200_Horizontal.kicad_mod
+  links:
+    github_src: http://gitlab.com/kicad-legacy/kicad-footprints/blob/master/tmp/data/oomlout_oomp_footprint_src/Connector_USB.pretty/USB_Mini-B_Wuerth_65100516121_Horizontal.kicad_mod
+    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
+    oomp_bot: tmp/data/oomlout_oomp_footprint_src/footprints/kicad_legacy_connector_usb_usb_a_molex_48037_2200_horizontal/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/kicad_legacy_connector_usb_usb_a_molex_48037_2200_horizontal/working
+    oomp_src_flat: footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/kicad_legacy_connector_usb_usb_a_molex_48037_2200_horizontal/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/kicad_legacy_connector_usb_usb_a_molex_48037_2200_horizontal/working
+  name: kicad-footprints
+  oomp:
+    footprint_name: usb_a_molex_48037_2200_horizontal
+    library_name: connector_usb
+    md5: b4ac19ff562451fc75626a3e028a10f5
+    md5_10: b4ac19ff56
+    md5_5: b4ac1
+    md5_6: b4ac19
+    oomp_key: oomp_kicad_legacy_connector_usb_usb_a_molex_48037_2200_horizontal
+    oomp_key_extra: oomp_footprint_kicad_legacy_connector_usb_usb_a_molex_48037_2200_horizontal
+    oomp_key_full: oomp_footprint_kicad_legacy_connector_usb_usb_a_molex_48037_2200_horizontal_b4ac19
+    oomp_key_simple: kicad_legacy_connector_usb_usb_a_molex_48037_2200_horizontal
+    original_filename: data/oomlout_oomp_footprint_src/kicad-footprints/Connector_USB.pretty/USB_A_Molex_48037-2200_Horizontal.kicad_mod
+    owner_name: kicad_legacy
+  oomp_key: oomp_kicad_legacy_connector_usb_usb_a_molex_48037_2200_horizontal
+  oomp_key_full: oomp_footprint_kicad_legacy_connector_usb_usb_a_molex_48037_2200_horizontal
+  oomp_key_simple: kicad_legacy_connector_usb_usb_a_molex_48037_2200_horizontal
+  owner: kicad-legacy
+  repo:
+    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
+    message: Not Found
+  url: http://github.com/kicad-legacy/kicad-footprints

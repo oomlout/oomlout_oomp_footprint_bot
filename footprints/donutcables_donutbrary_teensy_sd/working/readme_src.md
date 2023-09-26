@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://github.com/DonutCables/donutbrary.pretty  
 The original footprint can be found at:
-http://github.com/DonutCables/donutbrary.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XIAO QTPY RP2040.kicad_mod
+http://github.com/DonutCables/donutbrary.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/XIAO QTPY RP2040.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: Footprint for Teensy SD reader addon  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/donutbrary.pretty/teensy_sd.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/donutbrary.pretty/teensy_sd.kicad_mod |  
 | footprint | {'description': 'Footprint for Teensy SD reader addon', 'libraryLink': 'Teensy_SD', 'number_of_pads': 10} |  
 | footprint_library_directory | footprint_library_owner/DonutCables_donutbrary.pretty |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/donutcables_donutbrary_teensy_sd/working |  
-| github_path | http://github.com/DonutCables/donutbrary.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/teensy_sd.kicad_mod |  
-| links | {'github_owner': 'DonutCables', 'github_repo_name': 'donutbrary.pretty', 'github_src': 'http://github.com/DonutCables/donutbrary.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XIAO QTPY RP2040.kicad_mod', 'github_src_repo': 'https://github.com/DonutCables/donutbrary.pretty', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/donutcables_donutbrary_teensy_sd/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/donutcables_donutbrary_teensy_sd/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/donutcables_donutbrary_teensy_sd/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/donutcables_donutbrary_teensy_sd/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/donutcables_donutbrary_teensy_sd/working |  
+| github_path | http://github.com/DonutCables/donutbrary.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/teensy_sd.kicad_mod |  
+| links | {'github_owner': 'DonutCables', 'github_repo_name': 'donutbrary.pretty', 'github_src': 'http://github.com/DonutCables/donutbrary.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/XIAO QTPY RP2040.kicad_mod', 'github_src_repo': 'https://github.com/DonutCables/donutbrary.pretty', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/donutcables_donutbrary_teensy_sd/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/donutcables_donutbrary_teensy_sd/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/donutcables_donutbrary_teensy_sd/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/donutcables_donutbrary_teensy_sd/working'} |  
 | name | donutbrary.pretty |  
-| oomp | {'footprint_name': 'teensy_sd', 'library_name': 'donutbrary', 'md5': '5131fe4e0b648f677c5732e2c295a84e', 'md5_10': '5131fe4e0b', 'md5_5': '5131f', 'md5_6': '5131fe', 'oomp_key': 'oomp_donutcables_donutbrary_teensy_sd', 'oomp_key_extra': 'oomp_footprint_donutcables_donutbrary_teensy_sd', 'oomp_key_full': 'oomp_footprint_donutcables_donutbrary_teensy_sd_5131fe', 'oomp_key_simple': 'donutcables_donutbrary_teensy_sd', 'original_filename': 'data//oomlout_oomp_footprint_src/donutbrary.pretty/teensy_sd.kicad_mod', 'owner_name': 'donutcables'} |  
+| oomp | {'footprint_name': 'teensy_sd', 'library_name': 'donutbrary', 'md5': '5131fe4e0b648f677c5732e2c295a84e', 'md5_10': '5131fe4e0b', 'md5_5': '5131f', 'md5_6': '5131fe', 'oomp_key': 'oomp_donutcables_donutbrary_teensy_sd', 'oomp_key_extra': 'oomp_footprint_donutcables_donutbrary_teensy_sd', 'oomp_key_full': 'oomp_footprint_donutcables_donutbrary_teensy_sd_5131fe', 'oomp_key_simple': 'donutcables_donutbrary_teensy_sd', 'original_filename': 'data/oomlout_oomp_footprint_src/donutbrary.pretty/teensy_sd.kicad_mod', 'owner_name': 'donutcables'} |  
 | oomp_key | oomp_donutcables_donutbrary_teensy_sd |  
 | oomp_key_full | oomp_footprint_donutcables_donutbrary_teensy_sd |  
 | oomp_key_simple | donutcables_donutbrary_teensy_sd |  

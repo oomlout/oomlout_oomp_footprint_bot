@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://gitlab.com/kicad/libraries/kicad-footprints  
 The original footprint can be found at:
-http://gitlab.com/axello/kicad/blob/master/tmp/data//oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod
+http://gitlab.com/axello/kicad/blob/master/tmp/data/oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: FCI pcb terminal block 5.00 3 pins  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/kicad/6.0/projects/1w-grove-v0.1/1w-grove-v0.1.pretty/20020316-G031B01LF.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/kicad/6.0/projects/1w-grove-v0.1/1w-grove-v0.1.pretty/20020316-G031B01LF.kicad_mod |  
 | footprint | {'description': 'FCI pcb terminal block 5.00 3 pins', 'libraryLink': '20020316-G031B01LF', 'number_of_pads': 3} |  
 | footprint_library_directory | footprint_library_owner/axello_kicad |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/axello_1w_grove_v0_1_20020316_g031b01lf/working |  
-| github_path | http://github.com/axello/kicad/blob/master/tmp/data//oomlout_oomp_footprint_src/6.0/projects/1w-grove-v0.1/1w-grove-v0.1.pretty/20020316-G031B01LF.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/axello/kicad/blob/master/tmp/data//oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/axello_1w_grove_v0_1_20020316_g031b01lf/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/axello_1w_grove_v0_1_20020316_g031b01lf/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/axello_1w_grove_v0_1_20020316_g031b01lf/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/axello_1w_grove_v0_1_20020316_g031b01lf/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/axello_1w_grove_v0_1_20020316_g031b01lf/working |  
+| github_path | http://github.com/axello/kicad/blob/master/tmp/data/oomlout_oomp_footprint_src/6.0/projects/1w-grove-v0.1/1w-grove-v0.1.pretty/20020316-G031B01LF.kicad_mod |  
+| links | {'github_src': 'http://gitlab.com/axello/kicad/blob/master/tmp/data/oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/axello_1w_grove_v0_1_20020316_g031b01lf/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/axello_1w_grove_v0_1_20020316_g031b01lf/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/axello_1w_grove_v0_1_20020316_g031b01lf/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/axello_1w_grove_v0_1_20020316_g031b01lf/working'} |  
 | name | kicad |  
-| oomp | {'footprint_name': '20020316_g031b01lf', 'library_name': '1w_grove_v0_1', 'md5': 'ab9c7f5d0165ad5041308935d65432bd', 'md5_10': 'ab9c7f5d01', 'md5_5': 'ab9c7', 'md5_6': 'ab9c7f', 'oomp_key': 'oomp_axello_1w_grove_v0_1_20020316_g031b01lf', 'oomp_key_extra': 'oomp_footprint_axello_1w_grove_v0_1_20020316_g031b01lf', 'oomp_key_full': 'oomp_footprint_axello_1w_grove_v0_1_20020316_g031b01lf_ab9c7f', 'oomp_key_simple': 'axello_1w_grove_v0_1_20020316_g031b01lf', 'original_filename': 'data//oomlout_oomp_footprint_src/kicad/6.0/projects/1w-grove-v0.1/1w-grove-v0.1.pretty/20020316-G031B01LF.kicad_mod', 'owner_name': 'axello'} |  
+| oomp | {'footprint_name': '20020316_g031b01lf', 'library_name': '1w_grove_v0_1', 'md5': 'ab9c7f5d0165ad5041308935d65432bd', 'md5_10': 'ab9c7f5d01', 'md5_5': 'ab9c7', 'md5_6': 'ab9c7f', 'oomp_key': 'oomp_axello_1w_grove_v0_1_20020316_g031b01lf', 'oomp_key_extra': 'oomp_footprint_axello_1w_grove_v0_1_20020316_g031b01lf', 'oomp_key_full': 'oomp_footprint_axello_1w_grove_v0_1_20020316_g031b01lf_ab9c7f', 'oomp_key_simple': 'axello_1w_grove_v0_1_20020316_g031b01lf', 'original_filename': 'data/oomlout_oomp_footprint_src/kicad/6.0/projects/1w-grove-v0.1/1w-grove-v0.1.pretty/20020316-G031B01LF.kicad_mod', 'owner_name': 'axello'} |  
 | oomp_key | oomp_axello_1w_grove_v0_1_20020316_g031b01lf |  
 | oomp_key_full | oomp_footprint_axello_1w_grove_v0_1_20020316_g031b01lf |  
 | oomp_key_simple | axello_1w_grove_v0_1_20020316_g031b01lf |  

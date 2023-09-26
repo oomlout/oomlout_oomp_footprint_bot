@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://github.com/descampsa/LEDs.pretty  
 The original footprint can be found at:
-http://github.com/descampsa/LEDs.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/LED_WS2812B-PLCC4.kicad_mod
+http://github.com/descampsa/LEDs.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/LED_WS2812B-PLCC4.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: http://www.world-semi.com/uploads/soft/150522/1-150522091P5.pdf  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/LEDs.pretty/LED_WS2812B-PLCC4.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/LEDs.pretty/LED_WS2812B-PLCC4.kicad_mod |  
 | footprint | {'description': 'http://www.world-semi.com/uploads/soft/150522/1-150522091P5.pdf', 'libraryLink': 'LED_WS2812B-PLCC4', 'number_of_pads': 4} |  
 | footprint_library_directory | footprint_library_owner/descampsa_LEDs.pretty |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/descampsa_leds_led_ws2812b_plcc4/working |  
-| github_path | http://github.com/descampsa/LEDs.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/LED_WS2812B-PLCC4.kicad_mod |  
-| links | {'github_owner': 'descampsa', 'github_repo_name': 'LEDs.pretty', 'github_src': 'http://github.com/descampsa/LEDs.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/LED_WS2812B-PLCC4.kicad_mod', 'github_src_repo': 'https://github.com/descampsa/LEDs.pretty', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/descampsa_leds_led_ws2812b_plcc4/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/descampsa_leds_led_ws2812b_plcc4/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/descampsa_leds_led_ws2812b_plcc4/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/descampsa_leds_led_ws2812b_plcc4/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/descampsa_leds_led_ws2812b_plcc4/working |  
+| github_path | http://github.com/descampsa/LEDs.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/LED_WS2812B-PLCC4.kicad_mod |  
+| links | {'github_owner': 'descampsa', 'github_repo_name': 'LEDs.pretty', 'github_src': 'http://github.com/descampsa/LEDs.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/LED_WS2812B-PLCC4.kicad_mod', 'github_src_repo': 'https://github.com/descampsa/LEDs.pretty', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/descampsa_leds_led_ws2812b_plcc4/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/descampsa_leds_led_ws2812b_plcc4/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/descampsa_leds_led_ws2812b_plcc4/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/descampsa_leds_led_ws2812b_plcc4/working'} |  
 | name | LEDs.pretty |  
-| oomp | {'footprint_name': 'led_ws2812b_plcc4', 'library_name': 'leds', 'md5': '95ea13dbb4ab05f40792a4ffe655a37c', 'md5_10': '95ea13dbb4', 'md5_5': '95ea1', 'md5_6': '95ea13', 'oomp_key': 'oomp_descampsa_leds_led_ws2812b_plcc4', 'oomp_key_extra': 'oomp_footprint_descampsa_leds_led_ws2812b_plcc4', 'oomp_key_full': 'oomp_footprint_descampsa_leds_led_ws2812b_plcc4_95ea13', 'oomp_key_simple': 'descampsa_leds_led_ws2812b_plcc4', 'original_filename': 'data//oomlout_oomp_footprint_src/LEDs.pretty/LED_WS2812B-PLCC4.kicad_mod', 'owner_name': 'descampsa'} |  
+| oomp | {'footprint_name': 'led_ws2812b_plcc4', 'library_name': 'leds', 'md5': '95ea13dbb4ab05f40792a4ffe655a37c', 'md5_10': '95ea13dbb4', 'md5_5': '95ea1', 'md5_6': '95ea13', 'oomp_key': 'oomp_descampsa_leds_led_ws2812b_plcc4', 'oomp_key_extra': 'oomp_footprint_descampsa_leds_led_ws2812b_plcc4', 'oomp_key_full': 'oomp_footprint_descampsa_leds_led_ws2812b_plcc4_95ea13', 'oomp_key_simple': 'descampsa_leds_led_ws2812b_plcc4', 'original_filename': 'data/oomlout_oomp_footprint_src/LEDs.pretty/LED_WS2812B-PLCC4.kicad_mod', 'owner_name': 'descampsa'} |  
 | oomp_key | oomp_descampsa_leds_led_ws2812b_plcc4 |  
 | oomp_key_full | oomp_footprint_descampsa_leds_led_ws2812b_plcc4 |  
 | oomp_key_simple | descampsa_leds_led_ws2812b_plcc4 |  

@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://github.com/devbisme/RPi_Hat.pretty  
 The original footprint can be found at:
-http://github.com/devbisme/RPi_Hat.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Samtec_HLE-120-02-XXX-DV-BE-XX-XX.kicad_mod
+http://github.com/devbisme/RPi_Hat.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/Samtec_HLE-120-02-XXX-DV-BE-XX-XX.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: Through hole pin header  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/RPi_Hat.pretty/Pin_Header_Straight_2x20.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/RPi_Hat.pretty/Pin_Header_Straight_2x20.kicad_mod |  
 | footprint | {'description': 'Through hole pin header', 'libraryLink': 'Pin_Header_Straight_2x20', 'number_of_pads': 40} |  
 | footprint_library_directory | footprint_library_owner/devbisme_RPi_Hat.pretty |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/devbisme_rpi_hat_pin_header_straight_2x20/working |  
-| github_path | http://github.com/devbisme/RPi_Hat.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Pin_Header_Straight_2x20.kicad_mod |  
-| links | {'github_owner': 'devbisme', 'github_repo_name': 'RPi_Hat.pretty', 'github_src': 'http://github.com/devbisme/RPi_Hat.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Samtec_HLE-120-02-XXX-DV-BE-XX-XX.kicad_mod', 'github_src_repo': 'https://github.com/devbisme/RPi_Hat.pretty', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/devbisme_rpi_hat_pin_header_straight_2x20/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/devbisme_rpi_hat_pin_header_straight_2x20/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/devbisme_rpi_hat_pin_header_straight_2x20/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/devbisme_rpi_hat_pin_header_straight_2x20/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/devbisme_rpi_hat_pin_header_straight_2x20/working |  
+| github_path | http://github.com/devbisme/RPi_Hat.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/Pin_Header_Straight_2x20.kicad_mod |  
+| links | {'github_owner': 'devbisme', 'github_repo_name': 'RPi_Hat.pretty', 'github_src': 'http://github.com/devbisme/RPi_Hat.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/Samtec_HLE-120-02-XXX-DV-BE-XX-XX.kicad_mod', 'github_src_repo': 'https://github.com/devbisme/RPi_Hat.pretty', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/devbisme_rpi_hat_pin_header_straight_2x20/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/devbisme_rpi_hat_pin_header_straight_2x20/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/devbisme_rpi_hat_pin_header_straight_2x20/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/devbisme_rpi_hat_pin_header_straight_2x20/working'} |  
 | name | RPi_Hat.pretty |  
-| oomp | {'footprint_name': 'pin_header_straight_2x20', 'library_name': 'rpi_hat', 'md5': '620ada9b1f0183f1ca0e6aabb8970f51', 'md5_10': '620ada9b1f', 'md5_5': '620ad', 'md5_6': '620ada', 'oomp_key': 'oomp_devbisme_rpi_hat_pin_header_straight_2x20', 'oomp_key_extra': 'oomp_footprint_devbisme_rpi_hat_pin_header_straight_2x20', 'oomp_key_full': 'oomp_footprint_devbisme_rpi_hat_pin_header_straight_2x20_620ada', 'oomp_key_simple': 'devbisme_rpi_hat_pin_header_straight_2x20', 'original_filename': 'data//oomlout_oomp_footprint_src/RPi_Hat.pretty/Pin_Header_Straight_2x20.kicad_mod', 'owner_name': 'devbisme'} |  
+| oomp | {'footprint_name': 'pin_header_straight_2x20', 'library_name': 'rpi_hat', 'md5': '620ada9b1f0183f1ca0e6aabb8970f51', 'md5_10': '620ada9b1f', 'md5_5': '620ad', 'md5_6': '620ada', 'oomp_key': 'oomp_devbisme_rpi_hat_pin_header_straight_2x20', 'oomp_key_extra': 'oomp_footprint_devbisme_rpi_hat_pin_header_straight_2x20', 'oomp_key_full': 'oomp_footprint_devbisme_rpi_hat_pin_header_straight_2x20_620ada', 'oomp_key_simple': 'devbisme_rpi_hat_pin_header_straight_2x20', 'original_filename': 'data/oomlout_oomp_footprint_src/RPi_Hat.pretty/Pin_Header_Straight_2x20.kicad_mod', 'owner_name': 'devbisme'} |  
 | oomp_key | oomp_devbisme_rpi_hat_pin_header_straight_2x20 |  
 | oomp_key_full | oomp_footprint_devbisme_rpi_hat_pin_header_straight_2x20 |  
 | oomp_key_simple | devbisme_rpi_hat_pin_header_straight_2x20 |  

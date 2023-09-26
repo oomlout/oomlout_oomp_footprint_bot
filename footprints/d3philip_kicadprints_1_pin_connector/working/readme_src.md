@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://github.com/blackb3ar/kicadprints.pretty  
 The original footprint can be found at:
-http://github.com/d3philip/kicadprints.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/TestPad.kicad_mod
+http://github.com/d3philip/kicadprints.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/TestPad.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: None  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/kicadprints.pretty/1_PIN_CONNECTOR.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/kicadprints.pretty/1_PIN_CONNECTOR.kicad_mod |  
 | footprint | {'description': None, 'libraryLink': '1_PIN_CONNECTOR', 'number_of_pads': 1} |  
 | footprint_library_directory | footprint_library_owner/d3philip_kicadprints.pretty |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/d3philip_kicadprints_1_pin_connector/working |  
-| github_path | http://github.com/d3philip/kicadprints.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/1_PIN_CONNECTOR.kicad_mod |  
-| links | {'github_owner': 'blackb3ar', 'github_repo_name': 'kicadprints.pretty', 'github_src': 'http://github.com/d3philip/kicadprints.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/TestPad.kicad_mod', 'github_src_repo': 'https://github.com/blackb3ar/kicadprints.pretty', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/d3philip_kicadprints_1_pin_connector/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/d3philip_kicadprints_1_pin_connector/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/d3philip_kicadprints_1_pin_connector/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/d3philip_kicadprints_1_pin_connector/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/d3philip_kicadprints_1_pin_connector/working |  
+| github_path | http://github.com/d3philip/kicadprints.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/1_PIN_CONNECTOR.kicad_mod |  
+| links | {'github_owner': 'blackb3ar', 'github_repo_name': 'kicadprints.pretty', 'github_src': 'http://github.com/d3philip/kicadprints.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/TestPad.kicad_mod', 'github_src_repo': 'https://github.com/blackb3ar/kicadprints.pretty', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/d3philip_kicadprints_1_pin_connector/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/d3philip_kicadprints_1_pin_connector/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/d3philip_kicadprints_1_pin_connector/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/d3philip_kicadprints_1_pin_connector/working'} |  
 | name | kicadprints.pretty |  
-| oomp | {'footprint_name': '1_pin_connector', 'library_name': 'kicadprints', 'md5': 'd6221200c0cdddefdc2e89debd240f08', 'md5_10': 'd6221200c0', 'md5_5': 'd6221', 'md5_6': 'd62212', 'oomp_key': 'oomp_d3philip_kicadprints_1_pin_connector', 'oomp_key_extra': 'oomp_footprint_d3philip_kicadprints_1_pin_connector', 'oomp_key_full': 'oomp_footprint_d3philip_kicadprints_1_pin_connector_d62212', 'oomp_key_simple': 'd3philip_kicadprints_1_pin_connector', 'original_filename': 'data//oomlout_oomp_footprint_src/kicadprints.pretty/1_PIN_CONNECTOR.kicad_mod', 'owner_name': 'blackb3ar'} |  
+| oomp | {'footprint_name': '1_pin_connector', 'library_name': 'kicadprints', 'md5': 'd6221200c0cdddefdc2e89debd240f08', 'md5_10': 'd6221200c0', 'md5_5': 'd6221', 'md5_6': 'd62212', 'oomp_key': 'oomp_d3philip_kicadprints_1_pin_connector', 'oomp_key_extra': 'oomp_footprint_d3philip_kicadprints_1_pin_connector', 'oomp_key_full': 'oomp_footprint_d3philip_kicadprints_1_pin_connector_d62212', 'oomp_key_simple': 'd3philip_kicadprints_1_pin_connector', 'original_filename': 'data/oomlout_oomp_footprint_src/kicadprints.pretty/1_PIN_CONNECTOR.kicad_mod', 'owner_name': 'blackb3ar'} |  
 | oomp_key | oomp_d3philip_kicadprints_1_pin_connector |  
 | oomp_key_full | oomp_footprint_d3philip_kicadprints_1_pin_connector |  
 | oomp_key_simple | d3philip_kicadprints_1_pin_connector |  

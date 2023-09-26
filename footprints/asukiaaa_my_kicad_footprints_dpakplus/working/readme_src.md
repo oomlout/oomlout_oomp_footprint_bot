@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://gitlab.com/kicad/libraries/kicad-footprints  
 The original footprint can be found at:
-http://gitlab.com/asukiaaa/my-kicad-footprints.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/WQFN48-0707.kicad_mod
+http://gitlab.com/asukiaaa/my-kicad-footprints.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/WQFN48-0707.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: https://toshiba.semicon-storage.com/jp/semiconductor/design-development/package/detail.DPAK_plus.html  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/my-kicad-footprints.pretty/DPAKplus.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/my-kicad-footprints.pretty/DPAKplus.kicad_mod |  
 | footprint | {'description': 'https://toshiba.semicon-storage.com/jp/semiconductor/design-development/package/detail.DPAK_plus.html', 'libraryLink': 'DPAKplus', 'number_of_pads': 3} |  
 | footprint_library_directory | footprint_library_owner/asukiaaa_my-kicad-footprints.pretty |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/asukiaaa_my_kicad_footprints_dpakplus/working |  
-| github_path | http://github.com/asukiaaa/my-kicad-footprints.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/DPAKplus.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/asukiaaa/my-kicad-footprints.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/WQFN48-0707.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/asukiaaa_my_kicad_footprints_dpakplus/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/asukiaaa_my_kicad_footprints_dpakplus/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/asukiaaa_my_kicad_footprints_dpakplus/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/asukiaaa_my_kicad_footprints_dpakplus/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/asukiaaa_my_kicad_footprints_dpakplus/working |  
+| github_path | http://github.com/asukiaaa/my-kicad-footprints.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/DPAKplus.kicad_mod |  
+| links | {'github_src': 'http://gitlab.com/asukiaaa/my-kicad-footprints.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/WQFN48-0707.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/asukiaaa_my_kicad_footprints_dpakplus/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/asukiaaa_my_kicad_footprints_dpakplus/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/asukiaaa_my_kicad_footprints_dpakplus/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/asukiaaa_my_kicad_footprints_dpakplus/working'} |  
 | name | my-kicad-footprints.pretty |  
-| oomp | {'footprint_name': 'dpakplus', 'library_name': 'my_kicad_footprints', 'md5': '165dc2d76e4b0c9f4c844e9df0df5a5b', 'md5_10': '165dc2d76e', 'md5_5': '165dc', 'md5_6': '165dc2', 'oomp_key': 'oomp_asukiaaa_my_kicad_footprints_dpakplus', 'oomp_key_extra': 'oomp_footprint_asukiaaa_my_kicad_footprints_dpakplus', 'oomp_key_full': 'oomp_footprint_asukiaaa_my_kicad_footprints_dpakplus_165dc2', 'oomp_key_simple': 'asukiaaa_my_kicad_footprints_dpakplus', 'original_filename': 'data//oomlout_oomp_footprint_src/my-kicad-footprints.pretty/DPAKplus.kicad_mod', 'owner_name': 'asukiaaa'} |  
+| oomp | {'footprint_name': 'dpakplus', 'library_name': 'my_kicad_footprints', 'md5': '165dc2d76e4b0c9f4c844e9df0df5a5b', 'md5_10': '165dc2d76e', 'md5_5': '165dc', 'md5_6': '165dc2', 'oomp_key': 'oomp_asukiaaa_my_kicad_footprints_dpakplus', 'oomp_key_extra': 'oomp_footprint_asukiaaa_my_kicad_footprints_dpakplus', 'oomp_key_full': 'oomp_footprint_asukiaaa_my_kicad_footprints_dpakplus_165dc2', 'oomp_key_simple': 'asukiaaa_my_kicad_footprints_dpakplus', 'original_filename': 'data/oomlout_oomp_footprint_src/my-kicad-footprints.pretty/DPAKplus.kicad_mod', 'owner_name': 'asukiaaa'} |  
 | oomp_key | oomp_asukiaaa_my_kicad_footprints_dpakplus |  
 | oomp_key_full | oomp_footprint_asukiaaa_my_kicad_footprints_dpakplus |  
 | oomp_key_simple | asukiaaa_my_kicad_footprints_dpakplus |  

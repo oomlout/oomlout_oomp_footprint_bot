@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://github.com/coredump-ch/particle.pretty  
 The original footprint can be found at:
-http://github.com/coredump-ch/particle.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/spark.kicad_mod
+http://github.com/coredump-ch/particle.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/spark.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: None  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/particle.pretty/electron.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/particle.pretty/electron.kicad_mod |  
 | footprint | {'description': None, 'libraryLink': 'electron', 'number_of_pads': 36} |  
 | footprint_library_directory | footprint_library_owner/coredump-ch_particle.pretty |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/coredump_ch_particle_electron/working |  
-| github_path | http://github.com/coredump-ch/particle.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/electron.kicad_mod |  
-| links | {'github_owner': 'coredump-ch', 'github_repo_name': 'particle.pretty', 'github_src': 'http://github.com/coredump-ch/particle.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/spark.kicad_mod', 'github_src_repo': 'https://github.com/coredump-ch/particle.pretty', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/coredump_ch_particle_electron/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/coredump_ch_particle_electron/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/coredump_ch_particle_electron/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/coredump_ch_particle_electron/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/coredump_ch_particle_electron/working |  
+| github_path | http://github.com/coredump-ch/particle.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/electron.kicad_mod |  
+| links | {'github_owner': 'coredump-ch', 'github_repo_name': 'particle.pretty', 'github_src': 'http://github.com/coredump-ch/particle.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/spark.kicad_mod', 'github_src_repo': 'https://github.com/coredump-ch/particle.pretty', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/coredump_ch_particle_electron/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/coredump_ch_particle_electron/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/coredump_ch_particle_electron/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/coredump_ch_particle_electron/working'} |  
 | name | particle.pretty |  
-| oomp | {'footprint_name': 'electron', 'library_name': 'particle', 'md5': '9b5f490eba8907c4a2b8e3d2c9a718f3', 'md5_10': '9b5f490eba', 'md5_5': '9b5f4', 'md5_6': '9b5f49', 'oomp_key': 'oomp_coredump_ch_particle_electron', 'oomp_key_extra': 'oomp_footprint_coredump_ch_particle_electron', 'oomp_key_full': 'oomp_footprint_coredump_ch_particle_electron_9b5f49', 'oomp_key_simple': 'coredump_ch_particle_electron', 'original_filename': 'data//oomlout_oomp_footprint_src/particle.pretty/electron.kicad_mod', 'owner_name': 'coredump_ch'} |  
+| oomp | {'footprint_name': 'electron', 'library_name': 'particle', 'md5': '9b5f490eba8907c4a2b8e3d2c9a718f3', 'md5_10': '9b5f490eba', 'md5_5': '9b5f4', 'md5_6': '9b5f49', 'oomp_key': 'oomp_coredump_ch_particle_electron', 'oomp_key_extra': 'oomp_footprint_coredump_ch_particle_electron', 'oomp_key_full': 'oomp_footprint_coredump_ch_particle_electron_9b5f49', 'oomp_key_simple': 'coredump_ch_particle_electron', 'original_filename': 'data/oomlout_oomp_footprint_src/particle.pretty/electron.kicad_mod', 'owner_name': 'coredump_ch'} |  
 | oomp_key | oomp_coredump_ch_particle_electron |  
 | oomp_key_full | oomp_footprint_coredump_ch_particle_electron |  
 | oomp_key_simple | coredump_ch_particle_electron |  

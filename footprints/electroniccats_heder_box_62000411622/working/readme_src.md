@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://gitlab.com/kicad/libraries/kicad-footprints  
 The original footprint can be found at:
-http://gitlab.com/ElectronicCats/ComponentLibrariesKicadWurthElektronik/blob/master/tmp/data//oomlout_oomp_footprint_src/WIRE-TO-BOARD(rev17b)/heder box.pretty/690207102672.kicad_mod
+http://gitlab.com/ElectronicCats/ComponentLibrariesKicadWurthElektronik/blob/master/tmp/data/oomlout_oomp_footprint_src/WIRE-TO-BOARD(rev17b)/heder box.pretty/690207102672.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: WR-WTB 2.00mm Male Vertical Shrouded Header, 4 Pins  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/ComponentLibrariesKicadWurthElektronik/WIRE-TO-BOARD(rev17b)/heder box.pretty/62000411622.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/ComponentLibrariesKicadWurthElektronik/WIRE-TO-BOARD(rev17b)/heder box.pretty/62000411622.kicad_mod |  
 | footprint | {'description': 'WR-WTB 2.00mm Male Vertical Shrouded Header, 4 Pins', 'libraryLink': '62000411622', 'number_of_pads': 4} |  
 | footprint_library_directory | footprint_library_owner/ElectronicCats_ComponentLibrariesKicadWurthElektronik |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/electroniccats_heder_box_62000411622/working |  
-| github_path | http://github.com/ElectronicCats/ComponentLibrariesKicadWurthElektronik/blob/master/tmp/data//oomlout_oomp_footprint_src/WIRE-TO-BOARD(rev17b)/heder box.pretty/62000411622.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/ElectronicCats/ComponentLibrariesKicadWurthElektronik/blob/master/tmp/data//oomlout_oomp_footprint_src/WIRE-TO-BOARD(rev17b)/heder box.pretty/690207102672.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/electroniccats_heder_box_62000411622/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/electroniccats_heder_box_62000411622/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/electroniccats_heder_box_62000411622/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/electroniccats_heder_box_62000411622/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/electroniccats_heder_box_62000411622/working |  
+| github_path | http://github.com/ElectronicCats/ComponentLibrariesKicadWurthElektronik/blob/master/tmp/data/oomlout_oomp_footprint_src/WIRE-TO-BOARD(rev17b)/heder box.pretty/62000411622.kicad_mod |  
+| links | {'github_src': 'http://gitlab.com/ElectronicCats/ComponentLibrariesKicadWurthElektronik/blob/master/tmp/data/oomlout_oomp_footprint_src/WIRE-TO-BOARD(rev17b)/heder box.pretty/690207102672.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/electroniccats_heder_box_62000411622/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/electroniccats_heder_box_62000411622/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/electroniccats_heder_box_62000411622/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/electroniccats_heder_box_62000411622/working'} |  
 | name | ComponentLibrariesKicadWurthElektronik |  
-| oomp | {'footprint_name': '62000411622', 'library_name': 'heder_box', 'md5': '7c6d4b06a1ec4c682b83d1591f83f76e', 'md5_10': '7c6d4b06a1', 'md5_5': '7c6d4', 'md5_6': '7c6d4b', 'oomp_key': 'oomp_electroniccats_heder_box_62000411622', 'oomp_key_extra': 'oomp_footprint_electroniccats_heder_box_62000411622', 'oomp_key_full': 'oomp_footprint_electroniccats_heder_box_62000411622_7c6d4b', 'oomp_key_simple': 'electroniccats_heder_box_62000411622', 'original_filename': 'data//oomlout_oomp_footprint_src/ComponentLibrariesKicadWurthElektronik/WIRE-TO-BOARD(rev17b)/heder box.pretty/62000411622.kicad_mod', 'owner_name': 'electroniccats'} |  
+| oomp | {'footprint_name': '62000411622', 'library_name': 'heder_box', 'md5': '7c6d4b06a1ec4c682b83d1591f83f76e', 'md5_10': '7c6d4b06a1', 'md5_5': '7c6d4', 'md5_6': '7c6d4b', 'oomp_key': 'oomp_electroniccats_heder_box_62000411622', 'oomp_key_extra': 'oomp_footprint_electroniccats_heder_box_62000411622', 'oomp_key_full': 'oomp_footprint_electroniccats_heder_box_62000411622_7c6d4b', 'oomp_key_simple': 'electroniccats_heder_box_62000411622', 'original_filename': 'data/oomlout_oomp_footprint_src/ComponentLibrariesKicadWurthElektronik/WIRE-TO-BOARD(rev17b)/heder box.pretty/62000411622.kicad_mod', 'owner_name': 'electroniccats'} |  
 | oomp_key | oomp_electroniccats_heder_box_62000411622 |  
 | oomp_key_full | oomp_footprint_electroniccats_heder_box_62000411622 |  
 | oomp_key_simple | electroniccats_heder_box_62000411622 |  

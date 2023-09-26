@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://github.com/Hecatron-Cad/Hecatron.Kicad.Libs  
 The original footprint can be found at:
-http://github.com/ASoftTech/CAD.KiCad.Libs/blob/master/tmp/data//oomlout_oomp_footprint_src/modules/w_switch.pretty/switch_mmp122-r.kicad_mod
+http://github.com/ASoftTech/CAD.KiCad.Libs/blob/master/tmp/data/oomlout_oomp_footprint_src/modules/w_switch.pretty/switch_mmp122-r.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: Dip switch, DIL16 x 0,3"  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/CAD.KiCad.Libs/modules/w_switch.pretty/dip_8-300.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/CAD.KiCad.Libs/modules/w_switch.pretty/dip_8-300.kicad_mod |  
 | footprint | {'description': 'Dip switch, DIL16 x 0,3"', 'libraryLink': 'dip_8-300', 'number_of_pads': 16} |  
 | footprint_library_directory | footprint_library_owner/ASoftTech_CAD.KiCad.Libs |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/hecatron_cad_w_switch_dip_8_300/working |  
-| github_path | http://github.com/ASoftTech/CAD.KiCad.Libs/blob/master/tmp/data//oomlout_oomp_footprint_src/modules/w_switch.pretty/dip_8-300.kicad_mod |  
-| links | {'github_owner': 'Hecatron-Cad', 'github_repo_name': 'Hecatron.Kicad.Libs', 'github_src': 'http://github.com/ASoftTech/CAD.KiCad.Libs/blob/master/tmp/data//oomlout_oomp_footprint_src/modules/w_switch.pretty/switch_mmp122-r.kicad_mod', 'github_src_repo': 'https://github.com/Hecatron-Cad/Hecatron.Kicad.Libs', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/hecatron_cad_w_switch_dip_8_300/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/hecatron_cad_w_switch_dip_8_300/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/hecatron_cad_w_switch_dip_8_300/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/hecatron_cad_w_switch_dip_8_300/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/hecatron_cad_w_switch_dip_8_300/working |  
+| github_path | http://github.com/ASoftTech/CAD.KiCad.Libs/blob/master/tmp/data/oomlout_oomp_footprint_src/modules/w_switch.pretty/dip_8-300.kicad_mod |  
+| links | {'github_owner': 'Hecatron-Cad', 'github_repo_name': 'Hecatron.Kicad.Libs', 'github_src': 'http://github.com/ASoftTech/CAD.KiCad.Libs/blob/master/tmp/data/oomlout_oomp_footprint_src/modules/w_switch.pretty/switch_mmp122-r.kicad_mod', 'github_src_repo': 'https://github.com/Hecatron-Cad/Hecatron.Kicad.Libs', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/hecatron_cad_w_switch_dip_8_300/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/hecatron_cad_w_switch_dip_8_300/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/hecatron_cad_w_switch_dip_8_300/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/hecatron_cad_w_switch_dip_8_300/working'} |  
 | name | CAD.KiCad.Libs |  
-| oomp | {'footprint_name': 'dip_8_300', 'library_name': 'w_switch', 'md5': '7cc7ccbd5b0f6a9f77ad2418a057ee80', 'md5_10': '7cc7ccbd5b', 'md5_5': '7cc7c', 'md5_6': '7cc7cc', 'oomp_key': 'oomp_hecatron_cad_w_switch_dip_8_300', 'oomp_key_extra': 'oomp_footprint_hecatron_cad_w_switch_dip_8_300', 'oomp_key_full': 'oomp_footprint_hecatron_cad_w_switch_dip_8_300_7cc7cc', 'oomp_key_simple': 'hecatron_cad_w_switch_dip_8_300', 'original_filename': 'data//oomlout_oomp_footprint_src/CAD.KiCad.Libs/modules/w_switch.pretty/dip_8-300.kicad_mod', 'owner_name': 'hecatron_cad'} |  
+| oomp | {'footprint_name': 'dip_8_300', 'library_name': 'w_switch', 'md5': '7cc7ccbd5b0f6a9f77ad2418a057ee80', 'md5_10': '7cc7ccbd5b', 'md5_5': '7cc7c', 'md5_6': '7cc7cc', 'oomp_key': 'oomp_hecatron_cad_w_switch_dip_8_300', 'oomp_key_extra': 'oomp_footprint_hecatron_cad_w_switch_dip_8_300', 'oomp_key_full': 'oomp_footprint_hecatron_cad_w_switch_dip_8_300_7cc7cc', 'oomp_key_simple': 'hecatron_cad_w_switch_dip_8_300', 'original_filename': 'data/oomlout_oomp_footprint_src/CAD.KiCad.Libs/modules/w_switch.pretty/dip_8-300.kicad_mod', 'owner_name': 'hecatron_cad'} |  
 | oomp_key | oomp_hecatron_cad_w_switch_dip_8_300 |  
 | oomp_key_full | oomp_footprint_hecatron_cad_w_switch_dip_8_300 |  
 | oomp_key_simple | hecatron_cad_w_switch_dip_8_300 |  

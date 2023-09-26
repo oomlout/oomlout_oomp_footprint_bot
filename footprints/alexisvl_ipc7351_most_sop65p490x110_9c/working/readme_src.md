@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://github.com/alexisvl/kicad-pcblib  
 The original footprint can be found at:
-http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data//oomlout_oomp_footprint_src/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod
+http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data/oomlout_oomp_footprint_src/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: SOP,0.65mm pitch;8 pin,3.05mm W X 3.05mm L X 1.10mm H body (w/thermal tab)  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/kicad-pcblib/IPC7351-Most.pretty/SOP65P490X110-9C.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/kicad-pcblib/IPC7351-Most.pretty/SOP65P490X110-9C.kicad_mod |  
 | footprint | {'description': 'SOP,0.65mm pitch;8 pin,3.05mm W X 3.05mm L X 1.10mm H body (w/thermal tab)', 'libraryLink': 'SOP65P490X110-9C', 'number_of_pads': 9} |  
 | footprint_library_directory | footprint_library_owner/cpavlina_kicad-pcblib |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/alexisvl_ipc7351_most_sop65p490x110_9c/working |  
-| github_path | http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data//oomlout_oomp_footprint_src/IPC7351-Most.pretty/SOP65P490X110-9C.kicad_mod |  
-| links | {'github_owner': 'alexisvl', 'github_repo_name': 'kicad-pcblib', 'github_src': 'http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data//oomlout_oomp_footprint_src/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod', 'github_src_repo': 'https://github.com/alexisvl/kicad-pcblib', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/alexisvl_ipc7351_most_sop65p490x110_9c/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/alexisvl_ipc7351_most_sop65p490x110_9c/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/alexisvl_ipc7351_most_sop65p490x110_9c/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/alexisvl_ipc7351_most_sop65p490x110_9c/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/alexisvl_ipc7351_most_sop65p490x110_9c/working |  
+| github_path | http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data/oomlout_oomp_footprint_src/IPC7351-Most.pretty/SOP65P490X110-9C.kicad_mod |  
+| links | {'github_owner': 'alexisvl', 'github_repo_name': 'kicad-pcblib', 'github_src': 'http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data/oomlout_oomp_footprint_src/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod', 'github_src_repo': 'https://github.com/alexisvl/kicad-pcblib', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/alexisvl_ipc7351_most_sop65p490x110_9c/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/alexisvl_ipc7351_most_sop65p490x110_9c/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/alexisvl_ipc7351_most_sop65p490x110_9c/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/alexisvl_ipc7351_most_sop65p490x110_9c/working'} |  
 | name | kicad-pcblib |  
-| oomp | {'footprint_name': 'sop65p490x110_9c', 'library_name': 'ipc7351_most', 'md5': 'fc09fb9e3624b8923be04d084559f657', 'md5_10': 'fc09fb9e36', 'md5_5': 'fc09f', 'md5_6': 'fc09fb', 'oomp_key': 'oomp_alexisvl_ipc7351_most_sop65p490x110_9c', 'oomp_key_extra': 'oomp_footprint_alexisvl_ipc7351_most_sop65p490x110_9c', 'oomp_key_full': 'oomp_footprint_alexisvl_ipc7351_most_sop65p490x110_9c_fc09fb', 'oomp_key_simple': 'alexisvl_ipc7351_most_sop65p490x110_9c', 'original_filename': 'data//oomlout_oomp_footprint_src/kicad-pcblib/IPC7351-Most.pretty/SOP65P490X110-9C.kicad_mod', 'owner_name': 'alexisvl'} |  
+| oomp | {'footprint_name': 'sop65p490x110_9c', 'library_name': 'ipc7351_most', 'md5': 'fc09fb9e3624b8923be04d084559f657', 'md5_10': 'fc09fb9e36', 'md5_5': 'fc09f', 'md5_6': 'fc09fb', 'oomp_key': 'oomp_alexisvl_ipc7351_most_sop65p490x110_9c', 'oomp_key_extra': 'oomp_footprint_alexisvl_ipc7351_most_sop65p490x110_9c', 'oomp_key_full': 'oomp_footprint_alexisvl_ipc7351_most_sop65p490x110_9c_fc09fb', 'oomp_key_simple': 'alexisvl_ipc7351_most_sop65p490x110_9c', 'original_filename': 'data/oomlout_oomp_footprint_src/kicad-pcblib/IPC7351-Most.pretty/SOP65P490X110-9C.kicad_mod', 'owner_name': 'alexisvl'} |  
 | oomp_key | oomp_alexisvl_ipc7351_most_sop65p490x110_9c |  
 | oomp_key_full | oomp_footprint_alexisvl_ipc7351_most_sop65p490x110_9c |  
 | oomp_key_simple | alexisvl_ipc7351_most_sop65p490x110_9c |  

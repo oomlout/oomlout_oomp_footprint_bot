@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://github.com/cosmikwolf/Zetaohm.pretty  
 The original footprint can be found at:
-http://github.com/cosmikwolf/Zetaohm.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Via.kicad_mod
+http://github.com/cosmikwolf/Zetaohm.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/Via.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: None  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/Zetaohm.pretty/SolderMaskT.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/Zetaohm.pretty/SolderMaskT.kicad_mod |  
 | footprint | {'description': None, 'libraryLink': 'LOGO', 'number_of_pads': 0} |  
 | footprint_library_directory | footprint_library_owner/cosmikwolf_Zetaohm.pretty |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/cosmikwolf_zetaohm_soldermaskt/working |  
-| github_path | http://github.com/cosmikwolf/Zetaohm.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/SolderMaskT.kicad_mod |  
-| links | {'github_owner': 'cosmikwolf', 'github_repo_name': 'Zetaohm.pretty', 'github_src': 'http://github.com/cosmikwolf/Zetaohm.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Via.kicad_mod', 'github_src_repo': 'https://github.com/cosmikwolf/Zetaohm.pretty', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/cosmikwolf_zetaohm_soldermaskt/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/cosmikwolf_zetaohm_soldermaskt/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/cosmikwolf_zetaohm_soldermaskt/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/cosmikwolf_zetaohm_soldermaskt/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/cosmikwolf_zetaohm_soldermaskt/working |  
+| github_path | http://github.com/cosmikwolf/Zetaohm.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/SolderMaskT.kicad_mod |  
+| links | {'github_owner': 'cosmikwolf', 'github_repo_name': 'Zetaohm.pretty', 'github_src': 'http://github.com/cosmikwolf/Zetaohm.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/Via.kicad_mod', 'github_src_repo': 'https://github.com/cosmikwolf/Zetaohm.pretty', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/cosmikwolf_zetaohm_soldermaskt/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/cosmikwolf_zetaohm_soldermaskt/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/cosmikwolf_zetaohm_soldermaskt/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/cosmikwolf_zetaohm_soldermaskt/working'} |  
 | name | Zetaohm.pretty |  
-| oomp | {'footprint_name': 'soldermaskt', 'library_name': 'zetaohm', 'md5': '994fb46bbe90b83dabc08a9bc0a0e521', 'md5_10': '994fb46bbe', 'md5_5': '994fb', 'md5_6': '994fb4', 'oomp_key': 'oomp_cosmikwolf_zetaohm_soldermaskt', 'oomp_key_extra': 'oomp_footprint_cosmikwolf_zetaohm_soldermaskt', 'oomp_key_full': 'oomp_footprint_cosmikwolf_zetaohm_soldermaskt_994fb4', 'oomp_key_simple': 'cosmikwolf_zetaohm_soldermaskt', 'original_filename': 'data//oomlout_oomp_footprint_src/Zetaohm.pretty/SolderMaskT.kicad_mod', 'owner_name': 'cosmikwolf'} |  
+| oomp | {'footprint_name': 'soldermaskt', 'library_name': 'zetaohm', 'md5': '994fb46bbe90b83dabc08a9bc0a0e521', 'md5_10': '994fb46bbe', 'md5_5': '994fb', 'md5_6': '994fb4', 'oomp_key': 'oomp_cosmikwolf_zetaohm_soldermaskt', 'oomp_key_extra': 'oomp_footprint_cosmikwolf_zetaohm_soldermaskt', 'oomp_key_full': 'oomp_footprint_cosmikwolf_zetaohm_soldermaskt_994fb4', 'oomp_key_simple': 'cosmikwolf_zetaohm_soldermaskt', 'original_filename': 'data/oomlout_oomp_footprint_src/Zetaohm.pretty/SolderMaskT.kicad_mod', 'owner_name': 'cosmikwolf'} |  
 | oomp_key | oomp_cosmikwolf_zetaohm_soldermaskt |  
 | oomp_key_full | oomp_footprint_cosmikwolf_zetaohm_soldermaskt |  
 | oomp_key_simple | cosmikwolf_zetaohm_soldermaskt |  

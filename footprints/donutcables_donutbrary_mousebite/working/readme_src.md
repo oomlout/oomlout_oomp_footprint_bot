@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://github.com/DonutCables/donutbrary.pretty  
 The original footprint can be found at:
-http://github.com/DonutCables/donutbrary.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XIAO QTPY RP2040.kicad_mod
+http://github.com/DonutCables/donutbrary.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/XIAO QTPY RP2040.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: Breakaway mousebites, .5mm on 1mm grid  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/donutbrary.pretty/Mousebite.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/donutbrary.pretty/Mousebite.kicad_mod |  
 | footprint | {'description': 'Breakaway mousebites, .5mm on 1mm grid', 'libraryLink': 'Mousebite', 'number_of_pads': 5} |  
 | footprint_library_directory | footprint_library_owner/DonutCables_donutbrary.pretty |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/donutcables_donutbrary_mousebite/working |  
-| github_path | http://github.com/DonutCables/donutbrary.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Mousebite.kicad_mod |  
-| links | {'github_owner': 'DonutCables', 'github_repo_name': 'donutbrary.pretty', 'github_src': 'http://github.com/DonutCables/donutbrary.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XIAO QTPY RP2040.kicad_mod', 'github_src_repo': 'https://github.com/DonutCables/donutbrary.pretty', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/donutcables_donutbrary_mousebite/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/donutcables_donutbrary_mousebite/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/donutcables_donutbrary_mousebite/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/donutcables_donutbrary_mousebite/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/donutcables_donutbrary_mousebite/working |  
+| github_path | http://github.com/DonutCables/donutbrary.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/Mousebite.kicad_mod |  
+| links | {'github_owner': 'DonutCables', 'github_repo_name': 'donutbrary.pretty', 'github_src': 'http://github.com/DonutCables/donutbrary.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/XIAO QTPY RP2040.kicad_mod', 'github_src_repo': 'https://github.com/DonutCables/donutbrary.pretty', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/donutcables_donutbrary_mousebite/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/donutcables_donutbrary_mousebite/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/donutcables_donutbrary_mousebite/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/donutcables_donutbrary_mousebite/working'} |  
 | name | donutbrary.pretty |  
-| oomp | {'footprint_name': 'mousebite', 'library_name': 'donutbrary', 'md5': '74061ab63649a3570d0a42846b9fa953', 'md5_10': '74061ab636', 'md5_5': '74061', 'md5_6': '74061a', 'oomp_key': 'oomp_donutcables_donutbrary_mousebite', 'oomp_key_extra': 'oomp_footprint_donutcables_donutbrary_mousebite', 'oomp_key_full': 'oomp_footprint_donutcables_donutbrary_mousebite_74061a', 'oomp_key_simple': 'donutcables_donutbrary_mousebite', 'original_filename': 'data//oomlout_oomp_footprint_src/donutbrary.pretty/Mousebite.kicad_mod', 'owner_name': 'donutcables'} |  
+| oomp | {'footprint_name': 'mousebite', 'library_name': 'donutbrary', 'md5': '74061ab63649a3570d0a42846b9fa953', 'md5_10': '74061ab636', 'md5_5': '74061', 'md5_6': '74061a', 'oomp_key': 'oomp_donutcables_donutbrary_mousebite', 'oomp_key_extra': 'oomp_footprint_donutcables_donutbrary_mousebite', 'oomp_key_full': 'oomp_footprint_donutcables_donutbrary_mousebite_74061a', 'oomp_key_simple': 'donutcables_donutbrary_mousebite', 'original_filename': 'data/oomlout_oomp_footprint_src/donutbrary.pretty/Mousebite.kicad_mod', 'owner_name': 'donutcables'} |  
 | oomp_key | oomp_donutcables_donutbrary_mousebite |  
 | oomp_key_full | oomp_footprint_donutcables_donutbrary_mousebite |  
 | oomp_key_simple | donutcables_donutbrary_mousebite |  

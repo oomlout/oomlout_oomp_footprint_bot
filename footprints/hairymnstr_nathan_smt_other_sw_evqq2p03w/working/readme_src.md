@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://gitlab.com/kicad/libraries/kicad-footprints  
 The original footprint can be found at:
-http://gitlab.com/hairymnstr/Nathan_SMT_Other.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XTAL_6036.kicad_mod
+http://gitlab.com/hairymnstr/Nathan_SMT_Other.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/XTAL_6036.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: None  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/Nathan_SMT_Other.pretty/SW_EVQQ2P03W.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/Nathan_SMT_Other.pretty/SW_EVQQ2P03W.kicad_mod |  
 | footprint | {'description': None, 'libraryLink': 'SW_EVQQ2P03W', 'number_of_pads': 4} |  
 | footprint_library_directory | footprint_library_owner/hairymnstr_Nathan_SMT_Other.pretty |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/hairymnstr_nathan_smt_other_sw_evqq2p03w/working |  
-| github_path | http://github.com/hairymnstr/Nathan_SMT_Other.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/SW_EVQQ2P03W.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/hairymnstr/Nathan_SMT_Other.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XTAL_6036.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/hairymnstr_nathan_smt_other_sw_evqq2p03w/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/hairymnstr_nathan_smt_other_sw_evqq2p03w/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/hairymnstr_nathan_smt_other_sw_evqq2p03w/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/hairymnstr_nathan_smt_other_sw_evqq2p03w/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/hairymnstr_nathan_smt_other_sw_evqq2p03w/working |  
+| github_path | http://github.com/hairymnstr/Nathan_SMT_Other.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/SW_EVQQ2P03W.kicad_mod |  
+| links | {'github_src': 'http://gitlab.com/hairymnstr/Nathan_SMT_Other.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/XTAL_6036.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/hairymnstr_nathan_smt_other_sw_evqq2p03w/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/hairymnstr_nathan_smt_other_sw_evqq2p03w/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/hairymnstr_nathan_smt_other_sw_evqq2p03w/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/hairymnstr_nathan_smt_other_sw_evqq2p03w/working'} |  
 | name | Nathan_SMT_Other.pretty |  
-| oomp | {'footprint_name': 'sw_evqq2p03w', 'library_name': 'nathan_smt_other', 'md5': 'fd064d33194816c4126ea514ca1c11d0', 'md5_10': 'fd064d3319', 'md5_5': 'fd064', 'md5_6': 'fd064d', 'oomp_key': 'oomp_hairymnstr_nathan_smt_other_sw_evqq2p03w', 'oomp_key_extra': 'oomp_footprint_hairymnstr_nathan_smt_other_sw_evqq2p03w', 'oomp_key_full': 'oomp_footprint_hairymnstr_nathan_smt_other_sw_evqq2p03w_fd064d', 'oomp_key_simple': 'hairymnstr_nathan_smt_other_sw_evqq2p03w', 'original_filename': 'data//oomlout_oomp_footprint_src/Nathan_SMT_Other.pretty/SW_EVQQ2P03W.kicad_mod', 'owner_name': 'hairymnstr'} |  
+| oomp | {'footprint_name': 'sw_evqq2p03w', 'library_name': 'nathan_smt_other', 'md5': 'fd064d33194816c4126ea514ca1c11d0', 'md5_10': 'fd064d3319', 'md5_5': 'fd064', 'md5_6': 'fd064d', 'oomp_key': 'oomp_hairymnstr_nathan_smt_other_sw_evqq2p03w', 'oomp_key_extra': 'oomp_footprint_hairymnstr_nathan_smt_other_sw_evqq2p03w', 'oomp_key_full': 'oomp_footprint_hairymnstr_nathan_smt_other_sw_evqq2p03w_fd064d', 'oomp_key_simple': 'hairymnstr_nathan_smt_other_sw_evqq2p03w', 'original_filename': 'data/oomlout_oomp_footprint_src/Nathan_SMT_Other.pretty/SW_EVQQ2P03W.kicad_mod', 'owner_name': 'hairymnstr'} |  
 | oomp_key | oomp_hairymnstr_nathan_smt_other_sw_evqq2p03w |  
 | oomp_key_full | oomp_footprint_hairymnstr_nathan_smt_other_sw_evqq2p03w |  
 | oomp_key_simple | hairymnstr_nathan_smt_other_sw_evqq2p03w |  

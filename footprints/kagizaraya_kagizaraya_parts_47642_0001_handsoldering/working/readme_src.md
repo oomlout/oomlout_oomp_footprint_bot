@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://github.com/kagizaraya/kagizaraya-parts.pretty  
 The original footprint can be found at:
-http://github.com/ka2hiro/kagizaraya-parts.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/47642-0001_HandSoldering.kicad_mod
+http://github.com/ka2hiro/kagizaraya-parts.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/47642-0001_HandSoldering.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: None  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/kagizaraya-parts.pretty/47642-0001_HandSoldering.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/kagizaraya-parts.pretty/47642-0001_HandSoldering.kicad_mod |  
 | footprint | {'description': None, 'libraryLink': '47642-0001', 'number_of_pads': 9} |  
 | footprint_library_directory | footprint_library_owner/ka2hiro_kagizaraya-parts.pretty |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/kagizaraya_kagizaraya_parts_47642_0001_handsoldering/working |  
-| github_path | http://github.com/ka2hiro/kagizaraya-parts.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/47642-0001_HandSoldering.kicad_mod |  
-| links | {'github_owner': 'kagizaraya', 'github_repo_name': 'kagizaraya-parts.pretty', 'github_src': 'http://github.com/ka2hiro/kagizaraya-parts.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/47642-0001_HandSoldering.kicad_mod', 'github_src_repo': 'https://github.com/kagizaraya/kagizaraya-parts.pretty', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/kagizaraya_kagizaraya_parts_47642_0001_handsoldering/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/kagizaraya_kagizaraya_parts_47642_0001_handsoldering/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/kagizaraya_kagizaraya_parts_47642_0001_handsoldering/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/kagizaraya_kagizaraya_parts_47642_0001_handsoldering/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/kagizaraya_kagizaraya_parts_47642_0001_handsoldering/working |  
+| github_path | http://github.com/ka2hiro/kagizaraya-parts.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/47642-0001_HandSoldering.kicad_mod |  
+| links | {'github_owner': 'kagizaraya', 'github_repo_name': 'kagizaraya-parts.pretty', 'github_src': 'http://github.com/ka2hiro/kagizaraya-parts.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/47642-0001_HandSoldering.kicad_mod', 'github_src_repo': 'https://github.com/kagizaraya/kagizaraya-parts.pretty', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/kagizaraya_kagizaraya_parts_47642_0001_handsoldering/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/kagizaraya_kagizaraya_parts_47642_0001_handsoldering/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/kagizaraya_kagizaraya_parts_47642_0001_handsoldering/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/kagizaraya_kagizaraya_parts_47642_0001_handsoldering/working'} |  
 | name | kagizaraya-parts.pretty |  
-| oomp | {'footprint_name': '47642_0001_handsoldering', 'library_name': 'kagizaraya_parts', 'md5': '38843c00e6c1bed4943744a200293372', 'md5_10': '38843c00e6', 'md5_5': '38843', 'md5_6': '38843c', 'oomp_key': 'oomp_kagizaraya_kagizaraya_parts_47642_0001_handsoldering', 'oomp_key_extra': 'oomp_footprint_kagizaraya_kagizaraya_parts_47642_0001_handsoldering', 'oomp_key_full': 'oomp_footprint_kagizaraya_kagizaraya_parts_47642_0001_handsoldering_38843c', 'oomp_key_simple': 'kagizaraya_kagizaraya_parts_47642_0001_handsoldering', 'original_filename': 'data//oomlout_oomp_footprint_src/kagizaraya-parts.pretty/47642-0001_HandSoldering.kicad_mod', 'owner_name': 'kagizaraya'} |  
+| oomp | {'footprint_name': '47642_0001_handsoldering', 'library_name': 'kagizaraya_parts', 'md5': '38843c00e6c1bed4943744a200293372', 'md5_10': '38843c00e6', 'md5_5': '38843', 'md5_6': '38843c', 'oomp_key': 'oomp_kagizaraya_kagizaraya_parts_47642_0001_handsoldering', 'oomp_key_extra': 'oomp_footprint_kagizaraya_kagizaraya_parts_47642_0001_handsoldering', 'oomp_key_full': 'oomp_footprint_kagizaraya_kagizaraya_parts_47642_0001_handsoldering_38843c', 'oomp_key_simple': 'kagizaraya_kagizaraya_parts_47642_0001_handsoldering', 'original_filename': 'data/oomlout_oomp_footprint_src/kagizaraya-parts.pretty/47642-0001_HandSoldering.kicad_mod', 'owner_name': 'kagizaraya'} |  
 | oomp_key | oomp_kagizaraya_kagizaraya_parts_47642_0001_handsoldering |  
 | oomp_key_full | oomp_footprint_kagizaraya_kagizaraya_parts_47642_0001_handsoldering |  
 | oomp_key_simple | kagizaraya_kagizaraya_parts_47642_0001_handsoldering |  

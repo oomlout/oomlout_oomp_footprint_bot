@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://github.com/daprice/keyboard_accessories.pretty  
 The original footprint can be found at:
-http://github.com/daprice/keyboard_accessories.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/TRRS_Jack_SJ-43514_reversible.kicad_mod
+http://github.com/daprice/keyboard_accessories.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/TRRS_Jack_SJ-43514_reversible.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: SOD-123_2sided  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/keyboard_accessories.pretty/D_SOD-123_2sided_hiddenlabel.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/keyboard_accessories.pretty/D_SOD-123_2sided_hiddenlabel.kicad_mod |  
 | footprint | {'description': 'SOD-123_2sided', 'libraryLink': 'D_SOD-123_2sided_hiddenlabel', 'number_of_pads': 4} |  
 | footprint_library_directory | footprint_library_owner/daprice_keyboard_accessories.pretty |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/daprice_keyboard_accessories_d_sod_123_2sided_hiddenlabel/working |  
-| github_path | http://github.com/daprice/keyboard_accessories.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/D_SOD-123_2sided_hiddenlabel.kicad_mod |  
-| links | {'github_owner': 'daprice', 'github_repo_name': 'keyboard_accessories.pretty', 'github_src': 'http://github.com/daprice/keyboard_accessories.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/TRRS_Jack_SJ-43514_reversible.kicad_mod', 'github_src_repo': 'https://github.com/daprice/keyboard_accessories.pretty', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/daprice_keyboard_accessories_d_sod_123_2sided_hiddenlabel/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/daprice_keyboard_accessories_d_sod_123_2sided_hiddenlabel/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/daprice_keyboard_accessories_d_sod_123_2sided_hiddenlabel/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/daprice_keyboard_accessories_d_sod_123_2sided_hiddenlabel/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/daprice_keyboard_accessories_d_sod_123_2sided_hiddenlabel/working |  
+| github_path | http://github.com/daprice/keyboard_accessories.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/D_SOD-123_2sided_hiddenlabel.kicad_mod |  
+| links | {'github_owner': 'daprice', 'github_repo_name': 'keyboard_accessories.pretty', 'github_src': 'http://github.com/daprice/keyboard_accessories.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/TRRS_Jack_SJ-43514_reversible.kicad_mod', 'github_src_repo': 'https://github.com/daprice/keyboard_accessories.pretty', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/daprice_keyboard_accessories_d_sod_123_2sided_hiddenlabel/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/daprice_keyboard_accessories_d_sod_123_2sided_hiddenlabel/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/daprice_keyboard_accessories_d_sod_123_2sided_hiddenlabel/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/daprice_keyboard_accessories_d_sod_123_2sided_hiddenlabel/working'} |  
 | name | keyboard_accessories.pretty |  
-| oomp | {'footprint_name': 'd_sod_123_2sided_hiddenlabel', 'library_name': 'keyboard_accessories', 'md5': '968eac7c03a0dc5d78d892a994f9c803', 'md5_10': '968eac7c03', 'md5_5': '968ea', 'md5_6': '968eac', 'oomp_key': 'oomp_daprice_keyboard_accessories_d_sod_123_2sided_hiddenlabel', 'oomp_key_extra': 'oomp_footprint_daprice_keyboard_accessories_d_sod_123_2sided_hiddenlabel', 'oomp_key_full': 'oomp_footprint_daprice_keyboard_accessories_d_sod_123_2sided_hiddenlabel_968eac', 'oomp_key_simple': 'daprice_keyboard_accessories_d_sod_123_2sided_hiddenlabel', 'original_filename': 'data//oomlout_oomp_footprint_src/keyboard_accessories.pretty/D_SOD-123_2sided_hiddenlabel.kicad_mod', 'owner_name': 'daprice'} |  
+| oomp | {'footprint_name': 'd_sod_123_2sided_hiddenlabel', 'library_name': 'keyboard_accessories', 'md5': '968eac7c03a0dc5d78d892a994f9c803', 'md5_10': '968eac7c03', 'md5_5': '968ea', 'md5_6': '968eac', 'oomp_key': 'oomp_daprice_keyboard_accessories_d_sod_123_2sided_hiddenlabel', 'oomp_key_extra': 'oomp_footprint_daprice_keyboard_accessories_d_sod_123_2sided_hiddenlabel', 'oomp_key_full': 'oomp_footprint_daprice_keyboard_accessories_d_sod_123_2sided_hiddenlabel_968eac', 'oomp_key_simple': 'daprice_keyboard_accessories_d_sod_123_2sided_hiddenlabel', 'original_filename': 'data/oomlout_oomp_footprint_src/keyboard_accessories.pretty/D_SOD-123_2sided_hiddenlabel.kicad_mod', 'owner_name': 'daprice'} |  
 | oomp_key | oomp_daprice_keyboard_accessories_d_sod_123_2sided_hiddenlabel |  
 | oomp_key_full | oomp_footprint_daprice_keyboard_accessories_d_sod_123_2sided_hiddenlabel |  
 | oomp_key_simple | daprice_keyboard_accessories_d_sod_123_2sided_hiddenlabel |  

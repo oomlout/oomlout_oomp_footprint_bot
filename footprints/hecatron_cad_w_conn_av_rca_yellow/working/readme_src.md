@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://github.com/Hecatron-Cad/Hecatron.Kicad.Libs  
 The original footprint can be found at:
-http://github.com/ASoftTech/CAD.KiCad.Libs/blob/master/tmp/data//oomlout_oomp_footprint_src/modules/w_switch.pretty/switch_mmp122-r.kicad_mod
+http://github.com/ASoftTech/CAD.KiCad.Libs/blob/master/tmp/data/oomlout_oomp_footprint_src/modules/w_switch.pretty/switch_mmp122-r.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: RCA Audio connector, yellow, Pro Signal p/n PSG01547  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/CAD.KiCad.Libs/modules/w_conn_av.pretty/rca_yellow.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/CAD.KiCad.Libs/modules/w_conn_av.pretty/rca_yellow.kicad_mod |  
 | footprint | {'description': 'RCA Audio connector, yellow, Pro Signal p/n PSG01547', 'libraryLink': 'rca_yellow', 'number_of_pads': 3} |  
 | footprint_library_directory | footprint_library_owner/ASoftTech_CAD.KiCad.Libs |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/hecatron_cad_w_conn_av_rca_yellow/working |  
-| github_path | http://github.com/ASoftTech/CAD.KiCad.Libs/blob/master/tmp/data//oomlout_oomp_footprint_src/modules/w_conn_av.pretty/rca_yellow.kicad_mod |  
-| links | {'github_owner': 'Hecatron-Cad', 'github_repo_name': 'Hecatron.Kicad.Libs', 'github_src': 'http://github.com/ASoftTech/CAD.KiCad.Libs/blob/master/tmp/data//oomlout_oomp_footprint_src/modules/w_switch.pretty/switch_mmp122-r.kicad_mod', 'github_src_repo': 'https://github.com/Hecatron-Cad/Hecatron.Kicad.Libs', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/hecatron_cad_w_conn_av_rca_yellow/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/hecatron_cad_w_conn_av_rca_yellow/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/hecatron_cad_w_conn_av_rca_yellow/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/hecatron_cad_w_conn_av_rca_yellow/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/hecatron_cad_w_conn_av_rca_yellow/working |  
+| github_path | http://github.com/ASoftTech/CAD.KiCad.Libs/blob/master/tmp/data/oomlout_oomp_footprint_src/modules/w_conn_av.pretty/rca_yellow.kicad_mod |  
+| links | {'github_owner': 'Hecatron-Cad', 'github_repo_name': 'Hecatron.Kicad.Libs', 'github_src': 'http://github.com/ASoftTech/CAD.KiCad.Libs/blob/master/tmp/data/oomlout_oomp_footprint_src/modules/w_switch.pretty/switch_mmp122-r.kicad_mod', 'github_src_repo': 'https://github.com/Hecatron-Cad/Hecatron.Kicad.Libs', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/hecatron_cad_w_conn_av_rca_yellow/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/hecatron_cad_w_conn_av_rca_yellow/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/hecatron_cad_w_conn_av_rca_yellow/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/hecatron_cad_w_conn_av_rca_yellow/working'} |  
 | name | CAD.KiCad.Libs |  
-| oomp | {'footprint_name': 'rca_yellow', 'library_name': 'w_conn_av', 'md5': '0428cc15a23ce5c9c33d88ee48c0142d', 'md5_10': '0428cc15a2', 'md5_5': '0428c', 'md5_6': '0428cc', 'oomp_key': 'oomp_hecatron_cad_w_conn_av_rca_yellow', 'oomp_key_extra': 'oomp_footprint_hecatron_cad_w_conn_av_rca_yellow', 'oomp_key_full': 'oomp_footprint_hecatron_cad_w_conn_av_rca_yellow_0428cc', 'oomp_key_simple': 'hecatron_cad_w_conn_av_rca_yellow', 'original_filename': 'data//oomlout_oomp_footprint_src/CAD.KiCad.Libs/modules/w_conn_av.pretty/rca_yellow.kicad_mod', 'owner_name': 'hecatron_cad'} |  
+| oomp | {'footprint_name': 'rca_yellow', 'library_name': 'w_conn_av', 'md5': '0428cc15a23ce5c9c33d88ee48c0142d', 'md5_10': '0428cc15a2', 'md5_5': '0428c', 'md5_6': '0428cc', 'oomp_key': 'oomp_hecatron_cad_w_conn_av_rca_yellow', 'oomp_key_extra': 'oomp_footprint_hecatron_cad_w_conn_av_rca_yellow', 'oomp_key_full': 'oomp_footprint_hecatron_cad_w_conn_av_rca_yellow_0428cc', 'oomp_key_simple': 'hecatron_cad_w_conn_av_rca_yellow', 'original_filename': 'data/oomlout_oomp_footprint_src/CAD.KiCad.Libs/modules/w_conn_av.pretty/rca_yellow.kicad_mod', 'owner_name': 'hecatron_cad'} |  
 | oomp_key | oomp_hecatron_cad_w_conn_av_rca_yellow |  
 | oomp_key_full | oomp_footprint_hecatron_cad_w_conn_av_rca_yellow |  
 | oomp_key_simple | hecatron_cad_w_conn_av_rca_yellow |  

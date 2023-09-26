@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://gitlab.com/kicad/libraries/kicad-footprints  
 The original footprint can be found at:
-http://gitlab.com/garrettsworkshop/stdpads.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/ZipHole_3.048mm_NPTH.kicad_mod
+http://gitlab.com/garrettsworkshop/stdpads.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/ZipHole_3.048mm_NPTH.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, open  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/stdpads.pretty/SolderJumper-2_NoPaste.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/stdpads.pretty/SolderJumper-2_NoPaste.kicad_mod |  
 | footprint | {'description': 'SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, open', 'libraryLink': 'SolderJumper-2_NoPaste', 'number_of_pads': 2} |  
 | footprint_library_directory | footprint_library_owner/garrettsworkshop_stdpads.pretty |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/garrettsworkshop_stdpads_solderjumper_2_nopaste/working |  
-| github_path | http://github.com/garrettsworkshop/stdpads.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/SolderJumper-2_NoPaste.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/garrettsworkshop/stdpads.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/ZipHole_3.048mm_NPTH.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/garrettsworkshop_stdpads_solderjumper_2_nopaste/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/garrettsworkshop_stdpads_solderjumper_2_nopaste/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/garrettsworkshop_stdpads_solderjumper_2_nopaste/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/garrettsworkshop_stdpads_solderjumper_2_nopaste/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/garrettsworkshop_stdpads_solderjumper_2_nopaste/working |  
+| github_path | http://github.com/garrettsworkshop/stdpads.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/SolderJumper-2_NoPaste.kicad_mod |  
+| links | {'github_src': 'http://gitlab.com/garrettsworkshop/stdpads.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/ZipHole_3.048mm_NPTH.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/garrettsworkshop_stdpads_solderjumper_2_nopaste/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/garrettsworkshop_stdpads_solderjumper_2_nopaste/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/garrettsworkshop_stdpads_solderjumper_2_nopaste/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/garrettsworkshop_stdpads_solderjumper_2_nopaste/working'} |  
 | name | stdpads.pretty |  
-| oomp | {'footprint_name': 'solderjumper_2_nopaste', 'library_name': 'stdpads', 'md5': '54905cfa3287da4c96121fe4c4400dfe', 'md5_10': '54905cfa32', 'md5_5': '54905', 'md5_6': '54905c', 'oomp_key': 'oomp_garrettsworkshop_stdpads_solderjumper_2_nopaste', 'oomp_key_extra': 'oomp_footprint_garrettsworkshop_stdpads_solderjumper_2_nopaste', 'oomp_key_full': 'oomp_footprint_garrettsworkshop_stdpads_solderjumper_2_nopaste_54905c', 'oomp_key_simple': 'garrettsworkshop_stdpads_solderjumper_2_nopaste', 'original_filename': 'data//oomlout_oomp_footprint_src/stdpads.pretty/SolderJumper-2_NoPaste.kicad_mod', 'owner_name': 'garrettsworkshop'} |  
+| oomp | {'footprint_name': 'solderjumper_2_nopaste', 'library_name': 'stdpads', 'md5': '54905cfa3287da4c96121fe4c4400dfe', 'md5_10': '54905cfa32', 'md5_5': '54905', 'md5_6': '54905c', 'oomp_key': 'oomp_garrettsworkshop_stdpads_solderjumper_2_nopaste', 'oomp_key_extra': 'oomp_footprint_garrettsworkshop_stdpads_solderjumper_2_nopaste', 'oomp_key_full': 'oomp_footprint_garrettsworkshop_stdpads_solderjumper_2_nopaste_54905c', 'oomp_key_simple': 'garrettsworkshop_stdpads_solderjumper_2_nopaste', 'original_filename': 'data/oomlout_oomp_footprint_src/stdpads.pretty/SolderJumper-2_NoPaste.kicad_mod', 'owner_name': 'garrettsworkshop'} |  
 | oomp_key | oomp_garrettsworkshop_stdpads_solderjumper_2_nopaste |  
 | oomp_key_full | oomp_footprint_garrettsworkshop_stdpads_solderjumper_2_nopaste |  
 | oomp_key_simple | garrettsworkshop_stdpads_solderjumper_2_nopaste |  

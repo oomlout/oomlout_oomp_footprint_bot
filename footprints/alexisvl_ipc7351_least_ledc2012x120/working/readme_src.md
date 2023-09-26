@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://github.com/alexisvl/kicad-pcblib  
 The original footprint can be found at:
-http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data//oomlout_oomp_footprint_src/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod
+http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data/oomlout_oomp_footprint_src/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: LED,Chip;2.00mm L X 1.25mm W X 1.20mm H  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/kicad-pcblib/IPC7351-Least.pretty/LEDC2012X120.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/kicad-pcblib/IPC7351-Least.pretty/LEDC2012X120.kicad_mod |  
 | footprint | {'description': 'LED,Chip;2.00mm L X 1.25mm W X 1.20mm H', 'libraryLink': 'LEDC2012X120', 'number_of_pads': 2} |  
 | footprint_library_directory | footprint_library_owner/cpavlina_kicad-pcblib |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/alexisvl_ipc7351_least_ledc2012x120/working |  
-| github_path | http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data//oomlout_oomp_footprint_src/IPC7351-Least.pretty/LEDC2012X120.kicad_mod |  
-| links | {'github_owner': 'alexisvl', 'github_repo_name': 'kicad-pcblib', 'github_src': 'http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data//oomlout_oomp_footprint_src/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod', 'github_src_repo': 'https://github.com/alexisvl/kicad-pcblib', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/alexisvl_ipc7351_least_ledc2012x120/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/alexisvl_ipc7351_least_ledc2012x120/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/alexisvl_ipc7351_least_ledc2012x120/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/alexisvl_ipc7351_least_ledc2012x120/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/alexisvl_ipc7351_least_ledc2012x120/working |  
+| github_path | http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data/oomlout_oomp_footprint_src/IPC7351-Least.pretty/LEDC2012X120.kicad_mod |  
+| links | {'github_owner': 'alexisvl', 'github_repo_name': 'kicad-pcblib', 'github_src': 'http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data/oomlout_oomp_footprint_src/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod', 'github_src_repo': 'https://github.com/alexisvl/kicad-pcblib', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/alexisvl_ipc7351_least_ledc2012x120/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/alexisvl_ipc7351_least_ledc2012x120/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/alexisvl_ipc7351_least_ledc2012x120/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/alexisvl_ipc7351_least_ledc2012x120/working'} |  
 | name | kicad-pcblib |  
-| oomp | {'footprint_name': 'ledc2012x120', 'library_name': 'ipc7351_least', 'md5': '5483596214a53b894fcdcf64e6b573f8', 'md5_10': '5483596214', 'md5_5': '54835', 'md5_6': '548359', 'oomp_key': 'oomp_alexisvl_ipc7351_least_ledc2012x120', 'oomp_key_extra': 'oomp_footprint_alexisvl_ipc7351_least_ledc2012x120', 'oomp_key_full': 'oomp_footprint_alexisvl_ipc7351_least_ledc2012x120_548359', 'oomp_key_simple': 'alexisvl_ipc7351_least_ledc2012x120', 'original_filename': 'data//oomlout_oomp_footprint_src/kicad-pcblib/IPC7351-Least.pretty/LEDC2012X120.kicad_mod', 'owner_name': 'alexisvl'} |  
+| oomp | {'footprint_name': 'ledc2012x120', 'library_name': 'ipc7351_least', 'md5': '5483596214a53b894fcdcf64e6b573f8', 'md5_10': '5483596214', 'md5_5': '54835', 'md5_6': '548359', 'oomp_key': 'oomp_alexisvl_ipc7351_least_ledc2012x120', 'oomp_key_extra': 'oomp_footprint_alexisvl_ipc7351_least_ledc2012x120', 'oomp_key_full': 'oomp_footprint_alexisvl_ipc7351_least_ledc2012x120_548359', 'oomp_key_simple': 'alexisvl_ipc7351_least_ledc2012x120', 'original_filename': 'data/oomlout_oomp_footprint_src/kicad-pcblib/IPC7351-Least.pretty/LEDC2012X120.kicad_mod', 'owner_name': 'alexisvl'} |  
 | oomp_key | oomp_alexisvl_ipc7351_least_ledc2012x120 |  
 | oomp_key_full | oomp_footprint_alexisvl_ipc7351_least_ledc2012x120 |  
 | oomp_key_simple | alexisvl_ipc7351_least_ledc2012x120 |  

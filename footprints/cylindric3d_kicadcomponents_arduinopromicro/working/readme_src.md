@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://github.com/Cylindric3D/KicadComponents.pretty  
 The original footprint can be found at:
-http://github.com/Cylindric3D/KicadComponents.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/ArduinoProMicro.kicad_mod
+http://github.com/Cylindric3D/KicadComponents.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/ArduinoProMicro.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: None  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/KicadComponents.pretty/ArduinoProMicro.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/KicadComponents.pretty/ArduinoProMicro.kicad_mod |  
 | footprint | {'description': None, 'libraryLink': 'ArduinoProMicro', 'number_of_pads': 24} |  
 | footprint_library_directory | footprint_library_owner/Cylindric3D_KicadComponents.pretty |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/cylindric3d_kicadcomponents_arduinopromicro/working |  
-| github_path | http://github.com/Cylindric3D/KicadComponents.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/ArduinoProMicro.kicad_mod |  
-| links | {'github_owner': 'Cylindric3D', 'github_repo_name': 'KicadComponents.pretty', 'github_src': 'http://github.com/Cylindric3D/KicadComponents.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/ArduinoProMicro.kicad_mod', 'github_src_repo': 'https://github.com/Cylindric3D/KicadComponents.pretty', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/cylindric3d_kicadcomponents_arduinopromicro/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/cylindric3d_kicadcomponents_arduinopromicro/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/cylindric3d_kicadcomponents_arduinopromicro/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/cylindric3d_kicadcomponents_arduinopromicro/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/cylindric3d_kicadcomponents_arduinopromicro/working |  
+| github_path | http://github.com/Cylindric3D/KicadComponents.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/ArduinoProMicro.kicad_mod |  
+| links | {'github_owner': 'Cylindric3D', 'github_repo_name': 'KicadComponents.pretty', 'github_src': 'http://github.com/Cylindric3D/KicadComponents.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/ArduinoProMicro.kicad_mod', 'github_src_repo': 'https://github.com/Cylindric3D/KicadComponents.pretty', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/cylindric3d_kicadcomponents_arduinopromicro/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/cylindric3d_kicadcomponents_arduinopromicro/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/cylindric3d_kicadcomponents_arduinopromicro/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/cylindric3d_kicadcomponents_arduinopromicro/working'} |  
 | name | KicadComponents.pretty |  
-| oomp | {'footprint_name': 'arduinopromicro', 'library_name': 'kicadcomponents', 'md5': '227bf46a83cdb5fc026351000b16dc6d', 'md5_10': '227bf46a83', 'md5_5': '227bf', 'md5_6': '227bf4', 'oomp_key': 'oomp_cylindric3d_kicadcomponents_arduinopromicro', 'oomp_key_extra': 'oomp_footprint_cylindric3d_kicadcomponents_arduinopromicro', 'oomp_key_full': 'oomp_footprint_cylindric3d_kicadcomponents_arduinopromicro_227bf4', 'oomp_key_simple': 'cylindric3d_kicadcomponents_arduinopromicro', 'original_filename': 'data//oomlout_oomp_footprint_src/KicadComponents.pretty/ArduinoProMicro.kicad_mod', 'owner_name': 'cylindric3d'} |  
+| oomp | {'footprint_name': 'arduinopromicro', 'library_name': 'kicadcomponents', 'md5': '227bf46a83cdb5fc026351000b16dc6d', 'md5_10': '227bf46a83', 'md5_5': '227bf', 'md5_6': '227bf4', 'oomp_key': 'oomp_cylindric3d_kicadcomponents_arduinopromicro', 'oomp_key_extra': 'oomp_footprint_cylindric3d_kicadcomponents_arduinopromicro', 'oomp_key_full': 'oomp_footprint_cylindric3d_kicadcomponents_arduinopromicro_227bf4', 'oomp_key_simple': 'cylindric3d_kicadcomponents_arduinopromicro', 'original_filename': 'data/oomlout_oomp_footprint_src/KicadComponents.pretty/ArduinoProMicro.kicad_mod', 'owner_name': 'cylindric3d'} |  
 | oomp_key | oomp_cylindric3d_kicadcomponents_arduinopromicro |  
 | oomp_key_full | oomp_footprint_cylindric3d_kicadcomponents_arduinopromicro |  
 | oomp_key_simple | cylindric3d_kicadcomponents_arduinopromicro |  

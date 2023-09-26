@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://gitlab.com/kicad/libraries/kicad-footprints  
 The original footprint can be found at:
-http://gitlab.com/av-p/Avp.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XTAL-3215.kicad_mod
+http://gitlab.com/av-p/Avp.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/XTAL-3215.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: CU026  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/Avp.pretty/CU026.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/Avp.pretty/CU026.kicad_mod |  
 | footprint | {'description': 'CU026', 'libraryLink': 'CU026', 'number_of_pads': 6} |  
 | footprint_library_directory | footprint_library_owner/av-p_Avp.pretty |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/av_p_avp_cu026/working |  
-| github_path | http://github.com/av-p/Avp.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/CU026.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/av-p/Avp.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XTAL-3215.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/av_p_avp_cu026/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/av_p_avp_cu026/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/av_p_avp_cu026/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/av_p_avp_cu026/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/av_p_avp_cu026/working |  
+| github_path | http://github.com/av-p/Avp.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/CU026.kicad_mod |  
+| links | {'github_src': 'http://gitlab.com/av-p/Avp.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/XTAL-3215.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/av_p_avp_cu026/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/av_p_avp_cu026/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/av_p_avp_cu026/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/av_p_avp_cu026/working'} |  
 | name | Avp.pretty |  
-| oomp | {'footprint_name': 'cu026', 'library_name': 'avp', 'md5': 'd4e8c6146e6c249c799b0307623b926d', 'md5_10': 'd4e8c6146e', 'md5_5': 'd4e8c', 'md5_6': 'd4e8c6', 'oomp_key': 'oomp_av_p_avp_cu026', 'oomp_key_extra': 'oomp_footprint_av_p_avp_cu026', 'oomp_key_full': 'oomp_footprint_av_p_avp_cu026_d4e8c6', 'oomp_key_simple': 'av_p_avp_cu026', 'original_filename': 'data//oomlout_oomp_footprint_src/Avp.pretty/CU026.kicad_mod', 'owner_name': 'av_p'} |  
+| oomp | {'footprint_name': 'cu026', 'library_name': 'avp', 'md5': 'd4e8c6146e6c249c799b0307623b926d', 'md5_10': 'd4e8c6146e', 'md5_5': 'd4e8c', 'md5_6': 'd4e8c6', 'oomp_key': 'oomp_av_p_avp_cu026', 'oomp_key_extra': 'oomp_footprint_av_p_avp_cu026', 'oomp_key_full': 'oomp_footprint_av_p_avp_cu026_d4e8c6', 'oomp_key_simple': 'av_p_avp_cu026', 'original_filename': 'data/oomlout_oomp_footprint_src/Avp.pretty/CU026.kicad_mod', 'owner_name': 'av_p'} |  
 | oomp_key | oomp_av_p_avp_cu026 |  
 | oomp_key_full | oomp_footprint_av_p_avp_cu026 |  
 | oomp_key_simple | av_p_avp_cu026 |  

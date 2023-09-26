@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://gitlab.com/kicad/libraries/kicad-footprints  
 The original footprint can be found at:
-http://gitlab.com/fruchti/fruchtilib/blob/master/tmp/data//oomlout_oomp_footprint_src/mod/vssop.pretty/VSSOP8.kicad_mod
+http://gitlab.com/fruchti/fruchtilib/blob/master/tmp/data/oomlout_oomp_footprint_src/mod/vssop.pretty/VSSOP8.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: None  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/fruchtilib/mod/conn.pretty/USB_B_W_THT.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/fruchtilib/mod/conn.pretty/USB_B_W_THT.kicad_mod |  
 | footprint | {'description': None, 'libraryLink': 'USB_B_W_THT', 'number_of_pads': 6} |  
 | footprint_library_directory | footprint_library_owner/fruchti_fruchtilib |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/fruchti_conn_usb_b_w_tht/working |  
-| github_path | http://github.com/fruchti/fruchtilib/blob/master/tmp/data//oomlout_oomp_footprint_src/mod/conn.pretty/USB_B_W_THT.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/fruchti/fruchtilib/blob/master/tmp/data//oomlout_oomp_footprint_src/mod/vssop.pretty/VSSOP8.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/fruchti_conn_usb_b_w_tht/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/fruchti_conn_usb_b_w_tht/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/fruchti_conn_usb_b_w_tht/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/fruchti_conn_usb_b_w_tht/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/fruchti_conn_usb_b_w_tht/working |  
+| github_path | http://github.com/fruchti/fruchtilib/blob/master/tmp/data/oomlout_oomp_footprint_src/mod/conn.pretty/USB_B_W_THT.kicad_mod |  
+| links | {'github_src': 'http://gitlab.com/fruchti/fruchtilib/blob/master/tmp/data/oomlout_oomp_footprint_src/mod/vssop.pretty/VSSOP8.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/fruchti_conn_usb_b_w_tht/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/fruchti_conn_usb_b_w_tht/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/fruchti_conn_usb_b_w_tht/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/fruchti_conn_usb_b_w_tht/working'} |  
 | name | fruchtilib |  
-| oomp | {'footprint_name': 'usb_b_w_tht', 'library_name': 'conn', 'md5': 'cdfada8bc33deed508f52ebb99ecda63', 'md5_10': 'cdfada8bc3', 'md5_5': 'cdfad', 'md5_6': 'cdfada', 'oomp_key': 'oomp_fruchti_conn_usb_b_w_tht', 'oomp_key_extra': 'oomp_footprint_fruchti_conn_usb_b_w_tht', 'oomp_key_full': 'oomp_footprint_fruchti_conn_usb_b_w_tht_cdfada', 'oomp_key_simple': 'fruchti_conn_usb_b_w_tht', 'original_filename': 'data//oomlout_oomp_footprint_src/fruchtilib/mod/conn.pretty/USB_B_W_THT.kicad_mod', 'owner_name': 'fruchti'} |  
+| oomp | {'footprint_name': 'usb_b_w_tht', 'library_name': 'conn', 'md5': 'cdfada8bc33deed508f52ebb99ecda63', 'md5_10': 'cdfada8bc3', 'md5_5': 'cdfad', 'md5_6': 'cdfada', 'oomp_key': 'oomp_fruchti_conn_usb_b_w_tht', 'oomp_key_extra': 'oomp_footprint_fruchti_conn_usb_b_w_tht', 'oomp_key_full': 'oomp_footprint_fruchti_conn_usb_b_w_tht_cdfada', 'oomp_key_simple': 'fruchti_conn_usb_b_w_tht', 'original_filename': 'data/oomlout_oomp_footprint_src/fruchtilib/mod/conn.pretty/USB_B_W_THT.kicad_mod', 'owner_name': 'fruchti'} |  
 | oomp_key | oomp_fruchti_conn_usb_b_w_tht |  
 | oomp_key_full | oomp_footprint_fruchti_conn_usb_b_w_tht |  
 | oomp_key_simple | fruchti_conn_usb_b_w_tht |  

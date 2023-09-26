@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://gitlab.com/kicad/libraries/kicad-footprints  
 The original footprint can be found at:
-http://gitlab.com/fruchti/fruchtilib/blob/master/tmp/data//oomlout_oomp_footprint_src/mod/vssop.pretty/VSSOP8.kicad_mod
+http://gitlab.com/fruchti/fruchtilib/blob/master/tmp/data/oomlout_oomp_footprint_src/mod/vssop.pretty/VSSOP8.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: None  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/fruchtilib/mod/sw.pretty/SW_ALPS_SKQG.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/fruchtilib/mod/sw.pretty/SW_ALPS_SKQG.kicad_mod |  
 | footprint | {'description': None, 'libraryLink': 'SW_ALPS_SKQG', 'number_of_pads': 4} |  
 | footprint_library_directory | footprint_library_owner/fruchti_fruchtilib |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/fruchti_sw_sw_alps_skqg/working |  
-| github_path | http://github.com/fruchti/fruchtilib/blob/master/tmp/data//oomlout_oomp_footprint_src/mod/sw.pretty/SW_ALPS_SKQG.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/fruchti/fruchtilib/blob/master/tmp/data//oomlout_oomp_footprint_src/mod/vssop.pretty/VSSOP8.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/fruchti_sw_sw_alps_skqg/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/fruchti_sw_sw_alps_skqg/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/fruchti_sw_sw_alps_skqg/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/fruchti_sw_sw_alps_skqg/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/fruchti_sw_sw_alps_skqg/working |  
+| github_path | http://github.com/fruchti/fruchtilib/blob/master/tmp/data/oomlout_oomp_footprint_src/mod/sw.pretty/SW_ALPS_SKQG.kicad_mod |  
+| links | {'github_src': 'http://gitlab.com/fruchti/fruchtilib/blob/master/tmp/data/oomlout_oomp_footprint_src/mod/vssop.pretty/VSSOP8.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/fruchti_sw_sw_alps_skqg/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/fruchti_sw_sw_alps_skqg/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/fruchti_sw_sw_alps_skqg/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/fruchti_sw_sw_alps_skqg/working'} |  
 | name | fruchtilib |  
-| oomp | {'footprint_name': 'sw_alps_skqg', 'library_name': 'sw', 'md5': 'c12971f86ad27c5f1179e8543205c17b', 'md5_10': 'c12971f86a', 'md5_5': 'c1297', 'md5_6': 'c12971', 'oomp_key': 'oomp_fruchti_sw_sw_alps_skqg', 'oomp_key_extra': 'oomp_footprint_fruchti_sw_sw_alps_skqg', 'oomp_key_full': 'oomp_footprint_fruchti_sw_sw_alps_skqg_c12971', 'oomp_key_simple': 'fruchti_sw_sw_alps_skqg', 'original_filename': 'data//oomlout_oomp_footprint_src/fruchtilib/mod/sw.pretty/SW_ALPS_SKQG.kicad_mod', 'owner_name': 'fruchti'} |  
+| oomp | {'footprint_name': 'sw_alps_skqg', 'library_name': 'sw', 'md5': 'c12971f86ad27c5f1179e8543205c17b', 'md5_10': 'c12971f86a', 'md5_5': 'c1297', 'md5_6': 'c12971', 'oomp_key': 'oomp_fruchti_sw_sw_alps_skqg', 'oomp_key_extra': 'oomp_footprint_fruchti_sw_sw_alps_skqg', 'oomp_key_full': 'oomp_footprint_fruchti_sw_sw_alps_skqg_c12971', 'oomp_key_simple': 'fruchti_sw_sw_alps_skqg', 'original_filename': 'data/oomlout_oomp_footprint_src/fruchtilib/mod/sw.pretty/SW_ALPS_SKQG.kicad_mod', 'owner_name': 'fruchti'} |  
 | oomp_key | oomp_fruchti_sw_sw_alps_skqg |  
 | oomp_key_full | oomp_footprint_fruchti_sw_sw_alps_skqg |  
 | oomp_key_simple | fruchti_sw_sw_alps_skqg |  

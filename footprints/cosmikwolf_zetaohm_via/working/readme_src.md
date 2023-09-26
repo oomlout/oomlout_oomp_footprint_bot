@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://github.com/cosmikwolf/Zetaohm.pretty  
 The original footprint can be found at:
-http://github.com/cosmikwolf/Zetaohm.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Via.kicad_mod
+http://github.com/cosmikwolf/Zetaohm.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/Via.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: None  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/Zetaohm.pretty/Via.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/Zetaohm.pretty/Via.kicad_mod |  
 | footprint | {'description': None, 'libraryLink': 'afx-01:Via', 'number_of_pads': 1} |  
 | footprint_library_directory | footprint_library_owner/cosmikwolf_Zetaohm.pretty |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/cosmikwolf_zetaohm_via/working |  
-| github_path | http://github.com/cosmikwolf/Zetaohm.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Via.kicad_mod |  
-| links | {'github_owner': 'cosmikwolf', 'github_repo_name': 'Zetaohm.pretty', 'github_src': 'http://github.com/cosmikwolf/Zetaohm.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Via.kicad_mod', 'github_src_repo': 'https://github.com/cosmikwolf/Zetaohm.pretty', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/cosmikwolf_zetaohm_via/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/cosmikwolf_zetaohm_via/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/cosmikwolf_zetaohm_via/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/cosmikwolf_zetaohm_via/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/cosmikwolf_zetaohm_via/working |  
+| github_path | http://github.com/cosmikwolf/Zetaohm.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/Via.kicad_mod |  
+| links | {'github_owner': 'cosmikwolf', 'github_repo_name': 'Zetaohm.pretty', 'github_src': 'http://github.com/cosmikwolf/Zetaohm.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/Via.kicad_mod', 'github_src_repo': 'https://github.com/cosmikwolf/Zetaohm.pretty', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/cosmikwolf_zetaohm_via/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/cosmikwolf_zetaohm_via/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/cosmikwolf_zetaohm_via/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/cosmikwolf_zetaohm_via/working'} |  
 | name | Zetaohm.pretty |  
-| oomp | {'footprint_name': 'via', 'library_name': 'zetaohm', 'md5': '17ab9b21022b6664b5bcc5a8ba55006a', 'md5_10': '17ab9b2102', 'md5_5': '17ab9', 'md5_6': '17ab9b', 'oomp_key': 'oomp_cosmikwolf_zetaohm_via', 'oomp_key_extra': 'oomp_footprint_cosmikwolf_zetaohm_via', 'oomp_key_full': 'oomp_footprint_cosmikwolf_zetaohm_via_17ab9b', 'oomp_key_simple': 'cosmikwolf_zetaohm_via', 'original_filename': 'data//oomlout_oomp_footprint_src/Zetaohm.pretty/Via.kicad_mod', 'owner_name': 'cosmikwolf'} |  
+| oomp | {'footprint_name': 'via', 'library_name': 'zetaohm', 'md5': '17ab9b21022b6664b5bcc5a8ba55006a', 'md5_10': '17ab9b2102', 'md5_5': '17ab9', 'md5_6': '17ab9b', 'oomp_key': 'oomp_cosmikwolf_zetaohm_via', 'oomp_key_extra': 'oomp_footprint_cosmikwolf_zetaohm_via', 'oomp_key_full': 'oomp_footprint_cosmikwolf_zetaohm_via_17ab9b', 'oomp_key_simple': 'cosmikwolf_zetaohm_via', 'original_filename': 'data/oomlout_oomp_footprint_src/Zetaohm.pretty/Via.kicad_mod', 'owner_name': 'cosmikwolf'} |  
 | oomp_key | oomp_cosmikwolf_zetaohm_via |  
 | oomp_key_full | oomp_footprint_cosmikwolf_zetaohm_via |  
 | oomp_key_simple | cosmikwolf_zetaohm_via |  

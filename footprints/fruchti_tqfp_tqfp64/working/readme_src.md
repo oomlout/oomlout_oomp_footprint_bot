@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://gitlab.com/kicad/libraries/kicad-footprints  
 The original footprint can be found at:
-http://gitlab.com/fruchti/fruchtilib/blob/master/tmp/data//oomlout_oomp_footprint_src/mod/vssop.pretty/VSSOP8.kicad_mod
+http://gitlab.com/fruchti/fruchtilib/blob/master/tmp/data/oomlout_oomp_footprint_src/mod/vssop.pretty/VSSOP8.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: None  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/fruchtilib/mod/tqfp.pretty/TQFP64.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/fruchtilib/mod/tqfp.pretty/TQFP64.kicad_mod |  
 | footprint | {'description': None, 'libraryLink': 'TQFP64', 'number_of_pads': 64} |  
 | footprint_library_directory | footprint_library_owner/fruchti_fruchtilib |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/fruchti_tqfp_tqfp64/working |  
-| github_path | http://github.com/fruchti/fruchtilib/blob/master/tmp/data//oomlout_oomp_footprint_src/mod/tqfp.pretty/TQFP64.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/fruchti/fruchtilib/blob/master/tmp/data//oomlout_oomp_footprint_src/mod/vssop.pretty/VSSOP8.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/fruchti_tqfp_tqfp64/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/fruchti_tqfp_tqfp64/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/fruchti_tqfp_tqfp64/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/fruchti_tqfp_tqfp64/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/fruchti_tqfp_tqfp64/working |  
+| github_path | http://github.com/fruchti/fruchtilib/blob/master/tmp/data/oomlout_oomp_footprint_src/mod/tqfp.pretty/TQFP64.kicad_mod |  
+| links | {'github_src': 'http://gitlab.com/fruchti/fruchtilib/blob/master/tmp/data/oomlout_oomp_footprint_src/mod/vssop.pretty/VSSOP8.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/fruchti_tqfp_tqfp64/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/fruchti_tqfp_tqfp64/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/fruchti_tqfp_tqfp64/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/fruchti_tqfp_tqfp64/working'} |  
 | name | fruchtilib |  
-| oomp | {'footprint_name': 'tqfp64', 'library_name': 'tqfp', 'md5': 'eb91d9fc3a9af313b8f454b7788a651a', 'md5_10': 'eb91d9fc3a', 'md5_5': 'eb91d', 'md5_6': 'eb91d9', 'oomp_key': 'oomp_fruchti_tqfp_tqfp64', 'oomp_key_extra': 'oomp_footprint_fruchti_tqfp_tqfp64', 'oomp_key_full': 'oomp_footprint_fruchti_tqfp_tqfp64_eb91d9', 'oomp_key_simple': 'fruchti_tqfp_tqfp64', 'original_filename': 'data//oomlout_oomp_footprint_src/fruchtilib/mod/tqfp.pretty/TQFP64.kicad_mod', 'owner_name': 'fruchti'} |  
+| oomp | {'footprint_name': 'tqfp64', 'library_name': 'tqfp', 'md5': 'eb91d9fc3a9af313b8f454b7788a651a', 'md5_10': 'eb91d9fc3a', 'md5_5': 'eb91d', 'md5_6': 'eb91d9', 'oomp_key': 'oomp_fruchti_tqfp_tqfp64', 'oomp_key_extra': 'oomp_footprint_fruchti_tqfp_tqfp64', 'oomp_key_full': 'oomp_footprint_fruchti_tqfp_tqfp64_eb91d9', 'oomp_key_simple': 'fruchti_tqfp_tqfp64', 'original_filename': 'data/oomlout_oomp_footprint_src/fruchtilib/mod/tqfp.pretty/TQFP64.kicad_mod', 'owner_name': 'fruchti'} |  
 | oomp_key | oomp_fruchti_tqfp_tqfp64 |  
 | oomp_key_full | oomp_footprint_fruchti_tqfp_tqfp64 |  
 | oomp_key_simple | fruchti_tqfp_tqfp64 |  

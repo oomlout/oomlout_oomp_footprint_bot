@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://gitlab.com/kicad/libraries/kicad-footprints  
 The original footprint can be found at:
-http://gitlab.com/av-p/Avp.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XTAL-3215.kicad_mod
+http://gitlab.com/av-p/Avp.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/XTAL-3215.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: PIN HEADER  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/Avp.pretty/export-TIC32.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/Avp.pretty/export-TIC32.kicad_mod |  
 | footprint | {'description': 'PIN HEADER', 'libraryLink': 'export-TIC32', 'number_of_pads': 7} |  
 | footprint_library_directory | footprint_library_owner/av-p_Avp.pretty |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/av_p_avp_export_tic32/working |  
-| github_path | http://github.com/av-p/Avp.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/export-TIC32.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/av-p/Avp.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XTAL-3215.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/av_p_avp_export_tic32/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/av_p_avp_export_tic32/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/av_p_avp_export_tic32/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/av_p_avp_export_tic32/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/av_p_avp_export_tic32/working |  
+| github_path | http://github.com/av-p/Avp.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/export-TIC32.kicad_mod |  
+| links | {'github_src': 'http://gitlab.com/av-p/Avp.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/XTAL-3215.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/av_p_avp_export_tic32/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/av_p_avp_export_tic32/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/av_p_avp_export_tic32/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/av_p_avp_export_tic32/working'} |  
 | name | Avp.pretty |  
-| oomp | {'footprint_name': 'export_tic32', 'library_name': 'avp', 'md5': '4db3b3be7ecdbaba5727bc2c034790e7', 'md5_10': '4db3b3be7e', 'md5_5': '4db3b', 'md5_6': '4db3b3', 'oomp_key': 'oomp_av_p_avp_export_tic32', 'oomp_key_extra': 'oomp_footprint_av_p_avp_export_tic32', 'oomp_key_full': 'oomp_footprint_av_p_avp_export_tic32_4db3b3', 'oomp_key_simple': 'av_p_avp_export_tic32', 'original_filename': 'data//oomlout_oomp_footprint_src/Avp.pretty/export-TIC32.kicad_mod', 'owner_name': 'av_p'} |  
+| oomp | {'footprint_name': 'export_tic32', 'library_name': 'avp', 'md5': '4db3b3be7ecdbaba5727bc2c034790e7', 'md5_10': '4db3b3be7e', 'md5_5': '4db3b', 'md5_6': '4db3b3', 'oomp_key': 'oomp_av_p_avp_export_tic32', 'oomp_key_extra': 'oomp_footprint_av_p_avp_export_tic32', 'oomp_key_full': 'oomp_footprint_av_p_avp_export_tic32_4db3b3', 'oomp_key_simple': 'av_p_avp_export_tic32', 'original_filename': 'data/oomlout_oomp_footprint_src/Avp.pretty/export-TIC32.kicad_mod', 'owner_name': 'av_p'} |  
 | oomp_key | oomp_av_p_avp_export_tic32 |  
 | oomp_key_full | oomp_footprint_av_p_avp_export_tic32 |  
 | oomp_key_simple | av_p_avp_export_tic32 |  

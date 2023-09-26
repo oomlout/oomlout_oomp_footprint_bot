@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://github.com/Hecatron-Cad/Hecatron.Kicad.Libs  
 The original footprint can be found at:
-http://github.com/ASoftTech/CAD.KiCad.Libs/blob/master/tmp/data//oomlout_oomp_footprint_src/modules/w_switch.pretty/switch_mmp122-r.kicad_mod
+http://github.com/ASoftTech/CAD.KiCad.Libs/blob/master/tmp/data/oomlout_oomp_footprint_src/modules/w_switch.pretty/switch_mmp122-r.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: 6-pin SOT-563F package (https://www.fairchildsemi.com/package-drawings/MA/MAD06A.pdf)  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/CAD.KiCad.Libs/modules/GBD-SMD.pretty/SOT-563F.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/CAD.KiCad.Libs/modules/GBD-SMD.pretty/SOT-563F.kicad_mod |  
 | footprint | {'description': '6-pin SOT-563F package (https://www.fairchildsemi.com/package-drawings/MA/MAD06A.pdf)', 'libraryLink': 'SOT-563F', 'number_of_pads': 6} |  
 | footprint_library_directory | footprint_library_owner/ASoftTech_CAD.KiCad.Libs |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/hecatron_cad_gbd_smd_sot_563f/working |  
-| github_path | http://github.com/ASoftTech/CAD.KiCad.Libs/blob/master/tmp/data//oomlout_oomp_footprint_src/modules/GBD-SMD.pretty/SOT-563F.kicad_mod |  
-| links | {'github_owner': 'Hecatron-Cad', 'github_repo_name': 'Hecatron.Kicad.Libs', 'github_src': 'http://github.com/ASoftTech/CAD.KiCad.Libs/blob/master/tmp/data//oomlout_oomp_footprint_src/modules/w_switch.pretty/switch_mmp122-r.kicad_mod', 'github_src_repo': 'https://github.com/Hecatron-Cad/Hecatron.Kicad.Libs', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/hecatron_cad_gbd_smd_sot_563f/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/hecatron_cad_gbd_smd_sot_563f/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/hecatron_cad_gbd_smd_sot_563f/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/hecatron_cad_gbd_smd_sot_563f/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/hecatron_cad_gbd_smd_sot_563f/working |  
+| github_path | http://github.com/ASoftTech/CAD.KiCad.Libs/blob/master/tmp/data/oomlout_oomp_footprint_src/modules/GBD-SMD.pretty/SOT-563F.kicad_mod |  
+| links | {'github_owner': 'Hecatron-Cad', 'github_repo_name': 'Hecatron.Kicad.Libs', 'github_src': 'http://github.com/ASoftTech/CAD.KiCad.Libs/blob/master/tmp/data/oomlout_oomp_footprint_src/modules/w_switch.pretty/switch_mmp122-r.kicad_mod', 'github_src_repo': 'https://github.com/Hecatron-Cad/Hecatron.Kicad.Libs', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/hecatron_cad_gbd_smd_sot_563f/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/hecatron_cad_gbd_smd_sot_563f/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/hecatron_cad_gbd_smd_sot_563f/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/hecatron_cad_gbd_smd_sot_563f/working'} |  
 | name | CAD.KiCad.Libs |  
-| oomp | {'footprint_name': 'sot_563f', 'library_name': 'gbd_smd', 'md5': '0847c7d72d943ac16c222754f96b7958', 'md5_10': '0847c7d72d', 'md5_5': '0847c', 'md5_6': '0847c7', 'oomp_key': 'oomp_hecatron_cad_gbd_smd_sot_563f', 'oomp_key_extra': 'oomp_footprint_hecatron_cad_gbd_smd_sot_563f', 'oomp_key_full': 'oomp_footprint_hecatron_cad_gbd_smd_sot_563f_0847c7', 'oomp_key_simple': 'hecatron_cad_gbd_smd_sot_563f', 'original_filename': 'data//oomlout_oomp_footprint_src/CAD.KiCad.Libs/modules/GBD-SMD.pretty/SOT-563F.kicad_mod', 'owner_name': 'hecatron_cad'} |  
+| oomp | {'footprint_name': 'sot_563f', 'library_name': 'gbd_smd', 'md5': '0847c7d72d943ac16c222754f96b7958', 'md5_10': '0847c7d72d', 'md5_5': '0847c', 'md5_6': '0847c7', 'oomp_key': 'oomp_hecatron_cad_gbd_smd_sot_563f', 'oomp_key_extra': 'oomp_footprint_hecatron_cad_gbd_smd_sot_563f', 'oomp_key_full': 'oomp_footprint_hecatron_cad_gbd_smd_sot_563f_0847c7', 'oomp_key_simple': 'hecatron_cad_gbd_smd_sot_563f', 'original_filename': 'data/oomlout_oomp_footprint_src/CAD.KiCad.Libs/modules/GBD-SMD.pretty/SOT-563F.kicad_mod', 'owner_name': 'hecatron_cad'} |  
 | oomp_key | oomp_hecatron_cad_gbd_smd_sot_563f |  
 | oomp_key_full | oomp_footprint_hecatron_cad_gbd_smd_sot_563f |  
 | oomp_key_simple | hecatron_cad_gbd_smd_sot_563f |  

@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://gitlab.com/kicad/libraries/kicad-footprints  
 The original footprint can be found at:
-http://gitlab.com/hiroieee/kicad-lib.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/ZSH5MT40C.kicad_mod
+http://gitlab.com/hiroieee/kicad-lib.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/ZSH5MT40C.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: EC8FS6  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/kicad-lib.pretty/EC8FS6.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/kicad-lib.pretty/EC8FS6.kicad_mod |  
 | footprint | {'description': 'EC8FS6', 'libraryLink': 'EC8FS6', 'number_of_pads': 2} |  
 | footprint_library_directory | footprint_library_owner/hiroieee_kicad-lib.pretty |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/hiroieee_kicad_lib_ec8fs6/working |  
-| github_path | http://github.com/hiroieee/kicad-lib.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/EC8FS6.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/hiroieee/kicad-lib.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/ZSH5MT40C.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/hiroieee_kicad_lib_ec8fs6/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/hiroieee_kicad_lib_ec8fs6/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/hiroieee_kicad_lib_ec8fs6/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/hiroieee_kicad_lib_ec8fs6/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/hiroieee_kicad_lib_ec8fs6/working |  
+| github_path | http://github.com/hiroieee/kicad-lib.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/EC8FS6.kicad_mod |  
+| links | {'github_src': 'http://gitlab.com/hiroieee/kicad-lib.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/ZSH5MT40C.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/hiroieee_kicad_lib_ec8fs6/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/hiroieee_kicad_lib_ec8fs6/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/hiroieee_kicad_lib_ec8fs6/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/hiroieee_kicad_lib_ec8fs6/working'} |  
 | name | kicad-lib.pretty |  
-| oomp | {'footprint_name': 'ec8fs6', 'library_name': 'kicad_lib', 'md5': '2b5aa7ca64d3818c6a8df0c83948a903', 'md5_10': '2b5aa7ca64', 'md5_5': '2b5aa', 'md5_6': '2b5aa7', 'oomp_key': 'oomp_hiroieee_kicad_lib_ec8fs6', 'oomp_key_extra': 'oomp_footprint_hiroieee_kicad_lib_ec8fs6', 'oomp_key_full': 'oomp_footprint_hiroieee_kicad_lib_ec8fs6_2b5aa7', 'oomp_key_simple': 'hiroieee_kicad_lib_ec8fs6', 'original_filename': 'data//oomlout_oomp_footprint_src/kicad-lib.pretty/EC8FS6.kicad_mod', 'owner_name': 'hiroieee'} |  
+| oomp | {'footprint_name': 'ec8fs6', 'library_name': 'kicad_lib', 'md5': '2b5aa7ca64d3818c6a8df0c83948a903', 'md5_10': '2b5aa7ca64', 'md5_5': '2b5aa', 'md5_6': '2b5aa7', 'oomp_key': 'oomp_hiroieee_kicad_lib_ec8fs6', 'oomp_key_extra': 'oomp_footprint_hiroieee_kicad_lib_ec8fs6', 'oomp_key_full': 'oomp_footprint_hiroieee_kicad_lib_ec8fs6_2b5aa7', 'oomp_key_simple': 'hiroieee_kicad_lib_ec8fs6', 'original_filename': 'data/oomlout_oomp_footprint_src/kicad-lib.pretty/EC8FS6.kicad_mod', 'owner_name': 'hiroieee'} |  
 | oomp_key | oomp_hiroieee_kicad_lib_ec8fs6 |  
 | oomp_key_full | oomp_footprint_hiroieee_kicad_lib_ec8fs6 |  
 | oomp_key_simple | hiroieee_kicad_lib_ec8fs6 |  

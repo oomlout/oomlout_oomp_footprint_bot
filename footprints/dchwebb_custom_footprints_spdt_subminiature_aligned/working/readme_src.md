@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://github.com/dchwebb/Custom_Footprints.pretty  
 The original footprint can be found at:
-http://github.com/dchwebb/Custom_Footprints.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Wurth_2.4GHz_Filter_2.5mm_2.0mm.kicad_mod
+http://github.com/dchwebb/Custom_Footprints.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/Wurth_2.4GHz_Filter_2.5mm_2.0mm.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: SPDT Sub Miniature Switch  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/Custom_Footprints.pretty/SPDT_SubMiniature_Aligned.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/Custom_Footprints.pretty/SPDT_SubMiniature_Aligned.kicad_mod |  
 | footprint | {'description': 'SPDT Sub Miniature Switch', 'libraryLink': 'SPDT_SubMiniature_Aligned', 'number_of_pads': 3} |  
 | footprint_library_directory | footprint_library_owner/dchwebb_Custom_Footprints.pretty |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/dchwebb_custom_footprints_spdt_subminiature_aligned/working |  
-| github_path | http://github.com/dchwebb/Custom_Footprints.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/SPDT_SubMiniature_Aligned.kicad_mod |  
-| links | {'github_owner': 'dchwebb', 'github_repo_name': 'Custom_Footprints.pretty', 'github_src': 'http://github.com/dchwebb/Custom_Footprints.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Wurth_2.4GHz_Filter_2.5mm_2.0mm.kicad_mod', 'github_src_repo': 'https://github.com/dchwebb/Custom_Footprints.pretty', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/dchwebb_custom_footprints_spdt_subminiature_aligned/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/dchwebb_custom_footprints_spdt_subminiature_aligned/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/dchwebb_custom_footprints_spdt_subminiature_aligned/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/dchwebb_custom_footprints_spdt_subminiature_aligned/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/dchwebb_custom_footprints_spdt_subminiature_aligned/working |  
+| github_path | http://github.com/dchwebb/Custom_Footprints.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/SPDT_SubMiniature_Aligned.kicad_mod |  
+| links | {'github_owner': 'dchwebb', 'github_repo_name': 'Custom_Footprints.pretty', 'github_src': 'http://github.com/dchwebb/Custom_Footprints.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/Wurth_2.4GHz_Filter_2.5mm_2.0mm.kicad_mod', 'github_src_repo': 'https://github.com/dchwebb/Custom_Footprints.pretty', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/dchwebb_custom_footprints_spdt_subminiature_aligned/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/dchwebb_custom_footprints_spdt_subminiature_aligned/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/dchwebb_custom_footprints_spdt_subminiature_aligned/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/dchwebb_custom_footprints_spdt_subminiature_aligned/working'} |  
 | name | Custom_Footprints.pretty |  
-| oomp | {'footprint_name': 'spdt_subminiature_aligned', 'library_name': 'custom_footprints', 'md5': '809f1f58f10cdf242587be67000a3e6d', 'md5_10': '809f1f58f1', 'md5_5': '809f1', 'md5_6': '809f1f', 'oomp_key': 'oomp_dchwebb_custom_footprints_spdt_subminiature_aligned', 'oomp_key_extra': 'oomp_footprint_dchwebb_custom_footprints_spdt_subminiature_aligned', 'oomp_key_full': 'oomp_footprint_dchwebb_custom_footprints_spdt_subminiature_aligned_809f1f', 'oomp_key_simple': 'dchwebb_custom_footprints_spdt_subminiature_aligned', 'original_filename': 'data//oomlout_oomp_footprint_src/Custom_Footprints.pretty/SPDT_SubMiniature_Aligned.kicad_mod', 'owner_name': 'dchwebb'} |  
+| oomp | {'footprint_name': 'spdt_subminiature_aligned', 'library_name': 'custom_footprints', 'md5': '809f1f58f10cdf242587be67000a3e6d', 'md5_10': '809f1f58f1', 'md5_5': '809f1', 'md5_6': '809f1f', 'oomp_key': 'oomp_dchwebb_custom_footprints_spdt_subminiature_aligned', 'oomp_key_extra': 'oomp_footprint_dchwebb_custom_footprints_spdt_subminiature_aligned', 'oomp_key_full': 'oomp_footprint_dchwebb_custom_footprints_spdt_subminiature_aligned_809f1f', 'oomp_key_simple': 'dchwebb_custom_footprints_spdt_subminiature_aligned', 'original_filename': 'data/oomlout_oomp_footprint_src/Custom_Footprints.pretty/SPDT_SubMiniature_Aligned.kicad_mod', 'owner_name': 'dchwebb'} |  
 | oomp_key | oomp_dchwebb_custom_footprints_spdt_subminiature_aligned |  
 | oomp_key_full | oomp_footprint_dchwebb_custom_footprints_spdt_subminiature_aligned |  
 | oomp_key_simple | dchwebb_custom_footprints_spdt_subminiature_aligned |  

@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://gitlab.com/kicad/libraries/kicad-footprints  
 The original footprint can be found at:
-http://gitlab.com/Gigahawk/Gigahawk.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4.3mm.kicad_mod
+http://gitlab.com/Gigahawk/Gigahawk.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4.3mm.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: None  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/Gigahawk.pretty/54-00174.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/Gigahawk.pretty/54-00174.kicad_mod |  
 | footprint | {'description': None, 'libraryLink': '54-00174', 'number_of_pads': 7} |  
 | footprint_library_directory | footprint_library_owner/Gigahawk_Gigahawk.pretty |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/gigahawk_gigahawk_54_00174/working |  
-| github_path | http://github.com/Gigahawk/Gigahawk.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/54-00174.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/Gigahawk/Gigahawk.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4.3mm.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/gigahawk_gigahawk_54_00174/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/gigahawk_gigahawk_54_00174/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/gigahawk_gigahawk_54_00174/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/gigahawk_gigahawk_54_00174/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/gigahawk_gigahawk_54_00174/working |  
+| github_path | http://github.com/Gigahawk/Gigahawk.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/54-00174.kicad_mod |  
+| links | {'github_src': 'http://gitlab.com/Gigahawk/Gigahawk.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4.3mm.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/gigahawk_gigahawk_54_00174/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/gigahawk_gigahawk_54_00174/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/gigahawk_gigahawk_54_00174/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/gigahawk_gigahawk_54_00174/working'} |  
 | name | Gigahawk.pretty |  
-| oomp | {'footprint_name': '54_00174', 'library_name': 'gigahawk', 'md5': '7d32b14b2a1c1e9c950374b2000d2c3e', 'md5_10': '7d32b14b2a', 'md5_5': '7d32b', 'md5_6': '7d32b1', 'oomp_key': 'oomp_gigahawk_gigahawk_54_00174', 'oomp_key_extra': 'oomp_footprint_gigahawk_gigahawk_54_00174', 'oomp_key_full': 'oomp_footprint_gigahawk_gigahawk_54_00174_7d32b1', 'oomp_key_simple': 'gigahawk_gigahawk_54_00174', 'original_filename': 'data//oomlout_oomp_footprint_src/Gigahawk.pretty/54-00174.kicad_mod', 'owner_name': 'gigahawk'} |  
+| oomp | {'footprint_name': '54_00174', 'library_name': 'gigahawk', 'md5': '7d32b14b2a1c1e9c950374b2000d2c3e', 'md5_10': '7d32b14b2a', 'md5_5': '7d32b', 'md5_6': '7d32b1', 'oomp_key': 'oomp_gigahawk_gigahawk_54_00174', 'oomp_key_extra': 'oomp_footprint_gigahawk_gigahawk_54_00174', 'oomp_key_full': 'oomp_footprint_gigahawk_gigahawk_54_00174_7d32b1', 'oomp_key_simple': 'gigahawk_gigahawk_54_00174', 'original_filename': 'data/oomlout_oomp_footprint_src/Gigahawk.pretty/54-00174.kicad_mod', 'owner_name': 'gigahawk'} |  
 | oomp_key | oomp_gigahawk_gigahawk_54_00174 |  
 | oomp_key_full | oomp_footprint_gigahawk_gigahawk_54_00174 |  
 | oomp_key_simple | gigahawk_gigahawk_54_00174 |  

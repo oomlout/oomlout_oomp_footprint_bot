@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://github.com/diypinball/PinballParts.pretty  
 The original footprint can be found at:
-http://github.com/diypinball/PinballParts.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/SOLENOID-CONNECTOR-V.kicad_mod
+http://github.com/diypinball/PinballParts.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/SOLENOID-CONNECTOR-V.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: None  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/PinballParts.pretty/ATA8041.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/PinballParts.pretty/ATA8041.kicad_mod |  
 | footprint | {'description': None, 'libraryLink': 'ATA8041', 'number_of_pads': 12} |  
 | footprint_library_directory | footprint_library_owner/diypinball_PinballParts.pretty |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/diypinball_pinballparts_ata8041/working |  
-| github_path | http://github.com/diypinball/PinballParts.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/ATA8041.kicad_mod |  
-| links | {'github_owner': 'diypinball', 'github_repo_name': 'PinballParts.pretty', 'github_src': 'http://github.com/diypinball/PinballParts.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/SOLENOID-CONNECTOR-V.kicad_mod', 'github_src_repo': 'https://github.com/diypinball/PinballParts.pretty', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/diypinball_pinballparts_ata8041/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/diypinball_pinballparts_ata8041/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/diypinball_pinballparts_ata8041/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/diypinball_pinballparts_ata8041/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/diypinball_pinballparts_ata8041/working |  
+| github_path | http://github.com/diypinball/PinballParts.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/ATA8041.kicad_mod |  
+| links | {'github_owner': 'diypinball', 'github_repo_name': 'PinballParts.pretty', 'github_src': 'http://github.com/diypinball/PinballParts.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/SOLENOID-CONNECTOR-V.kicad_mod', 'github_src_repo': 'https://github.com/diypinball/PinballParts.pretty', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/diypinball_pinballparts_ata8041/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/diypinball_pinballparts_ata8041/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/diypinball_pinballparts_ata8041/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/diypinball_pinballparts_ata8041/working'} |  
 | name | PinballParts.pretty |  
-| oomp | {'footprint_name': 'ata8041', 'library_name': 'pinballparts', 'md5': '6618899d1fe1499e7f6eef5c81b427ab', 'md5_10': '6618899d1f', 'md5_5': '66188', 'md5_6': '661889', 'oomp_key': 'oomp_diypinball_pinballparts_ata8041', 'oomp_key_extra': 'oomp_footprint_diypinball_pinballparts_ata8041', 'oomp_key_full': 'oomp_footprint_diypinball_pinballparts_ata8041_661889', 'oomp_key_simple': 'diypinball_pinballparts_ata8041', 'original_filename': 'data//oomlout_oomp_footprint_src/PinballParts.pretty/ATA8041.kicad_mod', 'owner_name': 'diypinball'} |  
+| oomp | {'footprint_name': 'ata8041', 'library_name': 'pinballparts', 'md5': '6618899d1fe1499e7f6eef5c81b427ab', 'md5_10': '6618899d1f', 'md5_5': '66188', 'md5_6': '661889', 'oomp_key': 'oomp_diypinball_pinballparts_ata8041', 'oomp_key_extra': 'oomp_footprint_diypinball_pinballparts_ata8041', 'oomp_key_full': 'oomp_footprint_diypinball_pinballparts_ata8041_661889', 'oomp_key_simple': 'diypinball_pinballparts_ata8041', 'original_filename': 'data/oomlout_oomp_footprint_src/PinballParts.pretty/ATA8041.kicad_mod', 'owner_name': 'diypinball'} |  
 | oomp_key | oomp_diypinball_pinballparts_ata8041 |  
 | oomp_key_full | oomp_footprint_diypinball_pinballparts_ata8041 |  
 | oomp_key_simple | diypinball_pinballparts_ata8041 |  

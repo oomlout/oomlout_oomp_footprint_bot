@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://github.com/alexisvl/kicad-pcblib  
 The original footprint can be found at:
-http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data//oomlout_oomp_footprint_src/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod
+http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data/oomlout_oomp_footprint_src/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: None  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/kicad-pcblib/manuf.pretty/VISHAY-WSL3637-SMALL.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/kicad-pcblib/manuf.pretty/VISHAY-WSL3637-SMALL.kicad_mod |  
 | footprint | {'description': None, 'libraryLink': 'VISHAY-WSL3637-SMALL', 'number_of_pads': 4} |  
 | footprint_library_directory | footprint_library_owner/cpavlina_kicad-pcblib |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/alexisvl_manuf_vishay_wsl3637_small/working |  
-| github_path | http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data//oomlout_oomp_footprint_src/manuf.pretty/VISHAY-WSL3637-SMALL.kicad_mod |  
-| links | {'github_owner': 'alexisvl', 'github_repo_name': 'kicad-pcblib', 'github_src': 'http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data//oomlout_oomp_footprint_src/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod', 'github_src_repo': 'https://github.com/alexisvl/kicad-pcblib', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/alexisvl_manuf_vishay_wsl3637_small/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/alexisvl_manuf_vishay_wsl3637_small/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/alexisvl_manuf_vishay_wsl3637_small/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/alexisvl_manuf_vishay_wsl3637_small/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/alexisvl_manuf_vishay_wsl3637_small/working |  
+| github_path | http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data/oomlout_oomp_footprint_src/manuf.pretty/VISHAY-WSL3637-SMALL.kicad_mod |  
+| links | {'github_owner': 'alexisvl', 'github_repo_name': 'kicad-pcblib', 'github_src': 'http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data/oomlout_oomp_footprint_src/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod', 'github_src_repo': 'https://github.com/alexisvl/kicad-pcblib', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/alexisvl_manuf_vishay_wsl3637_small/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/alexisvl_manuf_vishay_wsl3637_small/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/alexisvl_manuf_vishay_wsl3637_small/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/alexisvl_manuf_vishay_wsl3637_small/working'} |  
 | name | kicad-pcblib |  
-| oomp | {'footprint_name': 'vishay_wsl3637_small', 'library_name': 'manuf', 'md5': '830025a697ad5f1a4bb2b06d1bbe1132', 'md5_10': '830025a697', 'md5_5': '83002', 'md5_6': '830025', 'oomp_key': 'oomp_alexisvl_manuf_vishay_wsl3637_small', 'oomp_key_extra': 'oomp_footprint_alexisvl_manuf_vishay_wsl3637_small', 'oomp_key_full': 'oomp_footprint_alexisvl_manuf_vishay_wsl3637_small_830025', 'oomp_key_simple': 'alexisvl_manuf_vishay_wsl3637_small', 'original_filename': 'data//oomlout_oomp_footprint_src/kicad-pcblib/manuf.pretty/VISHAY-WSL3637-SMALL.kicad_mod', 'owner_name': 'alexisvl'} |  
+| oomp | {'footprint_name': 'vishay_wsl3637_small', 'library_name': 'manuf', 'md5': '830025a697ad5f1a4bb2b06d1bbe1132', 'md5_10': '830025a697', 'md5_5': '83002', 'md5_6': '830025', 'oomp_key': 'oomp_alexisvl_manuf_vishay_wsl3637_small', 'oomp_key_extra': 'oomp_footprint_alexisvl_manuf_vishay_wsl3637_small', 'oomp_key_full': 'oomp_footprint_alexisvl_manuf_vishay_wsl3637_small_830025', 'oomp_key_simple': 'alexisvl_manuf_vishay_wsl3637_small', 'original_filename': 'data/oomlout_oomp_footprint_src/kicad-pcblib/manuf.pretty/VISHAY-WSL3637-SMALL.kicad_mod', 'owner_name': 'alexisvl'} |  
 | oomp_key | oomp_alexisvl_manuf_vishay_wsl3637_small |  
 | oomp_key_full | oomp_footprint_alexisvl_manuf_vishay_wsl3637_small |  
 | oomp_key_simple | alexisvl_manuf_vishay_wsl3637_small |  

@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://github.com/cormoran/kicad.pretty  
 The original footprint can be found at:
-http://github.com/cormoran/kicad.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XTAL_7X5MM.kicad_mod
+http://github.com/cormoran/kicad.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/XTAL_7X5MM.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: None  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/kicad.pretty/CONN_RF_N_RA_PCB.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/kicad.pretty/CONN_RF_N_RA_PCB.kicad_mod |  
 | footprint | {'description': None, 'libraryLink': 'CONN_RF_N_RA_PCB', 'number_of_pads': 5} |  
 | footprint_library_directory | footprint_library_owner/cormoran_kicad.pretty |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/cormoran_kicad_conn_rf_n_ra_pcb/working |  
-| github_path | http://github.com/cormoran/kicad.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/CONN_RF_N_RA_PCB.kicad_mod |  
-| links | {'github_owner': 'cormoran', 'github_repo_name': 'kicad.pretty', 'github_src': 'http://github.com/cormoran/kicad.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XTAL_7X5MM.kicad_mod', 'github_src_repo': 'https://github.com/cormoran/kicad.pretty', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/cormoran_kicad_conn_rf_n_ra_pcb/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/cormoran_kicad_conn_rf_n_ra_pcb/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/cormoran_kicad_conn_rf_n_ra_pcb/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/cormoran_kicad_conn_rf_n_ra_pcb/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/cormoran_kicad_conn_rf_n_ra_pcb/working |  
+| github_path | http://github.com/cormoran/kicad.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/CONN_RF_N_RA_PCB.kicad_mod |  
+| links | {'github_owner': 'cormoran', 'github_repo_name': 'kicad.pretty', 'github_src': 'http://github.com/cormoran/kicad.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/XTAL_7X5MM.kicad_mod', 'github_src_repo': 'https://github.com/cormoran/kicad.pretty', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/cormoran_kicad_conn_rf_n_ra_pcb/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/cormoran_kicad_conn_rf_n_ra_pcb/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/cormoran_kicad_conn_rf_n_ra_pcb/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/cormoran_kicad_conn_rf_n_ra_pcb/working'} |  
 | name | kicad.pretty |  
-| oomp | {'footprint_name': 'conn_rf_n_ra_pcb', 'library_name': 'kicad', 'md5': '2b2ebbd352d087da2adda0088ecf7152', 'md5_10': '2b2ebbd352', 'md5_5': '2b2eb', 'md5_6': '2b2ebb', 'oomp_key': 'oomp_cormoran_kicad_conn_rf_n_ra_pcb', 'oomp_key_extra': 'oomp_footprint_cormoran_kicad_conn_rf_n_ra_pcb', 'oomp_key_full': 'oomp_footprint_cormoran_kicad_conn_rf_n_ra_pcb_2b2ebb', 'oomp_key_simple': 'cormoran_kicad_conn_rf_n_ra_pcb', 'original_filename': 'data//oomlout_oomp_footprint_src/kicad.pretty/CONN_RF_N_RA_PCB.kicad_mod', 'owner_name': 'cormoran'} |  
+| oomp | {'footprint_name': 'conn_rf_n_ra_pcb', 'library_name': 'kicad', 'md5': '2b2ebbd352d087da2adda0088ecf7152', 'md5_10': '2b2ebbd352', 'md5_5': '2b2eb', 'md5_6': '2b2ebb', 'oomp_key': 'oomp_cormoran_kicad_conn_rf_n_ra_pcb', 'oomp_key_extra': 'oomp_footprint_cormoran_kicad_conn_rf_n_ra_pcb', 'oomp_key_full': 'oomp_footprint_cormoran_kicad_conn_rf_n_ra_pcb_2b2ebb', 'oomp_key_simple': 'cormoran_kicad_conn_rf_n_ra_pcb', 'original_filename': 'data/oomlout_oomp_footprint_src/kicad.pretty/CONN_RF_N_RA_PCB.kicad_mod', 'owner_name': 'cormoran'} |  
 | oomp_key | oomp_cormoran_kicad_conn_rf_n_ra_pcb |  
 | oomp_key_full | oomp_footprint_cormoran_kicad_conn_rf_n_ra_pcb |  
 | oomp_key_simple | cormoran_kicad_conn_rf_n_ra_pcb |  

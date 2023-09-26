@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://gitlab.com/kicad/libraries/kicad-footprints  
 The original footprint can be found at:
-http://gitlab.com/espressif/kicad-libraries/blob/master/tmp/data//oomlout_oomp_footprint_src/footprints/Espressif.pretty/ESP32-WROVER-E_ThermalVias.kicad_mod
+http://gitlab.com/espressif/kicad-libraries/blob/master/tmp/data/oomlout_oomp_footprint_src/footprints/Espressif.pretty/ESP32-WROVER-E_ThermalVias.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: ESP32-S2 general-purpose development board, based on ESP32-S2-SOLO or ESP32-S2-SOLO-U,It has all the ESP32-S2 pins exposed and is easy to connect and use.  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/kicad-libraries/footprints/Espressif.pretty/ESP32-S2-DevKitC-1.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/kicad-libraries/footprints/Espressif.pretty/ESP32-S2-DevKitC-1.kicad_mod |  
 | footprint | {'description': 'ESP32-S2 general-purpose development board, based on ESP32-S2-SOLO or ESP32-S2-SOLO-U,It has all the ESP32-S2 pins exposed and is easy to connect and use.', 'libraryLink': 'ESP32-S2-DevKitC-1', 'number_of_pads': 44} |  
 | footprint_library_directory | footprint_library_owner/espressif_kicad-libraries |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/espressif_espressif_esp32_s2_devkitc_1/working |  
-| github_path | http://github.com/espressif/kicad-libraries/blob/master/tmp/data//oomlout_oomp_footprint_src/footprints/Espressif.pretty/ESP32-S2-DevKitC-1.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/espressif/kicad-libraries/blob/master/tmp/data//oomlout_oomp_footprint_src/footprints/Espressif.pretty/ESP32-WROVER-E_ThermalVias.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/espressif_espressif_esp32_s2_devkitc_1/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/espressif_espressif_esp32_s2_devkitc_1/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/espressif_espressif_esp32_s2_devkitc_1/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/espressif_espressif_esp32_s2_devkitc_1/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/espressif_espressif_esp32_s2_devkitc_1/working |  
+| github_path | http://github.com/espressif/kicad-libraries/blob/master/tmp/data/oomlout_oomp_footprint_src/footprints/Espressif.pretty/ESP32-S2-DevKitC-1.kicad_mod |  
+| links | {'github_src': 'http://gitlab.com/espressif/kicad-libraries/blob/master/tmp/data/oomlout_oomp_footprint_src/footprints/Espressif.pretty/ESP32-WROVER-E_ThermalVias.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/espressif_espressif_esp32_s2_devkitc_1/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/espressif_espressif_esp32_s2_devkitc_1/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/espressif_espressif_esp32_s2_devkitc_1/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/espressif_espressif_esp32_s2_devkitc_1/working'} |  
 | name | kicad-libraries |  
-| oomp | {'footprint_name': 'esp32_s2_devkitc_1', 'library_name': 'espressif', 'md5': '1b1a7170da6af5dee0096e7f52b36d7e', 'md5_10': '1b1a7170da', 'md5_5': '1b1a7', 'md5_6': '1b1a71', 'oomp_key': 'oomp_espressif_espressif_esp32_s2_devkitc_1', 'oomp_key_extra': 'oomp_footprint_espressif_espressif_esp32_s2_devkitc_1', 'oomp_key_full': 'oomp_footprint_espressif_espressif_esp32_s2_devkitc_1_1b1a71', 'oomp_key_simple': 'espressif_espressif_esp32_s2_devkitc_1', 'original_filename': 'data//oomlout_oomp_footprint_src/kicad-libraries/footprints/Espressif.pretty/ESP32-S2-DevKitC-1.kicad_mod', 'owner_name': 'espressif'} |  
+| oomp | {'footprint_name': 'esp32_s2_devkitc_1', 'library_name': 'espressif', 'md5': '1b1a7170da6af5dee0096e7f52b36d7e', 'md5_10': '1b1a7170da', 'md5_5': '1b1a7', 'md5_6': '1b1a71', 'oomp_key': 'oomp_espressif_espressif_esp32_s2_devkitc_1', 'oomp_key_extra': 'oomp_footprint_espressif_espressif_esp32_s2_devkitc_1', 'oomp_key_full': 'oomp_footprint_espressif_espressif_esp32_s2_devkitc_1_1b1a71', 'oomp_key_simple': 'espressif_espressif_esp32_s2_devkitc_1', 'original_filename': 'data/oomlout_oomp_footprint_src/kicad-libraries/footprints/Espressif.pretty/ESP32-S2-DevKitC-1.kicad_mod', 'owner_name': 'espressif'} |  
 | oomp_key | oomp_espressif_espressif_esp32_s2_devkitc_1 |  
 | oomp_key_full | oomp_footprint_espressif_espressif_esp32_s2_devkitc_1 |  
 | oomp_key_simple | espressif_espressif_esp32_s2_devkitc_1 |  

@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://gitlab.com/kicad/libraries/kicad-footprints  
 The original footprint can be found at:
-http://gitlab.com/graycatlabs/GrayCatLabs.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/ZX62R-B-5P.kicad_mod
+http://gitlab.com/graycatlabs/GrayCatLabs.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/ZX62R-B-5P.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: http://www.ti.com/lit/ml/mpds335a/mpds335a.pdf  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/GrayCatLabs.pretty/TI-DSQ.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/GrayCatLabs.pretty/TI-DSQ.kicad_mod |  
 | footprint | {'description': 'http://www.ti.com/lit/ml/mpds335a/mpds335a.pdf', 'libraryLink': 'TI-DSQ', 'number_of_pads': 11} |  
 | footprint_library_directory | footprint_library_owner/graycatlabs_GrayCatLabs.pretty |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/graycatlabs_graycatlabs_ti_dsq/working |  
-| github_path | http://github.com/graycatlabs/GrayCatLabs.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/TI-DSQ.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/graycatlabs/GrayCatLabs.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/ZX62R-B-5P.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/graycatlabs_graycatlabs_ti_dsq/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/graycatlabs_graycatlabs_ti_dsq/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/graycatlabs_graycatlabs_ti_dsq/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/graycatlabs_graycatlabs_ti_dsq/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/graycatlabs_graycatlabs_ti_dsq/working |  
+| github_path | http://github.com/graycatlabs/GrayCatLabs.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/TI-DSQ.kicad_mod |  
+| links | {'github_src': 'http://gitlab.com/graycatlabs/GrayCatLabs.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/ZX62R-B-5P.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/graycatlabs_graycatlabs_ti_dsq/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/graycatlabs_graycatlabs_ti_dsq/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/graycatlabs_graycatlabs_ti_dsq/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/graycatlabs_graycatlabs_ti_dsq/working'} |  
 | name | GrayCatLabs.pretty |  
-| oomp | {'footprint_name': 'ti_dsq', 'library_name': 'graycatlabs', 'md5': '95de8445f35e33842e0354efbeb5af38', 'md5_10': '95de8445f3', 'md5_5': '95de8', 'md5_6': '95de84', 'oomp_key': 'oomp_graycatlabs_graycatlabs_ti_dsq', 'oomp_key_extra': 'oomp_footprint_graycatlabs_graycatlabs_ti_dsq', 'oomp_key_full': 'oomp_footprint_graycatlabs_graycatlabs_ti_dsq_95de84', 'oomp_key_simple': 'graycatlabs_graycatlabs_ti_dsq', 'original_filename': 'data//oomlout_oomp_footprint_src/GrayCatLabs.pretty/TI-DSQ.kicad_mod', 'owner_name': 'graycatlabs'} |  
+| oomp | {'footprint_name': 'ti_dsq', 'library_name': 'graycatlabs', 'md5': '95de8445f35e33842e0354efbeb5af38', 'md5_10': '95de8445f3', 'md5_5': '95de8', 'md5_6': '95de84', 'oomp_key': 'oomp_graycatlabs_graycatlabs_ti_dsq', 'oomp_key_extra': 'oomp_footprint_graycatlabs_graycatlabs_ti_dsq', 'oomp_key_full': 'oomp_footprint_graycatlabs_graycatlabs_ti_dsq_95de84', 'oomp_key_simple': 'graycatlabs_graycatlabs_ti_dsq', 'original_filename': 'data/oomlout_oomp_footprint_src/GrayCatLabs.pretty/TI-DSQ.kicad_mod', 'owner_name': 'graycatlabs'} |  
 | oomp_key | oomp_graycatlabs_graycatlabs_ti_dsq |  
 | oomp_key_full | oomp_footprint_graycatlabs_graycatlabs_ti_dsq |  
 | oomp_key_simple | graycatlabs_graycatlabs_ti_dsq |  

@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://github.com/cuzdaori/KiCad.pretty  
 The original footprint can be found at:
-http://github.com/cuzdaori/KiCad.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XTAL_7X5MM.kicad_mod
+http://github.com/cuzdaori/KiCad.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/XTAL_7X5MM.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: None  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/KiCad.pretty/Header_2x1_Shrouded_100mil.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/KiCad.pretty/Header_2x1_Shrouded_100mil.kicad_mod |  
 | footprint | {'description': None, 'libraryLink': 'Header_2x1_Shrouded_100mil', 'number_of_pads': 2} |  
 | footprint_library_directory | footprint_library_owner/cuzdaori_KiCad.pretty |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/cuzdaori_kicad_header_2x1_shrouded_100mil/working |  
-| github_path | http://github.com/cuzdaori/KiCad.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Header_2x1_Shrouded_100mil.kicad_mod |  
-| links | {'github_owner': 'cuzdaori', 'github_repo_name': 'KiCad.pretty', 'github_src': 'http://github.com/cuzdaori/KiCad.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XTAL_7X5MM.kicad_mod', 'github_src_repo': 'https://github.com/cuzdaori/KiCad.pretty', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/cuzdaori_kicad_header_2x1_shrouded_100mil/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/cuzdaori_kicad_header_2x1_shrouded_100mil/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/cuzdaori_kicad_header_2x1_shrouded_100mil/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/cuzdaori_kicad_header_2x1_shrouded_100mil/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/cuzdaori_kicad_header_2x1_shrouded_100mil/working |  
+| github_path | http://github.com/cuzdaori/KiCad.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/Header_2x1_Shrouded_100mil.kicad_mod |  
+| links | {'github_owner': 'cuzdaori', 'github_repo_name': 'KiCad.pretty', 'github_src': 'http://github.com/cuzdaori/KiCad.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/XTAL_7X5MM.kicad_mod', 'github_src_repo': 'https://github.com/cuzdaori/KiCad.pretty', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/cuzdaori_kicad_header_2x1_shrouded_100mil/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/cuzdaori_kicad_header_2x1_shrouded_100mil/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/cuzdaori_kicad_header_2x1_shrouded_100mil/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/cuzdaori_kicad_header_2x1_shrouded_100mil/working'} |  
 | name | KiCad.pretty |  
-| oomp | {'footprint_name': 'header_2x1_shrouded_100mil', 'library_name': 'kicad', 'md5': '1cb5318f8cd98d1dc7691eba3d4eb050', 'md5_10': '1cb5318f8c', 'md5_5': '1cb53', 'md5_6': '1cb531', 'oomp_key': 'oomp_cuzdaori_kicad_header_2x1_shrouded_100mil', 'oomp_key_extra': 'oomp_footprint_cuzdaori_kicad_header_2x1_shrouded_100mil', 'oomp_key_full': 'oomp_footprint_cuzdaori_kicad_header_2x1_shrouded_100mil_1cb531', 'oomp_key_simple': 'cuzdaori_kicad_header_2x1_shrouded_100mil', 'original_filename': 'data//oomlout_oomp_footprint_src/KiCad.pretty/Header_2x1_Shrouded_100mil.kicad_mod', 'owner_name': 'cuzdaori'} |  
+| oomp | {'footprint_name': 'header_2x1_shrouded_100mil', 'library_name': 'kicad', 'md5': '1cb5318f8cd98d1dc7691eba3d4eb050', 'md5_10': '1cb5318f8c', 'md5_5': '1cb53', 'md5_6': '1cb531', 'oomp_key': 'oomp_cuzdaori_kicad_header_2x1_shrouded_100mil', 'oomp_key_extra': 'oomp_footprint_cuzdaori_kicad_header_2x1_shrouded_100mil', 'oomp_key_full': 'oomp_footprint_cuzdaori_kicad_header_2x1_shrouded_100mil_1cb531', 'oomp_key_simple': 'cuzdaori_kicad_header_2x1_shrouded_100mil', 'original_filename': 'data/oomlout_oomp_footprint_src/KiCad.pretty/Header_2x1_Shrouded_100mil.kicad_mod', 'owner_name': 'cuzdaori'} |  
 | oomp_key | oomp_cuzdaori_kicad_header_2x1_shrouded_100mil |  
 | oomp_key_full | oomp_footprint_cuzdaori_kicad_header_2x1_shrouded_100mil |  
 | oomp_key_simple | cuzdaori_kicad_header_2x1_shrouded_100mil |  

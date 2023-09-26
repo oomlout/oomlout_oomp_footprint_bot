@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://github.com/diypinball/PinballParts.pretty  
 The original footprint can be found at:
-http://github.com/diypinball/PinballParts.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/SOLENOID-CONNECTOR-V.kicad_mod
+http://github.com/diypinball/PinballParts.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/SOLENOID-CONNECTOR-V.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: None  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/PinballParts.pretty/FC203-20MM.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/PinballParts.pretty/FC203-20MM.kicad_mod |  
 | footprint | {'description': None, 'libraryLink': 'FC203-20MM', 'number_of_pads': 4} |  
 | footprint_library_directory | footprint_library_owner/diypinball_PinballParts.pretty |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/diypinball_pinballparts_fc203_20mm/working |  
-| github_path | http://github.com/diypinball/PinballParts.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/FC203-20MM.kicad_mod |  
-| links | {'github_owner': 'diypinball', 'github_repo_name': 'PinballParts.pretty', 'github_src': 'http://github.com/diypinball/PinballParts.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/SOLENOID-CONNECTOR-V.kicad_mod', 'github_src_repo': 'https://github.com/diypinball/PinballParts.pretty', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/diypinball_pinballparts_fc203_20mm/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/diypinball_pinballparts_fc203_20mm/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/diypinball_pinballparts_fc203_20mm/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/diypinball_pinballparts_fc203_20mm/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/diypinball_pinballparts_fc203_20mm/working |  
+| github_path | http://github.com/diypinball/PinballParts.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/FC203-20MM.kicad_mod |  
+| links | {'github_owner': 'diypinball', 'github_repo_name': 'PinballParts.pretty', 'github_src': 'http://github.com/diypinball/PinballParts.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/SOLENOID-CONNECTOR-V.kicad_mod', 'github_src_repo': 'https://github.com/diypinball/PinballParts.pretty', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/diypinball_pinballparts_fc203_20mm/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/diypinball_pinballparts_fc203_20mm/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/diypinball_pinballparts_fc203_20mm/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/diypinball_pinballparts_fc203_20mm/working'} |  
 | name | PinballParts.pretty |  
-| oomp | {'footprint_name': 'fc203_20mm', 'library_name': 'pinballparts', 'md5': '79a6bcb305ba7f4547aea20f6b1f5a33', 'md5_10': '79a6bcb305', 'md5_5': '79a6b', 'md5_6': '79a6bc', 'oomp_key': 'oomp_diypinball_pinballparts_fc203_20mm', 'oomp_key_extra': 'oomp_footprint_diypinball_pinballparts_fc203_20mm', 'oomp_key_full': 'oomp_footprint_diypinball_pinballparts_fc203_20mm_79a6bc', 'oomp_key_simple': 'diypinball_pinballparts_fc203_20mm', 'original_filename': 'data//oomlout_oomp_footprint_src/PinballParts.pretty/FC203-20MM.kicad_mod', 'owner_name': 'diypinball'} |  
+| oomp | {'footprint_name': 'fc203_20mm', 'library_name': 'pinballparts', 'md5': '79a6bcb305ba7f4547aea20f6b1f5a33', 'md5_10': '79a6bcb305', 'md5_5': '79a6b', 'md5_6': '79a6bc', 'oomp_key': 'oomp_diypinball_pinballparts_fc203_20mm', 'oomp_key_extra': 'oomp_footprint_diypinball_pinballparts_fc203_20mm', 'oomp_key_full': 'oomp_footprint_diypinball_pinballparts_fc203_20mm_79a6bc', 'oomp_key_simple': 'diypinball_pinballparts_fc203_20mm', 'original_filename': 'data/oomlout_oomp_footprint_src/PinballParts.pretty/FC203-20MM.kicad_mod', 'owner_name': 'diypinball'} |  
 | oomp_key | oomp_diypinball_pinballparts_fc203_20mm |  
 | oomp_key_full | oomp_footprint_diypinball_pinballparts_fc203_20mm |  
 | oomp_key_simple | diypinball_pinballparts_fc203_20mm |  

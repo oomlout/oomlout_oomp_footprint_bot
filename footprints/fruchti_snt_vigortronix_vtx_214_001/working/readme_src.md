@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://gitlab.com/kicad/libraries/kicad-footprints  
 The original footprint can be found at:
-http://gitlab.com/fruchti/fruchtilib/blob/master/tmp/data//oomlout_oomp_footprint_src/mod/vssop.pretty/VSSOP8.kicad_mod
+http://gitlab.com/fruchti/fruchtilib/blob/master/tmp/data/oomlout_oomp_footprint_src/mod/vssop.pretty/VSSOP8.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: None  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/fruchtilib/mod/snt.pretty/VIGORTRONIX_VTX-214-001.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/fruchtilib/mod/snt.pretty/VIGORTRONIX_VTX-214-001.kicad_mod |  
 | footprint | {'description': None, 'libraryLink': 'VIGORTRONIX_VTX-214-001', 'number_of_pads': 4} |  
 | footprint_library_directory | footprint_library_owner/fruchti_fruchtilib |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/fruchti_snt_vigortronix_vtx_214_001/working |  
-| github_path | http://github.com/fruchti/fruchtilib/blob/master/tmp/data//oomlout_oomp_footprint_src/mod/snt.pretty/VIGORTRONIX_VTX-214-001.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/fruchti/fruchtilib/blob/master/tmp/data//oomlout_oomp_footprint_src/mod/vssop.pretty/VSSOP8.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/fruchti_snt_vigortronix_vtx_214_001/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/fruchti_snt_vigortronix_vtx_214_001/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/fruchti_snt_vigortronix_vtx_214_001/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/fruchti_snt_vigortronix_vtx_214_001/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/fruchti_snt_vigortronix_vtx_214_001/working |  
+| github_path | http://github.com/fruchti/fruchtilib/blob/master/tmp/data/oomlout_oomp_footprint_src/mod/snt.pretty/VIGORTRONIX_VTX-214-001.kicad_mod |  
+| links | {'github_src': 'http://gitlab.com/fruchti/fruchtilib/blob/master/tmp/data/oomlout_oomp_footprint_src/mod/vssop.pretty/VSSOP8.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/fruchti_snt_vigortronix_vtx_214_001/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/fruchti_snt_vigortronix_vtx_214_001/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/fruchti_snt_vigortronix_vtx_214_001/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/fruchti_snt_vigortronix_vtx_214_001/working'} |  
 | name | fruchtilib |  
-| oomp | {'footprint_name': 'vigortronix_vtx_214_001', 'library_name': 'snt', 'md5': '36a4b3e5b8e1b4c42994a6330dce1618', 'md5_10': '36a4b3e5b8', 'md5_5': '36a4b', 'md5_6': '36a4b3', 'oomp_key': 'oomp_fruchti_snt_vigortronix_vtx_214_001', 'oomp_key_extra': 'oomp_footprint_fruchti_snt_vigortronix_vtx_214_001', 'oomp_key_full': 'oomp_footprint_fruchti_snt_vigortronix_vtx_214_001_36a4b3', 'oomp_key_simple': 'fruchti_snt_vigortronix_vtx_214_001', 'original_filename': 'data//oomlout_oomp_footprint_src/fruchtilib/mod/snt.pretty/VIGORTRONIX_VTX-214-001.kicad_mod', 'owner_name': 'fruchti'} |  
+| oomp | {'footprint_name': 'vigortronix_vtx_214_001', 'library_name': 'snt', 'md5': '36a4b3e5b8e1b4c42994a6330dce1618', 'md5_10': '36a4b3e5b8', 'md5_5': '36a4b', 'md5_6': '36a4b3', 'oomp_key': 'oomp_fruchti_snt_vigortronix_vtx_214_001', 'oomp_key_extra': 'oomp_footprint_fruchti_snt_vigortronix_vtx_214_001', 'oomp_key_full': 'oomp_footprint_fruchti_snt_vigortronix_vtx_214_001_36a4b3', 'oomp_key_simple': 'fruchti_snt_vigortronix_vtx_214_001', 'original_filename': 'data/oomlout_oomp_footprint_src/fruchtilib/mod/snt.pretty/VIGORTRONIX_VTX-214-001.kicad_mod', 'owner_name': 'fruchti'} |  
 | oomp_key | oomp_fruchti_snt_vigortronix_vtx_214_001 |  
 | oomp_key_full | oomp_footprint_fruchti_snt_vigortronix_vtx_214_001 |  
 | oomp_key_simple | fruchti_snt_vigortronix_vtx_214_001 |  

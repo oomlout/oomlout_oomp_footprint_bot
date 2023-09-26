@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://gitlab.com/kicad/libraries/kicad-footprints  
 The original footprint can be found at:
-http://gitlab.com/fruchti/fruchtilib/blob/master/tmp/data//oomlout_oomp_footprint_src/mod/vssop.pretty/VSSOP8.kicad_mod
+http://gitlab.com/fruchti/fruchtilib/blob/master/tmp/data/oomlout_oomp_footprint_src/mod/vssop.pretty/VSSOP8.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: None  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/fruchtilib/mod/conn.pretty/BARREL_MULTICOMP_MJ179PH.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/fruchtilib/mod/conn.pretty/BARREL_MULTICOMP_MJ179PH.kicad_mod |  
 | footprint | {'description': None, 'libraryLink': 'BARREL_MULTICOMP_MJ179PH', 'number_of_pads': 3} |  
 | footprint_library_directory | footprint_library_owner/fruchti_fruchtilib |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/fruchti_conn_barrel_multicomp_mj179ph/working |  
-| github_path | http://github.com/fruchti/fruchtilib/blob/master/tmp/data//oomlout_oomp_footprint_src/mod/conn.pretty/BARREL_MULTICOMP_MJ179PH.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/fruchti/fruchtilib/blob/master/tmp/data//oomlout_oomp_footprint_src/mod/vssop.pretty/VSSOP8.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/fruchti_conn_barrel_multicomp_mj179ph/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/fruchti_conn_barrel_multicomp_mj179ph/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/fruchti_conn_barrel_multicomp_mj179ph/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/fruchti_conn_barrel_multicomp_mj179ph/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/fruchti_conn_barrel_multicomp_mj179ph/working |  
+| github_path | http://github.com/fruchti/fruchtilib/blob/master/tmp/data/oomlout_oomp_footprint_src/mod/conn.pretty/BARREL_MULTICOMP_MJ179PH.kicad_mod |  
+| links | {'github_src': 'http://gitlab.com/fruchti/fruchtilib/blob/master/tmp/data/oomlout_oomp_footprint_src/mod/vssop.pretty/VSSOP8.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/fruchti_conn_barrel_multicomp_mj179ph/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/fruchti_conn_barrel_multicomp_mj179ph/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/fruchti_conn_barrel_multicomp_mj179ph/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/fruchti_conn_barrel_multicomp_mj179ph/working'} |  
 | name | fruchtilib |  
-| oomp | {'footprint_name': 'barrel_multicomp_mj179ph', 'library_name': 'conn', 'md5': '361b4011118355499b7e1c5785f72fe0', 'md5_10': '361b401111', 'md5_5': '361b4', 'md5_6': '361b40', 'oomp_key': 'oomp_fruchti_conn_barrel_multicomp_mj179ph', 'oomp_key_extra': 'oomp_footprint_fruchti_conn_barrel_multicomp_mj179ph', 'oomp_key_full': 'oomp_footprint_fruchti_conn_barrel_multicomp_mj179ph_361b40', 'oomp_key_simple': 'fruchti_conn_barrel_multicomp_mj179ph', 'original_filename': 'data//oomlout_oomp_footprint_src/fruchtilib/mod/conn.pretty/BARREL_MULTICOMP_MJ179PH.kicad_mod', 'owner_name': 'fruchti'} |  
+| oomp | {'footprint_name': 'barrel_multicomp_mj179ph', 'library_name': 'conn', 'md5': '361b4011118355499b7e1c5785f72fe0', 'md5_10': '361b401111', 'md5_5': '361b4', 'md5_6': '361b40', 'oomp_key': 'oomp_fruchti_conn_barrel_multicomp_mj179ph', 'oomp_key_extra': 'oomp_footprint_fruchti_conn_barrel_multicomp_mj179ph', 'oomp_key_full': 'oomp_footprint_fruchti_conn_barrel_multicomp_mj179ph_361b40', 'oomp_key_simple': 'fruchti_conn_barrel_multicomp_mj179ph', 'original_filename': 'data/oomlout_oomp_footprint_src/fruchtilib/mod/conn.pretty/BARREL_MULTICOMP_MJ179PH.kicad_mod', 'owner_name': 'fruchti'} |  
 | oomp_key | oomp_fruchti_conn_barrel_multicomp_mj179ph |  
 | oomp_key_full | oomp_footprint_fruchti_conn_barrel_multicomp_mj179ph |  
 | oomp_key_simple | fruchti_conn_barrel_multicomp_mj179ph |  

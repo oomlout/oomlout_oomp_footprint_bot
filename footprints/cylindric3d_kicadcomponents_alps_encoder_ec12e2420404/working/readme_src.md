@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://github.com/Cylindric3D/KicadComponents.pretty  
 The original footprint can be found at:
-http://github.com/Cylindric3D/KicadComponents.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/ArduinoProMicro.kicad_mod
+http://github.com/Cylindric3D/KicadComponents.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/ArduinoProMicro.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: None  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/KicadComponents.pretty/ALPS_Encoder-EC12E2420404.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/KicadComponents.pretty/ALPS_Encoder-EC12E2420404.kicad_mod |  
 | footprint | {'description': None, 'libraryLink': 'ALPS_Encoder-EC12E2420404', 'number_of_pads': 5} |  
 | footprint_library_directory | footprint_library_owner/Cylindric3D_KicadComponents.pretty |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/cylindric3d_kicadcomponents_alps_encoder_ec12e2420404/working |  
-| github_path | http://github.com/Cylindric3D/KicadComponents.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/ALPS_Encoder-EC12E2420404.kicad_mod |  
-| links | {'github_owner': 'Cylindric3D', 'github_repo_name': 'KicadComponents.pretty', 'github_src': 'http://github.com/Cylindric3D/KicadComponents.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/ArduinoProMicro.kicad_mod', 'github_src_repo': 'https://github.com/Cylindric3D/KicadComponents.pretty', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/cylindric3d_kicadcomponents_alps_encoder_ec12e2420404/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/cylindric3d_kicadcomponents_alps_encoder_ec12e2420404/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/cylindric3d_kicadcomponents_alps_encoder_ec12e2420404/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/cylindric3d_kicadcomponents_alps_encoder_ec12e2420404/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/cylindric3d_kicadcomponents_alps_encoder_ec12e2420404/working |  
+| github_path | http://github.com/Cylindric3D/KicadComponents.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/ALPS_Encoder-EC12E2420404.kicad_mod |  
+| links | {'github_owner': 'Cylindric3D', 'github_repo_name': 'KicadComponents.pretty', 'github_src': 'http://github.com/Cylindric3D/KicadComponents.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/ArduinoProMicro.kicad_mod', 'github_src_repo': 'https://github.com/Cylindric3D/KicadComponents.pretty', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/cylindric3d_kicadcomponents_alps_encoder_ec12e2420404/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/cylindric3d_kicadcomponents_alps_encoder_ec12e2420404/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/cylindric3d_kicadcomponents_alps_encoder_ec12e2420404/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/cylindric3d_kicadcomponents_alps_encoder_ec12e2420404/working'} |  
 | name | KicadComponents.pretty |  
-| oomp | {'footprint_name': 'alps_encoder_ec12e2420404', 'library_name': 'kicadcomponents', 'md5': 'f91bf75db2cb8f1703790b0e3aa01e02', 'md5_10': 'f91bf75db2', 'md5_5': 'f91bf', 'md5_6': 'f91bf7', 'oomp_key': 'oomp_cylindric3d_kicadcomponents_alps_encoder_ec12e2420404', 'oomp_key_extra': 'oomp_footprint_cylindric3d_kicadcomponents_alps_encoder_ec12e2420404', 'oomp_key_full': 'oomp_footprint_cylindric3d_kicadcomponents_alps_encoder_ec12e2420404_f91bf7', 'oomp_key_simple': 'cylindric3d_kicadcomponents_alps_encoder_ec12e2420404', 'original_filename': 'data//oomlout_oomp_footprint_src/KicadComponents.pretty/ALPS_Encoder-EC12E2420404.kicad_mod', 'owner_name': 'cylindric3d'} |  
+| oomp | {'footprint_name': 'alps_encoder_ec12e2420404', 'library_name': 'kicadcomponents', 'md5': 'f91bf75db2cb8f1703790b0e3aa01e02', 'md5_10': 'f91bf75db2', 'md5_5': 'f91bf', 'md5_6': 'f91bf7', 'oomp_key': 'oomp_cylindric3d_kicadcomponents_alps_encoder_ec12e2420404', 'oomp_key_extra': 'oomp_footprint_cylindric3d_kicadcomponents_alps_encoder_ec12e2420404', 'oomp_key_full': 'oomp_footprint_cylindric3d_kicadcomponents_alps_encoder_ec12e2420404_f91bf7', 'oomp_key_simple': 'cylindric3d_kicadcomponents_alps_encoder_ec12e2420404', 'original_filename': 'data/oomlout_oomp_footprint_src/KicadComponents.pretty/ALPS_Encoder-EC12E2420404.kicad_mod', 'owner_name': 'cylindric3d'} |  
 | oomp_key | oomp_cylindric3d_kicadcomponents_alps_encoder_ec12e2420404 |  
 | oomp_key_full | oomp_footprint_cylindric3d_kicadcomponents_alps_encoder_ec12e2420404 |  
 | oomp_key_simple | cylindric3d_kicadcomponents_alps_encoder_ec12e2420404 |  

@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://gitlab.com/kicad/libraries/kicad-footprints  
 The original footprint can be found at:
-http://gitlab.com/axello/kicad/blob/master/tmp/data//oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod
+http://gitlab.com/axello/kicad/blob/master/tmp/data/oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: None  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/kicad/mods/freetronics_footprints.pretty/LOGO_FREETRONICS_11mm.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/kicad/mods/freetronics_footprints.pretty/LOGO_FREETRONICS_11mm.kicad_mod |  
 | footprint | {'description': None, 'libraryLink': 'LOGO_FREETRONICS_MIDSIZE', 'number_of_pads': 0} |  
 | footprint_library_directory | footprint_library_owner/axello_kicad |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/axello_freetronics_footprints_logo_freetronics_11mm/working |  
-| github_path | http://github.com/axello/kicad/blob/master/tmp/data//oomlout_oomp_footprint_src/mods/freetronics_footprints.pretty/LOGO_FREETRONICS_11mm.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/axello/kicad/blob/master/tmp/data//oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/axello_freetronics_footprints_logo_freetronics_11mm/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/axello_freetronics_footprints_logo_freetronics_11mm/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/axello_freetronics_footprints_logo_freetronics_11mm/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/axello_freetronics_footprints_logo_freetronics_11mm/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/axello_freetronics_footprints_logo_freetronics_11mm/working |  
+| github_path | http://github.com/axello/kicad/blob/master/tmp/data/oomlout_oomp_footprint_src/mods/freetronics_footprints.pretty/LOGO_FREETRONICS_11mm.kicad_mod |  
+| links | {'github_src': 'http://gitlab.com/axello/kicad/blob/master/tmp/data/oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/axello_freetronics_footprints_logo_freetronics_11mm/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/axello_freetronics_footprints_logo_freetronics_11mm/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/axello_freetronics_footprints_logo_freetronics_11mm/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/axello_freetronics_footprints_logo_freetronics_11mm/working'} |  
 | name | kicad |  
-| oomp | {'footprint_name': 'logo_freetronics_11mm', 'library_name': 'freetronics_footprints', 'md5': 'aa25dd09bc500fecf7b6adee2460ecf3', 'md5_10': 'aa25dd09bc', 'md5_5': 'aa25d', 'md5_6': 'aa25dd', 'oomp_key': 'oomp_axello_freetronics_footprints_logo_freetronics_11mm', 'oomp_key_extra': 'oomp_footprint_axello_freetronics_footprints_logo_freetronics_11mm', 'oomp_key_full': 'oomp_footprint_axello_freetronics_footprints_logo_freetronics_11mm_aa25dd', 'oomp_key_simple': 'axello_freetronics_footprints_logo_freetronics_11mm', 'original_filename': 'data//oomlout_oomp_footprint_src/kicad/mods/freetronics_footprints.pretty/LOGO_FREETRONICS_11mm.kicad_mod', 'owner_name': 'axello'} |  
+| oomp | {'footprint_name': 'logo_freetronics_11mm', 'library_name': 'freetronics_footprints', 'md5': 'aa25dd09bc500fecf7b6adee2460ecf3', 'md5_10': 'aa25dd09bc', 'md5_5': 'aa25d', 'md5_6': 'aa25dd', 'oomp_key': 'oomp_axello_freetronics_footprints_logo_freetronics_11mm', 'oomp_key_extra': 'oomp_footprint_axello_freetronics_footprints_logo_freetronics_11mm', 'oomp_key_full': 'oomp_footprint_axello_freetronics_footprints_logo_freetronics_11mm_aa25dd', 'oomp_key_simple': 'axello_freetronics_footprints_logo_freetronics_11mm', 'original_filename': 'data/oomlout_oomp_footprint_src/kicad/mods/freetronics_footprints.pretty/LOGO_FREETRONICS_11mm.kicad_mod', 'owner_name': 'axello'} |  
 | oomp_key | oomp_axello_freetronics_footprints_logo_freetronics_11mm |  
 | oomp_key_full | oomp_footprint_axello_freetronics_footprints_logo_freetronics_11mm |  
 | oomp_key_simple | axello_freetronics_footprints_logo_freetronics_11mm |  

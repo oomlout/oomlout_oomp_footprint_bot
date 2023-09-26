@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://gitlab.com/kicad/libraries/kicad-footprints  
 The original footprint can be found at:
-http://gitlab.com/axello/kicad/blob/master/tmp/data//oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod
+http://gitlab.com/axello/kicad/blob/master/tmp/data/oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: None  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/kicad/mods/freetronics_footprints.pretty/LED_CUBE_BASE_4PIN.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/kicad/mods/freetronics_footprints.pretty/LED_CUBE_BASE_4PIN.kicad_mod |  
 | footprint | {'description': None, 'libraryLink': 'LED_CUBE_BASE_4PIN', 'number_of_pads': 5} |  
 | footprint_library_directory | footprint_library_owner/axello_kicad |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/axello_freetronics_footprints_led_cube_base_4pin/working |  
-| github_path | http://github.com/axello/kicad/blob/master/tmp/data//oomlout_oomp_footprint_src/mods/freetronics_footprints.pretty/LED_CUBE_BASE_4PIN.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/axello/kicad/blob/master/tmp/data//oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/axello_freetronics_footprints_led_cube_base_4pin/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/axello_freetronics_footprints_led_cube_base_4pin/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/axello_freetronics_footprints_led_cube_base_4pin/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/axello_freetronics_footprints_led_cube_base_4pin/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/axello_freetronics_footprints_led_cube_base_4pin/working |  
+| github_path | http://github.com/axello/kicad/blob/master/tmp/data/oomlout_oomp_footprint_src/mods/freetronics_footprints.pretty/LED_CUBE_BASE_4PIN.kicad_mod |  
+| links | {'github_src': 'http://gitlab.com/axello/kicad/blob/master/tmp/data/oomlout_oomp_footprint_src/mods/RF.pretty/XMIT.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/axello_freetronics_footprints_led_cube_base_4pin/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/axello_freetronics_footprints_led_cube_base_4pin/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/axello_freetronics_footprints_led_cube_base_4pin/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/axello_freetronics_footprints_led_cube_base_4pin/working'} |  
 | name | kicad |  
-| oomp | {'footprint_name': 'led_cube_base_4pin', 'library_name': 'freetronics_footprints', 'md5': '571419078ab8b9a3944a97c262cdc418', 'md5_10': '571419078a', 'md5_5': '57141', 'md5_6': '571419', 'oomp_key': 'oomp_axello_freetronics_footprints_led_cube_base_4pin', 'oomp_key_extra': 'oomp_footprint_axello_freetronics_footprints_led_cube_base_4pin', 'oomp_key_full': 'oomp_footprint_axello_freetronics_footprints_led_cube_base_4pin_571419', 'oomp_key_simple': 'axello_freetronics_footprints_led_cube_base_4pin', 'original_filename': 'data//oomlout_oomp_footprint_src/kicad/mods/freetronics_footprints.pretty/LED_CUBE_BASE_4PIN.kicad_mod', 'owner_name': 'axello'} |  
+| oomp | {'footprint_name': 'led_cube_base_4pin', 'library_name': 'freetronics_footprints', 'md5': '571419078ab8b9a3944a97c262cdc418', 'md5_10': '571419078a', 'md5_5': '57141', 'md5_6': '571419', 'oomp_key': 'oomp_axello_freetronics_footprints_led_cube_base_4pin', 'oomp_key_extra': 'oomp_footprint_axello_freetronics_footprints_led_cube_base_4pin', 'oomp_key_full': 'oomp_footprint_axello_freetronics_footprints_led_cube_base_4pin_571419', 'oomp_key_simple': 'axello_freetronics_footprints_led_cube_base_4pin', 'original_filename': 'data/oomlout_oomp_footprint_src/kicad/mods/freetronics_footprints.pretty/LED_CUBE_BASE_4PIN.kicad_mod', 'owner_name': 'axello'} |  
 | oomp_key | oomp_axello_freetronics_footprints_led_cube_base_4pin |  
 | oomp_key_full | oomp_footprint_axello_freetronics_footprints_led_cube_base_4pin |  
 | oomp_key_simple | axello_freetronics_footprints_led_cube_base_4pin |  

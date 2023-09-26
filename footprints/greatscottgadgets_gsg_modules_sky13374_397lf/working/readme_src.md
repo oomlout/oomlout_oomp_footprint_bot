@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://gitlab.com/kicad/libraries/kicad-footprints  
 The original footprint can be found at:
-http://gitlab.com/greatscottgadgets/gsg-kicad-lib/blob/master/tmp/data//oomlout_oomp_footprint_src/gsg-modules.pretty/XTAL5.0x3.2mm.kicad_mod
+http://gitlab.com/greatscottgadgets/gsg-kicad-lib/blob/master/tmp/data/oomlout_oomp_footprint_src/gsg-modules.pretty/XTAL5.0x3.2mm.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: None  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/gsg-kicad-lib/gsg-modules.pretty/SKY13374-397LF.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/gsg-kicad-lib/gsg-modules.pretty/SKY13374-397LF.kicad_mod |  
 | footprint | {'description': None, 'libraryLink': 'SKY13374-397LF', 'number_of_pads': 14} |  
 | footprint_library_directory | footprint_library_owner/greatscottgadgets_gsg-kicad-lib |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/greatscottgadgets_gsg_modules_sky13374_397lf/working |  
-| github_path | http://github.com/greatscottgadgets/gsg-kicad-lib/blob/master/tmp/data//oomlout_oomp_footprint_src/gsg-modules.pretty/SKY13374-397LF.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/greatscottgadgets/gsg-kicad-lib/blob/master/tmp/data//oomlout_oomp_footprint_src/gsg-modules.pretty/XTAL5.0x3.2mm.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/greatscottgadgets_gsg_modules_sky13374_397lf/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/greatscottgadgets_gsg_modules_sky13374_397lf/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/greatscottgadgets_gsg_modules_sky13374_397lf/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/greatscottgadgets_gsg_modules_sky13374_397lf/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/greatscottgadgets_gsg_modules_sky13374_397lf/working |  
+| github_path | http://github.com/greatscottgadgets/gsg-kicad-lib/blob/master/tmp/data/oomlout_oomp_footprint_src/gsg-modules.pretty/SKY13374-397LF.kicad_mod |  
+| links | {'github_src': 'http://gitlab.com/greatscottgadgets/gsg-kicad-lib/blob/master/tmp/data/oomlout_oomp_footprint_src/gsg-modules.pretty/XTAL5.0x3.2mm.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/greatscottgadgets_gsg_modules_sky13374_397lf/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/greatscottgadgets_gsg_modules_sky13374_397lf/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/greatscottgadgets_gsg_modules_sky13374_397lf/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/greatscottgadgets_gsg_modules_sky13374_397lf/working'} |  
 | name | gsg-kicad-lib |  
-| oomp | {'footprint_name': 'sky13374_397lf', 'library_name': 'gsg_modules', 'md5': '7074d2cf61042bf31e38826627ba22ae', 'md5_10': '7074d2cf61', 'md5_5': '7074d', 'md5_6': '7074d2', 'oomp_key': 'oomp_greatscottgadgets_gsg_modules_sky13374_397lf', 'oomp_key_extra': 'oomp_footprint_greatscottgadgets_gsg_modules_sky13374_397lf', 'oomp_key_full': 'oomp_footprint_greatscottgadgets_gsg_modules_sky13374_397lf_7074d2', 'oomp_key_simple': 'greatscottgadgets_gsg_modules_sky13374_397lf', 'original_filename': 'data//oomlout_oomp_footprint_src/gsg-kicad-lib/gsg-modules.pretty/SKY13374-397LF.kicad_mod', 'owner_name': 'greatscottgadgets'} |  
+| oomp | {'footprint_name': 'sky13374_397lf', 'library_name': 'gsg_modules', 'md5': '7074d2cf61042bf31e38826627ba22ae', 'md5_10': '7074d2cf61', 'md5_5': '7074d', 'md5_6': '7074d2', 'oomp_key': 'oomp_greatscottgadgets_gsg_modules_sky13374_397lf', 'oomp_key_extra': 'oomp_footprint_greatscottgadgets_gsg_modules_sky13374_397lf', 'oomp_key_full': 'oomp_footprint_greatscottgadgets_gsg_modules_sky13374_397lf_7074d2', 'oomp_key_simple': 'greatscottgadgets_gsg_modules_sky13374_397lf', 'original_filename': 'data/oomlout_oomp_footprint_src/gsg-kicad-lib/gsg-modules.pretty/SKY13374-397LF.kicad_mod', 'owner_name': 'greatscottgadgets'} |  
 | oomp_key | oomp_greatscottgadgets_gsg_modules_sky13374_397lf |  
 | oomp_key_full | oomp_footprint_greatscottgadgets_gsg_modules_sky13374_397lf |  
 | oomp_key_simple | greatscottgadgets_gsg_modules_sky13374_397lf |  

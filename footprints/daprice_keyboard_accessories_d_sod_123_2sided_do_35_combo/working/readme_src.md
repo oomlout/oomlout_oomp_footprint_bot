@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://github.com/daprice/keyboard_accessories.pretty  
 The original footprint can be found at:
-http://github.com/daprice/keyboard_accessories.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/TRRS_Jack_SJ-43514_reversible.kicad_mod
+http://github.com/daprice/keyboard_accessories.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/TRRS_Jack_SJ-43514_reversible.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: SOD-123 or DO-35 combo footprint  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/keyboard_accessories.pretty/D_SOD-123_2sided_DO-35_combo.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/keyboard_accessories.pretty/D_SOD-123_2sided_DO-35_combo.kicad_mod |  
 | footprint | {'description': 'SOD-123 or DO-35 combo footprint', 'libraryLink': 'D_SOD-123_2sided_DO-35_combo', 'number_of_pads': 6} |  
 | footprint_library_directory | footprint_library_owner/daprice_keyboard_accessories.pretty |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/daprice_keyboard_accessories_d_sod_123_2sided_do_35_combo/working |  
-| github_path | http://github.com/daprice/keyboard_accessories.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/D_SOD-123_2sided_DO-35_combo.kicad_mod |  
-| links | {'github_owner': 'daprice', 'github_repo_name': 'keyboard_accessories.pretty', 'github_src': 'http://github.com/daprice/keyboard_accessories.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/TRRS_Jack_SJ-43514_reversible.kicad_mod', 'github_src_repo': 'https://github.com/daprice/keyboard_accessories.pretty', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/daprice_keyboard_accessories_d_sod_123_2sided_do_35_combo/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/daprice_keyboard_accessories_d_sod_123_2sided_do_35_combo/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/daprice_keyboard_accessories_d_sod_123_2sided_do_35_combo/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/daprice_keyboard_accessories_d_sod_123_2sided_do_35_combo/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/daprice_keyboard_accessories_d_sod_123_2sided_do_35_combo/working |  
+| github_path | http://github.com/daprice/keyboard_accessories.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/D_SOD-123_2sided_DO-35_combo.kicad_mod |  
+| links | {'github_owner': 'daprice', 'github_repo_name': 'keyboard_accessories.pretty', 'github_src': 'http://github.com/daprice/keyboard_accessories.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/TRRS_Jack_SJ-43514_reversible.kicad_mod', 'github_src_repo': 'https://github.com/daprice/keyboard_accessories.pretty', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/daprice_keyboard_accessories_d_sod_123_2sided_do_35_combo/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/daprice_keyboard_accessories_d_sod_123_2sided_do_35_combo/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/daprice_keyboard_accessories_d_sod_123_2sided_do_35_combo/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/daprice_keyboard_accessories_d_sod_123_2sided_do_35_combo/working'} |  
 | name | keyboard_accessories.pretty |  
-| oomp | {'footprint_name': 'd_sod_123_2sided_do_35_combo', 'library_name': 'keyboard_accessories', 'md5': '2bef19d703f9742914f803d976418347', 'md5_10': '2bef19d703', 'md5_5': '2bef1', 'md5_6': '2bef19', 'oomp_key': 'oomp_daprice_keyboard_accessories_d_sod_123_2sided_do_35_combo', 'oomp_key_extra': 'oomp_footprint_daprice_keyboard_accessories_d_sod_123_2sided_do_35_combo', 'oomp_key_full': 'oomp_footprint_daprice_keyboard_accessories_d_sod_123_2sided_do_35_combo_2bef19', 'oomp_key_simple': 'daprice_keyboard_accessories_d_sod_123_2sided_do_35_combo', 'original_filename': 'data//oomlout_oomp_footprint_src/keyboard_accessories.pretty/D_SOD-123_2sided_DO-35_combo.kicad_mod', 'owner_name': 'daprice'} |  
+| oomp | {'footprint_name': 'd_sod_123_2sided_do_35_combo', 'library_name': 'keyboard_accessories', 'md5': '2bef19d703f9742914f803d976418347', 'md5_10': '2bef19d703', 'md5_5': '2bef1', 'md5_6': '2bef19', 'oomp_key': 'oomp_daprice_keyboard_accessories_d_sod_123_2sided_do_35_combo', 'oomp_key_extra': 'oomp_footprint_daprice_keyboard_accessories_d_sod_123_2sided_do_35_combo', 'oomp_key_full': 'oomp_footprint_daprice_keyboard_accessories_d_sod_123_2sided_do_35_combo_2bef19', 'oomp_key_simple': 'daprice_keyboard_accessories_d_sod_123_2sided_do_35_combo', 'original_filename': 'data/oomlout_oomp_footprint_src/keyboard_accessories.pretty/D_SOD-123_2sided_DO-35_combo.kicad_mod', 'owner_name': 'daprice'} |  
 | oomp_key | oomp_daprice_keyboard_accessories_d_sod_123_2sided_do_35_combo |  
 | oomp_key_full | oomp_footprint_daprice_keyboard_accessories_d_sod_123_2sided_do_35_combo |  
 | oomp_key_simple | daprice_keyboard_accessories_d_sod_123_2sided_do_35_combo |  

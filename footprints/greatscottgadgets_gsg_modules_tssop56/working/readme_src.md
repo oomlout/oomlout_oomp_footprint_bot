@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://gitlab.com/kicad/libraries/kicad-footprints  
 The original footprint can be found at:
-http://gitlab.com/greatscottgadgets/gsg-kicad-lib/blob/master/tmp/data//oomlout_oomp_footprint_src/gsg-modules.pretty/XTAL5.0x3.2mm.kicad_mod
+http://gitlab.com/greatscottgadgets/gsg-kicad-lib/blob/master/tmp/data/oomlout_oomp_footprint_src/gsg-modules.pretty/XTAL5.0x3.2mm.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: None  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/gsg-kicad-lib/gsg-modules.pretty/TSSOP56.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/gsg-kicad-lib/gsg-modules.pretty/TSSOP56.kicad_mod |  
 | footprint | {'description': None, 'libraryLink': 'TSSOP56', 'number_of_pads': 56} |  
 | footprint_library_directory | footprint_library_owner/greatscottgadgets_gsg-kicad-lib |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/greatscottgadgets_gsg_modules_tssop56/working |  
-| github_path | http://github.com/greatscottgadgets/gsg-kicad-lib/blob/master/tmp/data//oomlout_oomp_footprint_src/gsg-modules.pretty/TSSOP56.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/greatscottgadgets/gsg-kicad-lib/blob/master/tmp/data//oomlout_oomp_footprint_src/gsg-modules.pretty/XTAL5.0x3.2mm.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/greatscottgadgets_gsg_modules_tssop56/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/greatscottgadgets_gsg_modules_tssop56/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/greatscottgadgets_gsg_modules_tssop56/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/greatscottgadgets_gsg_modules_tssop56/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/greatscottgadgets_gsg_modules_tssop56/working |  
+| github_path | http://github.com/greatscottgadgets/gsg-kicad-lib/blob/master/tmp/data/oomlout_oomp_footprint_src/gsg-modules.pretty/TSSOP56.kicad_mod |  
+| links | {'github_src': 'http://gitlab.com/greatscottgadgets/gsg-kicad-lib/blob/master/tmp/data/oomlout_oomp_footprint_src/gsg-modules.pretty/XTAL5.0x3.2mm.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/greatscottgadgets_gsg_modules_tssop56/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/greatscottgadgets_gsg_modules_tssop56/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/greatscottgadgets_gsg_modules_tssop56/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/greatscottgadgets_gsg_modules_tssop56/working'} |  
 | name | gsg-kicad-lib |  
-| oomp | {'footprint_name': 'tssop56', 'library_name': 'gsg_modules', 'md5': 'b617b8f01f1d915b66137a0a0a2befd5', 'md5_10': 'b617b8f01f', 'md5_5': 'b617b', 'md5_6': 'b617b8', 'oomp_key': 'oomp_greatscottgadgets_gsg_modules_tssop56', 'oomp_key_extra': 'oomp_footprint_greatscottgadgets_gsg_modules_tssop56', 'oomp_key_full': 'oomp_footprint_greatscottgadgets_gsg_modules_tssop56_b617b8', 'oomp_key_simple': 'greatscottgadgets_gsg_modules_tssop56', 'original_filename': 'data//oomlout_oomp_footprint_src/gsg-kicad-lib/gsg-modules.pretty/TSSOP56.kicad_mod', 'owner_name': 'greatscottgadgets'} |  
+| oomp | {'footprint_name': 'tssop56', 'library_name': 'gsg_modules', 'md5': 'b617b8f01f1d915b66137a0a0a2befd5', 'md5_10': 'b617b8f01f', 'md5_5': 'b617b', 'md5_6': 'b617b8', 'oomp_key': 'oomp_greatscottgadgets_gsg_modules_tssop56', 'oomp_key_extra': 'oomp_footprint_greatscottgadgets_gsg_modules_tssop56', 'oomp_key_full': 'oomp_footprint_greatscottgadgets_gsg_modules_tssop56_b617b8', 'oomp_key_simple': 'greatscottgadgets_gsg_modules_tssop56', 'original_filename': 'data/oomlout_oomp_footprint_src/gsg-kicad-lib/gsg-modules.pretty/TSSOP56.kicad_mod', 'owner_name': 'greatscottgadgets'} |  
 | oomp_key | oomp_greatscottgadgets_gsg_modules_tssop56 |  
 | oomp_key_full | oomp_footprint_greatscottgadgets_gsg_modules_tssop56 |  
 | oomp_key_simple | greatscottgadgets_gsg_modules_tssop56 |  

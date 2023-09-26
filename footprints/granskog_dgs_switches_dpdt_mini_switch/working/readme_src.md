@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://gitlab.com/kicad/libraries/kicad-footprints  
 The original footprint can be found at:
-http://gitlab.com/granskog/DGS_Switches.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/SS12D07_Switch_1PDT_Straight.kicad_mod
+http://gitlab.com/granskog/DGS_Switches.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/SS12D07_Switch_1PDT_Straight.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: None  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/DGS_Switches.pretty/DPDT_Mini_Switch.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/DGS_Switches.pretty/DPDT_Mini_Switch.kicad_mod |  
 | footprint | {'description': None, 'libraryLink': 'DPDT_Mini_Switch', 'number_of_pads': 6} |  
 | footprint_library_directory | footprint_library_owner/granskog_DGS_Switches.pretty |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/granskog_dgs_switches_dpdt_mini_switch/working |  
-| github_path | http://github.com/granskog/DGS_Switches.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/DPDT_Mini_Switch.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/granskog/DGS_Switches.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/SS12D07_Switch_1PDT_Straight.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/granskog_dgs_switches_dpdt_mini_switch/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/granskog_dgs_switches_dpdt_mini_switch/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/granskog_dgs_switches_dpdt_mini_switch/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/granskog_dgs_switches_dpdt_mini_switch/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/granskog_dgs_switches_dpdt_mini_switch/working |  
+| github_path | http://github.com/granskog/DGS_Switches.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/DPDT_Mini_Switch.kicad_mod |  
+| links | {'github_src': 'http://gitlab.com/granskog/DGS_Switches.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/SS12D07_Switch_1PDT_Straight.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/granskog_dgs_switches_dpdt_mini_switch/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/granskog_dgs_switches_dpdt_mini_switch/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/granskog_dgs_switches_dpdt_mini_switch/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/granskog_dgs_switches_dpdt_mini_switch/working'} |  
 | name | DGS_Switches.pretty |  
-| oomp | {'footprint_name': 'dpdt_mini_switch', 'library_name': 'dgs_switches', 'md5': 'a13c5c543067c63301afd666b37bd7f5', 'md5_10': 'a13c5c5430', 'md5_5': 'a13c5', 'md5_6': 'a13c5c', 'oomp_key': 'oomp_granskog_dgs_switches_dpdt_mini_switch', 'oomp_key_extra': 'oomp_footprint_granskog_dgs_switches_dpdt_mini_switch', 'oomp_key_full': 'oomp_footprint_granskog_dgs_switches_dpdt_mini_switch_a13c5c', 'oomp_key_simple': 'granskog_dgs_switches_dpdt_mini_switch', 'original_filename': 'data//oomlout_oomp_footprint_src/DGS_Switches.pretty/DPDT_Mini_Switch.kicad_mod', 'owner_name': 'granskog'} |  
+| oomp | {'footprint_name': 'dpdt_mini_switch', 'library_name': 'dgs_switches', 'md5': 'a13c5c543067c63301afd666b37bd7f5', 'md5_10': 'a13c5c5430', 'md5_5': 'a13c5', 'md5_6': 'a13c5c', 'oomp_key': 'oomp_granskog_dgs_switches_dpdt_mini_switch', 'oomp_key_extra': 'oomp_footprint_granskog_dgs_switches_dpdt_mini_switch', 'oomp_key_full': 'oomp_footprint_granskog_dgs_switches_dpdt_mini_switch_a13c5c', 'oomp_key_simple': 'granskog_dgs_switches_dpdt_mini_switch', 'original_filename': 'data/oomlout_oomp_footprint_src/DGS_Switches.pretty/DPDT_Mini_Switch.kicad_mod', 'owner_name': 'granskog'} |  
 | oomp_key | oomp_granskog_dgs_switches_dpdt_mini_switch |  
 | oomp_key_full | oomp_footprint_granskog_dgs_switches_dpdt_mini_switch |  
 | oomp_key_simple | granskog_dgs_switches_dpdt_mini_switch |  

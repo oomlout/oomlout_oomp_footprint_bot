@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://github.com/dqmcdonald/DQM_kicad_new.pretty  
 The original footprint can be found at:
-http://github.com/dqmcdonald/DQM_kicad_new.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/SOT-23_J201_JFET.kicad_mod
+http://github.com/dqmcdonald/DQM_kicad_new.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/SOT-23_J201_JFET.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: None  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/DQM_kicad_new.pretty/ArduProMini.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/DQM_kicad_new.pretty/ArduProMini.kicad_mod |  
 | footprint | {'description': None, 'libraryLink': 'ArduProMini', 'number_of_pads': 34} |  
 | footprint_library_directory | footprint_library_owner/dqmcdonald_DQM_kicad_new.pretty |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/dqmcdonald_dqm_kicad_new_ardupromini/working |  
-| github_path | http://github.com/dqmcdonald/DQM_kicad_new.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/ArduProMini.kicad_mod |  
-| links | {'github_owner': 'dqmcdonald', 'github_repo_name': 'DQM_kicad_new.pretty', 'github_src': 'http://github.com/dqmcdonald/DQM_kicad_new.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/SOT-23_J201_JFET.kicad_mod', 'github_src_repo': 'https://github.com/dqmcdonald/DQM_kicad_new.pretty', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/dqmcdonald_dqm_kicad_new_ardupromini/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/dqmcdonald_dqm_kicad_new_ardupromini/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/dqmcdonald_dqm_kicad_new_ardupromini/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/dqmcdonald_dqm_kicad_new_ardupromini/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/dqmcdonald_dqm_kicad_new_ardupromini/working |  
+| github_path | http://github.com/dqmcdonald/DQM_kicad_new.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/ArduProMini.kicad_mod |  
+| links | {'github_owner': 'dqmcdonald', 'github_repo_name': 'DQM_kicad_new.pretty', 'github_src': 'http://github.com/dqmcdonald/DQM_kicad_new.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/SOT-23_J201_JFET.kicad_mod', 'github_src_repo': 'https://github.com/dqmcdonald/DQM_kicad_new.pretty', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/dqmcdonald_dqm_kicad_new_ardupromini/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/dqmcdonald_dqm_kicad_new_ardupromini/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/dqmcdonald_dqm_kicad_new_ardupromini/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/dqmcdonald_dqm_kicad_new_ardupromini/working'} |  
 | name | DQM_kicad_new.pretty |  
-| oomp | {'footprint_name': 'ardupromini', 'library_name': 'dqm_kicad_new', 'md5': '48a43b5394439e1a27ba30c9c254cd5e', 'md5_10': '48a43b5394', 'md5_5': '48a43', 'md5_6': '48a43b', 'oomp_key': 'oomp_dqmcdonald_dqm_kicad_new_ardupromini', 'oomp_key_extra': 'oomp_footprint_dqmcdonald_dqm_kicad_new_ardupromini', 'oomp_key_full': 'oomp_footprint_dqmcdonald_dqm_kicad_new_ardupromini_48a43b', 'oomp_key_simple': 'dqmcdonald_dqm_kicad_new_ardupromini', 'original_filename': 'data//oomlout_oomp_footprint_src/DQM_kicad_new.pretty/ArduProMini.kicad_mod', 'owner_name': 'dqmcdonald'} |  
+| oomp | {'footprint_name': 'ardupromini', 'library_name': 'dqm_kicad_new', 'md5': '48a43b5394439e1a27ba30c9c254cd5e', 'md5_10': '48a43b5394', 'md5_5': '48a43', 'md5_6': '48a43b', 'oomp_key': 'oomp_dqmcdonald_dqm_kicad_new_ardupromini', 'oomp_key_extra': 'oomp_footprint_dqmcdonald_dqm_kicad_new_ardupromini', 'oomp_key_full': 'oomp_footprint_dqmcdonald_dqm_kicad_new_ardupromini_48a43b', 'oomp_key_simple': 'dqmcdonald_dqm_kicad_new_ardupromini', 'original_filename': 'data/oomlout_oomp_footprint_src/DQM_kicad_new.pretty/ArduProMini.kicad_mod', 'owner_name': 'dqmcdonald'} |  
 | oomp_key | oomp_dqmcdonald_dqm_kicad_new_ardupromini |  
 | oomp_key_full | oomp_footprint_dqmcdonald_dqm_kicad_new_ardupromini |  
 | oomp_key_simple | dqmcdonald_dqm_kicad_new_ardupromini |  

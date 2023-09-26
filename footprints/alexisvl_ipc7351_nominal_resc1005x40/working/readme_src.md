@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://github.com/alexisvl/kicad-pcblib  
 The original footprint can be found at:
-http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data//oomlout_oomp_footprint_src/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod
+http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data/oomlout_oomp_footprint_src/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: Resistor,Chip;1.00mm L X 0.50mm W X 0.40mm H  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/kicad-pcblib/IPC7351-Nominal.pretty/RESC1005X40.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/kicad-pcblib/IPC7351-Nominal.pretty/RESC1005X40.kicad_mod |  
 | footprint | {'description': 'Resistor,Chip;1.00mm L X 0.50mm W X 0.40mm H', 'libraryLink': 'RESC1005X40', 'number_of_pads': 2} |  
 | footprint_library_directory | footprint_library_owner/cpavlina_kicad-pcblib |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/alexisvl_ipc7351_nominal_resc1005x40/working |  
-| github_path | http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data//oomlout_oomp_footprint_src/IPC7351-Nominal.pretty/RESC1005X40.kicad_mod |  
-| links | {'github_owner': 'alexisvl', 'github_repo_name': 'kicad-pcblib', 'github_src': 'http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data//oomlout_oomp_footprint_src/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod', 'github_src_repo': 'https://github.com/alexisvl/kicad-pcblib', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/alexisvl_ipc7351_nominal_resc1005x40/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/alexisvl_ipc7351_nominal_resc1005x40/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/alexisvl_ipc7351_nominal_resc1005x40/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/alexisvl_ipc7351_nominal_resc1005x40/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/alexisvl_ipc7351_nominal_resc1005x40/working |  
+| github_path | http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data/oomlout_oomp_footprint_src/IPC7351-Nominal.pretty/RESC1005X40.kicad_mod |  
+| links | {'github_owner': 'alexisvl', 'github_repo_name': 'kicad-pcblib', 'github_src': 'http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data/oomlout_oomp_footprint_src/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod', 'github_src_repo': 'https://github.com/alexisvl/kicad-pcblib', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/alexisvl_ipc7351_nominal_resc1005x40/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/alexisvl_ipc7351_nominal_resc1005x40/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/alexisvl_ipc7351_nominal_resc1005x40/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/alexisvl_ipc7351_nominal_resc1005x40/working'} |  
 | name | kicad-pcblib |  
-| oomp | {'footprint_name': 'resc1005x40', 'library_name': 'ipc7351_nominal', 'md5': '2efe6218095668b5dbd6da2a6c7578c2', 'md5_10': '2efe621809', 'md5_5': '2efe6', 'md5_6': '2efe62', 'oomp_key': 'oomp_alexisvl_ipc7351_nominal_resc1005x40', 'oomp_key_extra': 'oomp_footprint_alexisvl_ipc7351_nominal_resc1005x40', 'oomp_key_full': 'oomp_footprint_alexisvl_ipc7351_nominal_resc1005x40_2efe62', 'oomp_key_simple': 'alexisvl_ipc7351_nominal_resc1005x40', 'original_filename': 'data//oomlout_oomp_footprint_src/kicad-pcblib/IPC7351-Nominal.pretty/RESC1005X40.kicad_mod', 'owner_name': 'alexisvl'} |  
+| oomp | {'footprint_name': 'resc1005x40', 'library_name': 'ipc7351_nominal', 'md5': '2efe6218095668b5dbd6da2a6c7578c2', 'md5_10': '2efe621809', 'md5_5': '2efe6', 'md5_6': '2efe62', 'oomp_key': 'oomp_alexisvl_ipc7351_nominal_resc1005x40', 'oomp_key_extra': 'oomp_footprint_alexisvl_ipc7351_nominal_resc1005x40', 'oomp_key_full': 'oomp_footprint_alexisvl_ipc7351_nominal_resc1005x40_2efe62', 'oomp_key_simple': 'alexisvl_ipc7351_nominal_resc1005x40', 'original_filename': 'data/oomlout_oomp_footprint_src/kicad-pcblib/IPC7351-Nominal.pretty/RESC1005X40.kicad_mod', 'owner_name': 'alexisvl'} |  
 | oomp_key | oomp_alexisvl_ipc7351_nominal_resc1005x40 |  
 | oomp_key_full | oomp_footprint_alexisvl_ipc7351_nominal_resc1005x40 |  
 | oomp_key_simple | alexisvl_ipc7351_nominal_resc1005x40 |  

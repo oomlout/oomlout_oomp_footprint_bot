@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://gitlab.com/kicad/libraries/kicad-footprints  
 The original footprint can be found at:
-http://gitlab.com/ElectronicCats/ComponentLibrariesKicadWurthElektronik/blob/master/tmp/data//oomlout_oomp_footprint_src/WIRE-TO-BOARD(rev17b)/heder box.pretty/690207102672.kicad_mod
+http://gitlab.com/ElectronicCats/ComponentLibrariesKicadWurthElektronik/blob/master/tmp/data/oomlout_oomp_footprint_src/WIRE-TO-BOARD(rev17b)/heder box.pretty/690207102672.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: WR-MM Male Connector with Polarization, 26 Pins  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/ComponentLibrariesKicadWurthElektronik/EAGLE-BOARD-TO-BOARD_CONNECTORS-rev16c/Pines.pretty/690357102672.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/ComponentLibrariesKicadWurthElektronik/EAGLE-BOARD-TO-BOARD_CONNECTORS-rev16c/Pines.pretty/690357102672.kicad_mod |  
 | footprint | {'description': 'WR-MM Male Connector with Polarization, 26 Pins', 'libraryLink': '690357102672', 'number_of_pads': 26} |  
 | footprint_library_directory | footprint_library_owner/ElectronicCats_ComponentLibrariesKicadWurthElektronik |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/electroniccats_pines_690357102672/working |  
-| github_path | http://github.com/ElectronicCats/ComponentLibrariesKicadWurthElektronik/blob/master/tmp/data//oomlout_oomp_footprint_src/EAGLE-BOARD-TO-BOARD_CONNECTORS-rev16c/Pines.pretty/690357102672.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/ElectronicCats/ComponentLibrariesKicadWurthElektronik/blob/master/tmp/data//oomlout_oomp_footprint_src/WIRE-TO-BOARD(rev17b)/heder box.pretty/690207102672.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/electroniccats_pines_690357102672/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/electroniccats_pines_690357102672/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/electroniccats_pines_690357102672/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/electroniccats_pines_690357102672/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/electroniccats_pines_690357102672/working |  
+| github_path | http://github.com/ElectronicCats/ComponentLibrariesKicadWurthElektronik/blob/master/tmp/data/oomlout_oomp_footprint_src/EAGLE-BOARD-TO-BOARD_CONNECTORS-rev16c/Pines.pretty/690357102672.kicad_mod |  
+| links | {'github_src': 'http://gitlab.com/ElectronicCats/ComponentLibrariesKicadWurthElektronik/blob/master/tmp/data/oomlout_oomp_footprint_src/WIRE-TO-BOARD(rev17b)/heder box.pretty/690207102672.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/electroniccats_pines_690357102672/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/electroniccats_pines_690357102672/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/electroniccats_pines_690357102672/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/electroniccats_pines_690357102672/working'} |  
 | name | ComponentLibrariesKicadWurthElektronik |  
-| oomp | {'footprint_name': '690357102672', 'library_name': 'pines', 'md5': '0ca1169616f5ab1f605c70e6452636b6', 'md5_10': '0ca1169616', 'md5_5': '0ca11', 'md5_6': '0ca116', 'oomp_key': 'oomp_electroniccats_pines_690357102672', 'oomp_key_extra': 'oomp_footprint_electroniccats_pines_690357102672', 'oomp_key_full': 'oomp_footprint_electroniccats_pines_690357102672_0ca116', 'oomp_key_simple': 'electroniccats_pines_690357102672', 'original_filename': 'data//oomlout_oomp_footprint_src/ComponentLibrariesKicadWurthElektronik/EAGLE-BOARD-TO-BOARD_CONNECTORS-rev16c/Pines.pretty/690357102672.kicad_mod', 'owner_name': 'electroniccats'} |  
+| oomp | {'footprint_name': '690357102672', 'library_name': 'pines', 'md5': '0ca1169616f5ab1f605c70e6452636b6', 'md5_10': '0ca1169616', 'md5_5': '0ca11', 'md5_6': '0ca116', 'oomp_key': 'oomp_electroniccats_pines_690357102672', 'oomp_key_extra': 'oomp_footprint_electroniccats_pines_690357102672', 'oomp_key_full': 'oomp_footprint_electroniccats_pines_690357102672_0ca116', 'oomp_key_simple': 'electroniccats_pines_690357102672', 'original_filename': 'data/oomlout_oomp_footprint_src/ComponentLibrariesKicadWurthElektronik/EAGLE-BOARD-TO-BOARD_CONNECTORS-rev16c/Pines.pretty/690357102672.kicad_mod', 'owner_name': 'electroniccats'} |  
 | oomp_key | oomp_electroniccats_pines_690357102672 |  
 | oomp_key_full | oomp_footprint_electroniccats_pines_690357102672 |  
 | oomp_key_simple | electroniccats_pines_690357102672 |  

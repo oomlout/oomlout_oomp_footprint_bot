@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://gitlab.com/kicad/libraries/kicad-footprints  
 The original footprint can be found at:
-http://gitlab.com/hairymnstr/Nathan_THT_Conn.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/WURTH_615-008-140-621.kicad_mod
+http://gitlab.com/hairymnstr/Nathan_THT_Conn.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/WURTH_615-008-140-621.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: None  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/Nathan_THT_Conn.pretty/MOLEX_53048-0310.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/Nathan_THT_Conn.pretty/MOLEX_53048-0310.kicad_mod |  
 | footprint | {'description': None, 'libraryLink': 'MOLEX_53048-0310', 'number_of_pads': 3} |  
 | footprint_library_directory | footprint_library_owner/hairymnstr_Nathan_THT_Conn.pretty |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/hairymnstr_nathan_tht_conn_molex_53048_0310/working |  
-| github_path | http://github.com/hairymnstr/Nathan_THT_Conn.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/MOLEX_53048-0310.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/hairymnstr/Nathan_THT_Conn.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/WURTH_615-008-140-621.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/hairymnstr_nathan_tht_conn_molex_53048_0310/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/hairymnstr_nathan_tht_conn_molex_53048_0310/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/hairymnstr_nathan_tht_conn_molex_53048_0310/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/hairymnstr_nathan_tht_conn_molex_53048_0310/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/hairymnstr_nathan_tht_conn_molex_53048_0310/working |  
+| github_path | http://github.com/hairymnstr/Nathan_THT_Conn.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/MOLEX_53048-0310.kicad_mod |  
+| links | {'github_src': 'http://gitlab.com/hairymnstr/Nathan_THT_Conn.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/WURTH_615-008-140-621.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/hairymnstr_nathan_tht_conn_molex_53048_0310/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/hairymnstr_nathan_tht_conn_molex_53048_0310/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/hairymnstr_nathan_tht_conn_molex_53048_0310/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/hairymnstr_nathan_tht_conn_molex_53048_0310/working'} |  
 | name | Nathan_THT_Conn.pretty |  
-| oomp | {'footprint_name': 'molex_53048_0310', 'library_name': 'nathan_tht_conn', 'md5': 'bf98ff00b41a828d188c8426c3d663c4', 'md5_10': 'bf98ff00b4', 'md5_5': 'bf98f', 'md5_6': 'bf98ff', 'oomp_key': 'oomp_hairymnstr_nathan_tht_conn_molex_53048_0310', 'oomp_key_extra': 'oomp_footprint_hairymnstr_nathan_tht_conn_molex_53048_0310', 'oomp_key_full': 'oomp_footprint_hairymnstr_nathan_tht_conn_molex_53048_0310_bf98ff', 'oomp_key_simple': 'hairymnstr_nathan_tht_conn_molex_53048_0310', 'original_filename': 'data//oomlout_oomp_footprint_src/Nathan_THT_Conn.pretty/MOLEX_53048-0310.kicad_mod', 'owner_name': 'hairymnstr'} |  
+| oomp | {'footprint_name': 'molex_53048_0310', 'library_name': 'nathan_tht_conn', 'md5': 'bf98ff00b41a828d188c8426c3d663c4', 'md5_10': 'bf98ff00b4', 'md5_5': 'bf98f', 'md5_6': 'bf98ff', 'oomp_key': 'oomp_hairymnstr_nathan_tht_conn_molex_53048_0310', 'oomp_key_extra': 'oomp_footprint_hairymnstr_nathan_tht_conn_molex_53048_0310', 'oomp_key_full': 'oomp_footprint_hairymnstr_nathan_tht_conn_molex_53048_0310_bf98ff', 'oomp_key_simple': 'hairymnstr_nathan_tht_conn_molex_53048_0310', 'original_filename': 'data/oomlout_oomp_footprint_src/Nathan_THT_Conn.pretty/MOLEX_53048-0310.kicad_mod', 'owner_name': 'hairymnstr'} |  
 | oomp_key | oomp_hairymnstr_nathan_tht_conn_molex_53048_0310 |  
 | oomp_key_full | oomp_footprint_hairymnstr_nathan_tht_conn_molex_53048_0310 |  
 | oomp_key_simple | hairymnstr_nathan_tht_conn_molex_53048_0310 |  

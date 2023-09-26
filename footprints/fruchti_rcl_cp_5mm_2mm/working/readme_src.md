@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://gitlab.com/kicad/libraries/kicad-footprints  
 The original footprint can be found at:
-http://gitlab.com/fruchti/fruchtilib/blob/master/tmp/data//oomlout_oomp_footprint_src/mod/vssop.pretty/VSSOP8.kicad_mod
+http://gitlab.com/fruchti/fruchtilib/blob/master/tmp/data/oomlout_oomp_footprint_src/mod/vssop.pretty/VSSOP8.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: None  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/fruchtilib/mod/rcl.pretty/CP_5mm_2mm.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/fruchtilib/mod/rcl.pretty/CP_5mm_2mm.kicad_mod |  
 | footprint | {'description': None, 'libraryLink': 'CP_5mm_2mm', 'number_of_pads': 2} |  
 | footprint_library_directory | footprint_library_owner/fruchti_fruchtilib |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/fruchti_rcl_cp_5mm_2mm/working |  
-| github_path | http://github.com/fruchti/fruchtilib/blob/master/tmp/data//oomlout_oomp_footprint_src/mod/rcl.pretty/CP_5mm_2mm.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/fruchti/fruchtilib/blob/master/tmp/data//oomlout_oomp_footprint_src/mod/vssop.pretty/VSSOP8.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/fruchti_rcl_cp_5mm_2mm/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/fruchti_rcl_cp_5mm_2mm/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/fruchti_rcl_cp_5mm_2mm/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/fruchti_rcl_cp_5mm_2mm/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/fruchti_rcl_cp_5mm_2mm/working |  
+| github_path | http://github.com/fruchti/fruchtilib/blob/master/tmp/data/oomlout_oomp_footprint_src/mod/rcl.pretty/CP_5mm_2mm.kicad_mod |  
+| links | {'github_src': 'http://gitlab.com/fruchti/fruchtilib/blob/master/tmp/data/oomlout_oomp_footprint_src/mod/vssop.pretty/VSSOP8.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/fruchti_rcl_cp_5mm_2mm/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/fruchti_rcl_cp_5mm_2mm/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/fruchti_rcl_cp_5mm_2mm/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/fruchti_rcl_cp_5mm_2mm/working'} |  
 | name | fruchtilib |  
-| oomp | {'footprint_name': 'cp_5mm_2mm', 'library_name': 'rcl', 'md5': '3244e74197e094102a78cfb24b5bc9e8', 'md5_10': '3244e74197', 'md5_5': '3244e', 'md5_6': '3244e7', 'oomp_key': 'oomp_fruchti_rcl_cp_5mm_2mm', 'oomp_key_extra': 'oomp_footprint_fruchti_rcl_cp_5mm_2mm', 'oomp_key_full': 'oomp_footprint_fruchti_rcl_cp_5mm_2mm_3244e7', 'oomp_key_simple': 'fruchti_rcl_cp_5mm_2mm', 'original_filename': 'data//oomlout_oomp_footprint_src/fruchtilib/mod/rcl.pretty/CP_5mm_2mm.kicad_mod', 'owner_name': 'fruchti'} |  
+| oomp | {'footprint_name': 'cp_5mm_2mm', 'library_name': 'rcl', 'md5': '3244e74197e094102a78cfb24b5bc9e8', 'md5_10': '3244e74197', 'md5_5': '3244e', 'md5_6': '3244e7', 'oomp_key': 'oomp_fruchti_rcl_cp_5mm_2mm', 'oomp_key_extra': 'oomp_footprint_fruchti_rcl_cp_5mm_2mm', 'oomp_key_full': 'oomp_footprint_fruchti_rcl_cp_5mm_2mm_3244e7', 'oomp_key_simple': 'fruchti_rcl_cp_5mm_2mm', 'original_filename': 'data/oomlout_oomp_footprint_src/fruchtilib/mod/rcl.pretty/CP_5mm_2mm.kicad_mod', 'owner_name': 'fruchti'} |  
 | oomp_key | oomp_fruchti_rcl_cp_5mm_2mm |  
 | oomp_key_full | oomp_footprint_fruchti_rcl_cp_5mm_2mm |  
 | oomp_key_simple | fruchti_rcl_cp_5mm_2mm |  

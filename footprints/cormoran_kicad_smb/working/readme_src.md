@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://github.com/cormoran/kicad.pretty  
 The original footprint can be found at:
-http://github.com/cormoran/kicad.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XTAL_7X5MM.kicad_mod
+http://github.com/cormoran/kicad.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/XTAL_7X5MM.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: SMB DIODE  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/kicad.pretty/SMB.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/kicad.pretty/SMB.kicad_mod |  
 | footprint | {'description': 'SMB DIODE', 'libraryLink': 'SMB', 'number_of_pads': 2} |  
 | footprint_library_directory | footprint_library_owner/cormoran_kicad.pretty |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/cormoran_kicad_smb/working |  
-| github_path | http://github.com/cormoran/kicad.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/SMB.kicad_mod |  
-| links | {'github_owner': 'cormoran', 'github_repo_name': 'kicad.pretty', 'github_src': 'http://github.com/cormoran/kicad.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XTAL_7X5MM.kicad_mod', 'github_src_repo': 'https://github.com/cormoran/kicad.pretty', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/cormoran_kicad_smb/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/cormoran_kicad_smb/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/cormoran_kicad_smb/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/cormoran_kicad_smb/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/cormoran_kicad_smb/working |  
+| github_path | http://github.com/cormoran/kicad.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/SMB.kicad_mod |  
+| links | {'github_owner': 'cormoran', 'github_repo_name': 'kicad.pretty', 'github_src': 'http://github.com/cormoran/kicad.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/XTAL_7X5MM.kicad_mod', 'github_src_repo': 'https://github.com/cormoran/kicad.pretty', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/cormoran_kicad_smb/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/cormoran_kicad_smb/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/cormoran_kicad_smb/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/cormoran_kicad_smb/working'} |  
 | name | kicad.pretty |  
-| oomp | {'footprint_name': 'smb', 'library_name': 'kicad', 'md5': 'c253f965be1c10a71edc3bc1233432e5', 'md5_10': 'c253f965be', 'md5_5': 'c253f', 'md5_6': 'c253f9', 'oomp_key': 'oomp_cormoran_kicad_smb', 'oomp_key_extra': 'oomp_footprint_cormoran_kicad_smb', 'oomp_key_full': 'oomp_footprint_cormoran_kicad_smb_c253f9', 'oomp_key_simple': 'cormoran_kicad_smb', 'original_filename': 'data//oomlout_oomp_footprint_src/kicad.pretty/SMB.kicad_mod', 'owner_name': 'cormoran'} |  
+| oomp | {'footprint_name': 'smb', 'library_name': 'kicad', 'md5': 'c253f965be1c10a71edc3bc1233432e5', 'md5_10': 'c253f965be', 'md5_5': 'c253f', 'md5_6': 'c253f9', 'oomp_key': 'oomp_cormoran_kicad_smb', 'oomp_key_extra': 'oomp_footprint_cormoran_kicad_smb', 'oomp_key_full': 'oomp_footprint_cormoran_kicad_smb_c253f9', 'oomp_key_simple': 'cormoran_kicad_smb', 'original_filename': 'data/oomlout_oomp_footprint_src/kicad.pretty/SMB.kicad_mod', 'owner_name': 'cormoran'} |  
 | oomp_key | oomp_cormoran_kicad_smb |  
 | oomp_key_full | oomp_footprint_cormoran_kicad_smb |  
 | oomp_key_simple | cormoran_kicad_smb |  

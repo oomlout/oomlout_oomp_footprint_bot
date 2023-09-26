@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://github.com/dragonmux/rhais_led.pretty  
 The original footprint can be found at:
-http://github.com/DX-MON/rhais_led.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/LED0606_Clockwise.kicad_mod
+http://github.com/DX-MON/rhais_led.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/LED0606_Clockwise.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: LED, 0603 (1608 metric) iron and air reflow solderable  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/rhais_led.pretty/LED0603.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/rhais_led.pretty/LED0603.kicad_mod |  
 | footprint | {'description': 'LED, 0603 (1608 metric) iron and air reflow solderable', 'libraryLink': 'LED0603', 'number_of_pads': 2} |  
 | footprint_library_directory | footprint_library_owner/DX-MON_rhais_led.pretty |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/dx_mon_rhais_led_led0603/working |  
-| github_path | http://github.com/DX-MON/rhais_led.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/LED0603.kicad_mod |  
-| links | {'github_owner': 'dragonmux', 'github_repo_name': 'rhais_led.pretty', 'github_src': 'http://github.com/DX-MON/rhais_led.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/LED0606_Clockwise.kicad_mod', 'github_src_repo': 'https://github.com/dragonmux/rhais_led.pretty', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/dx_mon_rhais_led_led0603/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/dx_mon_rhais_led_led0603/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/dx_mon_rhais_led_led0603/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/dx_mon_rhais_led_led0603/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/dx_mon_rhais_led_led0603/working |  
+| github_path | http://github.com/DX-MON/rhais_led.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/LED0603.kicad_mod |  
+| links | {'github_owner': 'dragonmux', 'github_repo_name': 'rhais_led.pretty', 'github_src': 'http://github.com/DX-MON/rhais_led.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/LED0606_Clockwise.kicad_mod', 'github_src_repo': 'https://github.com/dragonmux/rhais_led.pretty', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/dx_mon_rhais_led_led0603/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/dx_mon_rhais_led_led0603/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/dx_mon_rhais_led_led0603/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/dx_mon_rhais_led_led0603/working'} |  
 | name | rhais_led.pretty |  
-| oomp | {'footprint_name': 'led0603', 'library_name': 'rhais_led', 'md5': '950ff217ccabc38ec4c0389c58d342db', 'md5_10': '950ff217cc', 'md5_5': '950ff', 'md5_6': '950ff2', 'oomp_key': 'oomp_dx_mon_rhais_led_led0603', 'oomp_key_extra': 'oomp_footprint_dx_mon_rhais_led_led0603', 'oomp_key_full': 'oomp_footprint_dx_mon_rhais_led_led0603_950ff2', 'oomp_key_simple': 'dx_mon_rhais_led_led0603', 'original_filename': 'data//oomlout_oomp_footprint_src/rhais_led.pretty/LED0603.kicad_mod', 'owner_name': 'dragonmux'} |  
+| oomp | {'footprint_name': 'led0603', 'library_name': 'rhais_led', 'md5': '950ff217ccabc38ec4c0389c58d342db', 'md5_10': '950ff217cc', 'md5_5': '950ff', 'md5_6': '950ff2', 'oomp_key': 'oomp_dx_mon_rhais_led_led0603', 'oomp_key_extra': 'oomp_footprint_dx_mon_rhais_led_led0603', 'oomp_key_full': 'oomp_footprint_dx_mon_rhais_led_led0603_950ff2', 'oomp_key_simple': 'dx_mon_rhais_led_led0603', 'original_filename': 'data/oomlout_oomp_footprint_src/rhais_led.pretty/LED0603.kicad_mod', 'owner_name': 'dragonmux'} |  
 | oomp_key | oomp_dx_mon_rhais_led_led0603 |  
 | oomp_key_full | oomp_footprint_dx_mon_rhais_led_led0603 |  
 | oomp_key_simple | dx_mon_rhais_led_led0603 |  

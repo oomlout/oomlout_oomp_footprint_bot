@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://github.com/descampsa/arduino.pretty  
 The original footprint can be found at:
-http://github.com/descampsa/arduino.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Arduino_shield_orig.kicad_mod
+http://github.com/descampsa/arduino.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/Arduino_shield_orig.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description:   
@@ -13,13 +13,13 @@ Please consult that link for additional, details, files, and license information
 | Key | Value |  
 | --- | --- |  
 | error | 'charmap' codec can't decode byte 0x90 in position 2879: character maps to <undefined> |  
-| file | data//oomlout_oomp_footprint_src/arduino.pretty/Arduino_shield_orig.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/arduino.pretty/Arduino_shield_orig.kicad_mod |  
 | footprint_library_directory | footprint_library_owner/descampsa_arduino.pretty |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/descampsa_arduino_arduino_shield_orig/working |  
-| github_path | http://github.com/descampsa/arduino.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Arduino_shield_orig.kicad_mod |  
-| links | {'github_owner': 'descampsa', 'github_repo_name': 'arduino.pretty', 'github_src': 'http://github.com/descampsa/arduino.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Arduino_shield_orig.kicad_mod', 'github_src_repo': 'https://github.com/descampsa/arduino.pretty', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/descampsa_arduino_arduino_shield_orig/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/descampsa_arduino_arduino_shield_orig/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/descampsa_arduino_arduino_shield_orig/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/descampsa_arduino_arduino_shield_orig/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/descampsa_arduino_arduino_shield_orig/working |  
+| github_path | http://github.com/descampsa/arduino.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/Arduino_shield_orig.kicad_mod |  
+| links | {'github_owner': 'descampsa', 'github_repo_name': 'arduino.pretty', 'github_src': 'http://github.com/descampsa/arduino.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/Arduino_shield_orig.kicad_mod', 'github_src_repo': 'https://github.com/descampsa/arduino.pretty', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/descampsa_arduino_arduino_shield_orig/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/descampsa_arduino_arduino_shield_orig/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/descampsa_arduino_arduino_shield_orig/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/descampsa_arduino_arduino_shield_orig/working'} |  
 | name | arduino.pretty |  
-| oomp | {'footprint_name': 'arduino_shield_orig', 'library_name': 'arduino', 'md5': 'e9bc6ed4573ecf5f7081eafc9a11db46', 'md5_10': 'e9bc6ed457', 'md5_5': 'e9bc6', 'md5_6': 'e9bc6e', 'oomp_key': 'oomp_descampsa_arduino_arduino_shield_orig', 'oomp_key_extra': 'oomp_footprint_descampsa_arduino_arduino_shield_orig', 'oomp_key_full': 'oomp_footprint_descampsa_arduino_arduino_shield_orig_e9bc6e', 'oomp_key_simple': 'descampsa_arduino_arduino_shield_orig', 'original_filename': 'data//oomlout_oomp_footprint_src/arduino.pretty/Arduino_shield_orig.kicad_mod', 'owner_name': 'descampsa'} |  
+| oomp | {'footprint_name': 'arduino_shield_orig', 'library_name': 'arduino', 'md5': 'e9bc6ed4573ecf5f7081eafc9a11db46', 'md5_10': 'e9bc6ed457', 'md5_5': 'e9bc6', 'md5_6': 'e9bc6e', 'oomp_key': 'oomp_descampsa_arduino_arduino_shield_orig', 'oomp_key_extra': 'oomp_footprint_descampsa_arduino_arduino_shield_orig', 'oomp_key_full': 'oomp_footprint_descampsa_arduino_arduino_shield_orig_e9bc6e', 'oomp_key_simple': 'descampsa_arduino_arduino_shield_orig', 'original_filename': 'data/oomlout_oomp_footprint_src/arduino.pretty/Arduino_shield_orig.kicad_mod', 'owner_name': 'descampsa'} |  
 | oomp_key | oomp_descampsa_arduino_arduino_shield_orig |  
 | oomp_key_full | oomp_footprint_descampsa_arduino_arduino_shield_orig |  
 | oomp_key_simple | descampsa_arduino_arduino_shield_orig |  

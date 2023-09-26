@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://github.com/alexisvl/kicad-pcblib  
 The original footprint can be found at:
-http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data//oomlout_oomp_footprint_src/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod
+http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data/oomlout_oomp_footprint_src/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: None  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/kicad-pcblib/conn-fci.pretty/CONN-10118194-0001LF-FCI.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/kicad-pcblib/conn-fci.pretty/CONN-10118194-0001LF-FCI.kicad_mod |  
 | footprint | {'description': None, 'libraryLink': 'CONN-10118194-0001LF-FCI', 'number_of_pads': 9} |  
 | footprint_library_directory | footprint_library_owner/cpavlina_kicad-pcblib |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/alexisvl_conn_fci_conn_10118194_0001lf_fci/working |  
-| github_path | http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data//oomlout_oomp_footprint_src/conn-fci.pretty/CONN-10118194-0001LF-FCI.kicad_mod |  
-| links | {'github_owner': 'alexisvl', 'github_repo_name': 'kicad-pcblib', 'github_src': 'http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data//oomlout_oomp_footprint_src/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod', 'github_src_repo': 'https://github.com/alexisvl/kicad-pcblib', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/alexisvl_conn_fci_conn_10118194_0001lf_fci/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/alexisvl_conn_fci_conn_10118194_0001lf_fci/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/alexisvl_conn_fci_conn_10118194_0001lf_fci/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/alexisvl_conn_fci_conn_10118194_0001lf_fci/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/alexisvl_conn_fci_conn_10118194_0001lf_fci/working |  
+| github_path | http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data/oomlout_oomp_footprint_src/conn-fci.pretty/CONN-10118194-0001LF-FCI.kicad_mod |  
+| links | {'github_owner': 'alexisvl', 'github_repo_name': 'kicad-pcblib', 'github_src': 'http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data/oomlout_oomp_footprint_src/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod', 'github_src_repo': 'https://github.com/alexisvl/kicad-pcblib', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/alexisvl_conn_fci_conn_10118194_0001lf_fci/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/alexisvl_conn_fci_conn_10118194_0001lf_fci/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/alexisvl_conn_fci_conn_10118194_0001lf_fci/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/alexisvl_conn_fci_conn_10118194_0001lf_fci/working'} |  
 | name | kicad-pcblib |  
-| oomp | {'footprint_name': 'conn_10118194_0001lf_fci', 'library_name': 'conn_fci', 'md5': '1f39fa403e8958f6c4cc2778a3d5a1af', 'md5_10': '1f39fa403e', 'md5_5': '1f39f', 'md5_6': '1f39fa', 'oomp_key': 'oomp_alexisvl_conn_fci_conn_10118194_0001lf_fci', 'oomp_key_extra': 'oomp_footprint_alexisvl_conn_fci_conn_10118194_0001lf_fci', 'oomp_key_full': 'oomp_footprint_alexisvl_conn_fci_conn_10118194_0001lf_fci_1f39fa', 'oomp_key_simple': 'alexisvl_conn_fci_conn_10118194_0001lf_fci', 'original_filename': 'data//oomlout_oomp_footprint_src/kicad-pcblib/conn-fci.pretty/CONN-10118194-0001LF-FCI.kicad_mod', 'owner_name': 'alexisvl'} |  
+| oomp | {'footprint_name': 'conn_10118194_0001lf_fci', 'library_name': 'conn_fci', 'md5': '1f39fa403e8958f6c4cc2778a3d5a1af', 'md5_10': '1f39fa403e', 'md5_5': '1f39f', 'md5_6': '1f39fa', 'oomp_key': 'oomp_alexisvl_conn_fci_conn_10118194_0001lf_fci', 'oomp_key_extra': 'oomp_footprint_alexisvl_conn_fci_conn_10118194_0001lf_fci', 'oomp_key_full': 'oomp_footprint_alexisvl_conn_fci_conn_10118194_0001lf_fci_1f39fa', 'oomp_key_simple': 'alexisvl_conn_fci_conn_10118194_0001lf_fci', 'original_filename': 'data/oomlout_oomp_footprint_src/kicad-pcblib/conn-fci.pretty/CONN-10118194-0001LF-FCI.kicad_mod', 'owner_name': 'alexisvl'} |  
 | oomp_key | oomp_alexisvl_conn_fci_conn_10118194_0001lf_fci |  
 | oomp_key_full | oomp_footprint_alexisvl_conn_fci_conn_10118194_0001lf_fci |  
 | oomp_key_simple | alexisvl_conn_fci_conn_10118194_0001lf_fci |  

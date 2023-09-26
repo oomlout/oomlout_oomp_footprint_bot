@@ -1,0 +1,37 @@
+- file: data/oomlout_oomp_footprint_src/kicad-footprints/Connector_PCBEdge.pretty/JAE_MM60-EZH059-Bx_BUS_PCI_Express_Holder.kicad_mod
+  footprint:
+    description: PCI Express mini card latch for 5.9mm connector height, https://www.jae.com/direct/topics/topics_file_download/topics_id=68910&ext_no=06&index=0&_lang=en&v=
+    libraryLink: JAE_MM60-EZH059-Bx_BUS_PCI_Express_Holder
+    number_of_pads: 8
+  footprint_library_directory: footprint_library_owner/kicad-legacy_kicad-footprints
+  footprint_library_directory_flat: tmp/data/oomlout_oomp_footprint_src/footprints_flat/kicad_legacy_connector_pcbedge_jae_mm60_ezh059_bx_bus_pci_express_holder/working
+  github_path: http://github.com/kicad-legacy/kicad-footprints/blob/master/tmp/data/oomlout_oomp_footprint_src/Connector_PCBEdge.pretty/JAE_MM60-EZH059-Bx_BUS_PCI_Express_Holder.kicad_mod
+  links:
+    github_src: http://gitlab.com/kicad-legacy/kicad-footprints/blob/master/tmp/data/oomlout_oomp_footprint_src/Connector_PCBEdge.pretty/Samtec_MECF-70-0_-NP-L-DV_2x70_P1.27mm_Edge.kicad_mod
+    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
+    oomp_bot: tmp/data/oomlout_oomp_footprint_src/footprints/kicad_legacy_connector_pcbedge_jae_mm60_ezh059_bx_bus_pci_express_holder/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/kicad_legacy_connector_pcbedge_jae_mm60_ezh059_bx_bus_pci_express_holder/working
+    oomp_src_flat: footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/kicad_legacy_connector_pcbedge_jae_mm60_ezh059_bx_bus_pci_express_holder/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/kicad_legacy_connector_pcbedge_jae_mm60_ezh059_bx_bus_pci_express_holder/working
+  name: kicad-footprints
+  oomp:
+    footprint_name: jae_mm60_ezh059_bx_bus_pci_express_holder
+    library_name: connector_pcbedge
+    md5: 9cdb09ea953da77f1434a1d9dfb210c9
+    md5_10: 9cdb09ea95
+    md5_5: 9cdb0
+    md5_6: 9cdb09
+    oomp_key: oomp_kicad_legacy_connector_pcbedge_jae_mm60_ezh059_bx_bus_pci_express_holder
+    oomp_key_extra: oomp_footprint_kicad_legacy_connector_pcbedge_jae_mm60_ezh059_bx_bus_pci_express_holder
+    oomp_key_full: oomp_footprint_kicad_legacy_connector_pcbedge_jae_mm60_ezh059_bx_bus_pci_express_holder_9cdb09
+    oomp_key_simple: kicad_legacy_connector_pcbedge_jae_mm60_ezh059_bx_bus_pci_express_holder
+    original_filename: data/oomlout_oomp_footprint_src/kicad-footprints/Connector_PCBEdge.pretty/JAE_MM60-EZH059-Bx_BUS_PCI_Express_Holder.kicad_mod
+    owner_name: kicad_legacy
+  oomp_key: oomp_kicad_legacy_connector_pcbedge_jae_mm60_ezh059_bx_bus_pci_express_holder
+  oomp_key_full: oomp_footprint_kicad_legacy_connector_pcbedge_jae_mm60_ezh059_bx_bus_pci_express_holder
+  oomp_key_simple: kicad_legacy_connector_pcbedge_jae_mm60_ezh059_bx_bus_pci_express_holder
+  owner: kicad-legacy
+  repo:
+    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
+    message: Not Found
+  url: http://github.com/kicad-legacy/kicad-footprints

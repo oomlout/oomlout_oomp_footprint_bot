@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://github.com/alexisvl/kicad-pcblib  
 The original footprint can be found at:
-http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data//oomlout_oomp_footprint_src/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod
+http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data/oomlout_oomp_footprint_src/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: Capacitor,wire-rect.,Chip;6.73mm L X 2.86mm W X 3.17mm H  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/kicad-pcblib/IPC7351-Least.pretty/CAPCWR6729X317.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/kicad-pcblib/IPC7351-Least.pretty/CAPCWR6729X317.kicad_mod |  
 | footprint | {'description': 'Capacitor,wire-rect.,Chip;6.73mm L X 2.86mm W X 3.17mm H', 'libraryLink': 'CAPCWR6729X317', 'number_of_pads': 2} |  
 | footprint_library_directory | footprint_library_owner/cpavlina_kicad-pcblib |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/alexisvl_ipc7351_least_capcwr6729x317/working |  
-| github_path | http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data//oomlout_oomp_footprint_src/IPC7351-Least.pretty/CAPCWR6729X317.kicad_mod |  
-| links | {'github_owner': 'alexisvl', 'github_repo_name': 'kicad-pcblib', 'github_src': 'http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data//oomlout_oomp_footprint_src/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod', 'github_src_repo': 'https://github.com/alexisvl/kicad-pcblib', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/alexisvl_ipc7351_least_capcwr6729x317/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/alexisvl_ipc7351_least_capcwr6729x317/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/alexisvl_ipc7351_least_capcwr6729x317/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/alexisvl_ipc7351_least_capcwr6729x317/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/alexisvl_ipc7351_least_capcwr6729x317/working |  
+| github_path | http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data/oomlout_oomp_footprint_src/IPC7351-Least.pretty/CAPCWR6729X317.kicad_mod |  
+| links | {'github_owner': 'alexisvl', 'github_repo_name': 'kicad-pcblib', 'github_src': 'http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data/oomlout_oomp_footprint_src/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod', 'github_src_repo': 'https://github.com/alexisvl/kicad-pcblib', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/alexisvl_ipc7351_least_capcwr6729x317/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/alexisvl_ipc7351_least_capcwr6729x317/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/alexisvl_ipc7351_least_capcwr6729x317/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/alexisvl_ipc7351_least_capcwr6729x317/working'} |  
 | name | kicad-pcblib |  
-| oomp | {'footprint_name': 'capcwr6729x317', 'library_name': 'ipc7351_least', 'md5': '18d0c7e87e680090f4563b1a442313ca', 'md5_10': '18d0c7e87e', 'md5_5': '18d0c', 'md5_6': '18d0c7', 'oomp_key': 'oomp_alexisvl_ipc7351_least_capcwr6729x317', 'oomp_key_extra': 'oomp_footprint_alexisvl_ipc7351_least_capcwr6729x317', 'oomp_key_full': 'oomp_footprint_alexisvl_ipc7351_least_capcwr6729x317_18d0c7', 'oomp_key_simple': 'alexisvl_ipc7351_least_capcwr6729x317', 'original_filename': 'data//oomlout_oomp_footprint_src/kicad-pcblib/IPC7351-Least.pretty/CAPCWR6729X317.kicad_mod', 'owner_name': 'alexisvl'} |  
+| oomp | {'footprint_name': 'capcwr6729x317', 'library_name': 'ipc7351_least', 'md5': '18d0c7e87e680090f4563b1a442313ca', 'md5_10': '18d0c7e87e', 'md5_5': '18d0c', 'md5_6': '18d0c7', 'oomp_key': 'oomp_alexisvl_ipc7351_least_capcwr6729x317', 'oomp_key_extra': 'oomp_footprint_alexisvl_ipc7351_least_capcwr6729x317', 'oomp_key_full': 'oomp_footprint_alexisvl_ipc7351_least_capcwr6729x317_18d0c7', 'oomp_key_simple': 'alexisvl_ipc7351_least_capcwr6729x317', 'original_filename': 'data/oomlout_oomp_footprint_src/kicad-pcblib/IPC7351-Least.pretty/CAPCWR6729X317.kicad_mod', 'owner_name': 'alexisvl'} |  
 | oomp_key | oomp_alexisvl_ipc7351_least_capcwr6729x317 |  
 | oomp_key_full | oomp_footprint_alexisvl_ipc7351_least_capcwr6729x317 |  
 | oomp_key_simple | alexisvl_ipc7351_least_capcwr6729x317 |  

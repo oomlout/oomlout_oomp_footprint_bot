@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://github.com/dragonmux/rhais_cherry.pretty  
 The original footprint can be found at:
-http://github.com/dragonmux/rhais_cherry.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/MX_STABILISER.kicad_mod
+http://github.com/dragonmux/rhais_cherry.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/MX_STABILISER.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: None  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/rhais_cherry.pretty/MX_KEY_NORM.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/rhais_cherry.pretty/MX_KEY_NORM.kicad_mod |  
 | footprint | {'description': None, 'libraryLink': 'MX_KEY_NORM', 'number_of_pads': 5} |  
 | footprint_library_directory | footprint_library_owner/dragonmux_rhais_cherry.pretty |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/dragonmux_rhais_cherry_mx_key_norm/working |  
-| github_path | http://github.com/dragonmux/rhais_cherry.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/MX_KEY_NORM.kicad_mod |  
-| links | {'github_owner': 'dragonmux', 'github_repo_name': 'rhais_cherry.pretty', 'github_src': 'http://github.com/dragonmux/rhais_cherry.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/MX_STABILISER.kicad_mod', 'github_src_repo': 'https://github.com/dragonmux/rhais_cherry.pretty', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/dragonmux_rhais_cherry_mx_key_norm/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/dragonmux_rhais_cherry_mx_key_norm/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/dragonmux_rhais_cherry_mx_key_norm/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/dragonmux_rhais_cherry_mx_key_norm/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/dragonmux_rhais_cherry_mx_key_norm/working |  
+| github_path | http://github.com/dragonmux/rhais_cherry.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/MX_KEY_NORM.kicad_mod |  
+| links | {'github_owner': 'dragonmux', 'github_repo_name': 'rhais_cherry.pretty', 'github_src': 'http://github.com/dragonmux/rhais_cherry.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/MX_STABILISER.kicad_mod', 'github_src_repo': 'https://github.com/dragonmux/rhais_cherry.pretty', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/dragonmux_rhais_cherry_mx_key_norm/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/dragonmux_rhais_cherry_mx_key_norm/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/dragonmux_rhais_cherry_mx_key_norm/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/dragonmux_rhais_cherry_mx_key_norm/working'} |  
 | name | rhais_cherry.pretty |  
-| oomp | {'footprint_name': 'mx_key_norm', 'library_name': 'rhais_cherry', 'md5': '3f2e094a7b6296a51d8b9450dd4ad598', 'md5_10': '3f2e094a7b', 'md5_5': '3f2e0', 'md5_6': '3f2e09', 'oomp_key': 'oomp_dragonmux_rhais_cherry_mx_key_norm', 'oomp_key_extra': 'oomp_footprint_dragonmux_rhais_cherry_mx_key_norm', 'oomp_key_full': 'oomp_footprint_dragonmux_rhais_cherry_mx_key_norm_3f2e09', 'oomp_key_simple': 'dragonmux_rhais_cherry_mx_key_norm', 'original_filename': 'data//oomlout_oomp_footprint_src/rhais_cherry.pretty/MX_KEY_NORM.kicad_mod', 'owner_name': 'dragonmux'} |  
+| oomp | {'footprint_name': 'mx_key_norm', 'library_name': 'rhais_cherry', 'md5': '3f2e094a7b6296a51d8b9450dd4ad598', 'md5_10': '3f2e094a7b', 'md5_5': '3f2e0', 'md5_6': '3f2e09', 'oomp_key': 'oomp_dragonmux_rhais_cherry_mx_key_norm', 'oomp_key_extra': 'oomp_footprint_dragonmux_rhais_cherry_mx_key_norm', 'oomp_key_full': 'oomp_footprint_dragonmux_rhais_cherry_mx_key_norm_3f2e09', 'oomp_key_simple': 'dragonmux_rhais_cherry_mx_key_norm', 'original_filename': 'data/oomlout_oomp_footprint_src/rhais_cherry.pretty/MX_KEY_NORM.kicad_mod', 'owner_name': 'dragonmux'} |  
 | oomp_key | oomp_dragonmux_rhais_cherry_mx_key_norm |  
 | oomp_key_full | oomp_footprint_dragonmux_rhais_cherry_mx_key_norm |  
 | oomp_key_simple | dragonmux_rhais_cherry_mx_key_norm |  

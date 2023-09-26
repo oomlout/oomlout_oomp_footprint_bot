@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://github.com/dchwebb/Custom_Footprints.pretty  
 The original footprint can be found at:
-http://github.com/dchwebb/Custom_Footprints.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Wurth_2.4GHz_Filter_2.5mm_2.0mm.kicad_mod
+http://github.com/dchwebb/Custom_Footprints.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/Wurth_2.4GHz_Filter_2.5mm_2.0mm.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: 8 Pol Shallow Latch Connector, Modjack, RJ45 (https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/c-bmj-0102.pdf)  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/Custom_Footprints.pretty/RJ45_Amphenol_Style.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/Custom_Footprints.pretty/RJ45_Amphenol_Style.kicad_mod |  
 | footprint | {'description': '8 Pol Shallow Latch Connector, Modjack, RJ45 (https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/c-bmj-0102.pdf)', 'libraryLink': 'RJ45_Amphenol_Style', 'number_of_pads': 12} |  
 | footprint_library_directory | footprint_library_owner/dchwebb_Custom_Footprints.pretty |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/dchwebb_custom_footprints_rj45_amphenol_style/working |  
-| github_path | http://github.com/dchwebb/Custom_Footprints.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/RJ45_Amphenol_Style.kicad_mod |  
-| links | {'github_owner': 'dchwebb', 'github_repo_name': 'Custom_Footprints.pretty', 'github_src': 'http://github.com/dchwebb/Custom_Footprints.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Wurth_2.4GHz_Filter_2.5mm_2.0mm.kicad_mod', 'github_src_repo': 'https://github.com/dchwebb/Custom_Footprints.pretty', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/dchwebb_custom_footprints_rj45_amphenol_style/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/dchwebb_custom_footprints_rj45_amphenol_style/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/dchwebb_custom_footprints_rj45_amphenol_style/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/dchwebb_custom_footprints_rj45_amphenol_style/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/dchwebb_custom_footprints_rj45_amphenol_style/working |  
+| github_path | http://github.com/dchwebb/Custom_Footprints.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/RJ45_Amphenol_Style.kicad_mod |  
+| links | {'github_owner': 'dchwebb', 'github_repo_name': 'Custom_Footprints.pretty', 'github_src': 'http://github.com/dchwebb/Custom_Footprints.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/Wurth_2.4GHz_Filter_2.5mm_2.0mm.kicad_mod', 'github_src_repo': 'https://github.com/dchwebb/Custom_Footprints.pretty', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/dchwebb_custom_footprints_rj45_amphenol_style/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/dchwebb_custom_footprints_rj45_amphenol_style/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/dchwebb_custom_footprints_rj45_amphenol_style/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/dchwebb_custom_footprints_rj45_amphenol_style/working'} |  
 | name | Custom_Footprints.pretty |  
-| oomp | {'footprint_name': 'rj45_amphenol_style', 'library_name': 'custom_footprints', 'md5': '37e129c11442e7f48510b201209766e0', 'md5_10': '37e129c114', 'md5_5': '37e12', 'md5_6': '37e129', 'oomp_key': 'oomp_dchwebb_custom_footprints_rj45_amphenol_style', 'oomp_key_extra': 'oomp_footprint_dchwebb_custom_footprints_rj45_amphenol_style', 'oomp_key_full': 'oomp_footprint_dchwebb_custom_footprints_rj45_amphenol_style_37e129', 'oomp_key_simple': 'dchwebb_custom_footprints_rj45_amphenol_style', 'original_filename': 'data//oomlout_oomp_footprint_src/Custom_Footprints.pretty/RJ45_Amphenol_Style.kicad_mod', 'owner_name': 'dchwebb'} |  
+| oomp | {'footprint_name': 'rj45_amphenol_style', 'library_name': 'custom_footprints', 'md5': '37e129c11442e7f48510b201209766e0', 'md5_10': '37e129c114', 'md5_5': '37e12', 'md5_6': '37e129', 'oomp_key': 'oomp_dchwebb_custom_footprints_rj45_amphenol_style', 'oomp_key_extra': 'oomp_footprint_dchwebb_custom_footprints_rj45_amphenol_style', 'oomp_key_full': 'oomp_footprint_dchwebb_custom_footprints_rj45_amphenol_style_37e129', 'oomp_key_simple': 'dchwebb_custom_footprints_rj45_amphenol_style', 'original_filename': 'data/oomlout_oomp_footprint_src/Custom_Footprints.pretty/RJ45_Amphenol_Style.kicad_mod', 'owner_name': 'dchwebb'} |  
 | oomp_key | oomp_dchwebb_custom_footprints_rj45_amphenol_style |  
 | oomp_key_full | oomp_footprint_dchwebb_custom_footprints_rj45_amphenol_style |  
 | oomp_key_simple | dchwebb_custom_footprints_rj45_amphenol_style |  

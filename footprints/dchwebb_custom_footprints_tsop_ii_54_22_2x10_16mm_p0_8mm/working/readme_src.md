@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://github.com/dchwebb/Custom_Footprints.pretty  
 The original footprint can be found at:
-http://github.com/dchwebb/Custom_Footprints.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Wurth_2.4GHz_Filter_2.5mm_2.0mm.kicad_mod
+http://github.com/dchwebb/Custom_Footprints.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/Wurth_2.4GHz_Filter_2.5mm_2.0mm.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: 54-lead TSOP typ II package  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/Custom_Footprints.pretty/TSOP-II-54_22.2x10.16mm_P0.8mm.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/Custom_Footprints.pretty/TSOP-II-54_22.2x10.16mm_P0.8mm.kicad_mod |  
 | footprint | {'description': '54-lead TSOP typ II package', 'libraryLink': 'TSOP-II-54_22.2x10.16mm_P0.8mm', 'number_of_pads': 54} |  
 | footprint_library_directory | footprint_library_owner/dchwebb_Custom_Footprints.pretty |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/dchwebb_custom_footprints_tsop_ii_54_22_2x10_16mm_p0_8mm/working |  
-| github_path | http://github.com/dchwebb/Custom_Footprints.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/TSOP-II-54_22.2x10.16mm_P0.8mm.kicad_mod |  
-| links | {'github_owner': 'dchwebb', 'github_repo_name': 'Custom_Footprints.pretty', 'github_src': 'http://github.com/dchwebb/Custom_Footprints.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Wurth_2.4GHz_Filter_2.5mm_2.0mm.kicad_mod', 'github_src_repo': 'https://github.com/dchwebb/Custom_Footprints.pretty', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/dchwebb_custom_footprints_tsop_ii_54_22_2x10_16mm_p0_8mm/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/dchwebb_custom_footprints_tsop_ii_54_22_2x10_16mm_p0_8mm/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/dchwebb_custom_footprints_tsop_ii_54_22_2x10_16mm_p0_8mm/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/dchwebb_custom_footprints_tsop_ii_54_22_2x10_16mm_p0_8mm/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/dchwebb_custom_footprints_tsop_ii_54_22_2x10_16mm_p0_8mm/working |  
+| github_path | http://github.com/dchwebb/Custom_Footprints.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/TSOP-II-54_22.2x10.16mm_P0.8mm.kicad_mod |  
+| links | {'github_owner': 'dchwebb', 'github_repo_name': 'Custom_Footprints.pretty', 'github_src': 'http://github.com/dchwebb/Custom_Footprints.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/Wurth_2.4GHz_Filter_2.5mm_2.0mm.kicad_mod', 'github_src_repo': 'https://github.com/dchwebb/Custom_Footprints.pretty', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/dchwebb_custom_footprints_tsop_ii_54_22_2x10_16mm_p0_8mm/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/dchwebb_custom_footprints_tsop_ii_54_22_2x10_16mm_p0_8mm/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/dchwebb_custom_footprints_tsop_ii_54_22_2x10_16mm_p0_8mm/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/dchwebb_custom_footprints_tsop_ii_54_22_2x10_16mm_p0_8mm/working'} |  
 | name | Custom_Footprints.pretty |  
-| oomp | {'footprint_name': 'tsop_ii_54_22_2x10_16mm_p0_8mm', 'library_name': 'custom_footprints', 'md5': 'b3b3030af8482b2b7e3e7b2036f7c576', 'md5_10': 'b3b3030af8', 'md5_5': 'b3b30', 'md5_6': 'b3b303', 'oomp_key': 'oomp_dchwebb_custom_footprints_tsop_ii_54_22_2x10_16mm_p0_8mm', 'oomp_key_extra': 'oomp_footprint_dchwebb_custom_footprints_tsop_ii_54_22_2x10_16mm_p0_8mm', 'oomp_key_full': 'oomp_footprint_dchwebb_custom_footprints_tsop_ii_54_22_2x10_16mm_p0_8mm_b3b303', 'oomp_key_simple': 'dchwebb_custom_footprints_tsop_ii_54_22_2x10_16mm_p0_8mm', 'original_filename': 'data//oomlout_oomp_footprint_src/Custom_Footprints.pretty/TSOP-II-54_22.2x10.16mm_P0.8mm.kicad_mod', 'owner_name': 'dchwebb'} |  
+| oomp | {'footprint_name': 'tsop_ii_54_22_2x10_16mm_p0_8mm', 'library_name': 'custom_footprints', 'md5': 'b3b3030af8482b2b7e3e7b2036f7c576', 'md5_10': 'b3b3030af8', 'md5_5': 'b3b30', 'md5_6': 'b3b303', 'oomp_key': 'oomp_dchwebb_custom_footprints_tsop_ii_54_22_2x10_16mm_p0_8mm', 'oomp_key_extra': 'oomp_footprint_dchwebb_custom_footprints_tsop_ii_54_22_2x10_16mm_p0_8mm', 'oomp_key_full': 'oomp_footprint_dchwebb_custom_footprints_tsop_ii_54_22_2x10_16mm_p0_8mm_b3b303', 'oomp_key_simple': 'dchwebb_custom_footprints_tsop_ii_54_22_2x10_16mm_p0_8mm', 'original_filename': 'data/oomlout_oomp_footprint_src/Custom_Footprints.pretty/TSOP-II-54_22.2x10.16mm_P0.8mm.kicad_mod', 'owner_name': 'dchwebb'} |  
 | oomp_key | oomp_dchwebb_custom_footprints_tsop_ii_54_22_2x10_16mm_p0_8mm |  
 | oomp_key_full | oomp_footprint_dchwebb_custom_footprints_tsop_ii_54_22_2x10_16mm_p0_8mm |  
 | oomp_key_simple | dchwebb_custom_footprints_tsop_ii_54_22_2x10_16mm_p0_8mm |  

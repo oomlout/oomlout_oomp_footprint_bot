@@ -3,7 +3,7 @@ This is a harvested standardized copy of a footprint from github.
 The original project can be found at:  
 https://github.com/alexisvl/kicad-pcblib  
 The original footprint can be found at:
-http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data//oomlout_oomp_footprint_src/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod
+http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data/oomlout_oomp_footprint_src/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
 * description: None  
@@ -12,14 +12,14 @@ Please consult that link for additional, details, files, and license information
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | data//oomlout_oomp_footprint_src/kicad-pcblib/manuf.pretty/CONN-TE-1612618-4.kicad_mod |  
+| file | data/oomlout_oomp_footprint_src/kicad-pcblib/manuf.pretty/CONN-TE-1612618-4.kicad_mod |  
 | footprint | {'description': None, 'libraryLink': 'CONN-TE-1612618-4', 'number_of_pads': 204} |  
 | footprint_library_directory | footprint_library_owner/cpavlina_kicad-pcblib |  
-| footprint_library_directory_flat | tmp/data//oomlout_oomp_footprint_src/footprints_flat/alexisvl_manuf_conn_te_1612618_4/working |  
-| github_path | http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data//oomlout_oomp_footprint_src/manuf.pretty/CONN-TE-1612618-4.kicad_mod |  
-| links | {'github_owner': 'alexisvl', 'github_repo_name': 'kicad-pcblib', 'github_src': 'http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data//oomlout_oomp_footprint_src/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod', 'github_src_repo': 'https://github.com/alexisvl/kicad-pcblib', 'oomp_bot': 'tmp/data//oomlout_oomp_footprint_src/footprints/alexisvl_manuf_conn_te_1612618_4/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/alexisvl_manuf_conn_te_1612618_4/working', 'oomp_src_flat': 'footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/alexisvl_manuf_conn_te_1612618_4/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/alexisvl_manuf_conn_te_1612618_4/working'} |  
+| footprint_library_directory_flat | tmp/data/oomlout_oomp_footprint_src/footprints_flat/alexisvl_manuf_conn_te_1612618_4/working |  
+| github_path | http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data/oomlout_oomp_footprint_src/manuf.pretty/CONN-TE-1612618-4.kicad_mod |  
+| links | {'github_owner': 'alexisvl', 'github_repo_name': 'kicad-pcblib', 'github_src': 'http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data/oomlout_oomp_footprint_src/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod', 'github_src_repo': 'https://github.com/alexisvl/kicad-pcblib', 'oomp_bot': 'tmp/data/oomlout_oomp_footprint_src/footprints/alexisvl_manuf_conn_te_1612618_4/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/alexisvl_manuf_conn_te_1612618_4/working', 'oomp_src_flat': 'footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/alexisvl_manuf_conn_te_1612618_4/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/alexisvl_manuf_conn_te_1612618_4/working'} |  
 | name | kicad-pcblib |  
-| oomp | {'footprint_name': 'conn_te_1612618_4', 'library_name': 'manuf', 'md5': 'd8cd019b628686a3d2528ed78e04167f', 'md5_10': 'd8cd019b62', 'md5_5': 'd8cd0', 'md5_6': 'd8cd01', 'oomp_key': 'oomp_alexisvl_manuf_conn_te_1612618_4', 'oomp_key_extra': 'oomp_footprint_alexisvl_manuf_conn_te_1612618_4', 'oomp_key_full': 'oomp_footprint_alexisvl_manuf_conn_te_1612618_4_d8cd01', 'oomp_key_simple': 'alexisvl_manuf_conn_te_1612618_4', 'original_filename': 'data//oomlout_oomp_footprint_src/kicad-pcblib/manuf.pretty/CONN-TE-1612618-4.kicad_mod', 'owner_name': 'alexisvl'} |  
+| oomp | {'footprint_name': 'conn_te_1612618_4', 'library_name': 'manuf', 'md5': 'd8cd019b628686a3d2528ed78e04167f', 'md5_10': 'd8cd019b62', 'md5_5': 'd8cd0', 'md5_6': 'd8cd01', 'oomp_key': 'oomp_alexisvl_manuf_conn_te_1612618_4', 'oomp_key_extra': 'oomp_footprint_alexisvl_manuf_conn_te_1612618_4', 'oomp_key_full': 'oomp_footprint_alexisvl_manuf_conn_te_1612618_4_d8cd01', 'oomp_key_simple': 'alexisvl_manuf_conn_te_1612618_4', 'original_filename': 'data/oomlout_oomp_footprint_src/kicad-pcblib/manuf.pretty/CONN-TE-1612618-4.kicad_mod', 'owner_name': 'alexisvl'} |  
 | oomp_key | oomp_alexisvl_manuf_conn_te_1612618_4 |  
 | oomp_key_full | oomp_footprint_alexisvl_manuf_conn_te_1612618_4 |  
 | oomp_key_simple | alexisvl_manuf_conn_te_1612618_4 |  
