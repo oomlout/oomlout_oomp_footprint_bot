@@ -18,27 +18,6 @@ def go_through_directories(**kwargs):
                 #file = "working.kicad_mod"
                 if file.endswith(".kicad_mod"):
                     filename = os.path.join(root, name, file)
-                    #test
-                    #filename = "footprints/alexisvl_ipc7351_least_qfn50p900x900x100_65c/working/working.kicad_mod"
-                    #filter = "kicayyyyyC:\GH\oomlout_oomp_footprint_bot\footprints\alexisvl_ipc7351_least_qfn50p800x800x80_49w\working\working.pdf
-                    # yd_libraries_kicad"
-                    
-                    #filter = "footprints\\krrr
-                    # rrrrrrr
-                    # icad_connector"
-                    #filter = "footprints\\kicad_led"
-                    #filter = "oomlout"
-                    #filter = "footprints\\kicad_resistor"
-                    #filter = "footprints\\kicad_button"
-                    #filter = "footprints\\kicad_package"
-                    #filter = "footprints\\esden_pkl_led_led_tri_1010"
-                    #filter = "footprints\\kicad_"
-                    #filter = "footprints\\oomlout_"
-                    filter = "oomp_footprint_template"
-                    #filter = "footprints\\kicad_mountinghole"
-
-                    #filter = ""C:\GH\oomlout_oomp_footprint_bot\footprints\alexisvl_ipc7351_least_qfn50p800x800x80_53w4\working\working.pdf
-                    #if filter isn't an array make it one
                     if not isinstance(filter, list):
                         filter = [filter]
                                     

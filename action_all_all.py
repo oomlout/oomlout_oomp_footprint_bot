@@ -31,7 +31,9 @@ def main(**kwargs):
 
     ###### load into kwargs
     directory = "tmp/data/oomlout_oomp_footprint_src"
-    all = False#if repo and repofilter both equal [""] then all is true
+    #all = False#if repo and repofilter both equal [""] then all is true
+    all = True
+    #if repo and repofilter both equal [""] then all is true
     if repo_filter == [""] and filter == [""]:
         print("repo_filter and filter both equal [''] so all is true")
         all = True
