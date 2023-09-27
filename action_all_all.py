@@ -12,11 +12,11 @@ def main(**kwargs):
     
     
     #### run settings
-    #repo_filter = "oomlout"
-    repo_filter = ""
+    repo_filter = "oomlout"
+    #repo_filter = ""
     
-    #filter = "oomlout"
-    filter = ""
+    filter = "oomlout"
+    #filter = ""
     
     #git = False
     git = True
