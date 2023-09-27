@@ -65,5 +65,7 @@ def go_through_directories(**kwargs):
 
 
 if __name__ == '__main__':
+    kwargs = {}
+    kwargs["filter"] = ["oomlout"]
     go_through_directories(**kwargs)
     
