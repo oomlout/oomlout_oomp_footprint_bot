@@ -1,0 +1,37 @@
+- file: data/oomlout_oomp_footprint_src/kicad-footprints/Sensor.pretty/ASAIR_AM2302_P2.54mm_Vertical.kicad_mod
+  footprint:
+    description: Temperature and humidity module, http://www.aosong.com/en/products-22.html
+    libraryLink: ASAIR_AM2302_P2.54mm_Vertical
+    number_of_pads: 4
+  footprint_library_directory: footprint_library_owner/kicad-legacy_kicad-footprints
+  footprint_library_directory_flat: tmp/data/oomlout_oomp_footprint_src/footprints_flat/kicad_legacy_sensor_asair_am2302_p2_54mm_vertical/working
+  github_path: http://github.com/kicad-legacy/kicad-footprints/blob/master/tmp/data/oomlout_oomp_footprint_src/Sensor.pretty/ASAIR_AM2302_P2.54mm_Vertical.kicad_mod
+  links:
+    github_src: http://gitlab.com/kicad-legacy/kicad-footprints/blob/master/tmp/data/oomlout_oomp_footprint_src/Sensor.pretty/Winson_GM-402B_5x5mm_P1.27mm.kicad_mod
+    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
+    oomp_bot: tmp/data/oomlout_oomp_footprint_src/footprints/kicad_legacy_sensor_asair_am2302_p2_54mm_vertical/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/kicad_legacy_sensor_asair_am2302_p2_54mm_vertical/working
+    oomp_src_flat: footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/kicad_legacy_sensor_asair_am2302_p2_54mm_vertical/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/kicad_legacy_sensor_asair_am2302_p2_54mm_vertical/working
+  name: kicad-footprints
+  oomp:
+    footprint_name: asair_am2302_p2_54mm_vertical
+    library_name: sensor
+    md5: bb0e33503edf911543eaca451567d56a
+    md5_10: bb0e33503e
+    md5_5: bb0e3
+    md5_6: bb0e33
+    oomp_key: oomp_kicad_legacy_sensor_asair_am2302_p2_54mm_vertical
+    oomp_key_extra: oomp_footprint_kicad_legacy_sensor_asair_am2302_p2_54mm_vertical
+    oomp_key_full: oomp_footprint_kicad_legacy_sensor_asair_am2302_p2_54mm_vertical_bb0e33
+    oomp_key_simple: kicad_legacy_sensor_asair_am2302_p2_54mm_vertical
+    original_filename: data/oomlout_oomp_footprint_src/kicad-footprints/Sensor.pretty/ASAIR_AM2302_P2.54mm_Vertical.kicad_mod
+    owner_name: kicad_legacy
+  oomp_key: oomp_kicad_legacy_sensor_asair_am2302_p2_54mm_vertical
+  oomp_key_full: oomp_footprint_kicad_legacy_sensor_asair_am2302_p2_54mm_vertical
+  oomp_key_simple: kicad_legacy_sensor_asair_am2302_p2_54mm_vertical
+  owner: kicad-legacy
+  repo:
+    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
+    message: Not Found
+  url: http://github.com/kicad-legacy/kicad-footprints

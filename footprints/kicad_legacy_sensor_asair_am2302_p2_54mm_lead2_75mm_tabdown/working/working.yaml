@@ -1,0 +1,37 @@
+- file: data/oomlout_oomp_footprint_src/kicad-footprints/Sensor.pretty/ASAIR_AM2302_P2.54mm_Lead2.75mm_TabDown.kicad_mod
+  footprint:
+    description: Temperature and humidity module, http://www.aosong.com/en/products-22.html
+    libraryLink: ASAIR_AM2302_P2.54mm_Lead2.75mm_TabDown
+    number_of_pads: 5
+  footprint_library_directory: footprint_library_owner/kicad-legacy_kicad-footprints
+  footprint_library_directory_flat: tmp/data/oomlout_oomp_footprint_src/footprints_flat/kicad_legacy_sensor_asair_am2302_p2_54mm_lead2_75mm_tabdown/working
+  github_path: http://github.com/kicad-legacy/kicad-footprints/blob/master/tmp/data/oomlout_oomp_footprint_src/Sensor.pretty/ASAIR_AM2302_P2.54mm_Lead2.75mm_TabDown.kicad_mod
+  links:
+    github_src: http://gitlab.com/kicad-legacy/kicad-footprints/blob/master/tmp/data/oomlout_oomp_footprint_src/Sensor.pretty/Winson_GM-402B_5x5mm_P1.27mm.kicad_mod
+    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
+    oomp_bot: tmp/data/oomlout_oomp_footprint_src/footprints/kicad_legacy_sensor_asair_am2302_p2_54mm_lead2_75mm_tabdown/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/kicad_legacy_sensor_asair_am2302_p2_54mm_lead2_75mm_tabdown/working
+    oomp_src_flat: footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/kicad_legacy_sensor_asair_am2302_p2_54mm_lead2_75mm_tabdown/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/kicad_legacy_sensor_asair_am2302_p2_54mm_lead2_75mm_tabdown/working
+  name: kicad-footprints
+  oomp:
+    footprint_name: asair_am2302_p2_54mm_lead2_75mm_tabdown
+    library_name: sensor
+    md5: cb805c4d37d5dbcba0667925eb3ea7ae
+    md5_10: cb805c4d37
+    md5_5: cb805
+    md5_6: cb805c
+    oomp_key: oomp_kicad_legacy_sensor_asair_am2302_p2_54mm_lead2_75mm_tabdown
+    oomp_key_extra: oomp_footprint_kicad_legacy_sensor_asair_am2302_p2_54mm_lead2_75mm_tabdown
+    oomp_key_full: oomp_footprint_kicad_legacy_sensor_asair_am2302_p2_54mm_lead2_75mm_tabdown_cb805c
+    oomp_key_simple: kicad_legacy_sensor_asair_am2302_p2_54mm_lead2_75mm_tabdown
+    original_filename: data/oomlout_oomp_footprint_src/kicad-footprints/Sensor.pretty/ASAIR_AM2302_P2.54mm_Lead2.75mm_TabDown.kicad_mod
+    owner_name: kicad_legacy
+  oomp_key: oomp_kicad_legacy_sensor_asair_am2302_p2_54mm_lead2_75mm_tabdown
+  oomp_key_full: oomp_footprint_kicad_legacy_sensor_asair_am2302_p2_54mm_lead2_75mm_tabdown
+  oomp_key_simple: kicad_legacy_sensor_asair_am2302_p2_54mm_lead2_75mm_tabdown
+  owner: kicad-legacy
+  repo:
+    documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
+    message: Not Found
+  url: http://github.com/kicad-legacy/kicad-footprints
