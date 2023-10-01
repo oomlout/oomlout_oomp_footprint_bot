@@ -15,7 +15,7 @@ def main(**kwargs):
     repo_filter = "oomlout"
     #repo_filter = ""
     
-    filter = "oomlout"
+    filter = "oomp"
     #filter = ""
     
     #git = False
