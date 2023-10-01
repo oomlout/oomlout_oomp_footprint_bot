@@ -15,7 +15,8 @@ def main(**kwargs):
     repo_filter = "oomlout"
     #repo_filter = ""
     
-    filter = "oomp"
+    filter = "oomp" #might need to be in the footprint name alone
+    
     #filter = ""
     
     #git = False
