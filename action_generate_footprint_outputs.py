@@ -46,6 +46,7 @@ def go_through_directories(**kwargs):
 
 if __name__ == '__main__':
     kwargs = {}
-    kwargs["filter"] = ["oomlout"]
+    #kwargs["filter"] = ["oomlout"]
+    kwargs["filter"] = [""]
     go_through_directories(**kwargs)
     
